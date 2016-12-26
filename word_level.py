@@ -35,10 +35,10 @@ def lematization(words):
 		regex_es = r'(ses|zes|xes|oes|shes|ches)$'
 		singulars = ['tooth', 'goose', 'man', 'foot', 'child', 'ox', 'mouse', 'man', 'woman', 'sheep', 'people']
 		plurals = ['teeth', 'geese', 'men', 'feet', 'children', 'oxen', 'mice', 'men', 'women', 'sheep', 'people']
+		zippy = dict(zip(plurals, singulars))
 		for word in words:
 			if word in plurals:
-				for singular, plural in zip(singulars,plurals):
-					lemmas.append(singular)
+				lemmas.append(zippy[word])
 			elif re.search(regex_es, word[-4:]):
 				lemmas.append(word[:-2])
 			elif re.search('ies$',word):
@@ -49,7 +49,7 @@ def lematization(words):
 				lemmas.append(word[:-1])
 			else:
 				None 
-		return(lemmas)
+		return(lemmas)                   
 
 	plur(words)
 	return(lemmas)	
