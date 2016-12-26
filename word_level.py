@@ -67,7 +67,7 @@ def lematization(words):
 			elif re.search('ing$', word[-3:]):	#gerund
 				lemmas.append(word[:-3])
 			elif re.search('ed$', word[-2:]):	#perfect
-				lemmas.append(word[-1])
+				lemmas.append(word[:-2])
 			elif word in past_modals:
 				for modal, past_modal in zip(modals, past_modals):
 					lemmas.append(modal)
