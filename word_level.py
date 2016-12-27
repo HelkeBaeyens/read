@@ -78,8 +78,71 @@ def lematization(words):
 
 			else: None
 		return (lemmas) 
+
+	def prefix(words):
+		regex_pre1 = r'^(a)'
+		regex_pre2 = r'^(un|in|im|re|an|af|al|be|co|ex|en|up)'
+		regex_pre3 = r'^(dis|non|pre|pro|sub|sup|mis)'
+		regex_pre4 = r'^(ante|anti|hemi|hypo|peri|semi|over|post|auto|mega)'
+		regex_pre5 = r'^(extra|hyper|infra|trans|ultra|under|super)'
+		regex_pre6 = r'^(contra)'
+		regex_pre7 = r'^(counter)'
+		for word in words:
+			if re.search(regex_pre7, word):
+				lemmas.append(word[7:])
+			elif re.search(regex_pre6, word):
+				lemmas.append(word[6:])
+			elif re.search(regex_pre5, word):
+				lemmas.append(word[5:])
+			elif re.search(regex_pre4, word):
+				lemmas.append(word[4:])
+			elif re.search(regex_pre3, word):
+				lemmas.append(word[3:])
+			elif re.search(regex_pre2, word):
+				lemmas.append(word[2:])
+			elif re.search(regex_pre1, word):
+				lemmas.append(word[1:])
+			else:
+				None 
+		return (lemmas)
+
+	
+	def suffix (words):	
+		regex_suff1 = r'(y|ly)$'
+		regex_suff2 = r'(ly|er|or|en|al)$'			#make these lines more clear (b sentences aren't going to work)
+		regex_suff2b = r'(al)$'						# isn't it better to just put these in the lines????
+		regex_suff3 = r'(dom|ism|ize|ise|ful|ish|ary|ate|ade)$'
+		regex_suff3b = r'(ity|ive|ary)$'
+		regex_suff4 = r'(ment|ness|ship|less|able|ance)$'
+		regex_suff4b = r'(able)$'
+		regex_suff4c = r'(sion)$'
+		regex_suff5 = r'(ation)$'	#trouble with suffix and prefix in same sentence
+		for word in words:
+			if re.search(regex_suff5, word[-5:]):
+				lemmas.append(word[:-5])
+			elif re.search(regex_suff4, word[-4:]):
+				lemmas.append(word[:-4])
+			elif re.search(regex_suff4b, word[-4:]):
+				lemmas.append(word[:-4] + 'e')
+			elif re.search(regex_suff4c, word[-4:]):
+				lemmas.append(word[:-4] +'de')
+			elif re.search(regex_suff3, word[-3:]):
+				lemmas.append(word[:-3])
+			elif re.search(regex_suff3b, word[-3:]):
+				lemmas.append(word[:-3] + 'e')
+			elif re.search(regex_suff2, word[-2:]):
+				lemmas.append(word[:-2])
+			elif re.search(regex_suff2b,word[-2:]):
+				lemmas.append(word[:-2]+'e')
+			else:
+				None
+		return (lemmas)
+
 	plur(words)
 	verbs(words)
+	prefix(words)
+	suffix(words)
+	suffix(lemmas)
 	return(lemmas)	
 
 def lexicon(dictonary, words, lemmas):
