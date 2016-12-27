@@ -59,18 +59,20 @@ def lematization(words):
 		irr_PPs = ['risen','woken','born','beaten','become','begun','bent','bound','bitten','bound','bet','bitten','bled','blown','broken','bred','brought','built','burnt','bought','cast','caught','chosen','clung','clad','come','cost','crept','cut','dealt','dug','proven','dived','drawn','dreamed','drunk','driven','dwelled','eaten','fallen','fed','felt','fought','found','fit','fled','flung','flown','forbidden','forgotten','forgiven','forsaken','frozen','gotten','given','gone','ground','grown','hung','had','heard','hewn','hidden','hit','held','hurt','inputted','kept','kneeled','knitted','known','laid','led', 'leaned','leaped','learned','left','lent','let','lain','lied','lighted','lost','made','meant','met','mistaken','misunderstood','mown','paid','pleaded','prepaid','proofread','put','quitted','read','relayed','rid','ridden','rung','risen','run','sawn','said','seen','sought','sold','sent','set','sewn','shaken','shaven','shorn','shed','shined','shitted','shot','shown','shrunk','shut','sung','sunk','sat','slayed','slept','slid','slung','slinked','slit','smelled','sneaked','sowed', 'spoken','speeded','spelled','spent','spilled','spun','spat','split','spoiled','spread','sprung','stood','stolen','stuck','stung','stunk','strewed','stridden','stricken','strung','strived','sworn','sweated','swept','swollen','swum','swung','taken','taught','torn','told','thought','thrown','thrust','trodden','woken','worn','weaved','wedded','wept','wetted','whetted','won','wound','withdrawn','withheld','withstood','wrung','written']
 		zippy_SPs = dict(zip(irr_SPs, irr_stems))
 		zippy_PPs = dict(zip(irr_PPs, irr_stems))
+		zippy_modals = dict(zip(past_modals,modals))
 		for word in words:
 			if word in irr_SPs:
 				lemmas.append(zippy_SPs[word])
 			if word in irr_PPs:
 				lemmas.append(zippy_PPs[word])
+			elif re.search('tting', word[-5:]): #doubling with gerunds
+				lemmas.append(word[:-4])
 			elif re.search('ing$', word[-3:]):	#gerund
 				lemmas.append(word[:-3])
 			elif re.search('ed$', word[-2:]):	#perfect
 				lemmas.append(word[:-2])
 			elif word in past_modals:
-				for modal, past_modal in zip(modals, past_modals):
-					lemmas.append(modal)
+				lemmas.append(zippy_modals[word])
 			elif re.search (r'^(am|is|are|was|were|been|being)$', word):
 				lemmas.append('be')
 
