@@ -29,7 +29,6 @@ def load_input(filename):
 	return (words)
 
 def lematization(words):
-	lemmas = [ ]
 	words = list(words)
 	lemmas = [ ]
 	puncty = [ ]
@@ -42,6 +41,22 @@ def lematization(words):
 				lemmas.append(word[:-1])
 			else: None
 		return puncty, lemmas
+
+	def pronoun(words):
+		for word in words:
+			if re.search(r'^(my|me|mine)$', word):
+				lemmas.append('I')
+			elif re.search(r'^(her|hers)$', word):
+				lemmas.append('she')
+			elif re.search(r'^(his|him)$', word):
+				lemmas.append('he')
+			elif re.search(r'^(our|ours)$', word):
+				lemmas.append('we')
+			elif re.search(r'^(your|yours)$',word):
+				lemmas.append('you')
+			elif re.search(r'^(their|theirs)$', word):
+				lemmas.append('they')
+		return(lemmas)
 
 	def plur (words):
 		regex_es = r'(ses|zes|xes|oes|shes|ches)$'
@@ -151,6 +166,8 @@ def lematization(words):
 		return (lemmas)
 
 	punctuation(words)
+	pronoun(words)
+	pronoun(puncty)
 	plur(words)
 	plur(puncty)
 	verbs(words)
