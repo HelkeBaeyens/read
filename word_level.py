@@ -96,13 +96,16 @@ def lematization(words):
 				lemmas.append(word[:-4])
 			elif re.search('ing$', word[-3:]):	#gerund
 				lemmas.append(word[:-3])
+				lemmas.append(word[:-3]+'e')
 			elif re.search('ed$', word[-2:]):	#perfect
 				lemmas.append(word[:-2])
+				lemmas.append(word[:-1])
 			elif word in past_modals:
 				lemmas.append(zippy_modals[word])
-			elif re.search (r'^(am|is|are|was|were|been|being)$', word):
+			elif re.search(r'^(am|is|are|was|were|been|being)$', word):
 				lemmas.append('be')
-
+			elif re.search(r'^(has|had)$', word):
+				lemmas.append('have')
 			else: None
 		return (lemmas) 
 
