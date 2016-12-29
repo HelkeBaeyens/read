@@ -158,7 +158,7 @@ def lexicon(dictonary, words, lemmas):
 	for lemma in lemmas:
 		if lemma in dictionary:
 			lexicon.append(lemma)
-	return(lexicon)
+	return(set(lexicon))
 
 
 """.................................................................................."""
