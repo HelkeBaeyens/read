@@ -18,6 +18,7 @@ def load_dictionary(filename, sep=';'):
 
 def load_input(filename):
 	"""
+
 	:parameter filename: A string representing a text.
 	:return: A set of words representing the text.
 	"""
@@ -135,7 +136,6 @@ def lematization(words):
 			else:
 				None 
 		return (lemmas)
-
 	
 	def suffix (words):	
 		regex_suff1 = r'(y|ly)$'
@@ -179,6 +179,7 @@ def lematization(words):
 	prefix(puncty)
 	suffix(words)
 	suffix(lemmas)
+	
 	return(lemmas)	
 
 def lexicon(dictonary, words, lemmas):
@@ -241,15 +242,16 @@ def level(lexicon, dictionary):
 	return (level_text(word_levels))
 """.................................................................................."""
 dictionary = load_dictionary("data\\dictionaryABC.csv", ';')
-words = load_input("written")
-lemmas = lematization(words)
-lexicon = lexicon(dictionary,words, lemmas)
-print(words)
-print(len(words))
-print(lemmas)
-print(lexicon)
-print(len(lexicon))
-print(level(lexicon,dictionary))
+#words = load_input("Why is 'The Great Gatsby' such a quintessential twentieth-century novel? After mixed reviews and  slow start in sales, Fitzgerald's 1925 novel has moved to the centre of literary history, to the extent that to many readers this is the modern American novel. Gatsby is widely loved, and has achieved the unusual status of appealing to both that mythical creature the 'Common Reader' and an academic audience.")
+#lemmas = lematization(words)
+#lexicon = lexicon(dictionary,words, lemmas)
+#print(words)
+#print(len(words))
+#print(lemmas)
+#print(lexicon)
+#print(len(lexicon))
+#print(level(lexicon,dictionary))
+
 
 
    
