@@ -31,6 +31,18 @@ def load_input(filename):
 def lematization(words):
 	lemmas = [ ]
 	words = list(words)
+	lemmas = [ ]
+	puncty = [ ]
+
+	def punctuation(words):
+		regex = r':|,|\'|\.'
+		for word in words:
+			if re.search(regex,word[-1]):
+				puncty.append(word[:-1])
+				lemmas.append(word[:-1])
+			else: None
+		return puncty, lemmas
+
 	def plur (words):
 		regex_es = r'(ses|zes|xes|oes|shes|ches)$'
 		singulars = ['tooth', 'goose', 'man', 'foot', 'child', 'ox', 'mouse', 'man', 'woman', 'sheep', 'people']
@@ -138,9 +150,13 @@ def lematization(words):
 				None
 		return (lemmas)
 
+	punctuation(words)
 	plur(words)
+	plur(puncty)
 	verbs(words)
+	verbs(puncty)
 	prefix(words)
+	prefix(puncty)
 	suffix(words)
 	suffix(lemmas)
 	return(lemmas)	
