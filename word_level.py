@@ -110,7 +110,7 @@ def lematization(words):
 		return (lemmas) 
 
 	def prefix(words):
-		regex_pre1 = r'^(a)'
+		regex_pre1 = r'^(a|e)'
 		regex_pre2 = r'^(un|in|im|re|an|af|al|be|co|ex|en|up)'
 		regex_pre3 = r'^(dis|non|pre|pro|sub|sup|mis)'
 		regex_pre4 = r'^(ante|anti|hemi|hypo|peri|semi|over|post|auto|mega)'
