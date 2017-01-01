@@ -12,10 +12,14 @@ def av_length_words(words):
 
 def max_length_words(words):
 	counter = 0
+	lemmas = []
 	for word in words:
-		if len(word) > counter:
-			max_len = word
-			counter = len(word)
+		if word.endswith('.'):
+			lemmas.append(word[:-1])
+	for lemma in lemmas:
+		if len(lemma) > counter:
+			max_len = lemma
+			counter = len(lemma)
 		else: 
 			None 
 	return (str(max_len))
@@ -23,8 +27,9 @@ def max_length_words(words):
 def len_longest_word(words):
 	return (str(len(max_length_words(words))))
 
-def differentiation(words):
-	diff = len(set(words))/len(words)
+def differentiation(words, filename):
+	text = filename.split()
+	diff = len(set(words))/len(text)
 	return (str(diff))
 	
 def load_input2 (filename):
