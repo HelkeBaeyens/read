@@ -1,6 +1,6 @@
-from  word_level import (load_input, load_dictionary, lematization, lexicon, level)
-from function_lib import (load_input2, nr_words, av_length_words, max_length_words, len_longest_word, differentiation, sentence_count, av_sentence_length, max_sentence, min_sentence)
 filename = "I am going crazy. Because I just keep programming." # temporary
+from  word_level import * 			#star imports all the functions in the library
+from function_lib import *
 words = list(load_input(filename))
 dictionary= load_dictionary("data\\dictionaryABC.csv", ';')
 lemmas = lematization(words)
@@ -14,7 +14,7 @@ print(r' ')
 print('The average length of the words: ' + (av_length_words(words)))
 print('The longest word: ' + str(max_length_words(words)))
 print('The length of the longest word: ' + len_longest_word(words))
-print('The differentation of words within the text is: ' + differentiation(words))
+print('The differentation of words within the text is: ' + differentiation(words, filename))
 print("The number of sentences: "+ str(sentence_count(sentences)))
 print("The average length of the sentences: " + av_sentence_length(sentences))
 print("The longest sentence: " + max_sentence(sentences))
