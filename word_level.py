@@ -33,8 +33,8 @@ def lematization(words):
 	lemmas = [ ]
 	puncty = [ ]
 
-	def punctuation(words):
-		regex = r':|,|\'|\.'
+	def punctuation(words): #split punctuations from words.
+		regex = r':|,|\'|\.|\?|\!'
 		for word in words:
 			if re.search(regex,word[-1]):
 				puncty.append(word[:-1])
