@@ -49,6 +49,23 @@ class Application(Frame):
 		self.simplify_button.pack(padx=2, pady=2, side=LEFT)
 
 		
+		self.simplify_frame = Frame(self)
+		self.simplify_frame.pack(side='top', expand=0, fill=X)
+
+		self.simplify = Label(self.simplify_frame, width = '50', text='Simplification of the text:')
+		self.simplify.pack(padx=2, pady=2, side=LEFT)
+
+
+		self.simple_frame = Frame(self)
+		self.simple_frame.pack(side='left', expand= 0, fill = X)
+
+		self.simple = Text(self.simple_frame, width = "50", height ="5", wrap = WORD)
+		scroll_simple = Scrollbar(self.simple_frame)
+		scroll_simple['command'] = self.simple.yview
+		self.simple['yscrollcommand'] = scroll_simple.set
+		self.simple.pack(side='left',expand=0,fill=None)
+		self.simple.configure(state ='disabled') # make sure noone can write in second box
+		scroll_simple.pack(side=LEFT, expand=1, fill=Y)
  # make sure noone can write in second box
 #	def retrieve_input():
 #		input = self.test.get("1.0",'end-1C')
