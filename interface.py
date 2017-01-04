@@ -45,6 +45,9 @@ class Application(Frame):
 		self.submit_button = Button(self.button_frame, text = "Submit", command = self.reveal)
 		self.submit_button.pack(padx=2, pady=2, side=LEFT)
 
+		self.simplify_button = Button(self.button_frame, text= "Make easier", command= self.reveal)
+		self.simplify_button.pack(padx=2, pady=2, side=LEFT)
+
 		
  # make sure noone can write in second box
 #	def retrieve_input():
@@ -76,6 +79,6 @@ class Application(Frame):
 """Without nothing shows """
 root = Tk()
 root.title('Test')
-root.geometry('250x150')
+root.geometry('900x200')
 app = Application(root)
 root.mainloop()
