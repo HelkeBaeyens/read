@@ -32,7 +32,7 @@ class Application(Frame):
 
 		self.info = Text(self.text_frame, width = "50", height ="5", wrap = WORD)
 		scroll_info = Scrollbar(self.text_frame)
-		scroll_info['command'] = self.input.yview
+		scroll_info['command'] = self.info.yview
 		self.info['yscrollcommand'] = scroll_info.set
 		self.info.pack(side='left',expand=0,fill=None)
 		self.info.configure(state ='disabled') # make sure noone can write in second box
