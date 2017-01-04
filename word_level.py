@@ -1,11 +1,13 @@
-#word_level
+"""
+This file looks up the level of words in a file and decides on the level of the text according to this level.
+"""
 import codecs
 import re
 
 def load_dictionary(filename, sep=';'):
 	"""
-	:parameter filename: A file that connects words to their respective level.
-	:parameter sep: mark used to seperate the elements in a line. 
+	:param filename: A file that connects words to their respective level.
+	:param sep: mark used to seperate the elements in a line. 
 	:return: a dictionary that connects the words to a certain level.
 	"""
 	dictionary = [ ]
@@ -18,7 +20,7 @@ def load_dictionary(filename, sep=';'):
 
 def load_input(filename):
 	"""
-	:parameter filename: A string representing a text.
+	:param filename: A string representing a text.
 	:return: A set of words representing the text.
 	"""
 	#text = open(filename, 'r','utf8')				#Voorlopige aanpassing aangezien de text getest wordt in py ipv file
@@ -29,6 +31,10 @@ def load_input(filename):
 	return (words)
 
 def lematization(words):
+	"""
+	:param words: A set of words representing the text.
+	:return: a list of lemmas by reducing the words to stem-forms (the overgeneration resulting in non-exising words are automatically filtered out in the next step)
+	"""
 	words = list(words)
 	lemmas = [ ]
 	puncty = [ ]
@@ -42,7 +48,7 @@ def lematization(words):
 			else: None
 		return puncty, lemmas
 
-	def pronoun(words):
+	def pronoun(words): #reverts pronouns back to their base form
 		for word in words:
 			if re.search(r'^(my|me|mine)$', word):
 				lemmas.append('I')
@@ -58,11 +64,11 @@ def lematization(words):
 				lemmas.append('they')
 		return(lemmas)
 
-	def plur (words):
+	def plur (words): #reverts words from their plural form to their singular form
 		regex_es = r'(ses|zes|xes|oes|shes|ches)$'
 		singulars = ['tooth', 'goose', 'man', 'foot', 'child', 'ox', 'mouse', 'man', 'woman', 'sheep', 'people']
 		plurals = ['teeth', 'geese', 'men', 'feet', 'children', 'oxen', 'mice', 'men', 'women', 'sheep', 'people']
-		zippy = dict(zip(plurals, singulars))
+		zippy = dict(zip(plurals, singulars)) # a zipfile connecting each plural to its singular
 		for word in words:
 			if word in plurals:
 				lemmas.append(zippy[word])
@@ -78,7 +84,7 @@ def lematization(words):
 				None 
 		return(lemmas)                   
 	
-	def verbs(words):
+	def verbs(words): # reverts verbs to their stem
 		modals = ['can', 'may' ,'will' ,'shall'] 
 		past_modals = ['could', 'might', 'would', 'should']
 		irr_stems = ['rise','wake','bear','beat','become','begin','bend','bind','bid','bind','bet','bite','bleed','blow','break','breed','bring','build','burn','buy','cast','catch','choose','cling','clothe','come','cost','creep','cut','deal','dig','prove','dive','draw','dream','drink','drive','dwell','eat','fall','feed','feel','fight','find','fit','flee','fling','fly','forbid','forget','forgive','forsake','freeze','get','give','go','grind','grow','hang','have','hear','hew','hide','hit','hold','hurt','input','keep','kneel','knit','know', 'lay','lead','lean','leap','learn','leave','lend','let','lie','lie','light','lose','make','mean','meet','mistake','misunderstand','mow','pay','plead','prepay','proofread','put','quit','read','relay','rid','ride','ring','rise','run','saw','say','see','seek','sell','send','set','sew','shake','shave','shear','shed','shine','shit','shoot','show','shrink','shut','sing','sink','sit','slay','sleep','slide','sling','slink','slit','smell','sneak','sow','speak','speed','spell','spend','spill','spin','spit','split','spoil','spread','spring','stand','steal','stick','sting','stink','strew','stride','strike','string','strive','swear','sweat','sweep','swell','swim','swing','take','teach','tear','tell','think','throw','thrust','tread', 'wake','wear','weave','wed','weep','wet','whet','win','wind','withdraw','withhold','withstand','wring','write']
@@ -109,7 +115,7 @@ def lematization(words):
 			else: None
 		return (lemmas) 
 
-	def prefix(words):
+	def prefix(words): # splits prefixes from the words
 		regex_pre1 = r'^(a|e)'
 		regex_pre2 = r'^(un|in|im|re|an|af|al|be|co|ex|en|up)'
 		regex_pre3 = r'^(dis|non|pre|pro|sub|sup|mis)'
@@ -135,9 +141,8 @@ def lematization(words):
 			else:
 				None 
 		return (lemmas)
-
 	
-	def suffix (words):	
+	def suffix (words):	#splits suffixes from the words
 		regex_suff1 = r'(y|ly)$'
 		regex_suff2 = r'(ly|er|or|en|al)$'			#make these lines more clear (b sentences aren't going to work)
 		regex_suff2b = r'(al)$'						# isn't it better to just put these in the lines????
@@ -167,7 +172,11 @@ def lematization(words):
 			else:
 				None
 		return (lemmas)
-
+	"""
+	function(words): iterates over all the words in the text
+	function(puncty): iterates over all the words after they the punctuation is split off
+	function(lemmas): to prevent circumflexes and verbs starting with a prefix by iterating over the previous lemmas
+	"""
 	punctuation(words)
 	pronoun(words)
 	pronoun(puncty)
@@ -176,7 +185,7 @@ def lematization(words):
 	verbs(words)
 	verbs(puncty)
 	prefix(words)
-	prefix(puncty)
+	prefix(lemmas)
 	suffix(words)
 	suffix(lemmas)
 	return(lemmas)	
@@ -197,13 +206,20 @@ def lexicon(dictonary, words, lemmas):
 	return(set(lexicon))
 
 def level(lexicon, dictionary):
+	"""
+	:param lexicon: A lexicon of words in the text that can be found in the dictionary.
+	:param dictionary: A dictionary of words connected to their respective levels.
+	:return: The word level of the text.
+	"""
 	word_levels = [ ]
-	def level_words(lexicon, dictionary):
+	
+	def level_words(lexicon, dictionary): # Looks up the words of the lexicon in the dictionary and retrieves them with their according level
 		for word in lexicon:
 			level = dictionary[word]
 			word_levels.append(level)
 		return(word_levels)
-	def level_text(word_levels):
+	
+	def level_text(word_levels): # Calculates the word level of a text according to the theory that to properly comprehend a text the reader has to understand at least 90% of the vocabulary in that text.
 		length = (len(word_levels)/10)
 		counter_A1 = 0
 		counter_A2 = 0
