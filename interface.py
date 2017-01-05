@@ -93,14 +93,13 @@ class Application(Frame):
 			self.info.insert(1.0, message) # fill the textbox with the answer
 			self.info.configure(state='disabled') # close writing in box again
 
-
 	def simply(self):
 		"""Temporal function to fill the textbox that is going to fill the simplified text + error boxes when the textbox is empty or doesn't contain punctuation marks"""
 		self.simple.configure(state='normal') # open witing in box
 		content= self.input.get(1.0,"end-1c")
-		if not filename:
+		if not content:
 			tkinter.messagebox.showinfo("Input Error", "There is no text to be analysed")
-		elif not filename.endswith(r'.'):
+		elif not content.endswith(r'.'):
 			tkinter.messagebox.showinfo("Input Eror", "Lack of punctuation marks: \n Your sentences need to contain: . , ? , !")
 		else:
 			if content == 'Hallo':
