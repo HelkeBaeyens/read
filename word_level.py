@@ -257,15 +257,12 @@ def level(lexicon, dictionary):
 	return (level_text(word_levels))
 """.................................................................................."""
 dictionary = load_dictionary("data\\dictionaryABC.csv", ';')
-words = load_input("written")
-lemmas = lematization(words)
-lexicon = lexicon(dictionary,words, lemmas)
-print(words)
-print(len(words))
-print(lemmas)
-print(lexicon)
-print(len(lexicon))
-print(level(lexicon,dictionary))
-
-
-   
+#words = load_input(filename)
+#lemmas = lematization(words)
+#lexicon = lexicon(dictionary,words, lemmas)
+#print(words)
+#print(len(words))
+#print(lemmas)
+#print(lexicon)
+#print(len(lexicon))
+#print(level(lexicon,dictionary))
