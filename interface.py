@@ -43,14 +43,14 @@ class Application(Frame):
 		self.info.configure(state='disabled') # make sure no one can write in the box
 		scroll_info.pack(side=LEFT, expand=0, fill=Y)
 
-		"""Third frame: the commant buttons concerning the input"""
+		"""Third frame: the command buttons concerning the input"""
 		self.button_frame = Frame(self)
 		self.button_frame.pack(side=TOP, expand=0, fill=X)
 
-		self.submit_button = Button(self.button_frame, text="Submit", command=self.analyse)
+		self.submit_button = Button(self.button_frame, activebackground='blue', text="Submit", command=self.analyse)
 		self.submit_button.pack(padx=2, pady=2, side=LEFT)
 
-		self.simplify_button = Button(self.button_frame, text="Make easier", command=self.simply)
+		self.simplify_button = Button(self.button_frame, activebackground='blue', text="Make easier", command=self.simply)
 		self.simplify_button.pack(padx=2, pady=2, side=LEFT)
 	
 		"""Fourth frame: the instructions for the simplifyed text box"""
@@ -62,7 +62,7 @@ class Application(Frame):
 
 		"""Fifth frame: the output box for the simplified text"""
 		self.simple_frame = Frame(self)
-		self.simple_frame.pack(side=LEFT, expand=0, fill=X)
+		self.simple_frame.pack(side=TOP, expand=0, fill=X)
 
 		self.simple = Text(self.simple_frame, width="50", height="5", wrap=WORD)
 		scroll_simple = Scrollbar(self.simple_frame)
