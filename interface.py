@@ -1,6 +1,8 @@
 from tkinter import * #star imports all the functions in the library
+from tkinter.filedialog import asksaveasfilename, askopenfile
 import tkinter.messagebox
-from tkinter.messagebox import askokcancel
+from tkinter.messagebox import askyesnocancel
+
 
 from word_level import * 			
 from function_lib import *
@@ -43,14 +45,17 @@ class Application(Frame):
 		self.info.configure(state='disabled') # make sure no one can write in the box
 		scroll_info.pack(side=LEFT, expand=0, fill=Y)
 
-		"""Third frame: the commant buttons concerning the input"""
+		"""Third frame: the command buttons concerning the input"""
 		self.button_frame = Frame(self)
 		self.button_frame.pack(side=TOP, expand=0, fill=X)
 
-		self.submit_button = Button(self.button_frame, text="Submit", command=self.analyse)
+		self.open_button = Button(self.button_frame, activebackground='blue',text="Open", command=self.open_doc)
+		self.open_button.pack(padx=2, pady=2, side=LEFT)
+
+		self.submit_button = Button(self.button_frame, activebackground='blue', text="Submit", command=self.analyse)
 		self.submit_button.pack(padx=2, pady=2, side=LEFT)
 
-		self.simplify_button = Button(self.button_frame, text="Make easier", command=self.simply)
+		self.simplify_button = Button(self.button_frame, activebackground='blue', text="Make easier", command=self.simply)
 		self.simplify_button.pack(padx=2, pady=2, side=LEFT)
 	
 		"""Fourth frame: the instructions for the simplifyed text box"""
@@ -62,7 +67,7 @@ class Application(Frame):
 
 		"""Fifth frame: the output box for the simplified text"""
 		self.simple_frame = Frame(self)
-		self.simple_frame.pack(side=LEFT, expand=0, fill=X)
+		self.simple_frame.pack(side=TOP, expand=0, fill=X)
 
 		self.simple = Text(self.simple_frame, width="50", height="5", wrap=WORD)
 		scroll_simple = Scrollbar(self.simple_frame)
@@ -71,6 +76,26 @@ class Application(Frame):
 		self.simple.pack(side=LEFT, expand=0, fill=None)
 		self.simple.configure(state='disabled') # make sure no one can write in the box
 		scroll_simple.pack(side=LEFT, expand=0, fill=Y)
+
+		"""Sixth frame: the command bottons concerning the output"""
+		self.button_frame2 = Frame(self)
+		self.button_frame2.pack(side=TOP, expand=0, fill=X)
+
+		self.save_button = Button(self.button_frame2, activebackground='blue', text="Save", command=self.save_doc)
+		self.save_button.pack(padx=2, pady=2, side=LEFT)
+
+		self.quit_button = Button(self.button_frame2, activebackground='blue', text="Quit", command=self.quit_prog)
+		self.quit_button.pack(padx=2, pady=2, side=LEFT)
+
+	def open_doc(self):
+		"""Function to open a file saved on the computer """
+		doc = askopenfile(initialdir="/", title="Open", filetypes=(("Text files", "*.txt"),("All files","*.*")))
+		if doc != None:
+			date = doc.read()
+			self.input.insert(END, data)
+			doc.close()
+		else: 
+			None
 
 	def analyse(self): 
 		"""Function recalling the functions from the library to put them in the second text box + error boxes when the textbox is empty or doesn't contain punctuation marks"""
@@ -93,14 +118,13 @@ class Application(Frame):
 			self.info.insert(1.0, message) # fill the textbox with the answer
 			self.info.configure(state='disabled') # close writing in box again
 
-
 	def simply(self):
 		"""Temporal function to fill the textbox that is going to fill the simplified text + error boxes when the textbox is empty or doesn't contain punctuation marks"""
 		self.simple.configure(state='normal') # open witing in box
 		content= self.input.get(1.0,"end-1c")
-		if not filename:
+		if not content:
 			tkinter.messagebox.showinfo("Input Error", "There is no text to be analysed")
-		elif not filename.endswith(r'.'):
+		elif not content.endswith(r'.'):
 			tkinter.messagebox.showinfo("Input Eror", "Lack of punctuation marks: \n Your sentences need to contain: . , ? , !")
 		else:
 			if content == 'Hallo':
@@ -110,6 +134,18 @@ class Application(Frame):
 		self.simple.delete(1.0, END) # empty the text box before adding new information
 		self.simple.insert(1.0, message) # fill the textbox with the answer
 		self.simple.configure(state='disabled') # close writing in box again
+
+	def save_doc(self):
+		"""Function to save a textfile on the computer"""
+		filename=asksaveasfilename(defaultextension="*.txt", filetypes=(("Text files","*txt"), ("All files","*.*")))
+		if filename:
+			with open(filename,'w') as stream:
+				stream.write(self.gettext())
+
+	def quit_prog(self):
+		"""Function connected to the quit button that verifies it the user has saved the information before closing the program."""
+		if askyesnocancel("Verify exit", "Did you save your document?"):
+			self._root().destroy()
 	
 #create the windoww + give title
 root = Tk()
