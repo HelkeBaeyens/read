@@ -1,4 +1,5 @@
 from tkinter import * #star imports all the functions in the library
+from tkinter.filedialog import asksaveasfilename, askopenfile
 import tkinter.messagebox
 from tkinter.messagebox import askokcancel
 
@@ -47,6 +48,9 @@ class Application(Frame):
 		self.button_frame = Frame(self)
 		self.button_frame.pack(side=TOP, expand=0, fill=X)
 
+		self.open_button = Button(self.button_frame, activebackground='blue',text="Open", command=self.open_doc)
+		self.open_button.pack(padx=2, pady=2, side=LEFT)
+
 		self.submit_button = Button(self.button_frame, activebackground='blue', text="Submit", command=self.analyse)
 		self.submit_button.pack(padx=2, pady=2, side=LEFT)
 
@@ -71,6 +75,23 @@ class Application(Frame):
 		self.simple.pack(side=LEFT, expand=0, fill=None)
 		self.simple.configure(state='disabled') # make sure no one can write in the box
 		scroll_simple.pack(side=LEFT, expand=0, fill=Y)
+
+		"""Sixth frame: the command bottons concerning the output"""
+		self.button_frame2 = Frame(self)
+		self.button_frame2.pack(side=TOP, expand=0, fill=X)
+
+		self.save_button = Button(self.button_frame2, activebackground='blue', text="Save", command=self.save_doc)
+		self.save_button.pack(padx=2, pady=2, side=LEFT)
+
+	def open_doc(self):
+		"""Function to open a file saved on the computer """
+		doc = askopenfile(initialdir="/", title="Open", filetypes=(("Text files", "*.txt"),("All files","*.*")))
+		if doc != None:
+			date = doc.read()
+			self.input.insert(END, data)
+			doc.close()
+		else: 
+			None
 
 	def analyse(self): 
 		"""Function recalling the functions from the library to put them in the second text box + error boxes when the textbox is empty or doesn't contain punctuation marks"""
@@ -109,6 +130,14 @@ class Application(Frame):
 		self.simple.delete(1.0, END) # empty the text box before adding new information
 		self.simple.insert(1.0, message) # fill the textbox with the answer
 		self.simple.configure(state='disabled') # close writing in box again
+
+	def save_doc(self):
+		"""Function to save a textfile on the computer"""
+		filename=asksaveasfilename(defaultextension="*.txt", filetypes=(("Text files","*txt"), ("All files","*.*")))
+		if filename:
+			with open(filename,'w') as stream:
+				stream.write(self.gettext())
+
 	
 #create the windoww + give title
 root = Tk()
