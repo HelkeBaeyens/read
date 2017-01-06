@@ -101,7 +101,7 @@ class Application(Frame):
 			None
 
 	def analyse(self): 
-		"""Function recalling the functions from the library to put them in the second text box + error boxes when the textbox is empty or doesn't contain punctuation marks"""
+		"""Function recalling the functions from the library to put them in the second text box + error boxes when the textbox is empty, doesn't contain punctuation marks, or if the input is even English at all"""
 		self.info.configure(state='normal') # open witing in box
 		filename= self.input.get(1.0,"end-1c")
 		
@@ -111,15 +111,24 @@ class Application(Frame):
 			tkinter.messagebox.showinfo("Input Eror", "Lack of punctuation marks: \n Your sentences need to contain: . , ? , !")
 		else:
 			words = list(load_input(filename))
-			dictionary= load_dictionary("data\\dictionaryABC.csv", ';')
-			lemmas = lematization(words)
-			lexiconX = lexicon(dictionary,words,lemmas)  #don't give the variable the same name as the function, it won't work twice
-			levelX = str(level(lexiconX,dictionary))
-			sentences= load_input2(filename)
-			message = "The level of the text: " + levelX + "\n" + "The number of words: "+ str(nr_words(words)) + "\n" + r' ' + "\n" + 'The average length of the words: ' + av_length_words(words) + "\n" + 'The longest word: ' + str(max_length_words(words)) + "\n" + 'The length of the longest word: ' + len_longest_word(words) + "\n" + 'The differentation of words within the text is: ' + differentiation(words, filename) + "\n" + "The number of sentences: "+ str(sentence_count(sentences)) + "\n" + "The average length of the sentences: " + av_sentence_length(sentences) + "\n" + "The longest sentence: " + max_sentence(sentences) + "\n" + "The shortest sentence: " + min_sentence(sentences)
-			self.info.delete(1.0, END) # empty the text box before adding new information
-			self.info.insert(1.0, message) # fill the textbox with the answer
-			self.info.configure(state='disabled') # close writing in box again
+			test_list= ["I","we","you","they","he","she","it","a","an","the"]
+			Test = False
+			for word in words:
+				if word in test_list:
+					Test = True
+					break
+			if Test != True:
+				tkinter.messagebox.showinfo("Error", "Easy Text doesn't recognize the input as English")
+			else:
+				dictionary= load_dictionary("data\\dictionaryABC.csv", ';')
+				lemmas = lematization(words)
+				lexiconX = lexicon(dictionary,words,lemmas)  #don't give the variable the same name as the function, it won't work twice
+				levelX = str(level(lexiconX,dictionary))
+				sentences= load_input2(filename)
+				message = "The level of the text: " + levelX + "\n" + "The number of words: "+ str(nr_words(words)) + "\n" + r' ' + "\n" + 'The average length of the words: ' + av_length_words(words) + "\n" + 'The longest word: ' + str(max_length_words(words)) + "\n" + 'The length of the longest word: ' + len_longest_word(words) + "\n" + 'The differentation of words within the text is: ' + differentiation(words, filename) + "\n" + "The number of sentences: "+ str(sentence_count(sentences)) + "\n" + "The average length of the sentences: " + av_sentence_length(sentences) + "\n" + "The longest sentence: " + max_sentence(sentences) + "\n" + "The shortest sentence: " + min_sentence(sentences)
+				self.info.delete(1.0, END) # empty the text box before adding new information
+				self.info.insert(1.0, message) # fill the textbox with the answer
+				self.info.configure(state='disabled') # close writing in box again
 
 	def simply(self):
 		"""Temporal function to fill the textbox that is going to fill the simplified text + error boxes when the textbox is empty or doesn't contain punctuation marks"""
