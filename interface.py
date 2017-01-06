@@ -57,6 +57,9 @@ class Application(Frame):
 
 		self.simplify_button = Button(self.button_frame, activebackground='blue', text="Make easier", command=self.simply)
 		self.simplify_button.pack(padx=2, pady=2, side=LEFT)
+
+		self.clear_button = Button(self.button_frame, activebackground='blue', text="Clear", command=self.clear)
+		self.clear_button.pack(padx=2, pady=2, side=LEFT)
 	
 		"""Fourth frame: the instructions for the simplifyed text box"""
 		self.simplify_frame = Frame(self)
@@ -135,6 +138,18 @@ class Application(Frame):
 		self.simple.insert(1.0, message) # fill the textbox with the answer
 		self.simple.configure(state='disabled') # close writing in box again
 
+	def clear(self):
+		"""Function to simultaneously clear all the text windows"""
+		self.info.configure(state='normal')
+		self.simple.configure(state='normal')
+
+		self.input.delete(0.0, 'end')
+		self.info.delete(0.0, 'end')
+		self.simple.delete(0.0,'end')
+
+		self.info.configure(state='disabled')
+		self.simple.configure(state='disabled')
+
 	def save_doc(self):
 		"""Function to save a textfile on the computer"""
 		filename=asksaveasfilename(defaultextension="*.txt", filetypes=(("Text files","*.txt"), ("All files","*.*")))
@@ -149,6 +164,8 @@ class Application(Frame):
 			self.save_doc()
 		elif confirm == False:
 			self._root().destroy()
+
+
 	
 #create the windoww + give title
 root = Tk()
