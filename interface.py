@@ -31,6 +31,7 @@ class Application(Frame):
 		self.text_frame.pack(side=TOP, expand=0, fill=X)
 
 		self.input = Text(self.text_frame, width="50", height="5", wrap=WORD)
+		self.input.focus() #This way the user immediately finds himself in the right textbox.
 		scroll_input = Scrollbar(self.text_frame)
 		scroll_input['command'] = self.input.yview
 		self.input['yscrollcommand']= scroll_input.set
