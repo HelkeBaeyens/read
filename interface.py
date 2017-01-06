@@ -1,7 +1,8 @@
 from tkinter import * #star imports all the functions in the library
 from tkinter.filedialog import asksaveasfilename, askopenfile
 import tkinter.messagebox
-from tkinter.messagebox import askokcancel
+from tkinter.messagebox import askyesnocancel
+
 
 from word_level import * 			
 from function_lib import *
@@ -83,6 +84,9 @@ class Application(Frame):
 		self.save_button = Button(self.button_frame2, activebackground='blue', text="Save", command=self.save_doc)
 		self.save_button.pack(padx=2, pady=2, side=LEFT)
 
+		self.quit_button = Button(self.button_frame2, activebackground='blue', text="Quit", command=self.quit_prog)
+		self.quit_button.pack(padx=2, pady=2, side=LEFT)
+
 	def open_doc(self):
 		"""Function to open a file saved on the computer """
 		doc = askopenfile(initialdir="/", title="Open", filetypes=(("Text files", "*.txt"),("All files","*.*")))
@@ -138,6 +142,10 @@ class Application(Frame):
 			with open(filename,'w') as stream:
 				stream.write(self.gettext())
 
+	def quit_prog(self):
+		"""Function connected to the quit button that verifies it the user has saved the information before closing the program."""
+		if askyesnocancel("Verify exit", "Did you save your document?"):
+			self._root().destroy()
 	
 #create the windoww + give title
 root = Tk()
