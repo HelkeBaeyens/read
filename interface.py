@@ -144,7 +144,10 @@ class Application(Frame):
 
 	def quit_prog(self):
 		"""Function connected to the quit button that verifies it the user has saved the information before closing the program."""
-		if askyesnocancel("Verify exit", "Did you save your document?"):
+		confirm= askyesnocancel("Verify exit", "Do you want to save your document?")
+		if confirm == True:
+			self.save_doc()
+		elif confirm == False:
 			self._root().destroy()
 	
 #create the windoww + give title
