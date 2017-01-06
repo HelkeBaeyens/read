@@ -137,10 +137,10 @@ class Application(Frame):
 
 	def save_doc(self):
 		"""Function to save a textfile on the computer"""
-		filename=asksaveasfilename(defaultextension="*.txt", filetypes=(("Text files","*txt"), ("All files","*.*")))
+		filename=asksaveasfilename(defaultextension="*.txt", filetypes=(("Text files","*.txt"), ("All files","*.*")))
 		if filename:
 			with open(filename,'w') as stream:
-				stream.write(self.gettext())
+				stream.write(self.info.get("1.0","end-1c"))
 
 	def quit_prog(self):
 		"""Function connected to the quit button that verifies it the user has saved the information before closing the program."""
