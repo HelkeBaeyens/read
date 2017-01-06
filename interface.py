@@ -151,5 +151,6 @@ class Application(Frame):
 root = Tk()
 root.title('Easy Text')
 root.geometry('900x300') #modify root window
+root.iconbitmap('ET_Logo.ico') # changes the python icon into our own logo
 app = Application(root)
 root.mainloop()
