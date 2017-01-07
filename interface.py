@@ -140,10 +140,20 @@ class Application(Frame):
 		elif not content.endswith(r'.'):
 			tkinter.messagebox.showinfo("Input Eror", "Lack of punctuation marks: \n Your sentences need to contain: . , ? , !")
 		else:
-			if content == 'Hallo':
-				message = "short"
+			words = list(load_input(filename))
+			test_list= ["I","we","you","they","he","she","it","a","an","the"]
+			Test = False
+			for word in words:
+				if word in test_list:
+					Test = True
+					break
+			if Test != True:
+				tkinter.messagebox.showinfo("Error", "Easy Text doesn't recognize the input as English")
 			else:
-				message = "Hallo"
+				if content == 'Hallo':
+					message = "short"
+				else:
+					message = "Hallo"
 		self.simple.delete(1.0, END) # empty the text box before adding new information
 		self.simple.insert(1.0, message) # fill the textbox with the answer
 		self.simple.configure(state='disabled') # close writing in box again
