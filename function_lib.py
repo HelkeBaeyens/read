@@ -10,6 +10,7 @@ in__file__ = 	nr_words(words)
 				max_sentence(sentences)
 				min_sentence(sentences)
 """
+from word_level import *
 def nr_words(words): # Calculates the numbers of words in a file
 	return(len(words))
 
@@ -71,31 +72,27 @@ def min_sentence(sentences): # Calculates the length of the shortest sentence
 		else: None
 	return(str(counter))
 
-def text_level():
-	"""Function to calculate the level of the text"""
-	def sen_lev(sentences):
-		av_sen = float(av_sentence_length(sentences))
-		if av_sen > 40:
-			return('C2')
-		elif av_sen > 30:
-			return('C1')
-		elif av_sen > 25:
-			return('B2')
-		elif av_sen > 20:
-			return('B1')
-		elif av_sen > 15:
-			return('A2')
-		else: 
-			return ('A1')
+def sen_lev(sentences):
+	av_sen = float(av_sentence_length(sentences))
+	if av_sen > 40:
+		return('C2')
+	elif av_sen > 30:
+		return('C1')
+	elif av_sen > 25:
+		return('B2')
+	elif av_sen > 20:
+		return('B1')
+	elif av_sen > 15:
+		return('A2')
+	else: 
+		return ('A1')
 
-	text_levelW = (level(lexiconX,dictionary))						#80%
-	text_levelS = sen_lev(sentences)								#10% temporal value to be devided with different
-	text_levelT = 3 												#10%
-	
+def text_level(level, sen_lev):
+	"""Function to calculate the level of the text"""
 	calcu = {'A1': 1, 'A2': 2, 'B1': 3, 'B2': 4, 'C1': 5, 'C2':6}
-	W = int(calcu[text_levelW])*0.8
-	S = int(calcu[text_levelS])*0.1
-	T = text_levelT*0.1
+	W = int(calcu[level])*0.8 										#80% word level		
+	S = int(calcu[sen_lev])*0.1 									#10% sentence level
+	T = 3*0.1 														#10% temporal value the definition doesn't exist yet
 	nr = (W + S + T)
 	
 	if nr > 5:
