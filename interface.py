@@ -69,17 +69,21 @@ class Application(Frame):
 		self.simplify = Label(self.simplify_frame, width='50', text="Simplification of the text:")
 		self.simplify.pack(padx=2, pady=2, side=LEFT)
 
-		"""Fifth frame: the output box for the simplified text"""
+		"""Fifth frame: the output box for the simplified text and the gauge chart"""
 		self.simple_frame = Frame(self)
 		self.simple_frame.pack(side=TOP, expand=0, fill=X)
 
-		self.simple = Text(self.simple_frame, width="50", height="5", wrap=WORD)
+		self.simple = Text(self.simple_frame, width="50", height="10", wrap=WORD)
 		scroll_simple = Scrollbar(self.simple_frame)
 		scroll_simple['command'] = self.simple.yview
 		self.simple['yscrollcommand'] = scroll_simple.set
 		self.simple.pack(side=LEFT, expand=0, fill=None)
 		self.simple.configure(state='disabled') # make sure no one can write in the box
 		scroll_simple.pack(side=LEFT, expand=0, fill=Y)
+
+		self.gauge = Canvas(self.simple_frame, bg='violet',height=150, width=250) #adds a gauge chart indicating the level of the text
+		self.in_gauge()
+		self.gauge.pack(side=RIGHT, expand=5, fill=Y)
 
 		"""Sixth frame: the command bottons concerning the output"""
 		self.button_frame2 = Frame(self)
@@ -101,8 +105,21 @@ class Application(Frame):
 		else: 
 			None
 
+	def in_gauge(self):
+		"""The gauge shart should start out empty."""
+
+		coordarc= 10, 50, 240, 210
+		self.gauge.create_text(93, 30, anchor=W, font="Pursia", text="Text Level" )
+		self.gauge.create_arc(coordarc, start=0, extent=180, fill='gainsboro')
+		self.gauge.create_text(30, 120, anchor=W, font="Pursia", text="A1")
+		self.gauge.create_text(50, 90, anchor=W, font="Pursia", text='A2')
+		self.gauge.create_text(90, 75, anchor=W, font="Pursia", text= 'B1')
+		self.gauge.create_text(130, 75, anchor=W, font="Pursia", text= 'B2')
+		self.gauge.create_text(170, 90, anchor=W, font="Pursua", text= 'C1')
+		self.gauge.create_text(205, 120, anchor=W, font="Pursia", text='C2')
+
 	def analyse(self): 
-		"""Function recalling the functions from the library to put them in the second text box + error boxes when the textbox is empty, doesn't contain punctuation marks, or if the input is even English at all"""
+		"""Function recalling the functions from the library to put them in the second text box + error boxes when the textbox is empty, doesn't contain punctuation marks, or if the input is even English at all + graphs"""
 		self.info.configure(state='normal') # open witing in box
 		filename= self.input.get(1.0,"end-1c")
 		
@@ -128,7 +145,68 @@ class Application(Frame):
 				sentencesX= load_input2(filename)
 				levelZ= sen_lev(sentencesX)
 				levelY = (text_level(levelX, levelZ))
-				message = "The level of the text: "+ levelY + "\n" + "The wordlevel is :" + levelX + "\n" + "The number of words: "+ str(nr_words(words)) + "\n" + r' ' + "\n" + 'The average length of the words: ' + av_length_words(words) + "\n" + 'The longest word: ' + str(max_length_words(words)) + "\n" + 'The length of the longest word: ' + len_longest_word(words) + "\n" + 'The differentation of words within the text is: ' + differentiation(words, filename) + "\n" + "The number of sentences: "+ str(sentence_count(sentencesX)) + "\n" + "The average length of the sentences: " + av_sentence_length(sentencesX) + "\n" + "The longest sentence: " + max_sentence(sentencesX) + "\n" + "The shortest sentence: " + min_sentence(sentencesX)
+				message = "The level of the text: "+ levelY + "\n" + "The wordlevel is: " + levelX + "\n" + "The number of words: "+ str(nr_words(words)) + "\n" + r' ' + "\n" + 'The average length of the words: ' + av_length_words(words) + "\n" + 'The longest word: ' + str(max_length_words(words)) + "\n" + 'The length of the longest word: ' + len_longest_word(words) + "\n" + 'The differentation of words within the text is: ' + differentiation(words, filename) + "\n" + "The number of sentences: "+ str(sentence_count(sentencesX)) + "\n" + "The average length of the sentences: " + av_sentence_length(sentencesX) + "\n" + "The longest sentence: " + max_sentence(sentencesX) + "\n" + "The shortest sentence: " + min_sentence(sentencesX)
+				self.info.delete(1.0, END) # empty the text box before adding new information
+				self.info.insert(1.0, message) # fill the textbox with the answer
+				self.info.configure(state='disabled') # close writing in box again
+
+			"""according to the level of the text the gauge moves up"""	
+			coordarc= 10,50,240,210
+			if levelY == "A1":
+				self.gauge.create_text(93, 30, anchor=W, font="Pursia", text="Text Level" )
+				self.gauge.create_arc(coordarc, start=150, extent=30, fill='green')
+				self.gauge.create_text(30,120, anchor=W, font="Pursia", text='A1')
+			elif levelY == "A2":
+				self.gauge.create_text(93, 30, anchor=W, font="Pursia", text="Text Level" )
+				self.gauge.create_arc(coordarc, start=120, extent=60, fill='lime')
+				self.gauge.create_text(50,90, anchor=W, font="Pursia", text='A2')
+				self.gauge.create_arc(coordarc, start=150, extent=30, fill='green')
+				self.gauge.create_text(30,120, anchor=W, font="Pursia", text='A1')
+			elif levelY == "B1":
+				self.gauge.create_text(93, 30, anchor=W, font="Pursia", text="Text Level" )
+				self.gauge.create_arc(coordarc, start=90, extent=90, fill='yellow')
+				self.gauge.create_text(90,75, anchor=W, font="Pursia", text='B1')
+				self.gauge.create_arc(coordarc, start=120, extent=60, fill='lime')
+				self.gauge.create_text(50,90, anchor=W, font="Pursia", text='A2')
+				self.gauge.create_arc(coordarc, start=150, extent=30, fill='green')
+				self.gauge.create_text(30,120, anchor=W, font="Pursia", text='A1')
+			elif levelY == "B2":
+				self.gauge.create_text(93, 30, anchor=W, font="Pursia", text="Text Level" )
+				self.gauge.create_arc(coordarc, start=60, extent=120, fill='orange')
+				self.gauge.create_text(130,75, anchor=W, font="Pursia", text='B2')
+				self.gauge.create_arc(coordarc, start=90, extent=90, fill='yellow')
+				self.gauge.create_text(90,75, anchor=W, font="Pursia", text='B1')
+				self.gauge.create_arc(coordarc, start=120, extent=60, fill='lime')
+				self.gauge.create_text(50,90, anchor=W, font="Pursia", text='A2')
+				self.gauge.create_arc(coordarc, start=150, extent=30, fill='green')
+				self.gauge.create_text(30,120, anchor=W, font="Pursia", text='A1')
+			elif levelY == "C1":
+				self.gauge.create_text(93, 30, anchor=W, font="Pursia", text="Text Level" )
+				self.gauge.create_arc(coordarc, start=30, extent=150, fill='orange red')
+				self.gauge.create_text(170,90, anchor=W, font="Pursia", text='C1')
+				self.gauge.create_arc(coordarc, start=60, extent=120, fill='orange')
+				self.gauge.create_text(130,75, anchor=W, font="Pursia", text='B2')
+				self.gauge.create_arc(coordarc, start=90, extent=90, fill='yellow')
+				self.gauge.create_text(90,75, anchor=W, font="Pursia", text='B1')
+				self.gauge.create_arc(coordarc, start=120, extent=60, fill='lime')
+				self.gauge.create_text(50,90, anchor=W, font="Pursia", text='A2')
+				self.gauge.create_arc(coordarc, start=150, extent=30, fill='green')
+				self.gauge.create_text(30,120, anchor=W, font="Pursia", text='A1')
+			else: 
+				self.gauge.create_text(93, 30, anchor=W, font="Pursia", text="Text Level" )
+				self.gauge.create_arc(coordarc, start=0, extent=180, fill='crimson')
+				self.gauge.create_text(205,120, anchor=W, font="Pursia", text='C2')
+				self.gauge.create_arc(coordarc, start=30, extent=150, fill='red')
+				self.gauge.create_text(170,90, anchor=W, font="Pursia", text='C1')
+				self.gauge.create_arc(coordarc, start=60, extent=120, fill='dark orange')
+				self.gauge.create_text(130,75, anchor=W, font="Pursia", text='B2')
+				self.gauge.create_arc(coordarc, start=90, extent=90, fill='yellow')
+				self.gauge.create_text(90,75, anchor=W, font="Pursia", text='B1')
+				self.gauge.create_arc(coordarc, start=120, extent=60, fill='lime')
+				self.gauge.create_text(50,90, anchor=W, font="Pursia", text='A2')
+				self.gauge.create_arc(coordarc, start=150, extent=30, fill='green')
+				self.gauge.create_text(30,120, anchor=W, font="Pursia", text='A1')
+
 				self.info.delete(1.0, END) # empty the text box before adding new information
 				self.info.insert(1.0, message) # fill the textbox with the answer
 				self.info.configure(state='disabled') # close writing in box again
