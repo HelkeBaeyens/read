@@ -1,0 +1,1005 @@
+AGRICULTURAL
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 23 (2000) 69-78
+www.elsevier.com/locate/agecon
+
+Are we risking too much? Perspectives on risk in farm modelling
+David J. PannelP· *, Bill Malcolm b, Ross S. Kingwell a,c
+b
+
+a Agricultural and Resource Economics, University of Western Australia, Albany WA 6907, Australia
+Department of Food Science and Agribusiness, University of Melbourne, Melbourne, Vic. 3052, Australia
+c Agriculture Western Australia, South Perth, WA 6151, Australia
+
+Received 28 April 1999; received in revised form 22 November 1999; accepted 1 March 2000
+
+Abstract
+Risk and uncertainty have been extensively studied by agricultural economists. In this paper we question (a) the predominant
+use of static frameworks to formally analyse risk; (b) the predominant focus on risk aversion as the motivation for considering
+risk and (c) the notion that explicitly probabilistic models are likely to be helpful to farmers in their decision making. We pose
+the question: for a risk-averse farmer, what is the extra value of a recommendation derived from a model that represents risk
+aversion, compared to a model based on risk neutrality? The conclusion reached is that for the types of the decision problems
+most commonly modelled by agricultural economists, the extra value of representing risk aversion is commonly very little.
+© 2000 Elsevier Science B.V. All rights reserved.
+Keywords: Risk aversion; Farm management; Embedded risk; Modelling methodology
+
+1. Introduction
+Farmers face uncertainty about the economic consequences of their actions due to their limited ability
+to predict things such as weather, prices and biological responses to different farming practices. In recognising this feature of farming, studies addressing risk
+and uncertainty 1 are common in the agricultural economics literature. Risk is widely seen as an issue of
+critical importance to farmers' decision making and to
+policies affecting those decisions (e.g. Anderson et al.,
+1977; Boussard, 1979; Anderson, 1982; Robison and
+Barry, 1987).
+
+* Corresponding author. Tel.: +61-8-9844-8659;
+fax: +61-8-9844-8659.
+E-mail address: david.pannell@uwa.edu.au (D.J. Pannell)
+1 In this paper we use the terms 'risk' and 'uncertainty' interchangeably to mean 'uncertainty in consequences' (Antle, 1983;
+Hardaker eta!., 1991).
+
+Like most major areas of academic endeavour, the
+study of risk in farming has generated a body of conventional wisdom which occasionally is challenged
+(e.g. Antle, 1983; Leathers and Quiggin, 1991). Our
+aim in this paper is to criticise some areas of this conventional wisdom concerning the practical incorporation of risk in farm management models. This paper is
+not another critique of subjective expected utility theory and its various alternatives (e.g. Machina, 1981,
+1982; Buschena and Zilberman, 1994). Rather, the focus is on the use of risk models to analyse farm-related
+problems. Some aspects of the approaches used most
+commonly in modelling risk are examined and the
+uses and usefulness of these approaches in agriculture
+is discussed. A premise of the ensuing discussion is
+that the appropriate level of detail and sophistication
+in the modelling of agricultural risks depends on the
+intended uses of the model. Three such uses are discussed and differences in the appropriate modelling
+approach are highlighted.
+
+0169-5150/00/$- see front matter ©2000E1sevier Science B.V. All rights reserved.
+PII: S 0 1 6 9-5 15 0 ( 0 0) 0 0 0 58- X
+
+70
+
+D.J. Pannell et al.lAgricultural Economics 23 (2000) 69-78
+
+2. Objectives of farm modelling
+The design of a farm model is itself a decision problem involving risk, objectives, and constraints. The
+choice depends on: (a) the proximity of task deadlines;
+(b) the availability, quality and cost of data and skilled
+modellers; (c) the marginal costs and benefits of extra
+effort to enlarge or complicate the model and (d) uncertainties such as the extent to which the problem or
+farming system may change during the construction of
+the model. Further, the choice of modelling technique
+depends on the objectives of the modeller, which may
+include: (a) to publish in a refereed journal; (b) to support the government's decision making by predicting
+either farmer behaviour or changes in welfare in response to a change in, for example, government policy,
+technology, prices or climate and (c) to help farmers
+make decisions. In the following sections these objectives are considered in more detail and their relevance
+to the modelling of agricultural risks is discussed.
+
+3. Publishing
+Suppose that the modeller' s objective is to publish
+in an economics journal an analysis of a farm management problem. For many, the solution to the decision problem outlined above is to develop a formal
+algebraic model of the problem, preferably addressing a topical or emerging issue, with uncertainty represented explicitly. Commonly, the model represents
+risk aversion as part of the farmer's objective, analytical solutions are derived and formal conclusions distilled from the results.
+The requirement for analytical solutions often
+causes the problem to be simplified substantially,
+resulting in potentially severe specification errors
+(Musser et al., 1986; Kingwell, 1996). The modelling
+framework can be subjective expected utility, for despite its acknowledged limitations (Machina, 1981,
+1982; Quiggin, 1982; Schoemaker, 1982; Just et al.,
+1990), it remains widely used and acceptable to most
+reviewers and journal editors (Hardaker et al., 1991;
+Bar-Shira, 1992).
+The emphasis on algebraic models is unfortunate
+because in practice, assessing the impacts of, and optimal responses to, risk is primarily a numbers game
+(Preckel and DeVuyst, 1992). It is rarely possible to
+
+generalise about the desirability or otherwise of a particular farming strategy, since the numbers vary widely
+from one situation to another. For example, yield distributions differ across soil types, regions and crop
+types (Stanford et al., 1994) and price distributions
+differ by commodity and data period (Lapp and Smith,
+1992). Babcock and Hennessy (1996) note that prices
+and yields are often assumed to be normally distributed
+(e.g. Fraser, 1994; Lapan and Moschini, 1994) which
+simplifies the analysis but is inconsistent with empirical evidence about the skewness of yields (Stanford et al., 1994) and with the non-negativity of yields
+and prices. Furthermore, the relative importance of
+price risk and production risk can vary widely between different enterprises, different farming systems
+and through time (Harris et al., 1974).
+Factors such as climate, crop diseases, soil types,
+crop species, irrigation, marketing policies and technology interact to form and alter the uncertainties of
+alternative farming practices. Ignoring these multiple sources of uncertainty is essential in an algebraic
+analysis to ensure tractability, 2 yet it is a specification error which can lead to false conclusions. For
+example, Pannell (1991) argued that the reputation
+of pesticides as 'risk-reducing' inputs was based primarily on studies which considered only uncertainty
+about pest density and/or pesticide effectiveness (e.g.
+Feder, 1979; Carlson, 1984). If the uncertainties of
+other factors such as price and potential yield were
+considered, pesticides could be either risk-reducing
+or risk-increasing. This argument has been supported
+in subsequent analyses (Leathers and Quiggin, 1991;
+Horowitz and Lichtenberg, 1994a, b).
+
+4. Supporting government decision making
+If it is accepted that a numerical rather than an analytical approach to modelling is necessary to support
+government decision making, it still remains necessary to choose the level of detail to be modelled and
+the modelling technique (Anderson et al., 1977; Hazell
+and Norton, 1986; Kennedy, 1986). These issues inevitably require judgement over the benefits and costs
+2 Robison and Barry (1987) note: "two random variables ...
+quickly complicate our analysis, forcing us into numeric rather
+than analytic approaches" (p. 110).
+
+D.J. Pannell et al. I Agricultural Economics 23 (2000) 69-78
+
+71
+
+Table I
+Expected value of annual income ($) from different farming strategies (utility maximising strategies based on absolute risk
+aversion=3.0x w-6)a
+Tactical adjustments
+Excluded
+
+Included
+
+Profit maximising solution
+Utility maximising solution
+
+153688
+150060
+
+168576
+168038
+
+Difference
+Percentage difference
+
+-3628
+-2.36%
+
+-538
+-0.32%
+
+a
+
+Difference
+
+Percentage difference
+
+14888
+17978
+
+9.69%
+11.98%
+
+Source: previously unpublished output from the MUDAS model (Kingwell, 1994).
+
+of including aspects of the decision problem in the
+model (Anderson, 1982). The key judgements related
+to risk are:
+• Should the model's time frame be static or dynamic?
+• If dynamic, should the model allow for tactical decision making, based on updated information in each
+time period?
+• Should risk aversion be represented?
+4.1. Relative importance of representing tactical
+adjustments and risk aversion
+Most studies of risk in economics and agricultural
+economics have adopted the static framework and included risk aversion in the decision maker's objective
+function (e.g. Sandmo, 1971; Feder, 1979). In these
+studies, risk or uncertainty matters, because decision
+makers endeavour to move away from strategies with
+relatively high variance of income towards strategies
+with relatively low variance, if necessary at the cost
+of some reduction in expected income.
+Most farmers would be puzzled that as a discipline
+we focus so much on this aspect of risk management.
+For them, the main issue raised by variability of price
+and production is how to respond tactically and dynamically to unfolding opportunities or threats to generate additional income or to avoid losses (i.e. how to
+respond to 'embedded risk'). For example, Ortmann
+et al. (1992) found that the information farmers desire
+for risk management is largely concerned with defining the expected outcome, not with avoiding risk per
+se. Such information allows farmers to respond profitably to variations in prices or climate and so is attractive even to 'risk-neutral' farmers, meaning those,
+
+whose objective is to maximise expected profit. Perhaps in recognition of this, there is a growing literature that stresses the need to consider the dynamic and
+tactical features of farming (Rae, 1971; Antle, 1983;
+Schroeder and Featherstone, 1990; Taylor, 1993).
+Several discrete stochastic programming studies
+have represented both tactical farm management
+responses and risk aversion (Schroeder and Featherstone, 1990; Featherstone et al., 1993; Kingwell,
+1994; Pannell and Nordblom, 1998), allowing the
+possibility of examining the relative importance of
+including tactics and risk aversion in the models. For
+example, Kingwell et al. (1993) found that the expected farm profit in a region of Western Australia
+could be increased by over 20% through appropriate
+tactical adjustments of farm plans, while Kingwell
+(1994) showed that when risk aversion was included
+in analyses of this farming system, optimal expected
+profit fell by only 2-6%. The results in Table 1 are
+from optimal solutions of the same model 3 with or
+without representation of risk aversion and with or
+without representation of tactical options. The utility maximising solutions employ a Pratt-Arrow risk
+aversion coefficient of 3.0x 10-6 which would be
+considered extremely high for this region based on
+published empirical evidence (e.g. Bond and Wonder,
+1980; Bardsley and HmTis, 1987). The increase in
+expected profit from tactical adjustments is 10-12%,
+whereas the reduction in expected profit given risk
+aversion is less than 3%.
+
+3 The model is a discrete stochastic programming model of a
+representative farm. Risk aversion is represented using a method
+similar to DEMP (Lambert and McCarl, 1985) and UEP (Patten
+et a!., 1988).
+
+D.J. Pannell eta!./ Agricultural Economics 23 (2000) 69-78
+
+72
+
+Table 2
+Certainty equivalent value ($) of the distribution of income from different farming strategies for a risk-averse farmer (absolute risk
+aversion=3.0x 10- 6 )a
+Tactical adjustments
+Excluded
+
+Included
+
+Profit maximising solution
+Utility maximising solution
+
+130797
+131912
+
+143147
+143597
+
+Difference
+Percentage difference
+
+1115
+0.85%
+
+449
+0.31%
+
+a
+
+Difference
+
+Percentage difference
+
+12351
+11685
+
+9.44%
+8.86%
+
+Source: previously unpublished output from the MUDAS model (Kingwell, 1994).
+
+In examining the relative importance of representing tactics or risk aversion, the most relevant comparison is of certainty equivalent 4 values for the solutions
+(Table 2). In calculating these certainty equivalents, it
+is assumed that the farmer is risk-averse (absolute risk
+aversion=3.0x w- 6 ). The impact of risk aversion is
+even less than suggested by results in Table 1, with
+certainty equivalents changing by less than 1%. Compared to the ideal model that includes risk aversion
+and tactical options, a model which failed to represent tactics would have identified a solution around
+$12,000 per year less valuable to the farmer. By contrast, the loss of certainty equivalent from accepting a
+recommended strategy that fails to consider risk aversion would have been only $1000 or less.
+While it is acknowledged that presentation of illustrative results does not provide a general proof, it is
+stressed that:
+1. This model represents a farming system with high
+levels of price and production risk.
+2. The results exaggerate the importance of risk aversion by using a risk aversion coefficient which is
+unrealistically high for most farmers in the region.
+3. The results are easily explicable (see below) and
+are consistent with all other numerical examples of
+which we are aware.
+4. The results are consistent with the attitudes of farmers, as mentioned earlier.
+
+4 The 'certainty equivalent' is the dollar value to a risk-averse
+person of the risky outcome of an investment. It is less than the
+expected value of profit or income from the investment due to the
+deduction of a 'risk premium' which increases with the level of
+risk and with the person's degree of risk aversion.
+
+Overall, our reading of the available evidence is
+that the trends evident in Table 2 are, if not general,
+at least extremely common. The primary reason for
+the low impact of risk aversion lies in the unresponsiveness of certainty equivalent to changes in farm
+management within the region of the optimum. This
+is directly comparable to a classic result in analysis
+of response to inputs, such as fertilisers. Variations
+in management practices within the region of the
+optimum make little difference to the level of net
+benefits because the profit function is fiat near the
+optimum (Anderson, 1975). Because of this flatness,
+consideration of complexities such as risk aversion,
+which only change the optimal strategy by moderate
+amounts, does not greatly affect farmer welfare. Thus,
+the argument is not that risk aversion does not affect
+the farmer's optimal plan, but that the impact of the
+changes on farmer welfare is small. This is likely to
+be true for any choice involving a continuous or approximately continuous decision variable (e.g. areas
+planted, input levels, stocking rates, feeding strategies
+and investment in futures contracts). It may be less
+true for large discrete choices such as decisions on
+purchase of land or large machinery.
+Representation of tactical adjustments makes a
+greater difference to the certainty equivalent because
+the main benefits of tactical adjustments occur in the
+extreme years, both good and bad. In these years
+the optimal management practices are very different
+to the optimal practices for most years, mainly due
+to impacts on expected profit, rather than risk. The
+differences in strategy in extreme years are generally
+larger than those prompted by risk aversion alone, often to the extent that certainty equivalent is sensitive
+to the change.
+
+D.J. Pannell et al.!Agricultural Economics 23 (2000) 69-78
+200
+
+Relative risk
+aversion of
+farmer
+
+g190
+9
+....1
+
+-
+
+~180
+
+c
+
+(I)
+
+~ 170
+·s
+0"
+(I)
+
+-E' 160
+~
+('5
+
+150
+
+0.0
+
+-- -
+
+140
+0
+
+0.8
+
+1.6
+
+2.4
+
+0.8
+1.6
+2.4
+
+-3.2
+
+3.2
+
+4
+
+73
+
+Table 3
+Cost to farmers in north-west Syria, in terms of lost potential
+certainty equivalent, from implementing the whole-farm plan from
+a model with a risk-neutral objective function•
+Farmer's relative
+risk aversion
+
+Cost of using riskneutral model (%)
+
+0.0
+0.8
+1.6
+2.4
+3.2
+
+0.0
+0.056
+0.26
+1.0
+1.9
+
+a Source: previously unpublished output from the model of
+Pannell and Nordblom (1998).
+
+Relative risk aversion of model
+
+Fig. 1. Certainty equivalent values of income for farmers in
+north-west Syria based on implementation of whole-farm plans
+from models representing various degrees of risk aversion. Source:
+previously unpublished output from the model of Pannell and
+Nordblom (1998).
+
+To illustrate further the low impact of representing risk aversion on the value of a model's recommended strategy, Fig. 1 shows the consequences of
+mis-specifying a producer's risk aversion coefficient
+in a representative farm model in north-west Syria
+(Pannell and Nordblom, 1998).
+Each line in Fig. 1 represents the certainty equivalent value of income for a hypothetical Syrian farmer
+with a utility function characterised by constant relative risk aversion. The different lines represent farmers
+with different levels of relative risk aversion (RRA).
+Moving from left to right along a line corresponds
+to different combinations of enterprises and practices
+identified as optimal by models of increasing risk aversion. On each line, at only one point does the risk aversion coefficient of the model correspond to that of the
+farmer and, at this point, the certainty equivalent value
+to that farmer of the plan recommended by the model
+is maximised. All other models recommend a plan of
+lower value. The most striking aspect of the figure is
+the flatness of the lines, reflecting that the certainty
+equivalent value of a farm model's recommended plan
+is insensitive to the degree of risk aversion used to derive the plan. If a risk-averse farmer implemented a
+plan which would be optimal for a risk-neutral farmer,
+the level of potential utility foregone by the farmer
+would be small. This is made clearer in Table 3, which
+shows the loss of potential certainty equivalent for various farmers from implementing the recommendations
+
+of a risk-neutral model. Not surprisingly, the cost increases with the degree of risk aversion of the farmer.
+However, even at the highest level of risk aversion
+(RRA=3.2), the cost in certainty equivalence of ignoring risk aversion is less than 2%. Although, risk
+aversion coefficients of Syrian farmers have not been
+estimated, on the basis of other studies in developing countries (e.g. Binswanger, 1980; Antle, 1987) we
+would expect that for most Syrian farmers the cost of
+ignoring risk aversion when selecting a plan would be
+less than 1%. The small value of this cost is even more
+surprising given that climatic risks faced by Syrian
+farmers are among the highest in the world (Nguyen,
+1989).
+Notice that although certainty equivalent is insensitive to farm strategy, it is sensitive to the risk aversion coefficient, as reflected in the distances between
+the lines in Fig. 1. It is not claimed that risk-averse
+farmers are little affected by risk. If that were true, the
+lines in Fig. 1 would lie close together. The argument
+here rests on the lines' flatness, not their separation.
+The flatness reflects the empirical result that the feasible and optimal extent of risk avoidance is relatively
+small.
+A third example from a contrasting situation is presented in Table 4 which shows findings for a weed control problem in a region of Western Australia (Pannell,
+1995). The model selects optimal herbicide dosages
+for a representative farm. Even when the importance
+of risk aversion is exaggerated by assuming perfect
+correlation between yields on each hectare and by assuming a relative risk aversion coefficient of 3.2, the
+cost of using a risk-neutral model is less than 1%. For
+more realistic assumptions it is less than 0.1 %.
+
+74
+
+D.J. Pannell et al./Agricultural Economics 23 (2000) 69-78
+
+Table 4
+Cost to farmers in Western Australia, in terms of lost potential
+certainty equivalent, from implementing the herbicide dosage from
+a model with a risk-neutral objective functiona
+Farmer's relative
+risk aversion
+
+Cost of using riskneutral model (%)
+
+0.0
+0.8
+1.6
+2.4
+3.2
+
+0.0
+0.038
+0.18
+0.46
+0.95
+
+a Source: previously unpublished output from model of Pannell
+(1995).
+
+Some farm modelling studies that consider tactics
+and risk aversion identify risk aversion as an important influence on farm management (Schroeder and
+Featherstone, 1990; Featherstone et al., 1993). However, these studies do not ask the question that we
+have addressed above: to what extent does adjusting
+farm management in response to risk aversion increase
+farmer welfare. They also do not address the issue of
+the relative importance of including tactics versus risk
+aversion. For example, Featherstone et al. (1993) described a representative Indiana farm and examined
+optimal capital structures using a discrete stochastic
+programming formulation. Some of their results are
+reproduced in Table 5.
+
+Table 5
+Owned land and the certainty equivalent of annual retum to initial
+equity for an Indiana farm with 40 or 70% initial debt•
+
+40% initial
+debt
+
+70% initial
+debt
+
+Relative
+risk
+aversion
+
+Owned land (acres)
+Year I
+
+Year 2 Year 3
+
+Certainty
+equivalent of
+annual return
+to initial
+equity (%)
+
+0.0375
+
+800
+
+977
+
+1063
+
+10.4
+
+0.375
+0.75
+3.75
+
+800
+800
+800
+
+818
+818
+821
+
+1064
+1064
+821
+
+10.2
+10.1
+9.1
+
+0.0375
+
+800
+
+954
+
+1069
+
+14.9
+
+0.375
+0.75
+3.75
+
+800
+806
+800
+
+813
+868
+800
+
+1020
+1064
+808
+
+14.3
+13.7
+11.8
+
+a Debt to assets ratio expressed as a percentage. Initial owned
+land in Year 1 is 800 acres. Source: Featherstone et a!. (1993).
+
+When the farm has an initial debt to asset ratio of
+40% risk aversion has little impact on the certainty
+equivalent of the annual return to initial equity. At
+an initial debt to asset ratio of 70% risk aversion has
+a greater effect in reducing the certainty equivalent.
+However, recall from the earlier results, that it would
+be a fallacy to think that certainty equivalent being
+sensitive to risk aversion necessarily implies that a
+model with risk aversion generates substantially more
+valuable recommendations than a risk-neutral model.
+Failure to recognise this fallacy is a cause of some
+agricultural economists over-rating the importance of
+modelling risk aversion. Nevertheless, it is true that
+many studies have found that farm activity selections
+were affected by the degree of risk aversion (Hazell
+et al., 1983; Chavas and Holt, 1990; Schroeder and
+Featherstone, 1990; Kingwell, 1994). There is no paradox here. The explanation lies in the flatness of the
+certainty equivalent curves, as outlined earlier. Thus,
+the importance of representing risk aversion depends
+very much on the objectives of the study. Risk aversion will be relatively more important in studies with
+an objective of predicting behavioural responses to a
+change, rather than of assessing welfare impacts or
+making recommendations to farmers.
+Even for predictive purposes, however, there are reasons to believe that representation of risk aversion is
+not as important as often portrayed in the literature. In
+some studies, the impact of risk aversion on optimal
+management is exaggerated by (a) using unrealisticly
+high risk aversion coefficients; (b) failure to represent
+farm constraints and technology realistically (Musser,
+McCarl, and Smith) and/or (c) modelling individual
+enterprises without considering their degree of correlation with other enterprises or decisions. In some
+studies, with or without these failings, the impact of
+risk aversion on behaviour has been found to be low
+(e.g. Smidts, 1990). Finally, even when risk aversion
+does truly affect management, its effects may still be
+small in relation to those of other factors that may be
+considered for inclusion in the model.
+Often, better representation of the biology, production alternatives, technology, taxation ramifications,
+resource endowments, weather-year and price conditions, and tactical oppmtunities will yield more
+valuable information about change at the farm-level
+than sophisticated inclusion of risk aversion. Overall,
+we conclude that if a farm management model is to
+
+D.J. Pannell et a!. I Agricultural Economics 23 (2000) 69-78
+
+be constructed to predict or evaluate change at the
+farm-level, then inclusion of risk aversion is often of
+secondary importance. This is not to deny that farmers are risk-averse (Bond and Wonder, 1980; Antle,
+1987; Bardsley and Harris, 1987; Myers, 1989), nor
+to claim that risk aversion has no impact on welfare
+or behaviour. Rather, the evidence is that if we wish
+to evaluate a model by its ability to predict and evaluate change, then in many situations the net benefits of
+using modelling resources to represent risk aversion
+are less that the net benefits of using the resources to
+improve other aspects of the model. This echoes the
+sentiments of Sonka (1983):
+Our concentration on risk [aversion] as a source of
+non-profit-maximising behavior may have led us off
+the main trail. Several factors including production
+constraints, multiple goals and lack of information
+could cause farmers to make non-profit-maximising
+decisions. We should be concerned about assessing
+the impacts of these factors, not just the presence
+of risk. (p. 202).
+One cost of excluding risk aversion from a farm
+management model, would be that the model would
+not give due weight to the risk-reducing benefits of
+diversification. A traditional view is that diversification is a key risk management strategy (Samuelson,
+1967). By generating income from several activities
+whose returns are not perfectly correlated, a farmer
+can reduce the overall income variance. Sometimes,
+the failure to represent risk is cited as a reason why
+outputs from some mathematical programming models of farms are not as diversified as the actual farms
+they represent.
+However, optimal farm plans for risk-neutral and
+risk-averse farmers can be similarly diversified (Brink
+and McCarl, 1978; Kingwell, 1994) since risk aversion is only one of a number of possible incentives
+for diversification. Reasons for diversification by the
+risk-neutral farmer include:
+1. Non-uniformity of resource quality. For example,
+on large farms with different areas and types of
+soil the profitability of crop or pasture alternatives
+differ according to soil type leading to a mix of
+enterprises across the farm (Morrison et al., 1986;
+Kingwell et al., 1992).
+2. Resource constraints. In the short run, limits on
+machinery capacity coupled with yield reductions
+from later sowing affect the optimal size of crop-
+
+75
+
+ping programs and may result in a mixture of enterplises. Similarly, labour supply and demand at
+particular times through the year may preclude a
+high concentration of other resources in a particular enterprise.
+3. Complementarities or positive interactions between enterprises. These include benefits of particular rotational sequences (e.g. nitrogen fixation
+by legumes, disease control, weed control, soil
+structure and soil organic matter content), and
+contributions of crop residues to livestock diets
+(Pannell, 1987). Hence, the failure of some mathematical programming models to select diversified
+farm plans is at least as likely to be due to their
+failure to adequately represent essential biological
+or physical characteristics of the farming system
+as their exclusion of risk aversion.
+Deterministic whole-farm models, such as MIDAS 5 (Kingwell and Pannell, 1987), which do
+represent these features can select strategies which
+are highly diversified, with risk-reduction as an
+unplanned-for bonus.
+Consider, then, the possibility that choosing to build
+a model without any representation of risk or uncertainty may be optimal when the marginal benefits and
+costs of modelling effort are fully assessed. The resources saved by not explicitly representing risk can
+be used to (a) represent other, more important, aspects
+of the farming system; (b) improve the quality of data
+in the model; (c) conduct more extensive model testing; (d) apply the model sooner and more often and
+(e) construct additional versions of the model for different purposes. An additional advantage is that deterministic models are much easier to test and maintain
+by virtue of their smaller size. Risk and uncertainty
+may still be considered in any analysis by the use of
+sensitivity analysis to investigate discrete scenarios of
+interest (Pannell, 1997).
+One situation which may weigh heavily against development of a deterministic model is where the intended audience for the modelling results perceive that
+explicitly representing risk is of critical importance.
+In this case, explicit representation of risk, risk aver5 'Deterministic' models have no explicit representation of probabilities related to risk or uncertainty. Parameters are specified as
+fixed, best-bet or mean values. MIDAS stands for model of an
+integrated dryland agricultural system.
+
+76
+
+D.J. Pannell et al./ Agricultural Economics 23 (2000) 69-78
+
+sian and/or tactical responses to risk may increase the
+credibility of the model sufficiently to warrant the effort involved, irrespective of their impact on the value
+of the results.
+
+5. Aiding farmer decision making
+A final reason for constructing a farm model is to
+aid farmer decision-making. Farmers make numerous
+decisions against the backdrop of two key objectives.
+The first is that most farmers wish to stay in farming despite the shocks of price and weather and the
+changes in policy, technology and social conditions
+that typify agriculture. The second is that farmers wish
+to increase their wealth over time. The keys to achieving these objectives are to get right the big decisions,
+such as those on land purchase, machinery investment and resource improvement (Malcolm, 1994) and
+to make correct major tactical adjustments (K.ingwell
+et al., 1993).
+This conclusion is supported, for Australia at least,
+by farm survey evidence (Ripley and Kingwell, 1984;
+Edwards, 1994). The farmers most likely to be under
+acute financial strain at any time are those who bought
+land or machinery at the wrong time or at the wrong
+price or who made significant and incorrect major adjustments to their farm operations. Hence, it is not the
+everyday or even annual risk management decisions
+that are likely to crucially affect farm viability. Surprisingly, the important long-run, major decisions are
+largely ignored in the risk literature, which focuses
+mainly on decisions about input levels and output
+portfolios.
+In developing models for use by farmers, the question of appropriate complexity and sophistication is
+central. The reality of farming is complex. Dynamic,
+stochastic, biological, technical, financial and human
+factors interact in a way that will probably never be
+incorporated fully in any mathematical model of agricultural decision analysis. Ironically, however, "the
+elaborate decision analytical methods such as those
+espoused in the decision theory and systems literature are not much use in practice in the very complex
+and uncertain situation of the farm business, whilst
+the straight-forward farm management budgets are
+extremely useful" (Malcolm, 1994, p. 21 ). Patrick
+and DeVuyst (1995) also emphasise the limitations
+
+of sophisticated risk modelling techniques for most
+farmers, pointing out that there is considerably more
+risk-related research information available than is
+being incorporated into extension programs.
+The reality of farm management, which farmers understand well, is that, it is better to solve the whole
+problem roughly than to attempt to solve part of the
+problem extremely well. The advantage of simple budgeting approaches to farm planning is that, at least at
+some level, it facilitates consideration of all relevant
+characteristics of the unique farm business (e.g. enterprise interactions, constraints, personal preferences,
+attitudes, competencies and experiences). Use of sensitivity analysis to examine discrete key scenarios and
+identify break-even circumstances are simple but valuable methods of incorporating risk in this decision process, both from the point of view of risk aversion and
+tactical adjustments. The techniques are unsophisticated and old, yet they provide the farmer with an opportunity to discern the nature and potential impact of
+uncertainties in a way that promotes sensible management of risk. They can capture sufficient detail, sometimes implicitly, so that the value of the information
+generated for the farmer is higher than could be generated by a less timely, more partial and more obscure
+sophisticated risk model.
+
+6. Concluding comments
+We are not arguing that farmers are risk-neutral,
+that farming is free of risk, nor that diversification is
+ineffective as a risk-reducing strategy. Nor is the paper about the validity of decision theory, subjective
+expected utility theory or any other technique or theory. We are not arguing against research to understand
+human behaviour. Rather, the focus of this paper is
+on the applied usefulness and value of alternative approaches to decision analysis.
+A contribution of the paper is to pose a question
+that appears to have been absent from the literature
+on risk in agriculture: for a risk-averse farmer, what
+is the extra value of a recommendation derived from
+a model that represents risk aversion, compared to a
+model based on risk neutrality? For many examples,
+the answer seems to be, very little.
+Certainly the study of risk and its implications for
+farm management is intrinsically interesting, challeng-
+
+D.J. Pannell et a!. I Agricultural Economics 23 (2000) 69-78
+
+ing and currently often publishable. However, a critical assessment of the literature reveals that the aspects
+of agricultural risk most commonly researched and
+published often are issues of secondary importance in
+determining how farms are managed. The models and
+outcomes of much current risk management research
+are not readily applicable to farmers. There is a need
+for our discipline to assess the needs of our audiences
+more carefully.
+
+Acknowledgements
+The authors appreciate comments and suggestions
+by Steven Schilizzi and the anonymous reviewers.
+
+References
+Anderson, J.R., 1975. One more or less cheer for optimality. J.
+Aust. Inst. Agric. Sci. 41, 195-197.
+Anderson, J.R., 1982. Agricultural economics, interdependence
+and nncertainty. Aust. J. Agric. Econ. 26, 89-97.
+Anderson, J.R., Dillon, J.L., Hardaker, J.B., 1977. Agricultural
+Decision Analysis. Iowa State University Press, Ames.
+Antle, J.M., 1983. Incorporating risk in production analysis. Am.
+J. Agric. Econ. 65,1099-1106.
+Antle, J.M., 1987. Econometric estimation of producers' risk
+attitudes. Am. J. Agric. Econ. 69, 509-522.
+Babcock, B.A., Hennessy, D.A., 1996. Input demand under yield
+and revenue insurance. Am. J. Agric. Econ. 78, 416-427.
+Bardsley, P., Harris, M., 1987. An approach to the econometric
+estimation of attitudes to risk in agriculture. Aust. J. Agric.
+Econ. 31, 112-126.
+Bar-Shira, Z., 1992. Nonparametric test of the expected utility
+hypothesis. Am. J. Agric. Econ. 74, 523-533.
+Binswanger, H.P., 1980. Attitudes toward risk: experimental
+measurement in rural India. Am. J. Agric. Econ. 62, 395-407.
+Bond, G., Wonder, B., 1980. Risk attitudes amongst Australian
+farmers. Aust. J. Agric. Econ. 24, 16-34.
+Boussard, J.-M., 1979. Risk and uncertainty in programming
+models: a review. In: Roumasset, J.A., Boussard, J.-M., Singh,
+I. (Eds.), Risk, Uncertainty and Agricultural Development.
+Southeast Asian Regional Center for Graduate Study and
+Research in Agriculture, Laguna, Philippines, and Agricultural
+Development Council, New York.
+Brink, L., McCarl, B., 1978. The tradeoff between expected return
+and risk among corn belt farmers. Am. J. Agric. Econ. 60, 259263.
+Buschena, D.E., Zilberman, D., 1994. What do we know about
+decision making under risk and where do we go from here?.
+J. Agric. Resou. Econ. 19, 425-445.
+Carlson, G.A., 1984. Risk reducing inputs related to agricultural
+pests. Risk analysis of agricultural firms: concepts, information
+
+77
+
+requirements and policy issues. In: Proceedings of the Regional
+Research Project S 180. Depmtment of Agricultural Economics,
+University of Illinois, Urbana, IL, pp. 164-175.
+Chavas, J.-P., Holt, M.T., 1990. Acreage decisions under risk the
+case of corn and soybeans. Am. J. Agric. Econ. 72, 529-538.
+Edwards, K.. 1994. Farm business failure: Is there a pattern? In:
+Cook, V., Edwards, K., Ronan, G. (Eds.), A Positive Approach
+to Farm Adjustment. Primary Industries South Australia,
+Adelaide, pp. 39-52.
+Featherstone, A.M., Baker, T.G., Preckel, P.V., 1993. Modeling
+dynamics and risk using discrete stochastic programming:
+a farm capital structure application. In: Taylor, C.R. (Ed.),
+Applications of Dynamic Programming to Agricultural Decision
+Problems. Westview Press, Boulder, pp. 145-169.
+Fraser, R., 1994. The impact of price support on set-aside responses
+to an increase in price uncertainty. Eur. Rev. Agric. Econ. 21,
+131-136.
+Feder, G., 1979. Pesticides, information, and pest management
+under uncertainty. Am. J. Agric. Econ. 61, 97-103.
+Hardaker, J.B., Pandey, S., Patten, L.H., 1991. Farm planning under
+uncertainty: a review of alternative programming models. Rev.
+Market. Agric. Econ. 59, 9-22.
+Harris, K.B., Crawford, J.G., Gruen, F.H., Honan, N.D., 1974.
+Rural Policy in Australia, Report to the Prime Minister by a
+Working Group, May 1974, Australian Government Printing
+Service, Canberra.
+Hazell, P.B.R., Norton, R.D., Parthasarathy, M., Pomareda, C.,
+1983. The importance of risk in agricultural planning models.
+In: Norton, R.D., Solis, I. (Eds.), The Book of CHAC:
+Programming Studies for Mexican Agriculture. The John
+Hopkins University Press, Baltimore, pp. 225-249.
+Hazell, P.B.R., Norton, R.D., 1986. Mathematical Programming
+for Economic Analysis in Agriculture. MacMillan, New York.
+Horowitz, J.K., Lichtenberg, E., 1994a. Risk-reducing and
+risk-increasing effects of pesticides. J. Agric. Econ. 45, 82-89.
+Horowitz, J.K., Lichtenberg, E., 1994b. Insurance, moral hazard
+and chemical use in agriculture. Am. J. Agric. Econ. 75, 926935.
+Just, R.E., Zilberman, D., Hochman, E., Bar-Shira, Z., 1990. Input
+allocation in multicrop systems. Am. J. Agric. Econ. 72, 200209.
+Kennedy, J.O.S., 1986. Dynamic Programming, Applications to
+Agriculture and Natural Resources. Elsevier, London.
+Kingwell, R.S., 1994. Risk attitude and dryland farm management.
+Agric. Sys. 45, 191-202.
+Kingwell, R.S., 1996. Programming models of farm supply
+response: the impact of specification errors. Agric. Sys. 50,
+307-324.
+Kingwell, R.S., Pannell, D.J. (Eds.), 1987. MIDAS, A Bioeconomic
+Model of a Dryland Farm System. Pudoc, Wageningen.
+Kingwell, R.S., Morrison, D.A., Bathgate, A., 1992. The effect
+of climatic risk on dryland farm management. Agric. Sys. 39,
+153-175.
+Kingwell, R.S., Pannell, D.J., Robinson, S.D., 1993. Tactical
+responses to seasonal conditions in whole-farm planning in
+Western Australia. Agric. Econ. 8, 211-216.
+
+78
+
+D.J. Pannell et al./Agricultural Economics 23 (2000) 69-78
+
+Lambert, D., McCarl, B.A., 1985. Risk modeling using direct
+solution of nonlinear approximations of the utility function.
+Am. J. Agric. Econ. 67, 846-852.
+Lapan, H., Moschini, G., 1994. Futures hedging under price, basis
+and production risk. Am. J. Agric. Econ. 76, 465-477.
+Lapp, J.S., Smith, V.H., 1992. Aggregate sources of relative price
+variability among agricultural commodities. Am. J. Agric. Econ.
+74, 1-9.
+Leathers, H.D., Quiggin, J.C., 1991. Interactions between
+agricultural and resource policy: the importance of attitudes
+towards risk. Am. J. Agric. Econ. 73, 757-764.
+Machina, M., 1981. Rational decision making versus 'rational'
+decision modeling. J. Mathemat. Psycho!. 24, 163-175.
+Machina, M., 1982. Expected utility analysis without the
+independence axiom. Econometrica 50, 277-323.
+Malcolm, L.R., 1994. Managing farm risk: there may be less
+to it than is made of it, Unpublished paper presented to the
+Risk Management in Australian Agriculture Conference. Centre
+for Agricultural and Resource Economics, University of New
+England, Armidale, Australia.
+Morrison, D.A., Kingwell, R.S., Pannell, D.J., Ewing, M.A., 1986.
+A mathematical programming model of a crop-livestock farm
+system. Agric. Sys. 20, 243-268.
+Musser, W.N., McCarl, B.A., Smith, G.S., 1986. An investigation
+of the relationship between constraint omission and risk
+aversion in firm risk programming models. South. J. Agric.
+Econ. 18, 147-154.
+Myers, R.J., 1989. Econometric testing for risk averse behavior in
+agriculture. Appl. Econ. 21, 541-552.
+Nguyen, H., 1989. Agricultural planning policy and variability
+in Syrian cereal production. In: Anderson, J.R., Hazell, P.B.R.
+(Eds.), Variability in Grain Yields: Implications for Agricultural
+Research and Policy in Developing Countries. Johns Hopkins
+University Press, Baltimore, pp. 78-90.
+Ortmann, G.F., Patrick, G.F., Musser, W.G., Doster, D.H., 1992.
+Information sources, computer use and risk management
+evidence from leading commercial cornbelt farmers. Bulletin
+638. Agricultural Experiment Station, Purdue University, West
+Lafayette, IN.
+Pannell, D.J., 1987. Crop-livestock interactions and rotation
+selection. In: Kingwell, R.S., Pannell, D.J. (Eds.), MIDAS:
+A Bioeconomic Model of a Dryland Farm System. Pudoc,
+Wageningen, pp. 64-73.
+Pannell, D.J ., 1991. Pests and pesticides, risk and risk aversion.
+Agric. Econ. 5, 361-383.
+Pannell, D.J., 1995. Optimal herbicide strategies for weed control
+under risk aversion. Rev. Agric. Econ. 17, 337-350.
+
+Pannell, D.J., 1997. Sensitivity analysis of normative economic
+models: theoretical framework and practical strategies. Agric.
+Econ. 16, 139-152.
+Pannell, D.J., Nordblom, T.L., 1998. Impact of risk aversion on
+whole-farm management in Syria. Aust. J. Agric. Resou. Econ.
+42, 227-247.
+Patrick, G.F., DeVuyst, E.A., 1995. Whence and whither in farm
+management risk research and extension delivery. Can. J. Agric.
+Econ. 43, 1-14.
+Patten, L.H., Hardaker, J.B., Pannell, D.J., 1988. Utility efficient
+programming for whole-farm planning. Aust. J. Agric. Econ.
+32, 88-97.
+Preckel, P.V., DeVuyst, E., 1992. Efficient handling of probability
+information for decision analysis under risk. Am. J. Agric.
+Econ. 74, 655-662.
+Quiggin, J., 1982. A theory of anticipated utility. J. Econ. Behav.
+Org. 3, 323-343.
+Rae, A.N., 1971. An empirical application and evaluation of
+discrete stochastic programming in farm management. Am. J.
+Agric. Econ. 53, 625-638.
+Ripley, J., Kingwell, R., 1984. Farm indebtedness in wheat-growing
+areas of western australia: survey results. Western Australian
+Department of Agriculture, Perth.
+Robison, L.J., Barry, P.J., 1987. The Competitive Firm's Response
+to Risk. Macmillan, New York.
+Samuelson, P.A., 1967. A general proof that diversification pays.
+J. Finan. Quantitative Anal. 2, 1-13.
+Sandmo, A., 1971. On the theory of the competitive firm under
+price uncertainty. Am. Econ. Rev. 61, 65-73.
+Schoemaker, P.J., 1982. The expected utility model. J. Econ. Lit.
+20, 529-563.
+Schroeder, T.C., Featherstone, A.M., 1990. Dynamic marketing
+and retention decisions for cow-calf producers. Am. J. Agric.
+Econ. 72, 1028-1040.
+Smidts, A., 1990. Decision making under risk: a study of
+models and measurement procedures with special reference
+to the farmer's marketing behaviour. Agricultural University,
+Wageningen.
+Sonka, S.T., 1983. Thoughts on modeling risk management on
+the farm. In: Baum, K.H., Schertz, L.P. (Eds.), Modeling Farm
+Decisions for Policy Analysis. Westview, Boulder, pp. 200203.
+Stanford, L., Proctor, W., Wright, J., 1994. Wheat farming risk.
+In: Farm Surveys Report. ABARE, Canberra, pp. 72-80.
+Taylor, C.R. (Ed.), 1993. Applications of Dynamic Programming
+to Agricultural Decision Problems. Westview Press,
+Boulder.
+
+

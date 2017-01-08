@@ -1,0 +1,1588 @@
+AGRICULTURAL
+ECONOMICS
+
+ELSEVIER
+
+Agricultural Economics 17 (1997) 211-222
+
+Estimation of farmers' risk attitude: an econometric approach
+Z. Bar-Shira a,*, R.E. Just
+b
+
+b'
+
+D. Zilberman
+
+c
+
+• Hebrew University of Jerusalem, Jerusalem, Israel
+University of Maryland, College Park, Prince Georges, MD, USA
+c University of California Berkeley, Berkeley, CA, USA
+
+Accepted 23 May 1997
+
+Abstract
+An econometric procedure for estimating Arrow-Pratt coefficients of risk aversion is derived. The model of farmers allocating land
+among different crops, and time between leisure and labor, allows for testing Arrow's hypotheses of decreasing absolute risk aversion and
+increasing relative risk aversion. The empirical results support these hypotheses. © 1997 Elsevier Science B.V.
+
+1. Introduction
+
+The seminal works of Arrow (1971) and Pratt
+(1964) established that under the expected-utility
+hypothesis there exist one-to-one relationships between preferences over random income or wealth
+and the measures of risk aversion. Since then, the
+various measures of risk aversion have played a
+central role in determining comparative static results
+of behavior under uncertainty (i.e., Sandmo, 1971;
+Just and Zilberman, 1983). In particular, specific
+assumptions regarding the signs, magnitudes, and
+behaviors with respect to wealth changes of the
+measures are required. Commonly, theoretical studies assume positive measures of risk aversion and
+adopt Arrow's hypotheses on the effect of wealth on
+the measures of risk aversion i.e., decreasing absolute and increasing relative risk aversion.
+While there exists some empirical evidence on the
+signs and magnitudes of these measures there is a
+little empirical evidence on the effect of wealth
+
+* Corresponding author.
+
+changes on them. Thus, the objective of this study is
+two-fold: (i) estimating the orders of magnitudes of
+the measures of risk aversion; (ii) estimating the
+effects of wealth changes on the measures, thereby
+testing Arrow's conjectures about their behavior with
+respect to income or wealth. It is worthwhile to note
+that such empirical results are of special importance
+to the agricultural sector. Agricultural production is
+characterized by considerable risk and significant
+governmental intervention and thus aggregate measures of risk aversion and their properties with respect to wealth have very important policy implications.
+The ·literature has attempted to provide empirical
+evidence of individuals' risk attitudes. These attempts may be classified into two main approaches:
+experimental and econometric. A critical difference
+between them is that the former is based on simulations in which individuals are presented with hypothetical questionnaires regarding risky alternatives,
+with or without real payments, while the latter has
+the advantage of being based on individuals' actual
+decisions. The experimental approach, for example,
+has been used by Dillon and Scandizzo (1978) to
+
+0169-5150/97/$17.00 © 1997 Elsevier Science B.V. All rights reserved.
+PI/ S0169-5150(97)00021-2
+
+212
+
+Z. Bar-Shira et al.j Agricultural Economics 17 (1997) 211-222
+
+elicit risk attitudes of subsistence farmers in northeast Brazil, and by Binswanger (1980), Binswanger
+(1981) and Quizon et al. (1984) to analyze a fairly
+large-scale experiment, with real significant payments, in rural India.
+The econometric approach has been used in variety of circumstances. Moscardi and de Janvry (1977),
+and Shahabuddin et al. (1986) used such an approach
+in which the decision-makers were assumed to follow a safety-first rule. Antle (1987, 1989), Bardsley
+and Harris (1987), Love and Buccola (1991), Pope
+and Just (1991), and Saha et al. (1994) used econometric approaches to study of risk attitudes of decision-makers assuming expected utility maximization.
+Newbery and Stiglitz (1981), Robison (1982), Pope
+(1982), Hazell (1982) and Binswanger (1982) present a comprehensive discussion of the relevant literature.
+The papers by Pope and Just, Bardsley and Harris, and Saba are the closest to this one. Pope and
+Just developed tests for distinguishing between constant absolute, relative, and partial risk aversion. In
+contrast, they did not consider an elasticity of risk
+aversion and thus did not estimate a systematic way
+in which risk aversion differs among individuals.
+Hence, the specific hypotheses of Pope and Just are
+special cases of the general model of this paper. In
+Section 6 we compare our results to others including
+Bardsley and Harris, and Saba.
+A large body of evidence against the expected
+utility hypothesis has been accumulating over past
+decades (i.e., Kahneman and Tversky, 1979;
+Machina, 1987), raising some doubts as to the importance of the previously mentioned measures. Most of
+the violations of the expected utility hypothesis,
+however, have been obtained with carefully planned
+experiments. Thus, it is unclear whether such violations should prohibit the use of the expected utility
+hypothesis when studying real-world decisions. Recently, Bar-Shira (1992) could find no violations of
+the expected utility hypothesis in production decisions of Israeli farmers. Rubinstein (1988) indicates
+that the expected utility hypothesis is likely to be
+violated when alternatives are similar in the sense
+that either prizes or probabilities are indistinguishable among the alternatives. Buschena and Zilberman (1992) showed that the expected utility hypothesis is less likely to hold when comparing alternative
+
+pairs that are highly dissimilar in both magnitude
+and probability. 1 However, real-life alternatives appear to be relatively similar, but distinguishable.
+Thus the expected utility hypothesis is apparently
+valid for the purpose of this paper.
+This paper proceeds as follows. Section 1 reviews
+the relevant literature. Section 2 discusses the relationships between the absolute, relative and partial
+measures of risk aversion, and theoretical responses
+to changes in income or wealth under each. Section 3
+outlines the model and derives some conclusions on
+the effect of risk on production. Section 4 gives
+empirical background and describes the data. In Section 5, the estimation procedure is outlined. Section
+6 presents the results and compares them to results
+which have been obtained in other studies. Then
+conclusions are presented.
+
+2. Measures of risk aversion: properties and relationships
+Arrow and Pratt first introduced the measure of
+absolute risk aversion
+(1)
+A(W)
+U"(W)jU'(W),
+where W indicates total wealth and U" and U'
+indicate the second and first derivatives of the von
+Neumann-Morgenstern utility function, respectively.
+The measure of absolute risk aversion is appropriate
+to describe situations in which total wealth has a
+fixed stochastic part-income, and a variable nonstochastic part-initial wealth. Arrow pointed out
+that intuition implies that an individual's willingness
+to undertake a certain risky project is greater when
+hejshe is wealthier. In other words, wealthier individuals should have a greater amount of risky assets
+in their portfolio. Thus, the measure of absolute risk
+aversion should decrease with wealth.
+In situations where both the stochastic and nonstochastic components of the wealth are changing
+proportionally, the appropriate measure IS relative
+risk aversion,
+(2)
+R(W)= -(U"(W)jU'(W))W.
+Arrow's hypothesis is that when both initial wealth
+and the risky project are increased by the same
+
+=-
+
+1 Both prizes and probabilities of the lotteries in one pair are
+significantly different from those of the lotteries in the other pair.
+
+Z. Bar-Shira et al. I Agricultural Economics 17 (1997) 211-222
+
+proportion, the individual's willingness to undertake
+the risky project is smaller. In other words, wealthier
+individuals should hold a smaller proportion of risky
+assets in their portfolio. The intuitive hypothesis of
+increasing relative risk aversion is also supported
+mathematically. Assuming bounded utility
+functions, 2 Arrow showed that the measure of relative risk aversion must be greater than unity for
+arbitrarily large wealth, and less than unity for arbitrarily small wealth. 3 Thus, a continuous monotone
+measure of relative risk aversion must be increasing
+with wealth and must be equal to one for some
+wealth between zero and infinity.
+A third measure of risk aversion is the measure of
+partial risk aversion (Menezes and Hanson, 1970;
+Zeckhauser and Keeler, 1970),
+P ( W0 , 1r)
+U" ( W0 + 1r) / U' ( W0 + 1r)) 1r,
+
+=- (
+
+(3)
+where W0 denotes nonstochastic initial wealth and 7T
+denotes stochastic income. Like the measure of relative risk aversion, this measure is unitless. The measure of partial risk aversion is appropriate to describe
+situations in which initial wealth is fixed and income
+is variable.
+The behavior of the measure of partial risk aversion under wealth changes or risky income changes
+can be shown to be determined by the measures of
+absolute and relative risk aversion when the measure
+of relative risk aversion is increasing with wealth.
+The measure of partial risk aversion is related to the
+measure of absolute risk aversion as follows:
+
+(4)
+Differentiating both sides with respect to W0 gives
+
+ap
+-
+
+awo
+
+=A'1r.
+
+(5)
+
+Hence, decreasing absolute risk aversion implies decreasing partial risk aversion with respect to initial
+wealth. The measure of partial risk aversion is related to the measure of relative risk aversion by
+
+( 6)
+
+2 The bounded utility assumption is sufficient to eliminate what
+is known as the St. Petersburg paradox (Laffont, 1989, pp. 7-8).
+3 To see this, denote relative risk as R, and then integrate twice
+the expression U" I U' > - RW.
+
+Differentiating both sides with respect to
+ap
+1r
+W0
+- = R'
++R
+2 .
+37T
+Wo + 7T
+( Wa + 7T)
+
+213
+7T
+
+yields
+
+(7)
+
+Hence increasing relative risk aversion implies increasing partial risk aversion with respect to 7T. The
+opposite, however, does not hold. One may have
+increasing partial risk aversion with respect to 7T and
+decreasing relative risk aversion at the same time.
+The above discussion shows that information concerning the behavior of the measures of absolute and
+relative risk aversion (when the latter is increasing)
+is sufficient to determine the behavior of the measure
+of partial risk aversion, but not the opposite (BarShira, 1991). We now show that the elasticity of the
+measure of absolute risk aversion with respect to
+wealth determines the behavior of both measures of
+absolute and relative risk aversion. The elasticity of
+the measure of absolute risk aversion with respect to
+wealth is defined as
+E~
+
+w
+
+=A'-.
+
+(8)
+
+A
+Assuming risk aversion, this elasticity is negative
+(zero, positive) when the measure of absolute risk
+aversion is decreasing (constant, increasing). In addition, because R' =A' W +A > 0 if and only if E,r' >
+-1, the measure of relative risk aversion is increasing (decreasing) when the elasticity of absolute risk
+aversion is greater (smaller) than minus one. It follows that 0 > E,r' > - 1 is equivalent to decreasing
+absolute risk aversion and increasing relative risk
+aversion. Note, that E,r' = -1 is equivalent to R' =
+A' W +A = 0, or in words, constant relative risk
+aversion. The analysis in this section shows that the
+elasticity of the measure of absolute risk aversion
+with respect to wealth determines the behavior of all
+three measures of risk aversion.
+
+3. Methodology
+The model presented below describes the following farming situation on an Israeli Moshav: I small
+farm owners, who form a village, allocate a fixed
+amounts of land L among agricultural activities,
+each ~aving net return 7Tj; and a fixed amount of
+time T among leisure T 1 and farm work. The technology is assumed to exhibit constant returns to scale
+
+Z. Bar-Shira et al.j Agricultural Economics 17 (1997) 211-222
+
+214
+
+with fixed proportions production. The constant-returns-to-scale assumption is regarded as relatively
+innocuous for this paper due to the fact that the total
+farm scale is constant in the sample with regard to
+both time and land. It follows that increasing one
+activity must be accompanied by a decrease in another activity, leading to reallocation of all inputs,
+including managerial input. Thus, the increase in size
+of some activities can be achieved without the loss
+of efficiency usually caused by increasing all inputs
+except the managerial input. The technology assumption is further justified by Just et al. (1990).
+Furthermore, labor is also a scarce input because
+hired labor is not available and all labor input to the
+farm has to be supplied by the owner and his family.
+In this study the absence of a labor market is due to
+the fact that farmers obey the principle of self-employment. 4 The absence of a labor market emphasizes the importance of time allocation between
+leisure and agricultural activities in the decision process.
+Farmers derive utility from both monetary wealth
+and leisure, so that their objective function is a
+two-argument utility function. By choosing different
+land allocations, the farmers are choosing different
+lotteries. In this sense the farmer's problem is the
+same as the investor's problem, the latter having to
+decide on an asset portfolio. Each farmer is assumed
+to act as an expected utility maximizer, and his
+decision problem can be written as
+maxE[U(W,T 1)]
+L,T 1
+
+= maxE[ U(W0 + 7T'L;T 1)]
+
+(9)
+
+L,T 1
+
+subject to:
+J
+
+T-
+
+1
+"TL.=T
+'-' J J
+
+(9.a)
+
+}= 1
+J
+
+L
+
+Lj 5, L
+
+(9.b)
+
+}= 1
+
+where L is a vector of the land amounts allocated to
+J crops, 7T is a corresponding vector of net returns, T
+4 The self-employment principle is one of the five principles
+which define a Moshav, which is an agricultural settlement in
+Israel (for more details see Zusman (1988)).
+
+is a vector whose typical element ~ is the time
+required to cultivate one unit of land planted with
+crop j, and E is the expectation over the distribution
+of profits. The first constraint (Eq. (9.a)) is the time
+constraint reflecting that the total amount of available time minus time spent on farm activities is
+equal to time devoted to leisure. The second constraint (Eq. (9.b)) is the capacity constraint indicating
+that total cultivated land can not exceed the total
+amount of available land. 5
+Substituting the time constraint (Eq. (9.a)) into
+the objective function (Eq. (9)) and assuming that the
+capacity constraint (Eq. (9.b)) is not binding, 6 the
+first-order conditions are
+aE[U]
+aL =E[7T· Uw] -E[T· UT1] =0
+
+(10)
+
+where Uw and UT 1 are the partial derivatives with
+respect to wealth and leisure, respectively.
+The interpretation of the first-order condition is
+straightforward: one more unit of time allocated to
+either leisure or one of the crops will generate, on
+average, the same utility increase. Thus, in the absence of a labor market, the cost of labor is determined by its opportunity cost in terms of leisure. In
+addition, the cost of labor is endogenous to the
+decision-maker, and hence the optimal production
+scheme is different from the optimal decision when
+the cost of labor is exogenous (as in a situation
+where hired labor is available).
+Another factor that affects the optimal decision is
+risk. Following Sandmo (1971), it can be shown that
+(7T/~) · Uw > UT1 for a risk-averse individual (A >
+0). Thus, in the case of decreasing marginal utility
+from leisure, the individual consumes more leisure
+under uncertainty than under certainty. Furthermore,
+in this model under certainty, the individual grows
+only one crop, the crop for which the profit per unit
+of time is maximum, and leisure is consumed to the
+point where its marginal utility is equal to the
+marginal utility from one more unit of time allocated
+
+5 Note that this decision problem is static in nature. Generalizing this framework following the dynamic model of agricultural
+decision making under risk of Hertzler (1991) would also be
+desirable but is beyond the scope of this paper.
+6 Note that in this study, observed land allocations sum to less
+than total land available on the farm.
+
+Z. Bar-Shira et al. /Agricultural Economics 17 ( 1997) 211-222
+
+to the chosen crop. Under uncertainty, however, the
+farmer grows more than one crop, and leisure is
+consumed to the point where its marginal utility is
+less than the marginal utility from the lowest profit
+per unit of time. Thus, it appears that risk-averse
+farmers diversify risks by choosing a crop portfolio.
+This has led researchers to model the choice of crop
+portfolio in the same framework as choice of an
+asset portfolio. Generally, the approach is to find the
+efficient frontier in the mean-variance plane by
+quadratic programming, and then to deduce the magnitude of the risk-aversion coefficient from the slope
+of the frontier at the chosen point. The econometric
+estimation approach has the advantage of straightforward hypotheses testing.
+A Taylor series expansion of Uw around expected
+wealth, W = W0 + 1T' L (where 1T = E[ 7T ]), for nonrandom leisure yields
+
+Uw
+
+=
+
+Uw
+
+= -Uw
+
++ Uw,w( 7T-1T)' L
+
+[1 + Uw,w(
+Uw
+
+-)' L
+
+7T- 7T
+
+l
+
+Now let the measure of absolute risk aversion, A,
+vary with W
+
+A=-
+
+u~,w =A(W).
+
+The functional form, A= a W.B, is sufficiently flexible to accommodate either risk-seeking or risk-averse
+behavior-a greater than (smaller than) zero implies
+risk aversion (risk seeking). Further, it does not
+restrict the sign of the elasticity of absolute risk
+aversion with respect to W, given by
+
+( 14)
+As demonstrated above, f3 determines the behavior
+of the three measures of risk aversion discussed
+above with respect to changes in wealth. Substituting
+the functional form for the measure of absolute risk
+aversion into the first order conditions gives
+(15)
+which, after some algebraic manipulations, can be
+written as
+
+-'TT- TUT'
+Uw,wE[ 7T ( 7T-7T
+-)']L
+-=-+-=-Uw
+Uw
+
+(16)
+
+=1T-T~T' + u~.w wL=O
+Uw
+
+(12)
+
+Uw
+
+where cp is the covariance matrix_!!f net profits from
+UT'
+the various crops. The term T-=- represents the
+Uw
+
+implicit cost of labor per unit of land. 7 The implicit
+cost of labor reflects the opportunity cost of time in
+terms of leisure, translated to monetary worth by the
+marginal rate of substitution between leisure and
+money. In this form, the first-order conditions parallel the usual optimality conditions under uncertainty,
+where profits minus costs are equated to the risk
+premium.
+
+7
+
+UT'
+
+Note that the units 0 f T-are
+U
+
+w
+
+time~/fi.mcvutititv =~.
+land t1me
+
+( 13)
+
+Uw
+
+(11)
+
+where Uw and Uw. w are Uw and Uw, w evaluated at
+W, respectively. ~ubstituting Eq. (11) into Eq. (10)
+and dividing by Uw gives
+
+215
+
+money
+
+land
+
+Since L is observed directly and cp and 1T bar can
+be estimated from the available data, this relationship
+is estimable if Wand TUTz/Uw are directly observable. To attain estimability, one needs estimates for
+W 0 and T. Under the permanent income hypothesis
+of Friedman, the individuals' consumption and hence
+saving is proportional to permanent income. As a
+consequence, the initial wealth at each time point is
+the sum of all past discounted expected profits multiplied by the marginal propensity to save. Formally
+t-1
+
+W0 , 1 = L(1+r) 1-ib·(1T'L);,
+
+(17)
+
+i= I
+
+where r is the interest rate and b is the marginal
+propensity to save. To apply this relationship, we
+approximate profits that have occurred up to 15
+years before the beginning of the data set, by the
+mean of all available profits.
+
+Z. Bar-Shira et al.j Agricultural Economics 17 (1997) 21I-222
+
+216
+
+Let the profit minus implicit cost of labor be
+defined as net benefit. Then it can be expressed as:
+
+Urt
+
+1f-T-==-= 1fP.,
+
+(18)
+
+Uw
+where J.L is the elasticity of net benefit with respect
+to profit. Now let J.L vary with the farmer's personal
+and technological characteristics such as management ability, land quality, etc. That is: J.L = 'f.l/fici,
+where ci is the ith characteristic and 1/Ji is the
+corresponding coefficient. Note that the farmer's
+characteristics reflect differences in the farmer's ability (i.e., the time required to cultivate one unit of
+land). Replacing J.L with the linear combination of
+characteristics, Eq. (18) becomes:
+UTI
+
+T-==- =
+
+Uw
+
+-
+
+-
+
+1r-
+
+7T('f.l/ficJ.
+
+(19)
+
+Substitution of Eq. (19) into Eq. (16) yields the
+estimable functional form
+(20)
+Taking the natural logarithm of both sides yields
+1
+ln<PL =In-- {31n(W0 -1f'L)
+
+a
++ 'LI/Ii · ci ·ln7f+ e,
+
+(21)
+
+where e is a random disturbance reflecting measurement errors in the data.
+
+4. Empirical background and data
+The methodology presented in the previous section is used in this section to estimate the risk
+attitudes of individual farmers of the same age group
+in southern Israel. Data were collected by the accounting office of Moshav Bin-Yahav. This cooperative settlement is located in the Arava region of
+Israel. The Arava encompasses the plains between
+the Red Sea and the Dead Sea. It is an arid region
+with low minimum and high maximum temperatures,
+making it an off-season producer of vegetables for
+local and export markets. Other than a handful of
+additional settlements, the Arava region is sparsely
+populated. Each farm on the moshav is privately
+controlled, and its economic life depends on its
+
+profitability. Output marketing and input purchasing
+are done cooperatively because of scale advantages.
+The moshav members accept the principles of selfemployment and mutual collaboration as their ideological basis. The social behavioral norms in this
+kind of settlement are very stringent. New candidates
+for membership have to meet these norms and the
+majority of the members have to approve their admittance. The strictness of these rules leads to a
+homogeneous population in terms of preferences.
+Hence it is reasonable to consider the differences in
+preferences as a secondary (and differences in wealth
+as the primary) factor affecting risk attitude.
+The data set has two parts. The first contains
+socioeconomic variables in the following order: diligence, thrift, management, experience, spouse work,
+agricultural knowledge, motivation, land quality, education, and risk-seeking attitude. These variables
+describing farmer characteristics were constructed by
+means of a Delphi panel assembled from among the
+moshav leaders and farm advisors. The variables are
+rated from one to five and represent the consensus of
+the panel. The higher the number, the better the
+attribute, for example the better the management
+ability, the higher the land quality, or the greater the
+spousal contribution. The second part of the data set
+contains a cross-section time series sample on 101
+farmers over 10 years (1973-1982). It contains aggregated variables consisting of total water use, total
+water cost, and expenditure on other inputs such as
+pesticides, fertilizers, and cultivating materials. The
+arid conditions and the remoteness of any outside
+water source make water the most critical input.
+Thus, drip irrigation, a very efficient way of using
+water, is the dominant technology. Disaggregated
+data on cultivated land, yield, and revenue are available by crop for bell peppers, tomatoes, onions,
+eggplant, and melons. Almost all farmers grow tomatoes, bell peppers and melons. A smaller number
+also grow eggplant and onions. The accounting office, in most cases, does not record input expenditure
+by crop, but it does record total input expenditure.
+One can use a behavioristic approach to recover the
+input expenditure per crop (Just et al., 1990), and
+then to recover the profit for each crop per unit of
+land. Two main factors cause the opportunity cost of
+land to be zero. First, there is no market for land
+because the land is owned by the government, and
+
+z.
+
+Bar-Shira et al. j Agricultural Economics 17 ( 1997) 211-222
+
+renting or selling it is illegal. Second, the land is
+allocated to the farmer in sufficient amount, such
+that the self-employment principle binds the time
+constraint before the land constraint becomes binding.
+
+217
+
+where
+(
+fr;,l=
+
+7r. 1 , if 7r. 1 is available
+I,
+I,
+fT.l,t' if7f.l, 1 isnotavailable
+
+{25)
+
+and () * = 1/l:~= 1ek. The estimated expected variance is given by
+3
+
+5. The estimation
+
+if?.l,t =
+
+().
+
+I:
+
+()k
+
+k= I
+
+The decision process is based on subjective expectations of future profit, as well as on expected
+variance of future profit. Future profit expectations
+are assumed to be based on previous years' profits.
+Since no farmer grows every crop every year some
+values are missing. A farmer who has such missing
+values is assumed to form perceptions of profit for
+those years based on farms which are similar to
+his jher own in terms of size, location, and owner
+wealth. These missing values are estimated by regressing profit on year and farmer dummies. That is
+7T'
+
+i t
+
+=
+
+'
+
+T
+'\'
+
+I
+
+i....J -v.Y8.Y
+Iz
+z
+
++ '\'
+.i...J
+
+i=l
+
+-vf8f.
+ll z
+
+{22)
+
+i=l
+
+Then, the estimated profit value is
+A
+
+- " Y + 'Yi
+"f
+
+{23)
+
+'TT'i,t- 'Yt
+
+where the y are the estimated parameters from Eq.
+(22).
+Future profit expectations in an environment
+which is Markovian up to white noise tend to be
+adaptive in nature (see Just, 1977). 8 Thus, farmer's
+expectations can be estimated by a weighted average
+of actual profit (or its prediction when the actual
+value is missing) over past years, where the coefficients sum to one and decline at a geometric rate (for
+more on the optimality of this procedure see Just,
+1977). Following Berhman (1968), the actual estimation was based on only the past 3 years' profit,
+because most of the explanatory power is in the
+profit of the last few years, and because of insufficient data. Adapting Just (1974), the estimated expected profit for farmer i at time t is
+3
+
+-;:::
+
+'TT'·I, t
+
+=
+
+(). '\' ()k-
+
+'-'
+
+'TT'; ' t-k
+
+{24)
+
+k= 1
+
+8 There are exceptions. For example, see Boussard (1982) who
+shows how risk expectations can generate chaotic motion.
+
+X ( 'TT'i,t- k - %i.t_ k)
+
+{26)
+
+X ( 7Ti,t-k- %i,t-k)' ·
+
+A simple grid search may be used to identify the
+maximum likelihood estimate of ().
+The endogenous variable L appears on both sides
+of Eq. (21), implying a simultaneity problem. To
+resolve it, we used a two-stage instrumental variable
+approach. The instruments were the first and second
+moments of the profit distribution function, i.e., the
+means and the components of the variance matrix
+(20 variables). Because there is no component of the
+variance matrix on the right-hand side of Eq. (21),
+the equation is identified.
+The first stage involves an instrumental logit
+model. That is,
+
+sk + 8
+
+J
+
+l o g - - = a+
+S1 + 8
+
+I: {3jmj
+j=l
+
+J
+
++
+
+J
+
+L L
+
+/'ijVij
+
+k=2 ... 5,
+
+{27)
+
+j=l i>j
+
+where sk is the share of land allocated to crop k,
+1
+. th
+8 = -=, mj is the mean of crop j, and vij IS e
+2 ·L
+d h
+..
+covariance of crop i and crop j. We use t e mmlmum chi-square method to estimate this logit model
+(Maddala, 1983). Specifically, we minimized the
+weighted sum of squared errors where the weights
+were (LskS 1 )t. Consequently, the resulting estimates
+are best linear unbiased estimates. Note that Eq. (27)
+implicitly assumes that the decision process is a
+sequential one: in the first step the farmer decides on
+total amount of land to be cultivated; in the next he
+decides on the allocation of cultivated land among
+the five crops. The second stage involves replacing
+the land allocations on the right-hand side of Eq.
+(21) by their predicted values obtained from the
+instrumentallogit model.
+
+218
+
+Z. Bar-Shira et al.j Agricultural Economics 17 ( 1997) 211-222
+
+Finally, before proceeding to estimation, we consider possible variation in risk attitude cross individuals. Following previous studies (Dillon and Scandizzo, 1978; Moscardi and de Janvry, 1977; Binswanger, 1980, 1981, 1982; Shahabuddin et al., 1986)
+concerning elicitation of risk attitudes, we related
+variation in risk attitude to variation in socioeconomic characteristics among individuals. Specifically, we replace the parameter a in Eq. (21) by a
+linear combination of the characteristics. This allows
+magnitudes of the measures of risk aversion to vary
+across individuals but keeps the elasticity of absolute
+risk aversion, {3, constant. Thus the estimated value
+for f3 should be interpreted as an estimate of aggregate elasticity. The extent to which the hypothesis of
+constant elasticity is credible depends on the empirical background.
+
+6. The results
+The ratio Sk / S1 is expected to increase in m k
+and decrease in m 1 because the higher the profit of a
+crop, the greater the amount of land allocated to it.
+This ratio is also expected to decrease in vkk and
+increase in v 11 because for risk-averse individuals
+the higher the variance of a crop, the smaller the
+amount of land allocated to it. Table 1 shows the
+results of the four instrumentallogit regressions. Out
+of 16 signs, only one has a significant opposite sign.
+Table 1
+Parameter estimates of Eq. (27)
+Dependent
+variable
+
+Independent
+variable
+
+Estimated
+parameter
+
+T ratio
+
+P value
+
+ml
+mz
+vn
+
+-1.2e-5
+5.5e-6
+l.le-8
+8.5e-8
+-3.0e-6
+-l.Oe-6
+6.5e-8
+-l.Oe-9
+-l.le-5
+-4.4e-6
+-3.6e-8
+-2.8e-9
+-3.9e-6
+5.9e-6
+-1.4e-8
+-2.8e-7
+
+-3.60
+2.23
+0.34
+3.24
+-0.59
+-0.19
+1.33
+-0.0!
+-2.31
+-0.59
+-0.75
+-0.02
+-0.88
+!.13
+-0.33
+-2.12
+
+0.0004
+0.0265
+0.7350
+0.0014
+0.5536
+0.8503
+0.1854
+0.9922
+0.0218
+0.5557
+0.4519
+0.9873
+0.3786
+0.2075
+0.7399
+0.0354
+
+Vzz
+
+ml
+m3
+vn
+V33
+ml
+m4
+vn
+v44
+ml
+ms
+vn
+Vss
+
+Table 2
+Parameter estimates of Eq. (21)
+Variable
+
+Estimated parameter T ratio
+
+Elasticity of ARA ( {3) -0.316
+-11.256
+Ln a (average)
+iJlnaj3Diligence
+1.853
+0.854
+Thrift
+-2.040
+Management
+-1.972
+Experience
+Spouse work
+0.361
+Agric. knowledge
+0.991
+Motivation
+0.311
+Land quality
+0.234
+Education
+1.267
+0.177
+i!JL / iJDiligence
+0.094
+Thrift
+-0.189
+Management
+-0.174
+Experience
+0.024
+Spouse work
+Agric. knowledge
+0.085
+0.021
+Motivation
+Land quality
+0.015
+0.115
+Education
+
+-2.638
+-6.077
+3.141
+1.491
+-2.786
+-2.614
+0.771
+1.417
+0.499
+0.353
+5.945
+3.137
+1.720
+-2.698
+-2.416
+0.552
+1.268
+0.353
+0.231
+5.765
+
+P value
+
+0.0001
+0.0001
+0.0017
+0.1364
+0.0055
+0.0091
+0.4411
+0.1569
+0.6179
+0.7243
+0.0001
+0.0018
+0.0857
+0.0071
+0.0159
+0.5809
+0.2051
+0.7243
+0.8187
+0.0001
+
+R-square = 0.99. Number of observations= 826.
+
+Table 2 gives the regression results of Eq. (21).
+The first and most important finding is that the
+elasticity of the measure of absolute risk aversion is
+-0.316. The associated T-ratio shows that it is
+significantly different from zero as well as from 1.
+Thus we accept the hypotheses of decreasing absolute risk aversion and increasing relative risk aversion over the simple alternative of constant absolute
+risk aversion or constant relative risk aversion. The
+derived behavior of the measure of partial risk aversion is straightforward: it increases with income and
+decreases with wealth. The results reported in Table
+2 were obtained for r = 0.04 which was the real
+interest rate during the observed time, and by assigning the marginal propensity to save, b, a value of
+0.2. This value was confirmed by the moshav leaders
+as being realistic. Furthermore, we performed a sensitivity analysis to verify how robust the results were
+to changes in the marginal propensity to save. Table
+3 shows the estimated values of ln a and f3 for
+different values of b. For b = 0.10 the estimated
+values for Ina and f3 were -10.51 and -0.37,
+respectively. For b = 0.30 the estimated values for
+ln a and f3 were - 11.62 and - 0.29, respectively.
+
+Z. Bar-Shira et al.j Agricultural Economics 17 (1997) 211-222
+
+Table 3
+Sensitivity analysis with respect to the marginal propensity to save
+b
+
+0.10
+
+0.15
+
+0.20
+
+0.25
+
+0.30
+
+Ina
+
+-10.51
+- 0.37
+
+-10.95
+- 0.34
+
+-11.25
+- 0.31
+
+-11.46
+-0.29
+
+-11.62
+-0.29
+
+{3
+
+Thus, the estimates for ln a and f3 appear to be
+robust to changes in b, i.e., the derived qualitative
+conclusions on the behavior of the measures of risk
+aversion with respect to wealth or income changes
+are the same.
+It is interesting to compare our results to those of
+others. A straightforward comparison is possible with
+Binswanger (1981), whose estimation of the elasticity of the measure of absolute risk aversion with
+respect to wealth was - 0.32. This is strikingly close
+to our finding. A less straightforward comparison is
+possible with Bardsley and Harris, who reported
+results for three different zones. Their estimations of
+the elasticity of the measure of partial risk aversion
+with respect to income and wealth were in the ranges
+of 0.129 to 0.194, and -0.312 to -0.642, respectively. One can easily verify that the following relaW
+tionships hold: (a) E~ = E4-o, that is, the elastica
+
+W
+
+ity of the measure of partial risk aversion with
+respect to initial wealth is equal to the elasticity of
+the measure of absolute risk aversion with respect to
+wealth multiplied by the share of nonstochastic
+
+E: = E4-w + 1, that is,
+1T
+
+wealth in total wealth; (b)
+
+the elasticity of the measure of partial risk aversion
+with respect to the random income is equal to the
+elasticity of the measure of absolute risk aversion
+with respect to wealth times the share of the random
+income in total wealth plus 1. Thus, our finding that
+the elasticity of the measure of absolute risk aversion
+is equal to - 0.316 is equivalent to elasticities of the
+measure of partial risk aversion with respect to initial
+wealth and random income of -0.19 and 0.95,
+respectively. 9 Whereas Bardsley and Harris' results
+are consistent with ours qualitatively, the magnitude
+of their estimated elasticity of the measure of partial
+
+9 Note that, as reported below, the share of initial wealth in
+total wealth is 0.8 at the median points.
+
+219
+
+risk aversion with respect to random income appears
+to be much lower than ours.
+The estimated effects of farmer characteristics on
+risk aversion are detailed in the central part of Table
+2. The most significant characteristics are diligence,
+management, experience and education. Notably,
+farmers with a higher level of experience as well as
+farmers with better managerial abilities exhibit a
+lower degree of risk aversion. The intuition is simple. Risk is a complicating factor which farmers with
+less experience or less managerial ability try to
+avoid. Higher levels of education are associated with
+higher risk aversion, suggesting that educated farmers understand better how to avoid risk. Diligence is
+also associated with higher risk aversion. A possible
+explanation might be that farmers who work harder
+can reduce ex-post risk and thus appear risk-averse
+ex-ante.
+The effects of farmer characteristics on the implicit cost of labor (bottom part of Table 2) can be
+divided into direct and indirect effects. The direct
+effect is due to the impact of the characteristics on
+the time required to cultivate one unit of land. The
+indirect effect comes through the marginal rate of
+substitution between leisure and money. When less
+time is devoted to farm activities, more time is
+devoted to leisure so the marginal rate of substitution
+goes down. Hence both effects work in the same
+direction. Diligence, agricultural knowledge and, to a
+lesser extent, education are expected to have positive
+coefficients because they are likely to reduce the
+time required to cultivate one unit of land. Thrift
+should have a positive coefficient because thrifty
+persons tend to waste less time (or to save more
+time). When land quality and labor are substitute
+factors, the land quality is also expected to have a
+positive coefficient. The cost of labor may increase
+with management and experience: people who work
+harder and longer may get higher yields and hence
+be characterized as having higher management ability and experience.
+Statistics describing the three coefficients of risk
+aversion, initial wealth, expected profit, expected
+wealth, and the implicit costs of labor for the five
+crops are reported in Table 4. A complete illustration
+of the distributions of initial wealth, the measure of
+partial risk aversion, and the implicit cost of labor is
+given by their estimated empirical densities, depicted
+
+220
+
+Z. Bar-Shira et al. /Agricultural Economics 17 (1997) 211-222
+
+Table 4
+Estimated descriptive statistics of risk aversion and farm financial
+characteristics
+Variable
+
+Median
+
+Mean
+
+Standard Error
+
+Absolute risk aversion
+Partial risk aversion
+Relative risk aversion
+Initial wealth
+Expected profit
+Total wealth
+Cost of labor:
+Peppers
+Tomatoes
+Onions
+Melons
+Eggplants
+
+4.4e-6
+0.117
+0.615
+1.07e5
+2.67e4
+1.39e5
+
+4.5e-6
+0.122
+0.611
+1.09e5
+2.73e4
+1.41e5
+
+3.2e-8
+0.0025
+0.0086
+2.40e3
+5.92e2
+2.84e3
+
+1172
+929
+649
+303
+236
+
+473
+324
+306
+178
+200
+
+176
+173
+83
+54
+49
+
+....
+\.0
+
+6
+
+I
+
+0
+
+g
+
+hl l ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~l
+
+0
+
+N
+
+0
+
+0
+
+g
+
+g
+
+0
+'1'
+
+0
+
+'0
+
+0
+0
+
+0
+0
+
+~
+
+0
+0
+
+0
+0
+
+0
+
+0
+
+0
+
+~
+
+0
+
+~
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+~
+
+0
+
+~
+
+0
+
+~
+
+0
+
+g
+
+Dollars
+
+Fig. 1. The initial wealth distribution.
+
+N
+
+V
+
+\0
+
+00
+
+d ;; ;; ;;
+
+0
+
+Fig. 2. The partial risk aversion distribution.
+
+11..____._._._...
+0
+
+~
+
+-
+
+Partial Risk Aversion
+
+in Figs. 1-3, respectively. The medians of expected
+and initial wealth are US$139,000 and US$107,000,
+respectively. These values are close to reality. The
+median coefficient of absolute risk aversion is
+0.0000044. The median coefficient of relative risk
+aversion is 0.615. The median coefficient of partial
+risk aversion is 0.117. For comparison, Saha et al.
+(1994) estimated the measure of relative risk aversion for Kansas wheat farmers to be 5.4 and Antle
+( 1987) estimated the measure of partial risk aversion
+of Indian farmers to be in the range of 0.19 to 1.77.
+Binswanger reported similar results: his estimated
+measure of partial risk aversion was between 0.32
+and 1.72 for the majority of the individuals. Antle
+(1989) re-confirmed his 1987 findings by reporting a
+mean partial risk aversion of 1.11 for one village and
+1.14 for the other. We find the measure of partial
+risk aversion to be in the range of 0.04 to 0.52. Thus,
+our sample of Israeli farmers exhibits a lower degree
+of partial risk aversion than that of Indian farmers.
+
+1
+
+oo
+
+Bardsley and Harris found the measure of partial risk
+aversion at the median point to be 0.072, 0.099, and
+0.696, for their three different zones of Australia.
+Hence, in two of the zones, Australian farmers exhibited lower degrees of partial risk aversion than
+Israeli farmers, whereas in the third zone the degree
+of partial risk aversion was similar to that of the
+Indian farmers. Our estimated measure of relative
+risk aversion has a median value of 0.615. Peppers
+are allotted the highest labor cost, with a median of
+US$1172 followed by tomatoes with a median of
+US$929, onions with a median of US$649, melons
+with a median of US$303, and eggplant with a
+median of US$236. These results are compatible
+with reality, where peppers and tomatoes are highlabor crops, and eggplant and melons are low-labor
+crops.
+To confirm our results, we note that total wealth
+is positively correlated with the risk-seeking attitude
+variable constructed by the Delphi panel (with a
+correlation coefficient of 0.46). The main criterion
+guiding the Delphi panel members in evaluating the
+risk-seeking attribute was the farmer willingness to
+adopt new technology such as a new variety, pesticide, fertilizer, etc. This positive correlation means
+that the richer the farmer, the less risk-averse he is.
+
+.a ..
+0
+0
+
+0
+
+0
+
+~
+
+~
+
+0
+
+0
+
+g
+
+g
+
+g
+
+8
+
+g
+
+g
+
+g
+
+g
+
+N
+
+'1'
+
+'0
+
+-
+
+0
+
+N
+
+'1'
+
+'0
+
+-
+
+-
+
+-
+
+-
+
+g
+
+g
+
+g
+
+g
+
+-
+
+0
+
+N
+N
+
+'1'
+N
+
+-
+
+M
+
+Dollars
+
+Fig. 3. The implicit cost of labor distribution for peppers.
+
+Z. Bar-Shira et al. /Agricultural Economics 17 (1997) 211-222
+
+Hence this finding is consistent with the evidence of
+decreasing absolute risk aversion presented above.
+
+7. Summary and conclusions
+This paper develops a methodology to assess the
+effect of wealth changes on the measures of absolute,
+relative, and partial risk aversion. The behavior of all
+three measures were shown to be determined by a
+single parameter, the elasticity of absolute risk aversion with respect to wealth. Regarding Israeli farmers, our main findings were that the measure of
+absolute risk aversion decreases with wealth, the
+measure of relative risk aversion increases with
+wealth, and the measure of partial risk aversion
+increases in risky income and decreases with nonstochastic initial wealth. These findings suggest empirical evidence supporting Arrow's hypotheses. 10
+
+References
+Antle, J.M., 1987. Econometric estimation of producers' risk
+attitudes. Am. J. Agric. Econ. 69, 509-522.
+Antle, J.M., 1989. Nonstructural risk attitude estimation. Am. J.
+Agric. Econ. 71, 774-784.
+Arrow, K.J., 1971. Essays in the Theory of Risk-Bearing. Markham
+Publishing, Chicago.
+Bardsley, P., Harris, M., 1987. An approach to the econometric
+estimation of attitudes to risk in agriculture. Aust. J. Agric.
+Econ. 31, 112-126.
+Bar-Shira, Z., 1991. An approach to the econometric estimation of
+attitudes to risk in agriculture: comment. Aust. J. Agric. Econ.
+35, 315-318.
+Bar-Shira, Z., 1992. Nonparametric test of the expected utility
+hypothesis. Am. J. Agric. Econ. 74, 523-533.
+Berhman, J.R., 1968. Supply Response in Underdeveloped Agriculture. North-Holland, Amsterdam.
+Binswanger, H.P., 1980. Attitude toward risk: experimental measurement in rural India. Am. J. Agric. Econ. 62, 395-407.
+Binswanger, H.P., 1981. Attitude toward risk: theoretical implication of an experiment in rural India. Econ. J. 91, 867-890.
+Binswanger, H.P., 1982. Empirical estimation and use of risk
+preferences: discussion. Am. J. Agric. Econ. 64, 391-393.
+Boussard, J.-M., 1982. When risk generate chaos. J. Econ. Behav.
+Org. 29, 433-446.
+Buschena, D.E., Zilberman, D., 1992. The effects of alternative
+
+10 Note that using the results obtained in this study for predicting choices in different circumstances should be done with care.
+
+221
+
+similarity on risky choice: implications for violations of expected utility. Working paper, U.C. Berkeley.
+Dillon, J.L., Scandizzo, P.L., 1978. Risk attitudes of subsistence
+farmers in Northeast Brazil: a sampling approach. Am. J.
+Agric. Econ. 60, 425-434.
+Hazell, P.B.R., 1982. Application of risk preference estimates in
+firm-household and agricultural sector models. Am. J. Agric.
+Econ. 64, 384-390.
+Hertzler, G., 1991. Dynamic decisions under risk: applications of
+ito stochastic control in agriculture. Am. J. Agric. Econ. 73,
+1126-1137.
+Just, R.E., 1974. An investigation of the importance of risk in
+farmers' decisions. Am. J. Agric. Econ. 56, 14-25.
+Just, R.E., 1977. Existence of stable distributed lags. Econometrica 45, 1467-1480.
+Just, R.E., Zilberman, D., 1983. Stochastic structure, farm size
+and technology adoption in developing agriculture. Oxford
+Econ. Pap. 35, 307-328.
+Just, R.E., Hochman, E., Zilberman, D., Bar-Shira, Z., 1990.
+Alternative approaches for allocating observed input use among
+crops. Am. J. Agric. Econ. 72, 200-209.
+Kahneman, D., Tversky, A., 1979. Prospect theory: an analysis of
+decisions under risk. Econometrica 47, 263-291.
+Laffont, J.J., 1989. Economics of Uncertainty and Information.
+Translated by John P. Bonin and Helene Bonin. MIT Press,
+Cambridge, MA.
+Love, H.A., Buccola, S.T., 1991. Joint risk preference-technology estimation with a primal system. Am. J. Agric. Econ. 73,
+765-774.
+Maddala, G.S., 1983. Limited Dependent and Qualitative Variables in Economics. Cambridge Univ. Press, Cambridge, MA.
+Machina, M.J., 1987. Choice under uncertainty: problem solved
+and unsolved. Econ. Perspectives 1, 121-154.
+Menezes, F.C., Hanson, L.D., 1970. On the theory of risk aversion. Int. Econ. Rev. 11, 181-187.
+Moscardi, E., de Janvry, A., 1977. Attitudes toward risk among
+peasants: an econometric approach. Am. J. Agric. Econ. 59,
+710-716.
+Newbery, D.M.G., Stiglitz, J.E., 1981. The Theory of Commodity
+Price Stabilization. Clarendon Press, Oxford.
+Pope, R.D., 1982. Empirical estimation and use of risk preferences: an appraisal of estimation methods that use actual
+economic decision. Am. J. Agric. Econ. 64, 376-383.
+Pope, R.D., Just, R.E., 1991. On testing the structure of risk
+preferences in agricultural supply analysis. Am. J. Agric.
+Econ. 73, 743-748.
+Pratt, J.W., 1964. Risk aversion in the small and in the large.
+Econometrica 32, 122-136.
+Quizon, J.B., Binswanger, H.P., Machina, M.J., 1984. Attitude
+toward risk: further remarks. Econ. J. 94, 144-148.
+Robison, L.J., 1982. An appraisal of expected utility tests constructed from responses to hypothetical questions and experimental choices. Am. J. Agric. Econ. 64, 367-375.
+Rubinstein, A., 1988. Similarity and decision-making under risk
+(is there utility resolution to the Allais paradox?). J. Econ.
+Theory 46, 145-153.
+
+222
+
+Z. Bar-Shira et al. /Agricultural Economics 17 (1997) 211-222
+
+Saha, A., Shumway, R., Talpaz, H., 1994. Joint estimation of risk
+preference structure and technology using expo-power utility.
+Am. J. Agric. Econ. 76, 173-184.
+Sandmo, A., 1971. On the theory of the competitive firm under
+price uncertainty. Am. Econ. Rev. 61, 65-73.
+Shahabuddin, Q., Mestelman, S., Feeny, D., 1986. Peasant be-
+
+haviour towards risk and socio-economic and structural characteristics of farm households in Bangladesh, 38, 122-130
+Zeckhauser, R., Keeler, E., 1970. Another type of risk aversion.
+Econometrica 38, 661-665.
+Zusman, P., 1988. Individual Behavior and Social Choice in a
+Cooperative Settlement. Magnes Press, Jerusalem, Israel.
+
+

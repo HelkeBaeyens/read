@@ -1,0 +1,847 @@
+A Speculative Bubble in Commodity Futures
+Prices? Cross-Sectional Evidence
+by
+Dwight R. Sanders, Scott H. Irwin,
+and Robert P.
+P Merrin
+
+Suggested citation format:
+Sanders, D. R., S. H. Irwin, and R. P. Merrin. 2009. “A Speculative Bubble in
+Commodity Futures Prices? Cross-Sectional Evidence.” Proceedings of the
+NCCC-134 Conference on Applied Commodity Price Analysis, Forecasting,
+and Market Risk Management. St. Louis, MO.
+[http://www.farmdoc.uiuc.edu/nccc134].
+
+A Speculative Bubble in Commodity Futures Prices?
+Cross-Sectional Evidence
+Dwight R. Sanders
+Scott H. Irwin
+Robert P. Merrin*
+
+Paper presented at the NCCC-134 Conference on Applied Commodity Price
+Analysis, Forecasting, and Market Risk Management
+St. Louis, Missouri, April 20-21, 2009
+
+Copyright 2009 by Dwight R. Sanders, Scott H. Irwin, and Robert P. Merrin. All rights reserved.
+Readers may make verbatim copies of this document for non-commercial purposes by any means,
+provided that this copyright notice appears on all such copies.
+
+*
+
+Dwight R. Sanders is an Associate Professor of Agribusiness Economics at Southern Illinois
+University, Carbondale, Illinois. Scott H. Irwin is the Laurence J. Norton Chair of Agricultural and
+Consumer Economics at the University of Illinois, Urbana, Illinois. Robert P. Merrin is a Ph.D.
+student in the Department of Finance at Universiteit Maastricht, Netherlands.
+
+A Speculative Bubble in Commodity Futures Prices?
+Cross-Sectional Evidence
+
+Practitioner’s Abstract
+Recent accusations against speculators in general and long-only commodity index funds in
+particular, include: increasing market volatility, distorting historical price relationships, and
+fueling a rapid increase and decrease in commodity inflation. Some researchers have argued that
+these market participants—through their impact on market prices—may inadvertently prevented the
+efficient distribution of food aid to deserving groups. Certainly, this result—if substantiated—
+would counter the classical argument that speculators make prices more efficient and thus improve
+the economic efficiency of the agricultural and food marketing system. Given the very important
+policy implications, it is crucial to develop a more thorough understanding of long-only index funds
+and their potential market impact. Here, we review the criticisms (and rebuttals) levied against
+(and for) commodity index funds in recent U.S. Congressional testimonies. Then, additional
+empirical evidence is added regarding cross-sectional market returns and the relative levels of
+long-only index fund participation in 12 commodity futures markets. The results suggest that index
+fund positions across futures markets have no impact on relative price changes across those
+markets. The empirical results provide no evidence that long-only index funds impact commodity
+futures prices.
+Key Words: Commitment’s of Traders, index funds, commodity futures markets
+
+Introduction
+The rapid increase in commodity futures prices from 2005 through 2008—coupled with greater
+overall trade volumes and larger positions held by long-only commodity index funds—have fueled
+a debate as to whether a price “bubble” existed in these markets. The debate has found its way to
+the halls of the U.S. Congress, where legislators are considering measures to curb “excessive”
+speculation (e.g., Lieberman 2008). The “pro-bubble” side is largely supported by certain hedge
+fund managers, some policy-makers, and commodity end-users (e.g., Gheit 2008; Masters 2008;
+Masters and White 2008). On the other side, a number of academic economists are skeptical of the
+bubble theory, citing a lack of empirical evidence (e.g., Krugman 2008; Pirrong 2008; Sanders and
+Irwin 2008). As an alternative, the “anti-bubble” contingency suggests that prices are driven by
+fundamental factors that have pushed commodities to higher—and perhaps permanently higher—
+price levels (see Irwin and Good 2009).
+The outcome of the bubble debate has immediate economic consequences for the U.S. commodity
+futures industry, trading volumes, and potentially the pricing efficiency of commodity futures
+markets. In the bigger picture, the debate has potentially large ramifications with regard to the
+marketing, distribution, and pricing food products. After finding some evidence linking speculation
+and price behavior, Robles, Torero, and von Braun (2009) come to the following conclusion:
+
+“The excess price surges caused by speculation and possible hoarding could have severe
+effects on confidence in global grain markets, thereby hampering the market’s performance
+in responding to fundamental changes in supply, demand, and costs of production. More
+important, they could result in unreasonable or unwanted price fluctuations that can harm
+the poor and result in long-term, irreversible nutritional damage, especially among children”
+(p. 7).
+Given the gravity of this accusation, it is important that researchers carefully weigh the empirical
+evidence regarding the impact of speculation on commodity prices.
+In this paper, we will review the existing evidence and arguments for a speculative commodity
+bubble. Then, additional empirical evidence will be presented, where we specifically investigate
+the statistical relationship between long-only index funds and futures prices. Primarily, direct
+causal relationships will be examined by using a cross-sectional (market) regression tests over
+alternative horizons. Using Commodity Index Trader data from the Commodity Futures Trading
+Commission (CFTC) for 12 markets, simple regression tests will be used to test for a systematic
+relationship between index fund positions and returns across markets. The results provide another
+piece of evidence in this important debate impacting the food production and distribution system.
+The Arguments
+It Must be a Bubble!
+Masters (2008) has led the bubble charge in Congressional hearings, painting the activity of index
+funds as akin to the infamous Hunt brothers’ cornering of the silver market. He blames the rapid
+increase in overall commodity prices from 2006-2008 (Figure 1) on institutional investors’ embrace
+of commodities as an investable asset class. Masters’ evidence is limited to anecdotes and the
+graphical correlation between money flows and prices (Figure 2).
+Other authors seem to work under the null hypothesis that speculators have an undesirable and
+somewhat unexplainable impact on market prices. For instance, Robles, Torero, and von Braun
+(2009) simply claim that “Changes in supply and demand fundamentals cannot fully explain the
+recent drastic increase in food prices” (p. 2). Similarly, a study by the Agricultural and Food Policy
+Center (2008) declares that the “…large influx of money into the markets, typically long positions,
+has pushed commodities to extremely high levels” and also show a graphical depiction of
+investment funds in the Goldman Sachs Commodity Index (p. 32).
+While this body of evidence is generally applauded by Congressional members and easily absorbed
+by the public, it glosses over the inherent complexity in futures markets and the dynamics of
+trading. Moreover, the lack of rigorous statistical methods generally brings out skepticism in
+academic circles.
+What Bubble?
+While casual bubble arguments are deceptively appealing, they do not generally withstand close
+examination. Irwin, Sanders, and Merrin (2009) present three “logical inconsistencies” in the
+
+2
+
+arguments made by bubble proponents as well as five instances where the bubble story is not
+consistent with observed facts. Here, we will review these arguments and add some empirical
+evidence to their arguments.
+The first “logical inconsistency” within the bubble argument is that money flows are the same as
+demand. With equally informed market participants, there is no limit to the number of futures
+contracts that can be created at a given price level. Index fund buying is no more “new demand”
+than the corresponding selling is “new supply.” Thus, money flows in themselves do not
+necessarily impact prices. Second, there is no evidence that index investors distort futures and cash
+markets. Index investors do not participate in the futures delivery process or the cash market where
+long term equilibrium prices are discovered. Index investors are purely involved in a financial
+transaction using the futures markets, and they do not engaged in the purchase or hoarding of the
+cash commodity. Hence, to draw a parallel with the Hunt brother’s corner of the silver market is
+flawed. Lastly, the blanket categorization of speculators as wrongdoers and hedgers as victims of
+their actions is mistaken. Many hedgers speculate and some speculators also hedge. It is not clear
+that there is an easily identified “bad guy.” Market dynamics are complex, and it is not easy to
+understand the interplay between the varied market participants and their motivations for trading.
+In their rebuttal of the bubble theory, Irwin, Sanders, and Merrin (2009) also identify five areas
+where the bubble story is not consistent with the observed facts. First, as Krugman (2008) asserts,
+if a bubble raises the market price of a storable commodity above the true equilibrium price, then
+stocks of that commodity should increase (much like a government imposed price ceiling can create
+a surplus). Stocks were declining, not building, in most grain markets over 2005-2008, which is
+inconsistent with Krugman’s depiction of a price bubble in these markets.
+Second, theoretical models that show uninformed or noise traders impacting market prices rely on
+the unpredictable trading patterns of these traders to make arbitrage risky (e.g., De Long, Shleifer,
+Summers, and Waldmann 1990). Because the arbitrage—needed to drive prices to fundamental
+value—is not riskless, noise traders can drive a wedge between market prices and fundamental
+values. Importantly, index fund buying is very predictable. That is, index funds widely publish
+their portfolio (market) weights and roll-over periods. Thus, it seems highly unlikely that other
+large rational traders would hesitate to trade against an index fund if they were driving prices away
+from fundamental values.
+Third, if index fund buying drove commodity prices higher. Then, markets without index funds
+should not have seen prices advance. Again, the observed facts are inconsistent with this notion.
+Irwin, Sanders, and Merrin (2009) show that markets without index fund participation (fluid milk
+and rice) and commodities without futures markets (apples and edible beans) also showed price
+increases over the 2006-2008 period. This would suggest that there were other macroeconomic
+factors potentially influencing commodity prices.
+Fourth, speculation is not excessive when correctly compared to hedging demands. Working (1960)
+argued that speculation must be gauged relative to hedging needs. Utilizing Working’s speculative
+“T-index,” Sanders, Irwin, and Merrin (2008) demonstrate that the level of speculation in nine
+commodity futures markets from 2006-2008 (adjusting for index fund positions) was not excessive.
+Indeed, the levels of speculation in all markets examined were within the realm of historical norms.
+
+3
+
+Across most markets, the rise in index buying was more than off-set by commercial (hedger)
+selling.
+The fifth and final observable fact—and the focus of this paper—revolves around the impact of
+index funds across markets. A priori, there is no reason to expect index funds to have a differential
+impact across markets. That is, if index funds can inflate prices, they should have a uniform impact
+across markets. It is difficult to rationalize why index fund speculation would impact one market,
+but not another. One would expect markets with the highest concentration of index funds positions
+to show the largest price increases. However, simple observation suggests that from 2006-2008,
+futures markets with the highest concentration of index fund positions (livestock markets) showed
+little or no increase, while those markets with the smallest index fund participation (grains and
+oilseeds) saw the largest price increases (Irwin, Sanders, and Merrin, 2009). Fortunately, this
+observable fact lends itself to a formalized test.
+Here, we evaluate the impact of index fund positions on the cross-section of market returns,
+providing a more rigorous evaluation of this point. Specifically we empirically test the relationship
+between index fund positions and returns across 12 commodity futures markets. The null
+hypothesis that index fund positions do not impact returns across futures markets is tested using
+data from the CFTC’s Commodity Index Traders Report and standard cross-sectional time series
+regressions.
+Data
+Commodity Index Traders (CIT) Report
+Starting in 2007, the Commodity Futures Trading Commission (CFTC) began reporting the
+positions held by index traders in 12 agricultural futures markets in the Commodity Index Traders
+(CIT) report, as supplement to the traditional Commitments of Traders (COT) report. According to
+the CFTC, the index trader positions reflect both pension funds that would have previously been
+classified as non-commercials as well as swap dealers who would have previously been classified as
+commercials hedging OTC transactions involving commodity indices.
+The CFTC readily admits that this classification procedure has flaws and that “…some traders
+assigned to the Index Traders category are engaged in other futures activity that could not be
+disaggregated….Likewise, the Index Traders category will not include some traders who are
+engaged in index trading, but for whom it does not represent a substantial part of their overall
+trading activity” (CFTC 2008). Regardless, the data are an improvement over the more heavily
+aggregated traditional COT classifications, and they should provide a good, albeit imperfect,
+measure of index trader activity.
+The CIT data are released in conjunction with the traditional COT report showing combined futures
+and options positions. The index trader positions are simply removed from their prior categories
+and presented as a new category of reporting traders. The CIT data includes the long and short
+positions held by commercials (less index traders), non-commercials (less index traders), index
+traders, and non-reporting traders.
+
+4
+
+The CIT data are available weekly for the period covering January 3, 2006 through December 30,
+2008 (157 weekly observations). The reports show traders’ holdings as of Tuesday’s market close.
+To correspond with these release dates, the Tuesday-to-Tuesday log-relative returns are collected
+for nearby futures contracts. Markets included in the analysis are as follows: corn, soybeans,
+soybean oil, Chicago Board of Trade (CBOT) wheat, Kansas City Board of Trade (KCBOT) wheat,
+cotton, live cattle, feeder cattle, lean hogs, coffee, sugar, and cocoa.
+Index Trader Participation
+One of the primary concerns expressed by the industry is the magnitude of the commodity index
+activity. In a Barron’s article, one analyst quipped that “index funds account for 40% of all bullish
+bets on commodities…the index funds hold about $211 billion worth of bets on the buy side of U.S.
+markets.” (Epstein 2008). Presumably, the sheer size of the index fund positions may allow them to
+distort prices or price relationships across markets.
+Sanders, Irwin, and Merrin (2008) document that index traders do make up a surprisingly large
+portion of certain markets. In particular, index traders are over 20% of the open interest in live
+cattle, lean hogs and CBOT wheat. Moreover, index funds can have a disproportionate presence on
+the long side of the market, stemming from the fact they are “long-only.” To illustrate, Figure 3
+shows the percent of the long positions held by index traders in the cross section of markets
+examined.
+It is clear from Figure 3 that the portion of long positions held by index funds in each market can
+vary widely. In the cocoa market, 12% of the long positions were held by index funds while over
+45% of the long positions in the live cattle futures market were held by index funds. As suggested
+by Masters (2008) and Masters and White (2008), if index fund buying indeed represents new
+demand and thereby influences market prices, it is reasonable to expect a larger impact in those
+markets with relatively larger proportion (demand) of index traders. If not, then it becomes very
+difficult to rationalize how or why index buying would have a different impact across markets. If
+index fund buying truly represents new demand, then it should have an impact across all markets.
+Position Measures
+Index trader positions are measured in two ways to capture both the relative size of the index fund
+positions and to gauge their activity in each market. First, the relative size of the index funds is
+measured by simply using the percent of long positions held in each market (see Figure 3). This
+serves as a gauge of the relative size of index traders in each market. The percent of long positions
+is simply calculated as the number of long positions held by index traders divided by the total
+number of long positions within the market.
+Following Sanders, Boris, and Manfredo (2004), the percent net long (PNL) is also used to measure
+the position of traders with in a market,
+(1)
+
+Commodity Index PNLt =
+
+CILt − CIS t
+CILt + CIS t
+
+5
+
+where, CIL is commodity index long positions and CIS is commodity index short positions.
+Changes in the PNL for commodity index funds are used to capture shifts in their positions within
+each market. These two measures—percent of long positions and change in the PNL—are used to
+test for the potential impact of index traders across markets.
+Cross-Sectional Tests
+Fama-MacBeth Cross-Sectional Regressions
+
+The relationship between index fund positions and subsequent market returns can be expressed in a
+cross-sectional regression,
+(2)
+
+Ri,t+1= α + βPositionsi,t + ei,t
+
+The null hypothesis of no market impact is that the slope coefficient,β, equals zero. An alternative
+bubble hypothesis would suggest that β>0, such that large index fund positions in market i portend
+relatively large subsequent returns in that market. In all regressions, the data are organized such
+that the causal linkages run from the positions at time t to the subsequent returns in time t+1.
+Therefore, a finding that β≠0 suggests that index positions precede market returns.
+Fama and MacBeth (1973) propose one method of estimating β in (2) that is still widely used in the
+literature (see Campbell, Lo, and MacKinley 1997). With the Fama-MacBeth regression procedure,
+equation (2) is estimated independently for each time period, t=1,2,3,…T, and across the
+i=1,2,3,…,N markets. The average of the estimated β’s is calculated for the T regressions, and it
+has a standard error of 1/T1/2. To illustrate, Figure 4 shows one of the T regressions at the quarterly
+horizon. In this particular quarter (t=third quarter, 2008), markets that had a relatively large portion
+of long positions held by index traders indeed saw relatively stronger returns in the subsequent
+period, consistent with a bubble-like impact across markets. Other observations, such as shown in
+Figure 5 (t=second quarter, 2007), show a negative relationship between index fund positions and
+returns. The Fama-MacBeth procedure essentially averages the cross-sectional slope coefficient
+across all of the time series observations and tests if the average is different from zero. The FamaMacbeth procedure is conducted for weekly, monthly, and quarterly horizons resulting in 156, 35,
+an 11 cross-sectional observations, respectively.
+The Fama-MacBeth results are presented in Table 1 for equation (2), where positions are
+represented by the percent of long positions held by index traders. Somewhat surprisingly, the
+average slope coefficient at each horizon is negative; albeit, not statistically different from zero.
+These results would suggest that if anything, markets with relatively large index trader positions
+tend to have relatively smaller price increases in subsequent time periods.
+Table 2 presents the results for the Fama-MacBeth regressions where the independent variable is the
+change in index fund’s PNL position. Here, the results are similar to those in Table 1 at the
+monthly and quarterly horizon, where the slope coefficients are negative and not statistically
+different from zero. A slightly different result is observed at the weekly horizon, where the slope
+coefficient is positive. But, it is still not statistically different from zero. Collectively, the Fama-
+
+6
+
+MacBeth regressions provide no evidence that index positions cause differential returns across
+commodity futures markets.
+Cross-Sectional Time Series Regressions
+
+Standard cross sectional time series methods are another approach to estimating equation (2).
+However, this method provides greater flexibility than the Fama-MacBeth approach in terms of
+model specification because time series dynamics can also be modeled. Sanders, Irwin, and Merrin
+(2009) document some low-order positive autocorrelation in commodity futures returns. Consistent
+with that finding, we specify the following model.
+(3)
+
+Ri,t+1= α + βPositionsi,t +θRt + ei,t
+
+Where returns in market i at time t+1 are a function of index fund positions and returns from the
+previous period. White’s correction for cross-sectional heteroskedasticity is used to obtain
+consistent standard errors in (3).
+Table 3 presents the cross sectional time series estimations using index funds’ percent of long
+positions as the independent variable. The results are very consistent with the Fama-MacBeth
+regression results in Table 1. The estimated slope coefficients are negative at each horizon, but they
+are not statistically different from zero. So, again, there is no evidence that the cross-market
+variation in returns is related to long-only index fund positions. Notably, the returns do tend to
+show some low order positive autocorrelation, θ>0.
+Equation (3) is also estimated with the change in the index fund’s PNL as the explanatory variable
+(Table 4). At the monthly and quarterly horizons, the estimated beta coefficients are still negative
+and not statistically different from zero. However, as in Table 2, the one week horizon has a
+positive and marginally significant estimated beta coefficient (p-value =0.06). So, there is some
+very modest statistical evidence that the weekly cross-sectional returns may be positively related to
+the preceding week’s change in the index fund positions. The results are only marginally
+significant, so they do not provide overwhelming statistical evidence. But, they do raise the
+possibility that impacts may be found over some shorter horizons or with alternative position
+measures.
+Collectively, the empirical results generally fail to reject the null hypothesis that there is no crossmarket relationship between returns and the size of index fund positions. The lone exception is a
+marginal rejection (p-value = 0.06) at the one week horizon using the shift in the PNL as the
+explanatory variable. Otherwise, the relationship between cross market index positions and returns
+tends to be negative as opposed to positive. It is difficult to reconcile these results with the
+assertion that index fund buying is new demand in each market.
+Summary and Conclusions
+
+This research examines the cross-market correlation between market returns and positions held by
+long-only index funds. Irwin, Sanders, and Merrin (2009) state that one of the “inconsistent facts”
+
+7
+
+in the bubble explanation for the recent increase and decline in commodity markets is that the price
+increases (decreases) did not occur uniformly across all markets. That is, if index funds drove
+prices higher, then they should have had an impact in all of the markets, not just select ones.
+Here, we provide an empirical test of this inconsistent fact. Specifically, we test if the relative size
+of index fund positions is correlated to subsequent returns across markets. A bubble scenario would
+suggest that returns are positively correlated with relative positions sizes across markets. However,
+using both Fama-MacBeth and traditional cross sectional tests, the null hypothesis of no crosssectional impact is only rejected in one of twelve models.
+The evidence that index fund positions impact returns across markets is scant. This leaves a big
+hole in the bubble argument. If index fund buying represents new demand that drives prices higher,
+then why doesn’t the new demand have an impact in each market? Like all theories, the bubble
+theory purported in the popular press should be evaluated based on its ability to predict. In the case
+of predicting cross sectional returns, the theory falls short.
+Assertions that speculators drive prices beyond fundamental value and disrupt important
+humanitarian efforts have been the spark for recent legislative proposals designed to curb
+speculation in commodity futures markets. Given the importance of speculators in a well
+functioning marketplace it is important the policy-makers consider the entire body of evidence with
+regard to the impact of speculators on market prices.
+The vast majority of empirical evidence presented by academic researchers fails to find any
+relationship between positions held by large traders and subsequent price behavior (e.g., Bryant,
+Bessler, and Haigh 2006; Gorton, Hayashi, and Rouwenhorst 2007; Sanders, Irwin, and Merrin
+2009). Those that do find some evidence (e.g., Robles, Torero, and Braun 2009) often use nonstandard techniques or data (e.g., cash or index prices). Therefore, even though the arguments made
+by bubble proponents are intuitively appealing to the non-economist, they do not stand on a firm
+empirical footing. While rigorous empirical studies cannot preclude a speculative impact on
+commodity prices, the body of evidence certainly does not support that conclusion. Legislators and
+public policy commentators would be well-served to let this evidence guide their actions.
+
+References
+
+Agricultural and Food Policy Center (AFPC). 2008. “The Effects of Ethanol on Texas Food and
+Feed.” AFPC Research Report 08-1. Available online:
+http://www.afpc.tamu.edu/pubs/2/515/RR-08-01.pdf.
+Bryant, H., D.A. Bessler, and M.S. Haigh. 2006. “Causality in Futures Markets.” Journal of Futures
+Markets 26:1039-1057.
+Campbell, J.Y., A.W. Lo, and A.C. MacKinlay. 1997. The Econometrics of Financial Markets.
+Princeton University Press: Princeton, NJ.
+
+8
+
+Commodity Futures Trading Commission (CFTC). 2008. “Staff Report on Commodity Swap
+Dealers & Index Traders with Commission Recommendations.” Available online:
+http://www.cftc.gov/stellent/groups/public/@newsroom/documents/file/cftcstaffreportonswa
+pdealers09.pdf.
+De Long, J. B., A. Shleifer, L. H. Summers, and R. J. Waldmann. 1990. “Noise Trader Risk in
+Financial Markets.” Journal of Political Economy 98:703-738.
+Epstein, G. 2008. “Commodities: Who’s Behind the Boom?” Barron’s. Available online:
+http://setup1.barrons.com/article/SB120674485506173053.html.
+Fama, E., and J. MacBeth. 1973. “Risk, Return, and Equilibrium: Empirical Tests.” Journal of
+Political Economy 81:607-636.
+Gheit, F. 2008. “Testimony before the Subcommittee on Oversight and Investigations of the
+Committee on Energy and Commerce, U.S. House of Representatives.” Available online:
+http://energycommerce.house.gov/cmte_mtgs/110-oi-hrg.062308.Gheit-testimony.pdf.
+Gorton, G.B., F. Hayashi, and K.G. Rouwenhorst. 2007. “The Fundamentals of Commodity Futures
+Returns.” National Bureau of Economic Research (NBER) Working Paper No. 13249.
+Irwin, S.H. and D.L. Good. 2009. “Market Instability in a New Era of Corn, Soybean, and Wheat
+Prices.” Choices 24(1). Available online:
+http://www.choicesmagazine.org/magazine/article.php?article=56
+Irwin, S.H., D.R. Sanders, and R.P. Merrin. 2009. “Devil or Angel? The Role of Speculation in the
+Recent Commodity Price Boom (and Bust).” Journal of Agricultural and Applied
+Economics 41: forthcoming.
+Krugman, P. 2008. “More on Oil and Speculation.” New York Times. Available online:
+http://krugman.blogs.nytimes.com/2008/05/13/more-on-oil-and-speculation/.
+Leiberman, J. 2008. “Senators Hear Testimony on Legislation to Reduce Food and Energy Prices.”
+News Release. Available online:
+http://lieberman.senate.gov/newsroom/release.cfm?id=299655.
+Masters, M.W. 2008. “Testimony before the Committee on Homeland Security and Government
+Affairs, U.S. Senate.” Available online:
+http://hsgac.senate.gov/public/_files/052008Masters.pdf.
+Masters, M.W., and A.K. White. 2008. “The Accidental Hunt Brothers: How Institutional Investors
+are Driving up Food and Energy Prices.” Available online:
+http://accidentalhuntbrothers.com/.
+Pirrong, C. 2008. “Restricting Speculation will not Reduce Oil Prices.” The Wall Street Journal.
+Available online: http://online.wsj.com/article/SB121573804530744613.html.
+Robles, M., M. Torero, and J. von Braun. 2009. “When Speculation Matters.” International Food
+Policy Research Institute, Issue Brief 57. Available online:
+http://www.ifpri.org/pubs/ib/ib57.pdf.
+Sanders, D.R., K. Boris, and M. Manfredo. “Hedgers, Funds, and Small Speculators in the Energy
+Futures Markets: An Analysis of the CFTC’s Commitments of Traders Reports.” Energy
+Economics 26(2004):425-445.
+Sanders, D.R., and S.H. Irwin. 2008. “Futures Imperfect.” New York Times. Available online:
+http://www.nytimes.com/2008/07/20/opinion/20irwinsanders.html?_r=1&oref=slogin.
+
+9
+
+Sanders, D.R., S.H. Irwin, and R.P. Merrin. 2008. “The Adequacy of Speculation in Agricultural
+Futures Markets: Too Much of a Good Thing?” Marketing and Outlook Research Report
+2008-02, Department of Agricultural and Consumer Economics, University of Illinois at
+Urbana-Champaign. Available online:
+http://www.farmdoc.uiuc.edu/marketing/morr/morr_08-02/morr_08-02.pdf.
+Sanders, D.R., S.H. Irwin, and R.P. Merrin. 2009. “Smart Money? The Forecasting Ability of CFTC
+Large Traders.” Journal of Agricultural and Resource Economics 34:forthcoming.
+Working, H. 1960. “Speculation on Hedging Markets.” Food Research Institute Studies 1:185-220.
+
+10
+
+Table 1. Fama MacBeth Regression Results for Percent of Long Positions.
+Horizon
+Week
+Month
+Quarter
+
+α
+0.0018
+0.0067
+0.0311
+
+β
+-0.0112
+-0.0461
+-0.1663
+
+p-value
+β=0
+0.2087
+0.2520
+0.2139
+
+Ν
+12
+12
+12
+
+Τ
+156
+35
+11
+
+Table 2. Fama MacBeth Regression Results for Change in Percent Net Long.
+Horizon
+Week
+Month
+Quarter
+
+α
+-0.0010
+-0.0102
+-0.0165
+
+β
+0.1086
+-0.2161
+-0.0811
+
+p-value
+β=0
+0.1443
+0.2294
+0.7273
+
+Ν
+12
+12
+12
+
+Τ
+156
+35
+11
+
+11
+
+Table 3. Cross Sectional Time Series Results for Percent of Long Positions.
+p-value
+β=0
+0.1392
+
+Ν
+12
+
+Τ
+156
+
+0.0926
+1.50
+
+0.2026
+
+12
+
+35
+
+0.1943
+1.81
+
+0.1468
+
+12
+
+11
+
+Coefficent
+T-Statistic
+
+α
+0.0026
+0.94
+
+β
+-0.0136
+-1.48
+
+θ
+0.0803
+2.63
+
+Month
+
+Coefficent
+T-Statistic
+
+0.0100
+0.79
+
+-0.0538
+-1.28
+
+Quarter
+
+Coefficent
+T-Statistic
+
+0.0351
+0.95
+
+-0.1724
+-1.46
+
+Horizon
+Week
+
+Table 4. Cross Sectional Time Series Results for Change in Percent Net Long.
+p-value
+β=0
+0.0614
+
+Ν
+12
+
+Τ
+156
+
+0.1184
+0.83
+
+0.2032
+
+12
+
+35
+
+0.2571
+2.36
+
+0.6917
+
+12
+
+11
+
+Coefficent
+T-Statistic
+
+α
+-0.0010
+-1.07
+
+β
+0.0796
+1.87
+
+θ
+0.0784
+2.55
+
+Month
+
+Coefficent
+T-Statistic
+
+-0.0058
+-0.56
+
+-0.1320
+-1.27
+
+Quarter
+
+Coefficent
+T-Statistic
+
+-0.0190
+-1.28
+
+-0.0903
+-0.40
+
+Horizon
+Week
+
+12
+
+Figure 1. CRB Commodity Index, 2006-2009
+270
+250
+
+Index
+
+230
+210
+190
+170
+
+Oct-09
+
+Jul-09
+
+Apr-09
+
+Jan-09
+
+Oct-08
+
+Jul-08
+
+Apr-08
+
+Jan-08
+
+Oct-07
+
+Jul-07
+
+Apr-07
+
+Jan-07
+
+Oct-06
+
+Jul-06
+
+Apr-06
+
+Jan-06
+
+150
+
+Month
+
+Figure 2. GSCI Spot Index Price Index vs. Index Speculator Assets
+
+Source: Masters and White (2008)
+
+13
+
+Figure 3. Percent of Long Positions Held by Index Funds, December 31, 20007.
+50%
+Percent of Long Positions
+
+45%
+40%
+35%
+30%
+25%
+20%
+15%
+10%
+5%
+Cattle
+
+Hogs
+
+Wheat
+
+Sugar
+
+Cotton
+
+Fdr. Cattle
+
+Soybeans
+
+Coffee
+
+KC Wheat
+
+Beanoil
+
+Corn
+
+Cocoa
+
+0%
+
+Figure 4. Cross-Sectional Regression, t=Third Quarter, 2008.
+0%
+FC
+
+-10%
+-15%
+
+LC
+
+KC
+
+-20%
+Return
+
+LH
+
+SE
+
+-5%
+
+CC
+
+-25%
+W
+
+C
+
+-30%
+
+CT
+
+-35%
+BO
+
+-40%
+-45%
+
+S
+W
+
+y = 0.4117x - 0.361
+R2 = 0.081
+
+-50%
+15%
+
+20%
+
+25%
+
+30%
+
+35%
+
+40%
+
+45%
+
+50%
+
+Percent of Long Positions
+
+14
+
+Figure 5. Cross-Sectional Regression, t=Second Quarter, 2007.
+30%
+C
+
+25%
+
+W
+
+20%
+
+Return
+
+15%
+10%
+5%
+
+BO
+
+CC
+
+S
+CT
+
+0%
+
+FC
+KC
+
+-5%
+-10%
+-15%
+5%
+
+15%
+
+LC
+SE
+
+y = -0.7007x + 0.2072
+R2 = 0.3089
+10%
+
+LH
+
+W
+20%
+
+25%
+
+30%
+
+35%
+
+40%
+
+45%
+
+Percent of Long Positions
+
+15
+
+

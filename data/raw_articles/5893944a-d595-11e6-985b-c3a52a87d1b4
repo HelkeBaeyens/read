@@ -1,0 +1,1290 @@
+AGRICULTURAL
+ECONOMICS
+
+ELSEVIER
+
+Agricultural Economics 14 (1996) 93-102
+
+Farm size, relative efficiency and agrarian policy in Cote d'Ivoire:
+profit function analysis of rice farms
+Akinwumi A. Adesina
+
+a,*,
+
+Kouakou K. Djato
+
+b
+
+• West Africa Rice Development Association, OJ BP 2551, Bouake, Cote d'lvoire
+b Centre lvorien de Recherches Economiques et Sociales, Abidjan, Cote d'lvoire
+Accepted 25 January 1996
+
+Abstract
+This paper examines the relative economic efficiency of small and large rice farms in Cote d'Ivoire using a profit function approach. No
+differences in the relative economic efficiency of small and large farms were found. This conclusion is robust under alternative model
+specifications. Agrarian reforms directed towards further concentration of landholding for large farms in Cote d'Ivoire cannot be justified
+based on economic efficiency. Results show that access to credit and use of modem rice varieties significantly increase profits. To improve
+technical efficiency of rice farms, an accelerated program to provide information, credit, improved seeds and other inputs is needed. When
+all the farms (i.e. large and small) are taken together, there is evidence of allocative inefficiency. Strategies are needed to remove such
+management related inefficiencies in rice production either through the development of a better market price information system or effective
+farmer-oriented technical training programs by rice extension workers.
+
+1. Introduction
+
+Agricultural policy makers in developing countries face difficult decisions in their choice of agrarian structure to achieve the dual goals of growth and
+equity in the agricultural sector (Dorner, 1972; Khan
+and Maki, 1979; Noronha, 1985; Lele and Agarwal,
+1989; Deininger and Binswanger, 1995). Often,
+agrarian policies favor large farms under the presumption that they are more economically efficient
+than small farms (Dorner, 1972; Khan and Maki,
+
+' Corresponding author at: International Institute of Tropical
+Agriculture, Humid Forest Program, BP 2008, Yaounde,
+Cameroon.
+
+1979; Kydd and Christiansen, 1982; Lele and Agarwal, 1989; Kouadio and Pokou, 1991; Deininger and
+Binswanger, 1995). Several attempts have been made
+in Africa to encourage large scale farms. Examples
+include policies favoring collectivized agriculture that
+dominated production relations in Tanzania in the
+1970s (McHenry, 1979); state-imposed tenure conversion arrangements in Kenya that led to further
+land consolidation, concentration and marginalization of small farms (Brokensha and Glazier, 1973;
+Njeru, 1978; Okoth-Ogendo, 1986); diversion of institutional credit to large farms in Kenya and Malawi
+(Kydd and Christiansen, 1982; Lele and Meyers,
+1986); subsidization of land settlement, irrigation
+and mechanization costs in Nigeria (Lele et al.,
+1989); policy-induced land, labor and output market
+
+0169-5150/96/$15.00 Copyright© 1996 Elsevier Science B.V. All rights reserved.
+PI! SO 169-5150(96)0 1181-4
+
+94
+
+A.A. Adesina, K.K. Djato /Agricultural Economics 14 ( 1996) 93-102
+
+interventions to favor large European farms over
+African smallholder farms in Kenya, Zimbabwe and
+South Africa (Deininger and Binswanger, 1995) or
+restrictive market differentiation that gave large farms
+legal rights to grow specific crops for export in
+Malawi (Christiansen and Kydd, 1987).
+The presumed superior economic efficiency of
+large farms may, however, be illusory due to the
+high social costs of the preferential public policies
+that have maintained them. Experiences with most
+large-farm led agrarian reforms within dual farm size
+structures have been mixed (Lele and Agarwal, 1989;
+Collier et al., 1990; Bruce and Migot-Adholla, 1994).
+Deininger and Binswanger (1995) suggest that incorporating rent seeking behavior in the theory of production relations may explain the existence of such
+dual farm size structures in Kenya, Zimbabwe and
+South Africa. Policies that were used to reduce the
+'reservation utility' of the African smallholder farms
+in these countries included restrictive land, labor and
+output market regulations. In the absence of these
+policy distortions, large European farms could not
+have been competitive with the African smallholder
+farms. Lele and Agarwal (1989) compared domestic
+resource costs for the production of coffee and tea in
+Kenya for large and smallholder farms. Their estimates showed a strong comparative advantage in
+smallholder production, and they argued that this
+possibly explains why the colonial government imposed restrictions on smallholder farms producing
+tea and coffee in Kenya. However, Lele and Agarwal
+(1989) and Deininger and Binswanger (1995) and
+did not specifically test for economic (i.e. price and
+technical) efficiency differences between the large
+and small farms in their insightful analyses.
+Previous studies in Asia have tested for relative
+efficiency differences by farm size, with conflicting
+results. Lau and Yotopoulos (1971) and Yotopoulos
+and Lau (1973) found that small wheat farms in the
+Indian Punjab were more economically efficient than
+large farms. In Pakistan, Khan and Maki ( 1979)
+found that large farms were more economically efficient than small farms. However, these results are at
+variance with those of Sidhu (1974) who found no
+evidence of differences in the relative economic
+efficiency or its components of technical and pricing
+efficiency, between small and large farms. The above
+suggests the need to avoid generalizations on what is
+
+clearly a complex issue. Owing to major differences
+in agricultural and institutional settings, evidence
+from the aforementioned studies in Asia cannot be
+used directly for informing agrarian policy in Africa.
+However, there is a dearth of studies in Africa that
+test for relative economic efficiency (Saleem, 1988)
+by farm size in order to guide policy decision makers. Data limitations have largely precluded such
+analysis, most especially in West Africa (Lele and
+Agarwal, 1989). The objective of this paper is to test
+for relative economic efficiency differences between
+small and large rice farms in Cote d 'Ivoire using the
+profit function approach. The purpose of this paper
+differs from that of Deininger and Binswanger
+( 1995), in that while they focused on generating
+plausible hypotheses for the existence of dual farm
+size agrarian structures, our aim is to determine
+whether differences in economic efficiency by farm
+size exist in Cote d'Ivoire, the existence of dual farm
+size agrarian structure taken as given (Widner, 1993).
+There is an on-going debate in Cote d'Ivoire on
+the types of institutional changes needed to stimulate
+rice production in the country (Cooperation Fran~aise
+de Developpement, 1993). With declining national
+rice self-sufficiency, Cote d'Ivoire has become the
+second largest importer of rice in West Africa (average of 284200 t annually in 1988-1990) (West
+Africa Rice Development Association, 1993). This
+has again led some policy makers to argue in favor
+of increasing domestic production through the encouragement of large farms. The argument for such
+an approach is that it lowers extension and input
+distribution costs, and ensures easier and lower marketing costs with fewer producers. Although about
+80% of rice farms in the country are smallholder
+farms, the government has over the years encouraged
+large farms through the importation and distribution
+of highly subsidized mechanized equipment, seed
+and chemical inputs. For example, the government
+established large, fully mechanized, and highly subsidized upland rice farms in the northern part of the
+country. The state has also given preferential tax
+exemptions for the import of large machinery
+(Kouadio and Pokou, 1991). The lack of empirical
+studies on the relative economic efficiency of large
+and small farms in Cote d'Ivoire makes it difficult
+for policy makers in Cote d'Ivoire to evaluate their
+agrarian policy for achieving growth and equity.
+
+A A. Adesina, K.K. Djato j Agricultural Economics 14 ( 1996) 93-102
+
+2. Empirical analysis
+2.1. Empirical model
+Using the output price as the numeraire, the normalized restricted profit function ( 1T *(q, Z)) can be
+written in a generalized form as
+7T
+
+*(
+
+q,Z)
+
+=
+
+F[ X 1* ( q,Z) ... ,Xn* ( q,Z)]
+m
+
+- L
+j~
+
+(1)
+
+qjX/ ( q,Z)
+I
+
+where q. represents the normalized factor prices, F
+is a well behaved production function, X is the
+vector of variable inputs and Z is the vector of fixed
+inputs used in the production process. Starting with
+any well specified normalized restricted profit function, direct application of Hottelings-Shephard' s
+Lemmas to the function yields the corresponding
+factor demand and output supply equations
+
+j= 1, ... ,m
+
+(2)
+
+Multiplying both sides by q/1T * gives a series of
+
+m factor share equations
+
+( 37T * ( q,Z)jaqJ
+
+=-X/ q/7T *=a./
+(3)
+
+j=1, ... ,m
+
+Eqs. (1) and (3) form a theoretical basis for the
+specifications of the empirical models. Following
+Lau and Yotopoulos ( 1971 ), the empirical specification of the system of equations of the normalized
+restricted profit function and the factor share equations is given as
+2
+
+ln7T *=InA*+ 8~ DL +
+
+2
+
+La.;' lnwi + L {3i* lnZi
+
+95
+
+used including family and hired labor; w 1 is the
+wage rate normalized by the price of output; w 2 is
+the price of fertilizer normalized by the price of
+paddy; X 2 is the quantity of fertilizer used; Z 1 is the
+capital input and is the sum of costs of seeds,
+insecticides, herbicides, animal and mechanical
+power; Z 2 is the land input, which is the net area
+sown to rice in hectares; DL is a dummy variable
+taking on the value of unity for large farms; Ds is a
+dummy variable taking on the value of unity for
+small farms; R 1 is a district dummy 1• Other variables included in the profit function equation are use
+of improved rice varieties ( MV ), whether or not the
+farmer is educated (EDUC: defined as having had at
+least 6 years of schooling, the least required for
+literacy in the country), contact with extension (EXT)
+and access to credit (CRDT). The inclusion of education in the profit function derives from the findings
+of earlier studies (Sidhu and Baanate, 1981; Jamison
+and Lau, 1982; Pudasaini, 1983) that education has a
+positive effect on profits, a result that indicates the
+existence of management related inefficiency (Ali
+and Byerlee, 1991). Inclusion of the extension variable in the profit function follows studies that have
+shown that extension contacts by farmers have a
+positive influence on their farm management ability
+and technical efficiency (Bindlish and Evenson,
+1993). The use of modem varieties (MV) is expected to have a positive effect on profits given the
+higher productivity potentials of these varieties
+(Sidhu, 1974).
+It is assumed that the errors of the system of
+equations are additive with zero mean and finite
+variance. For the same farm, the co-variance of the
+error terms in these equations are non-zero, while the
+co-variance of error terms of any of the equations for
+different farms is assumed to be zero. Given these
+assumptions, and following previous studies (Y otopoulos and Lau, 1973; Sidhu, 1974; Saleem, 1988),
+Zellner's seemingly unrelated regression (SUR)
+
+i= 1,2
+where 1T * is the normalized profit in FCFA (FCFA
+520 = $US1), defined as revenue less variable costs
+normalized by the price of paddy ( p ); A* is the
+intercept; X 1 is the number of man-days of labor
+
+1 Pooling of date across regions to enhance price variability in
+data sets has precedence in several of the studies on profit
+function applications (Lau and Yotopoulos, 1971; Tamin, 1979;
+Lau et a!., 1979). As in previous studies we introduce a regional
+dummy variable.
+
+96
+
+A.A. Adesina, K.k. Djato /Agricultural Economics 14 ( 1996) 93-102
+
+method was used to estimate the system of equations
+in order to obtain asymptotically efficient parameter
+estimates. The efficiency of the estimates can be
+further improved by imposing appropriate restrictions on the parameters in the system of equations.
+
+2.2. Data
+Data used to estimate the model were collected
+from August 1992 to April 1993 from a sample of
+410 rice farms in villages in three districts of northem Cote d'Ivoire, namely Touba (67 farms), Korhogo (216 farms) and Katiola (127 farms). This
+provided us with disaggregated micro-level data 2 •
+The definition of farm size has been variable in the
+efficiency literature, as what is considered 'large' or
+'small' is relative depending on the agricultural system settings. In Pakistan agriculture, Khan and Maki
+( 1979) classified large farms as those having 12.5
+acres or over (i.e. 5 ha). Using Indian data, Yotopoulos and Lau (1973) and Sidhu (1974) classified
+'large' farms as those with at least 10 acres (i.e. 4
+ha). In this study, large farms were defined as farms
+that have at least 5 ha. In their study in northern Cote
+d'Ivoire, Kouadio and Pokou (1991) noted that average farm size of the large farms ranged from 5 to 28
+ha, with a mean of 10 ha. To determine the robustness of conclusions from the initial analysis, we shall
+also examine the effects of re-defining the threshold
+for large farms to 10 ha. Sensitivity of the conclusions to alternate definitions of the threshold, although very important given the potential far-reaching implications of the results of farm efficiency
+tests, is rarely evaluated (Khan and Maki, 1979).
+
+2 The use of data from the districts also enhanced variability in
+the price data. We find the succinct argument of Sevilla-Siero
+(1991) (p. 125) highly relevant here: "[A]s soon as we bring into
+the analysis spatial considerations (and agriculture in most developing countries is par excellence a geographically dispersed activity) we see locational differences in fanngate prices ....Thus depending on their location, farms will confront different constellations of output and input prices. Paradoxically, it is the wide
+geographic dispersion characteristic of developing country agriculture (and the geographic price variablity occasioned by it) that
+renders feasible the estimation of profit functions therein".
+
+3. Empirical results
+
+3.1. Hypothesis testing
+The estimated results of the profit function and
+factor share equations for the efficiency tests are
+given in Table 1. The parameter estimates all have
+the expected signs. The input prices all have the
+theoretically expected negative signs indicating that
+the estimated profit function is convex in input prices.
+The coefficient on capital input is positive as expected, which agrees with the finding of Khan and
+Maki (1979). In the model of Yotopoulos and Lau
+(1973), the coefficient on the capital variable was
+found to be negatively signed due to what the authors described as mis-specification of this variable.
+Although extension (EXT) and education (EDUC)
+positively influence profits, their effects are not significant. However, access to credit (CRDT) and use
+of modem varieties ( MV) are positively related to
+profits and are generally significant.
+Efficiency has three components: technical, allocative and economic. Technical efficiency can be
+defined as the ability to achieve a higher level of
+output, given a similar level of production inputs.
+Allocative efficiency defines the extent to which
+farmers make efficient decisions by using inputs up
+to the level at which their marginal contribution to
+output value is equal to the factor cost. Economic
+efficiency combines technical and allocative efficiency. Technical and allocative efficiency are necessary, and when they occur together are sufficient
+conditions for achieving economic efficiency. In order to address the questions of relative efficiency
+discussed above, we carried out the following statistical tests:
+H1: small and large rice farms have equal relative
+economic efficiency;
+H2: there is equal relative price efficiency with
+respect to labor and fertilizer for small and large
+rice farms;
+H3: there is equal relative technical and price
+efficiency for small and large rice farms;
+H4: if either H1 or H2 is rejected, H4 tests for
+absolute price efficiency of the large farms;
+H5: if either H1 or H2 is rejected, H5 tests for
+absolute price efficiency of the small farms;
+
+A.A. Adesina, K.K. Djato /Agricultural Economics 14 ( 1996) 93-102
+
+H6: maintaining the hypothesis of equal relative
+price efficiency, this hypothesis tests for the absolute price efficiency of both large and small farms
+(i.e. as a group);
+H7: this hypothesis tests for constant returns to
+scale in all factors of production.
+We tested the relevant hypotheses under the two
+alternative specification of the farm size threshold.
+Hl-H5 were tested from the unrestricted model,
+
+97
+
+while H6 was tested with two parameter restrictions.
+For H7, four restrictions were imposed on the parameters. The test results are shown in Table 2. The
+results for the model variant for the case of the 5 ha
+threshold are discussed first. Hl cannot be rejected.
+This indicates that small and large farms have equal
+relative economic efficiency. H2 is rejected, suggesting that differences exist in the relative price efficiency between small and large farms. H3 is re-
+
+Table I
+Joint estimation of profit function and factor share equations for rice farms, Cote d 'Ivoire, 1993
+Functionjvariable
+
+Zellner's SUR method
+Two restrictions
+
+Unrestricted
+
+Profit function
+A '
+Constant
+BL'
+
+Large farm dummy
+
+ex 2 '
+
+Fertilizer price
+
+[3 *
+
+Capital
+
+[3 2 '
+
+Land
+
+[3 3
+
+Regional dummy
+
+<? 1
+
+Extension
+
+<? 2
+
+Improved variety
+adoption
+Access tocredit
+Education
+
+Labor demand function
+ex 1* L
+Large farm
+ex 1' s
+
+Small farm
+
+Fertilizer demand function
+ex 2 ' L
+Large farm
+(X
+
+2
+
+'s
+
+Small farm
+
+Four restrictions
+
+5 ha
+
+10 ha
+
+5 ha
+
+!Oha
+
+5 ha
+
+10 ha
+
+5.63
+(6.82) • ' •
+-0.22
+( -0.34)
+-0.55
+(- 2.04) *.
+-0.43
+(- 0.68)
+0.15
+(2.90) ' *
+0.69
+(8.95) •••
+0.87
+( 1.31)
+0.12
+(0.44)
+0.41
+
+5.60
+(6.73) ' ' '
+0.42
+( 1.61)
+-0.51
+( 1.86) •
+-0.53
+( -0.83)
+0.15
+(2.90) ••
+0.68
+(8.73) • ' •
+0.38
+(1.95) '
+0.13
+(0.45)
+0.40
+
+5.68
+(6.82) • ' '
+-0.48
+( -0.73)
+-0.56
+(- 2.04) ' •
+-0.45
+( -0.70)
+0.15
+(2.86) ' '
+0.69
+(8.87) • ' •
+0.87
+(1.31)
+0.12
+(0.45)
+0.41
+
+5.60
+(6.73) • ' '
+0.17
+(0.87)
+-0.51
+(- 1.86) '
+-0.53
+(- 0.83)
+0.15
+(2.90) * '
+0.68
+(8.71) •••
+0.38
+(1.94) •
+0.13
+(0.47)
+0.40
+
+7.70
+(9.70) ' ' '
+-0.59
+( -0.82)
+-1.16
+(-6.17). *.
+-0.77
+( -7.30) ' • *
+0.10
+( 1.99) '*
+0.73
+(8.93) •••
+0.95
+( 1.31)
+0.21
+(0.69)
+0.31
+
+7.62
+(9.57) ' ' '
+0.13
+(0.61)
+-1.15
+(- 6.1 0) ' ' '
+-0.77
+(7.26) ' ' •
+0.11
+(2.10) ••
+0.72
+(8.73) •• *
+0.36
+( 1.80)
+0.20
+(0.69)
+0.30
+
+(4.10) •• '
+0.17
+(1.90) •
+0.12
+( 1.31)
+
+(3.92) •• *
+0.17
+(1.90) •
+0.12
+(1.30)
+
+(3.99) • ' •
+0.17
+(1.90) '
+0.12
+(1.30)
+
+(3.91) ' • '
+0.17
+(1.90) •
+0.12
+( 1.30)
+
+(3.39) •••
+0.13
+( 1.35)
+0.096
+(0.92)
+
+(3.37) •••
+0.13
+(1.35)
+0.091
+(0.88)
+
+-0.47
+( -0.60)
+(- 8.0) ' ' '
+
+-0.12
+( -0.06)
+-2.59
+( -7.6) • ' '
+
+-2.50
+(-7.50) ' ' .
+-2 50
+( -7.50) •••
+
+-2.50
+(-7.50)'''
+-2.50
+( -7.50) * • *
+
+-1.16
+(-6.17)'''
+-1.16
+(- 6.17) * * •
+
+-1.15
+(-6.09) ' ••
+-1.15
+(- 6.1 0) ' • '
+
+-0.32
+( -0.88)
+-1.44
+(-9.13) ...
+
+-0.17
+(-0.21)
+- 1.30
+(-8.76) •• '
+
+-1.26
+(- 8.63) •••
+- 1.26
+(-8.63) ' ••
+
+-1.26
+(-8.60)'*'
+-1.26
+(-8.63) ' . '
+
+-0.77
+(-7.30)'''
+-0.77
+(-7.30) ' ' .
+
+-0.77
+(-7.30) * ••
+-0.77
+(-7.30) *.'
+
+-2.90
+
+• Values in parentheses are the corresponding t-values for the estimated parameters.
+Asterisks indicate significance at the following levels: ' ' ' I%; ' ' 5%; ' I 0%.
+
+AA. Adesina. K.k. Djato /Agricultural Economics 14 ( 1996) 93-102
+
+98
+
+jected, which is not surprising given the result of H2.
+H4 cannot be rejected for large farms, suggesting
+that large farms have absolute price efficiency. H5 is
+rejected for small farms. H6 is rejected, again not
+surprising given that H2 has been rejected. H7 is
+rejected. 13 ~ + 13; < I suggests that technology on
+the farms exhibits decreasing returns to scale. Next
+we discuss the results of the tests for the case where
+the farm size threshold was I 0 ha. As for the 5 ha
+scenario above, HI cannot be rejected, strongly supporting the above conclusion that small and large
+farms have equal relative economic efficiency. H2
+cannot be rejected, suggesting that small and large
+farms have equal relative price efficiency. H3 cannot
+be rejected, indicating that small and large farms
+have equal relative technical and price efficiency. H4
+cannot be rejected, but H5 is rejected, results which
+together appear to indicate that large farms have
+absolute price efficiency. H6 was rejected, indicating
+that as a group, there exists absolute price inefficiency among all rice farms in the sample. H7 is
+rejected, supporting the conclusion of decreasing
+returns to scale for the technology use on all the rice
+farms. When all the results are taken together, there
+is certainly evidence that when account is taken of
+differences in access to extension, use of modem
+varieties, credit and education, there are no differ-
+
+ences in relative economic efficiency between small
+and large rice farms in Cote d'lvoire.
+
+3.2. Elasticity estimates and implications
+An issue of central interest to policy makers is the
+responsiveness of output supply and factor demands
+to price policy, and how they are affected by investment and land policies (Lau and Yotopoulos, I979).
+Such estimates are lacking for rice in Cote d'Ivoire.
+An advantage of the profit function approach is that
+it permits straightforward derivation of own-price
+and cross-price output supply and input demand
+elasticities. Indirect estimates of production elasticities were derived from identities which link the
+coefficients of the profit function and those of the
+production function. It has been noted that these
+indirect input elasticities, when compared with those
+obtained from the production function, have the distinct advantage of statistical consistency (Sidhu,
+197 4). These estimates of indirect elasticities are
+compared with direct elasticity estimates obtained
+from an estimated production function. All elasticities have the expected signs. The elasticity of rice
+output is highest for labor (0.408) followed by fertilizer (0.267), land (0.204) and capital (0.036).
+To examine the output and factor demand respon-
+
+Table 2
+Tests of statistical hypotheses on efficiency differences between large and small farms, under alternative specification of farm size
+thresholds. Rice farms, Cote d'Ivoire, 1993
+Hypotheses
+
+Maintained
+
+Tested
+
+5 ha
+
+IOha
+
+HI
+
+oL' = o
+
+H2
+
+ex! * L =ex! * S
+CXz * L = cxz * S
+oL' = o
+
+H3
+
+x2
+
+Critical value
+
+value
+
+0.11
+8.69
+
+2.60
+2.14
+
+3.84(1; 409)
+5.99 (2; 408)
+
+9.11
+
+2.89
+
+7.81 (3; 407)
+
+0.03
+
+0.12
+
+5.99 (3; 407)
+
+at * L =at * S
+
+cxz * L =cxz * S
+a
+
+H4
+
+•L =a 1'
+
+1
+
+cxz * L =cxz *
+H5
+
+al*s =at*
+
+33.3
+
+27.72
+
+5.99 (2; 408)
+
+H6
+
+cxz 's =cxz '
+a 1* L =a 1*
+
+25.43
+
+25.94
+
+5.99 (2; 408)
+
+5.66
+
+6.14
+
+3.84(1; 409)
+
+H7
+
+cxl * L =cxl * S
+CXz * L =cxz * S
+a!* L = ai*s
+CXz * L =cxz * S
+cxl * L =cxz *
+cxz 'L =cxz '
+
+cxz •L =cxz '
+131' + i3z' = I
+
+x2
+
+value
+
+A.A. Adesina, K.K. Djt11o /Agricultural Economics 14 ( 1996) 93-102
+
+siveness of rice farms, we derived output supply and
+variable-factor demand functions from the profit
+function as follows.
+Labor demand (X~ )
+lnX~
+
+X lnp + {3 1* lnZ 1 +
+
++a;)}
+
+1*
+
+{3; lnZ
+
+Wage
+
+lnx;
+
+Fertilizer
+Price
+
+= In( -a; ) +In A* + a 1* In w 1 A
+
+Land
+
++(a; -l)lnw 2 A+8CDL
+
+{3; lnZ
+
++{1- (at+ a; )}lnp + {3 1* lnZ 1 +
+
+2
+
+Output supply (Yp*)
+lnYp* =ln(l-L:a/) +InA* +L:a;'lnw; A
+- (L:a/)lnp + {3 1* lnZ 1 +
+
+{3; lnZ
+
+2
+
+where w; , and p are nominal money prices of the
+variable inputs and output (for details of derivations
+see Lau et al., 1979).
+Output supply and input demand elasticity estimates were obtained under the two alternative speci-
+
+Table 3
+Derived elasticity estimates for rice output supply's own-price and
+cross-price input elasticities: profit function results in Cote d'Ivoire
+and other countries
+
+Paddy
+Price
+
+Wage
+Fertilizer
+Price
+
+Capital
+
+Cote
+d'lvoire
+
+Thailand
+
+0.98
+( 1.03)
+-0.55
+(-0.51)
+
+0.89
+
+1.25
+
+0.58
+
+-0.57
+
+-0.98
+
+-0.33
+
+-0.11
+
+-0.23
+
+-0.18
+
+0.54
+
+0.93
+
+0.95
+
+0.45
+
+0.07
+
+0.05
+
+-0.43
+(- 0.53)
+0.69
+(0.68)
+0.15
+(0.15)
+
+Paddy
+Price
+
+2
+
+Fertilizer demand (X;)
+
+Land
+
+Table 4
+Fertilizer demand's own- and cross-price elasticities for paddy
+farms: profit function results in Cote d'Ivoire and other countries
+in Asia
+
+=ln(-at) +InA* +(at -1)1nw 1 A
++ a 2*lnw 2 A+ o~DL + {1- ( a
+
+a
+
+Taiwan
+
+b
+
+India'
+
+Estimates for the I 0 ha farm size model are in parentheses below
+the estimates for the 5 ha farm size specification.
+a After Adulavidhaya et al. ( 1979).
+b After Lau et al. (1979).
+' After Duraisamy ( 1990).
+
+99
+
+Capital
+
+Cote
+d'lvoire
+
+Thailand
+
+1.97
+(2.03)
+-0.55
+( -0.51)
+
+1.89
+
+2.24
+
+1.57
+
+-0.57
+
+-0.98
+
+-0.33
+
+-!.II
+
+-1.23
+
+-1.18
+
+0.54
+
+0.93
+
+0.95
+
+0.45
+
+0.07
+
+0.05
+
+- 1.43
+(- 1.53)
+0.69
+(0.68)
+0.15
+(0.15)
+
+a
+
+Taiwan
+
+b
+
+India'
+
+Estimates for the I 0 ha farm size model are in parentheses below
+the estimates for the 5 ha farm size specification.
+a After Adulavidhaya et al. ( 1979).
+b After Lau et al. (1979).
+' After Duraisamy ( 1990).
+
+fications of farm size (i.e. under 5 ha and 10 ha),
+using the unrestricted parameter estimates. These
+elasticities, given in Tables 3-5, are compared with
+estimates obtained by previous studies on rice farms
+in Asia. The elasticity estimates from the two alternate model specifications are very similar, buttressing the robustness of the predicted estimates. The
+rice supply response to changes in paddy price is
+slightly inelastic (Table 3). The output supply elasticities with respect to land (0.69) and capital (0.15)
+indicate the output response of an average farm to
+increases in land and capital, holding wage rate (not
+quantity of labor) and fertilizer price (not quantity of
+fertilizer) constant. Increasing the amounts of land
+and capital will shift the marginal productivity curves
+of labor and fertilizer upwards. The implication is
+that, holding wage rate and fertilizer price constant, a
+1% increase in amount of rice land will result in a
+0.7% increase in rice output and a 1% increase in
+capital will result in a 0.2% increase in rice output.
+The inelastic own-price paddy supply elasticity, and
+the inelastic paddy supply elasticity with respect to
+the fixed factors, may be due to the lack of improved
+rice technologies which limits increases in land productivity. The highly elastic demand for fertilizer
+
+A.A. Adesina. K.K. Djato /Agricultural Economics 14 ( 1996) 93-102
+
+100
+
+Table 5
+Labor demand's own- and cross-price elasticities for paddy farms:
+profit function results in Cote d'lvoire and other countries in Asia
+Cote
+
+Thailand
+
+a
+
+Taiwan
+
+b
+
+India c
+
+d'lvoire
+Paddy
+Price
+
+Wage
+Fertilizer
+Price
+
+Land
+Capital
+
+1.97
+(2.03)
+-1.55
+(- 1.51)
+-0.43
+(- 0.53)
+0.69
+(0.68)
+0.15
+(0.15)
+
+1.89
+
+2.24
+
+1.57
+
+-1.57
+
+-1.98
+
+-1.33
+
+-0.11
+
+-0.23
+
+-0.18
+
+0.54
+
+0.93
+
+0.95
+
+0.45
+
+0.07
+
+0.05
+
+Estimates for the I0 ha farm size model are in parentheses below
+the estimates for the 5 ha farm size specification.
+a After Adulavidhaya et al. (1979).
+b After Lau et al. ( 1979).
+c After Duraisamy ( 1990).
+
+(Table 4) with respect to paddy price (1.97-2.03)
+indicates that increases in paddy prices would lead to
+significant increase in farmers' demand for fertilizers
+to intensify rice production. However, the highly
+elastic own-price elasticity of fertilizer demand
+(- 1.43 to - 1.53) suggests that increases in fertilizer prices would lead to substantial reduction in
+fertilizer usage. The estimated highly elastic labor
+demand elasticity (1.97-2.03) with respect to paddy
+price (Table 5) indicates that increases in paddy
+prices will lead to a substantial increase in labor
+absorption in the highly labor-intensive rice farms.
+Similarly, the highly elastic own-price labor demand
+elasticity (- 1.6) indicates that exogenously enforced
+government intervention in the rural labor market to
+raise (lower) rural wage rates for agricultural labor
+above (below) the market determined rates would
+have major effects on the labor intensive rice production systems by creating major decline (increase) in
+labor absorption in rice production.
+
+4. Conclusions
+In this paper we examined the relative economic
+efficiency of small and large rice farms in Cote
+
+d'Ivoire using a profit function approach. We found
+no difference in the economic efficiency of small
+and large farms. This conclusion is robust under
+alternative model specifications. A number of agrarian policy implications for the rice sector of Cote
+d'Ivoire can be drawn from the findings. The most
+substantive is that agrarian reforms directed towards
+further concentration of landholding for large farms
+cannot be justified based on economic efficiency.
+Such programs can only be justified from the perspective of political considerations that often favor
+the elitist social class that control much of the large
+scale farms in Cote d'Ivoire (Widner, 1993). At
+times, the government has taken steps to mechanize
+rice production through direct land appropriation and
+re-distribution to form large scale farms. However,
+economic studies of large-scale fully mechanized
+rice projects in northern Cote d'lvoire (i.e. Grand
+Travaux, Projet Soja) show very high economic
+losses (Berger et al., 1990). The preference for a
+large-farm led approach to rice production is a bias
+not supported by any evidence of superior economic
+efficiency of large farms.
+Secondly, results show that within the dualistic
+farm size agrarian structure in Cote d'Ivoire, there
+exists evidence of absolute allocative inefficiency.
+Policy interventions are needed to remove such management related inefficiencies in rice production either through the development of a better market
+price information system or effective farmer-oriented
+technical training programs by rice extension workers.
+Finally, results indicate that access to credit and
+use of modem rice varieties significantly increase
+profits. Several improved rice varieties are available
+in Cote d'lvoire, but many farms do not have access
+to them because of poor seed distribution service,
+and ineffectiveness of the extension service. To improve technical efficiency of rice farms, a more
+accelerated program to provide information, credit,
+improved seeds and other inputs is needed. The
+recent establishment of a consolidated rural development agency (ONADER: Organization Nationale
+d' Appui au Developpement Rural e) will be instrumental in providing farmers access to these inputs.
+Our results strongly suggest that government policies
+on such farm support services should not be biased
+against smallholder rice farms.
+
+A.A. Adesina, K.K. Djato /Agricultural Economics 14 ( 1996) 93-102
+
+Acknowledgements
+
+We are very grateful to two anonymous journal
+reviewers, and the Editor-in-Chief, Professor S.R.
+Johnson, for helpful comments that assisted us in
+revising this paper. We thank Peter Matlon for helpful comments on an earlier version of the paper. The
+financial support for this work receieved from the
+African Development Bank (ADB), the West Africa
+Rice Development Association (WARDA) and Centre Ivoirien de Recherche Economique et Sociale
+(CIRES) is gratefully acknowledged. The work on
+which this article is based was done while the senior
+author was a senior economist at WARDA and the
+second author was a doctoral student at CIRES. The
+comments of Jacques Pegatienan and Kama Berthe
+on the work are gratefully acknowledged. The views
+expressed in the paper are solely those of the authors.
+
+References
+Adulavidhaya, K., Kuroda, Y., Lau, L.J., Lerttamrab, P. and
+Yotopoulos, P.A., 1979. A micro-economic analysis of the
+agriculture of Thailand. Food Res. In st. Stud., 27 (I): 79-86.
+Ali, M. and Byerlee, D., 1991. Economic efficiency of small
+farmers in a changing world: A survey of recent evidence. J.
+Int. Dev .. 3, 1: l-27.
+Berger, L. et al., 1990. Etude de Ia filiere riz. Rapport Final.
+Presidence de Ia Republique /Direction et controle des Gran des
+Travaux, Abidjan, Cote d'lvoire.
+Bindlish, V. and Evenson, R., 1993. Evaluation of the performance ofT and V extension in Kenya. World Bank Tech. Pap.
+208, Africa Technical Department Series, The World Bank,
+Washington DC.
+Brokensha, D. and Glazier, J., 1973. Land reform among the
+Mbere of central Kenya. Africa, 43: 82-206.
+Bruce, J.W. and Migot-Adholla, S.E., 1994. Searching for land
+tenure security in Africa. Kendall/Hunt, Iowa, USA.
+Collier, P., Radwan, S., Wangwe, S. and Wagner, A., 1990. Labor
+and Poverty in Rural Tanzania. Ujamaa and Rural Development in the United Republic of Tanzania. Clarendon Press,
+Oxford.
+Christiansen, R.E. and Kydd, J.G., 1987. The political economy of
+agricultural policy formulation in Malawi, 1960-1985. Madia Paper, World Bank, Washington DC.
+Cooperation Fran«aise de Developpement, 1993. Memorandum de
+Ia CFD sur Ia riziculture Ivoirien. Rapport de Mission, Avril.
+Deininger, K. and Binswanger, H.P., 1995. Rent seeking and
+
+101
+
+development of large-scale agriculture in Kenya, South Africa,
+and Zimbabwe. Econ. Dev. Cult. Change, 43 (3): 493-522.
+Domer, P., 1972. Land Reform and Economic Development.
+Penguin, Harmondsworth, UK.
+Duraisamy, P., 1990. Technical and allocative efficiency of education in agricultural production: a profit function approach.
+Indian Econ. Rev., 25 (!): 17-32.
+Jamison, D.T. and Lau, L.J., 1982. Farmer Education and Farm
+Efficiency. The Johns Hopkins University Press, Baltimore,
+MD.
+Khan, M.H. and Maki, D.R., 1979. Effects of farm size on
+economic efficiency: The case of Pakistan. Am. J. Agric.
+Econ., 61 (1): 64-69.
+Kouadio, Y. and Pokou, K., 1991. Efficacite technique des petites
+et gran des exploitations agricoles dans le Nord de Ia Cote
+d'Ivoire. Cah. Ivoiriens Rech. Econ. Sociale, I: 7-23.
+Kydd, J.G. and Christiansen, R.E., 1982. Structural change in
+Malawi since independence: consequences for a development
+strategy based on large-scale agriculture. World Dev., May:
+355-376.
+Lau, L.J. and Yotopoulos, P.A., 1971. A test for relative efficiency and application to Indian agriculture. Am. Econ. Rev.,
+61: 94-109.
+Lau, L.J. and Yotopoulos, P.A., 1979. Summary and Conclusions.
+Food Research Institute Studies, Vol. XVII, No. I, pp. 107117.
+Lau, L.J., Lin, W. and Yotopoulos, P.A., 1979. Efficiency and
+technological change in Taiwan's agriculture. Food Res. Inst.
+Stud., XVII: 23-50.
+Lele, U. and Agarwal, M., 1989. Smallholder and large-scale
+agriculture in Africa. Are there tradeoffs between growth and
+equity? Madia Discuss. Pap. No. 6, World Bank, Washington,
+DC, 20 pp.
+Lele, U. and Meyers, L.R., 1986. Agricultural development and
+foreign assistance: A review of World Bank's experience in
+Kenya, 1963 to 1986. Madia Paper, World Bank, Washington,
+DC.
+Lele, U., Oyejide, A.T., Bumb, B. and Bindlish, V., 1989. Nigeria's economic development, agriculture's role and World
+Bank assistance: Lessons for the future. Madia Paper, World
+Bank, Washington, DC.
+McHenry, D.E., Jr., 1979. Tanzania's Ujamaa villages: The implementation of a rural development strategy, Berkeley. Institute
+of International Studies, University of California.
+Njeru, E.H.N., 1978. Land adjudication and its implications for
+the social organization of the Mbere. Land Tenure Res. Pap.
+No. 73, University of Wisconsin.
+Noronha, R., 1985. A review of the literature on land tenure
+systems in Sub-Saharan Africa. Discuss. Pap. Rep. No. ARU
+43, Agricultural and Rural Development Department, The
+World Bank, July 19.
+Okoth-Ogendo, H.W.O., 1986. The perils of land 'tenure' reform.
+In: J.W. Arntzen, L.D. Ngcongco and S.D. Turner (Editors),
+Land Policy and Agriculture in Eastern and Southern Africa,
+United Nations University, Tokyo.
+Pudasaini, S.P., 1983. The effects of education in agriculture:
+evidence from Nepal. Am. J. Agric. Econ., 65: 509-515.
+
+102
+
+A.A. Adesina, K.K. Djato j Agricultural Economics 14 ( 1996) 93-102
+
+Saleem, S.T., 1988. Relative efficiency of cotton fanns in Sudanese irrigated agriculture. World Dev., 16 (8): 975-984.
+Sevilla-Siero, C.A., 1991. On the use and misuse of profit functions for measuring the price responsiveness of peasant farmers: A comment. J. Dev. Stud., 27 (4): 123-136.
+Sidhu, S.S., 1974. Relative efficiency in wheat production in the
+Indian Punjab. Am. Econ. Rev., 64 (4): 742-751.
+Sidhu, S.S. and Baanate, C.A., 1981. Estimating farm-level demand and wheat supply in the Indian Punjab using a translog
+profit function. Am. J. Agric. Econ., 63: 237-246.
+Tamin, M., 1979. Micro-economic analysis of production behav-
+
+ior of Malaysian farms: Lessons from Muda. Food Res. Inst.
+Stud., XVII: 87-98.
+West Africa Rice Development Association, 1993. Rice Trends in
+Sub-Saharan Africa: Synthesis of Statistics on Production,
+Trade and Consumption of Rice. WARDA.
+Widner, J ., 1993. The origins of agricultural policy in Ivory Coast
+1960-86. J. Dev. Stud., 29 (4): 25-58.
+Yotopoulos, P.A. and Lau, L.J., 1973. Test for relative economic
+efficiency: Some further results. Am. Econ. Rev., 63 (I):
+214-223.
+
+

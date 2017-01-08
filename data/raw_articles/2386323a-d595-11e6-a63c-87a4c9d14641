@@ -1,0 +1,1557 @@
+AGRICULTURAL
+
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 15 (1996) 113-126
+
+Nonparametric analysis of technical, pure technical, and scale
+efficiencies for food crop production in East Java, Indonesia 1
+Richard V. Llewelyn *,Jeffery R. Williams
+Department of Agricultural Economics, Kansas State University, Manhattan, Kansas, USA
+
+Accepted I August 1996
+
+Abstract
+Non parametric analysis of technical efficiency for irrigated farms in the Madiun regency in the west-central part of East Java, Indonesia
+is conducted using linear programming techniques. This procedure allows the relative technical efficiency for each farm to be determined
+and for inefficiencies to be decomposed into pure technical inefficiency and scale inefficiency and does not require restrictions or
+assumptions regarding functional form to be placed on the data.
+Farmers in Madiun generally are efficient relative to each other. Farmers operating inefficiently do so more often because of scale
+inefficiencies rather than pure technical inefficiencies. A rnajority of the farms operate in the region of decreasing returns to scale rather than
+increasing returns to scale. Farmer age, the level of diversification of cropping activities, and high school education were found to be related
+to technical efficiency in the rainy season under irrigated conditions. Other socioeconomic factors were not statistically significant.
+The results imply that inefficient farms use excessive levels of inputs, particularly nitrogen fertilizer. This is perhaps due to the lingering
+effects of past input subsidization policies, particularly of fertilizers, in Indonesia, or to risk-reducing behavior. The results also imply that
+current government policies to encourage diversification of cropping practices in Java may lead to greater technical inefficiencies in
+production. In addition, extension education targeted to younger farmers with low levels of formal education would improve efficiency.
+
+Nonparametric analysis of technical efficiency for
+irrigated farms in the Madiun regency of East Java,
+Indonesia is conducted using linear programming
+techniques. Though relatively common in high income countries, efficiency analysis in low income
+countries has been hampered by lack of data and
+poor understanding of the production process and
+often is limited to analysis of a single crop. Whole-
+
+' Corresponding author at: Kutisari Indah Selatan IV 148,
+Surabaya, Indonesia.
+1 Contribution no. 96-308-J from the Kansas Agricultural Experiment Station.
+
+farm analysis of technical efficiency that includes
+multiproduct production is rare. The use of nonparametric techniques makes it possible to evaluate technical, pure technical, and scale efficiencies for multiproduct farms in Madiun and to then identify factors
+associated with inefficiencies.
+Efficiency may be described as the relation between ends and means (Afriat) and has application in
+production analysis as well as consumption theory
+and demand analysis. Economists widely distinguish
+between technical efficiency and allocative or price
+efficiency, following pioneering work by Farrell in
+1957. The concept of technical efficiency relates to
+whether a firm uses the best available technology in
+its production process (Chavas and Cox, 1988). In
+
+0169-5150/96/$15.00 Copyright© 1996 Elsevier Science B.V. All rights reserved.
+PI! S0169-5150(96)01202-9
+
+114
+
+R.V. Llewelyn, J.R. Williams/ Agricultural Economics 15 0996) 113-126
+
+economic terms, technical inefficiency refers to failure to operate on the production frontier and generally is assumed to reflect inefficiencies caused by the
+timing and method of application of production inputs (Byerlee, 1987). Potential causes of technical
+inefficiency are inadequate information or insufficient technical skills.
+A variety of methods have been used to measure
+efficiency. The concept of the efficient frontier has
+often been used, where deviations from the frontier
+are assumed to represent inefficiencies. Various types
+of frontier efficiency analysis exist. These methods
+differ with respect to the assumptions on the outer
+bound of the frontier, which may be deterministic or
+stochastic, and to the method of measurement, parametric or non-parametric.
+For the parametric approach, estimation of production functions (or profit or cost functions) consists of specifying a parametric form for the function
+and then fitting it to observed data by minimizing
+some measure of their distance from the estimated
+function. This method attributes variation from the
+most efficient farms to technical inefficiency. As
+Chavas and Aliber (1993) note, the parametric approach provides a consistent framework for analyzing efficiency, however, this approach has an important weakness, in that the maintained hypothesis of
+parametric form can never be detected directly
+(Varian, 1984; Banker and Maindiratta, 1988). This
+method thus imposes restrictions on the technology
+that may not hold and that affect the distribution and
+measurement of the efficiency terms (Chavas and
+Aliber, 1993). An advantage of the parametric approach is that it can segregate deviations from the
+frontier technology into the systematic or actual inefficiencies of the firm and the random components,
+such as weather, that are stochastic and not due to
+operator inefficiency. Some stochastic formulations
+of frontier production functions have been developed
+that sort out the effects due to random errors from
+those caused by technical inefficiencies.
+An alternative approach is to apply nonparametric
+techniques to analyze production efficiency. A deterministic nonparametric frontier model was developed
+by Farrell (1957) in his groundbreaking work. This
+model cannot separate deviations from the frontier
+technology into their systematic and random components and thus, attributes all deviations from the
+
+frontier technology to inefficiency of the observed
+firm and may overstate inefficiencies. However, this
+methodology has the advantage of imposing no a
+priori parametric restrictions on the underlying technology, because it does not require a specific functional form for the frontier to be specified. Therefore, it does not impose unwarranted structure on the
+technology that might create a distortion in the efficiency measures (Hire et al., 1985). Also, it can
+handle disaggregated inputs and multiple output
+technologies and can be used in evaluating technical,
+allocative, scale and scope efficiencies.
+This study utilizes nonparametric techniques to
+provide a direct analysis of technical efficiency of
+irrigated food-crop production in East Java, Indonesia. A nonparametric, whole-farm, production frontier that includes multiple outputs is estimated for
+each farm in each of three distinct cropping seasons:
+rainy, middle, and dry. The crops included in this
+study are paddy rice, com, soybeans, peanuts, mungbeans, cassava, and a pepper-onion intercrop. Relative overall technical efficiency for each farm is
+determined as well as pure technical efficiency and
+scale efficiency. Efficiency indices obtained from the
+nonparametric analysis are then regressed on socioeconomic variables to help identify factors associated
+with technical inefficiencies.
+
+1. Agricultural production and efficiency in Indonesia and Asia
+Efficiency analysis of agricultural production in
+Indonesia has focused primarily on irrigated rice
+production (Widodo, 1986; Erwidodo, 1990) using
+stochastic parametric approaches. Widodo used a
+stochastic production function methodology with
+panel data to estimate average technical efficiencies,
+found to be between 83% and 96%. These values are
+similar to those found by Dawson et al. (1991) in the
+Philippines for lowland irrigated rice. In a similar
+study, Erwidodo used two stochastic production
+functions, the Cobb-Douglas and the translog, to
+examine farm-level efficiency in West Java. Technical efficiencies for wetland rice production averaged
+93.5% and ranged from 88% to 96.4%. This methodology revealed no significant difference in the level
+of technical efficiency between small and large farms.
+
+R.V. Llewelyn, J.R. Williams/ Agricultural Economics 15 (1996) 113-126
+
+Byerlee cites six other studies that have taken
+place in Asia, five of which examined irrigated rice
+production and one that looked at com production,
+all using stochastic production frontier methodology.
+Average efficiencies for rice production ranged from
+47% to 80% in India, the Philippines, and Pakistan.
+For com, the average efficiency in a study by Peng
+and Chen in Taiwan (cited by Byerlee, 1987) was
+72%. The major factors explaining differences in
+efficiency were variables that dealt with farmers'
+information and skills, such as education, experience, and contact with extension agents.
+A study of irrigated, high-yielding rice varieties in
+India by Kalirajan (1981) used Cobb-Douglas technology in estimating a profit function to evaluate the
+relative efficiency of large and small farmers who
+had adopted modem varieties. He concluded that
+small farmers were as efficient in adopting the new
+technologies as large farmers in terms of both technical efficiency and allocative efficiency.
+In a study of rice production in the Philippines,
+Berns ten ( 1977) included a measure of farmers'
+technical knowledge in the production function. The
+effect of this variable was significant and positive.
+He also found that age, experience, and extension
+contact were significant factors in farmers' efficiency, but education was not significant.
+Dawson et al. (1991) evaluated technical, allocative, and overall economic efficiencies for 22 rice
+farms in the Philippines with panel data from the
+International Rice Research Institute using a frontier
+production function approach. Overall efficiencies
+ranged from 84% to 95% across the farms. Azhar
+( 1991) found technical efficiency in rice and wheat
+production in Pakistan to be related positively and
+very significantly to education levels, with primary
+education providing the greatest increase in efficiency.
+Little has been done concerning efficiency of
+secondary food-crop production in Indonesia. In addition, the application of nonparametric techniques to
+Indonesian agriculture is virtually nonexistent, and
+these methodologies have potential for providing
+useful information regarding technical and scale efficiencies in production as well as factors associated
+with inefficiencies that may exist. These techniques
+are useful where data are more limited and production technologies not well understood, since they do
+
+115
+
+not require a priori specification of a functional
+form.
+
+2. Methodology and model development
+Although the use of parametric techniques is
+prevalent, the use of nonparametric techniques is
+more limited, particularly in low income countries,
+despite the fact that nonparametric methodologies
+can be used in situations where data is more limited
+and where production technologies are less well
+understood. There are two nonparametric approaches
+to production analysis. One is based on the works of
+Afriat, 1972; Hanoch and Rothschild, 1972; and
+Varian, 1984. This approach deals with four types of
+concerns in the neoclassical theory of production:
+consistency, restriction of form, recoverability, and
+extrapolation, without maintaining any hypotheses of
+functional form. This methodology is applied to time
+series data and has been used in several studies to
+evaluate technical efficiency in agriculture (e.g.
+Chavas and Aliber, 1993; Chavas and Cox, 1988).
+Alternatively, Farrell decomposed efficiency into
+technical efficiency and allocative efficiency. Hire et
+al. ( 1985) introduced a nonparametric method of
+calculating efficiency across farms, which extended
+Farrell's approach by relaxing the restrictive assumptions of constant returns to scale and of strong
+disposability of inputs, the major criticisms of the
+method.
+Fare et al. note that efficiency by a firm in inputs
+does not imply that the firm is necessarily efficient
+in outputs. Technical, allocative, and other efficiency
+measures of outputs cannot be determined from corresponding efficiency measures of inputs or vice
+versa because output and input efficiencies focus on
+different aspects of production. The type of efficiency that is being evaluated should be clearly
+specified.
+Technical efficiency may be defined as the ability
+of a firm to produce as much output as possible with
+a specified level of inputs, given the existing technology. Graphically, this is illustrated in Fig. I. Six
+observed data points with associated levels of input
+and output are shown. The frontier for this production process is defined by the line ABC. Observations A, B, and C lie on the frontier while observa-
+
+R.V. Llewelyn. J.R. Williams/ Agricultural Economics 15 (1996) 113-126
+
+116
+
+Output(Y)
+
+yl
+
+Input (JI.')
+
+xl
+
+Fig. I. Technical efficiency illustrated.
+
+tions D, E, and F lie within the frontier. A ray from
+the origin is tangent to the frontier at Point B. This
+ray represents constant returns to scale for the technology represented by these data observations. In
+this example, Observation B is overall relatively
+technically efficient, which implies that this firm is
+also purely technically efficient and scale efficient. It
+lies on the frontier and has constant returns to scale.
+Although a firm may be technically inefficient in
+an overall sense, it is possible for it to be purely
+technically efficient, while experiencing inefficiencies in scale. This is also illustrated in Fig. 1.
+Observations A and C are purely technically efficient, since they lie on the frontier, but exhibit scale
+inefficiencies. Observation D is both scale inefficient
+and purely technically inefficient since it lies below
+the frontier. Theoretically, the same level of input
+could be used to achieve a higher level of output,
+which would allow this producer to be on the frontier between Points B and C. Observation E is purely
+technically inefficient since it is not on the production frontier, but is scale efficient, because it produces at input level x2, the scale-efficient level of
+input.
+The model utilized in this study is based on a
+model developed by Grabowski and Pasurka ( 1987)
+to examine relative efficiency of farms in the north-
+
+em and southern United States prior to the Civil
+War. Using this methodology, overall technical efficiency for a farm is determined and then is decomposed into pure technical efficiency and scale efficiency for multiproduct, farm-level, crop production
+in Madiun, Indonesia. With this approach, a nonparametric production frontier is constructed, with
+inefficiency being measured by the extent to which
+firms operate below the frontier. Using this approach, the cause of the inefficiency can be allocated
+as either inappropriate scale (scale inefficiency) or
+off-isoquant production (pure technical inefficiency).
+It should be noted that this procedure involves
+relative technical efficiency, that is, the production
+frontier is constructed from the data and each farm's
+performance is compared with the frontier to indicate
+overall technical efficiency of the individual farm.
+Risk is not included explicitly in the model. The
+model assumes that the degree of risk aversion is
+consistent across all farms in the sample, but does
+not assume the degree of risk aversion, that is,
+whether this group of farmers are risk-taking, riskneutral, or risk averse. If this assumption of constant
+risk preference does not hold, the estimated inefficiencies will be overstated. It has been suggested that
+risk preferences may be different particularly between large and small farms. However, the regres-
+
+R.V. Llewelyn, J.R. Williams/ Agricultural Economics 15 (1996) 113-126
+
+sion analysis conducted to evaluate factors associated with inefficiency includes farm size as a possible factor, but as shown later, this is not statistically
+related to inefficiency.
+This analysis also assumes homogeneous inputs.
+Land is not included explicitly in the model and it is
+assumed that variations in soil types and fertility do
+not exist. This is a rather strong assumption, but
+necessary in order to proceed. Though data for variation in land quality were not collected, the data for
+each of the four villages surveyed were tested separately to evaluate whether there might be large differences in land quality. These results are reported
+below, but no significant differences in technical
+efficiency are found to exist between villages. Homogeneity of other inputs, including labor, chemicals, seed, and management, is assumed as well.
+Differences in labor and management quality would
+be very difficult to determine and include in the
+model.
+In the model, it is assumed that x represents a
+vector of n inputs, x = (x 1, x 2, ... , xn) E R~; that
+y represents the output vector of m outputs, y = (y 1,
+y 2 , ••• , Ym) E R~; and that there are k farms. It is
+also assumed that firms face output prices pk E R~,
+input prices rk E R~, target cost Ck > 0, and
+revenue Rk > 0. The matrix of observed inputs, X,
+of dimension (n,k) and the matrix of observed outputs, Y, of dimension (m,k) form a transformation
+set written as:
+
+(1)
+where z is the vector of intensity variables of activity (x;, y). The transformation set corresponds to
+the total product curve and shows maximum feasible
+output for a function exhibiting constant returns to
+scale.
+For observation (x;,y), overall technical efficiency can be illustrated as follows:
+
+(2)
+where () is the level of inefficiency and 0; Y; is the
+actual output of the ith farm. The farm is technically
+efficient if () equals 1. () can be interpreted as the
+ratio of potential to actual output or alternatively,
+11 () is the ratio of efficiency relative to the potential
+frontier output. Technical efficiency can be deter-
+
+117
+
+mined by solving the following linear programming
+problem:
+
+Max()
+subject to:
+
++x,2z2 + ... +x,kzk ~xli
+X21 z, + X22 Z2 + ··· + x2k zk ~ X2;
+x"z'
+
+Xn1Z1 +xn2Z2
+
++ ... +xnkZk~Xn;
+
+(3)
+
+y,,z, +y,2z2+ ... +ylkzk-ylifJ~O
+Yz1 z, + Y22 Z2 + ··· + Y2k zk- Yz;O ~ 0
+Ymi z,
+
++ Ym2 Z2 + ··· + Ymk Zk- Ym;O ~ 0
+
+where there are n input constraints and m output
+constraints. The output constraint ( Yi! z 1 + Y; 2 z2 + ...
++Y;k zk) measures the output level of the (hypothetical) overall technically efficient farm for a particular
+output. This is the maximum output that can be
+produced by the ith farm, given its actual level of
+inputs. For a single output situation, only one output
+constraint is needed.
+The term, Ym;O, is the actual production of output
+m for the ith farm multiplied by the level of inefficiency, fJ. In a multi-output situation, Ymk is the
+level of m output produced by firm k. Multi-input,
+multi-output analysis of technical efficiency is conducted for each firm in each of the three seasons.
+This analysis evaluates overall efficiency of the farm
+and not efficiency in the production of individual
+outputs. If the farm is overall technically efficient,
+then () = 1. However, if the farm is technically inefficient, ()) 1. When this is the case, the theoretical
+maximum output is greater than the actual output of
+the ith farm, making the ith farm inefficient relative
+to the production frontier by a factor of 1I().
+This model allows for the decomposition of technical inefficiency between scale inefficiency (not
+producing at constant returns to scale) and pure
+technical efficiency (operating off of the isoquant).
+To determine the source of the inefficiency, a new
+transformation set is needed:
+
+T' = {( x,y):y ~ Yz,Xz ~ x,z E Rk+ ,Lk'.'Z; =
+
+1}
+( 4)
+
+where the intensity variables, z, are restricted to
+being summed to 1. This modification allows for
+increasing and decreasing returns to scale.
+
+R.V. Llewelyn, J.R. Williams/ Agricultural Ecorwmics 15 (1996) 113-126
+
+118
+
+Pure technical efficiency for observation (x;.Y)
+can be shown as:
+A* ( X;,y;) =max{ A:( X;,Ay;) E T'}
+
+(5)
+
+and is determined by solving the following linear
+programming problem:
+
+The calculation of efficiency for observation (x;.
+
+y) is now:
+y* (x;,y;) = max{y:(x;.'YY;) E
+
+Max A
+
+Maxy
+subject to:
+
+Z1
+
++ X22 Z2 + ··· + x2k zk :5: X2;
+
++ Xn2 Z2 + ··· + Xnk Zk :S; Xni
+YllZt + Y12Z2 + ... + Y!kZk- yliA ~ 0
+Y21Z1 + Y22Z2 + ... + Y2kZk- Y2;A ~ 0
+Xn1
+
+Yml Zt
+
+Z1
+
+xll Z1
+X21 Z1
+
+(6)
+
+Ym1Z1
+
+where the last constraint restricts the intensity variables to sum to 1. If A* = 1, the firm is purely
+technically efficient and operating on the production
+frontier, indicating that any inefficiencies that exist
+are due to scale inefficiencies, that is, the incorrect
+level of input use along the frontier. This measure
+evaluates the ratio of potential to actual output based
+on the transformation set, T'. Using (} • and A*, it is
+possible to determine scale efficiency for observation
+(x;. y), which can be written as follows:
+
+(7)
+When (]> * ( x i• y) is equal to 1, the ith farm
+operates at constant returns to scale. If(]> • (x;.Y;)-:/=
+1, the firm is operating at nonconstant returns to
+scale. However, using this measure, it is not possible
+to know whether a farm operating at nonconstant
+returns to scale is operating at increasing or decreasing returns to scale. Thus, another measure is needed.
+To accomplish this, the transformation set is modified again by imposing nonincreasing returns to
+scale. The new transformation set can be written as:
+T* = {( x,y) :y :5: Yz,Xz :5: x,z E Rk+ ,}:k•~ 1 z; :s;
+
+1}
+(8)
+
+where the sum of the value of the intensity variables,
+z, is restricted so that it is less than 1.
+
++ X12 Z2 + ··· + xlk zk :5: xli
++ X22 Z2 + ··· + x2k zk :5: X2;
+
++ xn2 Z2 + ··· + Xnk Zk :5: Xni
+Ytt Z1 + Y12Z2 + ... + YtkZk- Y!i'Y~ 0
+Y21 Zt + Y22 Z2 + ... + Y2k Zk- Y2;'Y ~ 0
+Xnl
+
++ Ym2 Z2 + ··· + Ymk Zk- Ym;A ~ 0
+z 1 +z 2 + ... +zk= 1.
+
+(9)
+
+where y * can be calculated by using the following
+linear programming problem:
+
+subjectto:x 11 z 1 +x 12 z 2 + ••• +xlkzksxli
+X21
+
+T*}
+
+Zt
+
+( 10)
+
++ Ym2Z2 + ... + YmkZk -ymi'Y~ 0
+z 1 + z 2 + ... + zk s 1.
+
+This problem indicates that if (]> * =F 1, two alternatives exist. If (]> * -:/= 1 and (} • = y *, the farm
+produces at increasing returns to scale. If (]> * =F 1
+and (} * =F y * , then the farm operates at decreasing
+returns to scale. A firm operating at increasing returns to scale should increase input use in order to
+achieve economies of scale. This would mean moving from Point A to Point B in Fig. 1 to increase
+efficiency. A situation in which farms are operating
+at decreasing returns to scale suggests that small
+farms are viable and that large farms would be better
+off to decrease input levels or at least not increase
+them, because to do so would be to further increase
+inefficiency associated with returns to scale.
+Economic efficiency tests only evaluate actual
+productivity relative to potential productivity and do
+not imply irrationality on the part of farmers who are
+inefficient. The failure of farmers to use the most
+efficient techniques of production may be due to the
+cost of the acquisition of information for an individual farmer being greater than the benefits or perhaps
+due to fixed assets, property rights, and tenancy, as
+well as non-monetary objectives of the farmers
+(Byerlee, 1987).
+To help identify possible factors related to inefficiencies, the efficiency indices determined from the
+linear programming problems are regressed on ex-
+
+R. V. Llewelyn, J.R. Williams/ Agricultural Economics 15 0996) 113-126
+
+planatory variables of age, education, farm size, and
+tenure using a Tobit analysis to investigate the effect
+of these variables on the technical efficiency of the
+individual farms.
+This analysis can be helpful in targeting extension
+activities to deal with technical inefficiencies in production. The linear Tobit regression in Eq. (II) is
+used to identify possible factors associated with inefficiency. Tobit analysis is used because the dependent variables, overall technical efficiency, pure
+technical efficiency, and scale efficiency, are censored variables, having an upper limit of I.OO. Each
+of these indices is regressed on the explanatory
+variables of age, education, farm size, percent of
+land owned, and diversification. Dummy variables
+are used for education, representing junior high
+school and high school. The parameters, B3 and 8 4 ,
+provide an idea of how much additional levels of
+education after the primary level affect efficiency.
+The variable percent of land owned is an attempt to
+evaluate the effects of land tenure on technical efficiency.
+2
+
++ j3 3 ED2;
++ f3 4 ED3; + j35 FS; + j36 0L; + j31 DV; + E;
+
+EFF; =a+ j3 1 Age;+ j32 ( Age;)
+
+(11)
+where:
+EFF; is Efficiency index for farmer i.
+Age; is Farmer age in years.
+ED2; is Education dummy variable = I if junior
+high education, 0 otherwise.
+ED3; is Education dummy variable = I if high
+school education, 0 otherwise.
+is Farm size in hectares for firm i.
+is Percent of operated land owned by farmer
+i.
+
+is Diversification variable expressed by
+Herfindahl index.
+is Parameters.
+a,B
+E;
+is Error term.
+It is hypothesized that younger, better educated
+farmers are more technically efficient, due to better
+skills and access to information. Farm size may
+positively affect efficiency, if farmers are able to
+achieve some economies of scale. Efficiency may be
+higher for farmers who own their land, because of
+greater incentives for efficiency relative to those who
+
+119
+
+are renting. Farmers who produce only one crop in a
+season may be more technically efficient in production than those who are more diversified.
+
+3. Description of data and study area
+The study area is the Madiun regency in the
+west-central part of East Java, Indonesia, about 170
+km west of Surabaya. The total area is 101 086 ha, of
+which 44 122 ha were tilled with 32 407 ha being
+irrigated in 1992. Dryland agriculture accounts for
+about 24% of cropland in this regency (Kantor
+Statistik, 1993). Land holdings are small, averaging
+0.72 ha (Kantor Statistik, 1993). Annual rainfall
+during 1988-1992 ranged from 1511 mm in 199I (a
+drought year) to 2329 mm in 1989. There are three
+cropping seasons annually on irrigated land, March
+to June, July to October, and November to February.
+Data from 77 farms collected from interviews in
+four villages in the Madiun regency of East Java,
+Indonesia in 1994 are used in analyzing technical
+efficiency of food crop production. A nonparametric,
+whole-farm, production frontier that includes multiple crops is estimated for each farm in each of the
+three distinct cropping seasons: rainy, middle, and
+dry. The crops included in this study represent the
+major commodities grown in this area: paddy rice,
+com, soybeans, peanuts, mungbeans, cassava and a
+pepper-onion intercrop.
+Average age of all respondents was 44.4 years
+and ranged from 26 to 76 years. A total of 78% of
+the respondents had an elementary school education
+or less, 16% were junior high school graduates, and
+6% were high school graduates. Average farm size
+for the survey was 0.82 ha, slightly larger than the
+regency average of 0.72, and varied from 0.13 ha to
+2.28 ha. Of the 77 total farms, I4 farms (18%)
+included nonirrigated cropping, and these are evaluated separately. A total of 87.0% of the farmers
+owned land and 50.6% had land that was cash rented
+whereas only 9.I% had a share rent arrangement,
+figures comparable with those found in other studies
+(Brotonegoro et al., 1986; Sendjaja and Choliq,
+1986).
+The nine crops in this study covered 72% of the
+arable land in the Madiun regency in I992 (Kantor
+Statistik, 1993). A comparison of the proportion of
+
+R.V. Llewelyn, J.R. Williams/ Agricultural Ecorwmics 15 (1996) 113-126
+
+120
+
+crop acreages for the entire regency and for the
+farmer sample is shown in Table 1. Rice is the most
+commonly planted crop both in the sample and
+across all farms in the regency. Com, soybeans, and
+sugar cane are the next most important crops in
+terms of harvested acreage both in the sample and
+for all farmers in the regency. The regency data do
+not provide information about multicropping.
+
+Table I
+Proportion of crops grown in Madiun Regency and in the survey
+sample
+Madiun Regency (source: Kantor Statistik, 1993)
+
+Rice
+Com
+Soybeans
+Peppers I onions
+Peanuts
+Mungbeans
+Cassava
+Sugarcane
+
+Arable land area
+(%)
+
+Food crops grown
+(%)
+
+42
+6
+9
+<I
+3
+2
+3
+7
+
+58.1
+6.4
+12.4
+0.5
+4.5
+2.8
+5.6
+9.4
+
+Crops in sample
+(%)
+
+Acreage in sample
+(%)
+
+Survey farmers
+
+Rainy season
+Rice
+Com
+Peppers/onions
+Sugarcane
+Com/cassava
+Middle season
+Rice
+Com
+Sugarcane
+Soybeans
+Soybeanjmungbean
+Soybean/peanut
+Cassava
+Dry season
+Rice
+Pepper/ onion
+Soybeans
+Com
+Com-soybean
+Com-mungbean
+Com-peanut
+Fallow
+Sugarcane
+Other
+
+The inputs used for crop production include seed,
+measured in kilograms; three fertilizer inputs: urea,
+TSP, and an aggregated fertilizer input of other
+fertilizers used, all in kilograms; an aggregated
+chemical input in kilograms of active ingredient per
+hectare; aggregated labor input in man-days; and
+irrigation in hours per crop. Output data for the
+model is yield in kilograms per hectare for each
+crop. These values also were determined from the
+data collected from the farmer interviews. A more
+detailed description of the data is included in Llewelyn (1995).
+Data for the regression analysis are also from the
+farmer interviews. Farmers were questioned regarding age, education and farm size. Education was
+recorded as elementary school (6 years or less),
+junior high school (9 years), and high school ( 12
+years). None of the farmers interviewed had attended
+post-secondary education. Farm size is recorded in
+hectares of land operated, both owned and rented.
+The variable for tenure is measured in terms of the
+percentage of land owned (i.e. zero to 100). Diversification was measured using the Herfindahl index
+represented as:
+n
+
+DV
+
+=
+
+EP/
+
+( 12)
+
+i= 1
+
+68
+12
+9
+14
+5
+
+58
+13
+6
+16
+7
+
+38
+21
+14
+17
+3
+6
+3
+
+35
+18
+16
+19
+4
+6
+2
+
+II
+14
+23
+18
+14
+10
+8
+18
+14
+2
+
+9
+8
+18
+16
+10
+6
+5
+12
+16
+
+where P; is the proportion of the farm acreage
+involved in a particular enterprise. A value approaching 1.0 indicates specialization whereas smaller values reflect increasing diversification. For this sample, values ranged from 0.405 to 1.0 in the rainy and
+middle seasons and from 0.337 to 1.0 in the dry
+season and averaged 0.919, 0.879, and 0.814 for the
+rainy, middle and dry seasons respectively.
+
+4. Analysis and results
+
+Using the linear programming methodology outlined earlier, nonparametric analysis of relative technical efficiency is performed for food crop production on irrigated farms in each of the three seasons.
+Three linear programs (Eq. (3), Eq. (6), and Eq.
+(10)) are solved to provide the values of 0, A, and 'Y
+for each individual farm. Table 2 summarizes the
+crops evaluated in each seasonal analysis and the
+
+R. V. Llewelyn, J.R. Williams/ Agricultural Economics 15 (1996) 113-126
+
+number of farms in the sample which produce each
+crop. A total of 61 farms is evaluated for technical
+efficiency in this analysis.
+Average, minimum, and maximum overall technical efficiency, pure technical efficiency, and scale
+efficiency are reported for each season in Table 3, as
+well as the number of farms operating at constant,
+increasing, and decreasing returns to scale. The average overall efficiency is calculated by dividing 1I 8
+for each farm to obtain the overall efficiency level
+for that farm. This level of efficiency then is averaged over all the farms in the sample. A farm that is
+technically efficient has an efficiency of 100%. Average pure technical efficiency is calculated by dividing 1/ A for each farm and averaging these values,
+and average scale efficiency is determined by dividing A/ (J for each farm and averaging these values
+for the entire sample. Scale efficient farms operate at
+constant returns to scale in inputs (input level x2 on
+Fig. 1), whereas those with decreasing returns have
+input levels that are too high and those with increasing returns to scale have input levels that are too
+low. Scale-inefficient firms may be purely technically efficient (operating on the frontier) but are not
+using the correct level of input.
+
+Table 2
+Crops by season and number of farms evaluated for technical
+efficiency
+Number of farms
+Rainy season
+Rice
+Corn
+Peppers/ onions
+Middle season
+Rice
+Corn
+Soybeans
+Soybeanjmungbeans
+Soybeanjpeanuts
+Dry season
+Rice
+Corn
+Soybeans
+Corn/ soybeans
+Peppersjonions
+Com/peanuts
+Soybeanjmungbean
+Cornjmungbean
+
+53
+9
+7
+33
+14
+13
+2
+5
+9
+14
+18
+11
+11
+6
+7
+8
+
+121
+
+Table 3
+Efficiency analysis results
+
+Rainy season
+Overall technical efficiency a
+Minimum
+Maximum
+Number technically efficient
+Pure technical efficiency b
+Minimum
+Maximum
+Number technically efficient
+Scale efficiency c
+Minimum
+Maximum
+Number CRS farms d
+Number IRS farms d
+Number DRS farms d
+Middle season
+Overall technical efficiency
+Minimum
+Maximum
+Number technically efficient
+Pure technical efficiency
+Minimum
+Maximum
+Number technically efficient
+Scale efficiency
+Minimum
+Maximum
+Number CRS farms
+Number IRS farms
+Number DRS farms
+Dry season
+Overall technical efficiency
+Minimum
+Maximum
+Number technically efficient
+Pure technical efficiency
+Minimum
+Maximum
+Number technically efficient
+Scale efficiency
+Minimum
+Maximum
+Number CRS farms
+Number IRS farms
+Number DRS farms
+a
+b
+c
+d
+
+Mean
+
+SD
+
+0.981
+0.844
+1.000
+44(72.1%)
+0.988
+0.876
+1.000
+50 (82.0%)
+0.992
+0.904
+1.000
+45 (73.8%)
+I ( 1.6%)
+15 (24.6%)
+
+0.043
+
+0.029
+
+0.019
+
+0.955
+0.646
+1.000
+41 (67.2%)
+0.977
+0.749
+1.000
+48 (78.7%)
+0.977
+0.711
+1.000
+43 (70.5%)
+8(13.1%)
+10 (16.4%)
+
+0.083
+
+0.977
+0.738
+1.000
+50 (82.0%)
+0.989
+0.745
+1.000
+58 (95.1 %)
+0.987
+0.746
+1.000
+50 (82.0%)
+I (1.6%)
+10 (16.4%)
+
+0.063
+
+Calculated using Eq. (3).
+Calculated using Eq. (6).
+Calculated using Eq. (7).
+Determined using Eq. (7) and Eq. (I 0).
+
+0.054
+
+0.058
+
+0.045
+
+0.040
+
+122
+
+R.V. Llewelyn, J.R. Williams/ Agricultural Economics 15 (1996) I 13-126
+
+Results of the efficiency analysis in the rainy
+season are summarized in Table 3. Overall and pure
+technical efficiencies are high, as are scale efficiencies. The average overall technical efficiency of
+98.1% is slightly higher than but quite similar to
+values in other studies in Indonesia and Asia that
+used a parametric approach in evaluating rice production (Widodo, 1986; Erwidodo, 1990; Dawson et
+al., 1991). This study had a much larger sample size
+than Dawson et al., and slightly larger than the other
+two studies. In a small sample, a few inefficient
+farms would influence the results more than in a
+larger sample.
+The range in overall technical efficiency is between 84.4% and 100%, with 44 of the 61 farms
+(72.1 %) being overall technically efficient, that is
+8 = 1. An additional six farms are purely technically
+efficient, meaning they operate on the production
+frontier but not at constant returns to scale. The
+average pure technical efficiency is 98.8%, with a
+minimum of 87.6%, indicating that the most purely
+technically inefficient farm could only increase output by about 12.4% through more efficient use of
+inputs. Average scale efficiency is 99.2% with a
+minimum of 90.4%. Little variation in these measures is evident, with the standard deviations ranging
+from 0.019 to 0.043. Constant returns to scale are
+evident for 45 of the farms. Increasing returns to
+scale hold for only one farm and 15 farms experience decreasing returns to scale.
+In the middle season, average overall efficiency is
+95.5% with the minimum efficiency of 64.6%, as
+shown in Table 3. Forty-one farms are technically
+efficient, with seven of the remaining farms being
+purely technically efficient. Forty-three farms have
+constant returns to scale, whereas eight have increasing returns to scale and ten have decreasing returns.
+The lower efficiencies associated with the middle
+season for these farms may be explained by a situation where rainfall may vary across farms leading to
+production responses which would not be captured
+by the efficiency analysis. The low rainfall in the dry
+season is consistent for all parts of the regency,
+while in the rainy season, rainfall is more consistent
+across all farms than in the middle season. Rainfall
+data by village are not available for analysis.
+Relative technical efficiency in the dry season is
+summarized in Table 3. Average efficiency is 97.7%,
+
+with the minimum efficiency at 73.8%. Fifty of the
+farms are overall technically efficient, with all but
+three farms being purely technically efficient. Average pure technical efficiency is 98.9%, and average
+scale efficiency is 98.7%. The 50 overall technically
+efficient farms operate at constant returns to scale,
+whereas 10 of the 11 remaining farms have decreasing returns to scale, and one farm shows increasing
+returns to scale.
+Higher fertilizer use, particularly of urea, seems
+to be associated with the least efficient farms in each
+season, with average urea use of farms found to be
+overall technically inefficient higher than the average
+for the entire sample, with the least efficient farm in
+each season having the highest use of urea. High
+fertilizer use may reflect a risk evasive action, though
+some studies have found that producers with higher
+levels of risk aversion would be less likely to prefer
+high levels of nitrogen fertilization (Williams et al.,
+1992; SriRamaratnam et al., 1987).
+Because of the assumption of homogeneity of
+inputs, particularly of land quality, the efficiency
+analysis was conducted for each of the four villages
+where data were collected. If homogeneous land
+quality is incorrectly assumed and land differences
+actually account for the measured inefficiencies found
+in the above analysis, the average efficiencies for
+each village should be 100% or nearly so, since the
+frontier for each individual village would be less
+than or equal to the aggregate production frontier for
+all farms.
+However, in each season, the average efficiencies
+for each individual village are only slightly higher
+than the averages for the aggregate sample and none
+are equal to 100%. In the rainy season, the average
+overall technical efficiencies for the four villages are
+98.2%, 98.8%, 98.7%, and 98.4%, respectively,
+compared with the average for the entire sample of
+98.1 %. The overall technical efficiencies by village
+in the middle season average 95.7%, 96.1 %, 96.1 %,
+and 95.8%, respectively, while the average overall
+technical efficiency for the dry season for each village is equal to 97.9%, 97.8%, 98.2%, and 98.4%.
+The average overall efficiency for the entire sample
+is equal to 95.5% for the middle season and 97.7%
+for the dry season. The results are similar for pure
+technical and scale efficiencies for each village as
+well. This indicates that assuming homogeneous land
+
+123
+
+R. V. Llewelyn, J.R. Williams j Agricultural Economics 15 (/996) 113-126
+
+Table 4
+Regression analysis testing inefficiency for rainy-season farms
+Variable
+
+Overall technical efficiency
+
+Pure technical efficiency
+
+Scale efficiency
+
+Intercept
+
+0.946
+(4.84) ' ' 'a
+0.0359
+( 17.55) •••
+-0.0004
+( - 15 .45) ' • '
+0.0071
+(0.42)
+-0.0003
+(- 1.36)
+0.1388
+(3.32) ' ••
+0.0057
+(0.24)
+0.0274
+(0.82)
+0.0603
+( 11.05)
+84.77
+61
+
+0.952
+(2.97) ' ' '
+0.0356
+(19.87) ' . '
+-0.0003
+( -17.41) ...
+0.0031
+(0.21)
+-0.0003
+(- 1.38)
+0.1497
+(4.08) ' ' '
+0.0014
+(0.07)
+0.057
+( 1.95) '
+0.0528
+( 11.05)
+92.77
+61
+
+0.993
+(3.15) ' ••
+0.0359
+(20.38) •••
+-0.0003
+(- 17.89) •••
+0.0017
+(0.12)
+-0.0002
+( -0.86)
+0.1396
+(3.87) •• '
+0.0086
+(0.43)
+0.053
+( 1.84) •
+0.0519
+( 11.05)
+93.83
+61
+
+Age
+Age 2
+Farm size
+Percent owned land
+Diversification
+(Herfmdahl index)
+Dummy variable
+Junior High School
+Dummy variable
+High School
+Sigma
+Log likelihood
+Number of observations
+
+Numbers in parentheses are /-statistics.
+', Indicates significance at a = 0.1 0. ' ' ' Indicates significance at a
+
+a
+
+=
+
+0.0 1.
+
+Table 5
+Regression analysis testing inefficiency for middle-season farms
+Variable
+
+Overall technical efficiency
+
+Pure technical efficiency
+
+Scale efficiency
+
+Intercept
+
+0.928
+(4.12) •• ,.
+0.0372
+(11.65) •• '
+-0.0004
+(-10.61). ' .
+-0.0145
+(- 0.43)
+-0.0002
+(- 0.53)
+0.0920
+(I .45)
+0.0183
+(0.49)
+0.0633
+(1.00)
+0.0977
+( 11.05)
+55.27
+61
+
+0.993
+(5.73) •••
+0.0391
+( 16.17) • ' •
+-0.0004
+(- 14.64) • ' •
+-0.0057
+( -0.22)
+-0.1030
+(- 0.35)
+0.0419
+(0.87)
+0.0177
+(0.62)
+0.0917
+( 1.92) •
+0.0741
+(11.05)
+72.21
+61
+
+1.002
+(6.29) •••
+0.0358
+(14.11) • ' •
+-0.0004
+(- 12.89) ' ' '
+-0.0146
+( -0.55)
+-0.0001
+( -0.33)
+0.1493
+(2.95) •••
+0.0188
+(0.63)
+0.0435
+(0.87)
+0.0777
+(11.05)
+69.25
+61
+
+Age
+Age 2
+Farm size
+Percent owned land
+Diversification
+(Herfindahl index)
+Dummy variable
+Junior High School
+Dummy variable
+High School
+Sigma
+Log likelihood
+Number of observations
+
+Numbers in parentheses are /-statistics.
+' Indicates significance at a = 0.1 0. ' ' ' Indicates significance at a = 0.0 I.
+
+a
+
+124
+
+R.V. Llewelyn, J.R. Williams/ Agricultural Economics 15 (1996) I 13-126
+
+quality across the regency for this sample of farms
+does not distort the results unnecessarily.
+
+5. Factors associated with inefficiency
+A censored regression or tobit model is used in
+each of the above multiproduct situations to assess
+the factors associated with technical inefficiencies.
+The Tobit regression defined in Eq. (11) is estimated
+using the Tobit procedure in TSP Version 4.2B (TSP
+International, 1993 ). Efficiency measures are regressed on age, farm size, percent of owned land, a
+diversification dummy variable, and two dummy
+variables representing education levels. Results for
+rainy season irrigated farms are presented in Table 4.
+In the rainy season, farmers' age shows a significant quadratic relationship with all three measures of
+efficiency. Efficiency increases with age, then eventually decreases. In addition, diversification, represented by the Herfindahl index described in Eq. (12),
+is shown to have a significant relationship with
+technical efficiency. The value of the estimated coefficient is positive, indicating that greater specialization in production is associated with higher relative
+
+efficiency. As diversification increases and more
+crops are grown, efficiency declines. It is possible
+that the increased inefficiency with diversification
+may be transitory as farmers improve their ability to
+grow new crops. Both the age and diversification
+variables are statistically significant at a = 0.05.
+High school education is found to be related significantly in a positive way with pure technical and
+scale efficiencies at a = 0.1 0. A statistical relationship is not found to exist between education and
+overall technical efficiency. All of the other variables
+are statistically not significant for any of the efficiency indices.
+In the middle season, age again is related significantly to efficiency (Table 5). However, the diversification variable is found to be associated only with
+scale efficiency, with greater diversification leading
+to lower scale efficiencies. Also, the dummy variable
+for high school education is found to be significant
+at a = 0.10 for the equation with pure technical
+efficiency. No other variables are statistically significant.
+The results for the dry season are similar to those
+of the rainy season, as found in Table 6. Farmers'
+age again shows a statistically significant quadratic
+
+Table 6
+Regression analysis testing inefficiency for dry-season fanns
+Variable
+
+Overall technical efficiency
+
+Pure technical efficiency
+
+Scale efficiency
+
+Intercept
+
+1.045
+(7.27) ' ''a
+0.0328
+(I 1.63) ' ' '
+-0.0003
+( -10.35) •• '
+0.0323
+(1.23)
+-0.000005
+( -0.02)
+0.1948
+(3.52) ' ' '
+-0.0038
+(- 0.12)
+0.0660
+(1.34)
+0.0858
+(I 1.05)
+63.24
+61
+
+1.011
+(5.80) ' ••
+0.0345
+(14.20) ' ' '
+-0.0003
+(- 12.64) •• '
+0.0336
+( 1.48)
+0.0001
+(0.39)
+0.1525
+(3.21) •• '
+-0.0096
+( -0.35)
+0.0624
+(1.48)
+0.0737
+(I 1.05)
+72.46
+61
+
+1.045
+(6.98) •••
+0.0350
+(15.57) ' '.
+-0.0003
+(-13.84) ...
+O.OI22
+(0.58)
+-0.1441
+( -0.06)
+0.1604
+(3.64) ' . '
+0.0098
+(0.39)
+0.0675
+(1.73) •
+0.0683
+(11.05)
+77.13
+61
+
+Age
+Age 2
+Fann size
+Percent owned land
+Diversification
+(Herfindahl index)
+Dummy variable
+Junior High School
+Dummy variable
+High School
+Sigma
+Log likelihood
+Number of observations
+a
+
+Numbers in parentheses are t-statistics.
+
+* Indicates significance at a = 0.1 0. ' * ' Indicates significance at a = 0.0 I.
+
+R.V. Llewelyn, J.R. Williams/ Agricultural Economics 15 ( 1996) 113-126
+
+type of relationship with efficiency measures. Greater
+diversification is found to be associated with lower
+efficiency for all three efficiency indices, and high
+school education has a significant (a= 0.1 0) relationship with scale efficiency but not with overall
+technical or pure technical efficiency. Other variables, such as farm size, percent of land owned, or
+junior high school education, are not found to have a
+significant association with technical efficiency as
+measured for this sample of farmers.
+
+6. Summary and conclusions
+Nonparametric analysis of technical efficiency for
+irrigated farms in Madiun, Indonesia is conducted
+using models based on techniques developed and
+used by Grabowski and Pasurka (1987). This procedure allows the relative technical efficiency for each
+farm to be determined and for inefficiencies to be
+decomposed into pure technical inefficiency (operating off of the isoquant or production frontier) and
+scale inefficiency (not producing at constant returns
+to scale in input use). This methodology also allows
+for multi-input, multi-output situations and does not
+require restrictions or assumptions regarding functional form to be placed on the data. This analysis
+provides information on the technical efficiency of
+multiproduct food-crop producing farms in Indonesia
+and some of the factors associated with inefficiency.
+Evaluating farms for each season under irrigated
+conditions shows that average overall technical efficiency is 98.1% in the rainy season, while in the
+middle season it is 95.5% and is slightly higher at
+97.7% in the dry season. In each case, the majority
+of farms are technically and scale efficient, operating
+at constant returns to scale. Most farms that are scale
+inefficient are operating at decreasing returns to scale,
+indicating excessive input levels.
+Tobit analysis to evaluate inefficiency shows that
+farmers' age and the level of diversification are the
+most statistically significant factors associated with
+technical efficiency measures. A quadratic relationship between age and efficiency exists in each season, with efficiency increasing with age initially,
+then decreasing. Greater diversification is associated
+with lower efficiency levels in the rainy and dry
+seasons for each of the three efficiency indices. The
+
+125
+
+same relationship occurs in the middle season only
+for scale efficiency.
+In addition, having a high school education is
+related positively to higher levels of pure technical
+efficiency in the rainy and middle seasons and with
+scale efficiency in the rainy and dry seasons but at a
+lower confidence level than age or diversification
+(a= 0.1 0). None of the other variables, including
+farm size, tenure arrangements, or junior high school
+education is statistically significant in any season.
+Farmers operating inefficiently are doing so more
+often because of scale inefficiencies rather than pure
+technical inefficiencies, and the majority of these
+farmers are operating at decreasing returns to scale
+in inputs rather than increasing returns to scale, often
+using higher levels of fertilizer, particularly nitrogen,
+than more efficient farmers. In Indonesia, relatively
+high fertilizer subsidies have been in place until the
+early 1990s and since have declined by over 20%.
+The data in this study were collected in 1994, after
+the reduction in the fertilizer subsidy began. Some
+farmers may still be using higher levels of fertilizer
+than are efficient, perhaps due to continuing production techniques which began when fertilizers were
+subsidized. This may account for the decreasing
+returns to scale found to exist. Another possibility is
+that this is a risk-reducing strategy, Williams et al.
+( 1992) and SriRamaratnam et al. ( 1987) have shown
+this may not be true. It should be noted that the
+majority of farms in this sample operate at constant
+returns to scale, indicating that they are using correct
+levels of inputs, relative to other farms in the sample.
+Efficiency increases, then eventually declines with
+age. This is consistent with what would be expected.
+Targeting younger and older farmers for extension
+activities could increase their levels of technical
+efficiency relative to middle aged farmers.
+Higher levels of diversification in cropping practices are associated with lower technical efficiency,
+particularly in the rainy and dry seasons. Farmers
+who are more specialized with only one or two crops
+grown in a season have higher levels of technical
+efficiency. Thus, government programs that have
+attempted to divert cropland away from rice production toward secondary food crop production may
+actually lead to increased technical inefficiency in
+production.
+Having a high school education is associated with
+
+126
+
+R. V. Llewelyn, J.R. Williams/ Agricultural Economics 15 U996) 113-126
+
+higher technical efficiency in production in this study.
+Only 7% of the sample of farmers have a high
+school education, but these farmers apparently are
+able to operate at significantly higher technical efficiency than other farmers. These results imply that
+extension education could be effective, particularly if
+targeted to farmers who have had limited educational
+opportunities. Those with higher education levels
+may have access to information that farmers with
+only elementary or junior high school education do
+not. Providing access to information to farmers with
+lower levels of education may help them to increase
+technical efficiency in production relative to farmers
+with higher levels of education.
+
+Acknowledgements
+
+The authors wish to acknowledge the University
+of Merdeka, Madiun and particularly Ir. Wuryantoro
+for the assistance in collecting data for this study.
+The helpful comments of Allen Featherstone and
+Michael Langemeier and two anonymous referees
+are also gratefully acknowledged.
+
+References
+Afriat, S.N ., 1972. Efficiency estimation of production functions.
+lntemat. Econ. Rev., 13: 568-598.
+Azhar, R.A., 199 I. Education and technical efficiency during the
+green revolution in Pakistan. Econ. Develop. Cult. Change,
+39: 651-665.
+Banker, R.D. and Maindiratta, A., 1988. Nonparametric analysis
+of technical and allocative efficiencies in production. Econometrica, 56: 1315-1332.
+Berns ten, R.H., 1977. Constraints to higher rice yields in the
+Philippines. Ph.D. Dissertation. University of Illinois, Champaign, Urbana, IL.
+Brotonegoro, S., Laumans, Q.J. and Van Staveren, J.Ph., 1986.
+Palawija: food crops other than rice in East Java agriculture.
+Monograph No. 2. Malang Research Institute for Food Crops,
+Malang.
+Byerlee, D., 1987. Maintaining the momentum in post-green
+revolution agriculture: a micro-level perspective from Asia.
+
+Department of Agricultural Economics, Michigan State University, East Lansing, MI.
+Chavas, J.P. and Aliber, M., 1993. An analysis of economic
+efficiency in agriculture: a non parametric approach. J. Agric.
+Resour. Econ., 18: 1-16.
+Chavas, J.P. and Cox, T.L., 1988. A nonparametric analysis of
+agricultural technology. Am. J. Agric. Econ., 70: 303-310.
+Dawson, P.J., Lingard, J. and Woodford, C.H., 1991. A generalized measure of farm-specific technical efficiency. Am. J.
+Agric. Econ., 73: 1098-1104.
+Erwidodo, 1990. Panel data analysis on farm-level efficiency,
+input demand and output supply of rice farming in West Java,
+Indonesia. Ph.D. Dissertation, Michigan State University.
+Farrell, M.J., 1957. The measurement of production efficiency. J.
+Roy. Statist. Soc., Ser. A, Part 2: 252-267.
+Fare, R., Grosskopf, S. and Lovell, C.A.K., 1985. The Measurement of Efficiency of Production. Kluwer-Nijhoff Publishing,
+Boston, MA.
+Grabowski, R. and Pasurka, C., 1987. The relative technical
+efficiency of Northern and Southern U.S. farms in 1860.
+Southern Econ. J., 54: 598-614.
+Hanoch, G. and Rothschild, M., 1972. Testing the assumptions of
+production theory: a nonparametric approach. J. Polit. Econ.,
+80: 256-275.
+Kalirajan, K., 198 I. The economic efficiency of farmers growing
+high yielding, irrigated rice in India. Am. J. Agric. Econ., 63:
+566-570.
+Kantor Statistik, 1993. Kabupaten Madiun. Buku Statistik Kabupaten Madiun, Tahun 1993. Madiun, Indonesia.
+Llewelyn, R.V., 1995. Optimal cropping combinations: an economic analysis of food crop production in East Java, Indonesia. Kansas State University, Unpublished Ph.D. Dissertation.
+Sendjaja, T.P. and Choliq, A., 1986. The cropping patterns on
+small farmers' land in West Java, Indonesia. An economic
+study of rice farming in West Java. A. Fujimoto and T.
+Matsuda (Editors). Nodai Research Institute, University of
+Agriculture, Tokyo.
+SriRamaratnam, S., Bessler, D.A., Rister, M.E., Matocha, J.E. and
+Novak, J., 1987. Fertilization under uncertainty: an analysis
+based on producer yield expectations. Am. J. Agric. Econ., 69:
+349-357.
+TSP International, 1993. TSP Version 4.2B. Palo Alto, CA.
+Varian, H., 1984. The non parametric approach to production
+analysis. Econometrica, 52: 579-597.
+Widodo, S., 1986. An econometric study of production efficiency
+among rice farmers in irrigated lowland villages in Java,
+Indonesia. M.S. Thesis, Tokyo University of Agriculture.
+Williams, J.R., Maddux, L.D., Barnes, P.L. and Rowell, C.P.,
+1992. Risk analysis of nitrogen fertilization rates for com and
+soybeans. J. Prod. Agric., 5: 226-232.
+
+

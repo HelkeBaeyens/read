@@ -1,0 +1,788 @@
+Available online at www.sciencedirect.com
+SCIENCE@ DIRECT•
+
+ELSEVIER
+
+AGRICULTURAL
+ECONOMICS
+
+Agricultural Economics 29 (2003) 299-305
+www.elsevier.com/locate/agecon
+
+Adoption of improved maize varieties in the hills of Nepal
+J.K. Ransom a,*· 1 , K. Paudyal b, K. AdhikarF
+a
+
+Department of Plant Sciences, North Dakota State University, PO. Box 5051, Fargo, ND 58105, USA
+b International Maize and Wheat Improvement Center (CIMMYT), Kathmandu, Nepal
+c National Maize Research Program, Rampur, Nepal
+
+Abstract
+Maize (Zea mays L.) is the most important cereal crop in the hills of Nepal, where the grain is used for human consumption
+and the stover for animal fodder. Maize farms are small, and population pressure necessitates the intensification of existing
+farming systems. Maize research directed at developing technologies for maize production began in Nepal in 1965. In 2000,
+a survey was carried out in two districts to determine the current level of adoption of improved maize production practices. In
+each of these districts, remote and accessible village development committees (VDCs) were surveyed. Questionnaires were
+administered to 54 randomly selected households in each VDC. A Tobit analysis was used to determine socio-economic,
+physical and technology factors that influence the use of improved varieties by farmers. All households use composted
+farmyard manure, and in the more accessible areas, urea as part of their soil fertility management strategy. Use of improved
+varieties was less than 60% for all VDCs and only 15% in the most remote VDC. In three of the four VDCs, adoption of
+improved varieties primarily occurred during the past 5 years. Based on a Tobit analysis, Khet land area, ethnic group, years of
+fertiliser use, off-farm income, and contact with extension significantly and positively affected adoption of improved varieties.
+Farmers in VDCs in central Nepal reported lack of seed to be the major constraint to the adoption of improved varieties,
+while lack of knowledge of new varieties was the major constraint for farmers in the western VDCs. The results from this
+survey suggest that the strategy for improving the adoption of new varieties will differ depending on infrastructure and the
+socio-economic conditions of the farmers in a given area.
+© 2003 Elsevier B.V. All rights reserved.
+Keywords: Improved varieties; Input access; Information access; Technology adoption; Maize; Nepal
+
+1. Introduction
+
+Agriculture dominates the economy of Nepal, accounting for 80% of the work force and 40% of the
+GDP. Although Nepal is most famous for its high
+mountains, there are some 3.2 million ha of cereals
+grown in the lowlands in the south of the country
+*Corresponding author. Tel.: +1-701-231-7405;
+fax: +1-701-231-8474.
+E-mail address: joel.ransom@ndsu.nodak.edu (J.K. Ransom).
+1 During the period that this research was conducted, the author
+was with CIMMYT.
+
+(the Terai), on the valley floors, and on the terraced
+hillsides below 3000 m elevation. Agriculture is more
+commercialised in the Terai, where the road system
+and markets are fairly well developed compared to
+the hill region. The Terai provides most of the food
+needed in the urban centres of the country. Though
+the agriculture systems in the hills have been less dynamic than those in the Terai, they are of critical importance to Nepal's food security. Approximately 50%
+of Nepal's population lives in the hills. Due to the
+limited road networks, combined with the remoteness
+of most villages from established urban centres, the
+difficulties of transporting food, and the lack of other
+
+0169-5150/$ - see front matter © 2003 Elsevier B.V. All rights reserved.
+doi: 10.1 016/S0169-5150(03)00057 -4
+
+300
+
+J.K. Ransom et a!. I Agricultural Economics 29 (2003) 299-305
+
+cash-generating enterprises, food security in these regions is largely dependent on farm produce. Maize is
+the most important cereal grown in the hills, where
+about 75% of the country's 800,000ha of maize are
+located (Paudyal and Poudel, 2001).
+In the hills, maize is cultivated on sloping terraced
+fields called Bari land. It is generally planted during
+pre-monsoon rains and harvested prior to the end of
+the monsoons. In the eastern two-thirds of the country, finger millet is often relayed onto the maturing
+maize crop, while in the western third, maize is rotated with a winter wheat crop. The rate of growth
+in maize production has been less than 1% per year
+over the past 20 years. Average maize yields during
+1970-1984 declined from 1900 to 1400kg/ha, probably due to the expansion of maize into marginal land.
+Since 1984, however, yields have improved to around
+1800kg/ha (Adhikary et al., 2001). There is currently
+little scope for the expansion of maize area in the hills,
+as most non-cropped land is either too steep for sustainable production or is protected forest. In order to
+just keep pace with the population growth rate of 2.3%
+(CIMMYT, 1999), a significant increase in the productivity and production of maize is needed. This increase
+will be dependent upon the development and adoption
+of new varieties and crop management practices.
+Maize research in Nepal was first undertaken in an
+organised way in 1965 (Paudyal and Poudel, 2001).
+Since then, 15 improved open-pollinated varieties
+(OPVs) have been released by the national research
+system for the various ecologies of the country, however, farmers commonly grow only five of these
+(Adhikary et al., 2001). Movement of improved OPVs
+has been constrained by the lack of active seed enterprise in the country. The National Maize Research
+Program produces about 200,000 kg of foundation
+seed, which is distributed to farmers, the Department
+of Agriculture, and small seed producers (Adhikary
+et al., 2001). There are no formal enterprises producing certified seed. The actual amount of certified
+seed that enters the market is not known, but the area
+sown with improved seed, including hybrids from
+India that are grown mainly in the Terai and seed of
+improved varieties that have been recycled for one or
+more seasons, is estimated to be between 54 and 58%
+(Adhikary et al., 2001; Aquino et al., 2001).
+Most farmers in the hills do not have ready access
+to inputs or information. Villages tend to be isolated
+
+from one another by forests, steep ridges, or rivers
+and streams, and there are few roads suitable for vehicles, only paths between villages. Purchased goods
+must be carried by a porter or, on a more limited
+scale, by mules. Due to the remoteness of most hill
+villages from established urban centres, and the distance between villages in terms of travelling time, the
+logistics of running an effective extension program are
+formidable. For these reasons, the movement of technology is much slower in the hills than in the Terai.
+The objectives of this study were to determine the
+rate of adoption of improved OPVs in two hill districts of Nepal and to investigate factors affecting their
+adoption.
+
+2. Methodology
+The data reported here were collected as part of a
+large survey carried out with support from the Hill
+Maize Research Project (HMRP) to establish a baseline for quantifying the project's impact in the future.
+The survey was conducted within two Village Development Committees (VDCs) of Dailekh district in the
+mid-Western development region and in two VDCs
+of Dolakha district in the central development region.
+Dailekh and Dolakha were selected because they contain agricultural research stations that are active in
+the HMRP. Furthermore, there is relatively little published information on the adoption of improved technologies in these two districts. The two districts differ
+in their level of development. Dailekh lies within the
+mid-Western development region which is considered
+to be less developed and have more poverty than other
+regions within Nepal (Paudyal et al., 2001). Based on
+discussions with district officers, one accessible and
+one remote VDC was selected from within each district surveyed.
+A random sample of farmers within each VDC was
+selected from a voter's list that had been updated with
+the help of VDC officials, or when this list was not
+available from a list of farmers within a ward provided by the ward chairman. Fifty-four households
+were interviewed in each VDC and the total sample
+size was 216. The survey consisted of a questionnaire
+administered by trained research staff. Only 206 of the
+questionnaires were completed and used in the analysis. Means for various physical and socio-economic
+
+J.K. Ransom et al./ Agricultural Economics 29 (2003) 299-305
+
+features were calculated for each VDC. For quantitative data, analyses of variance using a completely random model with VDC as the dependent variable were
+performed.
+To estimate the effects of various quantitative and
+qualitative factors on the extent of improved OPV use,
+a Tobit model was used on the combined data. The
+Tobit model is a censored normal regression model.
+Its estimation is related to the estimation of a censored
+and truncated normal distribution (Amemiya, 1973;
+McDonald and Moffit, 1980). In this study, the Tobit
+model was used to estimate the parameters of the adoption of improved OPV maize by farmers in Dolakha
+and Dailekh districts in the mid-hills of Nepal. The
+function is estimated from a censored sample where
+the sample population consists of both adopters and
+non-adopters of improved maize varieties.
+The empirical model of the effect of a set of explanatory variables on the adoption of improved maize
+varieties is specified using the following linear relationship:
+
++ fJ1 X 1 + fJ2X2 + {J3X3 + f34X4 + fJsXs
++ fJ6X6 + f37X7 + fJsXs + f39X9 + fJwXw
++ fJuXu + fJ12X12 + f313X13 + e,
+
+A= fJo
+
+where A is the percentage of farmer's total maize
+area planted to improved OPVs, fJo the constant, Xt
+the area of Khet land owned by farmer (ha), X2 the
+area of Bari land owned by farmer (ha), X3 the average size of plots farmed (ha), x4 the off-farm income
+(Rs. 1000 per year), X5 the literate head of household
+(dummy; 1: literate; 0: illiterate), x6 the age of household head (years), X7 the district (dummy; 1: Dolakha;
+0: Dailekh), Xs the contact with extension (dummy;
+1: yes; 0: no), x9 the hired farm labour for maize production (dummy; 1: yes; 0: no), Xw the distance to
+market (dummy; 1: :::Skm; 0: .::;5km), Xu the caste
+(dummy; 1: Brahman, Chetri and Thakari; 0: others),
+X 12 the years of fertiliser use, and e the error term.
+The coefficients of the regression model were estimated by applying the maximum likelihood estimation (MLE) technique.
+Khet land is used for rice cultivation. This variable
+was included in the model because farmers with more
+Khet land tend to be better connected to markets, use
+more inputs, and therefore may have better access to
+information and seed. Variables Bari area and aver-
+
+301
+
+age plot size were included because farmers with less
+area for maize production are under more pressure to
+intensify, and therefore potentially have more incentive to adopt new technology. Income from grain sales
+indicates a connection with markets and an increased
+incentive to produce more cereals on farm. Age of
+household head, literacy and caste are all important
+because they are socio-economic factors thought to influence access to information. The variable years of
+fertiliser use was included because of the assumption
+that the adoption of one technology may predispose
+the farmer to adopt other technologies. District, contact with extension, and distance from markets were
+included because infrastructure and availability of information were thought to likely affect the availability
+of and demand for seed.
+
+3. Results and discussion
+Namdu and Kalbhairab VDCs were selected for
+the survey from Dolakha and Dailekh districts, respectively, based on their relative accessibility. Maga
+Pauwa and Chauratha were selected because they were
+considered to be relatively remote. Based on the survey
+results, however, market access was significantly lower
+in Dailekh than in Dolakha, and the average distance
+to markets where inputs are purchased was considerably greater for both categories of VDCs (Table 1).
+Overall, farmers in Chauratha were the furthest from
+input markets, averaging 19 km. Since this distance
+was based on farmers' responses and not on a direct
+measurement, it may not be very accurate, however, it
+is still useful for comparing relative distances between
+VDCs. The distance to the input market in the relatively remote VDC of Dolakha was similar to that of
+the relatively accessible VDC in Dailekh, indicating
+that the road infrastructure in Dailekh is far inferior to
+that of Dolakha. Contact with extension was inversely
+related to the distance to market, though it was poor
+even in the most accessible VDC (Table 1). Literacy
+rates tended to be higher in the VDCs in Dolakha
+than those in Dailekh, while farm and household sizes
+tended to be smaller (Table 1). The maize area was
+similar across VDCs and averaged only about 0.3 ha.
+Farmers in Dailekh sold substantially more maize than
+farmers in Dolakha, though the highest maize grain
+sales reported in Chauratha, was only 29 kg per year.
+
+302
+
+J.K. Ransom eta!.!Agricultural Economics 29 (2003) 299-305
+
+Table I
+Selected characteristics of farming households in four VDCs in Nepal, 2001
+Characteristica
+
+Farm size (ha)*
+Maize area (ha)
+Bari area (ha)*
+Household size (no.)*
+Age of HH (years)
+Literacy rate of HH (%)
+Income from grain sales (Rs.)**
+Income from other sources (Rs.)
+Maize sold (kg)**
+Distance to input market (krn)*
+Transport cost (Rs.lkg fertiliser)*
+Contact with extension (%)
+
+Dolakha district
+
+Dailekh district
+
+Namdu
+
+Maga Pauwa
+
+Kalbhairab
+
+Chauratha
+
+0.86
+0.33
+0.30
+6.0
+47
+52
+2136
+11411
+4.0
+5.1
+0.87
+18
+
+0.50
+0.27
+0.28
+5.7
+47
+38
+715
+5896
+0.3
+13.7
+2.06
+14
+
+1.05
+0.35
+0.49
+7.9
+49
+19
+550
+12376
+13.4
+13.7
+2.14
+10
+
+0.91
+0.39
+0.53
+7.2
+45
+24
+920
+8412
+29.1
+19.1
+2.73
+4
+
+a Bari: sloping terraced fields; HH: household head; Rs.: Nepali rupees.
+*Significant F-test for VDC in the ANOVA at the 5% level. An ANOVA was performed on quantitative variables only.
+**Significant F-test for VDC in the ANOVA at the 1% level. An AN OVA was performed on quantitative variables only.
+
+This suggests that very little of the maize produced
+leaves the farm for commercial purposes.
+The application of farmyard manure (FYM) is the
+traditional and dominant method for maintaining soil
+fertility used by farmers in the hills. All farmers surveyed in all VDCs applied FYM (Table 2). Average
+rates varied between 7000 and 8000 kg/ha and did not
+differ significantly between VDCs. The percentage of
+farmers using fertiliser was high in all VDCs except
+Chauratha. The amount applied was generally low relative to the recommended rate (Pandey, 2000), particularly in Chauratha, where only 6 kg/haN was applied
+
+on average (Table 2). There was almost no application
+of P fertilisers in all four VDCs.
+With the exception of Namdu, where 59% of farmers used improved OPVs, less than 30% of farmers
+used improved varieties (Table 2). Except for Namdu,
+adoption rates were much lower than the national rate
+estimated by Adhikary et al. (2001) and Aquino et al.
+(2001). This suggests that adoption rates are much
+higher in districts not surveyed or that the national
+estimates are higher than actual rates. The higher
+adoption rates in Namdu may have been related to
+the dissemination of information and seed from the
+
+Table 2
+Adoption level of yield-enhancing maize technologies in four VDCs in Nepal, 2001
+Technologya
+
+Dolakha district
+Namdu
+
+Use of FYM (%)
+Rate of FYM (kg/ha)
+Use of fertiliser (%)
+Rate of N fertiliser (kg/ha)**
+Rate of P fertiliser (kg/ha)
+Use of improved OPVs (% of farmers)**
+Maize area planted to improved OPVs (%)**
+Yield of improved OPVs (kg/ha)
+Yield of all maize grown (kg/ha)**
+
+100
+7600
+96
+39
+1
+59
+62
+1400
+1300
+
+Dailekh district
+Maga Pauwa
+100
+7270
+100
+34
+<1
+29
+13
+1490
+1090
+
+Kalbhairab
+100
+8280
+84
+28
+<1
+22
+23
+1700
+1380
+
+a FYM: farmyard manure; OPV: open-pollinated variety.
+**Significant F-test for VDC in the ANOVA at the I% level. An AN OVA was performed on quantitative variables only.
+
+Chauratha
+100
+7010
+32
+6
+<1
+15
+27
+1620
+1560
+
+J.K. Ransom et al. I Agricultural Economics 29 (2003) 299-305
+
+303
+
+Table 3
+Proportion of farmers that first adopted improved maize varieties during various periods prior to the study in four VDCs in Nepal, 200 I
+Time of adoption
+
+Never adopted
+<5 years previous to study
+5-10 years previous to study
+> 10 years previous to study
+
+Dolakha district
+
+Dailekh district
+
+(% of those surveyed)
+
+(% of those surveyed)
+
+Namdu
+
+Maga Pauwa
+
+Kalbhairab
+
+Chauratha
+
+41
+7
+28
+24
+
+75
+19
+6
+0
+
+87
+7
+2
+4
+
+79
+19
+2
+0
+
+Kabre agricultural research station which is located
+nearby and has been active for more than 20 years.
+The rate of adoption of improved OPVs was significantly less than the rate of fertiliser adoption. This
+is somewhat surprising given the relatively higher
+cost of fertiliser compared to seed, and the additional
+difficulty of transporting bulky fertiliser. Improved
+open-pollinated yields were higher (on average by
+17% ), which clearly indicates the advantage of growing improved varieties. Generally yields were higher
+in Dailekh than in Dolakha (Table 2).
+The time of initial adoption of improved OPVs differed between Namdu, which had the highest adoption
+
+level, and the other VDCs. In Namdu, most adoption
+occurred 5 or more years previous to the study, with
+almost half of the adoption occurring more than 10
+years previously (Table 3). In the remaining VDCs,
+however, the limited adoption that had occurred took
+place 5 or fewer years previous to the study.
+Based on the Tobit analysis, which combined data
+from all of the VDCs, the variables that significantly
+increased the adoption of improved OPVs were area
+of Khet land, ethnic group, years of fertiliser use,
+off-farm income, and contact with extension (Table 4).
+Hired labour was the only variable that had a significantly negative influence on the use of improved
+
+Table 4
+Tobit model estimates of index function and marginal effects for determinants of the percentage of total maize area planted to improve
+OPVs in four VDCs of Nepal, 2001
+Variable•
+
+Constant
+Khet area (ha)
+Bari area (ha)
+Plot size (ha per HH)
+Off-farm income x 1000 (Rs.)
+Literacy of HH (dummy)
+HH age (years)
+District (dummy)
+Extension contact (dummy)
+Hired farm labour (dummy)
+Distance to market (km)
+Ethnic group (dummy)
+Fertiliser use (years)
+log likelihood function (unrestricted)
+log likelihood function (restricted)
+Likelihood ratio
+No. of observations
+a
+
+Index function
+
+Mean of X
+
+Coefficient
+
+S.E.
+
+-91.1 *
+36.4*
+-39.6
+73.3
+0.6**
+-24.5
+-0.1
+3.7
+61.9**
+-50.4**
+17.1
+66.1**
+2.8*
+
+40.7
+18.7
+31.4
+87.2
+0.3
+18.2
+0.6
+19.2
+22.2
+20.0
+18.1
+17.5
+1.3
+-506.3
+-530.4
+48.2**
+206
+
+0.4
+0.4
+0.2
+9.5
+0.7
+47.0
+0.5
+0.1
+0.2
+0.3
+0.6
+8.2
+
+Marginal effects
+Coefficient
+
+S.E.
+
+-33.9*
+13.5*
+-14.7
+27.2
+0.2**
+-9.1
+0.0
+1.4
+23.0**
+-18.8**
+6.4
+24.6**
+1.0*
+
+14.3
+7.0
+11.7
+32.4
+0.1
+6.7
+0.2
+7.2
+8.2
+7.3
+6.7
+6.2
+0.5
+
+Khet: land important for rice cultivation; Bari: sloping terraced fields; HH: household head; Rs.: Nepali rupees.
+
+* Significance at 5%.
+
+** Significance at I%.
+
+304
+
+J.K. Ransom eta/./Agricultural Economics 29 (2003) 299-305
+
+Table 5
+Reasons given by farmers for not adopting improved open-pollinated maize varieties, Nepal, 2001
+Dolakha district (% of
+those surveyed)
+
+Lack of knowledge
+Lack of sufficient manure
+Stover too hard
+Not available
+Undesirable taste
+
+Dailekh district (% of
+those surveyed)
+
+Namdu
+
+Maga Pauwa
+
+Kalbhairab
+
+Chauratha
+
+35
+5
+0
+55
+5
+
+36
+0
+0
+64
+0
+
+62
+2
+2
+24
+10
+
+77
+0
+
+OPVs. Of the factors that significantly impacted on
+the adoption of improved OPV s, Khet area and ethnic
+group were determined to be important, but also unable to be managed or externally influenced. Farmers
+with more Khet land tend to be better connected to
+markets because rice is more often sold or traded than
+maize. The negative effect of hired labour was determined to be quite large. The use of non-household
+labour in maize production is dependent on a number
+of factors, e.g. the distance of the maize field from the
+homestead or the amount of labour required relative
+to available labour. Farmers who do not hire labour
+for maize production (i.e., those who have sufficient
+family labour) are more likely to adopt improved OPV
+maize than those who hire labour. This is probably
+because more labour is used per unit of land for cultivating improved OPV maize compared to local maize.
+Of the remaining factors included in the model, contact with extension had the most dramatic influence
+on adoption (Table 4). This indicates that information,
+and not just seed availability, currently constrains the
+use of improved OPVs. Years of fertiliser use had a
+minor positive impact on the rate of adoption. This
+may indicate that farmers who have more experience
+with technologies in general are more likely to test
+and adopt new OPVs. Off-farm income had a positive effect on adoption, but the data suggest that large
+changes in off-farm income are needed to create significant increases in adoption of improved OPVs. It
+is likely that farmers with large off-farm income have
+one or more family members working outside of the
+village. Not only would the increased cash allow the
+family to purchase inputs, but also the individuals
+working outside the village would have the opportunity to acquire seed and information on new varieties
+from other areas.
+
+3
+3
+17
+
+To evaluate the effects of each independent variable
+on the adoption of improved maize varieties, marginal
+effects were estimated (Table 4). It can be seen that
+the same set of independent variables used in the primary index function show a significant effect on the
+adoption of improved maize.
+The marginal effect of 13.5 for Khet land area
+implies that overall respondents, every 1 ha increase
+in Khet land area would increase the adoption of
+improved maize varieties by 13.5%. Similarly, every
+1000 Rs. increase in off-farm income would increase
+the adoption of improved OPV maize by 0.2%, and
+every 1 year of experience in fertiliser application
+would increase adoption of improved OPV maize
+by 1.0%. Among the dummy variables, the largest
+change of 24.9% is associated with ethnicity and the
+second largest of 23.0% is due to contact with extension personnel. The results also suggests that adoption
+of improved OPV maize will be reduced by 18.76%,
+if farmers need to hire labour for maize cultivation.
+The primary reasons given by farmers for not adopting improved OPVs differed between the two districts.
+In both VDCs in Dolakha, the lack of seed availability was the primary reason for not growing improved
+OPVs, while in the VDCs of Dailekh, the lack of
+knowledge of improved OPVs constrained their adoption (Table 5). These data do not support the commonly repeated notion that farmers do not grow improved OPVs because these varieties are not as good
+as those they currently grow. In fact, the data suggest
+that very few farmers have had a chance to evaluate
+the improved OPVs currently available. The data indicate that improved OPVs have a significant yield advantage over local varieties in all VDCs, though the
+magnitude varied somewhat between VDCs (Table 2).
+Perhaps in some cases (i.e., in Chauratha), the lack of
+
+J.K. Ransom et al. I Agricultural Economics 29 (2003) 299-305
+
+adoption could be due to the perceived advantage of
+improved OPVs being insufficient to motivate change.
+Since higher yielding, better-adapted varieties could
+be a significant incentive for farmers to adopt new varieties, a more concerted effort in the development of
+the varieties is justi tied.
+
+4. Conclusions
+A number of conclusions can be drawn from these
+data regarding the adoption of improved OPVs in
+Nepal. Since adoption of fertiliser is higher than the
+adoption improved seed-the relatively cheaper, more
+transportable input, the poor adoption of seed cannot
+be blamed on 'remoteness' per se. Perhaps, the most
+conspicuous finding of this research is the very limited exposure that farmers have had to new production
+technologies. This deficiency must be immediately
+addressed if improvement in production and productivity are to occur. Our analysis clearly indicates that
+there has been limited contact between farmers and the
+extension system in its broadest sense (including the
+non-governmental community active in agricultural
+development). Greater emphasis on exposing farmers
+to new improved OPVs is urgently needed as a first
+step in improving adoption. The data also suggest that
+the strategy for improving adoption of new technologies in accessible areas may be quite different to that
+used in remote areas. It appears that information is
+more constraining in remote districts than in accessible
+districts-in these areas seed constrains adoption. This
+would suggest that in the inaccessible areas, a program
+of more intensive on-farm demonstrations and testing
+is immediately justifiable. On the other hand, actions
+in accessible districts should focus on improving
+the availability of improved seed. Community-based
+seed production programs should be supported until commercial seed enterprises develop to fill the
+current void. The reported 17% yield advantage of
+improved OPV s, averaged overall VDCs, indicate
+that significant increases in production and produc-
+
+305
+
+tivity can be achieved through the use of improved
+varieties.
+
+References
+Adhikary, K., Sharma, D., Ransom, J.K., Rajbhandari, N.P.,
+2001. Three decades of achievements through NARC-CIMMYT
+partnership in maize research and development. In: Three
+Decades of NARC-CIMMYT Partnership in Maize and Wheat
+Research and Development (1970-2000). Nepal Agricultural
+Research Centre (NARC) and the International Maize and
+Wheat Improvement Center (CIMMYT), Kathmandu, Nepal,
+pp. 1-11.
+Amemiya, T., 1973. Regression analysis when the dependent
+variable is truncated normal. Econometrica 41, 997-1016.
+Aquino, P., Carrion, F., Calvo, R., Flores, D., 2001. Selected
+maize statistics. In: Pingali, P.L. (Ed.), CIMMYT 1999-2000
+World Maize Facts and Trends. Meeting World Maize Needs:
+Technological Opportunities and Priorities for the Public
+Sector. International Maize and Wheat Improvement Center
+(CIMMYT), Mexico, D.F., Mexico, pp. 45-57.
+CIMMYT (International Maize and Wheat Improvement Center),
+1999. CIMMYT 1997/98 World Maize Facts and Trends:
+Maize Production in Drought-Stressed Environments: Technical
+Options and Research Resource Allocation. CIMMYT, Mexico,
+D.F., Mexico.
+McDonald, J.F., Moffit, R.A., 1980. The use of Tobit analysis.
+Rev. Econ. Stat. 61, 318-321.
+Pandey, S.P., 2000. Current soil fertility management recommendations, constraints and opportunities for maize based
+cropping systems in the hills of Nepal. In: Tripathi, B.P.,
+Rajbhandari, N.P., Ransom, J.K. (Eds.), Proceedings of the
+Working Group Meeting of the Hill Maize Research Project
+on Improved Soil Fertility Management for Sustainable Maize
+Production. Nepal Agricultural Research Centre (NARC) and
+the International Maize and Wheat Improvement Center
+(CIMMYT), Kathmandu, Nepal, pp. 55-60.
+Paudyal, K.R., Poudel, S.K., 2001. Impact of public- and privatesector maize research in Nepal. In: Gerpacio, R.V. (Ed.), Impact
+of Public- and Private-Sector Maize Breeding Research in Asia,
+1966-1997/98. International Maize and Wheat Improvement
+Center (CIMMYT), Mexico, D.F., Mexico, pp. 66-80.
+Paudyal, K.R., Ransom, J.K., Rajbhandari, N.P., Adhikari, K.,
+Gerpacio, R., Pingali, P.L., 2001. Maize in Nepal: Production
+Systems, Constraints and Priorities for Research. Nepal Agricultural Research Centre (NARC) and the International Maize and
+Wheat Improvement Center (CIMMYT), Kathmandu, Nepal,
+p. 48.
+
+

@@ -1,0 +1,791 @@
+Agricultural Economics 30 (2004) 195–202
+
+The adoption of intensive monocrop horticulture
+in southern Cameroon
+James Gockowski a,∗ , Michel Ndoumbé b
+a
+
+IITA-Cameroon, c/o L.W. Lambourn & Co., Carolyn House, 26 Dingwall Road, Croydon CR9 3EE, UK
+b Institut de Recherche Agricole pour le Développement, P.O. Box 2067, IRAD, Yaoundé, Cameroon
+Received 27 February 2001; received in revised form 16 August 2002; accepted 6 November 2002
+
+Abstract
+Results from a 1997 survey of 208 households in the humid forest zone of southern Cameroon indicate that African policy
+makers seeking to intensify agricultural production should focus attention on the horticultural sub-sector. The survey, which
+gathered information on horticultural production practices, found that the average expenditure on agro-chemical inputs by
+horticultural producers using monocrop production systems was 190 US$/ha, which greatly exceeds the FAO reported national average expenditure of 6.50 US$/ha. A logit model of monocrop adoption indicated that the size of land holding per
+household had a negative effect on adoption, congruent with population-driven technical change and that increases in unit
+transportation costs significantly decreased the probability of adoption. These findings suggest that policy makers should
+target horticultural intensification in areas of higher population density and promote investment in rural roads. The age of
+the household head had a significant negative and elastic effect on adoption, which in combination with an increase in the
+cohort of younger farmers in the rural population induced by macro-economic events contributed to the spread of intensified
+horticulture. In the study area, roughly two-thirds of rural households also produce cocoa and the quantity of cocoa produced
+was positively associated with adoption of intensive horticultural systems suggesting that export crop promotion indirectly
+facilitated diversification of agriculture. Women’s participation in intensive monocrop production was limited and efforts to
+promote their greater involvement are recommended.
+© 2004 Published by Elsevier B.V.
+JEL classification: D21; O33; Q12
+Keywords: Logit; Monocrop; Agricultural intensification; Cash crop synergy
+
+1. Introduction
+Rural poverty remains a pressing problem in Africa
+(IFAD, 2001). To meet rapidly growing food demand and raise rural income, it is widely believed
+∗ Corresponding author. Tel.: +44-237-223-7434;
+fax: +44-217-223-7437.
+E-mail address: j.gockowski@cgiar.org (J. Gockowski).
+
+0169-5150/$ – see front matter © 2004 Published by Elsevier B.V.
+doi:10.1016/j.agecon.2002.11.002
+
+that African farmers must intensify their crop production systems by increasing the amount of inputs
+used per unit area of agricultural land. The use of
+inorganic and organic fertiliser, improved seed, irrigation and pesticides by farmers in sub-Saharan
+Africa is among the lowest in the developing world.
+In Cameroon the mean expenditure per ha of fertilisers and pesticides in 2000 is estimated by FAO
+at 6.50 US$/ha with the bulk of these expenditures
+
+196
+
+J. Gockowski, M. Ndoumb´e / Agricultural Economics 30 (2004) 195–202
+
+Retail Price (FCFA/kg)
+
+600
+500
+400
+300
+200
+100
+0
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+Month
+Tomato
+
+Cocoyam
+
+Cassava
+
+Fig. 1. Average nominal monthly retail prices of tomato, cocoyam and cassava in Yaounde, December 1993 to July 2001. Source: Gockowski
+and Ndoumbe, monthly prices provided by the Direction de Statistiques et Comptabilit´e Nationale, Ministery of Planning and Territorial
+Administration.
+
+incurred in the export crop sector (coffee, cocoa and
+oil palm).
+Low levels of agricultural intensification have
+been linked to the non-suitability of agricultural
+lands, inappropriate agricultural policies, nonexistent
+agro-chemical production capacity, poor infrastructure, weak research and extension institutions, and
+the low prices of staple commodities (Reardon et
+al., 1997; Zeller et al., 1999). Underdeveloped rural
+credit markets also limit agricultural intensification
+and productivity growth that depends on the increased use of purchased inputs (von Braun et al.,
+1993; Poulton et al., 1998). Intensification is also
+commodity-specific with horticultural crops often
+among the most intensively produced. The higher
+value of horticultural crops relative to staple foods is
+a key factor. A comparison of mean monthly tomato
+and staple food prices in the Yaounde market in recent
+years illustrates the ‘high value’ nature of horticultural crops common to many African food markets
+(Fig. 1).
+To facilitate agricultural intensification in Africa,
+better understanding is needed of those examples
+where the process has already taken hold. Contributing towards that end, this paper examines the adoption
+of intensified monocrop systems of horticultural production among smallholders in southern Cameroon.
+A logit regression of the adoption determinants is
+
+developed and the elasticities of adoption for certain
+policy variables estimated.
+
+2. Area description, survey methodology and
+adoption model
+The study area in southern Cameroon was selected
+based on anecdotal observation of the growing importance of intensified horticultural production in this region (Fig. 2). Rural densities lie between 36 and 70
+persons per km2 although denser pockets in excess of
+150 persons are not uncommon (RGPH, 1993; Santoir,
+1995). Population pressures are generally higher than
+in most other areas of central Africa, yet lower than
+in much of humid west Africa. The climax vegetation
+is semi-deciduous moist tropical forest. Mean annual
+rainfall ranges from 1350 to 1700 mm distributed in a
+bimodal pattern which permits two rain-fed cropping
+seasons: the first, from March to June and the second,
+from August to November. 25% of rural households
+also crop during the dry season from December to
+February in inland valley bottoms using hand irrigation or water from hydro-morphic soils (IITA unpublished data).
+Up until the spread of monocrop systems of horticultural production beginning in the 1970s, the three
+cropping systems which predominated in the farming
+
+J. Gockowski, M. Ndoumb´e / Agricultural Economics 30 (2004) 195–202
+Sanaga R.
+
+STUDY
+AREA
+
+Yaounde
+
+Nyong R.
+
+Mbalmayo
+
+Ebolowa
+
+Fig. 2. Location of study area relative to forest margins ecoregional benchmark of southern Cameroon. Sources: Gockowski and
+Ndoumbe.
+
+systems of the study area were the melon seed field,
+the mixed food crop field and the cocoa agroforest.
+The first two are annual crop systems that are rotated
+with a fallow period in order to restore soil fertility.
+As rural populations have grown, fallow periods have
+declined and differences in land holdings have become more accentuated. For households with limited
+land holdings, the melon seed field, which requires
+long fallow periods of 10–15 years, has dropped out
+of the farming system. The mixed food crop system
+is managed by women and has remained an integral
+part of the farming system since pre-colonial times
+(Guyer, 1984). This cropping system provides the
+bulk of household food supply as well as marketed
+surpluses of food crops. Most households cultivated
+the field twice in the first and second rainy season
+on different sites. With rare exception agro-chemicals
+are not applied. Cultivation of cocoa in small agroforests is an important revenue source for approximately two-thirds of households in the area and accounts for approximately one-third of total revenues
+in these households (IITA unpublished household
+data).
+Horticultural crops are marketed from surpluses emanating from the mixed crop field and from specialised
+monocrop systems of horticultural production cultivated by men. The latter system is a relatively recent
+
+197
+
+incorporation, first described in the mid-1970s (Guyer,
+1984). Discussions with village elders confirm this as
+the period in which commercial horticultural production began to develop. An important characteristic of
+the monocrop system is a high level of agro-chemical
+use.
+A randomised two-stage cluster sample of rural
+households was conducted in July of 1997 to investigate the importance of horticultural cash crops in
+rural livelihoods. The study area was divided into
+eight squares of 18 km × 18 km and clusters (villages)
+nearest the geographic centre of each square selected
+from two strata: (i) those villages lying on all-weather
+roads and (ii) those on seasonal roads as indicated
+on 1:200,000 topographic maps. Within villages, the
+survey team selected households randomly by choosing every nth household. The sampling interval n was
+equal to N/13, where N was the counted total number
+of households in the village and 13 the desired sample size for each village. A local guide assisted in the
+enumeration of households. In all, 16 villages were
+sampled and a total of 208 households interviewed
+using a structured questionnaire administered in the
+local Beti dialect. The questionnaire gathered detailed
+production information on the two most important
+commercial crops produced by the household. The
+survey data were used to characterise practices in
+horticulture production, and to model the adoption of
+intensive monocrop systems.
+The adoption of intensive monocrop production systems was modelled using the logit discrete binary
+regression model (Maddala, 1983; Amemiya, 1985).
+The model assumes an underlying latent adoption variable yi∗ defined by the relationship:
+yi∗ = β xik + ui
+where we assume that ui are IN(0, σ 2 ).
+However, in practice we observe y defined by
+yi = 1,
+
+if yi∗ > 0, y = 0 otherwise
+
+The likelihood function of the logit model is
+Prob[Yi = 1] =
+
+exp[xi β]
+{1 + exp[xi β]}
+
+If we let xik equal the kth element of the vector
+of explanatory variables xi and βk the kth element
+of β, then the expression for the derivatives of the
+
+198
+
+J. Gockowski, M. Ndoumb´e / Agricultural Economics 30 (2004) 195–202
+
+probabilities given by the logit model is
+exp(xi β)
+∂
+L(xi β) =
+βk
+∂xik
+[1 + exp(xi β)]2
+
+(1)
+
+And the elasticities of the probability of belonging to
+the group of adopters is given by
+(∂L/∂xik )xik
+ε(xik ) =
+(2)
+exp(xi β)/[1 + exp(xi β)]
+The model focus is on the determinants of the adoption of intensive monocrop production systems. The
+reduced form of the model is
+ADOPT = α0 + β1 MEN + β2 WOMEN + β3 CHILD
++ β4 AGE + β5 EDUC + β6 MELON
++ β7 MFOOD + β8 COCOA + β9 WPROD
++ β10 COSTKM,
+where the dependent variable (ADOPT) equals one,
+if the production system used by the household to
+produce its most commercially important horticultural
+crop was a monocrop, and otherwise equals zero.
+The household endowment of family labour is
+expected to positively affect the probability of adoption, given the labour-intensive nature of commercial
+horticulture production and relatively undeveloped
+local labour markets. Labour variables in the model
+include the number of adult males (MEN), adult females (WOMEN), and children under 16 years of
+age (CHILD). The age of household heads (AGE)
+and their educational attainment (EDUC) capture
+differences in the quality of management.
+Land endowments play an important role in the intensification process (Boserup, 1965; Binswanger and
+McIntire, 1987). In southern Cameroon, the institution
+of patrilineal inheritance with an equal division of land
+holdings along with very limited land sales and rapid
+population growth has led to a decline in the average land holding per farm household. Congruent with
+Boserup’s population-driven view of technical change,
+this should increase the probability of intensified horticultural production. Accurate measures of farm size
+were difficult to obtain through farmer interview, as
+land had not been surveyed and local area measures
+do not exist. To address this measurement issue, the
+number of melon seed fields cropped in the last 12
+months (MELON), was used as an instrumental variable. The 10–15 year fallow requirement for this field
+
+implies that only households with large landholdings
+can still maintain this system. To test whether intensive horticulture is replacing cultivation of the traditional mixed crop field, a count of the number of these
+fields cropped in the last 12 months (MFOOD) was
+included in the model.
+Research elsewhere (Govereh and Jayne, 1999;
+Strasberg et al., 1999) has documented synergy between cash crop and food crop intensification due in
+part to the alleviation of liquidity constraints when
+credit markets are missing. To test the hypothesis
+that cocoa revenues provide liquidity that increases
+the probability of intensified moncrop horticultural
+production, the level of cocoa production (COCOA)
+in the 12 months prior to the interview was included.
+Women’s participation in the process of technical change is often constrained by information gaps
+and impaired access to productive resources (Bzugu
+and Kwaghe, 1997; Orr, 2000). A dummy variable (WPROD), indicating cases where the principal
+decision-maker was a women, tests for gender differences in the participation in intensive monocrop
+production.
+The condition of rural roads and the amount of vehicular traffic affect market access and search and information costs, which have been shown to influence
+intensification processes (Odhiambo, 1998; Zang and
+Fan, 2001). Although the 16 villages in the sample
+are within 100 km of Yaounde, local differences in
+road quality and the amount of vehicular traffic can
+be significant. The per kilometre cost of personal bush
+taxi transport to Yaounde (COSTKM) provides an instrumental measure of these differences and is expected to have a negative impact on the probability of
+adoption.
+
+3. Results
+All of the 208 households had marketed at least
+one horticultural crop in the 12 months prior to the
+interview. A remarkable diversity of crops was marketed with the mean household selling nearly 18
+different crops. Overall, households identified 34 different crops as among their principal (first and second
+rank in importance) sources of horticultural revenues.
+Tomato, dessert bananas and green maize were cited
+most frequently (Table 1).
+
+J. Gockowski, M. Ndoumb´e / Agricultural Economics 30 (2004) 195–202
+Table 1
+Frequency of production as ‘most important’ or ‘second
+most important’ commercial horticultural crop among southern
+Cameroon households (n = 208)
+Crop species
+
+Frequency
+(percent of households)
+
+Tomato
+Bananas
+Green maize
+Okra
+Leafy green (Solanum scabrum)
+Hot peppers
+Citrus
+Cassava leaf
+African plum (Dacryodes edulis)
+Avocado
+
+35.6
+29.3
+23.6
+17.8
+12.0
+11.1
+7.7
+6.7
+5.8
+4.8
+
+Fifty-seven percent of the households produced
+their most important market crop using an intensive
+horticultural monocrop system, while 43% used the
+traditional mixed food crop field to produce market
+surpluses. Producers using monocrop systems re-
+
+199
+
+ported expenditures on fertilisers and pesticides of
+190 US$/ha (versus 6.50 US$/ha for all agricultural
+lands in Cameroon) establishing the monocrop horticultural system as among the most input-intensive
+crop systems in Cameroon. Monocrop producers were
+more likely to use fertilisers, pesticides, modified soil
+tillage and improved seeds to produce horticultural
+crops than were producers using the traditional mixed
+food crop field (Table 2). They were also on average ten years younger, better educated, and produced
+more cocoa than producers using traditional mixed
+crop technology (Table 3).
+For the adoption model, 170 producer records were
+used to analyse the predicted model effects; 38 of the
+households visited were unable to supply complete
+data for all eleven variables in the model and had to be
+dropped from the logit analysis. All the variables except WOMEN had the qualitative effects predicted, 5
+of the 10 independent variables affected the probability of adoption at statistically significant levels (P <
+
+Table 2
+Frequency of management practices among monocrop versus mixed food crop systems
+Management practice
+
+Horticultural cropping system
+
+fertilisers∗∗
+
+Application of inorganic
+Application of organic fertilisers∗∗
+Application of pesticides∗∗
+Planting of improved seed∗∗
+Soil mounding at weeding∗∗
+Raised bed/ridge tillage∗∗
+∗∗
+
+Monocrop (percent of households indicating)
+
+Mixed food (percent of households indicating)
+
+62
+19
+80
+68
+66
+52
+
+6
+4
+11
+15
+31
+19
+
+P < 0.05 (test of independence: χ2 (1) = 3.841).
+
+Table 3
+Descriptive statistics of logit model variables by adopter (n = 97) vs. non-adopter (n = 73) groups
+Variable description
+
+AGE of household head (years)
+EDUC educational attainments of household head (1–9)
+MEN adult men living in household (no.)
+WOMEN adult women living in household (no.)
+CHILD children (<15 years) in household (no.)
+COCOA 75 kg bags of cocoa produced (no.)
+WPROD proportion of women decision makers
+MELON melonseed fields (no.)
+MFOOD mixed crop fields (no.)
+COSTKM transport cost to Yaounde (FCFA/km)
+
+Mean averages
+
+Standard deviation
+
+Adopter
+
+Non-adopter
+
+Overall
+
+42.2
+4.10
+2.04
+1.75
+1.64
+7.27
+0.02
+0.18
+2.37
+13.2
+
+52.5
+3.42
+1.99
+1.93
+1.23
+3.25
+0.26
+0.64
+2.31
+14.8
+
+46.5
+3.81
+2.02
+1.83
+1.46
+5.55
+0.12
+0.38
+2.35
+13.9
+
+13.7
+1.72
+1.84
+1.27
+1.90
+8.18
+0.33
+0.85
+1.64
+2.79
+
+200
+
+J. Gockowski, M. Ndoumb´e / Agricultural Economics 30 (2004) 195–202
+
+Table 4
+Logit adoption model results
+Variable
+Constant
+AGE∗∗∗
+EDUC
+MEN∗
+WOMEN
+CHILD∗∗
+COCOA∗
+WPROD∗∗∗
+MELON∗∗∗
+MFOOD
+COSTKM∗∗
+
+Coefficient
+5.070
+−0.052
+0.055
+0.242
+−0.284
+0.264
+0.065
+−3.015
+−0.852
+−0.049
+−0.184
+
+McFadden R2
+Actual
+
+Standard
+error
+0.017
+0.127
+0.137
+0.215
+0.119
+0.034
+0.882
+0.281
+0.145
+0.083
+
+−2.979
+0.435
+1.770
+−1.318
+2.220
+1.907
+−3.420
+−3.029
+−0.339
+−2.213
+
+0.319
+Predicted
+0
+
+Total
+1
+
+Frequencies of actual and predicted outcomes
+0
+51
+22
+1
+12
+85
+Total
+
+Asymptotic
+t-ratios
+
+63
+
+107
+
+73
+97
+170
+
+Two-tail tests.
+∗ P < 0.10.
+∗∗ P < 0.05.
+∗∗∗ P < 0.01.
+Table 5
+Elasticity of the probability of adoption of intensive monocrop with
+respect to three policy-related variables (estimated at the means)
+Variable
+
+Elasticity of probability ε(xik )
+
+AGE
+COCOA
+COSTKM
+
+−1.055
+0.160
+−1.123
+
+0.05), and the model correctly classified 80% of the
+households (Table 4).
+Using Eqs. (1) and (2), the calculated elasticities
+of adoption were elastic for AGE and COSTKM and
+inelastic for COCOA, the only policy variables whose
+marginal effects were significantly different from zero
+(Table 5).
+
+4. Discussion of results
+The positive effects of the number of men (MEN)
+and the number of children (CHILD) suggests that
+
+family labour is mobilised among adopters, although
+the issue is not entirely clear for child labour. If
+the decision-maker views children’s education as an
+investment good, an increase in the number of children would increase the decision maker’s demand
+for his/her children’s education which could provide an alternative to the labour demand hypothesis
+for the positive coefficient on CHILD. Further investigation of intra-household revenue distribution,
+labour allocation, and household expenditure is required to resolve this issue. The number of women
+in the household (WOMEN) and the educational
+attainment of the household head (EDUC) did not
+influence the probability of adoption, although there
+was a significantly greater educational attainment
+(Student’s t = 2.59, P = 0.01) among adopters
+(Table 3).
+When women were the principal agent in management decisions (WPROD), there was a lower probability of adoption. Women’s wide range of responsibilities in village society limits their capacity for adopting
+labour-intensive technology systems. In the few cases
+where women were utilising monocrop systems they
+were mainly producing traditional African leafy vegetables in the dry season when other labour demands
+are reduced.
+The negative effect of MELON, a proxy measure
+of land availability, indicates that increasing land constraints positively influence the adoption of commercial horticultural production systems. This suggests
+that, ceteris paribus, efforts to promote intensification
+of horticulture production should target areas of relatively high population pressure.
+The number of subsistence-oriented mixed food
+crop fields, MFOOD, did not influence the adoption
+of monocrop horticulture. Production from this field
+system remains an important household objective for
+both adopters and non-adopters alike. Many adopting households have included the monocrop field on
+the front end of the mixed food crop/fallow rotation
+thereby economising on labour for fallow clearing
+while maintaining the subsistence contribution of the
+mixed food crop field. The important cultural role attached to the cultivation of the mixed food crop field
+by the women of southern Cameroon (Guyer, 1984)
+and the limited access of most households to rural
+food markets also contribute to its persistence among
+adopting households.
+
+J. Gockowski, M. Ndoumb´e / Agricultural Economics 30 (2004) 195–202
+
+The cash requirements for intensive horticulture
+production combined with the failure of formal rural
+credit institutions present a constraint to adoption
+especially for resource-poor households. Financial
+demands of intensive production likely underlie the
+positive effect of cocoa revenues (COCOA) on adoption. Mean cocoa sales among adopters during the
+survey were more than double those of non-adopters;
+the injection of cocoa revenues estimated at more
+than 500 US$ into the household economy facilitated diversification into other enterprises. Similar effects between coffee and intensive horticulture have also been noted in the western region of
+Cameroon (Temple and Fadani, 1997). This suggests that past policies in Cameroon supporting small
+holder tree crop production had a positive impact on
+the adoption of intensified commercial horticulture
+production, although the effect is relatively inelastic
+(Table 5).
+The age of the household head was negatively associated with the probability of adoption. Younger farmers were more likely to adopt and the effect of age
+on the probability of adoption was elastic (Table 5)
+suggesting that policies, which impact demographics
+and migration patterns would also affect the probability of adoption. Macroeconomic events beginning in
+the late 1980s may have slowed rural–urban migration
+and increased the cohort of young farmers in the rural
+population (Gockowski and Ndoumbé, 1999).
+The instrumental variable for rural road infrastructure and communications, COSTKM, also had significant and elastic effect on the probability of intensive
+horticulture production. Elasticity at the sample mean
+(maximum) is −1.12 (−2.59), which underscores the
+importance of public investments in rural transportation infrastructure in the process of agricultural intensification.
+
+5. Conclusions
+Horticulture is providing a pathway for intensification among smallholders in southern Cameroon driven
+by growth in urban market demand and high relative
+prices. Its integration in the traditional farming system
+enables the economical use of soil amendments that
+provide a means for addressing the pressing issue of
+soil nutrient depletion.
+
+201
+
+Demographic changes have played a major role in
+the intensification of horticultural production. Rapid
+rates of urbanisation, which in Cameroon averaged
+over 7% in the 1970s and 1980s, have resulted in substantial demand growth in the urban markets of West
+and central Africa. A slowing of rural-to-urban migration in the 1990s associated with macroeconomic
+structural adjustments including the 1994 currency
+devaluation appears to have increased the cohort of
+younger farmers in the study area. Younger farmers were significantly more likely to adopt intensive
+monocrop systems. This is an example of the important second-order effects of structural adjustments that
+often escape the notice of policy makers.
+Marketing costs have a significant and elastic effect on the adoption of intensive horticulture systems.
+Greater public investment in rural roads and a downward adjustment of tariffs currently exceeding 100%
+on new transport vehicles would help lower marketing costs. The diffusion of information on input and
+crop prices, and quality differentials for these relatively volatile markets is another public intervention
+which would lower market search costs and enhance
+market efficiency. Local language radio broadcasts are
+among the most cost-effective methods of information
+provision (Robbins, 2000).
+The combined influence of transport cost and increasing land scarcity on the adoption of intensified
+production systems suggests targeting development efforts in areas of higher population densities with better
+road infrastructure. For central Africa, rural areas in
+the periphery of urban centres are the most likely domains for horticultural intensification, rather than the
+hinterlands characterised by poorly developed transport infrastructure and sparse populations. Appropriate domains in west Africa are likely to be larger than
+in central Africa due to higher overall population densities and better rural infrastructure.
+The synergy between cocoa production and horticulture intensification suggests that promotion of
+traditional export crops has contributed to the diversification of agricultural systems in the study area.
+Whether similar processes of diversification and intensification have occurred among the cocoa and
+coffee producers of Cote d’Ivoire, Nigeria and Ghana
+warrants further study.
+Women producers were not participating in intensive monocrop production. Efforts to address this
+
+202
+
+J. Gockowski, M. Ndoumb´e / Agricultural Economics 30 (2004) 195–202
+
+situation should consider the promotion of dry season
+production of African traditional leafy vegetables,
+when women’s labour demands are lower, and when
+the price of these commodities rises two- to three-fold.
+The importance of intensive horticultural production will continue to grow, especially if rapid urbanisation continues. As the conditions contributing to
+intensification in southern Cameroon may not be the
+same in other parts of West and central Africa, further
+investigations of these processes across the region are
+needed.
+
+Acknowledgements
+Financial support by the Rockefeller Foundation is
+gratefully acknowledged.
+References
+Amemiya, T., 1985. Advanced Econometrics. Harvard University
+Press, Cambridge, p. 521.
+Binswanger, H., McIntire, J., 1987. Behavioral and material
+determinants of production relations in land-abundant tropical
+agriculture. Econ. Dev. Cult. Change 35, 73–99.
+Boserup, E., 1965. The Conditions of Agricultural Growth. Aldine
+Publishing Co., Chicago, p. 124.
+Bzugu, P., Kwaghe, P., 1997. Constraints to farm resource
+acquisition by women farmers in Konduga local government
+area of Borno state. J. Rural Dev. Administration 29, 27–36.
+Gockowski, J., Ndoumbé, M., 1999. An analysis of horticultural
+production and marketing systems in the forest margins
+ecoregional benchmark of southern Cameroon. Resource and
+Crop Management Research Monograph 27, International
+Institute of Tropical Agriculture, Ibadan, Nigeria.
+Govereh, J., Jayne, T., 1999. Effects of cash crop production on
+food crop productivity in Zimbabwe: tradeoffs or synergies.
+Working Paper No. 74, Michigan State University, Department
+of Agricultural Economics, East Lansing.
+Guyer, J., 1984. Family and farm in southern Cameroon. African
+Research Studies No. 15, African Studies Center, Boston
+University, Boston.
+IFAD (International Fund for Agricultural Development), 2001.
+Rural poverty report 2001: the challenge of ending rural poverty.
+Rome, Italy, http://www.ifad.org/poverty/index.htm.
+
+Maddala, G.S., 1983. Limited-Dependent and Qualitative Variables
+in Econometrics. Cambridge University Press, Cambridge,
+p. 401.
+Odhiambo, W., 1998. The adoption of market oriented crop-mix
+pattern in commercializing agricultural systems in Kenya:
+effects of internal and external factors. Q. J. Int. Agric. 37,
+150–162.
+Orr, A., 2000. ‘Green gold’?: burley tobacco, smallholder
+agriculture, and poverty alleviation in Malawi. World Dev. 28,
+347–363.
+Poulton, C., Dorward, A., Kydd, J., Thirtle, C., 1998. The revival
+of smallholder cash crops in Africa: public and private roles in
+the provision of finance. J. Int. Dev. 10, 85–103.
+Reardon, T., Kelly, V., Crawford, E., Diagana, B., Savadogo, K.,
+Boughton, D., 1997. Promoting sustainable intensification and
+productivity growth in Sahel agriculture after macroeconomic
+policy reform. Food Policy 22, 317–327.
+RGPH (Recensement général de la population et de l’habitat),
+1993. Direction Nationale du Deuxième Recensement Général
+de la Population et de l”Habitat, Yaoundé, Cameroun.
+Robbins, P., 2000. Review of market information systems in
+Botswana, Ethiopia, Ghana and Zimbabwe. Study report. The
+Technical Center for Agricultural and Rural Cooperation (CTA),
+Wageningen, The Netherlands.
+Santoir, C., 1995. La population. In: Santoir, S., Bopda, A. (Eds.),
+Atlas Régional Sud-Cameroun. Editions de l’ORSTOM, Paris.
+Strasberg, P., Jayne, T., Yamano, T., Karanja, D., Nyoro, J.,
+1999. Effects of agricultural commercialization on food crop
+input use and productivity in Kenya. International Development
+Working Paper No. 71, Michigan State University, Department
+of Agricultural Economics, East Lansing.
+Temple, L., Fadani, A., 1997. Cultures d’exportation et cultures
+vivrières au Cameroun: l’éclairage d’une controverse par
+une analyse micro-économique. Economie Rurale 239, 40–
+48.
+von Braun, J., Malik, S., Zeller, M., 1993. Credit markets, input
+support policies, and the poor: insights from Africa and Asia.
+In: Proceedings of the 1993 AAEA Pre-Conference Workshop
+on Post Green Revolution Agricultural Development Strategies
+in the Third World: What Next?, Orlando, Florida.
+Zang, X., Fan, S., 2001. How productive is infrastructure? New
+approach and evidence from rural India. Environment and
+Production Technology Discussion Paper No. 84, International
+Food Policy Research Institute, Washington, DC.
+Zeller, M., Lapenu, C., Minten, B., Ralison, E., Randrianaivo, D.,
+Randrianarisoa, C., 1999. Pathways of rural development in
+Madagascar: an empirical investigation of the critical triangle
+between environmental sustainability. Q. J. Int. Agric. 38, 105–
+127.
+
+

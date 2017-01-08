@@ -1,0 +1,3672 @@
+AGRICULTURAL
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 26 (2001) 115-133
+www.e1sevier.com/locate/agecon
+
+Wine market prices and investment under uncertainty:
+an econometric model for Bordeaux Crus Classes
+Gregory V. Jones a,*, Karl-Heinz Storchmann b,c
+• Geography Department, Southern Oregon University, 1250 Siskiyou Blvd., Ashland, OR, USA
+b Rhine-Westphalian Institute for Economic Research, Essen, Germany
+c Economics Department, Yale University, New Haven, CT, USA
+
+Received 17 June 1999; received in revised form 20 June 2000; accepted 13 July 2000
+
+Abstract
+This paper describes an econometric assessment of wine market prices for 21 of the Crus Classes chateaux in the Bordeaux
+region of France. The model developed in the analysis attempts to define the relationship between factors that influence wine
+quality and those that influence wine prices. Characteristics of the models are: (1) climate influences on grape composition
+(acid and sugar levels), (2) grape composition influences on market prices, (3) subjective quality evaluations (Parker-points)
+on market prices, and (4) the effects of age of the wine on market prices.
+The results indicate that composition levels ofMerlot-dominated wines are more climate sensitive than those from Cabernet
+Sauvignon-dominated wines. Overall, warm, dry summers result in high sugar and low acid levels at harvest which in turn
+lead to higher quality wines.
+Wine market price sensitivity to Parker-point ratings indicates that properties with high Cabernet Sauvignon-dominated
+wines are highly dependent on the external ratings while Merlot-dominated wines have a decreased rating sensitivity. Smaller
+properties tend to gain over proportionally from high ratings indicating great jumps in price from year to year. Additionally,
+chateaux that have experienced high ratings for past vintages exhibit great sensitivity to point steps in ratings for current
+vintages.
+Aging has a positive effect on Bordeaux wine pricing. This is due to the increasing maturity as well as the increasing
+absolute scarcity. Absolute scarcity of product is expressed by the size of the property, with small properties producing less
+per vintage and therefore having less in the market. Additionally, Merlot-dorninated wines exhibit more maturing potential
+and profit more from aging than Cabernet Sauvignon-dominated wines.
+Average per chateau real annual profit ranges from 1 to 10%. High levels of grape ripeness, absolute scarcity, and smaller
+properties that are dominated by Merlot in their blend lead to the highest profits. Forecasts for a vintage not yet on the market
+indicates that 1995 is better than 1994 for both Cabernet Sauvignon and Merlot-dominated wines, but that 1996 and 1997 are
+not as good as 1995, especially for Merlot-dominated wines.© 2001 Elsevier Science B.V. All rights reserved.
+JEL classification: C31; G 1; Q11
+Keywords: Bordeaux; Wine pricing; Econometric model; Viticulture; Climate
+
+1. Introduction
+*Corresponding author. Tel.: +1-541-552-6758;
+fax: +1-541-552-6439.
+E-mail address: gjones@sou.edu (G.V. Jones).
+
+Wine aficionados' and collectors' interests have
+been raised by the sensational prices which old
+
+0169-5150/01/$- see front matter© 2001 Elsevier Science B.V. All rights reserved.
+PII: SO 169-5150(00)00 1 02-X
+
+116
+
+G.V. Jones, K.-H. Storchmann/Agricultural Economics 26 (2001) 115-133
+
+wines sometimes achieve in auctions. Since many
+of the famous red wines like Chateaux Margaux,
+Mouton-Rothschild, Lafite-Rothschild or Petrus,
+which the average wine consumer has probably not
+experienced, but certainly heard of - this occurs
+especially to Bordeaux wines. The interest of professional investors in Bordeaux wines has increased
+dramatically in the last few decades because the profit
+yielded per year can be tremendous. According to a
+ranking of the best investment-wines of 1996, yields
+of 500% and more are routinely achieved (Bllittel
+and Stainless, 1997). Therefore, the economic literature has begun to examine this theme with the goal
+to recommend appropriate investment strategies and
+portfolios (i.e., Schubert, 1996). In general, these
+recommendations are based on experiences of the
+potential for the development of certain wines and on
+intuitive knowledge of the product. Even with this increasing interest in wine investment, empirical studies
+on wine pricing are still rare. This lack of economic
+assessment is in fact amazing, first, because of the
+wide spread variance of the prices of single chateaux,
+and secondly, in respect to the variance within single
+vintages. For example a bottle of Chateau Cheval
+Blanc from the 1972 vintage is available for less
+than 20US-$, while the 1982 vintage from the same
+chateau costs about 500US-$.
+Two of the rare empirical investigations on this topic
+are those of Combris et al. (1997) and Ashenfelter
+et al. (1995). After estimating a hedonic price function
+for many Bordeaux wines, Combris et al. (1997) come
+to the conclusion that wine prices are rarely caused
+by organoleptic (sensory) characteristics. Although it
+is true that experts, through many tastings, can build
+a complex quality profile for individual chateaux or
+vintages, the information is not overly useful for the
+average consumer since they would not want to repeat
+this procedure. Given that the average consumer only
+has general and sometimes imperfect information on
+quality, label notoriety seems to be much more important. Since Combris et al. (1997) investigated only
+young wines of all quality levels it is difficult to apply
+these results to top Bordeaux wines due to the enormous price variances of different vintages.
+This empirical shortage is remedied by the econometric approach of Ashenfelter et al. (1995). The
+authors developed a panel equation, termed the
+"Bordeaux-equation", which defines the influence of
+
+aging and different weather characteristics on a generalized Bordeaux index. Beside the evaluation of
+particular determinants, this approach also provides a
+relative prediction of prices for wines which are not
+yet on the market but have been sold as futures. It is
+obvious that the generalized Bordeaux-equation, as
+an average index, cannot explain the price of a single
+chateaux' wines with the necessary exactness needed
+in an investment. This problem could be solved in
+general by estimating not a region-wide average index
+but single equations for each chateau. On one hand
+this approach could easily be adopted to help explain
+and forecast prices of single chateau wines. On the
+other hand, the blend of each chateau cannot be neglected since the top wines of Bordeaux are cuvees
+made from different varieties that are expected to
+react in a different way to climatic factors. Therefore,
+it is probable that the quality and prices could also
+be different according to the particular blend. This
+should be taken into account allowing the "objective
+quality" of the single varieties to be estimated separately. However, according to Combris et al. (1997),
+the impact of the wine quality on the price is not compelling since the quality information is not available
+or obvious to the average consumer. This information
+shortage has been remedied by the development of numerous subjective quality point systems and rankings
+in the specialized literature (e.g., Broadbent, 1981;
+Penning-Roswell, 1989; Parker, 1985). Since the hedonic approach assumes that most wine consumers
+consider these rankings in their buying decisions,
+their inclusion in an economic model is warranted.
+Accordingly, the following paper introduces a recursive econometric multi-equation model on Bordeaux
+wine pricing. First, the model quantifies the dependence of Crus Classes prices on climatic influences,
+grape composition, Parker-points, and aging. Second,
+the model allows one to forecast wine prices in order
+to compare achievable market prices and actual future prices. In the first section the general structure of
+the model and the database used to construct it is explained. Next, the climatic influences on wine composition are described for the Bordeaux region. Then the
+recursive model blocks "composition" and "price" and
+the corresponding equation specifications from which
+the adaptability of a simultaneous solution is shown.
+The final section presents model simulations and sensitivity results.
+
+117
+
+G.V. Jones, K.-H. Storchmann/Agricultural Economics 26 (2001) 115-133
+
+Table I
+Prices of selected Bordeaux wines in US-$ per bottle, 199611997"
+Chateau
+
+Beychevelle
+Cheval Blanc
+Cos d'Estournel
+Ducru Beaucaillou
+Grand Puy Lacoste
+Gruaud Larose
+Haut Brion
+Lafite Rothschild
+Latour
+Leoville Barton
+Leoville Las Cases
+Lynch Bages
+Margaux
+La Mission-Haut-Brion
+Montrose
+Mouton Rothschild
+Palmer
+Petrus
+Pichon Comtesse
+Talbot
+Troplong Mondot
+
+Vintage
+1980
+
+1981
+
+1982
+
+1983
+
+1984
+
+1985
+
+1986
+
+1987
+
+1988
+
+1989
+
+1990
+
+1991
+
+1992
+
+1993
+
+1994
+
+13
+32
+14
+19
+16
+IS
+34
+45
+38
+0
+17
+17
+49
+29
+14
+54
+27
+ISS
+
+21
+79
+28
+35
+24
+30
+55
+79
+62
+27
+38
+42
+92
+48
+21
+69
+44
+491
+46
+24
+16
+
+65
+485
+124
+92
+76
+92
+216
+349
+384
+68
+203
+101
+359
+165
+55
+468
+70
+1078
+199
+
+29
+165
+36
+40
+27
+40
+70
+91
+73
+32
+45
+45
+175
+54
+26
+91
+121
+252
+71
+38
+24
+
+22
+31
+20
+21
+10
+13
+35
+43
+39
+13
+17
+17
+43
+22
+21
+51
+21
+139
+19
+12
+12
+
+37
+165
+71
+51
+34
+47
+98
+107
+101
+46
+64
+79
+149
+73
+33
+ISO
+61
+388
+66
+38
+22
+
+39
+114
+68
+51
+32
+58
+100
+179
+105
+42
+94
+57
+192
+66
+42
+334
+51
+331
+90
+49
+27
+
+14
+51
+20
+20
+II
+21
+43
+78
+42
+22
+19
+21
+46
+39
+16
+62
+31
+191
+29
+IS
+0
+
+29
+89
+43
+35
+22
+31
+76
+100
+87
+31
+48
+46
+100
+56
+31
+100
+48
+334
+46
+28
+28
+
+39
+127
+44
+42
+30
+32
+317
+132
+119
+40
+70
+77
+136
+252
+60
+128
+84
+769
+67
+33
+65
+
+31
+302
+
+18
+0
+28
+0
+16
+16
+34
+43
+51
+21
+34
+19
+59
+27
+24
+49
+31
+0
+24
+0
+17
+
+21
+35
+19
+IS
+14
+19
+63
+45
+46
+18
+33
+IS
+38
+24
+18
+48
+24
+206
+26
+IS
+23
+
+17
+52
+24
+0
+19
+25
+55
+56
+56
+24
+39
+26
+73
+30
+21
+73
+29
+228
+29
+IS
+28
+
+20
+0
+34
+34
+22
+21
+77
+77
+97
+33
+45
+32
+76
+0
+31
+79
+31
+417
+39
+26
+36
+
+17
+
+11
+13
+
+72
+
+22
+
+64
+
+43
+42
+31
+167
+176
+362
+51
+94
+64
+342
+114
+176
+146
+64
+849
+63
+27
+95
+
+a Data from Bliittel and Stainless (1997). A value of zero means the wine was not available at auction.
+
+2. Data and methods
+One of the more typical features of great Bordeaux
+wines is their extraordinary longevity. It is through
+maturity, achieved during long storage, that most
+Bordeaux wines develop their typical character. Many
+vintages have life expectancies of several decades and
+have been known to remain viable for over a century. Together, the longevity and the high profit yield
+expectancy, make Bordeaux wines not only a consumption good in great demand but also a desirable
+international speculative good. Hence, the wines of
+many of the chateaux from Bordeaux (many other top
+wines from other regions are represented as well) are
+traded all over the world in established wine auctions.
+This system guarantees, similar to a stock market,
+a comparatively high price transparency. Therefore,
+it can be assumed that auction prices indicate the
+relative (economic) scarcity and therefore the international esteem for those wines. For this analysis,
+the price database refers to all relevant wine auctions
+held worldwide within 1996/1997 and is calculated as
+
+the weighted arithmetic average of all auction prices
+of one wine. 1 To obtain a complete set of data,
+only frequently traded wines are considered in this
+analysis. Therefore, the current investigation is restricted to the vintages 1980-1994 and to 21 chateaux
+(Table 1 gives the price data set used in the analysis). The model is conceived as a pure panel model
+(cross-sectional model) which attempts to explain
+the wine prices of different chateaux and vintages.
+All equations are specified linearly, logarithmically
+or semi-logarithmically, and are estimated with the
+ordinary least square (OLS) technique. The model is
+recursive and consists of two sections: a composition
+and climate section and a price section.
+First it is assumed that climatic variables such as
+precipitation, insolation or temperature determine particular quality features of the grapes- the composition of the raw material. Here, the model distinguishes
+between the two main varieties grown in Bordeaux:
+1 All auction results are to be found in Bliittel and Stainless
+(1997).
+
+G.V. Jones, K.-H. Storchmann!Agricultural Economics 26 (2001) 115-133
+
+118
+
+Climate Influences
+(e.g., temperature, precipitation, etc.)
+
+Wine Price
+
+Parker-Points
+
+Fig. 1. Structure of the econometric model on wine pricing.
+
+Cabernet Sauvignon and Merlot (which account for
+over 80% of grapes grown in the region) and explains
+their specific sugar and acid content at harvest (four
+separate equations). These endogenously determined
+variables are then used as explanatory variables in the
+price section of the model, which ultimately consists
+of21 equations, (i.e., one for every chateau in the analysis). According to the average blend of the particular chateau, the specification of the equation involves
+more Cabernet Sauvignon or more Merlot compositional features. In addition to these exogenous wine
+quality variables, variables for the best known international quality rankings for each chateau, the so-called
+Parker-points (Parker, 1985), and the relative ages of
+the particular wines are included in the equations. The
+complete structure of the model is given in Fig. 1.
+
+2.1. Climate, phenology, and composition
+effects on quality
+Grapevines are a geographically expressive crop,
+being grown in distinct climate regimes worldwide
+that provide the ideal situations to produce high quality grapes. This is nowhere more evident than in
+Bordeaux, a region that is synonymous with some
+of the best wines in the world. While the interactions between the local climate, soil, and site location
+(termed the "terroir' by the French) play a varied
+
+role in the growth and output of the grapevines, the
+general effect of the climate is well known. Mild to
+cool and wet winters followed by warm springs, then
+hot summers with little precipitation produce the best
+wines (see Jones (1997) for a review). Therefore,
+there is an optimum climate regime that contributes
+greatly to the overall quality of a given vintage.
+Occurring as a direct effect of climate, the
+grapevine's growth can be described by its phenological events. Phenology is the study of individual
+physiological events or growth stages of plants or
+animals that recur seasonally in response to climate.
+Understanding the phenology of a given plant system
+is important in determining the ability of a region
+to produce a crop within the confines of its climatic
+regime. From a husbandry viewpoint, knowledge of
+a plant's growth stages is advantageous as cultural
+and chemical practices can be applied at optimum
+times in a plant's annual growth cycle. Additionally,
+information regarding growth stages can be useful
+in estimating crop yields. Vitis vinifera grapevines
+("wine-bearing vines") are a phenologically distinct
+crop with the most important developmental stages
+being debourrement (bud break), fioraison (flowering), veraison (color change and maturation nascent),
+and harvest (grape maturity). 2 The timing of these
+developmental stages is also related to the ability of
+the vine to yield fruit, with early and fully expressed
+(unhindered by extremes of heat or cold, storms, etc.)
+phenological events usually resulting in larger yields
+(Jones, 1997; Mullins et al., 1992). Additionally, the
+phenological timing has been related to vintage quality with early harvests generally resulting in higher
+quality vintages (Ribereau-Gayon and Guimberteau,
+1996).
+Many studies looking at the relationship between
+climate and quality have employed monthly averages
+in temperature and precipitation as the independent
+variables (for a good review see Gladstones, 1992).
+Given that plants do not respond to a calendar division of climate data, and that phenological timing
+and quality are related (Jones, 1997), each vintage
+in the Bordeaux region is divided according to the
+2 For the main red varieties grown in Bordeaux, bud break occurs
+in late March or early April, floraison occurs in early June, veraison
+occurs from mid to late August, and harvest usually commences
+at the end of September or in early October (Jones, 1997).
+
+G.V. Jones, K.-H. Storchmann/Agricultural Economics 26 (2001) 115-133
+
+major phenological events of bud break, floraison,
+veraison, and harvest, thereby creating four stages 3
+based upon the grapevine's annual response to the
+prevailing climate (Jones and Davis, 2000a). This
+allows for a comprehensive analysis of the climatic
+influences on the quality using a physiological approach. Climate variables of precipitation, estimated
+potential evapotranspiration (PET), 4 and the number
+of days with temperatures more than 25 and 30°C are
+summed by day and phenological stage to produce up
+to four independent climate variables per stage that
+could ultimately play a role in quality levels.
+Nearing harvest time, key vintage characteristics
+are the chemical composition of the grapes. Two of
+the chief determinants of crop ripeness are the relative amounts of sugar and acid found in the berries
+leading up to harvest (Mullins et al., 1992). Sugar represents a measure of the potential alcohol content of
+the wine and total acidity is a measure of the fixed
+and volatile acids present in the berries and has a direct influence on wine color, the growth of yeast and
+bacteria, and its pleasing balance with sugars on flavor qualities. During maturation, the levels of these
+two measures generally proceed in opposite directions:
+sugar levels increase and acid levels decline (Amerine
+et al., 1980). Optimum ripeness levels of sugar and
+acid vary by variety and region but should range between 165-230 g/1 of sugar and 3-9 g/1 of total acidity (Winkler et al., 1974). In general, relatively high
+sugar levels produce better quality while high acid levels produce lower quality (Ribereau-Gayon and Guimberteau, 1996; Jones and Davis, 2000b). Ideally, there
+exists a ratio of sugar to acid that determines proper
+ripeness and quality potential.
+Daily climate data of maximum temperature, minimum temperature, and precipitation for the Bordeaux station for 1949-1997 are obtained from
+METEO-France (1998). The climate data are divided
+3 For the remainder of this analysis, each of the four stages will
+be represented by D = the dormant stage (harvest of one year
+to bud break of the next), B = the bud break stage (bud break
+to floraison), F = the floraison stage (flowering to veraison), and
+V = the veraison stage (veraison to harvest).
+4 The PET variable is equal to the sum of the average temperatures I: (Tmax - Tmin)/2 minus precipitation. It is a derived
+temperature-related variable that has been used to study the elimate/viticulture relationship. It is referred to as the Ribereau-Gayon
+and Peynaud Index.
+
+119
+
+by the mean phenology of the grapevines 5 from reference vineyards observed by Ribereau-Gayon and
+Guimberteau (1996, pers. commun.). Composition
+values (acid and sugar levels) for Cabemet Sauvignon
+and Merlot grapes for 1970-1997 are also supplied by
+Ribereau-Gayon and Guimberteau (1996). Acid and
+sugar levels are measured at the reference vineyards
+prior to harvest and are averaged to obtain a single
+value for each vintage and variety. Table 2 shows
+the values for the significant climate variables in the
+analysis and grape composition for the years used in
+the analysis.
+The estimated equations for the climate effects on
+Cabemet Sauvignon and Merlot grape composition are
+shown in Table 3. Cabernet Sauvignon sugar levels
+are influenced by precipitation throughout the growing
+season. Too much early season precipitation (BPREC)
+has a negative effect by delaying growth and late season precipitation (FPREC and VPREC), especially
+during the ripening period, has a negative impact by
+possibly diluting the berries and producing lower relative sugar levels. Also many days of warm temperatures during floraison would mean that the grapes ripen
+rapidly and to a higher degree. Increased precipitation
+over the growing season increases the Cabernet Sauvignon acid levels and results in unripe grapes. On the
+other hand, warm and dry conditions, especially from
+flowering to harvest, allow the acid levels to decline
+and the grapes to become ripe. A similar set of climate influences on Merlot grape composition is seen
+with warm and dry periods of growth providing higher
+sugar levels while wetter periods coincide with higher
+acid levels.
+
+2.2. Wine prices
+The price of a wine is determined by many different factors. One of the more important factors is
+an assumption that the value of a wine is greater the
+older it is. For the majority of wines this generalized
+assumption is actually not correct. Only outstanding
+wines, to which it can be argued that all of the wines
+5 The dates of floraison, veraison, and harvest are supplied by
+Ribereau-Gayon and Guimberteau (1996, pers. commun.) and the
+dates of bud break are estimated from climate data with bud growth
+considered to occur when the mean daily temperature is above
+10°C for five consecutive days (Mullins et al., 1992; Jones, 1997).
+
+-
+
+}:5
+
+Table 2
+Significant phenological stage climate variables and grape composition: 1980-1995"
+
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+
+0
+
+DPET
+
+BPET
+
+BPREC
+
+FPET
+
+FPREC
+
+FTEMP25
+
+VPET
+
+VPREC
+
+VTEMP25
+
+VTEMP30
+
+CABACID
+
+CABSUG
+
+MERACID
+
+MERSUG
+
+1008
+760
+1096
+1345
+967
+892
+1022
+984
+1028
+1732
+863
+741
+896
+1060
+1190
+1082
+
+780
+1062
+732
+707
+724
+786
+757
+899
+963
+732
+1201
+1116
+1005
+945
+989
+1076
+
+216
+204
+129
+220
+195
+230
+103
+111
+237
+198
+128
+222
+258
+218
+312
+276
+
+1198
+1283
+1168
+1306
+1199
+1089
+1220
+1112
+1211
+1331
+1364
+1254
+1078
+1099
+1243
+1376
+
+120
+81
+159
+114
+75
+123
+31
+117
+118
+79
+98
+115
+324
+170
+111
+80
+
+30
+27
+33
+45
+38
+26
+41
+24
+34
+49
+36
+41
+34
+36
+43
+48
+
+577
+752
+814
+681
+544
+871
+651
+932
+842
+824
+951
+792
+697
+675
+730
+692
+
+128
+116
+55
+92
+261
+14
+146
+153
+53
+60
+74
+179
+167
+242
+166
+117
+
+14
+23
+25
+18
+11
+29
+18
+28
+18
+29
+36
+33
+19
+19
+21
+19
+
+2
+3
+6
+3
+2
+11
+3
+14
+5
+3
+11
+12
+4
+6
+6
+9
+
+5.9
+5.1
+4.6
+5.2
+6.0
+4.6
+4.3
+4.9
+4.6
+4.7
+3.8
+4.8
+6.9
+5.6
+5.0
+4.0
+
+179
+186
+200
+195
+185
+200
+199
+176
+191
+205
+199
+183
+168
+175
+193
+194
+
+5.3
+4.5
+4.3
+4.2
+5.6
+4.3
+4.1
+4.1
+4.0
+3.3
+3.2
+4.3
+5.7
+5.0
+3.7
+3.5
+
+196
+196
+212
+206
+195
+220
+208
+196
+211
+232
+220
+195
+176
+186
+207
+223
+
+:<::
+~
+;:,
+
+·"'"'
+
+~
+
+~
+
+"'
+
+Ci'
+~
+
+;:,-
+
+;;
+
+"';:,;:,
+
+':0.
+::1.
+
+""
+
+"
+
+"
+1!
+~
+~
+()
+
+;:,
+()
+
+;;
+r;·
+
+"'
+
+"'
+
+~
+
+Where DPET: potential evapotranspiration for the Dormant stage in millimeter, BPET: potential evapotranspiration for the Bud break stage in millimeter, BPREC:
+precipitation for the Bud break stage in millimeter, FPET: potential evapotranspiration for the Floraison stage in millimeter, FPREC: precipitation for the Floraison stage
+in millimeter, FTEMP25: the number of days with temperatures greater than 25°C during the Floraison stage, VPET: potential evapotranspiration for the Veraison stage
+in millimeter, VPREC: precipitation for the Veraison stage in millimeter, VTEMP25: the number of days with temperatures greater than 25°C during the Veraison stage,
+FTEMP30: the number of days with temperatures greater than 30°C during the Floraison stage, CABACID: acid levels for Cabernet Sauvignon in g/1, CABSUG: sugar
+levels for Cabernet Sauvignon in g/1, MERACID: acid levels for Merlo! in g/1, MERSUG: sugar levels for Merlo! in g/1 (for brevity, only those climate variables that are
+statistically significant in the composition models are shown).
+a
+
+"N
+a
+a
+......
+~
+
+......
+......
+
+Y'......
+""'""'
+
+G. V. Jones, K.-H. Storchmann/Agricultural Economics 26 (2001) 115-133
+
+121
+
+Table 3
+Climate and phenology influences on sugar, and acid for Cabernet Sauvignon and Merlot: equations and statistical tests•
+Independent variables
+
+Dependent variables (g/1)
+CABSUG
+
+CAB ACID
+
+DPET
+BPET
+BPREC
+
+1260.4(1/x)
+(2.61)
+
+MERSUG
+
+MERACID
+
+19.64log(x)
+(3.11)
+
+1265.2(1/x)
+(6.97)
+
+1014.0(1/x)
+(3.78)
+0.8llog(x)
+(6.84)
+
+FPET
+FPREC
+FfEMP25
+
+-0.06x
+(4.32)
+-926.2(1/x)
+(6.07)
+
+0.007x
+(8.99)
+-1.08log(x)
+(4.91)
+
+-0.09x
+(5.76)
+-442.53(1/x)
+(2.03)
+
+-2.01log(x)
+(5.98)
+
+VPET
+VPREC
+
+-11.0 log(x)
+(9.84)
+
+0.48log(x)
+(7.26)
+
+VTEMP25
+
+Test statistics
+S.E.
+R2
+
+-11.15log(x)
+(6.48)
+0.52x
+(3.10)
+
+1.82 (1/x)
+(4.69)
+
+VTEMP30
+CONSTANT
+
+5115.9(1/x)
+(8.13)
+0.48log(/x)
+(4.35)
+
+267.8
+(34.22)
+3.30
+0.931
+
+0.154
+0.974
+
+132.0
+(2.49)
+
+2.07(1/x)
+(5.31)
+9.35
+(3.87)
+
+3.92
+0.952
+
+0.130
+0.980
+
+• Model calculations: time 1980-1994, T-ratios in parentheses, and variables as described in Table 2.
+
+investigated in this study certainly belong, are able to
+profit from increased aging. The reasons for this are:
+• On one hand, the aging potential is caused by the
+slow development to maturity for many of the top
+wines from Bordeaux. In its youth Bordeaux wines
+are characterized by an extremely high content of
+tannins. In this state these wines are astringent and
+not yet ready for drinking. But with increasing storage, generally 10 years or more, the tannins and astringency are reduced and the wine becomes more
+pleasing to the palate. This optimum drinking condition can last several decades before the quality
+begins to decline.
+• On the other hand, the available stock of a particular wine will decrease over time as it ages (i.e.,
+the product is consumed and the absolute scarcity
+increases). Therefore, in the price equations a variable T (trend) is included that could be interpreted
+
+as a constant linear retirement function of a certain
+(distinct) initial stock. It is true that data of absolute production could give useful additional information, but these data are not publicly available in
+the necessary detail.
+• Additionally, the aging of a wine expresses storage
+costs and opportunity costs (costs of tying down
+capital as well as borrowing on credit).
+Given the decline in available product, a continuously linear increasing variable T (trend) is incorporated into the model. The trend variable starts with
+1994 = 1 and ends with 1970 = 25, allowing for
+the evaluation of the effect of aging and scarcity on
+wine prices. Generally, the wine p1ice of a respective
+chateau (Pi) would be expected to be correlated positively with Ti, for example:
+(1)
+
+122
+
+G. V. Jones, K.-H. StorchmannlAgricultural Economics 26 (2001) 115-133
+
+where Si denotes the stochastic error term. Here it is
+especially emphasized that Ti is not to be interpreted
+as an element of a time series model, but that it only
+expresses different features of the wines (i.e., the state
+of aging).
+Furthermore, it is assumed that the wine price is
+correlated positively with the relative composition of
+the grapes. The price equation is referenced to the calculated sugar and acid equations given in the prior
+section. According to the results, it can be assumed
+that high sugar values have positive effects on wine
+prices and that high acid values have a negative influence on the wine prices. 6 Hence the specification has
+the following form:
+
+(2)
+Except some wines from the Pomerol region, Bordeaux Cru Classes 7 are blends of different varieties.
+Overall, Cabemet Sauvignon and Merlot are the
+main varieties grown in the region but other varieties
+such as Cabemet Franc, Petit Verdot, and Malbec
+are planted to varying degrees throughout the region.
+Although the shares of the single varieties used in
+the wines vary from vintage to vintage, the varietal
+priorities of the individual chateaux can be seen in
+the area devoted to growing the different varieties
+(Table 4). Hence, chateaux with Cabemet Sauvignonand Merlot-dominated wines can be distinguished
+from one another and are considered in the specification of the price equations.
+The international wine press regularly publishes
+quality ratings and continually updates them as long
+as the wine remains available on the open market.
+Although these ratings are influenced by personal subjective preferences (wine styles and varietal composition), and do not lay claim to measurable objectivity,
+6 On the influence of taste and chemical attributes of wine and
+their impact on consumption see Nerlove (1995) and Schneider
+(1996).
+7 For the western part of the Bordeaux area, the Medoc, a fivestage classification was introduced in 1855, which has mainly
+remained the same. The list of Crus Classes includes 61 CMteaux.
+The five Premier Cru Classes are CMteaux Haut Brion, LafiteRothschild, Latour, Margaux and, since 1973, Mouton-Rothschild.
+In the second half of this century, classifications for the regions of
+Graves and St. Emilion have been introduced. A new classification
+according to the ancient method was undertaken by Ashenfelter
+(1997).
+
+they are, however, able to deliver information regarding the current state and the development potential of
+single wines. Of the many wine writers, the most well
+known and influential is Robert M. Parker. His ratings,
+based on a 100-point system, are widely used within
+the industry as a gauge of relative quality. It must
+be emphasized that once a vintage is given a point
+rating, it is not permanently fixed, but is regularly
+checked for quality changes at new tastings and, if
+necessary, corrected. 8 However, since Parker-points
+are orientated at the future potential of a wine, normal
+aging does not affect the rating. Hence, Parker-points
+do not cover the influence of the trend variable T.
+To obtain a single value for each vintage and for
+each chateau, the following calculations are based on
+the current Parker-point ratings from 1994/1995 as
+given in Table 5. The high influence of Parker-points
+on purchasing patterns and wine prices is undisputed
+(e.g., see Kiihler and Kiihler, 1995; Ashenfelter and
+Jones, 2000), and can be recognized by the "shooting
+stars" chateaux which were "discovered" by Parker.
+Therefore, the price function can be extended by a
+variable called PT (Parker-points)
+
+In the case where wines of particular vintages were
+not traded (e.g., the Cheval Blanc of 1991), a dummy
+variable is included in the equation. Dummy variables
+can also reveal erratic items like a change of an owner
+or cellarmaster, modernization of production facilities,
+etc., whose influence could not be described sufficiently by the introduced variables. This occurs especially to the vintage 1982. The extreme high auction
+prices cannot be explained for all chateaux sufficiently
+by age, sugar and acid values, and Parker-points.
+Therefore, for this year a dummy variable is introduced under the assumption that only a small
+amount of product is available on the open market.
+Additionally, determinants which are time-invariant,
+such as slope, aspect, soil (i.e., Pomerol, 1989) or
+Cru-classification, etc. generally do not cause annual
+quality variations, but mainly determine the price
+level and are included in the equation by a constant.
+8 Spectacular devaluations occur often in the re-evaluation of the
+vintages. For instance the CMteau Mouton-Rothschild and Chateau
+Latour from 1979 suffered a downgrading from 85 to 72 and from
+90 to 85 points, respectively. See Kiihler and Kiihler (1995).
+
+G. V. Jones, K.-H. Storchmannl Agricultural Economics 26 (2001) 115-133
+
+123
+
+Table 4
+Shares of varieties for selected chiiteaux (%) of planted area•
+Chateau
+
+Region
+
+Area (ha)
+
+Cabernet
+Sauvignon
+
+Merlot
+
+Cabernet Franc
+
+Beychevelle
+Cheval Blanc
+Cos d'Estournel
+Ducru Beaucaillou
+Grand-Puy-Lacoste
+Gruaud-Larose
+Haut Brion
+Lafite Rothschild
+Latour
+Leoville Barton
+Leoville Las Cases
+Lynch Bages
+Margaux
+La Mission Haut Brion
+Montrose
+Mouton Rothschild
+Palmer
+Petrus
+Pichon Comtesse
+Talbot
+Troplong Mondot
+
+St.-Julien
+St.-Emilion
+St.-Estephe
+St.-Julien
+Pauillac
+St.-Julien
+Pessac-Leognan
+Pauillac
+Pauillac
+St.-Julien
+St.-Julien
+Pauillac
+Margaux
+Pessac-Leognan
+St.-Estephe
+Pauillac
+Margaux
+Pomerol
+Pauillac
+St.-Julien
+St.-Emilion
+
+71
+35
+64
+49
+44
+81
+45
+89
+59
+40
+84
+75
+84
+20
+67
+74
+44
+11.5
+60
+99
+30
+
+72
+0
+50
+65
+70
+63
+
+25
+33
+40
+25
+25
+25
+25
+20
+10
+15
+17
+15
+20
+35
+30
+5
+40
+95
+35
+20
+65
+
+2
+66
+10
+
+55
+70
+80
+70
+65
+70
+75
+60
+65
+85
+45
+0
+45
+70
+10
+
+Petit Verdot
+
+Malbec
+
+0
+0
+0
+5
+5
+3
+0
+5
+5
+
+5
+0
+9
+20
+5
+5
+7
+13
+10
+5
+5
+5
+10
+5
+5
+12
+5
+15
+
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+
+8
+5
+5
+0
+0
+0
+0
+10
+0
+
+8
+5
+0
+
+• According to Parker (1985).
+Table 5
+Parker-points of selected Bordeaux wines (1995)"
+Chateau
+
+Beychevelle
+Cheval Blanc
+Cos d'Estournel
+Ducru Beaucaillou
+Grand-Puy-Lacoste
+Gruaud-Larose
+Haut Brion
+Lafite Rothschild
+Latour
+Leoville Barton
+Leoville Las Cases
+Lynch Bages
+Margaux
+La Mission Haut Brion
+Montrose
+Mouton Rothschild
+Palmer
+Petrus
+Pichon Comtesse
+Talbot
+Troplong Mondot
+
+Vintage
+1980
+
+1981
+
+1982
+
+1983
+
+1984
+
+1985
+
+1986
+
+1987
+
+1988
+
+1989
+
+1990
+
+1991
+
+1992
+
+1993
+
+1994
+
+0
+80
+83
+74
+0
+80
+0
+83
+83
+83
+75
+78
+89
+72
+72
+74
+72
+85
+84
+82
+0
+
+83
+90
+83
+90
+80
+
+92
+100
+97
+94
+92
+97
+93
+100
+98
+93
+100
+93
+99
+95
+88
+100
+
+85
+94
+85
+87
+86
+90
+87
+92
+87
+86
+90
+89
+96
+90
+81
+91
+97
+
+79
+0
+84
+79
+75
+83
+0
+84
+84
+84
+84
+84
+87
+82
+77
+85
+82
+87
+86
+82
+73
+
+87
+90
+95
+91
+
+92
+93
+95
+94
+90
+97
+92
+99
+91
+92
+97
+92
+96
+90
+91
+100
+89
+89
+96
+96
+89
+
+78
+85
+83
+83
+76
+84
+87
+87
+86
+85
+87
+82
+86
+87
+
+84
+87
+87
+
+91
+88
+89
+90
+89
+88
+100
+92
+90
+88
+95
+96
+90
+99
+95
+89
+96
+98
+92
+
+85
+95
+90
+89
+90
+88
+94
+94
+98
+95
+94
+93
+100
+92
+100
+87
+87
+100
+87
+85
+94
+
+85
+0
+87
+86
+87
+85
+86
+86
+89
+87
+87
+86
+88
+87
+85
+86
+87
+0
+89
+72
+85
+
+81
+77
+
+77.5
+86
+89
+91
+88.5
+89.5
+92
+91.5
+91
+89
+92
+87
+92
+91
+87.5
+91
+87.5
+93
+89
+86.5
+91
+
+83.5
+88
+90.5
+92
+89
+86.5
+93
+
+88
+85
+93
+
+88
+84
+
+88
+85
+90
+90
+84
+84
+81
+87
+89
+85
+79
+
+88
+97
+99.5
+94
+81
+
+88
+94
+90
+
+0
+
+88
+90
+91
+87
+87
+92
+92
+92
+91
+92
+85
+92
+87
+89
+90
+89
+87
+
+0
+89
+86
+87
+87
+85
+0
+
+88
+85
+89
+91
+94
+89
+
+88
+92
+90
+
+88
+90
+83
+89
+87
+94
+90
+89
+89
+
+a According to Klihler and Kiihler (1995). A value of zero represents a non-traded wine.
+
+88
+91
+
+88
+87
+86
+86
+90
+89
+
+88
+87
+90
+86
+89
+89
+87
+
+88
+84
+90
+79
+86
+89
+
+88
+94
+89
+93.5
+89
+91.5
+93
+92.5
+91
+88
+92
+92.5
+86
+93.5
+
+124
+
+G.V. Jones, K.-H. Storchmann!Agricultural Economics 26 (2001) 115-133
+
+All estimated price equations for the 21 selected
+chateaux are given in Table 6. The results reveal that
+wine prices react with great sensitivity to variations
+in the sugar/acid ratio as well as Parker-points. Therefore, both variables are included in a polynomial form
+in the function and cause above average elasticities regarding changes of the independent variable. Hence,
+the effects of an increase of Parker-points from 94 to
+95 are clearly much higher than those caused by an
+increase from 84 to 85. The same can be seen for
+the sugar/acid ratio (which is often used to evaluate
+ripeness). Additionally, wine prices tend to increase
+with aging and, except for Chateau Petrus and Talbot,
+the trend variable (T) was introduced in a linear form
+in the equations. Finally, all equations contain one or
+two dummy variables which indicate either corrections
+for the previously mentioned very high 1982 prices,
+missing data of single vintages, or some other change
+with which data are not available.
+
+for this study, the Cheval Blanc equation was specified
+as a Merlot equation. However, for the overall results,
+the MAPE-values in the range 7-26% are to be judged
+against the background of the extremely high volatility of the dependent variables. Hence the percentage
+deviations are naturally high when the explained variable, the wine price, fluctuates near zero, although
+the adjustment of the equation is quite satisfactory. In
+those cases the explanatory power of the MAE and the
+RMSE is higher and, compared to the dimension of
+the dependent variable, these tests are more moderate.
+The MEAN ratio indicates that the variables scarcely
+are under- or over-estimated. An underestimation of 5
+US-$/bottle in the case of Chateau Mouton Rothschild
+would appear, against the background of the dimension of its prices, to be negligible.
+In Fig. 2 the adjustments of the model for sugar and
+acid values as well as for the wine prices for a sample
+Sugar values Cabemet Sauvignon
+,----in::...g/1_ _ _-, 210
+
+Acid values Cabemet Sauvignon
+in gil
+
+2.3. Model validation
+
+200
+
+To evaluate the quality of an econometric model
+the properties of the model and its explanatory power
+should be checked by several statistical tests. Important indications can be gained from a comparison between the actual data and a simultaneous
+"ex-post"-solution of the model. From the numerous test statistics available, those employed in this
+research are:
+• the mean error, MEAN= *L:?=r CYi - Yi),
+• the mean absolute error, MAE= *L:?=l I.Yi - yi[,
+• the root mean square error,
+RMSE = *)L?=r (Yi• the mean absolute percentage error,
+MAPE = !nL...z=i
+"'! Iji;-y;
+I•
+y;
+Yi) 2 ,
+
+The statistics above are examined to evaluate the quality of the complete wine price model. The test results,
+as assembled in Table 7, show a satisfactory improvement over the observed data, especially in respect to
+the sugar and acid values, while the MAPE for the
+wine prices is much higher. This is especially true for
+Chateau Cheval Blanc, which has a 26% mean absolute percentage error. This large MAPE can mainly be
+attributed to the high share of Cabernet Franc in its
+blend. Since Cabernet Franc data were not available
+
+190
+180
+170
+
+h-r-rTTTT...-r.,-,.,-,-rl
+
+160
+
+Acid values Merlot
+in gil
+
+220
+200
+180
+
+Price Chateau Cheval Blanc
+500 ,-.,.·--'"'-.n""$/bo""tt""1e_ _- - ,
+
+400
+
+300
+
+300
+
+200
+
+200
+100
+
+100
+
+Price Chiteau Margaux
+400,---'~·n=$/bo=tt=1e_ _- - ,
+
+Price Ch&teau Mouton-Rothschild
+.---"'-in""$/bo""tt""1e'----. 500
+
+:lvJl_ ~~
+1980
+
+1985
+
+-actual
+
+1990
+
+1994 1980
+
+1985
+
+1990
+
+1994
+
+---- estimated
+
+Fig. 2. A graphical analysis of a simultaneous ex-post solutions
+for 1980-1994. A comparison between actual and estimated values
+for selected variables.
+
+Table 6
+Wine prices and its determinants CABSUG
+PXBARTON
+PXBEYCHE
+
+equations and test statisticsa
+CABACID
+
+MERSUG
+
+MERACID
+
+-2.1lx
+(10.57)
+
+18 )1"
+
+6.1(10
+(8.32)
+0.0001x'
+(13.34)
+
+1.2(10~ 7 )(SUG/ACID) 5
+
+PXCHEVAL
+
+(6.94)
+PXCOMTES
+PXCOSDES
+log(PXDUCRU)
+PXGRUAUD
+PXHBRION
+
+-68.4log(x)
+(8.51)
+0.018(SUG/ACID) 2
+(8.64)
+2.0(10~ 7 )x'
+-0.0068x'
+(4.14)
+(1.72)
+7
+16
+5.3(10~ )x
+-13.7log(x)
+(1.47)
+(5.94)
+
+O.OOlx'
+(3.54)
+
+PXLACOST
+PXLAFITE
+
+1.7(10~ 5 )(SUG/ACID) 4
+
+PXLASCAS
+
+(7.54)
+2.47(SUG/ACID)9
+(6.87)
+
+5.1(10~ 7 )(SUG/ACID) 5
+
+Log(PXMBRION)
+
+1.4(10~ 7 )(SUG/ACID) 4
+
+7.7(10~ 17 )x 9
+
+(11.38)
+1.5(10~ 16 )x 9
+
+(4.98)
+1.1(10~ 14 )x 8
+
+(8.26)
+9.49x
+(7.61)
+2.8(10~ 18 )x 9
+
+(12.91)
+4.8(10~ 17 )x 9
+
+5.2(10~ 6 )(SUG/ACID) 4
+
+(4.54)
+
+(3.28)
+
+1.5(10~16)1'
+
+4.49(1/x)
+(21.74)
+
+(3.50)
+0.0001(SUG/ACID)3
+(4.54)
+0.0015(SUG/ACID)3
+(6.20)
+
+PXPALMER
+PXPETRUS
+
+PXTROPLO
+
+5.0(10~ 15 )x 8
+
+6.7(10~ 9 )x'
+
+-11.9log(x)
+(7.32)
+
+(10.04)
+3.3(10~ 10 )(SUG/ACID) 6
+
+(7.53)
+a
+
+(3.97)
+0.0014x'
+(1.81)
+0.8lx
+(5.52)
+
+(5.16)
+
+(6.59)
+
+(4.76)
+
+2.4(10~ 4 )x6
+
+(5.25)
+
+9.4(10~ 17 )x9
+
+(9.96)
+
+PXTALBOT
+
+4.9(10~ 8 )x5
+
+3.6(10~ 13 )x 7
+
+(8.71)
+
+PXMARGAU
+
+5.7(10~ 19 )1'
+
+(4.06)
+
+(6.32)
+
+1.2(10~16)x'
+
+(14.36)
+0.0077(SUG/ACID) 2
+(2.20)
+
+(4.15)
+
+1.7(10~ 12 )x7
+
+7.8(10~ 9 )r5
+
+2.3(10~ 10 )(SUG/ACID) 7
+
+6.0(10~ 17 )x 7
+
+(3.17)
+0.0129x
+(1.43)
+-31.3(1/x)
+(0.97)
+1.71x
+(3.89)
+lAx
+(6.79)
+0.038x
+(4.62)
+0.68x
+(2.84)
+1.79x
+(4.79)
+0.87x
+(6.96)
+0.91x
+(1.45)
+0.49x
+(1.95)
+1.3x
+(1.93)
+1.47x
+(5.26)
+2.09x
+(2.65)
+0.06x
+(6.47)
+0.67x
+(2.81)
+-0.29(1/x)
+(1.37)
+1.47x
+(4.39)
+
+(9.08)
+
+(5.48)
+
+Log(PXMOUTON)
+
+2.27x
+(201.18)
+O.OOOlx'
+(2.68)
+
+17.15 D82
+(4.91)
+0.53 D82
+(3.89)
+283.95 D82
+(8.15)
+88.05 D82
+(8.77)
+45.9 D82
+(9.62)
+-3.12 D91
+(22.37)
+29.99 D82
+(11.46)
+110.2 D82
+(9.96)
+38.0 D82
+(11.64)
+181.8 D82
+(12.18)
+103.25 082
+(14.99)
+194.14 082
+(12.41)
+32.0 D82
+(6.52)
+134.81 082
+(8.12)
+-0.33 081
+(2.3)
+85.16 D90
+(9.89)
+0.46 082
+(1.93)
+18.80 082
+(2.53)
+533.26 082
+(7.82)
+23.76 D82
+(6.94)
+-10.38 D87
+(2.22)
+
+(10.94)
+
+1.0(10~ 9 )(SUG/ACID) 6
+
+PXMONTRO
+
+Dummy
+
+0.0002x4
+
+(7.11)
+-23842(1/ x)
+(9.34)
+0.0003x'
+(5.50)
+
+1.6(10~ 12 )(SUG/ACID)'
+
+PXLYNCH
+
+T
+
+1.5(10~ 7 )x4
+
+(7.86)
+
+PXLATOUR
+
+PT
+
+4.7(10~ 17 )x9
+
+(8.64)
+
+Dummy
+
+Constant
+
+S.E.
+
+R'
+
+-170.47
+(128.57)
+
+3.09
+
+0.978
+
+0.12
+
+0.946
+
+26.1
+
+0.974
+
+6.89
+
+0.984
+
+Cl
+;:s
+
+3.56
+
+0.987
+
+·"'
+
+0.13
+
+0.993
+
+:l:
+
+3.86
+
+0.975
+
+0.52 D92
+(4.11)
+-145.88 D89
+(5.83)
+61.71 D92
+(5.85)
+
+0
+
+:<:::
+(\>
+
+272.04
+(9.00)
+-3.07 D93
+(18.58)
+
+~
+
+"'0
+
+;j
+
+165.5 D89
+(14.72)
+
+-56.34 086
+(5.93)
+19.41 D85
+(3.79)
+
+9.62
+
+;:,..
+
+;:;
+
+;;::,
+;:s
+
+-2.18 XL
+(1.37)
+
+3.01
+
+0.974
+
+12.6
+
+0.981
+
+5.72
+
+0.989
+
+8.56
+
+0.996
+
+4.49
+
+0.981
+
+"
+:..
+
+-.....
+
+"";;..~E"
+
+~
+~
+
+c;:s
+c
+
+;:;
+
+r;·
+
+-821.7
+(7.51)
+1.95
+
+13.6
+
+0.986
+
+"'N
+
+0.13
+
+0.993
+
+w
+a
+
+(14.44)
+
+5.82
+
+0.982
+
+-::::
+
+0.18
+
+0.955
+
+......
+......
+
+7.49
+
+0.947
+
+<-.,
+<-.,
+
+64.1
+
+0.967
+
+2.83
+
+0.982
+
+4.30
+
+0.976
+
+50.40 D83
+(10.82)
+-173.68
+(3.33)
+
+29.41 D90
+(5.56)
+
+0.987
+
+0\
+
+a
+
+Y'......
+
+Model calculations: 1980-1984, T-ratio in parentheses.
+
+;::;
+V1
+
+126
+
+G.V Jones, K.-H. Storchmann/Agricultural Economics 26 (2001) 115-133
+
+Table 7
+Test statistics of a simultanous solution of the wine price modela
+Model
+
+Variable
+
+MEAN
+
+MAE
+
+RMSE
+
+MAPE
+
+CABACID
+CABSUG
+MERACID
+MERSUG
+PXBARTON
+PXBEYCHE
+PXCHEVAL
+PXCOMTES
+PXCOSDES
+PXDUCRU
+PXGRUAUD
+PXHBRION
+PXLACOST
+PXLAFITE
+PXLASCAS
+PXLATOUR
+PXLYNCH
+PXMARGAU
+PXMBRION
+PXMONTRO
+PXMOUTON
+PXPALMER
+PXPETRUS
+PXTALBOT
+PXTROPLO
+
+Acid values - Cabernet Sauvignon
+Sugar values - Cabernet Sauvignon
+Acid values - Merlo!
+Sugar values - Merlo!
+Leoville Barton
+Beychevelle
+Cheval Blanc
+Pich. Longueville Comtesse de Lalande
+Cos d'Estonrnel
+Ducru Beaucaillou
+Gruaud-Larose
+Haul Brion
+Grand-Puy-Lacoste
+Lafite Rothschild
+Leoville Las Cases
+Latour
+Lynch Bages
+Margaux
+La Mission Haut Brion
+Montrose
+Mouton Rothschild
+Palmer
+Petrus
+Talbot
+Troplong Mondo!
+
+0.00
+-0.10
+0.00
+0.00
+-0.10
+-0.60
+-1.71
+0.02
+0.28
+-1.09
+0.01
+0.66
+0.20
+-0.17
+0.59
+0.47
+0.17
+0.14
+2.09
+0.05
+-5.10
+-0.01
+-2.73
+-0.06
+-0.72
+
+0.10
+2.19
+0.08
+2.46
+2.54
+1.92
+19.28
+4.05
+2.74
+4.46
+2.45
+7.82
+2.30
+8.65
+3.49
+10.47
+2.96
+10.27
+9.17
+4.13
+14.71
+5.16
+51.84
+2.77
+2.77
+
+0.12
+2.80
+0.11
+3.03
+2.96
+2.77
+22.90
+5.97
+3.53
+9.03
+3.12
+9.12
+2.74
+11.27
+4.69
+13.51
+3.92
+13.88
+14.26
+6.02
+22.42
+6.32
+61.22
+3.03
+3.65
+
+1.98
+1.16
+1.91
+1.21
+10.29
+7.08
+26.35
+10.98
+9.38
+8.80
+10.01
+15.04
+13.25
+11.29
+11.15
+13.08
+11.55
+9.44
+10.69
+12.87
+13.74
+14.28
+17.95
+11.93
+10.75
+
+a Model calculations: PX stands for wine price and is followed by an abbreviation of the chateau in the model.
+
+of four chateaux are shown. Overall the model is able
+to reflect the actual data very well. Even for problematic cases, like Chateau Cheval Blanc, the explanatory
+power of the model falls within an acceptable range.
+
+3. Sensitivity analysis
+In the model introduced in this analysis, the influence of single determinants on the wine price can
+be isolated and evaluated. One of the advantages of
+an econometric model, in contrast to intuitive methods, is that in the scope of sensitivity analysis a variation of one of these determinants can be simulated
+as well as the impacts quantified. Since the model is
+cross-sectional, only the average effect of these factors
+on the wines of different vintages for single chateaux
+can be calculated. Therefore, with the model, it is not
+possible to predict the development of prices of one
+single wine, for instance the Chateau Cheval Blanc
+
+1982. For this purpose a time series model would be
+necessary, which explains the development of the price
+of one single wine over a long period of time, not
+only by the characteristics of the wine itself, but also
+by economic benchmark data and their inter-temporal
+variations. However, in the scope of the model introduced in this analysis, it is possible to quantify the
+impact on average prices for all wines of a given year
+(here 199611997) and for single chateaux, by the variation of one or several exogenous variables. Hence,
+the influence of climatic determinants, Parker ratings,
+and the impact of aging can be quantified.
+3.1. Climate sensitivity
+As described earlier, the main varieties of the Bordeaux wines are characterized by different climatic influences. Accordingly, one purpose of blending wines
+is to balance the disadvantages resulting from weather
+conditions of a particular vintage which in turn affect
+
+G.V Jones, K.-H. Storchmann/Agricultural Economics 26 (2001) 115-133
+
+Table 8
+Climate sensivity of Cabernet Sauvignon and Merlot a cooler and moister ripening perioda
+Change (gil)
+Cabernet
+Merlot Cabernet
+Merlot -
+
+Sauvignon sugar
+Sauvignon acid
+
+sugar
+acid
+
+-2.46
+-5.47
+0.25
+0.75
+
+impact of
+
+Change(%)
+-1.31
+-2.68
+4.99
+17.29
+
+a Model simulation calculations. VPET, VTEMP25, and
+VTEMP30 are each reduced by 25%. VPREC is increased by 25%.
+
+127
+
+In comparison, price decreases for typical Cabernet Sauvignon-dominated wines like Haut Brion
+(-5.3%) or Mouton-Rothschild (-8.6%) are noticeably less. Although Merlot-dominated wines are
+clearly under-represented among the investigated
+wines, Fig. 3 shows that with increasing Cabernet
+Sauvignon shares planted (Table 4), the compensating character of that variety becomes obvious and
+therefore the price sensitivity decreases.
+3.2. Parker-point sensitivity
+
+the ripeness of the different vanetles (Kiihler and
+Kiihler, 1995). Since the weather during the ripening
+period plays an important role in the grape quality, a
+model simulation of the influence of a cooler, wetter period from veraison to harvest on sugar, acid,
+and price is evaluated. In this scenario the exogenous variables VPET (a measure of overall heat and
+dryness), VTEMP25, and VTEMP30 were reduced
+by 25% (which could easily occur within the normal
+climate variability), while VPREC was assumed to
+be 25% higher (see Table 2 for abbreviations). The
+results of this simulation reveal that sugar and acid
+values of Merlot are much more sensitive in respect
+to variations in veraison stage climate as is Cabernet
+Sauvignon (Table 8). Due to the simulated poorer
+veraison stage climate conditions, the sugar values
+for Cabernet Sauvignon decrease by 2.46 g/1 (1.3% ),
+while those for Merlot decrease by 5.47 g/1 (2.7%). In
+respect to the simulated acid values, the differences
+are even more significant: the acid values for Cabernet Sauvignon increase by 5% and increase by 17%
+for Merlot. From the prior climate analysis and the
+simulations, it is confirmed that the Merlot variety is
+much more sensitive in respect to climate influences
+during the ripening period than Cabernet Sauvignon.
+Overall, one can proceed on the assumption that
+Merlot-dominated wines, in respect to quality as well
+as price, are generally more influenced by weather
+characteristics during the critical ripening stage than
+Cabernet Sauvignon- dominated wines. Table 9 displays the climate impacts on the wine prices. From
+the given scenario of a wetter, cooler ripening stage,
+all prices decrease, but it should be noted that
+this occurs to a higher degree with non-Cabernet
+Sauvignon wines like Cheval Blanc (-31.3%),
+Petrus (-21.1%), and Troplong Mondot (-14.1%).
+
+The extremely high influence of quality ratings on
+wine prices has often been mentioned, and sometimes
+deplored, in the trade press. In the specification of
+the equations, this influence is expressed by including Parker-points in a polynomial form. It is obvious
+that Parker-points are oriented by "objective chemical quality measures", by which there often appears a
+close correlation to the above mentioned climate determinants. However, since the test statistics are highly
+significant, the problem of multicollinearity can be
+neglected. 9 The wine pricing reactions caused by a
+one-point increase in the Parker rating is shown in
+Table 9. From the results it is clear that there are
+great differences between particular chateaux in respect to Parker-point elasticities of the prices. While
+the price from this simulation for Chateaux Beychevelle or Palmer has risen less than 4%, properties like
+Chateaux Margaux, La Mission Haut Brion or Pichon
+Comtesse de Lalande show price increases over 10%.
+As shown in the following equation, these differences
+are due to many of factors.
+log(SENSPT)
+
+CAB/MER
+
+= 54480--,3,..----
+
+HA (!.64)
++0.096(PTAVG) - 6.61
+(1.95)
+
+(4)
+
+(1.52)
+
+(not including Chateau Beychevelle in the model),
+where S.E.: 0.661, R 2 : 0.662, T-ratios in parentheses,
+with: SENSPT: Parker-point sensitivity in% according
+to Table 9, CAB: share of Cabernet Sauvignon in %
+area planted, MER: share of Merlot in % axea planted,
+9 In each of the estimated equations the squared correlation coefficient of two regressors is not nearly as great as the unadjusted
+R 2 (see Studenmund, 1996, or Intri1igator, 1978).
+
+128
+
+G.V Jones, K.-H. Storchmann/Agricultural Economics 26 (2001) 115-133
+
+Table 9
+Sensitivity analysis for selected Bordeaux winesa
+Price change (%)
+
+Chateau
+
+Beychevelle
+Cheval Blanc
+Cos d'Estournel
+Ducru Beaucaillou
+Grand-Puy-Lacoste
+Gruaud-Larose
+Haut Brion
+Lafite Rothschild
+Latour
+Leoville Barton
+Leoville Las Cases
+Lynch Bages
+Margaux
+La Mission Haut Brion
+Montrose
+Mouton Rothschild
+Palmer
+Petrus
+Pichon Comtesse
+Talbot
+Troplong Mondot
+a
+
+Climate sensitivity: price reaction
+to a cooler and wetter ripening
+period
+
+Parker-point sensitivity: price
+reaction to an increase by one
+Parker-point
+
+Annual yield sensitivity: price
+reaction to aging
+
+-6.59
+-31.32
+-8.40
+-6.88
+-5.03
+-4.03
+-5.29
+-9.05
+-13.85
+-9.58
+-5.92
+-3.50
+-11.25
+-7.76
+-7.89
+-8.55
+-13.43
+-21.05
+-15.29
+-6.47
+-14.07
+
+0.97
+5.69
+9.92
+4.66
+4.11
+8.78
+5.80
+4.71
+7.46
+8.05
+6.91
+10.37
+11.58
+12.54
+4.24
+6.21
+3.61
+4.95
+10.99
+8.46
+4.78
+
+1.30
+2.48
+4.41
+3.91
+3.98
+2.63
+2.82
+1.18
+1.92
+2.03
+1.24
+4.60
+2.55
+6.59
+2.51
+1.87
+3.67
+9.61
+4.65
+1.71
+3.66
+
+Model calculations.
+
+Price Decrease in Percent
+0
+
+0
+-5
+
+• •
+
+y = 4.23 ln(x)- 25.81
+R2 =0.72
+
+-5
+
+•
+
+-10
+
+••
+
+-15
+
+-10
+
+•
+
+-15
+
+-20
+
+-20
+
+-25
+
+-25
+
+-30
+
+-30
+-35
+
+-35
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+Cabernet-Sauvignon share in %
+Fig. 3. Reflection of the relative percent of area planted in Cabernet Sauvignon grapes per chateau and the related climate-caused price
+decrease.
+
+G. V. Jones, K.-H. Storchmann/ Agricultural Economics 26 (2001) 115-133
+
+HA: area planted in hectares, PTAVG: Parker-points,
+average 1980-1994.
+First, it is evident that the wine's blend in respect to
+the Parker-point sensitivity is very important. While
+high Cabernet Sauvignon shares have the tendency
+to increase the dependence on external ratings, the
+rating sensitivity will be decreased by higher shares
+of Merlot. Secondly, the dependence on Parker-points
+is higher for smaller properties. Therefore, smaller
+chateaux often gain over-proportionally from higher
+ratings. Third, those chateaux which were already
+rated relatively high in the past are characterized
+by a higher dependence in respect to Parker-points.
+Hence, as mentioned above, more attention is drawn
+to a point step from 94 to 95 than one from 84 to 85.
+Thus, if Parker-points are still unknown or unpublished, one would have to recommend to a risk -averse
+wine investor to buy a Merlot-dominated wine from
+a large property, with an average rating that has not
+been over-rated in the past. Given the possibility
+of an unfavorable rating later during the storage of
+the wine, the probable loss is within a reasonable
+limit. Otherwise a wine investor willing to take risks
+should buy a Cabernet Sauvignon-dominated wine
+from a small property that is given a high rating
+since the chance to yield a higher profit is much
+greater.
+
+3.3. Aging sensitivity
+In general the influence of aging on the Cru Classe
+wines of Bordeaux is positive - the older the wine,
+the more expensive the wine. But how strong is that
+influence, or in economic terms what is the expected
+annual return of capital? Methodologically, the influence of aging can be simulated by a variation of the
+trend variable T. Increasing T by one (T + 1) the
+model proceeds on the assumption that all wines are
+one year older and calculates the impacts on the prices.
+The amount of wine available at market is a reflection
+of the calculation and refers to an average value of
+one chateau - single vintages could vary from that
+value. Since the model is based on the prices achieved
+during 1996, the yields are calculated in real prices
+(i.e., in terms of 1996 prices). Table 9 reveals that the
+influence of aging differs among chateaux. Real average yields of less than 1.5% are seen for Chateaux
+Lafite-Rothschild, Leoville Las Cases and Beychevelle
+
+129
+
+in comparison to those of 6.6 and 9.6% for
+Chateaux La Mission Haut Brion and Petrus, respectively.
+From an empirical point of view, the main influence on the annual increase in value seems to be
+the size of the producing chateau, since the absolute
+scarcity is expressed. The results indicate that, for
+the smaller producing properties, there will be less
+wine available in the future and in turn higher annual increases in value. Furthermore, it is shown that
+Merlot-dominated wines profit more from aging than
+do Cabernet-dominated wines. 10 A simple regression
+over the 21 chateaux confirms this connection
+SENSAGE = 0.4log(MER)
+(3.14)
+
+1
+
++ 85.8HA
+
+(5)
+
+(5.44)
+
+where S.E.: 1.06, R2 : 0.732, T-ratios in parentheses,
+with: SENSAGE: aging sensitivity (annual yield) in
+% according to Table 9, MER: share of Merlot in %
+area planted, HA: area planted in hectares.
+From these results, the best recommendation to
+wine investors who want to maximize their annual
+yields is to buy mainly Merlot-dominated wines from
+small properties such as Petrus. A wine investor of
+this kind is comparable to a conservative shareholder
+with risk aversion who aims for dividends only. If,
+however, a short-term yield is desired, shareholders
+as well as wine investors should turn to the new issues. In this case, these are sold as subscriptions or
+futures. The wine is normally purchased one year after the harvest for a fixed price and once it is put on
+the market two years later, a scarcity-oriented price
+increase could appear. Thus, the "rentability" of wine
+subscriptions should always be assessed against the
+background of the uncertain market price in the future. Therefore, a forecast of future values for already
+harvested, but not yet traded wines, could be useful to
+examine whether a subscription or futures purchase
+would be lucrative or not.
+
+4. Forecast
+In addition to the prediction of prices for wines
+which are already introduced on the market by varying
+10 However, it needs to be pointed out that there is a multicollinear
+relation between both variables: smaller chiiteaux tend to concentrate on Merlot.
+
+G.V. Jones, K.-H. Storchmann!Agricultural Economics 26 (2001) 115-133
+
+130
+
+Table 10
+Climate determinats and chemical wine quality•
+
+Table 11
+Parker-points and pricing forecasts for 1998 for selected Bordeaux
+wines of the vintages 1995 and 1996 (in US-$ per bottle and in
+1996 prices)
+
+Actual 1994 and forecast 1995-1997
+1994
+
+1995
+
+1996
+
+1997
+
+Exogenous climatic determinants with positive influence
+1190
+1082
+DPET
+1352
+BPET
+989
+1076
+832
+FTEMP25
+43
+48
+45
+1243
+FPET
+1376
+1271
+VTEMP25
+21
+19
+14
+VTEMP30
+6
+9
+3
+VPET
+730
+692
+668
+
+951
+1015
+32
+1175
+27
+14
+689
+
+Exogenous climatic determinants with negative influence
+BPREC
+312
+276
+167
+FPREC
+Ill
+80
+148
+VPREC
+166
+117
+132
+
+175
+202
+106
+
+Actual
+Endogenous wine qualities
+CABSUG (g/1)
+193
+MERSUG (g/1)
+207
+CABACID (g/1)
+5.0
+MERACID (g/1)
+3.7
+
+Predicted
+195.4
+209.3
+4.3
+3.5
+
+191.4
+202.7
+5.2
+4.4
+
+181.7
+196.0
+5.2
+4.6
+
+• Model calculations.
+
+the aging variable T (see Section 3.3), the model is
+also able to predict market prices of wines which are
+still in the barrel and were tasted only by a few individuals. As input for the model, the knowledge of climate variables as well as Parker-points is sufficient to
+come to a reliable estimation of wine prices- both are
+available to the public before the wines enter the market. However, since the model is cross-sectional, and
+not a time series model, the influence of time-variable
+factors, which could have a global structural effect
+on wine buying behavior, cannot be considered in the
+calculations. This temporal effect could be attributed
+to a worldwide economic depression as well as an
+economically-caused wine boom, as has occurred during the latest stock market crisis in Asia. 11 Therefore, the model cannot answer whether the extent of
+the higher prices of the latest vintages is caused by
+changes in the buying behavior or by the better quality of those vintages. However, as shown in Table 10,
+it is obvious that due to the exogenous climate variSome impacts of the Asia crisis on wine prices are described
+by Robinson (1997) in the Financial Times.
+II
+
+Chateau
+
+Parker-points
+1994
+
+Beychevelle
+Cheval Blanc
+Cos d'Estournel
+Ducru Beaucaillou
+Grand Puy Lacoste
+Gruaud Larose
+Haut Brion
+Lafite Rothschild
+Latour
+Leoville Barton
+Leoville Las Cases
+Lynch Bages
+Margaux
+La MissionHaut-Brion
+Montrose
+Mouton Rothschild
+Palmer
+Petrus
+Pichon Comtesse
+Talbot
+Troplong Mondot
+
+1995
+
+Prices
+1996
+
+Actual
+(1994)
+
+Predicted
+1995
+
+1996
+24
+88
+46
+37
+19
+28
+87
+92
+
+83.5
+88
+90.5
+92
+89
+86.5
+93
+88
+94
+89
+93.5
+89
+91.5
+93
+
+85
+92
+95
+94
+88.5
+89
+96
+95
+96
+91
+92
+90
+95
+91
+
+85.5
+92
+95
+95.5
+89
+89.5
+95.5
+95
+95.5
+92.5
+93.5
+91.5
+99
+90.5
+
+20
+0
+34
+34
+22
+21
+77
+77
+97
+33
+45
+32
+76
+0
+
+27
+175
+60
+41
+25
+31
+113
+131
+173
+40
+58
+40
+178
+49
+
+39
+49
+40
+155
+31
+
+92.5
+91
+88
+92
+92.5
+86
+93.5
+
+93
+95
+90
+96
+96
+88
+92
+
+91.5
+95
+89.5
+92
+95
+88
+89
+
+31
+79
+31
+417
+39
+26
+36
+
+48
+!51
+50
+559
+76
+30
+40
+
+32
+101
+34
+302
+54
+26
+21
+
+ables the 1995 vintage is to be judged better than
+the 1994 vintage especially in relation to those items
+having an adverse (negative coefficient) effect on quality. The weather during the 1996 and 1997 vintages
+was not as good, with mixed growing season conditions leading to less than ideal quality and the need
+to apply selective harvesting. The chemical measures
+were predicted accordingly: for 1995, the sugar content is the highest for both varieties and the acid values are the lowest; however, for the 1996 and 1997
+vintages the acid levels increase while the sugar levels
+drop indicating less than ideal ripeness.
+In Table 11, the predicted market prices (for 1998)
+of the 1995 and 1996 vintages are given. To provide a better comparison, the prices of the 1994
+vintage 12 (as given in Table 1), as well as the
+12 Since these are the prices of 1996 the comparison is restricted.
+Due to aging, the values of these wines will likely be higher in
+1998.
+
+G. V. Jones, K.-H. Storchmann/Agricultural Economics 26 (2001) 115-133
+
+development of the Parker-points, are added. The
+1995 vintage yields higher predicted prices than the
+1994 vintage for each of the chateaux in the analysis. This is especially evident with Premier Crus
+like Chateaux Latour, Lafite-Rothschild or Margaux,
+whose prices are more than double those of 1994.
+This is also evident whether the wines are Cabernet
+Sauvignon-dominated or Merlot-dominated (e.g., the
+1995 vintage of Chateau Petrus).
+The predicted prices for the 1996 vintage do not
+follow the increases predicted for 1995. This can be
+traced back to the fact that the compositional measures
+indicate that the 1996 vintage is not likely to be as good
+as the 1995 vintage, especially for Merlot-dorninated
+wines. This is also reflected in the nature of the
+Parker-point ratings for both years: while the ratings
+for the 1996 Cabernet Sauvignon-dominated wines
+generally remain on par with the 1995 ratings, the
+Merlot-dorninated wine ratings decrease significantly.
+Therefore, the typical Merlot-dorninated wines like
+Chateaux Petrus or Troplong Mondot achieve only
+92 and 89 Parker-points, respectively for the 1996
+vintage, compared with 96 and 92, respectively for
+the 1995 vintage. The result is extended to the prices:
+while most of the Cru Classes remain close to the
+1995 level, 13 for Merlot-dominated wines a distinct
+price drop is expected. For example, the 1996 vintage of Chateau Petrus will cost 302 US-$ per bottle,
+compared to roughly 560 US-$ for the 1995 vintage.
+
+5. Summary
+Because exquisite wines are expensive and can yield
+remarkable investment appreciation, many people consider wine not only a semi-luxury drink but also a profitable capital investment. Since there are numerous illustrious properties like Chateaux Mouton-Rothschild,
+Latour, Petrus, and many others, this is especially evident with Bordeaux wines. Recommendations regarding the potential development or possible profit yield,
+however, are usually based on the experience or intuition of a few experts, and empirical investigations
+into the topic are few. This research presents an econometric model that introduces how the prices of wines,
+13 Since they are one year younger than the 1995s, a lower price
+is expected.
+
+131
+
+which are already harvested but not yet traded, can be
+forecast and how wine price sensitivity, in respect to
+different parameters, can be evaluated.
+First, the model proceeds by considering that Bordeaux wines are blends from different varieties, which
+reflect different climate sensitivity. The model develops the climate/grape ripeness relationship for the two
+main varieties grown in Bordeaux by examining the
+relative sugar and acid values of Cabernet Sauvignon
+and Merlot grapes. These exogenously-determined
+variables are then used as explanatory variables in the
+single price equations. From the results it is shown
+that Merlot-dominated wines are more climate sensitive than Cabernet Sauvignon-dominated wines. In
+climatically excellent years, outstanding quality and
+prices can be expected for both varieties, although
+Merlot-dominated wines tend to do the best. In climatically average or marginal years, Merlot-dorninated
+wines yield below average prices. From these results,
+the 1996 and 1997 vintages for Merlot-dominated
+wines seem to be especially problematic.
+Wine prices are also shown to be largely determined
+by the rating level they achieve. The model tracks
+this influence by examining the effect that the ratings given each vintage by the most prominent wine
+writer, Robert M. Parker, has on price fluctuations.
+Overall, the relative level of Parker-points, given by
+chateau and vintage, has a large price influence as seen
+by the polynomial form of the equations. This effect
+varies between chateaux and is mostly due to whether
+the property is Cabernet Sauvignon-dominated (increased dependence on ratings) or Merlot-dominated
+(decreased rating sensitivity). Additionally, the model
+shows that properties that have achieved high ratings in
+the past have greater sensitivity to single point jumps
+in ratings in subsequent vintages. Another aspect the
+model reveals is that smaller properties have a much
+higher dependence on Parker-points showing larger
+relative gains from higher ratings.
+For most fine wines the prices they achieve are also
+partially determined by the age of the particular wine,
+which generally indicates its potential "drinkability".
+This is very evident for Bordeaux wines, as they have
+long been regarded as wines to "lay down" for many
+years. The model examines this effect on the annual
+return of capital by simulating an increase in a trend
+variable. Since the model is cross-sectional, the calculation reflects the average return by chateau, with
+
+132
+
+G. V. Jones, K.-H. Storchmannl Agricultural Economics 26 (2001) 115-133
+
+individual vintages varying from the value. The results indicate that there is a large degree of within
+chateau variability, with 1-10% returns possible. This
+effect appears to be largely influenced by two factors: (1) absolute scarcity as reflected by the size of
+the property, and (2) Merlot-dominated wines profit
+more from aging, on the average, than do Cabemet
+Sauvignon-dominated wines.
+Given that the subscription (futures) market of
+Bordeaux wines has grown tremendously, the model
+attempts to forecast the future values for harvested but
+not yet traded wines. This is done because the wine
+could be purchased one year after the harvest for a
+fixed price but once it is put on the market two years
+later, a scarcity-oriented price will appear. Thus, a
+forecast of future values would be useful to examine
+whether a subscription could yield a short-term profit
+or not. Using the background climate and Parker-point
+data, the model reveals that the 1995 vintage is better
+than the 1994, but that the 1996 and 1997 vintages
+are not as good due to lower sugar levels, higher acid
+levels, and the resultant change in Parker-point ratings. A prediction of prices for 1998 reveals that the
+1995 vintage indeed yields higher predicted prices
+than does 1994 for each of the chateaux included in
+the analysis. This effect is evident for both Cabernet
+Sauvignon-dominated or Merlot-dominated wines of
+the 1995 vintage. For the 1996 vintage, predicted
+prices do not follow those of 1995. This is especially
+true for the more climate sensitive Merlot-dominated
+wines, which received lower Parker-point ratings and
+had a resultant price decrease.
+Under the assumption that subscription prices of
+Cabernet Sauvignon and Merlot wines vary proportionally, the models provide these suggestions for
+investors looking to buy into the Bordeaux wine market: (1) in marginal climate years purchase wines
+from properties that generally have higher percentages of Cabemet Sauvignon, (2) for the short-term
+investor - when Parker-points are unknown, purchase Merlot-dominated wines from large properties
+to avoid risk and Cabernet Sauvignon-dominated
+wines from small properties to maximize profit potential, (3) for the long-term investor - purchase
+Merlot-dominated wines as they show much greater
+aging potential, and (4) in terms of absolute scarcity,
+one would want to purchase wines from small properties as the relative amount available to the market
+
+diminishes rapidly. Predicted price forecasts indicate
+that, of the last three vintages (1994,1995, and 1996),
+the 1995 vintage is the one to invest in as long the
+wine is not over-priced to begin with.
+
+Acknowledgements
+
+Climate data for this research was supplied by
+METEO-France and viticulture data was supplied by
+Professors P. Ribereau-Gayon and G. Guimberteau,
+University of Bordeaux II. Georg Muller, University
+of Karlsruhe provided additional climate data, and
+Peter Kiihler supplied the wine rating information.
+Additionally, we are grateful to two anonymous reviewers for their suggestions that helped to strengthen
+the manuscript.
+References
+Amerine, M.A., Berg, H.W., Kunkee, R.E., Ough, C.S., Singleton,
+V.L., Webb, A.D., 1980. The Technology of Wine Making, 4th
+Edition. AVI Publishing, Westport, CT, 795 pp.
+Ashenfelter, 0., 1997. A new objective ranking of the Chateaux
+of Bordeaux. In: Liquid Assets, Vol. 13, 1-6, see also http://
+www.liquidasset.com.
+Ashenfelter, 0., Jones, G., 2000. The demand for expert opinion:
+Bordeaux wine. In: Pichery, M., Terraza, M. (Eds.), Cahier
+Scientifique, Vol. 3. Vineyard Data Quantification Society,
+Montpellier, 1-6.
+Ashenfelter, 0., Ashmore, D., Lalonde, R., 1995. Bordeaux wine
+vintage quality and the weather. In: Chance, Vol. 8, No. 4, 7 pp.
+Bliittel, H., Stainless, F.E., 1997. International auction results wine
+and spirits. In: Wine and Price 1998. International auction
+results: wine and spirits. Vols. I and II, Munich.
+Broadbent, M., 1981. The Great Vintage Wine Book. Sotheby's,
+London.
+Combris, P., Lecocq, S., Visser, M., 1997. Estimation of a hedonic
+price equation for Bordeaux wine: does quality matter? Econom.
+J 107 (3 ), 390.
+Gladstones, J., 1992. Viticulture and Environment. Winetitles,
+Adelaide, 310 pp.
+Intriligator, M.D., 1978. Econometric Models, Techniques and
+Applications. Prentice-Hall, Englewood Cliffs, NJ, 638 pp.
+Jones, G.V., 1997. A synoptic climatological assessment
+of viticultural phenology. Dissertation. Department of
+Environmental Sciences, University of Virginia, 394 pp.
+Jones, G.V., Davis, R.E., 2000a. Climate influences on grapevine
+phenology, grape composition, and wine production and quality
+for Bordeaux, France. Am. J. Enol. Viticul. 51, 249-261.
+Jones, G.V., Davis, R.E., 2000b. Using a synoptic climatological
+approach to understand climate/viticulture relationships. Int. J.
+Climatol. 20, 813-837.
+0
+
+G. V. Jones, K.-H. Storchmann/Agricultural Economics 26 (2001) 115-133
+
+Kiihler, G., Kiihler, P., 1995. Bordeaux-KompaB fiir Rotweine, 2nd
+Edition. Nomos, Baden-Baden.
+METEO-France, 1998. Service Central d'Exploitation de Ia
+Meteorologie. 42, Avenue Gustave Coriolis, 31057 Toulouse
+Cedex, France.
+Mullins, M.G., Bouquet, A., Williams, L.E., 1992. Biology of
+the Grapevine. Cambridge University Press, Cambridge, UK,
+239 pp.
+Nerlove, M., 1995. Hedonic price functions and the measurement
+of preferences: the case of Swedish wine consumers. Eur.
+Econom. Rev. 39, 1697.
+Parker, R.M., 1985. Bordeaux: the Definitive Guide for the Wines
+Produced Since 1961. Simon and Schuster, New York, 542 pp.
+Penning-Roswell, E., 1989. Wines of Bordeaux, 6th Edition.
+Penguin Books, London, 610 pp.
+Pomerol, Ch. (Ed.), 1989. The wines and winelands of France.
+Geological Journey. Edition du BRGM, Orleans. 370 pp.
+
+133
+
+Ribereau-Gayon, P., Guimberteau, G., 1996. Vintage Reports:
+1975-1996.
+Robinson, J., 1997. The genie is uncorked. Money from
+Asia, a record-breaking auction - the world of wine is
+changed forever. In: Financial Times Weekend, 27 September
+1997, Sl.
+Schneider, C., 1996. Praferenzbildung bei Qualitiitsunsicherheit.
+Das Beispiel Wein. Dissertation. Duncker & Humblot, Berlin.
+231 pp.
+Schubert, T., 1996. Weininvestment. Mit edlen Tropfen hohe
+Gewinne erzielen. Gabler, Wiesbaden. 276 pp.
+Studenmund, A.H., 1996. Using Econometrics: A Practical Guide,
+3rd Edition. Addison-Wesley, Reading, MA, 670 pp.
+Winkler, A.J., Cook, J.A., Kliewere, W.M., Lider, L.A., 1974.
+General Viticulture, 4th Edition. University of California Press,
+Berkeley, CA, 740 pp.
+
+

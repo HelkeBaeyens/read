@@ -1,0 +1,826 @@
+AGRICULTURAL
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 18 (1998) 199-207
+
+Further evidence on pesticides, productivity and farmer health:
+Potato production in Ecuador
+John M. Antle
+b
+
+a,*, 1,
+
+Donald C. Cole
+
+b'
+
+Charles C. Crissman
+
+c
+
+a Department of Agricultural Economics and Economics, Montana State University, Bozeman, MT, USA
+Departments of Geography and Clinical Epidemiology and Biostatistics, McMaster University, Hamilton, ON, Canada
+c International Potato Center, Quito, Ecuador
+
+Accepted 31 July 1997
+
+Keywords: Patato production; Pesticides; Farmer health
+
+1. Introduction
+
+A recent paper by Antle and Pingali (1994)
+showed that farmers' health had a significant impact
+on the productivity of Philippine rice farms, and that
+pesticide use in rice production had a significant
+impact on farmers' health. A simulation analysis
+showed that restricting the use of insecticides that
+posed the greatest health risk was a 'win-win' policy, as it would increase both the health and productivity or Philippine rice farmers. Two features of
+Philippine rice production that could affect the outcome of that analysis are, first, the low productivity
+of insecticides in rice production, and second, the
+humid tropical rice paddy environment where farmers' use of protective clothing is minimal. The Antle
+and Pingali study left open the question of whether
+this 'win-win' result would hold in a situation where
+the marginal productivity of insecticides or other
+pesticides is higher, and where the climate is more
+
+Corresponding author.
+Director of the Trade Research Center and a University
+Fellow at Resources for the Future.
+*
+
+1
+
+compatible with the use of self-protective clothing or
+other equipment.
+This study replicates and extends the Antle and
+Pingali study using data from a potato producing
+region of Ecuador. Potato production in Ecuador is
+vulnerable to two major pests, the soil-dwelling larvae of the Andean weevil (Premnotrypes vorax) and
+the late blight fungus (Phytophthora infestans). The
+use of insecticides and fungicides is considered by
+both farmers and agricultural scientists as important
+in the control of these pests, and as many as 12
+applications of both insecticides and fungicides are
+used in their control. Potato production occurs in a
+temperate highland climate compatible with the use
+of protective clothing such as rubber boots and
+gloves. The Ecuador study also provides larger samples of production and health data, and these data
+allow the crop production technology and the health
+production function to be estimated jointly, increasing statistical reliability. In addition, in the Ecuador
+study, a measure of neurobehavioral function is used
+as an indicator of farmer health, an indicator that has
+been validated in the occupational health literature
+and that should be closely related to farmers' managerial and decision-making capacity. The Philippine
+
+0169-5150/98/$19.00 © 1998 Elsevier Science B.V. All rights reserved.
+PII SO 169-5150(97)00036-4
+
+200
+
+J.M. Antle et al.j Agricultural Economics 18 (1998) 199-207
+
+study used an ad hoc index of health that has not
+been validated independently.
+The findings of this Ecuadorian study are remarkably similar to those of the Philippine study, despite
+substantial differences in the types and amounts of
+pesticides that are used, in their productivity, and in
+the physical environment in which they are used.
+Analysis of the Ecuador data shows that health has a
+statistically significant effect on productivity, with an
+elasticity of cost with respect to health in the same
+range as in the Philippine study. Also, like the
+Philippine study, the Ecuador study shows that pesticide use has a significant effect on health. A simulation analysis similar to the one conducted in the
+Philippine rice study is used to explore the effects
+that reductions in pesticide use would have on health
+and productivity.
+The results of this study show that despite the
+important role that insecticides play in controlling
+the Andean weevil insect pest, a reduction in the use
+of the principal insecticide used to control this pest,
+carbofuran, could raise productivity and also improve farmers' health. One important difference in
+the two studies does emerge, however. In the Philippine analysis, a policy reducing the use of all pesticides (herbicides and insecticides) was less efficient
+than a reduction in insecticides alone, but both policies would result in the win-win outcome. In the
+Ecuador case, where the productivity of pesticides is
+higher, however, the win-win outcome can be obtained only when the policy targets the insecticides
+that pose the greatest health risk. When the simulated
+policy reduces the use of all pesticides, both fungicides and insecticides, a tradeoff between health and
+productivity emerges. Thus, this study demonstrates
+the importance of efficient policy design in cases
+where the productivity of pesticides is relatively
+high.
+
+2. The Carchi study
+The potato production and farmer health data
+utilized in this analysis were collected as part of a
+study of the economic, environmental and human
+health effects of pesticides sponsored by the International Potato Center. The study was based in the
+
+Carchi Province in northern Ecuador in a highland
+zone 30 km south of the Colombian border. Production occurs between the altitudes of 2800 and 3400
+m on steeply sloped, deep volcanic soils. Just half a
+degree north of the equator, there are virtually no
+changes in day length, little seasonal variation in
+temperature, and limited variation in rainfall. A detailed description of the complete study and the
+Carchi region can be found in the book by Crissman
+et al. (1997).
+The cropping system is dominated by potatoes
+and pasture for dairy cattle, with these two crops
+rotated in a potato-potato-pasture cycle that takes
+about 2 years. Because of the equatorial Andean
+climate, there are no distinct planting or harvesting
+seasons, and potato production occurs continuously.
+Production data were collected in a farm-level survey on 40 farms during 1990-1992 by trained enumerators who lived in the region and made bimonthly visits to the farms. Data were collected for
+individual parcels, where a parcel is defined as a
+single crop cycle on a farmer's field. The pesticide
+use data are believed to be accurate, because they
+were collected within two weeks after a farmer made
+an application, so that the usual problem of data
+inaccuracy because of farmer recall was avoided. In
+addition, an ongoing quality-control process was
+maintained during data collection which made it
+possible for the enumerators to re-interview farmers
+to validate or correct outlying observations. Table 1
+presents summary statistics for the data used in the
+econometric analysis of the potato production process that follows. A similar quality-control process
+was followed for the health data that were collected.
+This physical environment is highly conducive to
+the soil-dwelling larvae of the Andean weevil (P.
+vorax) and the late blight fungus (P. infestans).
+Using backpack sprayers, farmers make an average
+of more than seven applications of pesticides to each
+parcel. Though a wide array of products are used by
+farmers in the sample, three types are dominant. The
+dithiocarbamate, mancozeb accounted for over 80%
+of total active ingredient of fungicides used to control late blight. The carbamate, carbofuran, and the
+organophosphate, methamidophos, accounted for
+47% and 43% of all insecticide active ingredients
+applied. Carbofuran is used to control the Andean
+weevil and the organophosphates are used on foliar
+
+J.M. Antle et al. /Agricultural Economics 18 (1998) 199-207
+
+Table I
+Summary statistics for Carchi potato production data
+Variable
+
+Mean
+
+Standard
+deviation
+
+Total variable cost (sucres jha)
+Expected yield (kgjha)
+Area (ha)
+Mean neurobehavioral score
+Fertilizer quantity (kgjha)
+Land preparation labor (days jha)
+Crop management labor (daysjha)
+Fungicide quantity
+Carbofuran quantity (kgjha)
+Foliage pest insecticide
+Fertilizer price (kgjha)
+Land preparation wage
+Crop management wage
+Fungicide price
+Carbofuran price
+Foliage pest insecticide price
+
+14.157
+9.868
+-0.959
+-1.525
+6.309
+2.374
+3.897
+11.905
+-0.044
+10.415
+6.448
+7.656
+7.796
+-0.970
+9.710
+-1.222
+
+0.347
+0.136
+0.854
+0.941
+0.401
+0.895
+0.373
+1.426
+1.120
+2.237
+0.181
+0.306
+0.275
+0.666
+0.303
+1.225
+
+Sample size is 219. All variables in natural logarithms except
+mean neurobehavioral score. Fertilizer is total N, P and K applied.
+Fungicide and foliage pest insecticide quantities and prices were
+quality-adjusted using the hedonic procedures as in the paper of
+Antle et al. (1994).
+
+insect pests. Most farmers manage several fields, so
+that potato production and pesticide use are continuous throughout the year. An important consequence
+of continuous production is a year-round potential
+for occupational and incidental exposure to pesticides. Pesticides are not used in the pasture cycle and
+are seldom used in other crops that may be included
+in the rotation, such as legumes. Thus, a farmer's
+exposure to pesticides comes almost entirely from
+potato production. The insecticides used are neurotoxins-they kill the pest by interfering with the
+functioning of the nervous system. Pesticides are
+applied using a backpack sprayer and, in that process, the applicator's clothes often become wet with
+spray mix. Consequently, the major exposure route
+for the applicator is dermal, especially through his
+hands and back. Applicators appear to be aware of at
+least some of the risks associated with pesticide use,
+yet they do not use protective clothing that effectively prevent exposure, nor do they exhibit other
+exposure-averting behavior. Thus, the use of protective clothing in this temperate environment is similar
+to the evidence from the Philippines study.
+
+201
+
+To examine the health impacts of pesticide use,
+the health research team conducted a survey of the
+farm population (n = 174) and an age- and education-matched referent group (n = 72) not exposed to
+pesticides. All participants answered questions on
+pesticide use and medical problems, received a clinical examination by a field physician, completed a
+series of tests of nervous system function and underwent blood tests. These tests were oriented towards
+those effects most likely to be associated with the
+insecticide and fungicide exposures that the agricultural team had documented and that farm members
+reported over periods of days to years. Crissman et
+al. (1994) and Cole et al. (1998a) report elsewhere
+on the complex exposure pattern and the higher rates
+of skin problems (dermatitis), reduced vibration sensation, lower cholinesterase levels and generally
+poorer neurobehavioral test results among the farm
+population compared to the referent group.
+Preliminary analyses revealed that the neurobehavioral tests demonstrated the most consistent relationship with recent use of pesticides within the farm
+population. Neurobehavioral tests were chosen because psychiatric literature indicated problems among
+those with chronic exposure to organophosphate
+compounds (Gerchon and Shaw, 1961), epidemiological work has documented central nervous system
+effects of acute poisoning episodes (Rosenstock et
+al., 1991) and assessments of neurobehavioral function are sensitive measures of such problems in
+non-clinical populations (Anger et al., 1983). We
+expanded on the Neurobehavioral Core Test Battery
+that was assessed cross-culturally and recommended
+by the World Health Organization (Cassito et al.,
+1990). Individual tests were grouped into functional
+sub-scales by a neuropsychologist. A battery of tests
+was used to assess a set of neurobehavioral skills
+that include attention, visual and spatial abilities,
+visual and auditory reaction times, and motor and
+psychomotor skills. The test results were standardized so that neurobehavioral status is positively related to the test score.
+This neurobehavioral measure of pesticide impacts represents a significant improvement as compared to the health impairments index utilized by
+Antle and Pingali. The health impairment index is an
+ad hoc measure of several factors hypothesized to be
+affected by pesticide exposure, whereas the neurobe-
+
+202
+
+J.M. Antle et al. /Agricultural Economics 18 (1998) 199-207
+
+havioral index used here is derived from a standard~zed t~st which measures only the part of the organIsm directly affected by the neurotoxins. In addition,
+the sample size used in this study is nearly four
+times the size of the Philippine study. This direct
+measure eliminates most of the uncertainty of measuring health effects not originating from pesticide
+use.
+Because of skewed distributions in test scores, we
+restricted the referent population by age (16-65 inc_1usive) and education ( > 3 years) and developed
+hnear regression prediction equations based on age
+and education. These restrictions removed about 20%
+of the population (see Cole et al. (1997b) for details).
+A standardized score was then calculated for each
+test for each farm member who met the age and
+education restrictions by subtracting the participants'
+predicted value for the test from the measured value
+and dividing the difference by the standard error of
+t~e estimate derived from the referent group regresSIOn. The scores were then averaged across tests in
+the subscale to obtain a sub-scale standardized score
+for each function. Finally, the arithmetic mean of the
+sub-scale standardized scores provided an overall
+neurobehavioral score for modelling purposes.
+The neurobehavioral scores for the farm population were significantly lower than those of the referent non-farming population even taking account of
+differences in age, education and verbal intelligence
+level. The mean standardized score was almost one
+standard deviation less than the population not directly exposed to pesticides and substantially lower
+than that currently observable in other working populations exposed to neurotoxic substances elsewhere
+in the world. The mean minimums for the various
+functions were over three standard deviations lower
+indicating substantial, clinically important deficits i~
+the basic cognitive tasks. Such levels of dysfunction
+:vould correlate with considerable difficulties carrymg out the daily tasks of running a household and
+making rational decisions in farm management and
+would be comparable to the levels found in the
+neuro-cognitively impaired on disability pensions in
+countries such as Canada and the United States. The
+quality of home and working life and the productivity of these farm members would thus be expected to
+be substantially reduced.
+
+3. Joint estimation of the cost function and the
+health production function
+Following the logic of the Antle and Pingali
+model, we posit a cost function to represent the
+production process. This cost function is derived
+from a household production model in which farmers' effective management and field labor is a function of their health. From a standard cost-minimization problem, we obtain the per-hectare variable cost
+function C(y, w, z, h), where y is crop yield, w is a
+vector of factor prices, z represents fixed factors
+(size of the farmer's field in the model presented
+here), and his a measure ofthe farmer's health. This
+cost function exhibits the usual convexity properties
+with respect to y and w, and is decreasing in z and
+h.
+
+Following Antle and Capalbo (1994), health is
+assumed to be a function h(e(x, b), c), where e(x,
+b) is exposure to pesticides, x, b is a measure of
+averting behavior by the farmer (such as use of
+protective equipment and safe handling practices),
+and c is a vector of personal characteristics. There is
+little variation in averting behavior among farmers in
+the study presented here, so we simplify the presentation to a health production function h( x, c),
+where h is assumed increasing and concave in x.
+We utilize the log-linear approximation to the cost
+function,
+
+(1)
+where E 1 is an error term. Applying Shepard's
+lemma, it follows that dC/dw. = x .* where x .* is
+the cost-minimizing quantity of the ith input. For the
+log-linear cost function Shephard's lemma can be
+written as:
+l
+
+ln( xt)
+
+=
+
+ln( f3·)
+l
+
+l
+
+'
+
+l
+
++ ln C- ln w + E 2Z'. I
+l
+
+(2)
+
+where the E 2 i are error terms.
+We specify the health production function as:
+
+(3)
+
+J.M. Antle et al. /Agricultural Economics 18 (1998) 199-207
+
+where c 1 and c 2 are measures of the farmer's intelligence not directly affected by pesticide exposure (c 1
+is a measure of the ability to associate similar objects, c 2 is a measure of the individual's general
+knowledge, and both are subtests of the Ecuadorian
+adaptation of the Weschler adult intelligence score),
+x 5 is the quantity of carbofuran applied during the
+season on a particular field, and E3 is an error term.
+Recall that the toxicological literature suggests that
+carbofuran is the insecticide that is expected to have
+a significant neurobehavioral effect.
+The system of Eqs. (1)-(3) is identified and can
+be estimated using nonlinear techniques that account
+for the endogeneity of cost, input quantities and
+health. Note that the conventional way to estimate a
+log-linear model with first-order conditions is to
+estimate the factor cost share equation with an additive error term as w;x;/C = /3; + E2 ;. Eq. (2) is
+equivalent to estimating the cost share equations in
+InC=
+
++
+
+-2.294
+
+( -1.13)
+
+h=
+
+1.397ln y
+
+0.066ln z
+
+(6.81)
+
+( -2.93)
+
++ 0.040ln w4 +
+
+0.011ln w5
+
+(15.45)
+
+(13.52)
+
+-3.074
+( -9.87)
+
++
+
+0.046 c 1
+(2.04)
+
++
+
++
+
+203
+
+the multiplicative error form w;x;/C = /3; exp(E 2 ).
+This multiplicative error model is attractive because
+it is consistent with the log-linear, constant-elasticity
+specification of factor demand equations with additive errors, and because it fits the data well in this
+case.
+The system (Eqs. (1)-(3)) is nonlinear in the
+parameters because of the ln( f3) terms in Eq. (2).
+The nonlinear three-stage least squares estimation
+method in the SAS 6.10 Model Procedure was used
+to estimate jointly the system of Eqs. (1)-(3). This is
+a system of eight equations: the cost function (Eq.
+(1)); the six first-order conditions corresponding to
+fertilizer (input 1), land preparation labor (input 2),
+crop management labor (input 3), fungicides (input
+4), carbofuran (input 5), and foliage pest insecticides
+(input 6); and the health production function (Eq.
+(3)). The parameter estimates with t-statistics in
+parentheses are:
+
++
+
+0.247ln w 1
+
++
+
+(59.30)
+
+0.007ln w6
+
+0.103 h
+
+(9.27)
+
+(-3.45)
+
+0.016ln w 2
+(16.76)
+
++
+
+0.085ln w 3
+( 45.30)
+
+0.177 c2
+
+0.247ln x 5
+
+(3.46)
+
+( -3.25)
+returns to scale and increasing returns to field size,
+as expected. The essential role that pesticides play in
+crop production is indicated by the positive and
+significant coefficients on the fungicide, carbofuran
+and foliar insecticide variables. Output-constant
+own-price elasticities of demand (equal to /3; - 1)
+range from about -0.75 for fertilizer to about - 1.0
+for foliage pest insecticides. The coefficient on the
+neurobehavioral health variable is statistically significant at all conventional levels, and its negative sign
+indicates that farmers with higher neurobehavioral
+function obtain lower cost of production per hectare,
+and thus, higher productivity, as hypothesized. The
+magnitude of the coefficient indicates that the elasticity of cost with respect to health is about - 0.15.
+In comparison, the estimates of the elasticity of cost
+with respect to health obtained by Antle and Pingali
+in their study of two rice producing areas of the
+Philippines ranged from -0.13 to -0.36.
+
+As explained by Antle et al. (1994), it is important in
+estimating production models with pesticides to account for the large number of different chemicals
+that are used by farmers that exhibit varying degress
+of efficacy in controlling pests. To control for varying pesticide quality, the fungicide quantity and price
+and the foliage pest insecticide quantity and price
+were quality adjusted using the hedonic procedure
+described by Antle et al. (1994). Expected yield y
+was estimated as the predicted value of a regression
+of actual yield on the quantity of seed potato sown, a
+set of dummy variables indicating soil types and
+precipitation, the altitude of the field, and its area.
+
+4. Implications
+The parameter estimates of the cost function are
+all statistically significant and indicate decreasing
+
+204
+
+J.M. Antle et al. /Agricultural Economics 18 (1998) 199-207
+
+The health production function parameters are
+highly significant and indicate, as expected, that
+farmers with higher verbal intelligence scores (c 1
+and c2 ) also have higher neurobehavioral function.
+The total quantity of carbofuran applied during the
+season has the hypothesized negative effect on neurobehavioral function.
+Combining the cost function and the health equation, we see that higher neurobehavioral function of
+farm managers lowers average production cost, while
+
+increased use of the insecticide carbofuran increases
+crop production but lowers neurobehavioral function.
+To assess the net effects of a change in carbofuran
+use, we simulated the model over a range of carbofuran prices (from 50% below the observed mean price
+to 200% above it). To investigate the effects of the
+efficiency of alternative restrictions on pesticides, the
+simulation was performed with the tax imposed on
+carbofuran alone and with it imposed on all pesticides. To investigate the importance of the health
+
+-200.
+
+o-300
+
+·f········································
+
+····lc····················································································~~~
+
+0
+
+;:::
+~
+
+e-350
+
+·t··············································'··························································:·~~
+
+8
+CZI
+
+] -400
+
+·;;:
+
+·t··········································
+
+r·································:::Jl!Jr
+
+j
+
+~
+
+-450 .
+
+z
+
+~ -500
+
+·t····························
+
+-550
+-600.
+-650-L---~~----~----------------------------------~
+
+-0.75 -0.50 -0.25
+
+0.00
+
+Tax on All
+-D- Pesticides
+
+-e-
+
+Tax on Carbofuran
+
+0.25
+
+0.50
+
+0.75 1.00
+Tax Rate
+
+1.25
+
+1.50
+
+1.75
+
+2.00
+
+2.25
+
+-•- Tax on All Pesticides w/o
+Health in Cost Function
+Tax on Carbofuran w/o
+
+-e-- Health in Cost Function
+
+Fig. 1. The simulated effects of the pesticide tax on farmer health as measured by the mean neurobehavioral score.
+
+J.M. Antle et al.j Agricultural Economics 18 (1998) 199-207
+
+effect in the cost function, we also simulated the
+system (Eqs. (1)-(3)) that was estimated without the
+health variable in the cost function (i.e., with y = 0).
+The results of the simulations are presented in Figs.
+1 and 2.
+Fig. 1 shows the simulated effects of the pesticide
+tax on farmer health as measured by the mean
+neurobehavioral score. As expected, health is monotonically increasing in the tax rate because pesticide
+use is negatively related to the tax rate, but the slope
+
+205
+
+of the relationship is higher when the effect of health
+on productivity is taken into account. This figure
+also shows that there is little difference between a
+tax on carbofuran only and a tax on all pesticides in
+terms of the health outcomes. This is because there is
+little substitution between carbofuran and other pesticide inputs.
+Fig. 2 shows the effect of the pesticide tax on
+average variable cost of production. Here, we see
+several interesting results emerge. First, when a con-
+
+79000 -r-----------~-------------------------------------.
+
+77000 -
+
+~
+876000~
+175000~
+
+8
+
+~
+
+.g 74000
+'t::
+
+-
+
+~
+&73000
+0
+
+<
+72000
+
+71000 - ·---
+
+70000~--~------~------------------------------------~
+
+-0.75 -0.50 -0.25 0.00
+
+0.25
+
+0.50
+
+0.75
+
+1.00
+
+1.25
+
+1.50
+
+1.75
+
+2.00
+
+Tax. Rate
+
+Tax on All
+Pesticides
+
+-a-
+
+Tax on Carbofuran
+
+--+-
+
+Tax on All Pesticides w/o
+Health in.Cost Function
+Tax on Carbofuran w/o
+Health in Cost Function
+
+Fig. 2. The effect of the pesticide tax on average variable cost of production.
+
+2.25
+
+206
+
+J.M. Antle et al. /Agricultural Economics 18 (1998) 199-207
+
+ventional specification of the cost function is used
+with health excluded from the cost function, a tax on
+carbofuran or a tax on all pesticides increases the
+average variable cost of production, as economic
+theory predicts. Second, when health is included in
+the cost function, a tax levied on carbofuran alone
+results in a negative relationship between the tax
+rate and average cost. This result occurs because the
+positive effect of a higher pesticide price is more
+than offset by the cost-reducing effect of improved
+health. This result is similar to the Antle and Pingali
+finding that a pesticide tax targeted at insecticides in
+rice production would increase productivity. However, when a tax on all pesticides is used, a positive
+relationship emerges because the effect of the tax on
+cost now exceeds the effect of health in the cost
+function.
+The clear policy implication of these findings is
+that reducing carbofuran use is a win-win proposition: farmers would be both healthier and more
+productive if carbofuran use were reduced, because
+the productivity gains from improved health outweigh the negative productivity effects of reduced
+pesticide use. However, a policy to reduce all pesticide use would be less efficient and would result in a
+tradeoff between health and productivity.
+In concluding, we note that a pesticide tax is used
+in the simulations to illustrate the effects of changing
+pesticide use. Taxes are representative incentive-type
+policies. Also, available to policy makers are several
+types of regulatory and other policies. For example,
+in the United States, high-risk pesticides can only be
+applied by trained pesticide applicators. Many countries also restrict the availability of certain environmentally damaging or dangerous pesticides, or include regulations regarding on-farm use of risky
+pesticides on the product label. There are also important technology and education policy options, including integrated pest management, the development of
+late-blight resistant varieties, and programs to promote the safe use of pesticides and the use of
+protective clothing. These policies could improve
+productivity and the health of the farm population
+without imposing the productivity losses that could
+be associated with reduced pesticide use.
+Trade and related exchange rate policies also
+could have a significant impact on pesticide use,
+environmental quality, productivity and health (Antle
+
+et al., 1996). Ecuador's exchange rate policies have
+effectively subsidized the importation of pesticides
+such as carbofuran by about 30% (Lee and Espinosa,
+1998). Because this policy change would be equivalent to a uniform tax on all types of pesticides, the
+analysis presented here implies that the elimination
+of this subsidy would reduce all types of pesticides
+and improve health, but could adversely affect productivity.
+
+Acknowledgements
+The authors wish to acknowledge the financial
+support of the Montana Agricultural Experiment Station, the International Potato Center, and the Rockefeller Foundation.
+
+References
+Anger, W.K., Cassitto, M.G., Liang, Y.X., Amador, R., Hooisma,
+J., Chrislip, D.W., Mergler, D., Kiefer, M., Hortnagl, J.,
+Fournier, L., Dudek, B., Zsogon, E., 1983. Comparison of
+performance from three continents on the WHO-recommended
+neurobehavioral core test battery. Environ. Res. 62, 125-147.
+Antle, J.M., Capalbo, S.M., 1994. Pesticides, productivity, and
+farmer health: Implications for regulatory policy and agricultural research. Am. J. Agric. Econ. 76, 598-602.
+Antle, J.M., Pingali, P., 1994. Pesticides, productivity, and farmer
+health: A Philippine case study. Am. J. Agric. Econ. 76,
+418-430.
+Antle, J.M., Capalbo, S.M., Crissman, C.C., 1994. Econometric
+production models with endogenous input timing: An application to Ecuadorian potato production. J. Agric. Res. Econ. 19,
+1-18.
+Antle, J.M., Crissman, C.C., Wagenet, R.J., Hutson, J.L., 1996.
+Empirical foundations of environment-trade linkages: Implications of an Andean study. In: Bredahl, M.E., Ballenger, N.,
+Dunmore, J.C., Roe, T.L. (Eds.), Agriculture and the Environment: Discovering and Measuring the Critical Linkages, Chap.
+12. Westview Press, Boulder.
+Cassito, M.G., Camerino, D., Hiinninen, H., Anger, W.K., 1990.
+International collaboration to evaluate the WHO neurobehavioral core test battery. In: Johnson, B.L., Anger, W.K., Durao,
+A., Xintaras, C. (Eds.), Advances in Neurobehavioural Toxicology: Applications in Environmental and Occupational
+Health. Lewis, Chelsea, MI, pp. 203-223.
+Cole, D.C., Leon, N., Carpio, F., 1998a. Health impacts of
+pesticide use in Carchi farm populations. In: Crissman, C.C.,
+Antle, J.M., Capalbo, S.M. (Eds.), Economic, Environmental,
+and Health Tradeoffs in Agriculture: Pesticides and the Sus-
+
+J.M. Antle et al./ Agricultural Economics 18 (1998) 199-207
+
+tainability of Andean Potato Production, Chap. 9, Kluwer
+Academic Publishers, Boston, in press.
+Cole, D.C., Carpio, F., Julian, J., Leon, N., Carbotte, R., de
+Almeida, H., 1997b. Neurological outcomes among farm and
+non-farm mral Ecuadorians. Neurotoxicol. Terata!., 1997b (in
+press).
+Crissman, C.C., Cole, D.C., Carpio, F., 1994. Pesticide use and
+farm worker health in Ecuadorian potato production. Am. J.
+Agric. Econ. 76, 593-597.
+Crissman, C.C., Antle, J.M., Capalbo, S.M. (Eds.), 1997. Economic, Environmental, and Health Tradeoffs in Agriculture:
+Pesticides and the Sustainability of Andean Potato Production.
+Kluwer Academic Publishers, Boston, in press.
+
+207
+
+Gerchon, S., Shaw, F.H., 1961. Psychiatric sequelae of chronic
+exposure to organophosphoms insecticides. Lancet, pp. 137174.
+Lee, D.R., Espinosa, P., 1998. Economic reforms and changing
+pesticide policies in Ecuador and colombia. In: Crissman,
+C.C., Antle, J.M., Capalbo, S.M. (Eds.), Economic, Environmental, and Health Tradeoffs in Agriculture: Pesticides and
+the Sustainability of Andean Potato Production, Chap. 6.
+Kluwer Academic Publishers, Boston, in press.
+The Pesticide Health Effects Study Group, Rosenstock, L., Keifer,
+M., Daniell, W., McConnell, R., Claypoole, K., 1991. Chronic
+central nervous system effects of acute organophosphate pesticide intoxication. Lancet 338, 223-227.
+
+

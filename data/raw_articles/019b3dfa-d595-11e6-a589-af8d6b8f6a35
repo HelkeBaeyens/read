@@ -1,0 +1,2241 @@
+Dial “A” for Agriculture
+A Review of Information and Communication
+Technologies for Agricultural Extension in
+Developing Countries
+Jenny C. Aker
+
+Abstract
+Agriculture can serve as an important engine for economic growth in developing countries, yet
+yields in these countries have lagged far behind those in developed countries for decades. One
+potential mechanism for increasing yields is the use of improved agricultural technologies, such
+as fertilizers, seeds and cropping techniques. Public-sector programs have attempted to overcome
+information-related barriers to technological adoption by providing agricultural extension services.
+While such programs have been widely criticized for their limited scale, sustainability and impact,
+the rapid spread of mobile phone coverage in developing countries provides a unique opportunity
+to facilitate technological adoption via information and communication technology (ICT)-based
+extension programs. This article outlines the potential mechanisms through which ICT could
+facilitate agricultural adoption and the provision of extension services in developing countries. It
+then reviews existing programs using ICT for agriculture, categorized by the mechanism (voice,
+text, internet and mobile money transfers) and the type of services provided. Finally, we identify
+potential constraints to such programs in terms of design and implementation, and conclude with
+some recommendations for implementing field-based research on the impact of these programs on
+farmers’ knowledge, technological adoption and welfare.
+JEL Codes: D1, I2, O1, O3
+Keywords: Agriculture; agricultural extension; information technology; program evaluation
+
+www.cgdev.org
+
+Working Paper 269
+September 2011
+
+Dial “A” for Agriculture: A Review of Information and
+Communication Technologies for Agricultural Extension in
+Developing Countries
+Jenny C. Aker
+
+This paper is forthcoming in Agricultural Economics.
+Jenny C. Aker is a non-resident fellow at the Center for Global Development and
+assistant professor of economics at Tufts University, Economics Department
+and Fletcher School, 160 Packard Avenue, Medford, MA 02155. Jenny.Aker@
+tufts.edu. She would like to thank Tanguy Bernard, Alain de Janvry, Jean-Jacques
+Dethier, Travis J. Lybbert, Jeremy Magruder, Isaac Mbiti, Elisabeth Sadoulet,
+Muzhe Yang, an anonymous referee and participants at the Agriculture for
+Development Conference at the University of California-Berkeley for helpful
+comments and suggestions. All errors are her own.
+CGD is grateful for support of this work from its funders and board of directors.
+Jenny C. Aker. “Dial “A” for Agriculture: A Review of Information and Communication
+Technologies for Agricultural Extension in Developing Countries.” CGD Working Paper
+269. Washington, D.C.: Center for Global Development.
+http://www.cgdev.org/content/publications/detail/1425497
+
+Center for Global Development
+1800 Massachusetts Ave., NW
+Washington, DC 20036
+202.416.4000
+(f) 202.416.4050
+www.cgdev.org
+
+The Center for Global Development is an independent, nonprofit policy
+research organization dedicated to reducing global poverty and inequality
+and to making globalization work for the poor. Use and dissemination of
+this Working Paper is encouraged; however, reproduced copies may not be
+used for commercial purposes. Further usage is permitted under the terms
+of the Creative Commons License.
+The views expressed in CGD Working Papers are those of the authors and
+should not be attributed to the board of directors or funders of the Center
+for Global Development.
+
+1.
+
+Introduction
+
+The potential role of agriculture as an engine for economic growth has long been recognized
+(Byerlee, de Janvry and Sadoulet 2009). Yet despite the importance of agriculture for
+development, agricultural production and yields have lagged far behind those in developed
+countries over the past few decades. One potential explanation for this stagnating growth in
+yields is the underutilization of improved agricultural technologies, which has remained
+relatively low in developing countries since the 1970s (Figure 1).1
+Numerous economic studies have identified the determinants of technology adoption and
+the potential barriers to it (Feder, Just and Zilberman 1985, Foster and Rosenzweig 1995,
+Foster and Rosenzweig 2010). While the specific determinants of technology adoption
+depend upon the setting and the technology type, common factors identified in the
+theoretical and empirical literature include education, wealth, tastes, risk preferences,
+complementary inputs and access to information and learning. Of these, the role of
+asymmetric and costly information has received particular attention.
+Governments and international organizations have attempted to overcome some of the
+perceived information failures related to technology adoption via agricultural extension
+services, generally defined as the delivery of information inputs to farmers (Anderson and
+Feder 2007). There were approximately 500,000 agricultural extension personnel worldwide
+in 2005, with 95 per cent of these working in public agricultural extension systems
+(Anderson and Feder 2007). Yet despite decades of investment in and experience with public
+extension programs, evidence of their impact upon agricultural knowledge, adoption and
+productivity remains limited. Furthermore, the systems themselves have been criticized for
+high costs, problems of scale and low levels of accountability (Anderson and Feder 2007).
+The rapid spread of information and communication technologies (ICT) in developing
+countries offers a unique opportunity to transfer knowledge via private and public
+information systems. Over the past decade, mobile phone coverage has spread rapidly in
+Africa, Asia and Latin America: over sixty percent of the population of sub-Saharan Africa,
+Asia and Latin America had access to mobile phone coverage in 2009. Coinciding with this
+increase in mobile phone coverage has been an increase in mobile phone adoption: As of
+1Low
+
+levels of adoption do not necessarily indicate under-adoption, defined as a “situation in which there are
+
+substantial unrealized gains to the use of a new technology or expansion of input use, and reflected in high
+returns to adoption” (Foster and Rosenzweig 2010).
+
+1
+
+2008, there were approximately 4 billion mobile phone subscribers worldwide, with 374
+million subscriptions in Africa, 1.79 million in Asia and 460 million in Latin America (ITU
+2009). While initial adoption was primarily by wealthier, urban and more educated residents,
+in recent years, mobile phones have been adopted by rural and urban populations in some of
+the world’s poorest countries (Aker and Mbiti 2010).
+Mobile phones significantly reduce communication and information costs for the rural poor.
+This not only provides new opportunities for rural farmers to obtain access to information
+on agricultural technologies, but also to use ICTs in agricultural extension services. Since
+2007, there has been a proliferation of mobile phone-based applications and services in the
+agricultural sector, providing information on market prices, weather, transport and
+agricultural techniques via voice, short message service (SMS), radio and internet. While such
+programs are innovative, they are not without challenges, and it is not yet clear that they will
+substitute for existing agricultural extension systems. Furthermore, empirical evidence on
+their impact remains limited. In order to measure the impact of such services on farmers’
+knowledge, adoption and welfare, as well as their cost-effectiveness, rigorous impact
+evaluations are needed.
+The rest of this paper proceeds as follows. Section II provides an overview of the rationale
+for and impact of agricultural extension programs in developing countries. Section III
+identifies the potential mechanisms through which mobile phones could improve farmers’
+access to information and agricultural adoption in general, and facilitate the delivery of
+agricultural extension systems in particular. Section IV surveys existing ICT-based
+agricultural extension programs and identifies potential challenges to such programs in terms
+of design and implementation. Section V outlines a framework for measuring the causal
+impact of ICT-based agriculture programs. Section VI concludes.
+
+2.
+
+Technology Adoption and Agricultural Extension
+2.1. Technology Adoption, Agriculture and Growth
+
+The potential role of agriculture as an engine for economic development has long been
+recognized (Byerlee, de Janvry and Sadoulet 2009). Since the seminal contributions of
+Schultz (1964), Hayami and Ruttan (1971), and Mellor (1998), there has been a large body of
+theoretical and empirical literature on the potential multiplier effects of agricultural growth
+on non-agricultural sectors (Byerlee, de Janvry and Sadoulet 2009). Cross-country and
+country-specific econometric evidence have indicated that GDP growth generated in
+agriculture can be particularly effective in increasing expenditures and incomes of the poor
+(Ligon and Sadoulet 2007, Bravo-Ortega and Lederman 2005, Ravallion and Chen 2007).
+Despite the importance of agriculture for economic development, agriculture is yet to
+perform as an engine of growth in many developing countries – especially in sub-Saharan
+Africa (Byerlee, de Janvry and Sadoulet 2009). Agricultural yields have only shown slight
+increases in sub-Saharan Africa and Latin America since the 1960s, despite advances in
+
+2
+
+agricultural innovations during that time (Masters 2009).2 In addition, data on the adoption
+of improved agricultural technologies paint a picture of low levels of adoption in developing
+countries, particularly sub-Saharan Africa.3
+The low rates of adoption in developing countries have been well-documented, and there is
+widespread theoretical and empirical literature identifying the determinants of agricultural
+technology adoption in different contexts (Feder, Just and Zilberman 1985, Foster and
+Rosenzweig 1995, Suri forthcoming, Conley and Udry 2010, Duflo, Kremer and Robinson
+forthcoming).4 While the findings differ according to the technology and context, numerous
+studies have identified the importance information and learning for the adoption process.5
+2.2. Information, Agricultural Extension and Technology Adoption
+The agricultural production function implies that farmers need information on a variety of
+topics, at a variety of stages, before adopting a new technology. Figure 2 provides a stylized
+representation of the agricultural production function, including distinct yet nested adoption
+decisions (de Silva and Ratnadiwakara 2008, Mittal, Gandhi and Tripathi 2010).6 Farmers
+have different types of information needs during each stage of the process, ranging from
+weather forecasts, pest attacks, inputs, cultivation practices, pest and disease management
+and prices.
+
+2
+
+Masters (2009) notes that national estimates of crop productivity suggests that cereal grain output per capita in
+
+sub-Saharan Africa now equals that of South Asia.
+3Technology
+
+is the “relationship between inputs and outputs” (Foster and Rosenzweig 2010), or the set of
+
+hardware (physical) and software (techniques) tools that allow for a different mapping of inputs to outputs.
+Technology adoption is therefore defined as the “use of new tools or techniques that relate inputs to outputs and
+the allocation of inputs” (Foster and Rosenzweig 2010).
+4Duflo,
+
+Kremer and Robinson (forthcoming) find that the returns to fertilizer are high in Kenya and suggest that
+
+fertilizer is under-utilized. Suri (forthcoming) suggests that some farmers with high returns to adopting hybrid
+seeds do not adopt, and attributes this in part to poor infrastructure.
+5Foster
+
+and Rosenzweig (1995, 2010) develop a model of learning by doing and learning from others, defining
+
+learning as taking place when “new information affects behavior and results in outcomes for an individual that
+are closer to the (private) optimum.” Learning can therefore reduce uncertainty about the profitability of a new
+technology, as well as help an individual to obtain information about how to optimally manage the new
+technology.
+6The
+
+simplified model identifies six stages: The “pre-planting” stage, whereby farmers decide on the crops and
+
+the allocation of land to each crop; the “seeding” stage, whereby farmers decide whether to purchase seeds or use
+their own; the “preparing and planting” stage, whereby farmers prepare the land using own or hired labor or land
+preparation machinery; the “growing” stage, which requires decisions about the application of water, fertilizer
+and pesticides; the “harvesting, packing and storage” stage, which requires decisions about labor for harvesting
+and storage; and the “marketing” stage, whereby farmers must decide whether, when and where to sell the
+commodity (de Silva and Ratnadiwakara 2008, Mittal, Gandhi and Tripathi 2010).
+
+3
+
+Farmers can obtain information from a number of sources, including, among others, their
+own trial and error and from members of their social network. Yet while traditional
+economic theory assumes that information is costless, information is rarely symmetric or
+costless in developing countries. This is partly due to the high cost of obtaining information
+via traditional means, such as travel, radio or newspaper. As a result, information
+asymmetries can be an important barrier to agricultural technology adoption in developing
+countries.
+Since the 1960s, agricultural extension has been put forth as a means of reducing the
+information asymmetries related to technology adoption in both developed and developing
+countries. Broadly speaking, agricultural extension is the “delivery of information inputs to
+farmers” (Anderson and Feder 2007). The general extension approach uses specialists to
+provide a range of services to farmers, from technology transfers to advisory services and
+human resource development. 7 In some cases it has also sought to connect researchers
+directly to the farmer in order to ensure that new technologies are better targeted to the
+specific conditions of agricultural communities.
+Agricultural extension models can take several forms.8 The most common approaches are
+Training and Visit (T&V), Farmer Field Schools (FFS) and fee-for-service. In the T&V
+approach, specialists and field staff provide technical information and village visits to
+selected communities. In many cases the field agents train and work directly with “contact
+farmers”, or farmers who have successfully adopted new technologies and are able to train
+others. T&V was promoted by the World Bank and applied in more than 70 countries
+between 1975 and 1995 (Anderson, Feder and Ganguly 2006).9 Farmer field schools (FFS)
+were specifically designed to diffuse integrated pest management (IPM) methods in Asia.
+FFS also utilize contact farmers, relying on participatory training methods that build farmer
+capacities. Fee-for-service extension comprises both public and private initiatives with some
+public funding. In these programs, farmer groups contract extension agents with specific
+information and service requests.10
+
+7
+
+Information provided via agricultural extension can include prices, research products and knowledge about
+
+particular techniques or inputs, such as the intensity and timing of fertilizers.
+8Agricultural
+
+extension has expanded in developing countries since the 1960s with significant public sector
+
+financing. There are approximately 500,000 agricultural extension workers worldwide, and 80 percent of these are
+publicly funded and delivered by civil servants (Anderson and Feder 2007).
+9
+
+The decentralized T&V approach is similar to the T&V approach, but the responsibility for delivery is given to
+
+local governments (Crowder and Anderson 2002).
+10While
+
+agricultural extension services are primarily financed and implemented by the public sector, the
+
+information provided via such systems is not always a public good. Table 1 shows the different types of
+information provided via extension systems and their classification as either private, public, club or common pool
+goods (Anderson and Feder 2007).
+
+4
+
+2.3. Does Agricultural Extension Work?
+Despite decades of investment in agricultural extension systems, there are surprisingly few
+rigorous impact evaluations of these services in developing countries. Table 2 provides an
+overview of these studies, based upon the type of agricultural extension system (T&V, FFS,
+fee for service and social networks) and the outcome variable of interest (knowledge,
+adoption, yields, rates of return and general livelihoods) (Evanson 2001, Anderson and
+Feder 2007). The results provide contradictory evidence of the impact of agricultural
+extension programs.11
+Do these results suggest that agricultural extension does not work? There are two potential
+explanations for the mixed results in Table 2. First, there are several challenges to identifying
+a causal relationship between agricultural extension and development outcomes. Measuring
+the outcome variables of interest in such studies (e.g., adoption, production and returns) is
+notoriously difficult, thereby introducing measurement error in the dependent variable.
+While this will not introduce attenuation bias (the bias toward zero), it can reduce precision,
+thereby making it more difficult to detect a statistically significant effect. Furthermore,
+observable and unobservable characteristics that are simultaneously correlated with
+extension programs and the outcomes of interest will very likely differ across extension and
+non-extension communities, as well as across users and non-users, which makes the
+participation status of extension programs endogenous. And finally, given the different types
+of agricultural extension models (T&V, fee for service, FFW) and the wide range of
+information provided via these models, cross-country comparisons of agricultural extensions
+programs are meaningless.
+Beyond problems of measurement error and endogeneity, another potential reason for the
+seemingly weak impacts of these programs could simply be the quality of the agricultural
+systems themselves. A worldwide review of public extension systems by Rivera, Qamar and
+Crowder (2001) found that many agricultural extension systems were barely functioning,
+related to the following factors:
+ Limited scale and sustainability: In countries where the farm sector is
+comprised of small-scale farmers, extension clients often live in geographically
+dispersed areas. This can result in high costs, limited geographic coverage and
+unsustainable services (Anderson and Feder 2007).
+ Policy environments that reduce the value of information provided
+via extension services, mainly due to terms of trade that are tilted against
+agriculture, poor infrastructure and inadequate input supplies.
+11
+
+For example, earlier studies on the impact of agricultural extension (T&V) in India found that T&V had no
+
+significant impact on rice production but increased economic returns in wheat by 15 percent (Feder and Slade
+1986, Feder, Lau and Slade 1987). Yet similar studies of T&V in Pakistan found only small impacts on wheat
+(Hussein, Bylerlee and Heisey 1994).
+
+5
+
+ Weak linkages between research centers, universities and agricultural
+extension systems. While extension services in the US and Europe are often
+linked with the university system, this may not be the case in developing
+countries. Consequently, the incentives of these institutes are not aligned with
+agricultural priorities in the country (Purcell and Anderson 1997) and
+technologies are not always locally adapted.
+ Low motivation and accountability of extension field staff. As is the
+case with all public servants, monitoring the presence and motivation of
+extension staff is difficult. This is particularly problematic in the case of
+agriculture, where field agents work in different geographic regions and
+performance indicators are based upon inputs that are difficult to verify (ie,
+number of trainings, number of attendees). Lack of monitoring can result in
+absent or poor-quality field staff, further reducing the utility of agricultural
+extension services.
+ Little rigorous evidence of the impacts of such extension on farmers’
+welfare. The lack of reliable evidence on the impact of agricultural extension
+exacerbates problems related to funding, motivation and the availability of
+appropriate technologies.
+In this environment, it is not only unclear whether agricultural extension systems are
+functioning, but whether these systems are overcoming information asymmetries for smallholder farmers related to agricultural technology.
+
+3.
+How ICTs Could Affect Agricultural Adoption and Extension in
+Developing Countries12
+3.1. Mobile phone coverage and adoption in the developing world
+Agricultural extension systems were conceived of and developed in response to information
+asymmetries for poor farmers, particularly those with limited access to other sources of
+information (landlines, newspapers and radios). While infrastructure investments still remain
+low in many developing countries, one of the most dramatic changes over the past decade
+has been an increase in mobile phone coverage and adoption. In sub-Saharan Africa, for
+example, less than 10 percent of the population had mobile phone coverage in 1999,
+increasing to over 60 percent of the population in 2008 (Aker and Mbiti 2010).
+
+12
+
+ICT is an umbrella term that includes any communication device or application, such as radio, television,
+
+mobile phones, computers and network hardware and software. We will primarily focus on mobile phone
+technology in the context of this paper, given its role in developing countries. Internet penetration is still
+relatively limited in Africa.
+
+6
+
+Coinciding with this growth in coverage has been an increase mobile phone adoption and
+usage, even in some of the world’s poorest countries. There were 16 million subscribers in
+sub-Saharan Africa 2000, growing to 376 million in 2008. Similar rates of mobile phone
+adoption have been observed in Latin America and Asia (Figure 3).13 The number of mobile
+phones per 100 people in developing countries often exceeds access to other information
+technologies, such as landlines (Jensen 2010), newspapers and radios (Aker and Mbiti 2010).
+3.2. The Impact of ICTs on Agricultural Information, Extension and Adoption
+The rapid growth of mobile telephony in developing countries has introduced a new search
+technology that offers several advantages over other alternatives in terms of cost, geographic
+coverage and ease of use (Aker and Mbiti 2010). While radios can be used across all
+segments of the population (over 55 percent of sub-Saharan African households listen to the
+radio weekly), they generally provide a limited range of information and offer only one-way
+communication (Demographic and Health Surveys, various countries). Newspapers are
+primarily concentrated in urban areas, are expensive and are inaccessible to illiterate
+populations. Less than 19 percent of individuals in sub-Saharan Africa read a newspaper at
+least once per week, with a much smaller share in rural areas (DHS surveys, various
+countries). Landline coverage has been limited, with less than one landline subscriber per
+100 people in 2008 (ITU 2009). Access to other search mechanisms, such as fax machines, email, and internet, is similarly low. And finally, personal travel to different locations to obtain
+information not only requires the cost of transport, but also the opportunity cost of an
+individual’s time.
+Aker and Mbiti (2010) provide an overview of the mechanisms through which mobile phone
+telephony can affect economic development in sub-Saharan Africa, including improved
+access to market information and coordination among agents; increased job creation;
+improved communication among social networks; and the development of new services,
+such as mobile banking. In that vein, this paper identifies six potential mechanisms through
+which mobile phones could potentially improve farmers’ access to information about
+agricultural technologies and adoption in general, as well as access to and use of agricultural
+extension services in particular.
+How Mobile Phones can Improve Access to (Private) Information
+Mobile phones can improve access to and use of information about agricultural
+technologies, potentially improving farmers’ learning. As Figure 2 shows, farmers require
+information on a variety of topics at each stage of the agricultural production process. In
+many developing countries, such information has traditionally been provided via personal
+exchanges, radio and perhaps landlines and newspapers. Compared with these mechanisms,
+13The
+
+number of subscribers represents the number of active SIM cards in a country. This could either
+
+overestimate the number of subscribers (as one individual could have multiple SIM cards) or underestimate the
+number (as multiple people can use one phone and SIM).
+
+7
+
+mobile phones can significantly reduce the costs of obtaining agricultural information.
+Figure 4 shows the per-search cost of price information for different types of search
+mechanisms. Mobile phones are significantly less expensive than the equivalent per-search
+cost of personal travel or a newspaper, yet more expensive than landlines or radio.
+Nevertheless, landlines are not readily available in most regions of the country, and radio
+only provides price information for specific products and markets on a weekly basis.
+The reduction in search costs associated with mobile phones could increase farmers’ access
+to information via their private sources, such as members of their social network (Baye,
+Morgan and Scholten 2007, Aker 2010, Aker and Mbiti 2010). This could speed up or
+increase farmers’ contact with other adopters in a social network, thereby allowing farmers
+to learn from more “neighbors’” trials of a new technology or observe those trials more
+frequently.14 While this could potentially increase the rate of technology adoption, it could
+also reduce the rate of adoption in the presence of learning externalities (Foster and
+Rosenzweig 1995, Foster and Rosenzweig 2010).15
+How Mobile Phones can Increase Access to Information via Agricultural Extension
+Services
+Reduced communication costs could not only increase farmers’ access to (private)
+information, but also to public information such as those provided via agricultural extension
+services. Figure 5 shows the marginal cost (borne by the extension system) of providing
+agricultural price information, either via extension agent’s visits, short message service (SMS)
+or a call-in hotline, based upon data from a SMS-based market information service in Niger.
+The marginal cost of providing market information via SMS is cheaper than providing the
+same information via an additional extension visit, and is equivalent to providing the same
+information via radio.16 Reducing the costs of disseminating information could increase the
+extension system’s geographic scope and scale, as well as facilitate more frequent and timely
+communications between extension agents and farmers. This could, in turn, improve the
+14In
+
+addition to the impact of mobile phones on obtaining information on a technology, mobile phones could
+
+speed up information flows within a social network, thereby increasing access to informal credit, savings and
+insurance and thereby affecting a farmer’s adoption decision (Aker and Mbiti 2010).
+15Increased
+
+access to information – either via learning by doing or learning from others – will not necessarily lead
+
+to higher rates of adoption, as learning that a new technology is not efficacious will reduce adoption in the next
+period (Foster and Rosenzweig 2010). There are also two potential opposing effects of social networks on the
+adoption decision: an individual farmer’s incentive to adopt increases as the number of members in his or her
+social network using the new technology increases; yet this also creates an incentive to delay adoption due to freeriding behavior and information spillovers (Foster and Rosenzweig 1996).
+16While
+
+the fixed costs for constructing radio towers and mobile phone base stations differ by location and
+
+country, within a given country or location, the fixed costs of constructing a radio tower are similar to those of a
+mobile phone base station. In many cases, however, the costs of constructing the radio tower are borne by the
+public sector. If these infrastructure costs are included, then radio is relatively more expensive as compared with
+mobile phone technology, whose infrastructure costs are usually borne by the private sector.
+
+8
+
+quality (or value) of the information services provided. Yet the impact of these reduced costs
+on farmers’ adoption decisions will depend upon the ability of such information to serve as
+substitute for in-person mechanisms.
+How Mobile Phones can Improve Farmers’ Management of Input and Output
+Supply Chains
+Several studies have highlighted the importance of risk and supply-side constraints as
+barriers to agricultural technology adoption (e.g., Suri forthcoming). By reducing
+communication costs, mobile phones could assist risk-averse farmers in identifying potential
+buyers for their products over larger geographic areas and at crucial moments, thereby
+reducing price risk and potentially increasing the net benefits of the technology. Similarly,
+improved communication between farmers and traders could also facilitate the provision of
+inputs to rural areas, potentially reducing their cost.
+Mobile Phones can facilitate the Delivery of Other Services
+Over the past few years, mobile phone operators have developed a variety of mobile services
+and applications in developing countries. The most prominent of these is mobile money
+transfers (known as m-money), a system whereby money can be transferred to different
+users via a mobile phone. M-money applications can facilitate the delivery of complementary
+services to farmers (such as access to credit or savings, or agriculture and health insurance),
+thereby helping to address some of the “missing markets” that can constrain technology
+adoption (Foster and Rosenzweig 2010).
+How Mobile Phones can Increase Accountability of Extension Services
+Simple mobile phones can be used as a means of collecting both farmer and agent-level data,
+thereby improving the accountability of extension services (Dillon 2011). Voice and SMS can
+be used to collect data on farmers’ adoption, costs and yields on a more frequent basis,
+rather than waiting for annual agricultural surveys, when recall data on costs and production
+are often subject to measurement error. In addition, mobile phones can be used to verify
+agents’ visits, similar to what has been done with cameras in Indian schools (Duflo, Hanna
+and Ryan 2007). Both of these applications could improve the monitoring of extension
+systems, an oft-noted constraint.
+How Mobile Phones can Increase Communication Linkages with Research Systems
+By improving the communication flows, mobile phones could potentially strengthen the link
+between farmers, extension agents and research centers, and vice versa – thereby
+overcoming criticism of the “disconnect” between the two in many developing countries.
+
+9
+
+4.
+
+Using ICTs in Agricultural Extension
+
+For decades, “traditional” forms of ICTs have been used in advisory service provision.
+Radio and TV programs regularly feature weather and agricultural information in developing
+countries, and rural telecenters have provided information on price and quality (Goyal 2010).
+In some countries, national ministries of agriculture have attempted to integrate ICTs into
+information delivery services, specifically by establishing district information centers (FARA
+2009). With the growth of mobile phone coverage, many of these initiatives have moved
+away from “traditional” ICTs to mobile telephony, including voice, SMS and internet-based
+services. Table 3 provides a survey of these projects, categorized by the mechanism of
+dissemination (voice, radio, SMS and internet) and their primary purpose (FARA 2009).
+
+Voice-based information delivery services primarily include telephone‐
+based information delivery services that provide advice on farming methods and
+market access. Some of these services use call‐in centers or hotlines for agricultural
+extension support. The mechanisms range from the use of a simple telephone –
+such as landlines or mobile phones – to more complicated technology and
+computing applications (FARA 2009).
+
+Radio dial-up and broadcasts include regular radio broadcasts that
+provide market prices or other agricultural information, as well as dial‐up radio that
+feature a series of short segment audio programs (FARA 2009). The radio system
+often features a regularly updated menu of pre‐recorded agricultural content. In
+some cases, the systems allow farmers to ask questions via SMS and the responses
+are disseminated via the radio (FARA 2009).
+
+SMS-based extension services essentially use message-based platforms to
+collect and disseminate information. This includes data collection via a simple SMSbased questionnaire; sending an SMS-based code to request information (on market
+prices or agricultural production) and receiving the response via SMS; and receiving
+mass SMS on agricultural topics (FARA 2009).
+
+E-learning programs typically include telecenters and internet kiosks that
+allow farmers to access computers and the internet for agriculture-related
+information.
+The information provided via these different mechanisms includes market prices, weather,
+technical advice and suppliers and buyers in local markets. A majority of these services focus
+on market prices, weather and transport costs, most likely because this information is easy to
+collect and disseminate, objective and less prone to measurement error (albeit quickly
+outdated and constantly changing). Projects that provide information on agricultural
+practices and inputs are relatively rare, possibly because such information is more nuanced
+and difficult to convey.
+
+10
+
+While all of these mechanisms offer potential alternatives to traditional means of
+disseminating information, there are challenges to using ICT in agricultural extension
+systems. First, the use of ICT-based agricultural extension is highly dependent upon the type
+of information provided. For example, while information on market prices and weather
+might be easily disseminated via mobile phones and therefore replace traditional extension
+mechanisms, more nuanced information on agricultural practices and inputs might be
+complements. Second, SMS-based platforms – which are often the easiest to establish – can
+only hold limited information and require that users have some literacy skills and
+technological knowledge. Such services can be useful in providing simple or standardized
+information but are as easily adaptable for more complex information exchanges. Third,
+while voice-based Q&A services overcome the limitations of text‐based platforms and can
+provide more nuanced information, they can be complicated to develop or require machines
+to produce natural speech. Some early initiatives have made audio files accessible to farmers
+through the use of mobile phones (Kenya, Uganda and Zimbabwe). Finally, since many of
+these applications and services have been developed and managed by the private sector, the
+use of these initiatives for agricultural extension will most likely require some sort of publicprivate partnership. All of these factors suggest that ICT-based extension services could
+fundamentally change the way in which agricultural information is provided in developing
+countries, and highlights the need for evaluating whether such approaches are more effective
+and efficient in providing information to farmers in developing countries.
+
+5.
+
+Measuring the Impact of ICT-Based Agricultural Extension Programs
+5.1. Identifying the Impact of ICT-Based Agricultural Extension
+
+Mobile phones are one tool among many for disseminating and collecting information on
+agricultural technologies, yields and prices in developing countries. Before scaling up such
+interventions, it is necessary to evaluate the impact of existing ICT-based approaches. Such
+evaluations should seek to address the following questions:
+1.
+What is the impact of ICT-based agricultural programs on farmers’
+knowledge, agricultural adoption and welfare? In other words, are changes in
+outcomes observed before and after the intervention due to the ICT-based
+intervention or other factors? This requires identifying a causal effect of the program,
+either the average treatment effect (ATE), the average treatment effect on the
+treated (ATT) or the intention to treat (ITT).
+2.
+Are the observed changes in outcomes due to the ICT project or
+access to the mobile phone? In some cases, ICT-based projects provide
+participants with access to mobile phones. Since mobile phones can affect farmers’
+access to information and services through different channels, it is necessary to
+disentangle the impact of the ICT-based service from the impact of mobile phone
+usage.
+
+11
+
+3.
+What are the mechanisms behind the treatment effect? In other words,
+how (or through what pathway) does the ICT-based agricultural extension service
+change farmers’ access to information, learning and adoption?
+4.
+How does the estimate of the treatment effect differ by farmer type
+and the type of information provided? Beyond the average effect of the program,
+assessing the heterogeneity of the treatment effects among different groups can
+provide important information for scale-up.
+5.
+What are the potential spillovers of the ICT-based program, both on
+other project participants and non-participants? An advantage of mobile phone
+technology is that it can be shared among many users, thereby allowing non-users to
+potentially benefit from the service. While such spillovers can complicate the
+identification of the treatment effect, incorporating their impact into the treatment
+effect is necessary in order to understand the dynamics of the technology and
+technology adoption.
+6.
+Is the ICT-based approach cost effective as compared with
+traditional mechanisms? Is it a substitute or complement for traditional
+approaches?
+7.
+Are the results externally valid? In other words, are they applicable to
+other regions within the same country, other populations or other countries? If so,
+under what conditions?
+These questions provide a potential framework for designing impact evaluations of ICTbased agriculture and agricultural extension programs. The next sections will discuss some of
+the specific challenges to identifying the impact of these programs and offer some
+recommendations for conducting such evaluations
+5.2. Threats to Identifying Impact of an ICT-Based Agricultural Program
+A simple two-period econometric model of the impact of the ICT-based program might take
+the following form:
+Yit = δ + αdit + X’itγ + Z’vπ + θt + θv + θi +uit + εvt
+
+(1)
+
+where Yit is outcome variable of interest, such as farmers’ agricultural knowledge, technology
+adoption, yields, farm-gate prices or welfare; dit is an indicator variable for assignment of
+individual i into the ICT-based agricultural extension program at time t; Xit is vector of
+farmer-level characteristics; Zv is a vector of village-level baseline characteristics; and θt, θv ,
+and θi are time-, village- and individual-level fixed effects, respectively.17 uit is unobserved
+17Time-varying
+
+farmer-level characteristics (X’it) may be preferred to baseline characteristics, which would be
+
+removed by fixed effects or first-differences estimators.
+
+12
+
+farmer ability or idiosyncratic shocks and εvt is a common village-level error component.
+Equation (1) is a difference-in-differences (DD) specification, comparing the group means
+of the treatment and control group between the pre- and post period. The model could be
+modified in a variety of ways, including controlling for θit (an interaction between farmer
+fixed effects and season fixed effects) or learning (by including the number of adopters in a
+farmer’s social network) (Foster and Rosenzweig 2010).
+There are numerous challenges to identifying the treatment effect, α.18 While some of these
+threats are common to all impact evaluations, some are specific to ICT-based agricultural
+extension programs. These include:
+
+Identifying the appropriate counterfactual for the treatment group.
+Assuming that the potential outcomes are (conditionally) independent of the
+treatment status (dit), then α will measure the treatment effect of dit on Yit.
+Nevertheless, this requires controlling for potential differences in observable or
+unobservable characteristics by establishing a proper counterfactual group (de
+Janvry, Dustan and Sadoulet 2010).
+
+Ensuring common types of information across treatment groups.
+Most impact evaluations represent the program by a binary indicator variable (dit ).
+In the case of ICT-based agricultural extension programs, however, there can be
+multiple treatments, depending upon the mechanism used for disseminating the
+information (e.g., SMS, voice, in-person visits, SMS and in-person visits). While this
+is easily resolved econometrically by including different indicator variables, the
+primary challenge is in the interpretation of the treatment effect; each treatment may
+not only differ in the mechanism of dissemination but also the type (or quality) of information
+provided. For example, voice-based services permit farmers to ask questions and
+receive more detailed information, whereas in-person visits can allow extension
+agents to demonstrate a new technique. This implies that the treatment effect will
+capture the impact of both the mechanism and the information conveyed.19
+
+Disentangling the effects of the mobile phone from impact of the
+ICT-based extension. If the ICT-based agriculture program facilitates participants’
+access to a mobile phone, mobile phone ownership or usage might have a wealth
+effect, thereby decreasing the relative costs of an agricultural technology or
+18The
+
+interpretation of α will depend upon the design of the program. For example, in programs where the ICT-
+
+based extension service is randomly assigned at the community-level, there may not be a one-to-one relationship
+between assignment to the extension service and a household or farmer’s decision to use the service. In this case
+there is imperfect compliance, and standard average treatment effects may not be estimated. Rather, an Intention
+to Treat (ITT) or Local Average Treatment Effect (LATE) will be estimated for compliers (Imbens and Angrist
+1994, Angrist and Imbens 1995).
+19
+
+Using an indicator variable for impact evaluations also does not take into account the intensity of treatment,
+
+which is potentially endogenous.
+
+13
+
+increasing the benefits associated with that technology. This can therefore make it
+difficult to disentangle the benefit of the mobile phone from the benefit of the ICTbased agricultural extension program.
+
+Separating out the mobile phone adoption decision from the
+agricultural adoption decision. In most traditional agricultural extension
+programs, accessing information only requires the opportunity costs of the farmer’s
+time. In the case of ICT-based agricultural extension, obtaining that same
+information also requires how to use the new mobile phone technology. This dual
+adoption decision can affect a participant’s decision to use the ICT-based agriculture
+system.
+
+Controlling for spillover effects. Spillover effects within villages are
+common for traditional agricultural extension programs. Yet such programs usually
+have minimal spillover effects between villages, unless extension agents or farmers in
+treated villages share information with those in control villages. With access to
+mobile phones, farmers are able to contact members of their social networks more
+easily, thereby increasing the likelihood of inter-village spillovers. This can also lead
+to broader general equilibrium effects, especially if farmers change production
+patterns or marketing behavior and are concentrated within a specific geographic
+location.
+5.3. Potential Field Experiments in ICT-Based Agricultural Extension
+A variety of econometric methodologies can be used to estimate equation (1) and address
+the potential threats to validity identified in Section 5.2. These include natural experiments
+or randomized controlled trials (RCTs); regression discontinuity design (RDD); matching;
+difference-in-differences; and instrumental variables. Each approach has relative strengths
+and weaknesses in terms of internal and external validity (de Janvry, Dustan and Sadoulet
+2010) and practical implementation. This section proposes some general principles for
+conducting evaluations of ICT-based extension programs, and provides two examples of
+setting up field experiments to estimate the impact of ICT-based agriculture programs.
+There are some general principles that can be used to estimate the effect of ICT-based
+agricultural extension programs. These include focusing on microeconometric impact analysis,
+which allows for a more careful identification of the appropriate counterfactual (de Janvry,
+Dustan and Sadoulet, 2010); collecting pre- and post data for treatment and comparison groups, so that
+DD can be used to control for time-varying unobservables on the basis of the common
+trend assumption; assigning treatments at the village level (rather than the individual, household or
+plot level) to minimize potential spillovers on the comparison group20; collecting data on social
+20
+
+Nevertheless, in some cases, observing the social dynamics of learning could be of interest. In this case, while
+
+treatment could be at the village or cooperative level, different strategies could be used to target opinion leaders
+or decision-makers to better understand how this affects information-sharing and adoption.
+
+14
+
+networks within villages, in order to identify potential learning across individuals; assigning one
+group to receive “placebo” phones (i.e., phones that are provided without access to the ICT-based
+extension service), in order to identify the impact of the ICT-based service from mobile
+phone usage; and using random assignment, randomized phase-in or clear-cut criteria to assign units
+into the treatment and control groups, so that selection bias can be controlled for more
+explicitly. More specific examples of potential experimental setups are provided below.
+Example #1. A SMS-Based Market Information System (MIS) Experiment
+Over 35 percent of the ICT-based programs in Table 3 provide market information to
+farmers, either via radio, SMS or internet. Traditional evaluations of these programs compare
+farmers’ outcomes (e.g., prices and sales) before and after the program, or compare the
+outcomes of farmers with access to the program to those without access. Yet simple prepost or contemporaneous comparisons will not control for potential selection bias and do
+not address some of the key questions and threats outlined in Sections 5.1 and 5.2.
+A potential experimental design for estimating the effect of an ICT-based MIS program
+could include three treatments and one control:
+
+
+T1: Regular market information system offered
+
+ T2: Regular market information system offered and “placebo” phones
+distributed
+ T3: SMS-based market information system offered and mobile phones
+distributed
+
+
+Comparison: No market information or mobile phones
+
+If these treatments are randomly assigned across different groups, then this would ensure
+independence between the treatment status and the potential outcomes, thereby allowing us
+to have a causal interpretation of the treatment effect.21 Furthermore, since individuals in T2
+would receive mobile phones but not access to the SMS-based MIS, we would be able to
+disentangle the wealth effect of the mobile phone from the impact of the ICT-based
+information system (e.g., comparing T2 with T3). We could further estimate the demand for
+such services by varying the price of the service in T3, potentially by offering the service at
+full cost, a subsidized cost or free. And finally, by assigning treatment at the village level, this
+would minimize the potential spillover effects across villages.22
+21
+
+Since there may be imperfect take-up of the MIS system – in other words, farmers may be assigned to
+
+treatment but not choose to use the service – then we could measure either the ITT or the LATE. For a
+discussion of the assumptions required for LATE in infrastructure programs, see Bernard and Torero (2011).
+22We
+
+could also modify the field experiment to estimate the treatment effect for specific sub-groups (e.g., women
+
+or men, different educational levels), or by targeting particular individuals or opinion leaders within the group.
+
+15
+
+Despite the improvements of this approach as compared with a simple first difference
+analysis, there are several weaknesses to this experimental design. First, even a “basic” field
+experiment with three treatment groups and one control group would require a sample size
+of between 200-300 villages, depending upon the power calculations. This problem could be
+exacerbated if there is weak compliance among those assigned to the program, especially if
+information via the extension service is shared between users and non-users.23 Second, the
+design does not address the potential general equilibrium effects of the program. If farmers
+start buying and selling in new markets due to the MIS, then this will affect local demand
+(supply) on those markets and potentially affect producers and consumers from comparison
+villages. For this reason, this design will only estimate the partial equilibrium effect. And
+finally, random assignment might not be feasible in every context, implying that an
+alternative method of assigning units to treatment and control groups might be required.24
+Example #2. An Agricultural Hotline Experiment
+An alternative type of ICT-based agricultural program is the call-in hotline, whereby farmers
+can call a technical expert and ask specific questions. While these programs are more flexible
+than SMS-based services, the type of information provided – and hence the impact
+evaluation -- is more complex. A key challenge to estimating the impact of this program is
+harmonizing the type of information provided and the type of extension program offered
+(T&V, FFS, fee for service), so that it is possible to disentangle the impact of the
+information provided from the extension model. In addition, it is important to determine
+whether the hotline is a complement or substitute for in-person extension services.
+A potential experimental design for estimating the effect of an ICT-based hotline might
+include four treatments and one control:
+
+
+T1: Caller hotline + phones
+
+
+
+T2: Caller hotline + in-person extension visit + phones
+
+The intervention could also be modified to remove the provision of mobile phones, thereby reducing the number
+of treatment groups.
+23
+
+Such within-village spillovers would also violate the Stable Unit Treatment Value Assumption (SUTVA),
+
+thereby biasing the treatment effect downward (in the case of positive spillovers) or upward (in the case of
+negative spillovers).
+24An
+
+alternative to randomization could be RDD, whereby villages that meet certain criteria (such as those
+
+located more than X km from a market) would be assigned to treatment, and those less than X km would be in
+the control group. However, this approach would raise additional challenges, as it might be difficult to find
+villages that are “arbitrarily close: to the cutoff point, which is necessary for a RDD design. Alternatively, a DD
+approach could be used, whereby villages are assigned to treatment or control group based upon some specific
+and observable criteria that could be included as control variables in the regression.
+
+16
+
+
+
+T3: In-person extension visit + placebo phones
+
+
+
+T4: In-person extension visit only
+
+
+
+Comparison group: No phones, no visits, no hotline
+
+If units are randomly assigned to different treatments, then this would ensure independence
+between the treatment indicator and the potential outcomes, and therefore allow us to
+identify the treatment effect. Since individuals in T3 would receive mobile phones but would
+not have access to the hotline, we would be able to disentangle with wealth effect of the
+phone from the mechanism for providing information (e.g., comparing T3 with T4, and T1
+with T3). We could further estimate the demand for such services by varying the price of the
+hotline in T1 and T2. And finally, by including T2 (a group with access to the hotline, visits
+and phones), this would enable us to determine the extent to which the hotline is a
+complement or substitute for in-person extension visits.25
+Despite the improvements of this approach as compared with traditional approaches, the
+key challenge with this impact evaluation is the (unobserved) differences in information
+provided via each mechanism. For example, in-person visits might allow extension agents to
+show farmers how to use a new technology or technique, and different types of information
+will be provided during visits and discussions. Controlling for these differences is difficult if
+not impossible, unless the technical information and technology is very narrowly defined.
+And while hotlines might be more useful for time-sensitive and technically simple inputs or
+techniques, they would be less useful for technologies that are more difficult to learn or use.
+
+6.
+
+Directions for Future Research
+
+The growth of ICT in developing countries offers a new technology and new opportunities
+for accessing information in poor countries. One of the mechanisms is sharing information
+via agricultural extension, which has long been plagued with problems related to scale,
+sustainability, relevance and responsiveness. There are various pilot programs in India,
+Bangladesh and sub-Saharan trying these new approaches. But like traditional agricultural
+extension, ICT-based agricultural extension risks becoming unsustainable, a “fad” and with
+limited impact on knowledge, adoption and welfare of poor households. For this reason,
+pilot programs need to be assessed using rigorous impact evaluations, which not only assess
+the causal impact, but also its mechanisms; determine whether such approaches are
+complements or substitutes for traditional extension; identify the types of information which
+are bested suited for these programs; calculate the demand for such services and hence their
+potential sustainability; and calculate their cost effectiveness.
+
+25
+
+The evaluation design could be further modified by varying the intensity of treatment; e.g., varying the
+
+frequency of visits or calls.
+
+17
+
+Bibliography
+Aker, Jenny C. 2010. "Information from Markets near and Far: Mobile Phones and
+Agricultural Markets in Niger." American Economic Journal: Applied Economics. 2 (July 2010):
+46-59.
+Aker, Jenny C. and Isaac Mbiti. Summer 2010. "Mobile Phones and Economic Development
+in Africa." Journal of Economic Perspectives. 24(3): 207-232.
+Alenea, Arega D. and V. M. Manyong. 2006. “Farmer-to-farmer technology diffusion and
+yield variation among adopters: The case of improved cowpea in northern Nigeria.”
+Agricultural Economics. 35: 203-211.
+Anderson, Jock R. and Gershon Feder. 2007. “Handbook of Agricultural Economics.”
+Agricultural Extension. 3: 2343-2378.
+Anderson, Jock R., Gershon Feder and Sushma Ganguly. 2006. “The rise and fall of training
+and visit extension: an Asian mini-drama with an African epilogue.” World Bank Policy
+Research Working Paper 3928.
+Angrist, Joshua and Guido Imbens. 1995. “Two-Stage Least-Square Estimation of Average
+Causal Effects in Models with Variety Treatment Intensity.” Journal of the American
+Statistical Association. 91: 431-442.
+Baye, Michael, J. Morgan and P. Scholten. 2007. “Information, Search and Price
+Dispersion.” Handbook on Economics and Information Systems. Elsevier, T. Hendershott, ed.
+Bernard, Tanguy and Maximo Torero. 2011. “Randomizing the Last Mile: A Methodological
+Note on Using a Voucher-Based Approach to Assess the Impact of Infrastructure
+Projects.” Unpublished mimeo, International Food Policy Research Institute (IFPRI):
+Washington, D.C.
+Bindlish, Vishva and Robert E. Evenson. 1997. “The Impact of T&V Extension in Africa:
+The Experience of Kenya and Burkina Faso.” The World Bank Research Observer. 2(2): 183201.
+Birkhaeuser, Dean, Robert E. Evenson and Gershon Feder. 1991. “The Economic Impact
+of Agricultural Extension: A Review.” Economic Development and Cultural Change. 39(3):
+607-650.
+Braun, Arnoud, Janice Jiggins, Niels Röling, Henk van den Berg and Paul Snijders. 2006. “A
+Global Survey and Review of Farmer Field School Experiences.” International Livestock
+Research Institute (ILRI) Final Report.
+Bravo-Ortega C and D. Lederman. 2005. “Agriculture and national welfare around the
+world: Causality and international heterogeneity since 1960.” Policy Res. Work. Paper 3499.
+World Bank: Washington, D.C.
+Byerlee, Derek, Alain de Janvry and Elisabeth Sadoulet. 2009. “Agriculture for
+Development: Towards a New Paradigm.” Annual Review of Resource Economics. 1:15–31.
+Cerdán-Infantes, Pedro, Alessandro Maffioli and Diego Ubfal. 2008. “The Impact of
+Agricultural Extension Services: The Case of Grape Production in Argentina.” Working
+Paper prepared by the Inter-American Development Bank.
+Conley, Timothy G. and Christopher R. Udry. 2010. "Learning about a New Technology:
+Pineapple in Ghana." American Economic Review. 100(1), 35-69.
+
+18
+
+Davis, K. 2008. “Extension in Sub-Saharan Africa: Overview and Assessment of Past and
+Current Models and Future Prospects.” Journal of International Agricultural and Extension
+Education. 15(3): 15—28.
+De Janvry, Alain, Andrew Dustan and Elisabeth Sadoulet. 2010. “Recent Advances in
+Impact Analysis Methods for Ex-post Impact Assessments of Agricultural Technology:
+Options for the CGIAR.” Unpublished working paper, University of CaliforniaBerkeley.
+Dercon, Stefan and Luc Christianson. 2008. “Consumption Risk, Technology Adoption and
+Poverty Traps: Evidence from Ethiopia.” WEF Working Paper 0035, ESRC. World
+Economy and Finance Research Programme, University of London.
+De Silva, Harsha and Dimuthu Ratnadiwakara. 2008. “Using ICT to reduce transaction costs
+in agriculture through better communication: A case-study from Sri Lanka.” Colombo,
+Sri Lanka: LIRNEasia.
+Dillon, Brian. 2011. “Using mobile phones to collect panel data in developing countries.”
+Journal of International Development.
+Duflo, Esther, Michael Kremer and Jonathon Robinson. Forthcoming. “Nudging Farmers
+to Use Fertilizer: Theory and Experimental Evidence from Kenya.” American Economic
+Review.
+Duflo, Esther, Rema Hanna and Stephen Ryan. 2007. “Monitoring Works: Getting Teachers
+to Come to School.” BREAD Working Paper No. 103.
+Evenson, R.E. 2001. “Economic impacts of agricultural research and extension.” In
+Gardner, B. and G. Rausser (Eds.), Handbook of Agricultural Economics, vol, 1A: 574-616.
+Amsterdam, The Netherlands: Elsevier Science.
+Evenson, R.E. and D. Gollin, 2003. Crop Variety Improvement and its Effect on Productivity.
+Cambridge, MA: CABI.
+Evenson, R.E. and G. Mwabu. 2001. “The Effect of Agricultural Extension on Farm Yields
+in Kenya.” African Development Review. 13: 1-23.
+Evenson, R.E. and Michele Siegel. 1999. “Gender and Agricultural Extension in Burkina
+Faso.” Africa Today. 46(1): 75-92.
+Feder, Gershon & Richard E. Just & David Zilberman. 1985. "Adoption of Agricultural
+Innovations in Developing Countries: A Survey," Economic Development and Cultural
+Change, 33(2): 255-98.
+Feder, Gershon, Rinku Murgai, and Jamie B. Quizon. 2004. “Sending Farmers Back to
+School: The Impact of Farmer Field Schools in Indonesia.” Review of Agricultural
+Economics. 26(1): 45-62.
+Forum for Agricultural Research in Africa (FARA). 2009. Inventory of Innovative Farmer Advisory
+Services using ICTs.
+Foster, Andrew and Mark Rosenzweig. 1995. “Learning by Doing and Learning from
+Others: Human Capital and Technical Change in Agriculture.” Journal of Political Economy.
+103 (6): 1176-1209.
+Foster, Andrew and Mark Rosenzweig. 2010. “Microeconomics of Technology Adoption.”
+Annual Review of Economics. 2: 395-424.
+Gakuru, Mucemi, Kristen Winters and Francois Stepman. 2009. “Inventory of
+
+19
+
+Innovative Farmer Advisory Services using ICTs.” Prepared for The Forum for Agricultural
+Research in Africa.
+Gautam, Madhur. 2000. “Agricultural Extension: The Kenya Experience, An Impact
+Evaluation.” The World Bank.
+Godtland, Erin M., Elisabeth Sadoulet, Alain de Janvry, Rinku Murgai and Oscar Ortiz.
+2004. “The Impact of Farmer Field Schools on Knowledge and Productivity: A Study of
+Potato Farmers in the Peruvian Andes.” Economic Development and Cultural Change.
+53(1): 63-92.
+Goyal, Aparajita. 2010. “Information, Direct Access to Farmers, and Rural Market
+Performance in Central India.” American Economic Journal : Applied Economics, 2(3) :
+22-45.
+Hayami Y and V. Ruttan V. 1971. Agricultural Development: An International Perspective.
+Baltimore, MD: Johns Hopkins Univ. Press
+Herberich, David H., Steven D. Levittt and John A. List. 2009. “Can Field Experiments
+Return Agricultural Economics to the Glory Days?” American Journal of Agricultural
+Economics. 91(5): 1259-1265.
+Holloway, Garth John and Simeon K. Ehui. 2001. “Demand, Supply and Willingness-to-Pay
+for Extension Services in an Emerging-Market Setting.” American Journal of
+Agricultural Economics. 83(3): 764-768.
+Imbens, Guido and Joshua Angrist. 1994. “Identification and Estimation of Local Average
+Treatment Effects.” Econometrica. 62: 467-476.
+International Telecommunication Union (ITU). 2009. Measuring the Information Society:
+The ICT Development Index. Geneva, Switzerland: ITU.
+Jensen, Robert T. November 2010. “Information, Efficiency and Welfare in Agricultural
+Markets.” Agricultural Economics. 1: 203-216.
+Ligon, Ethan and Elisabeth Sadoulet. 2007. “Estimating the effects of aggregate agricultural
+growth on the distribution of expenditures.” In Background Note for the World
+Development Report 2008. Washington, DC: World Bank.
+Mancini, Francesca, Aad J. Termorshuizen, Janice L.S. Jiggins and Ariena H.C. van Bruggen.
+2008. “Increasing the environmental and social sustainability of cotton farming through
+farmer education in Andhra Pradesh, India.” Agricultural Systems. 96(1-3): 16-25.
+Martin, Michael J. and Timothy G. Taylor. 1995. “Evaluation of a Multimedia Extension
+Program in Honduras.” Economic Development and Cultural Change. 43(4): 821-834.
+Masters, William A. 2009. “Africa’s Turn: From Crisis to Opportunity in African
+Agriculture.” David Lee, editor. The Food and Financial Crisis in sub-Saharan Africa.
+Mellor, J. W. 1998. “Agriculture on the road to industrialization.” In C. K. Eicher & J. M.
+Staatz (Eds.), International agricultural development (3rd edn). Baltimore, MD, USA:
+The Johns Hopkins University Press.
+Mittal, Surabhi, Sanjay Gandhi and Gaurav Tripathi. 2010. “Socio-Economic Impact of
+Mobile Phones on Indian Agriculture.” Working Paper No. 246. Indian Council for
+Research on International Economic Relations (ICRIER). New Delhi, India.
+
+20
+
+Munshi, Kaivan. 2004. “Social Learning in a Heterogeneous Population: Technology
+Diffusion in the Indian Green Revolution.” Journal of Development Economics. 73(1):
+185-215.
+Owens, Trudy, John Hoddinott and Bill Kinsey. 2003. “The Impact of Agricultural
+Extension on Farm Production in Resettlement Areas of Zimbabwe.” Economic
+Development and Cultural Change, 51(2): 337-357.
+Purcell, D.L., Anderson, J.R. (1997). “Agricultural Extension and Research: Achievements
+and Problems in National Systems.” World Bank Operations Evaluation Study. World
+Bank: Washington, DC.
+Ravallion M and S. Chen. 2007. “China’s (uneven) progress against poverty.” Journal of
+Development Economics. 82(1):1–42.
+Rivera, W.M, M.K. Qamar and L.V. Crowder. 2001. Agricultural and Rural Extension
+Worldwide: Options for Institutional Reform in the Developing Countries. Rome: FAO.
+Romani, Mattia. 2003. “The impact of extension services in times of crisis: Côte d'Ivoire
+(1997-2000).” CSAE Working Paper.
+Schultz, T.W. 1964. Transforming Traditional Agriculture. New Haven, CT: Yale Univ.
+Press.
+Suri, Tavneet. Forthcoming. “Selection and Comparative Advantage in Technology
+Adoption.” Econometrica, 79(1): 159-209.
+Thirtle C, L. Lin and J. Piesse. 2003. “The impact of research-led agriculture productivity
+growth on poverty reduction in Africa, Asia, and Latin America.” World Development.
+31(12):1959–75.
+Tripp, Robert, Mahinda Wijeratne and V. Hiroshini Piyadasa. 2005. “What Should We
+Expect from Farmer Field Schools? A Sri Lanka Case Study.” World Development.
+33(10): 1705–1720.
+Van Den Berg, Henk and Janice Jiggins. 2007. “Investing in Farmers – The Impacts of
+Farmer Field Schools in Relation to Integrated Pest Management.” World Development.
+35(4): 663–686.
+Weir, Sharada and John Knight. 2004. “Externality Effects of Education: Dynamics of the
+Adoption and Diffusion of an Innovation in Rural Ethiopia.” Economic Development
+and Cultural Change. 53(1): 93-113.
+World Bank. 2005. “Impacts of extension services in rural Mozambique: Rural livelihoods
+enhanced by extension activities in Mozambique.” ECON, Report no. 2005-015, Project
+no.42860.
+
+21
+
+Figure 1. New Variety Adoption by Region, 1970-1998
+90
+
+New Variety Adoption by Region, 1970-1998
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+1970
+
+1980
+Sub-Saharan Africa
+
+1990
+Latin America
+
+MENA
+
+1998
+Asia
+
+Source: Calculated from data in R.E. Evenson and D. Gollin, 2003. Crop Variety Improvement and its Effect on
+Productivity. Cambridge, MA: CABI. Figure adapted from Masters (2009).
+
+22
+
+Figure 2. Stages of the Agricultural Production Process and Information Needs
+
+ Find best prices, identify
+
+ Better information
+
+transport or storage
+problems
+
+on higher yield
+crops, seed varieties
+
+ Compare traders to
+
+find best market prices
+
+
+
+Identify best
+time to plant
+Source
+inputs e.g.
+fertilizer
+
+ Identify best time to
+harvest, given
+weather forecasts
+
+
+
+
+Use better
+fertilizer
+Apply better
+techniques
+
+Notes: Figure reproduced from Mittal, Gandhi and Tripathi. 2010. The first stage is “deciding”, whereby
+farmers decide on what crop to grow, how much land to allocate for each crop and also arrange working
+capital financing. The second stage is “seeding”, whereby farmers either purchase seeds or prepare their own
+seeds based on the crop they have earlier decided to grow. During the “preparing and planting” stage, farmers
+prepare the land using own or hired labor or land preparation machinery and subsequently plant the seeds.
+The fourth stage is “growing”, where the application of water, fertilizer and pesticides take place (depending
+upon the crop). The “harvesting, packing and storage” stage requires that farmers find labor for harvesting
+and storage. During the final stage, and depending upon the crop, farmers sell, thereby requiring some price
+and market information to decide when and where to sell.
+.
+
+23
+
+Figure 3. Area and Population with Mobile Phone Coverage in 2009, by Region
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+
+Sub-Saharan Africa
+
+East and Southeast
+Asia
+
+% of Area Covered
+
+Central and South
+America
+
+% of Population Covered
+
+Source: Authors’ calculations based upon mobile phone coverage data from the GSMA in 2010.
+
+24
+
+Figure 4. Marginal (per Search) Cost of Price Information in Niger, 2010
+Per Search Cost by Mechanism, $USD (2005 USD)
+
+$1.20
+$1.00
+$0.80
+$0.60
+$0.40
+$0.20
+$0.00
+Landline
+
+Radio
+
+Mobile
+Phone
+
+Personal
+Visit
+
+Newspaper
+
+Notes: Based upon the authors’ calculations from data collected in Niger between 2005 and 2010.
+
+25
+
+Figure 5. Marginal Cost of Information Delivery in Niger, 2010
+
+Cost of information delivery in USD$ per person (2005
+USD)
+$2.00
+$1.80
+$1.60
+$1.40
+
+$1.20
+$1.00
+$0.80
+$0.60
+$0.40
+$0.20
+$0.00
+Extension visits by
+agent (2)
+
+Extension visit plus 2
+SMS
+
+Extension visit plus
+hotline (4-minute call)
+
+Notes: Based upon the authors’ calculations from data collected in Niger between 2005 and 2010.
+
+26
+
+Table 1. Information Provided by Agricultural Extension Services and Types of Good
+By types of goods
+
+Access rules:
+
+Use rules:
+
+Rival
+
+Non-rival
+
+(disappears with use by one)
+
+(use by one does not prevent
+use by others)
+Club Good
+
+Private good
+
+Excludable
+
+Non-excludable
+
+Information for private inputs or
+client-specific information or
+advice)
+
+Time sensitive information
+
+Common pool
+
+Public good
+
+Information for locally available
+resources or inputs
+
+Mass media, time-insensitive
+information
+
+Notes: The original version of this table was provided in Anderson and Feder (2007).
+
+27
+
+Table 2. Review of Economic Studies of Agricultural Extension Programs
+Type of
+Extension
+Study
+Outcome Variable
+Country
+Farmer Field
+Schools
+Feder, Murgai and Quizon, 2004
+
+Productivity and yields
+
+Indonesia
+
+Weir and Knight, 2004
+Tripp,
+Wijeratne
+and Piyadasa,
+Mancini,
+Termorshuizen,
+Jiggins2005
+and van
+Bruggen, 2008
+Godtland, Sadoulet, de Janvry, Murgai and
+Ortiz, 2004
+World Bank, 2005.
+
+Adoption and diffusion
+Adoption and diffusion
+Adoption and diffusion
+Knowledge,
+Productivity
+Livelihoods
+
+Ethiopia
+Sri Lanka
+India
+
+Van den Berg and Jiggins, 2007
+Braun, Jiggins, Röling, van den Berg and
+
+General
+General
+
+Evenson and Mwabu, 2001.
+Cerdán-Infantes, Maffioli and Ubfal
+
+Productivity
+Productivity
+
+Kenya
+Argentina
+
+Owens, Hoddinott and Kinsey, 2003
+Feder and Slade 1986, Feder, Law and Slade
+Hussain, Byerlee and Heisey (1994)
+Gautam 2001.
+Bindlish and Evenson, 1997.
+Martin and Taylor, 1995.
+Evenson and SiegelSource, 1999.
+
+Productivity
+Productivity
+Productivity
+Productivity
+Productivity
+Adoption and diffusion
+Adoption and diffusion
+
+Zimbabwe
+Pakistan
+Pakistan
+Kenya
+Kenya,
+Honduras
+Burkina
+
+Alenea and Manyong, 2006
+
+Productivity
+
+Foster and Rosenzweig, 1995.
+Bandiera and Rasul, 2006
+Conley and Udry, 2009.
+
+Adoption and diffusion
+Adoption and diffusion
+Adoption and diffusion
+
+India
+Mozambique
+Ghana
+
+Romani, 2003.
+
+Productivity
+
+Ivory Coast
+
+Birkhaeuser, Evenson and Feder, 1991.
+Anderson and Feder, 2007.
+Davis, 2008.
+Feder, Just and Zilberman, 1985.
+Evenson, 2001.
+
+General
+General
+General
+General
+General
+
+Peru
+Mozambique
+
+Training and
+Visit
+
+Farmer to
+Farmer
+Nigeria
+
+Social
+networks
+
+General
+extension
+
+Notes: Research studies compiled from Anderson and Feder (2007) and other sources.
+
+28
+
+Table 3 Survey of ICT-Based Agricultural Extension Programs
+
+Mechanism/Project
+
+Type of Information (Prices,
+Techniques, Inputs,
+Buyers/Sellers, General)
+
+Country
+
+Mechanisms
+(Voice, SMS,
+Internet)
+
+Website
+
+Voice
+Agricultural Commodity Trade Platform
+
+Prices, buyers, sellers
+
+Pakistan
+
+Voice
+
+Allo Ingenier
+
+General
+
+Cameroon
+
+Voice
+
+Bangalink
+
+Techniques
+
+Bangladesh
+
+Voice
+
+Banana Information Line
+
+Techniques (bananas)
+
+Kenya
+
+Text-to-speech
+
+China Mobile – 12582
+
+Prices, techniques
+
+China
+
+Voice, SMS
+
+Southern Africa Development Q&A Service
+
+General
+
+South Africa
+
+Voice
+
+National Farmer’s Information Service
+(NAFIS)
+
+General
+
+Kenya
+
+Voice
+
+http://www.nafis.go.ke/termcond
+
+T2M (Time to Market)
+
+Prices, supply
+
+Senegal
+
+Voice, SMS, Internet
+
+http://t2m.manobi.sn/
+
+Millennium Information Centers and
+Community Parliaments
+
+General
+
+Kenya
+
+Voice, SMS
+
+Question and Answer Service (QAS) Voucher
+System
+
+General
+
+Uganda
+
+Voice (ask question),
+radio, internet
+
+IKSL Agri Hotline
+
+Techniques
+
+India
+
+Voice and SMS
+
+KRIBHCO Reliance Kisan Limited
+
+General
+
+India
+
+Voice, SMS, internet
+
+Kenya Farmer's Helpline
+
+Market prices, weather
+
+Kenya
+
+Voice
+
+29
+
+http://www.irinnews.org/Report.aspx?ReportId=78408
+
+http://www.comminit.com
+
+Mechanism/Project
+
+Type of Information (Prices,
+Techniques, Inputs,
+Buyers/Sellers, General)
+
+Country
+
+Mechanisms (Voice,
+SMS, Internet)
+
+Website
+
+Radio Dial-Up
+African Farm Radio Research Initiative (AFRRI)
+
+General
+
+Ghana; Malawi; Mali;
+Tanzania; Uganda
+
+Radio
+
+http://www.farmradio.org
+
+Family Alliance for Development and Cooperation
+(FADECO)
+
+General
+
+Tanzania
+
+Radio, SMS
+
+http://www.hedon.info/FADECOTanzania
+
+Freedom Fone
+
+General
+
+Zimbabwe
+
+Voice, SMS, Internet
+
+http://www.kubatana.net
+
+Infonet Biovision Farmer Information Platform
+
+Techniques
+
+Kenya
+
+Radio
+
+Information Network in Mande
+
+Techniques
+
+Mali
+
+Radio
+
+Jekafo Guelekan System for Farmers in Sikasso
+
+General
+
+Mali
+
+Radio
+
+The Organic Farmer
+
+Techniques
+
+Kenya
+
+Radio, internet,
+magazine
+
+Strengthening the Agricultural Information Flow and
+Dissemination System
+
+General
+
+Zambia
+
+Radio
+
+30
+
+www.organicfarmermagazine.org
+
+Mechanism/Project
+
+Type of Information (Prices,
+Techniques, Inputs,
+Buyers/Sellers, General)
+
+Country
+
+Mechanisms
+(Voice, SMS,
+Internet)
+
+Website
+
+Internet
+Agriculture Research and Rural Information
+Network (ARRIN) Ndere Troupe
+
+General
+
+Uganda
+
+Internet
+
+http://www.iicd.org/projects/uganda‐arrin
+
+Agrovision
+
+Techniques
+
+Nigeria
+
+Internet
+
+http://www.eagriculture.org
+
+Agricultural Sector Development
+Programme (ASDP)
+
+General
+
+Tanzania
+
+Internet, SMS
+
+http://www.ifad.org/operations/pipeline/pf/tan.htm
+
+Collecting and Exchanging of Local
+Agricultural Content (CELAC)
+
+General
+
+Uganda
+
+Internet, radio,
+email, SMS
+
+http://celac.or.ug
+
+CROMABU (Crops Marketing Bureau)
+Project
+
+Prices/Buyers/Sellers
+
+Tanzania
+
+Telecenter
+(computers)
+
+http://www.iicd.org/projects/tanzania‐abis‐cromabu
+
+DrumNet (Solution)
+
+Prices/Buyers/Sellers
+
+Kenya, Uganda
+
+Internet
+
+http://www.drumnet.org/
+
+Eastern Corridor Agro‐market Information
+Centre (ECAMIC)
+
+Prices
+
+Ghana
+
+Email, mobile
+phones
+
+http://www.sendfoundation.org
+
+E‐commerce for Non‐traditional Exports
+
+Buyers, sellers
+
+Ghana
+
+Internet
+
+http://www.iicd.org/projects/ghana‐ecommerce/
+
+E‐commerce for women
+Enhancing Access to Agricultural
+Information using ICT in Apac District
+(EAAI)
+
+Buyers, sellers
+
+Ghana
+
+Internet
+
+Techniques
+
+Uganda
+
+Radio, mobile
+phones
+
+http://www.comminit.com
+
+Farmers’ Internet Café
+
+Buyers, sellers, general
+
+Zambia
+
+Internet
+
+http://www.iicd.org/articles/iicdnews.2005‐09‐06.1315910878/
+
+First Mile Project
+
+Buyers, sellers
+
+Tanzania
+
+Internet
+
+http://www.firstmiletanzania.net/
+
+Fruiléma
+
+Buyers, sellers
+
+Mali
+
+Internet, mobile
+phones
+
+http://www.fruilema.com/
+http://www.iicd.org/projects/mali‐quality‐fruilema
+
+Gyandoot
+
+General
+
+India
+
+Internet
+
+ICT for Shea Butter Producers
+
+General
+
+Mali
+
+Computers
+
+iKisan
+
+General
+
+India
+
+Miproka
+
+General
+
+Burkina Faso
+
+Internet (kiosks)
+Internet
+(computers)
+
+31
+
+Sene Kunafoni Bulon
+
+Buyers, sellers
+
+Mali
+
+Sissili Vala Kori
+
+General
+
+Burkina Faso
+
+Internet
+(computers)
+Internet
+(computers)
+
+TV Koodo: Market price information using
+web and national TV
+
+Market prices
+
+Burkina Faso
+
+Internet, TV
+
+Virtual extension and research
+communication network
+
+General
+
+Egypt
+
+Internet
+
+Warana
+
+General
+
+India
+
+Internet (kiosks)
+
+32
+
+Mechanism/Project
+
+Type of Information
+(Prices, Techniques,
+Inputs, Buyers/Sellers,
+General)
+
+Country
+
+Mechanisms
+(Voice, SMS,
+Internet)
+
+Website
+
+Mobile Money Transfers (SMS)
+Mobile Transactions Zambia
+
+Cashless input voucher system
+
+Zambia
+
+Mobile scratchcards
+
+Integrating ICT for Quality Assurance and
+Marketing
+
+Production quality, buyers
+
+Zambia
+
+Handheld computers
+
+Research on Expectations about Agricultural
+Production (REAP)
+
+Weather, pests
+
+Tanzania
+
+Voice
+
+Mobile Phone Data Collection
+
+33
+
+http://www.mtzl.net<http://www.mtzl.net/default.asp?id=18
+
+Mechanism/Project
+
+Type of Information
+(Prices, Techniques,
+Inputs, Buyers/Sellers,
+General)
+
+Country
+
+Mechanisms
+(Voice, SMS,
+Internet)
+
+Website
+
+SMS-Based Extension and Price
+Information Services
+Agricultural Marketing and Information
+System for Malawi (MIS-Malawi)
+
+Prices, Buyers, Sellers
+
+Malawi
+
+SMS, internet, radio
+
+Agricultural Market Information for Farmers
+
+Prices
+
+Bangladesh
+
+SMS
+
+Agricultural Marketing Systems
+Development Programme (AMSDP)
+
+Prices
+
+Tanzania
+
+SMS
+
+http://www.ifad.org/english/operations/pf/tza/i575tz/index.htm
+
+Agricultural Research Extension Network
+(ARENET)
+
+General
+
+Uganda
+
+Internet
+
+http://www.arenet.or.ug
+
+Apps for Africa
+
+Techniques, weather, buyers,
+sellers
+
+Uganda
+
+SMS
+
+CELAC
+
+Techniques, weather, buyers,
+sellers
+
+Uganda
+
+SMS
+
+Dialog
+
+Prices, buyers, sellers
+
+Sri Lanka
+
+Esoko (formerly Tradenet)
+
+Prices, buyers, sellers
+
+Benin; Burkina Faso;
+Côte d'Ivoire;
+Ghana; Madagascar;
+Mali; Mozambique;
+Nigeria; Tanzania;
+Uganda; Cameroon;
+Afghanistan
+
+SMS, internet
+
+http://www.esoko.com
+
+Farmers Information Communication
+Management (FICOM)
+
+Prices, buyers, sellers
+
+Uganda
+
+Voice, SMS,
+internet, radio
+
+http://www.syngentafoundation.org
+
+Gyandoot
+
+General
+
+India
+
+Internet
+
+ICT Support for Agricultural Literacy
+
+Market prices
+
+Ghana
+
+SMS
+
+ICT for Improving Agriculture in Rwanda
+
+General
+
+Rwanda
+
+SMS
+34
+
+http://www.ideaamis.com
+
+http://www.spidercenter.org
+
+Informations sur les Marches Agricoles par
+Cellulaire (IMAC)
+
+Prices
+
+Niger
+
+SMS
+
+http://sites.tufts.edu/projectabc
+
+InfoPrix Benin
+
+Prices
+
+Benin
+
+SMS
+
+http://www.onasa.org/
+
+Infotrade Uganda
+
+Prices
+
+Uganda
+
+SMS, internet
+
+Kenya Agricultural Commodities Exchange
+(KACE) MIS Project
+
+Prices, buyers, sellers
+
+Kenya
+
+Voice, SMS,
+internet
+
+http://www.kacekenya.com/
+
+Livestock Information Network and
+Knowledge System (LINKS)
+
+Prices, buyers, sellers
+
+Kenya, Ethiopia, and
+Tanzania
+
+SMS, internet
+
+Kenya (www.lmiske.net), Ethiopia (www.lmiset.net), and Tanzania
+(www.lmistz.net)
+
+Manobi
+
+Prices
+
+Senegal
+
+SMS
+
+http://www.manobi.net
+
+Makuleke Project
+
+Prices, buyers, sellers
+
+South Africa
+
+SMS
+
+http://www1.alcatellucent.com
+
+mKrishi
+
+General
+
+India
+
+SMS, Voice
+
+Network of Market Information Systems
+and Traders’ Organizations of West Africa
+(MISTOWA)
+
+Prices, buyers, sellers
+
+ECOWAS countries
+
+Internet, radio,
+email, SMS
+
+Nokia Life Tools
+
+Prices, weather, techniques
+
+India, Indonesia
+
+SMS and user
+interface
+
+Regional Agricultural Trade Information
+Network (RATIN)
+
+Buyers and Sellers
+
+East Africa
+
+Voice, internet
+
+Reuters Market Light
+
+Prices, weather, techniques
+
+India
+
+SMS
+
+Vodacom Tanzania
+
+Prices
+
+Tanzania
+
+SMS
+
+SMS Information Service
+Système d’Information des Marchés
+Agricoles (SIMA)
+
+Prices, buyers, sellers
+
+Zambia; Democratic
+Republic of Congo
+
+SMS, internet
+
+http://www.farmprices.co.zm/
+
+Prices
+
+Niger
+
+SMS
+
+http://ictupdate.cta.int
+
+35
+
+www.mistowa.org, www.wa‐agritrade.net
+
+www.ratin.net
+
+Trade at Hand
+
+Prices
+
+West African Agricultural Market
+Information System Network
+(RESIMAO/WAMIS‐Net)
+
+Prices, buyers, sellers
+
+Burkina Faso; Mali;
+Senegal;
+Mozambique;
+Liberia
+Benin; Burkina Faso;
+Côte d'Ivoire;
+Guinea; Niger; Mali;
+Senegal;
+Togo; Nigeria
+
+Women of Uganda Network (WOUGNET)
+
+Prices
+
+Uganda
+
+SMS
+
+Xam Marsé
+
+Prices, buyers, sellers
+
+Senegal
+
+SMS, internet
+
+Source: FARA (2009) and authors’ data collection.
+
+36
+
+SMS
+
+http://www.intracen.org/trade‐at‐hand/
+
+Internet, radio,
+email, SMS
+
+http://www.resimao.org/html/en
+
+http://www.manobi.sn
+
+37
+
+

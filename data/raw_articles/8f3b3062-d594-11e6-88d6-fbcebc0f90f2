@@ -1,0 +1,854 @@
+AGRICULTURAL
+ECONOMICS
+
+ELSEVIER
+
+Agricultural Economics 13 (1995) 1-9
+
+Farmers' perceptions and adoption of new agricultural
+technology: evidence from analysis in Burkina Paso
+and Guinea, West Mrica
+Akinwumi A. Adesina
+a
+b
+
+a,*,
+
+Jojo Baidu-Forson
+
+b
+
+West Africa Rice Development Association, OJ BP 2551, Bouake OJ, Ivory Coast
+International Crops Research Institute for the Semi-Arid Tropics, Niamey, Niger
+
+Accepted 14 May 1995
+
+Abstract
+Economists investigating consumer demand have accumulated considerable evidence showing that consumers
+generally have subjective preferences for characteristics of products and that their demand for products is
+significantly affected by their perceptions of the product's attributes. However, the role of farmers' preferences in
+adoption decisions have received very limited attention in adoption studies conducted by economists. This paper
+tests the hypothesis that farmers' perceptions of technology characteristics significantly affect their adoption
+decisions. The analysis, conducted with Tobit models of modern sorghum and rice varietal technologies in Burkina
+Paso and Guinea, respectively, strongly supports this hypothesis. Our results provide a strong case for future
+adoption studies to expand the range of variables used away from the broad socio-economic, demographic and
+institutional factors to include farmers' subjective perceptions of the characteristics of new agricultural technologies.
+
+1. Introduction
+
+The importance of commodity-attribute perceptions has long been of interest to social scientists investigating agricultural t.echnology adoption decisions. Indeed, anthropologists and sociologists have played a lead role in this area and
+have argued, using qualitative methods, that
+farmers' subjective assessments of agricultural
+technologies influence adoption behavior (Kivlin
+and Fliegel, 1966, 1967; Nowak, 1992). Economists
+have generally lagged behind in investigating this
+issue. However, since most earlier works on tech-
+
+• Corresponding author.
+
+nology adoption by economists (O'Mara, 1980)
+did not have access to direct observations on
+farmers' perceptions, it was not possible to directly and quantitatively test the hypothesis that
+perceptions of technology attributes influence
+adoption decisions. Instead, variables which affect farmers' access to information, and hence
+their perception formation (e.g. extension, education, media exposure, etc.), are typically used in
+economic models of the determinants of adoption
+decisions (Feder et al., 1985; Shakya and Flinn,
+1985; Kebede et al., 1990; Polson and Spencer,
+1991; Strauss et al., 1991).
+Economists investigating consumer demand
+have, however, accumulated considerable evidence showing that consumers generally have
+
+0169-5150j95j$09.50 © 1995 Elsevier Science B.V. All rights reserved
+SSDI 0169-5150(95)01142-0
+
+2
+
+A.A. Adesina, J. Baidu-Forson /Agricultural Economics 13 (1995) 1-9
+
+subjective preferences for characteristics of products and that their demand for products is significantly affected by their perceptions of the product's attributes (Jones, 1989; Lin and Milon, 1993).
+For example, using a double-hurdle model, Lin
+and Milon (1993) found that commodity attributes and consumers' safety perceptions were
+significant in explaining decisions to consume and
+the frequency of consumption of shellfish in the
+USA Similarly, Jones (1989) found, using Cragg's
+double-hurdle framework, that consumers' subjective perceptions influenced cigarette smoking
+decisions. Economists investigating the adoption
+of new agricultural technology have lagged behind in investigating how farmers' (the consumers
+of agricultural technologies) subjective perceptions of technology characteristics affect their
+adoption decisions. In extensive reviews of adoption studies in developing countries (Feder et al.,
+1985; Feder and Umali, 1993), no study was found
+to have analyzed the direct effects of farmers'
+subjective assessments of agricultural technology
+characteristics on adoption decisions. In their recent study, Adesina and Zinnah (1993a) found
+that farmers' perceptions of the characteristics of
+modern rice varieties significantly affected adoption decisions in Sierra Leone. The paucity of
+empirical economic studies on this issue justifies
+further investigation. The objective of this paper
+is to determine the effects of farmers' perceptions of agricultural technology characteristics on
+adoption decisions, using comparative analysis of
+two technologies in West Africa (i.e. improved
+sorghum varieties in Burkina Faso, and improved
+mangrove rice varieties in Guinea).
+A historical background of the development of
+the new agricultural technologies examined in
+this paper is briefly discussed below. Sorghum
+improvement activities in West Africa have been
+a major focus of research conducted by the International Crops Research Institute for the SemiArid Tropics (ICRISAT) which has the global
+mandate for sorghum improvement. ICRISAT's
+sorghum improvement work started in Burkina
+Faso in 1975/1976. Most of the initial work was
+on the screening of introduced and local
+germplasm. Breeding started much later. Among
+the principal breeding objectives were: good and
+
+stable yield performance under both traditional
+and improved soil fertility management conditions and good grain quality, especially for making 'to', a very popular local porridge across the
+Sahel (ICRISAT, 1980-1983). As striga-a parasitic weed-has been a major problem facing
+sorghum (and, indeed, cereal) farmers in West
+Africa, a complementary program on screening
+for striga-resistant varieties formed a major part
+of ICRISAT's research program (Ramaiah, 1991).
+A number of improved varieties was developed
+and tested in on-farm tests in Burkina Faso, e.g.
+ICSV 1049 BF, ICSV 1002 BF, etc. While farm
+tests have been conducted on these varieties in
+eastern Burkina Faso (Matlon, 1985; Wildschut
+and Ouattara, 1987), little is known about the
+factors affecting the adoption decisions of farmers.
+Research on the development of mangrove
+rice in West Africa is carried out by the West
+Africa Rice Development Association (WARDA).
+Starting in 1976, WARDA maintained a regional
+rice improvement program in Sierra Leone, targeting the approximately 200 000 ha of mangrove
+swamps cultivated to rice in West Africa. The
+mangrove rice ecologies, located on tidal estuaries that are near the ocean, are important rice
+growing environments for six countries in West
+Africa: Guinea, Guinea Bissau, Senegal, Gambia,
+Sierra Leone and Nigeria. In Guinea, about
+64 000 ha of mangrove rice area is under cultivation, representing 12% and 18% of national rice
+area and rice production, respectively. Seeds of
+the modern varieties (e.g. ROK-5, ROK-10, Kuatik Kundur) were recently diffused to neighboring Guinea (Zinnah et al., 1993). One of the
+varieties, ROK-5, has been increasingly adopted.
+In the Coyah region (the country's major mangrove swamp rice growing zone), it was estimated
+that the percentage of farmers cultivating ROK-5
+increased from 1% in 1989 to 15% in 1990
+(Adesina and Zinnah, 1993b). On-farm tests conducted from 1982 to 1985 showed that these
+modern mangrove rice varieties consistently outyielded the best local varieties by more than 30%
+(Agyen-Sampong, 1990). Little is known, however, about the determinants of farmers' adoption of these varieties.
+
+AA. Adesina, J. Baidu-Forson /Agricultural Economics 13 (1995) 1-9
+
+The rest of the paper is divided into three
+sections. Section 2 describes the conceptual and
+empirical models, while Section 3 discusses the
+empirical results. Section 4 presents conclusions
+and implications of the results for adoption studies.
+
+2. Methods
+
+A given agricultural technology embodies a
+number of important characteristics that may influence adoption decisions. The observed adoption choice on an agricultural technology (e.g.
+modern crop varieties) is hypothesized to be the
+end result of a complex set of inter-technology
+preference comparisons made by farmers. Let the
+perceived benefits derived from growing a modern variety and the local variety be represented
+by b(m) and b(l), respectively. Let the ith
+farmer's perceptions of the varietal-specific characteristics of the modern and local rice varieties
+be given by Pim and Pi!, respectively. Let the
+other socio-economic and demographic characteristics of farm households affecting the adoption decision be denoted as ci. For simplicity, let
+these relations be represented as bmi = q(pim'
+pil;c) and bli = w(pim,Pi!;c), respectively. To
+model this effect of perceptions of technology
+attributes on adoption decisions a Tobit model is
+used. This is represented below using an index
+function approach
+
+V; • = {3TXi + E;
+
+V;=O if V;*
+
+~0
+
+V;=V;* if V;*>O
+
+(1.1)
+(1.2)
+(1.3)
+
+where V;, a limited dependent variable, is the
+perceived benefit of adoption of the modern variety; V; * is an underlying latent variable that
+indexes adoption; X is the vector of socio-economic and demographic characteristics of the
+farm household, and the technology perceptions
+of the farmer; f3T is a vector of parameters to be
+estimated; and E; is an error term. When the
+inter-varietal attribute preference comparisons
+are such that bmi- bli > 0 (i.e. V; * > 0) the farmer
+is observed to adopt the modern variety (V; = V; *
+
+3
+
+> 0). Otherwise, if bmi- bli ~ 0 (or V; * ~ 0) no
+adoption is observed (i.e. V; = 0). The model permits the investigation of the decision of whether
+or not to adopt and the conditional level of use of
+the technology if the initial adoption decision was
+made. The Tobit model also has an advantage in
+that its coefficients can be further disaggregated
+to determine the effect of a change in the ith
+variable on changes in the probability of adopting
+the modern variety and the expected use intensity
+of the variety. Following McDonald and Moffitt
+(1980), it can be shown that
+E(V;) =<I>(z)E(v;')
+
+(2.1)
+
+where E(v/) is the expected value of V; for
+those farmers that have already made the adoption decision, and <I> is the cumulative normal
+distribution function at z, where z is X/3 I a.
+Differentiating with respect to any element of
+X gives
+
+aE( V;) ;ax;= <I>( z) {aE( v;') ;ax;}
++E(v;"){a<I>(z);ax;}
+
+(2.2)
+
+Multiplying through by XJE(V;), the relation
+can be converted into elasticity forms
+
+{aE( V;) ;ax;}XJE( V;)
+=<I>( z) {aE( v;') jaX;}XJE( V;)
++ E( v;' ){a<I>( z) ;ax;}XJE( V;)
+
+(2.3)
+
+Re-arranging this using Eq. (2.1) gives
+
+{aE( V;) ;ax;}XJE( V;)
+= {aE( v;') ;ax;}XJE( v;')
+
++ {a<I>( z) ;ax;}XJ<I>( z)
+
+(2.4)
+
+The total elasticity consists of two effects: (1)
+the change in the probability of the expected
+level of use intensity of the modern varieties for
+those farmers that are already adopters, and (2)
+the change in the elasticity of the probability of
+being an adopter.
+The empirical models are discussed below. For
+the sorghum model, the dependent variable is the
+share of the total sorghum area that is cultivated
+in improved varieties (ISSHARE), while the dependent variables are, respectively, farmers' subjective assessments of: yield performance
+
+4
+
+A.A. Adesina, J. Baidu-Forson /Agricultural Economics 13 (1995) 1-9
+
+(YIELD), the quality of the local porridge (to)
+that farmers make from sorghum (TO), performance under poor soil conditions (SOIL), tolerance to striga weed infestation (STRIGA), and
+drought tolerance (DROUGHT). It is hypothesized that these factors are positively related to
+adoption decisions. In addition to these factors,
+the following socio-economic and demographic
+variables were included as explanatory variables
+in the model: the age of the farmer (AGE),
+whether or not the farmer was a village head and
+the number of years since becoming village head
+(HEAD), participation of the farmer in on-farm
+tests of the improved sorghum varieties (TEST),
+number of times the farmer was visited by extension agents in the survey year (VISIT), and
+the number of times the farmer participated in
+extension related workshop training activities
+(WKSHOP). It is hypothesized that TEST and
+AGE are positively related to adoption decisions.
+Testing the varieties in on-farm tests can be expected to influence adoption decisions. The expected sign on AGE is an empirical question: it
+may be that older farmers have more experience
+in cultivation and are better able to assess the
+characteristics of modern technology than
+younger farmers. However, it could also be that
+older farmers are more risk averse than younger
+farmers and have a lesser likelihood of adopting
+new technologies. There is no agreement in the
+adoption literature on this as the direction of the
+effect is generally location or technology specific
+(Kebede et al., 1990; Polson and Spencer, 1991).
+Based on the innovation-diffusion literature, it is
+hypothesized that extension visits (VISIT) and
+participation in workshops (WKSHOP) are positively related to adoption by exposing farmers to
+'new information'.
+For the Guinea model, the dependent variable
+is the share of the total mangrove swamp rice
+area that is cultivated in improved varieties
+(RSHARE). Two classes of explanatory variables
+are included in the model. The first set (i.e.
+technology perceptions) are farmers' subjective
+assessments of the following characteristics of the
+rice varieties: yield performance (YIELD), ease
+of cooking (COOK), tillering capacity (TILLER),
+and ease of threshing (THRESH). The inclusion
+
+of these variables allows us to compare our results with those obtained earlier by Adesina and
+Zinnah (1993a) in Sierra Leone. Based on these
+results, it is hypothesized that these factors are
+positively related to adoption decisions in Guinea.
+Ease of cooking is likely to be important to these
+rice farmers because of the scarcity of fuel-wood
+for preparing food in the mangrove areas. Farmers are obliged to travel several kilometers to
+search for fuel-wood. Ease of cooking of rice
+varieties is linked to the gelatinization temperature of the rice. Varieties with high gelatinization
+temperature take longer periods to cook (Unnevehr, 1986). This increases the demand for
+fuel-wood, a very scarce input in the mangrove
+environments where most of the mangrove trees
+have been cut down by farmers. Thus, farmers
+may tend to adopt varieties that puts less pressure on the scarce fuel-wood supply. Tillering
+capacity is also very critical in the mangrove
+ecology because of the high damage to young rice
+seedlings from crabs. Varieties that have the capacity to produce tillers fast, and which reproduce secondary tillers following initial crab damage, are likely to be adopted by farmers. The high
+labor demands for manual threshing in this farming system, where labor is the most limiting factor, may create incentives for farmers to adopt
+varieties that are easier to thresh. Finally, better
+yield performance over local varieties is expected
+to positively affect adoption decisions. The other
+socio-economic and demographic factors of the
+farmer in the model are: age of the farmer (AGE),
+the farm size (FSIZE), participation in on-farm
+tests (TEST), visit by extension agents (VISIT),
+and years of experience in mangrove rice farming
+(EXP). The expected signs of these variables follow that discussed above for the Burkina Faso
+case. In addition, it is expected that EXP is
+positively related to adoption as more experienced farmers may be able to better assess new
+technologies.
+In each model, the subjective perception variables were defined as dichotomous variables that
+take on the value of 1 if the farmer considered
+that the new agricultural technology is better
+than the local technology for a given technology
+attribute, and a value of 0, otherwise. The empiri-
+
+A.A. Adesina, J. Baidu-Forson /Agricultural Economics 13 (1995) 1-9
+
+cal models were estimated using an iterative maximum likelihood algorithm (White, 1978) in order
+to obtain asymptotically efficient parameter estimates. The data for the Burkina Faso study were
+collected in 1989/1990 from a sample of 57 farmers in the east central region. Data for the Guinea
+study were collected in 1990-1991 from a sample
+of 110 farmers in the Coyah region.
+
+3. Results
+The results for the sorghum model in Burkina
+Faso are given in Table 1. The analyses show that
+farmers' perceptions of four varietal technology
+characteristics were positively related to the
+probability of adoption and intensity of cultiva-
+
+5
+
+tion of the improved sorghum varieties. Significant (at the 5% level) were quality for making
+sorghum paste (TO) and performance under poor
+soil conditions (SOIL). The coefficient on yield
+performance (YIELD) is barely significant at
+10%. Farmers' assessment of the relative tolerance of the improved varieties to striga
+(STRIGA), though positively related to adoption
+decisions, was not significant. The negative sign
+on the drought tolerance variable (DROUGHT)
+is unexpected and may be due to negative correlation between this variable and other varietal
+characteristics not included in the model. Two
+farmer characteristics were significant in explaining adoption decisions: the age of the farmer
+(AGE) and farmers' participation in on-farm tests
+(TEST). The latter variable was the most highly
+
+Table 1
+Estimated tobit model for factors affecting the adoption of modern sorghum varieties in Burkina Faso, 1989/1990
+
+Intercept
+Perception of yield
+(YIELD)
+Perception of quality of
+local sorghum porridge (TO)
+Perception of adaptability
+to poor soils (SOIL)
+Perception of tolerance
+to striga weed (STRIGA)
+Perception of drought
+tolerance (DROUGHT)
+Age of the farmer (AGE)
+Village head (HEAD)
+Participation in
+on-farm tests (TEST)
+Number of times farmer
+was visited by extension
+agents (VISIT)
+Number of times farmer
+participated in extensionrelated workshops
+(WKSHOP)
+
+Normalized
+coefficient
+
+Standard
+error
+
+T-ratio
+
+-5.8974
+0.9635
+
+1.7202
+0.5820
+
+-3.4283 •••
+1.6555 •
+
+1.2401
+
+0.5242
+
+1.8214
+
+0.7268
+
+2.5058 ••
+
+0.8930
+
+0.3775
+
+1.5951
+
+0.7103
+
+2.2456 ••
+
+2.9328
+
+1.2397
+
+0.2679
+
+0.4750
+
+0.5642
+
+0.6405
+
+0.2707
+
+-2.1313
+
+0.7477
+
+-2.8506 ••
+
+-2.8681
+
+-1.2123
+
+0.0613
+-0.0326
+1.2103
+
+0.0325
+0.0299
+0.2578
+
+1.8850 •
+-1.0875
+4.6944 •••
+
+20.0953
+-4.1800
+10.4590
+
+8.4941
+-1.7669
+4.4209
+
+0.0064
+
+0.0753
+
+0.0288
+
+0.0122
+
+-0.3342
+
+0.1376
+
+-2.8681
+
+-1.2123
+
+Elasticity of
+Adoption
+index
+
+0.0855
+
+-2.4281 ••
+
+Expected level
+of use intensity
+
+The parameters were evaluated using one-tailed t-tests. Asterisks indicate significance at: * • • 1%; * * 5%; • 10%.Dependent
+variable, ISSHARE.
+Log-likelihood function, 9.8697.
+Mean square error, 0.8218E-03.
+Mean error, 0.9482E-03.
+Squared correlation between observed and expected values, 0.5183.
+
+6
+
+A.A. Adesina, f. Baidu-Forson I Agricultural Economics 13 (1995) 1-9
+
+significant of all the explanatory variables. This is
+not unexpected, because extensive sorghum onfarm trials were carried out in the survey area.
+The negative sign on WKSHOP is unexpected
+and may be explained by the possibility that the
+workshops farmers attended were not specifically
+on sorghum. Some authors have also argued that
+what is important is not this contact with extension but how farmers assess the relevance of the
+issues discussed at such farmer workshops for
+their actual production decisions (Zinnah et al.,
+1993).
+These results have implications for sorghum
+technology improvement research in West Africa.
+First, it shows that yield performance of sorghum
+technologies needs to be evaluated by farmers
+under their own soil conditions. The results
+showed that varieties that farmers judge as having
+superior yield performance over local varieties
+under on-farm soil fertility conditions tend to be
+
+those that are adopted. Secondly, the analyses
+show that sorghum technology development efforts should not only concentrate on agronomic
+characteristics. The strong significance of the food
+quality variable indicates that farmers are concerned about non-agronomic characteristics. As
+sorghum is principally used in West Mrica for
+making to, research efforts need to be focused on
+screening for lines with appropriate good grain
+and food quality for making this local porridge.
+One way to ensure this is to have farmers, especially women, assess the food quality of all
+sorghum varieties that are proposed for on-farm
+testing in West Mrica.
+Results for the Guinea model are given in
+Table 2. The results show that all the four technology-characteristic perceptions were strongly
+significant in explaining farmers' adoption decisions. These results are very similar to those
+obtained by Adesina and Zinnah (1993a) in Sierra
+
+Table 2
+Estimated tobit model for factors affecting the adoption of modern mangrove rice varieties in Guinea, 1990/1991
+Normalized
+coefficient
+
+Standard
+error
+
+T-ratio
+
+Elasticity of
+
+-0.9534
+0.7610
+
+0.5395
+0.2875
+
+-1.7671 *
+2.6469 * * *
+
+0.2676
+
+0.2491
+
+0.7782
+
+0.3146
+
+2.4735 * *
+
+0.3741
+
+0.3482
+
+1.0347
+
+0.2934
+
+3.526
+
+0.3805
+
+0.3542
+
+0.6621
+
+0.2838
+
+2.3324 *
+
+0.2542
+
+0.2366
+
+-0.0009
+-0.1092
+0.2221
+
+0.0116
+0.1166
+0.3109
+
+-0.0771
+-0.9369
+0.7142
+
+-0.0604
+-0.2171
+0.0382
+
+-0.0563
+-0.2021
+0.356
+
+0.0175
+
+0.0600
+
+0.2926
+
+0.0061
+
+0.0056
+
+0.0115
+
+0.0110
+
+1.0399
+
+0.4141
+
+0.3854
+
+-------------------Adoption
+Expected level
+index
+
+Intercept
+Perception of yield
+(YIELD)
+Perception of ease of
+cooking (COOK)
+Perception of tillering
+capacity (TILLER)
+Perception of ease of
+threshing (THRESH)
+Age of the farmer (AGE)
+Farm size (FSIZE)
+Participation in on-farm
+tests (ON-FARM)
+Number of times farmer
+was visited by extension
+agents (VISIT)
+Years of experience
+in rice farming
+(EXP)
+
+* * *
+*
+
+of use intensity
+
+The parameters were evaluated using one-tailed t-tests. Asterisks indicate significant at: * * * 1%; * * 5%; * 10%.
+Dependent variable, RSHARE.
+Log-likelihood function, -24.985.
+Mean square error, 0.3353E-Ol.
+Mean error, - 0.1382E-Ol.
+Squared correlation between observed and expected values, 0.502.
+
+A.A. Adesina, J. Baidu-Forson I Agricultural Economics 13 (1995) 1-9
+
+Leone. It is also important to note that a nonagronomic trait (ease of cooking) significantly affected farmers' adoption decisions. When taken
+together with the results for sorghum in Burkina
+Faso, it is clear that farmers consider factors
+related to food quality as very critical in adoption
+decisions. This suggests that the conventional approach of focusing technology development
+mostly on enhanced agronomic characteristics
+needs to be changed to also significantly encompass food quality characteristics.
+The Guinea results show that none of the
+so-called 'contact' variables were significant in
+influencing adoption decisions. The lack of significance of the extension variable supports the finding by other researchers that researcher-extension-farmer linkages are extremely weak in
+Guinea and that most of the mangrove varieties
+currently grown by farmers were obtained via
+farmer-farmer contacts (Zinnah et al., 1993).
+Comparative analyses of the results in Guinea
+and Burkina Faso with the results earlier reported for Sierra Leone by Adesina and Zinnah
+(1993a) show some important patterns in the role
+of extension and other farmer contact variables in
+influencing farmers' adoption decisions. In the
+case of mangrove rice varieties in Guinea and
+Sierra Leone, extension had very little to do with
+technology diffusion: this occurred mainly through
+farmers self-experimentation, evaluation, exchange and transfer. In the case of sorghum in
+Burkina Faso, extensive on-farm testing of the
+varieties in a number of test-villages appears to
+have affected adoption decisions. This suggests
+that extension workers do not influence technology transfer in all cases. Farmers are also important as sources of technology information and
+agents of technology transfer. When farmers assess the characteristics of new technologies and
+find them to match their preferences, they often
+give the technologies to other farmers to test and
+evaluate thereby setting into motion an endogenous process of technology diffusion.
+4. Conclusions
+
+The analyses in this paper showed that farmers' subjective preferences for characteristics of
+
+7
+
+new agricultural technologies are very important
+determinants of adoption behavior. The results
+are robust in that this conclusion is the same for
+the two different technologies examined in Burkina Faso and Guinea. The results agree with the
+evidence provided by studies of consumer demand showing that consumers critically evaluate
+characteristics of a product and that demand is
+affected by consumers' subjective assessments of
+product attributes (Jones, 1989; Lin and Milon,
+1993). Farmers are consumers of the products of
+agricultural research and their subjective preferences for characteristics of new agricultural technologies affect their adoption decisions.
+Our results, which lend support to the earlier
+finding of Adesina and Zinnah (1993a), call for
+more theoretical and empirical studies to examine the effects of farmers' subjective preferences
+of technology characteristics on adoption decisions. An advantage of the approach we have
+used is that it is possible to identify the key
+characteristics of technologies that need to be
+targeted for improvement if adoption is to be
+achieved. Future studies in this area should overcome a limitation of the current analyses: the
+data we had did not permit us to measure the
+intensity of the perceptions, as was done by Lin
+and Milon (1993) in their study of consumer
+demand in the USA. We suggest that future
+studies collect data that measure not only the
+dichotomous comparison of preferences for technology attributes but also the intensity of those
+preferences. Another possible limitation of the
+current analyses is the possibility of estimation
+bias from simultaneity if the perception variables
+and the other 'contact' variables (i.e. contact with
+extension, participation in on-farm tests etc.) are
+endogenous. It was not possible for us to examine
+this issue owing to the evidently formidable
+econometric problems associated with estimating
+simultaneous equation systems with dummy or
+other limited dependent variables. Also important is the need for studies to examine non-adoption of new agricultural technologies and how
+farmers' subjective preferences for technology attributes play a role (Yapa and Mayfield, 1978;
+Nowak, 1992). Nonetheless, our results provide a
+strong case for future adoption studies to expand
+
+8
+
+A.A. Adesina, J. Baidu-Forson I Agricultural Economics 13 (1995) 1-9
+
+the range of variables used away from the broad
+socio-economic, demographic and institutional
+factors (Feder et al., 1985; Feder and Umali,
+1993), to include farmers' subjective perceptions
+of the characteristics of new agricultural technologies.
+
+Acknowledgments
+
+The authors are grateful to two anonymous
+reviewers of this journal for providing us with
+very helpful comments. We are also grateful to
+Peter Matlon, Kofi Debrah and Timothy 0.
+Williams for helpful comments and discussions
+on earlier versions of the paper. Responsibility
+for errors remains with us. Part of this study was
+conducted while the first author was a Rockefeller Social Science Research Fellow and Assistant Principal Economist at the International
+Crops Research Institute for the Semi-Arid Tropics, while based at the West Africa Sorghum
+Improvement Program in Mali. The funding of
+The Rockefeller Foundation for his work is gratefully acknowledged. The assistance provided by
+our colleagues at INERA and CRPA/ Koupela
+in Burkina Faso throughout the field work is
+gratefully acknowledged.
+
+References
+Adesina, A.A. and Zinnah, M.M., 1993a. Technology characteristics, farmer perceptions and adoption decisions: a
+tobit model application in Sierra Leone. Agric. Econ., 9:
+297-311.
+Adesina, A.A. and Zinnah, M.M., 1993b. Impact of modern
+mangrove swamp rice varieties in Sierra Leone and Guinea.
+Int. Rice Res. Notes, 18: 36.
+Agyen-Sampong, M., 1990. History of rice research in Rokupr:
+Evaluation and overview of WARDA's mangrove rice program, and relationship to national program. West Africa
+Rice Development Association, Rokupr, Sierra Leone.
+Feder, G. and Umali, D., 1993. The adoption of agricultural
+innovations. A review. Techno!. Forecast. Soc. Change, 43:
+215-239.
+Feder, G., Just, R.E. and Zilberman, D., 1985. Adoption of
+agricultural innovations in developing countries: a survey.
+Econ. Dev. Cult. Change, 33: 255-297.
+International Crops Research Institute for the Semi-Arid
+
+Tropics, 1980. Annual Report Cooperative Program/
+Upper Volta. ICRISAT, Upper Volta.
+International Crops Research Institute for the Semi-Arid
+Tropics, 1981. Annual Report Cooperative Program/
+Upper Volta. ICRISAT, Upper Volta.
+International Crops Research Institute for the Semi-Arid
+Tropics, 1982. Annual Report Cooperative Program;
+Upper Volta. ICRISAT, Upper Volta.
+International Crops Research Institute for the Semi-Arid
+Tropics, 1983. Annual Report Cooperative Program/
+Upper Volta. ICRISAT, Upper Volta.
+Jones, A.M., 1989. A double-hurdle model of cigarette consumption. J. Appl. Econometrics, 4: 23-29.
+Kebede, Y., Gunjal, K. and Coffin, G., 1990. Adoption of new
+technologies in Ethiopian agriculture: the case of
+Teguelet-Bulga District, Shoa Province. Agric. Econ., 4:
+27-43.
+Kivlin, J.E. and Fliegel, F.C., 1966. Attributes of innovations
+as factors in diffusion. Am. J. Sociol., 72: 235-248.
+Kivlin, J.E. and Fliegel, F.C., 1967. Differential perceptions of
+innovations and rate of adoption. Rural Sociol., 32: 78-91.
+Lin, C.T.J. and Milon, J.W., 1993. Attribute and safety perceptions in a double-hurdle model of shellfish consumption. Am. J. Agric. Econ., 75: 724-729.
+Matlon, P.J., 1985. A critical review of objectives, methods,
+and progress to date in sorghum and millet improvement:
+a case study of ICRISAT/Burkina Faso. In: H.W. Ohm
+and J.G. Nagy (Editors), Appropriate Technologies for
+Farmers in Semi-Arid West Africa. Purdue University,
+Lafayette, IN, pp. 154-179.
+McDonald, J.F. and Moffitt, R.A., 1980. The uses of Tobit
+analysis. Rev. Econ. Stat., 62: 318-321.
+Nowak, P., 1992. Why farmers adopt production technology.
+J. Soil Water Conserv., 47: 14-16.
+O'Mara, G., 1980. The micro-economics of technique adoption by small-holding Mexican farmers. World Bank Development Research Center, Washington DC.
+Polson, R.A. and Spencer, D.S.C., 1991. The technology
+adoption process in subsistence agriculture: The case of
+cassava in South Western Nigeria. Agric. Syst., 36: 65-77.
+Ramaiah, K.V., 1991. Breeding for striga resistance in sorghum
+and millet. In: S.K. Kim (Editor), Combating Striga in
+Africa. International Institute of Tropical Agriculture,
+Ibadan, Nigeria, pp. 75-80.
+Shakya, P.B. and Flinn, J.C., 1985. Adoption of modern
+varieties and fertilizer use on rice in the eastern Tarai of
+Nepal. J. Agric. Econ., 36: 409-419.
+Strauss, J., Babosa, M., Teixeira, S., Thomas, D. and Gomes,
+R., 1991. Role of education in adoption of technology: a
+study of upland rice and soybean farmers in central-west
+Brazil. Agric. Econ., 5: 341-359.
+Unnevehr, L.J., 1986. Consumer demand for rice grain quality
+and returns to research for quality improvement in southeast Asia. Am. J. Agric. Econ., 68: 634-641.
+White, K.J., 1978. SHAZAM-A general computer program
+for econometric methods. Econometrica, 46: 239-240.
+Wildschut, J. and Ouattara, A., 1987. Rapport Technique.
+
+A.A. Adesina, I. Baidu-Forson j Agricultural Economics 13 (1995) 1-9
+Resultats de Ia campagne 1987. O.R.D. du Centre-Est,
+Burkina Faso.
+Yapa, L.S. and Mayfield, R.C., 1978. Non-adoption of agricultural innovations: evidence from discriminant analysis.
+Econ. Geogr., 54: 145-156.
+
+9
+
+Zinnah, M.M., Compton, J.L. and Adesina, A.A., 1993. Research-extension-farmer linkages within the context of
+the generation, transfer and adoption of improved mangrove swamp rice technology in West Africa. Q. J. Int.
+Agric., 32: 201-211.
+
+

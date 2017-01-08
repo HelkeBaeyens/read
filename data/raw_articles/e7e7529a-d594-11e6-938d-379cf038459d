@@ -1,0 +1,1866 @@
+IFPRI Discussion Paper 00716
+September 2007
+
+Investment, Subsidies, and Pro-Poor Growth in Rural India
+
+Shenggen Fan, International Food Policy Research Institute
+Ashok Gulati, International Food Policy Research Institute
+and
+Sukhadeo Thorat, Institute of Dalit Studies
+
+Development Strategy and Governance Division
+and
+New Delhi Office
+
+INTERNATIONAL FOOD POLICY RESEARCH INSTITUTE
+The International Food Policy Research Institute (IFPRI) was established in 1975. IFPRI is one of 15
+agricultural research centers that receive principal funding from governments, private foundations, and
+international and regional organizations, most of which are members of the Consultative Group on
+International Agricultural Research (CGIAR).
+FINANCIAL CONTRIBUTORS AND PARTNERS
+IFPRI’s research, capacity strengthening, and communications work is made possible by its financial
+contributors and partners. IFPRI gratefully acknowledges generous unrestricted funding from Australia,
+Canada, China, Denmark, Finland, France, Germany, India, Ireland, Italy, Japan, the Netherlands,
+Norway, the Philippines, Sweden, Switzerland, the United Kingdom, the United States, and the World
+Bank.
+
+IFPRI Discussion Paper 00716
+September 2007
+
+Investment, Subsidies, and Pro-Poor Growth in Rural India
+
+Shenggen Fan, International Food Policy Research Institute
+Ashok Gulati, International Food Policy Research Institute
+and
+Sukhadeo Thorat, Institute of Dalit Studies
+
+Development Strategy and Governance Division
+and
+New Delhi Office
+
+Published by
+
+INTERNATIONAL FOOD POLICY
+RESEARCH INSTITUTE
+2033 K Street, NW
+Washington, DC 20006-1002 USA
+Tel.: +1-202-862-5600
+Fax: +1-202-467-4439
+Email: ifpri@cgiar.org
+
+www.ifpri.org
+
+Notices:
+1
+
+Effective January 2007, the Discussion Paper series within each division and the Director General’s Office of IFPRI
+were merged into one IFPRI-wide Discussion Paper series. The new series begins with number 00689, reflecting the
+prior publication of 688 discussion papers within the dispersed series. The earlier series are available on IFPRI’s
+website at www.ifpri.org/pubs/otherpubs.htm#dp.
+2
+
+IFPRI Discussion Papers contain preliminary material and research results. They have not been subject to formal
+external reviews managed by IFPRI’s Publications Review Committee but have been reviewed by at least one
+internal and/or external reviewer. They are circulated in order to stimulate discussion and critical comment.
+
+Copyright 2007 International Food Policy Research Institute. All rights reserved. Sections of this material may be
+reproduced for personal and not-for-profit use without the express written permission of but with acknowledgment to
+IFPRI. To reproduce the material contained herein for profit or commercial use requires express written permission.
+To obtain permission, contact the Communications Division at ifpri-copyright@cgiar.org.
+
+Contents
+Abstract ............................................................................................................................... v
+1. Introduction.................................................................................................................... 1
+2. Public Investments and Subsidies.................................................................................. 2
+3. Effects of Public Investments and Subsidies ............................................................... 11
+4. Policy Lessons ............................................................................................................. 20
+Appendix: Definition of Public Investment Variables..................................................... 22
+References......................................................................................................................... 23
+
+iii
+
+List of Tables
+1. Estimated Poverty Equation......................................................................................... 15
+2. Estimated Labor Productivity Equation....................................................................... 16
+3. Estimated Wages Equation .......................................................................................... 16
+4. Estimated Rural Nonfarm Employment Equation ....................................................... 16
+5. Estimated Fertilizer Demand Equation........................................................................ 17
+6. Returns in Agricultural Growth & Poverty Reduction to Investments & Subsidies ... 19
+
+List of Figures
+1a. Input Subsidies in Indian Agriculture, 1993 Billion Rs................................................ 6
+1b. Input Subsidies (Fertilizer, Power, and Canal Irrigation) and Public Investments in
+Agriculture, 1980-2000................................................................................................. 8
+2a. Input Subsidies as Percentage of Agricultural .............................................................. 9
+2b. Input Subsidies, Rs per Hectare of Cropped Land........................................................ 9
+2c. Input Subsidies, Rs per Agricultural Person ............................................................... 10
+3. Model Relationships between Public Spending and Poverty ..................................... 12
+
+iv
+
+ABSTRACT
+This paper reviews the trends in government subsidies and investments in and for Indian agriculture;
+develops a conceptual framework and model to assess the impact of various subsidies and investments on
+agricultural growth and poverty reduction; and, presents several reform options with regard to reprioritizing government spending and improving institutions and governance.
+There are three major findings. First, initial subsidies in credit, fertilizer, and irrigation have been
+crucial for small farmers to adopt new technologies. Small farms are often losers in the initial adoption
+stage of a new technology since prices of the agricultural products are typically being pushed down by
+greater supply of products from large farms, which adopted the new technology. But as more and more
+farmers have adopted HYV, continued subsidies have led to inefficiency of the overall economy. Second,
+agricultural research, education, and rural roads are the three most effective public spending items in
+promoting agricultural growth and poverty reduction during all periods. Finally, the trade-off between
+agricultural growth and poverty reduction is generally small among different types of investments. As for
+agricultural research, education, and infrastructure development, they have large growth impact and a
+large poverty reduction impact.
+Several policy lessons can be drawn. Agricultural input and output subsidies have proved to be
+unproductive, financially unsustainable, environmentally unfriendly in recent years, and contributed to
+increased inequality among rural Indian states. To sustain long-term growth in agricultural production,
+and therefore provide a long-term solution to poverty reduction, the government should cut subsidies of
+fertilizer, irrigation, power, and credit and increase investments in agricultural research and development,
+rural infrastructure, and education. Promoting nonfarm opportunities is also important. However, simply
+reallocating public resources is not the full solution. Reforming institutions can have an equal, if not
+larger, impact on future agricultural and rural growth and rural poverty reduction.
+
+Keywords: Rural poverty, agricultural growth, investment, subsidies, India
+
+v
+
+1. INTRODUCTION1
+There is a raging debate going on in India about the reasons why the growth rate in Indian agriculture
+declined since the 1990s, especially during the last several years (see Alagh 2004; Bhalla 2004; and
+Gulati 2004). The underlying causes of this deceleration are not very clear. Various reasons have been
+suggested, ranging from the declining trend in public-sector investments in agriculture to the adverse
+impact of trade liberalization resulting from the collapse in world prices of major agricultural products.
+One common strand in the debate concerns the neglect of public-sector investments since the 1980s (GOI
+[Government of India] 2004). Promises have often been made in various government publications that the
+trend of declining public-sector investments in agriculture will be reversed, but these promises remain
+largely unfulfilled. Another strand in the debate, one that is increasingly coming into focus, concerns the
+rising level of subsidies (in real terms) given to agricultural inputs, especially power, canal irrigation,
+fertilizers, and credit. The subsidies on food through the public procurement, stocking, and distribution
+system are also increasing (GOI 2004).
+So the real issue is not only that government expenditure on food and agriculture is decreasing,
+but also how it is being allocated and what impact it has on agricultural growth and poverty reduction in
+rural areas. If the government had a billion rupees to spend on agriculture, should it spend the money on
+agricultural subsidies or agricultural investments (and on what type of investments), if the objective is to
+get maximum returns from each billion rupees spent? Answering this question is the purpose of this
+paper.
+The paper aims to (1) review the trends in government subsidies and investments in/for Indian
+agriculture, (2) empirically estimate the relative impact of various subsidies and investments on
+agricultural growth and poverty reduction, and (3) present, in the light of these results, a few reform
+options to re-prioritize government spending and improve institutions and governance in order to enhance
+use of limited resources.
+
+1
+
+Shenggen Fan is Director of IFPRI's Development Strategy and Governance Division; Ashok Gulati is
+Director of IFPRI in Asia; Sukhadeo Thorat is Director of Institute of Dalit Studies and Chairman of University
+Grant Commission, New Delhi.
+
+2. PUBLIC INVESTMENTS AND SUBSIDIES
+This section will review the trends in public investments that are targeted to improve agricultural
+productivity in long run through accumulation of public capital and subsidies that are supposed to
+increase farmers’ production directly.
+Public Investments in and for Agriculture
+In the strict definitional sense of the term, public investments in agriculture are often equated with publicsector gross fixed capital formation (GFCF) in agriculture, as defined in the National Accounts Statistics
+(NAS) of the Central Statistical Organisation (CSO) of India. By this definition, which uses the assetbased approach as well as the industry-of-use approach, public-sector GFCF in agriculture comprises
+primarily (almost 90 percent) the irrigation projects undertaken by the Departmental Commercial
+Undertakings. The Non-Departmental Commercial Undertakings contributes a minor amount through
+irrigation, horticulture, livestock, and development of state farms.
+Going by this definition of public investments in agriculture, it is worth noting that the share of
+GFCF in total investments (capital formation) in agriculture was less than one-fourth (24 percent to be
+exact) for the triennium average of 2000-01 to 2002-03 (GOI 2004, 167), and that this share has
+decreased over the years. In the early 1980s, for example, the share of the public sector and private sector
+(including household sector) in gross capital formation in agriculture was roughly equal, but by the early
+2000s, the share of the private sector was three times larger than the share of the public sector at 1993-94
+constant prices (Gulati and Bathla 2002). Not only has the share of the public sector in gross capital
+formation decreased, but it is ironic that it has decreased even in absolute terms. This overall decline has
+been the focus of major debate in the country because many assume it to be the main cause behind the
+slow down in agricultural growth and, thereby, in the reduction of rural poverty.
+The problem with this definition is that it does not capture the full scale of public-sector
+investments or expenditures that have significant influence on the growth of agriculture. We know from
+past experience, especially during the Green Revolution period, that government expenditures in
+agricultural research and development (R&D), rural roads, education, and so on are perhaps as important
+as public expenditures on irrigation. This dual effect on agriculture is often expressed as the famous
+dichotomy of investments in agriculture and investments for agriculture (Dantwala 1986). Recognizing
+the effects of multiple factors, many researchers have tried to construct their own series of capital
+formation for agriculture, depending upon the purpose at hand. They have extended the definition to
+include expenditures under many headings, ranging from power supplied to rural areas, roads, R&D, and
+sometimes even investments in the fertilizer industry (see the details of this debate in Chand 2000; Fan,
+
+2
+
+Hazell, and Thorat 2002; Gulati and Bathla 2002, Annexure IV; GOI 2003).
+In an earlier study, Fan, Hazell, and Thorat (2002) constructed their own series of public
+expenditures to explain the growth of agriculture, and concluded that the success of the Green Revolution
+was due largely to government expenditures in irrigation and electricity, agricultural R&D, and rural
+infrastructure. In recent years, however, we have seen a steady decline in these public expenditures,
+whichever way we look at them: as public-sector capital formation in agriculture or for agriculture (GOI
+2003). As a share of agricultural gross domestic product (GDP), these investments declined from more
+than 10 percent during 1981-83 to 5 percent during 1998-2000 (Landes and Gulati 2004). In contrast,
+however, Fan, Hazell, and Thorat’s (2002) expenditure series—one of the most comprehensive series
+constructed because it includes rural education—shows a decline in overall public expenditure in
+agriculture as a share of agricultural GDP up to 1992, but some pick up thereafter, though the rate of
+growth is very low compared to earlier decades.
+Amongst various types of government spending for agriculture, agricultural R&D appears to be
+the most critical for promoting farm yields. Public agricultural research expenditure increased from Rs
+1.6 billion in 1964, measured in 1995 prices, to Rs 7.1 billion in 1990, at an average annual growth rate of
+5.8 percent. As a result, the national agricultural research system released many new technologies. The
+adoption of high-yielding varieties jumped from almost zero farmers in the mid-1960s to more than 50
+percent of farmers in 1990. But adoption increased very little after 1990. In 1995 government spending
+in agricultural R&D increased only marginally above 1990, to Rs 7.3 billion. As a percentage of
+agricultural GDP, public agricultural research spending increased from 0.21 percent in 1964 to 0.50
+percent in 1987. After 1987 it stagnated, and even dropped to 0.43 percent in 1995. This percentage is
+very low when compared with the 2-4 percent share in developed countries, and even lower than the 0.75
+percent average share for developing countries.
+Public expenditure on irrigation too has been critical for agricultural growth in the past. Massive
+investments in dams, reservoirs, and canal networks through multipurpose river valley schemes,
+especially during the first three decades after independence, appear to have paid off well given that the
+seeds of the Green Revolution sprouted in the areas where these investments were made. But during the
+1980s and 1990s, public expenditure on irrigation declined consistently (measured at constant prices).
+While the costs of creating additional irrigation through major and medium-sized surface-irrigation
+schemes went up, the resources to complete these schemes shrank. As a result, the growth in area irrigated
+through publicly funded schemes slowed down, creating severe shortages of irrigation water on the one
+hand and a large number of unfinished irrigation projects on the other. In 1996-97 the GOI introduced the
+Accelerated Irrigation Benefits Programme (AIBP) and in 2002 a Fast Track Programme in order to help
+states complete pending irrigation schemes quickly through central loans and grants. So far, success has
+
+3
+
+been modest. As public expenditures have generally declined, private-sector investments in minor
+irrigation, primarily ground water, have increased. Despite irrigation investment over the years, roughly
+three-fifths (60 percent) of India’s gross cropped area remain dependent on rains.
+In addition to investments that are directly targeted towards agriculture, like R&D and irrigation,
+there are also investments in education, health, and infrastructure that contribute to growth in agricultural
+production and even more to poverty reduction in rural areas. The literacy rate in rural India has increased
+steadily from 23 percent in 1970 to 40 percent in 1995. In 1970, only 34 percent of the villages in rural
+India had access to electricity. But in 1995, this percentage had increased to almost 90 percent. It is
+difficult to separate the rural share of overall government investment, but overall investments in education
+and electricity have slowed down in recent years. A strong urban bias has probably caused rural areas to
+suffer even more from the recent stagnating or declining investment trends (Fan, Thorat, and Rao 2004).
+Input Subsidies
+Input and output subsidies in Indian agriculture have increased over the last two decades. Food subsidies
+alone increased by more than 10 times (at current prices) between 1990-91 and 2004-05 (GOI 2004, 94),
+while the wholesale price index for all commodities roughly doubled during this period (food subsidies
+therefore increased by more than 5 times in real terms). The components of this increase include rising
+minimum support prices, accumulation of huge stocks of grains (touching 64 million metric tons in July
+2002), and the increasing economic cost of operations of the Food Corporation of India.
+In this paper we focus only on input subsidies. The sources of input subsidies are diverse.
+Different levels of government (central, state, and local) can provide direct financial support to input
+industries, parastatal and private input traders, and farmers. The government can also design policies that
+subsidize inputs indirectly, such as those related to trade and marketing. Subsidies can be disaggregated
+further into those for fertilizer, credit, irrigation, and power. The data we use here are estimated by Fan,
+Thorat, and Rao (2004) following the methodology developed by Gulati and Narayanan (2003).
+Accordingly, fertilizer subsidy is measured basically as the difference between the import parity
+price and what the farmer actually pays, multiplied by the total consumption of fertilizers. The underlying
+rationale is that fertilizer is largely a tradable commodity and therefore its relevant price under a free trade
+scenario would be the import parity price. The subsidy estimated on this basis is very different from what
+is shown in government budgets, which is primarily the difference between the cost of production of
+fertilizers under the Retention Pricing Scheme and what the farmer pays.
+Measured in 1993 constant prices, government budget support for fertilizer increased from Rs 2.6
+billion in 1976 to Rs 80 billion in 2000, an increase of more than 30 times in 24 years (Fan, Thorat, and
+Rao 2004). Only after 1998 did government support for fertilizer stabilize at Rs 80 billion per year. As a
+
+4
+
+percentage of overall GDP, fertilizer subsidy increased from 0.07 percent to 0.61 percent between 1976
+and 2000. The fertilizer subsidy budget increased at a faster rate than the total subsidy budget of the
+central government. As a result, its share in total central government subsidy outlays increased from 6.3
+percent to more than 50 percent between 1976 and 2000. As a percentage of agricultural GDP, the
+fertilizer support budget increased from 0.19 percent to 2.7 percent during the same period. This share is
+more than 5 times larger than government spending on agricultural R&D.2
+An important question is whether the central government fertilizer subsidy is distributed equitably
+across crops, states, and farm classes. Singh (2004) has analyzed this issue, measuring equity in terms of
+shares of different farm classes, crops, and states in total fertilizer use, and per hectare fertilizer use on
+different size farms. His study shows that paddy and wheat farmers are the main beneficiaries of fertilizer
+subsidy, followed by cotton and sugarcane farmers. Paddy and wheat growers consume 35 percent and
+19.3 percent of total fertilizers, respectively, whereas cotton and sugarcane growers consume 5.8 and 5.5
+percent of total fertilizers, respectively. Fertilizer use per hectare is also higher for paddy and wheat when
+compared to other crops. Paddy and wheat use 79.7 kilograms (kg) and 85.32 kg of fertilizer per hectare,
+whereas coarse cereals and other crops use 28.8 kg and 42 kg per hectare, respectively.
+But not all government budget support goes to farmers; a large proportion ends up with the
+domestic fertilizer industry. On the basis of import parity prices of fertilizers, about 67.5 percent of the
+fertilizer subsidy went to farmers over the last two decades. If one adjusts for the pricing of gas as per the
+Kelkar Committee’s recommendations, farmers’ share of the fertilizer subsidy drops to roughly 50
+percent (Gulati and Narayanan 2003). Based on this measure, fertilizer subsidy increased substantially
+between 1976 and the mid-1990s (Figure 1a). After the mid-1990s, the subsidy declined mainly because
+the international price of fertilizer declined; but the government budget support remained almost at the
+same level in real terms.
+India was one of the first developing countries that introduced a rural credit scheme to help poor
+farmers overcome cash constraints for agricultural production. The Rural Credit Survey Committee report
+of the early 1950s recommended financial support for cooperatives, establishment of primary agricultural
+credit cooperatives (PACS), the strengthening of the cooperative credit structure, and the nationalization
+of the banking system. With the introduction of high-yielding varieties, there was a substantial increase in
+the demand for credit from cooperatives, which were the only official providers of agricultural credit at
+that time. With the nationalization of 14 major commercial banks in 1969, commercial banks entered the
+agricultural credit scene. In 1975, Regional Rural Banks (RRBs) were created to provide agricultural
+
+2
+
+In 2000, the central government spent Rs 13.7 billion on agricultural research measured in 1993 price (Jha and
+Pal 2004).
+5
+
+credit to targeted districts with a weak credit base. As a result of this focus on credit, the share of
+agriculture in total credit disbursed by commercial banks increased quickly from 3 percent in 1967 to 15
+percent in 1985. The share of credit provided by the RRBs also increased rapidly and averaged 11.4
+percent of total agricultural credit by 1989. By the early 1990s, 50 percent of total agricultural credit came
+from commercial banks.
+Figure 1a. Input Subsidies in Indian Agriculture, 1993 Billion Rs
+300
+250
+200
+150
+100
+50
+
+19
+60
+19
+62
+19
+64
+19
+66
+19
+68
+19
+70
+19
+72
+19
+74
+19
+76
+19
+78
+19
+80
+19
+82
+19
+84
+19
+86
+19
+88
+19
+90
+19
+92
+19
+94
+19
+96
+19
+98
+
+0
+
+Sources: Fan, Thorat and Rao, 2004.
+
+Credit subsidies are calculated as interest subsidies (the difference between commercial rates and
+the rate farmers receive) plus defaulted loans to agriculture. At the national level, the volume of the credit
+subsidy increased at a yearly rate of 11.24 percent during 1960-1999. However, the growth rates varied
+considerably across decades. During the 1960s, credit subsidies grew at a rate of 12.62 percent per year;
+during the 1970s the rate of increase doubled, averaging 22 percent a year. The growth rate in credit
+subsidies dropped to 7.31 percent in the 1980s and further down to 4.74 percent in the 1990s (Figure 1).
+Irrigation subsidies are calculated as the difference between the total operation and maintenance
+(O&M) costs and the total revenue in the irrigation sector. From 1966 to 1999, the level of irrigation
+subsidy, which includes major, medium, and minor irrigation schemes, increased quite dramatically, at
+7.6 percent per year. The rate of increase was higher during the 1960s (20 percent), compared with the
+1970s (10 percent) and the 1980s (5 percent) (Figure 1a). During the 1990s, the growth rate in irrigation
+subsidies decreased significantly to only 1 percent per year. Himachal Pradesh and Jammu and Kashmir
+had the highest subsidy per agricultural population, while Assam and Maharashtra had the lowest.
+The agricultural sector in India consumed 29 percent of the power generated in 1999, but
+
+6
+
+contributed to only 3.36 percent of the total electricity sales revenue. This pattern has been stable over the
+last two decades and, as such, industrial and commercial consumers of electricity have cross-subsidized
+power consumption of the agricultural sector (Gulati and Narayanan 2003). This is true for almost all
+states in India. For example, in 2000-01, the average revenue tariffs from power supply to agriculture was
+28.42 paise (100 paise equals one rupee) per kilowatt-hour, whereas the estimated average cost of supply
+to others in the power sector was 303.86 paise per kilowatt-hour. Thus, agriculture received a subsidy of
+275.44 paise for every kilowatt-hour it consumed. By contrast, the average revenue tariff for industrial
+and commercial consumers was 360.23 and 341.20 paise per kilowatt-hour, respectively.
+The power subsidies are estimated using the following procedure (Gulati and Narayanan 2003).
+The total costs of the power sector are reported in the State Budget and the Finance Account and include
+capital outlays as well as assistance to the electricity board, subsidies, and grants-in-aid. The total
+revenue expenditure includes collection of taxes and duties on consumption and sale of electricity, as well
+as the revenue expenditure on power, but excludes interest payment by the government.
+The unit subsidy for agriculture is calculated as the unit cost of supplying electricity to all sectors
+subtracted by the electricity tariff charged to agriculture. The total electricity subsidy to agriculture is
+simply the total agricultural electricity consumption multiplied by the unit subsidy for agriculture. For
+the years prior to 1980 we use the 1980 rate (in real terms), because tariff rates for agriculture by state are
+unavailable.
+Overall, power subsidies to the agricultural sector grew at an annual rate of 19.7 percent between
+1966 and 1999. However, the rate of growth has been uneven over time: a rising trend is clearly observed
+in Figure 1a. Power subsidies grew rapidly, from an annual average rate of 7.2 percent in the 1960s to
+38.5 percent in the 1970s. The rate of increase declined to 19.7 percent in the 1980s. In the 1990s, it fell
+further to 11.9 percent per year. Power subsidies have been unevenly distributed among states.
+When we aggregate these four subsidies, we see that total input subsidies increased from Rs 3
+billion in 1966 to Rs 271 billion in 1999 (all in 1993 prices), an increase by 90 times during the last three
+decades (Figure 1a). In the 1960s, irrigation accounted for more than 50 percent of the total subsidies,
+credit accounted for 30 percent, and power for the rest. During the second half of the 1970s, fertilizer
+subsidy became dominant, accounting for more than 50 percent of the total. Since 1982, power subsidy
+has taken the largest share. In 1999 it accounted for 64 percent of total input subsidies in Indian
+agriculture.
+Three issues come to the fore from the above analysis: (1) the volume of subsidies increased
+substantially during this 34-year period (1966-1999). The rate of increase, however, was higher for power
+(19.6 percent per year) and credit (11.2 percent per year) than for irrigation and fertilizer (about 5.5
+percent and 7.6 percent, respectively). (2) The rate of change in the amount of subsidies was uneven over
+
+7
+
+time. Overall, subsidies on all four inputs increased at a much faster rate during the 1960s and the 1970s.
+In the next two decades, subsidy growth for these inputs slowed down, partly because the international
+price of fertilizer declined (and yet government support for fertilizer remained high). (3) Subsidy
+distribution across states has been extremely unequal and has only become more so over time. This last
+point is investigated in more detail below.
+
+Investments in Rs billion (1993-94 prices)
+
+Subsidies
+
+1999/2000
+
+1998/99
+
+1997/98
+
+1996/97
+
+1995/96
+
+1994/95
+
+0
+1993/94
+
+0
+1992/93
+
+50
+
+1991/92
+
+50
+
+1990/91
+
+100
+
+1989/90
+
+100
+
+1988/89
+
+150
+
+1987/88
+
+150
+
+1986/87
+
+200
+
+1985/86
+
+200
+
+1984/85
+
+250
+
+1983/84
+
+250
+
+1982/83
+
+300
+
+1981/82
+
+300
+
+1980/81
+
+Investments
+
+Figure 1b. Input Subsidies (Fertilizer, Power, and Canal Irrigation) and Public Investments in
+Agriculture, 1980-2000
+
+Subsidies in Rs billion (at 1993-94 prices)
+
+There exists great variation of input subsidies across states (Figures 2a, 2b, and 2c). As a
+percentage of agricultural GDP, Madhya Pradesh, Gujarat, Andhra Pradesh, Punjab, and Tamil Nadu
+received the most subsidies in 1997-99, ranging from 15 to 21 percent. Assam, Kerala, and West Bengal
+received among the least, often less than 5 percent. In terms of subsidies per hectare of cropped land,
+Tamil Nadu, Punjab, Gujarat, and Andhra Pradesh were among the top recipients, receiving anywhere
+from Rs 2,600 to 3,300 per hectare. Assam and Orissa received the least: less than Rs 500 on a per
+hectare basis. However, when subsidies are calculated per agricultural person, the picture is quite
+different, showing the largest variation across states. In 1997-1999, each individual in Punjab’s
+agricultural population benefited from input subsidies by almost Rs 1,500 (1993 prices), while
+agricultural Assamese benefited by only Rs 43, a 35-fold difference. In general the western states,
+including Punjab, Haryana, and Gujarat, benefited the most, topping the national average, while the
+eastern states, including Assam, Bihar, and Orissa, benefited the least per agricultural person. This
+strongly implies that input subsidy policy may have increased inequality within agriculture across states.
+
+8
+
+Distribution of Input Subsidies across States, 1997-99 (1993 prices)
+Figure 2a. Input Subsidies as Percentage of Agricultural
+25
+
+20
+
+15
+
+10
+
+5
+
+P
+M
+
+AP
+G
+uj
+ar
+at
+
+U
+P
+Ka
+rn
+at
+ak
+H
+ar
+ya
+na
+M
+ah
+ar
+as
+h
+T
+N
+ad
+u
+Pu
+nj
+ab
+
+Bi
+ha
+r
+
+J&
+K
+R
+aj
+as
+th
+an
+
+sa
+O
+ris
+
+H
+P
+
+W
+B
+
+As
+sa
+
+m
+Ke
+ra
+la
+
+0
+
+Figure 2b. Input Subsidies, Rs per Hectare of Cropped Land
+3500
+3000
+2500
+2000
+1500
+1000
+500
+
+9
+
+TN
+
+ab
+
+Pu
+nj
+
+ra
+t
+uj
+a
+
+AP
+
+G
+
+J&
+K
+H
+ar
+ya
+na
+
+ah
+ar
+as
+h
+Ka
+rn
+at
+ak
+
+U
+P
+
+M
+
+P
+M
+
+ha
+r
+Bi
+
+Ke
+ra
+la
+
+W
+B
+
+as
+th
+an
+
+R
+aj
+
+H
+P
+
+As
+sa
+m
+O
+ris
+sa
+
+0
+
+Figure 2c. Input Subsidies, Rs per Agricultural Person
+1600
+1400
+1200
+1000
+800
+600
+400
+200
+
+10
+
+A
+Ka P
+rn
+at
+ak
+M
+ah
+ar
+as
+h
+H
+ar
+ya
+na
+G
+uj
+ar
+at
+Pu
+nj
+ab
+
+P
+M
+
+TN
+
+U
+P
+as
+th
+an
+R
+aj
+
+J&
+K
+
+W
+B
+
+Ke
+ra
+la
+O
+ris
+sa
+
+H
+P
+
+m
+As
+sa
+
+Bi
+ha
+r
+
+0
+
+3. EFFECTS OF PUBLIC INVESTMENTS AND SUBSIDIES
+Analytical Approach and Model
+Model
+In a previous study, Fan, Hazell, and Thorat (2002) used state-level data from 1951 to 1993 to estimate
+the marginal returns of different types of government spending on agricultural growth and poverty
+reduction. The impact of government spending on poverty was estimated by analyzing linkages across
+agricultural growth, the development of the rural nonfarm economy, and rural wages. However, that study
+was unable to offer analysis by different time periods due to limited data, and it did not distinguish
+between impacts arising from investments and subsidies. But to prioritize future government spending,
+we need to analyze impacts over time and from different types of expenditures.
+Therefore, we use a multi-equation system to estimate the effects of government investment and
+subsidies on poverty, and a full information maximum likelihood method for the estimation technique.
+The system of 10 equations includes a poverty equation that is a function of agricultural growth, changes
+in wages, nonfarm employment, and food prices. These equations further endogenize equations of
+agricultural growth, rural wages, nonfarm employment, and food prices, and these latter equations are
+linked to forms of public capital, such as agricultural research investment, improvements in roads,
+electricity, education, and irrigation. Finally a set of equations model the relationships between
+government spending and public capital. The relationships described by these equations are also shown in
+Figure 3.
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+
+POVERTY = f1 (AY, AWAGES, NFE, TT)
+AY = f2 (LAND, FERT, ROADS, LITE, IRRI)
+AWAGES = f3 (UGDPP, AY, ELECT, ROADS, LITE)
+NFE = f4 (UGDPP, AY, ELECT, ROADS, LITE)
+TT= f5 (AY, WFPI, UGDPP)
+FERT= f6 (FERTS, CRS, RDS, IRS, ELECT)
+IRRI = f7 (IRI)
+ELECT= f8 (ELECS)
+ROADS= f9 (ROADI)
+LITE= f10 (EDUI)
+
+11
+
+Figure 3. Model Relationships between Public Spending and Poverty
+
+I n v e s tm e n t a n d S u b s id ie s
+
+E d u c a tio n /H e a lth
+
+In fr a str u c tu r e
+
+T e c h n o lo g y
+
+A g r ic u ltu r a l P r o d u c tio n
+
+W ages
+
+N o n fa r m E m p lo y m e n t
+
+O th e r E x o g e n o u s V a r ia b le s
+• P o p u la tio n G r o w th
+• A g r o e c o lo g ic a l C o n d itio n s
+• U r b a n G ro w th
+• M a c r o a n d T r a d e P o lic ie s
+
+F o o d P r ic e s
+
+P o v e rty
+
+Equation (1) models the determinants of the rural poverty rate (P), which is defined as the
+percentage of rural residents under the poverty line. The explanatory variables include agricultural labor
+productivity (AY), agricultural wages (AWAGES), the percentage of nonagricultural employment (NFE),
+and the terms of trade (TT). Agricultural labor productivity is included in the poverty equation to proxy
+agricultural income as agriculture is still the dominant source of income for most rural residents in India.
+Wages are the second most important source of income after agricultural production for Indian rural
+residents. Together, rural wages and rural nonfarm employment capture the impact of nonfarm activities
+on poverty reduction. The terms of trade variable measures the rural poverty impact of the changes in
+agricultural prices relative to nonagricultural prices. It is hypothesized that in the short run, the poor may
+suffer from higher agricultural prices because they are usually net buyers of foodgrains.
+The second equation is a labor productivity function. Land (LAND) and fertilizer (FERT), on a
+per worker basis, are included as conventional inputs. To capture the impact of government interventions
+on productivity and production growth, we also include the following variables in the equation: the
+percentage of cropped area sunder irrigation (IRRI), the literacy rate of the rural population (LITE), and
+road density (ROADS). Although agricultural research and rural electrification could be added to the
+
+12
+
+explanatory variables, they are highly correlated with fertilizer, and therefore are excluded from the
+equation. Instead, we will include these variables in the fertilizer demand equation.
+Equation (3) is a wage determination function. Rural wages are determined by agricultural labor
+productivity (AY), electrification (ELECT), roads (ROADS), and literacy rate (LITE). The impact of
+improved roads on wages is often ignored when specifying a wage determination equation. Ignoring this
+effect is likely to lead to an underestimation of the impact of government spending on poverty, since wage
+increases induced by improved rural roads can be potentially large, benefiting workers in their
+agricultural and nonagricultural activities. We also include urban GDP growth (UGDPP) to control for
+the effects of urban labor demand on rural wages.
+Equation (4) determines nonagricultural employment. Similar to the wage equation, it is
+modelled as a function of urban GDP growth (UGDPP),agricultural labor productivity (AY), rural roads
+(ROADS), electrification (ELECT), and education (LITE). Improved roads should help farmers to set up
+small nonfarm businesses and to market their products. Improved roads and education also help farmers
+to find jobs in towns.
+Equation (5) determines the terms of trade. Growth in agricultural production increases the
+aggregate supply of agricultural products, and therefore reduces agricultural prices. Lower prices will
+help the poor if they are net buyers of grains. A world price index of rice, wheat, and corn (WFPI) is
+included in the equation to capture the impact of international markets on domestic agricultural prices. In
+addition to agricultural labor productivity (AY), we also include urban GDP growth (UGDPP) in the
+equation to capture the demand side effects on agricultural prices.
+Equation (6) models fertilizer use in agriculture. It includes government subsidies in fertilizer
+(FERTS), subsidies in credit (CRS) and irrigation (IRS), agricultural research (RDS), and electrification
+(ELECT). Many of these variables affect agricultural production through fertilizer use. For example,
+improved irrigation and new seeds from agricultural research would increase farmers’ demand for
+fertilizer use. A variety of evidence shows that modern seeds would not have performed as well without
+fertilizer and irrigation.
+Equation (7) models the relationship between government investment in irrigation (IRRI) and the
+percentage of the cropped area under canal irrigation (IRI). Since nearly all canal irrigation results from
+government investment, we use the cropped area under canal irrigation as a proxy for public irrigation.
+Equation (8) models agricultural electricity consumption (ELECT) as a function of government
+subsidies in agricultural electricity (ELECS). Ideally, we should also include capital investment in
+generating electricity for agriculture in the function. However, electricity is generated by the power
+sector. Thus, it is difficult to separate the use of capital between the agricultural and the nonagricultural
+sectors. Second, agricultural electricity consumption is only a small portion of overall power use.
+
+13
+
+Therefore, the use of electricity for agriculture will not be affected by overall power investment.
+However, as the charge rates for the agricultural sector is much lower than the rates for the
+nonagricultural sector, power subsidies in the agricultural sector (estimated as the difference between
+rates for agricultural use and nonagricultural use) should be an important factor in determining the
+amount of electricity used in agriculture.
+Equations (9) and (10) model the relationships of the stock of improved roads and education as
+functions of their past investments.
+Specification Tests and Estimation Procedure
+We use double-log functional forms for all the equations in the system. More flexible functional forms,
+such as the translog or the quadratic form, impose fewer restrictions on the estimated parameters, but
+many coefficients are not statistically significant due to multicollinearity problems among the various
+interaction variables.
+Numerous studies have examined the impact of public spending on growth and poverty reduction.
+One significant feature of the literature is the use of a single-equation approach. There are at least two
+disadvantages to this method. First, many poverty determinants, such as production or productivity
+growth, prices, wages, and nonfarm employment, are generated from the same economic process as
+poverty. In other words, these variables are also endogenous variables. Ignoring this characteristic leads
+to biased estimates of the poverty effects. Second, certain economic variables affect poverty through
+multiple channels. For example, improved rural infrastructure reduces rural poverty not only through
+improved growth in agricultural production but also through improved wages and opportunities for
+nonfarm employment. It is therefore very difficult to capture these different effects using a singleequation approach.
+In our estimation, all endogenous variables that appear on the right-hand side of equations (1) to
+(10) are lagged for one year. This has two advantages. First, it allows weak exogeneity of the
+endogenous variables. Second, since every equation has its own predetermined variables, the model is
+identified, which means it is possible to obtain an estimate of each parameter.
+Before proceeding to the estimation, it is important to test the model specification. One important
+test is the test of endogeneity of the exogenous variables, which include various subsidy and investment
+variables, world food price, and urban per capita GDP. Since India is a small importing and exporting
+country for most of its agricultural commodities, it is a price taker in the international food market.
+Therefore, there is hardly a need to test for the endogeneity of the world food price variable. The oneyear lagged per capita urban GDP variable is used in the wages, nonfarm employment, and agricultural
+price determination equations. Therefore, they can be considered predetermined and weakly exogenous,
+
+14
+
+and will not impact the estimated parameters unless there is a serial correlation. The variables that are
+potentially most problematic are government investment and subsidies. For these variables we use the
+Durbin-Wu-Hausman test to decide whether they are indeed exogenous. Two variables, education
+investment and fertilizer subsidies, are found to be endogenous after testing. These two variables were
+replaced with instruments, which are the fitted values when they are regressed on all the truly exogenous
+variables. The estimated results are shown in Tables 1 to 5.
+Results of Model Estimation
+In the estimated poverty equations, agricultural labor productivity and rural wages are negatively
+correlated with rural poverty in all decades, although in the case of rural wages this relationship is not
+significant (at 95 percent) for the two earlier decades (Table 1). Nonfarm employment is also negatively
+correlated with poverty, but only in the 1980s and 1990s. Agricultural terms of trade (relating agricultural
+and nonagricultural prices) is negatively correlated with poverty for the first three decades (although only
+in the 1980s is this significant at 95 percent), but then positively correlates with poverty in the 1990s
+(significant at 95 percent). Thus, as these results show, higher relative prices of agricultural commodities
+appear to have benefited the poor in earlier decades, especially during the 1980s, but then harmed them in
+the 1990s. Such a result raises a tough question: what factors could be behind this shift in the relation
+between terms of trade and poverty? Although a more robust answer would require further probing and
+analysis, at this stage we can only conjecture that the increasing role of nonagricultural activities in the
+livelihoods of the poor may be the cause of the shift, or the very structure of agricultural price increases
+may have shifted the relationship, reflecting the possible dominance of foodgrain prices in the 1990s.
+These findings also suggest that as Indian agriculture has developed the relationships between poverty on
+the one hand and nonfarm employment and agricultural terms of trade on the other may have undergone a
+structural change.
+
+Table 1. Estimated Poverty Equation
+Time Period
+1960s
+1970s
+1980s
+1990s
+
+AY
+-0.387
+(-3.37)*
+-0.368
+(-7.14)*
+-0.509
+(-13.42)*
+-0.481
+(-11.45)*
+
+AWAGES
+-0.133
+(-1.55)
+-0.262
+(-6.13)*
+-0.181
+(-4.83)*
+-0.132
+(-2.03)*
+
+NFE
+
+-0.211
+(-3.15)*
+-0.1123
+(-3.28)*
+
+R2=0.874
+Notes: The dependent variable is the percentage of rural population under the poverty line.
+Figures in the parentheses are t-values. Asterisk indicates significant at the 5% level.
+
+15
+
+TT
+-0.030
+(-1.27)
+-0.124
+(-1.29)
+-0.119
+(-2.14)*
+0.240
+(3.98)*
+
+Table 2. Estimated Labor Productivity Equation
+Time Period
+1960s
+1970s
+1980s
+1990s
+
+LAND
+0.506
+(6.38)*
+0.506
+(13.04)*
+0.532
+(14.28)*
+0.532
+(15.73)*
+
+FERT
+0.056
+(1.32)
+0.087
+(3.65)*
+0.122
+(5.33)*
+0.289
+(8.66)*
+
+LITERACY
+0.150
+(2.68)*
+0.30
+(4.42)*
+0.251
+(2.90)*
+0.190
+(3.61)*
+
+ROADS
+0.06
+(0.66)
+0.029
+(1.87)*
+0.023
+(1.88)*
+0.091
+(4.85)*
+
+IRRI
+0.341
+(2.02)*
+0.250
+(3.72)*
+0.293
+(4.82)*
+0.221
+(3.82)*
+
+R2=0.806
+Notes: The dependent variable is agricultural GDP per rural inhabitant. Figures in the parentheses are t-values.
+Asterisk indicates significant at the 5% level.
+
+Table 3. Estimated Wages Equation
+Time Period
+1960s
+1970s
+1980s
+1990s
+
+AY
+0.571
+(3.30)*
+0.353
+(3.36)*
+0.255
+(4.42)*
+0.386
+(4.63)*
+
+NSDPP
+-0.070
+(-0.15)
+-0.110
+(-1.21)
+0.075
+(-1.24)
+0.029
+(0.44)
+
+ROADS
+0.225
+(3.05)*
+0.191
+(5.63)*
+0.042
+(1.48)
+0.030
+(1.03)
+
+LITERACY
+-0.269
+(-1.09)
+-0.151
+(-1.22)
+0.341
+(2.43)*
+0.126
+(2.84)*
+
+R2=0.548
+Notes: The dependent variable is rural daily wages. Figures in the parentheses are t-values. Asterisk indicates
+significant at the 5% level.
+
+Table 4. Estimated Rural Nonfarm Employment Equation
+Time Period
+1960s
+1970s
+1980s
+1990s
+
+NSDPP
+-0.281
+(-0.22)
+-0.178
+(-1.23)
+-0.102
+(-1.29)
+0.289
+(5.10)*
+
+ROADS
+0.020
+(0.37)
+0.075
+(3.43)*
+0.010
+(0.46)
+0.112
+(4.18)*
+
+LITERACY
+0.355
+(1.88)*
+0.377
+(5.26)*
+0.559
+(7.19)*
+0.257
+(2.79)*
+
+ELECT
+0.023
+(0.60)
+0.033
+(1.89)*
+0.090
+(3.17)*
+-0.070
+(-1.49)
+
+R2=0.727
+Notes: The dependent variable is percentage of rural labor engaged in nonfarm activities. Figures in the parentheses
+are t-values. Asterisk indicates significant at the 5% level.
+
+16
+
+Table 5. Estimated Fertilizer Demand Equation
+Time Period
+1960s
+1970s
+1980s
+1990s
+
+FERTS
+0.384
+(3.42)*
+0.602
+(9.97)*
+0.079
+(1.79)*
+0.36
+(5.61)*
+
+CREDITS
+0.004
+(0.04)
+0.0608
+(1.83)*
+0.32
+(5.35)*
+0.25
+(4.27)*
+
+IRS
+0.11
+(3.12)*
+0.07
+(1.46)
+0.15
+(0.67)
+-0.114
+(-1.89)*
+
+ELECT
+0.236
+(4.01)*
+0.101
+(3.36)*
+0.240
+(8.65)
+0.230
+(3.32)*
+
+RDS
+0.133
+(1.69)
+0.081
+(1.87)*
+0.542
+(10.11)*
+0.042
+(1.16)
+
+R2=0.932
+Notes: The dependent variable is fertilizer use per acre. Subsidies on fertilizer, credit and irrigation are also
+expressed on a per acre basis. Figures in the parentheses are t-values. Asterisk indicates significant at the 5% level.
+
+Estimated results from Tables 2 to 5 also suggest: (1) over time fertilizer use and road density
+appear to have an increasing impact on agricultural labor productivity; (2) rural wages are increasingly
+affected by literacy rates, but decreasingly affected by road density; (3) urban growth has increasing
+impact on nonfarm employment (although there is no evidence of change in the positive effects of literacy
+on nonagricultural employment); (4) there is some evidence that agricultural terms of trade are affected
+only negatively by agricultural growth from the 1980s onwards, and only weakly by urban growth and
+world prices (but the direction of these relations changes as the weakly negative effects of urban GDP
+growth become weakly positive from the 1980s onwards, and the weakly positive effects of world prices
+become weakly negative during the same period); and (5) irrigation subsidies have a decreasing impact on
+fertilizer use. Together these changes in estimated coefficients (and in their levels of significance) suggest
+increasing integration of the economy, with increasing importance of nonagricultural employment for
+wages (from [2] and [3] above) and of rural–urban linkages (from [3] and [4] above); they also suggest
+increasing efficiency in the use of purchased (fertilizer) inputs (from [1] and [5] above).
+The policy implications of these structural changes can be investigated further by examining the
+marginal growth and poverty reduction effects of different types of government investment and subsidies
+over the four decades of the study period.
+Marginal Returns in Growth and Poverty Reduction
+The marginal impact and elasticity of different types of government subsidies and expenditures on rural
+poverty can then be obtained by differentiating the equations with their estimated coefficients. These
+returns are calculated for four decades: 1960s (1967-70), 1970s (1971-79), 1980s (1980-89), and 1990s
+(1990-97). Marginal effects are expressed as: (1) production (rupees per unit of spending in 1999) and (2)
+poverty (number of poor brought out of poverty per unit of spending in 1999). For example, the returns to
+
+17
+
+investments in irrigation are measured as rupees of additional production (or the number of persons
+brought out of poverty) for every additional million rupees spent on irrigation. These measures provide
+useful information for comparing the relative benefits of additional units of expenditure on different types
+of investment items in different regions. They can also guide priorities for government expenditures to
+further increase agricultural production and reduce rural poverty.
+Table 6 details the estimated marginal effects of different types of government expenditure in
+each decade, in terms of impact on agricultural GDP and poverty reduction. Considering first the
+estimated returns to agricultural GDP, in the 1960s most investments and subsidies generated returns that
+were both significantly greater than zero and larger than their costs.3 In particular, road and education
+investments had estimated benefit-cost ratios of 6 to 9. Agricultural research investments and subsidies on
+irrigation, fertilizer, and credit yielded benefits that were 2 to 4 times the amount spent. This was the
+period when HYVs, fertilizer, and credit were being promoted as a high payoff technology package.
+Irrigation investments and subsidies and power subsidies yielded the lowest returns in this period, though
+returns to irrigation investment and subsidies were estimated as more than double spending.
+In the 1970s, the returns to most of these subsidies and investments declined, with the exception
+of agricultural R&D and education. Road investments and fertilizer subsidies, however, remained good
+value for money (with returns of 300 percent or more). Estimated returns to irrigation investments and
+subsidies and to power and credit subsidies fell to 200 percent or less. By the 1980s, returns to fertilizer
+subsidies had fallen to below 100 percent, but returns to agricultural R&D continued to rise. Although
+returns to road and educational investments had fallen, they remained “good buys” along with irrigation
+investments and credit subsidies (estimated returns to these had risen). By the 1990s only agricultural
+R&D and road investments continued to yield estimated returns of more than 300 percent. Estimated net
+returns to irrigation investments and education were low but still positive, whereas credit, power, and
+fertilizer subsidies had negative net returns, and subsidies on irrigation had no significant impact on
+agricultural production at all.
+Turning now to consider the poverty reduction impacts of different types of government spending
+in different decades, Table 6 shows estimated number of people lifted out of poverty per million Rs spent.
+Results follow the same broad pattern as that for agricultural GDP growth, with a few (generally minor)
+differences. Thus, across all decades the estimated costs of reducing poverty by spending on roads,
+agricultural R&D, and education were relatively low (although educational cost rises in the 1990s).
+Fertilizer subsidies are estimated to have been effective at reducing poverty in the two earlier decades, but
+
+3
+
+The coefficients of the labor productivity function are used in calculating the returns in agricultural GDP.
+These coefficients should be the same as the agricultural GDP function if constant returns to scale are assumed.
+18
+
+subsequently appear to have been highly ineffective. Credit subsidies were effective in the 1960s and
+1980s. Power subsidies were never a good buy.
+These results have significant policy implications: most importantly, they sow that spending
+government money on investments is surely better than spending on input subsidies. And within different
+types of investments, spending on agricultural R&D and roads is much more effective at reducing poverty
+than putting money in, say, irrigation.
+
+Table 6. Returns in Agricultural Growth and Poverty Reduction to Investments and
+Subsidies
+1960s
+returns
+
+1970s
+rank
+
+1980s
+
+1990s
+
+returns
+
+rank
+
+returns
+
+rank
+
+returns
+
+rank
+
+Returns in Agricultural GDP (Rs per Rs spent)
+Road Investment
+
+8.79
+
+1
+
+3.8
+
+3
+
+3.03
+
+5
+
+3.17
+
+2
+
+Educational Investment
+
+5.97
+
+2
+
+7.88
+
+1
+
+3.88
+
+3
+
+1.53
+
+3
+
+Irrigation Investment
+
+2.65
+
+5
+
+2.1
+
+5
+
+3.61
+
+4
+
+1.41
+
+4
+
+Irrigation Subsidies
+
+2.24
+
+7
+
+1.22
+
+7
+
+2.28
+
+6
+
+n.s.
+
+8
+
+Fertilizer Subsidies
+
+2.41
+
+6
+
+3.03
+
+4
+
+0.88
+
+8
+
+0.53
+
+7
+
+Power Subsidies
+
+1.18
+
+8
+
+0.95
+
+8
+
+1.66
+
+7
+
+0.58
+
+6
+
+Credit Subsidies
+
+3.86
+
+3
+
+1.68
+
+6
+
+5.2
+
+2
+
+0.89
+
+5
+
+Agricultural R&D
+
+3.12
+
+4
+
+5.9
+
+2
+
+6.95
+
+1
+
+6.93
+
+1
+
+Returns in Rural Poverty Reduction (Decrease in number of poor per million Rs spent)
+Road Investment
+
+1272
+
+1
+
+1346
+
+1
+
+295
+
+3
+
+335
+
+1
+
+Educational Investment
+
+411
+
+2
+
+469
+
+2
+
+447
+
+1
+
+109
+
+3
+
+Irrigation Investment
+
+182
+
+5
+
+125
+
+5
+
+197
+
+5
+
+67
+
+4
+
+Irrigation Subsidies
+
+149
+
+7
+
+68
+
+7
+
+113
+
+6
+
+n.s.
+
+8
+
+Fertilizer Subsidies
+
+166
+
+6
+
+181
+
+4
+
+48
+
+8
+
+24
+
+7
+
+Power Subsidies
+
+79
+
+8
+
+52
+
+8
+
+83
+
+7
+
+27
+
+6
+
+Credit Subsidies
+Agricultural R&D
+
+257
+207
+
+3
+4
+
+93
+326
+
+6
+3
+
+259
+345
+
+4
+2
+
+42
+323
+
+5
+2
+
+19
+
+4. POLICY LESSONS
+This study constructed a data series at the state level over the last several decades on investment and
+subsidies in and for Indian agriculture, based a which an econometric model was constructed and
+estimated to quantify the impact of various government investment and subsidies on agricultural growth
+and poverty reduction by different decade. The following conclusions can be drawn from the study:
+(1) The success of the Green Revolution during the late 1960s and 1970s indicates that preconditions may have been important to the outcome. India had already invested heavily in irrigation,
+electricity, roads, and human capital prior to the Green Revolution. Without these investments, the Green
+Revolution may not have spread as fast as it did, even with the advent of new technologies such as highyielding varieties.
+(2) Initial subsidies in credit, fertilizer, and irrigation helped farmers, especially the smallholders,
+to adopt the new technologies. Small farms are often losers in the initial adoption stage of a new
+technology because the increased supply of agricultural products from large farms that have benefited
+from new technologies pushes prices down.
+(3) Agricultural research, education, and rural infrastructure are the three most effective publicspending items for promoting agricultural growth and poverty reduction throughout the periods under
+study. In contrast, in more recent years, input subsidies (including fertilizer, electricity, credit, and
+irrigation) yielded very low marginal returns in both agricultural growth and poverty reduction, despite
+their large impact in earlier decades.
+(4) The trade-off between agricultural growth and poverty reduction is generally small among
+different types of public spending. Investments in agricultural research, education, and infrastructure
+development all have large impacts on economic growth and poverty reduction.
+Several policy lessons can be drawn from this study. First, for the last two decades, we have seen
+a declining trend in government investment in the agricultural sector and an increasing trend in
+government subsidies. These subsidies, including those on fertilizer, irrigation, power, and credit,
+amounted to about 2 percent of the national GDP and 8-10 percent of agricultural GDP (Gulati and
+Narayanan 2003). These outlays are in direct competition with more long-term capital investment in
+roads, rural education, and agricultural research. To sustain long-term growth in agricultural production
+and therefore achieve a long-term solution to poverty reduction, the government should cut subsidies and
+increase investments in agricultural R&D, rural infrastructure, and education.
+Second, the role of nonfarm employment in poverty reduction has become increasingly
+significant over time. It will become even more so in the future, as the average size of Indian farms
+decrease. These small farms may be efficient in terms of land productivity, but not in terms of labor
+
+20
+
+productivity, which has greater impact on farmers’ incomes. Promoting greater off-farm opportunities and
+migration from rural to urban areas (particularly to small cities) is inevitable if we are to increase average
+farm size in order to increase labor productivity and farmers’ incomes. But over the last two decades,
+growth in the nonfarm sector has not been ideal. The nonfarm share of rural employment has increased
+only marginally, from 20 percent in the 1970s to less than 30 percent today.4 Reforms in the power
+sector, along with reforms in investment provisions for agro-processing, could unleash a sort of
+revolution in nonfarm activities in rural areas, substantially boosting nonfarm employment.
+Third, India’s success during the Green Revolution came from political will: the government was
+strongly committed to making the food supply more secure. Today, political will is equally important for
+reforming public policy in agriculture and reducing input and output subsidies. These subsidies have
+been unproductive, financially unsustainable, and environmentally unfriendly, and have contributed to
+increased inequality among rural Indian states. They have also crowded out more productive government
+spending in agricultural R&D, rural roads, and education. But simply reallocating public resources is not
+the only solution. Public institutions must be reformed. These reforms can have an equal, if not larger,
+impact on future agricultural and rural growth and rural poverty reduction.
+
+4
+
+This contrasts sharply with China, where the percentage of nonfarm employment in total rural employment
+increased from 7 percent in 1978 to more than 40 percent in 2003.
+21
+
+APPENDIX: DEFINITION OF PUBLIC INVESTMENT VARIABLES
+Government expenditure data by state were obtained from Finances of State Governments, various issues,
+published by the Reserve Bank of India. All expenditures were deflated into 1960/61 prices using a
+national GDP deflator. Expenditures include both revenue (for maintenance) and capital (investment)
+account.
+Agricultural R&D. Agricultural R&D expenditure includes government expenditure on
+agricultural research and extension.
+Rural roads. We used the share of the length of rural roads in the length of total roads to
+calculate the expenditures for rural roads, assuming that the cost per unit of rural roads is one-fifth that of
+urban roads. This differential cost of roads can be supported by the World Bank Road Information
+System, which provides unit costs for World Bank-funded road projects across different countries,
+including India. In China this ratio is 8.3. If the China ratio was used, the road effects would be 66
+percent higher.
+Rural electricity. The share of agriculture in total electricity consumption is used to estimate the
+capital investment for agricultural electricity.
+Rural education. There is no separate account of government expenditures for rural and urban
+areas in state government financial statistics. We used the following regression procedure to determine
+the ratio of cost per capita between rural and urban areas. Total education expenditures at the state level
+= rural population *per capita education cost in rural areas + urban population* per capita education cost
+in urban areas. All variables are known except for the per capita education cost in rural and urban areas.
+Using the state-level data from 1967 to 1999, we can estimate econometrically these two unknown
+parameters. The estimated results show that per capita education cost in urban area is 4.72 times greater
+than per capita cost in rural areas. Using this differential, we calculated the rural education cost at the
+state level.
+Stock of public capital. The monetary stocks of public capital variables are calculated using the
+following procedure:
+(11)
+
+K t = I t + (1 − δ)K t -1 .
+
+Here, Kt is the capital stock in year t, It is gross capital formation in year t, and δ is the
+depreciation rate (10 percent).
+
+22
+
+REFERENCES
+Ahluwalia, M.S. 1978. Rural poverty and agricultural performance in India. Journal of Development Studies 14(3):
+298-323.
+Ahluwalia, M.S. 1985. Rural poverty, agricultural production and prices: A reexamination. In Agricultural change
+and rural poverty: Variations on a theme by Dharm Narain, ed. J. W. Mellor and G. M. Desai. Baltimore:
+Johns Hopkins University Press.
+Alagh, Y.K. 2004. Agricultural policy in an open economy. In India’s economic and social development: National
+and international perspective, International conference in Honour of Professor C.H. Hanumantha Rao, 1617 November. Hyderabad: Administrative Staff College of India and Centre for Economic and Social
+Studies.
+Bhalla, G.S. 2004. Agricultural growth and regional variations. In India’s economic and social development:
+National and international perspective, International conference in Honour of Professor C.H. Hanumantha
+Rao, 16-17 November. Hyderabad: Administrative Staff College of India and Centre for Economic and
+Social Studies.
+Chand, R. 2000. Emerging trends and regional variations in agricultural investments and their implications for
+growth and equity. Policy paper. New Delhi: National Centre for Agricultural Economics and Policy
+Research.
+Dantwala, M.L. 1986. Strategy of agricultural development since Independence: A collection of essays, New Delhi:
+Oxford and IBH Publishing Company, New Delhi.
+Fan, Shenggen, Peter Hazell, and S. Thorat. 1999. Government Spending, Agricultural Growth and Poverty: An
+Analysis of Interlinkages in Rural India, IFPRI Research Report 110, International Food Policy Research
+Institute, Washington, D.C
+Fan, S., P. Hazell, and T. Haque. 2000. Targeting public investments by agroecological zone to achieve growth and
+poverty alleviation goals in rural India. Food Policy 25(4): 411-428.
+Fan, S., P. Hazell, and S. Thorat. 2002. Government spending, agricultural growth, and poverty in rural India.
+American Journal of Agricultural Economics 82(4): 1038-1051.
+Fan, S., S. Thorat, and N. Rao. 2004. Investment, subsidies, and pro-poor growth in rural India. International Food
+Policy Research Institute. Mimeo.
+GOI (Government of India). 2003. Report of the Committee on Capital Formation in Agriculture. New Delhi:
+Directorate of Economics and Statistics, Department of Agriculture & Cooperation, Ministry of
+Agriculture, Government of India.
+________. 2004. Economic survey, New Delhi: Ministry of Finance, Government of India
+Gulati, A. 2004. Trade policies, incentives, investments and Institutions in Indian agriculture. In India’s economic
+and social development: National and international perspective, International conference in Honour of
+Professor C.H. Hanumantha Rao, 16-17 November. Hyderabad: Administrative Staff College of India and
+Centre for Economic and Social Studies.
+Gulati, A., R. Meinzen-Dick, and K.V. Raju. 2005. Institutional reforms in Indian irrigation. New Delhi: Sage
+Publications.
+Gulati, A., and S. Bathla. 2002. Capital formation in Indian agriculture: Trends, composition and implications for
+growth. Occasional Paper 24, Mumbai: National Bank for Agriculture and Rural Development.
+Gulati, A., and S. Narayanan. 2003. The subsidy syndrome in Indian agriculture. New Delhi: Oxford University
+Press.
+Herath, G. and A. Gulati. 2004. Public Institutions: The Case of Infrastructure. International Food Policy Research
+Institute. Mimeo.
+
+23
+
+Landes, R., and A. Gulati. 2004. Farm sector performance and reform agenda. Economic and Political weekly,
+August 7.
+Reserve Bank of India. Various years. Finances of state governments. Mumbai.
+Singh, R. 2004. Equity in fertilizer subsidy distribution. Economic and Political Weekly, January 17.
+World Bank. 1994. World development report. Washington DC.
+_________. 2002. World development report. Washington DC.
+
+24
+
+RECENT IFPRI DISCUSSION PAPERS
+For earlier discussion papers, please go to www.ifpri.org/pubs/pubs.htm#dp.
+All discussion papers can be downloaded free of charge.
+
+715.
+
+Risk Aversion in Low Income Countries Experimental Evidence from Ethiopia. Mahmud Yesuf and Randy Bluffstone,
+2007.
+
+714.
+
+Micro-Level Analysis of Farmers’ Adaptation to Climate Change in Southern Africa. Charles Nhemachena and Rashid
+Hassan, 2007.
+
+713.
+
+Resource Abundance and Regional Development in China. Xiaobo Zhang, Li Xing, Shenggen Fan, Xiaopeng Luo, 2007.
+
+712.
+
+Is Food Insecurity More Severe in South Asia or Sub-Saharan Africa?: A Comparative Analysis Using Household
+Expenditure Survey Data. Lisa C. Smith and Doris Wiesmann, 2007.
+
+711.
+
+Managing Conflict Over Natural Resources in Greater Kordofan, Sudan: Some Recurrent Patterns and Governance
+Implications. El Fatih Ali Siddig, Khalid El-Harizi, and Betinna Prato, 2007.
+
+710.
+
+Mortality, Mobility, and Schooling Outcomes Among Orphans: Evidence from Malawi. Mika Ueyama, 2007.
+
+709.
+
+Agricultural Technology Choices for Poor Farmers in Less-Favored Areas of South and East Asia. John Pender, 2007.
+
+708
+
+Sharing Science, Building Bridges, and Enhancing Impact: Public–Private Partnerships in the CGIAR. David J.
+Spielman, Frank Hartwich, and Klaus von Grebmer, 2007.
+
+707.
+
+Policies to Promote Cereal Intensification in Ethiopia: A Review of Evidence and Experience. Derek Byerlee, David J.
+Spielman, Dawit Alemu, and Madhur Gautam, 2007.
+
+706.
+
+Sistemas de Innovación Piscícola en la Amazonia Boliviana: Efectos de la Interacción Social y de las Capacidades de
+Absorción de los Pequeños Agricultores. Frank Hartwich, Vicente Eguez Camacho, Mario Monge, y Luis Ampuero
+Ramos, 2007.
+
+705.
+
+The Role of Clustering in Rural Industrialization:A Case Study of the Footwear Industry in Wenzhou. Zuhui Huang,
+Xiaobo Zhang, and Yunwei Zhu, 2007.
+
+704.
+
+The Economics of GM Food Labels: An Evaluation of Mandatory Labeling Proposals in India. Sangeeta Bansal, Bharat
+Ramaswami, 2007.
+
+703.
+
+The Power Mapping Tool: A Method for the Empirical Research of Power Relations. Eva Schiffer, 2007.
+
+702.
+
+The Bang for the Birr: Public Expenditures and Rural Welfare in Ethiopia. Tewodaj Mogues, Gezahegn Ayele, and
+Zelekawork Paulos, 2007.
+
+701.
+
+Public Spending and Poverty Reduction in an Oil-Based Economy: The Case of Yemen. Mohamed A. Chemingui, 2007.
+
+700.
+
+Integrated Management of the Blue Nile Basin in Ethiopia: Hydropower and Irrigation Modeling. Paul J. Block, 2007.
+
+699.
+
+Building Public-Private Partnerships for Agricultural Innovation in Latin America. Suresh Babu, Maria Veronica Gottret,
+Frank Hartwich, and Jaime Tola, 2007.
+
+698.
+
+Cost Implications of Agricultural Land Degradation in Ghana: An Economywide, Multimarket Model Assessment.
+Xinshen Diao and Daniel B. Sarpong, 2007.
+
+697.
+
+Is HIV/AIDS Undermining Botswana’s ‘Success Story’? Implications for Development Strategy. James Thurlow, 2007.
+
+696.
+
+Supermarket Purchases and the Dietary Patterns of Households in Guatemala. Abay Asfaw, 2007.
+
+695.
+
+Agricultural Growth Linkages in Ethiopia: Estimates using Fixed and Flexible Price Models. Xinshen Diao, Belay
+Fekadu, Steven Haggblade, Alemayebu Seyoum Teffesse, Kessu Wamisbo, and Bingxin Yu, 2007.
+
+694.
+
+Is the Relationship Between Aid and Economic Growth Nonlinear?. Andros Kourtellos, Chih Ming Tan, and Xiaobo
+Zhang, 2007.
+
+693.
+
+Regional Disparities in Ghana: Policy Options and Public Investment Implications. Ramatu M. Al-Hassan and Xinshen
+Diao, 2007.
+
+692.
+
+Innovación en el Cultivo del Maní en Bolivia: Efectos de la Interacción Social y de las Capacidades de Absorción de los
+Pequeños Productores. Frank Hartwich, Tito Arispe, y Mario Monge. 2007.
+
+INTERNATIONAL FOOD POLICY
+RESEARCH INSTITUTE
+www.ifpri.org
+IFPRI HEADQUARTERS
+
+2033 K Street, NW
+Washington, DC 20006-1002 USA
+Tel.: +1-202-862-5600
+Fax: +1-202-467-4439
+Email: ifpri@cgiar.org
+IFPRI ADDIS ABABA
+
+P. O. Box 5689
+Addis Ababa, Ethiopia
+Tel.: +251 11 6463215
+Fax: +251 11 6462927
+Email: ifpri-addisababa@cgiar.org
+IFPRI NEW DELHI
+
+CG Block, NASC Complex, PUSA
+New Delhi 110-012 India
+Tel.: 91 11 2584-6565
+Fax: 91 11 2584-8008 / 2584-6572
+Email: ifpri-newdelhi@cgiar.org
+
+

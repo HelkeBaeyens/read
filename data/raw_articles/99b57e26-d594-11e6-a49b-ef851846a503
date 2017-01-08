@@ -1,0 +1,1518 @@
+AGRICULTURAL
+
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 20 (I 999) 23-35
+
+Technical, allocative and economic efficiencies in swine production in
+Hawaii: a comparison of parametric and nonparametric approaches
+Khem R. Sharmaa·*, PingSun Leunga, Halina M. Zaleskib
+a
+
+Department of Agricultural and Resource Economics, University of Hawaii at Manoa, 3050 Maile Way, Gilmore Hall 112, Honolulu,
+HI 96822, USA
+b Department of Animal Sciences, University of Hawaii at Manoa, 1800 East-West Road, Henke Hall 106, Honolulu, HI 96822, USA
+
+Received 2 October 1997; received in revised form 15 June 1998; accepted 8 July 1998
+
+Abstract
+Technical, allocative and economic efficiency measures are derived for a sample of swine producers in Hawaii using the
+parametric stochastic efficiency decomposition technique and nonparametric data envelopment analysis (DEA). Efficiency
+measures obtained from the two frontier approaches are compared. Firm-specific factors affecting productive efficiencies are
+also analyzed. Finally, swine producers' potential for reducing cost through improved efficiency is also examined. Under the
+specification of variable returns to scale (VRS), the mean technical, allocative and economic efficiency indices are 75.9%,
+75.8% and 57.1%, respectively, for the paramettic approach and 75.9%, 80.3% and 60.3% for DEA; while for the constant
+returns to scale (CRS) they are 74.5%, 73.9% and 54.7%, respectively, for the parametric approach and 64.3%, 71.4% and
+45.7% for DEA. Thus the results from both approaches reveal considerable inefficiencies in swine production in Hawaii. The
+removal of potential outliers increases the technical efficiencies in the parametric approach and allocative efficiencies in DEA,
+but, overall, contrary to popular belief, the results obtained from DEA are found to be more robust than those from the
+parametric approach. The estimated mean technical and economic efficiencies obtained from the paramettic technique are
+higher than those from DEA for CRS models but quite similar for VRS models, while allocative efficiencies are generally
+higher in DEA. However, the efficiency rankings of the sample producers based on the two approaches are highly correlated,
+with the highest correlation being achieved for the technical efficiency rankings under CRS. Based on mean compaiison and
+rank correlation analyses, the return to scale assumption is found to be crucial in assessing the similarities or differences in
+efficiency measures obtained from the two approaches. Analysis of the role of various firm-specific factors on productive
+efficiency shows that farm size has strong positive effects on efficiency levels. Similarly, farms producing market hogs are
+more efficient than those producing feeder pigs. Based on these results, by operating at the efficient frontier the sample swine
+producers would be able to reduce their production costs by 38-46% depending upon the method and returns to scale
+considered. © 1999 Elsevier Science B.V. All rights reserved.
+
+1. Introduction
+Farrell's (Farrell, 1957) seminal article has led to
+the development of several techniques for the mea*Conesponding author. Tel.: +1-808-956-4976; fax: +1-808956-2811; e-mail: khem@hawaii.edu
+
+surement of efficiency of production. These techniques can be broadly categorized into two approaches:
+parametric and nonparametric. The parametric stochastic frontier production function approach (Aigner
+et al., 1977; Meeusen and van den Broeck, 1977) and
+the nonparametric mathematical programming
+approach, commonly referred to as data envelopment
+
+0169-5150/99/$- see front matter © 1999 Elsevier Science B.V. All rights reserved.
+PII: SO 169-51 50(98)00072-3
+
+24
+
+K.R. Sharma et al. I Agricultural Economics 20 (1999) 23-35
+
+analysis (DEA) (Chames et al., 1978) are the two most
+popular techniques used in efficiency analyses.
+Among many authors, Coelli (1995) presents the
+most recent review of various techniques used in
+efficiency measurement, including their limitations,
+strengths and applications in agricultural production.
+The main strengths of the stochastic frontier approach
+are that it deals with stochastic noise and permits
+statistical tests of hypotheses pertaining to production
+structure and the degree of inefficiency. The need for
+imposing an explicit parametric form for the underlying technology and an explicit distributional
+assumption for the inefficiency term are the main
+weaknesses of the parametric approach. The main
+advantages of the DEA approach are that it avoids
+parametric specification of technology as well as the
+distributional assumption for the inefficiency term.
+However, because DEA is deterministic and attributes
+all the deviations from the frontier to inefficiencies, a
+frontier estimated by DEA is likely to be sensitive to
+measurement errors or other noise in the data.
+Given the different strengths and weaknesses of the
+parametric and nonparametric approaches, it is of
+interest to compare empirical performance of the
+two approaches using the same data set. However,
+relative to the total number offrontier studies found in
+the literature, very few studies compare the two
+approaches (for example, Ferrier and Lovell, 1990;
+Kalaitzandonakes and Dunn, 1995; Drake and Weyman-Jones, 1996; Hjalmarsson et al., 1996; Sharma et
+al., 1997a). The main objective of this paper is to
+estimate the technical, allocative and economic efficiency measures for a sample of swine producers in
+Hawaii using the parametric stochastic and nonparametric DEA approaches, and to compare the results
+obtained from the two approaches. The majority of
+studies aimed at comparing the two techniques have
+focused mostly on technical efficiency. Drake and
+Weyman-Jones (1996) and Ferrier and Lovell
+(1990) are the only studies comparing the two
+approaches in terms of technical, allocative and economic efficiency measures. Because DEA has not
+been applied frequently in agriculture (see Coelli,
+1995), this paper also demonstrates its applicability
+in agriculture by using this technique in swine production. To our knowledge, Chavas and Aliber (1993)
+is the only study analyzing technical, allocative and
+economic efficiencies in agriculture using DEA.
+
+This paper extends on an earlier paper in comparing
+stochastic and DEA frontier analyses of a sample of
+swine producers in Hawaii (Sharma et al., 1997a). The
+earlier paper primarily focused on the analysis of
+output-based technical efficiency. In this study, we
+apply the input-based approach to efficiency measurement and extend our analysis to allocative and overall
+economic efficiencies. The role of various firm-specific factors in productive efficiency not considered in
+our earlier paper is also examined here.
+
+2. Analytical framework
+2.1. Parametric approach
+As in Bravo-Ureta and Evenson (1994) and BravoUreta and Rieger (1991), the parametric technique
+used in this paper follows the Kopp and Diewert
+(1982) cost decomposition procedure to estimate technical, allocative and economic efficiencies.
+The firm's technology is represented by a stochastic
+production frontier as follows:
+(1)
+
+where li denotes output of the ith firm; X; is a vector
+of functions of actual input quantities used by
+the ith firm; (3 is a vector of parameters to be estimated; and Ei is the composite error term (Aigner
+et al., 1977; Meeusen and van den Broeck, 1977)
+defined as
+(2)
+
+where v;s are assumed to be independently and identically distributed N(O, O";) random errors, independent of the u;s; and the u;s are nonnegative random
+variables, associated with technical inefficiency in
+production, which are assumed to be independently
+and identically distributed and truncations (at zero) of
+the normal distribution with mean, f.1, and variance,
+O"~([N(J.L, O"~[). The maximum likelihood estimation of
+Eq. (1) provides estimators for (3 and variance parameters, 0"2 = O"; + O"~ and '"Y = O"~/ 0"2 . Subtracting v;
+from both sides of Eq. (1) yields
+
+Y; = Y;
+
+-Vi
+
+= f(Xi; (3) -
+
+U;
+
+(3)
+
+where Y; is the observed output of the ith firm,
+adjusted for the stochastic noise captured by v;.
+
+K.R. Shamm et al./ Agricultural Economics 20 (1999) 23-35
+
+Bq. (3) is the basis for deriving the technically efficient input vector and for analytically deriving the
+dual cost frontier of the production function represented by Bq. (1).
+For a given level of output Y;, the technically
+efficient input vector for the ith firm, Xf, is derived
+by simultaneously solving Bq. (3) and the input ratios
+XJ/X; = k;(i > 1), where k; is the ratio of observed
+inputs, X 1 and X;. Assuming that the production
+function in Bq. (1) is self-dual (e.g., Cobb-Douglas),
+the dual cost frontier can be derived algebraically and
+written in a general form as follows:
+C;
+
+= h(W;, Y;; a)
+
+(4)
+
+where C; is the minimum cost of the ith firm associated
+with output Y;, W; is a vector of input prices for the ith
+firm, and a is a vector of parameters. The economically efficient input vector for the ith firm, X'f, is derived
+by applying Shephard's lemma and substituting the
+firm's input prices and output level into the resulting
+system of input demand equations:
+
+ac;
+
+-
+
+oWk = XZ(W;, Y;; '1/J)
+
+k = 1, 2, ... , m inputs
+
+(5)
+
+(6)
+w~xe
+
+'
+
+WfX;
+
+(7)
+
+Following Farrell (1957), the allocative efficiency
+(AB) index can be derived from Bqs. (6) and (7) as
+follows:
+AE-- W{Xj
+
+1
+,-W'X
+l
+l
+
+2.2. Nonparametric approach
+
+Under the nonparametric approach, DBA (Charnes
+et al., 1978; Hire et al., 1985, 1994) is used to derive
+technical, scale, allocative and economic efficiency
+measures.
+Consider the situation with n firms or decision
+making units (DMUs), each producing a single output
+by using m different inputs. Here, Y; is the output
+produced and X; is the (mx 1) vector of inputs used by
+the ith DMU. Yis the (1 xn) vector of outputs and X is
+the (mxn) matrix of inputs of all n DMUs in the
+sample. W; is the (mx 1) vector of input prices for the
+ith DMU.
+The technical efficiency (TB) measure under constant returns to scale (CRS), also called the 'overall'
+TB measure, is obtained by solving the following DBA
+model:
+
+subject to
+
+Y; :::; Y .A
+
+> x.>.
+8cRsx.
+l
+,_
+(9)
+
+where '1/J is a vector of parameters. The observed,
+technically efficient and economically efficient costs
+of production of the ith firm are equal to W[X;, W[Xf
+and W[X'f, respectively. These cost measures are used
+to compute technical (TB) and economic (BB) efficiency indices for the ith firm as follows:
+
+BE-=-'-'
+
+25
+
+where BfRS is a TB measure of the ith DMU under
+CRS and .A is an n x 1 vector of weights attached to
+each of the efficient DMUs. A separate linear programming (LP) problem is solved to obtain the TB
+score for each of the n DMUs in the sample. If
+ecRs=1, the DMU is on the frontier and is technically
+efficient under CRS. If ecRs<1, then the DMU lies
+below the frontier and is technically inefficient. Under
+CRS DBA, the technically efficient cost of production
+of the ith DMU is given by W{(BfRSX;).
+In order to derive a measure of the total economic
+efficiency (BB) index, one can solve the following
+cost-minimizing DBA model (Hire et al., 1985, 1994)
+min W'X~
+x;A
+
+z
+
+subjectto
+(8)
+
+Thus the total cost or economic inefficiency of the
+ith firm (W[X;- W[Xi) can be decomposed into its
+technical (W{X;- W{Xf) and allocative (WfXf- WfXi)
+components.
+
+x;
+
+~
+
+l
+
+Y; :::; Y.A
+
+x.>.
+
+.A~O
+
+(10)
+
+where X7 is the cost-minimizing or economically
+efficient input vector for the ith DMU, given its input
+price vector, W;, and the output level, Y;. The total or
+
+26
+
+K.R. Sharma et al./ Agricultural Economics 20 (1999) 23-35
+
+overall economic efficiency (EE) index for the ith firm
+is then computed as
+W'X*
+EE=-i_i
+
+'
+
+W[X;
+
+(11)
+
+which is the ratio of the minimum cost to the observed
+cost and comparable to the economic efficiency index
+derived under the parametric approach Eq. (7). The
+allocative efficiency (AE) index, derived from
+Eqs. (9) and (11), is given by
+AE = EE, _
+, e;Rs
+
+W[X7
+
+w; (efRs X;)
+
+(12)
+
+It should be noted that Eq. (10) also accounts
+for input slacks not captured by Eq. (9) above. Following Ferrier and Lovell (1990) this procedure
+attributes any input slacks to allocative inefficiency
+on the grounds that slack reflects an inappropriate
+input mix. 1
+The CRS or 'overall' (TEcRs) measure can be
+decomposed into its 'pure' TE and scale efficiency
+components by solving a variable returns to scale
+(VRS) DEA model, which is obtained by imposing
+the additional constraint, '2:~= 1 Aj = 1 on Eq. (9)
+(Banker et al., 1984). Let B'(RS denote the TE index
+of the ith DMU under variable returns to scale
+(TEvRs), then the technically efficient cost of production of the ith DMU under VRS DEA is equal to
+
+W[(B'(R 8 X;).
+Because the VRS analysis is more flexible and
+envelops the data in a tighter way than the CRS
+analysis, the VRS TE measure (BvRs) is equal to or
+greater than the CRS measure (BcRs). This relationship is used to obtain a measure of scale efficiency
+(SE) of the ith DMU as 2
+
+BCRS
+SE; = e~Rs
+
+(13)
+
+l
+
+where SE= 1 indicates scale efficiency or CRS and SE
+<1 indicates scale inefficiency. Scale inefficiency is
+
+1Some authors have treated slack as a source of technical
+inefficiency (see Ali and Seiford, 1993).
+2 Alternatively, SE can also be computed as EEcRs/EEvRs, where
+EECRs is the total economic or cost efficiency measure under CRS
+and EEVRS is the corresponding measure for VRS (Chavas and
+Aliber, 1993; Lund eta!., 1993).
+
+due to the presence of either increasing or decreasing
+returns to scale, which can be determined by solving a
+nonincreasing returns to scale (NIRS) DEA model
+which is obtained by substituting the VRS constraint
+'2:;=1 Aj = 1 with l:j'=1 Aj ::::; 1. Let eNIRS represent the
+TE measure under nonincreasing returns to scale. If
+·
+· returns to seal e, an d
+eNIRS = eCRS , there are mcreasmg
+.
+1'f BCRS <BNIRS there are decreasmg
+returns to sea1e
+(Hire et al., 1994).
+As in the parametric case, the total cost or economic
+inefficiency of the ith firm (W[X;- W[X;) can be
+decomposed
+into
+its
+'pure'
+technical,
+W'BVRSX)
+scale
+(W'BVRSXW~BCRSX·)
+(WXl
+l
+l
+l
+l '
+l
+l
+l
+l
+l
+l
+and allocative (W[BfRsx;- W[X;) components.
+
+2.3. Determining factors affecting efficiency
+Analysis of the effects of firm-specific factors on
+productive efficiency has generated considerable
+debate in frontier studies. The most popular procedure
+is to first estimate efficiency scores and then to regress
+them against a set of firm-specific factors or to use
+nonparametric or analysis of variance (ANOVA) tests.
+While Kalirajan (1991) and Ray (1988) defend this
+two-step procedure, other authors (Kumbhakar et al.,
+1991; Battese and Coelli, 1995) challenge this
+approach by arguing that firm-specific factors should
+be incorporated directly in the estimation of the
+production frontier because such factors may have a
+direct impact on efficiency. Despite such criticism, the
+two-step procedure is still quite popular in investigating the relationship between efficiency and firm-specific variables.
+Existing studies aiming to incorporate firm-specific
+effects directly into the frontier model are limited to
+the parametric approach (Kumbhakar et al., 1991;
+Battese and Coelli, 1995). Without prior assumptions
+on whether the firm-specific factors have a positive or
+negative impact on economic performance (see, for
+example, Ferrier and Lovell, 1990), the nonparametric
+DEA technique cannot easily incorporate firm-specific
+effects directly into the estimation of an efficient
+frontier. Because the two-step procedure is equally
+applicable to both approaches, we adopt this
+approach to analyze the role of firm-specific factors
+in the economic efficiency of swine producers in
+Hawaii.
+
+K.R. Sharma et al.! Agricultural Economics 20 (1999) 23-35
+
+3. Data and empirical procedures
+3.1. Data
+Data were collected from a sample of 53 commercial swine producers in Hawaii during the fall of 1994.
+For the purpose of our study, farms with 10 or more
+sows are considered commercial producers. Of the
+total of 350 swine farms in Hawaii, about 60% raise
+swine commercially and the rest raise swine as a
+hobby, for family consumption and for cultural reasons. The sample included about one-third of all
+commercial swine producers in Hawaii. Information
+on the distribution of farms and sample producers by
+size and key characteristics can be found in Sharma et
+al. (1997a, b).
+Hawaii's swine industry has experienced a continuous decline in recent years. The number of swine
+farms decreased from 650 in 1985 to about 350 in
+1994 and the annual hog inventory decreased from
+55 000 to 34 000 during this period. The market share
+of local production decreased from 45% in 1970 to
+13.4% in 1994. This decline, which is attributed to
+high production costs, especially feed costs, price
+competition with imported hogs, limited land availability, rapid urbanization, and increasing environmental concerns, has posed serious challenges for
+the long-term survival of this industry.
+The analysis of costs and returns of the sample
+producers showed a wide variation in profitability,
+with most of the sample producers, especially small
+and medium producers, earning a negative net return
+from swine production (Sharma et al., 1997b). This
+raises the question of the role of productive efficiency
+in profitability. We believe that the future of the swine
+producers in Hawaii will depend on their ability to
+enhance economic performance through improved
+productive efficiency.
+3.2. Description of variables
+Swine production features multiple outputs and
+inputs. For the purpose of efficiency analysis, output
+is aggregated into one category and inputs are aggregated into four categories, namely, feed, labor, other
+variable inputs and fixed input. Because hog prices
+vary by types of hogs produced and location of swine
+farms, the output variable is adjusted to account for
+
+27
+
+such price differences. These output and input variables are described below. 3
+• Output (Y) represents a weighted output of live pigs
+produced (in tons) during 19944 •
+• Feed (X 1) represents the total quantity of swine
+concentrates and other grain-based feeds (in tons).
+• Labor (X2 ) represents the total amount of family
+labor and hired labor used in swine production (in
+person days).
+• Other variable inputs (X3 ) represent the total of all
+variable expenses, except feed and hired labor (in
+thousand dollars).
+• Fixed input (X4 ) represents total costs of fixed
+inputs including insurance, taxes and depreciation
+on pig housing, machinery and other equipment (in
+thousand dollars).
+The input prices needed for deriving the dual cost
+frontier in the parametric approach and for solving the
+cost-minimizing DEA model in the nonparametric
+approach are defined below.
+W 1 represents the price of feed computed as total
+feed expenses divided by XI (in dollars/ton). w2 is the
+price of labor computed as the weighted average of the
+value of family labor assumed to be US$ 6.94/h
+(Hawaii Agricultural Labor, 1994) and actual wage
+paid for hired labor (in dollars/person day). Because
+other variable and fixed inputs are expressed in values,
+the computation of their prices is far from satisfactory.
+The price of other variable inputs (W3 ) is computed as
+total expenditures on all variable inputs except feed
+3 Summary statistics of these variables can be found in Sharma et
+a!. (1997a).
+4 The weighted average of the pigs produced on the ith farm, Y;, is
+defined by
+
+where s denotes the number of different types of pigs, P,.1 denotes
+the price received by the ith farm for pig type r, Q,.1 denotes the live
+weight of pig type r for the ith farm,
+P =~;~I P,.; · Q,.1jQ;; Q; =~;~I Q,.1, and n denotes the number
+of farms in the sample. For our study s=5, where types of pigs
+produced were market pigs, roaster pigs, feeder pigs, suckling pigs
+and breeding stock. Because of the small share of culled breeding
+stock in total returns and the lack of systematic culling practice,
+culled breeding stock was not included in the output. It should be
+noted that defining the output variable this way may contaminate
+input-based technical and allocative inefficiencies with output or
+revenue-based allocative inefficiencies.
+
+28
+
+K.R. Sharma et al.lAgricultural Economics 20 (1999) 23-35
+
+and hired labor divided by X3. Similarly, the price of
+fixed input (W4 ) is computed as total expenditures on
+fixed inputs divided by X4 • Similar to Ferrier and
+Lovell (1990), prices for other variable and fixed
+inputs equal US$ 1000 for all farms.
+Various farm-specific factors are analyzed to assess
+their influence on productive efficiency. Size (Z1)
+denotes the size of a farm, defined in terms of the
+number of sows. The farmer's education level is
+represented by two dummy variables, Zz and Z:3 where
+Zz= 1 for college education, 0 otherwise, and Z3= 1 for
+high school, 0 otherwise. Experience (Z4 ) represents
+the farmer's experience measured in the number of
+years he/she has been engaged in swine production.
+The sample swine farmers are also differentiated in
+terms of the types of pigs produced (Z5 ) and feeding
+regime (Z6 ) where Z5 = 1 for market hogs, 0 for feeder
+pigs, and Z6 = 1 for garbage or mixed feeding, 0 for
+grain feeding. Finally, location (0) is a dummy variable to differentiate farms located on Oahu from those
+on Neighbor Islands, with 0 being 1 for Oahu, 0 for
+Neighbor Islands.
+
+technology and the corresponding frontier for CRS
+can be obtained by imposing the restriction that the
+sum of the output elasticities of inputs equals one (i.e.,
+L:~=l f3k = t).
+The dual cost frontier of the production function in
+Eq. (14) can be derived as 6
+ln C; = ao
+
+(15)
+
+where i refers to the ith sample farm; C is the minimum cost of production; Ws are input prices, defined
+in the previous section; Y is the output adjusted for
+stochastic noise vas in Eq. (3); and as are parameters.
+Under the nonparametric approach, CRS, VRS and
+NIRS input-reducing and CRS and VRS cost-minimizing DEA models as presented in Section 2.2 are
+estimated for the same number of farms and the same
+output and input variables as for the stochastic frontier.
+To examine the role of relevant farm-specific factors in productive efficiency, the following equation is
+estimated:
+El;
+
+=
+
+3.3. Empirical models
+Under the parametric approach, the Cobb-Douglas
+stochastic production frontier is specified as follows 5
+ln Y; = f3o
+
++ (31 ln Xil + f3z ln X;z + (33 ln X;3
+(14)
+
+where i refers to the ith farm in the sample; Y is output
+and Xs are input variables, defined in the previous
+section; (3s are parameters to be estimated; and c; is the
+composite error term, defined in Section 2.1. Note that
+the production frontier in Eq. (14) represents VRS
+5The Cobb-Douglas form is chosen because the methodology
+used here requires that the production function be self-dual.
+Despite its limitations, the Cobb-Douglas form is found to be an
+adequate representation of the data, given the specification of the
+more flexible translog form (see Sharma et al., l997a). The
+production frontier was also estimated for a sample of 5 I farms
+after eliminating the two farms associated with the highest and
+lowest technical and economic efficiency scores to assess the
+sensitivity of the two approaches to the possible outliers. It would
+also be interesting to analyze different sub-sets of data obtained by
+partitioning the sample farms based on their key characteristics
+(such as farm size, location, feed type, etc.) to further examine the
+robustness of the two approaches. However, because of a small
+sample, such analyses could not be carried out.
+
++ a1 ln Wn + azln Wi2 + a3 ln W;3
+
+8o + 81Zn + 8zZi2 + 83Z;3 + 84Z;4 + 8sZ;s
++ 86Zi6 + 81Zn + w;
+
+(16)
+
+where i refers to the ith farm in the sample; EI is the
+total economic or cost inefficiency, measured in US$
+1000/ton of output produced; 7 Zs represent various
+farm-specific variables, as defined previously; 8s are
+parameters to be estimated; and w is a random error,
+assumed to be normally distributed. Because the
+dependent variable in Eq. (16) is a measure of inefficiency, variables with a negative (positive) coefficient
+will have a positive (negative) effect on efficiency
+levels.
+
+4. Empirical results
+4.1. Parametric frontier results
+The maximum-likelihood (ML) estimates of the
+parameters of the stochastic production frontier were
+6 See
+
+Sharma (I 996) for mathematical details.
+corresponding equations for technical, allocative, and scale
+efficiencies are obtained by replacing total economic or cost
+inefficiency (ED in Eq. (16) with technical, allocative, and scale
+inefficiencies, again measured in US$ 1000/ton of output produced.
+7The
+
+29
+
+K.R. Sharma et al. I Agricultural Economics 20 (1999) 23-35
+
+Table I
+Ordinary least squares (OLS) estimates of the average production function and ML estimates of stochastic production frontier for sample
+swine producers in Hawaii
+OLS estimates
+
+Variable
+
+Intercept
+In (Feed)
+In (labor)
+In (Other variable input)
+In (Fixed input)
+
+1P
+
+ML estimates
+
+Coefficient
+
+Standard error
+
+-0.895
+0.391 a
+0.286"
+0.286"
+0.084
+0.851
+
+0.571
+0.069
+0.103
+0.085
+0.087
+
+I
+a2
+
+f.'
+
+Log likelihood
+
+Coefficient
+
+Standard error
+
+0.606
+0.365"
+0.309"
+0.309"
+0.063
+
+0.526
+0.065
+0.088
+0.078
+0.082
+
+0.867"
+0.897
+-1.763
+-33.146
+
+0.164
+0.790
+2.241
+
+" Significant at the I% level.
+
+obtained using the program, FRONTIER 4.1 (Coelli,
+1994 ). These results are presented in Table 1. Also
+presented in Table 1 are the OLS results of the average
+production function for comparison. The ML results
+for the CRS model and for models without the
+two possible outliers are not presented due to space
+limitations.
+As expected, the signs of the slope coefficients of
+the stochastic production frontier are positive. Except
+for the coefficient for fixed input, these estimated
+coefficients are highly significant. The estimate
+of the variance parameter, "(, is also significantly
+different from zero, which implies that the inefficiency
+effects are significant in determining the level
+and variability of output of swine producers in
+Hawaii.
+The dual cost frontier derived from the stochastic
+production frontier, shown in Table 1, is as
+follows: 8
+ln C; = 1.836 + 0.349ln Wil
+
++ 0.296ln Wi2
+
++ 0.295ln W; 3 + 0.060 In W;4
++ 0.956ln Y;
+
+(17)
+
+The frequency distributions and summary statistics
+of the estimated technical, allocative and economic
+efficiency indices for the sample swine farms from the
+parametric approach are presented in Table 2. The
+8 The corresponding cost frontiers for the CRS model and for
+models without two potential outliers were also derived but are not
+presented here due to space limitations.
+
+estimated mean technical, allocative and economic
+efficiency indices are 75.9%, 75.8% and 57.1 %,
+respectively, under VRS and 74.5%, 73.9% and
+54.7% under CRS, indicating that there are considerable inefficiencies in swine production in Hawaii. The
+majority of producers fall within the ranges of 7080%, 80-90% and 60-70% of technical, allocative and
+economic efficiency indices, respectively.
+4.2. DEA frontier results
+
+DEA models were estimated using the program,
+DEAP 2.0 (Coelli, 1996). The technical, allocative and
+economic efficiency measures estimated from the
+DEA approach and their frequency distributions are
+summarized in Table 2. The estimated mean TE measure for the sample swine producers is 75.9% for the
+VRS DEA model and 64.3% for the CRS DEA model.
+In terms of TE, 17 of the 53 farms investigated are
+fully efficient under the VRS model. Under the CRS
+model, only 10 farms are fully efficient. The mean
+allocative and economic efficiency measures estimated from the DEA frontier are 80.3% and 60.3%,
+respectively, for VRS, and 71.4% and 45.7% for CRS.
+Thus DEA analyses, especially CRS results, also
+reveal substantial inefficiencies in swine production
+in Hawaii.
+The scale efficiency index for the swine producers
+varies from 43.2% to 100%, with a sample mean of
+84.1 %. In terms of scale efficiency, 13 farms
+exhibit CRS. Among the scale inefficient farms, 29
+
+30
+
+K.R. Sharma eta!. I Agricultural Economics 20 (1999) 23-35
+
+Table 2
+Frequency distributions of technical (TE), a!locative (AE), and economic (EE) efficiency measures from the parametric and DEA approaches
+Efficiency (%)
+
+<40
+40-50
+50-60
+60-70
+70-80
+80-90
+90-100
+100
+Mean(%)
+Minimum(%)
+Maximum(%)
+Standard deviation (%)
+
+Parametric approach
+
+DEA
+
+TE
+
+AE
+
+EE
+
+TE
+
+AE
+
+EE
+
+1a (1)
+2 (3)
+3 (2)
+4 (6)
+21 (23)
+19 (17)
+3 (1)
+0 (0)
+75.9 (74.5)
+31.3 (29.4)
+90.7 (90.1)
+12.2 (12.8)
+
+0 (0)
+2 (2)
+6 (8)
+9 (7)
+11 (17)
+19 (15)
+6 (4)
+0 (0)
+75.8 (73.9)
+44.8 (41.3)
+95.0 (95.4)
+12.5 (13.3)
+
+5 (9)
+10 (12)
+12 (11)
+18 (13)
+7 (7)
+1 (1)
+0 (0)
+0 (0)
+57.1 (54.7)
+27.8 (25.3)
+81.3 (80.7)
+12.2 (13.1)
+
+3 (9)
+4 (7)
+5 (8)
+12 (9)
+4 (3)
+5 (7)
+3 (0)
+17 (10)
+75.9 (64.3)
+25.5 (14.3)
+100.0 (100.0)
+22.0 (24.6)
+
+0(2)
+4(3)
+2(6)
+7(11)
+6(14)
+20(12)
+11(4)
+3(1)
+80.3(71.4)
+44.0(37.9)
+100.0(100.0)
+15.0(14.2)
+
+10(25)
+12(12)
+8(4)
+5(3)
+7(4)
+4(4)
+4(0)
+3(1)
+60.3(45.7)
+21.0(11.7)
+100.0(1 00.0)
+21.4(20.7)
+
+Figures in parentheses are the corresponding values for the CRS.
+Denotes the number of farms.
+
+a
+
+show increasing returns to scale and 11 show decreasing returns to scale. As expected, most of the large
+farms (> 7 5 sows) are characterized by decreasing
+returns to scale, while the majority of small and
+medium sized farms (~75 sows) show increasing
+returns to scale.
+The TE measures for the sample swine producers
+estimated here from the input-based DEA frontiers are
+quite comparable with those estimated from the
+output-based frontiers (Sharma et al., 1997a).
+Although, the mean scale efficiency from the
+output-based DEA frontier (89.2%) is higher than
+that from the input-based frontier (84.1% ), this difference is not significant at the 0.05 level. However,
+the two frontiers differ considerably with respect to
+returns to scale properties. About 21% of sample
+farmers show decreasing returns to scale in inputbased DEA analysis compared to 45% in output-based
+analysis.
+4.3. Comparing parametric and DEA results
+The two approaches used here to measure the
+technical, allocative and economic efficiency measures for the sample swine farms are based on different
+production frontiers. The parametric approach is
+based on a stochastic production frontier and nonparametric data envelopment analysis is based on a nonstochastic or deterministic frontier. It is expected that
+
+efficiency scores estimated from the DEA frontier
+would be less than those obtained from the stochastic
+frontier because the DEA attributes any deviation
+from the frontier to inefficiency.
+The agreements or disagreements in the efficiency
+scores estimated from the two approaches are summarized in Table 3. Also presented in Table 3 are
+similar results obtained by eliminating two possible
+outliers associated with the highest and lowest technical and economic efficiency indices. Based on
+paired t-tests, on average, the technical and economic
+efficiencies under CRS are significantly higher in the
+parametric approach than in DEA, regardless of the
+presence or absence of the possible outliers, while for
+VRS models these results are similar for the two
+approaches except for a higher TE score in the parametric approach without the two outliers. On average,
+allocative efficiencies are higher in DEA than in the
+parametric approach, except for CRS models with all
+the observations in the sample where the allocative
+efficiency measure is higher under the parametric
+technique. Thus, for the data involved in this study
+the assumption on returns to scale is found to be
+critical in explaining the differences in efficiency
+measures derived from the two procedures. Although,
+because of its deterministic property, DEA is believed
+to be more sensitive to outliers and other noise in the
+data, comparing the results with and without the
+possible outliers we find DEA results to be more
+
+K.R. Sharma et aUAgricultural Economics 20 (1999) 23-35
+
+31
+
+Table 3
+Mean comparison of TE, AE and EE measures and Spearman rank correlations of efficiency rankings of sample swine producers based on the
+parametric and DEA approaches
+Efficiency
+
+TEcRs
+TEvRs
+AEcRs
+AEvRs
+EEcRs
+EEvRs
+
+Sample mean
+Parametric
+
+DEA
+
+74.5
+75.9
+73.9
+75.8
+54.7
+57.1
+
+64.3
+75.9
+71.4
+80.2
+45.7
+60.4
+
+(80.5)
+(84.2)
+(72.4)
+(74.6)
+(58.1)
+(62.7)
+
+(66.5)
+(77.5)
+(77.4)
+(81.6)
+(51.5)
+(63.0)
+
+t-ratiod
+
+Spearman rank correlation (p)
+
+4.84 a (6.17a)
+0.00 (2.82")
+1.70c (-3.10a)
+-1.98 b ( -3.08a)
+5.14 a (2.96a)
+-1.36 (-0.13)
+
+0.891 a (0.870")
+0.718" (0.695a)
+0.712a (0.690a)
+0.327b (0.383a)
+0.835" (0.671 ")
+0.558 a (0.361 a)
+
+Subscripts CRS and VRS stand for constant and variable returns to scale, respectively.
+Figures in parentheses are the results excluding the two potential outliers (i.e. n=51).
+a Significant at the 1% leveL
+b Significant at the 5% leveL
+c Significant at the 10% leveL
+d Note that the t-ratio is based on the paired-difference t-test as the standard t-test is invalid because the individual efficiency scores from the
+two methods are not independent.
+
+robust than those obtained from the parametric
+approach. 9
+To further examine the agreements between the
+parametric and nonparametric approaches, Spearman
+correlation coefficients between the efficiency rankings of the sample swine producers from the two
+approaches were also computed. These results are
+also presented in Table 3. All the TE, AE and EE
+rank correlations are positive and highly significant.
+The strongest correlation between the efficiency rankings from the two approaches is obtained for TE under
+CRS, while allocative efficiency under VRS shows the
+weakest correlation. The removal of the two outliers
+has little impact on efficiency rankings of the producers.
+While the sample farms show both decreasing
+returns and increasing returns to scale in the DEA
+frontier, the null hypothesis of CRS is not rejected in
+9 The high degree of robustness of DEA can also be shown by
+comparing the numbers of technically, allocatively and economically fully efficient farms and the returns to scale properties with or
+without the two outliers. For example, the numbers of technically
+fully efficient farms under CRS and VRS in the original sample are
+10 and 17, respectively, compared to 9 and 17 without the two
+outliers. Similarly, the numbers of allocatively and economically
+fully efficient farms for CRS and VRS models were 1 and 3,
+respectively, for the original sample compared to 1 and 4 without
+outliers. The estimates of scale efficiency (84.1% vs. 85.5%) and
+the distributions of farms by returns to scale property were also
+very similar for the two analyses.
+
+the stochastic production frontier. 10 Furthermore, the
+VRS and CRS efficiency rankings of sample swine
+farms are more highly correlated in the parametric
+approach (p>0.98) than in nonparametric DEA
+(0.70<p<0.75).
+Compared to previous studies applying the two
+approaches to the same data set, the estimated efficiencies presented here are more consistent with the
+expectation that efficiency scores derived from the
+parametric approach would be higher than those from
+nonparametric DEA. However, in terms of rank correlation of the various efficiency measures, the two
+approaches are found to be highly comparable. These
+results are quite consistent with the study of UK
+building societies by Drake and Weyman-Jones
+(1996). Based on the analysis of US banks, Ferrier
+and Lovell (1990) found higher technical but lower
+economic efficiency for the parametric method compared to DEA and insignificant rank correlations
+between the estimated efficiencies from the two
+approaches. Analyzing a sample of Guatemalan farmers, Kalaitzandonakes and Dunn (1995) reported a
+significantly higher level of mean TE under CRS DEA
+than under the stochastic frontier. These results contrast sharply with this study. These disagreements in
+10The likelihood test-statistic for the null hypothesis of CRS is
+equal to 0.29 compared to 3.84, the 95% critical value for the x2
+distribution with one degree of freedom.
+
+32
+
+K.R. Shanna et al. I Agricultural Economics 20 (1999) 23-35
+
+empirical studies in comparing the two approaches
+can be mainly attributed to differences in the characteristics of the data analyzed, choice of input and
+output variables, measurement and specification
+errors, and estimation procedures.
+4.4. Factors affecting efficiency levels
+The parameters in Eq. (16) were estimated using
+the OLS procedure for the parametric approach, while
+those for the DEA approach were estimated using the
+Shazam's tobit estimation procedure, because the
+values of the dependent variable are zero for some
+observations in the DEA. These results are presented
+in Table 4. Farm size has a negative and significant
+effect on inefficiency levels, which suggests that, on
+average, large farms operate at higher efficiency levels
+than small farms. Better performance among larger
+farms is attributable to significantly lower labor use
+per unit of output produced and a lower feed price on
+large farms than on smaller ones (Sharma et al.,
+1997b). Farms that produce market hogs are found
+to be more efficient than feeder pig producers and in
+most cases the associated coefficients are highly significant. Reasons for this difference include significantly lower labor use and lower feed price among
+market hog producers than feeder pig producers. The
+
+effect of the producer's experience on the efficiency of
+swine production is mostly positive but the effect is
+either moderate or insignificant. Except for allocative
+efficiency, the coefficients for education dummies
+show unexpected signs, although they are mostly
+insignificant. In most cases, garbage feeders seem less
+efficient than grain feeders, and farmers on Oahu seem
+more efficient than those on Neighbor Islands. However, the slope coefficients for these variables are
+mostly insignificant. Overall, both in terms of signs
+and significance levels of the coefficients, these results
+are quite similar for the two approaches.
+4.5. Implications
+Both approaches reveal considerable inefficiencies
+in swine production in Hawaii. Minimum or economically efficient costs and potential cost reductions at
+full efficiency levels by farm size are presented in
+Tables 5 and 6 for the parametric and DEA
+approaches, respectively.
+According to the parametric results, the sample
+producers would be able to reduce their actual costs
+by 38% by operating at full technical and allocative
+efficiency levels. As shown in Table 5, large farms
+would reduce their costs by 34% and small and
+medium sized farms by 47% by operating at full
+
+Table 4
+Factors affecting productive inefficiencies (US$ 1000/ton of output produced) in swine production in Hawaii
+Variable
+Name
+Intercept
+Size (Z 1)
+College(~)
+
+High school (Z3 )
+Experience (Z4 )
+Market hogs (Zs)
+Garbage fed (Z6 )
+Oahu (0)
+
+R.z
+
+Log-likelihood
+
+Parametric approachd
+Mean
+76.50
+0.24
+0.53
+22.10
+0.73
+0.43
+0.53
+
+TI
+2.027"
+-0.005b
+0.952b
+0.279
+-0.018
+-0.806b
+0.283
+-0.241
+0.23
+
+AI
+1.021"
+-0.003"
+-0.092
+-0.027
+-0.002
+-0.160
+0.052
+-0.051
+0.18
+
+DEA approach
+EI
+3.048"
+-0.007"
+0.859c
+0.253
+-0.02oc
+-0.966"
+0.335
+-0.292
+0.34
+
+PTI
+0.907c
+-0.006b
+1.066b
+0.544
+-0.026b
+-0.069
+0.360
+-0.109
+-76.38
+
+SI
+2.673"
+-0.005c
+0.199
+-0.019
+0.015
+-2.226"
+-0.029
+-0.773b
+-40.15
+
+OTI
+2.082"
+-0.007b
+1.090b
+0.537
+-0.019c
+-0.961"
+0.247
+-0.408
+-83.09
+
+AI
+2.480"
+-0.005b
+-0.487
+-0.389
+0.001
+-0.128
+-0.519
+-0.126
+
+-21.77
+
+EI
+3.091 a
+-0.007"
+0.829°
+0.355
+-o.o2ob
+-1.043"
+0.179
+-0.376
+-84.93
+
+TI: Technical inefficiency, AI: Allocative inefficiency, EI: Economic inefficiency, PTI: Pure technical inefficiency, SI: Scale inefficiency, OTI:
+Overall technical inefficiency.
+Standard errors are not provided due to space limitations.
+a Significant at the 1% level.
+b Significant at the 5% level.
+c Significant at the 10% level.
+d To be consistent with DEA, TI, AI, and El for the parametric approach are based on the CRS specification.
+
+33
+
+K.R. Sharma et al. I Agricultural Economics 20 (1999) 23-35
+
+Table 5
+Minimum costs levels and potential cost reductions for sample swine producers by farm size (parametric approach)
+Farm size"
+
+Small (<25 SOWS)
+Medium (25-75 sows)
+Large (>75 sows)
+All farms
+
+Observed cost levels
+
+48.23
+81.04
+320.27
+157.52
+
+Minimum cost levels
+
+24.47
+40.55
+208.62
+96.25
+
+Potential cost reductions at full efficiency levels
+Technical
+(US$ 1000)
+
+Allocative
+
+12.27
+25.73
+63.33
+35.40
+
+11.49
+14.76
+48.32
+25.87
+
+Total
+(%)
+
+23.76
+40.49
+111.65
+61.27
+
+49.3
+50.0
+34.9
+38.9
+
+The minimum cost levels and potential cost reductions are based on the CRS formulation to make the parametric results comparable with DEA
+results shown in Table 6. Moreover, in the parametric approach the VRS and CRS results are similar.
+a Of the 53 fanns analyzed, the numbers of small, medium and large farms are 19, 19 and 15, respectively.
+
+Table 6
+Minimum cost levels and potential cost reductions for sample swine producers by farm size (DEA approach)
+Farm size
+
+Small (<25 sows)
+Medium (25-75 sows)
+Large (>75 sows)
+All farms
+a
+
+Minimum cost levels
+
+18.88
+29.37
+193.61
+85.28
+
+Potential cost reductions at full efficiency levels
+Pure technical
+(US$ 1000)
+
+Scale
+
+8.03
+33.53
+45.66
+30.66
+
+7.36
+5.76
+18.87
+10.91
+
+Allocative
+
+Total
+(%)
+
+13.97
+12.38
+62.14
+30.67
+
+29.35
+51.67
+126.66
+72.24
+
+60.9
+63.8
+39.6
+45.9
+
+Of the 53 farms analyzed, the numbers of small, medium and large farms are 19, 19 and 15, respectively.
+
+efficiencies. Operating at the full TE level accounts for
+about 52%, 64% and 57% of the total cost reduction
+for small, medium and large farms, respectively.
+These results are quite similar under VRS and CRS
+specifications.
+Based on DEA efficiency estimates, by reaching
+full efficiency levels, the sample producers would
+reduce their costs by 46% under CRS and 39% under
+VRS. As shown in Table 6, the CRS cost reductions
+for small, medium and large farms are estimated to be
+about 61%, 64% and 40%, respectively. These numbers are slightly smaller for the VRS DEA model.
+Operating at full pure technical and scale efficiency
+('overall' TE) levels accounts for about 52%, 76% and
+51% of the total cost reductions for small, medium,
+and large farms, respectively.
+Based on these results, the total potential cost
+reduction for all commercial swine producers in
+Hawaii is estimated to be about US$ 5 million/year
+under the parametric technique and US$ 6-7 million/
+year under DEA.
+
+5. Conclusions
+This paper analyses technical, allocative and economic efficiency for a sample of swine producers in
+Hawaii using the parametric and nonparametric frontier approaches, and compares the efficiency estimates
+obtained from the two approaches. The parametric
+method is based on Kopp and Diewert's cost decomposition approach for estimating Farrell's efficiency
+measures where a Cobb-Douglas stochastic production frontier is estimated and the corresponding dual
+cost frontier is derived algebraically. The Kopp and
+Diewert's approach is useful when the input prices are
+inadequate to estimate a cost frontier econometrically.
+The nonparametric approach involves the estimation
+of various input-based data envelopment analysis
+(DEA) models. The effect of various factors on the
+efficiency levels is examined by estimating a regression model where various production inefficiencies (in
+US$ 1000/ton of output produced) are expressed as a
+function of various farm-specific factors.
+
+34
+
+K.R. Sharma et al.! Agricultural Economics 20 (1999) 23-35
+
+The mean technical, allocative and economic efficiencies under variable returns to scale (VRS) are
+75.9%, 75.8% and 57.1 %, respectively, for the parametric approach and 75.9%, 80.3% and 60.3% for
+DEA. The corresponding measures for CRS are
+74.5%, 73.9% and 54.7%, respectively, for the parametric approach and 64.3%, 71.4% and 45.7% for
+DEA. On average, the estimated technical and economic efficiencies are significantly higher in the parametric technique than in DEA for CRS models but
+quite similar for VRS models, while allocative efficiencies are generally higher in DEA than in the
+parametric method. However, the efficiency rankings
+of the sample producers based on the two approaches
+are positively and significantly correlated. Contrary to
+the expectation that DEA is more sensitive to outliers
+and other noise in the data, we find DEA results to be
+more robust than those obtained from the parametric
+approach. This interesting finding as well as the disagreements in existing studies comparing the two
+frontier approaches demonstrates the need for more
+empirical work to further examine the performance of
+the two approaches using the same data sets.
+The results reveal substantial production inefficiencies for sample swine producers in Hawaii and hence
+considerable potential for enhancing profitability by
+reducing costs through improved efficiency. On average, by operating at full economic efficiency levels the
+sample producers would be able to reduce their cost by
+38-46% depending upon the method employed and
+returns to scale assumption. These reductions in costs
+from improvements in efficiency are very important to
+enhance profitability of the sample producers, especially of medium and small producers who earn a
+negative net return from swine production. If all farms
+were fully efficient in production, Hawaii's swine
+industry would be able to save about US$ 5-7 million
+in production costs annually.
+Analysis of various firm-specific factors shows that
+farm size has a positive and significant effect on
+efficiency levels, suggesting that cost inefficiency can
+be reduced by exploiting economies of size. The analysis
+also reveals that farms which raise hogs for market are
+more efficient than feeder pig producers. Results also
+show a positive relationship between a producer's
+experience and production efficiencies. However, the
+results do not support the hypothesis that education level
+has a positive impact on production performance.
+
+Acknowledgements
+We are very thankful to Tim Coelli, an anonymous
+referee, and the participants, in particular Christopher
+Cornwell, at the Taipei International Conference on
+Efficiency and Productivity Growth, 20-21 June 1997,
+for providing valuable comments and suggestions on
+earlier drafts. All remaining errors are our own. We
+also thank the Governor's Agricultural Coordinating
+Committee for providing funding for this study and
+Hawaii's swine producers for providing the data.
+Lastly, we thank the Editor and Staff Editor of this
+journal for their help.
+
+References
+Aigner, D., Lovell, C.A.K., Schmidt, P., 1977. Formulation and
+estimation of stochastic frontier production function models. J.
+Econom. 6, 21-37.
+Ali, A.l., Seiford, L.M., 1993. The mathematical programming
+approach to efficiency. In: Fried, H.O., Lovell, C.A.K.,
+Schmidt, S.S. (Eds.), The Measurement of Productive Efficiency: Techniques and Applications. Oxford University Press,
+Oxford, pp. 120-159.
+Banker, R.D., Chames, A., Cooper, W.W., 1984. Some models for
+estimating technical and scale efficiencies in data envelopment
+analysis. Manage. Sci. 30, 1078-1092.
+Battese, G.E., Coelli, T.J., 1995. A model for technical inefficiency
+effects in a stochastic frontier production function for panel
+data. Empirical Econ. 20, 325-332.
+Bravo-Ureta, B.E., Evenson, R.E., 1994. Efficiency in agricultural
+production: the case of peasant farmers in eastern Paraguay.
+Agric. Econom. 10, 27-37.
+Bravo-Ureta, B.E., Rieger, L., 1991. Dairy farm efficiency
+measurement using stochastic frontiers and neoclassical
+duality. Am. J. Agric. Econom. 73, 421-428.
+Charnes, A., Cooper, W.W., Rhodes, E., 1978. Measuring the
+efficiency of decision making units. Eur. J. Operational Res. 2,
+429-444.
+Chavas, J.-P., Aliber, M., 1993. An analysis of economic efficiency
+in agriculture: a nonparametric approach. J. Agric. Resour.
+Econom. 18, 1-16.
+Coelli, T.J., 1996. A guide to DEAP Version 2.0: a data
+envelopment analysis (computer) program. Center for Efficiency and Productivity Analysis (CEPA) Working Paper 96/
+08, Department of Econometrics, University of New England,
+Armidale, Australia.
+Coelli, T.J., 1995. Recent developments in frontier modeling and
+efficiency measurement. Aust. J. Agric. Econom. 39, 219-245.
+Coelli, T.J., 1994. A guide to FRONTIER version 4.1: a computer
+program for stochastic frontier production and cost function
+estimation. Department of Econometrics, University of New
+England, Annidale, Australia.
+
+K.R. Sharma et al./Agricultural Economics 20 ( 1999) 23-35
+
+Drake, L., Weyman-Jones, T.G., 1996. Productive and allocative
+inefficiencies in UK building societies: a comparison of
+nonparametric and stochastic frontier techniques. The Manchester School 64, 22-37.
+Hire, R., Grosskopf, S., Lovell, C.A.K., 1994. Production Frontiers.
+Cambridge University Press, Cambridge.
+Hire, R., Grosskopf, S., Lovell, C.A.K., 1985. The measurement of
+efficiency of production. Kluwer-Nijhoff Publishing.
+Farrell, M.J., 1957. The measurement of productive efficiency. J.R.
+Stat. Soc. Ser. A 120, 253-281.
+Ferrier, G.D., Lovell, C.A.K., 1990. Measuring cost efficiency in
+banking: econometric and linear programming evidence. J.
+Econom. 46, 229-245.
+Hawaii Agricultural Labor, 1994 (November). Hawaii
+Agricultural Statistics Service, P.O. Box 22159, Honolulu, ill
+96823-2159.
+Hjalmarsson, L., Kumbhakar, S.C., Heshmati, A., 1996. DEA, DFA
+and SFA: a comparison. J. Prod. Anal. 7, 303-327.
+Kalaitzandonakes, N.G., Dunn, E.G., 1995. Technical efficiency,
+managerial ability and farmer education in Guatemalan com
+production: a latent variable analysis. Agric. Resour. Econom.
+Rev. 24, 36-46.
+Kalirajan, K., 1991. The importance of efficient use in the adoption
+of technology: a micro panel data analysis. J. Prod. Anal. 2,
+113-126.
+
+35
+
+Kopp, R.J., Diewert, W.E., 1982. The decomposition of frontier
+cost function deviations into measures of technical and
+allocative efficiency. J. Econom. 19, 319-331.
+Kumbhakar, S.C., Ghosh, S., McGuckin, T., 1991. A generalized
+production frontier approach for estimating determinants of
+inefficiency in US dairy farms. J. Bus. Econom. Stat. 9, 279-286.
+Lund, M., Jacobson, B.H., Hansen, L.C.E., 1993. Reducing nonallocative costs on Danish dairy farms: application of non parametric methods. Eur. Rev. Agric. Econom. 20, 327-341.
+Meeusen, W., van den Broeck, J., 1977. Efficiency estimation from
+Cobb-Douglas production functions with composite error. Int.
+Econom. Rev. 18, 435-444.
+Ray, S., 1988. Data envelopment analysis, nondiscretionary inputs
+and efficiency: an alternative interpretation. Socio-Econom.
+Plann. Sci. 22, 167-176.
+Sharma, K.R., 1996. Productive Efficiency of the Swine Industry in
+Hawaii: Stochastic Production Frontier vs. Data Envelopment
+Analysis, Unpublished Ph.D. Thesis, University of Hawaii at
+Manoa.
+Sharma, K.R., Leung, P.S., Zaleski, H.M., 1997a. Productive
+efficiency of swine industry in Hawaii: stochastic frontier vs.
+data envelopment analysis. J. Prod. Anal. 8, 447-459.
+Sharma, K.R., Leung, P.S., Zaleski, H.M., 1997b. Economic
+analysis of size and feed type of swine production in Hawaii.
+Swine Health and Prod. 5, 103-110.
+
+

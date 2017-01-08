@@ -1,0 +1,1425 @@
+AGRICULTURAL
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 19 (1998) 99-112
+
+Population growth, agricultural intensification,
+induced innovation and natural resource sustainability:
+An application of neoclassical growth theory
+John L. Pender*
+International Food Policy Research Institute, 2033K St., N. W., Washington, D. C. 20006, USA
+
+Abstract
+Using a simple neoclassical type growth model including both man-made and natural capital as inputs to production, the
+theoretical basis for aU-shaped relationship between agricultural intensification and farm household investment in renewable
+resource capital is established. As development of technology, infrastructure, or markets increase the relative return to
+investment in man-made capital over natural capital, resource depletion occurs as man-made capital is substituted for lower
+return natural capital. Once returns are equalized, both man-made and natural capital are accumulated. If labor and these forms
+of capital are complementary, the output effects outweigh the substitution effects in the long run, leading to net accumulation
+of natural as well as man-made capital as a result of such technological or market development. Population growth also
+induces investment in both man-made and natural resource capital in the long run by increasing their marginal products.
+However, population growth causes declining per capita levels of both natural and man-made capital and production per capita
+in the long run, if technology is fixed and decreasing returns to scale. The model thus supports the Boserupian argument of
+induced intensification and resource improvement, as well as the Malthusian argument of the impoverishing effects of
+population growth. However, population growth may also induce development of infrastructure, markets, and technological or
+institutional innovation by reducing the fixed costs per capita of these changes, though these developments may not occur
+automatically. Government policies can play a large role in affecting whether these potential benefits of population growth are
+realized. In addition, credit policies may reduce resource degradation caused by substitution of man-made for natural capital,
+by allowing farmers to accumulate man-made capital (such as fertilizers) without depleting their natural capital. Policies to
+internalize the external environmental costs of using man-made capital will reduce both types of capital and production,
+indicating a clear trade-off between addressing environmental concerns on the one hand and reducing poverty and promoting
+resource conservation investments on the other. By contrast, internalizing the external benefits of investments in resources
+increases wealth and production per capita in the long run. The 'intertemporal externality' due to a higher private than social
+rate of time preference does not justify interventions to promote investments in resource capital; rather it argues for the
+promotion of savings and investment in general. © 1998 Elsevier Science B.V. All rights reserved.
+Keywords: Population growth; Agricultural intensification; Induced innovation; Economic growth; Natural resource sustainability
+
+*Corresponding author. Tel.: +202 862 5645; fax: +202 467 4439; e-mail: j.pender@cgnet.com
+0169-5150/98/$19.00 © 1998 Elsevier Science B.V. All rights reserved.
+Pll S0169-5150(98)00024-3
+
+100
+
+J.L. Pender I Agricultural Economics 19 ( 1998) 99-112
+
+1. Introduction
+
+The impacts of population growth on agricultural
+productivity and the sustainability of natural resources
+have been debated, at least since the time of Malthus.
+In the past few decades, there has been a resurgence of
+pessimism about the impacts of population growth,
+particularly in rapidly growing developing countries
+(Club of Rome, 1972; Brown, 1974; Ehrlich and
+Ehrlich, 1990). Slowing the growth of population in
+developing countries is widely regarded as critical to
+achieving sustainable development in poor countries
+(e.g. World Commission on Environment and Development, 1987).
+At the same time, a more optimistic perspective has
+emerged. Boserup (1965) and many others have
+argued that population pressure induces agricultural
+intensification, development of infrastructure and
+markets, and technological and/or institutional innovation (Ruthenberg, 1980; Darity, 1980; Pryor and
+Maurer, 1982; Robinson and Schutjer, 1984; Hayami
+and Ruttan, 1985; Binswanger and Mcintire, 1987;
+Salehi-Isfahani, 1988). There has been debate, however, about whether this process improves or reduces
+labor productivity and human welfare (e.g. Robinson
+and Schutjer vs. Salehi-Isfahani). The impacts on
+natural resources and the environment are also debated
+(Lele and Stone, 1989; Panayotou, 1993).
+The evidence on the impacts of population growth is
+mixed. Numerous studies have shown a positive relationship between population densities or growth and
+deforestation, overgrazing, soil erosion, declining soil
+fertility, and other resource and environmental problems 1. However, there are also many examples showing that population growth and very high population
+densities can be consistent with sustainable agricultural practices (Templeton and Scherr, 1997). In an
+often cited study of land management in the Machakos
+District of Kenya, substantial rehabilitation and
+improvement of previously degraded land resources
+(including investments in terraces, tree planting, and
+adoption of new technologies) was observed to occur
+between 1930's and 1990, despite (or perhaps because
+of) a five-fold increase in population (Tiffen et al.,
+1994).
+1See, for example, the studies cited by Panayotou (1993 ), Stem
+et al. (1996) and Templeton and Scherr (1997).
+
+Such observations have contributed to the hypothesis of a 'U-curve' type of relationship between
+population growth and the condition of natural
+resources and the environment in developing countries
+(Scherr and Hazell, 1994). Others have postulated an
+inverted U-shaped relationship between economic
+growth and environmental degradation (World Bank,
+1992). Several statistical studies have examined the
+relationship between various indicators of environmental or resource degradation (mainly measures of
+pollution and deforestation) and economic growth,
+and some have found support for an inverted U-shaped
+relationship between income per capita and environmental degradation 2 .
+The main purpose of this paper is to consider the
+theoretical basis for a U-shaped relationship between
+the condition of natural resources used in agricultural
+production and population or economic growth, and to
+consider the implications of this theory. The emphasis
+is on productive natural resources rather than amenities; thus, the argument is not based upon assuming a
+high income elasticity of demand for environmental
+amenities, which may be a dubious assumption 3 .
+The argument is a simple application of neoclassical theory. At low levels of population density and
+economic development, households are well endowed
+with natural resource capital in the form afforests, soil
+fertility, etc., relative to their stock of human produced
+capital. As economic development proceeds, development of infrastructure, markets and technology tend
+to reduce the price and/or increase the marginal value
+product of investments in human produced capital.
+This induces substitution of human produced capital
+for natural capital, resulting in depletion of natural
+capital in the near term. Once the rate of return to these
+different types of capital have equalized, however,
+output effects take over and accumulation of both
+natural and man-made capital will occur. If man-made
+
+2 See Stem et al. (1996) for citations. The validity and generality
+of these results has been questioned on theoretical and empirical
+grounds (Stem et al., 1996; Arrow et al., 1995).
+3 0ne recent study found that the income elasticity of demand for
+environmental amenities is less than one in several European
+countries, contradicting some arguments for the inverted U-curve
+hypothesis (Kristrtim and Riera, 1996). Evidence on this issue is
+still very limited, however, and virtually non-existent for developing countries.
+
+J.L. Pender/ Agricultural Economics 19 ( 1998) 99-112
+
+capital and natural capital are complementary, output
+effects will outweigh substitution effects in the long
+run 4 • If labor supply is complementary to both types of
+capital, then population growth induces investment in
+both types of capital after their rates of return are
+equalized.
+This argument emphasizes the positive role of
+complementarity between renewable natural resource
+capital and man-made capital in promoting sustainable development. This contrasts sharply with the
+situation for exhaustible resources. Economic growth
+is unsustainable, if the elasticity of substitution
+between exhaustible resources and reproducible capital is less than unity (Hamilton, 1995). This is because
+the rising price of the exhaustible resources over time
+reduces use of both resources and man-made capital
+due to their complementarity.
+The model presented in this paper could be characterized as 'Boserupian' given its optimistic predictions about the impacts of population growth on
+investment in renewable resources and other forms
+of capital. However, it also shares the Malthusian
+pessimism regarding the impacts of population growth
+on per capita production and consumption (holding
+technology and market development fixed). This is
+based on the assumption that agricultural production
+technology exhibits constant or decreasing returns to
+scale. If there are nonconvexities in the production
+function (such as, fixed costs), population growth may
+have positive effects on production per capita by
+reducing the per capita level of such fixed costs
+(Krautkraemer, 1994). However, with imperfect capital markets, the presence of such nonconvexities may
+lead to a 'poverty trap', in which poorer households
+are 'locked-in' to a low-level equilibrium path (Pender, 1992; Barro and Sala-I-Martin, 1995; Fafchamps
+and Pender, 1997).
+Similar arguments apply to nonconvexities that
+exist more generally in the economy, such as fixed
+costs of infrastructure development, technological and
+institutional innovation. Population growth reduces
+these costs per capita and thus may induce this form
+
+~hese adjustments occur sequentially, rather than instantaneously as in the standard static theory of production, if the
+changes involved are large, credit markets are not well functioning,
+and natural capital is non-marketable.
+
+101
+
+of development, as argued by Boserup. However, the
+ability to take advantage of these declining costs is
+not automatic, since it depends on the ability to
+achieve collective action (including government
+action) to share these costs, or the development of
+institutions allowing private agents to internalize the
+external benefits of paying these fixed costs. In the
+case of collective action, rent seeking and transactions
+costs may undermine the ability to achieve collective
+action, particularly as population grows. In the case of
+private agents, monopoly power can become a constraint to economic efficiency and growth. Thus, the
+implications of population growth are more uncertain
+when such nonconvexities are taken into account; and
+are more strongly conditioned by the cultural norms,
+institutions, and government policies that influence
+transactions costs and monopoly power.
+In addition to the effects of population growth, I
+consider the implications of other factors affecting
+agricultural intensification, including changes in market prices, technology (whether or not induced by
+population growth), the rate of time preference, and
+externalities. Reductions in the market price of manmade capital relative to the output price or technological improvement lead to higher long-run levels of
+both man-made and resource capital and higher levels
+of per capita production and consumption. A lower
+rate of time preference has similar qualitative long run
+implications, although it does not favor accumulating
+more of one type of capital than another. Thus, there is
+no rationale for promoting investments in natural
+resource capital relative to other investments to
+address the so-called 'intertemporal externality' due
+to a high private rate of time preference. What is
+needed is promotion of savings and investment more
+generally. Where environmental externalities exist,
+the implications of internalizing them depends upon
+whether they are external costs or benefits. For example, internalizing the external costs of water pollution
+associated with man-made capital will reduce the long
+run level of both man-made and resource capital, and
+production and consumption per capita. In contrast,
+internalizing the external benefits of planting trees or
+other conservation activities will lead to higher long
+run levels of resource and man-made capital, production and consumption. Thus, the use of 'stick'
+approaches to environmental problems in developing
+countries, such as, taxes and regulations, face serious
+
+J.L. Pender/ Agricultural Economics 19 ( 1998) 99-112
+
+102
+
+trade-offs with goals of reducing poverty and even
+conserving natural resources; while 'carrot'
+approaches such as, subsidies for planting trees,
+may serve all of these objectives.
+
+2. Theory and comparative statics
+Suppose households seek to maximize the intertemporal utility function
+00
+
+j e-Ptu(c
+
+1)
+
+dt
+
+(1)
+
+0
+
+where u() is strictly concave. c 1 is per capita consumption, equal to
+0=
+
+F(Lr,Kr,Rr)- PKh,- PRIR,
+Lr
+
+m
+
+where F() is the production function, L 1 is the population of the household5 , K1 is the stock of man-made
+(marketable) capital, R 1 is the stock of resource (nonmarketable) capital6 , h, is investment in purchased
+capital, IR, is investment in resource capital, PK is the
+price (in units of the output) of purchased capital, and
+PR is a technical coefficient (not a market price)
+representing the amount of output used up to increase
+the resource stock by 1 unit. For example, PR may
+represent the amount of crop residue the farmer would
+need to leave on his land to increase soil organic
+matter by 1 ton per hectare. Land is taken to be fixed
+and tenure secure.
+The production function is assumed to be concave,
+twice differentiable, and increasing the stock of any
+input is assumed not to decrease the marginal product
+of other inputs
+
+FLK 2': 0, hR 2': 0, FKR 2': 0
+
+(3)
+
+In the case of a constant elasticity of substitution
+production function, these assumptions are met if the
+5This assumes that all household members are laborers, in effect
+setting the dependency ratio to zero. Nothing in the qualitative
+results will be changed if there is a positive dependency ratio, as
+long as the ratio stays constant.
+6Alternatively, production could be determined by the flow of
+services from L, K, and R. If such flows are functions only of these
+stocks, there is no loss in generality in writing production as a
+function of these stocks.
+
+elasticity of substitution is less than or equal to 1.
+Estimates from numerous studies using data from
+different countries and different methods suggests
+complementarity or unitary elasticity between labor
+and capital, labor and fertilizer, or labor and a composite of other inputs (e.g. Ruttan and Hayami, 1988;
+Antle and Aitah, 1983; Yotopolous et al., 1976; Binswanger, 1974; Srivistava and Heady, 1973). Of course
+there are exceptions to this; e.g. Ray (1982) and
+Brown and Christensen (1981) estimated greater than
+unitary elasticity between labor and fertilizer using US
+data, and Lopez (1980) estimated greater than unitary
+elasticity between labor and capital using data from
+Canada. Estimates of the complementarity or substitutability between human produced capital and natural
+capital are more rare. One study of wheat production
+in the Punjab found a positive relationship between
+organic soil carbon and labor and fertilizer demand,
+suggesting complementarity; though the relationship
+was not statistically significant (Sidhu and Baanante,
+1981). More research is needed on this issue.
+The decision variables at any moment are h, and
+IR,· The non-marketability of resource capital implies
+the constraint
+(4)
+
+Some of the man-made capital and resource
+capital are assumed to be consumed in production
+in each period. For example, man-made capital may
+represent inorganic nutrients and resource capital may
+represent organic matter in the soil, both of which are
+consumed in crop production. The amount of each
+type of capital consumed is assumed to be proportional to production (though the proportionality constants may differ)
+
+= h,- 8KF(Lr,Kr,Rr)
+
+(5)
+
+Rr = IR, - 8RF(Lr, Kr, Rr)
+
+(6)
+
+Kr
+
+Household population grows at an exogenously determined rate n (2':0)
+(7)
+
+The maximization of Eq. (1), subject to the nonmarketability constraint on resource capital Eq. (4)
+and the equations of motion for the state variables
+Eqs. (5)-(7), defines the household's optimization
+problem.
+
+103
+
+J.L. Pender/Agricultural Economics 19 (1998) 99-112
+
+The Appendix shows that, if the non-marketability
+constraint is non-binding, two Euler equations must be
+satisfied:
+
+-/J,t = p + n - ( 1 - PKDK - PR8R ) -F K
+
+(8)
+
+-/J,t = p + n - ( 1 - PKDK - PRDR ) -FR
+
+(9)
+
+PK
+
+/-lt
+
+PR
+
+1-lt
+
+where p,1 is the marginal utility of consumption at time
+t (u'(c1)). Both Eqs. (8) and (9) can be satisfied if and
+only if:
+FK
+
+FR
+
+PK
+
+PR
+
+If the production function is constant returns to
+scale, production per worker (y1) is a concave function
+of man-made capital per worker (K/L1=k1) and
+resource capital per worker (R/L 1 =r1)
+_ F(Lr,Kt,Rr) -j(k
+Lr
+
+-
+
+r, Tr
+
+)
+
+(12)
+
+(10)
+
+In words, if the initial rate of return to man-made
+capital is higher than the rate of return to resource
+capital, resource capital will be depleted until these
+rates of return are equalized. The initial disequilibrium
+(defined as a violation ofEq. (10)) may be a result of a
+technological or market development that significantly increases the marginal return of man-made
+capital or reduces its price. If that is the case, this
+resource degradation is not 'population induced'
+(unless the technological or market changes were
+population induced), although it may coincide with
+population growth. I consider the comparative statics
+of the model and such temporary disequilibria further
+below.
+Once the returns to marketable and resource capital
+are equalized, population growth will induce net
+investment in both types of capital. Intuitively, this
+is because increasing labor supply increases the marginal return to investment in both types of capital (as a
+result of Eq. (3)). I illustrate this and other results
+below for two cases: (1) constant returns to scale
+is proved in the Appendix.
+
+2.1. Constant returns to scale
+
+Yt -
+
+Eq. (10) is the usual requirement for technical efficiency. It states that the marginal rate of return for
+investment in man-made capital must be equal to the
+marginal rate of return for investment in natural
+capital. In Eq. (10), PR plays the role of a price, even
+though it is a technical coefficient. If F KIP K > F RIP R ,
+then the non-marketability constraint on resource
+capital will be binding (h, =0) 7 and
+
+7 This
+
+technology, and (2) diminishing returns to scale technology.
+
+It is straightforward to show that
+(13)
+
+Thus, we can replace F K and FR by A and fr in the
+Euler Eqs. (8) and (9). In the steady state, consumption and the marginal utility of consumption are
+constant, which implies from Eqs. (8) and (9):
+fk(k r)
+'
+
+=
+
+pK(p + n)
+1 - PK(jK - PR8R
+
+(14)
+
+fr(k, r)
+
+=
+
+PR(P + n)
+1 - PKDK - PR(jR
+
+(15)
+
+IfA andfr are greater than these values, c1, k 1 and r1 will
+be rising towards their steady-state values, as in the
+standard Ramsey growth model with only one capital
+stock; conversely, ifA andfr are less than these values,
+Cr, kr and r 1 will be falling 8 .
+Since K/L1 and R/L1 approach is a steady state, K 1
+and R 1 both eventually grow as population grows 9 .
+This is population induced intensification. Note that, if
+k1 and r1 are initially below their steady- state levels, K1
+and R 1 will grow faster than population, until the
+steady state is reached. This additional intensification
+is induced by the relatively high initial returns to
+investment.
+8This problem can be readily converted to a growth problem with
+a single capital stock. Since the production function is homogeneous, the locus of points satisfying Eq. (10) is a straight line
+through the origin in r,k space. Thus r=ak on this locus for some
+a>O, and we can define g(k)=(l-pp;{jK-PROR)f(k,ak) as the new
+production function. The problem is then a standard Ramsey
+growth model, and all of the standard results apply.
+9If k, and r, are initially above their steady-state levels, K, and R,
+may decline for some time as k, and r1 decline.
+
+J.L. Pender/Agricultural Economics 19 (1998) 99-112
+
+104
+
+Table I
+Comparative statics of the steady state-constant returns to scale
+case
+
+Table 2
+Comparative statics of the steady state-decreasing returns to scale
+case
+Endogenous variable
+
+Endogenous variable
+Exogenous variable
+n
+p
+PK
+PR
+OK
+OR
+A (neutral technical change)
+AK (capital augmenting
+technical change)
+AR (resource augmenting
+technical change)
+
+k
+
+r
+
++
+
+y
+
++
++
+
++10
+
++
++
+
++10
+
++
+
++
+
+The comparative statics of the steady state
+are shown in Table 110• Increasing any of the
+exogenous factors (p, n, PK• PR• 8K, 8R) increases
+fk and fr in the steady state, resulting in lower steady
+state k, r, and y. The effect of neutral technical
+change can be modeled by replacing f(k 1, r1) by
+Af(k1, r1). Then A and fr in Eqs. (14) and (15) are
+replaced by AA and Af, implying that an increase
+in A leads to a reduction inA andfr in the steady state,
+and an increase in steady state k, r, and y. The effect
+of capital or resource augmenting technical change
+can be modeled using f(Akkr. Arr1) as the production
+function. An increase in Ak or Ar also increases steady
+state k, r, and y.
+
+2.2. Diminishing returns to scale
+It might reasonably be objected that the assumption
+
+of constant returns to scale is highly restrictive and
+probably unrealistic in many circumstances. Given the
+fact that land area (not quality) is assumed to be fixed
+(or the ability to expand area is limited), it may be
+more realistic to assume diminishing returns to scale.
+In this case, there is no steady-state level of production
+or consumption per capita as population grows;
+instead these will continually fall as population rises
+(unless offset by other changes such as improvements
+
+10The
+
+comparative statics results are derived in the Appendix.
+
+Exogenous variable
+
+K
+
+R
+
+L
+
++10
+
++10
+
++
++
+
++10
+
++
++
+
++10
+
++
+
++
+
+p
+PK
+PR
+OK
+OR
+A (neutral technical change)
+AK (capital augmenting
+techical change)
+AR (resource augmenting
+techical change)
+
++
+
+y
+
+in technology) 11 • This is the classical Malthusian
+scenario.
+For a steady state to exist in this case, the population
+growth rate must be zero. Unlike the constant returns
+to scale case, in which only the growth rate and not the
+level of population is important, the level of population is a critical factor with diminishing returns to
+scale. Thus, I assume that the population growth rate is
+zero, but examine the impact of changing the level of
+population.
+The equations determining the steady state in this
+case are very similar to Eqs. (14) and (15)
+PKP
+8
+8
+- PK K- PR R
+PRP
+1 - PK 8K- PR 8R
+
+FK(L,K,R)=1
+
+(16)
+
+FR (L, K, R )
+
+(17)
+
+=
+
+The comparative statics of the steady state are
+shown in Table 2. If L increases, this tends to increase
+FK and FR, so K and R increase 12 • Thus, population
+11 This is most readily seen by considering the case of only one
+type of capital and assuming that, the production function F(L,K) is
+homogeneous of degree t, where t<l. Then FL, and F K are
+homogeneous of degree t-1. Suppose that a steady state did exist
+in which production per capita remained constant after population
+increased by a factor of x. Then K would have to have increased by
+more than x. But that would imply that F K had declined, since this
+function is homogeneous to a negative degree. This would cause
+Eq. (14) to be violated, contradicting the assumption of a steady
+state.
+12This result is proved in the Appendix.
+
+J.L. Pender/Agricultural Economics 19 (1998) 99-112
+
+growth induces investment in both man-made capital
+and resources even in the Malthusian scenario with
+decreasing returns. This runs counter to the common
+perception that a Malthusian perspective implies
+resource degradation as population grows. It also
+suggests that there is not necessarily a contradiction
+between the Malthusian perspective and the Boserupian 'induced intensification' perspective. Consistent
+with Boserup's logic, population pressure induces
+investments to improve the productivity of the land,
+once frontier expansion is no longer an option. But
+consistent with Malthus, production and consumption
+per capita fall as a result of population growth 13 . Thus,
+although population growth may eventually be good
+news for resource conservation, it is a bad news for
+human welfare.
+The other comparative statics results are identical to
+those for the constant returns to scale case. This should
+not be surprising, since Eqs. (16) and (17) are essentially identical to Eqs. (14) and (15), if Lis constant
+(ignoring the population growth rate (n)). The production function F(L,K,R) can be redefined as g(K,R)
+(since L is constant), and g has the same properties
+as f(k,r) (i.e. concavity, positive cross partial derivatives).
+
+3. Implications
+These results imply that the population growth may
+not be responsible for resource degradation in developing countries, when degradation is due to substitution of more profitable forms of capital for resource
+capital. Indeed, population growth eventually induces
+investments in resource improvements, where land is
+becoming scarce and tenure is relatively secure.
+Nevertheless, reducing the growth of population can
+increase (or reduce the decline in) per capita income
+and consumption. The case for population control,
+13 An argument very similar to that in Footnote II demonstrates
+that steady-state capital and resource stocks per capita and
+production per capita falls after an increase in population, even
+though total capital and resource stocks rise. If the production
+function is homogeneous of degree t<i, then increasing or holding
+constant KIL and RIL would reduce FK and FR, thus violating
+Eqs. (16) and (17). Thus, KIL and R/L fall, implying that F(L,K,R)I
+L falls (since decreasing returns would require KIL and RIL to rise
+if FIL were to be held constant or increase as L increases).
+
+105
+
+thus, may hinge more on considerations of poverty
+than on considerations of resource degradation or
+improvement.
+Other causal factors demonstrate a complementarity between reducing poverty and improving resource
+conditions. For example, technological improvements
+(whether neutral or biased towards augmenting one of
+the factors of production) tend to increase investments
+in both man-made and resource capital and per capita
+income. Technological improvements in the production of man-made capital may reduce PK• also increasing resource and other investments and per capita
+income in the long run. Improvements in transportation infrastructure or other factors causing an increase
+in output relative to input prices also may be reflected
+by a reduction in PK·
+Although such changes lead to resource improvements in the long run, they cause resource degradation
+in the short run by increasing the rate of return to manmade capital relative to resource capital. This process
+is illustrated in Fig. 1. An initial steady state at point 0
+becomes inefficient after a reduction in PK· which
+rotates the efficiency locus clockwise. If resource
+stocks were marketable, they would be immediately
+sold and converted to man-made capital stocks, until
+point Pin Fig. 1 was reached. Given the marketability
+constraint, resource depletion will occur more slowly,
+as man-made capital is being accumulated, until the
+rates of return are equalized at a point like Q in the
+figure. After this point, investment in both resources
+and man-made capital occur until the new steady state
+(S) is reached. The results in Tables 1 and 2 imply that
+this new steady state will be at a higher stock of
+resources per capita than in the initial steady state.
+Because increasing man-made capital increases the
+marginal return to resource capital, the output effects
+outweigh the substitution effects in the long run.
+This example demonstrates that it is important not
+to interpret resource depletion per se as a problem.
+From the farmer's point of view, the initial depletion
+of resources in Fig. 1 represents the most efficient way
+to take advantage of the new opportunities afforded by
+the reduction in PK• and to increase both man-made
+capital and resource stocks in the long run. Policy
+makers could try to halt or slow the initial depletion of
+resources by promoting investments in resource conservation and improvement, but farmer adoption of
+such investments is likely to be low due to their lower
+
+J.L. Pender/Agricultural Economics 19 (1998) 99-112
+
+106
+
+Locus with
+fk
+p 0
+
+- - =-k----+
+fr
+
+Pr
+
+Locus with
+~= Pk'
+
+~~
+r
+
+Initial steady
+state
+
+Path with credit to
+increase k rapidly
+
+~____.____.L____.__.
+
+---+-~~Pathwithl,=O
+\\
+p
+
+New steady state
+
+R
+
+"
+
+\+--t
+
+I
+
+pI
+Slope=-k
+
+Pr
+
+k
+Fig. 1. Effect of a reduction in PK·
+
+rate of return than other investments (unless substantial subsidies are provided). For example, it is not
+uncommon for returns to capital invested in fertilizers
+to exceed 100% in poor countries (e.g. Gandhi et al.,
+1995; Larson and Frisvold, 1996), while rates of return
+on conservation practices are often much less than this
+(Cleaver and Schreiber, 1994; Lutz et al., 1994;
+Kumwenda et al., 1996). It is not surprising that
+farmers often show little interest in such practices,
+even though they may be profitable, if they have other
+much more profitable ways to use their scarce labor
+and savings.
+Some development programs have sought to overcome the reluctance of farmers to invest in lower
+return conservation technologies by bundling these
+technologies with higher return investments in fertilizer, seeds, etc. Fig. 1 suggests that such an approach
+may be most beneficial and successful if it is combined
+with sufficient credit to enable the farmer to 'jump' to
+a higher level of man-made capital close to the final
+
+steady state (thus equalizing the rates of return at a
+point such as R in Fig. 1), rather than tracing out the
+entire depletion/accumulation path. Then the farmer
+will have incentive to invest immediately in resource
+capital as well as man-made capital. Without such an
+ability to accumulate capital quickly, the farmer would
+be better off shifting his assets towards those having
+higher returns initially, and this would enable him
+to accumulate savings and approach the ·long run
+steady state more quickly. Notice that this is true
+even if, as we have assumed, increasing resource
+capital increases the marginal product of man-made
+capital.
+Of course, farmers' optimal decisions may not be
+optimal from a social point of view if there are
+externalities associated with their decisions. For
+example, use of fertilizers or other purchased capital
+may generate external costs on others that they do not
+take into account, such as water pollution caused by
+runoff and leaching of inorganic nutrients, or the
+
+J.L. Pender/Agricultural Economics 19 (1998) 99-112
+
+contribution of the fertilizer production and transportation system to buildup of carbon dioxide and global
+warming 14• If farmers were take these costs into
+account, the result would be (not surprisingly), less
+investment in fertilizers or other forms of capital
+causing external costs, less investment in resource
+capital (more surprising), and lower steady-state production and consumption per capita.
+To show this result, suppose that each person's
+utility is reduced by the per capita use of man-made
+capital
+u(ct, kt)
+
+= u(ct- akt)
+
+(18)
+
+Then, Eq. (14) is replaced by:
+
+fk(k, r) = PK(P + n) +a
+1 - PKDK - PRDR
+
+(19)
+
+while Eq. (15) remains the same. It is straightforward
+to show that an increase in a leads to a reduction in the
+steady-state level of k, r, andy, similar to the effect of
+an increase in p/ 5 . Conversely, if there are external
+benefits of investment (e.g. if investing in planting
+trees generates external benefits by reducing carbon
+dioxide in the atmosphere), the steady-state levels of k,
+r, and y would be increased if these benefits were
+internalized, similar to the effect of a reduction in PR·
+These results suggest that there may be no conflict
+among the objectives of increasing agricultural productivity, improving resource conditions, reducing
+rural poverty, and addressing environmental concerns,
+if subsidies are used to internalize external benefits of
+improving resource conditions. On the other hand,
+there are clear trade-offs involved if taxes or regulations are used to internalize the external costs associated with agricultural production. Although an
+optimal intervention will increase aggregate social
+welfare and reduce environmental costs, it will reduce
+investment in resource capital as well as other capital,
+14This
+
+assumes that market prices of fertilizer do not reflect
+these costs, which is likely to be true today, but could be remedied
+if a global agreement to limit carbon dioxide emissions is reached
+and this leads to higher prices of fossil fuels. This also assumes
+that, fertilizer production and use creates a net addition to
+atmospheric carbon dioxide. This may not be true however, since
+fertilizer use can contribute to the stock of living plant material,
+which acts to reduce atmospheric carbon dioxide.
+15 The effects are similar in the case of decreasing returns to
+scale.
+
+107
+
+reduce agricultural production and income per capita.
+There may also be adverse distributional consequences since farmers in poor countries are often
+poorer than their urban neighbors (and certainly
+poorer than those in advanced countries), who benefit
+from reducing the external costs of developing country
+agriculture.
+Another key issue from the standpoint of social
+welfare is the so-called 'intertemporal externality'; i.e.
+the fact that decisions made by farmers today affect
+the welfare of future generations, which they may not
+adequately account for in their decisions 16 . This issue
+may be reflected in the private rate of time preference
+(p) being greater than the social rate of time preference. If the social rate of time preference were applied
+to investment decisions instead of the private rate,
+there would be a higher level of all types of capital and
+higher per capita incomes in the long run. Note that
+this 'externality' affects all types of investments, not
+only investments in resource capital, and does not
+argue in favor of accepting a lower rate of return on
+investments in resource conservation than investments
+in other forms of capital. Thus, it does not change the
+implication that it can be socially optimal to let
+resources degrade in the near term; rather, it changes
+the steady state that will be approached after resources
+have degraded sufficiently to equalize the rates of
+return to different investments.
+This issue is sometimes poorly understood in policy
+(and even academic) discussions. The 'intertemporal
+externality' is sometimes used to justify regulations or
+subsidies to prevent resource degradation or increase
+investment in resource conservation. As I hope this
+discussion makes clear, a high private rate of time
+preference does not justify interventions targeted specifically to resources, although it may justify efforts to
+promote savings and investment more generally.
+
+4. Extensions
+It is important to emphasize the key assumptions
+driving these predictions, to avoid over-generalizing
+them. Of critical importance are the assumptions that
+16! prefer not to refer to this as an externality, because I think it
+leads to confusion. As argued by Solow ( 1993 ), this can be seen as
+an issue of inter-generational equity.
+
+108
+
+J.L. Pender! Agricultural Economics 19 ( 1998) 99-112
+
+land area is fixed, that land tenure is secure and
+private, that the returns to capital increase with labor
+supply, and that man-made capital and resource capital are not substitutes. These assumptions imply that
+the private returns to investment rise as population
+grows, eventually inducing investment in both types of
+capital. If land area is not fixed and frontier land is
+available at relatively low cost, investment may not be
+profitable until available frontier land has been settled.
+A great deal of resource degradation, induced or
+amplified by population growth, may occur in the
+process of clearing and settling frontier land. The
+theory presented here does not address this aspect
+of the population-resource degradation nexus.
+Lack of secure tenure to land also changes the story,
+in that the incentive to invest is reduced by insecure
+tenure. This does not necessarily change the basic
+predictions of the theory, however. Suppose, for example, that there is a given probability of eviction during
+each period, that this probability is independent of the
+farmer's decisions and statistically independent over
+time, and that if evicted the farmer receives his
+reservation utility of 0 from then on. The effect of
+the probability of eviction can be represented by an
+increase in the rate of time preference, and thus,
+results in lower investment and income per capita
+in the long run 17 . Where the probability of eviction
+depends upon the investment behavior of the farmer,
+this needs to be modeled explicitly. If resource degrading activities (such as, clearing trees) enhance tenure
+security, factors that promote investment (such as,
+lower time preference, increasing output prices, land
+titling and credit programs) may increase degradation
+(Angelsen, 1996). On the other hand, if planting trees
+enhances tenure security, more trees will be planted,
+though this may not be socially optimal (Otsuka et al.,
+1997).
+If tenure is secure but communal rather than private,
+the model predictions will hold at the community
+level, if optimal collective decisions are made by
+the community. There is ample evidence that communities have been able to manage common property
+productively in many developing country settings
+
+(Baland and Platteau, 1996). However, the ability to
+maintain effective collective action may decline as
+population grows, because the private benefits from
+deviant behavior may rise while the costs of monitoring and enforcement increase. Thus, population
+growth may cause resource degradation in the near
+term by contributing to the breakdown of traditional
+systems of communal resource management.
+In the longer term, population growth may contribute to the development of more private and specific
+property rights as the benefits of establishing such
+rights increases (Boserup, 1965; Demsetz, 1967; Binswanger and Mcintire, 1987). In addition, the per capita
+costs of establishing and enforcing private property
+rights may fall as population grows, since a substantial
+component of these costs may be fixed. However,
+whether and how such institutional innovation will
+occur in response to changing incentives is more
+difficult to predict than the responses of households
+under a given institutional framework. Given the
+presence of high fixed costs, collective action requirements, and the possibility of coordination failures,
+institutional innovation may be a path dependent
+process having multiple equilibria, with no assurance
+that socially optimal outcomes will occur (North,
+1990).
+Similar arguments apply to technological innovation. The process of technological innovation typically
+involves substantial fixed costs (Romer, 1990), and the
+per capita level of these costs are reduced by population growth 18 . In addition, population growth may
+increase the returns to innovation, as argued in the
+induced innovation literature (Boserup, 1965; Hayami
+and Ruttan, 1985). As with institutional innovation,
+this process may be path dependent (David, 1985;
+Arthur, 1989).
+Government policies may have large impacts (for
+good or ill) at certain critical times on which path of
+institutional or technological change occurs; however,
+at other times, the technology or institutional framework may be 'locked-in' and policies relatively ineffective in changing them. Understanding such
+pathways of change and the role of government poli-
+
+17 In the context of infinitely repeated games, Kreps (1990),
+chapter 14) points out that the commonly used exponential discount
+factor may result from a positive probability that the game will not
+continue.
+
+18 Romer argued, however, that population growth does not
+necessarily induce innovation because he assumed that labor
+supply is not an important input in the innovative sector.
+
+J.L. Pender/Agricultural Economics 19 (1998) 99-112
+
+cies in affecting them is an important area for future
+research.
+The assumption that man-made and natural capital
+are not substitutes (FKR?.O) is a critical one. If they are
+substitutes, the prediction that resource capital will
+rise in the long run after a reduction in the price of
+man-made capital or technological change increasing
+the marginal product of man-made capital could be
+reversed. Note, however, that the condition F KR?.O is a
+sufficient and not a necessary condition for the comparative statics results. The predictions of the theory
+will still hold if the degree of substitutability is not too
+large.
+The model considered here also has the limitation
+that risk is not incorporated. Consideration of risk and
+risk aversion would qualify the conclusion that households seek to equate marginal rates of return. Instead,
+farmers would be expected to hold a diversified portfolio of assets to reduce their exposure to risk, with
+some perhaps having lower expected returns. Households also would likely hold precautionary savings as
+a hedge against future income shortfalls. These extensions do not alter the basic insight of the deterministic
+theory, however; i.e. large changes in prices or technology induce substitution of man-made for natural
+capital in the near term and accumulation of both types
+of capital in the long term.
+It is also important to emphasize what is not
+assumed in the theory presented here. I have not
+assumed that perfect markets exist, although I assume
+the existence of markets for the output and man-made
+capital. No land, labor, or credit markets are assumed
+to exist. If a perfect set of markets exists within
+communities (no transaction costs and property rights
+fully specified and enforced) and external markets for
+output and man-made capital exist, the theory presented here would apply at the community level. The
+functioning of local factor markets (even if not perfect) tends to reduce the impact on production decisions of differences among households in factor
+endowments or preferences, since the marginal products of production factors tend to equalize across
+households.
+However, these markets can also exacerbate distributional differences over time. For example, households with lower rates of time preference will tend to
+save and invest more over time, and if land sales
+markets are functioning, they will also acquire more
+
+109
+
+land. Local credit markets facilitate this process by
+encouraging 'patient' households (those whose rate of
+time preference is lower than the local interest rate) to
+become net lenders and accumulate assets, while
+impatient households become net borrowers and
+divest of assets over time 19 . If labor markets are
+functioning, these impatient households will become
+landless laborers. While this process may be desirable
+from the standpoint of efficiency and sustainability
+(since the lower rate of time preference of more patient
+households will determine the long run level of asset
+accumulation), it is not desirable from the standpoint
+of eliminating poverty.
+
+5. Conclusion
+The theory developed in this paper supports both the
+Boserupian optimism about the improvements in
+resource management induced by population growth
+and the Malthusian pessimism about the impact of
+population growth on incomes and welfare. The Malthusian pessimism is mitigated to the extent that
+population growth induces infrastructure and market
+development, and technological and institutional
+innovation. However, these responses are not automatic and likely depend to a substantial extent upon
+the initial institutional framework, cultural norms, and
+government policies. Thus, governments have a critical role to play in facilitating the process of market
+development and technological and institutional innovation.
+Governments likely have much less impact on the
+long run implications of intensification, given the state
+of technology and institutions; although they can
+affect the path towards the long run steady state. In
+particular, they can accelerate the accumulation of
+man-made capital by helping to make credit more
+widely available (this does not imply the use of
+subsidies), and thus reduce the incentive to deplete
+natural resources in the near term. Policies to subsidize the accumulation of natural capital are not
+justified simply because people have a short time
+perspective; this will simply result in lower production
+19 Barro and Sala-I-Martin (1995) p. 99) discuss this problem in
+open economy growth models with variations in time preference. In
+the limit, patient households acquire all of the marketable assets.
+
+J.L. Pender/Agricultural Economics 19 (1998) 99--112
+
+110
+
+and consumption in the near and long term. However,
+if there are external environmental costs associated
+with man-made capital accumulation, taxes or regulation can increase aggregate welfare and reduce these
+costs, but there will be a trade-off with goals of
+reducing poverty and conserving natural resource
+capital (if man-made and natural resource capital
+are complements). In contrast, if conserving natural
+capital has external benefits, subsidies can increase
+production and consumption as well as environmental
+quality in the long term.
+The possibility of jointly serving environmental,
+economic, and social objectives by subsidizing investments in resource capital is an attractive prospect. For
+example, it suggests that attempts to address global
+warming by promoting tree planting (when this is
+complementary to income and production objectives)
+might involve much fewer trade-offs than more regulatory or tax-based approaches. However, realizing
+such a win-win solution depends critically upon
+whether natural capital and man-made capital are
+complements or substitutes, and this is not yet well
+understood. Technical research identifying possible
+complementarities between different forms of natural
+and man-made capital could thus have a very high
+potential payoff.
+Appendix
+
+either K orR:
+
+These derivatives represent the marginal benefit (in
+utility terms) of an increase in K or R. Since F K and F R
+are positive, these will be positive if the term in
+parentheses is positive, which can be shown to be
+true if (1 - PK8K - PRDR > 0) 20 • The marginal utility
+cost of an increase inK is p~'(c 1)/L1 and the marginal
+cost of an increase in R is pRu'(c1)/Lt. If the marginal
+benefit/cost ratio for investments in R is less than the
+marginal benefit cost ratio for investments in K,
+investment in R will be zero. Eqs. (A2) and (A3)
+imply this if FKIPK>FRIPR· Investment in R will be
+zero as long as this holds, causing R to fall Eq. (11)
+until FKIPK=FRIPR·
+Assume that the rates of return to K and R have
+equalized (thus "f=O). Differentiating the Hamiltonian
+with respect to h, and IR, and setting these equal to 0,
+we obtain
+AK =pKu'(ct)
+(A4)
+Lt
+
+AR =pRu'(cr)
+Lt
+
+Derivation of optimal path and comparative
+statics results
+
+The costate equations are
+
+A. I Optimal Path
+
+>..K = PAK-
+
+The current value Hamiltonian for the household's
+optimization problem is
+
+H
+
+(AS)
+
+[u't)- AK8K- AR8R]FK
+(A6)
+
+)..R
+
+= u [F(Lt,Kt,Rt) ~tPKh,- PRIR,]
+
+:~ = PAK-
+
+=PAR-:~= PAR-
+
+[U'i:r)- AK8K- ARDR] FR
+(A7)
+
++ AK[h,- 8KF(Lt,Kt,Rt)]
++ AR[IR,- 8RF(L1,K1,R1)] + ALnL1 +"fiR,
+
+(A1)
+
+where 'Y is the Lagrangian multiplier associated with
+the non-marketability constraint of resource capital
+Eq. (4).
+To show that FKIPK>FRIPR implies that IR=O, use
+the envelope theorem to compute the effect on the
+value function at timet (V(L1, K 1, R1)) of an increase in
+
+20When the non-marketability constraint is binding, Eq. (AS)
+below is replaced by
+
+>..R +'Y =pRu'(c,)
+L,
+
+This equation and Eq. (A4) imply that
+
+u'(c
+4
+- >..K8K 1)
+
+>..R8R =
+
+4u'(c,) (I - PKDK -
+
+PRDR) +"(DR
+
+J.L Pender I Agricultural Economics 19 (1998) 99-112
+
+Defining: f..lr = u'(c1 ), solving Eqs. (A4) and
+(A5) for A.K and A.R, and substituting these into
+Eqs. (A6) and (A7) and simplifying, we obtain
+Eqs. (8) and (9).
+5.2. Comparative statics of the steady state (constant
+returns case)
+Eqs. (14) and (15) are of the form
+
+/k
+
+=A
+
+(A8)
+
+fr =B
+
+(A9)
+
+where both A and B are increasing functions of p, n,
+p K• p R• 8K• and 8R· Let z represent any of these
+exogenous variables. Applying the implicit function
+theorem we obtain
+
+dz
+
+(dA/dz)frr- (dB/dz)fkr
+fkdrr - f'/k
+
+(AlO)
+
+dr
+dz
+
+(dB/dz)!kk- (dA/dz)fkr
+fkdrr - J'/k
+
+(All)
+
+dk
+
+Strict concavity off(k,r) implies that the denominator
+in Eqs. (AlO) and (All) are positive, and thatfkk and
+frr are negative. By assumption fk,?:_O. These results,
+together with the facts that dA/dz and dB/dz are
+positive, imply that dkldz<O and dr/dz<O. This in turn
+implies that dy/dz<O.
+
+5.3. Comparative statics (decreasing returns case)
+I consider only the effect of increasing L. The
+effects of the other variables are exactly the same
+as in the constant returns to scale case.
+We have equations of the form
+
+=c
+
+(Al2)
+
+FR(L,K,R) = D
+
+(A13)
+
+FK(L,K,R)
+
+Applying the implicit function theorem, we obtain
+dK
+
+dL
+
+FKLFRR- FRLFKR
+FKKFRR -F'k:R
+
+(A14)
+
+dR
+dL
+
+FKKFRL- FRKFKL
+FKKFRR- F'k:R
+
+(A15)
+
+The strict concavity of the production function and
+relations Eq. (3) imply that dK/dL and dRidL?:_O.
+
+Ill
+
+References
+Angelsen, A., 1996. Deforestation: Population or market driven?
+Christian Michelsen Institute Working Paper WP, 9, Bergen,
+Norway.
+Antle, J.M., Aitah, A.S., 1983. Rice technology, farmer rationality,
+and agricultural policy in Egypt. Am. J. Agric. Econom. 65(4),
+667-674.
+Arrow, K., Bolin, B., Costanza, R., Dasgupta, P., Falke, C., Holling,
+C.S., Jansson, B.O., Levin, S., Maler, K.G., Perrings, C.,
+Pimental, D., 1995. Economic growth, carrying capacity, and
+the environment. Science 268, 520-521.
+Arthur, B., 1989. Competing technologies, increasing returns, and
+lock-in by historical events. Econom. J. 99, 116-131.
+Baland, J.M., Platteau, J.P., 1996. Halting Degradation of Natural
+Resources. Clarendon Press, Oxford.
+Barra, R.J., Sala-1-Martin, X., 1995. Economic Growth. McGrawHill, New York.
+Binswanger, H.P., 1974. A cost function approach to the
+measurement of factor demand elasticities and of elasticities
+of substitution. Am. J. Agric. Econom. 56(2), 377-386.
+Binswanger, H.P., Mcintire, J., 1987. Behavioral and material
+determinants of production relations in land abundant tropical
+agriculture. Econom. Dev. Cultural Change 36(1), 73-99.
+Boserup, E., 1965. The Conditions of Agricultural Growth. Aldine,
+Chicago, Illinois.
+Brown, L.R., 1974. In the Human Interest: A Strategy to Stabilize
+World Population. Norton, New York.
+Brown, R.S., Christensen, L.R., 1981. Estimating elasticities of
+substitution in a model of partial static equilibrium: An
+application to U.S. agriculture. In: Berndt, E., Field, B.
+(Eds.), Modeling and Measuring Natural Resource Substitution.
+MIT Press, Cambridge, MA.
+Cleaver, K.M., Schreiber, G.A., 1994. Reversing the spiral: The
+population, agriculture, and environment nexus in sub-Saharan
+Africa. The World Bank, Washington, D.C.
+Club of Rome, 1972. The Limits to Growth. Universe Books, New
+York.
+Darity, W.A., 1980. The Boserup theory of agricultural growth: A
+model for anthropological economists. J. Dev. Econom. 7, 137157.
+David, P.A., 1985. Clio and the economics of Qwerty. Am.
+Econom. Rev. 75, 332-337.
+Demsetz, H., 1967. Toward a theory of property rights. Am.
+Econom. Rev. 62, 347-359.
+Ehrlich, P.R., Ehrlich, A.H., 1990. The Population Explosion.
+Simon and Schuster, New York.
+Fafchamps, M., Pender, J.L., 1997. Precautionary saving, credit
+constraints, and irreversible investment: Theory and evidence
+from semi-arid India. J. Bus. Econom. Statist. 15(2), 180-194.
+Gandhi, V.P., Desai, G.M., Raheja, S.K., Narain, P., 1995. Fertiliser
+response function environment and future growth of fertiliser
+use on wheat and rice in India. In: Desai, G.M., Vaidyanathan,
+A. (Eds.), Strategic Issues in Future Growth of Fertiliser Use in
+India. MacMillan, New Delhi.
+Hamilton, K., 1995. Sustainable development, the Hartwick rule
+and optimal growth. Environ. Res. Econom. 5(4), 393-411.
+
+112
+
+J.L. Pender/Agricultural Economics 19 (1998) 99-l12
+
+Hayami, Y., Ruttan, V.W., 1985. Agricultural Development:
+An International Perspective, 2nd ed. Johns Hopkins, Baltimore.
+Krautkraemer, J.A., 1994. Population growth, soil fertility, and
+agricultural intensification. J. Dev. Econom. 44, 403-428.
+Kreps, D.M., 1990. A course in microeconomic theory. Princeton
+University Press, Princeton, NJ.
+Kristrom, B., Riera, P., 1996. Is the income elasticity of
+environmental improvements less than one? Environ. Res.
+Econom. 7(1), 45-55.
+Kumwenda, J.D.T., Waddington, S.R., Snapp, S.S., Jones, R.B.,
+Blackie, M.J., 1996. Soil fertility management research for the
+maize cropping systems of smallholders in southern Africa: A
+review. NRG Paper 96-02, CIMMYT, Mexico.
+Larson, B.A., Frisvold, G.B., 1996. Fertilizers to support
+agricultural development in sub-Saharan Africa: What is
+needed and why? Food Policy 21(6), 509-525.
+Lele, U., Stone, S.W., 1989. Population pressure, the environment
+and agricultural intensification in sub-Saharan Africa: Variations on the Boserup hypothesis. MADIA Discussion Paper No.
+4, The World Bank, Washington, D.C.
+Lopez, R.E., 1980. The structure of production and the derived
+demand for inputs in Canadian agriculture. Am. J. Agric.
+Econom. 62(1), 38-45.
+Lutz, E., Pagiola, S., Reiche, C., 1994. Lessons from economic and
+institutional analyses of soil conservation projects in Central
+America and the Caribbean. In: Lutz, E., Pagiola, S., Reiche, C.
+(Eds.), Economic and Institutional Analyses of Soil Conservation Projects in Central America and the Caribbean. World
+Bank Environment Paper No. 9, World Bank, Washington, D.C.
+North, D.C., 1990. Institutions, Institutional Change and Economic
+Performance. Cambridge University Press, Cambridge.
+Otsuka, K., Suyanto, S., Tomich, T.P., 1997. Does land tenure
+insecurity discourage tree planting? Evolution of customary
+land tenure and agroforestry management in Sumatra. Environment and Production Technology Division Discussion Paper
+No. 31, Itemational Food Policy Research Institute, Washington, D.C.
+Panayotou, T., 1993. Population, environment, and development
+nexus. In: Cassen, R. (Ed.), Population and Development: Old
+Debates, New Conclusions. Transaction Publishers, New
+Brunswick.
+Pender, J.L., 1992. Credit rationing and farmers' irrigation
+investments in south India: Theory and evidence. Ph.D.
+dissertation, Food Research Institute, Stanford University.
+Pryor, F.L., Maurer, S.B., 1982. On induced economic change in
+precapitalist societies. J. Dev. Econom. 10, 325-353.
+
+Ray, S.C., 1982. A translog cost function analysis of U.S.
+agriculture, 1939-1977. Am. J. Agric. Econom. 64(3), 490-498.
+Robinson, W.C., Schutjer, W., 1984. Agricultural development and
+demographic change: A generalization of the Boserup model.
+Econom. Dev. Cultural Change 32(2), 355-366.
+Romer, P., 1990. Endogenous technological change. J. Political
+Econom. 98(5), S71-Sl02.
+Ruthenberg, H., 1980. Farming Systems in the Tropics. Clarendon
+Press, Oxford.
+Ruttan, V.W., Hayami, Y., 1988. Induced technical change in
+agriculture. In: Capalbo, S.M., Antle, J.M. (Eds.), Agricultural
+Productivity: Measurement and Explanation, Resources for the
+Future, Washington, D.C.
+Salehi-Isfahani, D., 1988. Technology and preferences in the
+Boserup model of agricultural growth. J. Dev. Econom. 28(2),
+175-191.
+Scherr, S.J., Hazell, P.B.R., 1994. Sustainable agricultural development strategies in fragile lands. Environment and Production
+Technology Division Discussion Paper No. 1, International
+Food Policy Research Institute, Washington, D.C.
+Sidhu, S.S., Baanante, C.A., 1981. Estimating farm-level demand
+and wheat supply in the Indian Punjab. Am. J. Agric. Econom.
+63(2), 237-246.
+Solow, R.M., 1993. Sustainability: An economist's perspective. In:
+Dorfman, R., Dorfman N.S. (Eds.), Economics of the Environment. W.W. Norton and Co., New York.
+Srivistava, U.K., Heady, E.O., 1973. Technological change and
+relative factor shares in Indian agriculture: An empirical
+analyis. Am. J. Agric. Econom. 55(3), 509-514.
+Stem, D.I., Common, M.S., Barbier, E.B., 1996. Economic growth
+and environmental degradation: The environmental Kuznets
+curve and sustainable development. World Dev. 24(7), 11511160.
+Templeton, S.R., Scherr, S.J., 1997. Population pressure and the
+microeconomy of land management in hills and mountains of
+developing countries. Environment and Production Technology
+Division Discussion Paper No. 26, International Food Policy
+Research Institute, Washington, D.C.
+Tiffen, M., Mortimore, M., Gichuki, F., 1994. More People, Less
+Erosion: Environmental Recovery in Kenya. Wiley, Chichester,
+England.
+World Bank, 1992. World Development Report. Washington, D.C.
+World Commission on Environment and Development, 1987. Our
+Common Future. Oxford University Press, Oxford.
+Yotopolous, P.A., Lau, L.J., Lin, W.-L., 1976. Microeconomic
+output supply and factor demand functions in the agriculture of
+the province of Taiwan. Am. J. Agric. Econom. 58(2), 333-340.
+
+

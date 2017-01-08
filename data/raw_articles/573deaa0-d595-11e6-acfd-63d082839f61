@@ -1,0 +1,1275 @@
+AGRICULTURAL
+
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 18 (1998) 145-155
+
+Environmental and economic consequences of technology
+adoption: IPM in viticulture 1
+Jorge Fernandez-Cornejo
+
+*
+
+Economic Research Service, U.S. Department of Agriculture, 1800 M Street NW, Room 4052, Washington, DC 20036-5831, USA
+
+Accepted 11 November 1997
+
+Abstract
+The impact of integrated pest management (IPM) on pesticide use, toxicity and other environmental characteristics, yields, and farm
+profits is examined for grape growers. The method is generally applicable for technology adoption and accounts for self-selectivity,
+simultaneity, and theoretical consistency. IPM adopters apply significantly less insecticides and fungicides than nonadopters among grape
+producers in six states, accounting for most of the U.S. production. Both the average toxicity and the Environmental Impact Quotient
+decrease slightly with adoption of insect IPM, but remain about the same for adopters and nonadopters of IPM for diseases. The effect of
+IPM adoption on yields and variable profits is positive but only significant for the case of IPM for diseases, i.e., the adoption of IPM for
+diseases increases yields and profits significantly. Published by Elsevier Science B.V.
+Keywords: Pesticide use; Toxicity; Integrated pest management; Grape production; Self-selection
+
+1. Introduction
+Despite their positive effect on agricultural production, evidenced by the willingness of U.S. farmers to spend US$7. 7 billion on pesticides in 1995
+(USDA, 1997), the potential effects of pesticides to
+human health and the environment have caused increased concern Huang et al., 1994. In 1993, the
+U.S. Department of Agriculture (USDA), the Food
+and Drug Administration, and the Environmental
+Protection Agency pledged to work together to reduce the health and environmental risks associated
+
+Corresponding author.
+"The views expressed are those of the author and do not
+necessarily correspond to the views or policies of the U.S. Department of Agriculture".
+*
+
+1
+
+0169-5150/98/$17.00 Published by Elsevier Science B.V.
+PII S0169-5150(97)00054-6
+
+with pesticide use. As Integrated Pest Management
+(IPM) techniques were designed to address some of
+the health and environmental concerns of pesticides,
+the USDA has set a goal for the use of IPM on 75%
+of U.S. farmland by the year 2000.
+Fruit and vegetable production is particularly intensive in pesticides. Per acre expenditures on pesticides by fruit and vegetable growers are nearly seven
+times the agricultural average (Fernandez-Cornejo et
+al., 1994). In addition, concerns about pesticide
+residues are especially important in fruits and vegetables, often consumed with little postharvest processing National Academy of Sciences, 1987. Grape
+was the top U.S. fruit crop in terms of acreage
+(761,000) and value of production (US$1.8 billion)
+in 1994 (USDA, 1995). Grape and wine production
+dates back more then 4000 years and extends over
+
+146
+
+J. Fernandez-Cornejo/ Agricultural Economics 18 ( 1998) 145-155
+
+all continents. Besides U.S. and traditional European
+producers, grapes are grown extensively in some
+countries in Eastern Europe, parts of the former
+Soviet Union, Africa (Algeria and South Africa),
+Australia, Asia, and South America.
+IPM includes an assortment of techniques designed to maintain pest infestations at economically
+acceptable levels rather than attempting to completely eradicate all pests Vandeman et al., 1994.
+While there are several conceptual definitions of
+IPM, according to the USDA: "IPM is a management approach that encourages natural control of
+pest populations by anticipating pest problems and
+preventing pests from reaching economically damaging levels. All appropriate techniques are used such
+as enhancing natural enemies, planting pest-resistant
+crops, adapting cultural management, and using pesticides judiciously." (USDA, 1993).
+While the adoption of IPM has been analyzed by
+several researchers (Norton and Mullen, 1994), there
+are few farm-level econometric studies on the effect
+of IPM on pesticide use, crop yields, and farm
+profits (Burrows, 1983; Hall and Duncan, 1984;
+Wetzstein et al., 1985; Smith et al., 1987;
+Fernandez-Cornejo, 1996). No study has been published analyzing grape production. Moreover, little
+farm-level empirical research has been published on
+the effect of IPM on the overall toxicity and other
+environmental characteristics of pesticides and claims
+that pesticides used in IPM differ from those used on
+a preventive or routine schedule (Allen et al., 1987)
+have not been empirically examined. This paper
+presents a framework to examine the impact of IPM
+on pesticide use, toxicity and other environmental
+characteristics of the pesticides, crop yields, and
+farm profits, and calculates the impact of IPM for
+U.S. grape growers.
+
+2. Potential health and environmental effects of
+pesticide use
+The reported undesirable effects of pesticides on
+nontarget species, including humans, include the following: acute and chronic health effects (Clark et al.,
+1977; EPA, 1976b; Hayes and Vaughn, 1977); domestic animal poisonings (Cadwell et al., 1977); and
+
+effects on wild birds and mammals, fish, bees, beneficial organisms, and small organisms in the soil
+(Bairlein, 1990; Brown, 1978; EPA, 1976a; Martin,
+1978; Van Steenwyk et al., 1975; Pimentel et al.,
+1991.)
+A pesticide poses a risk to human health and the
+environment if it is toxic and if humans and other
+species are exposed to the pesticide (Cohrs sen and
+Covello, 1988). Human toxicity is usually inferred
+from experimental data on mammalian toxicity.
+Mammalian toxicity includes acute (short-term) and
+chronic (long-term, low-level exposure) toxicity.
+Chronic toxicity includes carcinogenicity (capability
+to produce cancer), mutagenicity (ability to induce
+genetic changes in living cells), and teratogenicity
+(capability to produce malformations or serious deviations from normality).
+There are hundreds of pesticide active ingredients
+and each has a different spectrum of pest control and
+a different impact on human health and the environment (Fernandez-Cornejo and Jans, 1995). Thus, it is
+convenient to summarize the toxicity of pesticides in
+an overall index. Several methods have been proposed but there is no consensus about the scales and
+the weights assigned to the components of the index.
+This paper uses the overall index of human toxicity
+proposed by Fernandez-Cornejo and Jans (1995).
+This index (LTI) is the average of three components,
+with equal weights, each scaled from 0 to 4, the 0
+corresponding to nontoxic effect. The LAI component summarizes the acute toxicity resulting from the
+five different measures considered by the EPA. LAI
+is equal to 4 if the active ingredient belongs to
+toxicity category I (danger) of the EPA classification; similarly LAI is equal to 3, 2, and 1 for
+categories II, III, and IV, respectively. The chronic
+element of the index (LCI) is assigned a lower score
+for weaker indications of carcinogenicity. Following
+Hammitt (1986), LCI is equal to 4 if the pesticide is
+a carcinogen; LCI is equal to 2 if the pesticide is not
+a reported carcinogen but is a neoplastigen (or oncogenic, i.e., it can produce tumors) and is equal to 0.5
+if the pesticide is neither carcinogenic nor oncogenic,
+but is mutagenic (indicating potential carcinogenicity). Finally, the LTI component is equal to 4 if the
+pesticide is teratogenic.
+The potential impact of pesticides on human health
+and the environment is approximately quantified us-
+
+J. Fernandez-Cornejo/ Agricultural Economics 18 ( 1998) 145-155
+
+ing the Environmental Quotient Index (Kovach et al.,
+1992). The EIQ has three components based on the
+three potentially affected elements: the farm worker,
+the consumer, and the ecology. The EIQ measures
+the impact of each pesticide active ingredient by
+assigning an equal weight to each of its three components and has a scale of 1 to 5. The farmworker
+component includes acute and chronic elements and
+is calculated from mammal toxicity and persistence.
+The consumer component is based on chronic toxicity, persistence, and sistemicity. The ecological component is calculated from fish, bird, bee, and beneficial arthropod toxicity; leaching and surface loss
+potential, and persistence.
+
+3. Pesticide use and IPM in grape production
+Grape production in the U.S. uses a variety of
+pesticides. As Table 1A shows, fungicides are applied to 93% of the acreage devoted to grape production; insecticides are used in 66% of the grape acres;
+
+147
+
+and herbicides are used on 64%. Among the important fungicides used, sulfur is first followed by mancozeb, copper oxychoride sulphate, captan, and myclobuthanil (USDA, 1994). Cryolite is the most extensively used insecticide, followed by propargite,
+and carbaryl. Commercial bioinsecticides based on
+the bacterium Bacillus thuringensis (Bt) are only
+used on 2% of the acres (USDA, 1994).
+The use of IPM in grape production can be traced
+back to the late 1950s when the grape leafhopper
+Erythroneura elegantula developed resistance to synthetic organic pesticides and biological upsets of the
+spider mites and the grape mealybug followed
+(Flaherty et al., 1992). Agricultural scientists from
+the University of California, supported by the grape
+industry, lay the groundwork to a practical management system integrating chemical, cultural, and biological controls (Flaherty et al., 1992). IPM was
+developed further in the 1960s with the use of
+predaceous mites and insects and cover crops; and in
+the 1970s and 1980s with the use of selective pesti-
+
+Table 1
+Bearing acreage, pesticide treated area, and IPM adoption-U.S. grape producers, 1993
+A. Population (estimated; USDA, 1994)
+State
+
+California
+Michigan
+New York
+Oregon
+Pennsylvania
+Washington
+Total
+
+Bearing acreage, thousands
+
+651.3
+11.2
+32.5
+4.6
+11.0
+32.7
+743.3
+
+B. Sample (calculated from the survey)
+State
+Number of observations
+California
+Michigan
+New York
+Oregon
+Pennsylvania
+Washington
+Total
+
+131
+124
+133
+110
+107
+107
+691
+
+Area receiving"
+Herbicides, %
+
+Insecticides, %
+
+Fungicides, %
+
+62
+90
+81
+52
+94
+72
+64
+
+67
+97
+64
+3
+74
+39
+66
+
+94
+100
+99
+99
+99
+52
+93
+
+Extent of adoption, %
+IPM for insects
+32
+40
+16
+na
+26
+35
+29
+
+•Acres receiving one or more applications of a specific pesticide class.
+
+IPM for diseases
+30
+
+44
+14
+20
+22
+28
+26
+
+148
+
+J. Fernandez-Cornejo/ Agricultural Economics 18 (1998) 145-155
+
+cides, parasites, viruses, and fungus to control insects and diseases.
+
+4. The theoretical framework
+4.1. Theoretical issues
+
+An econometric model developed to estimate the
+impact of IPM adoption using survey data must take
+into account three theoretical issues. (1) Farmers'
+IPM adoption decisions and pesticide use may be
+simultaneous due mainly to unmeasured variables
+correlated with both IPM adoption and pesticide
+demand such as size of the pest population, pest
+resistance, farm location, and grower perceptions
+about pest control (Burrows, 1983). (2) Growers are
+not assigned randomly to the two groups (adopters
+and nonadopters of IPM), but they make the adoption choices themselves. Since adopters and nonadopters may be systematically different, these differences may manifest themselves in farm performance and could be confounded with differences due
+purely to IPM adoption. This situation, known as
+self-selectivity must be corrected to prevent biasing
+the results (Greene, 1993). (3) The demand for pesticides is a derived demand, and must be consistent
+with farmers' optimization behavior, such as profit
+maximization.
+In conclusion, model specification should allow
+for simultaneity and self-selectivity. In addition, the
+demand and supply functions should be derived from
+a profit (or cost) function.
+4.2. The adoption decision
+
+The adoption of a new technology is a choice
+between two alternatives, the traditional technology
+and the new one and growers are assumed to make
+decisions by choosing the alternative that maximizes
+their perceived utility (Fernandez-Cornejo et al.,
+1994). Thus, grower i is likely to adopt IPM if the
+utility of adopting, ~ 1 , is higher than the utility of
+not adopting, ~ 0 . However, only the binary random
+variable Ii (taking the value of 1 if IPM is adopted
+and zero otherwise) is observed, as utility is not
+known to the analyst with certainty and is treated as
+a random variable (Ben-Akiva and Lerman, 1985).
+
+In the context of IPM adoption: Uij = Vu + eii•
+where ~i is the systematic component of U, related
+to the profitabilities of adopting (j = 1) and not
+adopting (j = 0). Assuming that the disturbances
+(eii) are independently and identically normally distributed, then their difference will also be normally
+distributed and the probit transformation can be used
+to model the farmer's adoption decision. Thus, the
+probability of adoption equation is P(/k = 1) =
+F( y~Zk) where Ik denotes the adoption of IPM for
+insects (k = 1) and diseases (k = 2), F indicates the
+cumulative normal distribution, and the vector Z
+includes the factors influencing adoption.
+The equations for the adoption of IPM for insects
+and diseases estimated using the probit model are:
+11 = L.iy 1iZ 1i + ~-t 1 and / 2 = L./y2 iZ2 i + J-t 2 • The
+components Zi of the vector Z include the following
+factors of adoption: farm size, output price, farmer
+education and experience, off-farm labor, use of
+extension and consulting services, contractual arrangements for the production/marketing of the crop,
+and type of grape grown (i.e., wine or table grape
+varieties). Both probit equations have the same regressors. .
+Heckman's two-step procedure (Heckman, 1976)
+is modified to account for simultaneity in addition to
+self-selectivity. The first step includes the estimation
+of the parameters 'Yk of the probit equations. The
+inverse Mills ratio Ak = c/J( y~Z/ up)jcJJ( y~Z/ uP-) is
+also estimated for each observation, where c/J( ·) and
+iP( ·) are the density and the distribution function of
+the standard normal, and uP- is the standard deviation of 1-tk (Greene, 1993; Maddala, 1983). Moreover, to account for simultaneity, Ik being endogenous, the predicted probabilities (obtained from the
+probit equations) are used as instrumental variables
+for Ik in the second stage, discussed next.
+
+4.3. Modeling the impact of !PM
+
+The impact of IPM on pesticide use, yields, and
+farm profits is examined by estimating the pesticide
+demand functions, the supply function, and the variable profit function as a simultaneous system. To
+account for self selectivity, the inverse Mills ratios
+Xk (obtained from the first stage) are appended as
+additional regressors to the supply, demand, and
+profit equations.
+
+J. Fernandez-Cornejo/ Agricultural Economics 18 (1998) 145-155
+
+The well-developed restricted profit function (Diewert, 1974) is used to estimate theoretically consistent supply, demand, and profit equations (Fernandez-Cornejo, 1994). Let Y denote the vector of
+outputs, X the vector of variable inputs, S the vector
+of nonnegative quasi-fixed inputs; R is the vector of
+other factors such as locational or weather proxies
+and also includes as components the predicted probabilities of IPM adoption obtained in the first stage; P
+is the price vector of outputs, and W is the price
+vector of variable inputs. The restricted profit function is defined by:
+7T(P, W,S,R)
+
+=
+
+MaxXY(P'Y- W' X;X,Y
+
+E
+
+T)
+
+The production possibilities set T is assumed to
+be nonempty, closed, bounded, and convex cone.
+Under these assumptions on the technology, the restricted profit function is well defined and satisfies
+the usual regularity conditions (Diewert, 1974). In
+particular, with some of the inputs fixed, 7T is homogeneous of degree one in output and variable input
+prices and quasi-fixed input quantities.
+Considering land (L) as a fixed input and using
+the homogeneity conditions, the restricted profit
+function can be expressed as 7T(P,W,L,R) = L.
+iT(P,W,R), where is the per acre profit function:
+iT= Maxyx(P'Y- W' X) andY= Y jL,X = XjL
+are the per acre output and input quantity vectors. By
+Hotteling-Shephard's lemma, the per acre output
+supply and input demand functions are then given by
+Y= aiT(P, W,R)jaP and i = aiT(P, W,R);aw.
+The model is empirically estimated by using a
+normalized quadratic variable profit function (Diewert and Ostensoe, 1988). Considering the case of a
+single output, grapes, imposing symmetry by sharing
+parameters and linear homogeneity by normalization,
+using the labor price as the numeraire, appending the
+inverse Mills ratio terms as additional regressors, and
+adding the disturbance terms, the per acre profit
+function, per acre supply function, and per acre
+insecticide and fungicide demand functions are:
+iT= a 0
+
++ aP + Ejbjllj + EkckRk
+
++ 0.5HP 2 + EjG!iPllj + EkFlkPRk
++ 0.5EjE;B;jW;llj + EkEjEjkll]Rk
++ 0.5EjCikRiRk + 031'\.1 + 041A2
+
+(1)
+
+149
+
+(2)
+
+(3)
+
+(4)
+where now, Y, P, a, H, and the e's are scalars; and
+F and G are column matrices. The vector R includes
+seven components: two farm attributes (farm size
+and off-farm labor), a dummy for the type of grape
+produced, the predicted probabilities of adoption of
+IPM for insects and diseases obtained from the probit model, and two dummies to account for pest
+infestation levels.
+
+5. Data and estimation
+The data were obtained from the Agricultural
+Chemical Use Survey and its Economic Follow-On
+for fruits, administered between the fall of 1993 and
+the spring of 1994 by the National Agricultural
+Statistics Service of the U.S. Department of Agriculture. The probability sample was drawn from a list
+frame based on all known commercial fruit growers
+who have at least an acre of production. A stratified
+sampling technique was used, where each stratum is
+a mutually exclusive set of the commodities.
+The survey included fresh market, processing, and
+wine grape crops grown in California, Michigan,
+New York, Oregon, Pennsylvania, and Washington,
+covering 743,000 acres (Table lA) and accounting
+for most of the U.S. acreage (USDA, 1995). The pest
+management section of the survey was completed by
+691 grape-producing growers (Table lB), but after
+excluding observations with missing values only 609
+usable observations were available for econometric
+analysis.
+The largest proportion of the producers in the
+sample grew wine grape varieties in 1993 (about
+80%) followed by raisin, fresh market, and juice
+grape varieties (about 10% each). However, the proportion of the acreage growing wine grape varieties
+
+150
+
+J. Fernandez-Cornejo/ Agricultural Economics 18 (1998) 145-155
+
+was lower because farms growing wine varieties
+tend to be smaller (for example, the sample average
+size for farms growing wine varieties was about 380
+acres compared to almost 2500 acres for farms growing raisin varieties). Similarly, while more than 80%
+of the 1993 grape acreage was located in California
+(Table 1A), the percent of the farms located in
+California is much lower, because grape farms in
+California are larger that in other states. For example, the sample average grape acreage in California
+was 3170, while that of New York was 194 and
+Oregon 41 (Table 1B). For this reason, the proportion of California farms in the sample was only
+about 20%, similar to that of New York, Michigan,
+Oregon and Pennsylvania (Table lB).
+It is difficult to provide a general operational
+definition of IPM since IPM programs are specific to
+the crop and region for which they are designed and
+development of IPM programs has not been uniform
+across pest classes (e.g., insects, plant pathogens,
+weeds), crops, and regions. Most previous econometric studies have dealt with IPM adoption in general,
+without further specification of the pest classes that
+are managed or controlled. While there is merit in
+keeping the definition general, additional understanding about the barriers to adoption, as well as the
+effects of IPM, is gained by further characterizing
+IPM. Thus, this paper considers separately IPM to
+manage insects and diseases.
+In our operational definition of IPM, a fanner is
+said to have adopted IPM to manage insects (diseases) (i) if the fanner reports having used both
+scouting for insects (diseases) and economic thresholds in making insecticide (fungicide) treatment decisions, and (ii) the fanner reports the use of one or
+more additional insect (disease) management practices among those considered to be IPM techniques.
+Additional IPM techniques included the use of
+pheromones; use of resistant varieties; alternating
+pesticides to slow the development of pest resistance
+to pesticides; adjusting planting dates to lessen pest
+problems; soil testing for pests; pruning; purchasing
+beneficial organisms that prey on pests; adjusting
+application rates, timing, and frequency of pesticide
+use to protect beneficial organisms; and use of insecticides less harmful to beneficial insects.
+The number of insecticide (fungicide) applications
+per year are used as a measure of pesticide use. The
+
+average number of pesticide applications was calculated by dividing the sum (over all active ingredients
+in the given pesticide class) of the treatment acres by
+the number of acres treated. Correspondingly, pesticide prices were computed in dollars per insecticide
+(fungicide) application per acre. Per acre variable
+profits are defined as per acre revenues (grape prices
+times yields) minus per acre variable costs (insecticides, fungicides, and associated labor costs).
+Unlike simple random sampling, the selection of
+an individual farm for the survey was not equally
+likely across all farms on the list because the sample
+was stratified. Weighted least squares estimation
+methods were used to correct for bias, with weights
+equal to the inverse of the probability of selection.
+The probit equations were estimated separately. Because the errors of the estimating equations for the
+second stage (Eqs. (1)-(4)) could be correlated, and
+to gain estimation efficiency, the per acre supply and
+demand equations were estimated together with the
+per acre profit function in an iterated Seemingly
+Unrelated Regression (ITSUR) framework (Zellner,
+1962). However, ITSUR techniques were not needed
+for the probit, because the regressors are the same
+across all the equations and there are no theoretical
+restrictions for the regression coefficients (Dwivedi
+and Srivastava, 1978). The impact of IPM adoption
+on pesticide use, yields, and farm profits was calculated from Eqs. (1)-(4). For example, the effect of a
+change in the probability of adoption of insect IPM
+on insecticide use was calculated from Eq. (3) since
+3X 1 /3R 3 = E13 . In elasticity form, the effect of
+adoption of insect IPM on insecticide use is E 13
+(R 3 /X 1 ). The elasticities reported were calculated at
+the means.
+
+6. Results
+Tables 1B and 2 present a summary of the means
+of the data for grape farms. Table 1B provides the
+number of growers in the sample and shows the
+average extent of adoption of insect IPM and disease
+IPM, distributed by state. Separate sample averages
+of selected variables for adopters and nonadopters of
+IPM for insects and diseases are given in Table 2.
+For a binary indicator variable, the mean represents
+the fraction of growers of each group with that
+
+151
+
+J. Fernandez-Cornejo/ Agricultural Economics 18 (1998) 145-155
+
+Table 2
+Summary of sample averages-U.S. grape producers, 1993
+IPM for insects
+
+Selected variables
+
+YIELD, yield, thousand poundsjacre
+AVRPR, Actual price of grapes, US$jpound
+PAPPU, insecticide price, US$/ acre-per application
+PAPPLF, fungicide· p,~iGt~c, .,US$/ acre-per application
+PROFIT, V:u;~.;~-s, thousand US$jacre-year
+SIZE"
+.·. L
+INFESI, in~n level, insectsc
+INFESD, infestation level, diseasesc
+NAPPLI, Number of insecticide applications/year
+NAPPLF, nmnberof fungicide appiicationsjyear
+
+IPM for diseases
+
+Adopters
+
+Nonadopters
+
+Adopters
+
+8.12
+0.33
+29.50
+
+9.44
+0.34
+29.86
+
+9.93
+0.24
+
+7.15
+0.32
+
+2.00
+0.28
+0.09
+
+1.93
+0.13
+0.18
+
+9.84
+1.88
+0.32
+
+10.48
+1.86
+0.11
+
+0.12
+
+0.21
+
+1.34
+
+'1.39
+'2:67
+
+4.43
+
+:1("
+
+~
+
+~-·.
+
+Nonadopters
+
+~RRTWX· ~~tftrJe"~~V~~~~~;(,totlMge~:.farms (> 3tlb acrel>); 0'otherwi~f"R~~,y~l~<ffl~~~o ~.if-~ w-oduces wine grapes, o
+otnerw1se.cl':iummy vanable equal to 1 1f the farmer reports an mfestatJOn worse than normal, 0 otherw1se.
+
+<2:1 = Q !( l + :,·
+attribute. For example, the variable SIZE shows that
+
+W%Jlgf ·tRK~fl~.ffiewn~J~ ·~11ryi~~q;s
+
+~~rat.e ~~ge
+
+~ &HW161-4!afbi~ aca::sJr,tmOW tha» tw~ ~
+Pxff.~~er~Prufl€'11%l.,qpt~re (N~·· ~n compm:iSj<;>n,
+tmft~P.nti-fllffi~· L~lfis r~pr~@nt the actual ~%
+
+tM~m~HWCC:<trtlm!>~v&_ag~ fl~9l18l;Sr~ yi~fl ob~fll!J.!llg
+'. '· ~ ! ; .
+
+l ~ ., (
+
+-..·n
+
+'!
+
+!.fflcP~~fk@ft:W~,for
+
+diseases is about 9900pounds
+the yield for nonadopters. Table
+2 also shows that, on average, adopters of insect IPM
+tfse=sf[ghtiJ.y Iewer insecticide applications than non
+adopters, while adopters of IPM for diseases uses
+40% fewer fun$icide applications than nonadopters.
+3.3. J)a;
+Rfilifll§r~H@i8Mii:th~n
+
+T~3
+··
+.
+Estimates for adoption, per acre•pesticide demand, and supply equations-U.~"grape producers, 1993
+
+Variable
+
+Pro bit estimates
+
+ITSUR estimates
+
+IPM for diseases
+
+Insecticide demand
+
+INTERCEPT
+OFF-FARMW.
+EXPERIENCE
+EDUCATION
+CONTRACT
+EXTENSION
+CONSULTANT
+PAPPLF
+AVPR
+SIZE
+WINE
+INFESI
+INFESD
+PROBIPMP
+PROBIPMD"
+
+Afns
+A~is
+Adjusted R 2
+
+1.09 * * *
+-0.002• * *
+-0.025• * *
+0.758 * * *
+-1.082 * * *
+-0.083
+-0.127
+-0.003 * * *
+0.56 * * *
+-0.52• * *
+
+2394c * *
+
+*
+
+9.98
+13.77
+16.32
+22.24
+48.24
+0.15
+0.23
+45.18
+10.77
+11.06
+
+Per acre supply
+
+Fungicide demand
+
+Parameter estimate Chl-square Parameter estimate t-value
+2.857 * * *
+0.000
+
+16.81
+-0.06
+
+-0.123 * * *
+0.013 * * *
+0.434 * *
+0.343 * *
+-0.723•••
+0.360
+-1.319••
+-1.484**
+0.009
+-0.326
+0.26
+
+-4.63
+4.80
+2.13
+2.19
+-3.46
+1.32
+-2.11
+-2.35
+0.03
+-0.96
+
+"Predicted value of probability of adoption of IPM for insects and diseases.
+binverse Mills ratio, IPM for insects and diseases, respectively.
+cLikelihood ratio.
+* * *, * *, *significant at the 1%, 5%, and 10% level.
+
+Parameter estimate t-value Parameter estimate t-value
+
+**
+
+9.88
+1.01
+
+0.038
+-0.008
+2.529 * * *
+0.038
+4.285 * * *
+-4.501 * * *
+0.687
+-3.812••
+0.565
+-1.021
+0.27
+
+0.51
+-1.24
+4.67
+0.09
+7.69
+-6.19
+0.41
+-2.29
+0.77
+-1.14
+
+4.309•
+0.002
+
+4.572•
+-0.003
+
+**
+
+-0.008
+0.001
+-0.950
+2.713* * *
+-2.722••*
+2.785•**
+2.427
+8.615• * *
+1.614•
+-2.063 *
+0.22
+
+7.60
+-0.98
+
+4.80
+-1.24
+0.10
+-1.23
+4.60
+-3.46
+2.63
+1.18
+4.16
+1.77
+-1.82
+
+152
+
+J. Fernandez-Cornejo/ Agricultural Economics 18 ( 1998) 145-155
+
+Regarding the results from the probit regressions,
+both regressions are highly significant, as measured
+by likelihood ratio tests (only one probit-regression
+estimates are shown in Table 3 for lack of space,
+other results are available upon request). Among the
+statistically significant variables, the coefficient of
+the operator's off-farm work activities, measured by
+the number of off-farm work hours is negative, as
+expected, confirming that the availability of operator
+labor has a positive influence on IPM adoption. This
+corroborates other findings (McNamara et al., 1991;
+Fernandez-Cornejo et al., 1994) that off-farm employment may present a constraint to IPM adoption,
+because it competes for on-farm managerial time, as
+IPM requires a substantial amount of operator's time.
+Farmer experience is negatively correlated with
+adoption. This negative sign may be due to the
+correlation of experience with the age of the operator
+and would indicate that older farmers are more reluctant to accept newer techniques. Farmer education is
+positively correlated with adoption, as expected, but
+use of extension and consultants is not significantly
+related to IPM adoption. The size variable is positive
+and significant, confirming other studies that operators of larger farms are more likely to adopt innovations. The type-of-grape dummy is also significantly
+negative, indicating that wine grape growers are less
+likely to adopt IPM than table grape producers.
+Table 3 also presents the estimated parameters of
+the insecticide and fungicide demand functions and
+the per acre supply function. The overall goodness of
+fit is good for all three equations (adjusted R 2 =
+0.27), given the cross-sectional nature of the study.
+The coefficients of the inverse Mills ratios are significant in the supply and profit equations, confirming
+that self-selection does occur.
+Insecticide use is negatively and significantly related to the adoption of insect IPM. Similarly, fungicide use is negatively and significantly related to the
+adoption of IPM for diseases. The elasticity of pesticide demand with respect to the probability of adoption of the corresponding IPM (calculated at the
+mean) is -0.26 for the case of insecticides and
+-0.10 for fungicides (Table 4). That is, a 10%
+increase in the probability of adoption of IPM for
+insects would decrease the number of insecticide
+applications by nearly 3% and a 10% increase in the
+probability of adoption of IPM for diseases would
+
+Table 4
+The impact of IPM adoption for grape producers-U.S. grape
+producers, 1993
+Elasticity with respect to probability
+of IPM adoption
+Elasticity of pesticide
+IPM for insects
+IPM for diseases
+
+u~e
+
+with respect to
+- 0.26
+-0.10
+
+Elasticity of yields with respect to
+IPM for insects
+IPM for diseases
+
+ns
+0.30
+
+Elasticity of farm profits with respect to
+IPM for insects
+ns
+0.39
+IPM for diseases
+
+ns: standard error was too large; the underlying regression coefficient was not significant.
+
+decrease the number of fungicide applications by
+1%.
+Table 3 also shows that the impact of IPM on
+yields is positive for both insect and disease IPM,
+although this effect is not significant for insect IPM.
+About a third of the ITSUR parameter estimates for
+the profit function (not shown but available upon
+request) are significant at the 1% level. .The effect of
+IPM adoption on profits is positive but only significant for IPM for diseases: the elasticity of variable
+farm profits with respect to the probability of adoption of IPM for diseases is 0.39 (Table 4). This result
+means that an increase of 10% in the probability of
+adoption of IPM for diseases would increase variable
+profits by almost 4%.
+Our results are consistent with those of Hall
+(1977) in that IPM reduced pesticide use. However,
+the empirical evidence on the effect of IPM on
+pesticide use is mixed, even for a given crop. Among
+econometric studies, Burrows (1983) found that IPM
+adoption lead to a significant reduction in pesticide
+expenditures for a sample of California cotton growers, but Carlson (1980) cites evidence of "both
+complementary and substitute relationships between
+scouting and pesticide use'' among cotton producers
+in North Carolina, and Wetzstein et al. (1985) found
+that "IPM has no effect on pesticide expenditures"
+among a sample of Georgia cotton farmers. There is
+little econometric results on the impact of IPM among
+
+J. Fernandez-Cornejo j Agricultural Economics 18 ( 1998) 145-155
+
+fruit producers (Norton and Mullen, 1994); Fernandez-Cornejo and J ans ( 1996) found that IPM did not
+have a significant effect on insecticide use for a
+sample of orange producers in California and Florida.
+Having determined that IPM reduces overall pesticide use for grape growers, we also examine the
+impact of IPM on major pesticide active ingredients.
+We focus on 11 active ingredients which represent
+more than 90% of the insecticides and fungicides
+used on grapes. As shown in Table 5, on the average, adopters of insect IPM use fewer applications of
+two of the three major insecticides listed and adopters
+of disease IPM use fewer applications of six of the
+eight major fungicides.
+The overall index of human (mammal) toxicity
+(L TI) encompassing both acute and chronic effects is
+also calculated for each of the 11 ingredients and
+shown in Table 5. In addition, a weighted average
+toxicity index is calculated, where the weights are
+based on the area treated, application rate, and number of applications. As it can be seen at the bottom
+of Table 5, the average toxicity of the insecticides
+used by adopters of insect IPM is slightly lower
+
+153
+
+(LTI = 1.7) than that of nonadopters (LTI = 1.8);
+both of these toxicities are considered as moderate.
+The toxicity of fungicides used is essentially the
+same for adopters and nonadopters of IPM for diseases and in both cases the average toxicity of
+fungicides is quite low (LTI = 0.35). However, the
+fungicide results are strongly influenced by sulfur,
+which has a large weight because it is intensively
+used in grape production. Sulfur has a low mammal
+toxicity (LTI = 0.33).
+To examine the environmental impact of IPM we
+use the environmental impact quotient (EIQ) (Kovach
+et al., 1992). As indicated earlier, the EIQ measures
+the impact of each pesticide active ingredient on
+human health and the environment. Table 5 provides
+the EIQ values of the active ingredients used in
+grape production. We also calculate an overall
+weighted average EIQ for the major insecticides and
+fungicides used. Weights are based on the area
+treated, application rates, and number of applications
+(Table 5). As seen at the bottom of Table 5, the
+overall EIQ of insecticides decreases slightly for
+adopters of insect IPM (from 25.2 to 24.7) but the
+
+Table 5
+Major pesticides used, toxicity, and environmental impact quotient-U.S. grape producers, 1993
+Active
+ingredient
+(class)
+
+Captan, (fungicide)
+Carbaryl, (insecticide)
+Cryolite (insecticide)
+Copper hydroxide (fungicide)
+Copper oxychl. sui. (fungicide)
+Fenarimol (fungicide)
+Mancozeb(fungicide)
+Myclobutanil (fungicide)
+Propargite (insecticide)
+Sulfur (fungicide)
+Triadimefon (fungicide)
+Average toxicity index (LTI) for
+Average toxicity index (LTI) for
+Average EIQ for insecticides
+Average EIQ for fungicides
+
+Area
+applied•,
+%
+
+Application
+rate•,
+Lbjacre
+
+1.83
+3
+1.61
+7
+5.32
+35
+0.64
+9
+2.62
+4
+0.03
+39
+11
+1.98
+33
+0.10
+32
+1.54
+82
+9.64
+11
+0.12
+insecticides
+fungicides
+
+Overall
+toxicity
+index,
+LTI
+
+Environmental
+impact
+quotientb,
+EIQ
+
+3.00
+3.67
+1.33
+2.67
+0.33
+2.67
+1.00
+1.66
+3.33
+0.33
+1.00
+
+28.6
+22.6
+21.4
+33.3
+25.oc
+27.3
+62.3
+41.2
+42.7
+45.5
+33.3
+
+•From USDA (1994).
+bEIQ values for individual active ingredients are from Kovach et a!. (I 992)
+cEstimated (not included in Kovach et a!., I 992)
+
+IPM for insects
+
+IPM for diseases
+
+Adopters
+
+Adopters
+
+Nonadopters
+
+Nonadopters
+
+Number of applications per year
+
+1.04
+1.67
+
+1.18
+
+1.65
+
+2.54
+
+1.10
+1.34
+1.51
+2.10
+2.18
+
+1.52
+1.54
+2.06
+1.70
+1.76
+
+4.89
+1.07
+
+6.19
+1.93
+
+0.35
+
+0.35
+
+45.6
+
+45.6
+
+1.16
+1.53
+
+1.31
+
+1.71
+
+1.77
+
+24.69
+
+25.24
+
+154
+
+J. Fernandez-Cornejo/ Agricultural Economics 18 (1998) 145-155
+
+overall EIQ of fungicides remains the same (at about
+45.5) for adopters and nonadopters of IPM for diseases.
+7. Concluding comments
+This paper presents a methodology to calculate
+the impact of IPM on pesticide use, toxicity and
+other environmental characteristics of the pesticides,
+crop yields, and farm profits. The methodology is
+applied to the case of grape producers in six states
+accoonting f.or most 0f th€ U.S. production. The
+method is :gemenilil.ly applicabJe to technology adoption. It accounts for self-selectivity and simultaneity,
+and the pes,ticide demllJld and yield equations are
+theorett<;aiiy cqfisis\ertt with a restricted profit functioif '·"''·' ~~ -··· '"'
+,.
+the results support the notion that, among grape
+growers, adopters of IPM for insects and IPM for
+diseases use significantly fewer insecticide and
+fungicide applications than do nonadopters. In addition, both average toxicity and the environmental
+impact quotient decreases slightly with adoption of
+insect IPM, but they remain about the same for
+adopters and nonadopters of IPM for diseases. The
+effect of IPM adoption on yields and variable profits
+is positive but only significant for the case of IPM
+for diseases, i.e., the adoption of IPM for diseases
+increases yields and profits significantly. Other important determinants of pesticide demand, besides
+IPM adoption, are pesticide prices, grape prices, pest
+infestation levels, type of grape, operator off-farm
+work, and farm size.
+Two limitations of the study are the incomplete
+modeling of the substitution possibilities between
+pesticides and other purchased inputs, particularly
+fertilizers, and the exclusion of production risk. In
+the first case, the limitations are attributable to the
+lack of price input data for some inputs. Panel data
+would be needed to address the second issue satisfactorily. When better data become available, these
+limitations will be surmounted helping improve our
+understanding of technology adoption in agriculture.
+References
+Allen, W.A., Rajotte, E.G., Kazmierczak, R.K., Jr., Lambur,
+M.T., Norton, G.W., 1987. The national evaluation of exten-
+
+sion's integrated pest management (IPM) programs. VCES
+Publication 491-010, Virginia Cooperative Extension Service
+and USDA Extension Service, Blacksburg, VA.
+Bairlein, F., 1990. Estimating density and reproductive parameters
+for terrestrial field testing with birds. In: Somerville, L.,
+Walker, C.H. (Eds.), Pesticide Effects on Terrestrial Wildlife.
+Taylord & Francis, London.
+Ben-Akiva, M., Lerman, S., 1985. Discrete Choice Analysis:
+Theory and Application to Travel Demand. Massachusetts
+Institute of Technology Series in Transportation Studies. MIT
+Press, Cambridge, MA.
+Brown, A.W.A., 1978. The Ecology of Pesticides. Wiley, New
+York.
+Burrows, T.M., 1983. Pesticide demand and integrated pest management: a limited dependent variable analysis. Am. J. Agric.
+Econ. 65, 806-810.
+Cadwell, S.T., Watson, M.T., Keil, J.E., Sandifer, S.H., 1977.
+Survey of animal pesticide poisoning in South Carolina. J.
+Vet. Hum. Toxicol. 19, 166-168.
+Carlson, G.A., 1980. Economic and biological variables affecting
+demand for publicly and privately provided pest information.
+Am. J. Agric. Econ. 62, 1001-1006.
+Clark, L.C., Shy, C.M., Most, B.M., Florin, J.W., Portier, K.M.,
+1977. Cancer mortality and agricultural pesticide use in the in
+the southeastern United States. 8th Int. Sci. Mtg. International
+Epidemiological Association, San Juan, PR.
+Cohrssen, J.J., Covello, V.T., 1988. Risk Analysis: A Guide to
+Principles and Methods for Analyzing Health and Environmental Risks. National Technical Information Service, U.S.
+Dept. of Commerce, Washington, DC.
+Diewert, W.E., 1974. Applications of duality theory. In: Intriligator, M.D., Kendrick, D.A. (Eds.), Frontiers of Quantitative
+Economics, Vol. II. North-Holland Publishing, Amsterdam.
+Diewert, W.E., Ostensoe, L., 1988. Flexible functional forms and
+global curvature conditions in dynamic econometric modeling.
+In: Barnett, W., Berndt, E., White, H. (Eds.), Cambridge Univ.
+Press, Cambridge, UK.
+Dwivedi, T.D., Srivastava, V.K., 1978. Optimality of least squares
+in the seemingly unrelated model. Econometrics 6, 391-395.
+Environmental Protection Agency (EPA), 1976a. Fish kills caused
+by pollution in 1970-1974. Washington, DC.
+Environmental Protection Agency (EPA), 1976b. National study
+of hospitals admitted pesticide poisonings. Epidemiologic
+Studies Program. Human Effects Monitoring Branch, Technical Services Division, Office of Pesticide Programs, Washington, DC.
+Fernandez-Cornejo, J., 1996. The microeconomic impact of IPM
+adoption: theory and application. Agric. Res our. Econ. Rev.
+25, 149-160.
+Fernandez-Cornejo, J., Jans, S., 1995. Quality-adjusted price and
+quantity indices for pesticides. Am. J. Agric. Econ. 77, 645659.
+Fernandez-Cornejo, J., Jans, S., 1996. The economic impact of
+IPM adoption for orange producers in California and Florida.
+Acta Horticult. 429, 325-334.
+Fernandez-Cornejo, J., Beach, E.D., Wen-Yuan, H., 1994. The
+adoption of IPM techniques by vegetable growers in Florida,
+Michigan, and Texas. J. Agric. Appl. Econ. 1, 158-172.
+
+J. Fernandez-Cornejo/ Agricultural Economics 18 (1998) 145-155
+
+Flaherty, D.L., Christensen, L.P., Lanini, W.T., Marois, J.J.,
+Phillips, P.A., Wilson, L.W., 1992. Grape pest management.
+Pub. 3343, U. of California, Div. of Agric. and Natural
+Resources, Oakland, CA.
+Greene, W.H., 1993. Econometric Analysis, 2nd edn. Macmillan,
+New York.
+Hall, D.C., 1977. The profitability of integrated pest management:
+case studies for cotton and citrus in the San Joaquin valley.
+Entomol. Soc. Bull. 23, 267-274.
+Hall, D.C., Duncan, G.M., 1984. Econometric evaluation of new
+technology with an application to integrated pest management.
+Am. J. Agric. Econ. 66, 624-633.
+Hammitt, J.K., 1986. Estimating consumer willingness to pay to
+reduce food-borne risk. Report R-3447-EPA, The RAND,
+Santa Monica, CA.
+Hayes, W.J., Vaughn, W.K., 1977. Mortality from pesticides in
+the United States in 1973 and 1974. Toxicol. Appl. Pharmacal.
+42, 235-252, (Elsevier).
+Kovach, J., Petzoldt, C., Degni, J., Tette, J., 1992. A method to
+measure the environmental impact of pesticides. New York's
+Food and Life Sciences Bulletin No. 132, Cornell University,
+Ithaca, NY.
+Maddala, G.S., 1983. Limited-dependent and Qualitative Variables in Econometrics. Cambridge Univ. Press, Cambridge,
+UK.
+Martin, E.C., 1978. Impact of pesticides on honeybees. Gleanings
+in Bee Cult., 106: 318-320, 346.
+McNamara, K.T., Wetzstein, M.E., Douce, G.K., 1991. Factors
+affecting peanut producer adoption of integrated pest management. Rev. Agric. Econ. 13, 129-139.
+Norton, G.W., Mullen, J., 1994. Economic evaluation of integrated pest management programs: a literature review. Virginia Cooperative Extension. Publication 448-120, Virginia
+Polytechnic Institute and State University, Blacksburg, VA.
+
+155
+
+Pimentel, D., Andow, D., Dyson-Hudson, R., Gallahan, D., Jacobson, S., Irish, M., Kroop, S., Moss, A., Schreiner, I., Shepard,
+M., Thompson, T., Vinzant, B., 1991. Environmental and
+social costs of pesticides: a preliminary assessment. In: Pimentel, D., Hanson, A. (Eds.), Handbook of Pest Management
+in Agriculture, Vol. 1, 2nd edn. CRC Press, Boca Raton, FL.
+Smith, G.S., Wetzstein, M.E., Douce, G.K., 1987. Evaluation of
+pest-management characteristics. Southern J. Agric. Econ. 19,
+93-101.
+U.S. Dept. of Agriculture (USDA), 1993. USDA programs related
+to integrated pest management. USDA Program Aid 1506,
+Agricultural Research Service, Washington, DC.
+U.S. Dept. of Agriculture (USDA), 1994. Agriculture chemical
+usage: 1993 fruits summary. National Agricultural Statistical
+Service, Washington, DC.
+U.S. Dept. of Agriculture (USDA), 1995. Fruit and tree nuts:
+situation and outlook report, FTS-274. Economic Research
+Service, Washington, DC.
+U.S. Dept. of Agriculture (USDA), 1997. Farm production expenses. Agricultural Outlook, A0-251: 50. Economic Research Service, Washington, DC.
+Van Steenwyk, R.A., Toscano, N.C., Ballmer, N.C., Kido, G.R.,
+Reynolds, H.T., 1975. Increases of Heliothis ssp. in cotton
+under various insecticide treatment regimes. Environ. Entomol. 4, 993-996.
+Wetzstein, M.E., Musser, W.N., Linder, D.K., Douce, G.K., 1985.
+An evaluation of integrated pest management with heterogeneous participation. Western J. Agric. Econ. 10, 344-353.
+Zellner, A., 1962. An efficient method for estimating seemingly
+unrelated regression and test of aggregation bias. J. Am. Stat.
+Assoc. 57, 348-368.
+
+

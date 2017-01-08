@@ -1,0 +1,941 @@
+MARKETING COOPERATIVES AND FINANCIAL STRUCTURE:
+A TRANSACTION COSTS ECONOMICS ANALYSIS
+
+GEORGE W.J. HENDRIKSE, CEES P. VEERMAN
+
+ERIM REPORT SERIES RESEARCH IN MANAGEMENT
+ERIM Report Series reference number
+
+ERS-2000-09-ORG
+
+Publication status / version
+
+draft / version March 2000
+
+Number of pages
+
+15
+
+Email address first author
+
+Ghendrikse@fbk.eur.nl
+
+Address
+
+Erasmus Research Institute of Management (ERIM)
+Rotterdam School of Management / Faculteit Bedrijfskunde
+Erasmus Universiteit Rotterdam
+PoBox 1738
+3000 DR Rotterdam, The Netherlands
+Phone:
+
+# 31-(0) 10-408 1182
+
+Fax:
+
+# 31-(0) 10-408 9020
+
+Email:
+
+info@erim.eur.nl
+
+Internet:
+
+www.erim.eur.nl
+
+Bibliographic data and classifications of all the ERIM reports are also available on the ERIM website:
+www.erim.eur.nl
+
+ERASMUS RESEARCH INSTITUTE OF MANAGEMENT
+REPORT SERIES
+RESEARCH IN MANAGEMENT
+
+BIBLIOGRAPHIC DATA AND CLASSIFICATIONS
+Abstract
+
+The relationship between the financial structure of a marketing cooperative (MC) and the
+requirement of the domination of control by the members is analysed from a transaction costs
+perspective. A MC receives less favorable terms on outside equity than a conventional firm
+because the decision power regarding new investments is not allocated to the providers of
+these funds. This is a serious threat to the survival of a MC in a market where efficient
+investments are characterized by an increasing level of asset specificity at the processing stage
+of production. A MC is predicted to be an efficient organizational form when the level of asset
+specificity at the processing stage of production is at a low or immediate level compared to the
+level of asset specificity at the farming stage of production.
+Library of Congress
+5001-6182
+Business
+Classification
+5546-5548.6
+Office Organization and Management
+(LCC)
+4027.4
+Cooperative societies : Financial Management
+Journal of Economic
+M
+Business Administration and Business Economics
+Literature
+M 10
+Business Administration: general
+(JEL)
+L2
+Firm Objectives, Organization and Behaviour
+D2
+Production and Organization
+G3
+Corporate Finance and Governance
+European Business Schools
+85 A
+Business General
+Library Group
+100B
+Organization Theory (general)
+(EBSLG)
+240 B
+Information Systems Management
+100 D
+Design, structuring of organization
+Gemeenschappelijke Onderwerpsontsluiting (GOO)
+Classification GOO
+85.00
+Bedrijfskunde, Organisatiekunde: algemeen
+85.05
+Management organisatie: algemeen
+85.08
+Organisatiesociologie, organisatiepsychologie
+85.05
+Management, Organisatie : algemeen
+Keywords GOO
+Bedrijfskunde / Bedrijfseconomie
+Organisatieleer, informatietechnologie, prestatiebeoordeling
+Cooperaties, Bedrijfsfinanciering, Marketing
+Free keywords
+Marketing cooperative, finance, transaction costs economics
+Other information
+
+MARKETING COOPERATIVES AND FINANCIAL STRUCTURE:
+A TRANSACTION COSTS ECONOMICS ANALYSIS
+
+George W.J. Hendrikse∗
+and
+Cees P. Veerman∗∗
+
+Abstract
+The relationship between the financial structure of a marketing cooperative (MC) and the
+requirement of the domination of control by the members is analysed from a transaction
+costs perspective. A MC receives less favorable terms on outside equity than a conventional
+firm because the decision power regarding new investments is not allocated to the providers
+of these funds. This is a serious threat to the survival of a MC in a market where efficient
+investments are characterized by an increasing level of asset specificity at the processing
+stage of production. A MC is predicted to be an efficient organizational form when the level
+
+∗
+
+Erasmus University Rotterdam, Rotterdam School of Management, Office F3-51, P.O. Box 1738, 3000
+DR Rotterdam, The Netherlands, Phone: 31-10-408 8660, Fax: 31-10-4089016, and Email:
+ghendrikse@fbk.eur.nl.
+∗∗
+Tilburg University, President of the Agricultural University of Wageningen.
+The first author would like to thank the Center for Research in Management of the University of
+California at Berkeley for its hospitality during which parts of this paper were completed. The comments
+by and/or discussions with Helmut Bester, Paul de Bijl, Sytse Douma, Lee Garoyan, Piet Moerland,
+Aswin van Oijen, Richard Sexton, Jerome Siebert, and Adrie Zwanenberg are gratefully acknowledged.
+Any remaining errors are ours.
+
+1
+
+of asset specificity at the processing stage of production is at a low or immediate level
+compared to the level of asset specificity at the farming stage of production.
+
+MARKETING COOPERATIVES AND FINANCIAL STRUCTURE:
+A TRANSACTION COSTS PERSPECTIVE
+
+1
+
+Introduction
+
+The depature of this article is the observation that several agricultural and horticultural
+marketing cooperatives (MCs) are considering a change or have recently changed their
+organizational and financial structure.1 Some MCs are moving in the direction of a
+conventional, profit maximizing firm by issuing some kind of equity (i.e. abandoning the onemember-one-vote feature) and/or are relaxing the uniform treatment of the members.
+Zwanenberg et.al. (1992) report about Kerry (1987), Avonmore (1988), Waterford
+(1988), and Golden Vale (1992) in Ireland. Examples in the Netherlands are reported by
+Campina Melkunie (1991) about the introduction of members’ participation units at
+Campina Melkunie in 1991, Zwanenberg (1992) about the stock market listing of
+pharmacist cooperative OPG in 1992, NRC Handelsblad (1994) about the introduction of
+shares for members at dairy cooperative Friesland Frico Domo in 1994 and the merger and
+stock market listing of ten fruits and flowers auctions (Greenery) in 1995.The emergence of
+New Generation Cooperatives in the United States of America entails a reorientation of the
+activities of MCs in placing demands of consumers for agricultural and horticultural products
+at center stage (Cook, 1995).
+Two aspects of agricultural and horticultural markets have changed in the course of
+time: shortage markets and sufficient internal funds. First, agricultural and horticultural
+1
+
+This article is concerned with one-product cooperatives. Many cooperatives in Europe and California
+are like this. Cooperatives in for example the Midwest of the United States of America are quite different.
+
+2
+
+markets have changed from shortage to surplus markets. Folmer et. al. (1995, p.40-41)
+measure the extent of shortage markets by calculating self-sufficiency ratios for the European
+Union in 1990 of 1.29 for wheat, 1.13 for coarse grains, 1.39 for sugar, .51 for oilseeds,
+1.08 for wine, 1.11 for beef, 1.09 for cheese, 1.21 for butter and 1.40 for skimmed milkpowder. So, many agricultural and horticultural markets are nowadays surplus instead of
+shortage markets. These markets require nowadays specific investments in products with
+brand names in order to meet the specific demands in the many niches of the market.
+Second, the growth of internal resources of financial funds of MCs is smaller than the growth
+of the markets they are in (Van Dijk and Poppe, 1992).
+This article addresses the organizational and financial implications of these changes
+from a transaction costs perspective. Two assets are involved in the evaluation of the MC as
+an efficient organizational form. First, the investments made at the farm. A farmer has to
+invest in (specific) assets regarding land (fertilizer), labor (effort) and capital (equipment) in
+order to increase the likelihood of a good harvest. Second, the processing of the harvest into
+final products at the downstream/processing stage of production may also require specific
+investments in bringing the produce to value.
+An agricultural or horticultural chain of production faces two hold-up problems. First, the
+perishability of the harvest puts the relatively small farmer in a weak bargaining position
+when a price has to be negotiated with the relatively large company processing the harvest.
+The fear of the farmer is that there will be hold-up in the negotiation process. Countervailing
+power is needed to eliminate this fear and is created by downstream/forward integration of
+many small private entrepreneurs into a MC. Each member of a MC owns and therefore
+decides upon assets at two stages of production. The farmer makes his own investment
+decisions and owns the resulting assets at his farm (the upstream stage). The ownership of
+the assets which are used to process the produce of farmers at the downstream stage is in
+the hands of all the members of the MC together. The hold-up problem faced by farmers
+has been the driving force behind the emergence of the MC as an organizational form in the
+past.
+Second, the outside financier of the enterprise processing the produce of the farmer
+fears hold-up when it does not have control over how the funds which are made available
+will be invested by the management of this enterprise. The corporation or investor-owned
+firm in which shareholders are the owner of the enterprise resolves this hold-up problem.
+The allocation of control over investment decisions to shareholders gives them confidence
+that their money will be spent well. We will refer to a corporation or an investor owned firm
+as a conventional firm (CF).
+The claim of this article is that a MC is not an efficient organizational form when final
+product markets demand differentiated products, requiring sizeable funds for specific
+investments at the processing/downstream stage of production. The reason is that farmers
+have to decide about investments at the upstream as well as the downstream stage of
+production when they are organized in a MC. They choose individually the farm investments
+and collectively the non-farm or MC investments. There is a tendency that the optimal
+investment decision with respect to bringing the produce to value at the downstream stage
+will not be chosen by a MC, because farmers take investment decisions in the MC which
+bring farm output and MC output jointly to maximum value. Control over assets is in a CF
+assigned to the party whose investment matters most to the value of the relationship in a
+situation with a high level of asset specificity, whereas it is not in a MC.
+
+3
+
+Section two reviews transaction costs economics with respect to organizational and
+financial governance and provides a definition of a CF and a MC which is compatible with
+this approach. Section three formulates the hypotheses of the paper. Section four concludes
+and indicates topics for future research.
+
+2
+
+Transaction costs economics
+
+Starting point of transaction costs economics is the observation that the complexity of
+the real world makes it too costly to describe all relevant contingencies regarding the
+exchange ex ante in a contract. Contracts are therefore necessarily incomplete. Williamson
+(1985) argues that this causes problems. It causes problems when the parties involved in the
+exchange make specific, irreversible (or sunk) investments, i.e. investments which have a
+significant higher value within the relationship than in alternative uses.2 This puts the investor
+in a weak bargaining position regarding the division of the ex post surplus, because the
+incompleteness of contracts prevents that all eventualities are covered ex ante. The investor
+anticipates that the other party may take advantage of the incompleteness, i.e. behave
+opportunistically by claiming a larger share of the ex post surplus than initially agreed upon,
+and decides not to invest in the highest surplus generating project. This is the (inefficient)
+hold-up problem (Klein, et al., 1978).
+A suitable choice of governance structure mitigates or even eliminates the hold-up
+problem. Governance structures are distinguished by the allocation of decision authority and
+the identity of the residual claimant. MCs and CFs are considered as two distinct
+governance structures. The prime distinguishing feature of a MC is the domination of control
+by the input suppliers, i.e. the farmers. They are both suppliers of raw materials and
+providers of capital of the MC. Outside shareholders are the residual claimants in a CF and
+usually do not supply inputs to the processor. MCs and CFs are expected to react
+differently to their environment due to the different assignment of control in unforeseen
+contingencies.
+Subsections 2.1 and 2.2 address how the various organizational and financial governance
+structures deal with the hold-up problem. The analysis is comparative in nature in the sense
+that relative differences between different organizational forms (or different financial
+instruments) are the focus of analysis. Hypotheses are formulated in terms of ‘discrete
+structural alternatives” (Williamson, 1991)3.
+
+2
+
+This article employs the asset specificity branch of transaction costs economics. There is substantial
+empirical support for this specification (Williamson, 1985). Barzel (1982) advocates a focus on
+measurement problems instead of asset specificity, which receives empirical support in Anderson and
+Schmittlein (1984). Empirical evidence has to tell whether an asset specificity specification or a
+measurement problems specification as exogenous variables is most suitable in explaining governance
+structure changes in agricultural and horticultural markets.
+3
+The curves of the different governance structures which will be depicted and are to be interpreted as a
+“reduced form” of an underlying model (Williamson, 1991). The reduced form is to be seen as a way to
+deal with the early stage of development of the theory of the firm (Holmström and Roberts, 1998). The
+incomplete contract literature (Grossman and Hart (1986) and Hart and Moore (1990)) provides a
+systematic treatment of the costs and benefits of different organizational governance structures, which
+is extended to different financial governance structures by Aghion and Bolton (1992). The starting point
+
+4
+
+2.1
+
+Organizational governance
+
+Transaction costs economics argues that ownership structure can be best understood
+in terms of the control rights that it confers. The main point of transaction costs economics is
+that ex post bargaining positions will depend on the organizational context, i.e. governance
+structure. Market governance is advocated when the degree of asset specificity is low,
+because it prevents the bureaucratic costs of exchange within a firm. However, exchange in
+markets becomes problematic when the level of asset specificity is increasing due to the
+increasing prominence of the hold-up problem. Vertical integration gains in attractiveness
+because it reduces ex post opportunistic behavior regarding the contract terms by one’s
+trading partner by the mechanism of selective intervention. Figure 1 summarizes these
+results. The level of asset specificity k is on the horizontal axis and the costs of organizational
+governance on the vertical axis. The costs of three governance structures as a function of the
+level of asset specificity are depicted. M(k) represents the costs of market governance, H(k)
+are the governance costs of a hierarchy (i.e. vertical integration or exchange within a firm)
+and X(k) represents the costs of some hybrid organization, like a franchise or a joint
+venture. Transaction costs economics poses that the (transaction) costs minimizing
+governance structure is chosen. The figure implies that for projects with low levels of asset
+specificity exchange via markets is predicted. A hybrid organization is chosen as the mode
+of exchange for intermediate levels of asset specificity. Finally, the governance structure
+hierarchy is predicted for high levels of asset specificity.
+Cost of organization form
+
+M(k)
+
+X(k)
+H(k)
+
+0
+
+k1
+
+k2
+
+Asset specificity k
+
+Figure 1: Organizational form and asset specificity (Williamson, 1991)
+of this literature is the assumption of opportunism. Institutional economics (Hodgson, 1998) focusses
+on the governance implications of the assumption of bounded rationality.
+
+5
+
+2.2
+
+Financial governance
+
+Williamson (1988) approaches the choice of financial instruments from the same
+perspective as the choice of organizational form. Debt and equity are besides financial
+instruments also governance instruments in transaction costs economics. Each financial
+instrument specifies certain control rights and how returns depend on outcomes. Debt is
+characterized by rigid contract rules, like interest payments at fixed intervals in time, liquidity
+tests, pay back requirement at the end of the term, and the creditor has claim priority in the
+contingency of bankruptcy. The rigidity of the rules governing debt means that they apply to
+all possible contingencies. The attractiveness of this rigidity is that only a few standard
+contract rules are considered, which implies that the start-up costs of the design of a debt
+contract are low. The disadvantage of having only a few simple rules is that they are often
+not well tailored to a particular unforeseen contingency. Their rigidity prevents that efficient
+adjustment can not always be made ex post, i.e. debt entails maldaptations to circumstances
+which are not envisioned in the design of the contract ex ante. This is especially problematic
+when the hold-up problem looms, i.e. a situation in which efficient investment entails a high
+level of asset specificity. The implication (of the inability of a few simple rules to respond to
+all possible contingencies efficiently) is that the costs of debt rises sharply when the level of
+asset specificity increases.
+Equity is a governance structure in which financiers are given rights of control. Outside
+equity assigns financiers the role of residual claimants in good as well as bad times, there is
+no pay back date and a board of directors with extensive power to control the management
+is appointed. The variety and flexibility of the control mechanisms available to the board
+(e.g. power to replace management, access to internal performance measures, authorize
+audits for special follow-up purposes, apprise important investment and operating proposals
+before they are implemented), allows it to adjust decisions more efficiently to a variety of
+circumstances than the rigid financial governance instrument debt. This board gives financiers
+confidence that their resources will be used in their interests and will therefore result in lower
+costs of capital than debt in situations with a high level of asset specificity. Equity is more
+complex than debt because a variety of control mechanisms has to be developed. The
+startup costs of equity are therefore higher than those of debt. The costs of debt as well as
+equity show a positive relationship with the level of asset specificity, but the costs of debt
+increase faster than the cost of equity, i.e. the attractiveness of outside equity increases
+compared to debt when the level of asset specificity increases. The rigid character of rules
+associated with debt is responsible for this feature.
+Only two financial instruments have been distinguished: debt and equity. There are
+also hybrid forms, which have characteristics of both debt and equity, e.g. warrants and
+convertible bonds. The costs of these intermediate financial governance structures are also a
+function of the degree of asset specificity (Williamson, 1988). Figure 2 summarizes the
+above graphically, where D(k) (Y(k), E(k)) is the costs of debt (hybrid finance, equity) as a
+function of the level of asset specificity. The prediction is that debt will be used for projects
+with a low level of asset specificity (k<k3), whereas equity will be used when the degree of
+asset specificity is high (k>k4). Hybrid financial governance structures, Williamson labels
+them dequity, are expected for intermediate levels of asset specificity (k3<k<k4).
+
+6
+
+Cost of financial
+governance
+structure
+
+D(k)
+
+Y(k)
+E(k)
+
+0
+
+k3
+
+k4
+
+Asset specificity k
+
+Figure 2: Financial governance structure and asset specificity
+
+3
+
+MC versus CF
+
+This section identifies the organizational and financial governance differences between
+a CF and a MC. The organizational governance differences regarding control and
+democratic decision making (3.1) and the financial governance differences (3.2) are related
+to the level of asset specificity of the investment at the processing stage of production. These
+subsections are put together (3.3) in order to state the main hypothesis in terms of the
+second hold-up problem. It will be argued that this hypothesis continues to hold when the
+first hold-up problem is also taken into account.
+
+3.1
+
+Organizational governance differences
+
+Internal as well as external control systems serve a role in disciplining decision making
+in an organization. A MC seems to be a governance structure which has a well functioning
+internal control system. First, input suppliers have a large personal financial stake in the
+downstream firm. This provides a credible signal that they will do their job of policing
+internal decision making well. Second, the lack of the market for corporate control enhances
+the incentives for members in a MC to generate a well functioning internal control system
+even further.4 Shares of a MC are not traded in the stock market. Members therefore face
+
+4
+
+However, these attractive features of a MC don’t imply that a MC necessarily functions better than a
+CF, because its shares are not traded in the stock market. A CF with a listing on the stock market has
+commited itself to report regularly and according to certain standards about its state of affairs. Another
+attractive feature of the publicly traded CF is that additional external funds can be obtained by issuing
+
+7
+
+difficulties in trading their financial stakes. Stockholders can easily get out of a CF by selling
+their stock in the market. Members of a MC can not and therefore pay more attention to the
+way the MC is being run. Finally, a similar incentive is provided by the lack of a market for
+inputs. The absence of a market for inputs eliminates for a MC the possibility of comparing
+its own performance with those of rivals. It becomes therefore more attractive to put forth
+effort in the internal control system in order to compensate for the absence of the yardstick
+of the market. The lack of the market for corporate control and the lack of a market for
+inputs provides incentives to participate in the internal control system.
+Democratic decision making in a MC encounters some difficulties. First, the process
+of opinion- and decisionmaking regarding important policy shifts is more time consuming
+than in other organizational forms. This reduces flexibility and creates inertia with respect to
+the reaction to changing market circumstances. This problem seems to be increasing when
+markets become more complex. 5 Second, an increase in the degree of asset specificity (k)
+exacerbates the disadvantages a MC has to face. Investments with a higher k entail less
+involvement of the members, because they lack the specific knowledge to form an opinion
+and give their fiat. Higher outlays are therefore required for a well functioning democratic
+process of decision making and the preservation of the “organized trust”. The process of
+decisionmaking will also take more time because the degree of complexity probably
+increases with a higher level of asset specificity, especially in a globalizing economy. Third, if
+k increases without a direct relation with the original activities of the MC (and thereby with
+the basic activities of the members), members seem to be less informed regarding the
+corresponding value and risks than shareholders of a CF. This causes reluctancy amongst
+members to accept that a large part of the surplus will be kept as retained earnings, unless
+an acceptable rate of profitability on other investments (including their own farm) will be
+realized. Fourth, returns during the membership period have to be at least as high as returns
+elsewhere. This limited appropriability problem requires that the internal rate of return on the
+assets of MCs must be higher than that of CFs if internally financed investment is to be
+chosen when the median membership duration is shorter than the project’s recoupment
+period (Bonin, e.a. 1993). MCs using mainly internal funds to finance capital will therefore
+underinvest relative to comparable CFs when a member’s individual claim to the returns is
+non-transferable. The problem is getting worse due to adverse changes in the demographic
+composition of the member population, which will be reflected in the outcome of the
+democratic decision making process (Hart and Moore, 1994). The average age of the
+members is increasing due to declining entry of new, young members.
+However, there are at least five forces pointing in another direction. First, democrating
+decision making is likely to generate a merging of opinions along the lines of the Blackwell
+and Dubins’ (1962) result. Second, democratic decision making is less vulnerable to
+successful politicking because bad proposals are winnowed out (Tullock, 1992). Third,
+democratic decision making may be second-best when the preferences of the pivotal voter
+are close to those of the average voter (Hart and Moore, 1994). Fourth, the costs of the
+more cumbersome decision making process in a MC may be compensated for by improved
+decision making (Hendrikse, 1998). Finally, the huge financial involvement of the financiers
+new shares, whereas a MC often has to go thru cumbersome negotiations with the providers of external
+funds.
+5
+An advantage of a slow, democratic process with conservative voters may be that the approval of a
+policy decision will be carried out fast and with a lot of support.
+
+8
+
+in the success of the cooperative is in general a strong commitment to acquire substantial
+information in order to evaluate policy decisions.
+A MC and a CF are two different governance structures. They are both an example
+of hierarchial governance in terms of figure 1, because there is one party having the residual
+control rights in all possible unforeseen circumstances.6 Figure 2 summarizes the above
+account of the differences between MCs and CFs with the level of asset specificity at the
+processing stage of production on the horizontal axis.. A hierarchy is a cost minimizing
+governance structure in figure 1 when the degree of asset specificity of investments is higher
+than k2. MCs and CFs are examples of hierarchies and have therefore to be analysed in this
+domain. The H(k)-curve of a MC is below (above) the H(k)-curve of a CF when the
+advantages of a MC outweigh (are smaller than) the disadvantages. The observations in this
+section imply that the H(k)-curve of a MC is steeper than an H(k)-curve of a CF, i.e. the
+intense monitoring by the farmers of investment decisions is an attractive feature of a MC,
+but it decreases in effectiveness when the specificity of investments is increasing.
+Cost of organizational
+governance
+structure
+
+MC
+
+H (k)
+CF
+
+H (k)
+
+0
+
+k2
+
+k5
+
+Asset specificity k
+
+Figure 3: Marketing cooperatives versus conventional firms
+
+Figure 3 reflects a situation in which a MC may be an efficient governance structure.
+The conclusion is that MCs may be a viable organizational form for intermediate levels of
+asset specificity, i.e. k2 < k < k5. (A MC will not emerge or disappear when the costs of its
+governance structure are higher than those of a CF for every value of k higher than k2, i.e. k2
+> k5.). Figure 3 also indicates that the members of MC have some leeway to advance their
+interests as input suppliers when k2 < k5. The superior functioning internal control system of
+the MC allows either the input suppliers to advance an input price which is above the market
+price, or not to provide the efficient level of attention in the internal control system, or slack,
+or increase the financial reserves of the MC. However, the extent to which these activities
+are allowed by the market depends on the level of asset specificity.
+
+6
+
+Two other examples of hierarchial governance are a purchasing cooperative and a labor managed firm.
+A purchasing cooperative is a governance structure where a specific group of customers is the residual
+claimant. Employees have decision authority in unforeseen contingencies in a labor managed firm.
+
+9
+
+3.2
+
+Financial governance differences
+
+The composition of the financial structure is influenced in two ways by the choice of
+governance. First, a MC receives better terms on debt than a CF. There are several reasons
+why k3 in figure 2 of a MC will be higher than the k3 of a CF. First, each farmer will have a
+sizeable share of his crop processed by a particular MC. They have therefore a large
+financial stake in the MC. Second, financial funds are generated internally in a MC by
+retained earnings. Farmers decide about the input price the cooperative is paying. They may
+decide that this price is lower than the market price in order to add the difference to the
+retained earnings. This gives providers of debt the confidence that the terms of the contract
+will be met. It turns out that they provide debt without any liability of the farmers when they
+have generated a high level of inside equity. Third, equity shares of a CF can at every instant
+of time be traded in the stock market, i.e. they are transferable. Members of a MC often do
+not have individual and transferable ownership rights in the assets of the MC. This “money in
+the dead hand” provides a commitment that the debt contract will be honored. Fourth, the
+previous section has formulated various reasons why a MC may have a superior internal
+control system. These features of a MC imply that the D(k)-curve of a MC will be below
+the D(k)-curve of a CF.
+Second, outside equity is more expensive for a MC than a CF, because the feature
+that farmers are by definition the residual claimants in a MC prevents that the providers of
+these funds have much to say about how their money is spent. Member control implies that
+farmers choose the investments of a MC. This is problematic regarding the terms at which
+outside equity is made available for specific (downstream) investments, because members
+select investment projects which bring farm output and MC output jointly to maximum value.
+Outside providers of equity have to fear that their funds in a MC are not put to optimal use
+in terms of return on investment. They will reflect this in asking a premium for relinquishing
+control. A CF does not face this problem because providers of equity decide themselves
+how their money will be spend in order to add value to the harvest. One of the stylized facts
+of a MC is that a significant amount of inside equity is provided by keeping a considerable
+share of the profits as retained earnings each year. This is often seen as a major advantage
+of the MC, because it provides an inexpensive source of funds. However, it also has a
+disadvantage in the sense that it is a governance structure which is more “forgiving” than
+debt (Williamson, 1988). Inside equity provides weaker incentives than debt to perform
+well. These observations imply that the E(k)-curve of a MC will be above the E(k)-curve of
+a CF. The value of k4 in figure 2 will therefore be higher for a MC than for a CF. This
+implies that there are values of k for which a CF will use outside equity, whereas it is
+efficient for a MC to use other financial instruments. The nature of these other financial
+instruments depends on the value of k compared to k3. Debt will be used when k ≤ k3,
+whereas a hybrid form of finance will be used when k > k3.
+Figure 4 summarizes the above observations by extending figure 2. The cost
+minimizing financial governance structure is drawn for a MC as well as a CF as a function of
+the level of asset specificity at the processing stage of production.7
+
+7
+
+It is assumed that the Y(k)-curve is the same for both governance structures. This is done in order to
+prevent that the analysis becomes unnecessarily complex. We are only claiming that there are hybrid
+forms of finance. This is not enough in order to formulate a statement about a difference between an
+
+10
+
+Cost of financial
+governance
+structure
+
+E
+E
+
+MC
+
+(k)
+
+CF
+
+(k)
+
+Y(k)
+D
+
+D
+
+CF
+
+(k)
+
+MC
+
+(k)
+
+0
+
+CF
+
+k3
+
+MC
+
+k3
+
+CF
+
+k4
+
+MC
+
+k4
+
+Asset specificity k
+
+Figure 4: Financial instruments as a function of governance structure
+
+Our conclusion regarding the financial structure of Mcs and Cfs are summarized by
+k < k cf3
+k ∈ [ k cf3 , k mc
+3 ]
+
+mc
+k ∈ [ k mc
+3 , k4 ]
+k ∈ [k cf4 , k 4mc ]
+
+k > k 4mc
+
+: MCs and CFs use debt
+: MCs use debt
+CFs use hybrid form of finance when k < k cf4
+equity when k > k cf4
+: MCs and CFs use hybrid form of finance
+: MCs use hybrid form of finance when k > k mc
+3
+debt when k < k mc
+3
+CFs uses equity
+: MCs and CFs use equity
+
+A testable hypothesis which follows immediately from these results is that the leverage of a
+MC is at least as high as the leverage of a CF, given the level of k.
+
+3.3
+
+Hypotheses
+
+Ymc (k)-curve and an Ycf (k)-curve. However, our main claim holds regardless the formulation of such a
+statement because the intercept and slope of a hybrid form of finance is in between the debt and equity
+curve. It is therefore assumed for convenience that Ymc (k) = Ycf (k). Our main claim will hold even when
+hybrid forms of finance are left out of the analysis completely. Hybrid forms are nonetheless included in
+order to stay in line with Williamson (1988).
+
+11
+
+The relationship between the choice of an efficient governance structure,
+organizational as well as financial, and the level of asset specificity of a MC as well as a CF
+has been established. Enterprises have to be evaluated on all dimensions jointly in order to
+formulate hypotheses about their performance. This may give rise to many different
+aggregation issues. However, this problem is circumvented here because the organizational
+and financial choice of governance point in the same direction when the level of asset
+specificity increases. If the level of asset specificity increases, then the CF does not lose in
+attractiveness. Figure 3 illustrates this regarding organizational governance and figure 4
+shows this with respect to financial governance. The main hypothesis which is implied by
+these observations is that an enterprise will not switch from a MC to a CF when the level of
+asset specificity is increasing, i.e. a MC diminishes in attractiveness compared to a CF when
+the efficient level of asset specificity (of investments at the processing stage of production) is
+increasing.
+The above has also implications for the viability of the MC in different countries.
+Important financial governance differences regarding equity between the USA and the
+Netherlands are the limited rights of shareholders and the virtual non-existence of the market
+for corporate control (due to the extensive use of anti-takeover measures) in the Dutch
+setting (Boot, 1994). The providers of equity are the owners of the CF in the USA, whereas
+all kinds of restrictions are imposed by the Dutch law on the rights of outside financiers.
+Outside equity holders in the Netherlands receive a standard dividend, whereas the
+remaining part of profits may go to employees and slack. Equity does hardly carry any
+control rights for the shareholders and therefore doesn’t differ much from debt. This implies
+that the value of k4 is larger in the Netherlands than in the USA, because the E(k)-curve is
+almost the same as the D(k)-curve in the former country.8
+There are three important organizational governance differences between CFs and
+MCs regarding the Board of Directors in the Netherlands. MCs don’t transfer the ultimate
+approval of the annual account to the Board of Directors. Secondly, they also don’t leave
+the right of appointing members of the Board of Directors to the Board of Directors itself.9
+The General Assembly takes care of these tasks. Finally, the Dutch law on cooperatives
+secures member control because it allows that up to two thirds of the members of the Board
+of Directors are appointed by the General Assembly of a MC.10 (The workers council has
+veto power regarding the composition of the final third.) These institutional differences make
+8
+
+This is relected in the empirical evidence. Stock price/earnings ratios in Amsterdam are by far the
+lowest in Europe (Bennis and Van Leeuwen, 1992). New stock is issued at 24 times the annual profits in
+the United States of America, whereas it is only 12 times the annual profits in the Netherlands. These
+institutional features suggest that Dutch firms have on average a higher debt/equity ratio than
+American firms, which is supported by Remonola (1990).
+9
+A board of directors in large CF in the Dutch setting is an in-group which selects its own successors
+(principle of cooptation). Shareholders can only by majority vote not accept a candidate. They have no
+active rights to appoint one or, in many cases, even to propose one.
+10
+There are also differences between Anglo-Saxon (e.g. American) and Germanic (e.g. Dutch) board of
+directors (Moerland, 1995). Anglo-Saxon Boards of Directors have a one-tier system, in which executive
+managers and outside experts are represented. Boards of Directors in Germanic countries have a two-tier
+board system, consisting of an executive board and a supervisory board. (The law specifies certain
+requirements regarding employee representatives in the supervisory board). Insiders and outsiders have
+been separated in a two-tier system. However, the principle of cooptation in the executive board in The
+Netherlands seems to offset the advantages of the two-tier system regarding the effectiveness of the
+executive board (Boot, 1994).
+
+12
+
+it more likely that k5 is larger in the Netherlands than in the USA. The virtual absence of the
+market for corporate control is worse for CFs than MCs in the Netherlands, because the
+member control feature of MCs doesn’t allow much influence of this disciplinary mechanism
+anyway. This reinforces the hypothesis that value of k5 will be higher in the Netherlands.
+The hypothesis which follows from these comparative statics observations is that MCs
+are predicted to be viable for a larger range of the level of asset specificity in the
+Netherlands than in the USA. The financial governance difference, i.e. a higher value of k4 in
+the Netherlands than in the USA, implies that the disadvantages of outside equity finance of
+a MC compared to a CF emerge at a higher level of asset specificity in the Netherlands than
+in the USA. The organizational governance difference, i.e. a higher level of k5 in the
+Netherlands than in the USA, implies that it is more likely that there is a range of levels of
+asset specificity higher than k2 in which a MC is more efficient than a CF, i.e. the attractive
+organizational governance of a MC more than offsets the financial governance
+disadvantages.
+This section has focussed on the investment problems regarding the processor. There
+is also the hold-up problem regarding the farm investments. However, the results of our
+analysis do not change when this hold-up problem is included in the analysis. Our claims
+regarding the level of asset specificity of the investments at the processor are formulated
+relative to the hold-up problem regarding farm investments. So, a statement in this
+subsection like the efficient level of asset specificity has increased can be interpreted as the
+efficient level of asset specificity of the investments at the processor has increased relative to
+the efficient level of asset specificity of the farm. Grossman and Hart (1986) have analysed a
+situation with two hold-up problems. Figure 5 presents the equilibrium investment levels for
+different governance structures. Point MC reflects the investment levels when a MC is
+chosen. The level of asset specificity of farm investments is high, but the level of asset
+specificity of investments at the processor is low. The reverse holds in point CF where a CF
+is chosen. The main result of the Grossman and Hart analysis (1986, p. 708) is that “Firm 1
+control will be desirable when firm 1’s ex ante investment is much more important than firm
+2’s (so that firm 2’s underinvestment under firm 1 control is relatively unimportant) and when
+overinvestment by firm 1 under firm 1 control is a less severe problem than underinvestment
+by firm 1’ and ′nonintegration is desirable if the two investments are both important in some
+sense, so that it is preferable to have both of them at a medium level than to have one very
+high and the other very low as under integration’. The claim of this article is that
+circumstances have changed such that the efficient level of asset specificity of investments at
+the processor has increased relative to the efficient level of asset specificity of investments at
+the farm.11 12 This implies that efficiency of governance structure choice requires a change
+from a MC to CF.
+
+11
+
+American Crystal Sugar seems to be an example of where a CF was converted to a MC. Red River
+Valley Sugar Beet Growers Association acquired the CF American Crystal Sugar in 1973. Volkin and
+Bradford (1975) write that ′What grower association leaders really feared was the possibility that
+American Crystal would close one or more of its four plants in Minnesota and North Dakota. This
+concern was supported by observations that ′factory upkeep was not being maintained for most
+efficient operations’ and ′Steps had to be taken to protect growers’ long-term sugar beet production
+patterns, which had meant so much to their livelihood’. The change at American Crystal Sugar does not
+undermine our theory because it provides an example of increasing importance of the first hold-up
+problem, without making any references to the final product market. If the first hold-up problem becomes
+
+13
+
+Asset specificity
+level
+processor
+•
+CF
+
+•
+MC
+
+Asset specificity level farmer
+
+Figure 5: Investment levels and governance structures
+
+4
+
+Conclusion and further research
+
+This article has investigated some aspects of the MC from a transaction costs
+economics perspective. A MC and a CF are both considered as a hierarchial governance
+structure. The main difference between these governance structures is that the input suppliers
+have the formal authority regarding investment decisions in a MC, whereas outside equity
+holders have this right in a CF.
+A governance structure has to address two hold-up problems in an agricultural or
+horticultural chain of production. First, it has to prevent post-harvest hold-ups of perishable
+farm products. Second, it has to get attractive terms on outside funds for its investments.
+The countervailing power feature of a MC resolves the first problem. The second problem is
+not material when the investments of a MC are not specific, which is the case in markets
+characterized by homogeneous products. However, a MC is not able to resolve both
+problems in differentiated product markets, which require investments with a high level of
+asset specificity at the processing stage of production, e.g. brand names. The attractiveness
+of a MC decreases with respect to choosing efficient investment levels because democratic
+decision making becomes more problematic and members will also take considerations
+regarding return on farm investments into account when this decision is made. This is also
+problematic from a financial governance perspective, because the terms at which financial
+funds are made available by outsiders are worse than those faced by a CF when the level of
+asset specificity is high. The requirement of domination of control by the member of a MC is
+responsible for this disadvantage. It reinforces the claim about the viability of the MC as a
+more important and the second does not, then our theory predicts that switches from a CF to an MC are
+to be expected.
+12
+A referee indicated that the perishability of crops is nowadays not as much a problem anymore due to
+technological developments. This observation strengthens our claim, because it suggests that the first
+hold-up problem has diminished in importance compared to the second hold-up.
+
+14
+
+function of the level of asset specificity. The resolution of the second problem requires a
+switch from a MC to a CF. These arguments result in the main hypothesis of the paper that
+an increase in the extent of asset specificity will never be accompanied by a switch from a
+CF to a MC.
+An important topic for future research is to investigate the possibilities regarding the
+design of an organizational structure and financial instruments which on the one hand
+maintain the special MC character and on the other hand eliminate the inefficiencies
+associated with this organizational form. Most solutions which are nowadays considered
+within the MC structure consist of some differentiation in the financial terms being offered to
+members. Examples are preference shares and quantum discounts. They take account of the
+variety between the members. However, this does not solve the second hold-up problem.
+A MC has to solve two hold-up problems, which is asking too much. An additional degree
+of freedom has to be created. The introduction of other organizational arrangements
+(association, participation company) may resolve the lack of countervailing power when the
+MC is abandoned.
+
+Literature
+Aghion, P. and P. Bolton, An Incomplete Contracts Approach to Financial Contracting,
+Review of Economic Studies, 1992, 59, 473-494.
+Anderson, E. and D.C. Schmittlein, Integration of the Sales Force: an Empirical
+Investigation, Rand Journal of Economics, 1984, 15(3), 385-395.
+Barzel, Y., Measurement Cost and the Organization of Markets, Journal of Law and
+Economics, 1982, 25, 27-48.
+Bennis, M.J. and M.J. van Leeuwen, Price/earnings-ratios; an International Survey at
+Company Level, SEO Research, Amsterdam, 1992.
+Blackwell, D. and L. Dubins, Merging of Opinions with Increasing Information, Annals of
+Mathematical Statistics, 1962, 38, 882-886.
+Bonin, J.P., D.C. Jones and L. Putterman, Theoretical and Empirical Studies of Producer
+Cooperatives, Journal of Econnomic Literature, 1993, 31, 1290-1320.
+Boot, A.W.A., De Financiering van het Bedrijfsleven: Tussen Structuurregime en Financiële
+Sector, Amsterdam University Press, 1994.
+Campina Melkunie, Annual Report, Zaltbommel, 1991.
+Cook, M.L., The Future of US Agricultural Cooperatives: A Neo-Institutional Approach,
+American Journal of Agricultural Economics, 1995, 77(5), 1153-1159.
+Folmer, C., M.A. Keyser, M.D. Merbis, H.J.J. Stolwijk and P.J.J. Veenendaal, The
+Common Agricultural Policy beyond the MacSharry Reform, North Holland, 1995.
+Grossman, S.J. and O.D. Hart, The Costs and Benefits of Ownership: a Theory of Vertical
+and Lateral
+Integration, Journal of Political Economy, 1986, 94(4), 691-719.
+Hart, O.D. and J. Moore, Property Rights and the Nature of the Firm, Journal of Political
+Economy,
+1990, 98, 1119-1158.
+Hart, O.D. and J. Moore, The Governance of Exchanges: Members’ Cooperatives versus
+Outside Ownership, Harvard University, 1994.
+Hendrikse, G.W.J., Screening, Competition and the Choice of the Cooperative as an
+Organisational Form, Journal of Agricultural Economics, 1998, 49(2), 202-217.
+
+15
+
+Hodgson, G.M., The Approach of Institutional Economics, Journal of Economic Literature,
+1998, 36(1), 166-192.
+Holmström, B. and J. Roberts, The Boundaries of the Firm Revisited, Journal of Economic
+Perspectives, 1998, 12(4), 73-94.
+Klein, B., R.G. Crawford and A. Alchian, Vertical Integration, Appropriable Rents and the
+Competitive Contracting Process, Journal of Law and Economics, 1978, 21, 297-326.
+Moerland, P., Alternative Disciplinary Mechanisms in Different Corporate Systems, Journal
+of Economic Behavior and Organization, 1995, 26, 17-34.
+NRC Handelsblad, Frico Domo: Omzetting tot Vennootschap, 1994, september 13, 16.
+Remolona, E.M. Understanding International Differences in Leverage Trends, Federal
+Reserve Bank of New York Quarterly Review, 1990, 31-42.
+Tullock, G., Economic Hierarchies, Organization and the Structure of Production, Kluwer,
+1992.
+Van Dijk, G. and K.J. Poppe, Participatie in Cooperatie, Landbouw-Economisch Instituut,
+Report 405, 1992.
+Volkin, D. and H. Bradford, American Crystal Sugar: Its Rebirth as a Cooperative, Farmer
+Cooperative Service/U.S. Department of Agriculture, 1975.
+Williamson, O.E., The Economic Institutions of Capitalism, Free Press, 1985.
+Williamson, O.E., Corporate Finance and Corporate Governance, Journal of Finance,
+1988, 43(3), 567-591.
+Williamson, O.E. Comparative Economic Organization: The Analysis of Discrete Structural
+Alternatives, Administrative Science Quarterly, 1991, 36, 269-296.
+Zwanenberg, A.C.M., Apothekerscoöperatie OPG naar de Beurs, Coöperatie Magazine,
+1992, 54(553), 12-14.
+Zwanenberg, A.C.M., J. Dijsselbloem, J. Peerbooms, and G. de Jong, Financing Methods
+in Irish Dairy Cooperatives from a dutch Point of View, NCR&FNZ, 1992.
+
+ERASMUS RESEARCH INSTITUTE OF MANAGEMENT
+REPORT SERIES
+RESEARCH IN MANAGEMENT
+
+Publications in the Report Series Research∗ in Management
+Impact of the Employee Communication and Perceived External Prestige on Organizational Identification
+Ale Smidts, Cees B.M. van Riel & Ad Th.H. Pruyn
+ERS-2000-01-MKT
+Critical Complexities, from marginal paradigms to learning networks
+Slawomir Magala
+ERS-2000-02-ORG
+Forecasting Market Shares from Models for Sales
+Dennis Fok & Philip Hans Franses
+ERS-2000-03-MKT
+A Greedy Heuristic for a Three-Level Multi-Period Single-Sourcing Problem
+H. Edwin Romeijn & Dolores Romero Morales
+ERS-2000-04-LIS
+Integer Constraints for Train Series Connections
+Rob A. Zuidwijk & Leo G. Kroon
+ERS-2000-05-LIS
+Competitive Exception Learning Using Fuzzy Frequency Distribution
+W-M. van den Bergh & J. van den Berg
+ERS-2000-06-LIS
+Start-Up Capital: Differences Between Male and Female Entrepreneurs, ‘Does Gender Matter?’
+Ingrid Verheul & Roy Thurik
+ERS-2000-07-STR
+The Effect of Relational Constructs on Relationship Performance: Does Duration Matter?
+Peter C. Verhoef, Philip Hans Franses & Janny C. Hoekstra
+ERS-2000-08-MKT
+
+∗
+
+ERIM Research Programs:
+LIS Business Processes, Logistics and Information Systems
+ORG Managing Relationships for Performance
+MKT Decision Making in Marketing Management
+F&A Financial Decision Making and Accounting
+STR Strategic Renewal and the Dynamics of Firms, Networks and Industries
+
+

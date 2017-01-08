@@ -1,0 +1,2129 @@
+WP 2003-20
+June 2003
+
+Working Paper
+Department of Applied Economics and Management
+Cornell University, Ithaca, New York 14853-7801 USA
+
+The Complex Dynamics of Smallholder
+Technology Adoption:
+The Case of SRI in Madagascar
+Christine M. Moser and
+Christopher B. Barrett
+
+It is the Policy of Cornell University actively to support equality of educational
+and employment opportunity. No person shall be denied admission to any
+educational program or activity or be denied employment on the basis of any
+legally prohibited discrimination involving, but not limited to, such factors as
+race, color, creed, religion, national or ethnic origin, sex, age or handicap.
+The University is committed to the maintenance of affirmative action
+programs which will assure the continuation of such equality of opportunity.
+
+The Complex Dynamics of Smallholder Technology Adoption:
+The Case of SRI in Madagascar†
+
+Christine M. Moser1
+and
+Christopher B. Barrett
+
+June 2003
+Abstract
+This paper explores the dynamics of smallholder technology adoption, with particular
+reference to a high-yielding, low-external input rice production method in Madagascar. We present a
+simple model of technology adoption by farm households in an environment of incomplete financial
+and land markets. We then use a probit model and a symmetrically trimmed least squares estimation
+of a dynamic Tobit model to analyze the decisions to adopt, expand and disadopt the method. We
+find that seasonal liquidity constraints discourage adoption by poorer farmers. Learning effects –
+both from extension agents and from other farmers– exert significant influence over adoption
+decisions.
+JEL codes: O0 , Q0
+Keywords: Technology adoption, learning, the System of Rice Intensification, conformity effects
+† We thank the Association Tefy Saina, the Cornell Institute for International Food and Agricultural Development (CIIFAD), Landscape
+Development Interventions in Madagascar, Laetitia Razafimamonjy, Manampy Rakotoarisoa, Elisoa Razafitiana, Samy Randrianarisoa, Bart
+Minten, J.S. Butler, David Lee, Norman Uphoff, Mattia Romani, Alex Winter-Nelson and Doug Brown for their help and input. Write up
+of this work was partly supported by the United States Agency for International Development (USAID) under grant number LAG-A-0096-90016-00 through the BASIS CRSP. Any remaining errors are solely our responsibility.
+1
+Corresponding author, Dept. of Applied Economics and Management
+115 Warren Hall
+Cornell University
+Ithaca, NY 14853-7801 USA
+Campus phone: (607) 255-4489
+Fax: (607) 255-9984
+Email: cmm42@cornell.edu
+
+1
+
+1. Introduction
+Questions of technology adoption lie at the heart of economists’ longstanding concerns over
+economic growth and poverty reduction because advances in human welfare depend on increasing
+the productivity of existing stocks of land, labor and capital. Yet although significant innovations
+occur routinely, new technologies diffuse only gradually and incompletely. The dynamics of
+technology diffusion confound most cross-sectional analyses of adoption patterns, at a minimum
+rendering coefficient estimates difficult to interpret and usually causing them to be biased and
+inconsistent (Besley and Case 1993). With the emergence of panel data sets in many countries, there
+has been a resurgence of empirical work on technology adoption, with a particular focus on the
+means by which agents learn about new technologies (Besley and Case 1993, Foster and Rosenzweig
+1995, Cameron 1999, Conley and Udry 2000).
+This paper builds on that literature by studying the adoption of a high yielding, low external
+input technology, called the System of Rice Intensification (SRI), that has received considerable
+attention both within and outside of Madagascar, where the method originated (Madeley 2001).
+Merely by changing a few interrelated agronomic practices – no new seeds or chemical or mechanical
+inputs are needed – SRI has repeatedly generated stunning increases in crop yields in farmers’ fields
+(Stoop, Uphoff and Kassam 2002). SRI therefore seems ideally suited to the needs of small farmers
+in a country where rice productivity is extremely low and most farmers are unable to grow enough
+rice to feed their families (Barrett and Dorosh 1996).
+But like many promising agricultural technologies in the developing world, SRI adoption has
+been disappointing in Madagascar. Adoption rates have been low, disadoption rates among adopters
+have been high, and the method has largely failed to spread spontaneously beyond the communities
+into which it has been introduced by outside extension agents. This paper explores the roles of
+seasonal liquidity and family labor constraints and learning in explaining the puzzle of poor uptake of
+such a promising new technology.
+
+2
+Recent models of technology adoption provide a useful starting point for making sense of
+the SRI experience, but fail to capture all of the relevant factors in the case of SRI. Both Besley and
+Case (1993) and Cameron (1999) focused on farmers’ learning by doing, but do not allow for
+learning from others or for short-run losses incurred while farmers experiment. Yet in conversation,
+Malagasy SRI farmers repeatedly emphasize the importance of instruction in or observation of the
+new method as practiced by others and their view of initial SRI trials as a potentially costly
+experiment. Foster and Rosenzweig (1995) allow for both learning by doing and learning from
+others and for costly experimentation. But the target input model approach they follow implicitly
+assumes that adoption is inevitable and optimal and therefore that disadoption will never occur after
+the new, intrinsically superior technology has been adopted. Yet, as we document below,
+disadoption of SRI has been widespread. Conley and Udry (2000) focus on the social context of
+learning and emphasize the extreme imprecision of farmers’ knowledge of the operational details of
+others’ experience with a new technology. They do not allow for learning by doing, however, which
+is clearly relevant for the case of SRI as Malagasy farmers frequently mention the importance of time
+and experience in learning the method. Furthermore, none of the aforementioned studies allow for
+family labor or seasonal liquidity constraints that can be crucial, not only to Malagasy farmers, but to
+many farmers throughout the developing world.2 Nor do previous studies allow for the possibility of
+nonmaterial preferences, such as those related to the prestige or stigma associated with particular
+practices irrespective of their pecuniary returns. We introduce an approach to analyzing and
+estimating such effects.
+A major obstacle to a better understanding of the dynamics of technological change in
+developing country agriculture has been the lack of household-level longitudinal data. In the absence
+of such panel data, Besley and Case (1993) propose using recall data to create a quasi-panel. This is
+the approach used here. By carefully constructing a quasi-panel data set using recall data, we are able
+2 An earlier literature on smallholder technology adoption placed considerable emphasis on labor and liquidity
+constraints and risk aversion. Feder et al. (1985) offer a good survey of the literature to that point in time.
+
+3
+to explore the adoption dynamics of SRI in Madagascar and demonstrate the effectiveness of a
+relatively simple, cost-effective method of data collection. Furthermore, by using the Tobit-type
+model developed by Powell (1986), we can both control for household fixed effects and allow for
+heteroskedasticity, two concerns difficult to control for in traditional Tobit models.
+The rest of the paper is organized as follows: First we describe the relevant features of SRI
+and rural Madagascar and provide a brief description of the data. Next we present a simple, multiperiod model of farmer decision-making that allows for binding seasonal liquidity and labor
+constraints, learning, and social conformity effects. We then discuss the estimation strategy, test the
+model econometrically and present our estimation results. A brief concluding section draws out
+implications for technology promotion in environments such as rural Madagascar.
+
+2. Rural Madagascar and the System of Rice Intensification
+Madagascar is a smallholder rice economy par excellence. Rice accounts for a majority of the
+nation’s cultivated area and of per capita calorie consumption, yet most Malagasy rice farmers do not
+produce enough rice to feed their families (Barrett and Dorosh 1996, Minten and Zeller 2000).
+Forced to sell some rice for cash at harvest time, the poorer farmers struggle to find the means to
+buy rice at higher prices in the months leading up to the harvest, after their rice stocks run out.
+Seasonal credit is largely unavailable (Zeller 1994), so casual labor for day wages in the rice fields of
+other farmers is an important coping strategy during the hungry period that corresponds to the main
+rice growing season (Minten and Zeller 2000). This implies that households facing seasonal liquidity
+constraints also likely face a shortage of family labor because members must work off-farm to earn
+the wages necessary to meet immediate subsistence requirements.
+Land holdings and income are closely and monotonically related in Madagascar beyond the
+smallest farm sizes, which are typically home plots cultivated by salaried professional workers (Barrett
+and Dorosh 1996). Malagasy smallholders cultivate rice on valley bottoms and terraced hillsides as
+
+4
+well as in freshly cleared uplands using methods and seed varieties that have remained largely
+unchanged for generations. Because of the importance of rice to rural incomes and employment and
+to national food security, and because of the significant role upland rice cultivation plays in
+deforestation in Madagascar, intensification of lowland rice production has been a major focus of
+development interventions in Madagascar for many years.
+The System of Rice Intensification (SRI), first synthesized by a French missionary priest to
+Madagascar, Fr. Henri de Laulanie, during the mid-1980s drought, seems almost miraculous and
+ideally suited to poor smallholder rice farmers. An indigenous nongovernmental organization
+(NGO), Association Tefy Saina (ATS), emerged in the early 1990s to promote SRI in rural Madagascar.
+Through a combination of practices – chiefly early transplanting and wide spacing of single seedlings,
+early and regular weeding, and careful water management to dry fields periodically so as to aerate
+roots during the plants’ growth phase – SRI commonly doubles or triples rice yields. Individual
+farmer SRI yields of over ten tons/hectare have regularly (and credibly) been reported. In addition,
+SRI requires no chemical fertilizers, pesticides, or new seed varieties, and the high yields seem to be
+sustainable thus far and have been replicated since 2000 on test plots and in farmers’ fields in
+Bangladesh, Cambodia, China, Indonesia, the Philippines, Sierra Leone and Sri Lanka (Stoop et al.
+2002, Uphoff 2000a, Uphoff 2000b, Rakotomalala 1997, Association Tefy Saina 1995).
+The agronomic practices that comprise SRI are both nontraditional and relatively labor
+intensive.3 SRI requires an estimated 19 to 54 percent more labor than traditional methods, and
+hired workers need to be trained and supervised (and sometimes paid more) to follow these new
+methods correctly (Barrett and Moser 2003, Joelibarison 2001, Assoiciation Tefy Saina 1995;
+Rakotomalala 1997). According to Rakotomalala, 62 percent of the extra labor needed for SRI is for
+weeding and 17 percent for transplanting. Field preparation, especially leveling to facilitate proper
+water drainage, also takes time, and fields need to be visited daily to check the water level.
+3 SRI is nontraditional both in the sense of breaking from customary practice in Malagasy rice systems – an
+issue we confront in this paper – and in the sense of challenging conventional wisdom within the world’s rice
+production scientific community. Stoop et al. (2002) address this latter issue in detail.
+
+5
+Even with the additional labor costs, on the surface, the returns to labor still seem to far
+outweigh those of traditional methods. Joelibarison (2001) estimated a 113 percent increase in net
+revenue with SRI over traditional methods.4 Several studies have simultaneously recorded yields for
+both SRI and non-SRI fields. Three different studies (two of them on-farm) in different regions of
+Madagascar found average SRI yields between 6.19 and 6.83 tons/hectare while average yields for
+traditional methods were between 1.95 and 3.37 (Joelibarison 2001, Rajaonarison 1999,
+Rakotomalala 1997). In a study of 111 SRI farmers, Barrett and Moser (2003) show that labor
+productivity increased 52% for the median SRI farmer.
+Despite SRI’s obvious, considerable benefits and intensive ATS extension efforts in certain
+areas, the casual perception of many observers in the late 1990s was that SRI adoption rates were
+generally low, that some Malagasy farmers who tried SRI had subsequently disadopted (i.e., stopped
+using the new technique), and that those who successfully adopted and stayed with the method rarely
+put more than half of their rice land in SRI. We therefore set out to document and explain SRI
+adoption patterns among Malagasy rice farmers.
+
+3. The Data
+While the role of learning and the dynamic nature of technology adoption have been long
+recognized, only recently have panel studies begun to shed light on these issues. However, the time
+and cost involved in collecting panel data sets that follow farmers before and after adoption are
+prohibitively high. Thus existing relevant panel data sets are either old, have few observations or
+both. However, traditional cross-sectional studies fail to provide insights into how farmers learn and
+how technologies spread over time; they may even yield biased estimates of adoption behaviors
+
+4 This study compared the labor usage and yields for SRI and traditional methods among farmers practicing
+both methods simultaneously. The net revenue estimate only includes labor costs, but due to the cost and
+availability of fertilizers and pesticides, these inputs are rarely used and seed is the only other major cost. The
+difference in net revenue may actually be underestimated because SRI requires only about 1/5 of the seed used
+in traditional methods (Joelibarision 2001, Rakotomalala 1997)
+
+6
+(Lindner 1987, Besley and Case 1993, Cameron 1999). We used farmer recall data and extension
+records to reconstruct a retrospective panel data set, an approach first suggested by Besley and Case
+(1993) as a feasible and lower-cost method to glean information on the dynamics of adoption not
+obtainable from traditional cross-sectional studies.
+While the data collected for this survey were collected in a single visit to each respondent
+household, the farmers were asked to recall total land area, area in SRI and area in off-season crops
+each year going back to 1993. Given the importance of lowland rice plots to rural Malagasy
+households, the infrequency of land transactions, and the availability of supporting extension records,
+these recall data are considered quite reliable.5 From ATS, we were able to obtain additional
+information on the availability of extension and the number of SRI adopters in the population for
+each site, by year.
+The survey was conducted over several months in 2000 in five villages purposively chosen
+based on past ATS extension presence.6 Manandona and Anjazafotsy are villages in the central
+plateau near the city of Antsirabe in the Province of Antananarivo. The other three villages,
+Ambatovaky, Iambara and Torotosy, are near the Ranomafana National Park in the Province of
+Fianarantsoa. The former sites are in one of the more fertile and diversified agricultural zones in the
+country, where agricultural intensification efforts have aimed at income growth and the generation of
+food surpluses for the cities. The latter three sites are more remote and reflect efforts to promote
+agricultural intensification as a means to stem unsustainable deforestation associated with traditional,
+slash-and-burn rice cultivation (tavy).
+We first used qualitative research methods at the village level, constructing seasonal
+calendars and enumerating prevailing livelihood strategies so as to get a solid, if only qualitative,
+command of local wealth, income, labor and liquidity patterns. We then performed a census of all
+5 In the early 1990s, Madagascar’s national agricultural research institute, FOFIFA, compared farmers’ reported
+land area against actual measurements of the same plots in the area of our study and found farmer recall to be
+extraordinarily accurate on lowland rice areas – albeit not on tavy land or upland plots sown in tubers or
+vegetables.
+6 Details on the survey methodology and copies of the instruments used are available in Moser (2001).
+
+7
+households in each village to assess the evolution of SRI adoption and disadoption over time. The
+household census provided the sampling frame within which we stratified households at each site
+into three categories: “adopters” who were currently practicing SRI, “disadopters” who had
+previously tried SRI but discontinued the practice, and “non-adopters” who had yet to try SRI.
+Households were randomly drawn from each stratum at each site, and adopters and disadopters were
+oversampled in order to assure sufficient observations. 7 Since we know the true population
+proportion in each stratum, we correct for choice-based sampling in all the econometric results
+presented here using a weighting variable following the method developed by Manski and Lehrman
+(1980).
+Despite the potential yield and profit gains from SRI, we found the percentage of farmers
+trying SRI to be surprisingly low, just 25 percent (Table 1). Moreover, only 15 percent of farmers
+were still practicing SRI at the time of the survey, implying an astonishingly high average disadoption
+rate of 40 percent, although that masks considerable dispersion, from 19 to 100 percent, across the
+five survey villages. The dynamics of adoption across all five sites from 1993-1999 are presented in
+Figure 1. When one compares the dynamics of initial SRI adoption (Figure 1) to the adoption of
+modern, high yielding rice varieties in Asia, as documented by David and Otsuka (1994), one is
+struck by both the relatively slow rate of adoption over the initial seven years of technology
+availability and by the high rate of disadoption.
+The major source of data used in this paper was a survey of 317 households that included
+questions on household and farm characteristics, land holdings (1993-1999), SRI use (1993-1999),
+
+Oversampling (adopters in the population, for example) is a common practice in adoption studies, although
+few published studies correct for it in subsequent statistical analysis due to lack of knowledge about the true
+population. However, since we censused all households and were able to reconstruct the rosters of all SRI
+adopters at each site from ATS records, we can and do make such corrections. The implication of weighted
+sampling for a linear regression model is that parameter estimates will be inconsistent if the true parameters in
+the population differ by category. To correct for this, the data needs to be weighted by the true proportion of
+the population each category represents at each site (Deaton 1997).
+7
+
+8
+and problems with and perceptions of SRI8. Because types of income sources and their relative
+importance to the household, rather than precise, continuous measures of income or food stocks, are
+used in this study, we can only make rather loose, qualitative inferences with regard to liquidity
+effects. Nonetheless, this method of evaluating and categorizing income sources in each village
+based on their seasonality and significance using extensive interviews and participatory research
+provides reliable indicators of household wealth and liquidity. Selected descriptive statistics are
+presented in Table 2.
+
+4. A Model of Farmer Technology Choice
+In order to model the decision-making process of Malagasy households realistically, we add
+three main features to a standard model of intertemporal utility maximization. The first is the
+dominant role of rice in income and consumption patterns. The second is that we allow for farmer
+experimentation, expansion or contraction (in the limit, disadoption) of the technology and include a
+seasonal component to capture the trade-off between current planting-season consumption and rice
+production. Lastly, we add a social dimension so as to allow for decisions driven by non-material
+motives other than profit or consumption, such as prestige or stigma.
+Each household has an endowment of land (A),9 family labor (LT), wealth (W) and education
+(E) that it deploys to maximize the stream of utility derived from material consumption (C) and the
+nonmaterial welfare effects of social standing (N).10 There exist two distinct rice production
+technologies, SRI and traditional methods (SRT). A farmer must choose the proportion of land to
+
+8 Yield and production data were not collected in this study. However, a separate study conducted in 2001
+shows that SRI does indeed generate large productivity increases relative to traditional methods (Barrett and
+Moser 2003).
+9 We focus only on lowlands suitable for rice cultivation. In practice, households often have other types of
+land available on which they cultivate other crops. But land suitable for rice is basically only planted in rice in
+Madagascar. So we simplify the model by considering only rice here, dropping other crops into the residual
+labor use category.
+10 We assume that composite consumption is the numéraire good. Rice prices and wage rates are thus relative
+to this good.
+
+9
+devote to SRI (a) and to SRT (1-a), as well as the amount of labor to devote to each method, the
+amount of labor hired in and out, and current period borrowing and savings. Households face a
+subsistence constraint that in each season k in year t household i must consume at least the minimum
+amount needed for survival (Cmin). There are two seasons, a planting season (k=0) and a harvest
+season (k=1). The usual budget constraint bounds the value of consumption and savings (S) by
+household total income (YT) and borrowing (B) each season. The household faces a borrowing
+constraint, however, that is increasing in its land holdings and wealth. The usual labor constraint
+requires that labor time allocated to rice (Lr) and other activities (Lw) not exceed the total family labor
+available (LT). The final pieces of the stylized model involve a standard wealth law of motion and
+non-negativity constraints on W, B, and L. Formally, the utility maximization problem described
+above can be written as:
+
+Max
+
+LSRI ,LSRT ,Lh ,Lw ,S,B,a
+
+∞ 1 2t+k
+U(Cikt,N
+,N
+ikt)
+∑ ∑ dδ2t+k U(C
+ikt )
+ikt
+t=0k=0
+
+(1)
+
+subject to
+C ikt + S ikt + (1 + δ )B i(1-k )(t+k-1) ≤ YikT (i) Budget Constraint
+
+Budget Constraint
+
+(2)
+
+SRT
+w
+T
+LSRI
+ikt + L ikt + L ikt ≤ L ikt
+
+Constraint
+(ii) SeasonalSeasonal
+Family Familiy
+Labor Labor
+Constraint
+
+(3)
+
+C ikt ≥ C min
+
+(iii) Seasonal Subsistence
+Constraint
+Seasonal Subsistence
+Constraint
+
+(4)
+
+Wikt = Wi(1-k )(t+k-1) + S ikt ≥ 0
+
+(iv) Wealth Law of Motion
+
+0 ≤ B ikt ≤ B(A ikt , Wikt )
+
+(v) Borrowing Constraint
+
+Wealth Law of Motion (5)
+
+10
+with the following variable definitions :
+
+N it ≡ g( ait , aj(t-1) , X jt )
+
+Nonmaterial Returns (6)
+(1) Social Returns
+
+r
+YiktT ≡ Yikt
++ w ikt (E i , w jt , O ikt )Lwikt + B ikt
+
+Income (7)
+
+(2) Income
+
+]
+
+r
+h
+SRI
+h
+SRT
+h
+SRT
+h
+Yikt
+≡ kpr [ F SRI ( ait , LSRI
+( ait , LSRT
+ikt , L ikt A it ,K it , L i(1-k)t , L i(1-k)t )+ F
+ikt , L ikt A it , L i(1-k)t , L i(1-k)t )
+
+- w jkt Lhikt
+∞
+
+∞
+
+∞
+
+m=1
+
+m=1
+
+m=0
+
+Kit ≡ h( ∑ ai(t-m) , ∑ aj(t-m) , ∑ X j(t-m) , E i )
+
+(3) Rice Income
+
+Rice Income (8)
+
+(4) Knowledge Knowledge
+of SRI of SRI (9)
+
+Household income originates from two sources: rice farming and other activities. Rice
+income equals the value of the amount produced (price times the production from both
+technologies) minus the labor costs. In order to simplify the model, labor is assumed to be the only
+cost in rice production, and land and labor are the only inputs.11 Because the overwhelming majority
+of land in the survey areas was acquired by inheritance and not purchased, land is assumed to be a
+costless quasi-fixed input into rice production, and is thus treated as a part of the household’s
+endowment.
+Revenue from rice production accrues only in the harvest season (k=1), although labor is
+needed in both seasons. Consequently, farmers incur a planting season loss which must be offset by
+savings, borrowing, or other earnings—determined at an individual wage rate w that depends on
+
+11 Rice seed, chemical fertilizer, animal manure and animal traction are other inputs used in production in the
+survey areas, but in such minimal amounts that land and labor are clearly the ones that matter most for SRI
+adoption.
+
+11
+education, prevailing local labor market conditions (summarized by the unskilled agricultural day
+wage in village j, wjt), and any off-season crop harvest (Oikt) by the household.12 Binding subsistence
+and borrowing constraints can therefore prove a crucial determinant of planting season labor
+allocation for households with low beginning period wealth (and therefore limited savings to draw
+down or to use as collateral against which they can borrow).
+SRI output depends not just on the land and labor applied to this method, but also on the
+farmer’s knowledge of how to implement SRI’s nontraditional agronomic methods correctly.13
+Knowledge (K) of SRI can be gleaned through multiple sources: the farmer’s own previous
+experience with the method (learning by doing), his exposure to extension educators or the
+experience of other farmers in the community (learning from others), and his education, which may
+affect the rate at which he learns from these other sources and may have independent effects on
+learning as well. The recent literature on the economics of technology adoption has focused heavily
+on these sorts of learning effects.
+An important complicating factor is that the social context within which a farmer makes his
+adoption choice may have behavioral effects beyond those related to learning about the technology.
+Within rural villages, there often exist significant pressures to conform to behavioral norms
+established within the community and to the expressed wishes of persons in positions of authority
+(Platteau 2000). The former effect can serve as a powerful brake on innovative activity (Akerlof
+1980), while the latter may foster innovation when authorities push new methods, creating an
+opening for charismatic leadership to exert influence on the process of development at the micro
+level. In particular, concerns over social status and nonpecuniary penalties associated with deviation
+from community norms may affect individuals’ decisions as much as or more than profit motives
+In some areas, households plant rice fields in potatoes, barley or other crops in the dry winter season when
+rice will not grow. This has the effect of smoothing income over the year and potentially raising the
+opportunity cost of household labor above prevailing local wage rates.
+13 Knowledge does not appear in the SRT production function because we assume all farmers possess complete
+knowledge of this method. We do not claim that SRI is necessarily more knowledge intensive, only that the
+transition to SRI from the technology practiced in the villages for generations does require the accumulation of
+knowledge of hitherto unfamiliar agronomic practices.
+12
+
+12
+(Akerlof 1980, Rogers 1995, Akerlof 1997, Kreps 1997, Platteau 2000, Kevane and Wydick 2001).
+Especially in traditional societies, the maintenance of community ties is crucial for the survival of
+both the household and the community. As a result, many cultures exhibit a strong tendency toward
+conformity to a community norm, to the will of authority figures, or both. In the present case, we
+allow for either sort of social conformity effect. Like Kevane and Wydick’s (2001) model of the
+effect of social norms on the allocation of women’s labor by farmers in Burkina Faso, we take the
+most recently observed mean level use of SRI in village j, ājt, as the prevailing time-and-locationspecific community norm. We then assume utility is declining in deviation from the norm
+(equivalently, welfare is increasing in conformity to the community standard). Conformity to
+established local behavioral norms might thereby affect patterns of innovation.
+Conformity to authority may be equally important. In rural Madagascar, outside experts,
+such as the ATS extension agents, are viewed as authority figures and treated with appropriate
+respect. Of particular relevance here, households may feel obliged to follow the extension agent’s
+advice, at least at a symbolic level of modest experimentation with the technology being promoted.14
+Of course, if extension agents’ only effect was to stimulate “deferential conformity,” then once the
+extension agent left the community, farmers would be expected to revert back to their old practices.
+By contrast, if the primary effect of extension agents was to transfer valuable knowledge that remains
+behind even after the agent leaves, reversion would be less common. This difference suggests an
+identification strategy for conformity effects that we introduce later.
+Let K represent a stock of useful knowledge to which one can add but from which one
+cannot subtract.15 Assume that K is strictly increasing and weakly concave in both cumulative
+
+Anecdotal evidence and interviews with farmers support the claim that some farmers did indeed try SRI to
+appease the extension agent. Furthermore, this might explain why some farmers kept only a very small portion
+of their land in SRI for years without expanding.
+15 This differs from the target input model employed by Foster and Rosenzweig (1996), who model learning
+about an optimal input level, which can vary either up or down. Here we more generally model the
+accumulation of a stock of potentially useful knowledge.
+14
+
+13
+extension presence in the village and in cumulative past SRI experience in the community. 16,17 We
+can now specify the farmer’s constrained value function as:
+
+Max LSRI ,LSRT ,Lh ,S,B,a U(Ci00, Ni00)+ δ V(A i00 , Wi00 )
+
+(10)
+
+s. t .
+min
+r
+SRT
++ w i00 (E i , w j00 , O i00 )(LTi00 − LSRI
+Yi00
+i00 − L i00 ) − S i00 − (1 + δ )B i (1 )(-1) ≥ C
+
+(iii) Seasonal Subsistence Constraint
+S i00 ≥ − Wi(1)(-1)
+
+(iv) Wealth Law of Motion
+
+0 ≤ B i00 ≤ B(A i00 , Wi00 )
+
+(v) Borrowing Constraint
+
+The labor and budget constraints bind with equality under the assumption of local
+nonsatiation of preferences, and can therefore be incorporated within the modified seasonal
+subsistence constraint. The simplified problem now has six choice variables (LSRI, LSRT, Lh, B, S, a)
+and three constraints. Taking the household’s choice at the beginning of some rice planting season
+(k=0), arbitrarily setting the year t=0, we can specify the Lagrangian and derive the first-order
+necessary conditions (FONCs) to the household’s constrained intertemporal welfare maximization
+problem:
+
+16 There is no unambiguously preferable measure of past use of SRI in the community for the purpose of
+establishing either learning or conformity effects. Is it the mere fact of households trying the technique that
+matters, or the extent of their use? Are the absolute numbers of adopters the important thing or is it the
+relative size of the group of SRI adopters as a proportion of the broader village population? One could
+credibly argue for any of these formulations. As a result, in addition to using the area planted (in the preceding
+year, t-1, or cumulatively through t-2), we also estimated the model using instead (a) the number of households
+using SRI the previous year (t-1) and the total number of farmer years of SRI experience in the community
+through year t-2, (b) the number of households using SRI in year t-1 and the total number adopting through
+year t-2, (c) the proportion of households practicing SRI the previous year and the proportional community
+experience with SRI (total number of farmer years of experience divided by the number of households)
+through year t-2, and (d) the proportion of households practicing SRI in year t-1 and the proportion of
+households adopting through year t-2. The qualitative results are very similar across all of the specifications.
+This gives us some confidence that the findings are robust in these data to inherently arbitrary specification
+choices of this community adoption variable.
+17 The past history of use in the community variable likely captures not only learning from others effects in the
+classic sense of farm managers’ observations of others’ experience, but also the benefits that accrue from the
+accumulation of experience with the new methods among the population of casual day laborers who get hired
+to work the SRI fields. If we had data on hired labor and the laborers’ past experience (or lack thereof) with
+SRI, one could in principle distinguish between these two effects. We lack such data.
+
+14
+
+L =L = U(C i00 , N i00 ) + δV(C i10 , N i10 ) +
+
+(
+
+)
+
+(
+
+r
+SRT
+(
+)
+λ1 -C +Yi00
++ w i00 (⋅ )(LTi0 − LSRI
+i0 − L i0 ) − S i0 − 1 + δ B i1-1 + B i00
+min
+
+)
+
+(9)(11)
+
++ λ2 Wi1(-1) + S i00 + λ3 (B( A i1-1 , Wi1-1 ) − B i00 )
+
+LLSRILL:SRI :
+
+−
+
+SRI
+∂U(Ci00, Ni00)
+∂V(C i10 , N i10 ) r ∂Fi10
+SRI
+>0
+w i00 (⋅ ) + δ
+p
+SRI - λ1 w i00 ≤ 0, (= 0 if L
+∂C i00
+∂C i10
+∂L i00
+
+−
+
+LLSRT :
+LLSRT
+:
+
+)
+
+SRT
+∂U(Ci00, Ni00)
+∂V(C i10 , N i10 ) r ∂Fi10
+SRT
+w i00 (⋅ ) + δ
+p
+>0
+SRT − λ1 w i00 (⋅ ) ≤ 0, (= 0 if L
+T
+∂C i00
+∂Yi10
+∂L i00
+
+(12)
+
+( b)
+
+(13)
+
+)
+
+LLh :LL : −
+
+SRI
+SRT
+
+∂U(Ci00, Ni00)
+∂V(C i10 , N i10 ) r  ∂Fi10
+∂Fi10
+− λ1w j00 ≤ 0, (= 0 if Lh > 0
+w j00 + δ
+p
++
+
+h
+h
+T
+∂C i00
+∂Yi10
+∂L i00 
+ ∂L i00
+
+Ls : LS : −
+
+∂V(C i10 , N i10 )
+∂U(Ci00, Ni00)
++δ
+− λ1 + λ2 = 0
+∂C i10
+∂C i00
+
+h
+
+(a)
+
+)
+
+( c) (14)
+( d)
+
+LB : L : ∂U(Ci00, Ni00) − δ (1 + δ ) ∂V(C i10 , N i10 ) + λ − λ ≤ 0, (= 0 if Lh > 0 )
+B
+1
+3
+∂C i00
+
+LA :
+
+Lλ1 :
+Lλ2 :
+Lλ3 :
+
+(
+
+)
+
+r
+SRT
+(
+)
+Lλ1 : λ1 -Cmin+Yi00
++ w i00 (⋅ )(LTi0 − LSRI
+i0 − L i0 ) − S i0 − 1 + δ B i1-1 + B i00 = 0
+
+(
+
+(16)
+
+∂C i10
+
+SRI
+∂U(Ci0, Ni0) ∂N i00
+∂V(C i10 , N i10 ) r  ∂Fi10
+∂F SRT ∂F SRI ∂K i10  <
+p 
+0,
+La :
++δ
+− i10 + i10
+∂a i0
+∂C i10
+∂a i0
+∂K i10 ∂a i00  >
+N i00
+ ∂a i0
+
+)
+
+Lλ2 : Wi1(-1) + S i00 = 0
+Lλ3 : λ3 (B( A i1-1 , Wi1-1 ) − B i00 ) = 0
+
+(15)
+
+ < 0 if a = 0 
+
+
+ = 0 if 0 < a < 1
+
+
+ > 0 if a = 1
+
+
+(17)
+
+(18)
+(19)
+(20)
+
+15
+The non-negativity constraints imply that the associated FONCs, LLh, LLSRI, LLSRT and LB, hold with
+equality when Lh, LSRI, LSRT, and B are greater than zero, respectively. La holds with equality when a
+∈(0,1). If the subsistence constraint binds, the expression in the parentheses in Lλ1 equals zero,
+otherwise λ1=0; the immediate subsistence constraint does not affect the household’s decisions. The
+Lagrangian multipliers can be interpreted as follows: λ1 is the value of reducing the subsistence
+constraint by a unit; λ2 reflects the per unit value of increasing initial wealth (which increases the
+amount of dissaving that can occur to finance planting season experimentation); and λ3 represents
+the value of increasing the household’s borrowing capacity.
+The interpretations of the first three FONCs (equations 12, 13 and 14) are essentially the
+same. In the current planting season, no immediate benefits are realized from devoting labor to rice.
+The opportunity cost of forgone current income, and thereby consumption, must be offset by the
+discounted gains from the extra increment of future harvest. More precisely, the marginal cost of
+labor must equal the discounted future marginal revenue product from the rice harvest. The farmer
+will not put more labor into rice if its opportunity cost exceeds the additional revenue he will get
+from that labor. When the subsistence constraint binds (i.e., λ1>0), the cost of putting labor into rice
+during the planting season effectively increases. The marginal costs of LSRT and LSRI are evaluated at
+the individual wage rate, wi, but for the marginal cost of Lh (equation 14) the village wage rate, wj, is
+used. Also for (14), the marginal revenue product is the sum of the marginal products of the two
+technologies with respect to hired labor times the price of rice.
+FONC Ls (equation 15) signals that current savings cannot be used for consumption today
+and thus the first term of the derivative represents the marginal utility of foregone consumption.
+Because greater initial wealth reduces the need to save current income for the future, the shadow
+value of initial wealth (λ2) reduces the marginal value of saving current income. This means that the
+
+16
+marginal utility of consumption less the shadow value of initial wealth must be equal to the
+discounted value of future consumption.
+The derivative of the Lagrangian with respect to a (equation 17) reflects the welfare effects
+of a change in the proportion of a farmer’s area in SRI. The only effect of a on planting season
+utility comes through the social benefits function, and the sign can be either positive or negative. If a
+∈(0,1), the first expression must equal the discounted future utility derived from a change in a. This
+has two different components: first, the direct change in the marginal productivity of land associated
+with shifting to SRI, and, second, the indirect marginal productivity effect associated with
+accumulating knowledge. This difference captures the idea that it can be worthwhile for a farmer to
+undertake costly experimentation with the new technique on a portion of his land even when it is not
+expected to increase current returns.
+The FONCs can be combined to yield an estimable, reduced form expression for the
+farmer’s optimal choice of area planted in SRI (a*) as a function of household level variables – past
+use of SRI, educational attainment (E), initial wealth (W), other income (O), total land area (A), and
+discount rate – and community level variables – past and present extension presence (X), past use of
+SRI in the village, the unskilled agricultural wage rate and rice prices:
+
+a
+
+∞
+∞
+ ∞
+* = a  ∑ a
+, ∑ X
+, ∑ a
+, E ,W ,O ,A ,w ,pr ,d
+i00
+ m=1 j( t-m ) m=0 j( t-m ) m=1 i( t-m ) i i0 i00 i00 j
+
+
+ (21)
+
+
+The core hypotheses of interest can thus be estimated directly using equation (21): (i) when
+does SRI adoption occur (i.e., when does a become positive)? (ii) what determines the share of land
+put into SRI (i.e., what affects variation of a in the (0,1) interval)? and (iii) when is the farmer likely to
+disadopt SRI (i.e., return to a=0 after having chosen a>0 in a previous period)? The next section
+maps out our estimation strategy for exploring these three questions.
+
+17
+5. Estimation Strategies in Adoption Models
+As mentioned in the previous section, technology adoption is a dynamic process, but most
+studies of adoption are still based on static models using cross-sectional data. The most commonly
+used approaches to estimating models of adoption are briefly reviewed below. We then offer a
+novel way to explore both initial adoption and adoption extent decisions using retrospective panel
+data.
+Static models simply look at who has adopted and who has not at a particular point in time.
+While they can provide important insights into the adoption process, this method can also be
+misleading, producing biased coefficient estimates if the adoption process is not yet complete
+(Lindner 1987, Besley and Case 1993, and Cameron 1999). The bias results from ignoring the
+dynamic effects of learning and the inability to control for unobserved household heterogeneity. A
+cross-sectional sample of non-adopters would include both potential future adopters and those who
+will never adopt, yet these two populations would be treated the same in a static study. Likewise,
+recent adopters who may not yet be sure of the technology’s benefits are treated the same as longtime adopters who have much experience and may be more likely to continue with the method.
+While the lack of adequate panel data is probably a major reason for the persistence of the
+cross-sectional study, for some cases, a static view may be sufficient for understanding the factors
+affecting adoption. If the technology has had sufficient time to diffuse and the adoption process can
+be considered “complete,” a static study would be fairly accurate and informative. Unfortunately, for
+most policy-makers and development practitioners wishing to gain insights into the adoption
+process, ex-post conclusions are probably not very useful. At the very least, when the adoption
+process is incomplete, cross-sectional studies may help identify those groups having difficulty
+adopting and may facilitate the design of appropriate interventions.
+The limitations of cross-sectional data could potentially be overcome through the use of
+panel data. The lack of appropriate panel data sets has been a major limitation, and only a few
+
+18
+studies have been able to model individual choice in adoption as a dynamic problem. Besley and
+Case (1993), Foster and Rosenzweig (1995), Cameron (1999), and Conley and Udry (2000) have all
+used panel data in recent studies of learning and technology adoption.
+To correct for some of the problems arising from the use of cross-sectional surveys when
+cost and/or time prohibit multiple visits needed for panel data collection, Besley and Case propose
+the use of recall data on each farmer’s adoption history. They present a probit model using time
+varying dummies and interaction terms to capture the changing influence of the explanatory variables
+over time. In general, the use of recall data would seem to be an improvement over traditional crosssectional studies, although this requires the fairly strong assumption that the farm and farmer
+variables have not changed over the adoption process and that these variables are not the
+endogenous consequence of earlier adoption decisions.
+Even when a panel data set is available (or can be constructed from recall), controlling for
+household fixed effects is often still problematic in adoption models. Data on technology adoption
+is almost always censored or truncated. Binary choice models (probit or logit) have frequently been
+used to analyze discrete choice to use or not to use a particular technique. Controlling for
+household fixed effects is impossible in these models, unless all farmers in the data set are observed
+both as non-adopters (zero) and adopters (one). In a Tobit model setting, the estimation can still be
+difficult because the fixed effects cannot be eliminated by differencing and cannot be estimated
+consistently for short panels. Furthermore, traditional Tobit estimation is sensitive to specification
+error, produces inconsistent estimates in the presence of heteroskedastic errors, and easily breaks
+down with the inclusion of many dummy variables.
+We therefore use Powell’s (1986) method for estimating censored regression models.
+Although rarely employed in applied work and never (to the authors’ knowledge) used in the context
+of technology adoption, Powell’s method for symmetrically trimmed least squares estimation allows
+us to control for both household fixed effects and for heteroskedastic errors. This method is based
+
+19
+on the assumption that the error term is symmetrically (but not necessarily normally) distributed.
+When the data are left-censored, censoring on the right to restore symmetry will yield consistent
+estimates in least squares estimation. (Powell 1986). The method does not work well when a large
+proportion of the observations are censored, since roughly an equal number will be censored on the
+right, leaving little variation in the dependent variable.
+The standard definition of Tobit is:
+yt=max(0, yt*) , where y* is a latent variable observed only above zero.
+This is altered for Powell’s method such that:
+yt=min(2xt’β, max(0, yt*))
+Thus yt is censored at 2xt’β. In other words, yt is regressed on the x variables, then right
+censored at twice the predicted value of yt, or 2xt’β, when yt*>2xt’β. The process is repeated on the
+newly censored yt until the coefficients values converge.
+We use Powell’s method in analyzing farmers’ decisions of how much land to put in SRI,
+answering question (ii) posed at the end of section 5. To shed light on the questions (i) and (iii), as to
+who adopts and who disadopts, we employ separate dynamic probit models.18 Although we cannot
+control for household fixed effects in the probit adoption and disadoption models, the dynamic
+models allow us to explore the roles of extension and learning from other farmers, and thus have
+advantages over traditional cross-sectional studies.
+A few final econometric issues require explanation before we present our estimation results.
+Since the extension presence variable is common to all farmers within a given village in a given year,
+it would be perfectly collinear with other time-varying village-level variables – such as wages, prices,
+
+Another approach is to use a Heckman’s selection model to control for the differences that characterize
+those who choose to adopt in the Tobit model (see Abdulai et. al (2003) for such an approach). However,
+controlling for household-specific fixed effects in the Tobit model serves the same purpose while also
+controlling more broadly for household-specific unobservables that may be uncorrelated with adoption but
+correlated with other farmer attributes of interest, such as experience with the technology. An earlier working
+paper version of this paper took the selection model approach before J.S. Butler recommended this better
+approach to us. We are very grateful for his perceptive idea.
+18
+
+20
+rainfall, pest or disease incidence – that might affect technology choice. We therefore omit timevarying covariates common to all households in a village in the estimation reported in the next
+section. This necessarily complicates inference with respect to the extension variable somewhat, but
+is unavoidable.
+A dummy variable for the farmer’s membership in a farmers’ organization is included in the
+regression specifications. In practice, this variable is capturing learning effects because extension
+agents largely worked through local farmers’ organizations once they were in a village. In theory it
+could also capture liquidity effects if the farmers’ organizations doubled as micro-credit groups,
+which they generally do not in rural Madagascar (Zeller 1994). The extension presence variable is not
+specific to the household, so the farmer organization variable is probably capturing both better
+access to the extension agent in the village and better flow of information from other farmers.
+We include year-specific dummy variables to capture intertemporal changes in market and
+agroecological conditions that are common to all the survey villages. Several variables are used to
+represent family labor availability: the number of adults and children in the household and the
+distance to and between rice fields. Because detailed income or consumption data were not collected
+in this survey, we must rely on dummy variables that are indicators of wealth or poverty. Finally,
+assuming households’ unobservable discount rate, δ, is strongly correlated with wealth, our data
+permit direct estimation of the reduced form optimal adoption function. Table 3 defines the
+independent variables used in the econometric estimation on which we now report.
+
+6. Estimation Results
+As described in the conceptual model, we are interested in analyzing the factors affecting a,
+the amount of land a farmer chooses to put in SRI. However, it is useful, and perhaps more realistic,
+to assume that farmers actually make several sequential decisions. First, the farmer must decide
+whether to try SRI, i.e., to make an initial decision to set a>0. If he does not adopt in the current
+
+21
+year, he faces the same decision the following year. Then, once the farmer makes the initial decision
+to adopt SRI, he must decide how much land to put in the method, i.e., where to set a in the interval
+(0,1]. For subsequent years, he must again choose how much land to put into SRI, now allowing for
+the possibility that he can disadopt, i.e., set a=0 again.
+
+a) The Initial Adoption Decision: Table 4 presents the results from a dynamic probit model of
+the decision to adopt. We first consider the farmer’s initial, discrete decision to try SRI. Several
+factors are plainly at play. Farmer liquidity seems to matter a great deal to the initial adoption
+decision, as reflected by both the positive and statistically significant coefficients on wealth (total
+lowland rice area) and stable income source (e.g., salaried employment), and by the large, negative
+and highly significant coefficient estimate on the agricultural day labor dummy variable. Reliance on
+agricultural day wages as a major source of income is a leading indicator of poverty in rural
+Madagascar.19 Those who have little lowland to sow in rice wind up being net rice buyers and unless
+they have an education and skills to secure salaried employment, they must then undertake low
+paying, unskilled farm work to meet immediate cash needs for food in the planting season (Barrett
+and Dorosh 1996, Minten and Zeller 2000). In the absence of seasonal credit access, labor becomes
+their means of financing current consumption needs, precluding them from investing added time in
+more labor-intensive cultivation on their own plots, even if this brings significant yield gains next
+season.20 Although our initial research design hypothesized that off-season cropping might facilitate
+adoption by smoothing incomes within the year, the coefficient on the off-season cropping dummy
+variable was both small in magnitude and statistically insignificant. 21 A χ2 test overwhelmingly rejects
+19 The results here should be treated with caution, however, because of the potential endogeneity of this
+variable in the quasi-panel. The inclusion or omission of this variable in the regressions does not significantly
+alter the effects of the other variables.
+20 Part of this effect could be due to timing, not just liquidity. If workers have to supply labor at prime
+planting times and realize they would consequently not enjoy equivalent yield gains from SRI were they to try
+the method once they were free from their off-farm work responsibilities, mistiming could discourage adoption
+independent of liquidity concerns.
+21 However, when the model is re-estimated using only the two villages in which off-season cropping has
+become increasingly important in recent years (Ambatovaky and Iambara), the coefficient becomes positive and
+
+22
+the joint null hypothesis that liquidity – as proxied by agricultural day labor, stable income and offseason crop income – has no effect on adoption (Table 5).22 Despite the “low-external input” nature
+of the technology, the investment needed in labor alone is more than poorer Malagasy farmers with
+limited or no access to interseasonal credit can afford, since labor markets are used to obviate the
+problem of a missing rural financial market.
+Liquidity is far from the whole story, however. Learning effects clearly matter as well to the
+initial SRI adoption decision. Learning from others is captured jointly by the extension variables,
+community level adoption of SRI, and interactions with other (SRI) farmers through membership in
+a farmer’s organization. The probability of adoption is significantly increasing in the farmer’s
+educational attainment level, and when he belongs to a farmers’ organization, which improves access
+to extension information. Extension presence also proves important for the initial adoption
+decision, probably because SRI is a relatively complex set of practices that must be learned and
+applied simultaneously. Thus it is not surprising that farmers need to work directly with extension
+agents the year they adopt. The χ2 test statistic of 216.48 (Table 5) overwhelmingly rejects the joint
+null hypothesis that there is no learning from others. Interestingly, once one controls for current
+extension presence and community use patterns, past extension presence and community adoption
+patterns have a negative and statistically significant effect on the probability of adoption. This
+suggests that people may learn as well from others’ disadoption, since the higher the percent of
+farmers ever trying, holding percent of farmers using constant, the greater the local disadoption rate.
+statistically significant. In this area, off-season cropping consists of planting crops, such as potatoes, on the
+rice field in the winter so as to generate output and thus income at the start of the rice-planting season. The
+evidence from the more restricted regression hints at a “practices ladder” effect—the adoption of off-season
+cropping may boost productivity only slightly yet provide liquidity at a crucial time of year which may
+subsequently enable farmers to adopt improved rice methods such as SRI that significantly increase total factor
+productivity. The adoption of off-season cropping stands in sharp contrast with that of SRI. Although
+farmers must purchase seed and fertilizer for off-season cropping, unlike low-external-input SRI, the timing of
+these purchases (right after the rice harvest) is such that it does not seem to impede adoption for most farmers.
+Eighty percent of households in Ambatovaky were practicing the method in 1999 and none had disadopted
+(Moser and Barrett 2003).
+22 Given off-farm labor markets’ crucial role in providing financial liquidity in the absence of formal financial
+markets, it is difficult to distinguish between liquidity effects and those of labor allocation incentives. Based on
+extensive conversations with Malagasy farmers, however, we are convinced that off-farm labor allocation
+reflects liquidity concerns to a significant degree and thus are reasonably classified in Table 5.
+
+23
+This also raises the possibility of conformity effects, particularly conformity-to-authority effects,
+which we discuss further in subsection d) below.
+
+b) The Extent of Adoption Decision: We estimate the share of rice land put into SRI using
+Powell’s method for Tobit-type models, as described in the previous section. Only those farmers
+who have tried SRI are included in the model. Zero values therefore indicate disadoption
+Household dummy variables were included in the regression to control for unobserved, time
+invariant household fixed effects. This necessarily precludes inclusion of time-invariant household
+characteristics such as educational attainment or gender, as well as time-varying household attributes
+for which we had only one observation, such as the presence of stable alternative income sources or
+employment in agricultural day labor. As a consequence, we cannot directly test for liquidity effects
+on the extent of adoption in the same way we can for the adoption or disadoption choices.
+Furthermore, due to modest within-farm intertemporal variability in total rice area – another sign
+that land markets are largely absent in these villages – the total lowland rice area variable likewise had
+to be dropped due to near-perfect collinearity with the vector of household fixed effect dummy
+variables. The estimation results are presented in Table 6.
+The coefficient on the number of ares in off-season crops is positive and significant. This
+finding has potentially important implications for agricultural policy if adoption of one method
+indeed facilitates the adoption of another, creating a technology adoption ladder. Because off-season
+crops are planted after the rice harvest, when households tend to have both more money and more
+time to devote to labor, and because rice land otherwise goes unused, most farmers in this region
+have proved able and willing to adopt off-season crops. The income and food off-season cropping
+provides at the beginning of the rice planting season appear to enable Malagasy farmers to continue
+to practice SRI and to expand their use of this high-yielding method if they manage to adopt it
+initially.
+
+24
+Surprisingly, experience with SRI has a negative and convex effect on share of area in SRI.
+This seems to reflect the high rates of disadoption reported earlier. Interestingly, when we drop the
+control for farmer fixed effects, experience has a positive and strongly statistically significant effect
+on share of rice area planted in SRI. This implies that unobserved farmer characteristics, such as
+motivation and skill, likely account for much of respondents’ success with and expansion of SRI, a
+finding supported by a different, recent data set on SRI productivity (Barrett and Moser 2003), and
+that failure to control adequately for such effects can lead to a sharp overstatement of the importance
+of “learning by doing” effects. Because the cumulative effect of experience – accounting for the
+linear and quadratic effects jointly – is negative for all households in the sample, we cannot reject the
+null hypothesis of no positive learning by doing effects with respect to the extent of SRI adoption
+decision.
+The year-specific dummy variables are all statistically significantly different from zero and
+from one another, exhibiting a steady increase in expected share of area planted in SRI. The fact that
+this is entirely independent of farmer-specific characteristics, such as experience with the method,
+suggests that this is less learning by doing than broader systemic factors, such as general
+dissemination of information on SRI throughout the villages, changes in extension practices within
+ATS, and general improvement in the macroeconomy over this period.
+The percent of farmers practicing SRI the previous year also has a positive and significant
+effect on adoption extent, while the percent of farmers having ever tried SRI in the community has
+no statistically significant effect. The pattern is similar with respect to contemporaneous presence of
+ATS extension agents, which positively affects area in SRI, while past extension presence has no
+significant effect. These factors suggest significant learning from others effects, although these
+findings might also be explained by conformity effects for which we test directly later.
+
+25
+c) The Disadoption Decision: Disadopters were included in the preceding Tobit-type model, but
+because the limiting case of complete disadoption of SRI merits special attention, we estimate a
+separate probit model to isolate the factors affecting disadoption. Because the farmer’s discrete
+decision whether to continue to practice SRI after having tried it is inherently conditional on having
+initially adopted, only observations after the farmer’s first year of use are included in the disadoption
+probit model. This leaves 418 observations from the 510 in the second stage of the sample selection
+model, covering the 163 farmers who had tried the method.23 Following an approach introduced in
+Neill and Lee (2001), the dependent variable “Continue” is a dummy variable that equals one if the
+farmer continued to use SRI in year t following adoption and zero if he did not continue (in other
+words, if he disadopted). Observations on disadopters beyond the first year for which “Continue”=0
+are included in the regression because the farmer could subsequently renew his use of SRI.24
+
+Neither education nor total lowland rice area are statistically significant in the disadoption
+model (Table 7), although both play a significant role in farmers’ initial adoption choice. Labor
+availability, as proxied by the number of adults and children in the household, positively affects the
+probability of continuing with SRI.25 Agricultural day labor has no significant effect on probability of
+disadoption, presumably because it has a sharp negative effect on the initial adoption decision, so
+there are few farmers in the sample who practice SRI and work on others’ farms for wages. Nor do
+extension presence (past or present) or off-season cropping have any significant effect on farmers’
+disadoption decisions.
+The biggest effects on the likelihood of disadoption arise from the farmer’s own past
+experience with SRI and from the existence salaried employment. The role of experience must be
+treated with caution here, since we are unable to control for farmer fixed effects in this probit model.
+We also include in the model the area planted in SRI the first year the farmer tried the method.
+
+17 farmers started prior to 1995, so 564 minus 146 first year observations gives us the 418 observations.
+Adopting a second time (after disadoption) seems to be quite rare. There was no re-adoption is this sample.
+25 Children may play an important role since they are frequently given the tasks of weeding and chasing birds
+from the fields.
+23
+24
+
+26
+Many local observers have remarked to us that those farmers who experiment with SRI initially on
+too small a plot are more likely to disadopt subsequently and their casual observations seem
+supported by these data. Most likely because SRI sharply increases marginal land productivity
+without increasing marginal labor productivity (Barrett and Moser 2003), the area farmers plant in
+SRI in their first year significantly increases their average productivity and thus their likelihood of
+continuing the practice.
+Although stable income from salaried employment improves household liquidity and thereby
+increases the likelihood of initial adoption, it also significantly decreases the likelihood that a farmer
+continues to use SRI. Based on our own observations of the system, this result seems to reflect
+experimentation by those with the means to try SRI, within which there is a subset of salaried
+workers whose off-farm activities generate a high opportunity cost to the time spent in SRI
+cultivation – especially the demands of daily water inspection and management – and in supervising
+and training hired workers in one’s SRI plots. As a consequence, these households disadopt SRI.
+Finally, farmers were more likely to continue if more farmers were practicing SRI the
+previous year. Likewise, they are more likely to disadopt when larger numbers of farmers disadopted
+the previous year. These results, like those of the preceding two regressions, suggest the possibility
+of social conformity effects in Malagasy farmers’ SRI-related choices.
+
+d) On The Prospect of Conformity. The model of section 4 allowed for individuals’ nonmaterial
+preferences for social acceptance to affect farmers’ choice of cultivation methods in the direction of
+conformity to either a community norm, as reflected by mean local practice in the most recent
+season, or to the desires of authority figures, here represented by ATS extension agents promoting
+SRI. However, since the people to whose practices farmers might wish to conform are also sources
+of potentially valuable information about farming technologies, a serious identification problem
+arises in trying to disentangle conformity and learning effects empirically. For example, the strategic
+
+27
+incentive to delay adoption so as to costlessly observe one’s neighbors’ costly experiments with the
+new technology (Foster and Rosenzweig 1995) has qualitatively similar effects to conformity to
+observed local norms. It may likewise be difficult in practice to separate the marginal adoption
+effects of learning from extension agents from deferential adoption incentives, especially if the
+technology requires the physical presence of extension agents to offer advice or hands-on assistance.
+This subsection outlines a method for identifying conformity effects distinct from learning
+effects and presents estimates derived from these data on SRI. While these phenomena fit the
+anecdotal evidence we hear from Malagasy farmers and from some expert observers of SRI, these
+concepts are novel and somewhat unorthodox in contemporary economics. We therefore view this
+subsection more as intriguing conjecture intended to stimulate further investigation than as findings
+in which one should place great weight just yet.
+Our identification strategy for conformity effects runs as follows. Recall our earlier
+assumption that knowledge is cumulative, strictly increasing and weakly concave in both cumulative
+extension presence in the village and in cumulative past SRI experience in the community, following
+the colloquial understanding of a “learning curve” exhibiting diminishing returns. So learning
+represents (net) addition to one’s stock of knowledge. Learning from others results from exposure
+to others trying the method or to extension agents promoting the method, while learning by doing
+results from one’s own experiments with the method. Each added year of own experience or
+exposure to extension agents promoting SRI or neighbors trying it adds to a prospective user’s stock
+of knowledge about the technology, but at a decreasing rate. Conformity effects, by contrast, relate
+solely to current social conditions, as reflected in contemporaneous presence of an extension agent in
+the village, Xjt , and the percent of farmers using SRI in the previous period.26 Where knowledge is
+
+We use the previous period’s community behavior with respect to SRI for both conceptual and practical
+reasons. Conceptually, when farmers make the decision to pursue SRI, they cannot observe the behavior of
+their neighbors. Under SRI, seedling transplanting typically takes place less than ten days after germination in
+nursery beds. At a very busy time of year, there is scant time to observe many others’ contemporaneous
+cultivation choices before making the irreversible decision as to whether to cultivate using SRI or SRT
+methods. Practically, contemporaneous SRI use in the community is surely endogenous to omitted, time-
+
+26
+
+28
+cumulative, conformity is purely contemporaneous. What matters is whether one fits current, not
+historical, community practice or the prevailing directives of authority figures who are present. We
+can exploit this temporal difference between cumulative, concave learning and contemporaneous
+conformity to test for the presence of conformity effects.
+The assumption of (weakly) concave learning is pivotal, for it permits us to deduce that any
+estimated marginal effect of current extension presence in excess of that of past extension presence
+must be due to conformity to authority effects and any positive difference between the effects
+associated with current and historical community use must be due to social conformity effects.
+Negative differences, by contrast, could be due to declining marginal productivity of knowledge, and
+thus declining marginal effect on the probability of adoption, and are inconsistent with the
+hypothesis of conformity effects. So a test of the null-hypothesis that cumulative and
+contemporaneous effects are identical versus the alternate hypothesis that contemporaneous effects
+are larger, serves as a test of the conformity hypothesis under the maintained assumption of weakly
+concave learning.
+One might legitimately question the crucial concavity assumption. If farmers only learn once
+they make the decision to adopt and therefore rely on the availability of others to instruct or be
+observed by them as they initially experiment with the new technology, or if the knowledge imparted
+by the extension agent or by neighbors is less important their physical presence to assist, then
+knowledge may be locally convex in past exposure to extension agents or neighbors’ experiments.
+The estimated marginal effect of contemporaneous extension presence or community use would
+then exceed that of past presence or use. Therefore, if knowledge is not concave in exposure to
+extension or others’ use, it becomes impossible to separate conformity from learning in the data.
+Absent any clear evidence as to how farmers really learn about new technologies, it is hard to know
+
+varying, community-specific factors for which we cannot control adequately. Lagged use patterns minimizes
+such potential endogeneity bias in estimation.
+
+29
+whether our method of identifying conformity effects from learning effects rests on empirically
+sound assumptions.
+With that significant caution in mind, we turn to the estimation results with respect to
+conformity effects reflected in the current extension and past season’s community SRI use variables
+(Table 5). As just described, we test the joint null hypothesis that there is no difference between the
+coefficients on the current extension presence and cumulative past extension presence variables, nor
+between the coefficients on the past year’s adoption rate and the percent of farmers in the
+community having ever tried SRI, versus the alternative hypothesis that the marginal effects of the
+contemporaneous variables are greater. In the initial, adoption probit, the test statistic of 103.74
+shows that the effects of current extension and community adoption indeed exceed those of past
+exposure. Under the maintained hypothesis of concave learning, this would signal significant
+conformity effects in the initial adoption decision. The effect seems to exist with respect to both
+community level of adoption, as reflected by the difference between the point estimates for percent
+of use in the previous year and percent ever adoption (7.363 - -9.261), and extension, as reflected in
+the difference between the point estimates for current extension presence and cumulative extension
+presence to date (1.015 - -0.314). Separate tests for conformity to authority and social conformity,
+also provided in Table 5, suggest both factors are at play.
+These effects are also important in subsequent decisions by adopters over the share of rice
+area to plant in SRI and whether to disadopt the method. The conformity to extension effect
+appears present in the choice of extent. There is also a positive and significant difference between
+the estimated effects of immediate past and historical community adoption patterns, suggesting social
+conformity plays a role in SRI adoption patterns in these villages. Social conformity seems to matter
+more than conformity to extension in the disadoption model. Part of the latter effect could be due
+to funding difficulties ATS faced in 1999 that caused it to withdraw extension service from many
+villages, including some of our sample villages. The sharply negative and statistically significant
+coefficient on the 1999 dummy variable may well be picking up year-specific effects that reduce the
+
+30
+precision of the estimated effects of extension presence, for which there is a relatively large, positive
+coefficient estimate. The signs of the estimated effects of present and past extension presence are
+the same in the disadoption probit model as in the other models; they are just imprecisely estimated
+relative to the other two models, perhaps due to this 1999 effect. Overall, these results are highly
+suggestive of the influence of nonpecuniary conformity effects on small farmers’ technology
+adoption patterns.
+
+7. Concluding Remarks
+This paper explores the puzzle of disappointingly low rates of adoption and high rates of
+disadoption of an extraordinarily promising new technology among rice farmers in Madagascar. By
+recreating the history of adoption and land use among 317 households in five villages, we were able
+to explore the multifactorial determinants of technology adoption dynamics in such a setting. We
+employ a multi-step estimation method, including a rarely exploited technique for estimating Tobittype models that allows us to control for farmer fixed effects that surely matter a great deal to farm
+management decisions. Consistent with the longstanding literature, we find strong evidence
+supporting the hypothesis that farmer education, liquidity and labor availability matter to farmers’
+willingness to try new, labor-intensive technologies.
+Like a more recent literature, we also find that learning effects play a major role, not only in
+farmers’ initial decisions to try a new technology, but also in the subsequent decisions as to what
+proportion of their cultivated area to put into the new method and whether or not to continue with
+the method in future years. In sum, liquidity, labor and learning effects all matter, albeit to different
+degrees and with regard to slightly different decisions regarding the use of a technology. Unobserved
+farmer fixed effects (such as skill and motivation) seem to play a huge role in adoption and continued
+use. This implies that models that fail to control for such effects likely overstate the role of such
+factors as education and experience, perhaps exaggerating learning-by-doing effects.
+
+31
+We also introduce a somewhat speculative but highly suggestive method for trying to
+distinguish between learning-from-others effects and small farmers’ nonpecuniary incentives to
+conform their behavior to those of their neighbors or to the wishes of people in positions of
+influence and power in their community. The results of this identification strategy suggest that
+conformity effects may indeed play a significant role in farmers’ technology adoption and use
+patterns. This particular point merits additional exploration in other data sets and using other
+identification strategies, but we think it promising and highly consistent with the relevant sociological
+literature on technology adoption (Rogers 1995).
+The case of SRI highlights a common problem in rural development: technology adoption is
+key to improving farmer productivity and household income, but the complexity of the adoption
+process makes targeting technologies difficult. Even when all the essential elements seem to be
+present (a low-external input, high-yielding technology, significant training and extension efforts,
+etc.), the end result can disappoint those responsible for developing and promoting the method.
+The labor-intensive nature of SRI and many other low-external input technologies have long
+been viewed as a positive characteristic in areas where labor is the main resource of the household
+(Lee and Ruben 2001). Yet the labor requirement is precisely the obstacle to adoption for many poor
+households with highly seasonal labor and income patterns.27 Seasonal family labor and liquidity
+constraints prevent poorer Malagasy farmers from taking advantage of SRI. Similar findings
+concerning the distributionally regressive nature of rice intensification strategies in Madagascar
+suggest that promoting alternative (non-rice) sources of income among the poorer farmers should be
+an important part of rural development programs in that country (Minten and Zeller 2000).
+Yet, it must also be recognized that although the poorest farmers rarely benefit directly from
+new technologies, because they tend to cultivate smaller plots, be more risk averse and less likely to
+
+27 This underscores the inaccuracy of the prevailing wisdom that opportunity costs of labor time are inevitably
+lower among the poor than among the wealthy. In the presence of multiple factor market failures – in this
+case, for interseasonal finance and land – the poor often face greater shadow wage rates greater than the
+wealthy (Barrett and Clay 2003).
+
+32
+interact with extension agents (Feder et al. 1985), they may nonetheless enjoy significant net benefits
+in their role as hired workers and as net food buyers. If bigger farmers adopt labor-intensive
+technologies such as SRI on a sufficiently large extent without turning to mechanization, hired labor
+demand (and thus wages) ought to increase, and if widespread adoption on bigger farms increases
+aggregate food supply enough, rice prices should fall. This may disappoint those who want to have a
+direct impact, but the painful reality is that the poorest rural residents are commonly net food buyers
+and rely heavily on unskilled off-farm labor earnings (Weber et al. 1988, Barrett and Dorosh 1996,
+Reardon 1997). Higher wages and lower food prices through technological advances on larger farms
+could prove more effective than increasing smallholder productivity in reducing rural African poverty
+and food insecurity. However, considering the high rates of disadoption among farmers who do not
+face liquidity problems but enjoy remunerative off-farm options, and the low extent of adoption
+among those who continue to practice the method, such aggregate effects seem unlikely in
+Madagascar for the foreseeable future.
+
+33
+References
+Abdulai, A., Monin, P., Gerber, J., May 2003. Output Uncertainty, Information Acquisition and
+the Adoption of New Technologies: Evidence from Tanzania. Working Paper.
+Akerlof, G., 1980. Theory of Social Custom, of Which Unemployment May Be One Consequence.
+Quarterly Journal of Economics 94, 749-775.
+Akerlof, G., 1997. Economics of Illusion. Econometrica 2, 317-31.
+Association-Tefy-Saina, 1995. Coûts de Revient Dans les Systèmes de Riziculture Divers. National
+Workshop on SRI. Antananarivo, Association Tefy Saina.
+Association-Tefy-Saina, 1999. SRI Hautes-Terres 1998-1999. Antananarivo, Association Tefy Saina.
+Association-Tefy-Saina, 1995. Projet Parc National de Ranomafana: Rapport d'Activites 1995.
+Association-Tefy-Saina, 1998. Statistiques sur les Exploitants Appliquant le SRI: Campagnes
+Rizicoles: 1994-97.
+Association-Tefy-Saina-Fianarantsoa, 1999. Fast-track Rapport Compagne Rizicole 1998-1999.
+Fianarantsoa, Association Tefy Saina.
+Barrett, C.B., Clay, D.C., June 2003. Self-Targeting Accuracy in the Presence of Imperfect Factor
+Markets: Evidence from Food-for-Work in Ethiopia. Journal of Development Studies 39,
+152-180.
+Barrett, C.B., Dorosh, P, 1996. Farmers' Welfare and Changing Food Prices: Nonparametric
+Evidence from Rice in Madagascar. American Journal of Agricultural Economics 78, 656669.
+Barrett, C.B., Moser, C., May 2003. Better Technology, Better Plots or Better Farmers? Identifying
+Productivity Gains Among Malagasy Smallholders From The System of Rice Intensification.
+Cornell University Working Paper.
+
+34
+Besley, T., Case, A., May 1993. Modeling Technology Adoption in Developing Countries. American
+Economic Review 83, 396-402.
+Cameron, L. A., 1999. The Importance of Learning in the Adoption of High-Yielding Variety Seeds.
+American Journal of Agricultural Economics 81, 83-94.
+Conley, T., Udry, C., 2001. Social Learning Through Networks: The Adoption of New Agricultural
+Technologies in Ghana. American Journal of Agricultural Economics. 82.
+David, C., Otsuka, K. (eds.), 1994. Modern Rice Technology and Income Distribution in Asia.
+Boulder, CO. Lynne Rienner Publishers.
+Feder, G., Just, R., Zilberman, D., 1985. Adoption of Agricultural Innovations in Developing
+Countries: A Survey. Economic Development and Cultural Change, 255-298.
+Foster, A., Rosenzweig, M., 1995. Learning By Doing and Learning from Others: Human Capital
+and Technical Change in Agriculture. Journal of Political Economy 103, 1176-1209.
+Frisvold, G. A., 1994. Does Supervision Matter? Some Hypothesis Tests Using Indian Farm-Level
+Data. Journal of Development Economics 43, 217-238.
+Greene, W., 1997. Econometric Analysis. Upper Saddle River: Prentice Hall.
+Hirsch, R., 2000. La Riziculture Malgache Revisitee: Diagnostic et Perspectives 1993-1999.
+Unpublished report to Agence Francaise de Developpement.
+Joelibarison, October 2001. Summary Economic Analysis of SRI Methods unpublished Cornell
+University memorandum.
+Kevane, M., Wydick, B., 2001. Social Norms and the Time Allocation of Women's Labor in Burkina
+Faso. Review of Development Economics 5, 119-129.
+Kreps, D., 1997. Intrinsic Motivation and Extrinsic Incentives. American Economic Review 87,
+359-364.
+
+35
+Lee, D., Ruben, R.., 2000. Putting the 'Farmer First': Returns to Labor and Sustainability in
+Agroecological Analysis. 24th International Conference of the International Agricultural
+Economics Association. Berlin.
+Madeley, J., 23 January 2001. Madagascar Rice Trial Lead to Agricultural Revolution: New Methods
+Break with Centuries of Tradition. Financial Times, London, pp 44.
+Minten, B., Zeller, M. (eds) 2000. Beyond Market Liberalization: Welfare, Income Generation and
+Environmental Sustainability in Rural Madagascar. Ashgate, Vermont.
+Moser, C.M., 2001. Technology Adoption Decisions of Farmers Facing Seasonal Liquidity
+Constraints: A Case Study of the System of Rice Intensification in Madagascar. M.S. thesis,
+Department of Applied Economics and Management, Cornell University.
+Moser, C.M., Barrett, C.B., June 2003. The Disappointing Adoption Dynamics of a Yield-Increasing,
+Low External Input Technology: The Case of SRI in Madagascar. Agricultural Systems 76,
+1085-1100.
+Neill, S., Lee, D., July 2001. Explaining the Adoption and Disadoption of Sustainable Agriculture:
+the Case of Cover Crops in Northern Honduras. Economic Development and Cultural
+Change 49, 793-820.
+Platteau, J.-P., 2000. Institutions, Social Norms, and Economic Development. Harwood Academic
+Publishers.
+Powell, J., November 1986. Symmetrically Trimmed Least Squares Estimation for Tobit Models.
+Econometrica. 54, 1435-1460.
+Rajaonarison, J., 1999. Contribution à l'Amélioration des Rendements de 2ème Saison de la Double
+Riziculture par SRI sous Expérimentations Multifactorielles. Thesis. Science Agronomique.
+Antananarivo, Université d'Antananarivo.
+
+36
+Rakotomalala, H. W., 1997.Comparaison entre la Riziculture Traditionnelle et le Système de
+Riziculture Intensive dans La Région de Ranomafana. Thesis. Science Agronomique.
+Antananarivo, Université d'Antananarivo.
+Reardon, T., 1997. Using Evidence of Household Income Diversification to Inform Study of the
+Rural Nonfarm Labor Market in Africa. World Development 25, 735-748.
+Rogers, E.M., 1995. Diffusion of innovations. Free Press,New York .
+Stoop, W.A., Uphoff, N., Kassam, A., March 2002. A Review of Agricultural Research Issues Raised
+By The System of Rice Intensification SRI from Madagascar: Opportunities For Improving
+Farming Systems For Resource-Poor Farmers. Agricultural Systems 71, 249-274.
+Uphoff, N.T., June 2000a. Update on the System of Rice Intensification SRI unpublished Cornell
+University memorandum.
+Uphoff, N.T., 2000b. Agroecological implications of the system of rice intensification SRI in
+Madagascar. Environment, Development and Sustainability 3
+Uphoff, N., Fernandes, E.C.M., Yuan, L.P., Peng, J.M., Rafaralahy, S., Rabenandrasana, J., 2002.
+Assessment of the system for rice intensification SRI. Proceedings of an International
+Conference, Sanya, China, April 1-4, 2002. http://ciifad.cornell.edu/sri/proccontents.html,
+verified 14 May 2003. Cornell International Institute for Food, Agriculture and
+Development CIIFAD, Ithaca, NY.
+Zeller, M., 1994. Determinants of Credit Rationing: A Study of Informal Lenders and Formal Credit
+Groups in Madagascar. World Development 22, 1895-1907.
+
+37
+
+Table 1. Adopters and Disadopters of SRI for the Survey Sites*
+Ambatovaky
+
+Percentage of households
+trying the method between
+1993-99
+Percentage of households
+using the method in 1999
+Percentage of adopters
+who disadopted
+*Based on a census of households.
+of households at each site.
+
+Iambara
+
+Torotosy
+
+Anjazafotsy Manandona
+
+Sample
+Average
+
+48
+
+16
+
+27
+
+28
+
+21
+
+25
+
+26
+
+7
+
+0
+
+13
+
+17
+
+15
+
+46
+
+53
+
+100
+
+49
+
+19
+
+40
+
+Sample average is weighted to account for different numbers
+
+Table 2. Farmer and Household Characteristics
+(means by strata, unless otherwise indicated)
+Adopters
+Disadopters
+Number surveyed
+
+Non-Adopters
+
+80
+
+83
+
+154
+
+Age of household head (years)
+
+44.6
+
+41.7
+
+44.4
+
+Years of education of household heada
+
+5.5
+
+5.3
+
+4.0
+
+Percent belonging to a farmer associationa
+
+49
+
+52
+
+29
+
+Number of adults in household
+
+3.7
+
+3.4
+
+3.6
+
+Number of children in household
+
+3.3
+
+3.0
+
+3.3
+
+Total lowland rice area 1999 (hectares)a
+
+0.67
+
+0.66
+
+0.54
+
+Total lowland rice area 1993 (hectares)b
+
+0.56
+
+0.61
+
+0.46
+
+Other crop area (hectares)
+
+0.58
+
+0.63
+
+0.53
+
+a (b): non-adopter category statistically significantly different from other categories at 5% (10%) significance
+level.
+
+38
+
+Variable
+Education
+
+Table 3. Variable Definitions
+Definition
+Number of years of education of the household head.
+
+Model
+Adopt,
+Disadoption
+
+Farmers’ organization
+
+Dummy variable indicating whether the farmer belongs to a
+farmer’s group.
+
+Adopt
+
+Agricultural day labor
+
+Dummy variable equaling one if agricultural wages were a
+major source of income for the household.—considered a
+sign of poverty.
+
+Adopt,
+Disadoption
+
+Stable income source
+
+Seasonally stable income sources that are widely considered
+signs of relative wealth (salary, metalworking, and milk
+production) and is a dummy variable indicating one of these
+sources available to the household.
+
+Adopt,
+Disadoption
+
+Distance to field
+
+Average distance in minutes to the household’s rice field.
+
+Adopt,
+Disadoption
+
+Distance between fields
+
+Average distance in minutes between fields.
+
+Disadoption
+
+Number of adults
+
+Number of adults in the household.
+
+Adopt,
+Disadoption
+
+Number of children
+
+Number of children in the household.
+
+Adopt,
+Disadoption
+
+Female farmer
+
+Dummy variable equaling one if the farmer is woman.
+
+Adopt
+
+Age of the farmer
+
+Age of farmer
+
+Adopt,
+Disadoption
+
+Total lowland rice area
+
+Number of ares of rice cultivated by the household.
+
+Adopt,
+Disadoption
+
+Off-season cropping
+
+Number of ares planted in winter crops on the rice fields.
+
+All
+
+Extension presence
+
+Dummy variable equaling one if SRI extension services were
+available in the community during that year.
+
+All
+
+Past extension
+
+Total number of years prior for which extension was
+available.
+
+All
+
+Percent of farmers
+using SRI
+
+Percent of farmers in the community practicing SRI the
+previous season.
+
+All
+
+Percent of farmers ever
+trying
+
+Percent of farmers in the community who have ever tried
+SRI.
+
+All
+
+Percent disadopting
+
+Percent of farmers in the community who have disadopted.
+
+Disadoption
+
+Experience
+
+Years of experience with SRI for farmer.
+
+Extent and
+Disadoption
+
+1996, 1997, 1998, 1999
+
+Year specific dummy variables.
+
+All
+
+39
+Table 4. Adoption Probit Estimates
+Explanatory Variable
+Constant
+
+Coefficient
+Estimate
+-2.045
+
+P-value
+(0.000)
+
+Education
+
+0.068
+
+(0.000)
+
+Farmers’ organization
+
+0.456
+
+(0.000)
+
+Agricultural day labor
+
+-0.354
+
+(0.001)
+
+Stable income source
+
+0.654
+
+(0.000)
+
+Distance to field
+
+-0.001
+
+(0.712)
+
+Number of adults
+
+-0.046
+
+(0.026)
+
+Number of children
+
+-0.001
+
+(0.948)
+
+Female farmer
+
+-0.195
+
+(0.087)
+
+Age of the farmer
+
+-0.018
+
+(0.280)
+
+Age squared
+
+0.000
+
+(0.428)
+
+Total lowland rice area
+
+0.004
+
+(0.000)
+
+Off-season cropping
+
+0.001
+
+(0.568)
+
+Extension presence
+
+1.015
+
+(0.000)
+
+-0.314
+
+(0.000)
+
+7.363
+
+(0.000)
+
+-9.261
+
+(0.000)
+
+1999
+
+2.441
+
+(0.000)
+
+1998
+
+1.484
+
+(0.000)
+
+1997
+
+0.984
+
+(0.000)
+
+1996
+
+0.506
+N
+Pseudo R2
+
+(0.000)
+1585
+0.354
+
+Past extension
+Percent of farmers using
+Percent of farmers ever trying
+
+40
+
+Table 5. Joint Hypothesis Tests28
+Effect
+Liquidity
+Learning by Doing
+
+Adopt (Probit)
+χ2
+P-value
+51.78
+(0.00)
+
+Extent (Tobit)
+F
+P-value
+NA
+NA
+
+Disadoption (Probit)
+χ2
+P-value
+11.18
+(0.01)
+
+NA
+
+NA
+
+NA
+
+NA
+
+30.04
+
+(0.00)
+
+Learning from others
+
+216.48
+
+(0.00)
+
+6.34
+
+(0.00)
+
+26.81
+
+(0.00)
+
+Conformity
+(to authority and to social
+norms)
+
+103.74
+
+(0.00)
+
+12.44
+
+(0.00)
+
+9.07
+
+(0.01)
+
+Conformity to Authority
+(Extension)
+
+74.27
+
+(0.00)
+
+12.75
+
+(0.00)
+
+1.64
+
+(0.20)
+
+Social conformity
+(% of households
+adopting)
+
+44.31
+
+(0.00)
+
+15.93
+
+(0.00)
+
+5.27
+
+(0.02)
+
+NA = not applicable
+
+28 The joint hypothesis Wald tests were conducted as follows: The liquidity effects variables are agricultural day
+labor, permanent income, and off-season cropping, and to test whether these variables have an effect on the
+dependent variables is equivalent to testing whether coefficients on these variable equal zero. Learning from
+others is measured by the extension variables, community history of SRI use, and interactions with other (SRI)
+farmers through membership in a farmer’s organization or personal knowledge. Learning by doing is measured
+by the farmer’s experience with the method and his education. To distinguish the conformity effects from the
+learning effects, the joint tests of the former test whether the effects of current extension and the percent of
+households practicing exceed those of past extension and percent of households ever adopting. These tests are
+not conducted if the coefficient for the most recent observation does not exceed that of the past observations.
+
+41
+Table 6. Tobit Estimation Results
+(using Powell’s symmetrically trimmed least squares estimator,
+with White’s heteroskedasticity consistent standard errors)
+
+Explanatory Variable
+
+Coefficient
+Estimate
+
+0.005
+
+(0.011)
+(0.098)
+(0.002)
+(0.001)
+(0.124)
+
+0.438
+
+(0.000)
+
+-0.044
+
+(0.225)
+
+-0.081
+
+(0.000)
+(0.000)
+(0.003)
+(0.002)
+(0.001)
+(0.033)
+(0.000)
+510
+
+Off-season cropping
+
+0.001
+
+Extension presence
+
+0.056
+
+Past extension
+
+-0.091
+
+Experience
+
+-0.126
+
+Experience squared
+% of farmers practicing
+SRI previous year
+% of farmers having ever
+tried SRI
+Age of the farmer
+
+(P-value)
+
+Age squared
+
+0.001
+
+1999
+
+0.511
+
+1998
+
+0.396
+
+1997
+
+0.284
+
+1996
+
+0.096
+
+Constant
+
+2.075
+N=
+
+42
+
+Table 7. Disadoption Probit Estimates
+Explanatory Variable
+Constant
+
+Coefficient
+Estimate
+1.066
+
+P-value
+(0.345)
+
+Education
+
+0.028
+
+(0.317)
+
+Agricultural day labor
+
+0.439
+
+(0.223)
+
+Stable income source
+
+-0.645
+
+(0.002)
+
+Number of adults
+
+0.067
+
+(0.174)
+
+Number of children
+
+0.088
+
+(0.020)
+
+Area in SRI the first year
+(ares)
+
+0.015
+
+(0.001)
+
+-0.055
+
+(0.238)
+
+0.001
+
+(0.190)
+
+-0.001
+
+(0.722)
+
+Distance to fields (minutes)
+
+0.003
+
+(0.663)
+
+Distance between fields
+(minutes)
+
+0.002
+
+(0.823)
+
+Percent Disadopting
+
+-1.030
+
+(0.096)
+
+Off-season cropping
+
+0.003
+
+(0.391)
+
+Extension presence
+
+0.509
+
+(0.141)
+
+-0.079
+
+(0.623)
+
+Percent of farmers using
+
+2.862
+
+(0.015)
+
+Percent of farmers ever
+trying
+
+-1.758
+
+(0.061)
+
+Experience
+
+-1.514
+
+(0.000)
+
+2.484
+
+(0.000)
+
+1999
+
+-2.174
+
+(0.000)
+
+1998
+
+-1.018
+
+(0.011)
+
+1997
+
+0.141
+
+(0.724)
+
+1996
+
+1.376
+N=
+Pseudo R2
+
+(0.001)
+418
+0.6464
+
+Age of the farmer
+Age squared
+Total lowland rice area
+
+Past extension
+
+Experience squared
+
+43
+
+Proportion of households
+
+0.25
+0.20
+0.15
+
+Adopters
+Disadopters
+
+0.10
+0.05
+0.00
+1993
+
+1994
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+Year
+
+Figure 1. Percent of Households Adopting SRI Across Five Sites 1993-1999
+
+

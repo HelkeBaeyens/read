@@ -1,0 +1,2448 @@
+Available online at www.sciencedirect.com
+SCIENCE@DIRECTO
+
+AGRICULTURAL
+ECONOMICS
+
+ELSEVIER
+
+Agricultural Economics 30 (2004) 31-49
+www.elsevier.com/locate/agecon
+
+Land degradation, drought and food security in a
+less-favoured area in the Ethiopian highlands: a
+bio-economic model with market imperfections
+Stein Holden*, Bekele Shiferaw 1
+Department of Economics and Resource Management, Agricultural University of Norway, PO. Box 5033,
+
+As 1432,
+
+Oslo, Notway
+
+Received 14 August 2002; accepted 2 September 2002
+
+Abstract
+This paper presents a bio-economic model of Andit Tid, a severely degraded crop-livestock farming system with high
+population density and good market access in the highlands of Ethiopia. Land degradation, population growth, stagnant
+technology, and drought threaten food security in the area. Drought or weather risk appears to have increased in recent years.
+The bio-economic model is used to analyse the combined effects of land degradation, population growth, market imperfections
+and increased risk of drought on household production, welfare and food security. We find that the indirect effects of drought
+on household welfare through the impact on crop and livestock prices are larger than the direct production effects of drought.
+Provision and adoption of credit for fertiliser, although risky in itself, may lead to increased grain production and improved
+household welfare and food security. Provision of credit may have a negative effect on conservation incentives but this effect
+may be mitigated by linking a conservation requirement to the provision of credit for fertiliser.
+© 2003 Elsevier B.V. All rights reserved.
+JEL classification: 013; Q21; Q12; QIS; Q27
+Keywords: Drought; Food security; Land degradation; Market imperfections; Credit; Bio-economic modelling
+
+1. Introduction
+Land degradation, poverty and food insecurity are
+pervasive and interconnected problems in Ethiopia.
+Stochastic rainfall causes severe droughts at irregular intervals and these droughts threaten the lives and
+livelihoods of millions of people. Policies and technologies that can contribute to increased food production and improved food security are badly needed.
+
+* Corresponding author.
+E-mail address: stein.holden@ior.nlh.no (S. Holden).
+1 Present address: ICRISAT, Hyderabad, India.
+
+There is a growing interest in using bio-economic
+models as a tool for policy analysis in order to better
+understand pathways of development2 and to assess
+the impact of alternative policies on the natural resource base and human welfare. One of the potential
+great benefits of these models is that they can provide
+an improved and more comprehensive indication of
+the feedback effects between human activity and natural resources. Modern computer power permits the
+2 A pathway of development is defined as a common pattem
+of change (or stagnation) in agriculture and livelihood strategies,
+associated with causal and conditioning factors (Pender et al.,
+1999).
+
+0169-5150/$- see front matter© 2003 Elsevier B.V. All rights reserved.
+doi: I 0.1016/j.agecon.2002.09.00 I
+
+32
+
+S. Holden, B. Shiferaw/Agricultural Economics 30 (2004) 31-49
+
+development of complex models far beyond what was
+possible only a few years ago. It has therefore become
+possible to make models that are theoretically more
+consistent and empirically more accurate.
+The novelty of the model presented here is that
+it is a dynamic non-separable household model that
+simultaneously integrates economic optimisation in
+production and consumption with inter-temporal environmental feedbacks, allowing for non-linearities
+in constraints as well as the objective function. Some
+other bio-economic models have not been truly dynamic because they have incorporated future impacts
+through sustainability constraints or user costs only
+(Holden, 1993a,b; Kruseman, 2000; Shiferaw and
+Holden, 1999, 2000). This model is dynamic, the
+households maximise discounted utility over a limited
+time horizon.
+Market imperfections and heterogeneity of resources across households in the study area cause
+land use at the plot level to depend on household
+resources (Holden et al., 2001). Models are therefore
+developed for different household categories. The
+models are calibrated and aggregated to resemble the
+actual pattern of household interactions through their
+participation in imperfect factor and output markets.
+These market imperfections include limited access
+to off-farm employment, price bands for outputs and
+labour, a constrained rental market for land through
+share tenancy, oxen rental market through exchange
+with labour only, constrained access to formal credit
+in kind (for fertiliser) or to informal credit at a high
+interest rate.
+This version of the model also incorporates risk
+averse behaviour through a constant partial relative
+risk aversion utility function, production risk due to
+drought, and downside risk aversion to taking credit
+for fertiliser. Drought also affects prices for crops and
+livestock and price expectations and these have additional effects on household production and welfare.
+Earlier optimisation models were also criticised for
+being linear while the reality they were supposed to
+represent was highly non-linear. While piece-wise linear representations of non-linear relationships may
+serve as good and efficient approximations, recent advances that allow for large non-linear optimisation
+models increase credibility.
+Like the Ginchi model (Okumu et al., 1999, 2000),
+this model endogenises the effects of land degradation
+
+in the form of soil erosion and nutrient depletion. The
+availability of biophysical data from conservation experiments in the study area allows us to estimate erosion rates as well as crop productivity responses on
+different soils in the study area. The model furthermore integrates crop and livestock interactions. Crop
+choice, building or removal of conservation structures
+on different types of land as well as fertiliser and manure use are endogenous decisions that affect the rate
+ofland degradation. These decisions affect erosion and
+nutrient depletion rates that determine crop productivity in later years.
+Agricultural production takes place in two cropping seasons per year, the meher and belg seasons.
+Recently, the belg season rains have failed in several
+consecutive years, which was rare in the past. The objective of this article is to analyse the implications of
+this new increased production risk using the dynamic
+bio-economic model. Specifically, we assess:
+(a) how risk of drought in combination with land
+degradation and population growth affects household production, income, welfare and food security; and
+(b) the impact of credit for fertiliser on household
+welfare, food security, incentives to conserve land
+and soil erosion.
+In Section 2 of the paper, we give a brief description of the case study area. The basic structure of the
+bio-economic model is outlined in Section 3, followed
+by a discussion of the methodology of bio-economic
+modelling in Section 4. The results and discussion are
+presented in Section 5, followed by the conclusion.
+
+2. Description of the case study area and data
+Andit Tid is located approximately 60 km north of
+Debre Berhan, along the main road between Addis
+Ababa and the Tigray Region, in North Shewa in the
+Central Ethiopian Highlands. This implies that the
+market access is fairly good. The area is classified as
+belonging to the low potential cereal-livestock zone
+and is severely degraded. It is a high altitude area
+(>3000 m.a.s.l.). The land is located in two altitude
+zones; dega zone ( <3200 m.a.s.l.) and wurch zone
+(>3200m.a.s.l.). The average rainfall is 1336mm per
+year distributed over two growing seasons, the meher
+
+S. Holden, B. Shiferawl Agricultural Economics 30 (2004) 31-49
+
+Table 1
+Farm areas by zone and slope class in Andit Tid (2000)
+Land type
+
+Depth
+class (em)
+
+Total area
+(ha)
+
+Percent of land
+type area
+
+Dega
+
+<30
+30-60
+>60
+
+210
+432.6
+200.9
+
+24.9
+51.3
+23.8
+
+Wurch
+
+<30
+30-60
+>60
+
+43.6
+94.2
+107.8
+
+17.7
+38.3
+43.9
+
+All
+
+<30
+30-60
+>60
+
+253.6
+526.8
+308.8
+
+21.4
+48.1
+30.5
+
+Source: Own survey data.
+
+season from June to November and the belg season
+from January to May. Droughts have not been common in the area until very lately, when the belg rains
+have failed in two consecutive years (1999 and 2000).
+Hailstorms and frost have, however, commonly damaged crops.
+The two dominant soil types are andosols and
+regosols. Andosols dominate in the wurch zone w~ile
+regosols dominate in the dega zone. Andosols are nch
+in organic matter due to the high elevation. The grass
+turf is collected in heaps and burnt3 before planting
+of barley. This releases nutrients for the crop but also
+causes considerable losses of organic matter and soil
+nitrogen. Yohannes (1989) estimated 75% of the land
+to be on steep slopes (>25% slope). Soil erosion rates
+in the area are very high and a large share of the land is
+shallow, causing reduction of soil depth to affect crop
+rooting depth and thus yields (Shiferaw and Holden,
+2001). Holden and Shiferaw (2000) estimated 21%
+of the agricultural land to be shallow ( <30 em soil
+depth) and 48% to be of medium depth (30-60 em)
+(Table 1). Based on the survey data, we divided land
+into eight land classes for our modelling (Table 2).
+Various forms of conservation technologies are
+common in the area. They have partly been introduced
+through external food-for-work programs. Exogenously introduced conservation structures have later
+been partly removed by the farmers. Shiferaw and
+Holden (1998) found that human population pressure
+(land scarcity) increased the probability that conservation structures were partly or fully removed. The
+3
+
+Locally called gaay.
+
+33
+
+reasons for this were thought to be that the conservation structures did not contribute to increased yields
+in the short run, the structures occupied some land
+and therefore reduced the effective planting area, and
+the structures collected fertile soils that could be used
+to increase short run production by dismantling the
+structures and spreading out the soil collected there.
+The structures could also harbour rats that might
+damage crops.
+The main crop in the area is barley, followed by
+wheat, horse bean and field pea. Lentils and linseeds
+are also commonly grown. Most crop production takes
+place in the dega zone but barley is also grown in
+the wurch zone in the belg season. The high elevation
+prevents production of other crops in this zone. .
+Cattle and sheep are the dominant types of livestock, but goats, equines and chicken are also common (Table 2). The animal population density is very
+high in the area; Yohannes (1989) estimated it to be
+1.48 tropical livestock units per hectare (TLU/ha)
+against 0.36 as the average for the Ethiopian highlands
+(Table 3). We found this density to have increased to
+2.03 TLU/ha in 1998 but it declined to 1.71 TLU/ha
+by the end of 1999 due to the drought (Holden and
+Shiferaw, 2000).
+The human population density was estimated to be
+145.5 persons/km2 in 1986 against the average of 61
+persons/km2 for the Ethiopian highlands (Yohannes,
+1989). The population density was 230 persons!km 2
+cultivable land. The population growth rate was estimated to be 3% per year, indicating that population
+pressure in the area is increasing.
+Production of crops and livestock are well integrated
+in the area. Oxen are the dominant source of traction
+power. Hand cultivation is used only on very steep
+slopes inaccessible by oxen. Animal manure is used
+for fuel or as fertiliser on crops. Sale of animals is an
+important source of cash income. Crop residues are
+used as animal fodder. Fodder is otherwise obtained
+from fallow land and grazing land but only a small
+share of this (5%) is from communal land. There is,
+however, free grazing outside the cropping season and
+this may create incentives for overstocking of animals.
+Fodder shortage is an important constraint and purchase of fodder and the use of cut and carry system
+are the main strategies to overcome this problem besides limiting the number of animals kept (Holden and
+Shiferaw, 2000).
+
+34
+
+S. Holden, B. Shiferaw I Agricultural Economics 30 (2004) 31-49
+
+Table 2
+Basic household aud farm characteristics for household groups in 1999, used as input in the model
+Variable
+
+Household group
+More than two oxen
+
+One ox
+
+No ox
+
+Household size (persons)
+Work force (persons)
+Consumer units (persons)
+
+6.44
+3.53
+5.15
+
+5.81
+2.89
+4.54
+
+4.1
+2.2
+3.31
+
+Land owned by land type (ha)
+Regosols, slope 0-20%, depth 25 em
+Regosols, slope 0-20%, depth 45 em
+Regoso1s, slope 0-20%, depth 60 em
+Regosols, slope >20%, depth 25 em
+Andosols, slope 0-20%, depth 25 em
+Andosols, slope 0-20%, depth 45 em
+Andosols, slope 0-20%, depth 60 em
+Andosols, slope >20%, depth 25 em
+
+0.79
+0.41
+0.15
+0.35
+0.44
+0.27
+0.15
+0.12
+
+0.69
+0.36
+0.13
+0.31
+0.39
+0.24
+0.14
+0.10
+
+0.50
+0.26
+0.10
+0.22
+0.28
+0.17
+0.10
+0.07
+
+2.68
+
+2.36
+
+1.70
+
+2.00
+1.00
+0.38
+0.58
+3.71
+1.63
+0.77
+0.29
+2.00
+
+1.00
+0.69
+0.34
+0.21
+2.63
+0.82
+0.32
+0.13
+2.00
+
+0.00
+0.50
+0.20
+0.10
+1.07
+0.07
+0.07
+0.00
+2.00
+
+Total farm size (ha)
+Livestock ownership (number)
+Oxen
+Cows
+Bulls
+Heifers
+Sheep, ewes
+Sheep, ram
+Goat, doe
+Goat, buck
+Hen
+Source: Own data.
+
+The land resources (land of different qualities) are
+fairly evenly distributed among households in the area
+due to the land reform and frequent land redistributions whereby land was allocated to households based
+on household size. Livestock wealth is therefore a better indicator of household wealth and wealth differentiation. Particularly oxen ownership signifies the farming capacity of households as the rental market for
+Table 3
+Changes in Andit Tid 1986-1999
+Variable
+
+1986
+
+1999
+
+Average farm size (ha)
+Average household size (persons)
+Average oxen holding (number)
+Average number of cows (number)
+Average number of sheep (number)
+Cereal production
+Animal density (TLU/ha)
+
+3.77
+5.04
+1.54
+
+2.16
+5.67
+1.20
+0.80
+5.30
+Net buyers
+1.71
+
+1.18
+
+6.25
+Net sellers
+1.48
+
+Sources: Yohannes (1989), and own data.
+
+oxen (ploughing) is imperfect (Holden and Shiferaw,
+2000). It also leads to the typical pattern where households without oxen rent out land to households with
+two oxen or more, while households with one ox exchange oxen among themselves.
+Land renting typically takes the form of share tenancy, where the share to the owner varies between 0.5
+and 0.25 depending on land quality. Households may
+have access to credit in kind for purchase of fertilisers
+but are reluctant to take this credit even though it appears profitable. Production and market risk and high
+aversion to these types of risk cause households to be
+reluctant to buy fertiliser on credit.
+Households have limited access to off-farm income
+sources and crop production is highly subsistence oriented, but the trend during the last 20 years has been
+from households being net sellers of food grains to
+now being net buyers. The recent droughts have even
+transformed the area to become dependent on food aid
+(Holden and Shiferaw, 2000).
+
+S. Holden, B. Shiferaw!Agricultural Economics 30 (2004) 31-49
+
+35
+
+The site selected for this study is unique in the
+African context due to the detailed biophysical and
+socio-economic data available over a period of 15-20
+years. The biophysical data include:
+
+Table 4
+Prices (Birr/kg) of crops and livestock (Bin per animal) in 1997
+(normal year) and 1999 (drought year)
+Crop or livestock type
+
+Price in 1997
+
+Price in 1999
+
+• detailed soil physical and chemical data;
+• erosion data at the plot level for different conservation technologies and crops over several years
+(from researcher managed and farmer managed experiments and farmers' plots);
+• crop yield data on different soils and under different
+conservation technologies;
+• climatic data; and
+• detailed plot level data from a stratified random
+sample of 120 households.
+
+Barley, meher
+Barley, belg
+Wheat
+Field pea, meher
+Field pea, belg
+Horse bean
+Lentil, meher
+Lentil, belg
+Linseed
+Oxen
+Cows
+Bulls
+Heifers
+Calves
+Sheep, ewes
+Sheep, ram
+Lambs
+Goat, doe
+Goat, buck
+Kids
+Hen, chicken
+
+1.05
+0.83
+1.66
+2.15
+2.15
+1.67
+2.41
+2.41
+1.66
+966
+558
+500
+333
+172
+57
+45
+33
+46
+48
+33
+10
+
+1.65
+1.42
+2.35
+2.37
+2.08
+2.38
+3.66
+3.75
+3.00
+585
+460
+293
+237
+68
+41
+56
+50
+41
+54
+40
+7
+
+Plot level data were collected by visiting and measuring (by triangulation) and observing all plots and
+by interviewing the households owning or renting
+the plots. Table 1 summarises the plot level data by
+soil/climatic zone and soil depth.
+Erosion rates were estimated based on experiments
+carried out by SCRP4 over many years in the study
+site. Yield responses were estimated based on SCRP
+experimental data for conservation technology responses, and based on FAO fertiliser experiments
+and local crop-fertiliser demonstration plots managed
+by the extension system. A comprehensive analysis
+of some of these data is presented in Shiferaw and
+Holden (2001).
+Socio-economic data were collected in household
+surveys in 1986, 1994, 1998 and 2000. The three
+last surveys were carried out by the authors. These
+data were used to structure and calibrate the bio-economic models for the different household categories
+(Tables 1-3). Prices from 1997 (normal year) and 1999
+(drought year) (Table 4) were used to construct expected prices based on the probability of drought.
+
+3. The bio-economic model
+Earlier versions of this model include Shiferaw et al.
+(2000, 2001). The main expansion of the model pre4 Soil Conservation Research Project (SCRP) was funded by
+the Swiss government and carried out soil conservation research
+in selected sites in the Ethiopian highlands from 1981 to the
+mid-1990s.
+
+Source: Own data.
+
+sented here is the introduction of risk due to stochastic rainfall, a better representation of the market imperfections found in the area, a better calibration of
+the model to the actual conditions in the area based
+on new survey data (Holden and Shiferaw, 2000), and
+numerous minor adjustments improving the theoretical consistency of the model and its validity in terms
+of its ability to replicate current and recent land use
+and household welfare in the study area.
+A simple conceptual representation of the model is
+presented in Fig. 1. A more detailed technical description is given in Appendix A. Households maximise
+their welfare (measured as utility of certainty equivalent full income) subject to numerous constraints. The
+model is dynamic and non-linear. For example, land
+degradation in form of soil erosion and nutrient depletion is endogenous as it is affected by household production and investment decisions. Furthermore, soil
+erosion affects soil depth which in turn affects yields
+and output in following years that again affect income and welfare. Weather risk affects production
+as well as prices and this may again affect production decisions. Households make production decisions
+
+36
+
+S. Holden, B. Shiferaw!Agricultural Economics 30 (2004) 31--49
+
+Fig. I. Main components of bio-economic household group model.
+
+based on expectations about prices and output and
+the risk involved. Imperfections in markets (limited
+access, high transaction costs) affect production decisions and cause non-separability of production and
+consumption decisions. Population growth affects both
+the labour force and household welfare as more people have to share the outcome of a constant land area
+that also is affected by land degradation. This leads
+to a Malthusian development path when technology,
+prices and other exogenous factors are constant. This
+poverty-environment trap can only be broken through
+availability of new technologies, improved access to
+markets and better investment opportunities.
+
+4. Methodology
+Holden et al. (200 1) found that market imperfections in the study area affected land use and plot level
+land productivity and this has implications for how
+units for bio-economic modelling were identified.
+These findings indicate that aggregate bio-economic
+models at watershed and/or community levels would
+fail to address issues related to social differentiation
+and its impact on land use. Watershed or community
+level bio-economic models typically rely on perfect
+market assumptions and separability of production
+
+decisions from consumption decisions or on egalitarian distribution of resources and equal market access
+within communities. 5 These assumptions do not fit
+well with empirical reality in the Ethiopian highlands
+in general and the case study area in particular. It
+appears more appropriate to model land use decisions
+at the household group level, and to aggregate from
+(uniform) household groups to the community or watershed levels afterwards. However, our approach does
+not capture explicit spatial issues such as the close
+neighbour effects of conservation decisions (spatial
+ex ternali ties).
+Household group modelling and aggregation requires proper weighting and calibration of the different models to satisfy local demand and supply
+equations. It is assumed that population growth takes
+place by growth of average household size for the different household groups. The share of households in
+the different household groups may change over time,
+however, and this must be adjusted during aggregation in later years. Alternatively, farm sizes could be
+adjusted down if fragmentation of land holdings or
+
+5 The land reform in Ethiopia resulted in an egalitarian land
+distribution in most communities. However, distribution of household labour and livestock, especially oxen used for traction, is less
+equally distributed.
+
+S. Holden, B. ShiferawlAgricultural Economics 30 (2004) 31-49
+
+37
+
+Table 5
+Cropped areas in 1999 and predicted ranges of cropped areas over 5 years (ha)
+Crop
+
+0
+Meher season
+Cereals
+Legumes
+Grazing/grass
+Fallow
+Eucalyptus
+Degraded
+
+Two oxen household group model: predicted areas
+
+Household group
+
+0.55
+0.23
+0.11
+0.78
+0.01
+0.00
+
+0.73
+0.29
+0.20
+0.91
+0.05
+0.01
+
+2
+
+Credit constrained
+
+Unconstrained credit
+
+0.96
+0.32
+0.22
+1.12
+0.08
+
+0.19-0.79
+0.21-0.45
+0.05-0.57
+0.52-0.54
+
+0.25-0.78
+0.23-0.67
+0.00-0.48
+0.35-1.46
+
+0.60-0.73
+0.13-0.36
+
+0.62-0.77
+0.13-0.38
+
+O.Q3
+
+Belg season•
+Cereals
+Legumes
+
+Source: Own data.
+a 1999 was a year with drought in the belg season, therefore no crops were planted in this season. This may have cause the shift in
+barley production to the meher season.
+
+land redistributions takes place. 6 We have calibrated
+the model to fit the actual land sizes after the latest
+land redistribution in 1997 in the study area. Farm
+sizes are based on actually measured plots. Measured
+farm sizes turned out to be on average 30% larger
+than reported by farmers.
+Collective action and open access resources or common property regimes may potentially be important in
+relation to the focus of our study. In our study area,
+most of the land has been divided and distributed to
+individual households. Only a small share of the fodder resources come from communal and open access
+land. There is also very little collective action in the
+area. We therefore think that the errors we commit by
+treating these supplies as exogenous in the model are
+small.
+The model is validated by comparison of base runs
+with actual survey data for key output variables for the
+different household groups (Table 5).7 The model is
+constructed in GAMS. A 5-year model contains about
+39,600 variables and 23,300 equations, many of which
+are non-linear.
+
+6 As our model only has a time horizon of 5 years these problems
+are not considered important for our analysis.
+7 Eucalyptus was not included in the 5-year model presented in
+this paper. We have run other models, for longer time periods, that
+include eucalyptus, but have not included these in this paper due
+to size constraints. There were no meaningful changes in cropping
+pattern over the 5-year period and we have therefore not included
+information on these changes.
+
+5. Results and discussion
+5.1. Land degradation, crop productivity and
+impact of conservation technologies
+Fig. 2 shows the yield trends over 5 years of barley on regosols on the four different land classes with
+and without conservation technologies when no fertiliser or manure is applied. Yields are shown for the
+cases when conservation structures do not reduce initial yields and when initial yields are affected negatively. We see that yields are lowest and decline most
+rapidly on shallow and steep soils.
+In Fig. 3, the decline in yields of barley over a
+5-year period on regosols in the meher season and on
+andosols in the belg season, with and without conservation technologies and without and with a fairly
+high level of fertiliser application, are shown. We see
+that yields decline slightly faster on andosols than on
+regosols, faster on un-conserved than on conserved
+land, faster on shallow soils and steep slopes, and
+faster when no fertiliser is used. Yields decline even
+on deeper soils that are conserved and receive a high
+level of fertiliser (55 kg Nand 50 kg P205 per ha) because conservation does not eliminate soil erosion and
+a marginal reduction in rooting depth reduces yields.
+
+5.2. The impacts of drought
+The effects of belg season drought on household
+welfare, income per capita, crop sale, risk premium,
+
+38
+
+S. Holden, B. Shiferaw!Agricultural Economics 30 (2004) 31-49
+
+Steep and shallow soils (<30 em deep)
+
+Soils with soil depth<30cm
+320
+300
+
+.
+~
+
+280
+
+320
+<>
+
+-·--.,_
+
+<>
+
+<>
+
+~--............._
+
+260
+
+........
+
+:E 240
+
+~
+
+--
+
+300
+No Conserv.
+-11-
+
+With conserv
+<>
+
+With Conserv"'
+
+220
+
+_......_
+
+.
+~
+
+280
+260
+
+¥" 240
+
+>=
+
+220
+
+200
+
+200
+
+180
+
+180
+
+2
+
+3
+
+.......
+A-.....
+
+<>
+
+--.............._
+
+No Conserv.
+
+<>
+
+-li-
+
+With Conserv
+
+~
+
+<>
+
+~
+
+'---..........
+
+-..
+
+<>
+With Conserv .•
+
+_......_
+
+.........
+
+5
+
+4
+
+Year
+
+Soils with soil depth 30-50 em
+800
+780
+760
+
+"' 740
+~
+
+~
+
+~ 720
+
+---0
+
+0
+
+.....
+
+:;:
+
+700
+680
+660
+2
+
+3
+
+4
+
+5
+
+Year
+
+Fig. 2. Barley yields on regosols (kg/ha) with different soil depth and slope without fertiliser or manure application. *If conservation
+technologies reduce the yields due to their occupation of a part of the area.
+
+on farm labour and credit demand are presented in
+Table 6 for the two oxen household group. The effect of providing credit for fertiliser (unconstrained)
+is compared to the case when credit access is constrained. The models have been run for 10 and 20%
+risk of drought. We see that households with access
+to credit to some extent compensate for the increasing
+risk of drought by reallocating their production such
+that crop sales are lower in good years (no drought)
+to reduce the need to buy crops (food) in case of
+drought. Without access to credit households are less
+able to do this and even become net buyers of crops
+in good years after a few years due to land degradation and population growth. Provision of credit
+and fertiliser supply may therefore to some extent
+reduce the need for food aid in drought years. Credit
+and fertiliser use helps also to better sustain household welfare while the development path is clearly
+Malthusian without access to credit for fertiliser
+(Table 6).
+
+There are both direct and indirect effects of drought.
+First, there is a direct production effect as crop production is reduced due to drought. The belg season
+drought has been so severe that no crops could be
+produced in this season. This production loss is therefore equal to the total belg season crop production in
+good years. The fact that the drought strikes over a
+larger geographical area leads to indirect price effects.
+Obviously, crop prices will increase in drought years
+and households are typically net buyers of crops in
+such years. This implies that they have to buy crops
+at a higher price. In addition, livestock prices decline
+when the drought is severe as people are forced to sell
+animals to buy food. This leads to a livestock value
+loss. We incorporated these losses in the model with
+and without access to credit and with a 10% risk of
+drought. The results are presented in Table 7. We see
+that the production loss is higher with access to credit
+because fertiliser is used on barley in the belg season
+in good years (no drought). The production loss tends
+
+Table 6
+Two oxen household group: impact of belg season drought on household welfare and production, when credit access for fertiliser is unconstrained or constrained
+Risk of
+drought (%)
+
+Year
+
+Utility (utils)
+
+Unconstrained access to credit for fertiliser
+10
+1
+0.439
+2
+0.495
+3
+0.517
+4
+0.486
+5
+0.445
+20
+
+1
+2
+3
+4
+5
+
+0.265
+0.328
+0.352
+0.323
+0.298
+
+Constrained access to credit for fertiliser
+10
+1
+0.323
+2
+0.355
+3
+0.206
+4
+0.274
+0.182
+5
+20
+
+I
+
+2
+3
+4
+5
+
+0.220
+0.245
+0.155
+0.172
+0.104
+
+Expected
+income per
+capita (Birr)
+
+Net sale
+crops, no
+drought (Birr)
+
+Net sale crops,
+drought (Birr)
+
+Drought risk
+premiuma
+
+Total labour
+on farm (man
+days)
+
+Formal credit
+demand (Birr)
+
+"'~
+
+562
+571
+582
+564
+536
+
+868
+812
+879
+606
+90
+
+-401
+-447
+-352
+-605
+-1111
+
+0.053
+0.051
+0.049
+0.047
+0.046
+
+440
+430
+449
+451
+434
+
+272
+364
+446
+446
+384
+
+541
+529
+552
+534
+504
+
+823
+591
+802
+586
+-63
+
+-350
+-339
+-270
+-465
+-960
+
+0.09
+0.068
+0.079
+0.074
+0.062
+
+439
+425
+442
+441
+429
+
+273
+236
+377
+415
+358
+
+514
+530
+478
+481
+446
+
+494
+164
+-82
+-358
+-447
+
+-337
+-623
+-873
+-1146
+-1179
+
+0.035
+0.031
+0.031
+0.03
+0.027
+
+439
+465
+440
+405
+405
+
+50
+50
+50
+50
+50
+
+510
+513
+487
+475
+440
+
+505
+187
+-43
+-315
+-454
+
+-324
+-600
+-831
+-1090
+-1065
+
+0.064
+0.057
+0.056
+0.055
+0.042
+
+438
+449
+454
+396
+410
+
+50
+50
+50
+50
+50
+
+t}
+
+_::s
+
+~
+
+"'
+;:,--
+
+S;
+
+;:;"'
+<:
+
+'~
+
+"";:;_
+
+"i:f"'
+
+~
+~
+
+"
+;:,
+
+~
+;:;·
+
+"''--'
+a
+
+w
+a
+~
+
+'--'
+.....
+
+i
+
+\()
+
+a Drought risk premium is measured as share of poverty line income.
+
+w
+
+'-0
+
+40
+
+S. Holden, B. Shiferaw!Agricultural Economics 30 (2004) 31-49
+
+Regosols (Meher season)
+
+Ill No Con. No Fert.
+D No Con. +Fert.
+• +Con. No Fert.
+
+D +Con. +Fert.
+50
+0
+
+L..IIBI.__.__
+
+j_
+
+Steep and shallow
+Shallow
+
+Medium
+Deep
+
+Soils
+
+Andosols (Belg season)
+200
+150
+•
+
+D
+
+100
+
+•
+
+D
+
+50
+0
+Steep and shallow
+Medium
+Shallow
+
+No Con. No Fert.
+No Con. +Fert.
++Con. No Fert.
++ Con. + Fert.
+
+Deep
+
+Soils
+Fig. 3. Barley yield declines over 5 years on andosols and regosols, with and without fertiliser (55 kg N/ha and 50 kg P20s), with and
+without conservation technology.
+Table 7
+Drought year losses and the effects of credit on drought year losses
+Credit constraint
+
+Year
+
+Production
+!ossa (Birr)
+
+Purchase food,
+price lossb (Birr)
+
+Livestock value
+lossc (Birr)
+
+Total loss,
+(Birr)
+
+Total loss, as share
+of poverty line
+
+2
+3
+4
+5
+
+834
+781
+792
+784
+829
+
+214
+415
+471
+651
+689
+
+1013
+989
+965
+932
+861
+
+2139
+2185
+2228
+2367
+2408
+
+0.79
+0.79
+0.78
+0.81
+0.81
+
+2
+3
+4
+5
+
+1321
+1125
+1051
+1043
+1028
+
+268
+313
+412
+552
+632
+
+1013
+989
+965
+920
+861
+
+2679
+2427
+2429
+2524
+2558
+
+0.99
+0.87
+0.85
+0.86
+0.86
+
+Yes
+
+No
+
+a Production loss is valued at the normal year prices.
+b In drought years extra cereals have to be bought at a high price.
+c Livestock prices are lower in drought years and this leads to a loss of wealth.
+
+S. Holden, B. Shiferaw/Agricultural Economics 30 (2004) 31-49
+
+41
+
+Table 8
+Effects of credit access on conservation investment and soil erosion when conservation technologies do not reduce initial yields
+Credit
+constraint
+
+Total erosion
+(tons per farm)
+
+Area conserved
+(ha)
+
+Proportion of all
+land conserved
+
+Proportion of
+regosols conserved
+
+Proportion of
+andosols conserved
+
+2
+3
+4
+5
+
+100.3
+87.6
+78.1
+71.2
+71.9
+
+1.056
+1.504
+1.852
+1.783
+1.713
+
+0.394
+0.561
+0.691
+0.665
+0.639
+
+0.437
+0.713
+0.791
+0.713
+0.672
+
+0.318
+0.298
+0.518
+0.583
+0.583
+
+2
+3
+4
+5
+
+109.6
+103.2
+93.8
+76.2
+73.0
+
+0.768
+0.845
+1.196
+1.781
+1.667
+
+0.287
+0.315
+0.446
+0.664
+0.622
+
+0.267
+0.325
+0.532
+0.795
+0.647
+
+0.320
+0.298
+0.298
+0.438
+0.580
+
+Year
+
+Yes
+
+No
+
+to decline over years due mainly to crop productivity loss. The loss due to the need to buy cereals for
+food in drought years increases over time, however,
+and is not much different with or without access to
+credit for fertiliser. Livestock value losses decline over
+time as the number of animals declines over time. The
+total loss is around 80% of the poverty line income
+when credit access is constrained and even higher
+when credit for fertiliser is used. The direct production loss is 30--40% of the total loss without access to
+credit and is 40-50% of the total loss with access to
+credit.
+
+5.3. Impact of credit on conservation incentives
+The model includes both the options of removal
+of conservation structures and of building new conservation structures and there is a labour requirement
+for maintaining conservation structures. Earlier versions of our model were used to test how credit access
+and fertiliser use affected incentives to conserve land
+(Shiferaw et al., 2001). In Table 8, we present new results on this for the case in which conservation technologies do not reduce initial yields. The table shows
+that the total erosion (tons of soil per farm) is higher
+
+Table 9
+Effects of credit access and interlinkage requirements of using credit for fertiliser on conserved land only when conservation technologies
+take 5-10% of the land out of production
+Credit
+constraint
+
+Interlinked
+credit to
+conservation
+
+Yes
+
+No
+
+No
+
+No
+
+Year
+
+Utility
+
+Total erosion
+(tons per farm)
+
+Total labour
+(man days)
+
+Labour for removal
+of conservation
+structures (man days)
+
+Labour for building
+of new conservation
+structures (man days)
+
+2
+3
+4
+5
+
+0.468
+0.446
+0.31
+0.189
+0.139
+
+124.3
+121.4
+113.9
+100.2
+84.8
+
+405
+397
+417
+388
+374
+
+19.5
+0
+0
+0
+0
+
+0.8
+0.1
+24.1
+29.3
+42.3
+
+2
+3
+4
+5
+
+0.615
+0.647
+0.593
+0.533
+0.352
+
+125.5
+121.6
+115.8
+100.9
+81.7
+
+420
+409
+420
+412
+411
+
+19.5
+0
+0
+0
+0
+
+0.8
+0.1
+8.7
+43.9
+68.9
+
+2
+3
+4
+5
+
+0.575
+0.631
+0.58
+0.529
+0.299
+
+109.2
+109.2
+108.8
+94.8
+75.7
+
+446
+421
+415
+424
+395
+
+9.9
+2.6
+1.1
+2.4
+3.5
+
+41.8
+9.6
+14.2
+52.9
+60.5
+
+No
+
+Yes
+
+42
+
+S. Holden, B. Shiferaw/Agricultural Economics 30 (2004) 31-49
+
+after provision of credit as the area conserved is lower,
+particularly in the initial years. The proportion of total
+land conserved increases from 39 to 64% when there
+is no access to credit and from 29 to 62% with access to credit. There is some removal of conservation
+structures in the terminal year.
+In Table 9, we look at the case in which conservation structures reduce initial yields. Here we look
+at the impact of credit as well as the impact of linking access to credit to a conservation requirement for
+land where fertiliser is used. We see that erosion rates
+are higher when initial yields are reduced by conservation structures. More labour is used for removal of
+conservation structures in the initial year. Provision of
+credit does not increase erosion as much in the case
+in which conservation structures reduce initial yields,
+because conservation structures are also removed in
+the credit constrained case. Imposing an interlinkage
+(cross-compliance) policy that credit for fertiliser only
+is available for conserved land, reduces erosion levels
+by 5-15%. The reduction is largest in the initial years
+as less conservation structures are removed and more
+new structures are built. Household welfare is reduced
+to some extent by the interlinkage policy and total
+labour requirement is increased in the initial years.
+Household welfare improves considerably compared
+to the credit constrained case, however.
+An important policy question is how easy or difficult it is to implement this type of interlinkage policy.
+There are extension agents in Andit Tid and they are
+already involved in promoting fertiliser use through
+organising demonstration plots in farmers' fields. It is
+therefore relatively easy for them to administer such
+a cross-compliance requirement. The extension agent
+in the area told us that he only gave fertiliser credit
+for use on flat and good soils. Few households dared
+to take credit for fertiliser, however, due to the risk
+involved. This special credit risk aversion appeared to
+be due to bad experience in the past when the punishment for failing to repay credit was quite severe.
+
+in the belg season. We have developed a model to
+assess the impacts of the drought on household production and welfare. We use the model to assess both
+the direct production losses and the indirect losses due
+to price changes for crops and livestock. Households
+will need to buy cereals at a high price in drought
+years to meet their food needs and/or they depend
+on food aid. Land degradation and population growth
+increase the need to purchase food over time, and the
+area has changed from being a surplus producer to
+a net buyer of cereals. Furthermore, severe drought
+causes livestock prices to decline. As livestock is the
+most important form of wealth that households have,
+this indirect effect of drought is considerable. Alternative forms of storage of wealth, e.g. bank savings,
+should be promoted.
+We find that provision of credit for fertiliser may increase barley production considerably and make more
+households surplus producers of grains, at least in
+years when drought does not occur. As much of the
+barley is produced in the belg season, provision of
+credit for fertiliser does not reduce much the need to
+purchase cereals in drought years. Higher production
+in good years may, however, make households more
+able to cope with drought year losses. The decline in
+household welfare over time may also be reduced by
+provision of credit for fertiliser.
+Provision of credit for fertiliser has a negative effect
+on incentives to conserve land and this causes erosion
+rates to be higher when credit is provided. In the case
+when conservation structures reduce initial yields it
+may be useful to interlink provision of credit for fertiliser to a conservation requirement as this may create additional incentives to conserve land and reduce
+erosion rates.
+Overall, even the combination of conservation structures and high levels of fertiliser use cannot sustain
+crop yields as erosion cannot be eliminated and soils
+in the area are shallow. Technical change, population
+control, better access to off-farm employment and out
+migration are necessary to avoid starvation or chronic
+dependence on food aid in the future.
+
+6. Conclusions
+We have developed a bio-economic model for a
+severely degraded area with high population density
+and good market access in the Ethiopian highlands.
+The area has recently been exposed to severe droughts
+
+Acknowledgements
+This work is part of the IFPRIIILRI project "Policies
+for Sustainable Land Management in the East African
+
+S. Holden, B. Shiferawl Agricultural Economics 30 (2004) 31-49
+
+Highlands". ILRI and IFPRI have provided funds and
+logistical support for the work. The Norwegian Ministry of Foreign Affairs has provided funds for this
+research in the Arnhara Region in Ethiopia. We also
+draw on earlier work funded by the Research Council of Norway. We acknowledge valuable input from
+Jens Aune to an earlier version of the model. Valuable
+comments on earlier versions of the paper have been
+received from an anonymous reviewer and from Peter
+Hazell, John Pender and participants in seminars at
+ILRI in Addis Ababa and IFPRI in Washington, DC.
+
+the risk premia were normalised by the poverty line
+income (1;1),9 excluding the value of leisure:
+E(/1 )
+
+=
+
+E(yt)
+
+The basic theoretical structure of the model follows.
+The household model represents an average household
+in a household group. We omit household group subscripts in the exposition below to simply notation.
+Representative households (for household groups)
+are assumed to maximise welfare:
+T
+
+where E(y1 ) is the expected full income 10 in Ethiopian
+Birr in period t. Subsistence leisure, Lemin, is valued
+at the minimum wage rate, wy,, required for the work
+force of the household, taking out only the subsistence
+level of leisure, to generate an income exactly equal
+to the poverty line income:
+l;t
+
+U =
+
+{
+
+lo
+
+/u
+
+1
+
+dt =
+
+L:/u
+
+1
+
+(A.1)
+
+0
+
+through a time-separable utility function over the time
+horizon T. Utility in period t is discounted by the discount factor,/ = (1/(1 + 8)) 1 , where 8 is the utility
+discount rate.
+Utility in period tis represented by a constant partial
+relative risk aversion utility function; 8
+Ut
+
+= (1 - J.L)f 1-JL
+
++ J.L- 1
+
+(A.2)
+
+where J.L is the partial relative risk aversion or the
+absolute value of the elasticity of marginal utility of
+certainty equivalent full income, Y, which is equal to:
+(A.3)
+
+where E(/1) is expected normalised full income in period t, 1/rlt the downside risk premium related to obtaining formal credit and o/21 the risk premium related
+to drought risk in the belg season. Full income was
+normalised by the poverty line full income (y 1), while
+8 This type of utility function has been used by Binswanger
+(1981) and others in empirical studies of risk preferences of farm
+households. Its simple form makes it attractive also for modelling
+purposes as risk aversion is captured by a single parameter.
+
+(A.5)
+
+where Lmax is the maximum time available for work
+and 1;1 is the poverty line income excluding the value
+of leisure. The time endowment, F 1 , of the household
+may then be formulated as follows:
+Ft =
+
+Lemin
+
++ Lmax
+
+(A.6)
+
+and poverty line full income is:
+Yt = Wy,Ft
+
+T
+
+(A.4)
+
+Yt
+
+Wy = - 1
+Lmax
+
+Appendix A. Detailed model description
+
+43
+
+(A.7)
+
+This formulation gives utility equal to zero if the
+household has Y1 = 1, negative utility if Y1 is below the poverty line (Y1 < 1), and positive utility if
+Y1 > 1. Population growth affects the time endowment and poverty line income causing both to grow
+proportionally over time.
+We are interested in the welfare changes of households over time. We define a Boserupian development path (Boserup, 1965) as a path where utility,
+u1 , grows over time, and a Malthusian development
+path (Malthus, 1798) as a path where utility declines
+over time. 11 The requirement for a Boserupian development path is then that income grows faster than the
+population, as Y1 is a measure of per capita income in
+period t.
+Risk premia are calibrated (Eqs. (A.8) and (A.9))
+using a Taylor expansion and approximation over the
+utility function (Sadoulet and de Janvry, 1995):
+9 Based on Dercon and Krishnan (1996) who develop
+consumption-based poverty lines for rural Ethiopia, including the
+study area. The poverty line is therefore treated as exogenous in
+the model.
+1 Computed based on probabilities of drought, hailstorm/frost
+damage and expected prices.
+11 The trend must be evaluated over a period of several years as
+it might otherwise be masked by short-term disturbances.
+
+°
+
+S. Holden, B. Shiferaw/Agricultural Economics 30 (2004) 31-49
+
+44
+
+1/r!t = 1/rJt(f.L, f.Ld, Cft, i, l;t, E(lt))
+
+= 0.5(JL + f.Ld) [
+
+(Cft(~: i)) 2 ]
+
+(A.8)
+
+E(/1 )
+
+'tfrzt = 1/rzt(f.L, var(lt), l;t, It)
+
+= 0.5JL [
+
+v~;lt)] E(/
+
+(A.9)
+
+1)
+
+where f.Ld is the additional risk aversion related to
+credit risk, C1 the amount of credit taken in period t,
+i is the interest rate, and var(l1) is the variance of income. Variance of income is computed on the basis
+of outcomes in good and bad years (drought years)
+and the probability of drought. This implies that variance of income also depends on crop choice and land
+degradation/conservation decisions.
+
+A.l. Market characteristics
+
+Households may sell labour in some seasons
+and buy labour in other seasons, however. The
+households are assumed to be drudgery averse
+(Chayanov, 1966; Nakajima, 1986). This implies
+that the shadow wage rate is an increasing function
+of the time worked and that there is a trade-off
+between income and leisure. Indifference curves
+between income and leisure will be upward sloping
+and convex in labour and income space. Household
+preferences for leisure in income-labour space are
+formulated as a reservation wage curve that is convex and upward sloping and calibrated to fit the
+observed seasonal labour supply/leisure demand
+and wage rates in the area:
+
+w; = fh + f]zDp + f33(Dp- f34) 2,
+L*
+Dp = ; ,
+
+L; :'S Lp,
+
+L; = LpF- LpH
+
+The model incorporates the following market characteristics. We leave out the subscript for year to simplify notation.
+
+• Credit market: Formal credit in kind (for fertiliser)
+that is constrained from above (Eq. (A.lO)):
+(A.lO)
+This credit must be repaid after harvest. It may also
+be possible to obtain informal credit within the village at a higher rate of interest (Eq. (All)):
+(A.ll)
+This credit must also be paid back within the same
+year.
+• Labour market: Households are assumed to have
+constrained access to off-farm employment and the
+wage rate in the labour market varies across seasons.
+Households may also hire labour for work on the
+farm. A price band is introduced such that the wage
+rate for hiring labour, is about 10-20% higher than
+the wage rate obtained while working off-farm. The
+household shadow wage in season p,
+should
+fall between the buying wage and the selling wage
+when households do not participate in the labour
+market (Eq. (A.12)).
+
+w;,
+
+(A.12)
+
+LpF = Lpc
+
++ Lpo,
+
++ LpL,
+
+LpT = L;
+
++ LpE
+(A.13)
+
+where f3s are parameters, D P is the seasonal family labour divided by the household labour force
+(W), L P is the maximum time which is available
+for work, 12 Lpc is seasonal family labour in crop
+production, L pL is seasonal family labour in livestock production, Lpo is seasonal off-farm family labour, L; is total seasonal family labour, LpF
+is total seasonal on farm labour and LpH is hired
+labour, LpT is the total seasonal time endowment,
+and LpE is the seasonal leisure time. Labour for
+conservation (building of new structures, maintenance of structures, and removal of old structures)
+is included in Lpc· The religious holiday constraint
+may be binding and limit labour supply in some periods of the year. The shadow wage is determined
+by the intersection of the wage equation with the
+labour constraint. We have not included a gender
+division of labour in the model because of the difficulties it would involve. This may imply that labour
+allocation is more efficient in the model than in
+reality.
+12 Maximum time available for farm work is determined by subtracting religious holidays from the total number of days in the
+period. Work on the fatm is not permitted on religious holidays.
+
+S. Holden, B. Sh!feraw/Agricultural Economics 30 (2004) 31-49
+
+• Land market: There is an informal rental market for
+land in the area. This market is interlinked with the
+output market as the rent is paid in the form of a
+share of the output (share tenancy). It is typically
+households without oxen that are forced to rent out
+part of their land and this land is rented in by households with two or more oxen. The share of the output
+paid to the owner varies from 0.5 on the best land to
+0.25 on poorer land. The scarcity of land in the area
+in combination with the stickiness of the 'price' in
+form of share of the output, cause demand (denoted
+by superscript d) for land to exceed supply (Holden
+and Shiferaw, 2000). Actual rented land cannot exceed the supply, however. A good reputation is important in order to be able to rent in land. For households renting land, denoted by superscript 2, we
+get:
+2d
+Aos Aqr
+> Y qr 1otq,
+
+(A.l4)
+where A~ 0 is a vector of operated land holding
+(subscript o) by land type (subscript q), Aqw is a
+vector of owned land (subscript w) by land quality class, A~r is rented land which is supply constrained given the shares of the output, C:tq, that
+have to be paid to the owner. Typically, these shares
+are equal to 0.5 for the best quality land, 0.33 on
+medium quality land and 0.25 on poor quality land.
+With these shares there 'Y is excess demand. is the
+relative population weight for households renting
+out versus households renting in land. For households renting out land, denoted by superscript 0, we
+have:
+A oqo
+
+=
+
+A-o
+
+qw -
+
+Aos 1 -
+
+qr otq
+
+(A.l5)
+
+• Oxen rental market: Households that rent out land
+do so because they lack oxen and are unable to borrow or rent in oxen to cultivate the land themselves.
+Oxen owners are reluctant to rent out their oxen
+due to moral hazard problems and the risk of their
+oxen being mismanaged. Oxen may be borrowed
+or rented, Oxrp• from relatives or close neighbours,
+usually in exchange for labour (interlinked markets). Seasonal oxen working days, Ox 0 p, is therefore the sum of the working days by owned oxen
+
+45
+
+(Oxwp) and the amount of oxen days rented in or
+out (Oxrp) during the period. Available oxen labour
+days from own oxen is limited by the number of
+religious holidays in the month.
+
+= Oxwp ± Oxrp,
+WJoLiop = Oxrp :=:;: Oxrp,
+
+OXop
+
+(A.l6)
+
+Oxwp:::;: Oxwp
+
+The cost of keeping oxen relates to their purchasing
+or breeding cost, fodder demand and the labour cost
+of looking after them.
+• Fodder market: Fodder is supplied by crop stover,
+grass production on grazing and fallow land, and
+purchased fodder. Households may decide to buy
+or sell fodder depending on their farm size, land
+allocation choices, the size of their livestock and
+the price and availability of fodder. The supply of
+fodder (Fo) in dry matter through own production
+and purchase (Fod) is:
+Fo = K8yicrAq Acr
+
++ KFod,
+
+Fod:::;: Fo
+
+(A.l7)
+
+where 8yicrAq is a vector of stover or fodder yields
+for different crops, including grass and fallow land,
+for different land types, and K is a vector of dry
+matter conversion factors.
+• Seed market: It is assumed that markets for seed
+function well but a price band is included making
+the price of purchased seeds 5% higher than the
+selling price. Households also have the option of
+storing seeds from their own harvest for the next
+season.
+• Output markets: Output markets are assumed to
+function well but a price band is included such that
+the purchase price is assumed to be 5% higher than
+the selling price.
+A.2. Land degradation and conservation
+The main forms of land degradation in the model
+are soil erosion and nutrient depletion. Plot level soil
+erosion per unit ofland (se Aq) is a function of soil type,
+soil depth and slope (land type class, Aq), rainfall (1/Jr ),
+crop choice (Cr), and use of conservation technology
+(l/1):
+
+(A.l8)
+
+46
+
+S. Holden, B. Shiferaw/Agricultural Economics 30 (2004) 31-49
+
+Soil erosion rates were determined based on field experiments carried out by the SCRP in the study area. 13
+Farmers may influence soil erosion rates through their
+crop choice/land use or by building or removing conservation technologies on the different types of land.
+The model implicitly evaluates the profitability of erosion control on the different types of land (soil type
+depth and land slope). Soil erosion affects soil depth
+(sd) through a transition equation:
+(A.19)
+where r is a conversion factor.
+Nutrient depletion in the model focuses on nitrogen and phosphorous which are considered to be the
+main nutrients limiting crop production in the area.
+The balance or depletion per unit of land at the plot
+level depends on the land/soil type, the stock of nutrients in the soil, crop choice, conservation technology use, yield, application of fertiliser and manure,
+and the release of nutrients from the soil. Nutrients
+are also lost through eroded soil and this soil is richer
+in nutrients than the soil remaining behind. 14 Release
+of nitrogen from the soil is assumed to depend on
+the stock of nitrogen. 15 The change in N stock is
+given by:
+(A.20)
+where N is nitrogen, ({! is the share of nitrogen mineralised in each period and 17 the nitrogen composition of the soil. The change in plant available N
+13 It may be questioned whether the erosion experiments captured
+the inflow of soils and not only the outflow, that is whether there
+could be soil accumulation somewhere in the watershed. Definitely,
+conservation structures captured much of the eroded soils and this
+was likely to have a positive impact on crop yields. The topography
+was such that it did not allow much soil accumulation in the
+valley bottoms that could benefit crop production. The model is
+calibrated based on erosion experiments, conservation technology
+experiments and yield experiments on different soil types and
+slope classes over several years. These experiments should also
+capture much of the spatial movement of soils. We cannot claim
+that these experiments provide unbiased estimates but it is the best
+scientific information available. Spatial externality etTects may be
+underestimated. They may, however, go in both directions (be
+positive or negative) in terms of how they affect crop yields. They
+may, e.g. contribute to gully formation and sediment accumulation
+that negatively affect yields.
+14 An enrichment factor of 2 is used for nitrogen.
+15 We assume that I% of the nitrogen stock is released each year.
+
+from period to period (¢) due to nutrient depletion is
+computed as:
+(A.21)
+The reduction in plant available nitrogen is included
+in the production function (Eq. (A.23)). The nutrients
+in animal manure are released over 2 years with 60%
+being released in the first year and the rest in the following year. The effects of nitrogen and rooting depth
+depletion on yields are therefore included while the
+effect of phosphorus depletion is not included. This is
+because incorporation of this effect would require additional data on P-fixation, conversion of stabile P to
+labile P and the total P stock in the soil.
+Households may decide to conserve their land by
+introducing conservation structures (graded soil/stone
+bunds). Only labour is needed as an input for this,
+100-120 working days/ha, depending on the slope of
+the land. Maintenance of the structures requires an
+additional 15-20 working days per year and hectare.
+Shiferaw and Holden (1998) found, based on econometric analysis of plot level data collected in 1994,
+that poor and land-scarce households were more
+likely to dismantle conservation structures introduced
+through food-for-work in the early 1980s. Therefore,
+in our model households may also decide to remove
+conservation structures and this is estimated to take
+only 25% of the time required for construction. The
+conservation structures may occupy some productive
+land, therefore reducing the effective cropping area
+and this may reduce initial crop yields. Two formulations of the model are used here, (a) where the
+yield loss is negligible, and (b) where initial yields
+are reduced by 5-10% depending on the slope of the
+land. Building or removing conservation structures
+may therefore affect long-term as well as short-term
+yields. The long-term effect goes through the impact
+on land degradation and the feedback through crop
+yields.
+A.3. Crop production
+Yields of different crops are functions of soil type,
+soil depth, slope, application of fertiliser and manure converted into nitrogen and phosphorus (P), and
+conservation technology (IJI). The intercept of the
+yield (yiint) function, suppressing the crop type and
+
+47
+
+S. Holden, B. Shiferaw/Agricultural Economics 30 (2004) 31-49
+
+year, is a function of soil type (Aq) and soil depth
+(sd):
+yiint
+
++ yi(Aq, sd)
+
+(A.22)
+
+The impact of soil depth on crop yield intercepts was
+estimated econometrically using farm level experimental data from the study area and testing alternative
+functional forms. 16 The final yields, including inputs,
+were also estimated econometrically; 17
+yiA q
+
+= yi(yiint•
+
+I.Jf, Np, ¢, Pp)
+
+A.4. Livestock production
+Cattle, sheep, goats, equines and chicken are the
+common livestock types in the area. All these, except
+equines, are included in the model. The productivity
+of the livestock, birth rates, mortality, feed requirements, milk production, ploughing capacity, manure
+production, culling rates, labour and other input costs
+are included. For example, cattle are divided in male
+and female calves, bulls, heifers, cows and oxen. The
+See Shiferaw and Holden (2001) for details.
+Using data from FAO fertiliser demonstration plots for the
+Debre Berhan area, assessing alternative functional forms.
+17
+
+LVPr+l
+
+= (1
+
+- ~- m)LVP,
+
++ LVBr+t
+
++ LVR1 + LVSr+l
+
+(A.23)
+
+where Np is fertiliser and manure nitrogen added, ¢ is
+the change in available mineralised nitrogen, and Pp
+is phosphorus added through fertilisers and manure.
+Yields may be influenced by conservation technologies (IfF) as conservation structures take up some part
+of the land, the structures may harbour pests, they may
+reduce runoff and leaching and, of course, erosion.
+The short-term effect on yields of the use of conservation technologies is therefore ambiguous but over time
+yields under conservation should decline less rapidly
+than without conservation.
+Crop choice will depend on the profitability (prices
+and yields), food, fodder, security, labour demand and
+distribution, the suitability of the different types of
+land, and access to inputs such as traction power,
+fertiliser and property rights or rental arrangements
+for land. The crops grown in the area include barley,
+wheat, field pea, horse bean, lentils and linseed. Land
+may also be planted with eucalyptus trees, grass or
+left fallow. All the crops may be grown in the meher
+season but only barley, field pea and lentils are grown
+in the belg season.
+
+16
+
+model is calibrated to the average livestock holdings
+for the different household groups, to the productivity
+and lifetime of the local breeds of livestock. The number of animals in each category is therefore a continuous number, not an integer. This applies to rearing,
+purchase, slaughter and sale of animals. Adult animals
+kept in a specific period are computed as:
+
+(A.24)
+
+where LVP is animals kept in production, ~is culling
+rate, m is mortality rate, LVB is animals bought, LVR
+is young animals reared into adult animals, and LVS
+is animals sold. Production of young animals is computed as:
+b LVPft
+
+= LVR 1 + LVRC 1 + LVRSr
+
+(A.25)
+
+where b is the birth rate, LVPf are female animals in
+reproductive age, LVRC is young animals consumed,
+and LVRS is young animals sold. These equations are
+adjusted for different animal types depending on the
+time spent different age classes and their reproduction
+characteristics (determined from survey data and literature).
+The decision to buy or sell animals depends on livestock productivity, mortality rates, buying and selling
+prices, fodder availability, cash constraints, food requirements and preferences, and other costs and benefits related to keeping animals. In order to avoid complete disinvestment in the terminal year, the model is
+constrained to such that not more than 20% of the
+stock can be sold in the terminal year.
+A.5. Crop-livestock interactions
+Livestock provide traction power and manure for
+crop production. A large share of the animal manure
+from cattle is used for fuel, reducing the amount available for crop production. On the other hand, crop
+residues are an important source of animal fodder.
+Stover yields are modelled to be a function of crop
+type and crop grain yields. Crop choice, crop management, e.g. use of fertiliser and animal manure,
+and land degradation, therefore also indirectly affect
+fodder yields. Total fodder production and purchased
+feeds must satisfy the livestock dry matter feed requirements:
+
+48
+
+S. Holden, B. Shiferaw I Agricultural Economics 30 (2004) 31-49
+
+(A.26)
+where W" is a vector of dry matter requirements for
+different types of animals and LVP is a vector of animals kept of different types and age classes. Animal
+manure available for crop production is calculated as:
+Ma
+
+= t:LVP
+
+(A.27)
+
+where c is a vector of the farmyard manure production per animal by animal type which is utilised as
+farmyard manure (excluding the part used for fuel).
+The system of free grazing outside the cropping
+season is not captured in the model. Likewise, the
+prestige value of animals is not included. There may
+therefore be more incentives to keep livestock than are
+captured by the model.
+
+off-farm income and the value of leisure:
+E(I)
+
+= p~yi~rA q Aq
+- PqL QL
+
+- PqC Qc
+
++ pi,yiLLVP
+
++ w poOP + w;Le
+
+(A.29)
+
+where p~ and pi, are vectors of expected prices 18 for
+crop and livestock production, PqC and PqL are prices
+of inputs in crop and livestock production, Qc and QL
+are vectors of non-labour input quantities in crop and
+livestock production, w po is a vector of seasonal wage
+rates in off-farm employment, and OF is a vector of
+seasonal participation in the labour market.
+The cash constraint for farm input purchase is derived from the extended quadratic expenditure system.
+The quadratic term was insignificant and was therefore omitted.
+
+A.6. Household consumption
+
+References
+An extended quadratic expenditure system, including consumption of food grains, pulses, other consumption, and farm input expenditure, was estimated
+based on consumption data from the 1994 household
+survey. The quadratic expenditure system gave a better
+fit than alternative expenditure systems (linear, log-lin,
+lin-log). This system does not satisfy exact aggregation. Only the food grain and input expenditure equations were included in the model. The food consumption equations follow:
+
+A. 7. Full income and cash constraints
+
+Binswanger, H.B., 1981. Attitudes toward risk: theoretical
+implications of an experiment in rural India. Econ. J. 91, 867890.
+Boserup, E., 1965. The conditions of agricultural growth. The
+Economics of Agrarian Change Under Population Pressure.
+Earthscan Publications Ltd., London.
+Chayanov, A.V., 1966. In: Thorner, D., Kerblay, B., Smith, R.E.F.
+(Eds.), The Theory of Peasant Economy. Irwin, Homewood, IL.
+Dercon, S., Krishnan, P., 1996. A consumption-based measure
+of poverty for rural Ethiopia in 1989 and 1994. In:
+Kebede, B., Taddesse, M. (Eds.), Proceedings of the Fifth
+Annual Conference on the Ethiopian Economy. The Ethiopian
+Economy, Poverty and Poverty Alleviation. Addis Ababa
+University, Addis Ababa.
+Holden, S.T., 1993a. Peasant household modelling: farming
+systems evolution and sustainability in northern Zambia. Agric.
+Econ. 9, 241-267.
+Holden, S.T., 1993b. The potential of agroforestry in the high
+rainfall areas of Zambia: a peasant programming model
+approach. Agrof. Syst. 24, 39-55.
+Holden, S.T., Shiferaw, B., 2000. Development paths and policies
+for sustainable land management in Andit Tid, North Shewa.
+An exploration of policy alternatives. In: Paper Presented at
+the National Workshop on "Policies for Sustainable Land
+Management", Addis Ababa, 22-23 May 2000.
+Holden, S.T., Shiferaw, B., Pender, J., 2001. Market imperfections
+and profitability of land use in the Ethiopian highlands: a
+comparison of selection models with heteroskedasticity. J.
+Agric. Econ. 52, 3.
+
+Expected full income is the sum of expected crop
+and livestock production values less input costs,
+
+18 The expected prices depend on the probability of drought
+(weighted prices).
+
+pgXg
+Xg
+
+= a1 + a2E(I) + a3E(I) 2 ,
+
+= XPgXBg + XSg.
+nuXg ::=: Numin
+
+(A.28)
+
+where Pg is a vector of food prices, Xg a vector of
+foods consumed, a1, a2, a3 are expenditure system
+parameters, XPg is own production of the commodities, XBg is purchased consumption, and XSg is stored
+produce from the previous period which is consumed
+during a given period. The two last equations include
+the additional food preference and minimum energy,
+fat and protein requirements.
+
+S. Holden, B. Shiferaw/Agricultural Economics 30 (2004) 31-49
+Kruseman, G., 2000. Bio-economic household modelling for
+agricultural intensification. PhD dissertation, Wageningen
+University, Wageningen.
+Malthus, T., 1798. An Essay on the Principles of Population.
+Nakajima, C., 1986. Subjective Equilibrium Theory of the Farm
+Household. Elsevier, Amsterdam.
+Okumu, B., Jabbar, M., Colman, D., Russell, N., 1999.
+Bio-economic modelling of watershed resources in Ethiopia.
+In: Paper Presented at the Annual Meeting of the American
+Agricultural Economics Association, August 1999.
+Okumu, B., Jabbar, M., Colman, D., Russell, N., Saleem, M.,
+Pender, J., 2000. Technology and policy impacts on nutrient
+flows, soil erosion and economic performance at watershed
+level: the case of Ginchi in Ethiopia. Draft paper.
+Pender, J., Place, F., Ehui, S., 1999. Strategies for sustainable
+agricultural development in the East African Highlands.
+Environment and Production Technology Division Working
+Paper #41. International Food Policy and Research Institute
+(IFPRI), Washington, DC, p. 86.
+Sadoulet, E., de Janvry, A., 1995. Quantitative Development Policy
+Analysis. John Hopkins University Press, Baltimore, p. 397.
+Shiferaw, B., Holden, S.T., 1998. Resource degradation and
+adoption of land conservation technologies in the Ethiopian
+highlands: a case study in Andit Tid, North Shewa. Agric.
+Econ. 18, 233-247.
+
+49
+
+Shiferaw, B., Holden, S.T., 1999. Soil erosion and smallholders'
+conservation decisions in the highlands of Ethiopia. World Dev.
+27, 4.
+Shiferaw, B., Holden, S.T., 2000. Policy instruments for sustainable
+land management: the case of highland Smallholders in
+Ethiopia. Agric. Econ. 22, 217-232.
+Shiferaw, B., Holden, S.T., 200!. Farm level benefits to investments
+for mitigating land degradation: empirical evidence from
+Ethiopia. Environ. Dev. Econ. 6, 335-358.
+Shiferaw, B., Holden, S.T., Aune, J., 2001. Population pressure and
+land degradation in the Ethiopian highlands: a bio-economic
+model with endogenous soil degradation. In: Heerink, N.,
+van Keulen, H., Kuiper, M. (Eds.), Economic Policy Reforms
+and Sustainable Land Use--Recent Advances in Quantitative
+Analysis for Developing Countries. Springer-Verlag, Berlin.
+Shiferaw, B., Holden, S.T., Aune, J., 2000. Population pressure,
+poverty and incentives for soil conservation in Ethiopia: a
+bio-economic modelling approach. In: Paper Presented at
+the Second International Conference on Environment and
+Development, Stockholm, 6-8 September 2000.
+Yohannes, G., 1989. Land-use, agricultural production and
+soil conservation methods in the Andit Tid Area, Shewa
+Region. Research Report 17. Soil Conservation Research
+Project, Ministry of Agriculture Soil and Water Conservation
+Development, Addis Ababa.
+
+

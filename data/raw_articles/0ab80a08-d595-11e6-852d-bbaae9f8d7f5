@@ -1,0 +1,997 @@
+AGRICULTURAL
+ECONOMICS
+
+ElSEVIER
+
+Agricultural Economics 13 (1995) 51-61
+
+Sources of agricultural productivity growth and stagnation
+in sub-Saharan Africa 1
+George Frisvold * , Kevin Ingram
+Economic Research Service, US Department of Agriculture, 1301 New York Avenue, Washington, DC 20005-4788, USA
+Accepted 12 November 1994
+
+Abstract
+
+This paper examines sources of agricultural growth in sub-Saharan Africa. Growth in the stock of traditional
+inputs (land, labor, livestock) remains the dominant source of output growth. Growth in modern input use was of
+secondary importance, but still accounted for a 0.2-0.4% annual growth rate in three of four sub-regions.
+Econometric results support earlier studies that suggest that land abundance may be a constraint on land
+productivity growth. Growth in agricultural exports and historic calorie availability had positive impacts on
+productivity. These latter results suggest that positive feedback effects exist between export performance and food
+security on one hand and agricultural productivity on the other.
+
+1. Introduction
+
+Many econometric studies have examined agricultural productivity differences among countries
+(e.g. Nguyen, 1979; Mundlak and Hellinghausen,
+1982; Antle, 1983; Hayami and Ruttan, 1985; Lau
+and Yotopolous, 1989; Haley, 1991; Ghura and
+Just, 1992). These studies, which estimate aggregate agricultural production functions from international data, have been important in quantifying
+the relative importance of such factors as modern
+input use, research, infrastructure, and capital
+accumulation on agricultural growth. Of these,
+only the studies by Haley (1991) and by Ghura
+
+Corresponding author.
+The views expressed are the authors' and are not necessarily those of USDA.
+*
+
+1
+
+and Just (1992) pay particular attention to countries in sub-Saharan Africa (SSA).
+This lack of attention is alarming for two reasons. First, agricultural productivity has been relatively stagnant in much of SSA. In the last 30
+years, both land and labor productivity have declined in many SSA countries. Food production
+per capita overall has declined and the number of
+severely malnourished people in SSA has increased by over 20 million (Rao and Caballero,
+1990).
+There is evidence of significant productivity
+growth in some countries (Thirtle et al., 1993).
+These exceptions to the general pattern of stagnation beg the question of how such success
+might be replicated elsewhere in SSA.
+Agricultural stagnation has obvious and disturbing short-term consequences for the poor in
+SSA. SSA's poor agricultural performance has a
+
+0169-5150/95/$09.50 © 1995 Elsevier Science B.V. All rights reserved
+SSDI 0169-5150(95)01143-9
+
+52
+
+G. Frisvold, K Ingram/ Agricultural Economics 13 (1995) 51-61
+
+second, negative implication for longer term industrial and general economic growth. Empirical
+studies have found a significant correlation between agricultural and overall economic development (Singer, 1984). As Rao and Caballero (1990)
+note, "very few countries have managed to maintain high rates of overall income or employment
+growth without also achieving high rates of agricultural growth".
+This paper examines sources of agricultural
+productivity differences among 28 SSA countries.
+These sources include land quality, modern input
+use, public investment in agricultural research,
+historic calorie availability, agricultural export
+growth, and agricultural export instability. Intuitively, one can see how agricultural productivity
+growth could enhance nutrition and agricultural
+trade performance. The paper's results, however,
+suggest that this relationship is not simply a unidirectional one from productivity to performance.
+Rather, in the long run, there are important
+positive feedback effects between calorie availability and trade performance on one hand and
+productivity on the other.
+The paper is organized as follows. Section 2
+presents the regression equation specification and
+discusses the explanatory variables used in our
+analysis. Section 3 discusses the regression results. In Section 4, the relative contribution of
+traditional inputs, modern inputs and 'non-conventional' inputs to agricultural output and productivity growth are assessed for four major
+agro-ecological regions of SSA.
+
+country in year t. The variables X 1 , X 2 , X 3 , and
+X 4 are measures of labor, fertilizer, tractor, and
+livestock inputs respectively. The remaining Z
+terms are 'non-conventional' inputs hypothesized
+to affect a country's total factor productivity. The
+{3j and 'Yk terms are parameters to be estimated
+and uit is an error term.
+The random errors, uit have the decomposition
+
+(2)
+where error terms ei, Tfp and Ein are independently distributed with zero means and positive
+variances. The component ei is the random disturbance characterizing the ith country and is
+constant through time. The component Tfn is the
+random component characterizing year t and is
+constant across countries. Eq. (1) is thus a two-way
+random effects (error components) model and is
+estimated using the method described by Fuller
+and Battese (1974).
+Agricultural output was defined as the total
+value of current output in 1979-1981 international dollars. The international dollar is a unit
+value developed by the Food and Agriculture
+Organization (FAO) to avoid the use of exchange
+rates in deriving production aggregates. Each
+commodity is assigned a single world price. Production is then weighted by the 1979-1981 average of world prices. Output was measured on a
+per hectare basis to avoid problems of heteroscedasticity. Agricultural land includes arable
+and permanent cropland and permanent pastures. Data come from the F AO Production
+Yearbook computer tape.
+
+2. Methods and variables
+
+2.1. Conventional inputs
+An aggregate agricultural production function
+was estimated from cross-section, time-series data
+for 28 sub-Saharan Mrican countries for the years
+1973-1985. Countries in the sample are listed in
+the Appendix. The production function was specified as
+4
+
+lit= f3o
+
++
+
+6
+
+.E f3jXjit + .E 'Ykzkit + uit
+j=l
+
+(1)
+
+k=l
+
+where lit is the log of aggregate agricultural
+output per hectare of agricultural land for the ith
+
+Four conventional inputs were included in the
+regression equation. Labor intensity, X 1 , is defined as the log of the ratio of persons economically active in agriculture to agricultural land.
+Previous studies of agricultural productivity have
+included only male labor as an input. Failing to
+include female labor is a serious problem, particularly in SSA where women perform much of the
+agricultural work. Ideally, one would want a measure of the flow of labor services rather than the
+
+G. Frisvold, K IngramjAgricultural Economics 13 (1995) 51-61
+
+number of persons economically active in agriculture which is a stock measure of labor input.
+Unfortunately, comprehensive cross-section time
+series data for the flow of labor services are not
+available. The use of a labor stock variable of the
+type employed here could significantly overestimate the amount of actual labor input utilized by
+agriculture. Such overestimation can bias downward estimates of labor productivity as will be
+discussed later.
+Fertilizers, X 2 , is the log of the amount of
+fertilizers used per hectare of arable and permanent cropland. Fertilizers are nitrogen, phosphates and potash consumed (kg). Tractor use
+intensity, X 3 , is measured as the log of tractors in
+service per hectare of arable and permanent
+cropland. The stock of livestock, X 4 , was calculated from FAO data using the same aggregation
+scheme employed by Hayami and Ruttan (1985).
+Several studies have included a measure of livestock as a productive input (Nguyen, 1979; Mundlak and Hellinghausen, 1982; Antle, 1983; Hayami
+and Ruttan, 1985).
+2.2. Non-conventional inputs
+
+Following the tradition of Hayami and Ruttan
+(1985) and others, the total factor productivity
+level of each country is measured as a function of
+non-conventional inputs. These inputs are nonconventional in the sense that they capture the
+impact of macroeconomic factors, public investment, agroecological specificity, and other factors
+which affect agricultural productivity but which
+are not traditional choice variables in farmers'
+production decisions. These variables are defined
+as follows.
+2.2.1. Land quality (Z)
+A static land quality index for each country
+was obtained from Peterson (1987) which measures land quality as a function of historic precipitation and the percentage of area devoted to
+pastures, irrigated crops, and non-irrigated crops.
+2.2.2. Irrigation (Z 2 )
+The level of irrigation technology and infrastructure is measured by the percentage of agricul-
+
+53
+
+tural cropland which the FAO designates as 'purposely provided with water'. Although the static
+land quality index accounts for the extent of
+irrigation at a single point in time, the irrigation
+variable also accounts for changes in irrigation
+over time.
+2.2.3. Agricultural research (Z 3 )
+An agricultural research intensity index was
+calculated as the log of the research stock per
+hectare of agricultural land. Data on country
+public research investment come from the International Service for National Agricultural Research (ISNAR) Agricultural Research Indicator
+Series reported in Pardoy et al. (1989). The research stock measure is an estimate of cumulative
+research investment over the previous 8 years.
+Pardey et al. report 5 year averages of research
+expenditures from 1960 to 1985. In constructing
+the research stock variable, it was assumed that
+expenditures where constant over each 5 year
+period.
+2.2.4. Calorie availability (Z 4 )
+A number of household level studies have
+found that agricultural labor productivity improves with historic nutrient intake of laborers
+(see Behrman et al., 1988 for a recent survey).
+Far fewer studies have examined the impact of
+nutrient intake at more aggregate levels. Two
+exceptions are papers by Correa (1970) and
+Wheeler (1980) which found a strong and significant positive correlation between economic
+growth and nutrient intake in LDCs. Changes in
+calorie availability seem likely to have important
+productivity effects in SSA where 26% of the
+population is deficient in calories for maintenance and 44% are deficient in calories for work
+(Kates and Haarmann, 1992).
+Variable Z 4 is the log of the ratio of daily
+calorie supply per capita to daily calorie requirement per capita. The use of calorie availability as
+an explanatory variable raises questions about
+causality. Does better nutrition lead to increased
+labor productivity or is more food available in
+areas that are more productive? Or, are both
+effects operative? To account for potential simultaneity bias, the calorie availability variable used
+
+54
+
+G. Frisuold, K. Ingram/ Agricultural Economics 13 (1995) 51-61
+
+in regression analysis is a lagged 5 year average of
+years t- 1 to t- 5. The lagged average was used
+for two reasons. First, the direction of causality
+from past consumption to current agricultural
+production is more clearly unidirectional. Second,
+a 5 year average better reflects historical nutrient
+availability.
+Estimates for both calorie supply and requirements are from the FAO. Calorie supplies are
+calorie equivalents of a country's food supplies.
+Food supplies comprise domestic production, net
+imports, and changes in stocks. Daily calorie requirements are estimates of calories needed to
+sustain a person at normal levels of activity and
+health. Requirements for each country differ taking account of age and sex distributions, average
+body weights, and environmental temperatures.
+The calorie availability variable may also be
+thought of as a measure of food security, albeit a
+relatively crude one. The variable says nothing
+about the distribution of food availability within a
+country. However, it seems reasonable to expect
+that as aggregate food availability declines chronic
+food insecurity increases. Chronic food insecurity
+represents a country's longer term difficulties in
+meeting basic nutritional requirements. Food insecurity may adversely effect agricultural productivity for another reason besides its more direct
+effect on labor productivity. In areas of chronic
+insecurity agricultural producers are likely to
+adopt risk-reducing rather than yield-increasing
+production strategies (Roumasset, 1976).
+2.2.5. Agricultural export growth (Z 5 )
+The role of export growth in stimulating overall economic development (Fosu, 1990; GyimahBrempong, 1991; Edwards, 1993) and sectoral
+total factor productivity growth (Tybout, 1992;
+Edwards, 1993) has received much attention in
+the literature.
+Export development has been hypothesized to
+stimulate productivity growth in a number of ways.
+First, countries benefit from basic comparative
+advantages and more rapid learning-by-doing
+from specialization. Second, expansion into international markets allows the export sector to benefit from scale economies. Third, the pressures of
+international competition are thought to force
+
+countries to adopt modern technologies and efficient methods of production more quickly. Fourth,
+exports form an important source of foreign exchange necessary for importation of modern inputs and capital formation. Finally, export levies
+are an important source of government revenues
+in many SSA countries. Changes in export earnings, therefore, affect the level of public funds
+available to finance irrigation projects, road construction, and other productivity-enhancing public investments.
+Studies of the impact of export growth on
+output growth have generally examined the relationship between export growth and gross domestic product (GDP) growth, but have not specifically examined the impact of agricultural export
+growth on agricultural productivity. Mundlak et
+al. (1989) estimated agricultural productivity as a
+function of past agricultural export prices rather
+than past export earnings. Although earnings and
+prices are not the same, the results of Mundlak et
+al. do suggest a relationship between international market behavior and domestic productivity.
+Growth of agricultural export earnings is likely to
+have a 'demand-pull' effect on technological innovation in the agricultural export sector.
+The following regression equation was estimated to construct and export growth and export
+instability variable
+ln(Eit) =a 0 +a 1ln(t) +a 2 [ln(t)] 2 +vit
+
+(3)
+
+where Eit is the value of agricultural exports in
+constant dollars. Separate regression equations
+were estimated for each country. The log
+quadratic specification of regression equation (3)
+fit the data very well with adjusted R 2 values
+over 0.90 for all countries in the sample. The log
+quadratic specification also fit the data better
+than simple quadratic of semi-log specifications.
+The predicted values of exports for country i in
+year t from Eq. (3) are given by Eit· The export
+growth variable is
+
+( 4)
+and reflects the growth trend in exports in a
+country over the previous 5 years.
+Including export performance as an explanatory variable again raises issues of causality. Ed-
+
+G. Frisvold, K. Ingram 1 Agricultural Economics 13 (1995) 51-61
+
+wards (1993) provides more discussion of problems of determining causality between export
+growth and other measures of economic performance such as GDP and productivity growth. As
+with calorie intake, this was accounted for by
+using past values of performance as an explanatory variable. Fig. 1 shows the long-term relationship between agricultural productivity and performance. Current productivity has more immediate
+impacts on current food security and export performance. In the longer run, we hypothesize that
+food security and export performance affect future productivity. There is thus a positive feedback loop over time between productivity and
+performance.
+
+2.2.6. Agricultural export instability (Z 6 )
+We also test the hypothesis that agricultural
+export instability could have a negative impact on
+productivity. Fluctuations in foreign exchange derived from export earnings may adversely affect
+the timing and availability of modern imported
+inputs (Love, 1989a). Also, fluctuations in foreign
+exchange may reduce the efficiency of public
+investments to raise agricultural productivity
+(Love, 1989b). Development projects may proceed in an erratic and halting manner. Fosu
+(1992), however, found little evidence to support
+the hypothesis that export instability had a negative impact on GDP growth in SSA.
+The instability of agricultural exports was constructed as follows
+Z 6 =In(
+
+_t vi~r-j))
+
+(5)
+
+J=l
+
+where
+
+vit
+
+are the residuals from Eq. (3). The
+
+Current
+Agricultural
+Productivity
+
+instability index captures the effects of deviations
+from trend in export growth over the previous 5
+years, placing relatively more weight on more
+extreme deviations from trend. This specification
+is similar to those employed previously in the
+literature (Fosu, 1990; Gyimah-Brempong, 1991).
+3. Regression results
+
+Regression results are presented in Table 1.
+The Fuller-Battese method (variance components model) is used. Regression equation (1) is a
+land productivity equation, given that the dependent variable is agricultural output per
+hectare. Column 1 reports results from the general specification of Eq. (1). Column 2 excludes
+variables found to be insignificant in the general
+regression. Results from Column 1 are discussed
+in this section while the results from Column 2
+are used in the following section on growth accounting.
+The model fits the data well. The R 2 between
+observed and predicted values of the dependent
+variable is over 0.94 for both models. The explanatory variables generally show a high level of
+statistical significance and are economically plausible. The random component (variance component) characterizing unspecified country effects is
+the largest portion of the error in the model.
+The output elasticity of labor is about 0.59
+which is very high relative to those of other
+conventional inputs. Haley obtained similar results in his study of agricultural production in
+SSA. Again, we should caution that the explanatory variable is the stock of labor (persons economically active in agriculture) rather than the
+
+Current Agricultural
+
+-
+
+55
+
+' -
+
+Performance
+
+Future
+Agricultural
+Productivity
+
+Calorie Availability
+
+Export Performance
+
+Fig. 1. Long-term relationship between agricultural productivity and performance.
+
+56
+
+G. Frisvold, K Ingram I Agricultural Economics !3 (1995) 51-61
+
+Table 1
+Estimation results 1973-1985 (dependent variable: Jog of agricultural output per hectare)
+Variable
+
+Intercept
+l..og(iaborlagriculturalland)
+l..og(iivestockl agricultural land)
+Log(fertilizersI cropland)
+Log( tractors 1cropland)
+Land quality index
+Percent of cropland irrigated
+l..og(research stock)
+Export growth
+Export instability index
+l..og(calorie availability)
+Variance component for cross sections
+Variance component for time series
+Variance component for error
+R 2 between observed and predicted
+Number of observations
+
+Regression Regression
+coefficient coefficient
+(t-statistic) (t-statistic)
+(1)
+
+(2)
+
+4.500
+(15.610)
+0.5894
+(10.224)
+0.1788
+(4.882)
+0.0218
+(2.127)
+0.0418
+(2.454)
+0.8866
+(5.299)
+0.4510
+(0.819)
+0.0848
+(1.440)
+0.0245
+(3.204)
+0.0004
+(0.025)
+0.3479
+(2.815)
+
+4.393
+(16.674)
+0.6000
+(10.674)
+0.1864
+(5.170)
+0.0256
+(2.571)
+0.0470
+(2.817)
+0.9144
+(5.646)
+
+0.0817
+0.0006
+0.0081
+
+0.0771
+0.0006
+0.0081
+
+0.95
+364
+
+0.0244
+(3.231)
+
+0.3498
+(2.867)
+
+0.95
+364
+
+flow of labor services. The labor variable used
+here is really a measure of rural population density, or inversely, land scarcity. Binswanger and
+Pingali (1988) have elaborated on the earlier work
+of Boserup (1965) which considered the impacts
+of population pressure on land productivity. They
+argue that land scarcity induces institutional and
+technological innovations which raise land productivity and that the relative land abundance in
+many parts of SSA are barriers to land productivity growth. Thus, the relatively large regression
+coefficient on the labor stock per hectare variable
+may be reflecting this 'Boserup effect'.
+The output elasticities for traditional inputs
+labor and livestock are higher than those of
+'modern' inputs, fertilizers and tractors. The pas-
+
+itive and statistically significant coefficient for
+tractor intensity is at odds with a more detailed
+study by Pingali et al. (1987) which found that
+tractors did not increase yields in 10 out of 14
+cases of tractor adoption in SSA countries. However, the results are consistent with the cross-section, time-series estimates obtained by Ghura and
+Just (1992) for East Mrica. The land quality
+index was highly significant while the irrigation
+variable was not. This may be due to the fact that
+Peterson's (1987) land quality index implicitly accounts for the extent of irrigation in calculation
+of land quality.
+The estimated elasticity of land productivity
+with respect to the research stock was low (less
+than 0.05) and statistically significant only at the
+10% level for a one-tailed t-test. This implies that
+research has yet to generate broad sectoral productivity growth in SSA agriculture. We experimented with estimating different impacts of research across sub-regions and with interacting
+research with measures of quality of national
+research programs reported in Cleaver (1993). In
+neither case did research prove to be significant.
+This could be for a number of reasons. First, the
+time lags for research impacts may stretch back
+farther than the data available to construct the
+research stock variable. Other possible reasons
+discussed in the literature include lack of critical
+mass of researchers, lack of spending per researcher, lack research historically in tropical and
+desert zones, and lack of congruence between
+output and research mix (Lipton, 1988; Eicher,
+1990).
+The output elasticity of historic calorie intake
+is quite high, over 0.34. This is consistent with
+results obtained by Correa (1970) and Wheeler
+(1980) who found a strong responsiveness of economic growth to improvements in nutrition. Estimating a simultaneous model of basic needs provision and economic growth, Wheeler found that
+the elasticity of economic growth with respect to
+improved nutrition was nearly 2.0 in very poor
+less developed countries (LDCs). The very high
+elasticities of both labor input and calorie intake
+suggest that improved labor productivity through
+provision of basic nutrition requirements is a
+potentially great source of agricultural growth.
+
+G. Frisvold, K. Ingram I Agricultural Economics 13 (1995) 51-61
+
+The results relating past trade performance to
+productivity are mixed. The coefficient on agricultural export growth was positive and significant at the 1% level (from a two-tailed t-test).
+We found no evidence that past export instability
+affected productivity. These two results for the
+agricultural sector in SSA match those obtained
+by Fosu (1990, 1992) regarding trade performance and overall GOP growth.
+
+57
+
+of output between time t and some base period,
+time 0, Qit - Q;o, can be written as
+
+(6)
+In other words, output growth is the sum of
+land productivity growth and the rate of land
+expansion.
+The regression results obtained from estimating Eq. (1) can be used to express land productivity growth as a function in changes in conventional and non-conventional inputs
+
+4. Accounting for agricultural growth
+
+4
+
+This section presents results of a simple accounting exercise which measures the relative
+contribution of production inputs and other variables to growth in agricultural output and land
+productivity. Agricultural output growth can be
+written as a function of agricultural intensification (an increase in output per hectare) and extensification (expansion of agricultural land). Let
+Q be the log of output, A the log of agricultural
+land area, and Y the log of land productivity
+(output per hectare). The continuous growth rate
+
+y;t- Y;o =
+
+L f3~( xjit- Xj;o)
+j=l
+
+12
+
++
+
+E ·h( zkit- Zk;o) + (uit- uw)
+k=l
+
+(7)
+where ¥; 1 - ¥; 0 is the continuous growth rate of
+land productivity. The first expression on the
+right hand side of Eq. (7) is a weighted aggregation of input intensities. The weights are simply
+the regression estimates of the parameters f3j and
+
+Table 2
+Contribution of explanatory variables to output and land productivity growth, 1973-1975 to 1983-1985
+SemiArid
+Tropics
+
+SubHumid
+Tropics
+
+Lowland
+Humid
+Tropics
+
+Humid
+Tropics
+
+2.07
+
+1.15
+
+1.86
+
+Agricultural output growth
+
+1.64
+
+Explained by changes in
+Agricultural land
+Land productivity
+
+0.16
+1.48
+
+0.27
+1.80
+
+0.53
+0.62
+
+0.26
+1.60
+
+Change in land productivity
+explained by changes in
+Conventional inputs
+Labor
+Livestock
+Fertilizers
+Tractors
+
+0.97
+0.31
+0.10
+0.14
+
+1.25
+0.34
+0.11
+0.07
+
+0.44
+-0.23
+0.01
+0.03
+
+0.79
+0.37
+0.11
+0.30
+
+Non-conventional inputs
+Export growth
+Calorie availability
+Land quality
+
+O.Ql
+0.16
+-0.06
+
+-0.08
+0.12
+0.00
+
+-0.07
+0.32
+-0.06
+
+-0.12
+0.03
+0.02
+
+Residual
+
+-0.15
+
+-0.01
+
+0.18
+
+0.10
+
+a
+b
+
+b
+
+a
+
+Figures are output-weighted geometric averages of sample countries in each agro-climatic zone.
+Actual change minus explained change.
+
+G. Frisuold, K lngramjAgricultural Economics 13 (1995) 51-61
+
+58
+
+of output-weighted geometric averages of sample
+countries in each zone. Output growth over this
+period ranged from 1.15 to 2.07%. This rate does
+not keep pace with the 2.8% rate of population
+growth over the same period. Output growth came
+predominantly from land productivity growth.
+Land expansion, however, remains an important
+source of output growth, accounting for 0.160.53% increases in annual output growth. Growth
+attributable to land expansion relative to overall
+growth was higher in more humid regions of SSA
+but is relatively less important in semiarid and
+sub-humid zones. Land expansion was particularly important in Burundi, Cameroon, Ivory
+Coast, Madagascar and Sierra Leone. In the
+Semi-Arid Tropics and Lowland Humid Tropics,
+production shifted toward countries with lower
+land quality reducing the weighted average regional growth - 0.06% per year.
+Growth in land productivity came primarily
+from growth of conventional inputs. The major
+source of land productivity growth was the increase in the number of economically active persons in agriculture per hectare of agricultural
+land. This result is consistent with arguments put
+forth in Binswanger and Pingali (1988) that land
+abundance in tropical countries, particularly SSA,
+
+Land productivity growth is thus a decomposition of growth in conventional and non-conventional inputs. The restricted regression (Table 1,
+Column 2) was used in the growth accounting
+exercise.
+Sample countries were classified into four
+agro-ecological zones based on Oram et al. (1990).
+The Semi-Arid Tropical Rainfall Zone is characterized by a 75-150 day growing season with
+major crops being millet, sorghum and groundnuts. The Sub-humid Tropical Summer Rainfall
+Zone has 150-210 day growing seasons and cropping patterns are heavily dependent on altitude.
+The major crop in this region is maize. Only two
+countries in our sample, Madagascar and Mauritius lie in the Lowland Humid Tropical Zone
+which has a growing season of 180-365 days.
+Dominant crops are rice, sugar, roots and tubers,
+and coffee. In the Humid Tropical Zone, the
+growing season increases from north to south in
+West Africa. Major commodities are roots and
+tubers. Sample countries are listed by agro-ecological zone in the Appendix.
+Table 2 shows the decomposition of agricultural output and land productivity growth rates
+for the four agro-ecological zones between 19731975 and 1983-1985. Table 2 reports growth rates
+Yk·
+
+1.5
+Q)
+
+Ol
+
+c
+co
+
+.r::.
+
+(.)
+
+oR
+0.5
+
+0
+
+·0.5
+Output
+
+Modern inputs
+Trade performance
+Calories available
+Land quality
+Tradtional inputs
+
+~':J Semi-Arid Tropics
+•
+
+Low-Land Humid Tropics
+
+•
+
+Residual
+
+Sub-Humid Tropics
+Humid Tropics
+
+Fig. 2. Output growth decomposed into contribution of traditional, modern, and non-conventional inputs.
+
+G. Frisvold, K. Ingram j Agricultural Economics 13 (1995) 51-61
+
+reduce incentives for farmers to adopt yield-increasing technologies. Substantial increases in
+land productivity should not be expected until
+land becomes relatively scarce.
+We should reiterate that growth in the stock of
+the agricultural labor force is not the same as
+changes in the flow of labor services. For example, the F AO data suggest that the stock of labor
+per hectare in Zimbabwe has been rising. Here,
+the stock refers to the number of economically
+active persons in agriculture. However, the more
+detailed country level study of Thirtle eta!. (1993),
+based on constructed Divisia indexes indicates
+that on-farm labor intensity has been declining.
+Thus, the F AO data may be underestimating
+growth rates of labor productivity, while capturing productivity benefits induced by growing land
+scarcity.
+Improvements in historic calorie availability
+contributed more positively to output growth than
+increases in fertilizer use in all regions except the
+Humid Tropics. It should be noted that the base
+period is the early 1970s, when many areas were
+suffering from extreme drought. Recovery from
+the drought conditions of this period may have
+contributed to longer term productivity growth,
+particularly in the Sahel region. The results are
+consistent with those of Wheeler (1980) and Correa (1970) who found that improved calorie intake made significant contributions to long-term
+economic growth in LDCs. The results also provide some support to the 'basic needs' strategies
+of development (Wheeler, 1980).
+Fig. 2 shows the relative contribution of different factors to agricultural output growth in a
+slightly different manner than Table 2. Output
+growth is decomposed into contributions by traditional inputs (land, labor stock, livestock) modern
+inputs (fertilizers, tractors), agricultural export
+growth, calorie availability and land quality. Fig. 2
+shows that the primary source of output growth
+in SSA remains growth in stocks of traditional
+inputs. Modern inputs (tractors, fertilizers) were
+next in importance in terms of contribution to
+output growth, except in the Lowland Humid
+Tropics where use did not increase appreciably.
+Regional averages mask differences across countries, however. For example, in the Semi-Arid
+
+59
+
+Tropical region, Botswana, Chad, Senegal, Somalia, and Sudan all experienced declines in fertilizer use even though the regional average of
+fertilizer use increased (Table 2). In Rwanda,
+intensity of all modern inputs declined. A deterioration of agricultural trade performance, in
+terms of export growth, affected all regions but
+the Semi-Arid Tropics. Negative export growth
+elsewhere accounted for an annual decrease in
+productivity of - 0.07 to - 0.12% per year (Table
+2).
+
+5. Conclusions
+
+This paper examined sources of agricultural
+growth in sub-Saharan Africa. Growth in the
+stock of traditional inputs (land, labor, livestock)
+remains the dominant source of output growth.
+Growth in modern input use was of secondary
+importance, but still accounted for a 0.2-0.4%
+annual growth rate across three of four sub-regions. Econometric results are consistent with the
+argument of Binswanger and Pingali (1988) that
+increasing land scarcity is a prerequisite for
+growth in land productivity.
+Results also indicated that research has yet to
+generate broad sectoral productivity growth in
+SSA agriculture. We experimented with estimating different impacts of research across sub-regions and with interacting research with measures
+of quality of national research programs. In neither case did we find a statistically significant
+relationship between research stock variables and
+aggregate agricultural productivity.
+The estimated elasticity of agricultural output
+with respect to calorie intake was quite high,
+about 0.35. This is consistent with results obtained by Correa and by Wheeler who found a
+strong responsiveness of economic growth to improvements in nutrition. The very high elasticities
+of both labor and calorie intake suggest that
+improved labor productivity through provision of
+basic nutrition requirements is a potentially great
+source of agricultural growth. Improved calorie
+availability contributed more to output growth
+than did growth in fertilizer use in all regions
+except the Humid Tropics.
+
+G. Frisuold, K. Ingram 1 Agricultural Economics 13 (1995) 51-61
+
+60
+
+Table A1
+Countries in sample grouped by agro-ecological zone
+Humid Tropics Semi-Arid Tropics Sub-Humid Tropics
+Benin
+Burundi
+Cameroon
+Congo
+Ivory Coast
+Ghana
+Liberia
+Nigeria
+Rwanda
+Sierra Leone
+Togo
+
+Botswana
+Burkina Paso
+Chad
+Ethiopia
+Mali
+Mauritania
+Niger
+Senegal
+Somalia
+Sudan
+Zambia
+
+Kenya
+Malawi
+Tanzania
+Zimbabwe
+
+Lowland Humid Tropics
+Madagascar
+Mauritius
+
+Another important finding is that trade performance is an important determinant of longer-term
+productivity growth. Agricultural export growth
+was found to have a statistically significant positive impact on productivity. Negative export
+growth in many countries over the sample period
+accounted for productivity losses in three of four
+regions in the study. These latter results suggest
+important positive feedback effects exist between
+trade performance and food security on one hand
+and agricultural productivity on the other.
+
+References
+Antle, J., 1983. Infrastructure and aggregate agricultural productivity: International evidence. Econ. Dev. Cult. Change,
+31: 609-619.
+Behrman, J., Deolalikar, A. and Wolfe, B., 1988. Nutrients:
+Impacts and determinants. World Bank Econ. Rev., 2:
+299-320.
+Binswanger, H. and Pingali, P., 1988. Technological priorities
+for farming in Sub-Saharan Africa. World Bank Res. Observer, 3: 81-98.
+Boserup, E., 1965. The Conditions of Agricultural Growth:
+The Economics of Agrarian Change under Population
+Pressure. George Allen and Unwin, London.
+Cleaver, K., 1993. A strategy to develop agriculture in subSaharan Africa and a focus for the World Bank. Tech.
+Pap. No. 203, Africa Technical Department Series, World
+Bank, Washington, DC.
+Correa, H., 1970. Sources of growth in Latin America. South.
+Econ. J., 37: 17-31.
+Edwards, S., 1993. Openness, trade liberalization, and growth
+in developing countries. J. Econ. Lit., 31: 1358-1394.
+
+Eicher, C., 1990. Building African scientific capacity for agricultural development. Agric. Econ., 4: 117-143.
+Fosu, A., 1990. Exports and economic growth: The African
+case. World Dev., 18: 831-835.
+Fosu, A., 1992. Effect of export instability on economic growth
+in Africa. J. Dev. Areas, 26: 323-332.
+Fuller, W. and Battese, G., 1974. Estimation of linear models
+with crossed-error structure. J. Econometrics, 2: 67-78.
+Ghura, D. and Just, R., 1992. Education, infrastructure and
+instability in East African agriculture: Implications for
+structural adjustment programs. J. Afr. Finance Econ.
+Dev., 1: 85-106.
+Gyimah-Brempong, K., 1991. Export instability and economic
+growth in sub-Saharan Africa. Econ. Dev. Cult. Change,
+39: 815-828.
+Haley, S., 1991. Capital accumulation and the growth of
+aggregate agricultural production. Agric. Econ., 6: 121157.
+Hayami, Y. and Ruttan, V., 1985. Agricultural Development:
+An International Perspective. Johns Hopkins University
+Press, Baltimore, MD.
+Kates, R. and Haarmann, V., 1992. Where the poor live: Are
+the assumptions correct? Environment, 34: 4-11, 25-28.
+Lau, L. and Yotopolous, P., 1989. The meta-production function approach to technological change in world agriculture. J. Dev. Econ., 31: 241-269.
+Lipton, M., 1988. The place of agricultural research in the
+development of sub-Saharan Africa. World Dev., 16:
+1231-1257.
+Love, J., 1989a. Export instability and recurrent and development expenditure in a sample of developing countries. J.
+Dev. Areas, 24: 19-26.
+Love, J., 1989b. Export imports and investment in developing
+countries. J. Dev. Stud., 25: 183-191.
+Mundlak, Y. and Bellinghausen, R., 1982. The intercountry
+agricultural production function: Another view. Am. J.
+Agric. Econ., 64: 664-672.
+Mundlak, Y., Cavallo, D. and Domenech, R., 1989. Agriculture and economic growth in Argentina, 1913-84. Rep. 76,
+International Food Policy Research Institute, Washington,
+DC.
+Nguyen, D., 1979. On agricultural productivity differences
+among countries. Am. J. Agric. Econ., 61: 565-570.
+Oram, P., Zapata, J., Alibaruho, G. and Roy, S., 1979. Investment and input requirements for accelerating food production in low-income countries by 1990. Res. Rep. 10,
+International Food Policy Research Institute, Washington,
+DC.
+Pardey, P., Roseboom, J. and Anderson, J., 1989. Agricultural
+Research Policy: International Quantitative Perspectives.
+Cambridge University Press, Cambridge.
+Peterson, W., 1987. International land quality indexes. Department of Agricultural and Applied Economics Staff
+Pap. P87-10, University of Minnesota.
+Pingali, P., Bigot, Y. and Binswanger, H., 1987. Agricultural
+Mechanization and the Evolution of Farming Systems in
+Sub-Saharan Africa. Johns Hopkins University Press, Baltimore, MD.
+
+G. Frisvold, K Ingram j Agricultural Economics 13 (1995) 51-61
+
+Rao, J. Mohan and Caballero, J., 1990. Agricultural performance and development strategy: Retrospect and prospect.
+World Dev., 18: 899-913.
+Roumasset, J., 1976. Rice and Risk: Decision-making among
+Low-Income Farmers. North-Holland, Amsterdam.
+Singer, H., 1984. Success stories of the 1970's: Some correlations. World Dev., 12: 951-952.
+
+61
+
+irtle., C., Atkins.. , J.. , B
+.. ottoml.ey, P., Gonese, N., Jones Gov-
+
+and Khatri, Y., 1993. Agricultural productivity in
+~ ereh
+Zimbabwe, 1970-90. Econ. J., 103: 474-480.
+Tyoout,-J:;1992. Linking trade and productivity: New research directions. World Bank Econ. Rev., 6: 189-211.
+Wheeler, D., 1980. Basic needs fulfilment and economic
+growth: A simultaneous model. J. Dev. Econ., 7: 435-451.
+
+

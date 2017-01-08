@@ -1,0 +1,1978 @@
+World Development, Vol. 24, No. 10, pp. 1579-1595,1996
+Copyright 0 1996 Elsevier Science Ltd
+Printed in Great Britain. All rights reserved
+0305-750X/96
+$15 .OO+ 0.00
+
+Pergamon
+
+SO305750X(96)00059-9
+
+Male-Female
+Productivity:
+
+Differences in Agricultural
+
+Methodological
+
+Issues and Empirical
+
+Evidence
+
+International
+
+AGNES R. QUISUMBING”
+Food Policy Research Institute, Washington, DC, USA.
+
+Summary. - Most estimates of male-female differences in technical efficiency from production function studies show that male and female farmers are equally efficient farm managers, controlling for levels of inputs and human capital. There is some evidence, however, of allocative inefficiency within
+households. Marginal products of labor depend on the relative scarcities of labor and the gender division
+of labor in specific farming systems. Many of these studies, however, are methodologically
+flawed.
+Greater attention needs to be given to appropriate estimation methods, endogenous input choice, the use
+of headship as a stratifying
+variable, and the implications
+of intrahousehold
+resource allocation.
+Copyright 0 1996 Elsevier Science Ltd
+
+1. INTRODUCTION
+It is often argued that women’s lower levels of
+human and physical capital result in lower productivity or inability to respond to economic incentives.’
+Much of the evidence cited to support this argument
+comes from agriculture. Yet, the measurement of differences in agricultural productivity between men and
+women is fraught with conceptual and methodological
+difficulties. These arise from the difficulty of defining
+appropriate measures of productivity
+in different
+farming systems, omission of individual characteristics in attempts to measure productivity differences by
+sex, and the lack of clarity regarding the measurement
+of sex and gender differences ?
+An evaluation of male-female productivity differences should ideally be based on estimates of total factor productivity, in which an index of output is divided
+by an index of inputs, aggregated over all types of outputs and inputs, respectively. Lack of gender-differentiated data on inputs and outputs, however, has prevented the use of this approach. Existing studies
+therefore use partial productivity measures, such as
+yield and labor productivity. These partial measures
+of productivity are complicated by differences in
+farming systems and social and cultural institutions. It
+is feasible to estimate technical efficiency differences
+between male and female farmers in farming systems
+where men and women manage separate plots, as in
+many African societies (Boserup, 1970). It is more
+difficult to isolate managerial efficiency differences in
+
+agricultural settings where plots are cultivated jointly
+by male and female family members and hired laborers. In the latter, found in the “male” farming systems
+of Asia and Latin America, the farm manager is usually assumed to be the male head of the household,
+regardless of the actual contribution of women to
+decision-making and farm labor.7
+Despite the volume of attempts to document
+male-female productivity differences, relatively few
+control for individual characteristics such as education and physical assets. If women systematically had
+
+1519
+
+*This paper draws from research begun while I was with the
+Education and Social Policy Department, The World Bank.
+Subsequent work at the International Food Policy Research
+Institute has been supported by the United States Agency for
+International
+Development,
+Office
+of Women
+in
+Development, Grant No. FAO-0100-G-00-5020-00,
+on
+Strengthening
+Development
+Policy
+through
+Gender
+Analysis: An Integrated Multicountry Research Program. I
+am grateful to Harold Alderman, Barbara Hem, Hanan
+Jacoby, Per Pinstrup-Andersen,
+Paul Schultz, Roger Slade,
+Daphne Spurling, and Chris Udry for comments and suggestions on previous drafts. I acknowledge insightful comments
+from seminar participants
+at IFPRI. I also thank Bob
+Evenson, Hailu Mekonnen, and Katrine Saito for providing
+me with unpublished material from their work in progress.
+Two anonymous referees contributed greatly to a better conceptualization of, and distinction between, sex and gender
+differences. Jay Willis provided assistance with graphics.
+The usual disclaimers apply. Final revision accepted: April
+20.1996.
+
+1580
+
+WORLD DEVELOPMENT
+
+lower levels of education and physical assets than
+men: which is typical in most agricultural settings,
+an approach that did not control for individual stocks
+of physical and human capital would tend to overestimate productivity differences due to sex.5 That
+is, women farmers would be expected to have lower
+productivity simply because they are female, not
+because they have fewer resources. Such an error
+would be unfortunate because the accurate diagnosis
+of sources of productivity differences, if they exist, is
+important in order to identify appropriate policy interventions for increasing women’s productivity and
+welfare.
+The inadequate specification of individual farmer
+characteristics
+contributes further to the confusion
+between “sex” and “gender” as a source of productivity differences. Sex differences are due to innate biological differences between men and women. Gender
+differences, on the other hand, arise from the socially
+constructed relationship between men and women
+(Oakley, 1972). These differences affect the distribution of resources and responsibilities
+between men
+and women, and are shaped by ideological, religious,
+ethnic, economic, and cultural determinants (Moser,
+1989, p. 1800). Being socially determined, this distribution can thus be changed through conscious social
+action including public policy.
+While there are other measures of productivity
+such as earnings functions and technological adoption
+functions, this paper concentrates on empirical estimates of production functions.6 Production functions
+have been widely used to estimate sex differences in
+technical efficiency. These studies typically estimate
+a pooled regression with a dummy variable for the sex
+of the farm manager (or household head). Coefficients
+from production functions have also been used to
+estimate sex differences in labor productivity. Many
+of these studies, however, ignore the simultaneity
+bias introduced by ordinary least squares (OLS)
+estimation of production functions, particularly the
+endogeneity of input choice with respect to farmer
+characteristics.
+This paper reviews the empirical evidence on sex
+differences in agricultural productivity based on production function estimates. It provides a critical
+review of the methodological issues underlying the
+measurement and empirical estimation of technical
+efficiency and labor productivity. In so doing, it aims
+to evaluate the current state of the literature and identify the most promising areas for future research.
+The remainder of the paper is organized as follows: Section 2 discusses the meaning and measurement of technical efficiency differences using production functions, and Section 3 presents a critical survey
+of empirical studies on technical efficiency and labor
+productivity differences by sex. Section 4 discusses
+outstanding conceptual and methodological
+issues,
+and suggests directions for future research.
+
+2. CONCEPTS AND METHODOLOGY
+(a) Productionfunctions
+A production function is defined in terms of the
+maximum output that can be produced from a specified set of inputs, given the existing technology available to firms (Battese, 1992, p. 185). Suppose that the
+production frontier is depicted in Figure 1.
+The horizontal axis represents the vector of inputs
+X associated with producing the output Y. Moreover,
+suppose that the observed input-output values come
+from a sample of male and female farmers, and that
+these are below the production frontier. That is, farmers do not attain the maximum output possible for the
+inputs involved, given the technology. Farmers may
+lie below the production frontier if different technologies are currently in use. Female farmers, for example,
+may be using traditional technologies either due to
+lack of knowledge, lack of access to modern inputs
+associated with new technologies, or higher costs to
+adopting the new technologies. A measure of technical efficiency for male farmers is given by y’/y* at A,
+and for female farmers by y2/y* at B, where y* is the
+frontier output associated with the level of inputs x.
+Given the level of input n, male farmers are more technically efficient than female farmers (they can produce more y with given inputs x).
+The primal approach to production analysis estimates directly the parameters of the production function of a farm manager i in householdj:
+
+where Y, is quantity produced, V, is a vector of inputs
+used by farm manager i (including land, labor, capital,
+and extension advice); Xi is a vector of individual
+attributes, including the sex of the farmer; and Z, are
+household- and community-level
+variables. Correlation of input use with individual and household characteristics can be captured by interaction terms Vi/ix,
+and VLZ,. In empirical applications, this involves estimating a single production function from the combined sample of male and female farmers, assuming
+that they are producing the same output and use the
+same technology, and allowing for sex differences in
+technical efficiency by using a dummy variable for the
+sex of the farmer.7 Note, however, that the confusion
+between “sex” and “gender” could lead to misspecification of the production function if a “gender dummy”
+were to capture only the sex of the farmer, omitting
+information on physical and human capital. Aside
+from the problem of omitted variables, the “gender
+dummy” would capture both the biological and
+socially determined characteristics of the individual in
+the absence of information on physical and human
+capital.*
+Most of the early empirical work on male-female
+
+MALE-FEMALE
+
+DIFFERENCES
+
+IN AGRICULTURAL
+
+1581
+
+PRODUCTIVITY
+
+Production frontier
+
+Output, Y
+
+Observed input-output
+;( A = (x,y’)
+Technical efficiency at
+
+1 B = (KY?
+
+0
+
+Technical efficiency
+B=y2/y
+
+X
+
+at
+
+Inputs, X
+
+x: inputoutput
+
+values of male farmers
+
+0: input-output
+
+values of female farmers
+
+Figure 1. Technical eficiency of male andfemale farmers.
+differences in technical efficiency
+Douglas production function:
+Y=a,La’
+
+P2
+
+has used the Cobb-
+
+(21
+
+where Y is output, L is labor input (hired or family),
+and T is a vector of land, capital, and other conventional inputs. Usually, the equation is estimated by
+ordinary least squares (OLS) by taking logarithms on
+both sides; a typical form is as follows:
+lnY=a,+a,lnL+a,lnT+~lnE+yEXT+
+6%X + E
+
+(3)
+
+where Y, L, and Tare as defined above; E is educational attainment or an indicator variable for level of
+schooling (of the farm manager, or household head, or
+the members of the household); EXT is an index of
+extension services; SEX is a dummy variable for the
+sex of the household head or farm manager, and E is
+the error term. The coefficient
+that indicates
+male-female differences in technical efficiency is 6,
+an intercept shifter. Correlation between the sex of the
+farmer and other inputs can be captured by interaction
+terms. Estimates of output per unit of land are usually
+obtained through yield regressions, where the depen-
+
+dent variable is yield per hectare and the input variables are expressed in terms of inputs per hectare.
+Although the Cobb-Douglas functional form is convenient to estimate since it is linear in parameters, it is
+an unduly restrictive form to impose on the underlying
+production relationship. It assumes strong separability
+between inputs and an elasticity of substitution equal to
+1.O. Less restrictive approaches using second-order
+Taylor’s expansions to approximate the functional form
+(for example, the translog, normalized quadratic and
+Leontief), while widely used in other applications, have
+rarely been used to analyze sex differences in productivity, with the few exceptions discussed below. Even
+flexible forms, however, involve a guess about the
+underlying functional form. Nonparametric approaches
+may have greater potential by not imposing a specific
+functional form, so long as the properties of a production function are preserved? The implications of
+neglecting endogeneity of input choice, however, may
+be more serious than functional form considerations.
+
+(b) Simultaneity considerations and endogenous
+input choice
+Single-equation
+
+estimation of production functions
+
+WORLD DEVELOPMENT
+
+1582
+
+is problematic because the quantities of output and
+variable inputs are simultaneously determined by the
+conditions of profit maximization. Moreover, most
+studies estimating sex differences in technical efficiency use both farmer characteristics (age, education) and input levels as regressors. Since regressors
+are endogenous, they will be correlated with the error
+term, and least squares estimates of parameters will be
+inconsistent (Greene, 1993, p. 579). This failure of
+least squares with endogenous right-hand side variables, or simultaneous-equations
+bias, is a feature of
+many of these studies.
+Solutions to this problem have included the use of
+instrumental variables, where a vector of variables, Z,
+which is correlated with X but not with the error term,
+is used as the regressor, or the use of explicit simultaneous equation methods. Endogeneity of regressors,
+however, can also be avoided by estimating profit or
+cost functions instead of the production function.
+The dual approach to production analysis estimates
+profit functions as a function of input and output prices,
+and derives the input demand and output supply functions from the restricted profit function.“’ This
+approach has its advantages when there are multiple
+outputs and inputs, as in a multicrop farming system.
+Modeling input choice explicitly also allows for the
+possibility that farmer characteristics influence the
+choice of conventional inputs. Moreover, this approach
+also enables the researcher to distinguish productivity
+differences due to differences in access (which assumes
+the existence of barriers) or in input choices. The dual
+approach has only been recently applied to the analysis
+of male-female differences in productivity.
+
+(c) Technical vs. allocative eficiency
+Production function approaches focus on technical
+rather than allocative efficiency; tests of the latter are
+less common in this literature. Resource allocations
+within the household are considered Pareto efficient if
+no reallocation of resources to different household
+members or to different uses could increase total output. An empirical test of this assumption was performed by Udry (1994) using plot-level data from
+Burkina Faso. As discussed in section 3(b), the asymmetric distribution of rights, resources, and responsibilities by gender may have more serious implications
+for allocative efficiency than sex differences do for
+technical efficiency.
+
+3. EMPIRICAL
+
+EVIDENCE
+
+(a) Technical efficiency differences
+Results from various studies estimating technical
+efficiency differences between male and female farm-
+
+ers are summarized in Table 1. To highlight the
+methodological aspects of these studies, the discussion will be organized according to estimation method
+rather than by country.
+(i) Pooled regression estimates
+If the same technology is available to both male and
+female farmers, and if they are producing the same
+crop, it is appropriate to estimate one production function, and to allow for sex differences by using a sex
+dummy and (or) interacting the sex dummy with other
+inputs. This approach has been most commonly used
+to estimate differences in technical efficiency between
+male and female farm managers or household heads.”
+An example is Moock’s (1976) study of 152 maize
+farmers in Kenya’s VihigaDistrict in the 1970s. Moock
+estimated Cobb-Douglas yield functions for all farms,
+with a female manager dummy, and for male and
+female-managed
+farms separately (to be discussed
+later). The study found that women, who make up a
+third of the sampleare at least as productive as men: the
+female farmer dummy, though positive, was not significant by itself in the pooled regression and was dropped
+from the final specification. Interactions between the
+female farmer dummy and other inputs were used to
+test for sex differences in input utilization. Results
+show that women benefit less from more densely
+planted farms, but tend to make better use of labor on
+maize farms than men. The negative (though weakly
+significant) interaction between agricultural extension
+and the female dummy indicates that exposure to agricultural extension increases technical efficiency of
+male farmers relative to female farmers. Female farners with at least primary education have higher yields.
+An evaluation of the effects of the training and
+visit (T&V) extension system in Kenya also uses
+pooled observations from male and female farmers
+from a national survey conducted
+in 1989-90
+(Bindlish and Evenson, 1993). The T&V system,
+recently implemented with World Bank support, has
+employed a substantial number of women as field
+agricultural extension workers, in contrast to home
+economics extension where women have traditionally
+specialized. The study also finds that female heads are
+equally as efficient as male heads (the female dummy
+is not significant), and that extension, measured by the
+ratio of field extension workers to farm households,
+has a positive effect on output and total factor productivity. Interestingly enough, an earlier version of the
+paper found that female heads were more productive
+when female extension workers were assigned to the
+sublocation. When assignment of female extension
+workers however, was predicted based on locational
+characteristics,
+including the percentage of female
+farmers in the area, the interaction between female
+extension
+workers and female farmers became
+insignificanti
+This suggests that placement of extension workers may be endogenous, and that female
+
+No
+
+No
+
+Log of total value of
+crop production at
+plot level
+
+Log of total value of
+crop production at
+farmer level
+
+1.22
+
+0.18
+
+0.126
+
+-0.017
+
+Female head dummy
+
+Male farmer dummy
+
+Male farmer dummy
+
+All plots
+No.ofplots=601
+Male plots = 4 19
+Female plots = 182
+
+All farmers
+No. of farmers = 453
+Male farmers =306
+Female farmers = 147
+
+Saito,
+Mekonnen ,
+and Spurling
+(1994)
+
+a.022
+
+-0.23
+
+Log (In) of crop
+production
+in 1990
+
+No
+
+No
+
+All farmers
+N=675
+Male heads = 434
+Female heads = 241
+
+1.98
+
+0.167$
+
+Log of maize
+output per acre
+
+Bindlish and
+Evenson
+(1993)
+
+2.15
+
+0.108t
+
+-1.5
+
+-1.85
+
+-0.280*
+
+XI.028
+
+1.29
+
+0.090
+
+Female dummy x log of
+area planted in maize
+Female dummy x log of
+plant population per acre
+Female dummy x log of
+labor input per acre
+Female dummy x primary
+school dummy
+Female dummy x log of
+extension contact index
+
+t-ratio
+
+Endogenous
+input
+choice
+
+All farmers
+N= 152
+Males = 101
+Females = 5 1
+
+Coefficient
+
+Dependent
+variable
+definition
+
+in technical efficiency: Gender effectsfrom
+
+Moock (1976)
+
+Sex of farmer
+variable
+
+studies with estimates of male-female differences
+
+Sample
+
+I. Productionfunction
+
+Study
+
+Table
+
+Table I continued overleaf
+
+Coefficients of land, capital,
+male family labor, female
+family labor, extension
+dummy, and maize/beans
+mixture positive and significant
+Formal education and age of
+farmer insignificant.
+
+Coefficients of land, capital,
+male and female labor, female
+hired labor, dummies for
+fertilizer and tractor use, maize/
+beans dummy, tenure dummy
+significant and positive. Formal
+education insignificant.
+Extension weakly significant.
+
+Coefficients of age of head,
+and primary education of
+head are negative but
+insignificant.
+
+Female dummy, though
+positive, was not significant
+by itself and was excluded.
+
+Comments
+
+pooled regressions
+
+Korea
+Jamison and
+Lau (1982)
+
+Mekonnen,
+and Spurling
+(1994)
+
+saito,
+
+Nigeria
+
+Burkina Faso
+Bindlish,
+Evenson,
+and
+Gbetibouo
+(1993)
+
+Study
+
+Mechanical farms =
+1.3638
+(90.2% male heads)
+
+All plots
+Total no. of plots = 1,174
+Male plots = 885
+Female plots = 289
+
+All farmers
+No. of farmers = 226
+Males = 210
+Females = 15
+
+All farmers
+N=2,406
+Male heads = 2,233
+Female heads = 103
+Unclear = 70
+
+Sample
+
+Male head dummy
+
+Male farmer dummy
+
+Male farmer dummy
+
+Female head dummy
+Proportion of female
+extension workers in
+division
+
+Sex of farmer
+variable
+
+0.95$
+
+0.5597
+
+a.130
+
+-0.146
+34.65t
+
+Coefficient
+
+2.33
+
+5.59
+
+0.47
+
+-1.63
+2.71
+
+r-ratio
+
+Table 1. Conrinued
+
+Log of value of
+agricultural crop
+output (won)
+
+Log of total value
+of crop production
+plot level
+
+Log of total value
+of production at
+household level
+
+Log (In) of crop
+production at the
+farm level
+
+Dependent
+variable
+definition
+
+at
+
+No
+
+No
+
+No
+
+No
+
+Endogenous
+input
+choice
+
+’
+
+Education measured by the
+household average, excluding
+the household head, is
+significant and positive.
+Education of household average
+has stronger effect than
+education of household head.
+Land, labor, animal and
+mechanical power, and fertilizer
+have significant and positive
+coefficients.
+
+Coefficients for land, capital,
+male and female family labor,
+male and female hired labor,
+insecticide use were positive
+and significant. Dummy for
+l-8 years of education and age
+of head were negative and
+significant.
+
+Coefficients of land, female
+family and hired labor,
+insecticide use dummy, and age
+of household were positive
+and significant.
+
+Logarithm of total area cropped
+and the number of parcels
+have positive and significant
+coefficients.
+
+Comments
+
+rt
+$
+
+tSigniftcant
+&Significant
+*Significant
+BCoefficients
+~Coefficients
+
+Thailand
+Jamison
+and Lau
+(1982)
+
+Korea
+Jamison
+and Lau
+(1982)
+
+with highest R**.
+with highest R**.
+
+Male head dummy
+
+Nonchemical farms =
+1848
+(99.5% male heads)
+
+at 1%.
+at 5%.
+at 10%.
+are reported from regressions
+are reported from regressions
+
+Male head dummy
+
+Male head dummy
+
+Chemical farms = 918
+(97.8% male heads)
+
+Nonmechanical farms
+= 541g
+(87.6% male heads)
+
+0.269
+
+0.076
+
+0.059
+
+1.05
+
+0.28
+
+0.87
+
+Log of output (kg.)
+
+Log of output (kg.)
+
+Log of value of
+agricultural crop
+output (won)
+
+No
+
+No
+
+No
+
+In highest R*2 regression (not
+reported here), maximum education
+of head has a positive and
+statistically significant rate of return
+of 2.4%. A dummy for four years of
+education is significant and positive;
+extension significant and positive;
+labor, land, and coefftcients positive
+and significant.
+
+In highest R** regression (not
+reported here), maximum education
+of household head has a positive and
+statistically significant rate of return
+of 3%. Dummy variables for
+educational levels positive but not
+significant, extension negative but
+insignificant, labor and land
+coefficients positive and significant.
+
+Education measured by the
+household average, excluding the
+household head, is significant and
+positive. Education of household
+head insignificant and not included.
+Land, capital, labor, animal
+power, and fertilizer are positive
+and significant.
+
+1586
+
+WORLD DEVELOPMENT
+
+extension workers may in fact be assigned to areas
+where they can be more productive, i.e. where female
+farmers are predominant.
+Burkina Faso offers an interesting contrast to the
+above results (Bindlish, Evenson and Gbetibouo,
+1993). Regression results show that female heads of
+households are less productive than men in most crops
+and have total values of output that are about 15%
+lower, although this coefficient is only weakly significant. The proportion of female field extension workers, however, has a significant and positive effect on
+output.
+The negative female farmer dummy may be due to
+cultural, religious, and ethnic differences between
+Burkina Faso and Kenya, rather than to differences in
+the extension system, which has now shifted over to
+the T&V system. Fewer farm households are headed
+by women in Burkina Faso. Moreover, a woman
+comes under the authority of another male family
+member when her husband is away. The significant
+proportion of plots managed by women - especially
+those planted to food crops, sorghum, and millet may partly explain, however, why the proportion of
+female extension workers has a positive and significant effect on output. As farmers and plot managers,
+women benefit from interaction with female extension
+workers.
+The two Asian countries included in the Jamison
+and Lau (1982) study of farmer education and farm
+efficiency offer some counterpoint to the studies on
+African farming systems. Although the study was primarily intended to measure returns to schooling in an
+agricultural setting, it also provides some evidence on
+sex differences (or lack thereof) in technical efficiency in the rice-based “male” farming systems of
+Thailand and Korea. In contrast to the high percentage of female-headed households or female-managed
+farms in Africa, only 10.5% of the Korean farms are
+managed by women, and an even lower 1 .l% of
+farms in the Thai sample are managed by women.r3
+Since the study does not focus on differential productivity of male and female farmers, only a dummy for
+the male household head is the indicator of sex differences in technical efficiency. Results show that the
+sex of the household head does not significantly
+affect output in both countries, except in Korean
+mechanical farms, where men have a 9.5% advantage. (No such advantage exists in nonmechanical
+farms.) While this finding is quite robust across alternative specifications, Jamison and Lau (1982) do not
+offer any explanation except for a conjecture that
+there may be possible skill or strength requirements
+in the use of mechanical power. This explanation may
+be specific to the type of mechanical traction used,
+since, in other countries in East Asia (for example,
+Japan), women have been able to make use of smallscale machines, especially in transplanting and harvesting.
+
+(ii) Separate regressions by sex offarmer
+Several studies have also estimated production
+functions separately to allow for different input coefficients for male and female farmers. For example,
+Moock’s (1976) results from separate regressions for
+male- and female-managed
+farms indicate that primary education has a positive and significant effect on
+yields for women, but a negative and significant effect
+for men. Extension contact tends however, to benefit
+men but not women.r4
+This approach implicitly assumes that male and
+female farmers do not share the same technology. If
+these equations were estimated for monocrop farmers
+however, as in Moock’s sample of maize farmers, the
+underlying technologies would have been identical. A
+better test of differences in input utilization by sex
+would have been to interact the sex dummy with all
+input variables, as was performed in the pooled
+regression. Alternatively, the assumption of different
+technologies could have been tested explicitly by performing a Chow test on the separate regressions.
+(iii) Separate regressions by plot
+Yet another approach to estimating sex differences
+in technical efficiency involves performing regressions on plot-level observations, either for the pooled
+sample of male- and female-managed
+plots, or for
+male and female plots separately (Saito, Mekonnen
+and Spurling, 1994). In this study, based on a survey
+conducted in three districts in Kenya, Cobb-Douglas
+production functions with the gross value of maize,
+beans, and cowpeas per hectare as the dependent variable were estimated using plot-level observations, further disaggregated by the sex of the plot manager.
+Although a farm-level regression more appropriately
+captures male-female differences in managerial efficiency, plot-level regressions
+were used to take
+advantage of more degrees of freedom.
+The regression for all plots shows that, while positive, the male plot manager dummy is insignificant. In
+separate regressions, capital (value of farm tools and
+equipment) is a positive and significant determinant of
+the gross value of output per hectare for male plots but
+is insignificant for female plots. A tenure dummy,
+which proxies full exercise of land rights, is not significant for either male or female plots. This may
+reflect lack of variation in tenure across plots. While
+the effect of extension is positive and highly significant for male plots, it is insignificant for female plots.
+This may indicate better use of extension services by
+men.
+The authors perform similar analyses for Oyo
+State, Nigeria, using both farm-level and plot-level
+regressions. The male farmer dummy is insignificant
+at the farm level; coefficients for land, capital, hired
+and family labor (both disaggregated by sex), and
+insecticide use (an endogenous variable) are positive
+and significant. At the plot level, the male farmer
+
+MALE-FEMALE
+
+DIFFERENCES IN AGRICULTURAL
+
+dummy was positive and significant. But the dummy
+for one to eight years of schooling and the age of the
+household head was negative and significant, a surprising result which seems to indicate negative returns
+to schooling and experience (if age is a proxy for
+experience).r5
+These results should be viewed with caution due to
+methodological problems. First, this study alternates
+between plot-level and farm-level analyses, generally
+using the same Cobb-Douglas form. If plot output is
+Cobb-Douglas, however, then farm output will not be
+Cobb-Douglas in labor and other inputsI Second, the
+pooling of all plot-level observations
+without an
+appropriate fixed or random effects estimation procedure is likely to result in inefficient estimates. Farmlevel unobservables
+would be common to plots
+farmed by a single farmer, and error terms across plots
+could be correlated. If there is unobserved heterogeneity across plots controlled by an individual, which is
+correlated with inputs, then pooling plot observations
+without taking into account fixed effects would be
+inconsistent. Finally, the computation of gross value
+of output based on the value of subsistence crops is
+flawed. Tree crops were not included because their
+lengthy gestation period makes the assumption of a
+common production technology unrealistic. Gross
+value of output based on food crops alone, however, is
+a poor indicator of managerial efficiency, especially if
+men are more likely to cultivate tree crops.
+Alternatively, since women are traditionally involved
+in the cultivation of food crops, they could have developed, over time, a comparative advantage in food crop
+cultivation.”
+(iv) Simulations
+Coefficients estimated from the above studies have
+been used to simulate the gains from increasing
+women’s levels of physical and human capital.‘8
+Estimates of potential productivity gains simulated
+from the Moock coefficients
+range from yield
+increases of 7% (if female maize farmers were given
+sample mean characteristics and input levels) to 9%
+(if they were given men’s input levels and other characteristics). Giving all women at least a year of primary education would raise yields by 24%, reflecting
+the gains to providing primary education in a setting
+where women have very low educational levels.
+Simulations with the Saito, Mekonnen, and Spurling
+(1994) coefficients
+suggest a 22% increase in
+women’s yields on maize, beans, and cowpea plots if
+women farmers were given the human capital and
+input levels of male farmers.
+These simulation results, however, should be interpreted with caution, since they do not reveal how levels of inputs may be raised. To a great extent, differences in input use may be driven by differences in
+education, since better-educated
+farmers are more
+likely to use modem inputs. These differences may
+
+PRODUCTIVITY
+
+1587
+
+also stem from differential access to credit, especially
+in the use of modem inputs such as improved seeds
+and fertilizer. Moreover, these simulations may also
+inaccurately depict the gains if a change in input use
+did occur, since the Cobb-Douglas production technology assumes constant elasticities, and presupposes
+that changing the level of one input does not change
+the elasticities with respect to other inputs.
+An alternative approach could have been to perform a Oaxaca decomposition of the yield differential
+between male and female farmers (Oaxaca, 1973).
+Although this approach has been used to decompose
+the wage gap, it can also be applied here:
+
+Q,-Q,=b,(X,-X,)+(b,-b,)X,
+
+(4)
+
+where Q, and Q, represent mean yields of males and
+females respectively, and b, and b, are estimated output coefficients of male and female farmers, and X,
+and X, are mean levels of endowments and inputs of
+male and female farmers. That is, the overall average
+male-female yield gap can be decomposed into the
+portion due to differences in input endowments, (X,,,Xf) evaluated using male coefficients; the other portion is attributable to differences in the returns, or output elasticities (b,, - bf), that males and females get for
+the same endowment or input application.
+
+(b) Allocative ejficiency
+A more recent study using detailed agronomic
+panel data from Burkina Faso suggests that asymmetric roles and obligations within the household may
+have serious implications on allocative efficiency
+(Udry, 1994). Under the null hypothesis of Pareto efficiency, conditional on plot size and land quality,
+yields on plots planted with the same crop in the same
+year should be equal, even if they are controlled by
+different members of a household. Rather than estimate production functions, Udry regressed plot yields
+on plot characteristics and individual characteristics,
+including the gender of the plot manager.19 Plots controlled by women have significantly lower yields than
+similar plots within the household planted with the
+same crop in the same year, but controlled by men in
+the same household. The yield differentials are due to
+lower input intensity on female-managed plots: much
+less male labor per hectare is devoted to plots controlled by women than to similar plots controlled by
+men. Child labor and unpaid exchange labor are also
+applied more intensively to plots controlled by men.
+Finally, virtually all fertilizer is concentrated in plots
+controlled by men, even though the marginal product
+of fertilizer diminishes. These differences in input
+intensity between male- and female-managed
+plots
+persist even after land quality, measurement error, or
+risk management behavior are taken into account.
+
+WORLD DEVELOPMENT
+
+1588
+
+While Udry’s regressions may suffer from omitted
+variables, due to the lack of information on individual
+characteristics of farmers (aside from age, sex, and
+headship), these results cast doubt on the assumption
+of Pareto efficient resource allocations within the
+household. Estimates show that a reallocation of currently used factors of production across plots could
+increase the value of household output by lo-20%
+(Alderman et al., 1995).
+In interpreting his results, Udry identifies two
+sources of resource misallocation within households:
+(i) individuals’ greater incentive to achieve higher
+output on their own plots than on others; and (ii)
+imperfection in the intrahousehold labor allocation
+process. These results and their interpretation are consistent with the argument, previously made in the
+anthropoligocal
+and feminist economics literature,
+that gender differences lead to allocative inefficiencies within the household. Palmer (1992), for example, argues that when culture constrains women to
+work within the household production unit, the
+monopsonistic position of the male household head
+prevents women’s labor from moving to better uses in
+the outside labor market. In the African setting (which
+is more relevant to Udry’s analysis), while there are
+separate “markets” for male and female resources
+within the household’s separate economic accounting
+units, gender-based market imperfections exist.
+Differences in allocative efficiency may remain
+even after controlling for individual and agronomic
+characteristics. Elson (1995). citing Ongaro’s (1988)
+study in Kenya, points out that entitlement differences
+by gender may result in differences between male- and
+female-headed households. In this study, the introduction of new weeding technology increased yields of
+female heads households by 56% and those of male
+heads only by 15%. Ongaro argues that female heads
+may have a greater incentive to adopt better weeding
+practices (traditionally a women’s task) because they
+controlled the proceeds of their increased effort.
+Moreover, factors of coercion and threats of violence
+by men may lead to higher efficiency on farms managed by men because they may be able to extract labor
+with greater ease from women and children than
+women farmers can?O
+
+(c) Labor productivity
+
+diflerences
+
+Coefficients estimated from production functions
+have been used to measure sex differences in labor productivity?r Output elasticities with respect to male and
+female labor are used to compute marginal products,
+usually evaluated at the sample mean. The validity of
+this approach depends on the assumptions embodied in
+the underlying production function, particularly those
+regarding the separability of the factors of production,
+as well as those regarding endogeneity of inputs.
+
+Some studies have used rather restrictive production technologies, for example, a Cobb-Douglas production function with male and female labor further
+disaggregated
+into family and hired labor (Saito,
+Mekonnen, and Spurling, 1994). The conclusions
+regarding the relative productivity of male and female
+labor are suspect, however, because the CobbDouglas technology imposes additive separability on
+the production function.
+Other studies have used flexible functional forms
+and tested explicitly for separability of the production
+function?* Such flexible functional forms allow marginal rates of substitution between inputs to vary
+depending on the levels of other inputs, and shed light
+on the substitutability of male and female labor. They
+provide insights into the gender division of labor by
+crop and by task in farming systems. I discuss studies
+using flexible forms more extensively in this review.
+(i) Separability and the gender division of labor
+Kumar and Hot&kiss (1988) estimate translog
+production functions for various crops and test for
+separability between male and female labor in Nepal.
+Separability implies that the marginal rates of substitution between pairs of factors in the separated group
+(for example, male and female labor) are independent
+of the levels of factors outside that group (in their
+specification, land). The separability test indicates
+that, except for the dry season crops, men’s and
+women’s labor are weakly separable; that is, they have
+different marginal rates of substitution with land. This
+suggests that, at least for some crops, there is little justification for aggregating men’s and women’s labor.
+Laufer (1985) uses ICRISAT data from six villages in India over a three-year period to estimate generalized quadratic production functions for three
+major crops with farm-level fixed effects to control for
+unobserved farm-specific factors. Weak separability
+of labor inputs with respect to all other nonlabor
+inputs was tested by imposing restrictions on the coefficients .
+Likelihood ratio tests indicate that male and female
+labor are not (weakly) separable in the production of
+sorghum and rice. Male and female labor are good
+complements in sorghum and rice, but male labor is
+more substitutable for animal power and land. Male
+labor is complementary with machines (mainly irrigation pumps), while female labor is substitutable. In
+contrast, male and female labor are found to be good
+substitutes in legumes, and equally complementary
+with animal power. In all crops, male and female labor
+are combined in relatively fixed proportions with
+land. Male and female labor could be complementary
+in sorghum and rice, but substitutable in legumes
+because of the different nature of tasks required to
+grow the different crops, and the traditional gender
+division of labor by task.
+Jacoby’s (1991) study of the households in the
+
+MALE-FEMALE DIFFERENCES IN AGRICULTURAL PRODUCTIVITY
+
+Peruvian Sierra uses both Cobb-Douglas and sequentially restricted translog production functions to estimate marginal products and test for the substitutability
+of male and female labor. First, he estimated two
+Cobb-Douglas
+production functions for crops and
+livestock, respectively.
+He finds that while adult
+female labor does not have a significantly positive
+effect on crop output, it is highly significant in the
+livestock equation, with a coefficient almost twice
+that of adult males. Adult males have about the same
+coefficient in both equations. If peasant households
+optimally allocate time across tasks, the evidence suggests a sexual division of labor, with women spending
+relatively more of their time than men in livestock
+production,
+and men specializing
+in fieldwork.
+Second, Jacoby used a sequentially restricted translog
+production function to test for the nonseparability of
+male and female labor. A sexual division of labor
+implies that labor productivity of men and women will
+be differentially affected by the presence of other
+inputs; that is, the marginal rate of transformation
+between labor of men and women will vary with the
+levels of other inputs. Since the marginal rate of transformation from a Cobb-Douglas production function
+depends only on the ratio of male and female labor
+inputs,
+the Cobb-Douglas
+production
+function
+imposes separability.
+Rather than do so, Jacoby
+sequentially tests for a nonseparable technology. He
+first tests for strong separability against the joint alternative of weak separability or nonseparability, then
+tests weak separability against nonseparability alone,
+through a series of translog regressions.
+The conclusion from the sequence of tests is that
+only the nonseparabilities
+of male and female labor
+with respect to land and farm animals are statistically
+significant. This is attributable to the sexual division
+of labor in agriculture: since men are involved in tasks
+such as plowing and transport, farm animal input
+would tend to be more substitutable with the hours
+men spend on the farm than with women’s hours. The
+use of more animals for plowing, for example, would
+replace adult male time spent with the foot plow, but
+would not cause women to substitute out of weeding.
+The strong negative interaction between female labor
+and farm size may also be a consequence of the sexual
+division of labor: households with little land tend to
+supplement their income with nonagricultural activities. In near landless households, men tend to spend
+more time in off-farm work, leaving most agricultural
+tasks in the hands of women. The elasticity of substitution between male and female labor at the geometric
+means of the data equals 1.84, which is higher than
+that allowed by the Cobb-Douglas
+specification
+(namely, one), but does not indicate extremely high
+substitutability.
+(ii) Marginalproducts of labor
+The above studies also computed
+
+the marginal
+
+1589
+
+product of labor, which is the addition to output due to
+an additional unit of labor, differentiated by sex. In the
+Nepal study cited above (Kumar and Hotchkiss,
+1988), the marginal products of men’s and women’s
+labor are found to be independently significant for all
+crops except early paddy. For the dry season crops, an
+additional unit of women’s labor contributed more to
+output than male labor, probably due to competing
+activities of fuel and water collection, which impinge
+on women’s time for agricultural production.
+While marginal products of men and women’s
+labor may differ, farmers would be allocating labor
+rationally if the ratios of marginal products are equal
+to relative wages. Indeed, Laufer (1985) finds that in
+India, while the marginal product of male labor is
+greater than that of female labor in all crops, the ratios
+of marginal products lie within the range of ratios of
+observed wages paid in the six villages, suggesting
+that farmers rationally equate relative wages to the
+ratios of marginal products.
+In Jacoby’s (1991) study of the Peruvian Sierra,
+the ratio of female-to-male marginal products of 0.64,
+which is reasonably close to the relative wage, indicates that men contribute more to total farm output at
+the margin than women. This may be due to women’s
+tendency to be casual rather than regular farm workers
+in the Peruvian Sierra, and to spend more time, on
+average, in household and nonfarm business activities
+than in farm work. Jacoby argues that women may sort
+themselves into these activities because they are
+“innately” more productive in them than men, and that
+these productivity differences are accentuated by the
+acquisition of sector-specific human capital by both
+men and women. But since the same agricultural tasks
+(for example, land preparation) are performed by
+women in other farming systems, it may not be valid
+to use the findings from the static measurement of a
+production technology to generalize about a division
+of labor whose roots may be cultural. An alternative
+explanation proposes that there could be a premium
+related to body size in some agricultural operations
+that would then be reflected in higher productivity of
+men relative to women.
+(iii) Women’s productivity and polygyny
+Another study by Jacoby analyzes women’s agricultural productivity as a factor influencing men’s
+demand for wives in C&e d’Ivoire, where polygyny is
+common (Jacoby. 1995). He estimates a conditional
+profit function as a function of input prices, capital
+inputs, and male and female family labor inputs.
+Although the profit function is Cobb-Douglas, it is
+modified to allow the labor productivity parameters to
+depend on permanent farm characteristics, including
+crop composition. Ordinary least squares estimates
+show that female labor seems to contribute a larger
+share to farm profit than male labor, though this difference decreases with first-differenced
+OLS esti-
+
+WORLD DEVELOPMENT
+
+1590
+
+mates. After accounting for heterogeneity of labor
+inputs and using instruments thereof, however, men
+contribute more to farm profit than do women. When
+crop composition is taken into account, the contribution of female labor to profit is negatively related with
+cocoa, coffee, cotton, rice and maize. Crops traditionally grown by women, such as tubers, interact positively (or only weakly negatively) with female labor.
+While the results seem to support specialization by
+crop according to comparative advantage, in the
+longer run, crop composition (and the gender division
+of labor by crop) is also endogenous. In Africa, for
+example, recent evidence suggests that women are
+now more involved in cash crop cultivation (Saito,
+Makonnen and Spurling ,1994).
+(iv) Comparative advantage and the sexual division
+of labor
+Many of the studies on labor productivity differences appeal to the notion of comparative advantage.
+“Comparative advantage” is used to explain specialization of individuals in the activities which they can
+perform more efficiently than other individuals with
+whom they have an exchange relationship. While this
+is a commonly used explanation, it does not adequately explain the sources of the efficiency differences which lead to the gender division of labor and its
+subsequent
+cultural transmission.
+One possible
+source, as mentioned earlier, is the premium on body
+size in agricultural operations. Body size differences
+may be a function of nutritional intakes, however,
+which are also biased against females in some cultural
+contexts (notably South Asia). Women’s specialization in domestic activities is also attributed to their
+lower productivity in agriculture or some other type of
+non-home production. It is more likely that the gender
+division of labor reflects both biological (body sizerelated) and social factors. In most cultures, women
+have a greater responsibilities for childcare and household provisioning; such caring behavior is reinforced
+through cultural norms. This may constrain women’s
+ability to participate in agricultural tasks which conflict with household responsibilities.
+
+4. SUMMARY
+
+AND METHODOLOGICAL
+ISSUES
+
+significant). In this setting, women may be more constrained by cultural factors from having more active
+roles, and levels of education and technical development are lower. More recent work on Burkina Faso
+indicates that lower input intensities on women’s
+plots, which result in lower yields, are due to asymmetric roles and obligations within the household.
+This suggests that gender differences may lead to
+allocative efficiencies within the household, even if
+sex differences do not, for the most part, affect technical efficiency. Further empirical work on this area,
+with better information on individual farmer characteristics, should be undertaken.
+The neglect of endogenous input choice is a serious defect of this literature. Since relationships
+between farmer characteristics and input use are not
+considered, most studies have estimated biased coefficients and do not address how actual levels of inputs
+use are to be increased. To the extent that better educated farmers are more likely to adopt modem inputs,
+these studies underestimate
+the consequences
+of
+underinvestment in women’s education in rural societies. Endogeneity of inputs extends even to those
+inputs which are usually assumed fixed in the short
+run. Land size, which is usually assumed to be exogenous, is correlated with land quality. Moreover, in
+societies where land is allocated to women based on
+marriage, land size is unlikely to be exogenous.
+Recent studies estimating differences in labor productivity using flexible functional forms provide
+interesting insights into the sexual division of labor in
+different farming systems. One cannot generalize
+whether an additional unit of male or female labor is
+more productive, however, because the sexual division of labor varies widely across crops, tasks, and
+farming systems. Labor scarcity may result in higher
+marginal products of labor: in Nepal, the higher marginal product of women’s labor in dry season crops
+was due to time allocated to other household tasks
+(Kumar and Hot&kiss, 1988). In other (male-dominated) farming systems, higher marginal products of
+male labor may also reflect comparative advantage or
+specialization in certain tasks. The extent to which
+“comparative
+advantage” is the result of cultural
+norms, and the possibility that it may change over
+time, needs to be recognized.
+
+(a) Summary
+
+(b) Methodological issues
+
+Most of the studies on differences in technical efficiency between male and female farmers found
+insignificant dummies for the sex of the farm manager
+or household head. That is, female farmers are equally
+efficient as male farmers, once individual characteristics and input levels are controlled for. The only
+exception was the study on Burkina Faso, where the
+female farmer dummy was negative (though weakly
+
+Rigorous measurement of sex differences in agricultural productivity is still a relatively new field of
+research. A number of conceptual and methodological
+issues should therefore be addressed in future work.
+(i) Sex d@erences andpublication bias
+The above review has found that when differences
+in yields are attributed to differences in individual
+
+MALE-FEMALE
+
+DIFFERENCES
+
+IN AGRICULTURAL
+
+characteristics (human or physical capital) and input
+levels, the sex of the farmer is often an insignificant
+determinant of agricultural productivity. This may be
+surprising to those who expect intrinsic productivity
+differences between men and women farmers. Any
+review of the comparative literature may be biased,
+however, since it is more likely that studies that report
+differences
+in productivity will be submitted for
+publication, and, given that, are more likely to be
+accepted (Haddad, Alderman and Hoddinott, 1994).
+Such “publication bias” is common to all scientific
+disciplines, but has been found to exaggerate the
+prevalence of studies that show differences between
+cognitive styles of men and women.*’
+While this may seem to be philosophical point,
+there is a real danger in attributing differences in agricultural productivity solely to the sex of the farmer. In
+so doing, researchers and policymakers are not able to
+identify whether there are systematic gendered differences in the distribution of underlying variables many of which are subject to policy intervention.
+(ii) Sex or gender dummies
+Most of the studies estimating sex differences in
+technical efficiency use a dummy variable for female
+(or male) household head, farmer, or decisionmaker.
+But the use of headship as a stratifying variable masks
+the details of household composition and intrahousehold decision-making. It does not provide information
+on decisions by family members who are not household
+heads, such as women who farm their own plots in
+male-headed households. In this case, it may be more
+appropriate to disaggregate by the sex of the plot manager, rather than by sex of the household head. More
+important, female headship, rather than being an exogenous category, is in fact endogenous: it depends upon
+the characteristics of the marriage market, as well as the
+processes which lead to marital dissolution.24 The
+notion that the household is an arena for both cooperation and conflict @en, 1990) has been explored in a
+growing body of literature by both feminist economics
+(e.g., Folbre, 1986) and collective models of household
+behavior (Haddad, Alderman, and Hoddinott, 1994).
+(iii) Biases in valuation ofoutput
+Insights
+into
+household
+decision-making
+processes are limited not only by the lack of genderdisaggregated data, but also by conceptual difficulties
+in defining what to measure. Even among carefully
+conducted econometric studies, the definition of output can undercount women’s production. With the
+exception of the studies of monocrop farmers, the
+studies reviewed used gross value of output, either in
+absolute terms or per land area. If women grow a
+larger share of subsistence crops, it is possible that
+regressions on gross value of output may understate
+female farmer’s technical efficiency. While this issue
+can be avoided
+by dealing
+exclusively
+with
+
+PRODUCTIVITY
+
+1591
+
+monocrops, it is an oversimplification
+of the diverse
+farming systems in which women operate. One appropriate procedure to use in a multicrop setting would
+have been a profit function approach, in which prices
+of inputs and outputs are explanatory variables.
+Another controversial
+issue is the valuation of
+home production, which none of the studies mentioned here addresses. It has been argued that since
+women attend to domestic chores while performing
+agricultural labor, their productivity in agriculture is
+lower. This judgment is based however, on a conventional output measure, which disregards the value of
+home production. This measurement issue has yet to
+be satisfactorily addressed.25
+(iv) Simultaneity and selectivity considerations
+With a few exceptions,
+most of the studies
+reviewed do not properly model simultaneous agricultural decisions. The drawbacks of such methods have
+already been discussed. Attention to endogenous
+input choice should be a priority in further research on
+this topic.
+(v) Life-cycle implications of intrahousehald
+allocations
+The above review has not analyzed the processes
+that determine the allocation of human and physical
+capital to men and women. Educational attainment,
+land ownership, and long-term nutritional status of
+men and women are the outcomes of their parents’ or
+kinship groups’ allocation decisions (Sen, 1990;
+Behrman, 1994). Increasing evidence suggests that
+these decisions may involve nonunitary preferences. or
+even noncooperative behavior within the household.
+Whatever processes underlies these decisions, parental
+allocation decisions will have long-term implications
+on the productivity of children. Underinvestment
+in
+girls’ education could, for example, lead to lower probabilities for female farmers to adopt new technologies;
+inheritance laws which favor boys would imply that
+men would have greater inherited landholding sizes;
+allocation of nutrients toward boys would have longterm effects on height and productivity.
+The importance of addressing intrahousehold allocation issues in policy formulation has been discussed
+elsewhere; this point is reiterated here.Zh Further
+research should be directed not only toward understanding the results of intrahousehold allocations, but,
+more important. to understanding the processes of
+decision-making
+in agricultural households, by male
+and female heads, and family members. Such basic
+allocational activities are organized through the “intimate” relationships of marriage, parenthood, and kinship, the traditional
+domain of anthropologists
+(Kabeer, 1994, p. 96). As relative newcomers to this
+field, economists have much to learn from insightful
+fieldwork and from contributions of anthropologists
+and other social scientists.27
+
+1592
+
+WORLD DEVELOPMENT
+
+NOTES
+See,forexample,Boserup
+1.
+World Bank (1994).
+
+(1970),Gladwin
+
+(1991) and
+
+2.
+A feminist critique of the concepts of “productivity”
+and “efficiency” is found in Williams (1994).
+
+than male farmers, a “gender dummy” which captured both
+biological and socially determined characteristics would be
+correlated with residuals from the estimated production function.
+9.
+
+Indeed, until Bosetup’s (1970) work and subsequent
+3.
+work on measuring women’s contribution to agriculture (e.g.
+Dixon,
+1982; Satilios-Rothschild,
+1985; GoldschmidtClermont, 1987), rural women’s productive role was rarely
+recognized.
+Kabeer (1994) notes that differences
+in
+male-female responsibilities and control of resources across
+farming systems are mirrored in social norms and family
+structures.
+See Agarwal (1994) on biases against women in land
+4.
+ownership, and Seager and Olson (1986) on women’s lower
+educationa! attainment in rural areas.
+I use “physical
+and human capital” rather than
+5.
+“endowments” because the latter are innate (genetically or
+biologically determined). The distribution of human capital
+(education and training) and physical capital (land and other
+assets) between men and women, however, is socially determined, and the product of parents’ differential investment in
+children as well as the relative ease of women and men in
+acquiring education or wealth.
+Other approaches to measuring sex differences in agri6.
+cultural productivity rely on estimation of earnings functions
+and technological
+adoption functions. Earnings or wage
+functions are an indirect measure of productivity which take
+into account the heterogeneity of agricultural labor, since
+individual characteristics
+and endowments influence labor
+market participation,
+earnings, and wages. These studies
+often provide evidence on returns to men’s and women’s
+schooling.
+See,
+for example,
+Rosenzweig
+(1980).
+Mukhopadyay (1994)) Behrman and Lanzona ( 1989). Sahn
+and Alderman (1988), and Khandker (1990) for estimates of
+returns to schooling for rural men and women. Technological
+adoption studies, on the other hand, estimate the probability
+of adoption as a function of individual, household, and community characteristics,
+including the sex of the farmer.
+Examples are Appleton et al. (1990) and Bindlish and
+Evenson (1993). These studies are discussed in Quisumbing
+(1994).
+7.
+Up until the late 1960s most studies used least squares
+methods to estimate production functions, which Battese
+(1992, p. 186) argues are more appropriately described as
+response (or average) functions. Newer approaches using
+stochastic frontier production functions define the production “frontier” from within the data set. This frontier is the
+locus of output generated from “best practice” techniques,
+and technical inefficiency for each firm is the distance that
+each lies from the frontier. We follow the conventional terminology here, noting we are discussing direct least squares
+estimates of the production technology.
+This has implications aside from those related to omit8.
+ted variable bias. If, for example, female farmers are less able
+to command resources (e.g., labor from men and children)
+
+See, for example, Goldman and Ruud (1993).
+
+10. For a thorough discussion and empirical applications
+of duality approaches in production, see Fuss, McFadden,
+andMundlak(1978).
+11. The distinction between farm manager and household
+head may be important in households where the husband
+may be the titular head but the majority of farm decisions is
+made by the wife. This is especially true if the husband is
+absent for prolonged periods due to seasonal migration for
+wage work, or if the wife in a polygamous marriage has her
+own farm, both of which are common in sub-Saharan Africa.
+12.
+
+Personal communication
+
+with R. Evenson.
+
+13. The Korean sample was divided into mechanical and
+nonmechanical farms based on the use of farm machinery.
+Only 9.8 and 12.4% of mechanical and nonmechanical farms
+were headed by women, respectively. Similarly, the Thai
+sample was divided into chemical and nonchemical farms
+based on the application
+of inorganic chemicals. Even
+smaller numbers, 2.2% of chemical farms, and 0.5% of nonchemical farms, were headed by women.
+14. These results differ from those of Bindlish and
+Evenson (1993), presumably because in the early 197Os,
+women rarely received extension advice.
+15. An alternative explanation for the negative coefficient
+on age would be declining physical strength, but one would
+expect this to have a nonlinear effect.
+16. If plot output is Cobb-Douglas
+(Y,p = pF, Lp,J then
+farm output Y = x Y,,,will not be Cobb-Douglas in L, = IL,
+and T, =ZT,.
+17. The issue of comparative advantage and the sexual
+division of labor is discussed more fully in Kabeer (1994).
+especially Chapter 5.
+18. See, for example, Saito,
+(1994) and World Bank (1994).
+19. Udry specifically
+farmer” dummy.
+
+Mekonnen
+
+uses a “gender,”
+
+and Spurling
+
+not a “sex of
+
+20.
+An oft-cited example is from rice farmers in northern
+Cameroon: “married women are expected to work in their
+husbands’ fields if they are not working on their own. If they
+refuse
+they risk a beating!” (Jones, 1986, p. 11). But
+women may be able to resist such threats of violence covertly
+or overtly. Forms of covert resistance include the “use of
+trusted allies
+to conduct businesses on women’s behalf,
+secret lending and borrowing of money, and negotiations
+around the meaning of gender ideologies of purdah and
+motherhood” (Kabeer, 1994, p. 129).
+
+MALE-FEMALE
+
+DIFFERENCES
+
+IN AGRICULTURAL
+
+2 1. Other approaches to measure gender differences in
+labor productivity have included the number of women of
+working age (or the proportion of women in the household
+labor force) in regressions on output as one of the explanatory variables in the production function. This is not a good
+proxy, however, for women’s share of labor input in agricull
+tural production if some crops are more intensive in women’s
+time than others; if the returns to crops grown by males and
+females vary; and if the value of home production is not measured correctly. Expressing the number of women in adult
+equivalent units is faulty, because these units are usually
+based on a food energy consumption measure, not in terms ot
+labor input by task. Examples of the above include Jamison
+and Moock (I 984), von Braun, Puetz and Webb (1989),and
+von Braun, de Haen and Blanken ( 199 1).
+22.
+These functional forms use second-order
+Taylor’s
+expansions; examples are the translog, the generalized quadratic, and the Leontif production functions.
+23.
+On publication bias, see Begg and Berlin (1988). On
+publication bias in studies of cognitive differences between
+men and women, see Fausto-Sterling (1992).
+24.
+In cooperative bargaining models of marriage, whether
+an individual remains in a union depends on her utility outside that union. This “reservation utility” or “threat point” is
+a function of individual characteristics, especially nonlabor
+income and education, and social or institutional factors
+
+PRODUCTIVITY
+
+which affect the attractiveness
+example, McElroy ( 1990).
+
+1593
+
+of being married.
+
+See. for
+
+25.
+Among the few studies that estimate the productivity
+of women’s work at home is Singh and Morey (1987).
+Regarding the difficulty of valuing women’s work, Beneria
+(1992) points out that the very different contexts under which
+home and market production take place make their comparability difficult. In some economies, no equivalent to some
+goods and services produced in the household may exist in
+the market (although this problem disappears are the economy shifts from subsistence to market production). In addition, no standard of productivity exists for domestic production. Even the choice of imputation method for valuing labor
+time has its advantages and disadvantages (Beneria. 1992,
+pp. 1553-1554).
+26.
+See Haddad.
+review.
+
+Alderman
+
+and Hoddinott
+
+(1994) for a
+
+27.
+While feminist economics has been more rapid in
+incorporating anthropological
+approaches, the recent development of collective models of household behavior (including, but not limited to, bargaining models) has also drawn on
+the rich anthropological
+literature, particularly
+in Africa
+(e.g., Dey, 1985). These developments are complementary to
+Marxist-influenced
+structural approaches to cooperation and
+conflict within the family (Folbre, 1986).
+
+REFERENCES
+Aganval, Bina, A Field of One’s Own: Gender and Land
+Rights in South Asia (Cambridge: Cambridge University
+Press, 1994).
+Alderman, Harold, John Hoddinott, Lawrence Haddad and
+Christopher Udry, “Gender differentials in farm productivity: Implications for household efficiency and agricultural policy,” Food Consumption and Nutrition Division
+Paper No. 7 (Washington, DC: International Food Policy
+Research Institute, 1995).
+Appleton, Simon, David L. Bevan, Kees Burger, Paul
+Collier, Jan Willem Gunning, Lawrence Haddad and
+John Hoddinott,
+Public Services
+and Household
+Allocation in Africa: Does Gender Matter? (Oxford:
+Oxford University, Center for African Studies, 1991).
+Battese, George E., “Frontier production functions and technical efficiency: A survey of empirical applications in
+agricultural economics,” Agricultural Economics, Vol.
+7, Nos. 3 and 4 (October 1992), pp. 185-208.
+Begg, Colin B. and Jesse A. Berlin,“Publication
+bias: A problem in interpreting medical data,” Journal of the Royal
+Statistical Society, Vol. 151 .No. 3 (1988),pp. 419463.
+Behrman, Jere R., “Intrahousehold distribution and the family,” in Mark R. Rosenzweig and Oded Stark (Eds.),
+Handbook
+of Population
+and Family Economicr
+(Amsterdam: North-Holland,
+1994).
+Behrman, Jere R. and Leonardo Lanzona, “The impact of
+land tenure on time use and on modem agricultural technology use in the rural Philippines,” Paper presented at a
+conference on the Family, Gender Differences,
+and
+Development (New Haven: Yale University, September
+&6,1989).
+
+Beneria, Lourdes. “Accounting
+for women’s work: The
+progress of two decades,” World Development. Vol. 20,
+No. 11 (November 1992). pp. 1547-1560.
+Bindlish, Vishva and Robert Evenson. “Evaluation of the
+performance of T&V extension in Kenya,” World Bank
+Technical Paper No. 208, Africa Technical Department
+Series (Washington, DC: World Bank, 1993).
+Bindlish, Vishva, Robert Evenson and Mathurin Gbetibouo,
+“Evaluation of T&V-based extension in Burkina Faso,”
+World Bank Technical Paper No. 226, Africa Technical
+Department Series (Washington, DC: World Bank, 1993).
+Boserup, Ester, Women’s role in economic development
+(New York: St. Martin’s Press, 1970).
+Braun, Joachim van, Hartwig de Haen and Juergen Blanken,
+“Commercialization
+of agriculture
+under population
+pressure: Effects on production, consumption, and nutrition in Rwanda,” Research Report No. 85. (Washington,
+DC: International Food Policy Research Institute, 1991).
+Braun, Joachim von, Detlev Puetz and Patrick Webb,
+“Irrigation technology and commercialization
+of rice in
+The Gambia: Effects on income and nutrition,” Research
+Report No. 7.5 (Washington,
+DC: International Food
+Policy Research Institute, 1989).
+Dey, Jennie, “Women in African rice farming systems,” In
+Women in Rice Farming: Proceedings of a Conference
+on Women in Rice Farming Systems (Brookfield, T:
+Gower. 1985).
+Dixon, Ruth B., “Women in agriculture: Counting the labor
+force in developing
+countries,”
+Population
+and
+Development Review,, Vol. 8, No. 3 (September 1982),
+pp. 5X9-565.
+
+1594
+
+WORLD DEVELOPMENT
+
+Elson, Diane, “Gender awareness in modeling structural
+adjustment,”
+World Development,
+Vol. 23, No. 11
+(November 1995),pp. 1851-1868.
+Fausto-Sterling.
+Anne. Myths of Gender(New York Basic
+Books, 1992).
+Folbre, Nancy, “Hearts and spades: Paradigms of household
+economics,”
+World Development,
+Vol. 14, No. 2
+(February 1986), pp. 245-255.
+Fuss, Melvin, Daniel McFadden and Yair Mundlak, “A survey of functional forms in the economic analysis of production,” in Melvin Fuss and Daniel McFadden (Eds.),
+Production Economics: A Dual Approach to Theory and
+Applications, Vol. 1 (Amsterdam: North-Holland,
+1978).
+Gladwin, Christina H. (Ed.), Structural adjustment and
+African womenfarmers,
+(Gainesville, FL: University of
+Florida Press, 199 1).
+Goldman, Steven and Paul Ruud, “Nonparametric multivariate regression subject to monotonicity
+and convexity
+Mimeo
+(Palo
+Alto,
+CA:
+Stanford
+constraints,”
+University, 1993).
+Goldschmidt-Clermont,
+L., Economic Evaluation of Unpaid
+Work in the Household: Africa, Asia, Latin America and
+Oceania. Women, Work and Development Series No. 14
+(Geneva: International Labour Office, 1987).
+Greene, William H. Econometric Analysis, Second edition
+(Englewood Cliffs, NJ: Prentice-Hall, 1993).
+Haddad, Lawrence, Harold Alderman and John Hoddinott,
+“lntrahousehold
+resource allocation:
+An overview,”
+Policy Research Working Paper 1225 (Washington, DC:
+World Bank, 1994).
+Jacoby, Hanan, “Productivity of men and women and the
+sexual division of labor in peasant agriculture of the
+Peruvian Sierra,” Journal of Development Economics,
+Vol. 37, Nos. 1 and 2 (November 1991) pp. 265-287.
+Jacoby, Hanan, “The economics of polygyny in Sub-Saharan
+Africa: Female productivity and the demand for wives in
+C&e d’lvoire,” Journal of Political Economy, Vol. 103,
+No. 5 (October 1995), pp. 938-971.
+Jamison, Dean and Lawrence Lau, Farmer Education and
+Farm Eficiency
+(Baltimore,
+MD: Johns Hopkins
+University Press for the World Bank, 1982).
+Jamison, Dean and Peter Moock, “Farmer education and
+farm efficiency in Nepal: The role of schooling, extension services, and cognitive skills,” World Development,
+Vol. 12, No. 1 (January 1984),pp. 67-86.
+Kabeer, Naila, Reversed Realities: Gender Hierarchies in
+Development Thought (London and New York: Verso,
+1994).
+Khandker, Shahidur R., “Labor market participation, returns
+to education, and male-female
+wage differences
+in
+Peru,” Working Paper 461, Policy Research and External
+Affairs (Washington, DC: World Bank, 1990).
+Kumar, Shubh and David Hot&kiss,
+“Consequences
+of
+deforestation for women’s time allocation, agricultural
+production,
+and nutrition in hill areas of Nepal,”
+Research Report 69 (Washington,
+DC: International
+Food Policy Research Institute, 1988).
+Jones, Christine, “lntrahousehold
+bargaining in response to
+the introduction
+of new crops:- A case study from
+Northern
+Cameroon,”
+in Joyce L. Moock (Ed.),
+Understanding Africa’s Rural Households and Farming
+Systems (Boulder, CO: Westview Press, 1986).
+Laufer, Leslie, “The substitution between male and female
+labor in rural Indian agricultural production,” Discussion
+
+Paper 472, Economic Growth Center (New Haven, CT:
+Yale University, 1985).
+McElroy, Marjorie B., “The empirical content of Nash-bargained
+household
+behavior,”
+Journal of Human
+Resources, Vol. 25, No. 4 (Fall 1990), pp. 559-583.
+Moock, Peter, “The efficiency of women as farm managers:
+Kenya,” American Journal of Agricultural Economics,
+Vol. 58,No. 5 (December 1976),pp. 831-835.
+Moser, Caroline, “Gender planning in the Third World:
+Meeting practical and strategic gender needs,” World
+Development, Vol. 17, No. 11 (November 1989), pp.
+1799-1825.
+Mukhopadhyay,
+Sudhin, “Adapting household behavior to
+agricultural technology in West Bengal, India: Wage
+labor, fertility
+and child schooling
+determinants”
+Economic Development and Cultural Change, Vol. 43,
+No. 1 (October 1994),pp.91-115.
+Oakley, A., Sex, Gender, and Society (London: Temple
+Smith, 1972).
+Oaxaca, Ronald, “Male-female
+differentials in urban labor
+markets,” International Economic Review, Vol. 14, No. 3
+(October 1973), pp. 693-709.
+Ongaro, W. A., “Adoption of new farming technology: A
+case study of maize production in Western Kenya,” PhD
+dissertation
+(Gothenberg:
+University of Gothenberg,
+1988).
+Palmer, lngrid, “Gender equity and economic efficiency in
+adjustment programmes,” In Halef Ashfar and Carolyne
+Dennis (Eds.), Women and Adjustment Policies in the
+Third World (London: Mcmillan, 1992). pp. 69-83.
+Quisumbing, Agnes R. “Gender differences in agricultural
+productivity:
+A survey
+of empirical
+evidence,”
+Education
+and Social Policy Discussion
+Paper 36
+(Washington, DC: World Bank, 1994).
+Rosenzweig, Mark, “Neoclassical theory and the optimizing
+peasant: An econometric analysis of market family labor
+supply in a developing country”, Quarferly Journal of
+Economics, Vol. 94, No. 1 (February 1980), pp. 31-56.
+Safilios-Rothschild,
+Constantina,
+“The persistence
+of
+women’s invisibility in agriculture: Theoretical and policy lessons from Lesotho and Sierra Leone” Economic
+Development and Cultural Change, Vol. 33, No. 2
+(January 1985), pp. 299-317.
+Sahn, David and Harold Alderman, “The effects of human
+capital on wages, and the determinants of labor supply in
+a developing
+country,”
+Journal
+of Development
+Economics, Vol. 29, No. 2 (September
+1988). pp.
+157-183.
+Saito, Katrine, Hailu Mekonnen and Daphne Spurling,
+“Raising the productivity of women farmers in SubSaharan Africa,” Discussion Paper 230 (Washington,
+DC: World Bank, 1994).
+Seager, Juri and Ann Olson, Women in the World: An
+International Atlas (New York: Simon and Schuster,
+1986).
+Sen, Amartya K., “Gender and cooperative conflicts,” in
+Irene Tinker (Ed.), Persistent Znequalities (New York:
+Oxford University Press, 1990). pp. 195-223.
+Singh, Ram and M. J. Money, “The value of work-at-home
+and contributions of wives’ household service in polygynous families:
+Evidence
+from an African LDC,”
+Economic Development and Cultural Change, Vol. 35,
+No. 4 (July 1987), pp. 743-765.
+Udry, Christopher, “Gender, agricultural production, and the
+
+MALE-FEMALE
+
+DIFFERENCES
+
+IN AGRICULTURAL
+
+theory of the household,”
+Mimeo (Evanston,
+IL:
+Northwestern University, 1994).
+Williams, Marjorie W ., “Gender productivity and macroeconomic policies in the context of structural adjustment
+and change,” in Isabella Bakker (Ed.), The Strategic
+
+PRODUCTIVITY
+
+1595
+
+Silence: Gender and Economic Policy (London: Zed
+Books, 1994).
+World
+Bank,
+Enhancing
+Women’s
+f’arriciparion
+in
+Economic Development, A World Bank Policy Paper
+(Washington, DC: World Bank, 1994).
+
+

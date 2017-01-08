@@ -1,0 +1,1312 @@
+Agricultural Economics 30 (2004) 175–186
+
+Off-farm labour allocation decisions in small-scale
+rural households in Zimbabwe
+Innocent Matshe a , Trevor Young b,∗
+a
+
+Department of Economics, University of Zimbabwe, P.O. Box MP167, Mt. Pleasant, Harare, Zimbabwe
+b School of Economic Studies, University of Manchester, Manchester M13 9PL, UK
+Received 13 December 2001; received in revised form 1 October 2002; accepted 21 January 2003
+
+Abstract
+The double hurdle model is used to analyse the off-farm labour decisions of small-scale agricultural household members
+in the Shamva District of Zimbabwe. The approach permits the joint modelling of the decision to participate in the labour
+market and the decision regarding the amount of time allocated to work. Results indicate that a number of variables (notably,
+gender, education and assets) indeed have effects which are qualitatively and quantitatively different in terms of participation
+and hours worked. Overall, the empirical analysis confirms the importance of individual characteristics (such as gender and
+education) and household/farm characteristics (e.g. land area accessible to the household, productive assets, remittances and
+the agricultural terms of trade) in influencing the labour market decisions of rural household members.
+© 2004 Elsevier B.V. All rights reserved.
+JEL classification: Q12; C24; J22
+Keywords: Off-farm labour supply; Zimbabwe; Double hurdle model
+
+1. Introduction
+There is mounting evidence that rural non-farm
+income is an important resource for rural households
+and that policy-makers are showing increasing interest in non-farm activities as a means of creating
+favourable conditions to reduce poverty in rural areas
+(FAO, 1998). Although there is some debate about the
+impact of non-farm employment on the distribution of
+income (see, for example, Reardon et al., 2001), it is
+generally agreed that non-farm income is a significant
+input to rural household economies and contributes
+∗ Corresponding author. Tel.: +44-161-275-4806;
+fax: +44-161-275-4812.
+E-mail address: trevor.young@man.ac.uk (T. Young).
+
+to food security by allowing better access to food. It
+also has positive spin-offs in agricultural performance
+by providing cash for productivity-enhancing inputs,
+thus easing credit constraints, and in turn, a more
+dynamic agricultural sector enhances the scope and
+scale of the non-farm sector. If policy interventions
+are to be directed at increasing economic activity and
+employment in rural areas, a better understanding of
+the labour allocation decisions of rural households
+is required. This paper aims to contribute in this regard by analysing the off-farm labour decisions of
+households in the Shamva District of Zimbabwe.
+The focus of the empirical work reported here is the
+labour allocation decisions regarding off-farm work
+of adult members of rural households. The analysis,
+based on survey data on 1183 adults, investigates the
+
+0169-5150/$ – see front matter © 2004 Elsevier B.V. All rights reserved.
+doi:10.1016/j.agecon.2003.01.001
+
+176
+
+I. Matshe, T. Young / Agricultural Economics 30 (2004) 175–186
+
+influence on those decisions of personal characteristics, household characteristics (such as household
+composition) and exogenous factors (such as location).
+The double hurdle model is chosen as the research
+method as it allows the joint modelling of: (i) the decision whether or not to participate in the labour market;
+and (ii) the amount of time the participant allocates to
+off-farm work.
+The layout of this paper is as follows. In Section 2,
+a brief description of the theoretical context, based
+on the agricultural household model, is presented.
+Section 3 outlines the double hurdle model, the approach chosen for the empirical analysis. Section 4
+introduces the dataset used, and the empirical findings are considered in Section 5. The paper concludes
+with a discussion of policy implications.
+
+j
+
+2. The theoretical model
+
+−
+
+The popular rural household economic model (see,
+for example, Singh et al., 1986; Sadoulet and de
+Janvry, 1995) provides a theoretical basis for exploring labour supply decisions. Here, we adapt a version
+suggested by Benjamin and Guyomard (1994). Assume for simplicity a two-person household which
+seeks to maximise a utility function in leisure time
+f
+m
+f
+and household income, U(Lm
+e , Le , Y ; E , E , H),
+f denote the leisure time of the male
+and
+L
+where Lm
+e
+e
+and female household member, Em and Ef the vectors of their individual characteristics, such as human
+capital, Y the household income, and H a vectors of
+household characteristics. A household comprising
+only one male and one female is chosen simply to
+illustrate a multi-person household and should not
+be taken as indicative of a typical household in the
+study area. In fact, within the sample, there are farmers (mostly female) with absentee spouses, farmers
+with children but no spouses, households headed by
+children or young adults, and other household types.
+The household faces the following constraints:
+j
+
+j
+
+j
+
+T j = Li + Lo + Le
+j
+
+Li ≥ 0,
+Y
+
+j
+
+Lo ≥ 0,
+
+where Li denotes labour time spent on the farm, Lo
+the labour time off-farm, and each member has a fixed
+availability of time, T j . Household income, Y, is related to: (i) the restricted conditional profit function
+(π), which in turn depends on the price of agricultural
+output (p), variable input prices (v), on-farm labour
+j
+of household members (Li ,) and their individual atj
+tributes (E ), household characteristics (H), and other
+fixed farm inputs (A), such as land; (ii) off-farm inj
+come, comprising off-farm work time (Lo ), valued at
+j
+the respective wage rate (wo ); and (iii) remittances (R).
+Assuming the usual regularity properties for the
+profit and utility functions, an optimum allocation of
+household time can be derived. Given our focus on
+off-farm work, it is convenient to further assume an
+j
+interior solution for all choices except Lo . Then, the
+necessary conditions for a maximum are:
+
+(j = m, f),
+j
+
+Le ≥ 0
+
+(1)
+(j = m, f),
+
+f
+m
+f
+m m
+= π(p, v, Lm
+i , Li , A, E , E , H) + wo Lo
++ wfo Lfo + R,
+
+(2)
+
+∂U/∂Li
+∂π
+=
+j
+∂U/∂Y
+∂Li
+
+(4)
+
+and
+j
+
+−
+
+∂U/∂Lo
+λj
+j
+−
+= wo
+∂U/∂Y
+∂U/∂Y
+
+(j = m, f),
+
+(5)
+
+where λj denotes the Lagrange multipliers associated
+with positivity constraints on off-farm work.
+Eq. (4) indicates that the marginal rate of substitution of on-farm family labour for money income
+should be equated to the shadow price of that labour. If
+the household member works off-farm, Eq. (5) states
+that the marginal rate of substitution of off-farm work
+for income should equal the market wage rate. If the
+marginal rate of substitution of off-farm work for income exceeds the off-farm wage rate, the household
+member does not work off farm.
+For an individual household member, the decision
+whether or not to participate in off-farm employment
+will depend on a comparison of the market wage rate
+j
+and the individual’s reservation wage, wr , such that:
+j
+
+Lo = 0,
+
+if
+
+wir ≥ wo
+
+j
+
+(j = m, f),
+
+(6)
+
+if
+
+wir < wo
+
+j
+
+(j = m, f).
+
+(7)
+
+and
+j
+
+Lo = 0,
+(3)
+
+(j = m, f),
+
+The reservation wage is an endogenous variable,
+which will depend on the other exogenous variables in
+
+I. Matshe, T. Young / Agricultural Economics 30 (2004) 175–186
+
+the model (output and input prices, fixed farm factors,
+individual and household characteristics). Variables
+that raise the reservation wage reduce the probability
+of participation, while variables that raise the market
+wage rate, increase the probability of seeking off-farm
+employment.
+
+3. The statistical model
+The study is based on micro-level data collected
+over a relatively short survey period. As is typical
+of such data, some households and some individuals
+within households have no observed labour time allocated to some household activities. This poses a problem for the researcher, as standard regression analysis
+can be misleading in these circumstances. Zero observations on off-farm labour time may arise for a number of reasons. An individual may not be a participant
+in the labour market, because of personal preferences,
+inadequate qualifications or other disability. Alternatively, some individuals may be participants (potential
+workers) who chose not to work at the current level
+of economic incentives.1
+One approach would be to use the well-known Tobit model.2 However, a disadvantage of that model
+is that all zero observations on hours worked are interpreted as corner solutions, i.e. the individual is assumed to be a participant in the labour market who
+chooses not to work at the current level of exogenous
+variables, such as wages. A further restriction of the
+Tobit is that both the decision to participate and the
+amount of hours allocated to an activity given participation are determined by the same variables, and that
+a variable that increases the probability of participation also increases the number of hours worked. Thus,
+for example, the possibility that an individual’s edu1 A third possibility is that, due to other household commitments,
+off-farm work may be undertaken only on an infrequent basis and
+the survey is conducted at a time when no off-farm work was
+sought. However, given the survey design and the timing of our
+survey, this is unlikely to arise in our study and is not investigated
+here.
+2 Some recent studies have modelled the participation decision
+in isolation and estimated a Probit model (e.g. Lanjouw, 2001;
+Ferreira and Lanjouw, 2001) or a Logit model (e.g. Ruben and Van
+den Berg, 2001). These studies ignore the potentially important
+‘hours of work’ decision.
+
+177
+
+cation has a strong positive impact on the decision to
+work off farm but a negligible or even negative effect
+on the number of hours worked would be precluded.
+An alternative is to model as two separate decisions: (i) whether or not to participate in the labour
+market; and (ii) the amount of time the participant
+allocates to off-farm work. The reasons for separating
+these decisions are twofold. First, due to social or
+psychological drives, the individual may prefer not
+to engage in off-farm work whatever the values of
+exogenous variables. Second, an individual may be a
+potential participant in the off-farm labour market but
+for certain levels of relevant variables, decide not to
+work off-farm. The former represents abstention, the
+latter a corner solution.
+One widely used approach in this context is
+Heckman’s sample selection model (Heckman, 1979),
+which is designed to account for the fact that the observed sample may be non-random. A Probit model
+for the participation or ‘selection’ equation is estimated and a regression model, which is corrected
+for selectivity bias,3 is specified to account for the
+level of activity. Although preferable to the Tobit,
+this approach is still restrictive.4 None of the zero
+observations are due to a corner solution in the hours
+of work equation. If a variable affects the hours of
+work, it cannot sequentially lead to reduced and then
+zero hours worked, although if it appears in the participation equation, it may have that effect (Ghadim
+et al., 1999).
+The double hurdle model, developed initially by
+Cragg (1971), offers a more general approach to modelling participation and hours worked as two separate
+decisions. The approach has been widely adopted in
+the consumer demand literature (Atkinson et al., 1984;
+Garcia and Labeaga, 1996; Jones, 1989; Blaylock and
+Blissard, 1992; Burton et al., 2000) and the agricultural
+technology adoption literature (Coady, 1995; Ghadim
+et al., 1999). Although it has also been used to study
+labour supply decisions (e.g. Blundell et al., 1987), it
+has not been applied, to our knowledge, in any study
+3 Specifically, the estimated inverse Mills ratio, derived from
+the Probit results, is used as an additional regressor in the OLS
+equation.
+4 Johnston and DiNardo (1997, Section 13.12.2) also caution
+that the Heckman approach is sensitive to violations of underlying
+assumptions.
+
+178
+
+I. Matshe, T. Young / Agricultural Economics 30 (2004) 175–186
+
+of labour decisions of rural agricultural smallholders
+in developing countries.
+In the double hurdle model, if we observe hours of
+work a two-stage process must have been completed.
+First, the individual has decided to participate in the
+labour market, and second, has allocated some amount
+of time to off-farm work. The corollary is that no work
+time may be observed either because of the participation decision or the hours of work decision. It may be
+presumed that for each decision the individual weighs
+up the utility difference of each course of action but
+as these calculations cannot be observed directly, the
+model operates by assuming the existence of two latent variables: y1∗∗ , associated with the individual’s decision to participate in the off-farm labour market, and
+y2∗∗ , associated with the decision of how many hours
+to work off farm. These are linear functions of the first
+and second hurdle regressors, x1 and x2 , respectively:
+y1∗∗ = x1 β1 + u1 ,
+
+(8)
+
+y2∗∗ = x2 β2 + u2 .
+
+(9)
+
+Thus, x1 represents those variables used to explain the
+participation decision and x2 represents those variables
+used to explain the hours of work decision. If we denote an (unobservable) index variable as y1∗ = 1, if
+the individual decides to participate, and y1∗ = 0, otherwise, then:
+y1∗ = 1,
+
+y1∗∗ > 0,
+
+if
+
+and
+y1∗ = 0,
+
+otherwise.
+
+If it is assumed that the error term u1 is normally distributed, the first hurdle corresponds to a Probit model.
+Turning to the hours of work equation, conditional
+upon clearing the first hurdle, off-farm labour, y2∗ , is
+generated as:
+y2∗ = y2∗∗ ,
+
+if
+
+y2∗∗ > 0,
+
+and
+y2∗ = 0,
+
+otherwise,
+
+i.e. the second hurdle takes the form of a Tobit model,
+and is capable of generating zero levels of off-farm
+labour, independent of the first hurdle.
+
+The observed hours of work, y, is determined by
+the interaction of both hurdles:
+y = y1∗ y2∗ .
+
+(10)
+
+Thus, if we observe an individual working off-farm,
+he/she must be both a participant in the market, and
+have decided on a positive level of work time. Zero
+hours of off-farm work can be generated by a ‘failure’
+at either or both of the hurdles.
+It is further assumed that the latent variables have
+a bivariate normal distribution:
+1 ρσ
+(u1 , u2 ) ∼ BVN(0, Σ), Σ =
+.
+(11)
+ρσ σ 2
+As Blaylock and Blissard (1992) point out, this general model nests a number of other formulations. For
+example, when ρ is restricted to being equal to zero
+the model collapses to the independent Cragg model.5
+The Tobit model is nested within the independent double hurdle model (ρ = 0) when it is further assumed
+that the probability of participation is 1.
+4. Data
+The survey that generated the dataset used in
+this study was conducted over 34 weeks during
+the 1996–1997 crop year as part of a project on
+meso-scale rural market changes in the Shamva District of Zimbabwe. The district is divided into 24
+wards, of which 13 are located in communal areas
+and 6 in resettlement areas. The sample, representing
+10% of the total number of households in the area,
+was drawn from across the district in an attempt to
+capture a wide range of socio-economic and geographical conditions. The data are based on a very
+short recall period and most of the responses were,
+wherever possible, verified. The survey was designed
+to gather data on a wide range of issues including a
+comprehensive study of the household economy.
+The focus here is on individual adult members of the
+household and on how each decides, firstly, whether
+to participate in the off-farm labour market and, secondly, on the hours allocated to work away from the
+family farm. The dataset contains information on all
+5 The independent Cragg model assumes a feedback effect from
+the level of possible allocations to the participation decision (see
+Atkinson et al., 1984; Haines et al., 1988).
+
+I. Matshe, T. Young / Agricultural Economics 30 (2004) 175–186
+
+individuals whether they undertook off-farm work or
+not. The questions on off-farm labour allocation were
+two-fold: (i) do you work off-farm? and (ii) if so, how
+much time did you allocate this week for this activity?
+All members who had non-zero allocation of off-farm
+labour time were then observed working off farm to
+verify their responses.
+An immediate problem in implementing the theoretical model with the sample data is the absence of reliable information on individuals’ wage rates. As other
+studies (e.g. Adams, 1991) have shown, there are vibrant labour markets in one form or another in rural
+areas throughout most of rural Zimbabwe. However,
+the local economy in the Shamva District, while offering diverse income-generating opportunities, is characterised by a relative scarcity of formal employment
+and non-monetary payments for labour are common.
+There is also the difficulty of calculating a shadow
+wage rate for those individuals who did not work during the survey period. Furthermore, there are likely to
+be measurement errors in recorded wage data due to
+the unreliability of survey responses in this regard. In
+line with other studies (e.g. Benjamin and Guyomard,
+1994), we choose to include a set of exogenous variables, such as individual and household characteristics, which might affect an individual’s shadow price
+of time and the reservation wage rate.
+An additional problem arises because the theoretical model outlined in Section 2 suggests that the
+individual’s labour decision depends on both his/her
+attributes and those of the other household member.
+This theoretical specification is quite easy to represent in empirical analysis of households comprising
+a farmer and a spouse (see, for example, Benjamin
+and Guyomard, 1994) but in our dataset there is a
+variety of household types (farmers with an absentee
+spouse or no spouse, households headed by children
+or young adults, households with several adults and
+so forth). It is not clear in this case how the characteristics of other household members can be represented
+in modelling the labour decision of the individual
+decision-maker. Although we experimented with alternative approaches,6 it was decided that the empir6 Specifically, including aggregate variables which would depict
+the characteristics of other household members (total years of
+schooling, gender ratio, etc.) did not improve the overall fit and, in
+any case, the effects of these variables were difficult to interpret.
+
+179
+
+ical model should exclude other household members’
+individual characteristics, so that the final specification incorporated the decision-maker’s own attributes
+(age, gender, education), general household’s characteristics (ethnic group, numbers in various age
+groups, etc.) and farm characteristics (area planted,
+importance of cash crops, etc.).
+All the variables used in this study together with
+their definitions, means and standard deviations are
+presented in Table 1. The dependent variables in the
+two hurdles of the model are participation (participate) and hours worked off-farm (offhours). The individual characteristics included in the analysis are age,
+gender and education (level of schooling). The latter
+is included to represent human capital, which many
+studies (e.g. Huffman, 1992; de Janvry and Sadoulet,
+1997) suggest plays an important role in the labour
+time allocation of agricultural households. The household is characterised by the ethnic group of the head
+of household, the household’s composition, its productive assets and availability of credit, and the level
+of remittances. The farm characteristics are the proportion of cash crops grown, the area planted and the
+agricultural terms of trade. These household and farm
+characteristics feature in a number of studies of labour
+supply in developing countries. The dataset is completed with two locational variables, which are expected to influence the participation decision:7 the distance from commercial centres and the quality of the
+infrastructure.
+Several of the sample means in Table 1 are higher
+than the corresponding national averages for rural areas in Zimbabwe. This can be explained partly by
+the significantly higher agricultural potential of the
+Shamva District compared to other locations and by
+the fact that this district has a highly diversified economy thanks to its agricultural potential and significant
+mineral wealth. However, since small-scale producers are located in pockets of poor and/or inaccessible land throughout the whole country regardless of
+agro-climatic region, the demographic variables reflect
+levels that are typical of rural areas in general. Mean
+land area accessible to the household is close to the
+national average. The effective area is about 1.9 acres
+7 Reardon et al. (2001), for example, emphasise the importance
+of transport infrastructure, mainly roads, in stimulating the growth
+of non-farm employment in Latin America.
+
+180
+
+I. Matshe, T. Young / Agricultural Economics 30 (2004) 175–186
+
+Table 1
+Descriptive statistics of model variables
+Variable
+
+Description
+
+Dependent variables
+Participate
+Participation (1 = the individual participates in the off-farm labour market; 0 = otherwise)
+Offhours
+Labour time allocated to off-farm skilled work (hours)
+Individual characteristics
+Age
+Age of individual household member
+Education
+Number of years of schooling of individual household member (that is, the total number
+of years after the first 14 years)
+Gender
+Gender of the individual household member (1 = female; 0 = male)
+Household and farm characteristics
+Ethnic
+Ethnicity of the household head (1 = Zezuru; 0 = other)
+Adults
+Number of adults in the household
+Chld49
+Number of children between the ages of 4 and 9 years
+Chld1016
+Number of children between the ages of 10 and 16 years of age
+Infants
+Number of infants in the household
+Assets
+Total value of household productive assets (Z$)
+Credit
+Dummy for the accessibility of credit (1 = if household is member of farmer group;
+0 = otherwise)
+Remittance
+Total value of remittance income (Z$)
+Cash crops
+Proportion of the land area of the family farm under cash crops
+Area
+Area actually planted in the survey crop year (acres)
+Tot
+Ratio of agricultural prices to that of non-agricultural products—the ‘terms of trade’
+Locational characteristics
+Distance
+Average distance to the nearest shopping or urban centre and to commercial farms or
+other employment centres (km)
+Infras
+Dummy for the quality of roads, bridges and communication infrastructure in the area in
+which the farm household is located (1 = good; 0 = other)
+
+larger than in other areas (for example, in the midlands
+it is 5 acres per household, in Matabeleland South it is
+5.5 acres and in Masvingo it is 4.5 acres (CSO, 1990)).
+The closeness of the areas of arable land accessible
+to the household in the district to the national average
+is due to the uniform discriminatory policy (embodied in the Land Apportionment Act of 1930) that was
+behind the formation of rural areas (native reserves)
+across the country. In the sample period, a total of 302
+households allocated some time off farm. This figure
+includes all those households that undertook any activity that is primarily for purposes of the production
+of goods and services for sale and formal and informal
+employment.
+All the other variable means are close to the corresponding national averages. The wide variations in
+education levels, remittance income and assets reflect
+the typical unequal distribution of these variables in
+rural areas. The time worked is much higher than one
+
+Mean
+
+Standard
+deviation
+
+0.6652
+31.5472
+
+0.3348
+14.1358
+
+37.8619
+4.4556
+
+18.6617
+5.5238
+
+0.6083
+
+0.4159
+
+0.7181
+2.0372
+0.5275
+1.0176
+0.6586
+9210.51
+0.3817
+
+0.4504
+0.7569
+0.7319
+1.0462
+0.7519
+11810.54
+0.7636
+
+350.62
+0.1707
+4.9435
+0.2358
+
+542.44
+0.2304
+7.9264
+0.7707
+
+14.2819
+
+11.0888
+
+0.5370
+
+0.4576
+
+would expect. However, it is worth remembering that
+these data were collected over the 34 busiest weeks of
+the year. Time worked also falls within the range of
+results for agricultural labour time allocation from a
+study of small-holders by Massell and Johnson (1968).
+When one considers that during this time of the year
+it is quite possible that the labour week can be as long
+as 6 days, these data do not appear unrealistic.
+
+5. Results
+The double hurdle model was estimated for all individual adult household members in the sample (1183
+cases). The choice of explanatory variables to include
+in each of the two hurdles is problematic (Atkinson
+et al., 1984). As Ghadim et al. (1999) note, “It is
+usually thought necessary to impose some exclusion
+restrictions across the two vectors of explanatory vari-
+
+I. Matshe, T. Young / Agricultural Economics 30 (2004) 175–186
+
+ables in order to adequately identify the parameter
+estimates. However, theory seldom allows one to be
+precise as to which variables should appear in which
+vector.” (p. 9). So the selection is inevitably somewhat
+arbitrary. The approach taken here is to include in the
+participation equation all those socio-economic characteristics which might determine preferences towards
+work and which might proxy the reservation wage.
+Table 2 presents the results of the joint maximum
+likelihood estimation8 of the two equations of the independent double hurdle model explaining the probability of participation and hours of off-farm work. A
+Tobit model version containing the same second stage
+variables is also presented. On the basis of a likelihood
+ratio (LR) test, the restrictions implied by the Tobit
+model were rejected (LR = 315.95, with a critical
+2 value of 30.14). The implication of this result is
+χ19
+that participation and hours of work decisions are not
+based on the same decision-making process. The independent double hurdle is favoured because a LR test
+of the significance of the covariance term (␳indicates
+that the independent double hurdle model is appropriate (ρ=0, cannot be rejected on the basis of a LR test
+statistic of 0.689, against the critical χ12 value of 3.84).
+This implies that participation and hours of off-farm
+work are distinct, unrelated decisions.
+These results vindicate the choice of a two-stage
+modelling approach to labour allocation, since it is
+apparent that the effects of the explanatory variables
+are more complicated than the Tobit regression would
+imply. This is well illustrated by considering the variable denoting the gender of the individual. The double hurdle results suggest that a female member of the
+household is less likely to work off farm but if she
+does decide to undertake such work, she will work
+longer hours than her male counterpart, ceteris paribus.
+Hence, as the impact of gender on participation is opposite in direction to that on hours of work, drawing inferences about the effect of gender on off-farm
+labour allocation from the Tobit or other single equation regression would lead to erroneous conclusions.
+The variable coefficients presented in Table 2 can
+be used to establish the magnitudes of the effects of
+a change in an explanatory variable for the particular hurdle. In the participation equation, for example,
+the interpretation of the variable coefficients is that
+8
+
+STATA 5 was used to obtain all econometric estimates.
+
+181
+
+each one-unit increase in a given variable leads to an
+increase in the Probit index9 by standard deviations
+equal to the magnitude of the coefficient. For example, a 1 acre increase in the actual area planted leads
+to a decrease in the Probit index by 0.35917 standard
+deviations.10
+Variables for age and educational background are
+included to capture the effect of age, experience and
+formal training, characteristics which may be linked
+to the shadow wage rate. The quadratic life-cycle effect on off-farm labour time is as expected: at young
+ages, the hours of work increase with age, but at older
+ages the hours worked decrease as age increases. In
+terms of participation, however, the coefficient on age
+is negative, but insignificant. The quadratic term in
+age is positive and significant, suggesting for older
+workers the probability of participation in the off-farm
+labour market increases with age. This is a somewhat
+surprising result in terms of much of the literature
+(see, for example, Benjamin and Guyomard, 1994;
+Abdulai and Delgado, 1999), although Ruben and Van
+den Berg, 2001), obtain a similar result for off-farm
+self-employment in Honduras. As has been found in
+other studies (e.g. Ferreira and Lanjouw, 2001), the
+probability of engaging in off-farm activities is positively and significantly related to the level of education. Specifically, an individual educated beyond 14
+years is found to be more likely to work off farm. Thus,
+the hypothesis that years of formal education make
+members more employable (for example, because they
+would be more knowledgeable of employment opportunities and more adaptable in the range of tasks that
+they can perform as a hired worker or self-employed)
+is confirmed by these results. However, education does
+not significantly affect the hours worked in off-farm
+employment.
+Female adults are less likely to participate in
+off-farm work. This may not only reflect the greater
+time commitments of women within the household,
+but also the significant gender biases in labour time
+allocation in this area, a result which would be in
+9 If the Probit model is defined as Pr(y = 0|x ) = Φ(x b), where
+i
+i
+i
+xi are the explanatory variables and Φ the standard cumulative
+normal with mean zero and variance 1, then xi b is the Probit index.
+10 In other words, the interpretation of these coefficients requires
+one to think in the so-called Z-metric, which is a way of interpreting
+the changes in standard deviations.
+
+182
+
+I. Matshe, T. Young / Agricultural Economics 30 (2004) 175–186
+
+Table 2
+Double hurdle and Tobit model estimation results
+Variable
+
+Double hurdle
+Estimate
+
+Participation
+Age
+Age2
+Education
+Gender
+Adults
+Chld49
+Chld1016
+Infants
+Gender × infants
+Ethnic
+Assets
+Remittance
+Credit
+Area
+Cash crops
+Tot
+Infras
+Distance
+Constant
+
+−0.42388
+0.55096
+2.69721
+−0.31172
+0.15468
+−0.27642
+0.71595
+−0.27845
+−0.24076
+−0.24270
+2.48e−06
+−0.16606
+−0.34518
+−0.35917
+−1.68951
+−0.05735
+0.60966
+−0.12009
+−4.95434
+
+Hours of work
+Age
+Age2
+Education
+Gender
+Adults
+Chld1016
+Chld49
+Infants
+Gender × infants
+Assets
+Remittance
+Area
+Tot
+Constant
+
+1.31782
+−0.30637
+−0.29566
+0.37751
+0.21981
+10.28375
+−6.34059
+−9.00368
+−0.74837
+−0.62631
+−0.35861
+−1.91946
+−0.11829
+7.13138
+
+Tobit
+Standard error
+0.82106
+0.19067
+0.76155
+0.06444
+0.05639
+0.61008
+0.75067
+1.69632
+0.14968
+0.10163
+5.67e−07
+0.06893
+0.32467
+0.06616
+0.58562
+0.06792
+1.00923
+0.10790
+1.51677
+0.50471
+0.10151
+0.64613
+0.21497
+0.09156
+9.19075
+10.12551
+12.17784
+0.23944
+0.13902
+0.15388
+0.59278
+0.05237
+1.66121
+
+Za
+
+Estimate
+
+Standard error
+
+Za
+
+−0.51626
+2.88959
+3.54174
+−4.83736
+2.74304
+−0.45308
+0.95374
+−0.16415
+−1.60849
+−2.38807
+4.37389
+−2.40911
+−1.06317
+−5.42880
+−2.88499
+−0.84438
+0.60408
+−1.11297
+−3.26637
+2.61104
+−3.01813
+−0.45759
+1.75610
+2.40072
+1.11892
+−0.62620
+−0.73935
+−3.12550
+−4.50517
+−2.33045
+−3.23806
+−2.25874
+4.29288
+
+2.05936
+−0.44856
+3.71749
+0.28115
+4.10859
+17.51946
+−20.26829
+−13.21918
+−1.02838
+−1.61482
+−1.60563
+−2.18847
+−0.64073
+11.28284
+
+0.61509
+0.12167
+−0.84519
+0.12094
+1.80393
+14.41627
+61.27772
+26.86568
+0.36398
+0.29283
+0.49731
+0.72826
+0.21938
+2.46398
+
+3.34806
+−3.68669
+4.39841
+2.32471
+−2.27758
+1.21526
+−0.33076
+−0.49205
+−2.82538
+−5.51453
+−3.22863
+−3.00507
+−2.92064
+4.57911
+
+For the double hurdle model, log likelihood = −1605.3749 and R2 = 0.3687. For the Tobit, log likelihood = −1763.3512.
+a The Z-statistic is the ratio of the coefficient to the standard error.
+
+line with numerous studies in similar communities.11
+Those women who do work off-farm are most often
+to be found in low paid, low productivity occupations. Further evidence that domestic commitments
+11 Several studies are based on gender-disaggregated data (e.g.
+Amin and Chipika, 1993; Abdulai and Delgado, 1999). Disaggregation along gender lines between and within households can
+better explain labour allocation behaviour because, it is hypothesised, the way males and females between and within households
+behave is different.
+
+are an important determinant of female participation
+is provided by the negative, significant coefficient on
+the interaction of gender and the number of infants
+in the household: females in households with young
+children are less likely to engage in the off-farm
+labour market. As noted earlier, when women do participate in the labour market, they work more hours
+off-farm than their male counterparts, but again this
+response is tempered when there are infants in the
+household.
+
+I. Matshe, T. Young / Agricultural Economics 30 (2004) 175–186
+
+Turning to household characteristics, the number of
+adults in the household increases the household’s capacity for diversifying its income-generating activities
+and so it is unsurprising that the larger the number
+of adults the greater the probability of an individual
+adult participating in off-farm work and the longer
+the hours worked. On the other hand, the presence
+of children per se has no significant effect on labour
+time allocation to off-farm work. This finding concurs
+with results from other studies in rural areas in developing countries that child-rearing and off-farm work
+are not necessarily competing activities (Sahn and
+Alderman, 1993; Skoufias, 1994). In these rural communities, members of the extended family take care
+of children in the absence of the parents. However, as
+we have already seen, the presence of infants does affect the off-farm labour decisions of female adults in
+the household.
+The ethnicity of the household head is another
+household characteristic which has a significant impact on the participation decision. This variable may
+influence preferences for off-farm work or may reflect biases in this labour market. Here we find that
+individual members from households of Zezuru extraction are less likely to participate in off-farm work,
+contrary to expectations.
+Unearned income in the form of remittances has a
+negative effect on both the likelihood of participation
+and on the hours worked. By easing the constraint
+on household income, remittance income reduces the
+need to undertake off-farm work. Productive assets,
+which are mostly agricultural, together with land area,
+can be seen as proxies for socio-economic group or
+wealth. Members of households which are relatively
+well-off are more likely to participate in off-farm work
+but when they do, they spend relatively less time in
+this activity. The other indicator of financial status in
+the model, credit availability, is not found to affect the
+participation decision.
+The farming system adopted by the household is
+represented in the model by the proportion of cash
+crops in the crop mix. Not surprisingly this variable
+negatively affects participation in off-farm work. This
+result suggests that households who grow cash crops
+tend to generate cash income for market purchases
+from this source rather than off-farm work. This result might also reflect the fact that most cash crops
+grown in this area tend to be labour intensive. This fact,
+
+183
+
+coupled with the other demands for household labour
+within the family, increases the reservation wage of
+this labour. Another farm characteristic which has a
+significant impact on labour decisions is the size of
+arable land available to the household: the larger the
+area the less likely is participation in off-farm work
+and the less time devoted to it by those who choose
+to participate. This is consistent with farmers undertaking off-farm work because of constraints in getting
+access to arable land, which in turn may lower their
+reservation wage for such work.
+Farmers in Shamva are sensitive to relative prices
+of farm and non-farm products, but only the hours of
+work decision is significantly affected, i.e. an increase
+in the level of agricultural product prices relative to
+non-agricultural ones leads to less time being allocated
+off-farm.
+Although both of the locational variables (denoting
+the quality of the infrastructure and the distance from
+commercial markets) have the expected estimated impact on participation, neither is statistically significant.
+Admittedly, the measure of infrastructure quality, a
+simple dummy variable, is rather crude. That distance
+does not have a more significant effect may reflect
+the fact that off-farm work has been defined in this
+study to include all forms of paid employment and
+that local labour markets offer adequate opportunities
+of employment in one form or another. Moreover, as
+the terms of trade are closely related to distance to
+the nearest centre, multicollinearity may be influencing the precision of estimation of their respective coefficients.
+Finally, we may note that the overall fit is
+satisfactory12 both in terms of R2 (0.37) and the estimated model’s predictive ability (Table 3). Of the
+1183 adults in the sample, 559 worked off-farm.
+The model correctly predicts 466 (83%) of these observations, while the remaining 93 individuals were
+predicted not to clear the first hurdle. Of the 624 individuals in the sample who did not work off-farm,
+550 individuals (88%) were correctly predicted not to
+allocate any time off-farm (373 were predicted to fail
+at the first hurdle, 116 to fail to clear both hurdles and
+12 Here, R2 = 2(LL − LL )/[2(LL − LL ) + N], where LL
+m
+0
+m
+0
+m
+is the value of the log likelihood function of the full model and
+LL0 the log likelihood value of a model with only constants in
+both hurdles. N is the number of observations (1183).
+
+184
+
+I. Matshe, T. Young / Agricultural Economics 30 (2004) 175–186
+
+Table 3
+Distribution of predicted versus actual participating individuals
+Actual values
+
+Predicted values
+
+First
+hurdle
+
+Second
+hurdle
+
+0
+
+0
+0
+1
+1
+
+0
+1
+0
+1
+
+116
+373
+61
+74
+
+1
+
+93
+466
+
+61 are predicted to be potential participants but are
+at a corner solution in the hours of work equation).
+However, the model fails to correctly predict the behaviour of 74 individuals (12%), who were observed
+not allocating any time off the farm but who were
+predicted by the model to clear both hurdles and so
+record some time in off-farm activities.
+
+6. Discussion
+The use of the double hurdle approach to modelling
+labour decisions in this context has been justified. Not
+only was the Tobit model formally rejected by the data,
+but some variables, such as productive assets, had a
+different qualitative as well as quantitative impact at
+each decision stage. A single equation approach such
+as the Tobit would have conflated these effects and
+given misleading results.
+Nevertheless, the analysis has a number of shortcomings which should be borne in mind when considering the policy implications discussed below. First,
+the lack of reliable data on wages precludes using potentially one of the most powerful economic variables
+in the model and one of the main variables that is
+traditionally a target for policy in this sub-region. It
+would have been instructive to explore whether their
+role is important for rural small-holders in Shamva
+and whether policy measures to address low wages in
+these areas are appropriate.
+Second, this approach implicitly assumes uncontrolled ‘expenditure of time’. If an individual with the
+requisite characteristics is willing to work, it is assumed he or she will work, i.e. paid work will be found
+or time will be allocated to an activity that produces
+goods and services primarily for sale. This is clearly
+not the case. There are limits as to the availability of
+
+work and it would have been informative if these limits could have been included within the model. However, although variables such as the unemployment
+rate in each locality or the density of the population
+in a particular village or ward could have been built
+into the model, in a cross-section study these variables
+would exhibit relatively little variation and they would
+merely pick up the effect of location.
+Finally, this analysis ignores a number of potentially important factors. The riskiness and periodicity
+of agricultural production (Matshe, 1997), inter-year
+variations and seasonal constraints on grain and cash
+holdings can have implications for the amount of time
+allocated to different activities and for pluriactivity.
+However, it is difficult or impossible to incorporate
+these factors in a single season cross-section study.
+Health considerations also may have influenced the
+results. At the time of the survey, the stigma attached
+to HIV/AIDS made it impossible to get meaningful
+explanations for some apparently inconsistent observations (such as no off-farm participation even though
+the characteristics of the household and those of the
+individual would have suggested otherwise). Another
+consideration to be borne in mind when assessing
+these results is that the survey was conducted during a transitional phase of economic reform, from a
+heavily centralised economic system to a more liberal
+and market-oriented one. Specifically, the government
+had just abolished the centralised marketing of most
+grains, had relaxed laws governing the mining of small
+mineral deposits, had shifted most of the management
+of local authorities to the local community through
+elected District Councils, had abolished the licensing
+of agricultural produce marketing and generally was
+implementing measures consistent with the Structural
+Adjustment Programme.
+6.1. Implications for rural development policy
+Increasing off-farm work in rural areas is important because of the potential it has to ameliorate the
+effects of low agricultural productivity and low agricultural incomes which are associated with poverty
+in rural areas. Government policy should be directed
+not just at agricultural development but to promoting
+the rural economy as a whole. This entails policies
+directed towards providing incentives that encourage
+households to participate in rural non-farm activities,
+
+I. Matshe, T. Young / Agricultural Economics 30 (2004) 175–186
+
+as well as increasing the capacity of households to
+respond to such incentives (Reardon et al., 2001). In
+this regard, there is particular scope to promote manufacturing, commerce and services which link to the
+needs of modern agriculture.
+Our results suggest that in the Shamva District, the
+main factors influencing labour allocation off farm are
+land accessibility, asset holding, education and gender. The government’s current policy of redistributive
+land reform would relieve the land constraint on the
+allocation of labour to farm work and would, according to our results, reduce the incentive to participate in
+the off-farm labour market. This may see household
+labour being drawn back on to the farm and may discourage rural–urban drift, but in the absence of other
+measures to encourage agricultural development (including technology promotion, enhanced human resources, etc.), the impact on rural household incomes
+will be muted.
+Rural households with productive assets have the
+capacity to diversify into off-farm employment and the
+higher the level of assets the more likely they are to engage in these off-farm activities. The government policy of subsidising draught livestock through restocking schemes (and in some areas actually restocking
+depleted herds) and the subsidised provision of agricultural implements for rent is thus expected to release
+some household members for work off farm. On the
+other hand, our results suggest that increasing household assets reduces the amount of time spent off farm.
+This throws into sharp focus the difficulty of drawing
+ready conclusions about the effect on rural incomes of
+the exogenous provision of assets to rural households.
+As the level of education is strongly and positively
+linked to participation in the off-farm labour market,
+skill-building and training of human resources is an
+essential aspect of promoting both agricultural development and rural off-farm employment. Moreover,
+policies and programmes to facilitate rural women’s
+access to the off-farm labour market are called for,
+if the current gender bias in labour markets is to be
+reversed.
+
+185
+
+a two-stage (double hurdle) process, which distinguishes the participation decision and the hours of
+work decision. This provides a more realistic model of
+the labour market. In particular, it avoids the assumptions that all non-participants do not want to work and
+that the same factors influence the participation and
+work-time decisions in the same directions. The approach is vindicated by the data, with the single equation, Tobit model being clearly rejected, and some
+variables (e.g. assets and gender) having qualitatively
+and quantitatively different effects on the two labour
+allocation decisions.
+Our results confirm that education and gender
+are important individual characteristics determining
+labour allocation off farm. Farm/household characteristics (the number of adults in the household, the
+level of remittances, the area accessible to the household and its level of asset-holding) are also significant
+factors in off-farm work time allocation. In the study
+area, off-farm work is stimulated at least in part by the
+inability of household to increase agricultural output
+and therefore agricultural income.
+Given the importance of non-farm income in alleviating the problems of low agricultural productivity,
+poverty and food insecurity, policies should be directed towards providing incentives to households
+to participate in rural non-farm activities, as well as
+increasing their capacity to take advantage of such
+opportunities. This would entail an approach in which
+the rural economy is viewed as a whole, so that, in
+addition to policies aimed at agricultural development, manufactures, commerce and services essential
+for modern agriculture are also promoted.
+
+Acknowledgements
+We gratefully acknowledge the funding for fieldwork provided by the Ford Foundation through the
+‘Meso-Scale Rural Market Changes in Zimbabwe’
+Project.
+
+References
+7. Conclusions
+In this paper off-farm labour allocation of adults
+in the Shamva District of Zimbabwe is modelled as
+
+Abdulai, A., Delgado, C.L., 1999. Determinants of non-farm
+earnings of farm-based husbands and wives in northern Ghana.
+Am. J. Agric. Econ. 81, 117–130.
+
+186
+
+I. Matshe, T. Young / Agricultural Economics 30 (2004) 175–186
+
+Adams, J., 1991. Female wage labour in rural Zimbabwe. World
+Dev. 19, 163–177.
+Amin, N., Chipika, J.T., 1993. Household food security in
+Matabeleland South and Mashonaland. In: Dissemination
+Conference Proceedings, 18–19 June 1993, University of
+Zimbabwe.
+Atkinson A.B., Gomulka, J., Stern, N., 1984. Household expenditure on tobacco 1970–1980: evidence from the Family
+Expenditure Survey. LSE-ESRC Programme on Taxation,
+Incentives and the Distribution of Income, No. 57.
+Benjamin, C., Guyomard, H., 1994. Off-farm work decisions of
+French agricultural households. In: Caillavet, F., Guyomard,
+H., Lifran, R. (Eds.), Development in Agricultural Economics:
+Agricultural Household Modelling and Family Economics.
+Elsevier, Amsterdam.
+Blaylock, J.R., Blissard, W.N., 1992. U.S. cigarette consumption:
+the case of low-income women. Am. J. Agric. Econ. 74, 698–
+705.
+Blundell, R., Ham, J., Meghir, C., 1987. Unemployment and female
+labour supply. Econ. J. 97, 44–64 (Conference).
+Burton, M., Dorsett, R., Young, T., 2000. An investigation of
+the increasing prevalence of non-purchase of meat by British
+households. Appl. Econ. 32, 1985–1991.
+Central Statistical Office (CSO), 1990. Census Report. CSO,
+Government of Zimbabwe, Harare.
+Coady, D.P., 1995. An empirical analysis of fertiliser use in
+Pakistan. Economica 62, 213–234.
+Cragg, J.G., 1971. Some statistical models for limited dependent
+variables with applications to the demand for durable goods.
+Econometrica 39, 829–844.
+de Janvry, A., Sadoulet, E., 1997. Household modelling for the
+design of poverty alleviating strategies. Working Paper No. 787,
+Department of Agriculture and Resource Economics, University
+of California at Berkeley.
+FAO, 1998. The State of Food and Agriculture. Food and
+Agriculture Organisation Agriculture Series No. 31.
+Ferreira, F.H.G., Lanjouw, P., 2001. Rural nonfarm activities and
+poverty in the Brazilian Northeast. World Dev. 23 (3), 509–528.
+Garcia, J., Labeaga, J.M., 1996. Alternative approaches to modelling zero expenditure: an application to Spanish demand for
+tobacco. Oxford Bull. Econ. Stat. 58, 489–506.
+
+Ghadim, A.A., Burton, M., Pannell, D., 1999. More evidence on the
+adoption of chick peas in Western Australia or different ways
+of thinking about nothing. In: Paper Contributed to the 43rd
+Annual Conference of Australian Agricultural and Resource
+Economics Society, Christchurch, 20–22 January 1999.
+Haines, P., Guilkey, D., Popkin, B., 1988. Modelling food
+consumption decisions as a two-step process. Am. J. Agric.
+Econ. 70, 543–552.
+Heckman, J., 1979. Sample selection bias as a specification error.
+Econometrica 47, 153–161.
+Huffman, W.E., 1992. Costs and returns: a perspective of estimating costs of human capital services and more. In: Ahearn,
+M.C., Vasavada, U. (Eds.), Costs and Returns for Agricultural
+Commodities. Westview Press, Boulder, CO.
+Johnston, J., DiNardo, J., 1997 Econometric Methods, fourth ed.
+McGraw-Hill, New York.
+Jones, A.M., 1989. A double hurdle model of cigarette consumption. J. Appl. Econometrics 4, 23–39.
+Lanjouw, P., 2001. Nonfarm employment and poverty in rural El
+Salvador. World Dev. 23 (3), 529–547.
+Massell, B.F., Johnson, R.W.M., 1968. Economics of smallholder
+farming in Rhodesia: a cross-sectional analysis of two areas.
+Supplement 8, Food Research Institute Studies.
+Matshe, I., 1997. Labour time allocation in Zimbabwean smallscale agricultural households: a methodological review. Unpublished M.A. dissertation, University of Manchester.
+Reardon, T., Berdegué, J., Escobar, G., 2001. Rural nonfarm
+employment and incomes in Latin America: overview and
+policy implications. World Dev. 23 (3), 395–409.
+Ruben, R., Van den Berg, M., 2001. Nonfarm employment and
+poverty alleviation of rural farm households in Honduras. World
+Dev. 23 (3), 549–560.
+Sadoulet, E., de Janvry, A., 1995. Quantitative Development
+Analysis. John Hopkins University Press, Baltimore.
+Sahn, D., Alderman, H., 1993. Substitution between goods and
+leisure in a developing country. Am. J. Agric. Econ. 75 (4),
+875–883.
+Singh, I., Squire, L., Strauss, J. (Eds.), 1986. Agricultural Household Models. John Hopkins University Press, Baltimore.
+Skoufias, E., 1994. Using shadow wages to estimate labour supply
+of agricultural households. Am. J. Agric. Econ. 76, 215–227.
+
+

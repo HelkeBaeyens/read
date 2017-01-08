@@ -1,0 +1,1231 @@
+Available online at www.sciencedirect.com
+SCIENCE@DIRECT"
+
+ELSEVIER
+
+AGRICULTURAL
+ECONOMICS
+
+Agricultural Economics 29 (2003) 85-98
+www.elsevier.com/locate/agecon
+
+Estimating the benefits of farm animal welfare legislation
+using the contingent valuation method
+Richard M. Bennett*, Ralph J.P. Blaney
+Department of Agricultural and Food Economics, The University of Reading, P. 0. Box 237, Reading RG6 6AR, UK
+
+Received 14 May 2001; received in revised form 13 March 2002; accepted 14 August 2002
+
+Abstract
+This paper presents the method and findings of a contingent valuation (CV) study that aimed to elicit United Kingdom
+citizens' willingness to pay to support legislation to phase out the use of battery cages for egg production in the European Union
+(EU). The method takes account of various biases associated with the CV technique, including 'warm glow', 'part-whole' and
+sample response biases. Estimated mean willingness to pay to support the legislation is used to estimate the annual benefit of
+the legislation to UK citizens. This is compared with the estimated annual costs of the legislation over a 12-year period, which
+allows for readjustment by the UK egg industry. The analysis shows that the estimated benefits of the legislation outweigh
+the costs. The study demonstrates that CV is a potentially useful technique for assessing the likely benefits associated with
+proposed legislation. However, estimates of CV studies must be treated with caution. It is important that they are derived from
+carefully designed surveys and that the willingness to pay estimation method allows for various biases.
+© 2003 Elsevier Science B.V. All rights reserved.
+JEL classification: Ql8; Q26
+Keywords: Farm animal welfare; EU legislation; Contingent valuation; Costs and benefits; UK
+
+I. Introduction
+
+Farm animal welfare issues are becoming increasingly important within the European Union (EU).
+This is shown by consumer concerns about animal
+welfare and reflected by the increasing amount of
+legislation designed to improve the welfare of farm
+animals within the EU (see Wilkins, 1999). 1 For example a survey of some 2500 people in the UK, Ire*Corresponding author. Tel.: +44-1189316478.
+E-mail address: r.m.bennett@rdg.ac.uk (R.M. Bennett).
+1 In the UK, this is also shown by the increase in farm assurance
+schemes which contain numerous standards designed to improve
+animal welfare, and which are supported by major food retailers
+(such as the RSPCA Freedom Food scheme and the Tesco chain
+of food stores).
+
+land, France, Germany and Italy (Harper and Henson,
+2001) found that an average of 66% of people said
+that they had reduced their consumption of livestock
+products due to their concerns about the way that the
+animals were treated and 60% said that they purchased
+'farm animal friendly' products (such as free-range
+eggs and chicken). 2 As well as the general increase
+2 Broome (1998) reports that 33% of consumers in Ireland restricted their consumption of meat (with concerns about animal
+welfare being the main reason given), whilst 83% of consumers
+in France stated that concerns over animal welfare affected their
+consumption of some livestock products (e.g. veal). Of course,
+concern about farm animal welfare is not only found in EU countries. For example, PETA (2002) report a survey of citizens in
+the United States of America that found that 90% 'opposed' the
+confinement of chickens and other animals on 'factory farms'.
+
+0169-5150/03/$- see front matter© 2003 Elsevier Science B.V. All rights reserved.
+doi: I 0.1 016/S0169-5150(03)00037-9
+
+86
+
+R.M. Bennett, R.i.P. Blaney I Agricultural Economics 29 (2003) 85-98
+
+in EU legislation to protect and improve farm animal
+welfare, it was agreed in 1997 that animal welfare
+considerations become annexed (retrospectively) to
+the Treaty of Rome establishing the European Community by means of a Protocol on Animal Welfare.
+The Protocol is important because it states the desire
+to "ensure improved protection and respect for the
+welfare of animals as sentient beings" and goes on
+to state that "in formulating and implementing the
+Community's agricultural, transport, internal market
+and research policies, the Community and the Member
+States shall pay full regard to the welfare requirements
+of animals ... "(the latter statement had already been
+part of the 1992 Treaty on European Union). This
+highlights the increasing ethical concerns about the
+treatment of animals within the EU and, importantly,
+explicitly recognises animals as beings capable of
+pleasure and pain rather than as inanimate goods. 3
+The production of eggs from hens kept in battery cages has specifically received attention from
+consumers, 4 animal welfare groups and policy makers. A UK poll in 1995 (King, 1995) found that 72%
+of UK citizens thought that the battery-cage system
+was wrong, whilst Harper and Henson (2001) found
+that battery-cage systems were thought 'somewhat
+unacceptable' on average by citizens in the UK, Ireland, France and Germany. 5 Organisations such as
+Compassion in World Farming and Eurogroup for Animal Welfare have campaigned to have cages banned
+within the EU (CIWF, 2002; Eurogroup, 2002). In
+July 1999, European Agriculture Ministers agreed to
+3 In his excellent treatise on economics and animal welfare,
+Mcinerney (1993) notes that animal welfare is just another economic commodity for which peoplehave preferences relative to
+other things they choose to consume with their available income.
+Thus, the (animal) welfare standards a society pursues are a coincidental outcome of the pursuit of its own (human) welfare.
+4 In response to consumer concerns, some food stores, such as
+Marks and Spencer in the UK, have ceased selling eggs from
+cage systems. Fearne and Lavelle (1996) found that consumers of
+free-range eggs were largely influenced by hen welfare considerations followed by perceived higher egg quality, whilst consumers
+of cage eggs were largely influenced by the price and size of eggs
+in their purchasing decisions. Morris (1996) notes that although
+consumers may be concerned about hen welfare and wish to buy
+non-cage eggs, some will not be sufficiently motivated to actually
+do so.
+5 Broome (1998) reports that 70% of French consumers perceived animal welfare problems with the cage egg system and that
+this influenced their consumption of eggs.
+
+ban the keeping of laying hens in battery cages from
+1 January 2012 (EU Directive 99/74/EC).
+However, the banning of battery cages will impose
+costs on egg producers, consumers and society as a
+whole. Do the benefits of such a ban outweigh these
+costs? In an attempt to address this question, this paper presents the method and findings of a contingent
+valuation (CV) study undertaken in 1996 to estimate
+the benefits of a ban on cages in the EU for citizens
+of the UK. The paper considers the desirability of the
+legislation in the light of the study's estimates of benefits and the likely costs of the legislation within the
+UK.
+
+2. Survey methods
+A questionnaire divided into four mam sections
+was designed. A specimen version of the questionnaire is shown in Appendix A. The first section
+contained questions about the extent to which people
+are concerned about farm animal welfare generally
+and about specific production practices (including
+egg production using the battery-cage system). This
+section also asked people about their consumption
+expenditure and included questions as to whether
+their consumption decisions are affected by their animal welfare concerns and their consumption of cage,
+barn/perchery or free-range eggs. The next section
+presented information on the battery-cage system
+generally practised in the EU. This information was
+checked by animal scientists to ensure that it was
+scientifically correct and unbiased in its description.
+The section then presented the proposal to phase out
+the use of battery cages in the EU and asked people if
+they supported such legislation. They were then asked
+if they would be willing to pay a specified amount
+to support the legislation as a general increase in the
+price of a dozen eggs. A single-bounded dichotomous
+choice elicitation method (Bishop and Heberlein,
+1979; Mitchell and Carson, 1989, pp. 101-103) was
+used. Twelve different bid amounts (see Table 1) were
+used and randomly allocated to people within the
+sample. These combinations were chosen following
+an exploratory survey of people using an open-ended
+willingness to pay (WTP) elicitation format. Prior to
+the WTP questions, people were reminded of their
+limited budget and that any payment to support one
+
+R.M. Bennett, R.I.P. Blaney/ Agricultural Economics 29 (2003) 85-98
+
+Table I
+Responses to willingness to pay questions according to bid level
+(UK pence)a
+Bid amount
+
+Yes
+
+No
+
+No opinion
+
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+
+44
+41
+38
+33
+38
+36
+31
+34
+33
+34
+20
+22
+
+5
+10
+7
+6
+7
+11
+14
+10
+9
+15
+13
+21
+
+5
+5
+4
+4
+I
+8
+7
+4
+6
+7
+4
+2
+
+87
+
+The ACORN system is based on UK population census data and contains some 54 different categories
+within the UK population classified according to
+key socio-economic factors such as age, sex, ethnic
+group, marital status and family/household structure,
+occupation, economic position (income, etc.), education and home ownership. The cover letter sent
+out with the questionnaire not only explained the
+purpose of the survey but also provided a small
+incentive by offering to include respondents in a
+free prize draw. One month after the initial posting, a further letter and copy of the questionnaire
+were sent to non-respondents urging them to return a completed questionnaire. The response rate
+was 30%.
+
+a Bid is an increase on the current egg price. Respondents were
+advised of the current egg price (around £1.50 per dozen eggs).
+
+3. Results
+issue will necessarily mean that they have less money
+available to contribute to other issues or to buy things.
+Respondents were then asked whether the higher price
+of eggs indicated by the WTP amount would affect
+their consumption of eggs and, if so, by how much
+(i.e. number of eggs per week). Respondents were also
+asked their maximum WTP to address all of their farm
+animal welfare concerns using an open-ended format.
+Following this section, there was a series of 'debriefing questions'. In the first of these, respondents
+were asked (by means of an open-ended question format) to explain their responses to the WTP questions.
+Then they were asked to score (from 1 to 10) the extent to which each of a series of attitudinal statements
+reflected their own feelings with regards to the responses that they gave to the WTP questions. These
+questions were used to explore the rationality of respondents and to test for specific biases of people's responses (the results section gives more detail regarding
+these questions). The final section of the questionnaire
+contained background questions on the respondent's
+sex, age, education, income, occupation and household
+size.
+Following pretesting, the questionnaire, together
+with a cover letter, was posted to 2000 people in
+the UK during the latter part of 1996. The sample
+was selected randomly from all households in the
+UK but stratified according to the ACORN geodemographic classification system (CACI, 1993) to reflect
+the socio-economic characteristics of the population.
+
+3.1. Concerns about farm animal welfare and
+support of the cage ban
+Eighty-six percent of respondents were 'very
+concerned' or 'somewhat concerned' that farm animals may suffer or be mistreated (41 and 45%, respectively), whilst only 1% stated that they were 'not at all
+concerned'. Sixty-one percent acted on their concerns
+by purchasing/not purchasing farm animal products on
+animal welfare grounds (free-range eggs and veal were
+frequently mentioned in this context). Of the three livestock production practices presented to them, respondents scored veal production with calves in confined
+crates as being most unacceptable, followed closely
+by cage egg production (both with median scores of
+I = very unacceptable) with transport of animals for
+up to 24 h (with food and water at 8 h intervals) being
+less generally unacceptable (with a median score of 2).
+Over half of the respondents gave other examples of
+the treatment of farm animals that they were concerned
+about. On average, respondents' households purchased around nine eggs per week. Sixty-four percent
+stated that they purchased free-range eggs, II% barn
+or perchery eggs and just 9% stated they purchased
+battery-cage eggs. Fifty-nine percent of respondents
+were female and 41% male, with a mean age range of
+40-59 years. Mean income range of respondents was
+£15,000-20,000 per annum, whilst mean household
+size was 2 (with a range of 1-14 and 0-5 children).
+
+88
+
+R.M. Bennett, R.I.P. Blaney/ Agricultural Economics 29 (2003) 85-98
+
+Seventy-nine percent of all respondents supported
+the proposed EU ban on battery-cage egg production and only 7% stated they did not support the ban.
+Ninety-six percent of all respondents answered the
+WTP questions put to them. Table 1 shows responses
+to the WTP questions according to the bid level, with
+each of the 12 different bid amounts randomly allocated within the sample. The analysis of WTP responses is presented below.
+Responses to the WTP 'debriefing' question, which
+asked respondents to explain their reasoning behind
+their WTP responses, found that the majority (67%) of
+respondents gave income/expenditure and/or animal
+welfare as the main reasons behind their responses
+(this question was answered by 87% of all respondents). For example a typical response was "20p extra
+for a dozen eggs is not much to pay to improve hen
+welfare, especially since I don't buy many eggs". A
+minority of 2% of respondents objected to the legislation scenario presented to them. Table 2 shows a
+summary of responses to the attitude statements presented to respondents (respondents scored from 1 to 10
+depending on the extent of their agreement to each
+statement). The first statement was specifically designed to test for 'warm glow' bias (discussed later) in
+responses to WTP questions, asking respondents the
+extent to which they considered their WTP to be like
+a charitable donation to a worthy cause. The proportion of relatively high scores for this statement shows
+that this may have indeed influenced many people's
+WTP. The second attitude statement was designed to
+test for 'part-whole' bias (discussed later) of people's
+responses to the WTP questions, asking them the extent to which they considered their WTP to be not just
+
+for hen welfare but for farm animal welfare generally.
+The relatively high proportion of respondents giving
+a high score to this statement suggests that this bias
+may have indeed influenced people's WTP. The third
+statement seeks some further information on people's
+attitudes to the proposed legislation to ban battery
+cages in the EU, as presented in the WTP scenario.
+Nearly 82% of respondents agreed relatively strongly
+that such legislation is necessary (i.e. gave a score of
+7 or more to the attitude statement). The fourth attitude statement sought to explore the extent to which
+people's WTP is for their personal satisfaction from
+not consuming battery-cage eggs, whilst the fifth attitude statement sought to explore the extent to which
+people's WTP reflects the satisfaction they would get
+from knowing that others would not be reducing hen
+welfare by consuming battery-cage eggs. This tests
+the 'negative externality of animal suffering' argument considered by Bennett ( 1995) and the public
+good nature of the legislation. The scorings would appear to show that people are aware that the proposed
+egg legislation would provide public good benefits in
+a way that the market, by itself, cannot and that this
+may have influenced their WTP.
+When asked the maximum that they would be willing to pay (in terms of an increase in their weekly
+household food bill, due to higher prices) to address
+all of their farm animal welfare concerns, 79% of respondents gave an amount, with just 5% stating that
+they found this task too difficult. Ninety-one percent
+of respondents to this question gave a positive amount
+ranging from £0.10 to 100. The remainder stated a
+WTP of zero. The mean WTP given by respondents
+was £5.50 (with a median value of £5).
+
+Table 2
+Summary of responses to the attitude statements (% of respondents)"
+Attitude statement
+
+WTP is like a charitable donation
+WTP is for welfare generally
+Legislation is necessary
+WTP for personal satisfaction
+WTP to prevent others buying
+
+N
+
+Score
+1-2
+
+3-4
+
+5-6
+
+7-8
+
+9-10
+
+28
+12
+6
+19
+23
+
+9
+6
+4
+4
+5
+
+22
+15
+8
+18
+21
+
+15
+22
+16
+15
+15
+
+26
+46
+66
+44
+37
+
+534
+542
+548
+525
+504
+
+a Respondents were asked to score from 1 (not at all true of my feelings) to 10 (very true of my feelings). Percentages relate to those
+responding to the questions and may not add to 100% due to rounding. N: number of respondents answering each question (out of a total
+of 591 respondents).
+
+R.M. Bennett, R.i.P. Blaney I Agricultural Economics 29 (2003) 85-98
+
+89
+
+3.2. WTP to support the cage ban
+
+Table 3
+Willingness-to-pay model for the egg legislation
+
+A parametric model was used to estimate mean and
+median WTP. The procedure chosen is an extension of
+Cameron's (1988) approach, proposed by Hanemann
+et al. (1991) and is outlined below.
+Let individual i have an implicit price or WTP for
+the animal welfare legislation given by
+
+Variable
+
+Parameter
+estimate
+
+Standard
+error
+
+Pr >chi
+
+Intercept
+BID a
+AVOIDb
+INCOME"
+SUPPORTd
+WARMGLOWe
+PARTWHOLEr
+
+-1.9742
+-0.0307
+0.8485
+0.1984
+1.1743
+0.0962
+0.1313
+
+0.6201
+0.0087
+0.3050
+0.0644
+0.1994
+0.0464
+0.0422
+
+0.0015
+0.0004
+0.0054
+0.0021
+0.0001
+0.0381
+0.0019
+
+(1)
+where WTP; is the individual's true, but incompletely
+observed, willingness to pay; x; a vector of explanatory
+factors which can be observed, Ui a symmetric random
+error with zero mean and unit variance that arises from
+the unobserved factors about i' s WTP, b a vector and
+s is a scalar to be estimated. Each respondent is asked
+whether they are willing to pay a randomly assigned
+amount (B;). The probability of observing a positive
+response to this WTP question is
+Pr(Yes)
+
+= Pr(u;
+
++-- B;/s
+
++ x;bjs).
+
+(2)
+
+Alternatively, this probability can be written as
+(3)
++ d' x;),
+where c = -1/s and d = bjs. F() is the cumulative
+
+Pr(Yes)
+
+=
+
+F(cB;
+
+distribution function of u; and its assumed distribution determines the type of binary choice model used.
+It is the presence of a varying bid level that enables
+the identification of the scale of the WTP relationship. Thus, the bid (B;) is included in the right-hand set
+of variables in the binary choice model along with the
+explanatory variables (x;). The coefficients obtained
+from the binary choice model can then be used to identify the parameters in Eq. (1). The estimated parameters in the binary choice model are c and d' and thus
+the estimates of b' and s (Bennett and Larson, 1996)
+will be:
+b'
+
+-d'
+
+= --,
+c
+
+-1
+s=-.
+c
+
+(4)
+(5)
+
+Once the coefficients of the explanatory variables
+have been estimated from the model, it is then possible to estimate WTP. In this case, maximum likelihood estimation procedures were used, specifying a
+logit model (assuming a logistic distribution function)
+
+Number of observations: 446; -21og likelihood: 319.198;
+chi-square for covariates: 145.378 with six degrees of freedom
+(P = 0.001); association of predicted probabilities and observed
+responses: 86.4% concordant, 13.4% discordant (Yes-350 predicted, 339 actual; No-96 predicted, I 07 actual).
+a BID is the presented bid amount (i.e. from £0.15 to 0.70).
+b AVOID is a dummy variable (0: no, 1: yes) denoting whether
+the respondent stated that they avoided purchasing any products
+due to concerns about the welfare of animals involved.
+c INCOME is the income category score of 1-12 for amounts
+of 0-£5000 to >55,000 in steps of £5000.
+d SUPPORT is the level of support given by respondents to
+the proposed legislation to ban battery cages (where 0: no, 1: no
+opinion and 2: yes).
+e WARM GLOW is the combination of two variables: (i) a
+dummy variable (0: no, 10: yes) indicating whether the respondent
+had stated that their WTP was a payment towards a 'cause' in
+the open debriefing question and (ii) the score (1-10) given to the
+attitude question that their WTP is like a charitable donation to a
+worthy cause.
+r PARTWHOLE is also a combination of two variables: (i) a
+dummy variable (0: no, 10: yes) indicating whether the respondent
+had stated that their WTP was a payment toward animal welfare
+in the open debriefing question and (ii) the score (1-10) given to
+the attitude question that their WTP is not just for hen welfare
+but for farm animal welfare generally.
+
+and using standard procedures available in the SAS
+software package (SAS, 2000).
+Table 3 shows results for the preferred model following extensive model testing. A large number of
+test models were used with all demographic and other
+variables being included. Economic theory suggests
+that price (i.e. BID), income and preference variables
+(i.e. AVOID and SUPPORT) should be determinants
+of WTP, and thus it was considered important that
+such variables be included within the model. The preferred model had the best individual variable significance and the highest coincidence of predicted and
+observed responses. Nearly 10% ofthe sample stated
+they had no opinion concerning the WTP question or
+
+90
+
+R.M. Bennett, R.J.P. Blaney I Agricultural Economics 29 (2003) 85-98
+
+did not state a WTP preference and these respondents
+were assumed to have a zero WTP.
+All of the explanatory variables have a high level of
+statistical significance associated with them. BID is the
+presented bid value and the parameter estimate shows
+the expected negative relationship between the size of
+the bid presented to respondents and the probability
+of them giving a 'Yes' response. AVOID is a dummy
+variable indicating whether the respondent stated that
+they avoided purchasing any livestock products due
+to concerns about farm animal welfare. The positive
+sign indicates that those avoiding products on farm
+animal welfare grounds were more likely to say 'Yes'
+to WTP questions. INCOME is the income category
+score (1-12) and is used as a proxy variable for disposable income. The coefficient is positive, meaning
+that the higher people's income the more likely they
+were to say 'Yes' to WTP questions. SUPPORT denotes whether respondents did or did not support the
+proposed legislation or had no opinion. The coefficient
+is positive, meaning that those who stated that they
+supported the legislation were more likely to say 'Yes'
+to WTP questions. WARMGLOW is a variable that
+denotes the extent to which respondents considered
+their WTP to be like a charitable donation to a worthy
+cause. The positive sign means that the more respondents agreed with this statement the more likely they
+were to say 'Yes' to WTP questions. PARTWHOLE
+reflects the extent to which respondents considered
+their WTP to be not just for hen welfare but for farm
+animal welfare generally. Again, it has a positive sign
+meaning that the more respondents agreed with this
+view, the more likely they were to say 'Yes' to WTP
+questions. Thus, each of the model's variables, apart
+from BID, had a positive upward influence on WTP.
+Using this model, and including zero WTP values,
+mean WTP was estimated at £0.90 (per dozen eggs)
+and median WTP at £0.45. The model allowed for
+negative WTP values and had a 'correct percentage'
+predictive ability of over 86%. However, there are a
+number of potential biases of WTP estimates, which
+may need to be taken into account. These include
+warm glow, part-whole, and non-response biases.
+Warm glow bias is where respondents' WTP is for
+the purchase of moral satisfaction associated with giving for a good cause (like a charitable donation) rather
+than for the good itself, leading to an upward-biased
+estimate ofWTP (see Andreoni, 1990; Kahneman and
+
+Knetsch, 1992). Part-whole bias is where respondents'
+WTP is for a larger class of goods than the good
+being offered, again, resulting in an over-statement
+of WTP (Mitchell and Carson, 1989, pp. 250-252;
+Carson and Mitchell, 1995). In this context, respondents may feel that they are paying to improve animal
+welfare more generally rather than just to improve the
+welfare of caged hens. In the survey results, there was
+a strong correlation between respondents who gave
+high scores to the 'warm glow' and 'part-whole' attitude statements and those who had higher WTP values. In addition, the model presented above shows a
+strong statistical influence of the WARMGLOW and
+PARTWHOLE variables, suggesting an upward bias
+ofWTP due to both warm glow and part-whole effects.
+This was corrected by setting these variables to their
+lowest level for each respondent within the model and
+re-estimating WTP. The resultant revised mean WTP
+is £0.47, nearly half of the original estimate. Correction for part-whole bias reduced mean WTP by around
+33% and correction for warm glow bias reduced it by
+around 15%.
+Censoring of WTP values at both the upper and
+lower tails of the distribution was also undertaken.
+The reason for this is that WTP should be limited
+by income (Hanemann and Kanninen, 1999). Individual respondent's maximum WTP to address all of
+their farm animal welfare concerns (obtained from an
+open-ended WTP question) was used as a basis for
+censoring. Clearly, a respondent's WTP for the egg
+legislation should be somewhat less than their WTP to
+address all of their farm animal welfare concerns. On
+the broad assumption (based on the findings of this
+and previous surveys that identified a number of farm
+animal welfare issues that UK citizens are concerned
+about) that there will be several other farm animal welfare issues that people may have a WTP to address,
+an upper censoring point was used based on 20% of
+the WTP for all farm animal welfare concerns (i.e.
+the assumption is that WTP for one issue-to support
+cage legislation-should not exceed 20% of WTP for
+all farm animal welfare issues). Following censoring,
+the WTP model increased its 'correct percentage' predictive ability to 90%, whilst mean WTP fell to £0.43
+(i.e. censoring only reduced WTP by £0.04).
+Further correction for survey non-respondents and
+any sample selection bias was undertaken. Responses
+were adjusted by weights reflecting the national
+
+R.M. Bennett, R.i.P. Blaney/ Agricultural Economics 29 (2003) 85-98
+
+socio-economic profile according to ACORN category. Correction for response imbalance between genders was also carried out. In fact, response rates were
+relatively consistent across geodemographic groupings. Response rates from ethnic groups and those
+living in multiple dwelling units (i.e. small, low cost
+accommodation grouped together in larger buildings)
+were noticeably lower, and these groupings had lower
+incomes associated with them. Correction for sample
+bias reduced mean WTP by just £0.02 to 0.041.
+
+4. Discussion and conclusions
+The results of the survey have showed that the vast
+majority of respondents are concerned about animal
+welfare and supported the proposed legislation to
+phase out the use of battery cages for egg production
+within the EU. Moreover, most respondents would
+be willing to pay an additional amount on the price
+of eggs to support the legislation. The mean WTP
+was initially estimated at £0.90 but after correction
+for warm glow, whole-part and non-response/survey
+sample biases, mean WTP fell to £0.41 as an increase
+in the price of a dozen eggs to support the legislation.
+The main issue related to WTP estimates is whether
+they provide a reasonable measure of people's true
+WTP. Carson et al. (2000a,b) provide a useful review
+of the current debate concerning the CV method. There
+are clearly a number of possible biases that can influence WTP estimates. These may be related to the way
+people interpret and respond to WTP questions (which
+are related to the way in which WTP questions are
+asked, the scenario presented to respondents, 6 etc.),
+sample selection and the design and conduct of the survey and the WTP estimation methods used. For example Bateman et al. (1999) found a variation in WTP of
+40% depending upon the elicitation/estimation method
+used. Such variation may be due, at least in part, to
+6 Carson et a!. (2000a,b) noted that CV elicitation scenarios
+should be 'consequential' (i.e. be perceived by respondents as
+being able to influence policy) if they are to be taken seriously by
+respondents, and not hypothetical in the sense of being 'imaginary'.
+With the benefit of hindsight, it would have been better not to have
+used the word 'imagine' in the scenario presented to respondents in
+this survey. However, evidence presented suggests that respondents
+gave serious consideration to their responses and that the 'face
+value' of the scenario was not compromised.
+
+91
+
+poor survey design in some studies, different information being presented to respondents or the presence of
+various biases, such as those identified and corrected
+for in this survey. The dichotomous choice elicitation
+method used in this survey is the recommended one
+(Arrow et al., 1993) for CV surveys, whilst the general
+estimation method has been commonly used to analyse
+discrete-response CV data and is compatible with economic theory (see Hanemann and Kanninen, 1999 for
+a comprehensive review of statistical/economic analysis of discrete-response CV data). The use of 'warm
+glow' and 'part-whole' variables to adjust WTP estimates is an extension of the standard analysis.
+This study has endeavoured to test for a number
+of possible biases and to correct for them-but other,
+perhaps unrecognised biases may have existed and
+not been accounted for? Warm glow and part-whole
+biases appeared to result in a relatively large upward
+bias to WTP. Very few contingent valuation studies
+have tested for these biases and even fewer have
+corrected WTP estimates to take account of them.
+It is recognised that the adjustment for warm glow
+and part-whole biases undertaken in this study may
+be questioned. 8 Responses to the warm glow and
+part-whole bias debriefing questions may not accurately reflect these biases, and the simple method of
+adjustment within the parametric model may be seen
+as a rather crude correction of WTP. Nonetheless, it is
+important that CV studies test for the presence of such
+biases, and that their effects on WTP be taken into account, otherwise WTP estimates may be misleading.
+The study used a socio-economic classification
+system to ensure a representative sample of UK citizens. Variables in the parametric model used to estimate WTP were all highly significant and the model
+had a high predictive ability. The rationality and consistency of respondents' responses to WTP questions
+was tested by means of 'debriefing' questions. Most
+respondents gave clear reasoning for their WTP responses. Also, there were strong correlations between
+people's concerns about farm animal welfare, their
+purchasing behaviour, their income and their WTP.
+7 For example the survey was undertaken during the period when
+the numbers of cattle affected by BSE was still relatively high.
+The BSE 'crisis' is likely to have influenced people's attitudes to
+livestock production/animal welfare issues.
+8 Indeed, there is debate as to whether 'warm glow' is a relevant
+issue for CV studies (see Carson et a!., 2000a,b, p. 6).
+
+92
+
+R.M. Bennett, R.i.P. Blaney I Agricultural Economics 29 (2003) 85-98
+
+Moreover, a mean WTP of £0.41 for hen welfare
+compares reasonably with a mean of £5.50 to address
+all of people's farm animal welfare concerns.
+However, a few questions concerning the validity
+of the findings of the survey remain. First, some 75%
+of respondents said they purchased free-range eggs,
+yet only around 20% of retail eggs purchased nationally are free-range (Corporate Intelligence, 1998). It
+is likely that some respondents wrongly perceived the
+eggs that they purchased as free-range. This likelihood
+is supported by a national poll of consumers in the UK
+(Market and Opinion Research International Limited,
+1999) which found that over 80% of consumers did
+not realise that eggs labelled as 'farm fresh' and 'good
+country eggs' were from hens kept in battery cages.
+This information problem has been recognised by the
+European Commission, with compulsory labelling of
+eggs according to method of production being required
+from 1 January 2004. It may also be the case that those
+who purchased non-cage eggs were more likely to respond to the survey.
+A 30% response rate to the postal questionnaire
+was achieved. This may seem low but is within the
+range reported by Thistlethwaite and Finlay (1993)
+who found response rates to mail surveys ranging from
+18 to 47%. However, the response rate could have
+been improved by further reminder letters or, if resources had allowed, by carrying out face-to-face interviews. The problem remains that the survey was
+unable to obtain direct information on the WTP of
+non-responders. Those responding to the survey could
+have had a greater interest in hen welfare (as suggested above in terms of those purchasing non-cage
+eggs), and thus a higher WTP for the legislation. An
+extreme assumption would be that all those who did
+not respond to the survey had no interest in the issue
+and had a zero WTP. This is unlikely, but is a useful
+assumption for the purposes of the cost-benefit analysis outlined below. Under this assumption, estimated
+mean WTP would fall to just over £0.12 per dozen
+eggs.
+Carson (2000) provides a list of factors to be considered when assessing the quality of a CV study.
+The first he labels 'face validity', which is a clearly
+and accurately described scenario, which is plausible
+to respondents. Specifically, Carson states that a CV
+questionnaire should contain (a) an introduction outlining the general context, (b) a detailed description of
+
+the good, (c) a description of the institutional setting,
+(d) a clear statement about how the good will be paid
+for, (e) a method to elicit respondents' preferences
+(the dichotomous choice format is recommended), (f)
+debriefing questions which ask respondents to explain
+their responses and (g) questions to obtain information on respondent characteristics including attitudes
+and demographics. The questionnaire used in this
+study (Appendix A) contains each of these elements.
+The second and third factors listed by Carson are (i)
+that the relevant population must be sampled and (ii)
+that the sample size should be at least several hundred
+and each member of the population should have a
+positive and known probability of being sampled. For
+this survey, the relevant population (i.e. all UK citizens) was sampled and a representative sample of this
+population was invited to participate in the survey by
+means of a weighted demographic sampling method.
+The sample size was over 500. The fourth factor is the
+survey method. Carson accepts that mail surveys are
+cheaper but warns of sample selection bias. Sample
+selection bias has been acknowledged in this survey
+and has been corrected for in two, different ways.
+Finally, Carson mentions a number of other considerations in assessing the quality of a study. Concerning
+the analysis of results he states that an equation with
+reasonable explanatory power and coefficients with
+the expected signs (as provided by the model used to
+estimate WTP in this study) provides evidence in support of the proposition that the survey has measured
+the intended construct. He also states that studies
+should take income constraints on WTP into account,
+which this study undertook through censoring of WTP
+responses and inclusion of an income variable in the
+WTP model.
+The estimated WTP value can be used to derive an
+estimate of the benefits of the proposed legislation to
+citizens in the UK. In 2000, UK consumers purchased
+6080 million shell eggs (MAFF, 2001a; over 98% of
+these were produced domestically). Sixteen percent of
+the respondents to the WTP questions stated that an
+increase in egg price by the bid amount presented to
+them would result in an average reduction in their consumption of eggs of 18%. Assuming that the remaining respondents would not reduce their consumption
+of eggs due to a change in price, UK consumption
+of eggs is estimated to fall to around 5905 million
+per annum. In addition, around 80% of eggs currently
+
+R.M. Bennett. R.J.P. Blaney! Agricultural Economics 29 (2003) 85-98
+
+purchased are from battery-cage production systems.
+Thus, the proposed legislation would affect consumption of some 4724 million eggs per annum (393.6 million dozen eggs). Given a mean WTP of £0.41 per
+dozen eggs, the estimated benefit of the legislation
+would be approximately £161 million per annum. If
+the extreme assumption of zero WTP for the legislation for all non-responders to the survey is applied,
+and mean WTP is just £0.12 per dozen eggs, then the
+estimated benefit of the legislation falls to just over
+£48 million per annum.
+This can be compared to an estimated cost of the
+legislation to producers of £466 million quoted by the
+Ministry of Agriculture, Fisheries and Food (MAFF) 9
+in the UK (MAFF, 200lb). This estimate considers a
+12-year adjustment period and includes both adjustment costs for the industry (capital costs of equipment
+and buildings replacement, etc.) and ongoing production costs due to the different production systems
+used, giving an average annual cost of around £39
+million over the 12-year period. This MAFF estimate
+allows for the use of larger, 'enriched' cages by egg
+producers as well as barn and free-range systems and
+so provides an underestimate of the full costs of the
+legislation presented to respondents. Nonetheless, it
+gives some idea of the likely scale of the costs compared to the benefits estimated by the contingent valuation survey. This seems to suggest that the benefits
+of the proposed legislation outweigh the costs, even
+under the extreme assumption that non-responders to
+the survey had a zero WTP.
+Although there is likely to be a net gain in welfare
+in the UK resulting from the implementation of the
+
+9
+
+Now the Department for Environment, Food and Rnral Affairs.
+
+93
+
+EU battery-cage ban, the costs and benefits will not
+be spread evenly throughout society. Analysis of WTP
+by socio-economic group indicates that WTP is nearly
+twice as much amongst those with high incomes as
+compared to those with low incomes. The latter also
+buy more battery-cage eggs than those with high incomes (Corporate Intelligence, 1998). Thus, it appears that those benefiting most from the ban will
+be on higher incomes. The amount of the adjustment
+costs borne by consumers and/or battery egg producers will depend upon the pricing strategy of retailers.
+If egg prices rise significantly then consumers in the
+low-income group will face a net cost.
+Legislation to protect and improve the welfare of
+farm animals is essential. The market cannot be left
+to safeguard animal welfare any more than it can be
+left to safeguard the environment (Mishan, 1993). Before implementing legislation it is important that some
+cost-benefit assessment is carried out. Contingent valuation is a useful technique for helping to assess the
+benefits of legislation, for example to improve hen
+welfare by phasing out the use of battery cages. Estimates of WTP from contingent valuation studies need
+to be treated with caution, however. It is important that
+such estimates are derived from carefully designed surveys and that the estimation method allows for various
+biases.
+
+Acknowledgements
+We would like to thank the anonymous referees for
+their valuable comments and suggestions.
+
+R.M. Bennett, R.J.P. Blaney I Agricultural Economics 29 (2003) 85-98
+
+94
+
+Appendix A. Specimen example of questionnaire
+All answers that you give will be treated in strictest confidence. Thank you for your
+help.
+1.
+
+To what extent are you concerned that farm animals may be mistreated or that
+they may suffer in the process of producing our food and other agricultural
+products? Please circle
+Very
+Concerned
+
+2.
+
+Somewhat
+concerned
+
+Neither concerned
+nor unconcerned
+
+Not really
+concerned
+
+Not at all
+concerned
+
+Do you purchase or avoid purchasing any particular farm animal products
+because of your concerns about the welfare of the animals involved?
+YES
+
+NO
+
+If YES, which products ........................................................... .
+
+3.
+
+To what extent are the following acceptable to you? Please score on a scale
+from 1 to 10 ranging from: 1 =Very unacceptable to 10 =Completely
+acceptable.
+Score
+Veal production with calves kept in separate confined 'crates'.
+Battery egg production where hens are kept in small wire cages.
+Transport of farm animals for up to 24 hours
+(with food and water at 8 hr intervals)
+
+4.
+
+Are you concerned about any other aspects of the treatment offarm animals?
+Please circle.
+YES
+NO
+If YES please briefly state which aspects ........................................ ..
+
+5.
+
+6.
+
+On average, how many eggs does your household purchase each week? ........ .
+
+Of this roughly how many are:
+
+(1) battery-cage eggs?
+
+(If you have no idea, please put
+"don't know")
+
+(2) barn or perchery eggs?
+
+(3) free-range eggs?
+........... ..
+How much would you estimate that your household spends on food in total
+Each week for consumption at home and in restaurants, take-aways etc.?
+
+£ ............. ..
+
+R.M. Bennett, R.I.P. Blaney I Agricultural Economics 29 (2003) 85-98
+
+7.
+
+Of this, how much do you spend each week on meat, dairy products and eggs?
+£ .............. .
+
+Most egg production in the European Union (EU) involves housing hens indoors in
+wire-meshed cages. Cage sizes vary but usually hold up to six hens with up to six
+levels of cages in a building. Because of the degree of confinement, birds commonly
+have difficulty in moving, for example, to stretch their wings, make a nest or display
+certain other 'natural' behaviours. Hens remain in these cages for about 12 months
+before they are slaughtered. Around 320 million hens are kept in this way in the EU
+(15 countries including the UK) and 32 million in the UK.
+While considering your answers to the following questions, please bear in mind that
+there may be many issues that you feel strongly about and, in principle, might be
+willing to pay something toward. However, your budget is limited and any
+payment toward one issue means that there is less money available to you to
+contribute to other issues or to buy the things that you would like to.
+Please imagine that the European Parliament is considering legislation to phase out
+the use of battery cages for egg production within the EU (including the UK) by the
+year 2005. From that date, no egg producer will be allowed to use battery cages to
+produce eggs. (Note that the legislation relates only to the use of battery cages and
+not directly to any other aspects of hen welfare). It is realised that this will involve
+some cost and that people in EU countries will ultimately have to pay in some way.
+8.
+
+Would you support legislation which ensured that hens could no longer be
+kept in battery cages in the European Union from 2005? Please circle one
+only.
+YES
+
+9.
+
+NO
+
+NO OPINION
+
+Would you be willing to pay ... 50 ... pence extra per dozen as a general
+increase in the current price of eggs so that battery egg production could be
+banned in the EU from the year 2005? (Note that eggs currently cost around
+£1-50 per dozen in the shops). Please circle.
+YES
+
+NO
+
+NO OPINION
+
+10.
+
+If you are willing to pay a higher price per dozen eggs, would this affect your
+consumption of eggs generally? Please circle.
+YES NO
+
+11.
+
+IMPORTANT: In order for us to interpret your responses correctly, please
+briefly give your reasoning behind why you answered the way you have to
+the willingness to pay questions above .............................................. .
+
+95
+
+96
+
+12.
+
+R.M. Bennett, R.i.P. Blaney I Agricultural Economics 29 (2003) 85-98
+
+To what extent do the following statements reflect your own feelings with
+regards to the responses that you have given to the willingness to pay
+questions. Please score below on a scale from 1 to 10 ranging from:
+1 =Not at all true of my feelings to 10 =Very true of my feelings.
+Score
+The willingness to pay questions required very careful thought.
+My willingness to pay is like a charitable donation to a worthy
+cause.
+My willingness to pay is not just for hen welfare but for farm
+animal welfare generally.
+Legislation is necessary to ensure that no hens are kept in
+battery cages.
+People should not have to pay more taxes to ban battery cages.
+My willingness to pay reflects my personal satisfaction from
+not consuming battery hens.
+My willingness to pay reflects the satisfaction I would get
+from knowing that others would not be reducing hen welfare
+by consuming battery eggs.
+
+13.
+
+What is the maximum you would be willing to pay in terms of a weekly
+increase in your household food bill (due to higher prices) to address all your
+farm animal welfare concerns?
+
+In order for us to see how representative of the general population our survey is,
+please answer the following questions about yourself. Please remember that this
+survey is completely confidential.
+14.
+
+Are you?
+
+Please circle
+
+15.
+
+What is your age?
+
+MALE
+
+FEMALE
+
+Please circle.
+
+under 18 18-29 30-39 40-49 50-59 59-65 over 65
+16.
+
+At what age did you finish full-time education?
+
+........ .... years
+
+R.M. Bennett, R.i.P. Blaney/Agricultural Economics 29 (2003) 85-98
+
+17.
+
+97
+
+What is your approximate average household income (before taxes) for
+1994/95?
+Please circle.
+£0-£5,000
+
+£5-l 0,000
+
+£10-15,000
+
+£15-20,000
+
+£20-20,000
+
+£25-30,000
+
+£30-35,000
+
+£35-40,000
+
+£40-45,000
+
+£45-50,000
+
+£50-55,000
+
+£55,000+
+
+18.
+
+What is your occupation? (e.g. sales assistant, retired, student etc.) .............. .
+
+19.
+
+How many people in your household?
+.......... adults
+
+.......... children under 16
+
+Thank you for completing this questionnaire. Your help is much appreciated.
+Please return your completed questionnaire using the Reply Paid envelope
+provided.
+
+References
+Andreoni, J., 1990. Impure altruism and donations to public goods:
+a theory of warm glow giving. The Econ. J. 100, 464--477.
+Arrow, K., Solow, R., Portney, P.R., Leamer, E.E., Radner, R.,
+Schuman, H., 1993. Report of the US National Oceanic and
+Atmospheric Administration Panel on Contingent Valuation.
+Resources for the Future, Washington, DC, 11 January.
+Bateman, I.J., Langford, I.H., Rasbash, J., 1999. Willingness-to-pay
+question format effects in contingent valuation studies. In:
+Bateman, I.J., Willis, K.G. (Eds.), Valuing Environmental
+Preferences: Theory and Practice of the Contingent Valuation
+Method in the US, EU, and Developing Countries. Oxford
+University press, Oxford, pp. 511-539.
+Bennett, R.M., 1995. The value of farm animal welfare. J. Agric.
+Econ. 46, 46-60.
+Bennett, R.M., Larson, D., 1996. Contingent valuation of the
+perceived benefits of farm animal welfare legislation: an
+exploratory survey. J. Agric. Econ. 47, 224--235.
+Bishop, R.C., Heberlein, T.A., 1979. Measuring values of
+extra-market goods: are indirect methods biased? Am. J. Agric.
+Econ. 61, 926-930.
+Broome, D.M., 1998. Relationships between farmers' attitudes,
+retailers' actions, legislation and welfare research. In:
+Proceedings of the Paper Given at the International Society for
+Applied Ethology Winter Meeting, 2 December 1998. Royal
+Veterinary College, London.
+CACI, 1993. ACORN User Guide. CACI Ltd., London.
+Cameron, T.A., 1988. A new paradigm for valuing non-market
+goods using referendum data: maximum likelihood estimation
+
+by censored logistic regression. J. Environ. Econ. Manage. 27,
+218-234.
+Carson, R.T., 2000. Contingent valuation: a user's guide. Environ.
+Sci. Techno!. 34, 1413-1418.
+Carson, R.T., Mitchell, R.C., 1995. Sequencing and nesting in
+contingent valuation surveys. J. Environ. Econ. Manage. 28,
+155-173.
+Carson, R.T., Flores, N.E., Meade, N.F., 2000a. Contingent
+Valuation: Controversy and Evidence. Discussion Paper 96-36R.
+University of California, San Diego, USA.
+Carson, R.T., Groves, T., Machina, M.J., 2000b. Incentive and
+Information Properties of Preference Questions. Department of
+Economics. University of California, San Diego, USA, p. 508.
+http://www.econ.ucsd.edu/rcarson/cgm.
+CIWF, Compassion in World Farming, 2002. http://www.ciwf.co.
+uk!Pubs/Briefings/BR6303.htrn.
+Corporate Intelligence, 1998. Market Survey. 2. Eggs. Retail
+Business 479, 33-56.
+Eurogroup, 2002. http://www.eurogroupanimalwelfare.org/.
+Feame, A., Lavelle, D., 1996. Segmenting the UK egg market:
+results of a survey of consumers attitudes and perceptions. Brit.
+Food J. 98, 7-12.
+Harper, G.C., Henson, S.J., 2001. The Extent of Consumer Concerns about Animal Welfare-The Comparative Representative
+Sample Survey. Centre for Food Economics Research, The
+University of Reading, UK.
+Hanemann, M., Kanninen, B., 1999. The statistical analysis of
+discrete-response CV data. In: Bateman, I.J., Willis, K.G. (Eds.),
+Valuing Environmental Preferences: Theory and Practice of the
+
+98
+
+R.M. Bennett, R.I.P. Blaney/ Agricultural Economics 29 (2003) 85-98
+
+Contingent Valuation Method in the US, EU, and Developing
+Countries. Oxford University press, Oxford, pp. 302-441.
+Hanemann, M., Loomis, J., Kanninen, B., 1991. Statistical
+efficiency of double-bounded dichotomous choice contingent
+valuation. Am. J. Agric. Econ. 73, 1255-1263.
+Kahneman, D., Knetsch, J.L., 1992. Valuing public goods: the
+purchase of moral satisfaction. J. Environ. Econ. Manage. 22,
+57-70.
+King, A., 1995. Sorry, But in the End We Will Eat You. The Daily
+Telegraph, 21 August, p. 4.
+Market and Opinion Research International Ltd., 1999. Polls and
+Surveys. http://www.mori.com/polls/1998/eurogrup.htm.
+Mcinerney, J.P., 1993. Animal welfare: an economic perspective.
+In: Proceedings of the Paper Presented at the Agricultural
+Economics Society Conference, Oxford, UK.
+MAFF, 2001a. Index of Statistics. Eggs. http://www.maff.
+gov.uk/esg/m_index.htm.
+MAFF, 2001b. The Welfare of Farmed Animals (England)
+Amendment Regulations 2001-Partial Regulatory Impact Assessment. Ministry of Agriculture, Fisheries and Food, London.
+
+Mishan, E.J., 1993. Economists versus the Greens: an exposition
+and critique. The Pol. Q. 64, 222-242.
+Mitchell, R.C., Carson, R.T., 1989. Using Surveys to Value Public
+Goods: the Contingent Valuation Method. Resources for the
+Future. Washington, DC, 463 pp.
+Morris, L., 1996. The Ethical Consumer: A New Force in the
+Food Sector? Leatherhead Research Association, Leatherhead,
+UK.
+PETA, People for the Ethical Treatment of Animals, 2002.
+http://www.peta.org/.
+SAS Procedures Guide, 2000. Version 8, vol. 1 and 2. SAS Institute
+Inc. Cary, NC, USA.
+Thistlethwaite, P.C., Finlay, J., 1993. The impact of selected mail
+response enhancement techniques on surveys of the mature
+market: some new evidence. J. Professional Serv. Market. 8,
+269-276.
+Wilkins, D.B. (Ed.), 1999. Animal Welfare in Europe. European
+Legislation and Concerns. Kluwer Law International, London,
+423 pp.
+
+

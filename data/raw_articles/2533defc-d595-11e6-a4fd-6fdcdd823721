@@ -1,0 +1,1176 @@
+WP 2003-30
+September 2003
+
+Working Paper
+Department of Applied Economics and Management
+Cornell University, Ithaca, New York 14853-7801 USA
+
+Rural Poverty Dynamics:
+Development Policy Implications
+
+Christopher B. Barrett
+
+It is the Policy of Cornell University actively to support equality of educational
+and employment opportunity. No person shall be denied admission to any
+educational program or activity or be denied employment on the basis of any
+legally prohibited discrimination involving, but not limited to, such factors as
+race, color, creed, religion, national or ethnic origin, sex, age or handicap.
+The University is committed to the maintenance of affirmative action
+programs which will assure the continuation of such equality of opportunity.
+
+Rural Poverty Dynamics:
+Development Policy Implications
+Christopher B. Barrett*
+
+September 2003 Revision
+Prepared for invited presentation to the
+25th International Conference of Agricultural Economists
+Durban, South Africa
+* Department of Applied Economics and Management, Cornell University, Ithaca, NY
+14853-7801 USA; email: cbb2@cornell.edu This paper has benefited greatly from
+conversations, collaborations and/or comments from Larry Blume, Doug Brown,
+Michael Carter, Paul Cichello, Alain DeJanvry, Bruce Gardner, Ravi Kanbur, Dan
+Maxwell, John McPeak, Bart Minten, Chris Moser, Andrew Mude, Festus Murithi, Ben
+Okumu, Willis Oluoch-Kosura, Frank Place, Tom Reardon, David Sahn, David Stifel,
+Brent Swallow and Erik Thorbecke, and from data collection and analysis assistance
+from Solomon Desta, Travis Lybbert, Paswel Phiri, Jean Claude Randrianarisoa, Jhon
+Rasambainarivo and Justine Wangila, although none of them bear any responsibility for
+any remaining errors of mine. This work has been made possible, in part, by support
+from the United States Agency for International Development (USAID) Grant No. LAGA-00-96-90016-00 through the BASIS CRSP, and the Strategies and Analyses for Growth
+and Access (SAGA) cooperative agreement through Africa Bureau, USAID. The views
+expressed here are mine and do not represent any official agency.
+ Copyright 2003 by Christopher B. Barrett. All rights reserved. Readers may make verbatim copies of this document for noncommercial purposes by any means, provided that this copyright notice appears on all such copies.
+
+Rural Poverty Dynamics:
+Development Policy Implications
+ABSTRACT
+This paper summarizes a few key findings from a rich and growing body of research on
+the nature of rural poverty and, especially, the development policy implications of
+relatively recent findings and ongoing work. Perhaps the most fundamental lesson of
+recent research on rural poverty is the need to distinguish transitory from chronic
+poverty. The existence of widespread chronic poverty also raises the possibility of
+poverty traps. I discuss some of the empirical and theoretical challenges of identifying
+and explaining poverty traps. In policy terms, the distinction between transitory and
+chronic poverty implies a need to distinguish between “cargo net” and “safety net”
+interventions and a central role for effective targeting of interventions.
+
+1
+
+INTRODUCTION
+“Most of the people in the world are poor, so if we knew the
+economics of being poor we would know much of the economics
+that really matters. Most of the world=s poor people earn their
+living from agriculture, so if we knew the economics of agriculture
+we would know much of the economics of being poor.”
+- T.W. Schultz (1980)
+T.W. Schultz’s words are no less true today than they were when he opened his
+1979 Nobel Prize in Economics acceptance lecture with them almost a quarter century
+ago. Economics has nonetheless advanced significantly in its understanding of poverty
+since Schultz’s seminal contributions. This paper tries to summarize a few key findings
+from a rich and growing body of research over the 25 years since Schultz about the
+nature of rural poverty and, especially, the development policy implications of
+relatively recent findings and ongoing work.
+As will be explained in greater detail below, economists have begun to focus
+more precisely on the useful distinction between transitory and chronic poverty. Each
+has a different implication for poverty alleviation policy. Policymakers’ and
+researchers’ greatest concern revolves around chronic poverty, which seems to result
+from low initial endowments of productive assets, inability to generate high returns
+from the assets one owns, severe shocks that wipe out accumulated wealth, or some
+combination of these. Asset stocks appear central to the story of chronic poverty
+because returns on assets can be endogenously increasing for any of several reasons and
+because financial market failures can impede the poor’s capacity to invest in productive
+assets to surmount thresholds at which the returns on assets are increasing. This has
+significant implications for both the design of research to identify such thresholds and
+for the targeting and emphasis of policies intended to address chronic poverty.
+RURAL POVERTY DYNAMICS: WHAT WE KNOW
+Poverty is a complex, multifactorial concept reflecting a low level of well-being.
+We economists tend to use income or expenditure flows as a proxy for welfare and thus
+to use inherently arbitrary – albeit often rigorously constructed – poverty lines to define
+who is and is not poor. This approach is appropriately contested within the social
+sciences, and there has been considerable advance in the use of multidimensional
+2
+
+poverty measures (Bourguignon and Chakravarty 2002, Duclos et al. 2003). But for the
+sake of simplicity, here I accept income as our discipline’s dominant welfare measure
+and move on.
+Although the measurement of poverty is an important technical concern, my
+interest lies not in where one locates a poverty line, nor in precisely how many people
+fall below it, nor how far below it, at a given point in time. Although these are
+indisputably important issues, they are inherently static concerns. Rather, I wish to
+focus on the dynamics of measures of well-being, and only loosely relative to a poverty
+line – who climbs above it, descends below it or oscillates around it – because poverty
+dynamics is the more fundamental policy concern.
+The reason for poverty dynamics’ primacy is that some but not all of the poor
+need help through policy. As the rest of this section explains more fully, policy research
+needs to distinguish between transitory and chronic poverty. One class of policies –
+safety nets – can effectively block the transitorily poor’s descent into chronic poverty.
+Another class of interventions – which I term cargo nets, for reasons explained below –
+can help the chronically poor find a pathway out of poverty. Picking the right policy to
+help a given poor subpopulation depends on an accurate understanding of rural
+poverty dynamics.
+At this point, a brief digression into the simple mathematics of income dynamics
+may help frame the ensuing discussion with a bit more precision. Let me take the
+standard approach of using income as an (imperfect) measure of well-being. For any
+individual observational unit (a person, household, village or nation), measured
+income, Y, is merely the sum of earned returns from productive assets, temporary
+income shocks and measurement error,
+Y = A`R + _T + _M
+
+(1)
+
+where A is a vector of productive assets controlled by the household, R is a vector of
+returns on the assets in A, _T represents transitory exogenous income that is
+independent of asset productivity (e.g., lottery winnings, gifts),1 and _M represents
+researcher measurement error. Returns are stochastic, thus
+R = r + _R
+
+(2)
+
+1
+
+Remittances from migrant household members would fall under A’R, as it relates to an allocation of assets (labor
+power) to a particular activity and location.
+
+3
+
+where r is the expected return and _R is an exogenous shock to physical productivity
+(e.g., due to rainfall or pests) or input or output prices. Assume all shocks (_M , _R and
+_T) are mean zero, constant variance and serially independent. This framework depicts
+income as a function of asset holdings, casting it in a familiar portfolio management
+framework. The mean and variance of income are thus simply
+E[Y] = A`r
+
+(3)
+
+V[Y] = A’V[_R]A + V[_T] + V[_M],
+
+(4)
+
+respectively. Expected income depends fundamentally on one’s endowment of
+productive assets and the sorts of returns one can reap from those assets thanks to
+production technologies and markets. Income variability results not just from
+stochastic returns to land, labor, financial savings and other productive assets, but also
+due to volatility both in unearned transitory income and, in an econometrician’s
+sample, in measurement error.
+Substituting (2) into (1) and then totally differentiating yields an expression for
+income change as a function of change in asset stocks, change in expected returns on
+assets, and various shocks2:
+dY = dA`R + A`dr + A`d_R + d_T + d_M
+
+(5)
+
+Of course, because the errors are all mean zero and serially independent, ex ante
+expected income change reduces to just
+E[dY] = dA`r + A`dr
+
+(6)
+
+This equation embodies the core of poverty reduction strategies over at least the past
+half century. In the initial term on the righthand side of equation (6), dA reflects
+(dis)investment patterns, including involuntary asset shocks due to, for example, theft,
+natural disasters, injuries or permanent illness. For many years, anti-poverty policy has
+focused on changing Y through dA, via land reform to transfer land to the poor,
+education and health programs to build up the poor’s human capital, post-drought
+livestock restocking to reconstitute herds adversely impacted by climatic shocks, etc.
+Over the past fifteen to twenty years, increasing attention has been paid to the second
+term, emphasizing dr, the change in expected returns to productive assets.
+
+2
+
+This simple partitioning is very similar to Dercon’s (2000) innovative approach, but without the necessity of
+imposing the assumptions that there is a unique concave production technology, that markets are complete and
+competitive, or that households maximize profits (equivalently, that households’ consumption and production
+decisions are separable). Those assumptions inherently rule out the poverty trap phenomena to which I turn
+momentarily.
+
+4
+
+Policymakers and development scholars have expressed renewed concern about
+technological advance for smallholder farmers – most recently in the form of
+biotechnological and agroecological approaches to boosting yields – and about marketoriented sectoral and macroeconomic reforms intended to improve the output/input
+price ratios net of market access costs faced by the rural poor.
+Transitory and chronic poverty
+Recent research has underscored, however, that much poverty is transitory in
+nature.3 Put differently, because the errors in equations (1) and (2) are mean zero, many
+realizations are necessarily negative, leading to lower-than-expected incomes that push
+people a bit below the poverty line for a relatively brief period of time, although their
+expected incomes lie above the poverty line. Moreover, temporarily low incomes are
+sometimes chosen by people as part of a long-term accumulation strategy, as almost
+any graduate student knows from personal experience. The incomes of the transitorily
+poor – whether temporary poverty is by chance or by choice – subsequently recover as
+new draws are made on income’s stochastic elements (_R, _T) or as they begin to enjoy
+the payoff from voluntarily foregone income, often without any external assistance
+from charities or governments. While even transitory poverty is plainly undesirable –
+and safety nets to keep the transitorily poor from falling into chronic poverty are
+critically important, as we discuss below – the obvious capacity of the transitorily poor
+to pull themselves up by their bootstraps means that policy interventions on their
+behalf are not always needed. Indeed, costly government interventions that risk
+disturbing their self-sufficiency may sometimes be undesirable.
+One must be careful, however, not to jump to the erroneous conclusion that
+interventions on behalf of the poor are therefore unnecessary or undesirable. For one
+thing, exit rates from (and entry rates into) poverty tend to be overstated due to
+measurement error, which can inadvertently lead to overestimation of transitory
+poverty and a policy bias against intervention to assist the poor. The basic problem is
+that d_T, the change in transitory income, d_R, the change in returns on assets, and d_M,
+the change in measurement error, all necessarily lead to regression toward the mean in
+panel data. While the former two constitute true change in transitory income – due to
+3
+
+See in particular one of the original studies in this vein, by Grootaert and Kanbur (1995), the excellent
+recent volume by Baulch and Hoddinott (2000), and the various studies cited therein.
+
+5
+
+interruptions in interhousehold transfers or to crop yield shocks, for example – they
+cannot be easily separated in data from changes in measurement error across periods
+due to questionnaire revisions, respondent fatigue or replacement, new field
+enumerators, etc. Because d_T and d_R are essentially impossible to identify separately
+from d_M, measurement error tends to inflates estimates of transitory poverty by
+creating artificial variability in incomes, leading to upward bias in estimates of the share
+of the poor people who are able to pull themselves out of poverty unassisted (Baulch
+and Hoddinott 2000, Luttmer 2002).4
+Safety nets and cargo nets
+The problem of getting estimates of transitory poverty rates correct matters
+because the chronically poor5 cannot climb out of poverty on their own without external
+assistance. Such assistance can come directly, in the form of transfers, or indirectly, in
+the form of policy reforms that relax constraints on the choice sets faced by the
+chronically poor, enabling them to take advantage of previously inaccessible
+opportunities and to exit poverty of their own accord.
+Interventions to combat chronic poverty can take one of two forms: preemptive
+and redemptive. The first, preemptive interventions, are safety nets, which aim to
+prevent the non-poor and transitorily poor from falling into chronic poverty. Because
+people can become transitorily poor up to some threshold level and still recover on their
+own, often quickly, the role of safety nets is to keep them from crossing that threshold,
+from becoming chronically poor. Safety nets restrict entry into the ranks of the
+chronically poor. In the preceding notation, safety nets truncate the lower tails of the
+distributions of _T and _R. Emergency feeding programs, crop or unemployment
+insurance and disaster assistance are common examples of formal safety net
+interventions by governments and outside agencies. Social solidarity networks and
+4
+
+In sample, there are additional problems of inference associated with prospective bias due to
+nonrandom attrition from the sample over time due to respondent death, refusal to participate in later
+survey rounds, residence-based sampling after endogenous household division or union, and failure to
+trace migrant households. The evidence is quite mixed as to how significant a problem these phenomena
+pose. See the Spring 1998 issue of the Journal of Human Resources, Alderman et al. (2000), Falaris (2003)
+and Rosenzweig (2003) for details.
+5
+I use the terms “chronically” and “persistently” poor interchangeably. Some analysts like to try to
+distinguish between the two based on frequency of observations below a poverty line or mean income
+over a period relative to the poverty line. This paper, however, is not the place to delve into these
+technical details.
+
+6
+
+systems informal mutual insurance often provide safety nets internal to communities.
+The common partial displacement of the latter by the former should serve as a caution
+on the design of safety nets, however, so as to minimize the crowding out of informal
+safety nets.6
+The second, redemptive form of poverty reduction intervention is meant to lift
+people or to help them climb out of poverty. I refer to these as cargo nets. Safety nets
+catch people, keeping them from falling too far; then people step off the net and climb
+back up on their own. Cargo nets, by contrast, are used to help climbers surmount
+obstacles or even to lift objects, overcoming the structural forces(gravity, in the case of
+literal cargo nets) that would otherwise keep them down. In the notation we are using,
+cargo nets shift A and r. Familiar examples of cargo net policies include land reform,
+targeted school feeding programs, targeted microfinance or agricultural input
+subsidization projects, etc. Safety nets block pathways into chronic poverty for the nonpoor and transitorily poor. Well-designed and implemented cargo nets can set people
+onto pathways out of chronic poverty.
+Identifying and explaining chronic poverty
+Because different people need different types of assistance through policy or
+project interventions, researchers and policymakers must be able to sort between them.
+The descriptive task of distinguishing the chronically poor from the transitorily poor is
+a significant challenge. One can establish ex post whether people recovered after falling
+below a poverty line, provided one has sufficient time series data on the same
+individuals or households. But at the time when policymakers need to decide on
+prospective interventions, it can be difficult to predict ex ante from data who will
+recover and who will not. Hence the attention paid over the past decade to identifying
+the correlates of “chronic” or “persistent” poverty.7 Analysts can use past panel data to
+identify good predictors of future well-being in order to be able to predict which of
+today’s poor are likely to become non-poor by some future date. If done accurately,
+such estimation can provide a basis for targeting interventions among the poor,
+enabling policymakers to distinguish between the non-poor and the transitorily poor,
+6
+
+See Cox and Jimenez (1992), Dercon and Krishnan (2003) and Albarran and Attanasio (forthcoming) for empirical
+evidence on such crowding out effects.
+7
+See, for example, Baulch and Hoddinott (2000), World Bank (2000), Carter and May (2001) or the papers
+in Hulme and Shepherd (2003).
+
+7
+
+for whom cargo nets – as distinct from safety nets – are unnecessary and possibly even
+unintentionally harmful, and the chronically poor who need direct assistance if they are
+to escape poverty.
+The trick therefore lies in our ability to decompose poverty between those who
+are, to use Carter and May’s (2001) terminology, “structurally” poor – that is, expected
+to remain chronically poor unless they receive assistance – and those who are
+“stochastically” poor, who one would expect to exit poverty of their own accord before
+long, i.e., the transitorily poor. This sort of decomposition has great potential as a tool
+for informing policy design because governments, donors and operational agencies
+(e.g., NGOs, or multilateral agencies of the United Nations) faced with large numbers of
+structurally poor individuals or households face a distinctly different challenge than do
+those serving large numbers of stochastically poor persons. Once we know how to
+distinguish the transitorily or stochastically poor from the structurally or chronically
+poor using panel data econometric methods, the next challenge is to identify the
+mechanisms that lead to chronic poverty in order that interventions can treat causes
+rather than merely symptoms.
+Some people are born into poverty and have difficulty escaping because they do
+not enjoy the education, health or nutrition required to accumulate crucial physical
+stature and cognitive capacity early in life (Loury 1981, Strauss and Thomas 1998, Basu
+1999), because they do not inherit land or capital sufficient to add value to their human
+capital, or because they cannot effectively employ the assets they own to generate
+income (Carter and May 1999). There is no good empirical evidence of which I am
+aware on intergenerational earnings transmission in low-income rural settings.
+Hopefully, before too much longer we will have good data and evidence on this
+question from Africa, Asia, Latin America or Central and Eastern Europe. In the
+meantime, the evidence from higher income countries such as Finland and the United
+States suggests that even where governments offer relatively generous support for
+children’s education, health and nutrition and where financial markets are relatively
+accessible even to poor people, estimated elasticities of intergenerational earnings
+transmission are high, on the order of 0.6-0.8, and primarily attributable to credit
+constraints rather than to inherited ability.8
+8
+
+See Lucas and Pekkala (2003) for an especially interesting study using an extensive data set from
+Finland. They find low transmission from parents’ earnings to those of their children, but high
+
+8
+
+A variant of the “meager inheritance” explanation of chronic poverty looks at
+somewhat larger scales to explain chronic poverty on the basis of geography, both at the
+macro scale of nation states and subcontinental regions (Bloom and Sachs 1998, Gallup
+and Sachs 1998) and at intra-national scale (Hentschel et al. 2000, Elbers et al. 2001, Jalan
+and Ravallion 2002, Ravallion and Datt 2002). Natural resources such as soils, forests,
+water and wildlife are a fundamental input to rural economies, health shocks due to
+climate-dependent infectious disease are a primary threat to livelihoods, local
+governance influences patterns of public goods provision, and the perishability and low
+value-to-bulk ratio of raw commodities makes market access crucial to profitability.
+Because of the coordination problems intrinsic to many natural resources management
+and marketing decisions, a meso-level poverty trap can emerge where the collective
+endowment is weak and mechanisms to resolve coordination problems do not yet exist
+(Barrett and Swallow 2003). Geography plainly matters to patterns of poverty and
+poverty dynamics.
+Where some face poverty because of meager inheritance and a bad start to life,
+others start off luckier but fall into poverty because of an adverse shock or series of
+shocks. Natural disasters and civil strife are tragic not just because of the temporary
+displacement and deprivation they bring but, most all, because they can wipe out in a
+moment what households have labored years to accumulate through disciplined
+savings and investment. Brief disturbances can have persistent effects (Hoddinott and
+Kinsey 2001). These two effects are often mutually reinforcing as those who start off
+with a bad lot are far more likely to suffer serious adverse shocks that knock them back
+down as they struggle to climb out of poverty (Dercon 1998, Barrett and Carter 2001).
+Easterly (2001, p. 197) reports that “between 1990 and 1998, poor countries accounted
+for 94 percent of the world’s 568 major natural disasters and 97 percent of disasterrelated deaths.” Worldwide, the poor are several times more likely to suffer injury or
+illness than are the rich (Prasad et al. 1999).
+
+transmission rates from total family income to children’s earnings, implying financial liquidity rather
+than intrinsic ability is the most likely cause. Recent research on the United States suggests that about 65
+percent of fathers’ earnings differentials relative to the broader population is transmitted to their children
+(Mazumder 2001), with that transmission rate growing over the past couple of decades (Levine and
+Mazumder 2002).
+
+9
+
+RURAL POVERTY DYNAMICS: WHAT WE STILL NEED TO LEARN
+Explanations of chronic poverty to date have thus revolved around (i)
+individual, household or community-level asset endowments (Dercon 1998, Carter and
+May 1999, Maluccio et al. 2000, Haddad and Ahmed 2003), (ii) exogenous changes in
+returns to asset endowments (Gunning et al. 2000, Maluccio et al. 2000), or (iii) the
+impact of shocks and their persistence on welfare (Glewwe and Hall 1998, Hoddinott
+and Kinsey 2001, McPeak and Barrett 2001, Elbers et al. 2002, Gertler and Gruber 2002,
+Yamano and Jayne 2002, Barrett et al. 2003, Dercon 2003). The latter class of
+explanations, however, offers an important clue toward an emerging area of research
+that is of particular importance to understanding rural poverty dynamics.
+Shocks can have persistent effects only in the presence of hysteresis that
+generates irreversibility or differential rates of recovery. These effects suggest
+important nonlinearities in the relationship between assets stocks and income growth,
+nonlinearities commonly associated with the concept of poverty traps. This is a
+burgeoning area of research in which many of us are presently engaged. There remains
+much to learn about the empirics and theory of poverty traps.
+Uncovering poverty traps and threshold effects
+The pivotal feature of poverty traps is the existence of one or more critical
+thresholds of wealth that people have a difficult time crossing from below.9 As a
+consequence poverty persists for a long time, often measured in generations. Above the
+threshold, endogenous growth processes carry people toward a high-productivity
+steady state, while below the threshold, people sink toward a low-productivity
+subsistence equilibrium.10 These thresholds give rise to the important distinction
+between cargo nets and safety nets. The appropriate positioning of safety nets lies just
+above thresholds at which natural path dynamics break in different directions.
+The idea of multiple equilibria in this general context has been around for at least
+75 years, dating to Young (1928), Rosenstein-Rodan (1943) and Myrdal (1957), if not
+9
+
+A crucial point, and one commonly misunderstood, is that these thresholds are not deterministic. Rather they
+reflect the point at which the expected path dynamics bifurcate, where E[dA] or E[dY] – depending on whether one
+is working in asset or income space – switches signs. Intuitive examples of such thresholds include homelessness or
+permanent physical disability.
+10
+There may be more than two stable dynamic equilibria. See Zimmerman and Carter (2003) for an example with
+three stable dynamic equilibria.
+
+10
+
+earlier. In recent years, however, economists have begun to formalize such concepts
+and to appreciate the central role of threshold effects that generate bifurcated welfare
+dynamics, with some people staying or climbing out of poverty and others mired in a
+long-term poverty trap. Absent such thresholds, all poverty would be transitory with
+everyone converging toward a single equilibrium income level, as posited by
+neoclassical economic growth theory (Solow 1956). Overwhelming empirical evidence
+against such unconditional convergence has motivated considerable research over the
+past fifteen or so years on “new” theories and empirics of economic growth.11 To date,
+this work has focused heavily at the macroeconomic level of nation states, but the logic
+applies equally at meso and micro levels, where it may actually prove more useful for
+policy purposes (Barrett and Swallow 2003).
+The idea of multiple dynamic equilibria and its implication of threshold effects
+becomes especially salient because it gives rise to significant potential endogenous
+change in returns to asset endowments. There are at least three distinct mechanisms by
+which this can occur. First, risk avoidance behavior can cause endogenous selection of
+low return portfolios that have relatively low variability in returns (Rosenzweig and
+Binswanger 1993, Zimmerman and Carter 2003). Second, credit market imperfections
+can constrain the feasible matching of variable input choices with quasi-fixed factors of
+production (i.e., assets), leading to a positive correlation between an agent’s ex ante
+asset stock and the rate of return on those assets (Bardhan et al. 2000). Third, there can
+be locally increasing returns due to discrete choices of technologies or occupations
+(Banerjee and Newman 1993, Barrett and Blume 2003).
+By any of these three mechanisms, as asset stocks increase, expected returns on
+assets, r, increase, generating an added boost to income beyond that associated with
+adding to asset stock at a constant (much less diminishing) rate of return. This is a
+significant refinement of the dominant recent approach which, as previously described,
+has focused on inducing exogenous changes in returns to the poor’s productive assets
+due, for example, to market liberalization policies. Poverty traps depend
+fundamentally on endogenous change in returns on asset holdings, so that income is at
+least locally increasing in asset stocks. We have learned in recent years that returns can
+indeed prove endogenous, at the micro level of individuals or households, growing
+11
+
+Easterly (2001) offers an especially accessible, even entertaining treatment of the evolution of growth theory and
+the empirical evidence on economic growth.
+
+11
+
+with one’s asset stock, at the meso level of communities, due to interhousehold
+externalities and coordination, or at the macro level of countries, due to political
+economy effects. 12 The net effect are patterns of persistent poverty that replicate
+themselves across multiple scales, termed “fractal poverty traps” by Easterly (2001) and
+Barrett and Swallow (2003).
+The possible endogeneity of returns to assets can be readily seen by returning
+briefly to the mathematics of income dynamics. To establish the effect of changing asset
+stocks on income, we implicitly differentiate equation (5) with respect to A and take
+expectations:
+E[dY/dA] = r + A`E[dr/dA]
+
+(7)
+
+Equation (7) indicates that income growth can occur not just due to exogenous change
+in rates of return – dr from equation (6) – or to growth in the asset stock with a constant
+rate of return – the first term of equation (7) – but also due to induced growth in rates of
+return as people accumulate assets. This is a testable hypothesis. Because we observe
+neither r nor dr/dA, we need to estimate them:
+dY/dA = _+ _’A + _
+
+(8)
+
+where our estimate of _ provides a best estimate of r and our estimate of _ represents
+the E[dr/dA] vector with what is likely to prove a heteroskedastic regression error, _.
+Rejection of the null hypothesis that _=0 provides strong evidence in favor of the
+endogeneity of rates of return, with rejection in favor of the alternate hypothesis that at
+least one element of _>0, and none negative, signaling locally increasing returns
+characteristic of threshold effects associated with poverty traps.13 These returns can be
+to scale – of a single asset – or to scope, reflecting complementarity across assets that
+endogenously boosts productivity and thus income. This can perhaps be seen most
+easily by specifying (9) with respect to each of the multiple asset stocks held by
+households or individuals in the relevant population:
+dY/dAi = _i+ _j _ijAj + _i
+
+(9)
+
+Simultaneous estimation of the system of equations represented by (9), each for a
+different asset, Ai, would establish the assets for which overall returns appear to be
+endogenously increasing, enabling development professionals to focus more precisely
+on the assets that most matter to helping the poor to climb out of chronic poverty.
+12
+
+This distinction parallels that between internal and external economies of scale in the international trade literature.
+Conversely, if at least one element of _ is negative and none positive, this would imply convergence, based
+on decreasing returns to scale.
+13
+
+12
+
+Furthermore, comparison of the expected marginal returns to each asset could establish
+the relative expected income gains achievable from transfers of or de novo investment
+in each type of asset. Such estimates establish expected benefits, which can then be
+compared against cost estimates for different types of interventions so as to improve the
+likely yield from scarce funds invested in asset accumulation among the poor.
+Of course, equations (8) and (9) are equivalent to endogenizing r in equation (3)
+and estimating income levels, rather than changes in income, as a polynomial function
+of A. A second-order example would be the simple regression model
+Y = A`r = _ + _i _iAi+ _i_j_ijAiAj + _
+
+(10)
+
+where convexity of E[Y] in A signals endogenously increasing returns on assets
+consistent with the existence of a poverty trap, and concavity would indicate
+convergence.
+Establishing the existence of endogenously increasing rates of return to assets is
+only one part of the research challenge. The more practical – and more difficult – task is
+to identify the thresholds at which welfare dynamics appear to bifurcate. These are the
+points where one can usefully distinguish between the transitorily poor who remain
+above the threshold and therefore should recover on their own, and the (perhaps
+newly) chronically poor who were born or have fallen below the threshold and whose
+path dynamics will carry them toward a meager, subsistence equilibrium in the absence
+of assistance.
+Thresholds can sometimes be found via autoregressions of welfare measures
+such as assets, income or expenditures on past values of the same measure. The
+methodological problem, however, is that the autoregressions have to allow for
+relatively high-order polynomial relations in order that one can feasibly find thresholds.
+Such thresholds can be tricky to identify, especially using parametric estimation
+methods because in theory one should find few observations around the unstable
+dynamic equilibria that define thresholds. This requires sufficient sample sizes, not
+only in cross-section but perhaps especially in the time domain, in order to capture low
+probability observations in the neighborhood of threshold points. Without sufficiently
+dense data or flexible estimators, inflection points will typically be washed out in global
+parametric estimation off of just two or three observations per unit, more likely
+manifesting themselves more subtly as heteroskedastic and positively autocorrelated
+errors. If considerable within-sample heterogeneity in exogenous conditions causes the
+
+13
+
+location of thresholds to vary considerably between households within the population
+under study, then uncovering them empirically becomes harder still. In sum, detection
+of thresholds associated with multiple dynamic equilibria and poverty traps can be
+extremely difficult, even if they exist. As U.S. Defense Secretary Donald Rumsfeld
+infamously asserted prior to the 2003 Iraq war, the absence of evidence is not the same
+as evidence of absence. The methodological challenges of precisely identifying poverty
+traps and threshold effects remain formidable.
+
+Figure 1: Nonparametric estimates of expected herd size transitions in southern Ethiopia
+
+Nonparametric methods can be very effective in locating thresholds, as
+demonstrated in Figure 1, taken from Lybbert et al. (2002). This graphic depicts the
+nonparametric autoregression of the natural logarithm of household herd size one and
+ten years ahead on current values using 17 years’ herd history data on 55 pastoralist
+households from the Borana Plateau of southern Ethiopia. The solid, 45-degree line
+represents dynamic equilibrium, points where current and expected future herd sizes
+are the same. The S-shaped asset dynamics reveal a threshold household herd size –
+reflecting an unstable dynamic equilibrium – of approximately 12-15 cattle. Below that
+level, pastoralists effectively become sedentarized because the lactating herd is too
+small to split so as to support both migrating herders and a nonmigratory base camp of
+women, children, the elderly and the infirm. Below the threshold herd size, livestock
+holdings tend to collapse toward an equilibrium of about one head of cattle because of
+
+14
+
+optimal portfolio rebalancing – manifest as net sales of livestock – and frequent
+agroclimatic chocks to which they cannot respond through migration . Above the
+threshold, the herd can be split, enabling migratory extensive grazing of the dry herd
+(and a few lactating animals used to feed trekking herders) in response to
+spatiotemporal variability in forage and water availability, thereby achieving a higher
+dynamic equilibrium herd size of 50-75 head. Because the density of observations just
+below the threshold is low, second and third order polynomial parametric regressions
+did not initially uncover this relationship. Hence the value of nonparametric methods
+for empirical inquiry into poverty traps.
+Note as well the crucial difference from the conventional empirical approach of
+looking for differences in growth rates across quantiles of a wealth or income
+distribution. Prospective differences in accumulation dynamics differ relative to the
+thresholds that define the boundary of a poverty trap, not relative to the seams between
+distribution quantiles. Consequently, unless the quantile divides just happen to
+correspond with those thresholds – which they almost surely will not – the quantilebased approach will generally miss threshold effects associated with poverty traps.
+Qualitative research methods more familiar to the other social sciences can prove
+especially helpful in uncovering the thresholds that underpin chronic poverty (Hulme
+and Shepherd 2003). Precisely because there should be few observations in the vicinity
+of unstable dynamic equilibria, the task of identifying thresholds can often defy
+statistical methods based on observational data. Yet the poor can often identify in openended conversations what it takes to be able to shift to a different production
+technology (e.g., from sedentarized cattle husbandry to extensive pastoralism in the
+preceding example), a different livelihood strategy (e.g., from petty trade to
+wholesaling), or to migrate to a place offering brighter prospects. If asked, the poor can
+often pinpoint the asset(s) responsible for endogenous returns. Economists are slowly
+warming to the integration of qualitative data collection with our more familiar
+quantitative methods, begetting a promising union for policy-oriented poverty research
+(Kanbur 2003).
+An indirect signal of threshold effects can sometimes be found in distributional
+data. Because poverty traps give rise to birfurcated welfare dynamics, people who
+initially start out close to one another can follow sharply divergent trajectories. In the
+presence of threshold effects, therefore, the tendency over time will be for people to
+
+15
+
+cluster around a small number of stable equilibria that serve as local basins of
+convergence, with discernible troughs between these points. This will be apparent in
+cross-sectional income (or expenditure or other welfare measures) distribution data as
+multiple modes around dynamic equilibria, leading to what Quah (1996) has termed
+“twin-peakedness”, which might be more generally thought of as “multi-peakedness”.
+We see two examples of twin-peakedness in Figures 2 and 3, which present
+nonparametric density estimates of two different welfare distributions. Figure 2 plots
+the 1989 per capita daily incomes of a sample of households in Madzuu, a village in
+Kenya’s western highlands where good soils, abundant rainfall and moderate access to
+urban markets (such as Kisumu) create some, albeit limited opportunities for upward
+economic mobility. Poverty rates nonetheless remain very high, with 61 percent below
+a $0.50/day per capita poverty line in both 1989 and 2002 and only 9 percent above it in
+both periods.14 Figure 3 displays the density of 1997 per capita herd sizes among
+pastoralists on the Borana Plateau of southern Ethiopia, a region of relatively favorable
+agroecological potential for pastoralists, therefore likewise offering some chance for
+upward economic mobility among a subpopulation typically far poorer than national
+averages. In each case, there’s a dominant mode at a low level, around $0.50/day per
+capita income in Madzuu and 1-2 cattle per person in Borana, and a secondary mode at
+a much more desirable level, about $1.30/day per person in Madzuu and 15-20 animals
+per capita in Borana. These sorts of bimodal distributions suggest the existence of
+threshold effects that lead to birfurcated welfare dynamics, with some people heading
+toward a low-level stable equilibrium and others toward a higher one.
+
+0.20
+
+1.0
+0.15
+0.8
+
+0.6
+
+0.10
+
+0.4
+
+0.0
+0.00
+
+0.50
+1.00
+1.50
+2.00
+2.50
+2002 per capita daily income (US$), Madzuu
+
+3.00
+
+Rosenblatt-Parzen density
+
+Rosenblatt-Parzen density
+
+14
+
+0.2
+
+0.05
+
+0.00
+0
+
+5
+10
+15
+20
+1997 household per capita herd size, Borana, Southern Ethiopia
+
+The daily per capita income figures are in inflation-adjusted 2002 US dollar terms.
+
+16
+
+Figure 2: Bimodal income in western Kenya
+
+Figure 3: Bimodal cattle wealth in southern
+Ethiopia
+
+Of course, in many very poor communities, we find unimodal distributions, not
+because thresholds do not exist, but more likely because too few people cross them to
+create sufficient density at higher equilibria to find these effects in the data.15 Such
+places reflect geographic poverty traps (Jalan and Ravallion 2002). Where the
+underlying agroecological conditions, market access, or sociopolitical stability – or some
+
+Rosenblatt-Parzen density
+
+3
+
+2
+
+1
+
+0
+0.00
+
+0.50
+1.00
+1.50
+Per capita daily income (2002 US$), 1996 (dotted) and 2002 (solid)
+Fianarantsoa, Madagascar
+
+combination of these – are such that there exist few pathways out of poverty in the
+absence of significant external interventions.
+Figure 4 exhibits one such example, from Madagascar’s poorest province,
+Fianarantsoa. The graphic shows distinctly unimodal distributions of daily per capita
+income distribution (again in constant 2002 US dollars) of households surveyed in 1996
+and again in 2002, with a mode of only $0.20-0.25/day per person. In communities as
+desperately poor as these, income appears unimodal because virtually everyone is
+caught in a geographic poverty trap. The distinct leftward compression of the income
+distribution in 2002, relative to 1996, reflects the effect of a sharp covariate shock, the
+eight month national crisis that befell Madagascar following the violently disputed
+presidential elections of December 2001.
+15
+
+In relatively wealthy communities in which few people face serious obstacles to wealth accumulation, welfare
+distributions similarly appear unimodal, because relatively little of the population falls below a threshold associated
+with a poverty trap. Because the focus of this paper is poverty, we do not discuss this case any further.
+
+17
+
+Figure 4: Intertemporal shifts in unimodal income distributions
+To summarize, longstanding hypotheses about multiple equilibria are receiving
+renewed attention in the empirical literature on development microeconomics. Highly
+suggestive evidence is emerging that indeed Myrdal, Rosenstein-Rodan and Young
+may have been correct about the existence of distinct accumulation trajectories, one or
+more of which are associated with chronic poverty. If confirmed through further
+(qualitative, quantitative or mixed methods) empirical research and explained
+adequately with one or more theories of poverty traps applicable to the contexts from
+whence the data originate, these findings would have significant implications for
+development policy. In particular, empirical corroboration of the existence of poverty
+traps would signal the necessity of renewed activism by donors and governments to
+address insufficiency of asset holdings among the chronic poor.
+Explaining poverty traps
+There are multiple pathways out of rural poverty, so one needs to beware of
+presenting too simplistic or mechanical a description. For some, the optimal pathway is
+through agricultural intensification and commercialization. For others, it lies in
+migration to an urban area. For others, the right strategy involves gradual transition out
+of agriculture and into rural non-farm activities.16 Some will use a combination of these
+strategies. The key is not the particular path to be followed, which may vary markedly
+across space, time and even among individuals in the same location and moment.
+Rather, the key is the existence of some pathway out of poverty, a strategy in which
+current optimal choices predictably lead to the accumulation of sufficient productive
+assets so that the household can reasonably expect to earn an investible surplus above
+and beyond immediate consumption needs, enabling continued accumulation and
+
+16
+
+The role of the rural non-farm economy in facilitating escape from poverty has been widely
+undervalued in agricultural and development economics. A range of studies in recent years have
+uncovered a positive relationship between non-farm income and household welfare indicators, in
+particular, that greater nonfarm income diversification causes more rapid growth in earnings and
+consumption (Barrett et al. 2001b). In places where the ranks of landless or near-landless poor are
+swelling rapidly, the rural non-farm economy will become essential to poverty reduction strategies (Jayne
+et al. 2003).
+
+18
+
+steady growth in all or most welfare measures. A poverty trap exists when a
+household’s optimal strategy does not lead to such accumulation, when the feasible
+choice set essentially precludes accumulation.
+Why might this be? A range of sophisticated theoretical models have emerged
+over the past twenty years to explain the phenomenon of poverty traps.17 This is not the
+place to try to review this literature, not least of which because I could not begin to do
+justice to the elegance of some of the models. Instead, let me focus on two key features
+that underpin the logic of poverty traps in virtually every published model:
+endogenously increasing returns and financial market failures.
+If returns on assets increase in wealth, this (somewhat tautologically) implies
+increasing returns to scale due to some mechanism, often modeled as resulting from
+externalities or societal level coordination problems such as agglomeration economies.
+The key becomes understanding why any low-level dynamic equilibrium would exist in
+the presence of increasing returns. The pivotal feature seems to be discreteness. If
+occupational or technology choice is discrete – if people cannot combine different jobs
+or production technologies at arbitrarily fine scales, gradually shifting from the lower
+return one to the higher return one – and there exist nontrivial fixed or sunk costs to
+making the shift, an entry barrier emerges that will segregate a population into those
+who can clear the poverty trap threshold and those who cannot.
+One implication of this is the potential importance of what Barrett and Blume
+(2003) term “transition technologies”, options that are inferior to the highest return,
+state-of-the-art technologies, but superior to the lowest return options presently chosen
+and – most importantly – accessible to those presently choosing lowest return strategies.
+Like the concepts of multiple equilibria and poverty traps, the idea of intermediate
+technologies has been around for a long time. Formal theorizing is, however, new and
+may shed light on its importance. Ideally, intermediate technologies build in their own
+demise by inducing people onto an improved accumulation trajectory that, in time,
+leads them to shift from the intermediate technology to a still-better option, which may
+actually predate the intermediate technology but which was previously inaccessible
+without the intermediate step. Moser and Barrett (2003) find some evidence of
+“technology adoption ladders” of this sort, with Malagasy peasants proving more likely
+17
+
+An incomplete listing of key papers would include Loury (1981), Romer (1986), Lucas (1988), Azariadis and
+Drazen (1990), Krugman (1991), Banerjee and Newman (1993), Galor and Zeira (1993), Mookherjee and Ray
+(2002) and Zimmerman and Carter (2003).
+
+19
+
+to adopt a high-yielding rice cultivation practice if they first adopt off-season cropping
+of tubers in their rice fields, mainly because off-season cropping helps resolve seasonal
+cash liquidity constraints to adoption of the new practice.
+This particular example also underscores the centrality of financial market
+failures to the logic of poverty traps. If people could borrow freely, then everyone of
+like latent ability could make optimal investments for their circumstances and there
+would be no significant variation in interpersonal welfare within sites in equilibrium.
+Conditional convergence would be to steady states that vary only by inherited ability.
+Plainly, that is a fantasy world. In the real world, limits on credit and insurance access
+confront the chronically poor with binding constraints that limit their ability and
+willingness to invest today in order to reap higher steady state income in the future.
+Asset accumulation failures are the predictable result (Dercon 1998, Carter and
+Zimmerman 2000, Gunning et al. 2000, Carter and May 2001, Mude et al. 2003).
+The problem is even more pernicious than mere accumulation failures.
+Productivity suffers too because when people do not have access to credit or insurance
+so as to enable them to move consumption across periods, they inevitably find
+alternative markets through which they can get costly quasi-credit. For example,
+farmers will sell crop at low prices immediately after harvest, fully expecting to buy
+back the same crop months later at a considerably higher price. Given an immediate
+need for cash for any of a host of reasons, but lacking access to credit or cash savings,
+farmers commonly “borrow” through product markets. This appears to us economists
+as significant allocative inefficiency, although it can be an optimal strategy for a
+severely credit constrained household. Other farmers will use labor markets for similar
+purposes, working for cash wages during planting season when a bit more time spent
+on their own farm would enable them to employ a cultivation method yielding
+significantly higher yields, and thus greater future marginal revenue product of labor.
+The premium on cash today from low wages can be more than sufficient to compensate
+for foregone productivity even a few months later (Moser and Barrett 2003). This
+appears as technical inefficiency, choosing to operate within the feasible production
+frontier, even though it can be an optimal choice for the farmer.
+So what can be done about financial markets failures that beget poverty traps?
+The literature on rural finance and microfinance is vast. I could not hope to undertake
+an effective review of this literature in just a couple of paragraphs. Rather, I want
+
+20
+
+merely to emphasize the centrality of work on microfinance and rural finance to
+research on poverty. The good news is that much excellent recent and ongoing research
+exists on how to resolve financial markets failures so as to empower the rural poor to
+conserve their scarce capital in the face of adverse shocks and to accumulate additional
+productive capital.18
+Discreteness and financial constraints can jointly generate significant poverty
+traps. Faced with entry barriers to more remunerative livelihood strategies or
+production technologies offering higher yields and lacking the liquid assets or
+borrowing capacity to meet those minimum entry requirements, the poor must
+commonly choose demonstrably lower return activities or portfolios or inferior
+technologies (Dercon and Krishnan 1996, Bardhan et al. 2000, Barrett et al. 2000, Barrett
+et al. 2001a, 2001b, Barrett and Blume 2003, Moser and Barrett 2003, Zimmerman and
+Carter 2003). Exactly where the relevant threshold points associated with these entry
+barriers lie depends on exogenous biophysical and market conditions and the fixed or
+sunk costs inherent to accessing the more remunerative option. In places with good
+market access and favorable agroecological endowments, we hypothesize that poverty
+traps are less acute, trapping fewer people. Some of these factors are endogenous at the
+level of communities or nation states, as in the case of cooperatives that can permit
+smallholder producers to enjoy better output/input price ratios due to larger scale
+transactions or national-level institutions that ensure property rights, contract
+enforcement, and reasonably equal opportunities to all residents (North 1990,
+Acemoglu et al. 2001, 2002, Barrett and Swallow 2003). Others are exogenously
+determined by geography.
+DEVELOPMENT POLICY IMPLICATIONS
+Perhaps the most fundamental lesson of the past quarter century’s research on
+rural poverty is the need to distinguish transitory from chronic poverty. Because the
+transitorily poor need no direct assistance in order to recover from and exit poverty, the
+necessary activism of donors and government in combating poverty depends inversely
+on the extent to which poverty is transitory. One must balance attention to the inherent
+18
+
+An incomplete list of especially exciting work in this area includes Zeller et al. (1997), Morduch (1999) and
+DeJanvry et al. (2003).
+
+21
+
+upward bias in estimates of transitory poverty caused by measurement error with the
+caution not to interpret all poverty as demanding costly – and potentially injurious –
+external intervention. A central task for researchers is to help policymakers strike this
+balance effectively through careful empirical research.
+The fundamental distinction between transitory and chronic poverty arises from
+the existence of threshold effects associated with multiple dynamic equilibria and
+poverty traps. Threshold points are likely to prove heterogeneous, varying with
+geography and perhaps individual and community attributes (e.g., gender, age, density
+of social solidarity networks) and they will certainly be endogenous to policies that
+change the incentives to switch livelihood strategies. This complicates the analytical
+task facing those of us in the research community. The existence of thresholds
+nonetheless makes necessary a fundamental distinction between safety nets set above
+the threshold to keep people from becoming chronically poor in the wake of adverse
+shocks and cargo nets intended to facilitate the chronically poor’s exit from poverty.
+This also implies a central role for effective targeting, in order that the appropriate
+policies are applied to the right subpopulations.
+There are many different methods for targeting interventions.19 Three in
+particular merit comment: geographic, indicator, and self-targeting. Geographic
+targeting is the perhaps the least expensive means of targeting and can be highly
+appropriate in areas of nearly universal chronic poverty, as in much of the drylands of
+Ethiopia, Kenya and Madagascar, where more than 80 percent of the population falls
+below low national poverty lines. Geographic targeting can likewise be appropriate for
+short-term, safety net interventions such as food aid distribution in the wake of natural
+disasters in order that short-term disruptions to incomes and food availability do not
+cause long-term injury for affected populations.
+But because variation in incomes tends to be at least as much within regions (and
+even within villages) as between them (Jayne et al. 2003), geographic targeting alone
+will necessarily miss many, if not most of the poor. Beyond areas of intense,
+widespread poverty, donors, NGOs and governments need to identify thresholds
+measurable in readily observable units (e.g., landholdings, herd size, educational
+attainment) and to target the chronic poor who fall below those thresholds for
+assistance. Hence the importance of indicator targeting. It must be borne in mind,
+19
+
+Barrett (2002) reviews and assesses the strengths and weaknesses of alternative targeting modalities.
+
+22
+
+however, that indicator targeting only works well at combating chronic poverty if the
+indicators used are strongly and causally associated with lower measures of well-being.
+Identifying appropriate indicators often requires the sort of empirical analysis described
+earlier, else stylized associations such as gender, ethnicity or age will typically be used,
+often with little or no correlation with actual need, resulting in ineffective assistance
+(Clay et al. 1999).
+Self-targeting mechanisms can be especially useful for safety nets. These
+instruments take advantage of the character of the transfer – e.g., a low-wage work
+requirement associated with public employment schemes, inferior subsidized foods or
+significant queuing for food, clothing or cash – to try to induce the non-poor to selfselect out of the beneficiary pool. When set up as standing policies that kick in
+automatically in response to income and other shocks that imperil vulnerable
+populations – which may include seasonal cycles of shortage that can preclude
+investment by smallholders (Barrett et al. 2001a) – then self-targeting programs such as
+food-for-work or other public employment schemes can be valuable tools for providing
+safety nets in response to quickly developing emergencies. Significant experience in
+south Asia, southern Africa and Argentina, in particular, have demonstrated the
+potential of this approach (Ravallion 1991, von Braun 1995). Absent an indicator
+targeting entry hurdle, self-targeting transfer schemes are often ineffective, however, in
+addressing chronic poverty, especially where land and credit markets both fail, causing
+considerable interhousehold variation in marginal returns to labor, or when agencies
+try to accomplish multiple goals with self-targeting transfers (Barrett et al.
+forthcoming).
+An important corollary of targeting is the need for triage in transfer programs.
+The literature is surprisingly silent on the value of directing certain transfers away from
+not only the non-poor but also away from a subpopulation of the poor who are unlikely
+to benefit significantly from the transfers. Consider, for example, the implications of
+Figure 1 for herd restocking projects. Such transfers provide an excellent safety net
+intervention for those hitting the threshold at which they might become involuntarily
+sedentarized, enabling them to get back out onto the open range as viable pastoralists.
+But providing one or two cattle to a herder who has just lost his entire herd is unlikely
+to enable resumption of extensive pastoralism. Rather, he is likely to lose one of the
+animals in short order as he settles into a new, lower, sedentarized equilibrium; he may
+
+23
+
+benefit more from skills training to improve his prospects in the labor market (McPeak
+and Barrett 2001, Lybbert et al. 2002). Policymakers need to think through carefully
+when triage might be necessary in safety net programs and which assets will be most
+helpful to which poor people. Researchers need to help identify appropriate triage
+points and rules of thumb on different means of assistance. Ethical considerations may
+make assistance imperative, but the form of the assistance needs to pay attention to
+likely effectiveness, hence the need for triage with respect to form-specific transfers.
+Targeting concerns revolve not just around who to assist, where, or when, but
+equally how and with what. The “how” and “what” questions of targeting receive too
+little attention from researchers and policymakers but are of particular importance in
+addressing chronic poverty. The reason is straightforward: in order to enable the
+chronically poor to begin accumulating productive assets, one must know what factors
+currently most limit their choices. Is the problem chiefly due to an insufficiently
+productive asset stock, implying a need for improved technologies to boost yields or
+better market access to improve the terms of trade for the goods and services sold by
+the chronically poor? Decades of government interference in rural markets and global
+market distortions due to wealthy countries’ domestic farm subsidies often play a
+significant role here. Or is the problem more an insufficient stock of productive assets,
+and, if so, of which type? Land, implying a possible rationale for progressive land
+reform? Human capital, implying a rationale for greater public investment in
+education, health and nutrition, perhaps especially for young children? Or is the need
+chiefly for deeper and broader access to financial services so as to free more households
+to undertake additional investment appropriate to their particular circumstances and
+talents?
+These are the familiar pillars of decades of rural development strategies. There is
+little new to offer other than the simple observation that each case is different. Simple,
+blanket prescriptions rarely work. Effective policies to combat chronic poverty depend
+on careful, empirical policy research customized to local conditions. We in the research
+community have an obligation to develop tools and information that can provide
+policymakers with accurate and timely information on the who, what, where, when and
+how targeting questions that are the essence of poverty reduction strategies.
+
+24
+
+REFERENCES
+Acemoglu, D., S. Johnson and J.A. Robinson (2001), “Colonial Origins of Comparative
+Development: An Empirical Investigation,” American Economic Review 91 (5): 13691401.
+Acemoglu, D., S. Johnson and J.A. Robinson (2002), “Reversal of Fortune: Geography
+and Institutions in the Making of the Modern World Income Distribution,”
+Quarterly Journal of Economics 117 (4): 1231-94.
+Albarran, P. and O. Attanasio (forthcoming), “Do public transfers crowd out private transfers?
+Evidence from a randomized experiment in Mexico,” in S. Dercon, ed., Insurance Against
+Poverty (Oxford: Oxford University Press).
+Alderman, H., J.R. Behrman, H.-P. Kohler, J.A. Maluccio, and S.C. Watkins (2000),
+“Attrition in Longitudinal Household Survey Data: Some Tests for Three
+Developing-Country Samples,” World Bank Policy Research Working Paper 2447.
+Azariadis, C. and A. Drazen (1990), “Threshold externalities and economic
+development,” Quarterly Journal of Economics 105, 3: 501-26.
+Banerjee, A.V. and A.F. Newman (1993), “Occupational choice and the process of
+development,” Journal of Political Economy 101 (2): 274-98.
+Bardhan, P., S. Bowles and H. Gintis (2000), “Wealth Inequality, Wealth Constraints and
+Economic Performance,” in A. B. Atkinson and F. Bourguignon, eds., Handbook of
+Income Distribution, Volume 1 (Amsterdam: Elsevier Science).
+Barrett, C.B. (2002), “Food Security and Food Assistance Programs,” in B. Gardner and
+G. Rausser, eds., Handbook of Agricultural Economics, volume 2B (Amsterdam:
+Elsevier Science).
+Barrett, C.B., M. Bezuneh, D.C. Clay and T. Reardon (2000), “Heterogeneous
+Constraints, Incentives and Income Diversification Strategies in Rural Africa,”
+Cornell University working paper.
+Barrett, C.B., M. Bezuneh, and A.A. Aboud (2001a), “Income Diversification, Poverty Traps
+and Policy Shocks in Côte d’Ivoire and Kenya,” Food Policy 26, 4: 367-384.
+Barrett, C.B. and L.E. Blume (2003), “Technology Choice and Poverty Traps,” Cornell
+University working paper in preparation.
+Barrett, C.B. and M.R. Carter (2001), “Can’t Get Ahead For Falling Behind: New
+Directions for Development Policy To Escape Poverty and Relief Traps,” Choices 16,
+4: 35-38.
+Barrett, C.B., S. Holden, and D.C. Clay (forthcoming), “Can Food-For-Work Programs
+Reduce Vulnerability?” in S. Dercon, ed., Insurance Against Poverty (Oxford: Oxford
+University Press).
+Barrett, C.B., T. Reardon and P. Webb, eds. (2001b), “Nonfarm Income Diversification and
+Household Livelihood Strategies in Rural Africa: Concepts, Dynamics and Policy
+Implications,” Food Policy 26, 4.
+Barrett, C.B., S.M. Sherlund and A.A. Adesina (2003), “"Macroeconomic shocks, human
+capital and productive efficiency: Evidence from West African farmers," Cornell
+University working paper.
+
+25
+
+Barrett, C.B. and B.M. Swallow (2003), “Fractal Poverty Traps,” Cornell University
+working paper in preparation.
+Basu, K. (1999), “Child Labor: Cause, Consequence, and Cure, with Remarks on
+International Labor Standards,” Journal of Economic Literature 37, 2: 1083-1119.
+Baulch, B. and J. Hoddinott, eds. (2000), Economic Mobility and Poverty Dynamics in
+Developing Countries. London: Frank Cass.
+Bloom, D.E. and J.D. Sachs (1998), “Geography, Demography and Economic Growth in
+Africa,” Brookings Papers on Economic Activity 1998, 2: 207-273.
+Bourguignon, F. and S.R. Chakravarty (2002), “The measurement of multidimensional
+poverty,” DELTA working paper.
+Carter, M.R. and J. May (1999), “Poverty, Livelihood and Class in Rural South Africa,”
+World Development 27, 1: 1-20.
+Carter, M.R. and J. May (2001). “One Kind of Freedom: The Dynamics of Poverty in
+Post-Apartheid South Africa,” World Development 29, 12: 1987-2006.
+Carter, M.R. and F. Zimmerman (2000). “The Dynamic Costs and Persistence of Asset
+Inequality in An Agrarian Economy,” Journal of Development Economics 63(2): 265302.
+Clay, D.C., D. Molla and D. Habtewold (1999), “Food Aid Targeting in Ethiopia: A
+Study of Who Needs It and Who Gets It,” Food Policy 24, 3: 391-409.
+Cox, D. and E. Jimenez (1992), “Social Security and Private Transfers in Developing
+Countries: The Case of Peru,” World Bank Economic Review 6, 1: 155-169.
+DeJanvry, A., E. Sadoulet, C. McIntosh, B. Wydick, M. Valdivia, A. Trigueros, G.
+Gordillo and D. Karlan (2003), “Up the Lending Ladder: Extending Financial
+Services for the Rural Poor through Credit-Reporting Bureaus,” University of
+Wisconsin-Madison BASIS Brief no. 16.
+Dercon, S. (1998), “Wealth, risk and activity choice: cattle in Western Tanzania,” Journal
+of Development Economics, 55, 1: 1–42.
+Dercon, S. (2000), “The impact of economic reforms on households in rural Ethiopia,”
+University of Oxford Centre for the Study of African Economies working paper.
+Dercon, S., ed. (2003), Insurance Against Poverty (Oxford: Oxford University Press).
+Dercon, S. and P. Krishnan (1996), “Income Portfolios in Rural Ethiopia and Tanzania:
+Choices and Constraints,” Journal of Development Studies 32, 6: 850-875.
+Dercon, S. and P. Krishnan (2003), “ Risk sharing and public transfers,” Economic Journal
+113: C86-C94.
+Duclos, J.-Y., D. Sahn and S.D. Younger (2003), “Robust Multidimensional Poverty
+Comparisons,” Université Laval working paper.
+Easterly, W. (2001), The Elusive Quest for Growth. Cambridge: MIT Press.
+Elbers, C., J.W. Gunning and B. Kinsey (2002), “Convergence, Shocks and Poverty:
+Micro Evidence on Growth under Uncertainty,” Tinbergen Institute working
+paper.
+
+26
+
+Elbers, C., J.O. Lanjouw and P. Lanjouw (2001), “Welfare in Villages and Towns: MicroLevel Estimation of Poverty and Inequality,” Vrije Universiteit working paper.
+Falaris, E.M. (2003), “The effect of survey attrition in longitudinal surveys: Evidence
+from Peru, Côte d’Ivoire and Vietnam,” Journal of Development Economics 70, 1: 133157.
+Gallup, J.L. and J.D. Sachs (1998), ‘Geography and Economic Growth’, in B. Pleskovic
+and J.E. Stiglitz, eds., Proceedings of the Annual World Bank Conference on Development
+Economics, Washington: World Bank.
+Galor, O. and J. Zeira (1993), “Income Distribution and Macroeconomics,” Review of
+Economic Studies 60, 1: 35-52.
+Gertler, P. and J. Gruber (2002), “Insuring Consumption Against Illness,” American Economic
+Review 1: 51-70.
+Glewwe, P. and G. Hall (1998) "Are some groups more vulnerable to macroeconomic
+shocks than others? Hypotheses tests based on panel data from Peru", Journal of
+Development Economics 56, 1:181-206.
+Grootaert, C. and R. Kanbur (1995), “The Lucky Few amidst Economic Decline:
+Distributional Change in Côte d'Ivoire as Seen through Panel Data Sets, 1985-88,”
+Journal of Development Studies 31, 4: 603-19.
+Gunning, J.W., J. Hoddinott, B. Kinsey and T. Owens (2000), “Revisiting Forever
+Gained: Income Dynamics in the Resettlement Areas of Zimbabwe, 1983-96,” in B.
+Baulch and J. Hoddinott, eds., Economic Mobility and Poverty Dynamics in Developing
+Countries. London: Frank Cass.
+Haddad, L. and A. Ahmed (2003), “Chronic and Transitory Poverty: Evidence from
+Egypt, 1997-99”, World Development 31, 1: 71-85.
+Hentschel, J., J.O. Lanjouw, P. Lanjouw, and J. Poggi (2000), “Combining Census and
+Survey Data to Study Spatial Dimensions of Poverty: A Case Study of Ecuador,”
+World Bank Economic Review 14, 1: 147-166.
+Hoddinott, J. and B. Kinsey (2001), “Child growth in the time of drought,” Oxford
+Bulletin of Economics and Statistics 63, 4: 409-436.
+Hulme, D. and A. Shepherd, eds. (2003), “Chronic Poverty and Development Policy,”
+World Development, 31, 3: 399-665.
+Jalan, J. and M. Ravallion (2002), “Geographic Poverty Traps? A Micro Model of
+Consumption Growth in Rural China” Journal of Applied Econometrics 17, 4: 329-346.
+Jayne, T.S., T. Yamano, M.T. Weber, D. Tschirley, R. Benfica, A. Chapoto and B. Zulu
+(2003), “Smallholder income and land distribution in Africa: Implications for
+poverty reduction strategies,” Food Policy 28, 2: 253-275.
+Kanbur, R., ed. (2003), Q-Squared: Combining Qualitative and Quantitative Methods Of
+Poverty Appraisal (Delhi: Permanent Black).
+Krugman, P. (1991), “Increasing returns and economic geography,” Journal of Political
+Economy 99, 3: 483-99.
+
+27
+
+Levine, D.I. and B. Mazumder (2002), “Choosing the right parents: Changes in the
+intergenerational transmission of inequality between 1980 and the early 1990s,”
+Federal Reserve Bank of Chicago working paper WP 2002-08.
+Loury, G.C. (1981), “Intergenerational Transfers and the Distribution of Earnings,”
+Econometrica 49, 4: 843-867.
+Lucas, R. (1988), “On the mechanics of economic development,” Journal of Monetary
+Economics 22, 1: 2-42.
+Lucas, R.E.B. and S. Pekkala (2003), “Abilities, Budgets and Age: Inter-Generational
+Economic Mobility in Finland,” Boston University Institute for Economic
+Development Discussion Paper 130.
+Luttmer, E.F.P. (2002), “Measuring Economic Mobility and Inequality: Disentangling
+Real Events from Noisy Data,” University of Chicago working paper.
+Lybbert, T.J., C.B. Barrett, S.Desta, and D.L. Coppock (2002), “Stochastic Wealth
+Dynamics and Risk Management Among A Poor Population,” Cornell University
+working paper.
+Maluccio, J., L. Haddad, and J. May (2000), “Social Capital and Household Welfare in
+South Africa, 1993-98,” in B. Baulch and J. Hoddinott, eds., Economic Mobility and
+Poverty Dynamics in Developing Countries. London: Frank Cass.
+Mazumder, B. (2001), “Earnings mobility in the US: A new look at intergenerational
+inequality,” Federal Reserve Bank of Chicago working paper WP 2001-18.
+McPeak, J.G. and C.B. Barrett (2001), “Differential Risk Exposure and Stochastic Poverty
+Traps Among East African Pastoralists,” American Journal of Agricultural Economics,
+83, 3: 674-679.
+Mookherjee, D. and D. Ray (2002), “Contractual structure and wealth accumulation,”
+American Economic Review 92, 4: 818-49.
+Morduch, J. (1999), “The Microfinance Promise,” Journal of Economic Literature 37, 4:
+1569-1614.
+Moser, C.M. and C.B. Barrett (2003), "The Complex Dynamics of Smallholder
+Technology Adoption: The Case of SRI in Madagascar," Cornell University
+working paper.
+Mude, A.G., C.B. Barrett, J.G. McPeak and C. Doss, “Educational Investments in a
+Spatially Varied Economy,” Cornell University working paper, July 2003.
+Myrdal, G. (1957), Economic Theory and Underdeveloped Regions (London: G. Duckworth
+& Co.).
+North, D.C. (1990), Institutions, Institutional Change and Economic Performance
+(Cambridge: Cambridge University Press).
+Prasad, K., P. Belli and M. Das Gupta (1999), “Links Between Poverty, Exclusion and
+Health,” World Bank background paper for the World Development Report
+2000/2001.
+Quah, D. (1996), “Twin Peaks: Growth and Convergence In Models of Distribution
+Dynamics,” Economic Journal 106, 437: 1045-1055.
+
+28
+
+Ravallion, M. (1991), “Reaching the Rural Poor through Public Employment:
+Arguments, Lessons, and Evidence from South Asia,” World Bank Research Observer
+6, 1: 153-76.
+Ravallion, M. and G. Datt (2002), “Why Has Economic Growth Been More Pro-Poor In
+Some States of India Than Others?” Journal of Development Economics 68, 2: 381-400.
+Romer, P. (1986), “Increasing returns and long run growth,” Journal of Political Economy
+94, 4: 1002-37.
+Rosenstein-Rodan, P. (1943), “Problems of Industrialization of Eastern and SouthEastern Europe", Economic Journal
+Rosenzweig, M.R. (2003), “Payoffs from Panels in Low-Income Countries: Economic
+Development and Economic Mobility,” American Economic Review 93, 2: 112-117.
+Rosenzweig, M.R. and H. Binswanger (1993), ”Wealth, Weather Risk and the
+Composition and Profitability of Agricultural Investments,” Economic Journal 103,
+416: 56-78.
+Schultz, T.W. (1980), “Nobel Lecture: The Economics of Being Poor,” Journal of Political
+Economy 88, 4: 639-651.
+Strauss, J. and D. Thomas (1998), “Health, Nutrition, and Economic Development”,
+Journal of Economic Literature 36, 2: 766-817.
+von Braun, J., ed. (1995), Employment for Poverty Reduction and Food Security
+(Washington: International Food Policy Research Institute).
+Yamano, T. and T.S. Jayne (2002), “Measuring the Impacts of Prime-Age Adult Death on
+Rural Households in Kenya,” Tegemeo Institute of Agricultural Policy and
+Development working paper 5.
+Young, A.A. (1928), “Increasing Returns and Economic Progress,” Economic Journal 38:
+527-42.
+Zeller, M., G. Schrieder, J. von Braun and F. Heidhues (1997), Rural Finance for Food
+Security for the Poor: Implications for Research and Policy. Washington: International
+Food Policy Research Institute.
+Zimmerman, F.J. and M.R. Carter (2003), “Asset smoothing, consumption smoothing
+and the reproduction of inequality under risk and subsistence constraints,” Journal
+of Development Economics 71: 233-260.
+
+29
+
+

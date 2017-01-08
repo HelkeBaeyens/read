@@ -1,0 +1,1015 @@
+Agricultural Economics, 9 (1993) 279-296
+Elsevier Science Publishers B.V., Amsterdam
+
+279
+
+Measuring the sustainability and economic viability
+of tropical farming systems:
+a model from sub-Saharan Africa
+Simeon K. Ehui
+Livestock Economics Division, International Livestock Center for Africa,
+Addis Ababa, Ethiopia
+
+and Dunstan S.C. Spencer
+Resource and Crop Management Division, International Institute of Tropical Agriculture,
+Ibadan, Nigeria
+(Accepted 22 December 1992)
+
+ABSTRACT
+New technologies must be developed in sub-Saharan Africa which are sustainable and
+economically viable. This paper discusses a methodology for measuring the agricultural
+sustainability and economic viability of tropical farming systems for new technology evaluation. The approach is based on the concept of interspatial and intertemporal total factor
+productivity, paying particular attention to valuation of natural resource stock and flows.
+Agriculture is a sector which utilizes natural resources (e.g. soil nutrients) and the stock and
+flows of these resources affect the production environment. However, in many cases, the
+stock of these resources is beyond the control of the farmer and must be accounted for in an
+agricultural sustainability and economic viability measurement. For example, soil nutrients
+are removed by crops, erosion or leaching beyond the crop root-zone, or other processes
+such as volatilization of nitrogen. Agricultural production can also contribute to the stock of
+some nutrients by leguminous plants such as agroforestry systems. Using a data set available
+at the International Institute of Tropical Agriculture, we compute the intertemporal and
+interspatial total factor productivity indices for four cropping systems in southwestern
+Nigeria using stock of major soil nutrients as the natural resource stock. Results show that
+the sustainability and economic viability measures are sensitive to changes in the stock and
+flow of soil nutrients as well as the material inputs and outputs. Where the contribution of
+natural resource stock and flows are important (such as in the case of alley cropping), the
+
+Correspondence to: Simeon K. Ehui, International Livestock Center for Africa, P.O. Box
+5689, Addis Ababa, Ethiopia.
+0169-5150 j93 j$06.00 © 1993 - Elsevier Science Publishers B.V. All rights reserved
+
+280
+
+S.K. EHUI AND D.S.C. SPENCER
+
+measures provide markedly different results from conventional TFP approaches. The
+advantage of this approach is that interspatial and intertemporal total factor productivity
+measures are computed using only price and quantity data, thus eliminating the need for
+econometric estimation.
+
+1. INTRODUCTION
+
+Sub-Saharan Africa (SSA) is the only region of the world where percapita food production has steadily declined over the past two decades
+(IBRD, 1989). Although unfavorable farm policy (e.g. inappropriate fiscal
+and pricing policies, inadequate extension and marketing services) may be
+responsible in part for the low agricultural output, the capability of the
+natural resource base (especially soils) to sustain continued production
+under current farming practices is being questioned (Lal, 1987). The
+predominant farming systems in SSA are based on shifting cultivation
+practices. Farmers fell and burn the fallow vegetation, cultivate the cleared
+land (typically 1 to 3 years) and then abandon the site (from 4 to 20 years)
+to forest or bush cover (Sanchez, 1976). This traditional agricultural production system, which is known to be stable and biologically efficient,
+operates effectively only when there is sufficient land to allow a long fallow
+period to restore soil productivity (Kang et al, 1989).
+Today, however, due to rapid demographic and economic changes,
+cultivated area has expanded onto marginal soil types and fallow periods
+are being reduced, resulting in systematic degradation of major areas of
+land in SSA and declining yields (Matlon and Spencer, 1984; Kang et al,
+1989; Ehui and Hertel, 1992). This is compounded by the fact that most
+soils of humid tropical Africa are sandy, highly weathered, low in organic
+matter content and susceptible to soil erosion and compaction (Lal, 1987;
+El-Ashry and Ram, 1987). Thus, the challenge faced by decision makers in
+many nations in SSA is how to feed an increasing population without
+irreparably damaging the natural resource base on which agricultural
+production depends (Ehui and Hertel, 1989; Ehui et al, 1990).
+Clearly, new technologies must be developed which not only enhance
+food production but also maintain ecological stability and preserve the
+natural resource base, i.e. technologies, which are both economically viable
+and sustainable (BIFAD, 1988). For that reason, the Technical Advisory
+Committee (TAC) of the Consultative Group on International Agricultural
+Research (CGIAR) has recommended that research at international centers which is designed to generate agricultural innovations should be
+planned and conducted with a sustainability perspective (CGIAR, 1989a,b).
+However, practical and quantifiable methods for measuring the sustainabil-
+
+SUSTAINABILITY AND ECONOMIC VIABILITY OF TROPICAL FARMING SYSTEMS
+
+281
+
+ity and economic viability of agricultural systems need to be developed
+(CGIAR, 1991).
+Dumanski (1987) critically examines the concept of sustainability as
+applied to agricultural systems. He concludes that although measurements
+can focus on soil qualities and on financial viability, current concepts are
+too broad to be practical, and sustainability is difficult to measure using
+them. Based on the concept of safe minimum standard of Ciriacy-Wantrup
+(1968), Pearce et al. (1990) and Barbier et al. (1990) argue that to make the
+concept of agricultural sustainability operational at the project appraisal
+level, is to assume that it is dependent on the constancy or non-negative
+rate of change of the natural capital stock. They recommend that within an
+agricultural development program, projects should be accepted not on the
+basis of their net present value (economic efficiency) but on whether their
+streams of environment benefits compensate for any environmental damage imposed by other projects. However, their proposed methodology
+requires defining the alternative compensatory projects as well as measuring the associated environmental effects. Lynam and Herdt (1989) suggested a framework by which the sustainability concept could be empirically incorporated into the research process. They developed a number of
+propositions, one of which states that "the appropriate measure of output
+by which to determine sustainability at the crop, cropping or farming
+system level is total factor productivity, defined as the total value of all
+output produced by the system over one cycle divided by the total value of
+all inputs used by the system over one cycle of the system; a sustainable
+system has a non-negative trend in total factor productivity over the period
+of concern."
+Building upon the above proposition, this paper uses recent advances in
+productivity measurement and economic index numbers to develop a model
+for measuring economic viability and agricultural sustainability. The method
+used is based on Denny and Fuss' (1983) interspatial and intertemporal
+total factor productivity measures, modified to accommodate changes in
+resource stocks and flows. Agriculture is a sector which utilizes natural
+resources (e.g. soil nutrients) and changes in the stock and flows of these
+resources need to be accounted for in sustainability measures.
+The paper is organized into six sections. Section 2 provides an overview
+of the definition of sustainability and economic viability. Two propositions
+related to the measurement of these two concepts are stated. Section 3
+presents the conceptual framework. It introduces a generalized model for
+measurement of total factor productivity (TFP). Section 4 develops concepts of intertemporal and interspatial TFP which are used as measures of
+economic viability and agricultural sustainability, respectively. In Section 5
+
+282
+
+S.K. EHUI AND D.S.C. SPENCER
+
+an empirical example is considered. Section 6 provides a summary and
+some concluding qualifications and comments.
+2. DEFINITIONS OF SUSTAINABILITY AND ECONOMIC VIABILITY
+
+Various definitions have been proposed for sustainability. TAC for
+example, defines a sustainable agricultural system as one in which there is
+"the successful management of resources for agriculture to satisfy the
+changing human needs while maintaining or enhancing the quality of the
+environment and conserving natural resources" (CGIAR, 1989b). Along
+the same lines, a Committee of the American Society of Agronomy provides the following definition: "A sustainable agriculture is one that, over
+the long term, enhances environmental quality and the resource base on
+which agriculture depends; provides for basic human food and fiber needs;
+is economically viable and enhances the quality of life for farmers and
+society as a whole" (Anonymous, 1989).
+A third definition which is provided by Conway (1985) says: "Sustainability is the ability of a system to maintain productivity in spite of a major
+disturbance, such as caused by intensive stress or a large perturbation."
+Building upon Conway's definition, Lynam and Herdt (1989) define sustainability as "the capacity of a system to maintain output at a level
+approximately equal to or greater than its historical average, with the
+approximation determined by its historical level of variability", i.e. a
+sustainable system is "one with a non-negative trend in measured output
+and technology contributes to sustainability if it increases the slope of the
+trend line." Finally, Young (1989, p. 10) defines a sustainable land use
+system as that "which achieves production combined with conservation of
+the resources on which that production depends, thereby permitting the
+maintenance of productivity."
+It is with these last two definitions in mind that a measure of sustainability is proposed. The approach is based on the intertemporal total factor
+productivity (TFP) measure using the growth accounting framework as
+developed by Denny and Fuss (1983). Intertemporal TFP is defined in
+terms of the productive capacity of the system over time. However, this
+productive capacity for a sustainable system includes the unpriced contributions from natural resources and their unpriced production flows. Given
+that sustainability is characteristic of a system's productive performance
+over time, it appears that intertemporal TFP is an appropriate measure of
+sustainability as it addresses the question of intertemporal change in
+productivity of a system between two or more periods. Therefore, a system
+will be said to be sustainable if the associated intertemporal TFP index, which
+
+SUSTAINABILITY AND ECONOMIC VIABILITY OF TROPICAL FARMING SYSTEMS
+
+283
+
+incorporates and values changes in the resource stock and flow, does not
+decrease (Proposition 1).
+Unlike sustainability, economic viability is a static concept which refers
+to the efficiency with which resources are employed in the production
+process at a given period. A new production system can be said to be more
+economically viable (or efficient) than an existing one if its total factor
+productivity is greater at a given point in time. By higher TFP, we mean the
+capacity of the new system to produce more output than the existing one
+after accounting for differences in quantities of inputs and unpriced
+natural resources used in each system during one crop season. On the dual
+side it is interpreted as the capacity of the new production system to
+produce outputs with lower total costs than the existing one, after accounting for differences in output levels, input prices and unpriced natural
+resources and any other state of nature or exogenous variables.
+Thus, to compare the economic viability of production systems, we
+advocate the concept of interspatial TFP which is defined in terms of the
+productive capacity of one system over another, at a given period (e.g. a
+cropping season) including the unpriced contribution from natural resources to production. A system will be said to be economically more viable
+than another one if the interspatial TFP index associated with the former
+which incorporates and values spatial differences in the resource stock and
+flow, is higher than the interspatial TFP index associated with the latter
+(Proposition 2).
+We restrict this analysis to the cropping of farming system level because
+technologies that are generated in farming systems research in SSA are
+applied at this level and are mainly for small scale farmers who produce
+most of Africa's food and whose farming systems have low and declining
+productivity (UTA, 1989). Also as noted by Lynam and Herdt (1989), above
+the farming system level, so many external factors affect the sustainability
+of farming systems that it is practically impossible to determine the source
+of such impacts.
+3. A GENERALIZED MODEL FOR MEASUREMENT OF TFP
+
+The conventional approach to growth-accounting uses TFP indexes to
+measure the residual growth in outputs not accounted for by the growth in
+factor inputs. The rate of growth of TFP is conventionally defined as the
+rate of growth of aggregate output minus the rate of growth of aggregate
+inputs (Capalbo and Antle, 1989). However, the agricultural sector utilizes
+common pool natural resources (e.g. air, water, soil nutrients, etc.). The
+stock of these resources affects the production environment, but is, in many
+
+284
+
+S.K. EHUI AND D.S.C. SPENCER
+
+cases, beyond the control of the farmer. For example, soil nutrients are
+removed by crops, erosion or leaching beyond the crop root zone, or
+through other processes such as volatilization of nitrogen. Agricultural
+production can also contribute to the stock of some of the nutrients,
+particularly of nitrogen, by leguminous plants. When the stock of resources
+is reduced, the farmer faces an implicit cost in terms of forgone productivity. Conversely, when the stock of resources is increased during the production process (e.g. via nitrogen fixation), the farmer derives an implicit
+benefit from the system.
+If these implicit costs and benefits are not accounted for when TFP is
+measured, results will be biased. Squires (1991) shows that when common
+pool resource stocks are utilized, it is inappropriate for productivity measurement to treat the resource stock as a conventional input. Rather, the
+resource stock is more appropriately specified as a technological constraint.
+This is because for a given input bundle, increases (decreases) in resource
+abundance shift the production function, increasing (decreasing) resource
+flows and output. Our generalized model for TFP measurement differs
+from that of Squires (1991) in that the contribution of crop outputs and
+resource flows (both addition and depletion) are separately accounted for.
+Assuming that current prices are known, the maximization problem
+when changes in resource stock levels are positive is stated as:
+
+(1)
+where 71"1 is a measure of aggregate profit in period t, including all benefits
+and costs of resource exploitation, and B 1 is a technology shift variable
+representing the level of resource abundance in period t. Equation (1)
+represents the case of 'open access' in which B 1 is not a choice variable.
+The resource stock is beyond the control of farmers who thus ignore its
+opportunity cost. Z 1 is an externality denoting the net resource flow (i.e.
+Bt+l- B 1 ) in period t. When changes in resource abundance levels are
+positive, we have a positive externality and the resulting net resource flow,
+Z 1 is treated as an output, thus contributing positively to the aggregate
+profit; Yr is an index of crop outputs; Pyt and Pzt are the product and
+resource flow prices; G( ·) is the variable cost function for the optimal
+combination of variable inputs, where aG( ·);as < 0 and aG( ·);az > 0;
+and w; is a vector of variable input prices; t is the time trend representing
+the state of technical knowledge.
+When the production process is depleting the resource at a rate faster
+than that required for sustainability, net changes in resource abundance
+levels are negative (i.e. Bt+l -B1 = -Z1 ). Thus, we have a negative externality and Z 1 is treated as a cost, contributing negatively to the aggregate
+
+SUSTAINABILITY AND ECONOMIC VIABILITY OF TROPICAL FARMING SYSTEMS
+
+285
+
+profit. This requires modification of the objective function (1) by replacing
+the ( +) sign before Pz 1 Z 1 with a (-)sign, and in this case, aG( ·);az < 0.
+Using the first order conditions of (1), development of the continuous
+time Divisia index by method of the growth accounting approach (see the
+Appendix) gives:
+
+-a Ln c;at= [PyY/C]Y+ [PzZ)!C]i- L:[(UJXj);c]xj-B
+
+(2)
+
+j
+
+where C = Lj U]Xj = PYY + PzZ is the total revenue, assuming constant
+returns to scale. Dots on variables imply the logarithm derivation of the
+associated variable with time. When changes in the resource stock are
+negative, the productivity index becomes:
+
+-a Ln c;at= [Py/C]Y- [(PzZ)/C]i- L:[(UJXjC)]xj-B
+
+(3)
+
+j
+
+where C = L:j U]Xj + PzZ = PYY, assuming constant returns to scale.
+Equations (2) and (3) indicate that TFP is measured as the residual after
+the growth rate of output has been allocated among changes in inputs and
+resource abundance and flows. The basic difference between (2) and (3) is
+that in the former case the change in resource stock is assumed positive
+and the resulting flow is treated as a benefit. In the latter case, the change
+in resource stock is assumed to be negative and the resulting flow is treated
+as a cost.
+It is clear from (2) and (3) that productivity measures are biased unless
+variations in the resource stock abundance levels and resource flows are
+accounted for. Note that although it is not a choice variable, B 1 is part of
+the solution because it appears in the variable cost function, G.
+4. INTERTEMPORAL AND INTERSPATIAL TFP MEASURES
+
+Having specified a generalized model of TFP, we now proceed to
+develop intertemporal and interspatial TFP measures. Assume that the
+agricultural production process of cropping system i in period t can be
+represented by the dual variable cost function:
+
+(4)
+where Git is the cost of production, w; 1 is a vector of input prices; ¥; 1 is
+crop output; Zit is the change in resource stock levels; Bit is the resource
+stock abundance level; and ~ and Di denote the intertemporal and
+interspatial efficiency difference indicators. Derivation of the intertemporal
+and interspatial TFP indices depends critically on the proper specification
+
+286
+
+S.K. EHUI AND D.S.C. SPENCER
+
+of the total cost function cil' which in turn depends on the nature of zil'
+i.e. whether the change in resource stock is positive or negative. We
+therefore consider two cases:
+Case 1: Net positive change in resource stock. Assuming constant returns to
+scale and competitive factor markets, application of Diewert's (1976)
+quadratic lemma to a logarithmic approximation of (4) gives:
+
+Ll Ln C =
+
+HRyis + Ryot][Ln Yis- Ln Yot] + H Rzis + Rzot]
+X
+
+t L [skis+ skot] [Ln wkis- Ln wkot]
+
+[Ln zis- Ln zot] +
+
+k
+
+- [Ln Bis- Ln Bot] + E)io + f.Lst
+(5)
+where i and o represent two distinct farming (or land use) systems, and s
+and t represent two distinct time periods. skis and skot are the kth input
+factor cost shares; R yis and R yot are the revenue shares for product Y; and
+Rzis and Rzot are (implicit) revenue shares for resource flow Z. E>io and f.Lst
+denote the interspatial and intertemporal effect and are defined as:
+1 [ a Ln G I
+aD D~Di +
+
+E>io =
+
+2
+
+f.Lst =
+
+2
+
+1 [ a Ln G
+aT
+
+I
+
+T~T, +
+
+a Ln
+
+aD
+
+a Ln
+
+aT
+
+G
+
+G
+
+I
+
+l
+l
+
+D~Do [Di-Do]
+
+(6)
+
+T~T, [~- Tt]
+
+(7)
+
+I
+
+Equation (5) states that the cost difference across cropping systems and
+time periods can be broken into six terms including: (1) an output effect,
+(2) a resource flow effect, (3) an input price effect, (4) a resource stock
+effect, (5) an interspatial effect, and (6) an intertemporal effect.
+Following Denny and Fuss (1983), to measure the intertemporal TFP
+(thus sustainability) of a particular technology, we set Di = D0 = 0. Solving
+for f.Lts in (5) yields the dual measure of intertemporal productivity for two
+periods s and t:
+
+HRys + Ryt][Ln ~- Ln ~] - H Rzs + Rzt]
+X [Ln zs- Ln Zt]- t L [Sks + skt] [Ln wks- Ln wks]
+
+f.Lts = [Ln Gs- Ln Gt] -
+
+k
+
+(8)
+Similarly, the dual measure of interspatial productivity between system
+and reference System o at a particular point in time (Ts = Tt = 0) is:
+f)io = [Ln Gi- Ln G 0 ]
+X
+
+-
+
+HRyi + Ryo][Ln Yi- Ln Y
+
+[Ln zi- Ln Zo] -
+
+0 ]-
+
+HRzi + Rzo]
+
+t L [ski+ sko] [Ln wki- Ln wko]
+k
+
+(9)
+
+SUSTAINABILITY AND ECONOMIC VIABILITY OF TROPICAL FARMING SYSTEMS
+
+287
+
+Now turn to the primal space. Totally differentiating the log of the cost
+equations G = L; W;X;, with respect to time yields:
+(10)
+
+The Tornqvist approximation to (10) for periods sand t and systems i and o
+gives:
+,i
+
+Ln G = [Ln Gis- Ln Got]
+
+=
+
+t L [skis+ skot] [Ln
+
+xkis- Ln xkot]
+
+k
+
++
+
+t L [skis+ skot] [Ln wkis- Ln wkotl
+k
+
+(11)
+Equating (5) and (11) and solving for (- 1-Lst) and (- E>io) gives measures of
+intertemporal and interspatial productivity in the primal space.
+
+Tst = - 1-Lst =
+
+t[ Rys + Ry
+
+1
+
+)[Ln ~- Ln YJ + H Rzs + R 21 ][Ln Zs- Ln Z 1 ]
+
+- t L [sks + skt][Ln xks- Ln xkt] -
+
+[Ln Bs- Ln Bt],
+
+k
+
+(12)
+'Yio = -eio =
+
+HRyi +Ryo][Ln ¥;- Ln Ya] + HRzi +Rzo][Ln zi- Ln Zo]
+- t L [Ski+ sko] [Ln xki- Ln xko]- [Ln Bi- Ln Bo]
+k
+
+(13)
+Note that under our assumptions equations (12) and (13) are equal to the
+negative of the intertemporal and interspatial productivity measures that
+are obtained in the dual space (Ohta, 1974).
+
+Case 2: Net negative change in resource stock. Following the same procedure as in case 1, intertemporal and interspatial productivity measures in
+the primal space are, respectively, given by:
+
+<t = [Ln ~- Ln ¥;]- Hszs + sztl [Ln zs- Ln Zt]
+- t L [sks + skt] [Ln
+
+xks- Ln xkt] - [Ln Bs- Ln Btl
+
+(14)
+
+k
+
+Y{o = [Ln ¥;- Ln Yo] - H szi + szol [Ln zi- Ln Zo]
+
+- t L [ski+ sko][Ln xki- Ln xko][Ln Bi- Ln Bo]
+
+(15)
+
+k
+
+where szs and szt in equation (14) and szi and szo in equation (15) denote
+the (implicit) cost shares for depleted resource Z. The basic difference
+
+288
+
+S.K. EHUI AND D.S.C. SPENCER
+
+between Tst and 'Yio on one hand, and T;P y(0 , on the other hand, is that in
+the former case the net increase in resource stock is treated as an output
+(benefit) while in the latter case the decrease in the resource stock index is
+treated as a cost. Note that equations (12)-(15), which specify the DennyFuss first order accounting equation, are easily computed using only price
+and quantity data, thus eliminating the need for estimating an underlying
+cost or production structure.
+5. AN EMPIRICAL EXAMPLE
+
+This section demonstrates how the intertemporal and interspatial total
+factor productivity measures developed in equations (12)-(15) can be used
+to measure the sustainability and economic viability of tropical farming
+systems. The data set was generated during a four-year study by the United
+Nations University (UNU) and IITA on the effect of deforestation and
+land use on soil, hydrology, microclimate and productivity in the humid
+coastal belt of Nigeria (Lal and Ghuman, 1989). Four cropping systems
+denoted A, B, C, D are evaluated over a two-year period (1986-1988) for
+which there is a complete and balanced data set. In system A, land was
+cleared manually and cropped by a local farmer. Yam, melon and plantains
+were grown in 1986. In 1988, plantain, melon and cassava were grown. In
+all other systems, the land was cleared by a tractor equipped with a shear
+blade and cropped by the researchers. In system B, cassava, maize and
+cowpea were planted in 1986; only cassava was planted in 1988. In system
+C, maize and cassava were planted in 1986 and rice in 1988. All crops in
+system C were grown in alleys formed by hedgerows of nitrogen fixing trees
+or shrubs. In this system, known as alley cropping, the hedgerows were
+periodically pruned during the cropping season to prevent shading and
+reduce competition with food crops (Kang et al., 1989). In system D,
+plantain was grown during the 1986-1988 period. No fertilizer was used in
+any of the cropping systems.
+Since the cropping systems have multiple crop outputs, an implicit
+output index is calculated by dividing the total value of all output by a price
+index obtained by weighing the individual output prices by the revenue
+share of each crop. A corresponding implicit input quantity index is
+computed as the ratio of total expenditures on inputs to the weighted
+material input price. The latter is measured by an index of all material
+input prices, weighted by the cost share of each input. A quantity index for
+implements used is computed as the ratio of total annual expenditure on
+capital input and the implicit capital service price. To create an aggregate
+capital service price we share-weight the price of each category of implement in the same manner as the aggregate material price index. Capital
+
+SUSTAINABILITY AND ECONOMIC VIABILITY OF TROPICAL FARMING SYSTEMS
+
+289
+
+TABLE 1
+Intertemporal total factor productivity (sustainability) indices for four cropping systems
+under experimental conditions, in southwestern Nigeria, 1986-1988
+System
+System
+System
+System
+System
+
+a
+
+A
+B
+C
+D
+
+No correction
+Ib
+
+Resource stock
+
+Resource stock and flows
+
+II
+
+III
+
+0.20
+6.38
+0.02
+3.27
+
+0.19
+6.14
+0.01
+4.23
+
+*
+*
+*
+**
+
+0.22
+6.25
+12.23
+0.88
+
+*
+*
+*
+**
+
+Numbers with one star ( *) indicate the case of a net positive change in resource abundance,
+while those with two starts ( * *) indicate the case of a net negative change in resource
+abundance levels.
+a In system A land was cleared manually and farmed traditionally. Crop grown include yam,
+melon and plantain in 1986, and cassava in 1988. In systems B, C, and D land was cleared
+mechanically. Crops grown include cassava, maize and cowpea in 1986 and cassava only in
+1988. System C is an agroforestry system where crops are grown in alleys formed by trees
+and shrubs. Maize and cassava were grown in 1986 while only rice was grown in 1988. In
+system D, plantain was the only crop grown.
+b In column I there is no correction in soil resource stock and flows in Column II only
+resource stock use is corrected for. Column III allows for both the resource stock and flows.
+
+input expenditures are defined as the sum of the annual user costs of the
+implements. These are calculated using the capital recovery factor formula,
+A= PV[r j{1- (1 + r )- 1}], where A is the annualized cost of capital item;
+PV is the present value of the capital item defined as the purchase price
+less the present worth of its future salvage value; t is the estimated lifespan
+of the capital item; and r is the discount rate.
+To construct the Divisia index for the soil nutrient stock, we share-weight
+the total quantities of main soil nutrients; nitrogen (N), phosphorus (P),
+and potassium (K) (in metric tons per hectare) available in the top soil
+(0-10 em). In determining the cost share for the resource stock, we
+approximated the opportunity cost of each soil nutrient with its replacement cost, i.e. market price from chemical fertilizer. Resource flows are
+derived as the difference between nutrient abundance levels for a given
+cropping system between 1986 and 1988 (intertemporal productivity) or
+between two competing cropping systems in a given year (interspatial
+productivity). Quantities of available soil N, P, and K per hectare were
+computed using a standard bulk density level of 1.21 gjcm 3 (Lal and
+Ghuman, 1989).
+Intertemporal and interspatial productivity indices for the four cropping
+systems were calculated and are reported in Tables 1 and 2. In column I,
+there is no adjustment for changes in resource stock abundance levels and
+
+290
+
+S.K. EHUI AND D.S.C. SPENCER
+
+TABLE 2
+Interspatial total factor productivity (economic viability) indices for four cropping systems
+under experimental conditions in southern Nigeria, during 1986 and 1988
+Systems
+
+System A
+System B
+System C
+System D
+
+1988
+
+1986
+No
+correction
+
+Resource
+stock only
+
+Resource
+stock and
+flows
+
+No
+correction
+
+Resource
+stock only
+
+Resource
+stock and
+flows
+
+I
+
+II
+
+III
+
+I
+
+II
+
+III
+
+1
+1.73
+5.37
+0.06
+
+1
+2.02 **
+6.68 **
+0.18 *
+
+1
+0.73 * *
+0.76 * *
+2.40 *
+
+1
+68.50
+0.37
+1.04
+
+1
+81.34 * *
+0.36 *
+1.31 * *
+
+1
+9.26 * *
+1.12 *
+0.14 **
+
+Refer to footnotes in Table 1 for details on the various systems, the interpretation meaning
+of the columns as well as the stars (* and * * ).
+
+flows. Column II provides productivity measures allowing for variations in
+the resource stock only. In column III, full correction is made by accounting for both changes in the resource stock level and the flows.
+From column III in Table 1, total factor productivity increased for
+systems B and C and declined for systems A and D. Systems B and C
+produced 6.25 and 11.58 times as much output in 1988 as in 1986 using the
+1986 input bundle. Therefore, systems B and C can therefore be said to be
+sustainable over the two year interval since after properly accounting for
+temporal differences in input quality and quantity and resource flows and
+stocks, they produced more than in the reference year (1986). Systems A
+and D produced only 0.22 and 0.88 as much output in 1988 as in 1986 using
+the 1986 input bundle. Thus, A and D can be said to be non-sustainable.
+Note from Table 1 that completely accounting for changes in resource
+abundance levels and flows substantially alters the productivity measures.
+This is particularly true for system C, where the hedgerows trees fix
+atmospheric nitrogen and recycle nutrients, and system D, where the
+plantains heavily depleted the soil of its nutrients. Note that in system C, if
+we do not account for the nitrogen contribution of the trees, the intertemporal productivity index is lower than unity (column 1), leading to the
+erroneous conclusion that the system is not sustainable. Soil nutrients
+increased by 31%, representing nearly 30% of the net revenue in 1988.
+This is important to the value of output which explains the high intertemporal productivity index number in system C.
+Similarly, if we do not account for the depleted resources in system D,
+the erroneous conclusion would be reached that the system is sustainable.
+Similar erroneous conclusions are reached when only changes in resource
+abundance levels are accounted for and flows are ignored (column II). The
+
+SUSTAINABILITY AND ECONOMIC VIABILITY OF TROPICAL FARMING SYSTEMS
+
+291
+
+stock of soil nutrients in this system decreased by 23%, representing about
+8% of the total cost of production. Systems A and B are relatively stable
+because although soil nutrients increased, they represent only 0.7 and 0.1%
+of the total revenue in each system. Results in Table 1 confirm that unless
+variations in the resource flows and stock are fully accounted for, TFP
+results will be biased. The bias depends on the magnitude of resource flow
+and stock. While an increased (reduced) resource stock level serves to
+reduce (increase) the productivity growth rate (column II), the associated
+change in the resource flow has the opposite effect (column III). A positive
+change in the resource stock level is a benefit to the farmer and thus
+contributes to improving the sustainability of the system. When the change
+in the resource stock is negative, the farmer faces a cost (though it is
+hidden) which negatively affects the system's sustainability.
+In Table 2, we compare the economic viability of cropping systems B, C,
+and D relative to A. In 1986 after accounting for changes in resource
+abundance and flows, systems B and C are shown to be relatively less
+productive than the reference base system. The interspatial TFP indices
+are estimated to be 0.73 and 0.76 for systems B and C, respectively,
+indicating that these systems use relatively more resources and produce a
+comparatively lower output than system A. Only system D (in which only
+plantain was grown) is more productive. In 1988, productivity indices for all
+the systems show a different pattern. With interspatial TFP indices of 9.26
+and 1.12, systems B and C are now found to be more economically viable
+than system A. Similarly, with a TFP index of 0.14, system Dis found to be
+less economically viable than the reference base system. The changes in
+productivity measures in 1988 compared to 1986 are attributable to the
+changes in soil nutrient status over the two-year period. For example, in
+system C (where crops are grown in association with leguminous trees), soil
+nutrients increased by 2.3% in 1988 compared to system A, with a revenue
+share of about 6 percent. In system D, where only plantain is grown,
+chemical fertility was depleted over time. This is reflected in the lower 1988
+productivity measure. In system D, soil nutrients decreased by 21% in this
+system compared to system A representing about 7% of the full cost faced
+by the farmer in 1988. Soil nutrients decreased by 16% for system Bin 1988
+representing about 10 percent of the total cost. As shown in Table 1, when
+variations in resource stock levels and the flows are not accounted for,
+productivity measures are biased. The biases depend on the magnitude of
+changes in resource stock levels.
+6. CONCLUDING COMMENTS
+
+New technologies must be developed in SSA which are sustainable and
+economically viable. However, there is little guidance in the literature as to
+
+292
+
+S.K. EHUI AND D.S.C. SPENCER
+
+what methods are to be used for measuring the sustainability and economic
+viability of a production system. In this paper, a model for measuring
+economic viability and agricultural sustainability is developed. The approach is based on the concept of total factor productivity and the growth
+accounting procedure which accounts for the unpriced contribution on
+natural resource stock and flows. To measure 'economic viability' and
+'sustainability', we advocate the interspatial and intertemporal TFP measures of Denny and Fuss (1983).
+Interspatial TFP measures the economic viability of one system relative
+to another at a given period (e.g. crop season), and it is technically defined
+as the logarithm difference in the indices of the value of outputs of the two
+production systems minus the logarithm difference in the indices of the
+value of their inputs, including both conventional inputs and outputs and
+the unpriced contribution of natural resource stock and flows. Thus, system
+X is said to be economically more viable than system Y if, after fully
+accounting for spatial differences in inputs as well as natural resource stocks
+and flow, X produces more output than Y.
+Similarly, intertemporal TFP, which measures the sustainability of a
+given farming system, is defined as the rate of change of an index of
+outputs divided by an index of inputs, including both conventional inputs
+and outputs and the unpriced contribution of natural resource stock and
+flows. A production system will be said to be sustainable over time, if after
+fully accounting for temporal differences in factor inputs and natural resource
+stocks and flows, it produces, at least the same amount of output as
+previously. Intertemporal and interspatial TFP measures can be computed
+using the growth accounting method and economic index numbers, thus
+eliminating the need for econometric estimations.
+In order to account for the unpriced contribution of resource stock and
+flows, a generalized model for measurement of TFP was developed. The
+resource stock was specified as a technological constraint rather than as a
+conventional input as in the neoclassical sense. In addition, the contribution of crop outputs and resource flows (both addition and depletion) were
+separately accounted for. We show that TFP is measured as the residual
+growth after the rate of growth of output has been allocated among
+changes in inputs, resource abundance and flows. We show in particular
+that when resource stock and flows are utilized (as is always the case in
+agriculture) productivity measures using conventional approaches are biased unless changes in resource abundance levels and flows are accounted
+for.
+Using a data set available at the International Institute of Tropical
+Agriculture, the intertemporal and interspatial total factor productivity
+indices for four cropping systems in south-western Nigeria were computed.
+
+SUSTAINABILITY AND ECONOMIC VIABILITY OF TROPICAL FARMING SYSTEMS
+
+293
+
+Results showed that the sustainability and economic viability measures are
+sensitive to changes in the stock and flows of soil nutrients as well as to
+changes in material input uses and outputs. Where the contribution of
+natural resource stock and flows are important, such as in the case of
+alley-cropping system, the measures provide markedly different results
+from conventional TFP approaches.
+The example used in this study illustrates the effect of changes in soil
+nutrient status. However, the relevant time frame for sustainability measurement must be longer than the two years used in this study. The
+appropriate time frame must be determined by experimentation and depends on the attributes of the system being evaluated. It is a strength of the
+generalized TFP measures proposed here that they can handle short-term
+as well as long-term changes on natural resource stocks.
+Furthermore, only changes in soil nutrient status have been considered.
+However, other environmental factors e.g. soil compaction, pest infestation,
+water quality, erosion etc. can also be evaluated. To incorporate these
+factors in the sustainability measures requires that the relationship between their stocks and flows and the yield of crops or livestock be
+determined. With these relationships, prices can be inputed to the inputs
+and outputs and the necessary intertemporal and interspatial TFP computed. The challenge facing researchers is to establish the coefficients for
+the biological, physical and chemical processes that affect the long-term
+performance of agricultural systems and to determine the necessary minimum data set for monitoring these changes.
+ACKNOWLEDGEMENT
+
+The authors wish to thank D. Squires, B.T. Kang, J. Pleysier, and S.
+Hauser for their invaluable technical contributions to the paper. They are
+also grateful to R. Lal and B. Ghuman for the data used in the empirical
+example. Tom Hertel, Phil Abbott, A-M. Izac, J. Smith, R. Polson and K.
+Dvorak and two anonymous reviewers have helped improve the exposition
+of this paper considerably.
+APPENDIX
+
+Constant returns to scale assumption implies that:
+
+[a
+
+Ln G ;a Ln Y] +
+
+[a Ln G ;a Ln
+
+Z]
+
+=
+
+1
+
+(Al)
+
+Using result of the first order conditions of (1), (Al) can be re-expressed
+as:
+
+PY+PZ=G=C
+y
+z
+
+(A2)
+
+294
+
+S.K. EHUI AND D.S.C. SPENCER
+
+Totally differentiating the log of total cost C with respect to
+
+t
+
+yields:
+
+c = [ac;at + Gy(dYjdt) + G (dZ/dt)
+2
+
++ 7Gwj(dUjjdt) + GB(dBjdt)];c
+
+(A3)
+
+The divisia index of productivity is obtained by deriving
+total cost, C = Lj UJXj, i.e.
+
+C=
+
+[
+
+C directly from
+
+7UJXlif + 7UJXjXj ];c
+
+(A4)
+
+Equating (A3) and (A4) and solving for - [aG ;at ]/C gives (after rearranging):
+
+-[ac;at]/C= [GyY/C]Y+ [GzZ/C]Z- E(UJXj/C)Xj+ [GBBIC]B
+j
+
+(AS)
+Using the first order conditions result of (1), (AS) can be reexpressed as:
+
+-a Ln c;at= [PyY/C]Y+ [PzZ/C]i- E(UJXjjC)Xj-B
+
+(A6)
+
+j
+
+where for the open access situation, CB = GB and GiB/C) = 1 for a
+Schaefer type of technology (see Squires, 1991).
+In the case that changes in resource abundance levels are negative,
+constant returns to scale assumption implies that:
+
+(A7)
+Following the same procedure as above, the Divisia index of total factor
+productivity is given by:
+
+-a Ln c;at = [ PyY/C]Y- [PzZ!C]i-
+
+E (UJXjC)Xj- B
+
+(AS)
+
+j
+
+REFERENCES
+Anonymous, 1989. Decision reached on sustainable agriculture. Agronomy News, January,
+p. 15.
+Barbier, E., Markandya, A. and Pearce, D., 1990. Sustainable agricultural development and
+project appraisal. Eur. Rev. Agric. Econ., 17: 181-196.
+BIFAD (Board for International Food and Agricultural Development), 1988. Environment
+and natural resources: Strategies for sustainable agriculture. Task force report, U.S.
+Agency for International Development, Washington, DC.
+Capalbo, S.M. and Antle, J.M., (Editors), 1988. Agricultural Productivity Measurement and
+Explanation. Resource for the Future, Washington, DC.
+
+SUSTAINABILITY AND ECONOMIC VIABILITY OF TROPICAL FARMING SYSTEMS
+
+295
+
+CGIAR (Consultative Group on International Agricultural Research), 1989a. Sustainability
+research in the CGIAR- its status and future. Doc. MT /85-114. Agenda Item 5, World
+Bank, Washington, DC.
+CGIAR (Consultative Group on International Agricultural Research, 1989b. Sustainable
+agricultural production: implications for international agricultural research. FAO Res.
+Techno!. Paper 4, Rome.
+CGIAR (Consultative Group on International Agricultural Research), 1991. CGIAR Annu.
+Rep. 1990, CGIAR Secretariat, World Bank, Washington, DC.
+Ciriacy-Wantrup, S.V., 1968. Resource Conservations Economics and Policies, 3rd edition
+(1952, 1st edition). Division of Agricultural Sciences, University of California, Berkeley,
+CA.
+Conway, G.R., 1985. Agroecosystem analysis. Agric. Admin., 20: 31-55.
+Denny, M. and Fuss, M., 1983. A general approach for intertemporal and interspatial
+productivity comparisons. J. Econometrics, 23: 315-330.
+Diewert, W.E., 1976. Exact and superlative index numbers. J. Econometrics, 4: 115-145.
+Dumanski, J., 1987. Evaluating the sustainability of agricultural systems In: Africaland Land Development and Management of Acid soils in Africa, II. IBSRAM Proc. 7,
+International Board for Soil Research and Management, Bangkok, Thailand.
+Ehui, S.K. and Hertel, T.W., 1989. Deforestation and agricultural productivity in the Cote
+d'Ivoire. Am. J. Agric. Econ., 71: 703-711.
+Ehui, S.K. and Hertel, T.W., 1992. Testing the impact of deforestation on aggregate
+agricultural productivity. Agric. Ecosyst. Environ., 38: 205-218.
+Ehui, S.K., Hertel, T.W. and Preckel, P.V., 1990. Forest resource depletion, soil dynamics
+and agricultural productivity in the tropics. J. Environ. Econ. Manage., 18: 136-154.
+El-Ashry, M.T. and Ram, B., 1987. Sustaining Africa's natural resources. J. Soil Water
+Conserv., 42: 224-227.
+IBRD (International Bank for Reconstruction and Development), 1989. Sub-Saharan Africa:
+from crisis to sustainable growth, a long-term perspective study. World Bank, Washington, DC.
+IITA (International Institute of Tropical Agriculture), 1989. IITA Annu. Rep. 1988/89,
+Ibadan, Nigeria.
+Kang, B.T., Van der Kruijs, A.C.B.M. and Couper, D.C., 1989. Alley cropping for food
+production in the humid and subhumid tropics. In: B.T. Kang and L. Reynolds (Editors),
+Alley Farming in the Humid and Subhumid Tropics. Proc. International Workshop,
+10-14 March 1986, IITA, Ibadan, Nigeria. IDRC, Ottawa, Ont., Canada.
+La!, R., 1987. Managing the soils of sub-Saharan Africa, Science, 236: 1069-1076.
+La!, R. and Ghuman, B.S., 1989. Effects of deforestation and land use on soil, hydrology,
+microclimate and productivity in the humid tropics. Final report (January 1984-June
+1989) of a Joint IITAjUNU /Ohio State University Project on Climatic, Biotic and
+Human interactions in the Humid Tropics. IITA, Ibadan, Nigeria.
+Lynam, J.K., and Herdt, R.W., 1989. Sense and sustainability: sustainability as an objective
+in international agricultural research. Agric. Econ., 3: 381-398.
+Matlon, P.J. and Spencer, D.S.C., 1984. Increasing food production in sub-Saharan Africa:
+environmental problems and inadequate problems and inadequate technological solutions. Am. J. Agric. Econ., 66: 671-676.
+Ohta, N., 1974. A note on the duality between production and cost functions: rate of return
+to scale and rate of technical progress. Econ. Stud. Q., 25: 63-65.
+Pearce, D., Barbier, E. and Markandya, A., 1990. Sustainable Development. Elgar, Aldershot, UK.
+
+296
+
+S.K. EHUI AND D.S.C. SPENCER
+
+Sanchez, P.A., 1976. Properties and Management of Soil in the Tropics. Wiley, New York.
+Squires, D.E., 1991. Productivity measurement in common property resource industries: an
+application to the pacific coast trawal fisheries. National Marine Fisheries Service,
+Southwest Fisheries Service Center, La Jolla, CA.
+Young, A., 1989. Agroforestry for soil conservation. International Council for Research in a
+Groforestry, CAB International, Wallingford, Oxon, UK.
+
+

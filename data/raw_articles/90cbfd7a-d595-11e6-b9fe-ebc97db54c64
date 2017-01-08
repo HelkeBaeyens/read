@@ -1,0 +1,2597 @@
+Causes of Rural Economic Development
+by
+
+Bruce Gardner
+WP 03-09
+
+Department of Agricultural and Resource Economics
+The University of Maryland, College Park
+
+CAUSES OF RURAL ECONOMIC DEVELOPMENT
+
+Bruce Gardner
+Department of Agricultural and Resource Economics
+2200 Symons Hall
+University of Maryland
+College Park, MD 20742-5535
+bgardner@arec.umd.edu
+
+Abstract
+This paper investigates the sources of growth in agricultural value-added (GDP) and rural
+household incomes using a sample of developing countries. The main factors are: (i)
+providing macroeconomic and political stability; (ii) institutions establishing property rights
+and incentives; (iii) access to competitive input markets and remunerative output markets;
+and (iv) adoption of productivity-enhancing technology, and (v) real income growth in the
+non-agricultural economy. The evidence indicates a surprisingly large role of the fifth of
+these.
+
+Working Paper 03-09
+Copyright © 2003 by Bruce L. Gardner.
+All rights reserved. Readers may make verbatim copies of this document for non-commercial purposes by any means,
+provided that this copyright notice appears on all such copies.
+
+Causes of Rural Economic Development*
+Bruce L. Gardner
+University of Maryland
+We can be most helpful in locating the bottlenecks and constraints to
+growth and suggest means to their alleviation. In this, we sometimes
+have to operate at the frontier of professional knowledge, and often
+against the common wisdom of governments, but this is where the
+progress is to be made. (Mundlak, 1999, p. 46)
+Introduction
+My aim is to follow Yair Mundlak’s recommendation in concluding his Elmhirst Lecture
+to identify sources of and constraints upon economic growth in agriculture. I come to the
+subject not as a long-time researcher on international agricultural development, but rather
+to follow up studies of the development of U.S. agriculture. The story of U.S. agriculture
+led me, as many before, to consider possible lessons for countries where sustained growth
+in the real incomes of rural people has not yet occurred. Moreover, my U.S. research led
+into questions of how the relatively poorest farm people have fared in the growth process
+(Gardner, 2000), a topic which fits well with the emphasis of President von Braun’s
+address.
+I begin by revisiting some issues in agricultural development economics and data
+measurement. In the second major section, empirical evidence is reviewed on the growth
+of agriculture as an industry. The third section turns to welfare consequences of
+agricultural growth as measured by real household incomes. The final section attempts to
+summarize our knowledge of the causes of sector growth and real income growth.
+Models of Growth
+Since World War II, a huge literature has emerged on economic growth with special
+attention to agriculture. Since that time most of the poor countries of the world have
+become less poor, and agriculture in practically all of them has become more productive
+(in terms of output per worker, output per acre, or multifactor productivity growth). But
+the success has varied widely from country to country, from one time period to another,
+and across regions within countries. How well does the accumulated literature enable us
+to understand these variations, and what might have been done improve the performance
+of the worst-performing countries? The central analytical task is to identify the causes of
+growth.
+
+*
+
+Elmhirst Lecture at the 25th Conference of the International Association of Agricultural Economists,
+August 17, 2003, Durban, South Africa. For their comments on earlier drafts and in discussions of this
+topic I would like to thank, without implicating, Julian Alston, Chris Barrett, Uma Lele, Erik Lichtenberg,
+Marc Nerlove, Isabelle Tsakok, Alberto Valdés, and Joachim von Braun.
+
+2
+One might have expected the most helpful writings to be those which cover the
+complexity and range of the societies being studied, and thus finding a multiplicity of
+causes, each having different weights in different countries and at different times. But to
+date no such comprehensive approach has proven fruitful. Instead, economists’
+contributions have typically proceeded by over-simplification, either by a model fixing
+on only a few key causal factors, which are taken to be applicable over a range of
+countries and circumstances, or by focusing on a single country and dissecting events
+through analytical description (as opposed to econometric hypothesis testing).
+Many of the key conceptual contributions can be classified according to two polarities of
+approach: microeconomic versus macroeconomic, and theoretical versus empirical. No
+economist is purely in any of the four camps that these polarities generate – microtheoretical, micro-empirical, macro-theoretical, and macro-empirical. But many have
+emphases that place their main contributions in one or another area. The macrotheoretical approach got a big initial boost in the 1950s from growth models treating
+output in the economy as generated by a neoclassical production function, with capital as
+an input created by savings. Agriculture as a sector in a general equilibrium context was
+treated in two-sector models that in both comparative static versions (notably Simon
+1947) and the many dual economy models that followed.1
+Macro-empirical contributions until recent years have had a case-study flavor,
+accumulating analytical description without a formal model. Mancur Olson (1982) is a
+good example. More recently the creation of panel data covering countries over time has
+made possible econometric macro-empirical research, e.g., Barro and Sala-i-Martin
+(1995). This literature has austere but fruitful theoretical underpinnings, leading to ideas
+of “convergence” that have not yet been exploited sufficiently in investigating
+agricultural growth. An outstanding example of the micro-empirical approach is T.W.
+Schultz (1964). Many recent papers on household behavior in poor countries are heavier
+on micro-theory. But in Schultz and, for example Singh, Squire, and Strauss (1986),
+there is an intimate integration of theory and empirical observation.2
+All the approaches have generated hypotheses about causes of growth that will be
+discussed below in the context of rural economic development.
+Measures of Growth
+One of the services of models is to provide a conceptual basis for our choices of variables
+to measure in quantitative terms and test econometrically. Agricultural output growth is a
+measure that arises naturally from estimation of a production function. But output can
+grow for reasons that provide little or no support for a rising standard of living – for
+1
+
+“Comparative static” models investigate economic change through one-time shocks in exogenous
+variables, as opposed to dynamic models that investigate time paths of investment or other growthgenerating endogenous variables.
+2
+Of course, many economists’ works don’t fall so easily into any of these categories. Hayami and Ruttan
+(1985), Mundlak (1999), and Timmer (2002), for example, draw on all the approaches.
+
+3
+example output could rise under population pressure simply as a result of a larger farm
+labor force or clearing of additional land. For many purposes a better indicator of growth
+is agricultural GDP (value added) per worker – what the sector generates for each
+productively engaged person over and above the cost of inputs from outside of
+agriculture. Agricultural GDP per worker readily translates to a potential living-standard
+measure, namely real income per household. With respect to causes of growth,
+underlying production theory says that either output or value added per worker can grow
+for the same two principal reasons: investment (including investment in human capital)
+and technological progress. The question then becomes why investment and
+technological progress occur, or fail to.
+Matters get more interesting analytically as well as better attuned to actual situations
+when the link between agricultural value added and rural household incomes is broken.
+Farms produce non-agricultural products and farm household members earn incomes
+from nonfarm sources. Then the causes of growth may well be different for agricultural
+growth and rural income growth. Nonetheless, a flourishing agricultural sector can still
+be important instrumentally as a means of achieving rural income growth. One of the key
+empirical questions about economic growth in rural areas is how crucial agricultural
+sector growth is in the process.
+While measures of both agricultural sector growth and rural income growth are spotty in
+availability and questionable in quality, some useful indicators exist for many countries
+over a substantial period of time. A promising way to learn about causes of growth is to
+compare the record of such indicators across countries as associated with variables
+hypothesized to be causes of growth. In order to carry out such comparisons
+meaningfully, uniformly constructed cross-country data are needed. The massive
+undertaking of constructing such a data set for agriculture has been taken on principally
+by the Food and Agriculture Organization of the United Nations (FAO). The World
+Bank’s World Development Indicators (available on-line) combines the FAO data with
+other sectoral and macroeconomic information for the years 1961-2001. These data are
+the main source of statistical information in this paper. Measures of agricultural sector
+growth include cereal yields, crop and livestock output indexes, and agriculture’s
+contribution to GDP (sectoral value added).
+Agricultural Sector Growth
+“Getting agriculture moving” is a slogan that encapsulates the problem as it has appeared
+to agricultural economists early in the post-World War II period as population pressures
+were seen as requiring faster expansion of food production than looked likely to occur in
+many low-income countries, where traditional agriculture is the rule. Traditional
+agriculture is characterized by poverty or subsistence-level living standards, with famine
+an ever-present threat, and hope of transformation to a higher standard of living for the
+rural population as a whole remote. What has to happen for a country’s agriculture to
+break out of that situation? In the early 1960s, T.W. Schultz formulated his answer,
+beginning with what is NOT likely to work: improved efficiency within existing resource
+and technological constraints is not the answer, nor is investing more, given those
+
+4
+constraints. Clearing more land is an investment that tends to be too costly for the returns
+to generate sustained growth and “additional irrigation is on approximately the same
+footing as land” (Schultz, 1965, p. 45). The high-payoff sources of growth are to be
+found elsewhere, notably in “improvements in the quality of agricultural inputs,”
+virtually all of which must come from outside of agriculture rather than being generated
+within it (p. 46). Here Schultz has in mind not only fertilizer, tractors, and improved crop
+genetics, but also schooling and other means to improve the skills of farm people.3
+The thinking of all who take an interest in agricultural development has to be influenced
+by the high returns to agricultural research in many countries, notably in the “Green
+Revolution.” We have inspiring cases where agriculture has flourished as a result. What
+is the evidence of success from these developments? Three indicators are: cereal yields,
+multifactor productivity, and agricultural GDP per worker.4 Acceleration in yield is an
+indicator that a technology/investment shock is generating streams of output from given
+land inputs; but it is partial in that yield increases themselves do not imply improved
+economic returns because the land-augmenting inputs may cost too much. Multifactor
+productivity takes into account all the measured inputs and so is conceptually a far better
+indicator of what a country obtains from a given set of resources committed to
+agriculture. But despite recent progress, obtaining accurate cross-country comparisons of
+many inputs and hence of multifactor productivity over time remains a major problem;
+and anyway multifactor productivity is not a sufficient indicator of the returns to farmorigin land, labor, and invested capital that constitute the basis for farm household
+income growth (because, for example, product buyers may reap the bulk of productivity
+gains through lower product prices). Agricultural GDP subtracts out the costs of
+purchased inputs from outside agriculture, and indicates the net gains available for
+purposes of improved incomes of farm people. But the data are sparser and require oftendubious assumptions (for example in estimating capital service flows) for multifactor
+productivity and agricultural GDP.
+Cereal Yields
+Table 1 provides data on growth rates of cereal yields (kilograms per hectare) for 85
+countries during two time periods, 1961-80 and 1981-2001.5 The two periods are
+referred to as “Early Green Revolution” and “Late Green Revolution” by Evenson and
+Gollin (2003). The yield data are instructive in showing that progress indeed has
+occurred worldwide. Yields increased during 1961-2001 in all but 9 of the 85 countries
+covered; 8 of these were in Sub-Saharan Africa (Angola, Botswana, Chad, Congo,
+3
+
+But education is expected to be productive by improving the basic skills of people, not by changing their
+outlook to be less traditional or via other cultural changes. Indeed, Timmer attributes to Schultz “the
+demise in the late 1960s of community-action programs,” which focused on cultural/institutional
+transformation (Timmer, 2002, p. 1516).
+4
+For purposes of evaluating investments in research that generate technological change, a more appropriate
+bottom line is the rate of return to that investment. It is estimates of these rates being extraordinarily high
+that have sealed the case for the benefits of international agricultural research. (See Alston et al., 2000 and
+Evenson 2001 for comprehensive reviews.)
+5
+The rates are calculated from linear trend regressions on the log of yield (so as not to be unduly influenced
+by the end-points of the periods chosen).
+
+5
+Mozambique, Rwanda, Sierra Leone, Sudan). The sub-periods show a slowdown in yield
+growth in recent years, a phenomenon that some have viewed with alarm (see for
+example, International Fund for Agricultural Development, 2001, Ch. 4). However, the
+slowdown is not huge, and does not occur in many countries. Yields in 15 of the 31 SubSaharan African countries of Table 1, and in 10 of 18 Latin American ones, grew faster in
+1981-2001 than in 1961-80. The countries that fit best the notion of yield slowdown
+were the industrial country (OECD) group.6
+Table 1 ranks countries within each regional group by the rate of yield growth in 196181. It is notable that countries with the highest yield growth in 1961-81 are typically
+observed to have slower yield growth in 1981-2001, while the departures from this
+generalization tended to be countries with lower growth rates in 1961-80. However, the
+correlation coefficient between the growth rates in the earlier and later periods is only
+-.06, not statistically significant, for the whole sample of 85 countries. Figure 1 shows
+the time series of yield growth for countries that had particularly high or low rates in
+1961-80. China and India are examples where yields grew at a high rate and then
+continued to do so; while yields in Belize and Swaziland grew at a high rate and then
+stagnated. In Angola and Mozambique yields declined sharply and then rebounded.
+There are no cases where yields declined at a high rate and then continued to decline. The
+closest approximation is Haiti where a 0.4 percent rate of yield decline in 1961-81 was
+followed by a 0.7 percent rate of decline in 1980-2001.
+Figure 1 indicates a substantial divergence of yields over time. This is partly a matter of
+the small sample selected, but a figure that includes all the 85 countries covered (not
+shown) also exhibits divergence of yields over time. This divergence of yields across
+countries is a surprise from the viewpoint that underlies a lot of recent work in the theory
+of economic growth. The basic idea is that any economy’s output is generated by
+technology and economic actors following neoclassical principles. The application to
+crop yields is that with the same technology available everywhere, countries with lower
+yields will have a higher marginal return to additional inputs under neoclassical
+production. Therefore use of such inputs is expected to increase at a higher rate in loweryield countries and to increase their yields faster than those of initially high-yield
+countries. So stated, this idea is unattractive for the historical evolution of most of world
+agriculture because of differences in climate and other natural resources and because the
+same technology is not in use everywhere.
+6
+
+The World Bank (2002) states that “the yield growth experienced since the 1970s has slowed sharply in
+the 1990s due to diminishing returns to further input use, the rising cost of expanding irrigation, a
+slowdown in investment in infrastructure and research (in part induced by declining commodity prices),
+and resource and environmental constraints” (p. 47). This story is generally plausible but not supported
+with evidence, and what seems most fundamentally dubious is the initial claim of a sharp slowdown in
+yield growth. Of the 31 Sub-Saharan African countries of Table 1, in 16 yields increased more rapidly in
+the 1990s as compared to the 1980s than in the 1980s compared to the 1970s; and similarly the trend rate of
+growth during the 1990s was greater than the trend rate during 1970-89 for 16 of the 31 (different
+comparisons than shown in Table 1 but with generally the same story). The 11 Asian countries in the
+sample are similarly split. But China and India, the two biggest, do conform to the idea of a yield
+slowdown in the 1990s. While these large countries dominate the worldwide picture, we have about as
+many countries where yields accelerated in the 1990s as where yields decelerated.
+
+6
+
+The issue then arises of the international transfer of technology. On this subject we do
+have plausible dating of at least one important element of the cross-country story: the
+international integration of agricultural research under the Consultative Group on
+International Agricultural Research (CGIAR) in about 1970. We can hypothesize that, if
+agricultural research is an important element of the story, we ought to see more
+convergence in years following 1970 than before. A more complex version of this story
+is what Evenson and Gollin call “broader and deeper impacts” of CGIAR research on
+more crops in more countries after the mid-1970s (2003, p. 758). Yet the yield data of
+Table 1 give no indications of yield convergence, even in the 1990s.
+Agricultural GDP per Worker
+The convergence hypothesis might be more likely to apply to real agricultural GDP per
+worker. The idea is that, at an initial point in time, countries with a lower agricultural
+GDP per worker will have a higher marginal return to capital investment under the
+classical laws of production. Therefore more investment will occur in lower-GDP
+countries and their agricultures will grow faster than those of initially high-GDP
+countries. Notwithstanding questions of accurate measurement, the FAO/World Bank
+indicator series provide a substantial, consistently constructed panel of cross-country
+comparisons over time. Table 2 shows the 1980-2001 growth rates of agricultural GDP
+per worker for the 79 countries that have sufficient data for this purpose. These rates, as
+was also the case for the cereal yield growth rates discussed above, are not calculated
+from changes between the 1980 and 2001 endpoints on the grounds that random year-toyear variation makes the calculated rate too sensitive to the choice of endpoint years (and
+for some countries the data available do not begin until after 1980 and end before 2001).
+Instead, log-linear trend regressions were estimated and the slope for each country is the
+“trend growth rate” for that country. Time series for several groups of countries are
+shown in Figures 2a to 2d. In none of these charts is convergence evident, nor is there
+convergence between groups. The African countries started lowest and grew slowest,
+and the OECD countries started highest and grew fastest. But there are substantial
+differences among the growth experiences of countries within each group and across all
+groups, and we may learn about the causes of growth by finding out which “growth
+conditioning variables” explain those differences.
+The importance of growth-conditioning variables became apparent to scholars of both
+agricultural and general economic growth as thwarted expectations of technology-led
+rural prosperity mounted. T.W. Schultz noted that while advances in technology and
+availability of capital for financing new inputs had become ever more widespread, “it has
+become increasingly evident that adoption of the research contributions and efficient
+allocation of the additional capital are being seriously thwarted by the distortion of
+agricultural incentives” (Schultz, 1978, p. vii). The World Bank (2002) summarizes a
+range of recent opinion about constraints to growth, noting the prevalence of problems
+created by micro and macro policy discrimination against agriculture, inefficient and
+uncompetitive marketing institutions, underdeveloped labor and financial markets, weak
+
+7
+political and property-right institutions, and world price-depressing policies of the OECD
+countries (p. 47).
+But which variables are the most important ones? Are there some that do not matter
+much in fact even though in principle they might have been expected to? Are there some
+conditions that are so important that, if they prevail, they are sufficient for real income
+growth? Two quite different approaches to answering such questions are prominent. The
+first is econometric, pooling data on similar variables for as many countries as possible
+and attempting to explain the differences in growth statistically through association with
+candidate causal variables. The second is qualitative and narrative, essentially the
+accumulation of case studies by scholars with wide experience in agriculture across a
+variety of countries.
+Cross-country regressions
+Theory and Convergence. An econometric approach that has immediate attraction as a
+method of explaining differences in growth rates among countries is to use time series
+regressions, pooled across countries, in which changes in candidate variables as causes of
+growth are correlated with rates of growth in real agricultural GDP per worker, or other
+variables taken as indicators of growth in agriculture. Hayami and Ruttan (1985, Chaps.
+5, 6) and Mundlak (1999, 2000, 2001) have explored in depth the use of cross-country
+production functions.7 Hayami and Ruttan explained an agricultural output index as a
+Cobb-Douglas function of inputs for 43 countries in 1960, 1970, and 1980, and used the
+results to account for growth in output per worker. They found that output per worker in
+less-developed countries could effectively be increased by input increases along with
+education and research, and viewed the findings as “essentially encouraging” because
+they showed the possibility of progress even in the face of population pressure with
+limited agricultural land availability (p. 157).
+Mundlak worked with improved data, especially for capital and investment, increased the
+country coverage to 88, extended the data coverage to 1992, explained agricultural GDP
+rather than output, and generalized the model to incorporate incentives (prices and risk)
+and constraints from the economic and physical environment as well as the usual input
+quantities. He also used country-specific “within” as well as “between” time period
+estimators to minimize identification problems that plague cross-sectional production
+function estimates.8 Mundlak found input quantities to be important largely as expected,
+largely in line with earlier findings, and found increases in capital especially important in
+generating increased agricultural GDP. Variables over which a country can have some
+control as a matter of policy, notably agricultural prices and schooling, were estimated to
+have quite small effects (the schooling results in sharp contrast to Hayami and Ruttan).
+But, as Mundlak (2001) notes, these policy variables may influence investment and
+adoption of improved inputs, and the regressions already include the input levels. To sort
+7
+
+Other recent studies similar in approach include Fulginiti and Perrin (1993), Frisvold and Ingram (1995),
+and Craig, Pardey and Roseboom (1997). For a summary of findings from earlier such studies, see Hayami
+and Ruttan (1985), p. 149.
+8
+See Deaton (1995, pp. 1824-1827) for a succinct presentation of the problems and remedies.
+
+8
+out the full contributions of such variables as causes of growth one needs either a more
+complete structural model of input and output supply and demand, or else reduced-form
+equations in which growth is estimated as a function of exogenous or policy variables
+only.
+Attempts to test the convergence hypothesis, such as Barro and Sala-i-Martin (1995) have
+generated an essentially reduced-form approach that may be helpful. The simplest
+deterministic equation for estimating convergence is:
+(1)
+
+Gt,0 = α + β y0
+
+where Gt,0 is the rate of growth of agricultural GDP per worker between time 0 and a later
+time, t, y0 is the log of the initial level of agricultural GDP per worker, and α and β are
+parameters to be estimated. The estimate of β indicates the change in the growth rate
+resulting from a one percent higher level of y0. Analogously, other initial-year levels of
+other variables hypothesized to influence growth can be added to equation (1). What we
+give up with this simple approach is the capability to estimate the dynamics of growth –
+how changes in causal variables affect growth and its timing – and the capability to
+estimate structural parameters of production or supply relationships. However, the
+econometric problems of sorting out causal effects from trending time series, and the
+predominance of measurement errors or other random fluctuations in year-to-year
+changes, are likely to preclude estimating dynamic relationships anyway.
+Econometric objections to equation (1) have been raised.9 One is the likelihood of bias
+toward a negative value of the estimated β because initial measured levels are temporarily
+low or high just by chance, owing to measurement error or transitory single-year events.
+When this occurs we are liable to observe convergence according to equation (1) even if
+in fact no real convergence occurs. This problem is may be intractable given likely
+measurement error as well as random fluctuation in the agricultural GDP data. It means
+we cannot be confident of what is really measured by the estimated β.
+A second problem is that if variables omitted from the equation are positively
+(negatively) correlated with income growth but negatively correlated with initial income,
+the estimated β will be biased toward a negative (positive) value. Or, in the variant
+discussed by Nerlove (2002, p. 330), the initial value of income will tend to be positively
+correlated with omitted variables promoting growth, and with persistence in the growth
+process these determinants will still be operating in the period over which convergence is
+tested, thus biasing the estimated β upward, tending to reject convergence. To address
+this criticism, one can add initial-year variables for likely omitted variables to the
+equation, thus estimating “conditional” convergence. This approach is what was
+suggested above, adding additional variables hypothesized to be causes of growth. But
+some relevant variables are sure to be omitted, just because sufficient data are not
+available, so the criticism is in practice unavoidable.
+9
+
+For details, see Quah (1996) or Nerlove (2000, 2002).
+
+9
+The general form of the linear regressions to be estimated is :
+(2)
+
+Gt,0 = α + β y0 + γ X0 + δ ∆Zt,0 + ε
+
+where X0 is a vector of initial values of hypothesized causal variables that may be
+endogenous, ∆Zt,0 is a vector of rates of change between 0 and t (changes in natural logs)
+of hypothesized causal variables that change over time and are exogenous to Gt,0, ε is an
+iid error term, and γ and δ are vectors of parameters that provide estimated impacts of the
+variables on growth. The observations are of a cross section of countries (country
+subscripts on the variables and error term are suppressed).
+Explaining growth in the framework of equation (2) places the emphasis differently than
+in cross-country production function estimation. The key variables in production
+functions are input quantities and, in the dynamic context, investment in capital. But
+these are endogenous variables and not appropriate either as X0 or ∆Zt,0 variables in
+equation (2). The use of equation (2) is rather to explore quantitatively the influence of
+factors that the literature on economic development has given attention to, typically in a
+descriptive or qualitative fashion. For example, a nation’s rural infrastructure, human
+capital, market institutions, and political framework are aspects of the initial conditions
+that may be conducive or inimical to growth. Policy changes, educational improvements
+or world market changes, if they are exogenous, are examples of possible ∆Zt,0 variables.
+Selection of Explanatory Variables. Attempts to consider multiple routes to growth, and
+as a result of that consideration narrow the focus to key factors, typically take a casestudy, analytically descriptive approach for one or a few countries rather than trying to
+systematically compare many countries in a cross-country regression. Examples of
+thoughtful studies of this genre include Pearson et al. (1987), Lele (1989), and Eicher
+(1999), among many others. While such studies have country-specific objectives, they
+can be helpful in specifying cross-sectional regressions because their findings for
+particular cases suggest hypotheses that can sometimes be tested in the cross-country
+context – the main constraint being whether reasonably believable data can be found to
+embody the hypothesis.
+It is striking in such case studies that the factors that end up being the focus of interest
+typically have a public-good or governmental focus. The underlying reason is that the
+countries considered tend to be ones in which economic growth has been weak, as is the
+case in so much of developing country agriculture for most of recorded history. If a
+country is mired in stagnation and poverty, one has to look for major changes or shocks
+to the system, and governments (albeit sometimes foreign governments) are the
+instruments at hand to provide public goods such as research or remove public bads such
+as monopoly, abuse of power, or legal disorganization. Given that, one may be taken
+aback to read Mundlak’s admonition quoted at the beginning of this paper for economists
+to operate “against the common wisdom of governments.” The problem is that
+governments are often the source of the problem, or are not willing or able to undertake
+the recommended policies. After all, governments are not entities exogenous to the status
+quo that can be used to shock the economy, but are an integral part of the status quo.
+
+10
+
+Consider the following conditioning factors for agricultural GDP growth, in all of which
+government has some role: (i) providing macroeconomic and political stability; (ii)
+institutions establishing appropriate incentives; (iii) access to competitive input markets
+(including credit) and remunerative output markets; and (iv) fostering productivityenhancing new technology. Notwithstanding the earlier econometric strictures against
+confidence in obtaining unbiased coefficients or standard errors, we can look for
+evidence of effects of such growth conditioning factors by introducing variables in
+equation (2) for initial-period values of variables intended to measure them. Unless
+otherwise specified the data used come from the World Bank Development Indicators.
+(i) Stability: Annual inflation rates are used to construct an indicator of macroeconomic
+instability, the variability (standard deviation) of the rate of inflation over the 1980-2001
+period. Political stability is a more nebulous but arguably more important, especially in
+the dimension ranging from civil war to domestic peace (see for example Collier et al.,
+2003). I use a dummy variable equal to 1 for Colombia plus countries identified as
+internal war cases during 1980-2000 in Stuart, Huang, and Wang (2001).
+(ii) Incentive-friendly institutions: A regime of confiscatory taxation or regulation, or
+absence of property rights, are widely seen as deadly to economic growth. Indicators
+from O’Driscoll, Feulner, and O’Grady (2003), Transparency International (2002), and
+Freedom House (2003) are used that are intended to measure, respectively, commercial
+freedom, governmental propriety (lack of corruption), and the overall state of repression
+in a country.
+(iii) Factor quantities, typically being endogenous variables, are not the variables we
+want, but rather underlying causes of factor quantities, particularly of investment in
+capital or purchased inputs conveying new technology. Prices of specific factors in each
+country’s agriculture vary across countries but they are likewise endogenous variables,
+consequences as much as causes of agricultural growth. Product prices are often good
+candidates as causal variables especially for traded commodities (so we are essentially
+treating agricultural sector growth as a matter of estimating supply functions) but in the
+present analysis all variation in the observations is cross-sectional, so all countries are, to
+a first approximation, operating under the same set of changes in world market
+conditions. Where countries differ in product and factor market is in the role of
+subsidies, trade barriers, or other governmental interventions, often stacked against
+agriculture as cited for example by Schultz (1978) and Krueger, Schiff, and Valdes
+(1991). Unfortunately, while there have been major efforts to quantify the support
+provided to agriculture so as to permit cross-country comparisons among the OECD
+countries, we do not have such measures for most of the less-developed countries of the
+world. I use estimates of a country’s producer subsidies as estimated by USDA (1994)
+for the countries USDA covered.10
+10
+
+Product prices in all countries are affected by subsidies of agriculture in the OECD countries, and some
+countries because of their product mix or location are affected differently from others. Adverse effects
+upon growth would appear most directly in a lower agricultural GDP, or slower growth of agricultural
+GDP, in the most vulnerable countries. In order to obtain evidence on the importance of differential
+
+11
+
+(iv) New technology. In searching for causes of the transformation of agriculture from
+economic stagnation to economic growth, one is naturally drawn to examine the
+experiences of countries where this has happened, that is, to the countries toward the top
+of the list in Table 2. This draws one’s attention more to the industrial countries and less
+to the developing world. The story agricultural economists are most familiar with is as
+follows: scientists, engineers, and tinkerers, in both the private and public sectors, apply
+their knowledge to problems of agriculture; extension services and other sources of
+information place new knowledge in farmers’ hands; and with sufficient property rights
+and price incentives to call forth the necessary investment, farmers adopt new technology
+and generate more output and income from their resources. Most of the gains may accrue
+to buyers of farm products rather than their producers as increased output drives down
+prices, but nonetheless this is the paradigm of growth.
+However, how to specify variables suitable for equation (2) is not so clear, even at the
+level of what sorts of variables one needs. Historians have unearthed evidence on what
+was going on during the period when U.S. agriculture entered upon its period of strong
+and sustained productivity growth. This evidence, which has been largely neglected by
+economists, includes facts about farmers’ attitudes and preferences, the intellectual and
+exemplary contributions of visionary individuals, and the establishment of institutions
+and forms of economic organization conducive to growth. The idea of the farmer as an
+ignorant, intellectually ossified follower of traditional practice and fearful of change, and
+constitutionally unable to forgo consumption in order to invest, was an influential view in
+the first half of the twentieth century. In this context investment in new technology
+requires a cultural transformation. Nonetheless, Griliches (1957) brilliantly showed that
+profitability was sufficient to explain the pattern of adoption of hybrid corn. But rural
+sociologists also staked claim to cultural/social explanations such as community
+leadership and informational networks (for example, Ryan and Gross, 1943; Havens and
+Rogers, 1961). Danbom (1979) describes the efforts by many promoters of progress in
+agriculture, notably President Theodore Roosevelt in the first decades of the twentieth
+century, to instill in farm people a mentality conducive to commercialization of their
+enterprises, investment, and adoption of innovative technology. Historians like Clarke
+(1994) have also given a broader interpretation to agricultural support programs,
+particularly the New Deal programs of the 1930s, emphasizing how the programs altered
+farmers’ outlook in ways that promoted investment and adoption of new technology.
+Broader modes of thought are of course not new in the theory of development. Hagen
+(1962) is exemplary of ideas in the 1950s that obstacles to development are largely
+product price experiences on differences in the rates of agricultural GDP growth shown in Table 2, that
+table also shows the rate of growth of FAO’s crop production index, a quantity indicator. The ranking of
+countries from high to low growth rates in 1980-2001 is quite similar for the two indicators, and not
+generally lower for agricultural GDP. Because low or declining prices reduce agricultural GDP directly,
+while they affect crop output only indirectly through supply response, the similarity of the two columns
+suggests that differential world market price experience is a not a major factor in these rankings – though
+this hypothesis certainly could use better confirming or disconfirming evidence. In the regressions my
+rough proxy for international trade effects is the share of GDP accounted for by trade in goods.
+
+12
+traditional rural village institutions and/or inside the heads of the villagers. Thus,
+“economic theory has rather little to offer” and “both the barriers to growth and the
+causes of growth seem to be largely internal rather than external” (Hagen, quoted in
+Stevens and Jabara, 1988, p. 94). This view is the opposite of Schultz’s mentioned
+earlier, that inputs from outside of agriculture are key, and that, if profitable, they will be
+adopted.11 The non-economic approach lost luster with the perceived failure of
+community development schemes, and it seems the last nail in its coffin was the Green
+Revolution. New varieties were adopted along with purchased inputs, apparently without
+need of cultural or psychological transformations in rural communities.
+In order to test these ideas in equation (2) we need both technological and cultural
+variables. The data available on either type of variable for the countries of the Table 2
+data set have neither the conceptual specificity nor the precise measurement that one
+would like. We do have data that arguably reflect differences in technology between
+countries. Several studies, such as Evenson and Kislev (1975), use a country’s research
+and/or extension expenditures as a cause of agricultural growth (with long lags). I use
+two of their indicators measured as of the mid-1960s, public research expenditures and
+agricultural science publications (Evenson and Kislev, Appendix I). However, these data
+are not reported for 24 countries in the Table 2 sample. The CGIAR publishes later data
+for more countries, of which I use average public research expenditures in each country
+during 1976-1980. These data are used to estimate a research expenditure variable that
+covers 53 countries with information about spending in the 15 years preceding the 19802001 period over which equation (2) is estimated. Because identifying effects of new
+technology through these variables is far from assured, given the long lags found by most
+researchers between invention and implementation and the pervasive role of “spill-ins”
+from other countries’ research and from the CGIAR centers, indirect indicators of
+technology implementation are also used as X0 variables. These are initial (1980)
+estimates of fertilizer per hectare and tractors per hectare. In addition, I use the rate of
+growth of cereal yields over the two decades preceding 1980 to indicate pre-existing
+willingness to innovate that may carry over to the 1980-2001 period.
+On the cultural side, the most plausible personal characteristics are educational
+attainments. The one for which we have the most widespread data is the extent of
+illiteracy in a country. High illiteracy plausibly indicates a high prevalence of traditional
+attitudes that are barriers to growth. However, illiteracy may also serve as a proxy for
+(lack of) schooling, and schooling is an indicator of investment in human capital and
+improved labor quality that Schultz pioneered as important in agricultural development,
+and which has been widely accepted by economists as a source of economic growth.
+A quite different labor-centered view of agriculture and economic growth stems from the
+observation of large numbers of poor and seemingly underemployed people in rural
+areas. The stark labor-surplus ideas of early dual economy models have evolved to more
+11
+
+Evidence that standard opinion was closer to Hagen than to Schultz in the 1960s is the following from
+the Rockefeller Foundation on constraints to adoption of new crop varieties in Colombia: “The bottleneck
+is the training of farmers to appreciate the value of good seed and to use improved farm practices”
+(Rockefeller Foundation, 1963).
+
+13
+nuanced assessments that still retain the thought that the path to rural development must
+overcome in some way the insufficiency of remunerative employment where the ratio of
+workers to other resources is high. Tomich, Kilby, and Johnson (1995), for example,
+characterize the economies where development is needed as CARLs (countries with
+abundant rural labor). I attempt to test for the difference made by labor abundance using
+rural population density (workers per hectare) as an explanatory variable.
+Cross-sectional Regression Results. Table 3 reports the results of estimates of three
+specifications of equation (2) for the Table 2 set of countries. The results are typical of
+cross-country regressions in being suggestive but far from definitive in sorting out causes
+of growth. Regression 1, the simple convergence model, indicates significant divergence
+– in countries that started out with the highest agricultural GDP per worker in 1980, that
+variable grew the fastest between 1980 and 2001. The included in Regressions 2 and 3
+include growth conditioning variables intended to explain the sources of differences in
+growth rates. They have jointly significant effects on the rate of agricultural GDP
+increase, and many have the expected signs, but none of them emerges individually as a
+predominant determinant of agricultural growth.
+Consider for example the illiteracy variable. This is the variable most directly related to
+human capital and also to ideas about cultural prerequisites to growth. The sign of this
+variable is not robust – it changes as other right-hand side variables are added or deleted
+– and the variable is not statistically significant (here and later taking significance at the
+10 percent level – requiring a “t” statistic of 1.7 or more in absolute value). This lack of
+significance is not a complete surprise as it parallels the findings in Craig, Pardey and
+Roseboom (1997) and Mundlak (1999), who also estimated no significant effects of
+literacy on productivity or agricultural GDP per worker. However, Hayami and Ruttan
+(1985, Ch. 6) found education an important cause of productivity growth in agriculture
+(although their literacy variable alone was often insignificant). So did Antle (1983) and
+Fulginiti and Perrin (1993).12 One can say correctly that illiteracy data are quite
+imperfect both conceptually and practically as measures of human capital or skill, but that
+leaves us still with no clear answer about the importance of schooling to growth, and
+skepticism about the importance of the variable (whether one place a human capital or
+cultural interpretation upon it.
+The other variable related to labor supply is rural population density (persons per square
+kilometer) at the beginning of the period, 1980. If abundant labor is a hindrance to
+growth, this variable should have a negative sign. But the variable is insignificant in in
+regression 2 and positive in regression 3, and generally not robust in other specifications
+tried.13 (Similarly inconclusive results were obtained for an alternative measure,
+agricultural workers per hectare of arable land.)
+
+12
+13
+
+See Huffman (2001) for a thorough review of econometric studies.
+
+The positive sign in regression 3 is not totally unexpected following the arguments of Boserup (1975)
+that population growth in poor countries is not always the curse it is often taken to be.
+
+14
+Variables intended to indicate the initial presence of technological innovation had a
+mixed performance. The coefficient of the 1980 level of fertilizer per hectare has a
+positive sign and statistically significant in regression 2, but the effect of tractors per
+hectare is 1980 are insignificant or negative. Growth of crop output per worker in the
+preceding period, 1961-1980, is one of the few variables that consistently has a
+significantly positive sign, suggesting that countries with a history of productivity
+improvement have momentum that carries through to later growth. However, the
+research variable is insignificant. This result persists whether research spending is
+measured per dollar of agricultural GDP or as an absolute amount (the latter being
+appropriate if research is a pure public good within the country). The alternative
+technology variable from Evenson and Kislev (1975), gives the same results.
+The variability of the inflation rate, an indicator of economic instability is thoroughly
+insignificant, but the four political variables tell a more interesting story. The measures
+of restraints on economic freedom and civil liberties, as measured by the Heritage
+Foundation and Freedom House, respectively, and consistently negative and sometimes
+significant, and similarly the absence of corruption as scored by Transparency
+International. Internal war sufficient to quality for Stewart et al.’s case studies reduce the
+rate of growth by 1.7 percent annually according to regression 2.
+Regression 3 adds two variables more explicitly related to a country’s economic policies,
+added in a separate regression because fewness of observations reduces the sample size
+considerably. The first is the value of international trade in goods as a fraction of
+national GDP. The second is an index of governmental support to agricultural
+commodity markets, the producer subsidy equivalent (PSE). PSEs have been calculated
+in a number of ways, and all of those ways have been subject to criticism. I use the 198589 average PSE as estimated in U.S. Department of Agriculture (1994). The importance
+of goods in international trade and the PSE, are both significantly positive, suggesting
+that a country can increase its growth of agricultural GDP per worker by trading more
+and by subsidizing its agriculture. (The national welfare consequences may of course be
+quite different, notably because the PSE boosts agriculture at the cost of taxpayer
+outlays.) Note that the coefficient means that the PSE would have to increase by 30
+percent of the value of agricultural output in order to boost the rates of agricultural GDP
+growth by 0.1 percent.
+Table 2 shows that the slowest-growing agricultures tend to be in African countries.
+However, adding dummy variables for Africa (and other regions) to regressions 2 and 3
+generates insignificant coefficients, suggesting that the growth-conditioning factors we
+have been analyzing account for the regional differences. Note also that in regressions 2
+and 3, the initial (1980) value of the dependent variable tends to be negative, suggesting
+that conditional on the factors considered, convergence may be a fact. Perhaps more
+important is the lack of evidence for divergence. A plausible a priori case can be made
+for the hypotheses that rich countries with high agricultural GDP per worker invest more
+in agricultural research and this boosts subsequent growth in a way less available to
+poorer countries. Regressions 2 and 3 argue against the applicability of this hypothesis.
+But recall the strictures above on possible bias in this estimated coefficient.
+
+15
+
+Real Household Income Growth
+Growth in the agricultural sector is important insofar as it helps achieve growth in real
+standards of living. But analysis of the relationship between agricultural sector growth
+and average rural incomes or rural poverty involves several complications to an already
+complicated set of issues. Note first that the most easily demonstrable gains from
+productivity growth in agriculture are those of urban consumers of food products who
+benefit from lower prices. This contribution of agriculture is an important benefit in a
+whole-economy view but for rural incomes low prices mean less market returns. How
+can we identify the contribution of agricultural sector growth to rural household incomes?
+Consider two views about the causes of real income growth in rural areas: first,
+agriculture as the engine of growth, with investment in agriculture generating real income
+growth in rural areas; and second, economy-wide demand for labor as the engine of
+income growth, with rising real wages a sufficient condition for rural household income
+growth. My reason for drawing this contrast is that in recent work on economic growth
+in American agriculture (Gardner 2002), I came more and more to see the second view as
+capturing the dominant forces behind the catch-up of farm to urban household incomes
+levels. Putting aside the Depression, from the “Golden Age of Agriculture” in 1897-1914
+through the 1960s, U.S. agriculture was a technologically dynamic magnet for
+investment, and with high and sustained rates of productivity growth after the mid-1930s.
+Yet the median income of farm households remained low relative to nonfarm incomes.
+Incomes of farm families only rose above 60 percent of those of the nonfarm population
+during 1910-20. The trend, if any, was negative until 1960. Therefore, a vigorous
+agricultural sector is not a sufficient condition for high incomes or for real income growth
+in the rural sector (relative to the urban sector).
+Later U.S. history casts doubt on agricultural sector growth as a necessary condition for
+farm household income growth. Although U.S. agricultural productivity (multifactor
+productivity as estimated by USDA) has continued to grow at about the same rate of 1
+1/2 to 2 percent annually for the whole 1948-1999 period, since 1980 investment in the
+sector has turned negative and real agricultural income per farm declined. Yet this is the
+very period in which farm household incomes at last caught up to nonfarm household
+incomes, and indeed by the end of the 20th century were well ahead (see Gardner, 2002,
+pp. 78 and 84). Therefore, a vigorous agricultural sector is not necessary for high
+household incomes or income growth in the rural sector.14
+Even if agricultural growth is neither necessary nor sufficient for household income
+growth, it could nonetheless be helpful. But in cross-sectional analyses of U.S. states and
+counties I found no significant relationship between sectoral growth and rural household
+income growth, neither at the median income level nor for relatively low income groups
+nor for the incidence of farm poverty (Gardner 2000). Instead, what matters is the
+14
+
+To put the point more concretely, I believe that if for example the mechanical cotton picker had never
+been invented, U.S. cotton laborers would not have appreciably higher incomes today. But there would be
+a lot more of them (assuming the U.S. remained competitive in world markets).
+
+16
+linkage of farm factor markets, particular the farm labor market, with the nonfarm
+economy.
+Notwithstanding the preceding, it would be premature to dismiss the agricultural sector
+growth as an engine of rural household income growth in developing countries, or indeed
+to dismiss the role of agriculture in nationwide economic growth, for reasons that have
+been continually emphasized in the literature on agriculture and development at least
+since Johnston and Mellor (1961). The most basic is macroeconomic, in countries where
+agriculture’s share of the labor force is large. An increase in real output per worker
+resulting from agricultural productivity growth increases labor productivity in the whole
+economy, and hence increases real income per capita. This is the point at which the oftrepeated statistics about a near majority of the developing world’s labor force being rural
+becomes relevant to agriculture as an engine of growth. Similarly, if agriculture
+generates a large fraction of a country’s consumption or of export-earning goods, then
+improved productivity in agriculture directly increases real GDP per capita substantially.
+If a public investment of $1 billion in a sector of the economy generates an increase in
+total factor productivity of 2 percent over the next twenty years in that sector, it is best,
+other things equal, to carry out the investment in the largest sector available.
+These considerations suggest that agriculture, as an analytical component in the theory of
+economic growth, has a lot going for it. It is therefore striking that in the general
+economic literature on growth, agricultural growth is not taken as fundamental. We have
+impressive recent work emphasizing ideas and growth (Jones 2003), human capital and
+growth, geography and growth, and incentives and growth, but agriculture has no
+distinctive role in any of them. Easterly (2001) is a good example of a wide-ranging and
+sensible discussion of the current state of knowledge in which the role of agriculture is
+negligible. Do data from developing economies impel one to think otherwise?
+Figure 3 shows the relationship between growth of agricultural GDP per worker and
+national GDP per capita for 52 developing countries during 1980-2001. The association
+is positive and significant. But what is the direction of causality, if any (since both could
+be generated by a common underlying set of causes)? Investigation of lags in our sample
+of countries during 1961-2001 does not show agriculture as leading.
+The prime experience in the developing world that impels one to consider the possibility
+of agriculture as an engine of rural income growth is East Asia. This is where both
+agricultural GDP and overall GDP per capita have generated the most positive long-term
+record. 15 The World Bank (2002) concludes that in these countries “agricultural
+development created a dynamism in rural areas, which, in later stages, was combined
+with rapid industrialization” (p. 47). The data evidence for this conclusion is not spelled
+out or cited, however. Both agricultural and overall GDP growth for South Korea, the
+outstanding example of rapid and sustained agricultural GDP growth in our sample, are
+15
+
+One might also consider Botswana, which President’s Bush’s July 2003 visit gave the Washington Post
+occasion to call “the fastest-growing developing country in the world” (July 7, 2003, p. A16). Indeed, it is
+so for the 1980-2002 period among the countries covered in Table 4. But is there an agricultural
+component to this story? No.
+
+17
+shown in Figure 4. No strong message about causality is apparent in that chart. National
+GDP per capita grew faster than agricultural GDP per worker throughout the 1961-2001
+period, the latter at the high rate of 4.7 percent annually and the former at the
+extraordinary rate of 6.1 percent over the four decades, increasing from $1,350 per capita
+(in 1995 dollars) in 1961 to $13,500 in 2001. Agricultural GDP grew at a faster rate after
+1980 than before, suggesting that national GDP led agricultural growth rather than the
+Bank’s asserted causality. Moreover, with a PSE of 58 percent of commodity value for
+its nine top products during 1985-90, South Korea has one of the most highly subsidized
+agricultures in our sample. Tsay (2002) ties the growth of agricultural sectors in Taiwan
+and Japan as well as South Korea to commodity support policies.
+Indonesia is a case where agriculture has been specifically identified as contributing
+fundamentally to growth. Timmer (1998) notes that during 1969 to 1994, “agriculture
+provided more than 40 percent of the new jobs for a rapidly expanding labor force,” and
+that “Aggressive investments in agricultural development paid Indonesia high dividends
+in economic growth, reduced poverty, and increased rice production” (p. 546). Yet
+Figure 5 shows no evident leading relationship between agricultural GDP and national
+GDP, and direction of causality is unclear from the data. Nonetheless, Timmer marshals
+factual details that are convincing on an important contribution from agriculture.
+Table 4 shows the growth rates of agricultural GDP per worker and national GDP per
+capita for 66 countries. Within each of the regional developing country groupings
+(Africa, Asia and Latin America), the countries that grew fastest in national GDP per
+capita also grew fastest in agricultural GDP per worker, with a few notable exceptions
+such as Brazil. But in the region where the fastest growth occurred, Asia, agricultural
+growth lagged behind national growth; while in Africa and Latin America agricultural
+growth was higher.16
+Regressions like those of Table 3 were estimated with the growth of national GDP per
+capita as the dependent variable. In these regressions (not shown in detail)
+the estimated β coefficient is significantly negative, indicating that the lower-income
+countries in 1980 grew faster during 1980-2001. Factors causing faster growth in
+agricultural GDP have positive effects on national GDP growth. The political and
+economic institutional variables are significant, as is the corruption index. Because of its
+prominence in recent literature I also tested the hypothesis that in these data countries
+with access to international waters (oceans or seas connected to them) grow faster than
+land-locked ones. Indeed, in this sample the “coastal” countries (75 percent of the
+sample) did grow significantly faster during 1980-2001, others things held constant.
+And, consistently with that finding, greater participation in international trade in the
+initial period (1980) is significantly related to faster GDP growth in 1980-2001.
+
+16
+
+Note that these comparisons do not say anything about agriculture’s share of national GDP, which turns
+on aggregate values. These growth rates are per person, so if the rural population is declining it is quite
+possible for agricultural GDP per person to rise while aggregate agricultural GDP, and its share in total
+GDP, are declining.
+
+18
+However, these results say nothing about rural as compared to urban incomes, as ruralurban income differences are not in the data set. One study that carried out an
+econometric investigation of specifically rural incomes in a developing country context is
+Estudillo, Quisumbing, and Otsuka (2000), on wage rates of agricultural workers in the
+Philippines. Their findings parallel those cited above for the United States – the cause of
+growth in agricultural wage rates is growth of labor demand in the nonfarm economy.17
+Vink (2001) cites research that indicates off-farm sources of household income
+predominate for household incomes in small-farm segments of South African agriculture.
+Concluding Discussion
+The chief candidates for causes of growth in agricultural value-added (GDP) and rural
+household income growth are: (i) providing macroeconomic and political stability; (ii)
+institutions establishing property rights and incentives; (iii) access to competitive input
+markets and remunerative output markets; and (iv) adoption of productivity-enhancing
+technology. For purposes of real household income growth, a fifth element appears
+crucial, namely (v) real income growth in the non-agricultural economy
+Good arguments have been made for all of these factors being important, but the crosscountry empirical evidence on their role is mixed. The Green Revolution showed that, on
+the one hand, success can be achieved even without fundamental reforms in (i), (ii), (iii),
+and (v); but, on the other hand, transforming those gains into permanent increases in rural
+living standards has proven elusive.
+Observations of sustained past real income growth in developing countries are almost by
+definition observations of countries which are no longer poor. Almost universally in
+such cases, all five factors are substantially present.18 But in all such countries
+agriculture as a share of national GDP has fallen substantially. Even in the fast-growing
+East Asian countries where agriculture has expanded, this appears to be as much due to
+government subsidies as to growth dynamics generated by technological change or other
+productivity improvements within agriculture.
+
+17
+
+The implications of agricultural GDP growth for rural poverty are even more complicated to analyze,
+and I have no data to offer. The preponderance of evidence appears to support the conclusion that
+agricultural productivity growth is poverty reducing (see Hazzell and Haddad, 2001, IFAD, 2001). But for
+the U.S. at least, I found real income growth in the nonfarm sector to be more fundamentally important in
+increasing low farm incomes than any specifically agricultural variable (Gardner 2000). Timmer (2001)
+reports similar but more nuanced findings for a sample of developing countries in terms of linkage between
+nationwide per capita income and incomes in the lowest quintile (not the lowest quintile of rural incomes
+but the nationwide lowest quintile of income in countries with relatively large rural populations). Ravallion
+and Dutt (2002), find that both farm yields and nonfarm income growth reduce poverty, but that the
+elasticity of poverty measures with respect to nonfarm income varies substantially across the states of India
+that constitute the sample data for their work. This literature is more about the anatomy of poverty
+reduction as related to GDP growth than about the causes of either.
+18
+
+“Almost” in both preceding sentences because if a country starts with a low enough income level, even
+growth sustained for two or three decades might not make the country rich. Consider China for example.
+
+19
+In the context of overall real income growth in a country, it is important to distinguish
+between agricultural GDP in aggregate and agricultural GDP per worker. We may hope
+that with appropriate institutions and policies GDP per worker may increase in all
+countries. But one would not expect or hope to see the size of agriculture as a sector
+(aggregate agricultural GDP) increase in all countries. Because of location-specific
+changes in technology or changes in relative factor prices because of different countries’
+factor endowments, some countries are expected to gain but others to lose comparative
+advantage in agriculture under economic growth. So we should not automatically
+identify success in growth with increasing agricultural GDP (or output). Still, increasing
+productivity or agricultural GDP per worker is generally an indicator of success, in the
+sense of providing the material basis for an improved standard of living for both rural and
+urban residents. That is why this paper focuses on GDP per worker rather than aggregate
+GDP or agricultural output.
+Even when agricultural productivity grows, it is apparent that rural household incomes
+may not grow, as the earlier discussion of the United States indicated. It appears likely
+that a similar lesson will emerge from the East Asian countries where rural household
+incomes are growing: what is necessary is real average income growth in the economy as
+a whole, and that may be sufficient for rural income growth even if agriculture shrinks.
+In this context, some of the factors that did not show well in the cross-country regressions
+explaining agricultural GDP per worker may nonetheless be important causes of rural
+workers’ income growth. It is well attested that education, to take the prime example, is
+valuable in increasing workers’ earnings. But this value is not nearly so evident in farm
+production.
+Although the arguments and evidence have hardly been touched upon here, it seems
+likely that the preceding conclusion applies also to rural poverty. To remedy rural
+poverty, what is most needed are improvements in the labor market more than, say,
+improved crop varieties. This is not to say that agricultural research, rural infrastructure
+investment, or the development of agricultural export sectors are not valuable or that their
+net effect on poverty is not in the right direction. The literature cited earlier suggests
+otherwise. Agricultural research and rural education and infrastructure development
+efforts have been highly profitable investments with a regularity that defies most
+commercial innovations. 19 But what I am coming to believe is that in response to general
+economists’ earlier neglect of agriculture, we have over-corrected. To put the issue in the
+policy recommendation context, we should evaluate policy or projects aimed at rural
+development first and foremost using benefit-cost analysis, with the most comprehensive
+accounting possible. This criterion will support many agricultural investments. But
+some of the highest-payoff agricultural investments may benefit farmers less than
+nonfarm people; and the policies that benefit rural people most may well not be
+agricultural.20
+19
+
+For a recent comprehensive review of CGIAR research, see World Bank (2003).
+Evolution in how the agricultural sector is treated in the World Bank illustrates problems that can arise in
+this context. An agricultural unit within the Bank once made sense because of loans that had a central
+focus on agricultural production, so one needed technical experts in these matters. But as the Bank came to
+focus more on broader structural and policy matters in client countries, and on poverty reduction as a goal,
+
+20
+
+20
+
+In closing, I have to say that I am uneasy about the preceding conclusions. What they
+mostly rest upon is a failure to find sufficiently strong associations between variables
+representing hypothesized causal factors in agricultural GDP growth and differences
+across countries in actual growth rates of agricultural GDP per worker. But many of the
+variables are crude proxies for the variables we would really like to have, and for these
+proxies measurement errors are likely. So the conclusions are even more than usually
+tentative. I am continuing these investigations together with Isabelle Tsakok and would
+be happy to eat what I have written here if further data and analysis change the story.
+
+to be useful an agricultural unit had to broaden greatly to become a rural development unit and to
+incorporate expertise in all manner of socio-economic issues. But when this is done, as exemplified in the
+Bank’s recent rural strategy document (World Bank, 2002), it is not clear why the most appropriate policies
+and lending are not those centered in other parts of the Bank, such as education or health.
+
+21
+
+References
+Alston, J., C. Chan-Kang, M. Marra, P. Pardey, and T. Wyatt. 2000. “A Meta-Analysis of
+Rates of Return to Agricultural R&D,” Research Report 133, International Food Policy
+Research Institute, Washington, D.C.
+Antle, John. 1983. “Infrastructure and Aggregate Agricultural Productivity: International
+Evidence,” Economic Development and Cultural Change 31: 609-619.
+Barro, R. and X. Sala-i-Martin. 1995. Economic Growth. New York: McGraw Hill.
+Boserup, E. “The Impact of Population Growth on Agricultural Output,” Quarterly
+Journal of Economics 89 (May): 257-270.
+Clarke, Sally. 1994. Regulation and the Revolution in United States Farm Productivity,
+New York: Cambridge University Press.
+Collier, P., L. Elliott, H. Hegre, A. Hoeffler, M. Reynal-Querol, and N. Sambanis. 2003.
+Breaking the Development Trap: Civil War and Development Policy, Washington, D.C.:
+The World Bank.
+Craig, B.J., P.G. Pardey, and J. Roseboom. 1997. “International Productivity Patterns:
+Accounting for Input Quality, Infrastructure, and Research,” American Journal of
+Agricultural Economics 79 (November): 1064-1076.
+Danbom, D. 1979. The Resisted Revolution: Urban America and the Industrialization of
+Agriculture, Ames: Iowa State University Press.
+Deaton, A. 1995. “Data and Econometric Tools for Development Analysis,” in J.
+Behrman and T.N. Srinivasan, eds., Handbook of Development Economics, Volume IIIA.
+Elsevier Science, pp. 1785-1882.
+Easterly, William. 2001. The Elusive Quest for Economic Growth. Cambridge: MIT
+Press.
+Eicher, Carl. 1999. “Institutions and the African Farmer,” Third Distinguished Economist
+Lecture, Mexico: CIMMYT.
+Estudillo, J., A. Quisumbing, and K. Otsuka. 2000. “Income Distribution in RiceGrowing Villages During the Post- Green Revolution Period,” Agricultural Economics
+
+22
+Evenson, R.E. 2001. “Economic Impacts of Agricultural Research and Extension,” in B.
+Gardner and G. Rausser, eds., Handbook of Agricultural Economics, Volume 1A, New
+York: Elsevier Science Publishers, pp. 573-628.
+______, and Y. Kislev. 1975. Agricultural Research and Productivity. New Haven: Yale
+University Press.
+______, and D. Gollin. 2003. “Assessing the Impact of the Green Revolution, 19602000,” Science 300 (2 May): 758-762.
+Freedom House. 2003. “Freedom in the World Country Ratings 1972-73 to 2001-2002,”
+on line at
+Frisvold, G. and K. Ingram. 1995. “Sources of Agricultural Productivity Growth and
+Stagnation in Sub-Saharan Africa,” Agricultural Economics 13: 51-61.
+Fulginiti, L. E., and R.K. Perrin. 1993. “Prices and Productivity in Agriculture,” Review
+of Economics and Statistics 75 (August): 471-482.
+Gardner, Bruce. 2000. “Economic Growth and Low Incomes in Agriculture,” American
+Journal of Agricultural Economics, 82 (November): 1059-74.
+_____. 2002. American Agriculture in the Twentieth Century: How It Flourished and
+What It Cost. Cambridge, Mass.: Harvard University Press.
+Griliches, Zvi. 1957. “Hybrid Corn: An Exploration in the Economics of Technological
+Change,” Econometrica 25: 501-522.
+Havens, A. E., and E. M. Rogers. 1961. “Adoption of Hybrid Corn: Profitability and the
+Interaction Effect,” Rural Sociology 26: 409-414.
+Hayami, Y. and V. Ruttan. 1985. Agricultural Development: An International
+Perspective. Baltimore: Johns Hopkins University Press.
+Hazzell, P., and L. Haddad. 2001. “Agricultural Research and Poverty Reduction,” Food,
+Agriculture and the Environment Discussion Paper, International Food Policy Research
+Institute, Washington, D.C.
+Huffman, W.E. “Human Capital: Education and Agriculture,” in B. Gardner and G.
+Rausser, eds., Handbook of Agricultural Economics, Volume 1A, New York: Elsevier
+Science Publishers, pp. 333-381.
+International Fund for Agricultural Development (IFAD). 2001. Rural Poverty Report:
+The Challenge of Ending Rural Poverty, Oxford University Press.
+
+23
+Johnston, B.F., and J. Mellor. 1961. “The Role of Agriculture in Economic
+Development,” American Economic Review 51: 566-593.
+Jones, C. 2003. “Growth and Ideas,” forthcoming in Handbook of Economic Growth,
+New York: Elsevier Science, available at http://elsa.berkeley.edu/~chad.
+Krueger, A.O., M. Schiff, and A Valdes. 1991. The Political Economy of Agricultural
+Pricing Policy. Five Volumes, Baltimore: The Johns Hopkins University Press.
+Lele, Uma. 1989. “Sources of Growth in East African Agriculture,” World Bank
+Economic Review:
+Mundlak, Yair. 1999. “The Dynamics of Agriculture,” Elmhirst Memorial Lecture,
+Proceedings of the 23rd International Conference of Agricultural Economists, Aldershot,
+England: Ashgate Publishing Company, pp. 18-48.
+_____. 2000. Agriculture and Economic Growth. Cambridge: Harvard University Press.
+_____. 2001. “Explaining Economic Growth,” American Journal of Agricultural
+Economics 83 (5): 1154-1167.
+Nerlove, Marc. 2000. “Growth Rate Convergence, Fact or Artifact? An Essay on Panel
+Data Econometrics,” in J. Krishnakumar and E. Ronchetti, eds., Panel Data
+Econometrics: Future Directions, Amsterdam: Elsevier Science Publishers.
+_____. 2002. “Likelihood Inference for Dynamic Panel Models,” in Essays in Panel
+Data Econometrics. Cambridge: Cambridge University Press, pp. 305-348.
+O’Driscoll, G.P., Jr., E.J. Feulner, and M.A. O’Grady. 2003. “Index of Economic
+Freedom,” The Heritage Foundation/Wall Street Journal, on line at
+Olson, Mancur. 1982. The Rise and Decline of Nations. New Haven: Yale University
+Press.
+Quah, D.T. 1996. “Empirics for Economic Growth and Convergence,” European
+Economic Review, 40(June): 1353-1376.
+Pearson, S., F. Avillez, J. Bentley, T. Finan, R. Fox, T. Josling, M. Langworthy, E.
+Monke, and S. Tangermann. 1987. Portuguese Agriculture in Transition. Ithaca:
+Cornell University Press.
+Ravallion, M., and G.Dutton. 2002. “Why has Economic Growth Been More Pro-Poor in
+Some States of India Than Others?” Journal of Development Economics 68: 381-400.
+Rockefeller Foundation. 1963. “Annual Report,” New York.
+
+24
+Ryan, B., and N. Gross. 1943. “The Diffusion of Hybrid Corn in Two Iowa
+Communities,” Rural Sociology 8: 15-24.
+Schultz, T.W. 1964. Transforming Traditional Agriculture. New Haven: Yale
+University Press.
+_____. 1965. Economic Crises in World Agriculture. Ann Arbor: University of Michigan
+Press.
+_____. 1978. Distortions of Agricultural Incentives. Bloomington: Indiana University
+Press.
+Simon, Herbert. 1947. “Effects of Increased Productivity Upon the Ratio of Urban to
+Rural Population,” Econometrica 15 (January): 31-42.
+Singh, I, L. Squire, and J. Strauss, eds., 1986. Agricultural Household Models: Extension,
+Applications, and Policy. Baltimore: Johns Hopkins University Press.
+Stewart, F., C. Huang, and M. Wang. 2001. “Internal Wars in Developing Countries: An
+Empirical Overview of Economic and Social Consequences,” in War and
+Underdevelopment, Volume 1. Oxford: Oxford University Press, pp. 67-103.
+Timmer, C.P. 1998. “The Role of Agriculture in Indonesia’s Development,” in C. Eicher
+and J. Staatz, eds., International Agricultural Development, Baltimore: Johns Hopkins
+University Press, pp. 539-549.
+Timmer, C.P. 2002. “Agriculture and Economic Development,” in B. Gardner and G.
+Rausser, eds., Handbook of Agricultural Economics, Volume 2A. Amsterdam: Elsevier
+Science, pp. 1487-1546.
+Tomich, T.P, P. Kilby, and B.F. Johnston. 1995. Transforming Agrarian Economies.
+Ithaca: Cornell University Press.
+Transparency International. “Transparency International Corruption Perceptions Index,”
+available on line at http://www.transparency.org.
+Tsay, Yau-Yuh. 2002. “Economic Growth and Agriculture’s Relative Decline,” mimeo.
+U.S. Department of Agriculture. 1994. “Estimates of Producer and Consumer Subsidy
+Equivalents,” Economic Research Service, Statistical Bulletin No. 913, December.
+Vink, N. “Small Farmer Research in South Africa: A Survey,” Agrekon 40: (June 2001):
+130-186).
+World Bank. 2002. “Reaching the Rural Poor,” Rural Sector Board, October 31.
+
+25
+World Bank. 2003. “The CGIAR at 31: An Independent Meta-Evaluation of the
+Consultative Group on International Agricultural Research,” Operations Evaluations
+Department, available on-line at http://www.worldbank.org/oed/cgiar/
+
+26
+
+Table 1. Trend Rates of Growth in Cereal Yields
+
+AFRICA (Sub-Saharan)
+Swaziland
+Liberia
+Zambia
+Mauritius
+South Africa
+Uganda
+Zimbabwe
+Benin
+Nigeria
+Tanzania
+Malawi
+Burkina Faso
+Burundi
+Sierra Leone
+Kenya
+Senegal
+Cameroon
+Mali
+Cote d'Ivoire
+Gambia, The
+Gabon
+Madagascar
+Ghana
+Rwanda
+Guinea
+Botswana
+Chad
+Sudan
+Angola
+Mozambique
+Congo, Rep.
+Simple Average
+ASIA
+China
+Pakistan
+Indonesia
+Korea, Rep.
+Philippines
+India
+Malaysia
+Bangladesh
+Sri Lanka
+Thailand
+
+1961-80
+
+1981-2001
+
+Lower in 81-01?
+
+0.075
+0.049
+0.041
+0.036
+0.033
+0.027
+0.026
+0.023
+0.019
+0.017
+0.013
+0.009
+0.009
+0.008
+0.008
+0.008
+0.006
+0.005
+0.004
+0.001
+0.001
+-0.001
+-0.001
+-0.005
+-0.006
+-0.007
+-0.012
+-0.015
+-0.019
+-0.020
+-0.021
+
+0.014
+-0.002
+-0.013
+0.023
+0.023
+0.006
+-0.002
+0.027
+-0.012
+0.002
+0.013
+0.025
+0.011
+-0.010
+-0.006
+0.006
+0.028
+0.013
+0.023
+-0.006
+-0.002
+0.006
+0.034
+-0.011
+0.024
+-0.017
+-0.003
+0.001
+0.015
+0.033
+0.003
+
+0.010
+
+0.008
+
+y
+y
+y
+y
+y
+y
+y
+n
+y
+y
+n
+n
+n
+y
+y
+y
+n
+n
+n
+y
+y
+n
+n
+y
+n
+y
+n
+n
+n
+n
+n
+16 y, 15
+n
+
+0.041
+0.037
+0.035
+0.032
+0.024
+0.022
+0.019
+0.009
+0.009
+0.003
+
+0.020
+0.019
+0.011
+0.009
+0.022
+0.027
+0.010
+0.025
+0.009
+0.016
+
+y
+y
+y
+y
+y
+n
+y
+n
+n
+n
+
+27
+Cambodia
+Simple Average
+
+-0.005
+0.021
+
+0.029
+0.018
+
+n
+6 y, 5n
+
+Latin America
+Belize
+Colombia
+Guatemala
+Costa Rica
+Mexico
+Ecuador
+Uruguay
+Venezuela, RB
+Argentina
+Suriname
+Guyana
+Peru
+Chile
+Bolivia
+Paraguay
+Brazil
+Haiti
+Honduras
+
+0.063
+0.041
+0.039
+0.037
+0.031
+0.031
+0.030
+0.029
+0.023
+0.020
+0.015
+0.014
+0.012
+0.011
+0.009
+0.002
+-0.004
+-0.006
+
+0.007
+0.012
+0.002
+0.038
+0.011
+0.013
+0.040
+0.032
+0.021
+-0.003
+0.016
+0.016
+0.039
+0.014
+0.018
+0.032
+-0.007
+-0.001
+
+0.022
+
+0.017
+
+y
+y
+y
+n
+y
+y
+n
+n
+y
+y
+n
+n
+n
+n
+n
+n
+y
+n
+8 y, 10
+n
+
+0.042
+0.034
+0.032
+0.031
+0.029
+0.028
+0.024
+0.023
+0.022
+0.017
+0.016
+0.015
+0.015
+0.007
+0.004
+
+0.003
+0.021
+0.010
+0.019
+0.010
+0.019
+0.013
+0.018
+0.005
+0.006
+0.046
+0.020
+0.010
+0.024
+0.018
+
+0.023
+
+0.016
+
+y
+y
+y
+y
+y
+y
+y
+y
+y
+n
+n
+n
+y
+n
+n
+10 y, 5
+n
+
+0.060
+0.049
+0.039
+0.039
+0.029
+0.025
+
+-0.006
+-0.011
+-0.010
+-0.028
+0.007
+0.002
+
+y
+y
+y
+y
+y
+y
+
+Simple Average
+OECD
+Greece
+Spain
+Austria
+France
+Finland
+Italy
+Canada
+United States
+Norway
+Japan
+Portugal
+New Zealand
+Sweden
+Australia
+Denmark
+Simple Average
+OTHER
+Albania
+Hungary
+Romania
+Bulgaria
+Turkey
+Poland
+
+28
+Morocco
+Egypt, Arab Rep.
+Tunisia
+Vietnam
+Mongolia
+Simple Average
+
+0.016
+0.013
+0.008
+0.004
+0.003
+0.026
+
+-0.011
+0.030
+0.021
+0.030
+-0.028
+0.000
+
+y
+n
+n
+n
+y
+8 y, 3 n
+
+Source: World Bank, World Development Indicators, on-line tables released June
+2003.
+
+29
+
+Table 2. Trend Rates of Growth
+
+Korea, Rep.
+Spain
+Denmark
+France
+Bulgaria
+Austria
+Canada
+Romania
+Italy
+Brazil
+United States
+Finland
+Norway
+Benin
+Portugal
+Guyana
+China
+Belize
+Nigeria
+Sweden
+Chile
+Tunisia
+Mauritius
+Egypt, Arab Rep.
+Costa Rica
+Pakistan
+Japan
+New Zealand
+Malaysia
+Australia
+Greece
+Ecuador
+Honduras
+Vietnam
+Argentina
+Thailand
+India
+Mozambique
+Chad
+Peru
+Uruguay
+South Africa
+Morocco
+Venezuela, RB
+
+Ag GDP
+per Worker
+1980-2001
+
+Crop Production
+per Worker
+1980-2000
+
+0.066
+0.058
+0.054
+0.054
+0.052
+0.052
+0.051
+0.050
+0.045
+0.042
+0.041
+0.039
+0.037
+0.036
+0.036
+0.035
+0.034
+0.034
+0.033
+0.032
+0.031
+0.031
+0.030
+0.030
+0.029
+0.029
+0.028
+0.028
+0.027
+0.024
+0.023
+0.023
+0.022
+0.021
+0.020
+0.020
+0.019
+0.019
+0.019
+0.018
+0.018
+0.017
+0.017
+0.016
+
+0.063
+0.050
+0.046
+0.049
+0.029
+0.028
+0.063
+0.025
+0.034
+0.039
+0.027
+0.046
+0.011
+0.048
+0.034
+0.025
+0.029
+0.027
+0.055
+0.028
+0.021
+0.019
+0.030
+0.036
+0.030
+0.021
+0.032
+0.027
+0.033
+0.046
+0.033
+0.021
+0.005
+0.027
+0.034
+0.010
+0.019
+-0.009
+0.016
+0.027
+0.028
+0.014
+0.016
+0.021
+
+30
+Mali
+Burkina Faso
+Bangladesh
+Guinea
+Malawi
+Paraguay
+Cameroon
+Hungary
+Mongolia
+Indonesia
+Uganda
+Zimbabwe
+Mexico
+Colombia
+Congo, Rep.
+Cote d'Ivoire
+Botswana
+Sri Lanka
+Swaziland
+Zambia
+Guatemala
+Gabon
+Philippines
+Suriname
+Turkey
+Madagascar
+Senegal
+Rwanda
+Ghana
+Burundi
+Kenya
+Gambia, The
+Sierra Leone
+
+0.016
+0.016
+0.015
+0.015
+0.014
+0.013
+0.013
+0.013
+0.012
+0.012
+0.010
+0.009
+0.009
+0.008
+0.008
+0.005
+0.005
+0.004
+0.003
+0.003
+0.003
+0.003
+0.002
+0.002
+0.001
+0.000
+-0.001
+-0.003
+-0.004
+-0.010
+-0.012
+-0.015
+-0.046
+
+0.019
+0.022
+0.012
+0.006
+0.004
+0.014
+0.005
+0.014
+-0.018
+0.013
+0.011
+0.007
+0.012
+0.013
+0.009
+0.017
+-0.015
+-0.006
+0.000
+-0.002
+0.000
+0.028
+0.003
+-0.023
+0.009
+-0.014
+0.020
+-0.007
+0.021
+-0.012
+-0.011
+0.008
+-0.014
+
+Note: Ag GDP endpoints are 1984 and 2000 in a few countries because of data
+limitations.
+Source: World Bank, World Development Indicators, 2003
+
+31
+Table 3. Cross-Country Regressions Explaining Growth in Agricultural GDP per
+Worker, 1980-2001
+Independent Variable
+
+Dependent Variable: Trend rate of growth of Ag GDP per worker
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+Intercept
+
+-0.303
+(-3.34)
+
+.009
+(0.50)
+
+0.077
+(2.08)
+
+0.251
+(3.20)
+
+Ag GDP per worker, 1980
+
+0.007
+(5.60)
+
+.002
+(0.92)
+
+-0.002
+(-0.71)
+
+-0.019
+(-2.84)
+
+Fertilizer per ha., 1980
+
+0.097
+(3.31)
+
+0.050
+(1.01)
+
+Tractors per ha., 1980
+
+-.073
+(-1.66)
+
+-0.213
+(-3.62)
+
+Growth in Crops per Worker,
+1961-80
+
+0.261
+(1.98)
+
+0.599
+(2.64)
+
+Illiteracy Rate of Youth, 1980
+
+0.0007
+(0.54)
+
+-.0002
+(-0.06)
+
+Ag. Research Spending, percent of
+GDP, 1965-80
+
+-.0051
+(-1.49)
+
+-.0025
+(-0.50)
+
+Std. Dev. of Inflation Rate
+
+0.0007
+(1.09)
+
+0.0024
+(1.62)
+
+Restraints on Economic Freedom
+(Heritage)
+
+-0.008
+(-1.21)
+
+-0.028
+(-2.86)
+
+Absence of Corruption
+(Transparency International)
+
+0.003
+(1.84)
+
+0.002
+(1.02)
+
+Restrictions of Civil Liberties
+(Freedom House)
+
+-0.006
+(-1.61)
+
+-0.030
+(-3.29)
+
+Rural Population per ha., 1980
+
+-.014
+(-1.34)
+
+.042
+(2.06)
+
+Africa
+
+-.016
+(-2.25)
+
+Asia
+
+.001
+(0.13)
+
+Latin America
+
+-.006
+(-0.81)
+
+OECD countries
+
+0.011
+(1.25)
+
+Trade in goods (% of GDP)
+
+0.042
+(2.43)
+
+PSE
+
+0.036
+(2.96)
+
+R
+
+2
+
+Number of countries
+
+.309
+
+.426
+
+.532
+
+.714
+
+71
+
+71
+
+49
+
+27
+
+32
+
+Table 4. Real Annual Growth Rates, 1980-2001
+Ag GDP
+per Worker
+
+National GDP
+per Capita
+
+GDP - Ag GDP
+
+AFRICA
+Botswana
+Swaziland
+Burkina Faso
+Ghana
+Chad
+Malawi
+Benin
+Senegal
+Mali
+Nigeria
+Kenya
+Zimbabwe
+Gambia, The
+South Africa
+Congo, Rep.
+Madagascar
+Burundi
+Cote d'Ivoire
+Cameroon
+Zambia
+Rwanda
+Sierra Leone
+MEAN
+
+0.005
+0.003
+0.016
+-0.004
+0.019
+0.014
+0.036
+-0.001
+0.016
+0.033
+-0.012
+0.009
+-0.015
+0.017
+0.008
+0.000
+-0.010
+0.005
+0.013
+0.003
+-0.003
+-0.046
+0.005
+
+0.044
+0.021
+0.014
+0.009
+0.009
+0.005
+0.003
+0.002
+0.001
+0.001
+0.001
+0.000
+-0.003
+-0.008
+-0.013
+-0.013
+-0.016
+-0.016
+-0.020
+-0.021
+-0.023
+-0.046
+-0.003
+
+0.039
+0.018
+-0.001
+0.014
+-0.010
+-0.009
+-0.033
+0.003
+-0.015
+-0.032
+0.013
+-0.009
+0.012
+-0.026
+-0.021
+-0.013
+-0.006
+-0.022
+-0.033
+-0.024
+-0.020
+0.001
+-0.008
+
+ASIA
+Bangladesh
+China
+India
+Indonesia
+Korea, Rep.
+Malaysia
+Pakistan
+Philippines
+Sri Lanka
+Thailand
+MEAN
+
+0.015
+0.034
+0.019
+0.012
+0.066
+0.027
+0.029
+0.002
+0.004
+0.020
+0.023
+
+0.023
+0.082
+0.036
+0.040
+0.062
+0.040
+0.023
+0.001
+0.033
+0.054
+0.039
+
+0.008
+0.047
+0.016
+0.029
+-0.005
+0.013
+-0.005
+-0.002
+0.029
+0.034
+0.016
+
+Latin American
+Argentina
+Belize
+Brazil
+Chile
+Colombia
+
+0.020
+0.034
+0.042
+0.031
+0.008
+
+0.008
+0.028
+0.007
+0.045
+0.014
+
+-0.012
+-0.006
+-0.034
+0.013
+0.006
+
+33
+Costa Rica
+Ecuador
+Guatemala
+Guyana
+Honduras
+Mexico
+Paraguay
+Peru
+Suriname
+Uruguay
+Venezuela, RB
+MEAN
+
+0.029
+0.023
+0.003
+0.035
+0.022
+0.009
+0.013
+0.018
+0.002
+0.018
+0.016
+0.020
+
+0.018
+0.000
+0.003
+0.016
+0.001
+0.006
+-0.002
+-0.006
+0.007
+0.017
+-0.004
+0.010
+
+-0.012
+-0.023
+0.000
+-0.019
+-0.021
+-0.003
+-0.015
+-0.023
+0.005
+0.000
+-0.020
+-0.010
+
+OTHER
+Egypt, Arab Rep.
+Morocco
+Tunisia
+Turkey
+MEAN
+
+0.030
+0.017
+0.031
+0.001
+0.020
+
+0.022
+0.012
+0.021
+0.023
+0.020
+
+-0.007
+-0.004
+-0.010
+0.022
+0.000
+
+OECD
+Australia
+Austria
+Canada
+Denmark
+Finland
+France
+Greece
+Italy
+Japan
+Norway
+Portugal
+Spain
+Sweden
+United States
+MEAN
+
+0.024
+0.052
+0.051
+0.054
+0.039
+0.054
+0.023
+0.045
+0.028
+0.037
+0.036
+0.058
+0.032
+0.041
+0.041
+
+0.020
+0.020
+0.015
+0.017
+0.018
+0.016
+0.012
+0.018
+0.024
+0.025
+0.031
+0.025
+0.014
+0.020
+0.020
+
+-0.004
+-0.032
+-0.036
+-0.038
+-0.022
+-0.038
+-0.012
+-0.027
+-0.004
+-0.012
+-0.005
+-0.033
+-0.018
+-0.021
+-0.021
+
+34
+
+Figure 1. Cereal Yields in Selected Countries
+
+10000
+
+Kg. per Hectare (log scale)
+
+Angola
+Belize
+China
+Congo, Rep.
+Honduras
+1000
+
+India
+Liberia
+Mozambique
+Swaziland
+Zambia
+Haiti
+
+100
+1960
+
+1965
+
+1970
+
+1975
+
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+2005
+
+35
+
+Figure 2a. Real Agricultural GDP per Worker, Sub-Saharan Africa
+
+10000
+
+Benin
+1000
+
+Botswana
+Burkina Faso
+Cameroon
+
+1995 US Dollars (log scale)
+
+Central African Republic
+Cote d'Ivoire
+Gabon
+Ghana
+Kenya
+Madagascar
+Malawi
+Nigeria
+Senegal
+South Africa
+Tanzania
+Zambia
+
+100
+
+Zimbabwe
+
+10
+1960
+
+1965
+
+1970
+
+1975
+
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+2005
+
+36
+
+Figure 2b. Real Agricultural GDP per Worker, Asia
+
+100000
+
+10000
+Bangladesh
+1995 US Dollars (log scale)
+
+China
+India
+Indonesia
+Korea, Rep.
+Malaysia
+Pakistan
+Philippines
+Sri Lanka
+1000
+Thailand
+
+100
+1960
+
+1965
+
+1970
+
+1975
+
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+2005
+
+37
+
+Figure 2c. Real Agricultural GDP per Worker, Latin America
+
+100000
+
+10000
+
+1995 US Dollars (log scale)
+
+Argentina
+Belize
+Brazil
+Chile
+Colombia
+Costa Rica
+Ecuador
+Honduras
+
+1000
+
+Mexico
+Paraguay
+Peru
+
+100
+1960
+
+1965
+
+1970
+
+1975
+
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+2005
+
+38
+
+Figure 2d. Real Agricultural GDP per Worker, OECD Countries
+
+100000
+
+Australia
+
+10000
+
+Austria
+Canada
+Denmark
+
+1995 US Dollars (log scale)
+
+Finland
+France
+Greece
+Italy
+Japan
+Netherlands
+New Zealand
+Norway
+Spain
+Sweden
+United States
+1000
+
+100
+1960
+
+1965
+
+1970
+
+1975
+
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+2005
+
+39
+
+Figure 3. Ag GDP per Worker and National GDP per Capita, 52 Developing Countries
+
+0.100
+
+0.080
+
+National GDP, rate of growth, 1980-2001
+
+0.060
+y = 0.7667x - 4E-05
+R2 = 0.3366
+0.040
+
+0.020
+
+-0.060
+
+-0.040
+
+-0.020
+
+0.000
+0.000
+
+0.020
+
+-0.020
+
+-0.040
+
+-0.060
+Ag GDP, rate of growth, 1980-2001
+
+0.040
+
+0.060
+
+0.080
+
+40
+
+Figure 4. Agricultural GDP and National GDP: Korea
+
+12.000
+
+10.000
+
+11.000
+
+9.000
+
+10.000
+
+8.000
+
+9.000
+
+7.000
+
+8.000
+
+Agricultural GDP per Worker (right scale)
+
+7.000
+
+6.000
+1960
+
+6.000
+
+5.000
+
+1965
+
+1970
+
+1975
+
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+4.000
+2005
+
+Ln of 1995 US Dollars
+
+Ln of 1995 US Dollars
+
+National GDP per Capita (left scale)
+
+41
+
+Figure 5. Agricultural GDP and Overall GDP: Indonesia
+
+7.000
+
+National GDP per
+capita
+
+Log of 1991 US Dollars
+
+6.500
+
+Agricultural GDP per
+Worker
+
+6.000
+
+5.500
+
+5.000
+1960
+
+1965
+
+1970
+
+1975
+
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+2005
+
+

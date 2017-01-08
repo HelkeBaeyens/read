@@ -1,0 +1,1076 @@
+Agricultural Economics, 4 ( 1990) 27-43
+Elsevier Science Publishers B.V., Amsterdam- Printed in The Netherlands
+
+27
+
+Adoption of New Technologies in Ethiopian
+Agriculture:
+The Case of Tegulet-Bulga District,
+Shoa Province
+Yohannes Kebede, Kisan Gunjal and Garth Coffin
+Department of Agricultural Economics, McGill University, Ste. Anne de Bellevue, Que., H9X 1CO
+(Canada)
+
+(Accepted 31 March 1989)
+
+Abstract
+Kebede, Y., Gunjal, K. and Coffin, G., 1990. Adoption of new technologies in Ethiopian agriculture: the case ofTegulet-Bulga District, Shoa Province. Agric. Econ., 4: 27-43.
+Adoption of agricultural production technologies in developing countries is influenced by a wide
+range of economic and social factors as well as physical and technical aspects of farming and the
+risk attitude of farmers. It is important to understand the role of these factors to ensure the
+development of appropriate technologies and the design of successful development projects. This
+study examines the impact of such factors on the adoption of single-ox, fertilizer and pesticide
+technologies as part of a post-drought recovery project in Tegulet-Bulga district in Ethiopia.
+Models to evaluate the probability of adoption are specified for the respective technologies and
+are estimated using a logit maximum likelihood procedure. results indicate that the most significant variable affecting the probability of adoption of all three technologies is farm size; the impact
+is negative for single-ox technology and positive for fertilizer and pesticide use. Economic factors
+such as income, wealth and debt generally exhibit statistically significant influence on the adoption of single-ox and pesticide technologies as do family size, access to outside information, education and experience.
+The effect of socio-economic factors on adoption of fertilizer and pesticide technologies is greater
+in the area which has more access to outside information and off-farm activities (Ankober) than
+in more 'self-contained' area (Seladengay). The impact of the degree of risk aversion of farmers
+is found to be significant and negative for single-ox technology in both areas, and for fertilizer and
+pesticide technologies in only one area. The predicted probabilities of technology adoption by an
+average farmer are found to increase dramatically with the level of education and access or exposure to outside information.
+
+Introduction
+Food production problems of African countries, particularly of Ethiopia, have
+been widely publicized in recent years. Although much attention has been fo0169-5150/90/$03.50
+
+© 1990 Elsevier Science Publishers B.V.
+
+28
+
+cused on emergency relief, the important element of post-drought recovery,
+and the long-term food supply, is the provision and adoption of appropriate
+production technologies.
+Development programs in Ethiopia over the past two decades, have included
+several new technologies. Among the most recently introduced are single-ox,
+pesticides and fertilizer usage. However, there has not been a wide-spread provision and adoption of these technologies in the central highlands of Ethiopia.
+Various socio-economic factors and the degree of risk aversion may be the causes
+oflow adoption rates (Teele, 1975; Jamison and Lau, 1982; O'Mara, 1983; Roe,
+1983; Shakya and Flinn, 1985).
+The main objective of this paper, therefore, is to demonstrate how the various economic, social, and physical variables and degree of risk aversion affect
+the adoption of three selected technologies in Ethiopian agriculture. In addition, this study will also focus on how sequential (recursive) decisions are
+implemented.
+Study sites
+
+The study sites of Ankober and Seladengay sub-districts of Tegulet-Bulga
+district of Shoa administrative region are located in central Ethiopian highlands. Because of geographical barriers (lack of roads and other means of communication) the study areas had never been accessed by any development project until1984. The main characteristics of the farmers in these areas are given
+in Table 1. Seladengay area has a longer tradition of farming with slightly
+TABLE!
+Characteristics of the sample farmers from the study areas in Ethiopia
+Characteristics
+
+Ankober
+
+Seladengay
+
+Altitude (m above sea level)
+Average farm size (ha)
+Average family size
+Gross farm incomea
+1985/86 (US$)b
+1986/87 (US$)
+Average oxen per household
+Farming experience (years)
+Off-farm income (US$)
+Cereal Yield (q)
+
+1700
+1.03
+4
+
+2200
+1.25
+5
+
+203
+249
+1.11
+25
+127
+6
+
+313
+323
+1.34
+26
+9
+
+aSince the yield per hectare is higher for Seladengay than for Ankober area, the use of similar
+average market price to value output results in higher gross farm income for Seladengay area.
+bValues in local currency (Ethiopian birr) were converted to US$ using an exchange rate of 2.07
+birr= US$1.00.
+q, metric quintal= 100 kg.
+
+29
+
+larger farm size, higher farm income and slightly larger family size than
+Ankober.
+These areas were among the regions affected by the major drought of 1984/
+85. The farmers were assisted by a recovery project financed by Oxfam America, Oxfam UK, Medios of Belgium, CFAF of France and other donor agencies.
+Technical assistance was provided by the International Livestock Center for
+Africa (ILCA). Data were collected the year following the drought when crop
+production was relatively good.
+Characteristics of the technologies: single-ox, fertilizers and
+pesticides
+
+Traditionally, Ethiopian farmers have used a pair of oxen for traction. However, studies of the Ethiopian highland reclamation have found that most
+farmers do not posses a pair of oxen (Constable, 1983). The rapid increase in
+population has increased competition for arable land and has resulted in declining grazing areas and animal population (Ministry of Agriculture, 1982).
+At the same time, raising a large number of animals on limited land has exposed both arable and non -arable lands to soil erosion.
+To overcome the problem of a shortage of oxen, Ethiopian farmers have been
+using traditional resource-exchange arrangements (McCann, 1986). The
+practice of exchanging grain for oxen became unaffordable for many small
+farmers after the drought. In order to reduce soil erosion and avoid farm indebtedness from traditional exchange arrangements, ILCA developed a modified form of traction implement to be pulled by a single-ox rather than the
+conventionally used pair ( Gryseels et al., 1984). Thus, single-ox technology
+was one aspect of the post-drought recovery project.
+The second technology provided to farmers is pesticides. Insects such as
+grasshoppers and American ball worms pose a serious problem in both study
+sites. Therefore, under this project, farmers were provided with a small amount
+of pesticides at a normal market price on an interest-free loan to be repaid in
+3 years.
+The third production technology considered is the provision of inorganic
+fertilizers. In order to reduce the loss of fertility of their farm lands, some
+farmers have tried to use farm yard manure (FYM). But the FYM practice
+requires more livestock to produce enough manure. It also requires more labour
+than that provided by 4 to 5 family members to distribute the manure on the
+field. Therefore, the practice is mostly restricted to gardens. Where inorganic
+fertilizer has been used yields are generally much higher. Inorganic fertilizer is
+provided through the Ministry of Agriculture at a price set by the government.
+Not all farmers used or intended to use the above three production technologies. The thrust of this study is, therefore, to identify the factors that moti-
+
+30
+
+vated farmers to use or not to use single-ox, pesticides and fertilizer, and the
+extent to which these factors were influential in farmers' decisions.
+
+Models of adoption behaviour
+A number of studies have investigated the influence of various socio-economic factors on the willingness of decision makers to use new technologies
+(Nerlove and Press, 1973; Roe, 1983; Shakya and Flinn, 1985). In most studies
+of adoption behaviour the dependent variable is constrained to lie between 0
+and 1 and the models used are exponential functions. Univariate and multivariate logit and probit models and their modified forms have been used extensively to study the adoption behaviour offarmers and consumers (Nerlove and
+Press, 1973; Schmidt and Strauss, 1975; Garcia et al., 1983; Shakya and Flinn,
+1985).
+Maddala ( 1983) and Shakya and Flinn ( 1985) have recommended probit
+models for functional forms with limited dependent variables that are continuous between 0 and 1, and logit models for discrete dependent variables. In this
+study the responses recorded are discrete (mutually exclusive and exhaustive)
+and therefore a univariate logit model will be developed.
+For analysis of the adoption of technology packages, some studies have proposed simultaneous decision models (Feder et al., 1985). Observed behaviour
+in some areas, however, has revealed that there is a recursive decision-making
+process where those inputs considered critical to farm survival are adopted
+first, followed by inputs which are believed to increase yield. For instance, the
+intention to use fertilizer depends on the decision made regarding how to prevent crop losses from insects and diseases if the latter is a priority problem.
+In making decisions about the adoption of a given technology, farmers are
+assumed to weigh the consequences of adoption of an innovation against its
+economic, social, and technical feasibility. If we assume that social values or
+technical achievements are a reflection of the level of economic achievements,
+then a farmer evaluates the new technology in terms of its incremental benefit.
+Naturally, if the monetary benefit from a technology is higher, the preference
+or utility ( U) for that technology (assuming a monotonic relationship between
+benefits and utility) will be higher.
+Suppose an individual household's preference (utility) of adopting a new
+technology, for a given vector of economic, social and physical factors (X) is
+denoted by UN(X) and the preference (utility) of adopting the traditional
+technology by UT (X). Then, the preference for adopting the new and old technologies can be defined as a linear relationship:
+UN(X)=XBN+EN
+
+(1)
+
+UT(X)=XBT+ET
+
+(2)
+
+31
+
+where BN, BT and EN, ET are response coefficients and random disturbances
+associated with the adoption of new and traditional technologies, respectively.
+If the index of adoption is denoted by Y, it will take a value of one if the farmer
+is willing to adopt the new technology and zero otherwise.
+The probability that a given farmer will adopt the new technology can be
+expressed as a function of X as follows:
+P(Y=1) =P(UN > UT)
+
+(3)
+
+=P(XBN +EN> XBT + ET)
+=P[X(BN -BT) >ET -EN]
+=P(XB>E)
+=F(XB)
+
+(3a)
+
+where Pis the probability function, B = (BN- BT) a vector of unknown parameters which can be interpreted as the net influence ofthe vector of independent
+variables on adoption of the new technology, E = (ET- EN) a random disturbance term and F(XB) is cumulative distribution function F evaluated at XB
+(for details see Rahm and Huffman, 1984).
+According to the logit model, the probability of an individual household
+adopting a technology, given economic, social and physical characteristics (X),
+is P (NIX) and can be specified as:
+P(NIX) =exp(XB+E)/{1+exp(XB+ E)}
+where
+
+(4)
+
+-oo<XB<oo
+
+The probability of adoption of the traditional technology, P ( T IX), is therefore,
+P(TIX)=1-P(NIX)
+=1- [exp(XB+E)/{1+exp(XB+E)}]
+=1/{1+exp(XB+E)}
+
+(5)
+
+The relative odds of adopting versus not adopting a new technology are given
+by:
+P(NIX)/P(TIX) = [exp(XB+E)] [1+exp(XB+E) ]/[1+exp(XB+E)]
+=exp(XB+E)
+
+(6)
+
+taking the logarithms of both sides,
+ln[P(NIX)/P(TIX)] =XB+E
+
+(7)
+
+The final decision of farmers is a reflection of various factors including their
+
+32
+
+risk preference and socio-economic environment. The risk preference of a decision maker is, itself, a function of economic and social factors. Some studies
+have included risk preference along with other factors in adoption models (Roe,
+1983). If both sets of variables are included in the models of adoption studies,
+however, there will be high degree multicollinearity. In this study, therefore,
+some of the socio-economic variables are discarded in order to reduce the problem of multicollinearity (Moock, 1981) and avoid problems of lack of convergence (Harrel, 1985 ).
+Empirical model specification
+The probability of adoption of single-ox technology, PA ( S), was specified as
+a function of economic, social and physical factors as follows:
+PA(ST =f(XIJ ... , X12)
+
+(8)
+
+where the economic factors include:
+X 1 After-tax farm income (100 birr)
+X 2 off-farm (out side own farm) income ( 100 birr)
+X 3 value of livestock and farm equipment (100 birr)
+x4 debt ( 100 birr) and
+X 5 farm size ( ha),
+the social factors include:
+x6 family size,
+X 7 education (recorded as 0 or 1),
+X 8 index of awareness (e.g., exposure to outside information)
+X 9 number of relatives, and
+xlO years of farming experience
+and the physical factors include:
+X 11 degree of difficulty in plowing arising from plot characteristics, (e.g., soil
+type, stone coverage and slope), and
+x12 difficulty in plowing due to inadequacy of traction power provided by a
+single ox.
+A model of adoption of pesticides, PA(PT), was specified as a function of
+variables xl to xlO. Adoption offertilizer, PA(FT), was specified as a function
+of variables xl to Xn plus adoption of pesticides, PA(PT) 1. Off-farm income
+(X2 ) does not appear in adoption models for Seladengay because of the absence of measurable income outside households' own farm in this area.
+2.07 Ethiopian birr is equivalent to US $1.00.
+relationship of plot characteristics (X11 ) to adoption of pesticides is not critical as far as
+effectiveness of this input is concerned. Thus, it does not appear in pesticide model. Also, difficulty
+in traction power (X12 ) does not directly influence adoption of pesticides and fertilizer because
+these are inputs used after completing field preparation.
+1 The
+
+33
+
+All variables were used as quantified by respondents except the index of
+awareness (X8 ) and plot characteristics (X11 ). These variables were approximated as follows.
+
+(9)
+The variable C1 is the relative number of city visits measured as the number of
+visits a farmer makes to the nearby towns and market places per year divided
+by the highest number of visits in the sample. This way the ratio ( C1 ) is constrained to lie between 0 and 1. Owning a radio ( C2 ) was given a value of 1 and
+0 otherwise. A farmer who owns a radio is assumed to listen to news from
+outside and thus expected to have a 100% exposure to outside information
+compared to farmers who do not own radio. Although C1 is continuous (between 0 and 1) and C2 is discrete, the need to capture the influence from both
+factors and at the same time to reduce the number of variables has necessitated
+the construction of this index. 2
+In the case of plot characteristic:
+(10)
+where each of the variables takes 0, 1 values as defined below:
+8 1 = 1 if more than 50% of the plots are located in hilly areas, 0 otherwise;
+8 2 = 1 if the soil type poses problems for plowing, especially with single ox, as
+judged by the farmer (e.g., heavy clay soils), and 0 otherwise;
+8 3 = 1 if more than 50% of the plot is covered with stones, and 0 otherwise.
+It would be more accurate to have a measurable variable for draft power of
+an ox (X12 ) (e.g., in horsepower). However, this was not possible. Instead,
+farmers were asked to give an evaluation of their respective ox with respect to
+its capacity when used to plow alone. Those who have seen or anticipated difficulty were given a value of one and zero otherwise. This indicates the technical feasibility of single-ox technology as judged by the farmers.
+In order to see the influence of risk aversion and variables less correlated
+with risk on adoption of the three production technologies, the following logit
+regressions were specified:
+PA(ST) =f[R(X), X 11 , X12]
+
+(11)
+
+PA(PT) =f[R(X)].
+
+(12)
+
+PA(FT) =f[R(X), PA(PT)]
+
+(13)
+
+where R (X) is the measure of relative risk aversion. This variable was meaIn fact, group discussion with farmers has revealed that farmers who do not own radio have less
+knowledge about the effect of technologies on agricultural production. Thus, the index, although
+involving aggregate bias, is believed to provide some measure about the influence of outside information which would not otherwise have been studied.
+
+2
+
+34
+
+sured as follows. Risk attitudes were elicited by the Ramsey method using distribution of wealth. First, the absolute risk aversion coefficients were estimated using the negative exponential function (Buccola et al., 1978) given by:
+U=K-{ (d) exp( -bM)}
+
+K,M, b>O
+
+(14)
+
+where U is the utility index constructed by chaining lotteries, K is an additive
+adjustment factor, dis an unknown scale parameter, exp is an exponent, b is
+the absolute risk aversion coefficient, and M is a monetary pay-off. Then, the
+relative risk aversion coefficient values were derived by multiplying b by the
+value of the wealth of each farmer.
+Sample
+For the technology adoption model, a sample of 100 farmers from Ankober
+and 80 farmers from Seladengay was randomly chosen. However, due to time,
+money and personnel constraints the respective sample size for adoption models
+involving the risk aversion coefficient were limited to 25 and 22. Farmers who
+had used the technology and/ or who had planned to use it next season were
+categorized as adopters ( PA = 1) and those who were not willing to use it as
+non -adopters (PA = 0). Farmers did not use the technologies during the period
+of this study but who were planning to use them the next season were asked to
+estimate the benefits and identify constraints from using these technologies.
+This was accomplished through the farmers own expectations, based on the
+impact of these technologies on the field of others. Finally, any over- or underestimation of benefits from using these technologies especially from farmers
+who were planning to use them the following season were corrected on the basis
+of a second and third-round interviews.
+Empirical results
+Assuming a normally distributed error term (E) in equation (3a), the logit
+maximum likelihood (LML) estimation procedure was used to obtain consistent, efficient and asymptotically normal estimators (Amemiya, 1981; Maddala, 1983; Rahm and Huffman, 1984; Capps and Kramer, 1985). The estimates are summarized in Table 2 for Ankober and Seladengay areas and the
+results are discussed below.
+Economic factors
+
+As expected, after-tax farm and off-farm incomes have positive effects on
+adoption of the three production technologies. The only exception is fertilizer
+technology (FT) in Ankober where a negative but nonsignificant effect was
+
+35
+TABLE2
+Estimates of the impact of economic, social and physical factors on technology adoption in Ethiopia
+Independent
+Variables
+
+Single-ox
+A
+
+Intercept
+Farm income
+(Xt)
+
+Off-farm income
+(X2)
+
+Wealth
+(Xa)
+
+Debt
+(X4)
+
+Farm size
+(Xs)
+
+Family size
+(Xs)
+
+Education
+(X7)
+
+Awareness
+(Xs)
+
+Relatives
+(Xa)
+
+Experience
+(XlO)
+
+Plot characteristics
+(Xu)
+
+Traction power
+(X12)
+
+2.535
+(3.1 )**
+0.06
+(0.3)
+0.29
+(4.3 )**
+-0.13
+(1.7)
+0.23
+(0.6)
+-2.1
+(5.4)**
+0.27
+(2.74)
+1.002
+(2.1)
+1.401
+(1.3)
+0.11
+(1.9)
+-0.066
+(8.2)**
+-0.352
+(0.1)
+-1.077
+(3.4)**
+
+Pesticides
+
+s
+2.873
+(2.1)
+0.1
+(0.3)
+
+0.5
+(6.3)**
+2.5
+(7.7)**
+-0.4
+(0.3)
+-0.229
+(0.7)
+2.274
+(5.5 )**
+8.141
+(4.5 )**
+0.008
+(0.01)
+-0.113
+(5.3 )**
+-0.157
+(0.02)
+-3.019
+(6.5 )**
+
+Fertilizer
+
+A
+
+s
+
+A
+
+s
+
+-9.946
+(20.8)**
+0.8
+(7.1 )**
+0.3
+(2.3)
+0.09
+(0.8)
+-0.05
+(0.02)
+6.0
+(9.0)**
+-0.411
+(2.9)*
+0.781
+(0.8)
+-1.096
+(0.4)
+-0.189
+(2.0)
+0.091
+(9.1 )**
+
+-11.875
+(15.3)**
+0.32
+(1.4)
+
+-2.612
+(2.5)
+0.3
+(2.3)
+
+0.3
+(2.3)
+-1.8
+(6.6)**
+3.0
+(9.0)**
+0.472
+(2.7)*
+2.114
+(3.7)*
+3.687
+
+-4.98
+(7.6)**
+-0.3
+(2.3)
+0.7
+(0.1)
+0.08
+(0.5)
+-0.48
+(1.4)
+5.0
+(9.8)**
+0.163
+(0.53)
+-0.554
+(0.4)
+1.941
+
+(1.1)
+
+(1.1)
+
+0.057
+(0.4)
+0.064
+(3.8)*
+
+0.064
+(0.3)
+-0.035
+(1.6)
+
+-0.05
+(0.3)
+-0.5
+(0.7)
+2.2
+(6.0)**
+0.023
+(0.01)
+0.993
+(1.6)
+-0.793
+(0.1)
+-0.006
+(0.01)
+-0.043
+(2.1)
+
+0.63
+0.37
+59.7**
+
+3.364
+(10.8)**
+0.63
+0.37
+73.6**
+
+1.058
+(1.6)
+0.43
+0.44
+38.4**
+
+Pesticide
+[PA(PT)]
+
+R2
+
+0.40
+0.48
+46.4**
+
+PseudoR 2
+Chi-square
+
+0.57
+0.37
+54:4**
+
+0.63
+0.39
+74.3**
+
+A, Ankober area; and S, Seladengay area.
+For the calculation of R 2and pseudo R 2 , see Harrell ( 1985, p.271) and Aldrich and Nelson ( 1984,
+57), respectively. Also,** and* imply significe at 5% and 10% level of probability, respectively.
+Chi-square values are shown in parentheses.
+
+observed. The positive effect of one extra Ethiopian birr of income is smallest
+on the probability of adoption of single-ox technology ( ST) and largest on the
+probability of adoption of pesticide technology (PT) for Ankober. 3 The effects
+though the calculus of probability i~ logit models is not the same as in linear probability
+models, the magnitude of the probability is highly influenced by the value of estimated coefficients.
+Thus, it is possible to suggest the direction of the effect on the basis of the coefficients (Aldrich
+3 Even
+
+smrl NPl«nn.
+
+Hl~4)
+
+36
+
+of after-tax farm income on PT and off-farm income on ST were significant
+only for Ankober. It is also evident that the monetary benefit (measured by
+the size of the coefficient of farm income) of single-ox and fertilizer technologies has a much larger impact in Seladengay than in Ankober.
+The more wealth a farmer has, the more likely he is to adopt a new technology. More wealth also implies the ability to buy another ox or availability of
+cow(s) to be used for draft purposes, hence exerting a negative influence on
+adoption of ST. The effect of wealth is found to be positive but nonsignificant
+on adoption of pesticides. The negative effect of wealth on adoption of ST in
+Ankober is as expected. The positive and significant effect ofwealth on adoption of ST as observed in Seladengay requires additional explanation. The practice of using a cow with an ox for traction is more common in Seladengay than
+in Ankober. Thus, the more livestock (hence cows) households have the more
+willing they may be to use a single-ox.
+The larger the debt a farmer has to pay ( X 4 ), the less willing he is to use new
+technologies from which the benefit is uncertain. However, heavily indebted
+farmers may be willing to try ST and save on oxen resource more than the less
+indebted farmers.
+The debt level has the anticipated effect of inhibiting ability to adopt as seen
+from its negative effect on adoption of PT and F T in both areas. Similarly, as
+anticipated, its effect on adoption of ST is positive. The significant effect of
+debt on adoption of F T for Seladengay might imply that farmers in this area
+are more risk averse than the farmers in Ankober.
+As farm size (X5 ) increases farmers need more traction power. If a farmer
+judges the traction power provided by a single-ox to be inadequate to complete
+critical field operations on time, then the larger the farm size, the lower is the
+probability of adopting ST. Generally, an increase in farm size is likely to increase the probability of adoption of PT and FT (see reviews by Feder et al.,
+1985).
+As seen from Table 2, farm size has a negative effect on adoption of ST and
+a positive effect on adoption of PT and F T as anticipated. This variable has the
+most significant effect on adoption of all production technologies except on
+the ST for Seladengay. The negative but non-significant effect of farm size on
+adoption of ST for Seladengay may be because of limited scope for expanding
+farm size compared to Ankober.
+With the use of pesticides, if a farmer can prevent crop loss and obtain a
+good harvest, then he may want to increase his farm income by using fertilizer.
+Therefore, the decision to use pesticides can have a positive effect on the decision to use fertilizer.
+As anticipated, the argument of the complementarity between pesticides and
+fertilizer and the recursive decision-making of farmers with respect to allocation of funds to these inputs is supported by a positive effect of PT on the
+adoption ofFT·
+
+37
+Social factors
+
+Household decision-making with respect to the farming operation is influenced not only by the ecol).omic merits of actions but also by social factors
+pertinent to the household and those operating at community level. The influence of few of these factors on adoption of technologies is discussed below.
+A large family often has a large number of working members. If this is the
+case, then there will be more labour to exchange for an additional ox or to
+perform supplementary farming operations such as furrow-making and other
+manual cultivations. The larger the family (X6 ), other things being constant,
+the higher will be the probability of adoption of single-ox, pesticides and fertilizer technologies.
+As anticipated, family size has a positive effect on F T for both areas but a
+mixed effect on adoption of PT and ST. The mixed effect may be because of
+some unknown influences which were not captured by variables included in
+the model.
+In this part of Ethiopia, education (X 7 ) consists mainly of pre-school teaching through churches and the government literacy campaigns. Accordingly,
+education is expected to have a positive effect on adoption of all three production technologies.
+The results show that education has a positive effect in most cases. However,
+the level of significance is fairly low. This may, in part, be due to the large
+number of variables, given a sample size of 100 or less and the dichotomous
+measurement ( 0, 1) of this variable as opposed other ways of measuring
+education.
+As with education, the index of exposure to outside information (X8 ) is found
+to have a positive effect on the probability of adoption in most cases. However,
+in he statistical sense this hypothesis is supported in only two out of the six
+cases tested.
+If relatives (X 9 ) are seen as a source of additional help in case of need, then
+a farmer may try new practices. If they are seen as dependents, then he may
+not be willing to adopt new technology. A previous study by Gunjal (1987)
+found that in Seladengay the 'number of relatives' exerted a significant positive effect on the degree of risk aversion. In this study, the number of relatives
+(X9 ) is found to have positive but non-significant effect in most cases.
+Farming experience (X10 ), which is assumed to be monotonic with age, has
+shown that, given the short rainy season, it is necessary to complete field operations on time. Thus, the more experience farmers have the less likely that
+they will use a single-ox. On the other hand, the more experience a farmer has
+in recognizing the importance of pests and the decline in fertility status of his
+farm lands, the higher is the probability of adopting PT and F T·
+The finding that experience (age) exerts a negative effect on adoption of
+single-ox and fertilizer technologies and a positive effect on adoption of pes-
+
+38
+
+ticides is consistent with the general observation among the central highland
+Ethiopian farmers. Pesticides are seen as the only means (input) to control
+pests, so even older farmers are willing to make use of them. The single-ox and
+fertilizer represent, respectively, changes in traditional cultural practices and
+uncertain benefits because of rainfall variability. Thus, older farmers are less
+likely to use these technologies.
+Physical factors
+
+Agricultural technologies are developed to help farmers overcome some of
+the physical or technical constraints to production. Two of these physical or
+technical factors are considered below.
+The higher the value of the index of plot characteristics, X 11 , the more difficult it is to work the soil with single-ox. It also makes any investment in
+inputs such as fertilizer used on those plots less attractiv.e implying a negative
+effect of X 11 on the adoption ofPT and FT.
+The result show that X 11 has the anticipated negative effect on adoption of
+ST, but the result is found statistically non -significant. This could be partly
+due to measurement problems with respect to capturing the variability of factors such as moisture content, physical and chemical properties of the soil,
+exact slopes etc. The plot characteristics variable was found highly correlated
+with the adoption of pesticide in the fertilizer model and convergence could
+not be reached. Therefore, this variable was dropped from the final model for
+fertilizer adoption.
+Traction power provided by the Zebu breed is very low compared to the bullocks used in Asia (Reddy, 1982). Accordingly, the need to secure subsistence
+for the family might force decision makers to use more dependable sources of
+traction power such as a pair of oxen instead of a single-ox.
+As expected, the difficulty in traction power results in a negative and significant effect on adoption of ST in both regions. This implies that, given the
+present state of animal traction technology, the use of a single-ox may not be
+viewed by farmers as being very practical, irrespective of the plot characteristics.
+Finally, joint testing of social, economic and physical factors has shown that
+economic factors exert statistically significant influence on divisible technologies (such as P T and F T) and that in areas where the family structure and the
+degree of social ties among extended families is much stronger, social factors
+exert a significant influence on adoption.
+Risk and adoption of technologies
+
+The purpose of this section is to see how the degree of risk aversion, R (X),
+affects the adoption of the three production technologies. Initially, the models
+in equations (11), (12) and (13) were estimated. Some of the socio-economic
+
+39
+
+variables that are not highly correlated with R (X) (i.e., correlation coefficient
+less than 0.6) are later added to the final estimated equations. The results of
+these models are presented in Table 3.
+In general, the more risk averse a farmer is, the less willing he is to change
+the traditional practices and try new technologies. The interpretation and the
+influence of the various socio-economic factors on adoption of the three production technologies is the same as in the adoption models discussed earlier.
+The chi -square values for testing the effects of all variables except the intercept
+on adoption are significantly different from zero for both areas.
+In a separate study, most farmers in both study sites were found to be moderately to extremely risk averse in relative terms ( Gunjal, 1987) implying that
+they are less willing to adopt new inputs. The· results of this study indicate
+similar effects for adoption of ST in both areas and for adoption of PT and F T
+TABLE3
+Summary of estimates of economic, social and physical factors and risk aversion on technology
+adoption
+Independent
+Variables
+Intercept
+Farm size
+(Xs)
+Education
+(X7)
+Relatives
+(X9)
+Traction
+(X12)
+Pesticide
+(PA(PT))
+Risk aversion
+(R(X))
+
+R2
+PseudoR 2
+Chi-squared
+Observations
+
+Single-ox
+
+Pesticides
+
+Fertilizer
+
+A
+
+s
+
+A
+
+s
+
+A
+
+s
+
+2.702
+(2.7)*
+-0.2
+(0.02)
+
+8.402
+(3.2)*
+-2.0
+(1.00)
+
+-2.439
+(1.88)
+3.0
+(3.3)*
+
+-1.597
+(0.17)
+3.0
+(4.0)**
+
+-4.994
+(3.6)*
+5.0
+(5.0)**
+-0.846
+(0.37)
+
+-5.489
+(1.48)
+1.0
+(0.25)
+0.059
+(0.25)
+
+-0.114
+(0.86)
+
+0.02
+(0.01)
+
+10.394
+(0.24)
+-0.217
+(0.09)
+0.63
+0.32
+19.8**
+22
+
+-0.492
+(0.23)
+
+-2.989
+(3.3 )*
+
+-1.604
+(5.)**
+
+-1.403
+(0.69)
+
+0.469
+(0.84)
+
+-2.358
+(2.8)*
+
+1.227
+(1.03)
+0.433
+(0.36)
+
+0.34
+0.49
+10.0**
+25
+
+0.46
+0.40
+11.5**
+22
+
+0.57
+0.51
+7.1**
+25
+
+0.56
+0.39
+14.9**
+22
+
+0.36
+0.42
+14.8**
+25
+
+A, Ankober area; and S, Seladengay area.
+For the calculation of R 2and pseudo R 2, see Harrell's Revised Manual (1985, p. 271) and Aldrich
+and Nelson (1984, p. 57), respectively.
+Also,** and* imply significe at 5% and 10% level of probability, respectively.
+
+40
+
+for Seladengay. The positive but non-significant effect of risk aversion on
+adoption ofPTandFT for Ankober may be due to rainfall irregularities or other
+unexplained factors.
+Predicted probabilities
+The estimated models (shown in Table 2) were used to predict probabilities
+of adoption of the three technologies at the mean level of explanatory variables.
+As shown in Table 4, farmers in Ankober consistently exhibit higher probability of adoption of all three production technologies than farmers in Seladengay.
+The largest absolute difference in the probability of adoption occurs with respect to adoption of the single-ox technology. This can be attributed mainly to
+the fact that farmers in Seladengay show a greater tendency towards maintaining traditional cultural practices and have less outside contact to influence
+their decision making than farmers in Ankober. On the other hand, evaluation
+of the influence of education on the probability of adoption, holding other factors at the mean level, shows a larger increase in the probability of adoption of
+the three technologies in Seladengay than in Ankober. 4 This implies that improved education may have a substantial impact on the adoption of new
+technologies.
+The percentages of farmers who were willing to use single-ox, pesticide and
+fertilizer for Ankober were respectively 54, 56 and 62%, while for Seladengay
+the respective values were 33, 63 and 66%. From reviews of adoption studies
+in developing countries (e.g., Feder et al., 1985) this rate of adoption seems
+high. It is possible that these rates are over-estimated due to interest-free credit
+and other perceived fringe benefits from the project. 62%,
+TABLE4
+Predicted probabilities of technology adoption among farmers of Ankober and Seladengay and
+areasa
+Region
+
+Ankober
+Seladengay
+
+Single-ox
+
+Pesticides
+
+Fertilizer
+
+ed=1
+
+ed=O
+
+Mean
+
+ed=1
+
+ed=O
+
+Mean
+
+ed=1
+
+ed=O
+
+Mean
+
+0.81
+0.47
+
+0.56
+0.08
+
+0.61
+0.14
+
+0.85
+0.91
+
+0.73
+0.56
+
+0.76
+0.68
+
+0.68
+0.72
+
+0.79
+0.51
+
+0.76
+0.55
+
+aDerived from estimated equations evaluated when education takes 0 (no education) or 1 (mainly
+adult and primary education) and at mean levels.
+education was measured by way of years of schooling or comprehension ability, the effects may
+have been much larger.
+
+4 If
+
+41
+
+Conclusions
+The estimated models of adoption behaviour of farmers in Ethiopia indicate
+that economic and technical feasibility alone are not a guarantee for the adoption of technology. Social factors and the degree of risk aversion are equally
+important.
+The most significant economic factor affecting adoption of single-ox, pesticides and fertilizer technologies is farm size and the most significant social
+factor is farming experience. The impact of a change in farm size (i.e., tenure
+reform) is likely to have a positive impact on production augmenting technologies (pesticides and fertilizer) but a negative effect on resource saving technology (single-ox). More precisely, a one percent change in farm size (at the
+mean level of this and other variables) is expected to change the probability of
+adoption of ST, PT and F T by -9, + 1 and + 2 percent for Seladengay and by
+-3, + 0.6 and + 1 percent for Ankober, respectively.
+It has also been shown that farming experience exerts a negative influence
+on adoption of more risky technologies (e.g. single-ox and fertilizer) and a
+positive influence on the adoption of less risky technology (e.g. pesticides).
+This is consistent with the general observation that most Ethiopian highland
+farmers consider pesticide as the number one priority input. The high level of
+significance of traction power also leads to a conclusion that improvement in
+health and physical condition of oxen would make the single-ox technology
+more practical and acceptable. Similarly, other desirable modifications in
+plowing implements may also make this technology more acceptable to farmers.
+The degree of risk aversion exerts a negative influence on the adoption of
+production technologies in most cases. Given that adoption of technologies is
+a necessary step towards increasing food production, it is essential to reduce
+the level of risk aversion through better education, outside contact and other
+appropriate measures. The results show that the impact of education on the
+probability of adoption of each of the three technologies is substantial.
+Thus, policies designed to improve the economic, social and physical factors
+affecting farming systems, similar to Ankober and Seladengay areas, are likely
+to help increase the participation of farmers in development projects involving
+new agricultural technologies and increase food production in Ethiopia.
+Acknowledgement
+The financial support of the International Livestock Center for Africa
+(ILCA) for field work in Ethiopia and of the Agricultural Foundation of the
+Rotary Club of Montreal for analysis in Canada is highly appreciated. The
+research was conducted while the first author was completing his M.Sc. research in Ethiopia. The authors gratefully acknowledge the review comments
+by Randy Westgren.
+
+42
+
+References
+Aldrich, J.H. and Nelson, F.D., 1984. Linear Probability, Logit, and Probit Models. Sage, Beverly
+Hills, CA, 95 pp.
+Amemiya, T., 1981. Qualitative response models: a survey. J. Econ. Lit., 29: 483-1536.
+Anderson, J ., 1983. Reviewing agricultural technologies when farmers degrees of risk aversion are
+unknown. In: R.D. Norton and L. Solis (Editors), The Book of Chac: Programming Studies
+for Mexican Agriculture. Johns Hopkins University Press, Baltimore, MD, pp. 290-314.
+Buccola, S.T. a:n-j French, B.C., 1978. Estimating exponential utility functions. Agric. Econ. Res.,
+30:37-43.
+Byerlee, D. and De Pollanco, E.H., 1986. Farmers step wise adoption of technological package:
+evidence from the Mexican Altiplano. Am. J. Agric. Econ., 68: 519-527.
+Capps, 0., Jr. and Kramer, R.A., 1985. Analysis of food stamp participation using qualitative
+choice models. Am. J. Agric. Econ., 67:49-59.
+Constable, M., 1983. Ethiopian highland reclamation study: summary. Ministry of Agriculture/
+FAO, Addis Ababa, Ethiopia.
+Feder, G., Just, R.E. and Zilberman, D., 1985. Adoption of agricultural innovation in developing
+countries: a survey. Econ. Develop. Cultural Change, 33: 255-298.
+Garcia, P., Sonka, S.T. and Mazzacco, M.A., 1983. A multivariate logit analysis of farmers use of
+financial information. Am. J. Agric. Econ., 65: 131-141.
+Gryseels, G., Astatke, A., Anderson, F.M. and Asaminew, G., 1984. The use of single-ox for crop
+cultivation in Ethiopia. ILCA Bull. 18, International Livestock Center for Africa, Addis Ababa,
+Ethiopia, pp. 20-25.
+Gunjal, K., 1987. Measurement of risk attitudes: Delphi experiments with subsistence farmers in
+Ethiopia. Paper presented at the Joint Meetings of the American Agricultural Economists
+Association, and the Canadian Agricultural Economics and Farm Management Society, Michigan State University.
+Harrel, F.E., 1985. The logit procedure. In: SAS (SUGI) Supplemental Library User's Guide,
+Version 5 Edition. SAS Inst., Cary, NC, pp. 269-293.
+Jamison, D.T. and Lau, L.J., 1982. Farmers Education and Farmers Efficiency. Johns Hopkins
+University Press, Baltimore, MD, 292 pp.
+Maddala, G.S., 1983. Limited-Dependent and Qualitative Variables in Econometrics. Cambridge
+University Press, New York, 401 pp.
+McCann, J., 1986. Oxfam Ox/Seed Project Evaluation. Boston University, MA, 23 pp.
+Ministry of Agriculture, 1982. Data Book on Land Use and Agriculture in Ethiopia. I, II. Addis
+Ababa, Ethiopia.
+Moock, P., 1981. Education and technical efficiency. Econ. Dev. Cult. Change, 29: 723-739.
+Nerlove, M. and Press, S.J., 1973. Univariate and multivariate log linear and logistic models.
+Rand-1306-EA/NIH, Santa Monica, pp. 15-42.
+O'Mara, G., 1983. The micro-economics of techniques adoption by small holding Mexican farmers.
+In: R.D. Norton and L. Solis (Editors), The Book of Chac: Programming Studies for Mexican
+Agriculture. Johns Hopkins University Press, Baltimore, MD, pp. 250-289.
+Rahm, M.R. and Huffman, W.E., 1984. Adoption of reduced tillage: the role of human capital and
+other variables. Am. J. Agric. Econ., 66:405-413.
+Reddy, T., 1982. On the appropriate use of animal energy in Africa and Asia. Report ofFAO Expert
+Consultation, November, Rome, 19 pp.
+Roe, T., 1983. Risks and information: farm level impediments to transforming traditional agriculture. In: J .J. Molnar and A.A. Clonts (Editors), Transferring Food Production Technologies to Developing Nations. Westview, Boulder, CO, pp. 85-105.
+
+43
+Schmidt, P. and Strauss, R.P., 1975. The prediction of occupation using multiple logit models.
+Int. Econ. Rev., 16: 471-486.
+Shakya, P.B. and Flinn, J.C., 1985. Adoption of modern varieties and fertilizer use on rice in the
+eastern terrai of Nepal. J. Agric. Econ., 36: 409-419.
+Teele, T., 1975. Application ofprobit analysis to adoption of new agricultural practices. Ethiopian
+J. Dev. Res., 2: 501-522.
+
+

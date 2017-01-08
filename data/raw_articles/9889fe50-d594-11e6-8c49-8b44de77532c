@@ -1,0 +1,974 @@
+Agricultural Economics, 9 (1993) 297-311
+Elsevier Science Publishers B.V., Amsterdam
+
+297
+
+Technology characteristics, farmers' perceptions
+and adoption decisions: A Tobit model application
+in Sierra Leone
+Akinwumi A. Adesina
+West Africa Rice Development Association, Bouake, Ivory Coast
+
+and Moses M. Zinnah
+Department of Rural Sociology, College of Agricultural and Life Sciences,
+University of Wisconsin-Madison, WI, USA
+(Accepted 24 November 1992)
+
+ABSTRACT
+The objective of this paper is to test the hypothesis that farmer perceptions of technology-specific characteristics significantly condition technology adoption decisions. Earlier
+adoption studies have not considered this in the analysis of the determinants of adoption
+decisions. The omission of farmers' evaluation of technology-specific attributes may bias the
+results of factors conditioning adoption choices.
+A Tobit model was used to test this hypothesis using a stratified random sample of 124
+mangrove swamp rice farmers in Sierra Leone. The issue investigated is the adoption of
+improved mangrove swamp rice varieties. The estimated model results show that farmer
+perceptions of the technology-specific attributes of the varieties are the major factors
+determining adoption and use intensities. Indicators of adoption determinants traditionally
+used in adoption-diffusion studies were found not to be important in driving adoption
+decisions. Therefore, there is need for adoption studies to consider farmers' perceptions of
+technology-specific attributes in the assessment of technology adoption decisions.
+
+1. INTRODUCTION
+
+Since the earlier classic work of Rogers (1962), efforts to explain the
+determinants of innovation diffusion and adoption continues. Two major
+Correspondence to: Akinwumi A. Adesina, West Africa Rice Development Association, 01
+B.P. 2551, Bouake, Ivory Coast.
+0169-5150j93j$06.00 © 1993 -Elsevier Science Publishers B.V. All rights reserved
+
+298
+
+A.A. ADESINA AND M.M. ZINNAH
+
+groups of paradigms for explaining adoption decisions can be found in the
+literature: the innovation-diffusion, and the economic constraint paradigms.
+The innovation-diffusion model, following from the work of Rogers,
+holds that access to information about an innovation is the key factor
+determining adoption decisions (for a good review see Argarwal, 1983).
+The appropriateness of the innovation is taken as given, and the problem
+of technology adoption is reduced to communicating information on the
+technology to the potential end users. By emphasizing the use of extension,
+media and local opinion leaders or by the use of experiment station visits
+and on-farm trials the 'skeptic' non-adopters can be shown that it is
+rational to adopt.
+The economic constraint model (Aikens et al., 1975) contends that
+economic constraints reflected in asymmetrical distribution patterns of
+resource endowments are the major determinants of observed adoption
+behavior. Lack of access to capital (Havens and Flinn, 1976) or land (Yapa
+and Mayfield, 1978) could significantly constrain adoption decisions. While
+attempts have been made to assert the 'superiority' of the economic
+constraint model over the innovation-diffusion model (Hooks et al., 1983),
+such conclusions have been challenged (Nowak, 1987).
+A third paradigm, which we shall call the 'adopter perception' paradigm
+(Kivlin and Fliegel, 1966a,b, 1967) - the least quantitatively developed in
+the literature - constitutes the focus of this paper. The concept, which is
+now being implicitly used in one form or the other in the agricultural
+economics literature (Gould et al., 1989; Norris and Batie, 1987; Lynne et
+al., 1988), suggests that the perceived attributes of innovations condition
+adoption behavior. The limited quantitative studies that have considered
+farmers' perceptions in the context of adoption decisions (e.g. Gould et al.,
+1989; Norris and Batie, 1987), have included a perception variable measuring farmers' perception of a problem (e.g. soil erosion) - in their
+models. However, by being concerned primarily with only the farmers'
+perceptions regarding the severity of the problem to be solved, the studies
+implicitly take the technical innovations (designed to solve the problem) as
+appropriate for farmers.
+Therefore, a gap exists in the adoption literature: How do farmers'
+perceptions of the technology-specific attributes themselves condition
+adoption decisions? Farmers have subjective preferences for technology
+characteristics (Ashby and Sperling, 1992; Ashby et al., 1989) and these
+could play major roles in technology adoption. Adoption (rejection) of
+technologies by farmers may reflect rational decision making based upon
+farmers' perceptions of the appropriateness (inappropriateness) of the
+characteristics of the technologies under investigation. By extending the
+analysis to cover the attributes of the technology that may condition
+
+TOBIT MODEL APPLICATION IN SIERRA LEONE
+
+299
+
+adoption behavior, ex-post adoption studies could further increase their
+utility for directing appropriate technology development strategies.
+Therefore, the objective of this paper is to test the hypothesis that
+farmer perceptions of technology-specific characteristics significantly explains technology adoption decisions. It is argued that the omission of such
+variables in adoption models may bias the results on the factors determining adoption decisions of farmers. The specific case examined in the paper
+is farmers' adoption decisions regarding modern mangrove swamp rice
+varieties in Sierra Leone. The rest of the paper is divided into five sections.
+Section 2 gives an overview of the adoption of modern mangrove swamp
+rice varieties in Sierra Leone. Section 3 discusses the conceptual model,
+while Section 4 presents the empirical model. Section 5 discusses the
+empirical results, and the paper ends in Section 6 with conclusions.
+2. MODERN MANGROVE SWAMP RICE VARIETIES IN SIERRA LEONE
+
+The mangrove rice ecology stretches about 1.2 million hectares in West
+Africa, out of which over 200 000 ha are currently under cultivation in
+Guinea-Bissau, Gambia, Guinea, Senegal, Sierra Leone, and Nigeria. Mangrove swamps are located on the tidal estuaries close to the ocean. They
+are difficult environments for growing rice, particularly during the dry
+season, when salts deposited by the tidal flows are not easily washed off the
+land. Rice growing is restricted to the rainy season when the rains flush salt
+from the soil. The rice growing period is directly related to the distance of
+the rice cultivating areas from the sea. The length of the salt-free period
+increases with increasing distance away from the sea. Three mangrove rice
+growing zones can be distinguished depending on the duration of the
+salt-free periods: (1) short season zone: with salt-free periods of less than 4
+months; (2) medium growing season zone: with salt-free periods of 4-6
+months; and (3) long growing season zone: with salt-free periods of more
+than 6 months.
+Over 3000 mangrove rice varieties and lines (both local germplasm and
+crosses with introduced lines) have been screened and 17 high-yielding
+varieties have been recommended to farmers in West Africa (WARDA,
+1989). A number of these modern mangrove rice varieties are high-yielding,
+fit the different salt-free growing periods, and show tolerance to some
+major pests and diseases such as blast, stem borers and crabs (WARDA,
+1989). The modern mangrove swamp rice varieties that were investigated in
+this study (i.e. ROK 5, ROK 10, Kuatik Kundur and CP 4) were introduced
+into Sierra Leone through collaborative research between the Sierra Leone
+Rice Research Station and the West Africa Rice Development Association.
+ROK 5 is a short-duration variety ( < 4 months), Kuatik Kundur is a
+
+300
+
+A.A. ADESINA AND M.M. ZINNAH
+
+TABLE 1
+Descriptive data on the adoption of the modern mangrove swamp rice varieties in the Great
+Scarcies survey area in Sierra Leone
+Years
+
+1986
+
+1987
+
+Percentage of farmers adopting modern varieties
+5
+7
+
+1988
+
+1989
+
+1990
+
+15
+
+39
+
+52
+
+14
+
+10
+
+20
+16
+16
+
+18
+
+21
+
+Percent of farmers adopting selected modern varieties
+ROKS
+4
+5
+6
+ROK 10
+0
+1
+5
+Kuatik Kundur
+1
+1
+4
+Percent area cultivated in modern varieties
+n.a.
+n.a.
+
+11
+
+15
+
+n.a., not available.
+
+medium duration variety (4-6 months); ROK 10, ADNY-301 and CP-4 are
+long season varieties ( > 6 months). The adoption patterns of the modern
+varieties (Table 1) show that in the Great Scarcies study zone, these
+varieties have met with extensive adoption among farmers. The percent of
+farmers adopting improved varieties increased from 5% in 1986 to 52% in
+1990. ROK 5, ROK 10 and Kuatik Kundur had been adopted by 20%, 16%
+and 16% of farmers, respectively, in 1990. The area cultivated under
+improved varieties rose from 11% in 1988 to 21% in 1990.
+3. CONCEPTUAL MODEL
+
+Following Rahm and Huffman (1984), farmers' adoption decisions on
+the modern mangrove rice varieties are assumed to be based upon utility
+maximization. Define the varietal technologies by j, where j = 1 for the
+new technology and j = 2 for the old technology. The non-observable
+underlying utility function which ranks the preference of the ith farmer is
+given by U(Mji• A j). Thus, the utility derivable from the varietal technology depends on M which is a vector of farm and farmer-specific attributes
+of the adopter and A which is a vector of the attributes associated with the
+technology. Although the utility function is unobserved, the relation between the utility derivable from a jth technology is postulated to be a
+function of the vector of observed farm, farmer specific characteristics (e.g.,
+farm size, age, experience of farmer), and the technology specific characteristic (e.g., yield, taste, tillering capacity etc) and a disturbance term having
+a zero mean:
+j=1,2;i=1, ... ,n
+(1)
+
+301
+
+TOBIT MODEL APPLICATION IN SIERRA LEONE
+
+Equation (1) does not restrict the function F to be linear. As the utilities
+are random, the ith farmer will select the alternative j = 1 if Uli > U2 i
+or if the non-observable (latent) random variable y * = Uli - U2 i > 0. The
+probability that ¥; equals one (i.e., that the farmer adopts an improved rice
+variety) is a function of the independent variables:
+~i
+
+Pi= Pr(¥; = 1)
+
+=
+
+Pr(Uli > U2 J
+
++ e 1i > a 2 Fi(Mi, AJ + e2 J
+
+=
+
+Pr[ a 1 Fi(Mi, Ai)
+
+=
+
+Pr[ eli- e2 i > Fi(Mi, AJ(a 2 -
+
+a 1 )]
+
+=Pr(~ti> -Fi(Mi, Ai)/3)
+=
+
+(2)
+
+Fi(Xi/3)
+
+where X is the n X k matrix of the explanatory variables, and f3 is a k X 1
+vector of parameters to be estimated, Pr( ·) is a probability function, ILi is
+an random error term, and F(Xif3) is the cumulative distribution function
+for ILi evaluated at Xi/3. The probability that a farmer will adopt the
+modern mangrove rice variety is a function of the vector of explanatory
+variables and of the unknown parameters and error term. For all practical
+purposes, equation (2) cannot be estimated directly without knowing the
+form of F. It is the distribution of ILi that determines the distribution of F.
+If lti is normal, F will have a cumulative normal distribution (Rahm and
+Huffman, 1984).
+Following equation (2) the functional form of F is specified with a Tobit
+model, where lti is an independently, normally distributed error term with
+zero mean and constant variance a 2 :
+
+¥; =Xi/3
+=
+
+0
+
++ ILi > T
+if i* =Xi/3 + ~Li::::;, T
+if
+
+i* =Xi/3
+
+(3)
+
+where y; is the probability of adopting (and the intensity of use of) the
+modern mangrove rice varieties; i* is a non-observable latent variable, and
+T is a non-observed threshold level.
+The Tobit model (Tobin, 1958) therefore measures not only the probability that a mangrove rice farmer will adopt the new variety but also the
+intensity of use of the technology once adopted. Thus, equation (3) is a
+simultaneous and stochastic decision model. If the non-observed latent
+variable i* is greater than T, the observed qualitative variable yi that
+indexes adoption becomes a continuous function of the explanatory variables, and 0 otherwise. (i.e. no adoption). In cases where substantially large
+numbers of decision makers have completely adopted the technology, a
+variant of the one-limit Tobit model in equation (3) (i.e. a 2-limit Tobit
+proposed by Rossett and Nelson (1975)), could be used (e.g. Gould et al.,
+
+302
+
+A.A. ADESINA AND M.M. ZINNAH
+
+1989). Such an application of the Tobit analysis is, however, not appropriate for this study as only seven farmers (or 3% of the respondents) had
+completely adopted the improved rice varieties on all their total cropped
+area. The use of the one-limit Tobit model in this study is consistent with
+other earlier studies (Akinola and Young, 1985; Shakya and Flinn, 1985;
+Norris and Batie, 1987).
+4. EMPIRICAL MODEL
+
+The data on which the empirical model is based were collected in
+1990-1991 during an intensive 6-month village level survey of a stratified
+random sample of 124 mangrove swamp rice farmers in the Great Scarcies
+area of Sierra Leone. The estimated empirical model, derived from equation (1) to equation (3), was developed using the farm and farmer specific
+attributes and farmer perception variables regarding technology specific
+characteristics of the modern varieties. The dependent variable is the
+proportion of the total varietal portfolio mix (i.e. local and improved
+varieties) that is constituted by improved varieties The definitions and
+measurements, and the sample characteristics of the variables are given in
+Table 2 and Table 3, respectively. Further details are available elsewhere
+(Zinnah, 1992).
+The attribute vector A in equation (1) was specified in the empirical
+model to include the following variables: taste, yield, ease of cooking,
+tillering capacity and the ease of threshing the harvested rice. Taste is an
+important attribute desired by rice farmers, especially since rice is mainly
+home-consumed in the study zone. Surveys in other parts of West Africa
+have found that taste of rice was cited as an important trait desired by rice
+consumers (Adewusi et al., 1991). Ease of cooking of rice is directly linked
+to chemical characteristic of the rice grain (i.e. the gelatinization temperature). Varieties having high gelatinization temperatures take longer periods
+to cook (Unnevehr, 1986; Adewusi et al., 1991). Such a trait should be
+important to mangrove swamp rice farmers given that fuel-wood supply is
+severely limited along the mangrove swamps. Women and children in
+mangrove swamp rice cultivating households (especially those closer to the
+sea) often have to travel several kilometers by boats in search of fuel-wood
+in the upland zones. It is hypothesized that ease of cooking is positively
+related to adoption.
+Ease of threshing is hypothesized to be positively related to adoption.
+The traditional methods of threshing rice are highly labor intensive and
+consist of either pounding the harvested paddy with sticks or with the sole
+of the feet. Therefore, varieties that are easier to thresh are more likely to
+be preferred by farmers. Tillering ability of rice is important to mangrove
+swamp farmers, as they link this with tolerance to crab damage, a major
+
+303
+
+TOBIT MODEL APPLICATION IN SIERRA LEONE
+
+TABLE 2
+Definitions of variables in the empirical model
+Dependent variable
+PROPOTN
+The proportion of the total varietal portfolio (i.e. local and improved
+varieties) that is constituted by improved varieties.
+Independent variables
+Age of the farmer, measured in years.
+FARMSIZE
+Farm size, measured in hectares.
+EXTENSION
+Contact with extension agents. Measured as a binary variable: 1 if the
+farmer has been in contact with any extension, 0 otherwise.
+ONFARM
+Participation in on-farm trials, measured as a binary variable: 1 if
+farmer had participated in on-farm trials, 0 otherwise.
+EXPERIENCE
+Years of experience in mangrove rice farming, measured in years.
+TASTE
+Taste. Measured as a binary variable: 1 if the farmer thought the
+improved variety was superior to local varieties in terms of taste, 0
+otherwise.
+Yield. Measured as a binary variable: 1 if the farmer thought the
+YIELD
+improved variety was superior to local varieties in terms of yield.
+Ease of cooking. Measured as a binary variable: 1 if the farmer thought
+COOK
+the improved variety was superior to the local varieties in terms of time
+to cooking.
+THRESH
+Ease of threshing. Measured as a binary variable: 1 if the farmer
+thought the improved variety was superior to the local varieties in terms
+of ease of threshing, 0 otherwise.
+Tillering capacity. Measured as binary variable: 1 if the farmer
+TILLER
+judged the improved variety to be superior to the local varieties, 0
+otherwise.
+AGE
+
+TABLE 3
+Descriptive statistics on the variables used in the empirical model, Sierra Leone
+Variable
+
+Mean values
+
+Standard deviation
+
+PROPOTN
+
+0.22
+56.44
+1.66
+0.26
+0.16
+30.21
+0.35
+0.28
+0.40
+0.32
+0.28
+
+0.25
+14.79
+1.02
+1.65
+0.35
+15.40
+0.47
+0.44
+0.49
+0.46
+0.43
+
+AGE
+FARMSIZE
+EXTENSION
+ONFARM
+EXPERIENCE
+TASTE
+YIELD
+COOK
+THRESH
+TILLER
+
+304
+
+A.A. ADESINA AND M.M. ZINNAH
+
+problem to young rice seedlings in mangrove rice ecologies (WARDA,
+1989). Varieties with high tillering capacity still give good yields despite
+crab damage, especially due to the re-growth of new tillers. It is hypothesized that tillering capacity is positively related to probability of adoption.
+The perceived superior yield performance of modern rice variety is
+expected to be related to adoption and use intensities. On-farm trials in the
+study zone show that the modern varieties have significantly out-performed
+local varieties under farmers' conditions (Adams, 1986). Therefore, it is
+hypothesized that the perceived yield superiority of the modern varieties is
+positively linked with adoption decisions.
+The farm and farmer specific factors included in the model (i.e. vector
+M) are based on innovation diffusion theory and earlier studies. These
+include age of the farmer; farm size; participation in on-farm mangrove
+rice trials; contact with extension agents and the years of experience since
+the farmer became an owner of a mangrove rice farm. The latter is to be
+distinguished from general farming experience. General farming experience is not relevant for the empirical model since most farmers judge their
+total experience as starting from the first day that they started going out
+with their parents to the mangrove rice fields. What is important is the
+experience since the farmer became a decision maker on his own field
+(Mueller and Jansen, 1988).
+Farm size has been shown to positively affect adoption decisions (Polson
+and Spencer, 1991; Akinola, 1987; Norris and Batie, 1987). Therefore, it is
+hypothesized that the sign on this variable in the empirical model is
+positive. Studies have shown that age of the farmer is related to adoption
+decisions. Younger farmers have been found to be more knowledgeable
+about new practices and may be more willing to bear risk due to their
+longer planning horizons (Bultena and Hoiberg, 1983; Gould et al., 1989;
+Polson and Spencer, 1991). Following earlier empirical findings, the maintained hypothesis is that age is negatively related to adoption.
+Contact with extension agents is expected to have a positive effect on
+adoption based upon the innovation-diffusion theory. Such contacts, by
+exposing farmers to availability of information can be expected to stimulate
+adoption (Polson and Spencer, 1991; Voh, 1982; Osuntogun et al., 1986;
+Kebede et al., 1990). Years of experience in mangrove swamp rice farming
+is expected to be related to the ability of the farmer to obtain, process, and
+use information relevant to cultivation under this rice ecology. A positive
+relationship is hypothesized between this variable and the probability of
+adoption of modern swamp rice varieties. Participation in on-farm experimental trials on mangrove rice is an 'exposure variable' and is hypothesized
+to be positively related to adoption.
+Three variations of the empirical model were estimated: (1) using only
+
+305
+
+TOBIT MODEL APPLICATION IN SIERRA LEONE
+
+TABLE 4
+Estimated results for farmer adoption model using only farm and farmer specific variables,
+Sierra Leone
+Normalized
+coefficient
+Independent variables
+-0.65850E-02
+AGE
+0.13423
+FARMSIZE
+0.44500
+ON FARM
+EXTENSION
+0.10302
+0.14197E-01
+EXPERIENCE
+INTERCEPT
+
+-0.23197
+
+Asymptotic
+Standard
+error
+
+T-ratio
+
+Regression
+coefficient
+
+0.10115E-01
+0.10007
+0.26639
+0.58208E-01
+0.9954E-02
+
+-0.65102
+1.3413
+1.6705 *
+1.7698 *
+1.4262
+
+-0.27062E-02
+0.55166 E- 01
+0.18288
+0.423 36 E- 01
+0.583 45 E- 02
+
+0.44411
+
+-0.52232
+
+-0.95332E-01
+
+Dependent variable
+PROPOTN
+
+2.4333
+
+0.24349
+
+The predicted probability of Y (i.e. PROPOTN) >limit given average X( I)= 0.5585.
+The observed frequency of Y (i.e. (PROPOTN) > limit is 0.5161.
+At mean values of all X(/), E(Y) = 0.1960.
+Log-likelihood function= -76.378 235.
+Mean-square error= 0.5796189E-01.
+Mean error= -0.13732954E-01.
+Squared correlation between observed and expected values = 0.668 04 E- 01.
+*, significant at 10%.
+·
+
+the farm and farmer specific factors; (2) using farmers' perceptions of the
+technology-specific factors; and (3) using the farm and farmer specific
+factors, and the farmer perceptions of the technology specific characteristics. An iterative maximum likelihood algorithm (White, 1978) was used to
+estimate the empirical models in order to obtain asymptotically efficient
+parameter estimates.
+5. EMPIRICAL RESULTS
+
+When only the farm and farmer specific characteristics are considered
+(model 1), none of these variables are significant at 0.05 significance level.
+However, at the 0.10 significance level, participation in on-farm tests and
+contacts with extension agents are significant in explaining adoption decisions. Apart from age, all the farm and farmer specific variables are
+positively related to adoption decisions (Table 4). When only the farmer
+perceptions of technology-specific characteristics are considered (model 2),
+all of the varietal specific traits, except taste, were highly significant (at the
+0.01 and 0.05 significance levels) in explaining adoption and use intensities
+
+306
+
+A.A. ADESINA AND M.M. ZINNAH
+
+TABLE 5
+Estimated results for farmer adoption model using only technology-specific variables, Sierra
+Leone
+Normalized
+coefficient
+
+Independent variables
+0.77579E-01
+YIELD
+0.80335
+COOK
+0.81273
+TILLER
+0.82337
+THRESH
+0.72282
+TASTE
+
+INTERCEPT
+
+-0.79818
+
+Dependent variable
+PROPOTN
+3.7749
+
+Asymptotic
+Standard
+error
+0.33111
+0.26301
+0.35102
+0.28761
+0.26499
+0.17493
+
+T-ratio
+
+0.2343
+3.0544
+2.3153
+2.8628
+2.7277
+
+**
+*
+**
+**
+-4.5629 **
+
+Regression
+coefficient
+
+0.205 51E- 01
+0.21281
+0.21530
+0.21812
+0.19148
+-0.21145
+
+0.36080
+
+The predicted probability of Y (i.e. PROPOTN) > limit given average X(/)= 0.6016.
+The observed frequency of Y (i.e. (PROPOTN) >limit is 0.5161.
+At mean values of all X(/), E(Y) = 0.1433.
+Log-likelihood function = -28.941072.
+Mean-square error = 0.329 456 E- 01.
+Mean error= -0.13735456E-01.
+Squared correlation between observed and expected values= 0.48985.
+* *, significant at 1%.
+*, significant at 5%.
+
+of the modern rice varieties. In conformity with the maintained hypotheses,
+all these varietal specific variables, including taste, are also positively
+related to the probability of adoption and the intensity of use of the
+modern mangrove rice varieties (Table 5). Combining both farm and
+farmer specific, and technology specific variables (model 3), the results
+show that none of the farm and farmer specific factors argued in the
+adoption literature was significant in explaining the adoption decisions of
+modern mangrove rice varieties. Rather, farmer perceptions of the technology-specific traits of these varieties have been the major factors conditioning adoption behavior (Table 6). These results, which are robust, strongly
+confirm the maintained hypotheses that farmers' perceptions of attributes
+of agricultural technologies determine observed adoption choices. Thus,
+past conclusions often reported in the adoption and diffusion literature
+about how farm and farmer specific factors significantly affect adoption of
+agricultural technologies were not supported by evidences from this study.
+The empirical model can be used to draw economic implications for
+commodity improvement strategies for mangrove swamp rice in Sierra
+
+307
+
+TOBIT MODEL APPLICATION IN SIERRA LEONE
+
+TABLE 6
+Estimated results for farmer adoption model using farm and farmer specific factors and
+technology-specific variables, Sierra Leone
+Normalized
+coefficient
+Independent variable
+0.1059E-02
+-0.9825 E- 01
+FARMSIZE
+0.6648E-01
+ON FARM
+0.8369E-02
+EXTENSION
+0.1051 E-01
+EXPERIENCE
+
+AGE
+
+0.1206E-01
+0.7799
+0.9208
+0.8913
+0.6911
+
+Standard
+error
+
+T-ratio
+
+Regression
+coefficient
+
+0.1126E-01
+0.1106
+0.2893
+0.6016E-01
+0.1089E-01
+
+0.9412E-01
+-0.8881
+0.2297
+0.1390
+0.9651
+
+0.27436E-03
+-0.25436E-01
+0.17211E-01
+0.21665E-02
+0.27217E- 02
+
+Asymptotic
+
+0.3406
+0.2739
+0.3616
+0.2919
+0.2672
+
+0.3542
+2.8464
+2.5464
+3.0533
+2.5864
+
+-1.0311
+
+0.5134
+
+-2.0099
+
+Dependent variable
+PROPOTN
+3.8629
+
+0.3696
+
+TASTE
+YIELD
+COOK
+TILLER
+THRESH
+INTERCEPT
+
+**
+*
+**
+*
+*
+
+0.31240E- 02
+0.20190
+0.23838
+0.23075
+0.17891
+-0.26713
+
+The predicted probability of Y (i.e. PROPOTN) >limit given average X( I)= 0.6080.
+The observed frequency of Y (i.e. (PROPOTN) > limit is 0.5161.
+At mean values of all X(/), E(Y) = 0.1426.
+Log-likelihood function = - 27.538264.
+Mean-square error= 0.31955121E- 01.
+Mean error= -0.1387888E-01.
+Squared correlation between observed and expected values= 0.50519.
+* *, significant at 1%.
+*, significant at 5%.
+
+Leone. Following a Tobit decomposition framework suggested by McDonald and Moffitt (1980), the effects of changes of the varietal specific traits
+on adoption probabilities and use intensities can be obtained.
+Let the expected value of the dependent variable PROPOTN across all
+observations be represented as E(P), the expected value of the dependent
+variable conditional on the mangrove rice farmer being above the threshold
+limit (i.e. already an adopter and thus now concerned about use intensities)
+be given as E( p ), and the probability of the farmer being above the limit
+(i.e. the probability of adoption) be represented as F( z ), where z = X{3 j lf.
+The relationship between these variables can be shown to be:
+
+E(P) = F(z) * E(p)
+
+(4)
+
+308
+
+A.A. ADESINA AND M.M. ZINNAH
+
+For a given change in the level of the varietal specific attributes in the
+mangrove rice breeding program, the effects on farmer adoption behavior
+can be broken down into two parts by differentiating equation (4) with
+respect to the specific varietal attribute change:
+
+3E(P)j3Xi = F(z)[3E(p)j3XJ + E(p)[3F(z)j3Xi]
+
+(5.1)
+
+Multiplying through by XJE(P), the relation in equation (5.1) can be
+converted into elasticity forms:
+
+[3E(P)j3Xi]XJE(P)
+
+=
+
+F(z)[3E(p)j3Xi]XJE(P)
+
++ E(p)[3F(z)j3Xi]XJE(P)
+
+(5.2)
+
+Re-arranging (5.2) by using equation (4):
+
+[3E(P)j3Xi] XJE(P)
+
+=
+
+[3E(p )j3XJ XJE(p)
+
++ [3F(z)j3XJXJF(z)
+
+(5.3)
+
+Therefore, total elasticity of a change in the level of any of the varietal
+specific characteristics (which is assumed to be directly perceived by
+farmers) consists of two effects: (a) the change in the elasticity of the use
+intensities of the modern mangrove rice varieties, for those mangrove rice
+farmers that are already adopters; and (b) the change in the elasticity of
+the probability of being an adopter.
+The computed elasticities, using model 3, are reported in Table 7. The
+estimates show that marginal changes in the perceived technology specific
+characteristics increases the probability of adoption of the rice varieties
+more than it increases the use intensities. However, the elasticity estimates
+show inelastic responses to changes in these characteristics. Cooking quality characteristic has the highest impact on the probability of adoption and
+use intensities. The total elasticity value is 0.86, which is divided into 0.45
+for the elasticity of adoption probability and 0.41 for the elasticity of use
+
+TABLE 7
+Tobit total elasticity decompositions for changes in the technology-specific characteristics
+perceived by farmers, Sierra Leone
+Elasticity of
+
+TASTE
+YIELD
+
+COOK
+TILLER
+THRESH
+
+Adoption probability
+
+Expected use intensity
+
+0.0051
+0.2630
+0.4474
+0.3048
+0.2629
+
+0.0047
+0.2441
+0.4153
+0.2830
+0.2440
+
+TOBIT MODEL APPLICATION IN SIERRA LEONE
+
+309
+
+intensity. This suggests that a 10% improvement in the ease of cooking
+characteristic is expected to result in about 9% increase in the adoption
+and use intensities of the improved rice varieties. The probability of
+adoption will increase by 5%, while the use intensities will increase by 4%.
+Improving the tillering capacity of modern varieties in breeding programs is
+estimated to increase the total elasticity by 0.58, which is decomposed into
+0.30 for the elasticity of the probability of adoption and 0.28 for the
+elasticity of the expected use intensity. Improving the yield and the ease of
+threshing characteristics are estimated to have similar effects on the total
+adoption elasticities and its' components. In each case, the total elasticity
+of 0.50 consists of 0.26 due to the elasticity of adoption and 0.24 attributable to the elasticity of expected use intensities.
+Breeding efforts targeted solely at improving taste of the modern varieties is estimated to have little or no effect on adoption elasticities. This
+result may indicate that farmers are well used to the taste of their existing
+local varieties and are more likely to judge the local varieties as better in
+terms of taste. Nonetheless, research programs may wish to treat taste
+improvement as an important component of overall breeding objectives,
+but with much limited emphasis compared to the aforementioned factors.
+6. CONCLUSIONS
+
+This paper showed that farmer perceptions of technology-specific characteristics significantly condition technology adoption decisions. The results
+showed that the omission of such variables in adoption models may bias the
+results of the factors determining adoption decisions of farmers.
+The results strongly suggest that farmer perceptions of technologyspecific characteristics should be considered in evaluating the determinants
+of adoption decisions on agricultural technologies. Such variables will
+enrich the set of factors conventionally used in adoption studies (Feder et
+al., 1985)
+ACKNOWLEDGEMENTS
+
+The authors thank Dunstan S.C. Spencer, Peter J. Matlon and Lydia
+Zepeda for insightful comments on an earlier draft of this paper. The
+'breeder's perspective' shared with us by Monty Jones is appreciated. Two
+anonymous reviewers of this journal provided helpful comments that assisted us in improving the paper.
+REFERENCES
+Adams, J.M., 1986. Assessment of technology for mangrove swamp rice in West Africa:
+Case studies from the Great Scarcies area of Sierra Leone. Final Report, Overseas
+Development Association, UK.
+
+310
+
+A.A. ADESINA AND M.M. ZINNAH
+
+Adewusi, A.O., Takeda, M. and Nyanteng, V.K., 1991. A study of consumers' preferences
+for rice grain quality in West Africa: Cote d'Ivoire, Senegal and Sierra Leone. Mimeo,
+West Africa Rice Development Association, Bouake, Cote d'Ivoire.
+Agarwal, B., 1983. Diffusion of rural innovations: some analytical issues and the case of
+wood-burning stoves. World Development, 11: 359-376.
+Aikens, M.T., Havens, A.E. and Flinn, W.L., 1975. The adoption of innovations: the
+neglected role of institutional constraints. Mimeograph, Department of Rural Sociology,
+Ohio State University. Columbus, OH.
+Akinola, A.A., 1987. An application of the probit analysis to the adoption of the tractor
+hiring service scheme in Nigeria. Oxford Agrarian Stud., 16: 70-82.
+Akinola, A.A. and Young, T., 1985. An application of the Tobit analysis of agricultural
+innovation adoption: a study of the use of cocoa spraying chemicals among Nigerian
+cocoa farmers. Oxford Agrarian Stud., 14: 26-51.
+Ashby, J.A., Quiros, C.A. and Rivers, Y.M., 1989. Farmer participation in technology
+development: Work with crop varieties. In: R. Chambers, A. Pacey and L.A. Thrupp
+(Editors), Farmer First. Farmer Innovation and Agricultural Research. Intermediate
+Technology Publications, London.
+Ashby, J. and Sperling, L., 1992. Institutionalizing participatory, client-driven research and
+technology development in agriculture. Paper presented at the Meeting of the CGIAR
+Social Scientists, 15-22 September, The Hague, The Netherlands, pp. 115-122.
+Bultena, G.L. and Hoiberg, E.O., 1983. Factors affecting farmers adoption of conservation
+tillage. J. Soil Water Conserv., 38: 281-284.
+Feder, G., Just, R.E. and Zilberman, D., 1985. Adoption of agricultural innovations in
+developing countries: a survey. Econ. Dev. Cult. Change, 33: 255-297.
+Gould, B.W., Saupe, W.E. and Klemme, R.M., 1989. Conservation tillage: the role of farm
+and operator characteristics and the perception of erosion. Land Econ., 65: 167-182.
+Havens, A.E. and Flinn, W.L., 1976. Green revolution technology and community development: the limits of action programs. Econ. Dev. Cult. Change, 23: 469-481.
+Hooks, G.M., Napier, T.L. and Carter, M.V., 1983. Correlates of adoption behaviors: the
+case of farm technologies. Rural Sociol., 48: 308-323.
+Kebede, Y., Gunjal, K. and Coffin, G., 1990. Adoption of new technologies in Ethiopian
+agriculture: the case of Tegulet-Bulga District, Shoa Province. Agric. Econ., 4: 27-43.
+Kivlin, J.E. and Fliegel, F.C., 1967. Differential perceptions of innovations and rate of
+adoption. Rural Sociol., 32: 78-91.
+Kivlin, J.E. and Fliegel, F.C., 1966a. Farmers' perceptions of farm practice attributes. Rural
+Sociol., 31: 197-206.
+Kivlin, J.E. and Fliegel, F.C., 1966b. Attributes of innovations as factors in diffusion. Am. J.
+Sociol., 72: 235-248.
+Lee, L.K. and Stewart, W.H., 1983. Land ownership and the adoption of minimum tillage.
+Am. J. Agric. Econ., 65: 256-264.
+Lynne, G.D., Shonkwiler, J.S. and Rola, L.R., 1988. Attitudes and farmer conservation
+behavior. Am. J. Agric. Econ., 70: 12-19.
+McDonald, J.F. and Moffitt, R.A., 1980. The uses of Tobit analysis. Rev. Econ. Stat., 62:
+318-321.
+Mueller, R.A.E. and Jansen, H.G.P., 1988. Farmer and farm concepts in measuring
+adoption lags. J. Agric. Econ., 39(1): 121-124.
+Norris, P.E. and Batie, S.S., 1987. Virginia farmers' soil conservation decisions: An application of Tobit analysis. South. J. Agric. Econ., 19: 79-89.
+Nowak, P.J., 1987. The adoption of agricultural conservation technologies: economic and
+diffusion explanations. Rural Sociol., 52: 208-220.
+
+TOBIT MODEL APPLICATION IN SIERRA LEONE
+
+311
+
+Osuntogun, A., Adeyemo, R. and Anyanwu, E., 1986. The adoption of innovation by
+cooperative farmers in Nigeria. Trop. Agric. (Trinidad), 63: 158-160.
+Polson, R.A. and Spencer, D.S.C., 1991. The technology adoption process in subsistence
+agriculture: the case of cassava in South Western Nigeria. Agric. Syst., 36: 65-77.
+Rahm, M.R. and Huffman, W.E., 1984. The adoption of reduced tillage: the role of human
+capital and other variables. Am. J. Agric. Econ, November: 405-413.
+Rogers, E.M., 1962. Diffusion of Innovations. Free Press, Glencoe, IL.
+Rosett, N.R. and Nelson, F.D., 1975. Estimation of the two-limit probit regression model.
+Econometrica, 43: 141-146.
+Shakya, P.B. and Flinn, J.C., 1985. Adoption of modern varieties and fertilizer use on rice in
+the Eastern Tarai of Nepal. J. Agric. Econ., 36: 409-419.
+Tobin, J., 1958. Estimation of relationships for limited dependent variables. Econometrica,
+26: 29-39.
+Unnevehr, L.J., 1986. Consumer demand for rice grain quality and returns to research for
+quality improvement in South-East Asia. Am. J. Agric. Econ., 68: 634-641.
+Voh, J.P., 1982. A study of the factors associated with the adoption of recommended farm
+practices in a Nigerian Village. Agric. Admin., 9: 17-29.
+WARDA, 1989. A decade of mangrove swamp rice research. West Africa Rice Development Association, Bouake, Cote d'Ivoire.
+White, K.J., 1978) SHAZAM - a general computer program for econometric methods.
+Econometrica, 46: 239-240.
+Yapa, L.S. and Mayfield, R.C., 1978. Non-adoption of innovations: evidence from discriminant analysis. Econ. Geogr., 54: 145-156.
+Zinnah, M.M., 1992. Adoption and impacts of improved mangrove swamp rice varieties in
+West Africa: the case of Guinea and Sierra Leone. Ph.D. thesis, University of Wisconsin-Madison, WI, USA.
+
+

@@ -1,0 +1,1376 @@
+AGRICULTURAL
+ECONOMICS
+
+ELSEVIER
+
+Agricultural Economics 22 (2000) 321-330
+www.elsevier.com/locate/agecon
+
+The extent of resource use inefficiencies in cotton production in
+Pakistan's Punjab: an application of Data Envelopment Analysis
+Muhammad Shafiq, Tahir Rehman*
+Department of Agriculture, The University of Reading, Earley Gate, P.O. Box 236, Reading RG6 6AT, UK
+
+Received ll November 1999; received in revised form 22 December 1999; accepted 29 December 1999
+
+Abstract
+This paper attempts to identify sources of resource use inefficiency for cotton production in Pakistan's Punjab. The use
+of a non-parametric method, Data Envelopment Analysis (DEA), is developed to study the relative technical and allocative
+efficiencies of individual farms which use similar inputs, produce the same product and operate under comparable circumstances. In the 'cotton-wheat' system of Pakistan, there are a considerable number of farms that are both technically and
+allocatively inefficient. The use of DEA shows that the technique provides a clear identification of both the extent and the
+sources of technical and allocative inefficiencies in cotton production. However, both the interpretation of the farm level
+results generated and the projection of these results to a higher level require care, given the technical nature of the agricultural
+production processes.© 2000 Elsevier Science B.V. All rights reserved.
+Keywords: Data Envelopment Analysis; Technical efficiency; Allocative efficiency; Cotton
+
+1. Introduction
+
+Several recent studies on the technical and economic efficiencies of crop production in Pakistan,
+particularly for wheat and rice, have pointed out the
+existence of a 'yield gap'. This 'gap' refers to the
+difference in productivity on 'best practice' and on
+other farms operating with comparable resource endowments under similar circumstances (Akhtar et
+al., 1986; Ali and Flinn, 1987; Hussain et al., 1991;
+Khan et al., 1994). Surprisingly, these studies have
+ignored cotton, despite it being the major export from
+Pakistan.
+The existing studies on technical and economic efficiencies have used the traditional parametric meth* Corresponding author. Tel.: +44-118-931-8480;
+fax: +44-118-931-6747.
+E-mail address: t.u.rehman@reading.ac.uk (T. Rehman)
+
+ods to estimate 'average' efficiencies only (Khan and
+Maki, 1979; Ali and Flinn, 1987; Ali and Chaudhry,
+1990; Ali et al., 1993; Battese et al., 1993; Parikh and
+Shah, 1994; Parikh et al., 1995). The estimation of
+such 'average' efficiencies appears to ignore the argument that the study of the individual farm is more important to measure the resource use efficiency, and that
+the parametric methodology provides insufficient information for policy analysis (Kalirajan, 1984; Kalirajan and Shand, 1986). The research reported here supports the importance of studying the individual farm
+efficiency, and it is the first study of its kind to have
+used the non-parametric method of Data Envelopment
+Analysis (DEA) for analysing the efficiency of individual farms in Pakistan.
+The paper begins with a brief introduction of efficiency measurement and of the development of DEA.
+The description of data sources precedes the explanation of the DEA model in general and the specification
+
+0169-5150/00/$ - see front matter © 2000 Elsevier Science B.V. All rights reserved.
+PII: SO 169-5150(00)00045-l
+
+322
+
+M. Sha.fiq, T. Rehman/Agricultural Economics 22 (2000) 321-330
+
+of this model for cotton production. Next, the use of a
+Cobb-Douglas type of production function for identifying the important inputs in the production process is
+discussed before presenting the results of the technical and allocative efficiency analyses. Finally, the usefulness of the DEA model for examining the resource
+use inefficiency of cotton production in Pakistan is
+assessed.
+
+2. Measurement of efficiency
+The efficiency of production units is measured either by parametric or by non-parametric methods. The
+first approach estimates the parameters of the production or cost functions statistically. The second one,
+in contrast, builds a linear piece-wise function from
+empirical observations of inputs and outputs, without assuming any a priori functional relationship between the inputs and the outputs. The non-parametric
+or 'frontier' method of measuring efficiency was first
+introduced by Farrell (1957) and since then several
+improvements and extensions have taken place (see
+Battese (1992) and Coelli (1995)).
+Building on Farrell's work, Charnes et al. (1978)
+have developed the fractional linear programming
+method of DEA, which compares inefficient firms
+with the 'best practice' ones within the same group.
+It has been used widely for efficiency studies for
+both public and private organizations (see Seiford and
+Thrall (1990)). In the agricultural economics literature, however, only a few examples of the application
+of DEA could be found (Haag et al., 1992; Shimizu,
+1992; Cloutier and Rowely, 1993).
+
+2.1. DEA
+The DEA technique has come to be named after
+its originators and is referred to as the CCR model.
+It involves optimizing a scoring function defined as
+the ratio of weighted sum of outputs of a particular
+production unit and the weighted sum of its inputs,
+that is efficiency. This function is optimized subject
+to the condition that with any of the production units
+included in the analysis, the value of the objective
+function achieved cannot be more than I, implying
+that the efficient units will have a score of 1.
+
+The DEA method is regarded as one ofthe most successful techniques of analysis proposed by researchers
+in Management Science and Operations Research, as
+is evident by the profligacy of its applications (see
+Coelli (1995)). However, the original version of the
+CCR model is not very convenient for a linear programme as it has more restraints than variables, making it difficult to solve. Hence, the 'dual' version of the
+CCR model is more popular as the DEA model. The
+technical details can be found in Charnes et al. (1978),
+Norman and Stoker (1991), Charnes et al. (1995), and
+Coelli et al. (1998).
+
+3. The sample of cotton producers
+The data were collected from a randomly drawn
+sample consisting of 120 farms from the cotton-wheat
+area of the southern part of Pakistan's Punjab. The
+sample farms can be treated as a homogenous group
+for several reasons. First, all of the farms are in an
+area where technical and agronomic practice recommendation domains are the same. Second, they are in
+reasonable proximity to each other. Third, all of them
+face uniform natural and market conditions and the
+same infrastructure. Finally, all the farms have broadly
+similar types of soils.
+
+3.1. Characteristics of farmers and farms
+Information such as the farm operator's age, his
+educational attainment, the size of the farm family and
+the number of family members involved in farming is
+given in Table 1. Most of the farmers are over 25 years
+old, with the age ranging from 20 to 60 years. The
+family size is large and three-fourths of the farms had
+more than nine members per household, and on nearly
+half of the farms, at least two of the family members
+were working as full time farm workers on farm.
+Most of the farmers till their own land, but quite a
+few rent additional area to increase the operational size
+of their holdings. The holdings are divided into three
+categories: farms which are less than 5 ha, 5-10 ha and
+greater than 10ha. All the sample farms have similar
+types of soils that are ideal for growing cotton. Cotton
+occupies 77-85% of the area on different farms and
+this proportion is even higher on large farms. Small
+farmers in the area keep milch animals requiring land
+
+M. Shafiq, T. Rehman!Agricultural Economics 22 (2000) 321-330
+
+Table 1
+Characteristics of farms and farmers included in the sample
+
+of the CCR model as specified below.
+
+Characteristics of farmers
+
+Frequency
+
+MinZ 0
+
+Age of the farm operator
+<25 years
+25-35 years
+35--45 years
+Above 45 years
+
+9
+45
+32
+31
+
+Family size
+1--4
+5-8
+9-12
+>12
+
+8
+28
+49
+32
+
+8
+39
+27
+26
+7
+24
+42
+27
+
+Family members involved in full time farming
+1
+31
+26
+48
+2
+56
+3
+14
+12
+14
+4 or more
+16
+Education attainment (years of schooling)
+No schooling
+32
+up to 5 years
+16
+5-10 years
+53
+10--12 years
+10
+Over 12 years
+6
+
+27
+14
+45
+9
+5
+
+Characteristics of farms
+
+Frequency
+
+Mean area (ha)
+
+Farm size
+<5ha
+5-lOha
+>lOha
+
+33
+39
+45
+
+3.46
+6.52
+16.02
+
+Type of tenure on farm
+Owned
+Rented
+Owned plus rented
+
+71
+18
+28
+
+61
+15
+24
+
+Area under cotton crop on different farm size categories
+<5ha
+33
+2.67
+5-lOha
+39
+5.49
+45
+13.63
+>lOha
+Share of cotton crop on different farm size categories
+<5ha
+33
+77
+5-10ha
+29
+84
+>10ha
+45
+85
+
+for fodder production, thus the area available to them
+for cotton production is reduced.
+
+4. The DEA model for cotton production
+The model developed to study the efficiency of cotton production is the input minimization version (dual)
+
+323
+
+(1)
+
+s.t.
+(2)
+s
+
+LXijAj- X 0 Z 0 :S 0
+
+(3)
+
+i=l
+
+(4)
+where}= 1, ... , 117 is the number of farms or Decision
+Making Units (DMUs) in the sample, m=1 represents
+cotton in the cotton-wheat system, i= 1, ... , 6 is the
+number of inputs included in the analysis, Z0 is the
+relative efficiency score of the DMU, 'o', under study,
+A. j are lambda values that are the weights to be used
+as multipliers for the input levels of a referent farm to
+indicate the input levels that an inefficient farm should
+aim at to achieve efficiency, Xij is the level of use for
+the ith input on the jth farm, Ymj is the level of the mth
+output on the jth farm, Yo is the level of the output on
+unit 'o', and X0 is the vector of the levels of inputs
+being used by the DMU 'o'.
+The minimum value of Z0 (:::;1) for the unit 'o' is
+found by 'combining' the performance of all units being analyzed. This is done in such a way that, for each
+input, the combination of inputs does not exceed the
+inputs of unit 'o' and for each output and the combination of outputs is at least as great as that of unit 'o'.
+On solving the model separately for each DMU in the
+sample, the efficiency scores ( < 1 for the inefficient
+units and 1 for the efficient ones) are established. A
+score less than 1 means that a linear combination of
+other units from the sample could produce the same
+vector of outputs using lower levels of inputs. The
+problem of returns to scale can be dealt with by using
+the Banker et al. (1984) extension to the CCR model
+as: (a) for constant returns to scale (CRS), the condition I; Ai 2: 1 is added; and (b) for variable returns
+to scale (VRS), the restraint I; Ai = 1 is imposed.
+To obtain the efficiency scores, a linear programming matrix was constructed which included input
+and output data for each of the farms in the sample.
+It was then used to evaluate the efficiency of an individual farm by substituting its inputs and outputs
+into the vectors Y0 and X0 in Eqs. (2) and (3) above.
+
+M. Shafiq, T. Rehman/Agricultural Economics 22 (2000) 321-330
+
+324
+
+This 'iteration' or substitution was repeated 117 times
+(three outlier farms were dropped from further analysis) to obtain efficiency scores for all the sample farms.
+For a firm to be efficient, two conditions must hold:
+(a) that the calculated value of Z0 that is Z" must equal
+1; and (b) all the slack variables in the LP solution
+must be 0 (Charnes et al., 1978).
+
+5. Role of various inputs in crop productivity
+It is quite usual to integrate some form of functional
+analysis with the DEA model, mostly regression models, to identify those inputs that play a prominent role
+in determining productivity. Subsequently, the relative efficiency of a production unit can be measured
+(Charnes et al., 1978; Bowlin et al., 1985; Dyson
+et al., 1990; Roll and Cook, 1993; Thanassoulis, 1993).
+Thus, a Cobb-Douglas type of production function
+was fitted to the data collected from the survey and
+the results are discussed below.
+
+5.1. Explanation of the variables
+The major inputs that are assumed to determine
+the cotton crop output (kg/ha) include irrigation water (number per hectare), nitrogen (kg nutrients/ha),
+phosphate (kg nutrients/ha), labour (h/ha), pesticide
+costs (Rs. per hectare) and tractor hours required per
+hectare for levelling, ploughing, planking and planting. The basic statistics related to these variables are
+presented in Table 2. It is clear that there is a wide variation in both the input use and the cotton output. The
+
+output obtained by some of the farmers in the sample
+was three times as high as that achieved by others;
+and there were wide variations in the levels at which
+inputs were being used. There were large differences
+in the use of nitrogenous fertilizer as some farmers
+were using six times more fertilizer as compared to
+others and some farmers did not use any phosphatic
+fertilizer. In preparing their fields for cotton planting,
+some farmers use as few ploughings as two, whilst
+some plough the fields 13 times before planting. Such
+a variation in the levels of inputs being used suggests
+that possibly these levels represent a mismanagement
+of resource use.
+
+6. Results of the statistically estimated function
+In Table 3, a very low value of the adjusted R 2
+(0.044) shows that the production function does not
+explain a great deal of the relationship between the dependent and the independent variables as most of the
+variables had a non-significant effect on the increase
+in cotton output. Variables like phosphatic fertilizer
+use, labour and tractor hours used show negative
+returns, implying an excessive use of these inputs.
+Thus, the levels at which these inputs are being used
+could be lowered without reduction in output levels.
+These results in effect confirm the need for undertaking the analysis of the efficiency of production using
+a non-parametric method like DEA, as identifying
+inefficient farms would imply discovering the extent
+by which their input use could be improved. Furthermore, when there is as much variation in inputs used
+
+Table 2
+Basic statistics of cotton output and major inputs used•
+InpuUoutput variables
+
+Minimum
+
+Maximum
+
+Mean
+
+S.D.
+
+Cotton yield (kg/ha)
+Inputs
+Irrigation (number per hectare)
+Nitrogen fertilizer use (kg nutrienUha)
+Phosphatic fertilizer use (kg nutrienUha)
+Labour use (hlha)
+Pesticide costs (Rs. per hectare)
+Tractor hours (hlha)
+
+1144.32
+
+3644.66
+
+2267.3
+
+499.59
+
+5
+56.833
+0.00
+70.81
+1260.21
+3.34
+
+20
+340.99
+158.144
+317.05
+6449.31
+25.52
+
+6.83
+165.62
+43.96
+170.479
+3146.18
+15.58
+
+1.83
+44.515
+32.4135
+57.2914
+897.86
+3.96
+
+a
+
+Note: large variation in labour hours used per hectare is because some farmers undertake manual hoeing and thinning of cotton twice.
+
+M. Shafiq, T. Rehman/Agricultural Economics 22 (2000) 321-330
+
+325
+
+Table 3
+Production coefficients estimated from the Cobb-Douglas cotton production function
+Variables
+
+Coefficient
+
+Standard error
+
+Significance
+
+Constant
+Nitrogen fertilizer use (kg nutrientlha)
+Phosphatic fertilizer use (kg nutrient/ha)
+Irrigation (number per hectare)
+Labour use (h/ha)
+Pesticide costs (Rs. per hectare)
+Tractor hours (h/ha)
+R square
+Adjusted R 2
+F-Statistics
+Durbin-Watson statistics
+
+5.5845
+0.0008
+-0.0003
+0.1507
+-0.123
+0.0174
+-0.0518
+
+1.118
+0.0812
+0.0027
+0.1004
+0.0588
+0.0799
+0.072
+0.101
+0.044
+1.772
+1.513
+
+0.000
+0.992
+0.905
+0.136
+0.039
+0.828
+0.474
+
+and the output produced as shown in Table 2, the
+efficiency analysis of individual farms assumes much
+greater relevance.
+
+The use of the basic DEA model started with the
+single input-single output situation. More inputs were
+introduced into the analysis, one at a time, to evaluate
+the relative efficiency of individual farms. This procedure also shows how the increase in the number of
+inputs affects the efficiency rating of individual farms.
+As the basis for comparison among them is broadened,
+the ranking of individual producers improves. In the
+initial run, the single input is nitrogen. The second run
+involved two inputs, nitrogen and pesticide expenditure; and for the third run, multiple inputs as defined
+for the cotton production function were used. In all the
+runs, seed cotton is the output. The efficiency scores
+of the individual farms were calculated separately for
+both CRS and VRS assumptions.
+The basic DEA model for the 'DMU-1' assuming
+CRS is stated below:
+
+s.t.
+Cotton yield
+1445.54.1.. 1 + 1455.1.. 2 + · · · + 158U 120 2: 1445.54
+Phosphorus
+
++ · · · + 28.42Al2o- 28.42Z,
+
+Nitrogen
+198.92A,
+
++ 56.83.1..2 + ...
++ 198.9Al2o- 198.95ZI
+
+.S: 0
+
+Irrigation
+
+7. Technical efficiency analysis
+
+28.42A 1 + OA.2
+
+0.10
+
+.S: 0
+
+8.1..,
+
++ 8A.2 + · · · + 6A.12o- 8Z1
+
+.S: 0
+
+Labour
+224.42A,
+
++ 151.9.1..2 + ...
++ 258.8.1..120- 224.42Z,
+
+.S: 0
+
+Pesticide
+2816.94.1..,
+
++ 3553.1..2 + ...
++ 5752.1.. 120 - 2816.94Z 1 .S: 0
+
+Tractor
+10.28.1.. 1 + 18.53.1.. 2 + · · · + 12.65Al2o- 1028Z 1 .S: 0
+
+In the above equations, the subscript '120' refers to
+the identity of the last farm.
+The nature of a DEA model is illustrated in Fig. I
+for a single input-single output situation. Each point
+represents a farm included in the efficiency analysis.
+The line OA is the efficient frontier assuming CRS,
+as for each farm on that frontier, there is no other
+farm with a better input/output conversion ratio and
+there is only one farm (54) on the efficient frontier. All
+other farms are inefficient, as they use greater amounts
+
+326
+
+M. Shafiq, T. Rehman/Agricultural Economics 22 (2000) 321-330
+4000~----------------------------------------------------~
+
+ft.~
+
+:
+
+I
+
+12500
+
+i
+
+I~,: i i.
+D
+
+q 54
+
+§::;2
+2000
+
+~ ~0
+~
+
+aD
+
+0
+D
+
+0
+0
+
+0
+
+8
+
+[
+
+0
+
+o
+
+01
+
+I
+
+Do
+
+0
+
+0
+
+0
+
+0
+
+0
+
+D
+
+8
+
+0
+
+D
+
+0
+
+D
+
+8
+8
+
+0
+0
+
+0
+
+0
+
+:il
+
+8
+0
+0
+
+I
+
+500
+
+0
+
+2R
+
+n
+
+t0
+0
+
+20
+
+40
+
+60
+
+80
+
+100 120 140 160 180 200 220 240 260 280 300 320 340 360 380 400
+
+Nitrogen to cotton (N. kg/ha)
+
+Efficient frontier under CRS assumption
+_ _ Efficient frontier under VRS assumption
+Fig. 1. Graphical presentation of the single input-single output DEA model.
+
+of fertilizer to achieve their current levels of output
+when compared to farm 54. Given a high variation in
+nitrogen use, the pertinent question is, do higher levels
+of nitrogen application contribute to an increase in the
+crop yield? The results show that this is not the case,
+suggesting that an excessive use of nitrogen on these
+farms takes them below the efficient frontier.
+The points depicted in Fig. 1 are scattered, and
+therefore, the CRS assumption would seem not to apply. Assuming that VRS do exist and as this assumption is not so demanding, more farms are likely to be
+located on the efficient frontier. There are four farms
+(DMUs 2, 54, 28 and 33) with efficiency scores of
+1 lying on the frontier, and they form the envelope
+DCBE representing the frontier to be used as referent
+for other farms. The use of nitrogen on the efficient
+farms shows that the output increases with increase in
+the level of input use.
+The inefficient farms in the sample were using inputs at levels greater than required relative to the out-
+
+put levels being obtained by other farms in the sample. A summary of the efficiency scores for all farms
+is presented in Table 4. It is interesting to note that,
+when VRS are assumed, only one farm has an efficiency score of less than 60%. Whereas, when CRS
+Table 4
+Results of the DEA models Ranges
+
+Equal to 100%
+>90<100%
+80-<90%
+70-<80%
+60-<70%
+50-<60%
+40-<50%
+Less than 40%
+
+technical efficiency scores
+
+Number of DMUs falling in ranges
+The CRS case
+
+The VRS case
+
+All inputs
+
+All inputs
+
+10
+9
+9
+21
+23
+25
+16
+
+30
+18
+38
+20
+10
+
+4
+
+M. Shafiq, T Rehman/ Agricultural Economics 22 (2000) 321-330
+
+are assumed, 38% of the farms have efficiency scores
+of less than 60%.
+7.1. Use of DEA results to study inefficiency on an
+individual farm
+
+By using the results of the DEA model, it is possible to work out what is required by inefficient farms
+to become efficient. Take the farm DMU-70, with efficiency scores of 57.97 and 58.78 under the CRS
+and VRS assumptions, respectively. For this farm, the
+farms 40 (0.287), 54 (0.309) and 86 (0.382) are its referent units when CRS are assumed, while the DMUs
+6 (0.043), 40 (0.246), 54 (0.316) and 86 (0.395) are
+the referents when VRS are assumed.
+The production practices of the DMU-70 and its referents are compared in Table 5, and clearly, the use of
+inputs by the DMU-70 is 'excessive'. The 'excessive'
+nature of the input use by DMU-70 is borne out when
+the recommendations by the Central Cotton Research
+Institute (CCRI, 1994) are considered. According to
+CCRI in this area, nitrogen plays the dominant role in
+determining cotton yield and phosphorus contributes
+little, and to obtain optimal yield, there is no need to
+plough the land more than four or five times. As is
+obvious, this farm is not following the recommended
+practices. However, this particular farm has a greater
+number of land parcels (three) as compared to its
+peers (DMUs 6, 46, 54, and 86) which are contiguous
+
+327
+
+farm holdings. This situation may have jeopardized
+the chances of this farm becoming efficient.
+The above comparison would suggest strategies for
+the DMU-70 to rationalize the use of its inputs. The
+lambda values obtained from the DEA solution for this
+farm provide a composite DMU which would produce
+the equivalent level of output, but by using lesser levels of inputs as shown in Table 5. This information as
+generated by the DEA modelling approach is intrinsically interesting and the DEA model can be run to
+examine allocative or economic efficiency of resource
+use on individual farms, as illustrated in Section 8.
+
+8. Results of allocative efficiency analysis
+The interpretation of allocative efficiency depends
+on the assumptions made about a farmer's behaviour.
+Farrell (1957) assumed that cost minimization is the
+basis on which a farmer's allocation decision is taken
+to obtain a given level of output and the allocative inefficiency is a farmer's inability to equate the ratio of
+marginal products of inputs to the ratio of their respective prices. Lau and Yotopoulos (1971), Schmidt
+and Lovell (1979), and Kopp and Diewert (1982) have
+assumed profit maximizing behaviour and have defined allocative inefficiency as the failure to equate the
+marginal value product of inputs to their prices. In the
+DEA model, however, the behavioural assumption is
+
+Table 5
+Input use levels of the DMU-70 and its referent DMUs -the VRS case
+Variables included in the DEA model
+
+Input use levels of DMU-70
+
+Input use levels of the referent units
+DMU-6
+0.043
+
+Composite DMU
+
+DMU-40
+
+DMU-54
+
+DMU-86
+
+0.246
+
+0.316
+
+0.395
+
+Lambda values
+Outputs
+Cotton yield (kg/ha)
+
+2530.3
+
+2293
+
+3517
+
+1956
+
+2399
+
+2529.5
+
+Inputs
+Number of irrigations
+Nitrogen fertilizer (kg nutrients/ha)
+Phosphatic fertilizer" (kg nutrients/ha)
+Labour use (hrs/ha)
+Pesticide costs (Rs. per hecatre)
+Tractor time (hrs/ha)
+
+10
+198.9
+56.8
+247
+2842
+25.5
+
+5
+85.2
+0
+139.8
+2440
+12.4
+
+6
+113.7
+0
+172
+2656
+3.7
+
+7
+56.8
+0
+170.8
+1260
+20.6
+
+5
+170.5
+0
+85
+1297
+16.6
+
+5.878
+116.9
+0
+135.9
+1669
+14.51
+
+a Zero values in the 'phosphatic fertilizer' show that the efficient farmers were not using this input as it is not necessarily required for
+cotton production.
+
+M. Shafiq, T. Rehrrum/Agricultural Economics 22 (2000) 321-330
+
+328
+
+Table 6
+Allocative efficiency scores of the cotton producers
+Number of DMUs falling in a range
+
+Ranges
+
+Equal to 100%
+Greater than 90%
+but <100%
+80-<90%
+70-<80%
+60-<70%
+50-<60%
+40-<50%
+Less than 40%
+
+The CRS case
+
+The VRS case
+
+14
+8
+
+34
+19
+
+9
+21
+22
+23
+13
+7
+
+25
+23
+15
+
+Results of the estimation of both technical and
+allocative efficiency show that technically efficient
+farms were also allocatively efficient. However, some
+units such as the DMU-101 and the DMU-111 were
+technically efficient but were not so allocatively.
+
+8.1. Sensitivity analysis for an individual DMU's
+allocative efficiency
+
+more subtle as the allocative efficiency is the proportion by which the costs of the levels of inputs on a
+farm can be reduced without any loss in output. Thus,
+an efficiency score of 0.8 implies that the DMU concerned could reduce its costs by 20% by choosing a
+more cost-efficient input mix.
+In measuring allocative efficiency of cotton production, the costs of individual inputs used have been estimated by using the actual prices paid by farmers. The
+variables belonging to the same category were pooled
+together to reduce the number of cost variables in order to facilitate analysis. The variables defined were
+expenditure (in Rs. per hectare) on (i) land cultivation; (ii) cotton seed; (iii) thinning; (iv) inter-cultural
+operations; (v) fertilizer; (vi) irrigation; and (vii) pesticide usage. The results as given in Table 6 show that,
+assuming VRS, nearly 30% of the DMUs have an efficiency score of 1.
+
+The DMU-83 has the lowest allocative efficiency
+score of 56.67 (assuming VRS) and it can be used to
+illustrate the use of sensitivity analysis for exploring
+the avenues for improving the allocative efficiency.
+The lambda values associated with the solution for
+this farm show that the DMUs 30, 47, 54, 64, 84, 86
+and 113 were its referent units (see Table 7). For most
+of the inputs, the referent DMUs were spending considerably less than the DMU-83 particularly on pest
+control, fertilizer, and cultivation. Using lambda values of the referent DMUs, the targets which DMU-83
+can aim at become allocatively efficient and are presented in the last column of Table 7. This farm needs
+to decrease its expenditure on pesticide, irrigation and
+land preparation operations.
+
+9. Concluding remarks
+The preceding analysis points towards the existence
+of a significant extent of resource use inefficiency on
+cotton farms in the cotton-wheat production system
+of Pakistan's Punjab. In many instances, the quanti-
+
+Table 7
+Sensitivity analysis for allocative efficiency of cotton production on the DMU-83
+Variables
+
+LAMBDA
+LANDPREP
+SEEDEXP
+INTERCULT
+THINNING
+FERTCOST
+IRRICOST
+PESTCOST
+INCOMEHA
+
+DMU-83
+
+1976.8
+345.9
+1111.9
+86.50
+2762.6
+2223.9
+3763.3
+47341.7
+
+Referent units
+DMU-30
+
+DMU-47
+
+DMU-54
+
+DMU-64
+
+DMU-84
+
+DMU-86
+
+DMU-113
+
+Target for DMU-83
+
+0.006
+926.6
+259.5
+370.7
+173
+2159.7
+86.48•
+2005.2
+63343
+
+0.084
+1334.3
+148.3
+803.1
+0
+2221.4
+86.48a
+2322.7
+58323.3
+
+O.D35
+967.4
+231.4
+815.4
+148.3
+573.3
+86.48•
+1260.2
+43664.4
+
+0.427
+1136.7
+216.2
+716.6
+0
+1156.4
+953.1
+2619.3
+45608.5
+
+0.151
+617.8
+313
+741.3
+86.50
+2421.6
+501.9
+2631.6
+39180.8
+
+0.255
+1541.9
+129.7
+444.8
+98.80
+1764.3
+2881
+1297.3
+49736.7
+
+0.043
+864.8
+196.4
+543.6
+148.3
+2174.5
+550.7
+2616.8
+58456.1
+
+1161
+203.2
+652.9
+50.86
+1622
+1252
+2210
+47341.7
+
+• Lower cost of irrigation on these farms shows that canal water was the only source of irrigation at a fixed charge of Rs. 86 pel
+hectare for the season.
+
+M. Shafiq, T. Rehman/ Agricultural Economics 22 (2000) 321-330
+
+ties of inputs used were unjustifiably higher than what
+would be required to achieve their present levels of
+crop output. By using the DEA modelling approach
+for efficiency analysis, it is possible to achieve two
+types of results. First, it is possible to identify the adjustments that can be made in the use of inputs on
+inefficient farms by comparing them with their 'peer'
+farms. Second, the factors that can be manipulated to
+minimize the excessive use of inputs and hence reduce
+the costs of production can be established. However,
+for a meaningful interpretation of the DEA results, it
+is necessary to consider the totality of recommendation domains for various production practices in specific areas, as without the inclusion of all the relevant
+and important factors in the analysis, one cannot be
+assertive about the sources of inefficiencies. Nonetheless, the DEA approach has an undoubted edge over
+the standard production function analysis for identifying the sources of inefficiencies on individual farms.
+The DEA results are much easier to interpret and to
+utilize for investigating avenues for improvements in
+technology and resource use efficiency on farms.
+This exercise in using the DEA modelling approach
+for measuring efficiency has demonstrated that there
+was a high degree of allocative inefficiency, as regards
+costs of production, on cotton-producing farms in Pakistan. However, the efficiency scores for both technical
+and allocative efficiencies increase with increase in the
+number of input variables included in the DEA model.
+The real advantage of DEA modelling is that it allows
+the specification of a multi-product, multi-input firm
+(Byrnes et al., 1987). The construction of the 'efficient
+frontier' for measuring the efficiency is achieved without having to make any pre-supposition regarding the
+underlying functional form and the statistical errors
+associated with the specification of such a function are
+also avoided.
+
+Acknowledgements
+This article has been derived from the thesis submitted by M. Shafiq to The University of Reading for
+the award of a Ph.D. degree. He is grateful to the
+Pakistan Agricultural Research Council for sponsoring his studies and the stay in England and both the
+authors appreciate the co-operation of cotton producers in Pakistan in providing the data.
+
+329
+
+References
+Akhtar, M.R., Byerlee, D., Qayyum, A., Majid, A., Hobbs,
+P.R., 1986. Wheat in the Cotton-Wheat Farming Systems of
+the Punjab: Implications for Research and Extension, 86-8,
+PARC/CIMMYT Collaborative Program, Islamabad, Pakistan.
+Ali, M., Flinn, J.C., 1987. Profit efficiency among Basmati rice
+producers in Pakistan's Punjab. Am. J. Agric. Econ. 71, 302310.
+Ali, M., Chaudhry, M.A., 1990. Inter-regional farm efficiency in
+the Pakistan's Punjab: a frontier production function study. J.
+Agric. Econ. 41, 62-74.
+Ali, F., Bailey, D., Parikh, A., 1993. Price distortion and resource
+use efficiency in a Pakistani province. Rev. Agric. Econ. 20,
+35-47.
+Banker, R.D., Charnes, A., Cooper, W.W., 1984. Some models for
+estimating technical and scale inefficiencies in data envelopment
+analysis. Manage. Sci. 30, 1078-1092.
+Battese, G.E., 1992. Frontier production functions and technical
+efficiency: a survey of empirical applications in agricultural
+economics. Agric. Econ. 7, 185-208.
+Battese, G.E., Malik, S.J., Broca, S., 1993. Production functions for
+wheat farmers in selected districts of Pakistan: an application
+of a stochastic frontier production function with time-varying
+inefficiency effects. Pakistan Develop. Rev. 32, 233-268.
+Bowlin, W.F., Charnes, A., Cooper, W.W., Sherman, H.D.,
+1985. Data envelopment analysis and regression approaches to
+efficiency estimation and evaluation. Ann. Operations Res. 2,
+113-138.
+Byrnes, P., Fare, R., Grosskopf, S., Kraft, S., 1987. Technical
+efficiency and size: the case of Illinois grain farms. Eur. Rev.
+Agric. Econ. 14, 367-381.
+Central Cotton Research Institute (CCRI), 1994. Agronomic
+Research Review of Agronomy Section, Annual Report of
+Central Cotton Research Institute, Mullan, Pakistan.
+Charnes, A., Cooper, W.W., Rhodes, E., 1978. Measuring the
+efficiency of decision making units. Eur. J. Operational Res. 2,
+429-444.
+Charnes, A., Cooper, W.W., Lewin, A.Y., Seiford, L.M., 1995. Data
+Envelopment Analysis: Theory, Methodology and Applications.
+Kluwer Academic Publishers, Boston.
+Cloutier, M.L., Rowely, R., 1993. Relative technical efficiency:
+data envelopment analysis and Quebec's dairy farms. Can. J.
+Agric. Econ. 41, 69-176.
+Coelli, T.J., 1995. Recent developments in frontier modelling and
+efficiency measurement. Aust. J. Agric. Econ. 39, 219-245.
+Coelli, T.J., Rao, D.S.P., Battese, G.E., 1998. An Introduction
+to Efficiency and Productivity Analysis. Kluwer Academic
+Publishers, Boston.
+Dyson, R.G., Thanassoulis, E., Boussofiane, A., 1990. Data
+envelopment analysis. In: Hendey, L.C., Eglese, R. (Eds.),
+Operational Research Tutorial Papers. The Operational
+Research Society, UK.
+Farrell, M.J., 1957. The measurement of productive efficiency. J.
+R. Statistical Soc. Ser. 'A' 120, 253-281.
+Haag, S., Patrick, J., Semple, J., 1992. Assessing the relative
+efficiency of agricultural production units in the Blackland
+Prairie, Texas. Appl. Econ. 24, 559-565.
+
+330
+
+M. Shafiq, T. Rehman!Agricultural Economics 22 (2000) 321-330
+
+Hussain, S.S., Longmire, J., Ali, M.M., Traxler, G., 1991. The
+yield gap for wheat in Pakistan. In: Haider, A.S., Hussain, Z.,
+McConnen, R., Malik, S.J. (Eds.), Agricultural Strategies in the
+1990's: Issues and Policies. Pakistan Association of Agricultural
+Social Scientists, Islamabad, Pakistan.
+Kalirajan, K.P., 1984. Farm-specific technical efficiencies and
+development policies. J. Econ. Stud. 11, 3-13.
+Kalirajan, K.P., Shand, R.T., 1986. A Measurement of
+Farm-Specific Absolute Technical Efficiency for Multiple
+Output Farms. Rural Development Working Paper 86/6.
+National Centre for Development Studies, The Australian
+National University, Canberra.
+Khan, M.H., Maki, D.R., 1979. Effect of farm size on economic
+efficiency: the case of Pakistan. Am. J. Agric. Econ. 61, 64-69.
+Khan, M.A., Sheikh, A.D., Zubair, M., 1994. A Baseline Study
+of Rice Management Practises and Productivity Issues at
+the Rice Maximization Project Location in the Pakistan's
+Punjab, 94-1. AERU, National Agricultural Research Institute,
+Islamabad.
+Kopp, R.J., Diewert, W.E., 1982. The decomposition of frontier
+cost function deviation into measures of technical and al1ocative
+efficiency. J. Econometrics 19, 319-331.
+Lau, L.J., Yotopoulos, P.A., 1971. A test for relative efficiency and
+application to Indian agriculture. Am. Econ. Rev. 61, 94-109.
+
+Norman, M., Stoker, B., 1991. Data Envelopment analysis: The
+Assessment of Performance. Wiley, London.
+Parikh, A., Shah, K., 1994. Measurement of technical efficiency in
+the North-West Frontier Province of Pakistan. J. Agric. Econ.
+45, 132-138.
+Parikh, A., Ali, F., Shah, M.K., 1995. Measurement of economic
+efficiency in Pakistani agriculture. Am. J. Agric. Econ. 77,
+675-685.
+Roll, Y., Cook, W.D., 1993. Partial efficiency in Data Envelopment
+Analysis. Socio-Economic Planning Sciences 27, 171-179.
+Schmidt, P., Lovell, C.A.K., 1979. Estimating technical and
+allocative inefficiency relative to stochastic production and cost
+frontiers. J. Econometrics 9, 343-366.
+Seiford, M.L., Thrall, R.M., 1990. Recent developments in DEA,
+the mathematical programming approach to frontier analysis.
+J. Econometrics 46, 7-38.
+Shimizu, T., 1992. Technical efficiency of melon farms
+under the marketing strategy of agricultural co-operatives.
+In: Bellamy, M., Greensshields, B. (Eds.), Issues in
+Agricultural Development-Sustainability and Co-operation.
+Dartmouth Publishing Company, Aldershot.
+Thanassoulis, E., 1993. A comparison of regression analysis
+and Data Envelopment Analysis as alternative methods for
+performance assessments. Ann. Operations Res. 44, 1129-1144.
+
+AGRICULTURAL
+
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 22 (2000) 331-332
+www.elsevier.com/locate/agecon
+
+Contents of Agricultural Economics, Vol. 22
+VOL. 22 NO. 1
+
+JANUARY 2000
+
+Efficiency of research investments in the presence of international spillovers: wheat research in developing countries
+M.K. Maredia (East Lansing, MI, USA) and D. Byerlee (Washington, DC, USA) . . . . . . . . . . . . . . . . . . .
+An analysis of industrial-agricultural interactions: a case study in Pakistan
+S.R. Henneberry (Stillwater, OK, USA), M.E. Khan (Islamabad, Pakistan) and K. Piewthongngam (Oklahoma, OK, USA)
+An error correction almost ideal demand system for meat in Greece
+G. Karagiannis (Athens, Greece), S. Katranidis and K. Velentzas (Thessaloniki, Greece) . . . . . . . . . . . . . . . . . . .
+Agricultural reforms in Central and Eastern Europe and the former Soviet Union. Status and perspectives
+C. Csaki (Washington, DC, USA) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Japan's Large Scale Retail Store Law: a cause of concern for food exporters?
+T. Odagiri and P. Riethmuller (Brisbane, QLD, Australia) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Transmission of price shifts in tbe context of structural adjustment: an empilical analysis for staple food after tbe
+devaluation of the franc CFA in Ivory Coast
+J. Jutting (Bonn, Germany). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+The economics of coupled farm subsidies under costly and imperfect enforcement
+K. Giannakas (Lincoln, NE, USA) and M. Fulton (Saskatoon, Sask., Canada) .
+The external costs of pasture weed spread: an economic assessment of se1rated tussock control
+R.E. Jones, D.T. Vere and M.H. Campbell (Orange, NSW, Australia) . . . . . . . . . . . . .
+
+Guide for Authors
+
+VOL. 22 NO.2
+
+17
+29
+37
+55
+
+67
+75
+91
+105
+
+MARCH 2000
+
+The political economy of public research investment and commodity policies in ag1iculture: an empirical study
+J.F.M. Swinnen (Leuven, Belgium and Brussels, Belgium), H. de Gorter (Ithaca, NY, USA), G.C. Rausser
+(Berkeley, USA) and A.N. Banerjee (Belfast, UK and Leuven, Belgium) . . . . . . . . . . . . . . . . . . . . .
+Measuring research benefits in an imperfect market: second comment
+G.J. Holloway (Davis, CA, USA) . . . . . . . . . . . . . . . . .
+Measuring research benefits in an imperfect market: second reply
+J.P. Voon (Tuen Mun, Hong Kong) . . . . . . . . . . . . . . . . . . . . . . .
+Measuring research benefits in an imperfect market: reply to Holloway
+R.J. Sexton (Davis, CA, USA) and T.A. Sexton (Sacramento, CA, USA) .
+Conversion subsidies for organic production: results from Sweden and lessons for the United States
+L. Lohr (Athens, GA, USA) and L. Salomonsson (Uppsala, Sweden) . .
+. . . . . . . . . .
+Modeling the demand for alcoholic beverages and advertising specifications
+E. Lariviere, B. Larue (Sainte-Fay, Canada) and J. Chalfant (Davis, CA, USA) . . . . . . . . . .
+Off-farm work decisions on Dutch cash crop farms and the 1992 and Agenda 2000 CAP reforms
+T. Woldehanna, A.O. Lansink and J. Feedings (Wageningen, The Netherlands). . . . . . . . . . . . . . . . . . . . . . .
+Allocation of time for meal preparation in a transition economy
+W.J. Piorkowski, W. Moon, A.V.A. Resurreccion (Griffin, GA, USA), J. Jordanov, P. Paraskova, (Plovdiv, Bulgaria),
+L.R. Beuchat (Griffin, GA, USA), K. Murgov (Plovdiv, Bulgaria) and M.S. Chinnan (Griffin, GA, USA) . . . . . . .
+
+Ill
+123
+127
+129
+133
+147
+163
+
+173
+
+332
+
+Contents
+
+Rural employment in industrialised countries
+J. Bryden (Scotland, UK) and R. Bollman (Ottawa, Canada) . . . . . . . . . . . . . . . .
+The geography and causes of food insecurity in developing countries
+L.C. Smith (Washington, DC, USA), A.E. El Obeid and H.H. Jensen (Ames, IA, USA)
+
+VOL. 22 NO.3
+
+185
+
+199
+
+APRIL 2000
+
+Policy instruments for sustainable land management: the case of highland smallholders in Ethiopia
+B. Shiferaw and S.T. Holden (As, Norway) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Impacts of WTO restrictions on subsidized EU sugar exports
+D. Poonyth (Pretoria, South Africa), P. Westhoff, A. Womack and G. Adams (Columbia, MO, USA).
+Valuing groundwater recharge through agricultural production in the Hadejia-Nguru wetlands in northern Nigeria
+G. Acharya (Washington DC, USA) and E.B. Barbier (Heslington, UK). . . . . . . . . . . . . . . . . . . . . . .
+Modelling technical change in Italian agriculture: a latent variable approach
+R. Esposti (Ancona, Italy) and P. Pierani (Siena, Italy) . . . . . . . . . .
+Food crops, exports, and the short-run policy response of agriculture in Africa
+R.L. Lamb (Raleigh, NC, USA) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Animal disease incidence and indemnity eradication programs
+F. Kuchler and S. Hamm (Washington, DC, USA) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Estimating labor supply of farm households under nonseparability: empirical evidence from Nepal
+A. Abdulai (Zurich, Switzerland) and P.P. Regmi (Bangkok, Thailand) . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+The extent of resource use inefficiencies in cotton production in Pakistan's Punjab: an application of Data Envelopment
+Analysis
+M. Shafiq and T. Rehman (Reading, UK) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Contents of Agricultural Economics Vol. 22 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+217
+233
+247
+
+261
+271
+299
+309
+
+321
+331
+
+

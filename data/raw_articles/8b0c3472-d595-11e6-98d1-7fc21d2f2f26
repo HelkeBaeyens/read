@@ -1,0 +1,1999 @@
+AGRICULTURAL
+ECONOMICS
+Agricultural Economics 36 (2007) 253–270
+
+Agricultural trade liberalization and economic development:
+the role of downstream market power
+Richard J. Sextona , Ian Sheldonb,∗ , Steve McCorristonc , Humei Wangd
+a Department
+
+of Agricultural and Resource Economics and Giannini Foundation of Agricultural Economics, University of California, Davis, CA 95616, USA
+b Department of Agricultural, Environmental, and Development Economics, Ohio State University, Columbus, OH 43210, USA
+c School of Business and Economics, University of Exeter, Exeter EX4 4PU, UK
+d California Department of Health Services, Sacramento, CA 95899, USA
+Received 5 July 2005; received in revised form 14 April 2006; accepted 10 August 2006
+
+Abstract
+A model is developed to characterize the vertically linked and concentrated nature of developed-country food markets. This model is then
+parameterized and used to simulate the effects of varying food market structures on the benefits to developing-country exporters of agricultural
+commodities from trade liberalization by developed countries. Results demonstrate that even relatively modest departures from perfect competition
+can cause much of the benefits from trade liberalization to flow to marketing firms instead of producers in the developing country. The distributional
+effects under downstream market power differ significantly from the perfectly competitive case and may result, somewhat paradoxically, in
+developing countries receiving a lower share of the total value added within the food chain as trade reform occurs.
+JEL Classification: F12, F13, O12
+Keywords: Developing countries; Oligopoly; Oligopsony; Trade liberalization; Vertical market structure
+
+1. Introduction
+The Doha Round of trade negotiations in the World Trade Organization (WTO) has been labeled the “development round,”
+a key part of which will be increasing developing countries’
+access to developed-country markets (Anderson and Martin,
+2005). This process will involve the reduction of tariffs on agricultural commodities, given that many developing countries
+are still major agricultural exporters and that agriculture still
+accounts for a large share of GDP, particularly in the poorest
+developing countries. However, in terms of the potential benefits to developing countries, there are two interrelated issues.
+First, recognizing the vertically linked nature of the food chain
+among agriculture, food processing and retailing, the increasing
+consolidation of the food industry in developed countries may
+influence the magnitude of the benefits that developing countries receive from increased market access. Second, in terms
+of the total value of the product that reaches consumers, the
+raw agricultural component typically represents a small share.
+This has caused many in developing countries as well as in
+∗ Corresponding author. Tel.: (614)-292-2194.
+E-mail address: sheldon.1@osu.edu (Ian Sheldon).
+
+c 2007 International Association of Agricultural Economists
+
+international institutions to advocate diversification in developing countries, involving the processing of and adding value to
+the raw agricultural commodity (UNCTAD, 2002a).
+These issues can be related explicitly to the broader popular
+debate about globalization. First, concerns have been expressed
+that increasing concentration of the global food system harms
+producers of export commodities critical to many developing
+countries. For example, African countries such as Burundi,
+Ethiopia, Rwanda, and Uganda are highly dependent on exports of coffee, yet all have faced a significant decline in real
+prices over the past few years. 1 At the same time, in key export
+markets such as Europe and the United States, global coffee
+buyers, roasters, and retailers, who in total account for almost
+60% of the share of final sales value of coffee, have benefited
+from lower coffee bean prices (Oxfam, 2001). 2 Second, tariff
+1 Over the period 1998–2001, real coffee prices fell by 50%. As a result, for a
+country such as Ethiopia, where coffee represented 67% of the value of exports
+in 1998, the decline in world coffee prices cost Ethiopia US$ 300 million in
+export revenues, equivalent to 50% of its annual export earnings (Oxfam, 2001).
+2 All three sectors are dominated by a small number of firms. For example, in
+1995, 10 firms accounted for 62% of global coffee bean trade, while in 1998,
+five firms accounted for 58%of sales of roasted coffee in the European market
+(Fitter and Kaplinsky, 2001).
+
+254
+
+R. J. Sexton et al. / Agricultural Economics 36 (2007) 253–270
+
+reduction and market access go right to the heart of the debate
+over whether smallholder farmers in developing countries will
+truly benefit from globalization. On the one hand, development
+agencies such as the World Bank (2003), and NGOs such as Oxfam, have argued extensively that removal of trade distorting
+agricultural policies in both the developed and developing countries has the “potential to act as a powerful catalyst for poverty
+reduction” (Oxfam, 2003, p. 7) in the developing countries. On
+the other hand, critics of globalization have argued that it may
+generate negative effects for developing-country farmers.
+The Mozambique cashew nut sector provides a good example
+of this debate. In the early 1990s, Mozambique removed taxes
+on the export of raw cashews in response to advice from the
+World Bank. The World Bank (1995) forecast that cashew nut
+farmers’ incomes would increase between US$ 17.4 and 27.9
+million in the first 2 years of the reform. However, McMillan
+et al. (2002) report that the actual gains to cashew nut farmers
+were only US$ 5.3 million. At the same time, urban unemployment increased as labor released from cashew nut processing
+failed to move into other activities. This case became a “cause
+c´el`ebre” for the antiglobalization movement, and a focus for
+attacking World Bank policies (McMillan et al., 2002, p. 1).
+What the World Bank ignores in its estimates was that the
+impact of reform in the Mozambique cashew nut sector was in
+large part influenced by the characteristics of the downstream
+sector which cashew nut farmers supplied. As McMillan et al.
+(2002) note, traders downstream from farmers are competitive
+in selling cashews, but have buying (monopsony) power in the
+purchase of cashews. As a result, even though export prices
+for raw cashew nuts did increase, as predicted by theory, export traders captured a relatively large share of the benefits
+from removal of the export tax, reducing the income gains to
+farmers. 3
+Therefore, in analyzing the impact of trade liberalization on
+developing countries, it is necessary to understand the vertical linkages that characterize food markets in many developed
+countries. We argue in this article that the modern food marketing system in many industries is most appropriately characterized by a successive oligopoly/oligopsony structure, with
+developing-country exporters of raw commodities entering at
+the first stage, and show that the implication of reducing tariffs or export taxes under this structure may be much different
+in magnitude from that implied by models that assume perfect
+competition. Moreover, the distributional effects will also differ
+relative to the perfectly competitive case and may result, somewhat paradoxically, in developing countries receiving a lower
+share of the total value added within the food chain as trade
+reform occurs.
+3 Another example is Ivory Coast cocoa market liberalization (Wilcox and
+Abbott, 2004). Prior to liberalization, para-statal marketing boards controlled
+all levels of marketing of cocoa beans and also taxed cocoa bean exports.
+Liberalization has resulted in backward integration by multinational cocoa
+processor-exporters who now capture a portion of the rents previously collected
+as export taxes.
+
+We develop this theme by first presenting some evidence on
+the structure of the food chain in developed economies, focusing specifically upon the European Union (EU) and the United
+States. We then develop, in Section 3, a model that characterizes the vertically linked nature of developed-country food
+markets. The model is based on a market setting in which a
+primary agricultural product such as coffee is exported from
+a developing economy, and is then processed and sold in a
+developed economy. 4 The market structure in the developed
+economy features independent processing and retailing sectors,
+both of which may exhibit market power. Next, in Section 4,
+we derive the implications of various combinations of market
+structures in the processing and/or the retailing sector on total
+market surplus, and the distribution of benefits from reducing
+a per-unit tariff among consumers in the developed economy,
+developing-country producers, and marketers (processors and
+retailers), given price-taking behavior by farm producers and
+consumers but possible oligopoly and/or oligopsony power exercised by the marketing sector. Some extensions are outlined
+in Section 5, and in Section 6 we summarize and conclude.
+2. Market structure of the food sector in developed
+economies
+As noted, the food industry is typically highly concentrated in
+developed countries at both the retail and processing stages and,
+further, concentration is rising over time. This is also becoming
+a characteristic of the food sector in some developing countries.
+By way of illustration, we focus specifically on these sectors in
+the United States and the EU.
+2.1. Food processing
+In the United States, the top-20 food-manufacturing firms
+accounted for 37% of value added in 1997, while the top-20
+beverage- and tobacco-manufacturing firms accounted for 79%
+of value added (U.S. Census Bureau, 2001). Using more disaggregated data at the four-digit SITC level, the average four-firm
+concentration ratio (CR4) in U.S. food manufacturing was about
+76% in 1997, ranging from 62% in sugar cane mills to 98% in
+cigarettes.
+Average seller concentration in the EU is higher than in the
+United States, ranging from an average CR3 of 55% in Germany to 89% in Ireland, with an average CR3 across nine EU
+countries of 67% (Cotterill, 1999). As in the United States,
+these averages hide some high levels of seller concentration for
+specific products in each EU country, most notably baby foods,
+canned soup, pet food, and coffee. While seller concentration
+at the product level is high in many individual EU country markets, there are few examples of firms that dominate sales across
+EU countries as a whole (Cotterill, 1999).
+4
+
+As the focus of this article is on gains to developing country exporters
+from trade liberalization, we abstract from any impacts on developed country
+agricultural sectors.
+
+R. J. Sexton et al. / Agricultural Economics 36 (2007) 253–270
+
+2.2. Food retailing
+
+Table 1
+Estimates of market power and Lerner indices
+
+Several important differences are apparent in the food retailing market structures in the United States and EU. Average
+CR5 in food retailing at the national level in the EU is 65%,
+much higher than in the United States, where the comparable
+figure is 35% (Cotterill, 1999; McCorriston, 2002). However, at
+the EU-wide level, CR5 is much lower at 26% (Hughes, 2002).
+Because retail markets are localized in geographic scope, it is
+important in considering retailer oligopoly power to examine
+concentration at the local and regional level. In this regard, Cotterill reports that in 1998, CR4 in the United States averaged
+74% across the top-100 U.S. cities.
+
+Study
+
+Industry
+
+Appelbaum (1982)
+
+U.S. textiles
+U.S. tobacco
+Canadian food processing
+U.S. beef-packing
+(1) oligopsony
+(2) oligopoly
+Rice export
+U.S. meat (oligopoly)
+U.S. livestock (oligopsony)
+U.S. composite meat
+processing
+U.S. beefa
+U.S. porka
+Philippines coconut oil
+
+2.3. Industry consolidation
+An additional feature of market structure in the food industry
+in recent years has been consolidation through mergers and
+acquisitions, which has contributed to increasing concentration.
+Domestic mergers and acquisitions in the food sector doubled
+between 1990 and 2002 (McCorriston et al., 2004). Moreover,
+international mergers and acquisitions have also been increasing
+significantly. For example, EU-based retailers such as Royal
+Ahold and Sainsbury have expanded into U.S. markets, and
+Wal-Mart has expanded into the EU. As a result, food retailing
+is becoming increasingly multinational with three food retailers
+Wal-Mart, Carrefour, and Royal Ahold now appearing in the
+world’s top-100 multinational corporations (UNCTAD, 2002b).
+Although the high and rising concentration in the food sector
+is not a debatable point, empirical evidence on the extent of
+the actual exercise of manufacturer and retailer market power
+in developed-country food sectors is rather mixed. Surveys of
+the recent empirical work by Sexton (2000), Sexton and Lavoie
+(2001), and Sheldon and Sperling (2003) reveal evidence of
+only modest departures from perfect competition for a wide
+range of products in the food manufacturing/processing sector.
+Table 1 summarizes results of market power estimates for a
+broad range of industries. The theoretical range for the market
+power parameters in the table is from 0 (perfect competition) to
+1 (monopoly or monopsony). Although a few estimates are in
+the vicinity of 0.5 (market power equivalent to that of a homogeneous Cournot duopoly or duopsony) or higher, most are much
+lower—0.25 (the market power equivalent of a homogeneous
+four-firm Cournot oligopoly or oligopsony) or less.
+3. Agricultural trade and importing country market
+power
+Despite the observation that the food sector would appear
+to be imperfectly competitive at multiple stages, departures
+from the competitive-markets paradigm have seldom been considered by economists conducting trade-policy analysis. Most
+empirical studies assume perfect competition at a single stage,
+e.g., the FAPRI (Devadoss et al., 1993) and AGLINK (OECD,
+
+Lopez (1984)
+Schroeter (1988)
+
+Karp and Perloff (1989)
+Azzam and Pagoulatos
+(1990)
+
+Schroeter and Azzam
+(1990)
+Buschena and Perloff
+(1991)
+Wann and Sexton (1992) U.S. grade pack pearsa
+U.S. fruit cocktaila
+Deodhar and Sheldon
+German bananas
+(1995)
+Deodhar and Sheldon
+German bananas
+(1996)
+Bhuyan and Lopez
+U.S. food industriesb
+U.S. tobacco industries
+(1997)
+Wilson (1997)
+U.K. bread manufacturing
+Genoseve and Mullin
+U.S. sugar industry
+(1998)
+Steen and Salvanes
+French fresh salmon
+(1999)
+Bettendorf and Verboven Dutch coffee roasting
+(2000)
+Gohin and Guyomard
+French food retailing:
+(2000)
+(1) dairy productsa
+(2) meat productsa
+(3) other food productsa
+Wilcox and Abbott
+Ivory Coast cocoa exports:
+(2004)
+(1) government/exporters
+(2) exporters
+
+255
+
+Market
+Power
+0.05∗
+0.40∗
+0.19∗
+0.22∗
+
+0.68c†
+0.22∗
+0.18∗
+
+Lerner
+Index††
+0.07
+0.65
+0.50
+0.01
+0.04
+0.11
+0.46
+1.10
+0.74
+
+0.05∗
+0.06∗
+0.58†
+
+0.55
+0.47
+0.89
+
+0.08∗
+0.48∗
+0.29†
+
+0.15
+1.41
+0.26
+
+0.20c†
+
+0.18
+
+0.18∗
+0.18∗
+0.31
+0.04†
+
+0.33
+0.33
+0.84
+0.05
+
+0.02–0.05d†
+
+0.12-0.04
+
+0.02–0.17e∗ 0.07-0.54
+
+−0.02∗
+−0.03∗
+0.01∗
+
+0.20
+0.17
+0.12
+
+0.47–0.77a∗ 0.25—0.37
+0.19–0.48a∗ 0.09–0.20
+
+This is a revised version of a table from Sheldon and Sperling (2003)
+Estimates based on joint oligopsony/oligopoly power; b Bhuyan and Lopez
+(1997) also calculated Lerner indices for 40 4-digit SIC food industries, ranging
+from 0.72 for cereal preparation to 0.08 for dried fruit and vegetables; c Estimate
+based on a closed loop dynamic model; d Static and dynamic estimate; e Quadratic
+and logarithmic demand estimates; ∗ Conjectural elasticity and † conjectural variation
+–both parameters range from 0 for perfect competition to 1 for monopoly; †† The
+Lerner index is defined as the conjectural elasticity divided by the elasticity of
+supply (demand)
+a
+
+2005) policy forecasting models. Even the recent and widely
+cited work on the impact of protectionism in the EU by Messerlin (2001) reports results that treat the agricultural sector as
+perfectly competitive, with the exception of the bananas subsector. 5
+Indeed, only in recent years have papers begun to consider
+the role of vertical market structure in thinking about optimal
+trade policy. Spencer and Jones (1992), Ishikawa and Spencer
+5
+
+Messerlin (2001) does acknowledge that a few large traders in grains and
+sugar could result in imperfect competition in these subsectors, and that there
+may be imperfect competition at the food retailing level.
+
+256
+
+R. J. Sexton et al. / Agricultural Economics 36 (2007) 253–270
+
+(1999), and Sheldon et al. (2001) are examples of theoretical
+models that extend the Brander and Spencer (1985) result on
+export subsidies to vertical markets, while McCorriston and
+Sheldon (1996) examine the incidence of reform of the EU banana regime in a vertical market setting of successive oligopoly.
+Given this background, it is useful to consider a flexible
+model setting that enables the impacts of a wide range of competitive outcomes to be studied. Specifically, we consider a
+market setting in which a primary agricultural product such as
+coffee, tea, or cocoa is exported from a developing economy,
+and it is processed and sold in a developed economy. 6 The
+market structure in the developed economy features independent processing and retailing sectors, both of which may exhibit
+market power. 7
+Consumers’ inverse excess demand in the developed economy for the retail product is
+
+quasifixed proportions in the sense that no substitution is permitted between the raw farm input and other inputs in producing
+the finished product. However, substitution among other processing and retailing inputs (e.g., labor and energy) is permitted.
+In addition, we assume that retailers’ costs for the product under
+investigation are separable from the costs of other products sold
+at retail. For convenience and without further loss of generality,
+we choose to measure units at the various stages in the market
+so that Qf = Qw = Qr = Q, where the superscripts f, w, and
+r denote the farm, wholesale or processing, and retail sectors,
+respectively. Given these assumptions, changes in market concentration have no cost-side effects, enabling the analysis to
+focus solely on the competition impacts. 10
+Denote a representative processing firm’s volume of raw
+product purchases by qf . Given our assumptions, the representative firm’s variable cost function can be written as
+
+P r = D(Qr | X),
+
+C w = cw (Vw )q f + (P f + T )q f ,
+
+(1)
+
+where Qr is the market quantity of the retail product, Pr is
+the market price, and X denotes unspecified demand shifters.
+Farmers in the developing country are assumed to be price
+takers in their output market. Inverse excess farm supply of the
+raw commodity is expressed as
+P f = S(Qf | Y),
+
+(2)
+
+where Pf is the price received at the farm, Qf is the total volume
+of farm shipments, and Y represents unspecified supply shifters.
+The raw product is subject to a per-unit import tariff of T. 8
+To focus the model on the implications of possible market
+power in the marketing sector of the developed economy, we
+make a number of simplifying assumptions about the technologies for the processing and retailing sectors. Both food processors and retailers are assumed to utilize a constant-returns
+technology. 9 Further, we assume that these technologies are
+6 The model need not be interpreted narrowly in the context of bilateral
+trade. The excess demand function in (1) can refer to world demand for the
+commodity produced in the developing economy, in which case market power
+could arise due to the behavior of multinational firms and also state trading
+agencies (Sexton and Lavoie, 2001).
+7 This model is adapted from prior work by Huang and Sexton (1996), Alston
+et al. (1997), and Sexton and Zhang (2001).
+8 Our results, of course, also apply to the case of a per-unit export tax, and,
+thus, to the debate regarding the impacts of openness vs. protectionism in trade
+policies adopted by developing countries on their economic growth (Edwards,
+1993).
+9 Assuming a constant returns technology markedly simplifies the analysis
+but is done at a cost in terms of generality. If firms’ technologies are not constant
+returns but the firms are operating in the range of locally constant returns to scale
+(i.e., they have exploited the available economies), our results are unaffected.
+However, if firms are operating in the range of increasing returns to scale at the
+equilibrium with the tariff in place, then its elimination would enable firms to
+increase output and reduce costs, providing an additional benefit to producers
+from trade liberalization. One might further argue that observing firms operating
+in the range of increasing returns to scale is more likely in industries with high
+concentration and market power. In this case, our results will miss a benefit to
+tariff reduction that might increase as a function of downstream firms’ market
+power.
+
+(3)
+
+where cw (Vw ) represents the constant processing costs per unit
+of raw product processed, Vw is the vector of prices for variable
+processing inputs, and Pf is the raw product price received by
+producers in the developing economy.
+Denote a representative retailer’s volume of wholesale purchases by qw . A representative retailer’s variable cost function
+for selling the product is
+C r = cr (Vr )q w + P w q w ,
+
+(4)
+
+where Pw is the wholesale price, cr (Vr ) represents the constant
+retailing costs per unit of wholesale product sold, and Vr is the
+vector of prices for variable retailing inputs.
+We now derive the implications of various combinations of
+oligopoly and oligopsony power in the processing and/or the
+retailing sector for total market surplus, and the distribution
+of surplus among consumers, producers, and marketers (i.e.,
+processors and retailers), given price-taking behavior by farm
+producers in the developing country and by consumers in the
+importing country. To simplify notation, we drop further reference to the exogenous variables X, Y, Vw , and Vr .
+3.1. Manufacturers or retailers may have both oligopsony and
+oligopoly power
+In this case we assume that either retailers or manufacturers
+are price takers, i.e., given market power in one of the marketing sectors, the other sector is competitive. Given the model
+10
+
+The recent theoretical literature on trade, vertical markets and imperfect
+competition consistently assumes a fixed proportions technology, and for many
+agricultural commodities, e.g., coffee roasting (Bettendorf and Verboven, 2000)
+the assumption seems very reasonable. In addition, studies appealing to a
+variable-proportions technology typically use very aggregate data, e.g., Reed
+and Clark (2000), where substitution relates to allocation of an agricultural
+input among several end uses, causing Sexton (2000) to question whether this
+approach is actually a very relevant way to define either product markets or
+technology.
+
+R. J. Sexton et al. / Agricultural Economics 36 (2007) 253–270
+
+structure, the output, farm price, consumer price, and aggregate
+welfare effects are identical for a given degree of market power
+regardless of whether the power is held by food processors or
+by food retailers. To simplify the exposition, we develop the
+case in which food manufacturers may exercise market power
+and retailers are competitive. In this case, the retail price is
+Pr = Pw + cr .
+A representative processing firm’s profit function can be expressed as
+π = (D(Q ) − c )q − S Q q − (c + T )q,
+w
+
+w
+
+r
+
+f
+
+w
+
+(5)
+
+where q = q = q is the firm’s level of output and volume of
+farm product purchases. The first-order necessary condition for
+maximizing Eq. (5) is
+w
+
+f
+
+∂D(Qw ) ∂Qw
+∂π w
+= Pw +
+q − (P f + cw + T )
+∂q
+∂Qw ∂q
+−
+
+∂S(Qf ) ∂Qf
+q = 0.
+∂Qf ∂q
+
+(6)
+
+Eq. (6) can be written in elasticity form as
+Pw 1 −
+
+ξw
+η1w
+
+= Pf 1 +
+
+θf
+εf
+
++ (cw + T ),
+
+(6´)
+
+∂Qf P f
+is the market price elasticity of supply of the
+∂P f Qf
+w
+Pw
+w
+product, η1 = − ∂Q
+is the absolute value of the mar∂P w Qw
+
+where εf =
+
+farm
+ket price elasticity of derived demand for the processed prodf q
+uct when the retailer behaves competitively, and θ f = ∂Q
+,
+∂q Qf
+w
+
+q
+are market-power parameters. Here θ f ∈ [0, 1]
+ξ w = ∂Q
+∂q Qw
+measures the processing firm’s oligopsony market power in
+procuring the farm product and ξ w ∈ [0,1] measures the firm’s
+oligopoly power in selling the product to retailers. The parameter, θ f (ξ w ) is either interpreted as a “conjectural elasticity” or,
+more simply, as a measure of the mark down (mark up) of the
+input price (output price), relative to the marginal value product (marginal cost). 11 θ f = 0 (ξ w = 0) corresponds to perfect
+competition, and θ f = 1 (ξ w = 1) represents pure monopsony
+(monopoly). Intermediate values of θ f (ξ w ) in the open interval (0, 1) represent degrees of oligopsony (oligopoly) power,
+with larger values of θ f and ξ w indicating greater departures
+from competition. By focusing directly on the end product of
+oligopsony/oligopoly power, as measured by the parameters θ f
+and ξ w , we need not be concerned with particular market structures or oligopoly/oligopsony games. This makes the model a
+very convenient tool for conducting simulations of alternative
+competitive scenarios.
+Aggregation from the firm to the industry is accomplished
+readily within this model framework. Because firms produce
+11 Due to the standard game-theoretic criticism of modeling firm behavior as
+conjectural variations, it has become common to interpret these parameters as
+measuring the wedge between price and marginal value product (marginal cost)
+(Sheldon and Sperling, 2003).
+
+257
+
+a homogeneous product and have identical technologies, optimizing behavior compels that ex post all firms’ conjectures are
+identical (Wann and Sexton, 1992). Eq. (6 ) thus represents an
+equilibrium condition that in conjunction with the retail demand
+and farm supply functions specified in (1) and (2), respectively,
+and the retailer cost function, (4), yields equilibrium values for
+Pr , Pw , Pf , and Q.
+3.2. Market power at successive market stages
+Now we consider scenarios in which retailers in the importing country may exercise oligopoly power over consumers
+and domestic processors may exercise oligopsony power
+over farmers in procuring the raw product, and, in addition,
+processor–retailer interactions may be characterized by imperfect competition. We consider two alternative cases for
+the processor–retailer interactions. The first involves processor oligopoly power and retailer price taking in the processor–
+retailer interactions (successive oligopoly), and the second
+involves retailer oligopsony power and processor price taking
+(successive oligopsony) in the processor–retailer interactions.
+The case in which both retailers and processors attempt to exercise market power in their mutual interactions must be studied
+within a bargaining environment, which is beyond the scope of
+the present study. 12
+It should be noted that the exercise of market power at successive vertical stages in a market chain represents a market
+failure that may, in principle, be corrected through vertical coordination across market stages. In particular, the solutions we
+adduce evince the well-known “double-marginalization” problem noted first by Spengler (1950). If firms are able to coordinate vertically, they can eliminate the double-marginalization
+problem and increase the total amount of profits to be shared
+between them. Katz (1989) remains a good summary reference on the instruments of vertical control. Our results in this
+subsection should, thus, be interpreted to apply in settings in
+which instruments of vertical control are either unavailable,
+prohibitively costly to implement, or illegal under prevailing
+antitrust statutes, e.g., Viscusi et al. (2000). If manufacturers
+and retailers with market power are able to solve their doublemarginalization problem, the results of the previous subsection
+apply.
+For the case of successive oligopoly power, a representative
+retailer’s profit function can be expressed as
+π r = D(Q)q − P w q − cr q,
+
+(7)
+
+12 One plausible outcome of processor–retailer bargaining is that they would
+agree on the volume of trade that maximized their mutual benefit, with bargaining restricted to determining the division of surplus between the bargainers.
+This outcome is identical in terms of output, retail price, farm price, and welfare
+distribution to the equilibria described in the previous subsection when only
+processors or retailers exercised market power.
+
+258
+
+R. J. Sexton et al. / Agricultural Economics 36 (2007) 253–270
+
+The first-order condition for maximizing Eq. (7) with respect
+to q is
+P
+
+r
+
+ξr
+1− r
+η
+
+=P +c .
+w
+
+r
+
+(8)
+
+Using the retail demand function, D(Q), to substitute for Pr in
+(8), we can solve equation (8) for the retailer’s inverse derived
+demand function for the processed product: Pw = Dw (Q | ξ r ,
+cr ).
+A representative processing firm’s profit function can then be
+expressed as
+π w = D w (Q | ξ r , cr )q − S(Q)q − (cw + T )q.
+
+(9)
+
+The first-order condition for maximizing Eq. (9) with respect
+to q is
+Pw 1 −
+
+ξw
+η2w
+
+= Pf 1 +
+
+θf
+εf
+
++ (cw + T ),
+
+(10)
+
+where ξ w denotes the degree of the processors’ oligopoly
+power, and ηw
+2 is the elasticity of derived demand, given rew
+tailer oligopoly power (in general, ηw
+1 = η2 ). Eqs. (1), (2), (8),
+and (10) define the market equilibrium for the case of successive oligopoly power, and, given functional forms for (1) and
+(2), they can be solved for the endogenous variables, Pf , Pw ,
+Pr , and Q.
+For the case of successive oligopsony power, a representative
+processor’s profit function can be expressed as
+π w = P w q − S(Q)q − (cw + T )q.
+
+(11)
+
+The first-order condition for maximizing Eq. (11) with respect
+to q is
+Pw = Pf 1 +
+
+θf
+εf
+
++ (cw + T ).
+
+(12)
+
+Eq. (12) can be used in conjunction with the inverse farm supply
+curve S(Q) to yield the inverse derived supply curve, Pw =
+Sw (Q | θ f , cw , T).
+A representative retailer’s profit function can be expressed as
+π r = D(Q)q − S w (Q | θ f , cw , T )q − cr q.
+
+(13)
+
+The first-order condition for maximizing Eq. (13) with respect
+to q is
+Pr 1 −
+
+ξr
+ηr
+
+= Pw 1 +
+
+θw
+εw
+
++ cr .
+
+(14)
+
+Market equilibrium for this case is defined by Eqs. (1), (2), (12),
+and (14).
+
+4. Simulation analysis
+To conduct simulations, it is necessary to assign specific
+functional forms for the retail excess demand and farm excess
+supply functions specified in general form in equations (1) and
+(2). We chose linear models for this purpose: 13
+Qr = a − αP r , importing country excess demand at retail,
+(1 )
+P f = b + βQf , exporting country inverse farm excess supply.
+(2 )
+In addition, we invoke the normalizations that are available
+without loss of generality by choosing units so that the quantity
+and retail price in the competitive, no-tariff equilibrium, (Q c ,
+P rc ), are each unity:
+r
+f
+Q c = 1, P rc = 1, in which case P w
+c = 1 − c , and P c =
+r
+w
+1 − c − c = f where f is farmers’ revenue share under
+the no-tariff competitive equilibrium, and, thus f measures the
+intrinsic importance of the farm product in producing the final
+product. Given the normalizations, the following relationships
+among the model’s parameters are readily derived:
+α = ηcr , β =
+
+f
+, a = 1 + α, b = f − β,
+εcf
+
+(15)
+
+where ηrc is the absolute value of retail price elasticity of demand
+and εfc is the price elasticity of farm supply, each evaluated at
+the no-tariff, competitive equilibrium.
+Introducing a per-unit tariff, T, charged to the farm product causes supply of the farm product to the domestic-country
+processing sector to become:
+P f + T = b + βQf + T .
+
+(2 )
+
+4.1. Equilibrium under processor oligopoly and/or
+oligopsony power
+We consider first the case in which either the processing
+sector or the retailing sector may exercise oligopoly and/or
+oligopsony power, but the other downstream sector is competitive. Given the structure of the model, equilibrium output, farm
+13 Our simulation results are, of course, sensitive to the choice of a linear
+functional form. For example, with imperfect competition and linear inverse
+demand, there will be under-shifting of any reduction in the tariff. However,
+it is well known from the public finance literature that the incidence of tariff
+reduction will be a function of both the degree of imperfect competition and
+the convexity/concavity of the inverse demand function (Hindriks and Myles,
+2006). Concavity of inverse demand results in under-shifting of changes in the
+tariff, sufficient convexity results in over-shifting, while over-shifting always
+occurs with a constant elasticity of demand function. Given that functional
+form choices must be made, we chose to proceed with linear functions because
+they are both weakly concave and weakly convex and thus represent a “middle
+ground” choice.
+
+R. J. Sexton et al. / Agricultural Economics 36 (2007) 253–270
+
+price, retail price, and distribution of welfare among producers,
+marketers (i.e., processors and retailers), and consumers are
+identical if the same magnitudes of market power are exercised
+by either the retail sector or the manufacturing sector. The same
+results also hold for the rather plausible case in which processors exercise oligopsony power over farmers and retailers
+exercise oligopoly power over consumers, but the interactions
+between processors and retailers are conducted under conditions of perfect competition.
+For consistency with the prior section, we develop the case
+in which retailers behave competitively, and processors may
+exercise market power. Thus, Pr = Pw + cr , and we can solve
+(1 ), (2 ), and (6 ) simultaneously to obtain the following equilibrium solutions for the linear model:
+1 + α(β − T )
+
+Q1 =
+
+1
+
+P1r
+
+=
+
++c ,
+
+P1w
+
+r
+
+,
+
+P1w =
+
+a − Q1
+− cr ,
+α
+
+P1f = b + βQ1 ,
+
+(16)
+
+where 1 = (1 + ξ w ) + (1 + θ f )αβ = (1 + ξ w ) + (1 +
+θ f )f ηrc /εfc . The expression 1 measures the total distortion due
+to oligopoly and oligopsony power in the linear model, and
+Q 1 < 1 = Q c whenever either θ f or ξ w is positive.
+Fig. 1 illustrates the model. It relies on Melnick and Shalit’s
+(1985) observation that an industry with oligopoly power acts
+as if it faces a perceived marginal revenue (PMR) curve that
+consists of a linear combination of the monopoly marginal revenue curve, MR (Q) = ∂[D(Q)Q]/∂Q, and the market demand
+curve, D(Q), with ξ representing the weight attributed to the
+marginal revenue curve and (1 − ξ ) representing the weight
+attributed to the demand curve: PMR(Q) = ξ MR(Q) + (1 −
+ξ ) D(Q). Similarly, for an industry with oligopsony power, the
+perceived marginal factor cost curve is PMC(Q) = θ MC(Q) +
+(1 − θ ) S(Q), where MC = ∂[S(Q) Q]/∂Q denotes the monopoly
+marginal factor cost curve. Industry equilibrium output, Q 1 , is
+found in Fig. 1 at the intersection of the PMRw and PMCw
+curves. The competitive equilibrium, output Q c in Fig. 1, is the
+special case where ξ w = θ f = 0.
+Economic surplus (ES) under processor market power is distributed as follows:
+CS1 =
+
+a/α
+
+(a − αP )dP =
+
+P1r
+
+(a − αP1r )2
+2α
+
+consumer surplus,
+(17)
+
+P1f
+
+PS1 =
+b
+1
+
+=
+
+w
+1
+
+P −b
+(P f − b)2
+dP = 1
+β
+2β
+
++
+
+r
+1
+
+producer surplus,
+
+Given the constant-cost characterization of the marketing sector (processing and retailing), the sector earns zero profits in
+competitive equilibrium: c1 = 0.
+In the linear version of the model, the market equilibrium
+prices, output, and distribution of economic welfare are determined by six parameters: ξ w (seller oligopoly power), θ f
+(buyer oligopsony power), ηrc (price elasticity of retail demand
+f
+evaluated at the no-tariff competitive equilibrium), εc (price
+elasticity of farm supply evaluated at the no-tariff competitive
+equilibrium, f (farm revenue share in the no-tariff competitive
+equilibrium), and T (magnitude of the per-unit tariff). In this
+model, the per-unit tariff functions identically to the constant
+per-unit costs, cr and cw , incurred by retailers and processors,
+respectively. The larger is T, ceteris paribus, the less important is processor oligopsony power as a factor in determining
+the market equilibrium. Intuitively, T represents an additional
+wedge (along with processor and retailer costs) between consumers and farm producers. When the farm input price is a
+small component of retail value, the structure of the market for
+procurement of the input does not matter much in determining
+the market equilibrium at retail.
+4.2. Market power at successive vertical stages
+We focus on the case of successive oligopoly power. For
+the linear version of the model, the market equilibrium under
+successive oligopoly power is defined by Eqs. (1 ), (2 ), (8),
+and (10):
+Q2 =
+
+1 + α(β − T )
+2
+
+P2r =
+
+a − Q2
+,
+α
+
+,
+
+P2w = b + βQ2 + cw ,
+
+P2f = b + βQ2 ,
+
+(21)
+
+where 2 = (1 + ξ r )(1 + ξ w ) + (1 + θ f )αβ = (1 + ξ r )(1 +
+ξ w ) + (1 + θ f )f ηrc /εfc . In this case the market equilibrium and
+welfare distribution are determined by seven parameters: ξ r , ξ w ,
+f
+θ f , ηrc , εc , f, and T. In addition to the parameters contained in the
+preceding case, a second ξ parameter reflects the degree of seller
+market power at successive stages of the market chain. Fig. 2
+illustrates this scenario. The curve Pw = PMRr – cr represents
+the retail sector’s derived demand for the farm product at the
+wholesale level, given the retailers’ oligopoly power, ξ r , where
+PMR r = ξ r MR (Q) + (1 − ξ r )D(Q). Processors then recognize
+a PMR curve, PMRw , based on Pw , given their oligopoly power,
+ξ w . The reduction in output from Q 1 to Q 2 in Fig. 2 represents
+the incremental distortion to output from successive oligopoly
+power. 14
+
+= [P1r − P1f − 1 + f − T ]Q1
+
+processor/retailer profit,
+R1 = TQ1
+
+(18)
+
+259
+
+tax revenue,
+
+ES1 = CS1 + PS1 + P1 + R1
+
+(19)
+(20)
+
+total surplus.
+
+(21)
+
+14
+
+The formal derivation of the successive oligopsony case is a straightforward
+adaptation of the successive oligopoly case and, thus, is omitted. The linear
+version of the successive oligopsony model is represented by Eqs. (1 ), (2 ),
+(12), and (14), and the model solution is characterized by seven parameters,
+with the additional parameter in this case reflecting the possible exercise of
+oligopsony power by processors in the market for the farm product, θ f , and by
+retailers in the wholesaler market, θ w .
+
+260
+
+R. J. Sexton et al. / Agricultural Economics 36 (2007) 253–270
+
+PMCw = θfMCf + (1 – θf)Pf + cw + T
+Pf + cw + T
+P1r
+
+Pf(Q)
+
+Pcr
+P1w
+
+Pcw
+Pcf
+
+Pr(Q)
+
+P1f
+Pw = Pr – cr
+
+PMRw =ξwMRw + (1 – ξw)Pw
+
+Q1
+
+Qc
+
+Fig. 1. Market equilibrium under processor oligopoly and oligopsony power (ξ w = θ w = 0.5).
+
+In structuring simulations for these various competition scenarios, we have chosen base parameter values to resemble
+some key developing-country export scenarios. The parameter f, the farm share of revenue under the no-tariff competitive equilibrium, was fixed at f = 1 − cw − cr = 0.2. For
+example, farm share for coffee and bananas is about 10%
+(FAO, 2004) and for cocoa about 5% (Oxfam, 2002). In the
+market power and tariff scenarios contained in the simulations, the farm share drops well below the 0.2 competitivebenchmark share, so setting the benchmark at 0.2 enables
+the simulations to depict the even lower shares observed in
+reality. 15
+The primary effect of f in the model is to influence the importance of oligopsony power in determining output and welfare
+in the market. When f is small, the farm input is not important as a determinant of the final product value relative to the
+costs incurred by processors and retailers, and, thus, oligopsony power in the farm sector has only a minor impact on total
+market output and consumer welfare. The presence of a tariff
+diminishes the farm share of the total retail expenditure under
+any form of competition, and, thus, also reduces the relative
+15
+
+To provide just one illustration of this point, the farm share of the consumer
+food dollar for the case of modest successive market power represented by
+ξ w = ξ r = θ f = 0.2 is 0.071%, given the base competitive markets share
+of f = 0.2, precisely in the range indicated for key developing-country export
+commodities.
+
+importance of processor oligopsony power in determining the
+market equilibrium.
+f
+We consider ηrc = εc = 0.6 as base cases for the retaildemand and farm-supply elasticities, respectively, each evaluated at the no-tariff competitive equilibrium. 16 The choices
+reflect the inelasticity of both consumer demand and farm supply that is considered typical for agricultural commodities. 17
+For example, Bhuyan and Lopez (1997) report price elasticities of demand for roasted coffee and chocolate and cocoa in
+the U.S. of 0.53 and 0.52, respectively. Abbott et al. (2005)
+report an aggregate price elasticity of demand of 0.24 for
+bulk cocoa and 0.53 for fair-trade cocoa products. The former number compares closely to the estimate of 0.19 reported
+by Gilbert and Varangis (2003). In terms of supply elasticities,
+Abbott, et al. report short-run price elasticities of supply in the
+range of 0.3–0.5 for cocoa, a range that comports well with
+the point estimate of 0.45 reported by Gilbert and Varangis
+(2003).
+16 The distortion from a given degree of market power is always proportional
+to the elasticity of the demand curve (in the case of oligopoly power) or supply
+f
+curve (in the case of oligopsony power) that is being exploited. Setting ηrc = ε c
+has the virtue that the relative importance of oligopoly vs. oligopsony power
+is not distorted by differences in the underlying elasticities of retail demand or
+farm supply.
+17 Given ε f = 0.6 and f = 0.2, the retail supply elasticity evaluated at the
+c
+competitive equilibrium is εrc = 3.0.
+
+R. J. Sexton et al. / Agricultural Economics 36 (2007) 253–270
+
+261
+
+PMCw = θfMCf + (1 – θf)Pf + cw + T
+Pf + cw + T
+r
+2
+
+P
+
+Pf(Q)
+
+Pcr
+
+P2w
+Pcw
+
+Pr(Q)
+
+Pcf
+
+P2f
+Pr – cr
+Pw = PMRr – cr
+
+PMRw = ξwMRw + (1 – ξw)Pw
+Q2 Q1
+
+Qc
+
+Fig. 2. Successive oligopoly power with processor oligopsony power (ξ w = ξ r = θ f = 0.5).
+
+Given the linear retail supply and farm demand curves, the
+elasticities change as output changes along the curves to reflect alternative forms of imperfectly competitive equilibria.
+However, the relative magnitudes of alternative elasticity specifications are the same across the various imperfect competition
+equilibria, and, thus, it suffices to fix the elasticities at a particular point, such as the competitive equilibrium, to simulate the
+effects of alternative elasticity specifications.
+The most important parameters for the purposes of the simulation analysis are the market power parameters, θ and ξ . As
+noted and illustrated in Table 1 most empirical estimates have
+revealed rather modest departures from competition, with point
+estimates of θ and/or ξ falling typically in the range of 0.25
+or less (Sheldon and Sperling, 2003). However, Bhuyan and
+Lopez (1997) obtained estimates of ξ that were considerably
+higher for some industries in their ambitious study of oligopoly
+power for all U.S. four-digit SIC food and beverage industries. For example, 2043 cereal preparation, 2041 flour & grain
+mills, 2075 soybean oil mills yielded estimates of ξ of about
+0.5.
+Given the recent increases in consolidation of food manufacturing and food retailing in many countries, the past studies may
+understate current levels of market power. In addition, Sexton
+(2000) has argued that the limitations of the extant empirical
+literature probably serve on balance to understate the extent
+of market power. For example, this conclusion would apply
+to (i) analysis of inappropriately broad product markets, (ii)
+
+failure to account for the possibility of market power upstream
+or downstream from the stage being analyzed, and (iii) failure
+to account properly for technical change and/or economies of
+scale in costs.
+Thus, to gain a broad perspective of the effects of market
+power on the impacts of tariff reduction, we conduct simulations over the interval θ , ξ ∈ [0, 0.5]. 18 However, to facilitate
+a graphical presentation of results, we always consider equal
+relative departures from competition for each sector that is exercising market power in the simulation. For example, in simulating market behavior under successive oligopsony and retailer
+oligopoly, we will always set θ f = θ w = ξ r .
+4.3. Simulation results
+It is first useful to gain a perspective as to how market power,
+including market power at successive vertical stages, can affect market performance. Fig. 3 depicts the effect of market
+power on producer welfare as the% change in producer welfare relative to perfect competition as a function of the degree
+of downstream market power. Five market power scenarios are
+considered: (i) oligopsony only, (ii) both oligopoly, and oligopsony, (iii) successive oligopsony and retailer oligopsony, and
+(iv) successive oligopoly and processor oligopsony.
+18 Values of 0.5 for ξ and θ indicate the market power obtained in a symmetric
+firm duopoly and duopsony, respectively.
+
+262
+
+R. J. Sexton et al. / Agricultural Economics 36 (2007) 253–270
+0
+
+-10
+
+Producer Surplus Change (%)
+
+-20
+
+-30
+
+-40
+
+-50
+
+-60
+
+-70
+
+-80
+
+-90
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+Market Power Index
+Oligopsony
+
+Oligopsony & Oligopoly
+
+Successive Oligopsony with Oligopoly
+
+Successive Oligopoly with Oligopsony
+
+Fig. 3. The effect of market power on producer welfare.
+0
+
+Total Welfare Change (%)
+
+-5
+
+-10
+
+-15
+
+-20
+
+-25
+
+-30
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+Market Power Index
+Oligopsony
+
+Oligopsony & Oligopoly
+
+Successive Oligopsony with Oligopoly
+
+Successive Oligopoly with Oligopsony
+
+Fig. 4. The effect of market power on total welfare.
+
+A given degree of downstream oligopoly power is always
+more damaging to producer welfare than the same degree of
+downstream oligopsony power because the oligopoly power
+affects the entire final product, whereas the oligopsony power
+applies only to the raw product input. 19 Thus, ceteris paribus,
+a given degree of oligopoly power will always reduce market
+output more than will a given degree of oligopsony power.
+Fig. 3 makes clear that, even modest levels of market power,
+such as have been found in the empirical literature, can in
+19 In the base simulation, the farm share of the final product value under perfect competition is 0.2, and, thus, the other inputs used by the marketing sector
+to produce the final product constitute 80% of the retail value under perfect
+competition. These inputs implicitly are assumed to be acquired competitively.
+
+combination have a very damaging impact upon the welfare of
+producers in the developing economy. For example, successive
+oligopoly power combined with processor oligopsony power of
+0.2 (ξ r = ξ w = θ f = 0.2) combine to reduce producer surplus
+by about 49% relative to perfect competition in all downstream
+sectors.
+Fig. 4 illustrates the effect of downstream market power on
+total ES (the sum of producer surplus, consumer surplus, and
+marketer profits) in the market. Fig. 5 illustrates the distribution
+of ES among producers, consumers and marketers for the case
+of processor oligopsony combined with retailer oligopoly (but
+no successive market power). Figs. 4 and 5 combine to illustrate
+some important points regarding the efficiency and distributional impacts of market power in a vertical market chain. First,
+
+R. J. Sexton et al. / Agricultural Economics 36 (2007) 253–270
+
+263
+
+90
+
+80
+
+70
+
+Share (%)
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+Market Power Index
+Consumer
+
+Producer
+
+Marketer
+
+Fig. 5. The effect of market power on the distribution of welfare: processor oligopsony and retail oligopoly.
+
+modest levels of market power have small efficiency effects.
+Fig. 4 shows that even successive oligopoly plus oligopsony or
+successive oligopsony plus oligopoly generate efficiency losses
+relative to perfect competition of 10% or less for modest levels
+of market power—θ and ξ values of 0.2 or less, results consistent with prior work, dating back to the original work by
+Harberger (1954). However, Fig. 4 also illustrates that markets
+with large departures from competition that are repeated across
+multiple vertical stages can have large efficiency losses. For example, the case of successive oligopoly plus oligopsony where
+ξ r = ξ w = θ f = 0.5 (i.e., Cournot duopolies and duopsony)
+reduces the total ES in the market by about 28%.
+Fig. 5, however, shows that the distributional effects of market power are large even for modest departures from competition. Perfectly competitive marketers earn only normal profits
+in this model, but ξ r = θ f = 0.2 or more enables the marketing
+sector’s surplus to exceed the surplus earned by the producing
+sector, and ξ r = θ f = 0.4 or more enables marketers’ surplus to
+exceed consumers’ surplus.
+Now consider trade liberalization in terms of eliminating the
+per-unit tariff T = 0.2 (a 20% tariff at the competitive equilibrium). Fig. 6 depicts the absolute change in farm price from
+removing the tariff for alternative competition scenarios. Given
+εrc = 3 > ηrc = 0.6, producers bear only one sixth of the incidence of the tariff in competitive equilibrium. Thus, abolishing
+the tariff raises the farm price by Pf = 0.2/6 = 0.033 in the
+competitive equilibrium. Pf is a decreasing function of the
+degree of downstream market power because an imperfectly
+competitive marketing sector always captures a share of the
+benefits of an exogenous shock of this type. For example, in
+the case of successive oligopoly power plus processor oligopsony, modest market power represented by ξ r = ξ w = θ f = 0.2
+
+reduces the farm price increase from tariff removal by 29%,
+while the more extreme scenario of ξ r = ξ w = θ f = 0.5 reduces
+the price increase by 53%.
+The effect of market power on the increase in producer welfare caused by trade liberalization depicted in Fig. 7 is more
+pronounced than the effect on price, because producer surplus
+is determined both by the change in farm price and the change in
+output, and market power diminishes both. Consider again the
+case of successive oligopoly plus processor oligopsony power.
+The modest market power case represented by ξ r = ξ w = θ f
+= 0.2 reduces the producer surplus increase from trade liberalization by 48%, while ξ r = ξ w = θ f = 0.5 reduces it by
+78%.
+Next consider the distribution of benefits from trade liberalization across producers, consumers, and marketers depicted in
+Figs. 8 and 9. Fig. 8 represents the case of processor oligopsony and retailer oligopoly, while Fig. 9 represents successive
+oligopoly plus processor oligopsony. Producer and consumer
+welfare both decline monotonically in the degree of market
+power exercised. Marketers’ profit rises monotonically as a
+function of ξ r = θ f in the case of simple oligopoly and oligopsony power illustrated in Fig. 8, but marketers’ profit actually
+declines in the successive-oligopoly-plus-oligopsony case (Fig.
+9) for high values of ξ r = ξ w = θ f , illustrating an important
+feature of market power generally and of successive market
+power in particular. Agents who exercise market power always
+impose a negative externality on the other participants in the
+market. A straightforward manifestation of this phenomenon is
+the declining surplus to producers and consumers as a function
+of marketers’ power. In the successive market power case, rising
+values of ξ r = ξ w = θ f represent higher absolute levels of market power exercised by marketers, but the negative externality
+
+264
+
+R. J. Sexton et al. / Agricultural Economics 36 (2007) 253–270
+0.0350
+
+0.0300
+
+Farm Price Change
+
+0.0250
+
+0.0200
+
+0.0150
+
+0.0100
+
+0.0050
+
+0.0000
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+Market Power Index
+
+Oligopsony
+
+Oligopsony & Oligopoly
+
+Successive Oligopsony with Oligopoly
+
+Successive Oligopoly with Oligopsony
+
+Fig. 6. Change in farm price and trade liberalization.
+0.04
+
+0.03
+
+Producer Surplus Change
+
+0.03
+
+0.02
+
+0.02
+
+0.01
+
+0.01
+
+0.00
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+Market Power Index
+Oligopsony
+
+Oligopsony & Oligopoly
+
+Successive Oligopsony with Oligopoly
+
+Successive Oligopoly with Oligopsony
+
+Fig. 7. Change in producer surplus from trade liberalization.
+
+imposed on processors’ profits when retailers increase their
+market power (and vice versa) can dominate the higher profits
+earned by the retailer, causing overall marketing sector profits
+to fall for high levels of market power exercised at successive
+stages. 20 Both Figs. 8 and 9 demonstrate that the distributional
+effects of market power are quite dramatic. Even rather modest
+levels of market power enable the marketing sector to capture
+the largest share of the benefits from trade liberalization, and,
+when market power occurs at successive stages of the market
+20
+
+This result provides an incentive for vertical coordination in the marketing
+chain to internalize these external effects.
+
+chain, as illustrated in Fig. 9, even rather modest levels of market power at each stage enable the marketing sector to capture
+the lion’s share of the benefits. Clearly, the presence of downstream market power is an important issue when considering
+the impacts of trade liberalization.
+
+5. Extensions
+Many extensions and generalizations of this simulation
+framework are possible, and we mention only a few here. First,
+the results discussed here are conditional upon the base values
+
+R. J. Sexton et al. / Agricultural Economics 36 (2007) 253–270
+
+265
+
+Producer Surplus, Consumer Surplus, Marketers' Profits
+
+0.18
+
+0.16
+
+0.14
+
+0.12
+
+0.10
+
+0.08
+
+0.06
+
+0.04
+
+0.02
+
+0.00
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+Market Power Index
+Producer Surplus
+
+Consumer Surplus
+
+Marketers' Profits
+
+Fig. 8. Change in producer surplus, consumer surplus, and marketer profit from trade liberalization: processor oligopsony and retailer oligopoly.
+
+Producer Surplus, Consumer Surplus, Marketers' Profits
+
+0.18
+
+0.16
+
+0.14
+
+0.12
+
+0.10
+
+0.08
+
+0.06
+
+0.04
+
+0.02
+
+0.00
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+Market Power Index
+Producer Surplus
+
+Consumer Surplus
+
+Marketers' Profits
+
+Fig. 9. Change in producer surplus, consumer surplus, and marketer profit from trade liberalization: successive oligopoly and processor oligopsony.
+f
+
+of εc = ηrc = 0.6, and f = 0.2. Although the specific results
+change as these base values change, the qualitative conclusions
+do not change for reasonable perturbations of the base parameters. The effects of market power on producer benefits from
+trade liberalization for alternative values of the base elasticities are illustrated in Figs. 10 and 11 for the case of processor
+oligopsony power and retailer oligopoly power (i.e., no successive market power). Fig. 10 holds the supply elasticity constant
+f
+at the base value, εc = 0.6,and simulates the change in producer surplus ( PS) from trade liberalization for alternative
+values of the demand elasticity: ηrc = 0.3 (one-half base), ηrc
+= 0.6 (base) and ηrc = 1.2 (two-times base), evaluated at the
+competitive equilibrium in all cases. Fig. 11 presents a similar
+
+analysis holding the demand elasticity constant at the base ηrc =
+0.6 and alternatively setting the competitive-equilibrium supply
+elasticity at 0.3, 0.6, and 1.2.
+Changing the base value of the one elasticity while holding the other elasticity constant introduces two effects: (i) the
+impact on farm (retail) price due to oligopsony (oligopoly)
+power increases as supply (demand) becomes more inelastic;
+(ii) the relative incidence of the tariff on producers and consumers changes as the relative values of the elasticities change.
+For example, the incidence of the tariff on producers increases
+as supply becomes more inelastic, and, thus, holding market
+power constant, producers benefit more from removal of the
+tariff via trade liberalization in these settings. This incidence
+
+266
+
+R. J. Sexton et al. / Agricultural Economics 36 (2007) 253–270
+0.06
+
+Producer Surplus Change
+
+0.05
+
+0.04
+
+0.03
+
+0.02
+
+0.01
+
+0
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+Market Power Index
+Demand Elasticity=0.3
+
+Demand Elasticity=0.6
+
+Demand Elasticity=1.2
+
+Fig. 10. Change in producer surplus from trade liberalization for alternative retail demand elasticities.
+0.06
+
+Producer Surplus Change
+
+0.05
+
+0.04
+
+0.03
+
+0.02
+
+0.01
+
+0
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+Market Power Index
+Supply Elasticity=0.3
+
+Supply Elasticity=0.6
+
+Supply Elasticity=1.2
+
+Fig. 11. Change in producer surplus from trade liberalization for alternative farm supply elasticities.
+
+effect is manifest in Fig. 11 (10) in terms of PS from trade
+liberalization being greater for any values of market power the
+less (more) elastic is the supply (demand) curve.
+Whereas a competitive marketing sector with a constantreturns technology bears none of the incidence of the tariff,
+downstream firms with market power always rationally absorb
+a portion of any increase in their costs, including the cost of
+a per-unit tariff, so as to distribute optimally the impact of the
+cost increase between lower quantities and higher prices. The
+
+fraction that is absorbed is an increasing function of the degree of market power. For example, when θ = ξ = 0.5, the
+marketing sector absorbs one-third of the tariff regardless of
+f
+the base values of εc and ηrc . 21 Therefore, the magnitude of
+the total benefit from trade liberalization to be divided between
+21 To say that downstream firms with market power rationally bear some of
+the incidence of a tariff is the equivalent of saying that they capture some of
+the benefit from abolition of the tariff.
+
+R. J. Sexton et al. / Agricultural Economics 36 (2007) 253–270
+
+267
+
+0.08
+
+0.07
+
+Change in Producer Benefit
+
+0.06
+
+0.05
+
+0.04
+
+0.03
+
+0.02
+
+0.01
+
+0
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+Market Power Index
+Farm Share=0.2
+
+Farm Share=0.4
+
+Farm Share=0.6
+
+Fig. 12. Change in producer surplus from trade liberalization for alternative farm shares.
+
+developing-country producers and industrialized-country consumers is reduced as a function of downstream firms’ market
+power. This fact is illustrated in Figs. 10 and 11 in terms of PS
+from trade liberalization declining in all instances as a function
+of the degree of downstream market power. The impact of market power on the benefits from trade liberalization is naturally
+more severe on the sector (consumers or producers) bearing a
+greater incidence of the tariff. Thus, the slope of the PScurves
+in Figs. 10a and 10b is steepest for the cases where producers
+f
+bear the brunt of the tariff’s incidence (εc = 0.6, ηrc = 1.2 in
+f
+Fig. 10, and εc = 0.3, ηrc = 0.6 in Fig. 11).
+The effects of a larger farm share on the producer benefits
+from trade liberalization for alternative levels of market power
+are illustrated in Fig. 12. Two effects are at work. The producer
+benefit under perfect competition from removal of the tariff
+is greater the larger is the farm share, f, and, accordingly, the
+potential for loss in producer benefit from market power is
+greater as well. Second, the impact of oligopsony power on
+producer benefits is magnified the more important the farm
+input is in determining the final product. Both factors, thus,
+contribute to a greater loss in producer benefits from trade
+liberalization due to market power the higher is the base farm
+share.
+Next, consider the question of whether a developing country
+can increase ES by integrating downstream into the processing of its agricultural product. Working against the viability
+of developing-country integration is the possibility that processing in the developing country will be less efficient (i.e.,
+incur higher costs) in producing processed or semiprocessed
+products than processors in developed countries. 22 However,
+22
+
+Tybout (2000) is an excellent source on the distinctive features affecting the manufacturing environment in developing countries. He cites onerous
+regulations, credit market imperfections, underdeveloped infrastructure and
+
+offsetting any cost penalty is that home-country processing removes the exporting country’s exposure to oligopsony power by
+importing-country processors, enhancing the appeal of vertical
+integration. 23
+Fig. 13 gives a sense of the interplay between these offsetting
+factors. It depicts iso-welfare lines—welfare-neutral combinations from the perspective of the developing country of higher
+per-unit processing costs, cw , on the vertical axis incurred by
+the developing country and levels of oligopsony power, θ , on
+the horizontal axis in the importing country’s processing sector that is avoided by downstream integration. We assume that
+developing-country integration removes the production sector’s
+exposure to processor oligopsony power, but that any market
+power exercised further downstream by the importing country’s
+retailing sector remains.
+Two alternative scenarios for retail sector market power are
+depicted in Fig. 13: (i) on the top line, the retailing sector exercises both oligopsony and oligopoly power in a magnitude that
+is equivalent to the oligopsony power exercised by the importing country’s processing sector (and avoided by downstream
+institutions, and limited human capital as key competitive disadvantages faced
+by developing-country manufacturers.
+23 The processing sector that evolves in a developing economy may itself be
+oligopsonistic, but at least the oligopsony profits may be captured locally, e.g.,
+the Mozambique cashew nut case (McMillan et al., 2000). Processor oligopsony power is also an issue when processing is undertaken by multinational
+firms through direct foreign investment. Downstream processing is most beneficial to the developing economy if it takes place under conditions of perfect
+competition. For example, in Nigeria, the cocoa marketing sector is characterized by many local exporters, which contrasts with the Ivory Coast where
+multinational exporting firms dominate (Wilcox and Abbott, 2004). One way
+to induce competitive behavior in the processing sector is to organize it around
+zero-profit, producer-owned cooperatives, which in the context of the present
+model results in an equilibrium that is analytically equivalent to the competitive
+equilibrium.
+
+268
+
+R. J. Sexton et al. / Agricultural Economics 36 (2007) 253–270
+
+Increase in Developing-Country Processing Cost
+
+0.25
+
+0.2
+
+0.15
+
+0.1
+
+0.05
+
+0
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+Market Power Index
+
+Oligopsony & Oligopoly
+
+Successive Oligopsony with Oligopoly
+
+Fig. 13. Welfare-enhancing vertical integration, given a developing-country per-unit processing cost penalty and importing-country oligopsony power.
+
+integration), and (ii) on the bottom line, the retailing sector exercises only oligopoly power that is equivalent to the processing
+sector’s oligopsony power. For example, in a setting of successive oligopsony power plus oligopoly power in the downstream
+processing and retailing sectors of magnitude θ f = θ w = ξ r
+= 0.3, a developing country could improve its economic welfare by undertaking processing of its raw material and thereby
+avoiding processor oligopsony power, as long as its processing
+cost penalty is 0.15 (relative to total processing plus retailing
+costs of 0.8 for the developed economy in the base simulation)
+or less. All points below an iso-welfare line in Fig. 13 represent
+combinations of processing cost penalty and oligopsony power
+where the developing economy enhances its economic welfare
+by integrating into the processing sector despite incurring the
+cost penalty, given the extent of processor oligopsony power it
+avoids by doing so. 24
+Finally, we have modeled the case of a constant per-unit tariff or export tax, but many tariffs are ad valorem. Simulating
+the impacts of removing an ad valorem tariff would add some
+complications to the modeling relative to a per-unit tariff. In
+particular, because the ad valorem tariff affects the slope of
+the downstream supply functions derived from the farm supply
+function, the simple proportional relationship between price
+elasticity at the farm level and at retail (εr = εf /f ), that holds
+for the per-unit tariff, does not hold for the ad valorem tariff.
+Indeed, an ad valorem tariff makes the downstream supply relationships less elastic, ceteris paribus, and, thus, can exacerbate
+24 The range of parameter combinations where exporting-country integration
+are beneficial is greater for the case of successive oligopsony and oligopoly.
+The distortions caused by market power are convex in the total magnitude of
+market power exercised. Thus, removing a layer, processor oligopsony, has a
+greater benefit, the greater the magnitude of market power exercised further
+downstream.
+
+the distortion from oligopsony power in the retailer–processor
+interaction. Removing the tariff actually reduces the distortion
+from a given degree of retailer oligopsony power, which provides an additional welfare benefit from trade liberalization.
+
+6. Summary and conclusions
+Taken together, the vertically related, highly concentrated nature of the food sector in developed countries raises many issues
+for developing countries attempting to increase market access
+and the returns from exporting agricultural and food products.
+Policymakers and economists have mostly ignored these issues
+when they provide estimates about what further trade reform
+may bring to developing countries. Consequently, to fully understand the implications of trade reform for raw commodity
+exporters, further attention needs to be paid to the issue of
+imperfect competition in developed-country food markets.
+In this context, two key implications can be drawn from
+this article. First, if developing country exporters face a
+marketing system characterized by a structure of successive
+oligopoly/oligopsony, reduction of import tariffs, while increasing raw commodity prices, will not result in exporters obtaining a larger share of the consumer’s food “dollar” in developed
+countries. This conclusion follows from the fact that firms with
+market power in the food retailing and processing sectors are
+able to capture most of the benefits of a reduction in the tariff on the imported raw agricultural commodity. This implies
+that developing country exporters will benefit less from trade
+liberalization by developed countries than is being forecast by
+development agencies such as the World Bank (2003), and nongovernmental organizations such as Oxfam (2003). However, a
+corollary to this result is that export taxes will be borne in part
+
+R. J. Sexton et al. / Agricultural Economics 36 (2007) 253–270
+
+by marketing firms with market power and, thus, represent a
+potential tool for developing countries to extract rents from an
+oligopolistic and/or oligopsonistic marketing sector.
+Second, increasing concentration and reduced competition in
+the food processing and retailing sector will reduce even further
+the share of commodity exporters in the available rents in the
+food marketing system. This conclusion generates the key policy implication that developing country exporters may benefit
+from vertically integrating into food processing and other valueadding activities further down the vertical marketing chain, in
+order to capture more of the rents from trade liberalization. This
+outcome holds despite the possibility that developing countries
+may suffer a cost disadvantage in food processing.
+Acknowledgements
+We would like to acknowledge the helpful comments of two
+anonymous reviewers on earlier versions of this article, along
+with comments of audience members at the IATRC theme day,
+San Antonio, Texas, the AAEA meetings, Denver, Colorado,
+and seminars at Ohio State and North Carolina State Universities where the article was presented. Thanks are also due to Tina
+Saitone, University of California, Davis, for her invaluable research assistance. Ian Sheldon would also like to acknowledge
+financial support through a grant from the Food System Research Group at the University of Wisconsin, Madison.
+References
+Abbot, P.C., Wilcox, M.D., Muir, W.A., 2005. Corporate social responsibility
+in international cocoa trade. Selected Paper, 15th Annual World Food and
+Agribusiness Forum, Symposium and Case Conference, Chicago, IL.
+Alston, J.M., Sexton, R.J., Zhang, M., 1997. The effects of imperfect competition on the size and distribution of research benefits. Am. J. Agr. Econ. 79,
+1252–1265.
+Anderson, K., Martin, W., 2005. Agricultural trade reform and the Doha development agenda. World Econ. 28, 1301–1327.
+Appelbaum, E. 1982. The estimation of the degree of oligopoly power. J.
+Econometrics 19, 287–299.
+Azzam, A., Pagoulatos, E., 1990. Testing oligopolistic and oligopsonistic behavior: an application to the US meat packing industry. J. Agr. Econ. 41,
+362–370.
+Bettendorf, L., Verboven, F., 2000. Incomplete transmission of coffee bean
+prices: evidence from the Netherlands. Eur. Rev. Agric. Econ. 27, 1–16.
+Bhuyan, S., Lopez, R.A., 1997. Oligopoly power in the food and tobacco
+industries. Am. J. Agr. Econ. 79, 1035–1043.
+Brander, J.A., Spencer, B.J., 1985. Export subsidies and international market
+share rivalry. J. Int. Econ. 18, 83–100.
+Buschena, D.E., Perloff, J.M., 1991. The creation of dominant firm market
+power in the coconut oil export market. Am. J. Agr. Econ. 73, 1000–1008.
+Cotterill, R.W., 1999. Continuing concentration in food industries globally:
+strategic challenges to an unstable status quo, Food Marketing Policy Center.
+Research Report No. 49, University of Connecticut, Storrs, CT.
+Deodhar, S.Y., Sheldon, I.M. 1995. Is foreign trade (im)perfectly competitive?
+An analysis of the German market for banana imports. J. Agr. Econ. 46,
+336–348.
+Deodhar, S.Y., Sheldon, I.M. 1996. Estimation of imperfect competition in food
+marketing: a dynamic analysis of the German banana market. J. Food Dist.
+Res. 27, 1–10.
+
+269
+
+Devadoss, S.D., Westhoff, P.C., Helmar, M.D., Grundmeier, E. Skold, K., Meyers, W.H., Johnson, S.R., 1993. The FAPRI modeling system: a documentation summary. In: Taylor, C.R., Reichelderfer, K.H., Johnson, S.R., (Eds.),
+Agricultural Sector Models for the United States: Descriptions and Selected
+Policy Applications. Iowa State University Press, Ames, IA.
+Edwards, S., 1993. Openness, trade liberalization, and growth in developing
+countries. J. Econ. Lit. 31, 1358–1393.
+FAO, 2004. The State of Agricultural Commodity Markets. FAO, Rome.
+Fitter, R., Kaplinsky, R., 2001. Can an agricultural ‘commodity’ be decommodified, and if so, who is to gain? Institute of Development Studies,
+Discussion Paper 380, University of Sussex, Falmer.
+Genoseve, D., Mullin, W.P., 1998. Testing static oligopoly models: conduct and
+cost in the sugar industry, 1890–1914. Rand J. Econ. 29, 335–377.
+Gilbert, C.L., Varangis, P., 2003. Globalization and international commodity
+trade with specific reference to the West African cocoa producers. NBER
+Working Paper 9668, NBER, Cambridge, MA.
+Gohin, A., Guyomard, H., 2000. Measuring market power for food retail activities: French evidence. J. Agr. Econ. 51, 181–195.
+Harberger, A., 1954. Monopoly and resource allocation. Am. Econ. Rev. 44,
+77–87.
+Hindriks, J., Myles, G.D., 2006. Intermediate Public Economics. MIT Press,
+Cambridge, MA.
+Huang, S-Y., Sexton, R.J., 1996. Measuring returns to an innovation in an
+imperfectly competitive market: application to mechanical harvesting of
+processing tomatoes in Taiwan. Am. J. Agr. Econ. 78, 558–571.
+Hughes, D., 2002. Grocery retailing in Europe and emerging routes to the
+consumer. EuroChoices 1, 12–16.
+Ishikawa, J., Spencer, B.J., 1999. Rent-shifting export subsidies with an imported intermediate product. J. Int. Econ. 48, 199–232.
+Karp, L.S. and Perloff, J.M., 1989. Dynamic oligopoly in the rice export market,
+Rev. Econ. Stat. 71, 462–470.
+Katz, M., 1989. Vertical contractual relations. In: Schmalensee, R., Willig, R.
+(Eds.), Handbook of Industrial Organization. North Holland, Amsterdam.
+Lopez, R.E., 1984. Measuring oligopoly power and production responses of
+the Canadian food processing industry. J. Agr. Econ. 35, 219–230.
+McCorriston, S. 2002. Why should imperfect competition matter to agricultural
+economists? Eur. Rev. Agric. Econ. 29, 349–372.
+McCorriston, S., Sheldon, I.M., 1996. Trade policy in vertically-related markets. Oxford Econ. Pap. 48, 664–672.
+McCorriston, S., Sexton, R.J., Sheldon, I.M., 2004. Vertical market structure,
+commodity exports, and trade reform. 7th Annual Conference on Global
+Economic Analysis, World Bank, Washington, DC.
+McMillan, M., Rodrik, D., Welch, K.H., 2002. When economic reform goes
+wrong: cashews in Mozambique. NBER Working Paper 9117, NBER, Cambridge, MA.
+Melnick, R., Shalit, H., 1985. Estimating the market for tomatoes. Am. J. Agr.
+Econ 67, 574–582.
+Messerlin, P., 2001. Measuring the Costs of Protection in Europe. Institute for
+International Economics, Washington DC.
+OECD, 2005. The OECD–FAO Agricultural Outlook 2005–2014. Directorate
+for Food Agriculture and Fisheries, OECD, Paris.
+Oxfam, 2001. Bitter coffee: how the poor are paying for the slump in coffee
+prices. Oxfam, Oxford.
+Oxfam, 2002. The cocoa market—a background study. Oxfam, Oxford.
+Oxfam, 2003. Running into the sand: why failure at the Cancun trade talks
+threatens the world’s poorest people. Oxfam, Oxford.
+Reed, A.J., Clark, J.S., 2000. Structural change and competition in seven US
+food markets, US Department of Agriculture. Economic Research Service,
+Technical Bulletin No. 1881, Washington DC.
+Schroeter, J.R., 1988. Estimating the degree of market power in the beef packing
+industry. Rev. Econ. Stat. 70, 158–162.
+Schroeter, J.R., Azzam, A., 1990. Measuring market power in multi-product
+oligopolies. Appl. Econ. 22, 1365–1376.
+Sexton, R.J., 2000. Industrialization and consolidation in the U.S. food sector:
+implications for competition and welfare. Am. J. Agr. Econ. 82, 1087–
+1104.
+
+270
+
+R. J. Sexton et al. / Agricultural Economics 36 (2007) 253–270
+
+Sexton, R.J., Lavoie, N., 2001. Food processing and distribution: an industrial
+organization approach. In: Gardner, B.L., Rausser, G.C. (Eds.), Handbook
+of Agricultural Economics, North Holland, Amsterdam.
+Sexton, R.J., Zhang, M., 2001. An assessment of the impact of food industry
+market power on U.S. consumers. Agribusiness 17, 59–79.
+Sheldon, I.M., Pick, D.H., McCorriston, S., 2001. Export subsidies and profitshifting in vertical markets. J. Agr. Res. Econ. 26, 125–141.
+Sheldon, I., Sperling, R., 2003. Estimating the extent of imperfect competition in the food industry: what have we learned? J. Agr. Econ. 54, 89–
+110.
+Spencer, B.J., Jones, R. W. 1992. Trade and protection in vertically-related
+markets. J. Int. Econ. 32, 31–55.
+Spengler, J., 1950. Vertical integration and anti-trust policy. J. Polit. Econ. 58,
+347–352.
+Steen, F., Salvenas, K.J., 1999. Testing for market power using a dynamic
+oligopoly model. Int. J. Ind. Org. 17, 147–177.
+Tybout, J., 2000. Manufacturing firms in developing countries: how well do
+they do, and why? J. Econ. Lit. 38, 11–44.
+UNCTAD, 2002a. Export diversification, market access and competitiveness.
+United Nations, UNCTAD/TD/B/COM./ 1(54), Geneva.
+
+UNCTAD, 2002b. World Investment Report 2002: Transnational Corporations
+and Export Competitiveness, United Nations, Geneva.
+U.S. Census Bureau, 2001. Concentration Ratios in Manufacturing, US Department of Commerce. US Census Bureau, Washington DC.
+Viscusi, W.K., Vernon, J.M., Harrington, Jr., J.E., 2000. Economics of Regulation and Antitrust. MIT Press, Cambridge, MA.
+Wann, J.J., Sexton, R.J., 1992. Imperfect competition in multiproduct food
+industries with application to pear processing. Am. J. Agr. Econ. 74, 980–
+990.
+Wilcox, M.D., Abbott, P.C., 2004. Market power and structural adjustment: the
+case of West African cocoa market liberalization, Selected Paper. Annual
+Meetings of the American Agricultural Economics Association, Denver,
+CO.
+Wilson, P., 1997. Imperfect Competition and Price Transmission in the Food
+Chain. Unpublished Ph.D. Thesis, University of Newcastle upon Tyne, Newcastle.
+World Bank, 1995. Mozambique: impediments to industrial sector recovery.
+World Bank, Report no. 13752-MOZ, Washington DC.
+World Bank, 2003. Global Economic Prospects: Realizing the Development
+Promise of the Doha Agenda. World Bank, Washington DC.
+
+

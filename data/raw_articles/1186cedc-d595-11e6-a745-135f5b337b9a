@@ -1,0 +1,3271 @@
+AGRICULTURAL
+
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 27 (2002) 333-354
+www.elsevier.com/locate/agecon
+
+Land use dynamics in the central highlands of Vietnam:
+a spatial model combining village survey data with
+satellite imagery interpretation
+Daniel Muller*, Manfred Zeller
+Institute of Rural Development, Georg-August University of Gottingen,
+Waldweg 26, 37073 Gottingen, Germany
+
+Abstract
+The paper investigates geo-physical, agro-ecological, and socio-economic determinants of past land use change in two
+districts of Dak Lak province in the Central Highlands of Vietnam and assesses the influence of rural development policies
+on land cover change. Landsat satellite images from the years 1975, 1992 and 2000 are interpreted to detect land cover in two
+time periods. A survey in randomly selected villages provides primary recall data on socio-economic and policy variables
+hypothesised to influence land use change. Secondary data on rainfall, soil suitability, and topography was obtained from
+meteorological stations and from a digital soil map and digital elevation model. All data were spatially referenced using
+geographic information systems (GIS) software. A reduced-form, multinomiallogit model is used to estimate the influence
+of hypothesised determinants on land use and the probabilities that a certain pixel has one of five land classes during either
+of the two periods.
+Results suggest that the first period from 1975 to 1992 was characterised by land-intensive agricultural expansion and
+the conversion of forest into grass and agricultural land. During the second period, since 1992, the rapid, more labour- and
+capital-intensive growth in the agricultural sector was enabled by the introduction of fertiliser, improved access to rural roads
+and markets, and expansion of the irrigated area. These policies, combined with the introduction of protected forest areas
+and policies discouraging shifting cultivation during the second period reduced the pressure on forests while at the same time
+increasing agricultural productivity and incomes for a growing population. Forest cover during the second period mainly
+increased due to the regeneration of areas formerly used for shifting cultivation.
+© 2002 Elsevier Science B.V. All rights reserved.
+JEL classification: C 25; 0 13; R 14; R 22
+Keywords: Land use change; Deforestation; Geographic information systems (GIS); Spatial modelling; Multinomiallogit; Vietnam
+
+1. Introduction
+
+* Corresponding author. Tel.: +49-551-393901;
+fax: +49-551-393076.
+E-mail address: danielix@gmx.net (D. Miiller).
+URL: http://www.gwdg.de/~uare
+
+Land use change, the physical change in land cover
+caused by human activities such as agriculture and silviculture, is a common phenomenon associated with
+population growth, market development, technical
+and institutional innovation, and related rural development policy. Changes in land use can have various
+
+0169-5150/02/$ - see front matter © 2002 Elsevier Science B.V. All rights reserved.
+PII: S0169-5150(02)00073-7
+
+334
+
+D. Muller; M. Zeller! Agricultural Economics 27 (2002) 333-354
+
+consequences on economic growth, the level and distribution of income, and on natural resources such
+as biodiversity, ecosystems, water, and soils. Land
+use change leads to change in-and is influenced
+by-socio-economic indicators such as agricultural
+productivity, wealth, and human capital. A better understanding of the complex interactions of
+these changes over time can enable decision makers at various policy levels to design and implement regionally adapted policy interventions which
+stimulate benefits and counteract negative consequences of land use change by considering the
+trade-offs among economic, environmental, and social objectives in the process of sustainable rural
+development.
+The paper emanated from a larger research program
+that attempts to assess the impact of policy, technology, socio-economic, and geo-physical conditions on
+land use change and its related outcomes on economic
+growth, welfare, and the protection of forests. The research program is taking place in two districts of Dak
+Lak province in the Central Highlands of Vietnam.
+Dak Lak exhibits an interesting case in the study of
+land use dynamics with its abundant forest resources,
+ethnic diversity, high immigration rates, and dynamic
+agricultural and socio-economic development, particularly during the last decade.
+Spatial data analysis gives valuable insights into
+processes of land use change and their underlying
+causes. The paper employs recently developed methods for combining data from a village-level survey
+with remote sensing data derived from Landsat images. Our objective is to analyse the influence of
+socio-economic, agro-ecological, geo-physical, and
+policy variables on land use, using an ex-post research design and a reduced-form, spatially referenced
+multinomiallogit model.
+After a brief description of major trends in agricultural and socio-economic development in the
+research area, we present the conceptual framework and methodology, including issues and related innovative methods employed in combining
+geo-referencing data from various sources, and
+present the hypotheses concerning determinants of
+land use change. Section 3 presents results of the
+econometric model. We conclude with a discussion
+of results and their implications for policy and future
+research.
+
+2. Trends in population, agricultural growth, and
+land use in the research area
+The research area is situated in Dak Lak province,
+the largest of a total of 63 provinces in Vietnam.
+The province has a forest cover of 52% compared to
+33% in the overall country (General Statistical Office,
+2001). Dak Lak has experienced high immigration
+rates since Liberation Day in 1976. During the last
+decade, its economy grew rapidly. Major factors of
+growth include the rising population supported by
+in-migration from other provinces, increases in the
+agricultural and irrigated area, improved agricultural
+productivity, and rising production and marketed
+surpluses in higher-value crops and animals. Apart
+from rice, the rapidly growing cash crop production of mainly coffee and rubber, and more recently
+pepper, is the major factor for the growth in agricultural exports from Vietnam (Minot and Goletti,
+2000). Despite annual growth rates in the population of about 7.7% during 1975-1990 and 6.4%
+during 1991-2000, the massive agricultural growth
+enabled large increases in per-capita income during
+the 1990s. According to official data, forest cover in
+Dak Lak province has declined steadily, particularly
+where soil conditions allow large-scale coffee production. The basaltic soils suitable for coffee cultivation
+cover 40% of Dak Lak province (Dak Lak Statistical
+Office, 2001).
+The research area is situated in two districts (Lak
+and Krong Bong) in the southeastern part of Dak
+Lak province. Sixty percent of the entire area consisting of 2400 km2 is covered by forest. In 2000, the
+population in the research area was around 124,000
+inhabitants (Dak Lak Statistical Office, 2001). Population has doubled since 1981. Roughly 20% of the
+population growth was due to government-controlled
+resettlement programs in areas delineated as new
+economic zones (NEZ) following the fixed cultivation and resettlement program (FCRP) implemented
+mainly during the 1980s. Uncontrolled immigration
+was strongest during the last decade with high coffee
+prices stimulating migration from Central and North
+Vietnam to the Central Highlands. However, the research area did not participate in the 'coffee boom'
+as much as other districts of the Central Highlands
+because only small areas of the two selected districts
+have the basaltic soil suitable for coffee production.
+
+D. Muller, M. Zeller/ Agricultural Economics 27 (2002) 333-354
+
+Agriculture is the main source of income. Paddy
+is the most important crop with respect to the factors
+income share and area cultivated. Degrees of market
+integration differ significantly between villages and
+ethnic groups. Ethnic Vietnamese (kinh) 1 have a long
+tradition of intensively growing wetland rice and marketing surplus production to local traders. Their villages have a tendency to be located close to roads, and
+they usually market a large share of their agricultural
+production. On average, they own more paddy area
+per head, which they cultivate more intensively than
+villages inhabited by ethnic minorities. Before 1990,
+very little fertiliser and pesticides were used in the research area. During the nineties, the adoption of new
+crops (maize and coffee), fertilisers (Urea and NPK),
+and pesticides was promoted by governmental extension programs and related investments in the road and
+market infrastructures. Today, the second most important crop is maize, with hybrid varieties cultivated by
+65% of households in the research area. Maize has
+turned into a major source of cash income during the
+last five years, especially for households which are
+not able to produce rice above their subsistence needs
+and lack suitable soil for coffee production. Livestock
+is another important production activity; however, it
+will not be considered further in this article because of
+its minor importance for land use change in the area.
+For possible effects of livestock on land use, see for
+example Cattaneo (2001).
+According to our analysis of the Landsat images,
+forests cover in 1990 accounted for 69% of the total research area. In 2000, forested area increased to
+77%, only two absolute percentage points below the
+level observed in 1975. At lower elevations and in locations close to villages and roads, bush land, open
+canopy, and bamboo forests prevail. Mountainous evergreen forests dominate areas with altitudes above
+600 m. Bush and bamboo forests as well as young
+open canopy forests are found as secondary vegetation
+on areas formerly used for upland cultivation. About
+7% of the research area belongs to nature reserves and
+1 People of ethnic Vietnamese origin are called kinh people,
+which we will use hereinafter to distinguish them from people
+belonging to ethnic minority groups (referred to as 'ethnic people').
+Politically, both groups are Vietnamese citizens. Also note that
+we use the expression 'minority' in a purely quantitative sense
+indicating that people belonging to ethnic 'minority' groups are
+outnumbered by the kinh in Vietnam.
+
+335
+
+protected areas designated for forest rehabilitation and
+biodiversity conservation. Strict enforcement of forest
+protection in recent years might have facilitated the
+restoration of forest cover in these areas to a fairly
+homogenous, closed canopy cover.
+
+3. Methodology
+3.1. Conceptual framework
+
+Our conceptual framework draws heavily from
+the theory of induced innovation (Boserup, 1965;
+Ruthenberg, 1980; Ruttan and Hayami, 1984). We
+distinguish two key processes of land use change as
+a source for increasing agricultural production: first,
+agricultural expansion into previously uncultivated
+areas, which usually takes place at an extensive and
+constant technological level; and second, agricultural
+intensification on already cultivated land. Intensification involves the substitution of land with labour
+or capital-intensive technology such as irrigation,
+improved seeds, and fertiliser. Boserup (1965) and
+Ruthenberg (1980) emphasise the responses of households, communities, and societies to pressures and
+opportunities induced by exogenous shift factors such
+as population growth, improvement of rural road networks, and investments in markets and the agribusiness sector enabling the introduction of higher-value
+perennial crops. In the research area, additional pressures on land use change include the introduction of
+protected areas during the 1990s, and a more effective
+enforcement of state policies discouraging shifting
+cultivation.
+These policies and driving forces at the macro and
+regional levels induce changes in land use undertaken
+by local agents (Pender et al., 1999; Scherr et al.,
+1996; Templeton and Scherr, 1997). With the switch
+from a planned rural economy to a household responsibility system in the early 1990s, changes in prices,
+transaction costs, and availability of technology induced private farmers and entrepreneurs to adjust their
+land use patterns quite rapidly, as can be witnessed in
+Dak Lak Province. Moreover, the Vietnamese policy
+transformation towards more market orientation was
+supported by significant public investments in the rural infrastructure and agricultural extension services,
+which promoted the adoption of new technologies,
+
+336
+
+D. Muller, M. Zeller/ Agricultural Economics 27 (2002) 333-354
+
+crops, and animal husbandry systems. As an indication
+for the scale of improvement in the rural infrastructure,
+the average distance from a village to an all-year road
+in the research area decreased from 18 to 6 km between
+the two periods under consideration. Apart from policy
+and socio-economic factors, changes in the use of land
+by agriculture or forestry are determined by a range of
+mainly time-invariant, natural conditions (Ruthenberg,
+1980) such as rainfall, topography, soil quality, and
+other geo-physical and agro-ecological variables.
+Chomitz and Gray (1996) developed a widely cited
+spatially explicit model based on survey and satellite
+data from Belize. They assessed the effect of roads on
+land use and employed a land rent model based on theories developed by Ricardo and von Thiinen. Nelson
+and Hellerstein (1997) estimated a similar model for
+Mexico, including corrections for spatial dependence.
+Both models rely on satellite data to derive land cover
+and employ geophysical data and limited secondary
+information for socio-economic characteristics as independent variables.
+Following the conceptual framework of induced
+innovation and taking into account recent advances
+in the literature using spatial analysis in combining
+geo-physical and socio-economic data,2 we explain
+land use change as a function of geophysical variables (level and variance of rainfall, soil suitability,
+the altitude and slope of land), endogenous (and
+therefore lagged) population growth, socio-economic
+village characteristics, and operational variables for
+measuring the spatial placement of policy-induced investments in road and market infrastructures and the
+introduction of new agricultural technology and crops.
+We will explore the causal relationships between these
+variables in a spatially explicit framework and attempt
+to quantify their respective direction and magnitude.
+3.2. Sources and methods used for collecting data
+This section briefly describes the specification of
+the left-hand-side variable land cover3 and distin2 As this special issue features reviews of spatial modeling
+approaches for explaining changes in land use, we have chosen to
+not include a review section in this paper. Other reviews include
+Kaimowitz and Angelsen (2002) and van der Veen and Otter
+(2001).
+3 Precisely defined, land cover is the (bio) physical cover of the
+land surface and immediate subsurface. Land use, on the other
+
+guishes various categories for the underlying hypothesised determinants as right-hand-side variables. The
+right-hand variables are separated into geophysical
+variables mainly determining the natural agricultural
+potential, variables describing the socio-economic
+village characteristics influencing land use, and
+policy-induced variables.
+3.2.1. Land cover data
+Changes in land cover were measured using time
+series of satellite data. Landsat images for the research area were visually interpreted for the years
+1975 (multi-spectral scanner, MSS), 1992 (thematic
+mapper, TM), and 2000 (enhanced thematic mapper, ETM). 4 All images were taken in the spring
+season between March 4th and April 7th. Hence,
+they stem from the same cropping season and from
+comparable climatic conditions. This enhances the
+interpretation as the spectral reflection of land cover
+is easier to compare. In addition, recently updated
+1:50,000 UTM maps were scanned, geo-referenced,
+and merged to obtain a consistent set of base information. These maps allow the verification of land
+cover delineation using additional point information
+and linear features such as contours, roads, and rivers.
+The interpretation resulted in land cover maps, which
+indicate physical land cover of the respective years
+for the major land use classes. Overlays produce
+quantitative estimates of changes in land cover over
+time.
+For the econometric analysis, the land cover data
+was aggregated into five classes, which were used for
+subsequent analysis:
+(1) mixed agricultural land, including cash and food
+
+crops as well as plots under shifting cultivation;
+(2) paddy fields, both with one and two crops a year;
+(3) closed canopy, dense forest;
+(4) open canopy, mixed and secondary forest;
+
+hand, describes human employment of that land. In that sense,
+e.g. hunting would be a kind of land use while shrub could be
+the corresponding cover. However, in literature the two are used
+almost synonymously. For the purposes of this paper, we will use
+'cover' to denote the categories of the dependent variables and
+refer to land 'use' when interpreting the results of the analysis.
+4 To match remote sensing data with recall information,
+cloud-free satellite images from 1980 to 1990 should have been
+used. They were, however, not available.
+
+D. Muller; M. Zeller/Agricultural Economics 27 (2002) 333-354
+
+(5) mixed grass land containing bamboo, bush, and
+shrub as well as re-growing shifting cultivation
+fields. 5
+3.2.2. Geophysical data
+To a considerable extent, data on geophysical
+variables determine the agricultural potential inherent in a specific plot. Geophysical variables include
+rainfall-time series, soil types, elevation, and slope
+values. Rainfall data stems from five rainfall stations
+in, and several others around the research area. Daily
+time series were available starting from Liberation
+Day in 1976. We calculated the yearly mean and the
+variance of daily rainfall amounts for both time periods considered in the data analysis. 6 Continuous surfaces for these layers were created by interpolating the
+point coverage with a regularised spline interpolator.
+A digital soil map (DSM) on a scale of 1:250,000
+has been reclassified into nine suitability classes for
+paddy and mixed agricultural production with 'one'
+exhibiting the most suitable soils and 'nine' the least
+suitable soils. The suitability classes are based on interviews with soil experts from the region. The digital
+elevation model (DEM) is based on contour lines from
+American topographic UTM maps, scaled at 1:50,000.
+The DEM has a spatial resolution of 50 m x 50 m.
+Slope degrees were calculated from this DEM.
+3.2.3. Socio-economic village characteristics
+A village survey was conducted in 101 randomly
+selected villages out of a total of 191 villages in the
+research area. The survey provides primary data on the
+current status and changes in land use practices since
+Liberation Day in 1975, and on the causes of these
+changes and their effects on economic, socio-cultural,
+5 Field verification reveals that most shifting cultivation plots,
+which were in fallow for one or two years, were still classified
+as agricultural land. Longer fallow periods result in the category
+'mixed grassland.'
+6 The rain-fed cropping season is almost all-year-round, and
+only 4 months of the year, i.e. December-March, are considered
+to be the dry season. During this dry season, however, there is
+considerable variation with respect to the commencement and end
+of rainfall during these months due to regional diversity in altitude
+and micro-climate (proximity to forests). Rainfall during the dry
+season influences soil moisture for the planting season and has an
+effect on water availability in semi-technical irrigations systems
+that use collected rainfall water as a source. Therefore, we chose to
+calculate the mean and variance of rainfall data for the entire year.
+
+337
+
+and ecological variables. Recall techniques were
+employed to obtain estimates from villagers for Liberation Day in 1976, 1980 and 1990.7 Additional
+socio-economic indicators were collected from interviews with communal people's committees and
+from secondary sources such as official government
+statistics.
+A metric variable was created for the age of the villages in years since their foundation. Villages in theresearch area are usually inhabited by kinh or ethnic minority people. Mixed villages do not exist, apart from
+one or two Vietnamese families, who usually own a
+shop in an ethnic village. For that reason a dummy
+variable coded one for an ethnic minority village, and
+zero otherwise, was included to capture the effect of
+ethnic composition on patterns of land use. Another
+dummy was created for villages awarded the status of
+a 'hero village.' Villages, which assisted the Northern Vietnamese government in the fight against the
+South and the USA were awarded this title after the
+war. A variable for land suitable for permanent agricultural production was computed on a pixel basis by
+subtracting already cultivated land, land with a slope
+over 20°, and land belonging to a soil suitability class
+smaller than six. The lagged value of this continuous
+dummy variable convertible landwas included in the
+regressions. For population data, an inverse distance
+weighted interpolation technique, which calculates a
+linearly weighted combination from the set of sample
+points, was used to derive a continuous population surface. Thus, we account for the fact that the population
+is highest at actual village locations and pressure decreases as one moves away from population centres.
+The population surface aims to represent population
+distribution more realistically with a distribution of the
+data values as a property of location rather than an entire area (Bracken, 1994). The lagged value of the continuous population map was included in the data analysis as a pre-determined variable and, therefore, treated
+as an exogenous factor in our reduced-form equations.
+There is possibly a range of other important variables, which can have a substantial effect on land use.
+7 We related the questions for 1980 to a large flood that occurred
+in 1981, which nearly all of the villagers remembered. The recall
+information from 1990 is related to a period characterized by
+economic renovation policy (doi moi), which also provided a
+suitable point of reference.
+
+338
+
+D. Muller; M. Zeller/Agricultural Economics 27 (2002) 333-354
+
+For instance, land tenure and property rights shifted
+recently from a system based on customary rights to
+an official recognition of property rights. The first land
+use titles for agricultural land were issued in 1996.
+Until today, 65% of the households received these
+certificates---45% of them in the past 2 years. Therefore, it is too early to estimate the effects of secure
+property rights on land use given our land cover data.
+3.2.4. Policy variables
+Policy-induced variables reflect investments from
+external sources such as governments and donors in
+infrastructure and technologies as well as restrictions
+on land use imposed by the government.
+Surface vectors for roads obtained on a scale of
+1:250,000 were corrected for the research area to
+a scale of 1:50,000 using the digitised UTM base
+maps and the pan-chromatic band from the Landsat
+ETM. Market access was measured by the Euclidean
+distance to nearest all-year roads for trucks and to
+district centres. Based on recall information, we approximated a second road network for the year 1990,
+which was, however, highly correlated with distance
+to district capitals and, therefore, dropped. We tried to
+capture the effect of road upgrades by incorporating
+the lagged travel time in hours to the nearest all-year
+road from the survey as an additional measure for
+market proximity, thus taking the means of transport
+and their changes into account. The number of years
+since the establishment of a primary school in a village was included as an indicator of investment in
+primary education.
+Technology variables are incorporated in the analysis with regard to the time of the introduction of
+a new technology for agricultural production: (a) the
+number of years since the introduction of NPK as a
+yield-increasing technology, (b) the number of years
+since the construction of a reservoir for irrigation of
+agricultural land, and (c) the increase of irrigated area
+per village multiplied by the number of years already
+irrigated as a measure for the number of irrigated
+hectare-years.
+The boundaries for National Parks and Nature Reserves were included as a policy variable (Chomitz
+and Gray, 1996; Deininger and Minten, 2001). We incorporated the time of protection as the number of
+years since a pixel belongs to a protected area, zero
+otherwise.
+
+J:i
+
+Integration ofvillage and remotely sensed data
+
+Farmers, and other land users, make their land management decisions based on objectives, constraints,
+and the potentials of their households and individual
+members. At the village-level, we observed aggregate
+behaviour of all land users and other stakeholders in
+land allocation and management. Ideally, to integrate
+grid-based data with survey data, the scale of the analysis should match the unit of decision-making. Yet, in
+Vietnam as in most developing countries, plot maps
+and village boundaries are not available. This renders
+spatial modelling a time-consuming and costly task
+due to the necessary delineation of the spatial extent
+of plots or villages, e.g. using global positioning systems (GPS).
+The spatial extent of village boundaries could not
+be delineated with the time and budget available. 8 To
+demarcate the spatial base unit for the integration of
+socio-economic variables, the geographic positions of
+all villages were recorded with GPS and point coverages created. Village boundaries for all surveyed
+villages were then defined using Thiessen polygons,
+which are constructed so that each location within a
+polygon is closer to all its contained points than to any
+other point in the layer (Aronoff, 1995). These polygons were then used as a base unit for village-level
+data in sub-sequent analyses (Entwisle et al., 1998).
+Hence, survey data-apart from population-takes the
+value of the interviewed village for each point, which
+is closer to the village's centroid than to any other centroid (see Fig. 1).9 The vast areas of virtually unused
+8 Delineating plot boundaries as the base unit of analysis would
+match the unit of decision-making of an individual land user much
+more accurate, thereby being considerably closer to economic reality. However, this is obviously not feasible for an area of 2400 km2
+with approximately 124,000 households involved in agriculture,
+each typically having several dispersed plots. Examples of analysis
+at the plot level linking geophysical, agro-ecological data on plots
+with socio-economic data of farms or villages include Mertens
+et al. (2000) and Fox et al. (1994).
+9 This method implies that surveyed and (non-sampled) neighbor
+villages are similar with respect to land use data. Apart from
+numerous field visits into the research area, however, we cannot
+validate this assumption because of lack of data on non-sampled
+villages. In order to avoid similar issues arising in future research,
+we recommend to first construct the Thiessen polygons, and then
+randomly select a subset of Thiessen polygons with probabilities
+proportionately to size of area for subsequent village-level survey.
+
+D. Muller, M. Zeller/ Agricultural Economics 27 (2002) 333-354
+
+339
+
+Source: Subset of Landsat ETM, date: 03 March 2000; purchased at the Tropical Rain Forest Information Center
+(http://www.bsrsi.msu.edu); village positions from GPS survey of authors.
+Notes: Image displayed in band combination 5-4-3.
+Fig. I . Landsat satellite image with survey village positions and Thiessen polygons.
+
+and remote forestland are implicitly integrated via geophysical indicators such as topography, soil quality,
+and slope as well as distance to major roads, which all
+render land use unprofitable on these marginal lands
+and should therefore not distort results considerably.
+In this study, the unit of analysis is a pixel. The
+research area was spatially referenced to pixels with a
+size of 50 m x 50 m. Each pixel, therefore, represents
+an area of a quarter of a hectare. After resampling all
+spatially available information to above grid size, data
+was stored as surfaces in a raster GIS.
+The research area contains 964,000 grids cells. To
+compensate for potential spatial dependence in the dependent variables, Besag' s coding scheme was used
+{Besag, 1974, 663/id}, also employed by Nelson and
+Hellerstein (1997), Munroe et al. (2001) and Nelson
+et al. (2001) in similar studies. The regular spatial
+
+sample was drawn by selecting every fifth cell in the
+X- and Y-directions so that no selected cells are physical neighbours. This sampling procedure allows us to
+apply standard estimation techniques (Anselin, 1999).
+To control potential border effects, an inside buffer of
+75 m was cut-off the outer boundary of the research
+area. After merging data from the socio-economic survey with geophysical and land use data, 33% of the
+grid cells were randomly sampled. These sampling
+procedures resulted in a dataset of 20,000 observations
+used for subsequent econometric modelling.
+3.4. Expected effects of regressors
+
+We ran regressions on four types of regressors. First,
+we used time-invariant geophysical variables, with
+the exception of rainfall , which we observe in both
+
+340
+
+D. Muller, M. Zeller/Agricultural Economics 27 (2002) 333-354
+
+periods, and second, historical variables, which describe socio-economic characteristics of the villages.
+Here, we include population and land available for
+conversion as a time-variant, but lagged variables
+referring to the state in the previous period. Third,
+exogenous policy variables to describe government
+investments and macro-level policies are included in
+the model. 10
+At present, there are no models and test statistics
+available which account for substantive spatial interaction in a qualitative dependent variable framework
+(Anselin, 2001) as cited in Munroe et al. (2001). To
+compensate for potential spatial effects, we used the
+coding scheme described in Section 3.3. In addition,
+we included two exogenous variables indicating the Xand Y-eo-ordinates of each cell in the grid as a spatial
+filter (Nelson et al., 1999; Munroe et al., 2001).
+Hypothesised effects of regressors on land use categories can be anticipated based on previously outlined
+theoretical considerations, research findings, and field
+experience. Table 1 summarises the variables and their
+expected effects where a plus sign indicates a positive
+expected influence of that variable on the respective
+land cover class and a minus indicates a negative effect. Question marks indicate potentially ambiguous
+outcomes. In the following, the hypotheses are stated
+for the four types of regressors.
+3.4.1. Geophysical variables
+On higher elevations, agricultural land use is less
+feasible and less likely due to more difficult climatic
+conditions such as lower temperatures and more difficult terrain. Equally, agriculture on steeper slopes and
+poorer soils is usually less profitable and more difficult. We hypothesise that the coefficients for elevation,
+slope, and soil are negative for agricultural land use
+and positive for forest land.
+The amount and variance of rainfall critically affect agricultural activities in several ways. In areas
+with high absolute rainfall, more water-demanding
+crops can be cultivated. To decrease risks from highly
+variable and, therefore, more insecure rainfall, more
+drought-resistant crops and a higher crop diversification should be expected. However, since the land cover
+data at hand does not enable us to explain crop choice,
+10 The former we assume to be exogenous, but later may deal
+with sample selection problems.
+
+we can only deduce the following hypotheses: More
+absolute amounts of rainfall in the moderate climate
+prevailing in the research area 11 can be expected to
+increase the natural potential for agriculture, while,
+due to increasing risks, one would expect that higher
+rainfall variation would reduce land under agriculture
+in the absence of irrigation facilities and increase the
+likelihood of other uses.
+3.4.2. Variables describing the socio-economic
+history of the villages
+Rural development is essentially path-dependent.
+Hence, initial states and historical events influence current and future socio-economic situation of villages,
+including land use. In this context, several variables
+will be considered and explained in the following.
+A positive relation is expected between ethnic minority villages and former shifting cultivation areas,
+be they fallow or cultivated. Followed fields are either
+interpreted as grass land or as agricultural land, depending on the time of fallow. Some fields might have
+already recovered to become secondary, open canopy
+forest. Due to these traditional land-intensive cultivation techniques and presumably less political power,
+ethnic villages might be associated with more agricultural area (cultivated less intensively), less irrigated
+paddy area, and more grass land. Common belief also
+attributes deforestation to ethnic people; therefore, we
+would expect less open and closed canopy forest.
+Available convertible landprovides the potential for
+agricultural expansion. A higher lagged value should
+increase the probability that these patches will be converted for agricultural land uses. We would expect a
+strong positive relation for agriculture and paddy land
+and negative signs for other land uses.
+Higher lagged populationshould be associated with
+increasing demand for agricultural land uses and is
+often cited as a major factor influencing deforestation (Tachibana et al., 1998; Kaimowitz and Angelsen,
+2000).
+The status of 'hero villages' is used as a proxy operational variable to measure the political capitalof a
+11 In more tropical settings with higher amounts of rainfall other
+authors found the opposite effect (Chomitz and Thomas, 2001).
+In the research area rainfall averaged 1800mm between 1976 and
+1999. In drier climates where absolute rainfall is a restricting factor
+at least part of the year, we do expect an increase in agricultural
+production for higher amounts of rainfall.
+
+Table 1
+Description and predicted signs of exogenous variables
+Level of
+measurement
+
+Pixel/village
+
+Source
+
+Geophysical
+Slope degrees
+Elevation
+Soil suitability classesa
+Mean rainfall amount
+Mean variance of rainfall
+
+Degrees
+lOOm
+9 classes
+lOOmm
+lOOmm
+
+Pixel
+Pixel
+Pixel
+Pixel
+Pixel
+
+Digital elevation model (DEM)
+Digital elevation model (DEM)
+Digital soil map (DSM)
+Point interpolation
+Point interpolation
+
+Socio-economic history of village
+Years since village establishment
+Ethnic composition
+Land suitable for conversion
+Lagged population
+Hero village
+
+2000-year
+0/1
+0/1
+Households
+0/1
+
+Village
+Village
+Pixel
+Pixel
+Village
+
+Survey
+Survey
+Land use maps maps and DEM
+Survey (interpolation)
+Survey
+
+Policy variables
+Distance to district centre
+Distance to all-year road
+Travel time to all-year road
+Years since primary school
+
+Kilometres
+Kilometres
+Hours
+2000-year
+
+Pixel
+Pixel
+Village
+Village
+
+Road network
+Road network/survey
+Survey
+Survey
+
+Technology
+Years since construction of reservoir
+Increase in irrigated area
+Years since introduction of NPK
+Nature conservancy
+Nature reserve areas
+
+2000-year
+Hectare
+2000-year
+
+Village
+Village
+Village
+
+Survey
+Survey
+Survey
+
+0/1
+
+Pixel
+
+Official park boundaries
+
+Spatial effects
+X- and ¥-coordinates
+
+Every 5th
+
+Pixel
+
+Sampled from grid
+
+Mixed
+agriculture
+
+-
+
++
++
++
++
++
++
+
+Paddy
+
+Closed
+forest
+
+Open
+forest
+
+Mixed
+grass
+
+-
+
++
++
++
+
+?
+?
+
++
++
+
++
++
++
++
++
+
++
+
+.-.~
+
++
+
++
+
+~
+
++
+
+-
+
+-
+
+-
+
+-
+
++
+
++
++
++
+
++
+
++
+-
+
+~
+
+~
+
+-.fi;"'
+;:;:
+OQ
+
+~-
+
+;::
+
+-
+
+?
+
+~
+
++
++
++
+
+c;,:
+c
+
++
+
++
++
++
++
+
+?
+
++
++
+
++
++
+
++
++
+
+-
+
+'-.;
+
+?
+
+?
+
+?
+
+?
+
+'-.;
+
+-
+
++
+
++
+
+-
+
+?
+
+-
+
+!=:J
+;::,
+
+~
+~
+
+-
+
+;:;
+c;·
+
+"'w
+
+'-l
+
+w
+c
+~
+
+'-.;
+
+'-.;
+
+I
+
+~
+
+a One variable for soil suitability for paddy and one for mixed agricultural production with 1 = highest suitability and 9 = lowest suitability.
+
+"'.p..
+~
+
+342
+
+D. Muller; M. Zeller/Agricultural Economics 27 (2002) 333-354
+
+village. We hypothesise that higher political capital
+(Birner and Wittmer, 2002) is expected to improve the
+access to government programs and outside assistance.
+This may well lead to an improved infrastructure such
+as irrigation facilities and better access to extension
+services and credit supplies. Subsequently, the intensification effect might be associated with a reduction
+of land expansion, therefore, reducing the pressure on
+forest land and allowing grass land to recover to become forest once again.
+3.4.3. Policy variables
+With respect to infrastructure investments by the
+government, we employed several operational variables derived from the village survey. Distance and
+travel time from the village to all-year roads and to
+the two district capitals serve as a proxy for market
+access and access to political centres. Lower values
+of these variables might be associated with lower forest cover because of higher producer prices, lower input prices, and lower transaction costs compared to
+remote locations. Yet, Deininger and Minten (2001)
+find that these variables are highly correlated with
+population density, soil fertility, and physical capital
+such as irrigation facilities. However, that was not the
+case in our dataset where these variables all showed
+correlation coefficients below 0.5. Since no farm-gate
+prices for inputs or outputs are available with spatial
+variation, distance and travel times to roads and markets serve as a proxy for prices as well as transaction
+costs (Deininger and Minten, 2001). Agricultural land
+use is expected to be more likely to occur closer to
+all-year roads, while forest cover should be less likely
+(Chomitz and Gray, 1996; Pfaff, 1997; Nelson and
+Hellerstein, 1997). Again, the effect on mixed grass
+land cannot be hypothesised a priori.
+Access to education is proxied by the availability of primary schools in years since their opening.
+The effect might be uncertain. Common sense tells
+us that farmers with better access to education should
+be expected to use land more intensively and adopt
+new technologies earlier, thus saving land to achieve
+a given income or farm output. However, there is also
+empirical evidence that educated households might engage more in land clearing (Pichon, 1997).
+Technological change, which has been promoted
+by a variety of government agencies, is incorporated via the introduction of NPK, one example for a
+
+yield-increasing technology. NPK increases first and
+foremost the productivity of land, and one might expect land expansion to become more attractive with
+NPK, provided farmers have sufficient labour and
+the ability to finance the purchase of agricultural inputs. However, given current labour constraints and
+incomplete rural financial markets, we rather expect
+increasing yields and more input in production on existing fields. The longer ago the introduction of NPK,
+the more likely the possibility of forest cover. On the
+other hand, more profitable agriculture could increase
+the incentive to expand area under cultivation and,
+therefore, lead to a lower forest cover and a positive
+coefficient for agriculture (Angelsen and Kaimowitz,
+2001). Therefore, the overall expected sign of the
+effect is ambiguous. Another variable related to technological change are years since the construction of a
+reservoir for agricultural irrigation. We anticipate that
+this labour-intensive intensification on existing agricultural areas will induce households to allocate less
+time to land clearing and land expansion into upland
+areas; accordingly, forested pixels will be more likely
+(Shively and Martinez, 2001; Pender et al., 2001).
+Inside a protected area, it is impossible to establish property rights for long-term secure cultivation,
+thereby decreasing the profitability of agriculture
+(Deininger and Minten, 2001). We expect a significant positive coefficient for non-agriculturalland uses
+and a regeneration of grass to secondary forest. Protected areas may be located on more marginal lands
+with steeper slopes and on less suitable soils. For
+that reason, we interact the protection dummy with
+slope and soil suitability for mixed agriculture. If our
+hypothesis holds, the introduction of these interaction
+terms should reduce the significance and the effect of
+the protection dummy on preserving forest land.
+
+4. Models and results
+4.1. Descriptive statistics
+Agricultural land increased by 9% from 1975 to
+1992, and has stagnated since then (Table 2). The
+agricultural area mainly developed from open canopy
+forest and grass. Grassland decreased in the second
+period from 11 to 4%. It is interesting to look at total
+forest cover, which declined by 10% in the first period,
+
+D. Muller, M. Zeller I Agricultural Economics 27 (2002) 333-354
+
+343
+
+Table 2
+Land cover in km2 , percent of total land and number of patches
+Cover class
+
+2000
+
+1992
+
+1975"
+
+km 2
+
+km2
+
+Patches
+
+km2
+
+339
+57
+17
+74
+259
+
+146.7
+67.2
+836.2
+1052.3
+295.7
+
+746
+
+2398.2
+
+Mixed agriculture
+Paddy
+Closed forest
+Open forest
+Grass
+Total
+
+339.8
+111.0
+866.6
+962.6
+101.5
+2381.6b
+
+%
+
+14.2
+4.6
+36.4
+40.5
+4.3
+100
+
+Patches
+
+%
+
+141
+62
+14
+56
+159
+
+352.0
+117.0
+828.2
+827.9
+273.5
+
+432
+
+2398.6
+
+14.6
+4.9
+34.5
+34.6
+11.4
+100
+
+%
+
+6.1
+2.8
+34.9
+44.0
+12.2
+100
+
+Source: interpretation of Landsat satellite images by Nguyen Thanh Huang (Tay Nguyen University, Buon Ma Thuot) and authors for Lak
+and Krong Bong districts, Oak Lak Province, Central Highlands, Vietnam.
+a Number of patches only counted for the images from 1992 to 2000, which have the same spatial resolution of 30m x 30m.
+h 18 km 2 missing in 2000, because part of the research area was not covered by the scene.
+
+but has grown by eight percent since 1992. Thus, no
+severe deforestation has taken place over the last 25
+years, with total forest cover decreasing by about 2%.
+Another notable feature from Table 2 is the spatial pattern of land fragmentation, measured as the
+number of patches under a specific land cover. Land
+fragmentation in the last eight years decreased dramatically from 746 patches of land cover in 1992,
+to 432 in 2000. Most of that change was due to the
+high fragmentation of agriculture and grass in 1992,
+compared to 2000, and it reflects the virtual disappearance of shifting cultivation in the research area,
+which until today has often been made responsible
+for large-scale deforestation.
+Detailed descriptive statistics of the independent
+variables are reported in Table 4 of the Appendix A.
+The range of values in socio-economic and policy variables demonstrates the diverse characteristics of villages. The mean population per pixel increased from
+three in the first period to more than five households in
+the second period, indicating higher population pressure in the last decade. The Euclidean distance to
+all-year roads averages 6 km for all villages, albeit with
+a large standard deviation indicating the considerable
+variation in village locations. Construction of reservoirs and more irrigated land boosted rice production
+by allowing two harvests of wetland rice per year.
+
+4.2. Multinomiallogit
+To explore relationships between exogenous and
+predetermined variables and the land cover categories
+as left-hand side (LHS) variables, a multinomiallogit
+
+specification (MNL) was employed. MNL models estimate the direction and intensity of the explanatory
+variables on the categorical dependent variable by predicting a probability outcome associated with each category of the dependent variable. The probability that
+Y = h can be stated as (Greene, 1997):
+PROB (Y
+
+= h) =
+
+ef3'xth
+----,M;-;----
+
+(1)
+
+Lm=lef3'xtm
+
+In (1), m denotes the land cover classes used for
+analysis, fJ a vector of estimation parameters and
+Xt are the exogenous variables for all Y and at all
+locations /. Eq. (1) holds, if the error terms are independently and identically distributed as log Weibull
+(McFadden, 1973). Normalising on all probabilities
+yields a log-odds ratio (Greene, 1997):
+In [ Pth
+Plm
+
+J = x; (fJh -
+
+fJm)
+
+(2)
+
+The dependent variable is expressed as the log of the
+odds of one alternative relative to a base alternative.
+If model assumptions hold, the maximum likelihood
+estimators are asymptotically normally distributed,
+with a mean of zero and a variance of one for large
+samples. Significance of estimators is tested with
+z-statistics, which are reported in the output tables.
+Likelihood-ratio (LR) tests compare the log likelihood from the full model with the one from a reduced
+model omitting explanatory variables. To test the hypothesis with (m - 1) parameters, a likelihood-ratio
+and Wald test can be used. Here, only LR test statistics are reported as the two tests showed no major
+differences.
+
+D. Muller, M. Zeller/ Agricultural Economics 27 (2002) 333-354
+
+344
+
+cover over time. About 70% of the pixels from 1992
+to 2000 and 60% in the period 1975 to 1992 did not
+change over time. Therefore, the lagged values predict
+present land use almost perfectly, making model estimation problematic. In the 'model 1990' the variable
+for convertible land was dropped due to perfect prediction of paddy land. Since the first nature reserve in
+the research area was established in 1991, we included
+the protection variable only in the 'model 2000'.
+Test statistics are reported in Table 6 in the
+Appendix A. Overall, the model for the second period
+performs better than the model for the first period due
+to fewer missing values and more exact data on land
+cover and recall information. Likelihood-ratio tests
+for independent variables (Table 7 in the Appendix
+A) reveal that most coefficients are significant on
+the 1% level in both models, except the interaction
+coefficients of protected areas with soil suitability.
+Likelihood-ratio tests for combining dependent categories let us reject the hypothesis that categories
+are indistinguishable. Overall predictive power as
+measured by the locations predicted correctly is high
+for both models, with 81% of the pixels predicted
+correctly in 'model 2000' and 69% in 'modell990',
+respectively (Table 3). The majority of the false
+
+4.3. Empirical results
+The MNL has five land cover classes as categorical, unordered dependent variables. One multinomial
+logit model was performed for each of the two time
+periods, i.e. for 1975-1992 and 1992-2000. Hereafter,
+we will refer to the 'model 1990' for the first period
+and 'model 2000' for the second period. Survey recall data for Liberation Day and 1980 was used as
+'best estimate' for predetermined variables in 1975
+and, similarly, recall data from 1990 was employed
+for 1992. It would have been more suitable to arrive
+at equally long time periods, which, however, was
+not possible. 4 To control potential endogeneity problems, only lagged values for time-variant independent variables such as population growth and placement of schools are considered in the empirical applications. In addition, all variables were tested for
+multi-collinearity. Model results are reported as raw
+coefficients in Table 5 in the Appendix A for closed
+forest as the comparison group. In the discussion, we
+will also mention the signs of other interesting coefficients not included in Table 5.
+The model does not include lagged values of land
+use due to relatively little variation in the overall land
+
+Table 3
+Predictive power of land use
+Predicted land use, 2000
+% correct
+
+Mixed agriculture
+
+Paddy
+
+Closed forest
+
+Open forest
+
+2289
+304
+8
+294
+302
+
+178
+561
+9
+6
+
+10
+0
+6084
+844
+38
+
+251
+16
+1042
+6793
+403
+
+41
+10
+7
+55
+73
+
+2769
+891
+7142
+7995
+822
+
+82.7
+63.0
+85.2
+85.0
+8.9
+
+3197
+
+755
+
+6976
+
+8505
+
+186
+
+19619
+
+80.5
+
+Predicted land use, 1990
+Observed land use, 1990
+Mixed agriculture
+1743
+Paddy
+253
+Closed forest
+20
+Open forest
+329
+Grass
+678
+
+259
+657
+0
+2
+30
+
+29
+2
+5627
+968
+116
+
+555
+24
+943
+5137
+982
+
+327
+3
+205
+409
+460
+
+2913
+939
+6795
+6845
+2266
+
+59.8
+70.0
+82.8
+75.0
+20.3
+
+948
+
+6742
+
+7641
+
+1404
+
+19758
+
+69.0
+
+Observed land use, 2000
+Mixed agriculture
+Paddy
+Closed forest
+Open forest
+Grass
+Total
+
+Total
+
+3023
+
+I
+
+Grass
+
+Total
+
+Source: own calculation. Notes: land use with highest predicted probability as predicted land use; bold entries along the diagonals indicate
+correct predictions; number of entries correspond to the number of pixels, i.e. to 900m2 .
+
+D. Muller, M. Zeller!Agricultural Economics 27 (2002) 333-354
+
+Factor Change Scale Relative to category Grass
+.2
+:a
+.37
+.51
+
+.7
+
+.95
+
+c
+
+Age of village (years), 2000
+
+0
+
+Q_____p
+
+c
+
+Population (households), 1990
+
+M
+
+2.4
+
+p
+
+0
+
+p
+
+c
+
+G
+
+Sid Cool
+
+v
+
+c
+
+Years since reservoir, 2000
+Sid Cool
+
+~
+
+Age of reservoir • irrigated area, 2000
+Sid Cool
+
+-1.6
+-1.29
+-.98
+-.67
+Logit Coefficient Scale Relative to category Grass
+
+M
+
+~
+
+Sid Cool
+
+Km to all-year road in 1998
+
+1.76
+
+G
+
+M
+
+011
+
+1.29
+
+~
+
+Sid Cool
+
+Ethnic minority village (0/1)
+
+345
+
+-.38
+
+G
+
+-.05
+
+0
+
+~
+.26
+
+.56
+
+.87
+
+Source: own calculation
+Notes: The likelihood increases in magnitude from left to right; initial letters indicate variable values of land use classes: M =Mixed agriculture, P =
+Paddy, C =Closed forest, 0 = Open forest, G = Grass; grass (G) as the comparison group has a factor change scale of one; variables are either evaluated
+for a change in 1 SD (Std Coef) or for a discrete change from 0 to 1values connected by lines are NOT significant at the 5 % level; one example for
+interpretation for ethnic minority villages in row two: grass (G) is significantly more likely than all other land uses, while closed forest (C) is the least
+likely land use class; paddy (P) is NOT significantly more likely than closed forest (C) as the two are connected by a line.
+
+Fig. 2. Odds ratios of selected explanatory variables for land use in year 2000.
+
+predictions in the 'model1990' are pixels covered with
+grass, which were predicted to be mixed agriculture
+in 23% of the cases.
+Coefficients for most topographic variables are significant at the 1% level and show the expected signs. 12
+Agriculture is more likely at lower altitudes, on flatter
+land, and on better soils. Rainfall variance does not
+always shows the expected signs, which might be due
+to relatively little dependence on precipitation due to
+irrigation in the 'model 2000' and little rainfall variance in the 'model1990'.
+Soil suitability for paddy shows the expected signs,
+and better suitability increases the probability of paddy
+against all and the probability of agriculture against
+the remaining soil classes. Surprisingly, better soils increase the odds of closed canopy forest compared to all
+other land use categories; however, it also makes agricultural land uses more probable compared to grass
+and open forests.
+12 Note that the multinomial legit model with five outcomes
+yields 10 possible combinations of outcomes to be compared for
+each independent variable, hence, 230 coefficients for 23 variables.
+Here, we will focus on closed forest as the comparison group
+(base category), if not indicated otherwise.
+
+Odd ratios can facilitate model interpretation as they
+are constant for changes in other categories of dependent variables. In Figs. 2 and 3, odds ratios of selected
+socio-economic and policy variables are plotted for
+both models.
+Older villages increase the likelihood of closed forest in the 'model1990.' All coefficients have the opposite direction relative to closed forest in the 'model
+2000' (row one in Figs. 2 and 3). This result mirrors
+the settlement location of younger villages closer to
+roads and populated areas, while older villages are
+more evenly scattered across the area. Ethnic villages
+have the lowest odds for closed forest (C) in both models. In the 'model 2000,' open forest and grass are
+significantly more likely closer to ethnic villages than
+other land uses, which points to a regeneration of forest on formerly used shifting cultivation plots and to
+a decrease in these cultivation techniques over time.
+Lagged population increases the probability of other
+land use classes relative to closed forest in 'model
+2000,' as we expected. A comparison between the
+two periods reveals some interesting changes. Greater
+population density is significant at the 1% level in
+the 'model 2000,' but had small and insignificant effects in the 'model1990.' These results indicate that-
+
+346
+
+D. MUller; M. Zeller I Agricultural Economics 27 (2002) 333-354
+
+Factor Change Scale Relative to Category Grass
+.t
+.t6
+.24
+.38
+
+.59
+
+.92
+
+SldCoel
+
+c
+
+Ethnic minority village (0/1)
+
+Population (households), 1980
+SldCoel
+
+p
+
+stdCoef
+
+c
+
+Age of reservoir • irrigated area, 1990
+Sid Cool
+
+-2.31
+-1.86
+-.97
+-1.42
+Logit Coefficient Scale Relative to Category Grass
+
+c
+
+G
+
+~
+
+Years since reservoir, 1990
+
+3.51
+
+c
+
+M
+
+StdCoel
+
+2.25
+
+c
+
+b
+G{
+
+0
+
+011
+
+Km to all-year road in 1990
+
+1.44
+
+~G
+
+Age of village (years), 1990
+
+-.53
+
+0
+
+G
+G
+
+M
+
+-.08
+
+~
+.36
+
+.81
+
+1.26
+
+Source: own calculation
+Fig. 3. Odds ratios of selected explanatory variables for land use in year 1990.
+
+at lower levels of population density during the first
+period-population induced little pressure on change
+in land use, but growing population density generated
+a demand for paddy and agricultural land. The coefficients for distance from markets and all-year roads
+have the expected signs and higher values increase
+the odds for closed canopy forest. The availability of
+primary schools increases all land use classes in the
+'model 1990,' while it decreases the probability of
+land area covered with agriculture and paddy. Irrigation has a two-fold effect. Older reservoirs decrease
+while more irrigated area increase the likelihood of
+pixels to be covered by primary forest in the first period (Table 5). More irrigated area might, thus, have a
+positive effect on forest protection through an increase
+in land use intensity. The age of protected areas increases the likelihood of open and closed forest cover
+compared to all other categories and, therefore, contributed to forest regeneration. On steeper land, forest
+protection increases the probability of a pixel covered
+with closed forest relative to grass land while the interaction terms with soil quality do not affect land use
+classes.
+The filter to correct for spatial autocorrelation yields
+significant coefficients in X- and Y-direction. The
+direction of the coefficients indicates the upper-left
+(lower X- and Y-values) as the main area in which
+agricultural development is concentrated.
+
+4.4. Implications of the spatially explicit framework
+The spatial framework facilitates the integration of
+data from natural sciences with socio-economic data.
+It allowed capturing a better understanding of driving forces, conditioning factors and outcomes of land
+cover change. Continuous measures on variables like
+rainfall, slope and distance are major factors determining agricultural development and the inclusion of
+their location and spatial arrangement enhance the results and conclusions drawn in this paper. Many of
+these conclusions could not have been drawn using
+only cross-sectional data. The use of the spatial filter
+enhanced overall predictive power manifested by the
+prediction matrices as well as by the statistical tests in
+both models. However, the changes in statistical power
+due to spatial correction remained relatively small with
+an improvement of prediction power of 1-2% points,
+almost entirely in the categories mixed agriculture and
+grass.
+Problems for spatially explicit modelling and spatial statistics are frequently found in the combination
+of data on natural resources with socio-economic information at an acceptable scale and under reasonable
+assumptions and simplifications. The integration of
+socio-economic data with continuous spatial layers
+poses several challenges. Our attempt to combine land
+use data with interpolation techniques and Thiessen
+
+D. Muller, M. Zeller/Agricultural Economics 27 (2002) 333-354
+
+polygons at the village-level addresses this issue. It
+could be a reasonable approach considering the size
+of our research area. However, this aggregation masks
+decision-making processes at the farm and plot levels.
+A combination with household level data and more
+GPS data for field boundaries would improve the
+strength of the overall model.
+
+5. Discussion and policy implications
+The findings from the satellite-image interpretation
+suggest a decrease in open canopy forest in the first
+period due to conversion into rain-fed and irrigated
+agricultural land. Forest cover increased during the
+1990s by 8%, mainly due to the natural regeneration of mixed grassland. Followed fields formerly
+used for shifting cultivation were largely abandoned
+during the last decade and regenerated to become
+bamboo and open canopy secondary forest. Overall, rainfed mixed agriculture remained constant in
+the 1990s, as the reduction in shifting cultivation
+was compensated by an expansion of cropping area.
+Over time, agricultural production became more locationally concentrated (less patches) with potential
+environmental benefits for preserving the integrity
+of ecosystems and endangered species populations.
+These changes in land use show that shifting cultivation as the traditional farming system practised by
+the indigenous population in the research area almost
+entirely disappeared in its traditional form during the
+last decade.
+The effect of ethnic minority villages on land use
+shows strong signs in both models. Ethnic villages are
+on the average closer to forested and grass areas and
+further away from all-year roads and political centres. Forest regeneration at the expense of agricultural
+area predominantly occurs closer to ethnic villages.
+The increase in forest cover over the last decade
+despite the observed population growth does not
+correspond to the widely stated positive correlation
+between higher population density and lower forest
+cover. Instead, it seems to support the findings from
+Pender et al. (2001). Permanent conversion of primary forest into agricultural land was hardly observed
+and, if so, it took place between Liberation Day and
+1990, the key period of the government resettlement
+programs.
+
+347
+
+Access to all-year roads improved substantially in
+the last decade, thereby facilitating market integration, access to the infrastructure, agricultural inputs,
+and public services. The investments in irrigation
+and infrastructure, combined with improved access to
+roads, markets, and services, were successful in intensifying agricultural production. Higher agricultural
+productivity on existing land reduced the need for
+shifting cultivation, thus preserving forest cover while
+sustaining a much greater population on virtually the
+same agricultural land area. Zeller et al. (2000) find
+similar linkages between agricultural intensification
+and rural income diversification on the one hand and
+reduced pressure on forests and soils on the other
+hand in one of their research areas in Madagascar.
+This was possible through increases in the productivity of food and cash crops (mainly rice), as well
+as an increase in cash crop production (mainly maize
+and to a lesser extent coffee). Because of this and
+on-going urbanisation, the upland arable area as well
+as the paddy area reduced slightly, whereas much of
+the grassland of the earlier period (due to shifting
+cultivation) was reforested to become open canopy
+forest and, to a lesser extent, closed canopy forest.
+Protected areas contributed to this development by
+decreasing the likelihood of non-forest land uses.
+Thus, the policy measures have contributed to a reduction in shifting cultivation and facilitated agricultural
+intensification.
+During the first decade, we can observe a pathway
+of land expansion into previously uncultivated areas.
+The low population density facilitated extensive land
+cultivation based on forest fallow. Few farmers applied
+intensive cultivation techniques and production was
+subsistence-oriented. The last decade brought about
+significant changes in the policy environment such
+as investments in road upgrades, irrigation facilities,
+and the introduction of new technologies. This period was characterised by intensification without further land expansion and allowed forests to regenerate.
+Today, forests cover nearly the same area as in 1975.
+The land saving effect of technological progress prevailed over the labour saving effect. In other words,
+labour-intensive technical progress diverted resources
+away from land-intensive farming systems such as the
+various forms of shifting cultivation by augmenting
+the return on labour. At present, more people produce
+more per capita on less land than ten years ago.
+
+348
+
+D. Muller, M. Zeller/ Agricultural Economics 27 (2002) 333-354
+
+Investments in the road network did not significantly reduce forest cover as it was outweighed by
+intensification on existing land. Road development
+seems to contribute significantly to improvements in
+productivity and welfare, in that way reducing land
+expansion and removing pressure from forests. At the
+
+same time, the shift to a market-driven economy in
+1989 (doi moi), state policies on sedentarisation and
+forest protection encouraged production and made traditional farming techniques more difficult to pursue,
+thus, further contributing to the transformation from
+traditional subsistence-based to a market-oriented
+
+Table 4
+Descriptive statistics for sampled observations
+Variable
+
+Observation
+
+Mixed agriculture, 2000
+Paddy, 2000
+Closed forest, 2000
+Open forest, 2000
+Grass, 2000
+
+19617
+19617
+19617
+19617
+19617
+
+0.14
+0.05
+0.36
+0.41
+0.04
+
+0.35
+0.21
+0.48
+0.49
+0.21
+
+0
+0
+0
+0
+0
+
+Mixed agriculture, 1992
+Paddy, 1992
+Closed forest, 1992
+Open forest, 1992
+Grass, 1992
+
+19757
+19757
+19757
+19757
+19757
+
+0.15
+0.05
+0.34
+0.34
+0.12
+
+0.36
+0.22
+0.47
+0.47
+0.32
+
+0
+0
+0
+0
+0
+
+Slope (0 )
+Elevation (100m)
+Soil suitability for mixed agriculture
+Soil suitability for paddy
+Rainfall amount (100mm), 1992-1999
+Rainfall variance (1 00 mm), 1992-1999
+Rainfall amount (100mm), 1976-1991
+Rainfall variance (lOOmm), 1976-1991
+
+19787
+19787
+19776
+19794
+19780
+19780
+19780
+19780
+
+13.11
+8.07
+6.86
+4.81
+16.57
+29.97
+15.76
+2.84
+
+9.54
+3.64
+1.31
+1.57
+1.61
+6.80
+2.59
+0.56
+
+0
+4.19
+
+Age of village (years), 2000
+Ethnic minority village (Oil)
+Convertible land (0/1 ), 1992
+Population, 1990
+Population, 1980
+Hero village (0/1)
+
+19798
+19798
+19727
+19780
+19780
+19798
+
+29.33
+0.67
+0.08
+5.34
+2.99
+0.26
+
+18.08
+0.47
+0.27
+3.21
+2.26
+0.44
+
+0
+0
+0.001
+0.000
+0
+
+Kilometres to district capital
+Kilometres to all-year road, 1998
+Kilometres to all-year road, 1990
+Travel time to all-year road (h), 1990
+Travel time to all-year road (h), 1980
+Years since primary school, 2000
+Years since reservoir, 2000
+Age of reservoir x irrigated area, 2000
+Age of reservoir x irrigated area, 1990
+Years since introduction of NPK, 2000
+Age of protected area (years), 2000
+
+19798
+19798
+19798
+19798
+18950
+19798
+19798
+19798
+19798
+19798
+19798
+
+19.10
+5.89
+17.78
+0.80
+1.55
+12.26
+9.70
+1.63
+0.59
+3.95
+0.99
+
+10.27
+4.95
+10.98
+1.21
+1.65
+9.86
+8.97
+1.93
+0.83
+3.06
+2.51
+
+0.05
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+Coordinate in X-direction
+Coordinate in Y-direction
+
+19798
+19798
+
+869.12
+507.27
+
+384.61
+231.53
+
+Mean
+
+S.D.
+
+Minimum
+
+9.63
+16.73
+11.58
+1.79
+
+Maximum
+
+44
+23.88
+9
+9
+18.65
+42.05
+20.08
+3.88
+55
+
+3
+3
+
+29.13
+33.66
+43.43
+20.28
+43.31
+6
+5
+55
+20
+10.2
+3.4
+20
+9
+1623
+1039
+
+Source: primary data on village-level collected by authors through village survey and land cover data through interpretation of Landsat
+images; secondary data on geo-physical and agro-ecological variables from the Mekong River Commission (Digital Elevation Model) and
+provided by the Department for Agriculture and Rural Development, Dak Lak (Digital Soil Map and protected areas); rainfall data from
+own interpolation of data from nine meterological stations, classification of soil suitability classes from expert opinion.
+
+Table 5
+Multinomial logit models of land use with closed forest as comparison group
+Model2000
+Mixed agriculture
+Slope e)
+Elevation (lOOm)
+Suitability for paddy
+Suitability for mixed agriculture
+Rainfall amount (100 mm)
+. Rainfall variance (100 mm)
+Convertible land (0/1), 1992
+Age of village (years)
+Ethnic minority village (0/1)
+Population (households)
+Hero village (0/1)
+Kilometres to all-year road
+Kilometres to district capital
+Travel time to all-year road (h)
+Years since primary school
+Years since introduction of NPK
+Years since reservoir
+Age of reservoir * irrigated area
+
+Model1990
+Paddy
+
+Open forest
+
+Grass
+
+-0.166
+
+-0.245
+
+0.006
+
+-0.044
+
+-0.097
+
+(16.08)**
+
+(8.23)**
+
+-1.72
+
+(5.93)**
+
+(15.98)**
+
+Mixed agriculture
+
+Paddy
+
+Open forest
+
+Grass
+
+-0.207
+
+0.012
+
+(7.26)**
+
+(3.50)**
+
+0
+-0.06
+
+-4.229
+
+-9.089
+
+-0.819
+
+-1.389
+
+-1.45
+
+-6.937
+
+-0.759
+
+-1.323
+
+(24.48)**
+
+(14.75)**
+
+(45.39)**
+
+(22.19)**
+
+(37.23)**
+
+(10.11)**
+
+(45.55)**
+
+(43.99)**
+
+-0.303
+
+-0.574
+
+-0.345
+
+-0.239
+
+-14.695
+
+-14.981
+
+-14.461
+
+-14.647
+
+(3.06)**
+
+(5.64)**
+
+(3.47)**
+
+(2.25)*
+
+(37.69)**
+
+(37.74)**
+
+(37.11)**
+
+(37.58)**
+
+0.643
+
+0.638
+
+1.03
+
+0.732
+
+0.731
+
+0.906
+
+1.049
+
+0.871
+
+(6.39)**
+
+(6.04)**
+
+(9.92)**
+
+(6.48)**
+
+(8.74)**
+
+(10.06)**
+
+(12.39)**
+
+(10.17)**
+
+~
+_..,
+
+~
+~
+
+0.845
+
+1.55
+
+-0.099
+
+0.53
+
+1.602
+
+1.67
+
+1.114
+
+1.538
+
+(3.86)**
+
+(4.60)**
+
+-0.81
+
+(2.59)**
+
+(11.40)**
+
+(7.14)**
+
+(9.79)**
+
+(11.45)**
+
+-0.418
+
+-0.154
+
+-0.156
+
+0.265
+
+-0.747
+
+-0.888
+
+-0.222
+
+-0.524
+
+(3.84)**
+
+-1.13
+
+(2.38)*
+
+(2.64)**
+
+(10.12)**
+
+(6.22)**
+
+(3.50)**
+
+(7.24)**
+
+1.045
+-1.5
+
+0.291
+
+-1.124
+
+1.703
+
+-0.45
+
+-1.56
+
+(2.59)**
+
+l=l
+~
+
+"'
+
+..,~
+
+;;:
+
+"""::::
+
+;:!.
+
+0.04
+
+0.045
+
+0.034
+
+0.035
+
+-0.021
+
+-0.025
+
+-0.028
+
+-0.016
+
+(7.96)**
+
+(7.17)**
+
+(9.86)**
+
+(6.96)**
+
+(4.73)**
+
+(4.07)**
+
+(8.03)**
+
+(3.88)**
+
+0.438
+
+0.194
+
+0.752
+
+1.017
+
+1.584
+
+1.555
+
+1.261
+
+1.701
+
+(2.60)**
+
+-0.94
+
+(6.08)**
+
+(5.99)**
+
+(10.77)**
+
+(8.18)**
+
+(10.45)**
+
+(12.09)**
+
+0.018
+
+0.024
+
+0.01
+
+0.008
+
+-0.013
+
+-0.01
+
+-0.013
+
+-0.017
+
+(5.36)**
+
+(5.65)**
+
+(4.13)**
+
+(2.21)*
+
+(4.01)**
+
+(2.59)**
+
+0.521
+
+-1.268
+
+-1.233
+
+-0.736
+
+0.452
+
+-0.841
+
+(2.49)*
+
+(4.60)**
+
+(9.34)**
+
+(3.54)**
+
+(2.71)**
+
+(3.28)**
+
+(4.52)**
+-0.176
+-1.3
+
+(5.54)**
+0.306
+-1.9
+
+-0.502
+
+-0.326
+
+-0.135
+
+-0.177
+
+-0.163
+
+-0.304
+
+0.023
+
+-0.092
+
+(10.53)**
+
+(9.97)**
+
+-1.73
+
+(6.35)**
+
+0.049
+
+0.212
+
+-0.009
+
+0.106
+
+(15.40)**
+
+(5.51)**
+
+(11.96)**
+
+(6.78)**
+
+0.116
+
+0.189
+
+0.079
+
+0.167
+
+(4.12)**
+
+(6.01)**
+
+(3.50)**
+
+(6.01)**
+
+0.242
+
+0.115
+
+-0.034
+
+-0.045
+
+(4.03)**
+
+-1.25
+
+-0.97
+
+-0.68
+
+-1.11
+
+(2.74)**
+
+-0.26
+
+(2.52)*
+
+-0.021
+
+-0.029
+
+-0.001
+
+0.003
+
+0.045
+
+0.101
+
+0.058
+
+0.059
+
+(3.96)**
+
+(3.84)**
+
+-0.35
+
+-0.6
+
+(6.67)**
+
+(9.85)**
+
+(10.08)**
+
+(9.01)**
+
+0.046
+
+0.101
+
+0.034
+
+-0.039
+
+-0.129
+
+-0.086
+
+-0.574
+
+-0.097
+
+-1.93
+
+(3.71)**
+
+-1.88
+
+-1.48
+
+(2.81)**
+
+-1.6
+
+(5.18)**
+
+(2.13)*
+
+0.047
+
+0.034
+
+0.074
+
+0.022
+
+0.072
+
+0.033
+
+0.071
+
+0.126
+
+(3.97)**
+
+(2.07)*
+
+(9.44)**
+
+-1.74
+
+(2.79)**
+
+-0.86
+
+(3.26)**
+
+(5.04)**
+0.027
+-1.85
+
+~
+
+~
+
+~
+
+;:,
+~
+
+;;;
+~-
+
+"'
+'l
+
+w
+<::>
+~
+
+'-
+
+v,
+v,
+
+:t
+~
+
+-0.02
+
+-0.002
+
+-0.019
+
+-0.012
+
+0.05
+
+0.075
+
+0.068
+
+(4.53)**
+
+-0.29
+
+(5.23)**
+
+(2.47)*
+
+(3.45)**
+
+(4.38)**
+
+(5.00)**
+
+w
+
+"""
+
+1.0
+
+....,
+Vl
+
+0
+
+Table 5 (Continued)
+
+~
+
+Age of protected area (years)
+
+Mixed agriculture
+
+Paddy
+
+Open forest
+
+Grass
+
+-0.376
+
+-0.363
+-1.92
+
+0.019
+-0.11
+
+-0.314
+-1.72
+
+(2.11)*
+
+~
+;:,
+
+Model 1990
+
+Model 2000
+
+Mixed agriculture
+
+Paddy
+
+Open forest
+
+Grass
+
+Interaction protection-slope
+
+0.058
+
+-0.119
+
+0.024
+
+-0.127
+
+Interaction protection-soil
+
+-1.11
+0.101
+-0.29
+
+-0.69
+-0.117
+-0.33
+
+(2.19)*
+0.119
+-0.35
+
+(2.60)**
+-0.004
+-0.01
+
+Coordinate in X-direction
+
+0
+
+-0.008
+
+-0.001
+
+-0.015
+
+0.005
+
+-0.05
+
+(2.96)**
+
+-0.97
+
+(7.51)**
+
+-0.005
+
+-0.002
+
+0.002
+
+-0.004
+
+(7.15)**
+
+-1.83
+
+(4.38)**
+
+(7.06)**
+
+Constant
+
+16.877
+
+20.284
+
+7.388
+
+-1.708
+
+125.082
+
+152.119
+
+117.319
+
+120.885
+
+Observations
+
+(4.62)**
+19576
+
+(3.43)**
+19576
+
+(3.34)**
+19576
+
+-0.48
+19576
+
+(39.48)**
+18871
+
+(45.87)**
+18871
+
+(36.15)**
+18871
+
+(37.38)**
+18871
+
+Coordinate in Y-direction
+
+Source: own calculation. Notes: absolute value of z-statistics in parentheses below coefficients.
+* Significant at 5%.
+**Significant at 1% (coefficients with 5% or higher significance level in bold).
+
+.....~
+~
+~
+;:::
+...."'
+
+;::
+
+OQ
+
+::!.
+<>
+$::
+
+~
+
+0.002
+
+0
+
+0.00
+
+(5.88)**
+
+-1.66
+
+-0.1
+
+(3.77)**
+
+0
+
+0.002
+
+-0.003
+
+-0.003
+
+-0.5
+
+-1.38
+
+(7.59)**
+
+(5.95)**
+
+a
+
+?;1
+
+§
+
+~"'
+'.J
+
+~
+
+C>
+
+§
+
+~
+
+.1,.,
+~
+
+351
+
+D. Muller, M. Zeller/ Agricultural Economics 27 (2002) 333-354
+
+production. Moreover, government's expansion and
+improvement of irrigation systems enabled and facilitated agricultural development. Rice yields and production almost tripled in the research area in the last
+decade. Intensification from improved irrigation systems may have greatly reduced the pressure to expand
+cultivated area at the expense of forest.
+
+As we showed, the intensification of agriculturecombined with the (enforced) protection of forested
+areas-can reduce the pressure on forested land, and
+slow down or even halt the expansion of agricultural
+land if coupled with the right policy instruments.
+The analysis shows that investments in the infrastructure can facilitate this much-needed intensification of
+
+Table 6
+Measures of fit for multinomial logit models
+Model 2000
+
+Model 1990
+
+Difference
+
+-25123
+-9825
+19650 (19480)
+30596 (92)
+0.000
+0.605
+0.790
+0.856
+0.809
+
+-26483
+-13552
+25862 (18795)
+26158 (72)
+0.000
+0.485
+0.746
+0.794
+0.711
+
+-1360
+-3727
+-7323 (685)
+-4882 (20)
+0.000
+0.120
+0.044
+0.062
+0.098
+
+Log-Lik intercept only
+Log-Lik full model
+Deviance (d.f.)
+LR Chi 2 (d.f.)
+Prob > LR
+McFadden's Adj R2
+Maximum likelihood R2
+Cragg and Uhler's R2
+Count R2
+Source: own calculation.
+Table 7
+Likelihood-ratio tests for independent variables
+Variable
+
+Model2000
+
+Model1990
+
+Chi2
+
+P > Chi2
+
+Chi2
+
+P > Chi2
+
+404.36
+4570.59
+131.21
+109.03
+39.61
+70.96
+
+0
+0
+0
+0
+0
+0
+
+525.95
+6405.80
+302.51
+182.21
+139.30
+189.63
+
+0
+0
+0
+0
+0
+0
+
+Convertible land (Oil)
+Age of village (years)
+Ethnic minority village (0/1)
+Population (households)
+Hero village (0/1)
+
+58.49
+105.24
+60.60
+40.24
+294.62
+
+0
+0
+0
+0
+0
+
+86.03
+149.78
+35.86
+81.47
+
+0
+0
+0
+0
+
+Kilometres to all-year road
+Kilometres to district capital
+Travel time to road (min)
+Years since primary school
+Years since introduction of NPK
+Years since reservoir
+Increase in irrigated area (ha)
+Age of protected area (years)
+Interaction protection-slope
+Interaction protection-soil
+
+341.46
+61.07
+35.20
+37.27
+38.32
+115.90
+52.18
+71.84
+18.97
+4.27
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0.371
+
+664.52
+
+0
+
+23.28
+173.39
+56.72
+33.55
+88.72
+
+0
+0
+0
+0
+0
+
+Coordinate in X-direction
+Coordinate in Y-direction
+
+126.27
+243.93
+
+0
+0
+
+170.03
+120.76
+
+0
+0
+
+Slope (0 )
+Elevation (lOOm)
+Soil suitability paddy soil
+Soil suitability mixed agriculture
+Rainfall sum (lOOmrn)
+Rainfall variance (100 mrn)
+
+Source: own calculation. Notes: Ho = all coefficients associated with given variable(s) are 0.
+
+352
+
+D. Muller, M. Zeller/Agricultural Economics 27 (2002) 333-354
+
+agriculture without detrimental consequences for forest resources.
+The two districts in our study were purposively
+selected and are not representative of the entire
+province. Our secondary data and satellite images of
+other districts in Dak Lak Province not presented in
+this paper show a less positive picture as forest cover
+continued to decline there during the second decade.
+This is presumably due to less mountainous topography and the widespread existence of the basaltic soil
+in these other districts. For that reason, the plantation
+of coffee and pepper, much of it by state-owned enterprises, expanded rapidly in the 1990s to the detriment
+of forest cover. Therefore, our findings relate to one
+part of Dak Lak province and cannot be generalised
+to all of the Central Highlands. Nonetheless, the
+policy implications of this study call for a renewed
+emphasis on rural and agricultural developmentcombined with effective enforcement of nature conservancy measures-that can address the subsistence
+and income needs through improved technology and
+institutions.
+With respect to implications for further research, we
+conclude that econometric modelling with larger samples no longer causes serious computational problems.
+Remote sensing scanners of resolution as used here are
+available at low costs for the public and continue to increase in quality. Problems for spatially explicit modelling and spatial statistics are found more frequently
+in the combination of data on natural resources with
+socio-economic information at an acceptable scale and
+under reasonable assumptions and simplifications. The
+integration of socio-economic data with continuous
+spatial layers poses several challenges. Our attempt to
+combine land use data with interpolation techniques
+and Thiessen polygons at the village-level addresses
+this issue. It could be a reasonable approach considering the size of our research area. However, this aggregation masks decision-making processes at the farm
+and plot levels. A combination with household level
+data and more GPS data for field boundaries would
+improve the strength of the overall model.
+Our analysis suggests a variety of possible extensions for future research. The dynamics of forest
+cover change could be more deeply examined employing binary outcome models and panel estimation
+procedures. With regard to the assumptions of the
+independence of irrelevant alternatives, a nested logit
+
+approach could yield more consistent estimates, but
+adds complexity to the interpretation. Inferences from
+underlying causalities are still difficult to draw given
+the reduced-form model used in our analysis. Structural models would yield further insights, but would
+also be more data demanding. An additional analysis could explore the potential endogeneity of the
+placement of government programs to improve the
+rural infrastructure (Bigman and Fofack, 2000). It is
+our hope that the analysis presented here may have
+highlighted the usefulness of spatially differentiated
+models of land use change for agricultural and rural
+development policy analysis.
+
+Acknowledgements
+The research was initiated by and is affiliated with
+the Sustainable Management of Resources in the
+Lower Mekong Basin Project (SMRP). The project
+is implemented by the Mekong River Commission
+(MRC) with support from the German Agency for
+Technical Cooperation (GTZ) and the German Ministry of Economic Cooperation and Development
+(BMZ). This research project is supported by the
+Tropical Ecology Support Program of the GTZ. We
+are grateful to Regina Birner, Silke Boger, Gerald Nelson, Thomas Sikor, and one anonymous reviewer for
+helpful comments on previous versions. Further, we
+would like to thank Christoph Feldkotter, Pham Tan
+Ha and Nguyen Thanh Thi Huong for their valuable
+support concerning Geographic Information Systems
+(GIS) and Remote Sensing (RS), as well as in the acquisition of primary and secondary data at the village,
+commune, and district levels. We are also indebted to
+lecturers from the Tay Nguyen University, Buon Ma
+Thuot, who as soil experts provided valuable information for classifying soils. Finally, we would like
+to express our gratitude to Nguyen Hong Quan and
+Nguyen Hai Nam from the Ministry of Agriculture
+and Rural Development; to Pham Muu Binh, director
+of the Department of Agriculture and Rural Development of Dak Lak Province; and to Nguyen Ai Lien,
+Tran Huu Nghi, and Tran Ngoc Thanh, who all provided invaluable support in logistics, data acquisition,
+dissemination and the discussion of research findings
+at the district, province and national levels.
+
+D. Muller, M. Zeller/ Agricultural Economics 27 (2002) 333-354
+
+Appendix A
+See Tables 4-7.
+
+References
+Angelsen, A., Kaimowitz, D., 2001. Agricultural technology and
+forests: a recapitulation. In: Agricultural Technologies and
+Tropical Deforestation. Oxon, pp. 383-402.
+Anselin, L. Spatial Econometrics. http://geog55.gis.uiuc.edu/~luc/
+[accessed Nov. 2001], 1999. Richardson, Texas, Bruton Center,
+School of Social Sciences, University of Texas at Dallas.
+Anselin, L., 2001. Issues in Spatial Probit Models. Department of
+Agricultural and Consumer Economics, University of Illinois,
+Urbana-Champaign.
+Aronoff, S., 1995. Geographic Information Systems: A
+Management Perspective. WDL Publications, Ottawa.
+Besag, J., 1974. Spatial interaction and the statistical analysis of
+lattice systems. J. R. Stat. Soc., Ser. B 36, 192-236.
+Bigman, D., Fofack, H., 2000. Geographical Targeting for Poverty
+Alleviation: Methodology and Applications. World Bank,
+Washington, DC.
+Birner, R., Wittmer, H., 2002. Using social capital to create political
+capital, How do local communities gain political influence?
+A theoretical approach and empirical evidence from thailand.
+In: The Commons in the New Millennium, Challenges and
+Adaptation. MIT Press.
+Boserup, E., 1965. The Conditions of Agricultural Growth. Aldine,
+Chicago.
+Bracken, I., 1994. A Surface Model Approach to the Representation
+of Population-Related Social Indicators. In: Spatial Analysis
+and GIS. Taylor & Francis, London, pp. 247-259.
+Cattaneo, A., 2001. Deforestation in the Brazilian Amazon:
+comparing the impacts of macroeconomic shocks, land tenure,
+and technological change. Land Econ. 77, 219-240.
+Chomitz, K.M., Gray, D., 1996. Roads, lands use, and
+deforestation: a spatial model applied to Belize. World Bank
+Econ. Rev. 10 (3), 487-512.
+Chomitz, K.M., Thomas, T.S., 2001. Geographic Patterns of Land
+Use and Land Intensity in the Brazilian Amazon. Development
+Research Group. http://econ.worldbank.org/ [accessed Nov.
+2001]. The World Bank, Washington, DC.
+Oak Lak Statistical Office, 2001. Statistical Yearbook 2000. Buon
+Ma Thuot, Vietnam.
+Deininger, K., Minten, B., 2001. Determinants of Deforestation
+and the Economics of Protection: An Application to Mexico.
+The World Bank, Washington, DC.
+Entwisle, B., Walsh, S.J., Rindfuss, R.R., Chamratrithirong, A.,
+1998. Land-Use/Land-Cover and Population Dynamics, Nang
+Rong, Thailand. In: People and Pixels: Linking Remote Sensing
+and Social Science. National Research Council, Washington,
+DC, pp. 121-144.
+Fox, J., Kanter, R., Yarnasarn, S., Ekasingh, M., Jones, R., 1994.
+Farmer decision making and spatial variables in Northern
+Thailand. Environ. Manage. 18, 391-399.
+
+353
+
+General Statistical Office, 2001. Statistical Yearbook 2000.
+Statistical Publishing House, Hanoi.
+Greene, W.H., 1997. Econometric Analysis. Prentice-Hall,
+Englewood Cliffs, NJ.
+Kaimowitz, D., Angelsen, A., 2000. Economic Models of Tropical
+Deforestation: A Review. Center for International Forestry
+Research, Bogor, Indonesia.
+Kaimowitz, D., Angelsen, A., 2002. Economic Models of Tropical
+Deforestation: A Review. Unpublished Manuscript, Third Draft.
+Center for International Forestry Research, Bogor, Indonesia.
+McFadden, D., 1973. Conditional Logit Analysis of Qualitative
+Choice Behaviour. In: Frontiers in Econometrics. Academic
+Press, New York.
+Mertens, B., Sunderlin, W.O., Undoye, 0., Lambin, E.F., 2000.
+Impact of macroeconomic change on deforestation in South
+Cameroon: integration of household survey and remotely-sensed
+data. World Develop. 28, 983-999.
+Minot, N., Goletti, F., 2000. Rice Market Liberalization and
+Poverty in Vietnam. International Food Policy Research
+Institute, Washington, DC.
+Munroe, D., Southworth, J., Tucker, C.M., 2001. The Dynamics
+of Land-Cover Change in Western Honduras: Spatial
+Autocorrelation and Temporal Variation. http://www.cipec.
+org/index.html [accessed Jan. 2002].
+Nelson, G.C., Harris, V., Stone, S., 1999. Spatial Econometric
+Analysis and Project Evaluation: Modelling Land Use Change
+in the Darien. http://www.iadb.org/sds/ [accessed May 2001].
+Report for the Interamerican Development Bank. Washington,
+DC.
+Nelson, G.C., Harris, V., Stone, S., DePinto, A., 2001. Land
+Use and Road Improvements: A Spatial Econometric Analysis.
+http://www.ace.uiuc.edu/faculty/gnelson/ [accessed Nov. 2001].
+Agricultural and Consumer Economics Staff Paper AE-4741.
+University of Illinois, Urbana-Champaign, Illinois.
+Nelson, G.C., Hellerstein, D., 1997. Do roads cause deforestation?
+Using satellite images in econometric analysis of land use. Am.
+J. Agric. Econ. 79, 80-88.
+Pender, J.L., Jagger, P., Nkonya, E., Sserunkuuma, D., 2001.
+Development Pathways and Land Management in Uganda:
+Causes and Implications. International Food Policy Research
+Institute, Washington, DC.
+Pender, J.L., Scherr, S.J., Duron, G., 1999. Pathways
+of Development in the Hillsides of Honduras: Causes
+and Implications for Agricultural Production, Poverty and
+Sustainable Resource Use. International Food Policy Research
+Institute, Washington, DC.
+Pfaff, A.S.P., 1997. What Drives Deforestation in the Brazilian
+Amazon? Evidence from Satellite and Socioeconomic Data.
+The World Bank Policy Research Department Environment,
+Infrastructure, and Agriculture Division, Washington, DC.
+Pichon, F.J., 1997. Settler households and land-use patterns in
+the Amazon frontier: farm-level evidence from Ecuador. World
+Develop. 25, 67-91.
+Ruthenberg, H., 1980. Farming Systems in the Tropics, 3 ed.
+Oxford.
+Ruttan, V.W., Hayami, Y., 1984. Towards a theory of induced
+institutional innovation. J. Develop. Stud. 20, 203-223.
+
+354
+
+D. Muller; M. Zeller! Agricultural Economics 27 (2002) 333-354
+
+Scherr, S.J., Bergeron, G., Pender, J.L., Barbier, B., 1996.
+Policies for Sustainable Development in Fragile Lands:
+Methodology Overview. International Food Policy Research
+Institute, Washington, DC.
+Shively, G.E., Martinez, E., 2001. Deforestation, Irrigation,
+Employment and Cautious Optimism in Southern Palawan,
+The Philippines. In: Agricultural Technologies and Tropical
+Deforestation. Oxon, pp. 335-346.
+Tachibana, T., Nguyen, M.T., Otsuka, K., 1998. From Deforestation
+to Reforestation through Tenure Reforms: The Case of the
+Northern Hill Region of Vietnam. Hokkaido University, Tokyo
+Metropolitan University and International Food Policy Research
+Institute, Tokyo.
+
+Templeton, S.R., Scherr, S.J., 1997. Population Pressure and the
+Microeconomy of Land Management in Hills and Mountains
+of Developing Countries. International Food Policy Research
+Institute, Washington, DC.
+van der Veen, A., Otter, H.S., 2001. Land use changes in regional
+economic theory. Environ. Modell. Assess. 6, 145-150.
+Zeller, M., Lapenu, C., Minten, B., Ralison, E., Randrianaivo,
+D., Randrianarisoa, C., 2000. The critical triangle between
+environmental sustainability, economic growth, and poverty
+alleviation. In: Minten, B., Zeller, M. (Eds.), Beyond Market
+Liberalization: Income Generation, Welfare and Environmental
+Sustainability in Madagascar. Ashgate Publishing Company,
+Aldershot, England, pp. 209-236.
+
+

@@ -1,0 +1,1980 @@
+AGRICULTURAL
+ECONOMICS
+
+ELSEVIER
+
+Agricultural Economics 16 (1997) 17-34
+
+The impact of prices and macroeconomic policies on agricultural
+supply: a synthesis of available results
+Nlandu Mamingi
+
+1
+
+Department of Economics, The University of the West Indies, Cave Hill Campus, P.O. Box 64, Bridgetown, Barbados
+
+Accepted 23 October 1996
+
+Abstract
+This paper reviews the literature dealing with the link of agricultural prices and macroeconomic policies to agiicultural supply with
+particular emphasis on Sub-Saharan Africa. Although the study echoes the stylized facts on price elasticities underlined in previous literature
+reviews, the paper points out that our understanding of the quantitative dimensions of agricultural supply response is weak given the
+importance of this assumed response for growth, poverty alleviation, and the environment Indeed, issues such as simultaneity of variables,
+data pooling, omission of variables, and asymmetry in supply responses to price changes have not been adequately addressed in many
+instances. © 1997 Elsevier Science B.V. All rights reserved.
+
+1. Introduction
+
+The objective of this paper is to evaluate our
+knowledge of the link of agricultural prices and
+macroeconomic policies to agricultural supply. In
+other words, the study focuses on how the literature
+deals with the following key question: Are agricultural incentives effective in boosting agricultural
+supply? In that respect, this literature review supplements the previous ones as it highlights questions
+that were left out or insufficiently dealt with. The
+paper concentrates on econometric studies and emphasizes developing countries with special reference
+to Sub-Saharan Africa.
+The overall framework of the study can be laid
+out as follows. Macroeconomic policies (monetary
+policy, fiscal policy, trade and exchange rate policies) affect agricultural prices through their effects
+
+1
+
+Tel.: (246) 425 1310, ext 256; fax: (246) 425 I 014.
+
+on the real exchange rate. Agricultural prices, along
+with non-price factors including exogenous shocks,
+determine agricultural output or supply.
+The issue of agricultural supply response is a very
+important one as it has an impact on growth, poverty,
+and the environment. Not surprisingly this issue is
+central in many structural adjustment programs in
+less developed countries (LDCs). Indeed, the size of
+agricultural supply response is informative about
+whether ''a policy of taxing agriculture through lower
+farm prices or through overvalued exchange rates
+and industrial policies will generate resources for
+investment in other sectors of the economy ... or
+whether 2 such policies will retard agricultural
+growth and create food and input bottlenecks which
+eventually bring down the rate of growth of the
+economy as a whole" (Chhibber, 1989, p. 55).
+Moreover, the agricultural supply response, mainly
+
+2
+
+Underlined and added by us.
+
+0169-5150/97 j$17.00 Copyright© 1997 Elsevier Science B.V. All rights reserved.
+Pll SO 169-5150(96)0 1216-9
+
+18
+
+N. Mamingij Agricultural Economics 16 (1997) 17-34
+
+in the form of area expansion, is also useful since it
+could be informative about the seriousness of environmental problems.
+The remainder of the paper is organized as follows. Section 2 deals with issues in the theory and
+specification of agricultural supply models. Section 3
+reviews some empirical studies. Section 4 contains
+concluding remarks and recommendations.
+
+2.1.1. Microspecification
+The most influential model to capture crop supply
+is the Neriove model. Basically, the Nerlovian model
+is a dynamic model that states that output (quantity
+or area) is a function of expected price, output (area)
+adjustment, and some exogenous variables. Thus, a
+typical Nerlovian model can be written as follows
+(see, for example, Askari and Cummings, 1977, pp.
+257-258):
+
+2. Issues in the theory and specification of agricultural supply models
+
+A?= c + al pte+ a2Zt + ut
+
+Agricultural supply response represents the agricultural output response to change in agricultural
+prices or, more generally, to agricultural incentives.
+Agricultural supply response can be analyzed from
+the point of view of aggregate output or supply,
+subsectoral output (i.e. crop output and livestock
+output) and individual crop (i.e. cotton and tea). The
+level of aggregation depends on the objective of the
+study as well as the availability of data. Moreover,
+agricultural output or supply 3 can be captured in
+any of the following: (a) acreage or area under
+cultivation; (b) yield or product per acreage unit; and
+(c) product of acreage and yield.
+This section focuses on some issues in the theory
+and specification of agricultural supply models that
+are not sufficiently highlighted in the literature. The
+emphasis is, however, more on model specification
+than on theory. The first issue concerns impact of
+prices and exchange rates on agricultural supply. The
+second issue deals with other determinants of agricultural supply. The third issue is related to the
+problem of simultaneity of variables. The fourth
+issue concerns the asymmetric (or irreversible) nature of supply responses to price changes, and the
+fifth deals with 'to pool or not to pool' question.
+2.1. On the effect of prices and exchange rates
+
+Prices and exchanges rates are very important in
+dictating the pace of agricultural growth at the micro
+level as well as at the macro level.
+
+3 Agricultural supply and agricultural output are most often
+interchangeable here.
+
+pte= pte-!+
+A 1 =A 1 _
+
+1
+
+/3( pt-1- pte-!)
+
++y(A?-A 1_
+
+(I)
+
+1)
+
+where A 1 = actual area under cultivation at time t;
+A?= area desired to be under cultivation at time t;
+P 1 = actual real producer price at time t; P 1e =
+expected real producer price at time t; Z1 = other
+exogenous factors affecting supply at time t; and {3,
+y = expectation and adjustment coefficients, respectively.
+Several questions can be raised at this stage. One
+of them is how to measure real output price. The
+issue here is the choice of the relevant deflator.
+Askari and Cummings (1977) elaborate very well on
+that. The real output price can be either one of these
+or none: ''(a) the price of the crop actually received
+by farmers; (b) the ratio of the price of the crop
+received by farmers to some consumer price index;
+(c) the ratio of the price of the crop received by
+farmers to some price index of the farmers' inputs;
+(d) the ratio of the price of the crop received by
+farmers to some index of the price of competitive
+crops (or the price of the most competitive crop)"
+(Askari and Cummings, 1977, p. 258).
+With suitable definition of price, the above equations lead to the following:
+Qt =Co+ ct Qt_ 1 + c2( PctfPctt) + c3Zt + ut
+
+(2)
+
+where t = 1, 2, ... , n, is the time index, Q is
+agricultural output in general (area or yield per
+acreage or total yield), Pc is the price of the crop, Pd
+is the price of the deflator and other variables are
+defined as above. A point not sufficiently underlined
+in the literature is that by estimating Eq. (2), one
+imposes a restriction on the coefficients of nominal
+output price and the deflator price (they should be
+equal to c2 in absolute value). This is rather the
+
+N. Mamingi /Agricultural Economics 16 ( 1997) 17-34
+
+exception than the rule. In fact, Eq. (2) can be
+estimated in an unrestricted form with nominal output price and potential deflators underlined above:
+Qt =Co+ cl Qt-l + Cz Pet+ Czl Pit+ Czz Pat
+
+(2')
+where P; is the input price, Pa represents the price
+of alternative crops, Pco stands for the price of
+consumer goods usually captured by the consumer
+price index (CPI), Pu is the price of urban labor or
+wages, and other variables are defined as above. The
+suitable deflator (if any) can be revealed by testing
+the unrestricted form Eq. (2') against various restricted forms of type Eq. (2). Note that even if one
+knows today's actual price, the latter may become
+irrelevant in the future.
+The question concerning formation of price expectation is also an important one. In general, many
+authors use some distributed lags to capture price
+expectation. The lag structure, however, may vary
+from one type of crop to another. In general, one
+would expect perennial crops to have longer lags
+than annual crops. This lag structure differential is
+clearly an issue when one tries to explain aggregate
+output. Note also that price expectation itself can
+change due to an external shock. Finally, it is hard to
+sort out whether adjustment or expectation is taking
+place if the expectation coefficient and the adjustment coefficient are both equal to one (see Mundlak,
+1985).
+The model is a little bit vague about the components of Z. Theoretically Z includes variables describing marketing, credit, mechanization, land reform, research, irrigation, weather, and soil quality.
+Nevertheless, in the Nerlove model, weather measurement (i.e. rainfall) and time trend (capturing
+structural change or advance in technology) seem to
+be the favorite candidates. Note that contrary to
+many Nerlovian models, weather as rainfall should
+not necessarily enter the model in a linear fashion as
+too much rain can be a nuisance. Moreover timing of
+rain matters too. The inclusion of time trend instead
+of specific variables is generally justified on the
+ground of lack of availability of data or multicollinearity among variables. Time trend as variable
+capturing the effect of omitted variables should be a
+variable of last resort as we are really interested in
+tracing the impact of each specific variable.
+
+19
+
+Although the presence of Jagged output in the
+basic equation usually gives rise to a very high R 2
+and possibly reduces or eliminates autocorrelation,
+this variable competes with capital stock if included.
+Specially, the presence of capital stock makes the
+output lagged one period loose its explanatory power
+(Mundlak, 1985). The question of including capital
+stock and excluding lagged output is an important
+one. On the one hand, the inclusion of capital stock
+can help justify the inclusion of other variables. On
+the other hand, the exclusion of lagged output is
+inconsistent with the Nerlove model, which is based
+on price expectation and output adjustment.
+The role of exchange rate is not explained at all at
+this level of aggregation. In fact, exchange rate
+affects crop supply generally through its effect on
+price incentives.
+To sum up, at the micro level area (acreage) or
+output (total yield) for a given crop can be determined as follows:
+
+(3)
+where variables are defined as above.
+The sign in Eq. (3) indicates the nature of the
+impact of the variable in matter in crop production.
+An increase in the price of the crop is an incentive to
+produce more. An increase in the iriput price increases the cost of production hence becomes a
+disincentive to produce more. An increase of the
+price of the most alternative crop is a disincentive to
+produce more of the main crop. An increase in the
+price of consumer goods as well as wages negatively
+affects crop production. The impact of other factors
+on the crop production is to be analyzed on a case by
+case basis.
+2.1.2. Using macro and policy variables
+Agricultural price incentives are influenced by
+macroeconomic policies (trade policies, exchange
+rate policies, policies towards capital movements,
+and fiscal policies). The policies affect the farmer's
+real income, and terms of trade between rural and
+urban as well as the terms of trade between tradeables and non-tradeables (Jaeger and Humphreys,
+1988).
+Central to these policies is the real exchange rate
+(RER), that is, the ratio of prices of tradeable to
+
+20
+
+N. Mamingi /Agricultural Economics 16 ( 1997) 17-34
+
+non-tradeable goods (or vice versa). Indeed, macroeconomic policies generally result in the RER effect,
+which ultimately affect output price and hence agricultural supply. The behavior of the real exchange
+rate is, in many LDCs, rather harmful to agricultural
+incentives as exchange rates are overvalued. Indeed,
+overvalued exchange rates make local products, including agricultural products, less competitive with
+imports and Jess profitable as exports. (Abt associates, Inc., 1989).
+Exchange rate policies refer to policies aiming at
+altering the nominal exchange rate in view of modifying the real exchange rate. In many LDCs, this
+modification usually takes the form of a devaluation
+which, in fact, is consistent "with smaller, greater,
+or equivalent real devaluations, depending on the
+adjustment in the price of non-tradeable or home
+goods that result from the nominal devaluation"
+(Valdes and Pinckney, 1989, p. 44). Successful devaluations bring about an increase in producer incentive as they increase the price of tradeable relative to
+non-tradeable goods.
+An unsustainable budget deficit (as a result of
+expansionary fiscal policy) can affect agricultural
+production through its effect on exchange rate. Indeed, an unsustainable budget deficit puts pressure
+on money supply which in turns affects the price
+level. If the domestic price inflation exceeds the
+trading partner's price inflation, then an appreciation
+of exchange rate results (Cleaver, 1985). 4 The latter
+appreciation generally results in a decrease of producer incentive as the price of tradeable goods decreases with respect to non-tradeable goods. Note
+that an expansionary fiscal policy is also more likely
+to affect investment; that is, it is more likely to lead
+to investment cuts in some sectors. Given the ruralurban bias that exists in most developing countries,
+investment is usually cut in the agricultural sector.
+Capital movements can substantially influence the
+RER. A policy of heavy over-seas borrowing can
+lower the RER as happened in Argentina and Chile
+in the 1970s and early 1980s. Conversely, a policy of
+large overseas investment can raise the RER .... The
+
+4 For a more elaborated relationship between government
+spending and the RER, see Valdes and Pinckney ( 1989).
+
+connection between capital flows and the RER can
+be sketched as follows: for any given level of international reserves, equilibrium in the balance of payments requires a higher balance in the capital account which thereby lowers the current account. In
+other words, a larger net inflow of capital will induce
+a lower RER, reducing the surplus in the current
+account. (Valdes and Pinckney, 1989, p. 47.)
+Once more, the question of interest is how to
+measure real output price. Generally, here it is the
+ratio of nominal output price to consumer price
+index.
+Another important issue is how to capture real
+exchange rate. Recall, it is the price ratio of tradeable to non-tradeable goods; that is, RER = PT/Pn
+where PT is the price of tradeable goods and Pn is
+the price of non-tradeable goods. The literature underlines that there are serious difficulties in making
+operational this definition, as adequate data on the
+two prices are hard to find. Instead, the following
+proxy is used: RER = e · WPijCPI where CPI is the
+domestic consumer price index, WPI is the US (or
+foreign) wholesale price index, and e is the official
+nominal exchange rate measured as the number of
+local currency per unit of US dollar (or foreign
+currency). An increase of the RER is a depreciation
+and the converse is an appreciation. In fact, what is
+at stake here is the real exchange misalignment
+which is the difference between actual real exchange
+rate and equilibrium real exchange rate, equilibrium
+real exchange rate (ERER) being defined as the real
+exchange rate that prevails in the long run when
+there is no distortion. Misalignment due to overvaluation represents an incentive distortion since by raising the price of non-tradeable goods with respect to
+that of tradeable goods, it brings about misallocation
+of productive resources.
+Note that since CPI on which the RER is generally based is not comparable across countries for
+reasons enumerated below, the RER is really a country index. This aspect has been often overlooked in
+the literature.
+The linkage between macroeconomic policies and
+real producer prices can be expressed in terms of
+direct and indirect effects (see the seminal study by
+Krueger et al., 1988). The direct effect is captured by
+the proportional difference between the producer
+
+N. Mamingi j Agricultural Economics 16 ( 1997) 17-34
+
+price (farmgate price) and the border price (adjusting
+for distribution, storage, transport, and other marketing cost). A negative difference means a tax on
+exportable goods or on producers and a positive one
+represents a subsidy on imports (Krueger et al.,
+1988). Taxes represent distortions that are harmful to
+the agricultural sector. It has been argued that in
+many developing countries, especially Sub-Saharan
+Africa, these distortions (taxes, mainly) have been
+deliberately set up by governments through price
+fixation or control.
+The above direct effect is the same concept as the
+nominal protection coefficient (NPC) which is the
+ratio of the farmgate price to the border price after
+adjusting for all the relevant costs underlined above.
+Clearly, the NPC compares the farmgate price to the
+maximum that could be offered to producers (border
+price less than the costs advocated above). A ratio of
+less than one indicates that agriculture is being taxed.
+The NPC has been criticized on the ground that as a
+measure of incentive distortion it ignores the exchange rate impact on policy distortion, and it also
+ignores the effect of exchange rate misalignment or
+implicit taxation. That is, the NPC will understate
+the degree of agricultural taxation when exchange
+rates are overvalued at the same time it will be
+unable to provide an unambiguous answer as to the
+relative importance of one source to the net effects
+change over time in the sources of variation-farmgate price, international price, and exchange rate
+(Jaeger, 1992). The real protection coefficient (RPC)
+is used to meet the above criticisms. It is an NPC
+calculated at the equilibrium exchange rate.
+The indirect effect has two components. The first is
+the impact of the unsustainable portion of the current
+deficit and industrial protection policies on the real
+exchange rate and thus on the price of agricultural
+commodities relative to nonagricultural nontradeables. The second is the impact of industrial protection policies on the relative price of agricultural
+commodities relative to that of nonagricultural tradeable goods. (Krueger et al., 1988, p. 255.)
+Another approach showing the linkage between
+macroeconomic policies (represented by real exchange rate) and real output price is that of the
+World Bank. Following the World Bank (1994, p.
+
+21
+
+271), the real producer price is decomposed as follows:
+RPP = PpjCPI = PpfP 8 e eWPijCPI P 8 /WPI
+= NPCRER p 8
+
+( 4)
+
+where RPP is the real producer price for export
+crops, PF is the farmgate producer price, P 8 is the
+border price in dollars, e is the nominal exchange
+rate defined as above, NPC is the nominal protection
+coefficient, RER is the real exchange rate, and p 8 is
+the real price of country's exports (at the border).
+Eq. ( 4) reveals that it is really hazardous to
+include both RER and RPP in the same equation as
+the real producer price already contains information
+on the RER. 5
+Note that Eq. (4) can be redefined in terms of
+equilibrium exchange rate as follows:
+RPP = PpfCPI= PpjP 8 e ejE EWPijCPI P 8
+jWPI=RPCERER p 8
+
+(4')
+
+where E is the equilibrium exchange rate, RPC is
+the real protection coefficient, and ERER is the
+equilibrium real exchange rate. Recall that neither E
+nor ERER is observable.
+In the pursuit of profits, farmers have to bear the
+cost of inputs. Nominal output price incentive is
+annihilated if input costs are high. Hence, input
+prices are a very important element of agricultural
+production. The prices of the following inputs are
+particularly relevant: fertilizers, pesticides, improved
+and high yield varieties of seeds, tractors, and cars.
+Moreover, urban wages and the price of consumer
+goods have a serious impact on agricultural output
+prices. An increase in input prices increases input
+costs and decreases the incentive to produce more,
+ceteris paribus. This is generally the case for external
+inputs, such as fertilizers, pesticides, improved and
+high yield varieties of seed and machinery which, as
+imported goods, at least in many LDCs, see their
+prices raised by policies that protect industry. On the
+other hand, in many countries there is a fair amount
+of subsidization of these inputs as in the case of an
+overvaluation of currency which artificially reduces
+
+5 If one decides to use both variables, then one variable must be
+cleaned up for the effect of the other.
+
+22
+
+N. Mamingi /Agricultural Economics 16 (1997) 17-34
+
+the cost of imported inputs. This brings about an
+overuse of these inputs which most likely leads to
+inefficiency over time and may well create environmental problems. Apart from that, some of the inputs
+may have a negative effect in the long run even
+when they become available to rural dwellers at low
+cost. For example, some pesticides can bring about
+health problems which impinge on future productivity or might result in death. The prices of consumer
+goods are important to the extent that they enter the
+consumer price index. As the relevant output price
+incentive is the real output price (generally, nominal
+price over some consumer price index), an increase
+in the price of consumer goods brings about a decrease in real output price which in tum constitutes a
+disincentive to produce more. The same story can be
+told about wages. In fact, in many LDCs governments fix the nominal output price to make sure that
+goods are affordable at a reasonable price in urban
+areas and wages offered to urban dwellers have an
+adequate purchasing power.
+In short, agricultural output price can boost production by increasing the returns of inputs. Agricultural output price is affected by market forces and/ or
+by government intervention through trade policy (export tax or subsidies), exchange rate policy, taxes
+and subsidies and direct government intervention
+(i.e. price controls). That is, real output price is
+subject to two types of distortions: direct taxation
+represented by trade tariffs and government fixation
+of prices, and indirect taxation captured by currency
+overvaluation as well as protection of non-agricultural sectors.
+2.2. On the impact of other determinants
+Apart from pure agricultural incentives captured
+by prices, there are other factors that affect supply
+response whose omission generally brings about
+omitted variable bias. One set of such factors is
+public inputs: irrigation and some type of human and
+physical capital-i.e. adult literacy, life expectancy,
+research, extension, road density, and roads paved
+(see Binswanger et a!., 1987). Irrigation water is
+expected to affect positively agricultural output
+through its effect on productivity. Adult literacy, by
+helping individuals to assimilate or to adopt technical advance faster, is positively related to agricultural
+
+output. An increase in life expectancy represents a
+measurement of health which affects output through
+productivity.
+Population density has an impact on agricultural
+production. It is expected to be positively linked to
+agricultural output through land use intensification
+(Boserup hypothesis) or increase in cropping frequency (Krautkraemer, 1994). 6 In fact, household
+composition in terms of active people may well alter
+the positive impact of population density on agricultural production.
+Income level has a positive impact on agricultural
+output to the extent that the higher the farmer's
+income the higher the level of production, ceteris
+paribus. This is mainly explained by the fact that
+with a higher income the farmer can easily acquire
+the much needed inputs that can help boost productivity.
+Technology or spending on research is perhaps
+the key variable if one has to raise substantially
+output in the regions such as Sub-Saharan Africa.
+Indeed, an increase in research in the sense of technology advance can help reach the twin goals of
+agricultural output growth and environmental conservation through land use intensification. A caution,
+however, is in Qrder since some of the advances can
+lead to overuse of inputs such as fertilizers which, in
+the long run, may reduce agricultural productivity.
+Rural infrastructure is very important in the agricultural production setting to the extent that a deficient infrastructure can wipe out all other production
+incentives. Indeed, "adjusting prices may not be all
+that is needed to increase the output and incomes of
+target groups. More often than not, the poor in
+developing countries are located in areas with little
+access to roads, transports, communication, agriculture services, marketing facilities, and so on. Improving prices may be a necessary condition for restoring
+incomes, but not a sufficient one. If farmers cannot
+get the supplies and services they need, infrastructure
+investments may be required to give these farmers
+the capacity to increase output and yields" (Demery
+
+6 Krautkraemer (1994, p. 401) uses "a renewable resource
+model of soil fertility with a convexity with the net benefit
+function" to show that "as population grows and the demand for
+food increases, more frequent cropping becomes economical."
+
+N. Mamingij Agricultural Economics 16 (1997) 17-34
+
+and Addison, 1987, p. 13). Nevertheless, better infrastructure can also be a double edged sword to the
+extent that it can lead to deforestation which in turns
+affects soil quality and productivity over time. Better
+extension and irrigation services are also positively
+linked to agricultural output.
+Exogenous shocks such as weather, civil strifes,
+or wars are also important in explaining aggregate
+output. Good weather has a positive impact on agricultural supply. Weather, in fact, constitutes one of
+the most important 'risk' factors that farmers must
+take into account in the crop selection. It means that,
+under some circumstances, the farmer will choose
+not the crop with the highest return, but the crop
+which is the most drought-resistant (Bond, 1983).
+There is a role for irrigation here as the latter can
+temper the negative effect of rain shortfall, for example. Wars and civil strifes do not create an ideal
+environment to boost agricultural output. The experience of quite a number of African countries (e.g.
+Somalia and Mozambique), where famine was sustained by wars and/ or civil strifes, is striking. Last
+but not least, land characteristics or soil quality is
+positively related to agricultural production or supply.
+To sum up, many factors determine the path of
+agricultural supply. The non-inclusion of important
+determining factors brings about estimate biases.
+
+2.3. Simultaneity issue
+
+The examination of the literature reveals that few
+authors have dealt with the issue of simultaneity. To
+recall, most of the studies on supply response use a
+specification of the following type:
+
+(5)
+where Q1 is the agricultural supply, t is the time
+period, P1 is some price measurement, j is a variable
+index, Xj 1 represents other explanatory variables, a
+is a constant term, and u 1 is the usual error term.
+Eq. (5) implies that there is a unidirectional
+causality from right-hand side variables to agricultural supply; that is, price and other explanatory
+variables are uncorrelated with the error term, ur In
+reality, it may well be the case that price and supply
+
+23
+
+are simultaneously determined in which case estimates in Eq. (5) suffer from demandjsupply simultaneity bias. Nevertheless, simultaneity in the sense
+of simultaneous determination of price and quantity
+is not a problem if demand is completely inelastic.
+This situation is very unlikely. In any case, it is
+advisable to examine prices on individual basis as in
+Lopez et al. (1991). Here are some hints. The price
+of agricultural exportables (export crops) in a given
+country is most likely exogenous as it depends on
+the world price and production and the latter do not
+depend on the country's production. Nevertheless,
+the price of a given export crop is probably endogenous if the country's share of the world production is
+substantial. The price of agricultural exportables is
+most likely exogenous if it is fixed by the government. The price of agricultural importables is exogenous. The price of agricultural non-tradeables (i.e.
+staple foods) is endogenous as it depends by and
+large on domestic supply 1 demand conditions prevailing in the market. Wage, the price of labor, is
+endogenous as it depends on the minimum wage
+structure, the price of agricultural non-tradeables, the
+price of agricultural exportables, education, and technical change.
+It has been argued that endogeneity is not a
+problem if Eq. (5) is part of a recursive system
+(current production depends on lagged price and
+other exogenous variables and this quantity, once
+produced, is a major factor determining current price;
+Tomek and Robinson, 1972, p. 323). This is particularly plausible for some types of commodities such
+as annual crops and some types of livestock.
+In fact, there is not only price endogeneity at
+stake here, but also the endogeneity of other explanatory variables. Indeed, with the exceptions of pure
+exogenous shocks, the other explanatory variables
+are by and large endogenous. For example, soil
+quality depends on past soil quality, the techniques
+of cultivation, and external inputs such as fertilizers
+(see Salehi-Isfahani, 1993). Road variable depends
+on population density and economic conditions of
+the location.
+Failure to deal properly with the simultaneity
+problem gives rise to inconsistent estimates. Hence,
+the recourse to some exogeneity tests (i.e. Hausman
+exogeneity test) should become the rule rather than
+the exception to decide on the simultaneity issue.
+
+24
+
+N. Mammgz / Agncultural Economzo 16 ( 1997) 17-34
+
+2.4. Asymmetric agricultural supply responses to
+price changes
+Agricultural supply is defined as the response of
+agricultural output to changes in prices, all other
+factors held constant. The implicit idea is that a price
+increase and a price decrease lead to the same output
+change (in absolute value). The agricultural supply in
+this sense is said to be symmetric or reversible, as a
+price decrease will bring the supply at its original
+level. In reality, the fact that 'fixed assets' or precisely, 'sticky assets' such as land, trees, buildings,
+or equipment that were acquired when prices were
+high, are not thrown away when the prices are low,
+at least in the short run, implies that price increase
+and price decrease do not give rise to a similar
+change in output (Johnson, 1958). This is particularly true for perennial crops; the output change
+resulting from price decrease is less than that from
+price increase. The supply response is then said to be
+irreversible or asymmetric. Technological innovation
+can also explain this phenomenon (see Cochrane,
+1955; Jaforullah, 1993).
+The irreversibility concept, although theoretically
+sound, has not been widely applied as the quantification of price increases and price decreases is not
+straightforward. Tweeten and Quance (1969, 1971),
+Wolffram (1971), Trail et a!. (1978), and Burton
+( 1988) attempt to capture such price segmentation
+(see Hallam, 1990; Mamingi, 1996). The neglect of
+the latter can lead to misspecification bias.
+2.5. Pooling issues
+Data pooling brings about at least two sets of
+problems that are not always understood or well
+dealt with in the literature. The first problem concerns modeling and/ or method of estimation. The
+second problem is data comparability.
+
+2.5.1. Modeling
+Following the literature, most of the authors model
+supply response in a single equation (or multiple
+equations) as follows:
+Q 11 =a,+P11 {3+X,J,yJ+u 11
+
+(6)
+
+where i = l, 2, ... , n stands for country (or region),
+= 1, 2, ... , T is the time period index, j = 1, 2, ... ,
+g is a variable index, Q is some output measuret
+
+ment, P is some price variable, X is a set of other
+explanatory variables, a, are country specific variables, and u 11 is the usual error term.
+Eq. (6) states that the slope (i.e. marginal effect or
+elasticity) is the same across countries. The model
+becomes a pure cross section model if t = 1 or
+average values of variables over the period are used.
+Note that when necessary, time specific variables can
+be added to Eq. (6).
+The following two issues are important when
+estimating Eq. (6). The first basic question is whether
+the pooling of several countries or regions holds. For
+example, does it make sense to pool land-scarce
+countries with land-abundant countries, developed
+countries (DCs) with less developed countries
+(LDCs), high yield countries with low yield countries? In simple terms, the question is whether the
+countries face the same binding constraints. The
+'pooling' test 7 and some prior information are very
+useful to have an insight into the problem.
+If pooling is not accepted then the equality of
+slopes across countries does not hold. Put another
+way, the common slope as the mean estimate of
+individual slopes is no longer a good statistic as it is
+affected by outliers. 8
+In our view, either one tests formally for pooling
+or if possible, one starts with a random coefficient
+model. The latter can be presented as follows:
+Q,r =a,+ ptt {3,
+
++ X,Jt'Y,J + u,r
+
+(7)
+
+This model exploits cross-country properties and
+time series properties.
+Bias resulting from improper pooling can blur our
+understanding of how key agricultural factors affect
+agricultural supply.
+2.5.2. Comparability of variables across countries
+The second set of issues is how to capture variables for international comparisons. Aggregate output and prices are the most troublesome variables for
+international comparison.
+
+7 It is curious that all the works reviewed below did not
+formally test for 'to pool or not to pool.'
+8 Note that the presence of country dummies in the withm
+regressions (OLS with country specific variables) IS not necessarIly an avenue for explainmg varying slope estimates. The real
+Issue IS whether some panel members (countnes, regions, etc.)
+behave hke outliers.
+
+N. Mwningi j Agricultural Economics /6 ( /997) 17-34
+
+Concerning output, Rao and Sharma (1991) point
+out two approaches: (a) the aggregate output repricing method; and (b) the purchasing power parity
+(PPP) or implicit exchange rate method.
+The aggregate output repricing method "suggests
+revaluation of the quantity vectors of different countries using a single set of prices for different commodities. These prices may be expressed either in a
+numeraire currency, in which case the value of output is expressed in that currency, or in the form of
+relative prices, such as wheat-relatives, in which case
+the total output in each country is expressed in terms
+of the numeraire commodity'' (Rao and Sharma,
+1991, p. 199).
+The crucial problem of the determination of international prices in the aggregate output repricing
+method has been adequately dealt with by Summers
+and Heston (1988). To answer the criticism according to which wheat is not all that important in a
+number of countries, some authors use the Fisher
+multilateral quantity and price index to make output
+comparable across countries.
+The purchasing power parity (PPP) approach uses
+the exchange rate as the conversion factor; that is,
+the output value in country j is the value of output in
+the country expressed in the country's currency times
+the exchange rate of the country. Naturally, the
+conversion factor must be selected appropriately and
+should depend on the prices and quantities of the
+agricultural commodities (Rao and Sharma, 1991).
+Failure to take this into account introduces serious
+biases in the measurement. Recent advances by Summers and Heston ( 1988) solve some aspects of this
+problem by using the purchasing power parity of
+currency. 9
+Prices and exchange rates are not always easily
+comparable across countries. To recall, real output
+price is the ratio of nominal output price to other
+prices. At the micro level, we argued that there are
+several candidates as deflator, all depending on the
+farmer's behavior. At the aggregate level, the usual
+candidate is the consumer price index (CPI).
+
+9 ·'Purchasing Power Currency (PPC) is understood as the
+number of units required to purchase the same amount of goods
+and services as say, one US dollar would buy in the United
+States." (World Bank, 1993, p. 2).
+
+25
+
+There are two sets of problems here. First, CPI,
+on which RER and real producer price are based, is
+not strictly comparable across countries as it is generally based on different baskets, different weights
+and different base periods. Second, misalignment is
+not taken into account in the nominal exchange that
+helps convert foreign currency into local currency
+(or vice versa). As the empirical studies reveal, few
+authors pay attention to this problem.
+Similarly to the case of cross-border output comparison, some authors use a wheat equivalent measurement to solve the above twin problems. This
+approach has not always been successful (see, for
+example, the Binswanger et al., 1985, comments on
+the Peterson, I 979, paper). On the contrary, the use
+of multilateral Fisher index combined with that of
+the implicit purchasing power parity exchange rate a
+Ia Summers-Heston, represent a valuable approach
+in this context (see Binswanger et al., 1985, 1987).
+
+3. Review of empirical studies
+This section is a review of empirical studies. It
+focuses on short-run and long-run price elasticities. It
+is somehow a supplement to previous literature reviews (Askari and Cummings, I 977; Bond, 1983;
+Chhibber, I 989; Rao, 1989; Ogbu and Gwetibouo,
+1990). 10 To evaluate different studies, we check
+whether they adequately deal with the issues raised
+above. The first part of the section deals with quantity studies; that is, those whose output is expressed
+in total yield or yield per acreage unit. The second
+part is concerned with studies using acreage as output.
+3.1. Review of quantity studies
+Table 1 reports the results of the inquiry for
+aggregate, subsectoral, and individual crop outputs.
+The following trend emerges from the table. First,
+the short-run price elasticities are small for aggregate
+(and subsectoral) output. Second, although small, the
+
+10 Most remarks made here also concern studies found in these
+literature reviews.
+
+26
+
+N. Mamingi /Agricultural Economics 16 ( 1997) 17-34
+
+individual crop elasticities are larger than those of
+aggregate output. Third, where they are derived,
+long-run elasticities are larger than short-run elasticities. Fourth, price elasticities are, by and large, positive.
+Although not reported in the table, most other
+determining factors included in the models are found
+to be very important. To corroborate, the elasticities
+are 0.293 and 0.122 for precipitation and research
+ha- 1 , respectively, in Peterson ( 1979). The elasticities are 2.31 and 0.93 for land quality and average
+rainfall, respectively, in Van Schalkwyk and Groenewald ( 1993). The impacts are - 1.2 to - 1.5, 0.11
+to 0.15, and 0.74 to 1.0 for the degree of public
+involvement in input supply, the percent of government current expenditure, and population growth,
+respectively, in Cleaver ( 1985). 11 The elasticities
+are 0.1, 0.08, 0.057, 0.1, for road density, extension,
+GDP, and rural population density, respectively, and
+other quantitative effects are 1.298, 0.496, 1.325,
+0.631 for irrigation, roads paved, life expectancy,
+and adult literacy, respectively, for crop output in
+Binswanger et al. ( 1987). Rice cultivation responds
+positively to rainfall (0.77) and to high-yielding varieties (0.31) in Bapna et al. ( 1984). Drought negatively affects cereals (- 0.32), cassava (- 0.14),
+maize (- 0.23), and sorghum (- 0.30); primary education has a positive impact on rice (1.23), and
+cultivated area per capita is negatively linked to rice
+(- 1.1) and maize (- 0.85) in Cleaver and Schreiber
+(1994). 12 Production variable (0.729), the deviation
+of actual production from trend (0.489), and misalignment following Edwards' approach (- 0.451)
+are, aside from price, important in explaining wheat
+supply in Argentina (Pick and Vollrath, 1994). In the
+models using the Nerlove methodology, the lagged
+dependent variable is always significant where included and so are time trend and weather.
+Despite the existence of some stylized facts (price
+elasticities) underlined above (facts also uncovered
+in many previous literature reviews) there are a
+
+number of issues ignored or insufficiently dealt with
+that can substantially alter the stylized facts.
+With the exceptions of Cleaver ( 1985) and Cleaver
+and Schreiber ( 1994), all studies include some type
+of output price (nominal or real) in their basic regressions. Cleaver as well as Cleaver and Schreiber
+use the nominal protection coefficient instead.
+Cleaver explains agricultural growth by nominal protection coefficient (or rate of currency depreciation),
+the public involvement in input supply, the public
+consumption to GDP in 1970-1981 and the average
+annual rate of population growth. If one agrees with
+Eq. (4) or Eq. (4'), then nominal protection coefficient does not fully capture real producer price. The
+same remark holds for Cleaver and Schreiber, who
+explain change in crop yields of some food crops in
+Sub-Saharan Africa by nominal protection, drought,
+primary education, the sum of area under temporary
+crops arable land per capita of rural population and
+area under permanent crops per capita of rural population.
+Concerning exchange rates, with the exceptions of
+Cleaver (1985) in one of his models, Jaeger (1992),
+and Pick and Vollrath ( 1994), all authors do not
+include exchange rates in their set of explanatory
+variables. This is mainly explained by Eq. (4) or Eq.
+( 4') which basically states that the real producer
+price already contains information on the real exchange rate. Thus, Jaeger (1992) who uses simultaneously real effective exchange rates and real producer prices along with disaster variable and weather
+to explain agricultural exports at the aggregate as
+well as the individual crop level, is rather suspicious.
+This may well explain why he obtains from time to
+time a wrong sign for the impact of exchange rate
+(i.e. an appreciation of real effective exchange rate
+of 100% gives rise to a 33% increase in the agricultural exports of annual crop exporter countries) or an
+insignificant real producer price (this is the case for
+tree crop exporter countries). 13 In his framework,
+the simultaneous inclusion of the two variables can
+
+11 Cleaver ( 1985) has two models: one with nominal protection
+coefficient and another with real currency depreciation. The other
+variables are the same in both models.
+12 Note that the coefficients are not elasticities here.
+
+13 If the real effective exchange rate is excluded, the impact of
+the real producer price shows up; it is 11.5% instead of 1.7% and
+is significant.
+
+N. MaminKi / AKricultural Economics 16 I 1997) 17-34
+
+be justifiable if one variable is cleaned up for the
+effect of the other. The Pick and Vollrath ( 1994)
+study seems fine since it captures real exchange rate
+by misalignment and real output price by nominal
+export price. The use of real currency depreciation in
+Cleaver ( 1985) would be fine if combined with other
+missing variables in Eq. ( 4' ).
+Binswanger et al. (1987) are a model of good
+study in terms of variable coverage. Indeed, although
+external shocks factors are missing here, the study
+nevertheless contains the major explanatory variables
+that we can think of: real producer price, irrigation,
+road density, roads paved, life expectancy, adult
+literacy, research, extension, GDP, rural population
+density, and agroclimatic potential. Bapna et al.
+(1984) is also similar to the above study in terms of
+variable coverage.
+Peterson (1979), in his cross-section study dealing
+with developed (DCs) and less developed countries
+(LDCs), includes output price, weather (long-run
+annual precipitation), and technology (research publication for each country) as explanatory variables.
+There is probably a certain amount of misspecification bias due to the omission of important variables
+such as life expectancy, adult literacy, and irrigation
+that have changed over time. For example, by adding
+irrigation in Peterson's model, Chhibber (1989) finds
+that the price elasticity passes from 1.27 to 0.97.
+Cleaver ( 1985) contains some misspecification
+problems. It is known that weather changes, as well
+as land quality, in Africa are quite important in
+explaining agricultural growth. Another problem of
+misspecification is that the nominal protection coefficient or the currency depreciation rate used by the
+author only captures part of the real producer price.
+Indeed, as Eq. (4) or Eq. (4') shows, if one uses
+nominal protection coefficient, then two other variables are left out: real exchange rate and real foreign
+price. If one uses currency depreciation rate, then
+nominal protection coefficient and real foreign price
+are left out.
+Life expectancy, income, roads (density and quality), research, extension, soil quality, population
+growth, and country dummy variables are important
+explanatory variables that can be included in Jaeger
+(1992).
+Lopez et al. ( 1991) explain agricultural export
+supply in Malawi and Tanzania by the price of
+
+27
+
+agricultural exportables, the price of agricultural
+non-tradeables, the wage rate, an index of weather,
+and an index of technical change. All the prices are
+normalized by the price of agricultural importables.
+Population growth (or density), human capital, and
+road variable may well be missing variables in these
+regressions. Note that their high R 2 can most likely
+be explained by the inclusion of lagged prices aside
+current prices.
+Gunawardana and Oczkowski ( 1992) is an interesting study which explains paddy supply by the
+price ratio (guaranteed price of paddy to fertilizer
+price), irrigation, credit, concessional sales of rice.
+This is one of the rare studies where credit variable
+directly appears as an explanatory variable. Although
+they obtain a very high R 2 (0.97 for yield), the
+inclusion of other important variables (e.g. population density) may well change the short-run and the
+long-run elasticities.
+Van Schalkwyk and Groenewald (1993) use price
+ratio, land quality, average rainfall, and dummies (to
+capture structural change over time) to explain agricultural supply in South Africa. Missing variables in
+this framework may include roads, human capital,
+and population growth. As for the previous study,
+the high R 2 may be explained by the inclusion of
+lagged variables.
+Cleaver and Schreiber ( 1994) fail to consider in
+their models, among others, population growth, population density, and life expectancy. Moreover, as
+underlined above, another source of misspecification
+originates from the use of nominal protection coefficient instead of real producer prices; that is, some
+exchange rate variable and real foreign price are
+missing. Note that some of the high R 2 may be due
+to the presence of country dummy variables.
+Pick and Vollrath (1994) contain some omitted
+variables in some equations (i.e. human capital). The
+models with severe omitted variables show up with
+low R 2 • This is the case for Nigeria (0.36).
+As underlined implicitly above, there is some
+difficulty in evaluating the Nerlove model in terms
+of omitted variable misspecification. Lagged output
+(or area) usually explains a great part of variation of
+output (large contribution to R 2 ). Yet the inclusion
+of lagged output and time trend does not give us the
+impact of several variables of interest.
+Lopez et al. ( 1991) is the best empirical work in
+
+Table I
+Price elasticities with quantity as dependent variable
+
+N
+
+00
+
+Regionjperiod
+
+Data/method
+
+Author
+
+Output
+
+Price
+and lags
+
+53 countries
+62-64/68-70
+31 SSA 70-81
+31 SSA 70-81
+58 countries 69-78
+58 countries 69-78
+58 countries 69-78
+21 SSA 70-87
+14 SSA 70-87
+7 SSA 70-87
+7 SSA 70-87
+14 SSA 70-87
+II SSA 70-87
+4 SSA 70-87
+Tanzania 64-84
+Tanzania 65-84
+Cameroon 47-64
+Nigeria 49-64
+Tanzania 45-67
+Ghana 63-81
+Kenya 66-80
+Kenya 72-90
+Tanzania 70-88
+Malawi 70-87
+S. Africa 76, 81, 88
+
+Cross-S IV
+
+Peterson (1979)
+
+Qw
+
+Pw,f
+
+rQ
+rQ
+Q 1111 (aggregate)
+Q1111 (crop)
+Q1111 (livestock)
+
+NPC,
+Pmf,l
+
+QleC
+
+pcpi.ma
+
+Qetc
+Qacr
+Cocoa
+Coffee
+Cotton
+Tea
+Tea
+Cotton
+Cocoa
+Palm oil
+Sisal
+
+pcpi.ma
+
+India 54-77
+India
+Sri Lanka 52-87
+10 SSA 80-89
+
+9 SSA 80-89
+6 SSA 80-89
+Argentina 71-88
+Indonesia 71-88
+Venezuela 71-88
+Nigeria 71-88
+
+Cleaver ( 1985)
+Cleaver ( 1985)
+B inswanger et al. ( 1987)
+B inswanger et al. ( 1987)
+Binswanger et al. ( 1987)
+Jaeger ( 1992)
+Jaeger ( 1992)
+Jaeger ( 1992)
+Jaeger ( 1992)
+Jaeger ( 1992)
+Jaeger ( 1992)
+Jaeger ( 1992)
+Mshomba ( 1989)
+Mshomba ( 1989)
+Behrman ( 1968)
+Oni ( 1969)
+Gwyer ( 1971)
+Bond ( 1983)
+Bond ( 1983)
+Sharma ( 1992)
+Lopez et al. (1991)
+Lopez et al. (1991)
+Van Schalkwyk and
+Groenewald ( 1993)
+T series Nerlove Chhibber ( 1989)
+Pooled GLS-SUR Bapna et al. ( 1984)
+Pooled GLS-SUR Bapna et al. ( 1984)
+Gunawardana and
+T series OLS
+Oczkowski ( 1992)
+Cleaver and Schreiber ( 1994)
+Panel within
+Panel within
+Cleaver and Schreiber ( 1994)
+Cleaver and Schreiber ( 1994)
+Panel within
+Cleaver and Schreiber ( 1994)
+Panel within
+Cleaver and Schreiber ( 1994)
+Panel within
+Cleaver and Schreiber ( 1994)
+Panel within
+Pick and Vollrath ( 1994)
+T series OLS
+T series OLS c
+Pick and Vollrath (1994)
+Pick and Vollrath ( 1994)
+T series OLS
+Pick and Vollrath ( 1994)
+T series OLS
+Cross-SOLS
+Cross-SOLS
+Panel within
+Panel within
+Panel within
+Panel 3SLS
+Panel 3SLS
+Pane13SLS
+Pane13SLS
+Panel 3SLS
+Panel 3SLS
+Panei3SLS
+T series Nerlove
+T series Nerlove
+T series Nerlove
+T series Nerlove
+T series Nerlove
+T series Nerlove
+T series Nerlove
+T series Nerlove
+T series 2S LS
+T series 2SLS
+Panel OLS
+
+Qlec
+QleC
+Qtec
+QleC
+
+Qtec
+APE
+
+Exch. rate
+var.
+
+Price SRE
+
+Price LRE
+1.27-1.66'
+
+0.02
+
+>a
+
+n.a.
+0.15 'a
+
+RDP,
+pmf.t
+Pmf.t
+
+RE
+RE
+RE
+RE
+RE
+RE
+RE
+
+pcpi.ma
+pcpi.ma
+pcpi.rna
+
+pcpi.rna
+
+pcpi.ma
+
+rate
+rate
+rate
+rate
+rate
+rate
+rate
+
+pcpi.l
+
+I
+
+pcpi.l-
+
+pcpi.l.t- n
+pn.l
+
+Pn.f.f-
+
+Exch. RE
+
+i
+
+pcpi.f
+
+pcpi.l
+
+TT,_I
+pim.r.I-1
+
+pim.l.l- I
+
+PJ.,
+
+-0.05'
+n.a.
+0.06 '
+n.a.
+-0.18'
+n.a.
+0.20 '
+n.a.
+0.017
+n.a.
+0.94'
+n.a.
+0.22'
+n.a.
+0.23 '
+n.a.
+0.67 '
+n.a.
+-0.04
+n.a.
+0.35 '
+n.a.
+0.26'
+0.38
+1.81 '
+0.68 '
+0.29-0.35
+0.29-0.35
+0.21-0.28 ' 0.48-0.49 '
+0.20 '
+0.34'
+0.16.
+0.10'
+0.08 '
+0.16'
+0.47 '
+n.a.
+0.56'
+n.a.
+0.92'
+
+-0.10 '
+-0.25'
+0.33 '
+-0.35 '
+0.05 '
+-0.68.
+0.126
+
+:<
+~
+
+":::;·:::;
+~.
+
+":...
+
+"'~
+
+~.
+
+~
+..,
+
+::..
+t'l
+"""'
+:::;
+
+"
+
+~-
+
+"'......
+0\
+
+;:a
+\()
+
+:::'.
+......
+
+AO
+Rice
+Sorghum
+Paddy
+
+pgpi.l-
+
+Cereals b
+Rice b
+Cassava b
+Maize b
+Sorghum b
+Wheat b
+Wheat
+Coffee
+Coffee
+Cocoa
+
+NPC,_ 4
+NPC,_ 4
+NPC,_ 4
+NPC,_ 4
+NPC,_ 4
+NPC,_ 4
+P,.,
+Px.l
+P,,,
+P,.,
+
+'l
+
+0.28-0.29 ' 0.39-0.43 '
+0.33 '
+n.a.
+0.77'
+n.a.
+0.09'
+0.11
+
+TT,_I
+Pn.s.lags
+Pn.s.lags
+
+I
+
+Misal.
+Misal.
+Misal.
+Misal.
+
+0.14'
+0.75
+-0.31
+0.11
+0.17 •
+0.14
+64,3 'a
+27,9 'a
+20,7 ..
+21,8 a
+
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+
+I
+
+'--'
+-!>..
+
+-0.45 '
+-0.54'
+-0.78
+-0.18
+
+N. Mamingi /Agricultural Economics 16 ( 1997) 17-34
+
+our sample as far as the issue of simultaneity of
+variables is concerned. The authors have the following reduced form:
+QAX = j( pAX ,pAN ,W,h,t)
+
+pAN= f( pAX ,w,E,PN ,h,t)
+pN = f( pAX ,pAN ,w,E,q,h,t)
+W =f(pAX pAN pN W
+'
+
+'
+
+'
+
+M'
+
+t)
+
+E =!(pAX ,q, w M , EG, t)
+where QAX is the agricultural supply of exportables,
+PAX is the price of agricultural ex portables, PAN is
+the price of agricultural non-tradeables, pN is the
+price of non-tradeables, w is the wage rate, h is an
+index of weather, t is an index of technical change,
+q represents the external terms of trade of the country (excluding agricultural export prices), wM is the
+minimum wage, E stands for total domestic expenditures, and £ 0 represents government expenditures.
+With the exceptions of t and q all the variables are
+normalized by the prices of agricultural importables.
+The price equations result from the respective
+demand/supply equalities. pAN is endogenous because it largely depends on supply and demand
+conditions prevailing in the market and so is pN_
+The wage rate is supposed to be determined by a
+combination of market and institutional forces. Aggregate real expenditures are affected by both policy
+and external variables.
+
+29
+
+It is worth underlining that the issue of simultaneity is further complicated when using variable ratios
+whose components follow different behaviors in
+terms of endogeneity jexogeneity.
+Binswanger et al. ( 1987) address the issue of
+simultaneity by deriving output and factor demands
+(fertilizers and urban wages) from profit maximization. In our view, most of the explanatory variables
+in their model are truly endogenous (irrigation, roads,
+research, and population growth). Most likely, population growth in Cleaver's ( 1985) model is endogenous. Misalignment is an endogenous variable in
+Pick and Vollrath (1994).
+The problem of data comparability is not equally
+explained in many papers using cross section or
+pooled data. Peterson uses real producer price defined as the ratio of an overall wheat equivalent price
+for each country during each period (1962-64 and
+1968-1970) by the weighted average domestic currency price of commercialized fertilizer. Although
+this indeed validates comparisons across countries
+possible, wheat and fertilizer are not all that important in many countries. Worse, in some countries
+fertilizers are subsidized. Certainly, results are sensitive to the definition of variables adopted. For example, in attempting to explain the Peterson (1979) high
+elasticity, Binswanger et al. ( 1985) find that by using
+prices based on the multilateral Fisher index coupled
+with purchasing power currency, the Peterson ( 1979)
+
+Notes to Table I:
+• Numbers are not elasticities.
+b Output is change in crop yield (number in short-run elasticity column is not an elasticity).
+c OLS with serial correlation correction.
+SSA, Sub-Saharan African countries; Cross-S, cross-section data; Panel, panel data; T series, time series data; IV, instrumental variables
+method; Within, OLS with country dummies; 2SLS, two stage least squares; 3SLS, three stage least squares; Gls-Sur, generalized least
+squares and seemingly unrelated regression methods; Nerlove, Nerlove method; Qw, quantity using wheat equivalent; rQ, growth rate of
+agricultural output; Qmf• quantity using multilateral Fisher index; Q,ec• total export crops; Qetc• total export crops for tree crop exporter
+countries; Qacro total export crops for annual crop exporter countries; APE, agricultural production equivalent, which is gross value of
+agricultural production in each district deflated by the index of producers' prices; AO, agricultural output; Pw, price using wheat equivalent
+deflated by fertilizer price; NPC, nominal protection coefficient; Pmr• price using multilateral Fisher index; Pcpi• nominal output price of
+agricultural export deflated by consumer price index; Pcpi.ma, as above but using a moving average ( t and t - I); P0 , nominal output price;
+with s.Jag, sum of lags t- I and t- 2; P1, is the weighted output/input ratio; TT, agricultural terms of trade; P;m, the price ratio of
+agricultural exportables to agricultural importables; Pgpi• is the ratio of guaranteed price to fertilizer price; Px.P export price; RDP, rate of
+currency depreciation; Exch. rate var, exchange rate variable; RE rate, real effective exchange rate; Exch. RE, exchange rate elasticity; Price
+SRE, short-run price elasticity; Price LRE, long-run price elasticity; Misal., misalignment measure following Edward's approach; n.a.,
+non-available.
+' Significant at the I0% level, at least.
+
+30
+
+N. Mamingi /Agricultural Economics 16 (/997) 17-34
+
+elasticity falls in the range 0.02 to 0.45 instead of
+1.27 to 1.65.
+Cleaver ( 1985) uses the nominal protection coefficient or the currency depreciation rate. But as seen
+above, if the NPC is defined as the ratio of farmgate
+price to the product of foreign price times nominal
+exchange rate, then direct comparability becomes a
+problem as some nominal exchange rates are distorted in some countries. The real protection coefficient defined from the equilibrium exchange rate is
+more appropriate in this framework. This remark
+also holds for Cleaver and Schreiber ( 1994).
+Jaeger ( 1992) defines real producer price as the
+ratio of nominal producer price to consumer price
+index. The problem is that consumer price index is
+not directly comparable across countries for reasons
+advocated above. Instead of the consumer price index, some measurement based on purchasing power
+currency a Ia Summers-Reston is preferable. For the
+same reason, comparability of real effective exchange rate is problematical as it is based on consumer price index.
+'To pool or not pool' has not been formally tested
+in panel data studies. Jaeger (1992) can be implicitly
+considered as an exception when he divides his 21
+countries into tree crop exporter countries ( 14 countries) and annual crop exporter countries (seven
+countries). By doing so, the results change drastically, underlying that it is not recommended to pool
+both sets of countries. Although Peterson (1979)
+affirms that he does not find significant differences
+between DCs and LDCs countries, Chhibber ( 1988)
+indicates that there is a significant difference if one
+disaggregates further such as in comparing low yield
+countries with high yield countries. Binswanger et al.
+( 1987) do not raise the issue of 'to pool or not to
+pool.' It is possible that some of the 'bizarre' results
+that they obtain are simply due to the wrong level of
+pooling.
+3.2. Review of area responses
+
+This part concentrates on area responses to price
+changes without neglecting the impact of other important factors.
+With the exception of Binswanger et al. (1987),
+all the studies examined below (see Table 2) are
+concerned with individual crop area responses and
+
+are of time series nature. Maitha ( 1970) estimates the
+area response for Kenyan coffee that depends on real
+producer price (Fisher lag: I to 4), lagged quantity of
+coffee, a dummy variable and a time trend. Frederick
+( 1969) explains cotton area expansion by the relative
+price of cotton to price of coffee lagged one period
+(the two prices are also used separately in one
+regression) and a time trend. The Seini ( 1985) final
+model of cotton area contains nominal lagged cotton
+price, lagged groundnut price and lagged area. Kere
+et a!. ( 1986) regress acreage under wheat on the
+price of wheat (nominal or deflated by the price of
+the most competing crop) lagged one period, lagged
+yield of wheat, monthly rainfall, and a time trend.
+Binswanger et al. (1987) use price of crop output,
+price of livestock, price of fertilizers, urban wages,
+irrigation, road density, roads paved, life expectancy,
+adult literacy, research, extension, GDP, rural density, and country dummies to explain crop area
+(defined as the sum of harvested area of individual
+crops as reported by FAO). Gunawardana and
+Oczkowski ( 1992) have paddy area that depends on
+price ratio (paddy /fertilizer), irrigation, credit, concessional sales of rice, and area lagged.
+Olayemi and Oni ( 1972) is the only study that
+deals with an asymmetry in price response for SubSaharan Africa. The objective is to assess how Western Nigerian cocoa farmers respond to different scenarios of price changes. The information collected
+from field interviews allows to run two types of
+regression: cocoa acreage on rising price and cocoa
+acreage on falling price. Trail et al. ( 1978) is a study
+on asymmetric area response to price changes applied to the United States late summer onion crop.
+The authors compare the symmetric supply response
+with the irreversible supply response captured by the
+two versions of the Wolffram ( 1971) technique presented above. Jaforullah (1993) exploits the asymmetric supply framework to explain sugar cane supply in the mill zones of Bangladesh over the period
+1947-81. The variables of interest are: lagged area,
+price of sugar cane per hectare relative to that of
+jute, yield of sugar cane relative to that of jute,
+relative risk of sugar cane to jute, and two dummy
+variables (one reflecting the opening up of new sugar
+cane mills in the planted area of sugar cane and the
+other the effect of government ban on the production
+of jute in the mills zone).
+
+N. Mamingi j Agricultural Economics 16 ( 1997) 17-34
+
+31
+
+Table 2
+Agricultural area elasticities
+Crop and regions
+Coffee
+Kenya (industry)
+Cotton
+Uganda-Buganda
+Ghana
+Wheat
+Kenya (Nyandurua)
+Cocoa
+Western Nigeria
+Onion
+USA
+
+Paddy
+Sri Lanka
+Sugar cane
+Bangladesh
+
+Crop area
+58 DCs and LDCs
+
+Period (data type)
+
+Author
+
+Method
+
+Price variable SRE
+
+1946-64 (Time S)
+
+Maitha ( 1970)
+
+Nerlove type P,
+
+0.15 '
+
+0.38
+
+1922-38 (Time S)
+1968-81 (Time S)
+
+Frederick ( 1969)
+Seini ( 1985)
+
+OLS
+Nerlove
+
+Pcof
+pn
+
+0.25-0.67
+0.55
+
+0.25-0.67
+1.32
+
+1965-83 (Time S)
+
+Kere et al. ( 1986)
+
+Nerlove
+
+Pn
+
+0.65
+
+1.38
+
+1970 ( Cross-S)
+
+Olayemi and Oni ( 1972) OLS
+
+pi~
+pi~
+
+1.217 '
+0.643
+
+pi~.(
+pi~.(
+Pip.rP~.~-
+
+LRE
+
+Lags
+
+Pr.t-Lr-4
+
+Pcof.l- I
+
+Pn.r-
+
+I
+
+Pn.r-
+
+I
+
+1952-74 (Time S) Trail et al. ( 1978)
+1952-7 4 (Time S) Trail et al. ( 1978)
+
+OLS
+OLS
+
+pip
+P!v.;
+Pt
+
+1952-74 (TimeS) Trail et al. ( 1978)
+
+OLS
+
+P~w
+P~w
+
+0.105
+0.09 '
+0.068 '
+0.442 •
+0.086 '
+
+52-87 (TimeS)
+
+OLS
+
+Pr
+
+0.05 •
+
+0.06 '
+
+Pr.r-
+
+NLS
+NLS
+
+pip
+P~w
+
+P~w
+
+0.30 '
+0.32 '
+0.15 '
+
+0.45 •
+0.41 '
+0.20 •
+
+P,~W.I
+
+pi
+
+0.011 •
+
+Gunawardana and
+Oczkowski ( 1992)
+
+1951-81 (TimeS) Jaforullah ( 1993)
+1951-81 (TimeS) Jaforullah ( 1993)
+
+1969-78 Panel
+
+Binswanger et al. ( 1987) Within
+
+1
+t
+
+P~.r-1
+P~w.r-1
+P,~w.t- 1
+1
+
+Pip.r
+
+P,~W.!
+Pu
+
+Time S, time series data; Cross-S, cross-section data; Panel, panel data; NLS, nonlinear least squares; P,. the ratio of nominal price of
+coffee to the import price index; Pcof• the ratio of cotton price to coffee price; P0 , nominal price of cotton which is used separately with the
+price of groundnut; Pi~ and Pi~• rising and falling prices, respectively, from direct interviews (see Olayemi and Oni, 1972); Pip• the regular
+real price; P!,., and Pt. rising and falling prices, respectively, a Ia Wolffram (1971); P,~w and P~w. rising and falling prices, respectively,
+using modified Wolffram technique; Pr. the ratio of guaranteed price to subsidized fertilizer price; Pi, output price quoted in domestic
+currency unit converted using purchasing power parity (PPP) exchange rate deflated to 1980 prices using the price index for the OECD as a
+whole; SRE, short-run price elasticity; LRE, long-run price elasticity; Lags, lags used for price.
+' Significant at the I0% level, at least.
+
+Table 2 reports the results of the inquiry. The
+findings underlined in the previous part are uncovered here. Particularly, short-run elasticities are low;
+long-run price elasticities are higher than short-run
+price elasticities. The novelty here is that the few
+studies using the asymmetric approach seem to reveal asymmetric area responses to price changes
+with area responding more to rising price than to
+falling price. In brief, area expansion responds to
+agricultural incentives.
+When included, other factors are important in
+determining the pace of area change. For example,
+the elasticities are -0.036, -0.091, 0.026, -0.037,
+
+- 0.046, and 0.026 for the price of fertilizers, urban
+wages, road density, research, GDP, and rural population density, respectively, and other estimates are
+0.425, 1.272, and -0.138 for irrigation, life expectancy, and adult literacy, respectively, in Binswanger et a!. ( 1987). 14 For studies using the
+Nerlove model, lagged output (area) is significant
+where included and so are weather (rainfall) and
+technological change (captured by time trend).
+
+14
+
+Some of the variables are wrongly signed for diverse reasons.
+
+32
+
+N. Mamingi /Agricultural Economics /6 ( 1997) 17-34
+
+As for quantity studies, there are a number of
+issues that can be raised. The problem of omitted
+variables seems to be present in some studies. By
+using only lagged price of cotton and coffee as
+explanatory variables, the Frederick ( 1969) study is
+most likely misspecified. The studies based on the
+Nerlove methodology could be misspecified, as some
+relevant prices are missing. Irrigation, roads, and
+human capital could well be important in Trail et al.
+( 1978). Population density is most likely important
+in explaining paddy area in Gunawardana and
+Oczkowski ( 1992).
+Simultaneity is an issue in some of the models. In
+Binswanger et al. ( 1987) roads, urban wages, and
+population growth are probably endogenous.
+Concerning the pooling issue, what was said about
+Binswanger et al. ( 1987) in the previous section
+holds here. Regarding the asymmetric response of
+price changes, with the exceptions of Olayemi and
+Oni (1972), Trail et al. (1978), and Jaforullah (1993),
+all other authors fail to deal with this issue. Olayemi
+and Oni (1972) indicate that the short-run rising
+price elasticity is 1.217 and that of falling price is
+0.643. The authors formally test the hypothesis of
+price segmentation and confirm that Nigerian farmers are more responsive to price increase than to
+price decrease. A shortcoming, however, is that the
+ex-ante response may deviate from the ex-post one.
+Trail et al. ( 1978) obtain the following short-run
+elasticities: 0.105 for symmetric supply function;
+0.90 and 0.068 for increasing price and decreasing
+price, respectively, in the context of the Wolffram
+technique; and 0.442 and 0.086 for increasing price
+and decreasing price, respectively, in the context of
+the modified Wolffram technique. The latter is the
+best model. The authors model the case of short-run
+asymmetry and long-run symmetry by using an Almon lag model. Jaforullah ( 1993), among others,
+obtain the following elasticities with the modified
+Wolffram technique: 0.15, 0.32, 0.20, and 0.41 in the
+short run (price falling and rising) and long run
+(price falling and rising), respectively. Misspecified
+reversible function gives rise to an elasticity of 0.12
+and 0.28 in the short run and long run, respectively.
+The results from asymmetric area responses are
+important in the debate concerning the potential deleterious environmental effect of price increases and
+price decreases.
+
+4. Conclusion
+
+The objective of this paper was to review the
+literature dealing with the impact of prices and
+macroeconomic policies on agricultural supply.
+The paper uncovers some stylized facts underlined in other literature reviews. First, farmers are
+everywhere rational; that is, in developed as well in
+developing countries, farmers expand their production as output prices increase. Nevertheless, this first
+relational regularity between agricultural supply and
+prices does not tell us the whole story about agricultural supply. A host of policy variables (i.e. overvalued currency and budget deficit) and other factors
+(i.e. climate, quality of soil, and level of technology)
+that also affect the level of agricultural supply can,
+under some circumstances, reinforce, decrease or
+annihilate the price effect. A deficient infrastructure,
+for example, as is the case in many third world
+countries, can wipe out the price incentive to produce more.
+Second, for individual crops, the short-run own
+price elasticity is smaller than the long-run elasticity.
+The main reason is that while in the short run some
+factors are fixed, in the long run all factors are
+variable. Third, for aggregate output, the short-run
+price elasticity is smaller than the long run; in fact,
+aggregate supply is almost inelastic in the short run.
+The quasi-inelasticity of the aggregate supply is
+largely explained by immobility of capital, land, and
+labor in the short run.
+Policy implications of the different stylized facts
+concerning the relationship between prices (and
+non-prices) and agricultural output are well known
+and understood. The rationality of farmers, for example, implies that measures should be taken to eliminate price distortion since an increase in output price
+leads to an increase in agricultural output. At the
+same time one should not neglect other incentive
+elements. Indeed, in developing countries in general
+and Sub-Saharan Africa in particular, non-price factors are equally if not more important than output
+price in agricultural production. One such factor is
+infrastructure.
+While the literature does a good job detecting the
+nature of relationships between determining factors
+and agricultural output, it fails to perform well quantifying the strength of relationships. In other words,
+
+N. Mamingi j Agricultural Economics 16 ( 1997) 17-34
+
+this literature review stresses that our understanding
+of the quantitative dimensions of agricultural supply
+response is surprisingly weak given the importance
+of this assumed response to growth, poverty and the
+environment. Indeed, issues such as simultaneity bias,
+omitted variable bias, inaccurate data pooling, and
+asymmetry in supply responses to price changes
+have not been adequately addressed in many instances. As policy recommendations should be based
+not only on the qualitative nature of the relationship
+between determining factors and agricultural supply
+but also on the quantitative dimension, the above
+shortcomings should be taken into account in future
+studies.
+
+Acknowledgements
+I wish to thank Kenneth Chomitz for valuable
+advice, David Wheeler and Christopher Udry for
+useful comments. I am also indebted to one anonymous referee and to the editor of this journal for very
+insightful comments. Any remaining errors are mine.
+
+References
+Abt associates, Inc., 1989. Agricultural Policy Analysis: A Manual for A.I.D. Agricultural and Rural Development Officers.
+AID Evaluation Special Studies, 61, Washington, DC.
+Askari, H. and Cummings, J., 1977. Estimating agricultural supply
+responses in the Nerlove model: a survey. Int. Econ. Rev., 18:
+257-292.
+Bapna, S.L., Binswanger, H.P. and Quizon, J.B., 1984. Systems of
+output supply and factor demand equations for semi-arid
+tropical India. Indian J. Agric. Econ., 39: 179-213.
+Behrman, J.R., 1968. Monopolistic cocoa pricing. Am. J. Agric.
+Econ., 50: 702-719.
+Binswanger, H., Mundlak, Y. Yang, M.C. and Bowers, A., 1985.
+On the determinants of cross-country aggregate agricultural
+supply. World Bank, Washington, DC, mimeo.
+Binswanger, H., Mundlak, Y. Yang, M.C. and Bowers, A., 1987.
+On the determinants of cross-country aggregate agricultural
+supply. J. Econometrics, 36: I l 1-131.
+Bond, M.E., 1983. Agricultural responses to prices in Sub-Saharan
+Africa. Int. Monetary Fund Staff Pap., 30: 703-726.
+Burton, M., 1988. Irreversible supply functions revisited. J. Agric.
+Econ., 39: I 13-120.
+Chhibber, A., 1988. Raising agricultural output: price and nonprice factors. Finance Dev., 25: 44-47.
+Chhibber, A., 1989. The aggregate supply response: a survey. In:
+
+33
+
+S. Commander (Editor), Structural Adjustment & Agriculture:
+Theory and Practice in Africa and Latin America. Overseas
+Development Institute, London, pp. 55-68.
+Cleaver, K.M., 1985. The impact of price and exchange rate
+policies on agriculture in Sub-Saharan Africa. Working Paper,
+728, World Bank, Washington, DC.
+Cleaver, K.M. and Schreiber, G.A., 1994. Supplement to reversing the spiral: the population, environment, and agriculture
+nexus in Sub-Saharan Africa. World Bank, Washington, DC.
+Cochrane, W., 1955. Conceptualizing the supply relation in agriculture. J. Farm Econ., 37: I 161-1175.
+Demery, L. and Addison, T., 1987. The alleviation of poverty
+under structural adjustment. World Bank, Washington, DC.
+Frederick, K.D., 1969. The role of market forces and planning in
+Uganda's economic development, 1900-1938. East. Afr. Econ.
+Rev., I: 47-62.
+Gunawardana, P.J. and Oczkowski, E.A., 1992. Government policies and agricultural supply response in Sri Lanka. J. Agric.
+Econ., 43: 231-242.
+Gwyer, G.D., 1971. Long- and short-run elasticities of sisal
+supply. East. Afr. Econ. Rev., 3: 19-29.
+Hallam, D., 1990. Econometric Modelling of Agricultural Commodity. Routledge, London, 19! pp.
+Jaeger, W., 1992. The effects of economic policy on African
+agriculture. World Bank Discussion Papers, Africa Technical
+Department Series 147.
+Jaeger, W. and Humphreys, C., 1988. The effect of policy reforms
+on agricultural incentives in Sub-Saharan Africa. Am. J. Agric.
+Econ., 70: 1036-1043.
+Jaforullah, M., 1993. Asymmetric supply response: evidence from
+Bangladesh. J. Agric. Econ., 44: 490-495.
+Johnson, G.L., 1958. Supply functions: some facts and notions. In:
+E.O. Heady, H.G. Dresslin, H.R. Jensen and G.L. Johnson
+(Editors), Agricultural Adjustment Problems in a Growing
+Economy. Iowa State University Press, Ames, pp. 74-93.
+Kere, P.A., Mwangi, W.M. and Ogutu, A., 1986. The supply
+responsiveness of wheat farmers in Kenya. East. Afr. Econ.
+Rev., 2: 151-155.
+Krautkraemer, J.A., 1994. Population growth, soil fertility, and
+agricultural intensification. J. Dev. Econ., 44: 403-428.
+Krueger, A.O., Schiff, M. and Valdes, A., 1988. Agricultural
+incentives in developing countries: measuring the effect of
+sectoral and economywide policies. World Bank Econ. Rev.,
+2: 255-271.
+Lopez, R., Ali, R. and Larsen, B., 1991. How trade and economic
+policies affect agriculture. Working Paper, 719, World Bank,
+Washington, DC.
+Maitha, J.K., 1970. Productivity response to price: a case study of
+Kenyan coffee. East. Afr. Econ. Rev., 2: 31-37.
+Mamingi, N., 1996. On the impact of prices and macroeconomic
+policies on agricultural supply and the environment: a synthesis. World Bank, Washington, DC, mimeo.
+Mshomba, E.R., 1989. Price elasticity of supply of Tanzania's
+major export crops. East. Afr. Econ. Rev., 5: 9-20.
+Mundlak, Y., 1985. The aggregate agricultural supply. World
+Bank, Washington, DC, mimeo.
+Ogbu, O.M. and Gwetibouo, M., 1990. Agricultural supply re-
+
+34
+
+N. Mamingi /Agricultural Economics 16 ( 1997) 17-34
+
+sponse in sub-Saharan Africa: a critical review of the literature. Afr. Dev. Rev., 2: 83-99.
+Olayemi, J.K. and Oni, S., 1972. Asymmetry in price response: a
+case study of Western Nigerian cocoa farmers. Niger. J. Econ.
+Soc. Stud., 14: 347-355.
+Oni, S.A., 1969. Production response in Nigeria agriculture: a
+case study of palm produce, 1949-1966. Niger. J. Econ. Soc.
+Stud., 11: 81-91.
+Peterson, W.L., 1979. International farm prices and the social cost
+of cheap food policies. Am. J. Agric. Econ., 61: 12-21.
+Pick, H.D. and Vollrath, L.T., 1994. Real exchange rate misalignment and agricultural export performance in developing countries. Econ. Dev. Cult. Change, 42: 555-571.
+Rao, J.M., 1989. Agricultural supply response: a survey. Agric.
+Econ., 3: 1-22.
+Rao, P.D.S. and Sharma, K.C., 1991. On the aggregation problem
+in international comparisons of agricultural production aggregates. J. Dev. Econ., 35: 197-204.
+Salehi-Isfahani, D., 1993. Population pressure, intensification of
+agriculture, and rural-urban migration. J. Dev. Econ., 40:
+371-384.
+Seini, W., 1985. The economic analysis of the responsiveness of
+peasant cotton farmers to the price incentives in Ghana. Tech.
+Pub!. Ser., Univ. Legon, Ghana, 51: 77-81.
+Sharma, K.L., 1992. Aggregate farm supply response in Kenya.
+East. Afr. Econ. Rev., 8: 92-101.
+Summers, R. and Heston, A., 1988. A new set of international
+
+comparisons of real product and price Levels estimates for 130
+countries, 1950-1985. Rev. Income Wealth, 34: 1-25.
+Tomek, W.G. and Robinson, K.L., 1972. Agricultural Product
+Prices. Comell University Press, Ithaca, 376 pp.
+Trail, B., Colman, D. and Young, T., 1978. Estimating irreversible
+supply functions. Am. J. Agric. Econ., 60: 528-531.
+Tweeten, G.L. and Quance, C.L., 1969. Positivistic measures of
+aggregate supply elasticities: some new approaches. Am. J.
+Agric. Econ., 51: 342-352.
+Tweeten, G.L. and Quance, C.L., 1971. Techniques for segmenting independent variables in regression analysis: reply. Am. J.
+Agric. Econ., 53: 359-360.
+Valdes, A. and Pinckney, T.C., 1989. Trade and macroeconomic
+policies: impact of agricultural growth: evidence to-date. East.
+Afr. Econ. Rev., 5: 42-61.
+Van Schalkwyk, H.D. and Groenewald, J.A., 1993. An estimate of
+aggregate supply response in South African Agriculture. Dev.
+South. Afr., 10: 549-558.
+Wolffram, R., 1971. Positivistic measures of aggregate supply
+elasticities: some new approaches - some critical notes. Am.
+J. Agric. Econ., 53: 356-359.
+World Bank, 1993. Purchasing power of currencies: comparing
+national incomes using ICP Data. International Economics
+Department, World Bank, Washington, DC.
+World Bank, 1994. Adjustment in Africa: Reforms, Results, and
+the Road Ahead. Oxford University Press, New York, 284 pp.
+
+

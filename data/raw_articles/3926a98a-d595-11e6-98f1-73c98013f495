@@ -1,0 +1,1205 @@
+AGRICULTURAL
+ECONOMICS
+
+ELSEVIER
+
+Agricultural Economics 22 (2000) 163-171
+www.elsevier.com/locate/agecon
+
+Off-farm work decisions on Dutch cash crop farms
+and the 1992 and Agenda 2000 CAP reforms
+Tassew Woldehanna, Alfons Oude Lansink, Jack Peerlings *
+Department of Economics and Management, Wageningen University, Hollandseweg 1, 6706 KN Wageningen, The Netherlands
+
+Received 19 June 1997; received in revised form 18 August 1999; accepted 20 September 1999
+
+Abstract
+A double hurdle model of off-farm work participation and off-farm labour income was derived and estimated consistent
+with a farm household model. It was found that rationing and unexpected transaction costs inhibit farm households from
+participating in off-farm work. The 1992 and the Agenda 2000 CAP reforms are most likely to increase the off-farm
+employment of arable farm households, but its full effect cannot be realised because of inhibitions to enter off-farm activities.
+Household and farm characteristics have different impacts on off-farm work participation and on the level of off-farm labour
+income. © 2000 Elsevier Science B.V. All rights reserved.
+Keywords: Off-farm work participation; Off-farm labour income; Double hurdle model; Dutch arable farms; CAP reform
+
+1. Introduction
+
+The 1992 European Union (EU) common agricultural policy (CAP) reform has changed the relative
+role of price support and direct income support in
+arable farming (Oude Lansink and Peerlings, 1996). It
+reduced the price support for cereals and abolished the
+deficiency payments for oilseeds. Instead compensatory acreage payments which act as direct income
+support were introduced. A further reduction in price
+support in combination with increased compensatory
+acreage payments will take place in 2000 and 2001 as
+a result of the decisions taken on Agenda 2000
+(European Union, 1999).
+
+*corresponding author. Tel.: +317-483812; fax: +317-484736.
+E-mail address: jack.peerlings@alg.aae.wag-ur.nl (J. Peerlings).
+
+These policy changes may affect the labour allocation offarmers between farm and off-farm activities. It
+may also encourage farmers to diversify their income
+sources (Hill, 1996). In a farm household, labour is
+allocated between farm and off-farm work such that
+the marginal value of farm labour equals the wage rate
+of off-farm work (Becker, 1965; Gronau, 1973). Literature in off-farm work also indicates (see Hallberg et
+al., 1991) that farm households' off-farm work decision is dependent on location, farm and non-farm
+income, and family and financial characteristics (Lass
+et al., 1991). It is inversely related to farm income
+because of a substitution and income effect. Nonlabour incomes such as income from assets, social
+security benefits, and direct income support reduce
+off-farm employment due to an income effect only.
+Consequently, a change in government policy due to
+either a price policy or direct income support (e.g.
+
+0169-5150/00/$- see front matter© 2000 Elsevier Science B.V. All rights reserved.
+PII: S 0 I 6 9 - 5 I 5 0 ( 9 9 ) 0 0 0 4 6 - 8
+
+164
+
+T Woldehanna eta!. I Agricultural Economics 22 (2000) 163-171
+
+coming from the 1992 and Agenda 2000 CAP
+reforms) may affect the desire of farm households
+to participate in off-farm work.
+However, in the presence of rationing and transaction costs in the labour market, the marginal value of
+farm labour and the wage rate of off-farm work may
+not be equal. In such cases, households cannot execute
+their desired plan to work off their farm (Deaton and
+Irish, 1984; Blundell and Meghir, 1987). Hence the
+potential effect of the CAP reforms on off-farm work
+may not be fully realised.
+Capital and technology employed by a farm household, individual's age and education can have either a
+negative or positive effect on the desire of farm households to parncipate in off-farm work as they affect
+both farm and off-farm employment (Lass et al., 1991).
+Moreover, the relative importance of these factors may
+differ across households (Lass et al., 1991). Although
+well documented for North America (see, for example, Hallberg et al., 1991), literature on off-farm work
+is scarce for the Netherlands and Europe as a whole.
+Furthermore, previous studies made on off-farm work
+(Olfert, 1993; Kimhi, 1994, 1996; Hearn et al., 1996;
+Kimhi and Lee, 1996; Mishra and Goodwin, 1997;
+Tavernier et al., 1997; Weersink et al., 1998) do not
+consider rationing in the off-farm labour market.
+The objectives of this study are therefore (1) to
+investigate the effect of farm and non-labour income
+on the off-farm work decision and determine the implications of the 1992 and agenda 2000 CAP reforms; (2)
+to investigate the role of other determinants of offfarm work; and (3) to test if Dutch arable farm households are actually inhibited by rationing and unexpected
+transaction costs to enter off-farm activities.
+Off-farm work participation and off-farm labour
+income are modelled consistent with a farm household
+model (Singh et al., 1986; Huffman, 1991). Moreover,
+this paper uses a double hurdle model (Deaton and
+Irish, 1984; Blundell and Meghir, 1987) and generalised Tobit model (Amemiya, 1984) in which the
+participation decision and off-farm labour income
+are jointly estimated using a maximum likelihood
+estimator (MLE).
+The rest of the paper is organised as follows. In the
+next section, theory and model specifications are
+discussed. In Section 3, the data and estimation methods are described. Section 4 discusses the results.
+Section 5 presents the conclusions.
+
+2. Theory and model specification
+Off-farm employment of a farm household, using
+off-farm labour income as a proxy, can be treated as a
+latent variable, which may be observed when a household has a desire to participate in off-farm work and is
+able to find a job in the labour market. In an agricultural household model an individual is willing to
+participate in off-farm work when his reservation
+wage Cwr;) is less than the off-farm wage Cwm;) net
+of commuting and expected transaction costs.
+The participation decision of a household to work
+outside his farm (D;), can therefore be modelled as
+follows:
+D;
+
+= { 1 ~f
+
+0 1f
+
+Wri
+
+< Wmi
+
+Wri
+
+Wmi
+
+2:
+
+Pr(wri 'S Wm;)
+Pr(D;= 1) = { Pr(U(n;(-),wm;,V;,Pc,a;) > 0)
+Pr(cx'X;) > -u;; U; rv N(O, 1)
+
+(1)
+
+where the probability of a farmer to participate in offfarm labour (Pr(-)) is assumed to depend on n(-) (farm
+profit\ Wm; (the market wage rate), v (non-labour
+income), Pc (price of consumption goods), and a;
+(household characteristics); L 0 is off-farm labour ;
+X is a column vector of variables that affect the
+reservation and market wage; ex' is a row vector of
+parameters; u; is the error term of the participation
+decision. The latent variable off-farm labour income
+(Y*) and observed off-farm labour income (Y) can be
+specified as
+Yt
+
+= Y(n;(·), Wm;, v;,Pc,a;) + e;
+= f3'X; + e;;
+
+Y;
+
+=
+
+{
+
+where
+term.
+
+Y*
+
+o'
+
+/3'
+
+e;
+
+rv
+
+N(O, cr;),
+
+(2)
+
+if D; = 1
+if D; = 0 =* Y* 'S 0
+
+is a row vector of parameters; e; is an error
+
+1 Farm profit is included in both the participation equation (1)
+and the off-farm labour income equation (2). The implicit
+assumption that is made here is that both functions are separable
+in all elements of n(-) (i.e. land, labour, capital and netput prices)
+and Wmi• Pc and a,. The separability assumption that is made with
+respect to labour is especially severe, since it is assumed that the
+marginal rate of substitution of labour with capital and netput
+prices is independent of the market wage rate.
+
+T. Woldehanna eta/. I Agricultural Economics 22 (2000) 163-171
+
+2.1. Independent models
+The ordinary Tobit model assumes that the same
+stochastic process affects both the participation decision and off-farm labour income. A zero realisation for
+a dependent variable represents a corner solution or a
+negative value for the underlying latent dependent
+variable (Cragg, 1971; Lin and Schmidt, 1984 ). When
+a Tobit model is derived from the assumption that the
+error term of the participation equation and the latent
+variable are correlated, it is called generalised Tobit
+model (Amemiya, 1984, pp. 29-33).
+Even if farm households are willing to participate in
+off-farm work, however, rationing in the labour market (Deaton and Irish, 1984; Blundell and Meghir,
+1987) and unexpected transaction costs such as search
+costs, information and other costs may inhibit them to
+participate in off-farm work. In the presence of inhibition to join the off-farm activities, therefore, a doublehurdle model would be more appropriate than an
+ordinary Tobit model (Cragg, 1971; Blundell and
+Meghir, 1987, p. 197). The double hurdle model takes
+into account that individuals have to pass two hurdles
+to participate in off-farm work: they have to develop
+the desire to participate in off-farm work and pass the
+inhibition to join the labour market. If the correlation
+between the error terms in the participation decision
+and off-farm labour income is assumed to be zero,
+then the model is called independent double hurdle
+model or in short the model of Cragg (1971). In
+contrast, if the independence assumption for the
+error terms of the participation decision and off-farm
+labour income is relaxed, it is called dependent double
+hurdle model (Deaton and Irish, 1984; Blundell and
+Meghir, 1987).
+Following the lines of Maddala (1983), Amemiya
+(Amemiya, 1984, p. 9) and Blundell and Meghir
+(Blundell and Meghir, 1987, p. 181 ), the log likelihood
+function of the Tobit model can be written as:
+
+logL=
+
+~ [-log CTe +log¢ (Y; ~:'X;)]
+
+summation over observations with positive observed
+off-farm labour income, and <D(-) and ¢0 refer to the
+standard normal probability and density functions,
+respectively.
+In the independent double hurdle model, the probability that income (Y) is zero is the product of
+probability that the latent variable off-farm labour
+income (Y*) is negative and the probability that
+Y* is positive. In this case, there is an inhibition to
+carry out the desire to join the labour market.
+Consequently, the log likelihood function for the
+independent double hurdle model is given by
+Blundell and Meghir (Blundell and Meghir, 1987,
+p. 186):
+logL=
+
+;;=log[1-<D(p~~;)<D(a'X;)]
++
+
+L
+
+[-log CTe +log¢
+
++
+
+(Y;-
+
+P'X;)
+
+CTe
+
++log<D(a'X;)l
+
+(4)
+
+When <D(a'X;) equals one, the independent double
+hurdle model reduces to a standard Tobit model. Since
+the Tobit model is nested into the independent double
+hurdle model (Lin and Schmidt, 1984), a likelihood
+ratio test can be used (Greene, 1993, p. 701) to
+empirically test if farm households are actually inhibited to enter in the off-farm activities.
+
+2.2. Dependent models
+Relaxing the independence assumption, the two
+error terms (u; and e;) are assumed to be joint normal
+with variance-covariance matrix:
+(5)
+
+Then Eqs. (1) and (2) can be written as (Amemiya,
+1984, pp. 31-32; Blundell and Meghir, 1987, p. 187),
+respectively:
+
+~log(1-<D(P~~;))
++
+
+165
+
+(3)
+
+Yt =
+
+P'X; + PCTeUi + e;,
+
+Pr(D; = 1) = Pr(a'X; +
+where the subscript 0 indicates summation over observations with zero off-farm labour income,+ indicates
+
+u;
+
+> 0).
+
+(6)
+
+It follows that the log likelihood of the generalised
+Tobit can be rewritten as:
+
+T. Woldehanna eta!. I Agricultural Economics 22 (2000) 163-171
+
+166
+
+logL = 2...)og [1- <I>( !XX;)]
+
+function has been specified as
+
+0
+
++ ~
+
+[ -log 0" e + log 4> (
+
++log <I>
+
+X)
+
+Y*- {J 1
+i
+
+(J e
+
+'
+
+(JIXi)] ·
+( IXi+-p Yt~
+y 1 - p-
+
+(7)
+
+IX
+
+(Je
+
+When p is zero, it reduces to a standard Tobit model.
+Whereas, the log likelihood of the dependent double
+hurdle model can be rewritten as:
+logL=
+
+~log[l-<1>(1XX;,p)<l>(::~~)]
++ ~ [ -log O"e +log 4> (
+
+(I
+
++log <I> lXX; + p
+CJe
+
+X)
+
+Y*- {J 1
+i
+
+CJe
+
+Yt(JIX;)] .
+~
+
+1
+
+(8)
+
+6
+1
+6
+n = a0 + a1P + 2...:::: a;Z; + -a11P 2 + 2...:::: a1;PZ;
+2
+i=2
+i=2
+1 6 6
++ - 2...:::: 2...:::: auZ;Zi + aw W + 8
+2 i=2 j=2
+
+(9)
+
+where au = aj;; Z; (i = 2, ... , 6) are fixed inputs where
+i = 2 is household head's labour (LF), i = 3 is other
+family members' labour (LO), i = 4 is land (G), i = 5
+is capital (K), i = 6 is technology (T) represented by a
+time trend (1971 = 1), and P is normalised price of
+variable inputs, W is a weather index (Oskam, 1991)
+and 8 is an error term which is assumed to be normally
+distributed.
+
+3. Data and estimation
+
+y 1 - p-
+
+When p is zero, it reduces to the model of Cragg
+(1971), if <1>(1X1X) is one it reduces to a generalised
+Tobit model (Amemiya, 1984), whereas, if p is zero
+and <1>(1X1X) equals one, it reduces to a standard Tobit
+model.
+Explanatory variables (X's) were chosen to be
+expected short-run farm profit, on-farm labour supplied by the head of the household and other family
+members, land, capital, time, non-labour income such
+as such as income from assets, social security benefits;
+household characteristics such as age, education dummies, and family size, macroeconomics conditions
+such as the consumer price index and average market
+wage rates. All variables except expected short-run
+farm profit are assumed to be exogenous. These variables affect both the reservation wage rate and the
+market wage rate, and can be derived from an agricultural household model (Huffman, 1991).
+Expected short-run farm profit has been derived
+from a normalised quadratic profit function conditional on fixed inputs. It was assumed that output
+prices were not known at the time decisions were
+made on planting. Hence, expected rather than realised prices were used. Expected output prices were
+constructed by applying an AR(l) filter to the price of
+output. To impose linear homogeneity the profit function is normalised by the price of output (Thijssen,
+1992, p. 31). The normalised quadratic short-run profit
+
+Data on specialised arable farms, covering the
+period 1971/72-1992/93, come from a stratified sample of farms keeping accounts on behalf of the LEIDLO farm accounting system2 . In total 912 individual
+farms forming an unbalanced panel of 4110 observation were used for the analysis. Summary statistics of
+the data used are given in Table 1. A more detailed
+description of the sample used in this study can be
+found in LEI-DLO (1992).
+Family labour constitutes 88% of total labour used
+on the farm, whereas hired labour makes up for the
+remaining 12%. 37% of the observations reported no
+use of hired labour at all. Out of the sample, 47% of the
+farms have positive off-farm labour income. Furthermore, out of the 4110 observations, 65% ofthem have
+medium and higher level agricultural education, 22%
+of them have lower level agricultural education and
+2.7% of them have general education.
+Expected short-run farm profit was determined as
+the expected price of output times output quantity
+minus the value of variable inputs. There is one output
+(composed of cereals, sugar beet, potatoes and other
+outputs) and one variable input (fertiliser, seeds, pesticides, hired labour and other variable inputs). Tornqvist price indices (at 1980/81 prices) were calculated
+2 The willingness of the Agricultural Economics Research
+Institute to make the data available for this research is gratefully
+acknowledged.
+
+T. Woldehanna et al./Agricultural Economics 22 (2000) 163-171
+
+167
+
+Table 1
+Short description of the data
+
+Output"
+Variable input"
+Household head's labour suppll
+Other family members labour supplyb
+Capitalc
+Land ( 1000 ares)
+Off-farm labour Income"
+Family size
+Non-labour income"
+Short term profit (maximised)"
+Output price
+Input price
+Market wage rate
+
+Mean
+
+SD
+
+Minimum
+
+Maximum
+
+290.383
+103.6325
+22.69
+4.885
+0.242
+4.569
+3.884
+3.970
+12.0695
+174.380
+0.93
+1.01
+0.99
+
+216.664
+60.629
+8.081
+8.649
+0.174
+2.657
+11.249
+1.459
+16.573
+148.128
+0.60
+0.47
+0.89
+
+26.253
+10.418
+0.100
+0.000
+0.0024
+0.700
+0.000
+0.200
+-82.569
+-18.283
+1.44
+1.26
+1.08
+
+2249.924
+510.401
+81.547
+75.100
+1.373
+22.519
+134.444
+11.000
+291.674
+1651.742
+0.17
+0.22
+0.05
+
+In 1000 guilders of 1980 prices; SD refers to standard deviation.
+bIn 1000 h per year. Short term profit is computed from the estimated short-run profit function.
+c In million guilders of 1980 prices.
+a
+
+for the compound variables (i.e. output and variable
+inputs). Price indices vary over the years but not over
+the farms, implying that the difference in the composition of the output/input or quality differences are
+reflected in the quantity. Implicit input and output
+quantity indices were obtained as the ratio of value and
+the price indices. Therefore, quantities are measured at
+constant 1980/81 prices. The market wage rate is the
+wage rate of hired labour in arable farming and is
+obtained from the LEI-DLO. Household budgets are
+calculated using the sum of estimated farm profits and
+non-labour income data from the LEI-DLO. All prices
+and profit were normalised by the expected price of
+output.
+Labour is measured in hours worked on the farm
+and is reported by the farmers in the LEI-DLO
+accounting system; capital represents capital invested
+in machinery and livestock and is measured at 1980/81
+prices; land represents the cultivated area on the farm
+and is measured in ares. Other variables included in
+the profit function are a weather index to correct for
+weather influences and a time trend to account for
+technological change.
+The expected short-run farm profit function is estimated using a random effects estimator after an OLS
+estimator was rejected (see also Greene, 1993, pp.
+479-480). A random effect estimator was also used for
+the Tobit model of the off-farm labour income. The
+panel data nature of the data used was not accounted
+
+for in the estimation of the double hurdle model and
+the generalised Tobit model of off-farm work participation and off-farm labour income; these were estimated using MLE.
+
+4. Results
+Parameter estimates of the profit function can be
+found in Table 2. The estimated profit function (9) fits
+the data well with an adjusted R 2 of 0. 70. Furthermore,
+the profit function is monotonically increasing with
+respect to the fixed inputs (labour, capital, land and
+technology), decreasing and convex in the normalised
+price of variable inputs.
+First, a Tobit model (3) and Cragg model (4) were
+estimated in order to test for inhibitions to participate
+in off-farm activities (Table 3). The Tobit model is
+rejected significantll implying that farm households
+are inhibited to execute their desired plan to participate in off-farm activities. The computation of the
+dependent double hurdle model (8) was, however,
+found to be onerous and full convergence was not
+
+3
+
+The likelihood-ratio test statistics was computed as
++In Lp -In LT) = 2(5969.83 + 2696.71 9502.53) = 835.99, where In LR, In Lp, and In Lr stand for the log
+likelihood of the truncated regression model, Probit model and
+Tobit model, respectively.
+
+x2 = 2(ln LTR
+
+T Woldehanna et al./Agricultural Economics 22 (2000) 163-171
+
+168
+
+Table 2
+Estimate of the normalised profit functiona
+Explanatory variables
+Constant
+p
+LF
+LO
+G
+
+K
+T
+PxP
+p
+p
+
+X
+X
+
+LF
+LO
+
+PxG
+PxK
+PxT
+LF x LF
+LF x LO
+
+Parameter (standard errors)
+-192.81 (2.236)
+-124.35 (12.778)
+2.748 (0.201)
+0.820 (0.180)
+36.378 (0.862)
+440.59 (13.820)
+8.424 (0.460)
+94.034 (11.964)
+-0.453 (0.122)
+-0.128 (O.lOO)NS
+-15.352 (0.521)
+-84.26 (8.307)
+-2.114 (0.420)
+0.00013 (0.002ts
+-0.371 (0.002)
+
+Explanatory variables
+
+Parameter (standard error)
+
+LF x G
+LF x K
+LF x TO
+LOx LO
+LOx G
+LOx K
+LO xT
+GxG
+
+0.0113 (0.007)NS
+-0.0459 (0.1!5)NS
+0.0042 (0.005)NS
+0.00047 (0.002)NS
+0.00511 (0.007)NS
+-0.109 (0.116)NS
+-0.635 (0.0042)NS
+-0.028 (0.Q35)NS
+1.059 (0.508)
+0.051 (0.020)
+-11.767 (9.537)NS
+-0.039 (0.328)NS
+0.066 (0.020)
+135.29 (20.675)
+0.70
+
+GxK
+GxT
+KxK
+KxT
+TxT
+
+w
+Adjusted R 2
+
+a P is the ratio of input to output price; LF is on-farm labour supplied by the household head; LO is on-farm labour supplied by other
+family members; G is land in ares; Kis capital; Tis technology represented by time trend; Wis Weather index; NS means not significant at 5%
+level; p = 0.74.
+
+Table 3
+Parameter estimates of the probability of participation in off-farm work (POFW) and the level of off-farm labour income (OFLI)a
+Explanatory variables
+
+Tobit model
+
+Generalised Tobit model
+POFW
+
+Constant
+log expected farm profit
+log non-labour income
+
+Family size
+Medium and higher agricultural
+education
+Lower agricultural education
+General education
+Age
+
+Age square
+log LF
+log LO
+log land
+log capital
+Time
+Consumer price index
+Average market wage rate
+
+-59.9 (9.2)
+-3.13 (0.66)
+0.266 (0.25)NS
+0.87 (0.24)
+1.8 (J.3)NS
+
+p
+log likelihood
+
+OFLI
+(0.589)
+(0.044)
+(0.016)NS
+(0.015)
+
+1.0 (J.3)NS
+5.1 (2.2)
+0.97 (0.26)
+0.024 (0.005)
+-6.07 (0.73)
+-0.22 (0.28)NS
+5.84 (0.99)
+1.52 (0.81)
+0.63 (0.30)
+3.1 I (2.33)
+-1.1 I (2.33)NS
+
+Family participation in farm work
+C5e
+
+-5.629
+-0.141
+-0.010
+0.061
+
+17.51 (0.30)
+-9502.53
+
+0.299 (0. 126)
+0.091 (0.017)
+-0.001 (0.0005)
+-0.232 (0.050)
+0.029 (0.024)NS
+0.50 (0.063)
+0.073 (0.05J)NS
+0.006 (0.0J9)NS
+-0.057 (0.0J9)NS
+0.014 (0.0J4)NS
+-0.077 (0.057)NS
+14.45 (0.86)
+-10622.75
+
+Independent double hurdle model
+OFLI
+
+POFW
+
+32.04 (74.66)
+-2.28 (1.80)
+0.34 (0.3J)NS
+-0.059 (0.67t'
+-1.49 (1.98)NS
+-!.OJ (2.J6)NS
+-0.41 (4.74)NS
+-0.48 (1.07)NS
+0.008 (0.024 )NS
+:._5.04 (2.42)
+-0.57 (0.36)NS
+0.14 (5.40)NS
+1.6 (1.2)NS
+9.28 (3.97)
+6.0 (3.l)NS
+-4.78 (3.7)NS
+
+-5.625
+-0.141
+-0.0 J0
+0.061
+
+(0.587)
+(0.042)
+(0.01 6)NS
+(0.015)
+
+0.299 (0.123)
+0.092 (0.015)
+-0.002 (0.0003)
+-0.233 (0.049)
+0.029 (0.025)NS
+0.50 (0.063)
+0.073 (0.052)NS
+0.006 (0.0J9)NS
+-0.066 (0.0J5)NS
+0.0]4 (0.0J5)NS
+-0.075 (0.057)NS
+
+0.91
+-17.91
+0.38
+-0.40
+- !2.42
+
+(61.87)
+(3.45)
+(J.73)NS
+( 1.67)NS
+(9.78)NS
+
+-9.90 (J0.26)NS
+-0.92 (15.J2)NS
+-2.90 (1.95)NS
+0.053 (0.041 )NS
+-28.37 (3.29)
+-0.58 (1.84)NS
+0.57 (6.4!)NS
+12.69 (5.0)
+3.99 (1.51)
+56.9 (16.8)
+-12.06 (10.99)NS
+
+14.45 (0.86)
+-10622.75
+
+0.081 (1.13)NS
+( -2696.71) +
+( -5969.83) = -8666.54
+
+"NS means not significantly different from zero at 5% level. LF is on-farm labour supplied by the household head; LOis on-farm labour
+supply by other family members.
+
+T. Woldehanna et al./Agricultural Economics 22 (2000) 163-171
+
+169
+
+Table 4
+Quasi-elasticity of the probability off-fann work participation and elasticity of off-farm labour income"
+Explanatory variables
+
+Effect
+on profit
+
+Off-farm work participation
+Direct
+effect
+
+Expected farm profitc
+Output price
+Non-labour income
+Family size
+Medium and higher agricultural education
+Lower agricultural education
+General education
+On-fann labour supplied by
+household head
+On-farm labour supplied by
+other family members
+Land
+Capital
+Time
+Average market wage rate
+Consumer price index
+
+Indirect
+effectb
+
+-0.06
+1.02
+
+-0.061
+0.004NS
+0.100
+
+0.300
+
+0.003
+-0.090
+
+Off-farm labour income
+Total
+effect
+
+Direct
+effect
+
+-0.061
+-0.061
+0.004NS
+0.10
+
+-0.97
+
+Indirect
+effect
+
+-0.290
+
+-0.97
+-0.99
+0.020NS
+0.090NS
+-0.47NS
+-0.11NS
+-0.002NS
+-1.840
+
+-0.99
+
+-0.020
+
+0.003
+-0.11
+
+0.020NS
+0.090NS
+-0.47oN8
+-0.110NS
+-0.022NS
+-1.550
+
+Total
+effect
+
+0.014
+
+O.OIONS
+
+-0.001
+
+-0.01
+
+-0.030NS
+
+-0.013
+
+-0.043
+
+0.550
+0.490
+0.510
+
+0.200
+0.030NS
+0.030NS
+0.120NS
+-0.030NS
+
+-0.030
+-0.030
+-0.030
+
+0.17
+0.00
+0.00
+0.120NS
+-0.030NS
+
+0.030NS
+0.700
+2.830
+-1.450NS
+3.600
+
+-0.530
+-0.480
+-0.500
+
+-0.500
+0.220
+2.330
+-1.450NS
+3.600
+
+NS indicates insignificantly different from zero at 5% level for the estimated coefficients.
+b The indirect effect comes through the effect on the expected short-run fann profit.
+c When the output price increases by 1%, short-run expected farm profits increase by 1.02%.
+a
+
+possible to achieve (Results of the dependent double
+hurdle model are not given in this paper). Next, the
+generalised Tobit model (7) was estimated. The correlation coefficient (p) is not significantly different
+from zero indicating that it is not worthwhile to use the
+parameter estimates of the generalised Tobit model for
+further analysis. Hence, the results of the independent
+double hurdle model have been used for further analysis and interpretations. The results are summarised
+in terms of quasi-elasticities4 (Cramer, 1991, p. 8) for
+the probability of participating in off-farm work and
+elasticities for the off-farm labour income (Table 4).
+Expected short-run farm profit has a significant
+negative impact on both the participation decision
+and the level of off-farm labour income, but with
+stronger impact on the level of off-farm labour income
+than on the desire to participate. Non-labour income
+did not show any significant effect on both the participation decision and off-farm labour income. An
+increase in the output price by 1% increases expected
+
+4 We use quasi-elasticity for the participation decision since for a
+probability response quasi-elasticity is unit free.
+
+short-run farm profit by 1.02% and the desire to
+participate in off-farm work decreases by 0.06%,
+and decreases the off-farm labour income by 0.99%
+on the average. Hence the 1992 and Agenda 2000 CAP
+reforms which decrease price support are most likely
+to increase off-farm employment of farm households.
+Family size, general education and age of the household head have a significant effect on the participation
+decision, but an insignificant effect on the level of offfarm labour income. Family size increases the households' desire to participate in off-farm work, which is
+consistent with the theory. Households with a larger
+family size have relatively higher marginal utility of
+income and a stronger desire to participate in off-farm
+work. General education of the household head has a
+little but positive significant effect on the participation
+decision (Huffman, 1980). Agricultural education
+does not show any significant effect on the off-farm
+work decision at all. Age and age squared of the
+household head show a significant quadratic age pattern on the participation decision which is consistent
+with the life-cycle hypothesis (Sumner, 1982). On the
+average, the desire of households to participate in offfarm work reaches its peak at the household head's age
+
+170
+
+T. Woldehanna et al./Agricultural Economics 22 (2000) 163-171
+
+of 41 years. This implies the prevalence of dual
+employment among young farmers and full time farming among older farmers (Benjamin and Guyomard,
+1994). However, neither age nor age squared showed
+any significant effect on the level of off-farm labour
+income.
+When the on-farm labour supply of the household
+head increases, both the desire to participate in offfarm work and the off-farm labour income decrease.
+The direct effect of other family members' on-farm
+labour supply is not significantly different from zero
+in both the participation decision and the level of
+off-farm labour income, but it has a little effect
+indirectly through its effect on expected short-run
+farm profit.
+Farm characteristics such as land, capital and technology have a negative indirect impact on both the offfarm work participation decision and the level of offfarm labour income. Whereas the direct effects of
+capital and technology are positive for off-farm labour
+income, they are not significantly different from zero
+for the participation decision. Consequently capital
+and technology have a net negative effect on the
+participation decision and a net positive effect on
+the level of off-farm labour income. Land has a
+significant positive direct effect and negative indirect
+effect on the desire to participate in off-farm work.
+The direct effect dominates the indirect effect and the
+net effect turns out to be positive. But its direct effect
+on the level of off-farm labour income is not significant and the net effect turns out to be negative. The
+positive net effect of capital and technology on the
+level of off-farm labour income may be due to the fact
+that capital and technology employed by households
+have a labour saving character. The net positive effect
+of land on the off-farm work participation decision is a
+strange result, which cannot be explained within the
+framework of a neo-classical economic theory.
+The consumer price index normalised by the price
+of output shows a large and significant positive effect
+on the level of off-farm labour income and a negative
+but insignificant effect on the off-farm work participation decision. This illustrates that as the consumption
+price increases the marginal utility of leisure decreases
+and the intensity of off-farm work increases. The
+average market wage rate, which is invariant across
+households, does not show any significant effect on the
+off-farm work decision.
+
+5. Conclusions
+The results confirm that farm households are inhibited by rationing and unexpected transaction costs
+to participate in off-farm activities. Expected shortrun farm profit and on-farm labour supplied by a
+household head have a strong negative impact on
+the off-farm work decision of a household. Whereas,
+non-labour income, on-farm labour supplied by other
+family members and agricultural education do not
+show any significant impact on the off-farm work
+decision. Family size and general education show a
+positive effect on the desire of households to participate in off-farm work, but not on the level of off-farm
+labour income. Age of the household head shows
+a significant quadratic pattern in the participation
+decision only.
+The policy implication is that government subsidies
+aimed at increasing household's income through price
+policies may have a negative impact on the off-farm
+employment of farm households. Whereas, direct
+income support does not create a disincentive for
+households to participate in off-farm work. Hence,
+the 1992 and Agenda 2000 CAP reforms, decreased
+price support in combination with direct income support, are most likely to increase off-farm employment
+of arable farm households in the Netherlands. However, in the presence of the inhibition to join off-farm
+activities, the potential impact of the CAP-reforms
+cannot be fully realised. The results also imply that
+there is an alternative policy option for government
+intervention if there is a need to make households
+diversify the ways in which they gain their livelihood.
+In the long run, the government can pursue policies such
+as promoting education to enable farm households to
+secure off-farm jobs more easily. In the short-run,
+off-farm employment can be increased by reducing
+inhibitions, such as farm households' access to various
+information sources, to join off-farm activities.
+
+Acknowledgements
+We are much indebted to Arie Oskam and Mars
+Cramer for their helpful comments on an earlier draft.
+We benefited from the discussion with Allison Burrell
+on a double hurdle model. However, we remain
+responsible for any remaining errors.
+
+T. Woldehanna eta!. I Agricultural Economics 22 (2000) 163-171
+
+References
+Amemiya, T., 1984. Tobit models: a survey. Journal of Econometrics 24, 3-61.
+Becker, G.S., 1965. The theory of allocation of time. The
+Economic Journal 75, 493-517.
+Benjamin, C., Guyomard, H., 1994. Off-farm work decisions of
+French agricultural households. In: Caillavet, F., Guyomard, H.,
+Lifran, R. (Eds.), Agricultural Household Modelling and
+Family Economics, Elsevier, Amsterdam, pp. 65-85.
+Blundell, R., Meghir, C., 1987. Bivariate alternatives to the Tobit
+model. Journal of Econometrics 34, 179-200.
+Cragg, J.G., 1971. Some statistical model for limited dependent
+variables with application to the demand for durable goods.
+Econometrics 39, 829-844.
+Cramer, J.S., 1991. The Logit model: an introduction for
+economists. Edward Arnold, London.
+Deaton, A., Irish, M., 1984. Statistical models for zero expenditure
+in household budgets. Journal of Public Economics 23, 59-80.
+European Union, 1999. Berlin European council: Agenda 2000,
+conclusions of the presidency. Europa.eu.int/comm/dg06/
+publi/newsletter/1 0 en.htm.
+Greene, W.H., 1993. Econometric Analysis. Macmillan, New York.
+Gronau, R., 1973. The intrafamily allocation of time: the value of
+the housewife's time. American Economic Review 63, 634-651.
+Hallberg, M.C., Findeis, J.L., Lass, D.A. (Eds.), 1991. Multiple
+Job-holding among Farm Families. Iowa State University Press,
+Ames.
+Hearn, D.H., McNamara, K.T., Gunter, L., 1996. Local economic
+structure and off-farm labour earnings of farm operators and
+spouses. Journal of Agricultural Economics 47(1), 28-36.
+Hill, B., 1996. Monitoring incomes of agricultural households
+within the ED's information new needs and new methods.
+European Review of Agricultural Economics 23, 27-48.
+Huffman, W.E., 1991. Agricultural household models: survey and
+critique. In: Hallberg, M.C., Findeis, J.L., Lass, D.A. (Eds.),
+Multiple Job-holding among Farm Families, Iowa State
+University Press, Ames, pp. 79-110.
+Huffman, W.E., 1980. Farm and off-farm work decisions: the role
+of human capital. Review of Economics and Statistics 62 14-~.
+,
+Kimhi, A., 1994. Participation of farm owners in farm and off-farm
+work including the option of full-time off-farm work. Journal of
+Agricultural Economics 45(2), 232-239.
+Kimhi, A., 1994. Quasi maximum likelihood estimation of
+multivariate Probit models: farm couples' labor participation.
+American Journal of Agricultural Economics 76(4), 828-835.
+
+171
+
+Kimhi, A., 1996. Farmers' time allocation between farm work and
+off-farm work and the importance of unobserved group effects:
+evidence from Israeli cooperatives. Agricultural Economics
+14(2), 135-142.
+Kimhi, A., 1996. Off-farm work participation of Israeli farm
+couples: the importance of farm work participation status.
+Canadian Journal of Agricultural Economics 44(2), 481-490.
+Kimhi, A., Lee, M.J., 1996. Off-farm work decisions of farm
+couples: estimating structural simultaneous equations with
+ordered categorical dependent variables. American Journal of
+Agricultural Economics 78(3), 687-698.
+Lass, D.A., Findeis, J.L., Hallberg, M.C., 1991. Factors affecting
+the supply of off-farm labour: a review of empirical evidence.
+In: Hallberg, M.C., Findeis, J.L., Lass, D.A. (Eds.), Multiple
+Job-holding among Farm Families, Iowa State University Press,
+Ames, pp. 239-262.
+Lin, T., Schmidt, P., 1984. A test of Tobit specification against an
+alternative suggested by Cragg. The Review of Economics and
+Statistics 66, 174--177.
+Maddala, G.S., 1983. Limited-dependent and qualitative variables
+in econometrics. Cambridge University Press, Cambridge.
+Mishra, A.K., Goodwin, B.K., 1997. Farm income variability and
+the supply of off-farm labor. American Journal of Agricultural
+Economics 79(3), 880-887.
+Olfert, M.R., 1993. Off-farm labour supply with productivity
+increases, peak period production and farm structure impacts.
+Canadian Journal of Agricultural Economics 41(4), 491-501.
+Oskam, A.J., 1991. Weather indices of agricultural production in
+the Netherlands 1948-1989. 1. General methodology and the
+arable sector. Netherlands Journal of Agricultural Science 39,
+149-164.
+Oude Lansink, A., Peerlings, J., 1996. Modelling the new EU
+cereals response and oilseeds regime in the Netherlands.
+European Review of Agricultural Economics 23, 161-178.
+Singh, I., Squire L., Strauss J. (Eds.), 1986. Agricultural Household
+Models: Extensions, Applications, and Policy. Johns Hopkins
+University Press, Baltimore, MD.
+Sumner, D.A., 1982. The off-farm labour supply of farmers. The
+American Journal of Agricultural Economics 64, 499-509.
+Tavernier, E.M., Temel, T.T., Li, F., 1997. The role of farm
+ownership in off-farm work participation. Agricultural and
+Resource Economics Review 26(1), 67-81.
+Thijssen, G.J., 1992. Microeconomic models of Dutch dairy farms.
+In: Wageningen Economic Studies No. 25, Wageningen
+Agricultural University, Wageningen.
+Weersink, A., Nicholson, C., Weerhewa, J., 1998. Multiple job
+holdings among dairy farm families in New York and Ontario.
+Agricultural Economics 18(2), 127-143.
+
+

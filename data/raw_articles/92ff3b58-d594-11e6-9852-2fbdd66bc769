@@ -1,0 +1,1458 @@
+AGRICULTURAL
+
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 10 (1994) 27-37
+
+Efficiency in agricultural production:
+the case of peasant farmers in eastern Paraguay
+Boris E. Bravo-U reta *
+Department of Agricultural and Resource Economics, The University of Connecticut, 1376 Storrs Road, U-21, Storrs,
+CT 06269-4021, USA
+
+Robert E. Evenson
+Department of Economics, Yale University, New Haven, CT, USA
+(Accepted 5 May 1993)
+
+Abstract
+This paper contributes to the productivity literature in developing country agriculture by quantifying the level of
+efficiency for a sample of peasant farmers from Eastern Paraguay. A stochastic efficiency decomposition methodology is used to derive technical, allocative and economic efficiency measures separately for cotton and cassava. An
+average economic efficiency of 40.1% for cotton and of 52.3% for cassava is found, which suggests considerable
+room for productivity gains for the farms in the sample through better use of available resources given the state of
+technology. Gains in output through productivity growth have become increasingly important to Paraguay as the
+opportunities to bring additional virgin lands into cultivation have significantly diminished in recent years. No clear
+strategy to improve farm productivity could be gleaned from an examination of the relationship between efficiency
+and various socioeconomic variables. One possible explanation for this finding is the existence of a stage of
+development threshold below which there is no consistent relationship between socioeconomic variables and
+productivity. If this is the case, then our results suggest that this sample of Paraguayan peasants are yet to reach such
+a threshold. Hence, improvements in educational and extension services, for example, would be needed to go beyond
+this threshold. Once this is accomplished, additional productivity gains would be obtained by further investments in
+human capital and related factors.
+
+1. Introduction
+
+* Corresponding author.
+Scientific Contribution No. 1416 of the Storrs Agricultural
+Experiment Station, The University of Connecticut, Storrs,
+CT 06269, USA.
+
+The crucial role of efficiency in increasing
+agricultural output has been widely recognized by
+researchers and policy makers alike. It is no sur-
+
+0169-5150/94/$07.00 © 1994 Elsevier Science B.V. All rights reserved
+SSDI 0169-5150(93)E0034-K
+
+28
+
+B.E. Brauo-Ureta, R.E. Evenson I Agricultural Economics 10 (1994) 27-37
+
+prise, therefore, that considerable effort has been
+devoted to the analysis of farm level efficiency in
+developing countries. An underlying premise behind much of this work is that if farmers are not
+making efficient use of existing technology, then
+efforts designed to improve efficiency would be
+more cost-effective than introducing new technologies as a means of increasing agricultural
+output (Belbase and Grabowski, 1985; Shapiro,
+1983).
+Most of the empirical literature dealing with
+farm efficiency in developing countries has been
+concerned exclusively with the measurement of
+technical efficiency. Studies of this type have
+been published for India, The Philippines, Sri
+Lanka, Nepal, Malaysia, Tanzania, Jamaica,
+Guatemala, and Brazil (Huang and Bagi, 1984;
+Kalirajan and Shand, 1985; Kalirajan, 1981, 1984;
+Lingard, Castillo and Jayasuriya, 1983; Kalirajan
+and Flinn, 1983; Ekayanake, 1987; Kalirajan and
+Shand, 1986; Shapiro and Muller, 1977; Rawlins,
+1985; Phillips and Marble, 1986; Taylor and
+Shonkwiler, 1986). By focusing only on technical
+efficiency, these works have ignored the gains in
+output that could be obtained in the short run by
+also improving allocative efficiency.
+There are only a few studies that go beyond
+the measurement of technical efficiency in developing country agriculture. These include the work
+by Taylor, Drummond and Gomes (1986), who
+analyzed technical and economic efficiency for a
+sample of Brazilian farmers; Bailey et al. (1989),
+who measured technical, allocative and scale inefficiency for a sample of Ecuadorean milk producers; and Ali and Chaudry (1990), who examined technical, allocative and economic efficiency
+for a sample of Pakistani crop farmers.
+The purpose of this paper is to contribute to
+the efficiency literature in developing country
+agriculture by quantifying the level of technical,
+allocative and economic efficiency for a sample of
+peasant farmers from Eastern Paraguay. The relationship between efficiency and various socioeconomic characteristics of the peasants is also
+investigated. The remainder of this paper is organized into five sections. First, we present a brief
+background of the Paraguayan agricultural sector,
+followed by the analytical framework employed in
+
+this study. The data and empirical model are
+discussed next, followed by a section containing
+the results and analysis. The last section offers
+some concluding remarks.
+
+2. Background
+
+The agricultural sector in Paraguay, as is often
+the case in less developed nations, has played a
+key role in this country's development strategy.
+An important component of this strategy was the
+availability of public lands which were distributed
+to settlers as a means of both absorbing a growing
+population and of increasing agricultural output
+(Nagel, 1991). These settlements, along with massive migration to Argentina during the 1950s and
+1960s, delayed the process of rural to urban migration and eased the need for improving agricultural productivity (Nikiphoroff and Villagra,
+1987).
+In the late 1960s and through the 1970s,
+Paraguay experienced rapid economic growth resulting in part from favorable international commodity prices and, more importantly, from cash
+inflows stemming from the huge hydro-electric
+project in Itaipu (Evenson, 1988). According to
+the World Bank, the average annual rate of
+growth in Paraguayan agriculture during the
+1965-80 period was a healthy 4.9%. By the late
+1970s, however, the availability of public lands for
+agricultural use had diminished considerably, and
+the vast resources generated during the construction of the Itaipu project had failed to provide a
+lasting solution to the rising levels of unemployment and poverty (Nikiphoroff and Villagra,
+1987).
+In the early 1980s, Paraguay entered a severe
+recession resulting in a negative one-percent
+growth in the gross national product (GNP). The
+annual average GNP growth rate between 1981
+and 1986 was a meager 0.6% (BID, 1987). During
+this same period, the rate of growth in agriculture
+remained positive but dropped to an annual average of 2.0%. By comparison, the average annual
+population growth rates went from 2.8% in the
+1965-80 period to 3.2% during the 1980-87 period (World Bank, 1989). This poor economic
+
+B.E. Brauo-Ureta, R.E. Evenson/ Agricultural Economics 10 (1994) 27-37
+
+performance, along with rapid population expansion and the dwindling supply of public lands
+suitable for cultivation, has made farm productivity growth a major policy issue in Paraguay
+(Nikiphoroff and Villagra, 1987).
+
+29
+
+actual operating input combination is Xa · P.
+These three cost measures are the basis for computing the following technical (TE) and economic
+(EE) efficiency indexes:
+TE =
+
+(X/ . p) I (X: . p)
+
+(4)
+
+X: .p) I ( X: .p)
+
+(5)
+
+and
+3. Analytical framework
+
+1
+
+EE = (
+
+We begin by assuming that the farm frontier
+production function can be written as:
+
+(1)
+where Q is the quantity of agricultural output, xa
+is a vector of input quantities, and {3 is a vector
+of parameters. The technically efficient input vector XP for a given level of production (Q), is
+derived by solving simultaneously Eq. (1) and the
+input ratios XII Xi= ki (i > 1), where ki is the
+ratio of observed inputs xl and xi at output Q.
+If the functional form of the production frontier is self-dual, for example Cobb- Douglas, then
+the corresponding cost frontier can be derived
+analytically and written in general form as:
+C=h(P,Q;y)
+
+(2)
+
+where C is the minimum cost associated with the
+production of Q, P is a vector of input prices,
+and y is a vector of parameters. By using Shephard's Lemma, we obtain:
+
+ac
+
+-
+
+api
+
+=Xi(P, Q; ¢)
+
+(3)
+
+which is a system of minimum cost input demand
+equations. Substituting a firm's input prices and
+output quantity into the demand system in Eq. (3)
+yields the economically efficient input vector xe.
+Given a farm's observed level of output, the corresponding technically and economically efficient
+costs of production are equal to X/ · P and to
+P, respectively, while the cost of the farm's
+
+x: ·
+
+Following Farrell (1957), Eqs. (4) and (5) can be
+combined to obtain the allocative efficiency (AE)
+index:
+AE
+
+To empirically measure efficiency, we first estimate a stochastic production frontier and then
+use the approach introduced by Jondrow et al.
+(1982) to separate the deviations from the frontier into a random and an efficiency component.
+To show how this separation is accomplished,
+consider the stochastic production frontier:
+
+(7)
+where
+
+E=v-u
+
+(8)
+
+is the composed error term (Aigner, Lovell and
+Schmidt, 1977; Meeusen and van den Broeck,
+1977). The two components v and u are assumed
+to be independent of each other, where v is the
+two-sided, normally distributed random error (v
+~ N(O, a}), and u is the one-sided efficiency
+component with a half-normal distribution (u ~
+I N(O, a} I). The maximum likelihood estimation
+of Eq. (7) yields estimators for {3 and A, where {3
+was defined earlier, A=(}',,/(}'" and (}' 2 = (}'} + (}'}.
+Jondrow et al. (1982) have shown that the
+assumptions made on the statistical distributions
+of v and u, mentioned above, make it possible to
+calculate the conditional mean of u1 given Ei as:
+
+E(u
+1
+
+1 The model presented in this section is based on the stochastic efficiency decomposition approach presented by BravoUreta and Rieger (1991), which is an extension of the model
+introduced by Kopp and Diewert (1982). For reviews of frontier function methodology, see Forsund, Lovell and Schmidt
+(1980) and Schmidt (1985-86).
+
+(6)
+
+(EE)I(TE) =(X:· P)I(X/ · P)
+
+=
+
+l
+
+E)=(}'*[
+1
+
+f*(EJAI(J')
+_ EiA
+1-F*(EJAI(J')
+(J'
+
+l
+
+(9)
+
+where F * and f * are, respectively, the standard
+normal density and distribution functions, evaluated at EJAI(J', and (}' 2 = (}'} (}'} 1(}' 2 • Therefore,
+Eqs. (7) and (9) provide estimates for u and v
+after replacing E, (J', and A by their estimates. If
+
+30
+
+B.E. Bravo-Ureta, R.E. Evenson I Agricultural Economics 10 (1994) 27-37
+
+u is now subtracted from both sides of (7), we
+obtain:
+Q * = f( X a; {3) - u = Q - u
+
+(10)
+
+where Q * is the firm's observed output adjusted
+for the statistical noise captured by u. Eq. (10) is
+the basis for computing the vector X 1 and for
+algebraically deriving the cost frontier. Applying
+Shephard's Lemma to the cost frontier yields the
+minimum cost factor demand equations which, in
+turn, are used to obtain the vector Xe.
+In closing this section, it is useful to point out
+that an important issue in stochastic frontier
+models is the distributional assumptions made for
+the one-sided error. Much of the literature to
+date, including this paper, has followed the halfnormal distribution, as originally proposed by
+Aigner, Lovell and Schmidt (1977), despite the
+fact that more flexible distributions are available.
+One of the few papers that have examined the
+sensitivity of the efficiency results to distributional assumptions was published recently by
+Greene (1990), where he introduced a stochastic
+frontier specification that incorporates the
+Gamma distribution. After comparing several
+specifications, Greene (1990) concluded that, for
+his data, efficiency levels were essentially the
+same for the half-normal, truncated normal and
+exponential distributions while the Gamma model
+yielded higher efficiency 2 . In a review of new
+developments in frontier function methodology,
+Bauer (1990) argued that additional empirical as
+well as theoretical work is needed to arrive at a
+better understanding of the effects that alternative distributional assumptions have on efficiency.
+
+peasant farms producing traditional food crops
+and cotton in Eastern Paraguay. The farms in the
+sample are located in the following eight districts:
+Caaguazu, Yhu, Eusebio, Ayala, Yaguar6n, Pirayu, Villeta, and Ita 3 .
+The analysis reported below focuses on the
+two most important crops grown in the study
+region, cotton and cassava, for which the data are
+most reliable. After deleting farmers not producing these crops and discarding incomplete records,
+we end up with 87 cotton producers and 101
+cassava producers. A total of 57 farmers produced both crops. This latter group is referred to
+as the subsample.
+The Cobb-Douglas functional form was used
+to fit separate stochastic production frontiers for
+cotton and cassava using maximum likelihood
+procedures. Despite its well known limitations,
+the Cobb-Douglas is chosen because the
+methodology employed requires that the production function be self-dual. It is also worth stating
+that this functional form has been widely used in
+farm efficiency analyses for both developing and
+developed countries 4 . Furthermore, in one of
+the very few studies examining the impact of
+functional form on efficiency, Kopp and Smith
+(1980) concluded " ... that functional specification has a discernible but rather small impact on
+estimated efficiency" (p. 1058).
+The use of the single-equation model depicted
+in Eq. (11) is justified by assuming that farmers
+maximize expected profits, as is commonly done
+in studies of this type (Zellner, Kmenta and
+Dreze, 1966; Kopp and Smith, 1980; Caves and
+Barton, 1990). The specific model estimated is:
+In Y
+
+It should be noted that several years ago Greene (1980)
+introduced the Gamma distribution in the context of a deterministic frontier model.
+
++ {3 2 ln L + {3 3 ln M + E
+
+where Y is annual total farm output of cotton or
+cassava (kg); R the area devoted to cotton or
+cassava production (ha); L family and hired
+
+For additional details concerning the data the interested
+reader is referred to Evenson (1988).
+4 Support for this statement can be found in the reviews of
+the empirical literature recently completed by Battese (1992)
+and by Bravo-Ureta and Pinheiro (1992).
+
+3
+
+2
+
+{3 0 + {3 1 In R
+
+(11)
+
+4. Data and empirical procedures
+
+The data used in this paper come from a
+random sample of small-scale Paraguayan producers for the 1986-87 agricultural year collected
+in July, 1987. The sample is comprised of 148
+
+=
+
+B.E. Bravo-Ureta, R.E. Evenson/ Agricultural Economics 10 (1994) 27-37
+
+31
+
+Table 1
+Average production functions and stochastic production frontiers for cotton and cassava based on a sample of Paraguayan peasant
+farmers, 1987
+Cotton (N = 87)
+
+Variable
+
+Mean
+(so)
+
+Average
+function
+
+Stochastic
+frontier
+
+1.74
+(1.30)
+91.37
+(81.43)
+65.96
+(53.69)
+
+6.262 ***
+(0.323)
+0.698 ***
+(0.083)
+0.212 * *
+(0.083)
+0.007
+(0.030)
+
+6.799 ***
+(0.365)
+0.684 ***
+(0.069)
+0.196 * *
+(0.086)
+0.014
+(0.037)
+
+Intercept
+Land
+Labor
+Materials
+
+=
+
+Quasi function coefficient
+Adj. R 2
+A
+
+0.917
+0.69
+
+Average
+function
+
+0.91
+(0.53)
+47.05
+(34.35)
+15.57
+(13.95)
+
+7.409 ***
+(0.399)
+0.746 ***
+(0.149)
+0.335 ***
+(0.102)
+0.045
+(0.033)
+
+0.01 level;
+
+0.894
+
+* *, at the 0.05 level; *, at the
+
+worker days used in cotton or cassava production;
+
+Stochastic
+frontier
+7.941 ***
+(0.466)
+0.712 ***
+(0.178)
+0.355 ***
+(0.109)
+0.061
+(0.068)
+
+24.5 ***
+0.89
+
+2.12 * *
+(1.12)
+0.69
+(0.11)
+57.10
+
+Log likelihood
+
+101)
+
+Mean
+(so)
+
+63.8 ***
+1.45
+
+F-statistic model
+F-statistic CRTS
+
+* * *, Significant at the
+
+Cassava N
+
+1.126
+0.41
+
+1.128
+1.74 *
+(1.10)
+0.93
+(0.16)
+101.60
+
+0.10 level.
+
+5. Empirical results
+
+M value of materials including expenditures on
+
+draft animal services, seed, and other purchased
+inputs used for the production of cotton or cassava measured in thousands of Guaranies; /3;
+parameters to be estimated (i = 0, 1, 2, 3); and E
+composed error term defined earlier. The explanatory variables included in the model are
+similar to those used in previous studies of developing country agriculture (Taylor, Drummond and
+Gomes, 1986; Taylor and Shonkwiler, 1986). A
+major difference is that we estimate separate
+production frontiers for two individual crops while
+most studies rely on estimates of total value product frontiers 5 •
+
+The production functions were initially estimated including
+District dummy variables to account for possible effects of
+location on the production structure of the farms in the
+sample. The null hypothesis that the parameters for the set of
+dummy variables was equal to zero could not be rejected for
+neither crop for both the OLS and the frontier models.
+Consequently, and as a way to simplify the analysis, the
+district dummy variables were dropped from the models.
+
+5
+
+Table 1 shows the maximum likelihood parameter estimates of the stochastic production frontier (Eq. 11) for cotton and cassava producers
+along with some descriptive statistics for the sample. For comparison, OLS estimates of average
+production functions are also shown. In general,
+the frontier estimates amount to a neutral upward shift of the average function. The function
+coefficient for cotton is close to 0.90 while the
+value for cassava is 1.13. These values are virtually unaffected by the estimator used. Based on
+restricted least squares regression, the hypothesis
+of constant returns to size cannot be rejected for
+either cotton or cassava. These results are consistent with the fact that all farms in the sample are
+relatively small. The largest number of hectares
+devoted to cotton production is six while the
+corresponding figure for cassava is three.
+The dual cost frontier for cotton, derived analytically from the stochastic production frontier
+
+B.E. Bravo-Ureta, R.E. Evenson I Agricultural Economics 10 (1994) 27-37
+
+32
+
+Table 2
+Frequency distribution of economic (EE) technical
+sample of Paraguayan peasant farmers, 1987
+
+and allocative
+
+(AE)
+
+Cotton (N = 87)
+
+Level(%)
+
+EE
+
+> 90
+> 80 :S 90
+> 70 :S 80
+> 60 :S 70
+>50 :S 60
+> 40 :S 50
+> 30 :S 40
+> 20 :S 30
+> 10 :S 20
+:S10
+
+0
+0
+0
+5
+23
+20
+20
+16
+3
+0
+
+Mean(%)
+Minimum(%)
+Maximum(%)
+
+40.67
+15.19
+66.94
+
+a
+
+(TE)
+
+a
+
+efficiency estimates for cotton and cassava based on a
+Cassava (N = 101)
+
+TE
+
+AE
+
+EE
+
+TE
+
+AE
+
+0
+6
+18
+22
+17
+9
+10
+4
+1
+0
+
+4
+23
+32
+10
+13
+4
+0
+1
+0
+0
+
+0
+0
+17
+19
+26
+18
+13
+6
+2
+0
+
+0
+7
+23
+23
+19
+14
+10
+4
+1
+0
+
+68
+22
+3
+6
+1
+1
+0
+0
+0
+0
+
+58.24
+19.21
+84.95
+
+70.12
+24.33
+91.66
+
+52.26
+15.65
+78.24
+
+58.67
+17.86
+83.14
+
+88.94
+42.31
+99.70
+
+Number of farms.
+
+Table 3
+Comparison of efficiency indexes from various studies using production frontiers
+Author(s)
+
+Country
+
+Product
+
+TE
+
+AE
+
+EE
+
+Ali and Chaudry
+Bagi
+
+Pakistan
+United States
+
+0.51
+
+United States
+India
+Philippines
+Philippines
+Malaysia
+Jamaica
+Brazil
+Brazil
+Paraguay
+
+0.84
+0.85
+0.75
+0.83
+0.90
+0.63
+0.50
+0.65
+0.73
+0.71
+0.17
+0.58
+0.59
+
+0.61
+
+Bravo-Ureta and Rieger (1991)
+Huang and Bagi
+Kalirajan
+Kalirajan and Flinn
+Kalirajan and Shand
+Rawlins
+Taylor and Shonkwiler
+Taylor eta!.
+This study
+
+Crops
+Crops
+Crops I Livestock
+Dairy
+Multiproduct
+Rice
+Rice
+Rice
+Crops
+Multiproduct
+Multiproduct
+Cotton
+Cassava
+
+0.85
+
+0.70
+
+0.74
+0.70
+0.88
+
+0.13
+0.40
+0.52
+
+a
+
+a
+
+For studies that report more than one value for a given efficiency index, a simple average is calculated and presented.
+
+shown in Table 1, is
+
+a similar fashion, is:
+
+6:
+
+Ln CA = -6.997 + 0.764 Ln PR + 0.220 Ln PL
+
++ 0.016 Ln
+
+PM+ 1.118 Ln
+
+Q;t
+
+(12)
+
+and the dual cost frontier for cassava, derived in
+
+For the analytical derivation of a Cobb- Douglas cost function from its dual production function, see Silberberg (1978,
+chapter 10) andlor Varian (1992, chapter 4).
+6
+
+Ln Cc = -6.228 + 0.631 Ln PR + 0.315 Ln PL
+
++ 0.054 Ln
+
+PM+ 0.887 Ln Q~
+
+(13)
+
+where CA is per-farm costs of producing cotton;
+Cc per-farm costs of producing cassava; P R rental
+price per hectare of land estimated at 80,000
+Guaranies; PL daily wage rate per worker estimated at 1,200 Guaranies; PM price of materials
+set at 1.10 (since the quantity of materials applied
+
+B.E. Brauo-Ureta, R.E. Evenson/ Agricultural Economics 10 (1994) 27-37
+
+is measured in 1000 Guaranies, using a price of
+1.10 implies a cost of operating capital of 10%);
+Q1 annual total farm output of cotton in kilograms adjusted for any statistical noise as specified in Eq. (10) above; and Qt annual total farm
+output of cassava in kilograms adjusted for any
+statistical noise as specified in Eq. (10) above.
+The mean economic (EE), technical (TE) and
+
+Table 4
+Average economic
+peasant farmers
+Variable
+
+(EE),
+
+technical (TE) and allocative
+
+(AE)
+
+33
+
+allocative (AE) efficiency indices computed for
+the 87 cotton producers, shown in Table 2, are
+40.7, 58.2 and 70.1, respectively. The corresponding indices for the 101 cassava producers are 52.3,
+58.7 and 88.9. Given that cotton is produced as a
+cash crop and cassava is produced primarily for
+direct consumption, it is interesting ,to compare
+the efficiency levels for these two crops. The null
+
+efficiency indexes, and socioeconomic characteristics for Paraguayan
+
+Cotton
+
+Cassava
+
+N
+
+EE
+
+TE
+
+AE
+
+N
+
+EE
+
+TE
+
+AE
+
+26
+43
+7
+11
+
+38.5
+41.8
+41.8
+41.0
+0.3
+
+56.2
+60.0
+58.3
+56.4
+0.4
+
+69.5
+69.4
+73.6
+72.4
+0.3
+
+37
+44
+10
+10
+
+54.7
+50.8
+49.4
+52.6
+0.5
+
+59.6
+57.6
+60.2
+58.2
+0.1
+
+91.9
+87.8
+82.5
+89.4
+2.5
+
+41.7
+39.8
+42.3
+39.5
+0.2
+
+60.7
+56.6
+61.4
+55.6
+0.7
+
+69.3
+70.4
+68.4
+72.0
+0.3
+
+14
+25
+31
+31
+
+49.7
+58.5
+48.6
+52.1
+2.1
+
+56.7
+65.0
+54.4
+58.7
+2.3
+
+87.4
+90.1
+89.1
+88.6
+0.2
+
+34.6
+40.6
+42.8
+1.6
+
+48.7
+60.0
+59.2
+2.4
+
+70.8
+68.3
+72.4
+1.0
+
+12
+51
+38
+
+59.8
+51.9
+50.4
+1.7
+
+65.5
+58.5
+56.7
+1.5
+
+90.8
+88.6
+88.8
+0.2
+
+76
+11
+
+40.2
+44.0
+0.8
+
+57.5
+63.2
+1.2
+
+69.3
+70.2
+0.1
+
+93
+8
+
+52.4
+50.8
+0.1
+
+59.0
+54.9
+0.5
+
+88.6
+92.6
+1.1
+
+43
+44
+
+38.4
+42.9
+2.6
+
+54.2
+62.2
+6.0 **
+
+71.3
+68.9
+0.7
+
+56
+45
+
+50.9
+54.0
+1.0
+
+57.4
+60.3
+0.8
+
+88.2
+89.8
+0.6
+
+74
+13
+
+40.8
+40.2
+0.2
+
+58.4
+57.1
+0.1
+
+70.2
+69.8
+0.1
+
+86
+15
+
+52.7
+50.0
+0.4
+
+59.4
+54.3
+1.4
+
+88.4
+92.3
+1.8
+
+32
+25
+30
+
+41.7
+38.5
+41.3
+0.5
+
+56.3
+59.3
+59.5
+0.4
+
+74.5
+65.5
+69.4
+3.5 **
+
+49
+24
+28
+
+48.6
+60.2
+51.9
+4.8
+
+54.2
+67.1
+59.2
+5.9 ***
+
+89.4
+89.7
+87.5
+0.3
+
+SIZE
+
+:S 5 ha
+> 5 :S 10 ha
+> 10 :S 15 ha
+> 15 ha
+F-ualue
+AGE
+
+:S 40 years
+
+> 40 :S 50 years
+> 50 :S 58 years
+>58 years
+F-ualue
+
+14
+27
+23
+23
+
+*
+
+EDUC
+
+:S 1 year
+> I :S 2 years
+
+> 2 years
+F-ualue
+
+11
+44
+32
+
+*
+
+ASSIST
+
+0
+F-ualue
+CREDIT
+
+0
+F-ualue
+EXTEN
+
+0
+F-ualue
+EXHRS
+
+:S 2000
+> 2 000 :S 2 700
+> 2700
+F-ualue
+
+* * *, Significant at 0.01 level; * *, at 0.05 level; *, at 0.10 level.
+
+**
+
+*
+
+34
+
+B. E. Bravo-Ureta, R.E. Evenson/ Agricultural Economics 10 (1994) 27-37
+
+hypothesis that the mean efficiency (EE, TE and
+AE) for both crops is equal, evaluated using t-tests,
+is accepted for TE and rejected for EE and AE.
+These findings are consistent for the overall sample as well as for the subsample of 57 farmers
+producing both crops. Therefore, we conclude
+that EE and AE are significantly higher in cassava
+production compared to cotton production, while
+no difference is found across the two crops for
+TE. In addition, correlation analysis for each efficiency measure between the two crops suggests a
+positive but weak association. The correlation
+coefficients are 0.12 for EE, 0.19 for TE, and 0.18
+for AE.
+For comparison purposes, Table 3 presents
+efficiency indices reported in various studies using data from several countries. It is interesting to
+note that our efficiency estimates tend to be
+lower than those reported by other researchers.
+A clear exception is the study by Taylor, Drummond and Gomes (1986), who reported technical
+and economic efficiency indexes much lower than
+those found in this study. Their measures were
+derived from a deterministic frontier which makes
+them very sensitive to outliers. In fact, Taylor and
+Shonkwiler (1986) applied a stochastic frontier on
+the same data as Taylor, Drummond and Gomes
+(1986) and found that, as shown in Table 3,
+technical efficiency increased from around 0.18 to
+0.71 7 .
+Several authors have investigated the relationship between efficiency and various socioeconomic variables using two alternative approaches 8 • One approach is to compute correlation coefficients or to conduct other simple non
+parametric analyses. The second way, usually referred to as a two-step procedure, is to first
+measure farm level efficiency and then to estimate a regression model where efficiency is expressed as a function of socioeconomic attributes.
+These analyses have been criticized by some who
+
+7
+
+For a detailed comparison of the impact of alternative
+estimators on mean technical efficiency levels, see Bravo-Ureta
+and Rieger (1990).
+8 For a review of several of these papers, see Bravo-Ureta
+and Pinheiro (1993).
+
+argue that the socioeconomic variables should be
+incorporated directly in the production frontier
+model because such variables may have a direct
+impact on efficiency (Battese, Coelli and Colby,
+1989). Kalirajan (1991) has recently defended this
+practice by contending that the socioeconomic
+attributes have a roundabout effect on production and, hence, should be incorporated into the
+analysis indirectly. Ray (1988) has argued that the
+two-step procedure is justifiable if one assumes
+that the production function is multiplicatively
+separable in what he calls discretionary and
+nondiscretionary inputs. The former inputs are
+those typically included in production function
+models while the latter are those commonly used
+to explain variations in efficiency. This controversy is relatively recent in the frontier literature
+and, thus, additional research will be required
+before a resolution is found.
+Despite the controversy just mentioned, we
+still believe that it is useful to examine the possible relationship between efficiency and socioeconomic characteristics. For this purpose, we use
+Analysis of Variance (ANOVA) to investigate the
+association between EE, TE and AE, and the following seven socioeconomic characteristics: (1)
+SIZE, the total number of hectares in the farm
+unit; (2) AGE, given by the age of the household
+head; (3) Eouc, the number of years of schooling
+completed by the household head; (4) ASSIST,
+equal to 1 for those farmers that received technical assistance from a variety of sources, including
+private firms, the extension service, credit institutions, neighbors and/ or family members, and
+zero otherwise; (5) CREDIT, equal to 1 for farmers
+that reported receiving credit and zero otherwise;
+(6) EXTEN, equal to 1 for farmers that reported
+having contacts with the extension service and
+zero otherwise; and (7) EXHRS, the number of
+extension field staff hours devoted to field extension work on each crop in the district where the
+farm is located.
+The most striking conclusion that can be
+gleaned from the ANOVA results, shown in Table
+4, is the lack of a consistent pattern of association
+between efficiency and socioeconomic characteristics. Some of these results, however, are consistent with findings reported by others who have
+
+B. E. Bravo-Ureta, R.E. Evenson I Agricultural Economics 10 (1994) 27-37
+
+studied the productivity of traditional farmers.
+For example, a weak association between efficiency, and education and extension has also been
+reported by Antiporta (1978) for The Philippines,
+and by Cotlear (1986) for Peru. In a recent paper,
+using data from Pakistan, Azhar (1991) lends
+further support to the notion " ... that elementary
+education (4-5 years of schooling) does not have
+much effect on agricultural productivity" in traditional farm settings (p. 658) 9 • In our sample,
+around 50% of the peasants had two years of
+education or less, 30% had three years, and no
+farmer had more than five years.
+The clearest pattern that emerges is for credit
+which is positively related to efficiency in five out
+of six cases. However, this positive relationship is
+statistically significant only in one of the six cases.
+By comparison, Lingard, Castillo and J ayasuriya
+(1983) also found evidence that credit had a positive impact on efficiency in their analysis of farmers in Central Luzon, in The Philippines.
+Extension hours (EXHRs) exhibits the greatest
+number of significant relationships with efficiency
+- three out six cases. Despite this statistical significance, no clear-cut pattern emerges concerning the effect that EXHRS has on individual farm
+efficiency. Finally, the lack of association found
+between efficiency, and experience and farm size
+has also been reported by Kalirajan and Flinn
+(1983), Huang and Bagi (1984), Belbase and
+Grabowski (1985) and Lingard, Castillo and Jayasuriya (1983).
+
+6. Concluding remarks
+
+This paper uses a stochastic efficiency decomposition methodology to derive technical, allocative and economic efficiency measures for a sample of peasant farmers located in Eastern
+Paraguay. The analysis is performed separately
+for two crops - cotton and cassava. This analysis
+
+For further discussion of this point, see Lockheed, Jamison
+and Lau (1981), Moock (1985), Lipton (1985) and Philipps and
+Marble (1986).
+
+9
+
+35
+
+shows an average economic efficiency of 40.1%
+for cotton and of 52.3% for cassava, which reveals that there is considerable room for improvement in the productivity of the farms in the
+sample. The results of this study suggest that this
+sample of peasant farmers could increase output
+and, thereby, household income through better
+use of available resources given the state of technology. Gains in output stemming from improvements in productivity are important to Paraguay
+considering that the opportunities to increase
+farm production by bringing additional virgin
+lands into cultivation have significantly diminished in recent years while at the same time
+population pressure has been on the rise.
+An examination of the relationship between
+efficiency and various socioeconomic variables did
+not reveal a clear strategy that could be recommended to improve performance. One possible
+explanation for the lack of a consistent relationship between efficiency and socioeconomic indicators might be the existence of a stage of development threshold below which this type of relationship is not observed. If this is the case, then
+our results imply that this sample of Paraguayan
+peasants are yet to reach such a threshold. Consequently, our analysis suggests that policies to
+improve education and extension services, for example, would be needed in order to go beyond
+this threshold. Once this is accomplished, additional productivity gains would be obtained by
+further investments in human capital and related
+factors. It should be noted that this "threshold"
+argument has been advanced in the literature as
+a potential explanation for the absence of a relationship between a few years of education (5 or
+less) and agricultural output in traditional farm
+settings (Azhar, 1991; Moock, 1981, 1985).
+
+7. Acknowledgement
+
+The authors gratefully acknowledge the comments of Emilio Pagoulatos, Antonio Pinheiro
+and Rigoberto Lopez on earlier drafts, the computer assistance of Laszlo Rieger, and the secretarial support of Dorine Nagy.
+
+36
+
+B.E. Bravo-Ureta, R.E. Evenson I Agricultural Economics 10 (1994) 27-37
+
+8. References
+Aigner, D.J., C.A.K. Lovell and P.J. Schmidt (1977) Formulation and estimation of stochastic frontier production function models. J. Econometrics, 6: 21-37.
+Ali, M. and M.A. Chaudry (1990) Inter-regional farm efficiency in Pakistan's Punjab: a frontier production function
+study. J. Agric. Econ., 41: 62-74.
+Antiporta, D.B. (1978) Agro-climatic factors in rice production. J. Agric. Econ. Dev., 8: 53-77.
+Azhar, R. (1991) Education and technical efficiency during
+the green revolution in Pakistan. Econ. Dev. Cult. Change,
+39: 651-665.
+Bailey, D., B. Biswas, S. Kumbhakar and K. Schulthies (1989)
+An analysis of technical, allocative, and scale inefficiency:
+the case of Ecuadorian dairy farms. West. J. Agric. Econ.,
+14: 30-37.
+Battese, G.E. (1992) Frontier production functions and technical efficiency: a survey of empirical applications in agricultural economics. Agric. Econ., 7: 185-208.
+Battese, G.E., T.J. Coelli and T.C. Colby (1989) Estimation of
+frontier production functions and the efficiencies of Indian farms using panel data from Icrisat's village level
+studies. J. Quant. Econ., 5: 327-348.
+Bauer, P.W. (1990) Recent developments in the econometric
+estimation of frontiers. J. Econometrics, 46: 39-56.
+Belbase, K. and R. Grabowski (1985) Technical efficiency in
+Nepalese agriculture. J. Dev. Areas, 19: 515-525.
+BID (1987) Progreso Econ6mico y Social en America Latina.
+Informe 1987, Tema Especial: Fuerza de trabajo y empleo.
+Banco Interamericano de Desarrollo.
+Bravo-Ureta, B.E. and A. Pinheiro (1993) Efficiency analysis
+in developing country agriculture: a review of the frontier
+function literature. Agric. Resour. Econ. Rev., 22: 88-101.
+Bravo-Ureta, B.E. and L. Rieger (1990) Alternative production frontier methodologies and dairy farm efficiency. J.
+Agric. Econ., 41: 215-226.
+Bravo-Ureta, B.E. and L. Rieger (1991) Dairy farm efficiency
+measurement using stochastic frontiers and neoclassical
+duality. Am. J. Agric. Econ., 73: 421-428.
+Caves, R.E. and D.R. Barton (1990 Technical Efficiency in
+U.S. Manufacturing Industries. MIT Press, Cambridge,
+MA.
+Cotlear, D. (1986) Farmer education and farm efficiency in
+Peru: the role of schooling, extension services and migration. Discussion Paper EDT49, Education and Training
+Department, World Bank, Washington, DC.
+Ekayanake, S.A.B. (1987) Location specificity, settler type and
+productive efficiency: a study of the Mahaweli project in
+Sri Lanka. J. Dev. Stud., 23: 509-521.
+Evenson, R. (1988) Estimated economic consequences of PIDAP I and PIDAP II programs for crop production.
+Economic Growth Center, Yale University, New Haven,
+CT.
+Farrell, M.J. (1957) The measurement of production efficiency. J. R. Stat. Soc. Ser. A, 120: 253-281.
+Forsund, F.R., C.A.K. Lovell and P. Schmidt (1980) A survey
+
+of frontier production functions and of their relationship
+to efficiency measurement. J. Econometrics, 13: 5-25.
+Greene, W. (1980) Maximum likelihood estimation of econometric frontier functions. J. Econometrics, 13: 27-56.
+Greene, W.H. (1990) A gamma-distributed stochastic frontier
+model. J. Econometrics, 46: 141-163.
+Huang, C.J. and F.S. Bagi (1984) Technical efficiency on
+individual farms in northwest India. South. Econ. J., 51:
+108-115.
+Jondrow, J., C.A.K. Lovell, I.S. Materov and P. Schmidt
+(1982) On the estimation of technical inefficiency in the
+stochastic frontier production function model. J. Econometrics, 19: 233-238.
+Kalirajan, K. (1981) An econometric analysis of yield variability in paddy production. Can. J. Agric. Econ., 29: 283-294.
+Kalirajan, K. (1984) Farm-specific technical efficiencies and
+development policies. J. Econ. Stud., 11: 3-13.
+Kalirajan, K. (1991) The importance of efficient use in the
+adoption of technology: a micro panel data analysis. J.
+Prod. Anal. 2: 113-126.
+Kalirajan, K. and J.C. Flinn (1983) The measurement of
+farm-specific technical efficiency. Pakistan J. Appl. Econ.,
+2: 167-180.
+Kalirajan, K. and R.T. Shand (1985) Types of education and
+agricultural productivity: a quantitative analysis of Tamil
+Nadu rice farming. J. Dev. Stud., 21: 232-243.
+Kalirajan, K. and R.T. Shand (1986) Estimating locationspecific and firm-specific technical efficiency: an analysis
+of Malaysian agriculture. J. Econ. Dev., 11: 147-160.
+Kopp, R.J. and W.E. Diewert (1982) The decomposition of
+frontier cost function deviations into measures of technical
+and allocative efficiency. J. Econometrics, 19: 319-331.
+Kopp, R.J. and V.K. Smith (1980) Frontier production function estimates for steam electric generation: a comparative
+analysis. South. Econ. J., 47: 1049-1059.
+Lingard, J., L. Castillo and S. Jayasuriya (1983) Comparative
+efficiency of rice farms in Central Luzon, The Philippines.
+J. Agric. Econ., 34: 163-173.
+Lipton, M. (1985) Education and farm efficiency: Comment.
+Econ. Dev. Cult. Change, 34: 167-168.
+Lockheed, M., D. Jamison and L. Lau (1981) Farmer education and farm efficiency: a survey. Econ. Dev. Cult. Change,
+29: 37-76.
+Meeiisen, W. and J. van den Broeck (1977) Efficiency estimation from Cobb-Douglas production functions with composed error. Int. Econ. Rev., 18: 435-444.
+Moock, P. (1981) Education and technical efficiency in smallfarm production. Econ. Dev. Cult. Change, 29: 723-739.
+Moock, P. (1985) Education and farm efficiency: Reply. Econ.
+Dev. Cult. Change, 34: 169-172.
+Nagel, B.Y. (1991) Socioeconomic differentiation among small
+cultivators on Paraguay's eastern frontier. Latin Am. Res,
+Rev., 26: 103-132.
+Nikiphoroff, B. and M.S. Villagra (1987) El Empleo Juvenil:
+Realidad y Expectativos. Centro Interdisciplinario de
+Derecho Social y Economia Politica (CIDSEP), Asuncion,
+Paraguay.
+
+B.E. Bravo-Ureta, R.E. Evenson/ Agricultural Economics 10 (1994) 27-37
+Phillips, J.M. and R.P. Marble (1986) Farmer education and
+efficiency: a frontier production function approach. Econ.
+Educ. Rev., 5: 257-264.
+Rawlins, G. (1985) Measuring the impact of IRDP II upon the
+technical efficiency level of Jamaican peasant farmers.
+Social Econ. Stud., 34: 71-96.
+Ray, S. (1988) Data envelopment analysis, nondiscretionary
+inputs and efficiency: an alternative interpretation. SocioEcon. Plann. Sci., 22: 167-176.
+Schmidt, P. (1985-86) Frontier production functions. Econometric Rev., 4: 289-328.
+Shapiro, K.H. (1983) Efficiency differentials in peasant agriculture and their implications for development policies. J.
+Dev. Stud., 19: 179-190.
+Shapiro, K.H. and J. Miiller (1977) Sources of technical efficiency: the roles of modernization and information. Econ.
+Dev. Cult. Change, 25: 293-310.
+
+37
+
+Silberberg, E. (1978) The Structure of Economics: A Mathematical Analysis. McGraw-Hill, New York.
+Taylor, T.G. and J.S. Shonkwiler (1986) Alternative stochastic
+specifications of the frontier production function in the
+analysis of agricultural credit programs and technical efficiency. J. Dev. Econ., 21: 149-160.
+Taylor, T.G., H.E. Drummond and AT. Gomes (1986) Agricultural credit programs and production efficiency: an
+analysis of traditional farming in southeastern Minas
+Gerais, Brazil. Am. J. Agric. Econ., 68: 110-119.
+Varian, H.R. (1992) Microeconomic Analysis, 3rd edition.
+Norton, New York.
+World Bank (1989) World Bank Development Report 1989.
+Oxford University Press, New York.
+Zellner, A., J. Kmenta and J. Dreze (1966) Specification and
+estimation of Cobb-Douglas production function models.
+Econometrica, 34: 784-795.
+
+

@@ -1,0 +1,1036 @@
+Agricultural Economics, 5 (1991) 361-383
+Elsevier Science Publishers B.V., Amsterdam
+
+361
+
+Pests and pesticides, risk and risk aversion
+David J. Pannell
+
+1
+
+School of Agriculture, University of Western Australia, Nedlands,
+WA. 6009, Australia
+
+(Accepted 12 June 1990)
+
+ABSTRACT
+Pannell, D.J., 1991. Pests and pesticides, risks and risk aversion. Agric. Econ., 5: 361-383.
+Theoretical and applied literature on risk in decision making for agricultural pest control
+is reviewed. Risk can affect pesticide decision making either because of risk aversion or
+because of its influence on expected profit. It is concluded that risk does not necessarily lead
+to increased pesticide use by individual farmers. Uncertainty about some variables, such as
+pest density and pest mortality, does lead to higher optimal pesticide use under risk aversion.
+However, uncertainty about other important variables, such as output price and yield, leads
+to lower optimal levels of pesticide use. Neglect of these variables in most studies has led to
+the false assumption that pesticides are always risk-reducing inputs. Furthermore, there is
+evidence that, in general, the pesticide dosage which maximises expected profit is lower under
+risk than under certainty. Depending on the balance of forces to increase and decrease
+pesticide use under risk, in many circumstances the net effect of risk on optimal decision
+making for pest control may be minimal. The effect on risk of information about pest density
+and other variables (as in integrated pest management programmes) is discussed. Evidence on
+this issue is mixed. A range of analytical techniques for analysing risk in pest control is
+reviewed. Throughout the paper, gaps in the existing literature are identified.
+
+INTRODUCTION
+
+Risk has been perceived and discussed as an area of considerable importance in literature on the economics of pest control in agriculture. Reichelderfer (1980) and Wetzstein (1981) went so far as to claim that risk
+reduction is the main motivation for application of pesticides. While this
+seems to understate the importance of profit improvements resulting from
+pesticide use, there is widespread consensus in the literature that, in many
+1
+
+Present address: Economic Analysis Branch, Department of Agriculture, South Perth, W.A.
+6151, Australia.
+
+0169-5150/91/$03.50
+
+© 1991 - Elsevier Science Publishers B.V.
+
+362
+
+D.J. PANNELL
+
+circumstances, risk considerations influence pesticide use (e.g. Carlson and
+Main, 1976; Conway, 1977; Reichelderfer and Bottrell, 1985; Antle and
+Capalbo, 1986; Lichtenberg and Zilberman, 1986a).
+The aim of this paper is to review the literature on the impact of risk and
+risk aversion on decisions to control agricultural pests by application of
+chemical pesticides. A number of specific issues are addressed including: the
+impact of risk on control decisions by risk-neutral decision makers, the
+impact of risk aversion on pest control decisions, the effect of risk on the
+level of pesticide use, the effect of pesticide use on the level of risk, the
+impact of information use on risk, which sources of risk may be important
+in the pesticide problem and whether these sources of risk have been
+adequately considered in applied studies. In addition a range of methods for
+examining risk in pest control decisions are reviewed and examples given
+from the literature. Aspects of the topic which have been neglected in the
+literature are identified.
+A GENERAL RESPONSE MODEL FOR PESTICIDES
+
+The reader may find it helpful in the course of the review to refer to a
+simple model of yield response to pesticide application. Lichtenberg and
+Zilberman (1986b) showed that for economic and statistical reasons it is
+important to represent response to pesticides as a two-stage process: pesticides kill pests, and it is the reduction in pest levels which increases yield.
+Thus we have pest density (P) as a function of initial pest density (P0 ) and a
+kill function which depends on the rate of chemical applied [K( C) is the
+proportion of pests killed at chemical dose C]:
+P = P0 [ 1 - K (C)]
+
+(1)
+
+The kill function varies for different pests and pesticides and can depend on
+timing and environmental conditions. Actual yield ( Y) is a function of
+pest-free yield (Y0 ) and D(P), a damage function giving proportional yield
+loss at pest density P:
+Y= Y0 [1- D(P)]
+
+(2)
+
+D(P) depends on a range of factors and varies for different pests and
+
+different crops or pastures. Herbicides may also cause direct damage to the
+crop yield but for the purposes of this review, the simple two-equation
+model will suffice:
+Profits ( 7T) are given by:
+1r
+
+= YPy - CPc -A - F
+
+(3)
+
+where PY is output price, Pc is chemical cost, A is chemical application costs
+
+PESTS AND PESTICIDES, RISK AND RISK AVERSION
+
+363
+
+(which are generally independent of dosage) and F is other production
+costs.
+This simple model illustrates the major components of the pest control
+problem. It can be used as the basis for a range of different types of
+analysis. For example it could be used to find the threshold pest density
+above which application of a fixed recommended chemical dosage would
+produce benefits greater than costs. Alternately marginal analysis could be
+used to determine the optimal chemical dose. The analysis could be static or,
+with additional functions, dynamic.
+There are a number of parameters in the model which are likely to be
+stochastic. In equation (1), pest density may be uncertain as a result of
+uncertainty about the initial pest density, the proportion of pests killed or
+the chemical dosage actually applied. In equation (2), yield will be uncertain
+due to uncertainty about pest-free yield, the level of damage and the final
+pest density. Profits in equation (3) are most likely to be affected by
+variance in yield and output price. The model illustrates the way these
+different sources of uncertainty affect the variance of income. For example,
+uncertainty about the level of pest mortality leads to uncertainty about pest
+density which in turn affects proportional yield loss, actual yield and,
+finally, profits. The different sources of uncertainty will be discussed further
+in the review.
+THEORETICAL FRAMEWORKS FOR ANALYSIS OF RISK
+
+Although the first publication on risk in pest management used the
+concept of "degree of potential surprise" (Hillebrant, 1960), the dominant
+paradigm for risk analysis in economics has been expected utility maximisation (e.g. Anderson et al., 1977). In response to evidence that many people
+systematically violate predictions of expected utility theory (e.g. Allais, 1953;
+MacCrimmon and Larsson, 1979) there has been a recent growth of more
+'generalised' versions of the theory (e.g. Machina, 1982; Quiggin, 1982;
+Chew, 1983). However there have, as yet, been no applications of any of the
+generalized utility theories to problems of pest control. Of the studies
+reviewed in this paper, those which account for risk aversion consider the
+decision maker's objective to be expected utility maximisation or, in a
+couple of cases, maximin (maximisation of the minimum return). It seems
+likely that, so long as the probability distribution of net returns is not
+dramatically skewed, expected utility maximisation will reasonably approximate the more general theories (Quiggin and Fisher, 1989).
+Although the studies reviewed here are all concerned with risk, they vary
+widely in many respects. The assumed objective of decision makers ranges
+from expected profit maximisation through expected utility maximisation to
+
+364
+
+D.J. PANNELL
+
+the extreme degree of risk aversion implied by the maxnmn principle.
+Different studies treat different parameters of the pest/pesticide/ crop
+system as being uncertain. There has been a range of analytical frameworks
+employed including dynamic programming (DP), Bayesian decision theory
+and stochastic efficiency. The following discussion elaborates on these
+differences and reviews particular studies.
+RISK NEUTRALITY VERSUS RISK A VERSION
+
+The broadest categorization of the risk literature is into those studies
+which assume risk neutrality and those assuming risk aversion. The assumption of risk neutrality is often made for the purposes of simplicity and
+tractability (e.g. Marra and Carlson, 1983; Moffitt et al., 1984; Taylor and
+Burt, 1984; Gold and Sutton, 1986; Johnston and Price, 1986; Zacharias et
+al., 1986). The first part of this discussion considers the validity of this
+assumption. Given the extreme statements made by some authors about the
+importance of risk aversion as the prime motivation for damage control, it
+may seem that the assumption of risk neutrality is indefensible. However,
+there have been studies which found that risk aversion had minimal impact
+on decision making for pest control. Webster (1977) found that for a
+fungicide-spraying problem in the United Kingdom, the decision of whether
+or not to spray was very insensitive to the degree of risk aversion. Only
+individuals with extreme decision criteria, such as maximin, would adjust
+their spraying decision in response to risk. No farmers in a sample of 29
+were found to be this risk-averse.
+Similarly, Thornton (1984) found that decisions on control of a fungal
+disease of barley in New Zealand were almost unaffected by risk aversion.
+In many simulations of disease epidemics, differences in recommendation
+between expected profit and expected utility maximisation occurred with a
+frequency of approximately 0.03.
+Finally, Pannell (1990a) found that when a range of sources of uncertainty was considered, the variance of income was almost unchanged over a
+wide range of herbicide dosages. This indicates that the optimal herbicide
+dosage would not be greatly affected by risk aversion.
+In addition to these indications that risk aversion may have little impact
+on pest control decisions, there is also evidence that many farmers are
+approximately risk-neutral or only slightly risk-averse (e.g. Bond and
+Wonder, 1980; Bardsley and Harris, 1987). Finally, Carlson (1984) and
+Musser et al. (1986) have suggested that risk may not be an important
+consideration in farmers' decisions on pest control. Taken together, these
+studies appear to provide some support for use of a risk-neutral framework.
+However there are reasons to question the general applicability of the results
+
+PESTS AND PESTICIDES, RISK AND RISK A VERSION
+
+365
+
+reported by Webster (1977) and Thornton (1984). In Thornton's study, the
+insensitivity of decisions to risk aversion may have been exaggerated by
+basing the elicitation of utility functions on a range of payoffs corresponding to just 10 ha. This in itself would not have been a major concern but for
+the assumption that decisions are independent of the scale of the problem.
+Given that income variability is positively related to crop area this assumption is unrealistic. In Thornton's study all decisions are made on the basis of
+a small-scale problem in which risk is bound to be of minor importance.
+Zacharias and Grube (1984) addressed this issue in their application of
+stochastic dominance to weed control. They argued that
+"the decision makers will tend to exhibit more risk neutral behaviour when confronted
+with per acre outcomes rather than farm level returns. If the bounds of the risk preference
+function are constant across income levels ... the rankings [of strategies] associated with
+per acre and farm level distributions will be different" (Zacharias and Grube, 1984, p.116).
+
+A second factor which may have contributed to the apparent insensitivity
+of decisions to risk aversion is the use of a simple binary decision rule: don't
+treat or treat at the recommended dose. This ensures that there are wide
+ranges of parameter values for which the optimal strategy is unchanged. If
+dosage rate were treated as a continuous variable, the sensitivity of decisions
+to changes in all parameters, including risk aversion, would increase. Webster (1977) also used a binary decision rule. The scale of the problem
+analysed by Webster was not reported in the article.
+In addition to these reasons for questioning the conclusions of Webster
+and Thornton, there are reasons for caution in the interpretation of studies
+which find a low average level of risk aversion. There is considerable
+variation in the degree of risk aversion and a substantial number of farmers
+are highly risk-averse (Bond and Wonder, 1980; Hamal and Anderson,
+1982).
+Finally, a number of authors have reported finding that risk aversion does
+substantially affect decision making (e.g. see following discussions of risk
+aversion and associated modelling techniques). Also, in reports of empirical
+studies of farmer behaviour, authors have reported finding that reliance on
+chemical pest control increases as risk aversion increases (Burrows, 1983;
+Pingali and Carlson, 1985). However the strength of this conclusion should
+not be overstated. Burrows (1983) conducted an econometric study to
+determine which variables influence demand for pesticides. In the estimation, the degree of producers' aversion to risk was represented by a very
+crude proxy variable: the ratio of acres planted in cotton to total acres.
+Conclusions about risk based on this variable should be very tentative. In
+another regression study, Pingali and Carlson (1985) found that the level of
+pesticides used was positively related to the variance of damage. Although
+they attributed this to risk aversion on the part of decision makers, the
+
+366
+
+D.J. PANNELL
+
+evidence is purely circumstantial. They did not recognise that there are
+several ways in which risk can affect decision making even if the decision
+maker's objective is to maximise expected profit (see below).
+Overall it appears that when analysing pest control decisions, risk neutrality may not be as poor an assumption as one would expect based on some
+statements in the literature. Several studies based on risk neutrality are
+reviewed below. However it should be acknowledged that numerous studies
+have fould that risk aversion does have an impact on pest control decisions.
+We return to risk aversion after the following discussion of risk neutrality.
+Risk neutrality
+Of those studies in which risk neutrality has been assumed, the majority
+have been based on a deterministic decision framework [e.g. most of the
+studies cited in bibliographies by McCarl (1981) and Osteen et al. (1981)].
+This approach can sometimes be defended on the basis that in a strictly
+linear model, the decision which maximises expected profit in a stochastic
+framework corresponds to the profit maximising decision in a deterministic
+framework using expected values of parameters. This implies that if expected profit maximisation is assumed, the inclusion of stochastic parameters in a linear model introduces unnecessary complexity to the analysis
+without affecting results. Such was the case in studies by Marra and Carlson
+(1983) and Marra et al. (1989). They explicitly included a discrete probability distribution for the length of the spraying period, but this was unnecessary since all non-linear relationships in the model were approximated by
+linear functions.
+Nevertheless there are several ways in which risk can affect the decisions
+of individuals whose objective is to maximise expected profit. Tisdell (1986)
+showed that uncertainty about a parameter value can affect the optimal level
+of pest control by affecting expected profit. He argued that
+"in many cases the expected level of application is greater under uncertainty than under
+full information but ... this depends on convexity conditions of relevant functions" (p.161).
+
+and that
+"convexity conditions may sometimes be such as to give rise to the opposite consequence"
+(p.159).
+
+He did not discuss which parameters are likely to increase and which to
+decrease treatment levels under uncertainty. Auld and Tisdell (1986, 1987,
+1988) showed that because of convexity of the relationship between weed
+density and crop yield, uncertainty about weed density reduces expected
+yield loss. Auld and Tisdell (1987) argued (but did not prove) that this
+increases the economic threshold, reducing the overall level of pesticide use.
+They noted that this does not seem consistent with comments in the
+
+PESTS AND PESTICIDES, RISK AND RISK A VERSION
+
+367
+
+literature that risk increases pesticide use. They attributed the difference to
+the influence of risk aversion dominating the effect of risk on expected
+profit.
+Pannell (1990b) examined a range of uncertain variables in a model of
+yield response to herbicides under expected profit maximisation. He found
+that uncertainty about each of the variables considered (initial weed density,
+weed kill, weed competitiveness, herbicide dosage and weed-free yield)
+reduced the profit maximising herbicide dosage and increased the threshold
+density for herbicide treatment. Notwithstanding the quote from Tisdell
+(1986) above, no cases were found where the expected level of application
+was greater under uncertainty.
+The only study of this type for insect pests was by Plant (1986) who
+considered uncertainty about pest mortality. Like Pannell (1990b) he found
+that under expected profit maximisation, uncertainty led to a higher threshold
+pest density for pesticide use. Although he interpreted this higher threshold
+as implying a higher level of pesticide use this is incorrect; it actually implies
+a lower expected level of pesticide use, consistent with Pannell's (1990b)
+findings.
+Another circumstance where risk can affect the decisions of 'risk-neutral'
+decision makers is where the problem is dynamic (Antle, 1983). Zacharias et
+al. (1986) tested this hypothesis in their DP study of soybean cyst nematode.
+They found modest support for the hypothesis, with very small differences
+between the results of their deterministic and stochastic models.
+A third possibility is where the decision maker is subject to a progressive
+marginal taxation rate. Taylor (1986) showed that the effect of this on
+decision making is essentially the same as the effect of risk aversion; it
+makes the decision maker behave in an apparently more risk-averse manner
+than would otherwise be the case.
+Risk aversion
+This section of the review examines the widely accepted views that risk
+increases pesticide usage and that pesticide usage reduces risk. The importance of risk as a determinant of pesticide usage has been emphasised in the
+literature with the dominant view being that pesticide use reduces risk so
+that if risk is included in a model, risk aversion will cause the optimal
+treatment rate to be increased. This is in contrast to other types of inputs,
+such as fertilizers, which are usually supposed to be used at lower levels
+under risk aversion than under risk neutrality. Feder (1979) is commonly
+cited as having established the theoretical basis for the presumed positive
+relationship between degree of risk and level of pesticide usage. Feder
+showed that under risk aversion, uncertainty about the level of pest infesta-
+
+368
+
+D.J. PANNELL
+
+tion increases the optimal level of pesticide use. However, crop damage was
+approximated by a linear function, so the effect of uncertainty about pest
+density on expected profit (see above) was not considered. Auld and Tisdell
+(1987) showed that, at least for weeds, uncertainty about pest density
+reduces expected yield loss, and argued that this reduces the probability of
+treatment being justified. This effect at least partially offsets the positive
+effect of risk aversion on chemical usage.
+Moffitt (1986) in his extension of the M-threshold concept (Moffitt et al.,
+1984) to allow for risk aversion, further questions the accepted wisdom of
+greater risk leading to greater pesticide usage. He showed in his theoretical
+model that, under risk, a higher dosage can be more than offset by less
+frequent use (i.e. a higher threshold) although this was not found to occur in
+an empirical application of the approach by Osteen et al. (1988).
+A further relevant issue which has received almost no comment in the
+literature is the fact that the reputation of pesticides as "risk reducing
+inputs" (Carlson, 1984; Robison and Barry, 1987) appears to be mainly
+based on analyses which only consider uncertainty about the level of pest
+infestation or chemical efficacy (e.g. Feder, 1979; Robison and Barry, 1987;
+Osteen et al., 1988). However, there are numerous other sources of uncertainty in the pest/pesticide/ crop system which may or may not result in
+reduced risk as pesticides are increased. Feder (1979) did consider uncertainty about pesticide effectiveness but was equivocal about its impact on
+pesticide usage. Chisaka (1977) showed that the level of crop yield loss
+caused by weeds can be a significant source of uncertainty. Auld and Tisdell
+(1987) considered uncertainty about crop yield loss in a risk-neutral setting,
+finding that it would not affect decision making. They did not consider its
+effect on a risk-averse decision maker. Robison and Barry (1987) commented in passing that the Feder model could be expanded to allow for
+uncertainty about output price. They observed that
+"two random variables, however, quickly complicate our analysis, forcing us into numerical rather than analytical approaches. Furthermore, we could find the threshold level for
+N * as before but the solution would require solving a quadratic formula with few
+deterministic results" (p.llO).
+
+This may explain some of the reticence of most analysts to consider
+uncertainties other than pest density. However this reticence may have
+resulted in the perpetuation of a general false impression that pesticides
+always reduce risk. Pannell (1990a) found that for weeds, uncertainty about
+output price, weed-free yield or chemical damage to the crop leads to greater
+variance of income at higher herbicide rates. In many environments these
+may be more important sources of uncertainty than are pest density, pest
+damage to crops or pesticide effectiveness. In all environments, the question
+of whether pesticide use results in higher or lower income variability
+
+PESTS AND PESTICIDES, RISK AND RISK A VERSION
+
+369
+
+depends on the balance of forces of positive and negative effects on risk.
+Pesticide usage will result in risk being increased in some circumstances and
+reduced in others. In an analysis of ryegrass control in wheat in Western
+Australia, Pannell (1990a) found that the forces balanced so that income
+variability was almost unchanged over a wide range of herbicide rates.
+A number of other authors have considered multiple sources of risk.
+While they have not provided analytical proof, they have produced some
+support for the proposition that pesticides do not always reduce risk.
+Hawkins et al. (1977) conducted budgeting analysis of field results from
+weed control trials. These would have implicitly included several biological
+sources of risk including weed density, herbicide effectiveness and weed-free
+yield. They found that herbicide use increased the standard deviation of
+returns, which suggests that weed-free yield was the major source of variability in the trials.
+In studies by Cochran et al. (1985) and Greene et al. (1985), simulation
+approaches were used to estimate probability distributions of income for
+analysis using stochastic dominance techniques. The uncertain variables
+considered by Greene et al. (1985) were wheat yield, wheat price, soybean
+price, July temperature and August rainfall. They assumed that these variables followed a multivariate normal distribution which was estimated from
+20 years of historical data. Cochran et al. (1985) allowed for uncertainty
+about the weather, yield, prices, the determination of infestation periods and
+the calculation of yield loss. It is very interesting that in both these studies,
+integrated pest management (IPM) strategies, which generally involve reduced pesticide use, were found to be efficient for risk-averse decision
+makers. In the Greene et al. study, IPM strategies clearly dominated
+conventional strategies for even the highest level of risk aversion considered.
+If pesticide use did reduce risk, one might have expected risk-averse decision
+makers to prefer prophylactic pesticide use. Cochran et al. (1985) used a
+number of stochastic dominance criteria with different powers of discrimination. IPM strategies were part of the efficient set under all criteria. As the
+criterion was made more discriminating, strategies involving calendar spraying (i.e. predetermined prophylactic treatments) were removed from the
+efficient set until the most discriminating criterion resulted in a unique
+ranking with IPM as the only efficient strategy. Again, if pesticides were
+risk-reducing, IPM strategies involving lower pesticide use might involve
+higher risk and not be clearly efficient for risk-averse decision makers.
+While these detailed studies are suggestive that pesticides may not reduce
+risk, there is a need for caution in ascribing this interpretation to the results.
+It may be that the use of information in IPM strategies is itself risk-reducing. Evidence in support of this is provided by Antle (1988a) who found that
+pesticides used in an IPM programme were more risk-reducing than those
+
+370
+
+D.J. PANNELL
+
+used prophylactically. He also found that the value of information use in
+IPM strategies was substantially higher for more risk-averse decision makers.
+Even if lower pesticide use increases risk, information may be sufficiently
+risk-reducing to more than offset this, making the IPM strategy attractive to
+risk-averse decision makers. Nevertheless it does appear that the risk-reducing nature of pesticides is by no means proven. This is an issue deserving
+further attention.
+Finally, note that even if pesticide applications do reduce income risk, it
+does not necessarily follow that a stochastic decision model will lead to
+greater pesticide usage than will a deterministic model. As discussed earlier,
+the introduction of risk into the decision process may affect expected profit
+in such a way that chemical use tends to be reduced. In some circumstances
+this effect may more than offset increases in chemical usage due to risk
+aversiOn.
+The remainder of the paper is a review of applied studies which have
+allowed for risk. The various techniques which have been used are described.
+Advantages and disadvantages of the techniques are suggested.
+BAYESIAN DECISION THEORY
+
+Bayesian decision theory is concerned with the revision of risky decisions
+in response to information about the problem at hand. Many Bayesian
+studies calculate the expected value of information to be used in a decision.
+Anderson et al. (1977) described the application of Bayesian decision
+theory to a range of problem types in agriculture. One of the earliest
+applications of the approach to damage control was by Carlson (1970) who
+examined the disease control practices of Californian peach growers. He
+elicited prior probability distributions of disease loss from growers and used
+these to show that if the number of applications of chemicals is optimally
+adjusted in response to disease forecasts, chemical usage can be substantially
+reduced.
+Webster (1977) conducted a Bayesian analysis of a fungal parasite problem on wheat. He elicited (quadratic) utility functions from farmers and, as
+discussed earlier, found that the decision of whether to spray was very
+insensitive to risk attitudes. In a follow-up study, Menz and Webster (1981)
+used a Bayesian approach to estimate the expected value of information
+which would be provided by a hypothetical advisory scheme proposed by
+Webster (1977). They found that the expected value of information was very
+high so that benefits of the proposed scheme would be very likely to
+outweigh costs. In a later publication, Webster (1982) gave a general
+discussion of the value of information in pest control and presented examples for a disease control program. The analysis was simplified by assuming
+
+PESTS AND PESTICIDES. RISK AND RISK AVERSION
+
+371
+
+expected profit maximisation and by assuming that the values of different
+types of information are additive and independent.
+Mumford (1981) emphasised the subjective aspects of pest control decisions. He found that pest control decisions by members of a particular
+group of surveyed farmers was consistent with a simple Bayesian model in
+their pest control behaviour. He assumed that the objective of the more
+risk-averse farmers in the group approximated to 'maximin', although
+Webster (1977) found no farmers in a group of 29 who were that risk-averse.
+Thornton and Dent (1984a, b) focused on revision of optimal disease
+control strategies in response to information on climate and disease information levels. They described their approach as "implicitly Bayesian" (Thornton and Dent, 1984a, p.123) and presented a framework for implementing it
+for use by farmers. They found that the expected value of climate and
+disease level information "increases with decreasing partial risk aversion,
+since the value is dependent on the recommendation not to spray, risk-averse
+individuals being loath not to apply spray" (Thornton and Dent, 1984b,
+p.241).
+The study by Antle (1988a, b) might also be considered as "implicitly
+Bayesian" in its emphasis on risk and sequential decision making. Interestingly, in a case study of IPM strategies for tomato production, he obtained
+the opposite result to Thornton and Dent (1984b); greater degrees of risk
+aversion were associated with substantially higher values of information.
+Another interesting finding was that although insecticides as a group were
+found to be marginally risk-reducing inputs, those pesticides applied with
+relatively low frequency in the IPM programme were found to be substantially more risk-reducing than those applied prophylactically. Clearly the
+degree of risk reduction obtained from pesticide use depends not just on the
+level of pesticide used, but also on the way it is used. Antle's finding
+suggests that information which aids in determining optimal pesticide use
+may be more risk reducing than pesticides per se.
+Moffitt et al. (1986) examined the value of publicly provided information
+on pest levels in a situation where private scouting services were available.
+They found that the value depended on the reliability of public information.
+If it were slightly less reliable than private information, public information
+still had a positive net value to farmers by virtue of its lower cost. However,
+below a certain level of reliability, public information had no value.
+Stefanou et al. (1986) presented a Bayesian model incorporating decisions
+on both whether to scout and whether to spray. They applied the model to
+cotton lygus bug in California and conducted wide-ranging sensitivity analySIS.
+
+The studies discussed above all allowed for risk aversion on the part of
+decision makers. Bayesian decision theory can also be applied in a risk-neu-
+
+372
+
+D.J. PANNELL
+
+tral setting. For example Johnston and Price (1986) assumed risk neutrality
+in calculating the expected values of perfect and imperfect information in
+the problem of stored grain insect control. Cammell and Way (1977) applied
+a risk-neutral Bayesian model to estimate the value of forecasting black bean
+aphid populations. They found that basing treatment decisions on this
+information was substantially more profitable than routine treatment or no
+treatment.
+All of the farm level studies cited in this section treat the pesticide as a
+binary variable to be applied at the recommended rate or not at all. There
+does not seem to have been an application of Bayesian decision theory in
+which treatment dosage has been treated as a continuous variable. It is also
+notable that none of these studies examine a problem of weed control. It
+appears that a Bayesian approach to probability revision is highly applicable
+to problems of tactical weed control.
+STOCHASTIC EFFICIENCY
+
+In the Bayesian studies described above, particular utility functions were
+elicited or assumed for use in the analysis. If a specific utility function is
+used then it is possible to give an unambiguous ranking of all strategies
+under consideration. However, these rankings are not necessarily consistent
+with the preferences of individuals who do not have the exact utility
+function used in the analysis.
+Stochastic efficiency analysis is used to generate information which is
+applicable to broadly defined groups of decision makers. There are a
+number of different stochastic efficiency criteria used depending on how
+broadly defined a group of decision makers is being targeted:
+(a) first-degree stochastic dominance (FSD) applies to all decision makers
+who prefer more income to less (Quirk and Saposnik, 1962);
+(b) second-degree stochastic dominance (SSD) applies to those decision
+makers from (a) who are risk-averse (Hadar and Russell, 1969);
+(c) third degree stochastic dominance (TSD) applies to those decision
+makers from (b) whose degree of risk aversion decreases with increasing
+wealth (Whitmore, 1970);
+(d) stochastic dominance with respect to a function (SDWRF) is applicable
+to decision makers whose degree of risk aversion lies between that of two
+given utility functions. The breadth of the decision group can be varied
+by adjusting the functions which define the bounds (Meyer, 1977a, b).
+The greater generality of these techniques is only obtained at the cost of
+reduced specificity of their recommendations. In general they do not provide
+a unique ranking of the available strategies. Rather they identify groups of
+strategies which are 'efficient'. All elements of the efficient set of strategies
+
+PESTS AND PESTICIDES, RISK AND RISK AVERSION
+
+373
+
+would be preferred to all strategies not in the efficient set by all members of
+the relevant group of decision makers. A potential problem with the technique is that the efficient set can be vary large, in some cases including most
+of the available strategy options. In this circumstance the information
+provided by the technique is of little value. Greater discriminatory power
+can be obtained by more closely defining the group of decision makers (e.g.
+using third degree, rather than second degree, stochastic dominance) andjor
+by using techniques such as convex set stochastic dominance (Cochran et al.,
+1985). However, as Tolley and Pope (1988) observed, "second degree
+stochastic dominance has been easily implementable and continues to have a
+preeminent place in efficiency analysis" (p.694). Tolley and Pope noted that
+sampling errors in the estimation of probability distribution functions are
+usually not considered. They showed that if sampling errors are considered,
+the size of the efficient set is increased even further.
+Finally in this background information on stochastic efficiency, it should
+be noted that a very common method of identifying efficient strategies for
+risk-averse decision makers is E-V analysis (Markowitz, 1952). However E-V
+analysis has been widely criticised because it has very strong requirements
+for validity (Lambert and McCarl, 1985). Either returns must be distributed
+normally or the decision maker must have a quadratic utility function. The
+former is frequently not the case and the latter is generally dismissed as
+unrealistic because it implies increasing risk aversion with increasing wealth.
+The literature on the economics of pest control includes five applications
+of stochastic dominance: two in problems of insect control, one on a disease
+problem, one on weeds and one encompassing weed, pest and disease
+control. Between them, these studies have included most of the efficiency
+criteria described above (all except TSD).
+Papers by Greene et al. (1985) and Cochran et al. (1985) were described
+above in the discussion of whether pesticides are risk-reducing inputs.
+Greene et al. (1985) used SDWRF to rank various strategies for insect pest
+control in soybeans. They found that IPM strategies are efficient relative to
+prophylactic spraying for a wide range of risk attitudes. Cochran et al.
+(1985) used FSD, SSD, SDWRF and SDWRF with convex set stochastic
+dominance to evaluate strategies for Apple scab control. Again IPM strategies were favoured.
+Moffitt et al. (1983) used FSD and SSD to evaluate a range of alternative
+citrus thrip control methods for inland Southern California orange groves.
+Of the eight strategies considered, six were in the FSD efficient set while
+three were in the SSD efficient set.
+Zacharias and Grube (1984) examined a range of crop rotations in
+conjunction with different weed control methods. They used SDWRF to
+examine strategy rankings for risk-averse, risk-neutral and risk-preferring
+
+374
+
+D.J. PANNELL
+
+decision makers. Their conclusions about the effect on risk of using information to adjust herbicide usage were the reverse of Antle's (1988a):
+Successively altering herbicides on an annual basis as compared to applying a single major
+herbicide was found to increase both net returns and risk" (p.l13).
+
+Finally Musser et al. (1981) compared the results of E-V analysis and
+FSD jSSD in ranking four sets of strategies for controlling weeds, pests and
+diseases in Georgia. They found that, in an E-V framework, both conventional strategies and IPM strategies were efficient. IPM had higher mean net
+income but also higher variance of income and so was not clearly preferred
+to conventional control in an E-V framework. However IPM was found to
+be FSD over conventional strategies and so would be preferred by all
+decision makers regardless of their risk preferences. Note again that use of
+an IPM strategy was not found to reduce risk. Apparently in both of these
+studies, chemical sprays were risk-reducing and information was not sufficiently risk reducing to offset the increase in risk resulting from lower
+chemical use.
+Studies employing an E-V approach to assessing risk in pest control have
+included Carlson (1970), King et al. (1986) and Lybecker et al. (1988).
+DYNAMIC PROGRAMMING
+
+Pest control in a crop or pasture may have either positive or negative
+carry-over effects in subsequent crops or pastures. For example, one of the
+advantages of including the legume crop, lupins, in rotation with cereals in
+Western Australia is that they allow use of the herbicide simazine for weed
+control, reducing the costs of grass weed competition and control in subsequent cereal crops. In general, the number of weed seeds with potential to
+germinate in a given year depends on the degree of control in previous years.
+A negative effect of weed control in crops is that the density of subsequent
+pastures can be reduced. Dynamic factors such as these may affect optimal
+weed control practices.
+A dynamic analytical framework is even more important for problems of
+pest and disease control. Reproduction rates are very high for these organisms
+so that infestation levels can increase rapidly. For most weeds, the life cycle
+takes at least a year so that population dynamics are not as essential to the
+economic problem as they are for pests and diseases. Techniques used to
+address dynamic problems include simulation (discussed in the next section)
+and DP.
+Christine Shoemaker stands out as the major contributor to the literature
+in the DP field, particularly for management of alfalfa weevil. In two of her
+papers, stochastic DP was used to assess the effect of risk on decision
+making (Shoemaker and Onstad, 1983; Shoemaker, 1984). In Shoemaker
+
+PESTS AND PESTICIDES, RISK AND RISK A VERSION
+
+375
+
+(1984) the issues of multiple pesticide applications and carryover of pesticide
+from one season to the next were considered. As well as using more than one
+variable to determine whether to treat, she has also considered more than
+one type of treatment: pesticide application and biological control (Shoemaker and Onstad, 1983).
+Taylor and Burt (1984) used stochastic DP to determine whether or not to
+spray andjor fallow to control wild oats in spring wheat in the U.S.A.
+Pandey (1989) used deterministic and stochastic DP to determine optimal
+herbicide rates for control of wild oats in Western Australia.
+There has also been an application of stochastic DP to a problem of
+disease control. Zacharias et al. (1986) used stochastic DP to evaluate
+management strategies for controlling soybean cyst nematode. They. tested
+and upheld Antle's (1983) hypothesis that risk-neutral (i.e. expected profitmaximising) decision makers can respond to risk if the problem is dynamic.
+In each of these studies, expected profit maximisation was assumed to be
+the objective; there was no allowance for risk aversion on the part of
+decision makers.
+The obvious advantage of DP as a solution method is its efficient
+handling of dynamics. The main disadvantage is the 'curse of dimensionality': as the number of state variables in the model increases, the number of
+calculations required for solution increases exponentially and can become
+impractically large. Hence DP generally requires that complex systems be
+greatly simplified before they can be analysed.
+Another facet of DP which may be considered a disadvantage is that it
+can only handle discrete decision problems. Only discrete alternative strategies can be evaluated, not continuous variables such as chemical dosage,
+although this can be overcome to a degree by considering a discrete number
+of chemical dosages as alternative strategies (e.g. Pandey, 1989).
+SIMULATION
+
+Simulation models of vanous kinds have been used in a number of
+different ways to evaluate the economics of pest, disease or weed control.
+Risk aversion has been analysed in a number of ways in these studies: by
+numerical solution of the expected utility maximisation problem (Lazarus
+and Swanson, 1983; Thornton and Dent 1984a, b), by E-V analysis (King et
+al., 1986) and by stochastic dominance approaches (Cochran et al., 1985;
+Greene et al., 1985).
+An advantage of simulation models is that they allow estimation of
+technical relationships which would be expensive, time-consuming or impractical to estimate from field experiments. A second advantage is that,
+relative to optimization techniques such as DP or mathematical program-
+
+376
+
+D.J. PANNELL
+
+ming, they allow more detailed representation of biological and technical
+components of the system (Shoemaker, 1984). A disadvantage is that in most
+economic applications they must be solved numerous times to reach a
+conclusion. For example, Shoemaker (1979) noted that to conduct a similar
+analysis to that carried out by a particular DP model, a simulation model
+would have to be solved 1 380 000 times. Simulation models do not imply
+use of a particular economic framework; rather they can be used to provide
+inputs to economic analyses of several types.
+There have been several studies in which simulation models were used to
+estimate probability distributions of technical parameters which were then
+used to estimate thresholds under risk. For example Thornton and Dent
+(1984a; b) described the design, operation and implementation of such a
+system for evaluating control of the fungal disease Puccini a hordei in New
+Zealand barley crops. The effect of climatic variation on the variance of
+profit was estimated by simulation and used to calculate thresholds under
+risk aversion. Their study was discussed earlier in the context of Bayesian
+decision theory. King et al. (1986) estimated thresholds for weed control in
+continuous corn ( Zea mays). Although they did not consider the impact of
+risk aversion on the decision, they estimated the variance of profit for
+different strategies. Lazarus and Swanson (1983) did allow for risk aversion
+in their evaluation of rootworm control in corn. Although their representation of biological relationships was relatively simplistic, this allowed them to
+analyse a more complex decision problem. They estimated not just pest
+thresholds at which chemical application was justified, but also a higher
+threshold at which it was worth rotating to another crop.
+A somewhat similar use of simulation models has been to estimate
+probability distributions of net returns for evaluation using stochastic dominance techniques. Cochran et al. (1985) used this approach in their application of convex set stochastic dominance to evaluation of various apple scab
+control strategies, as did Greene et al. (1985) in their use of generalised
+stochastic dominance to evaluate soybean integrated pest management
+strategies.
+ANALYTICAL/NUMERICAL APPROACHES
+
+In a number of applied studies of risk in pest control, direct numerical
+solution of theoretical models has been employed. Moffitt et al. (1984)
+numerically solved for the optimal parameters of their M-threshold model
+for corn nematode control under uncertainty about pest density. Osteen et
+al. (1988) conducted a similar study of corn nematode control which, unlike
+Moffitt et al. (1984), allowed for risk averse decision making. Liapis and
+Moffitt (1983) used the exponential utility moment generating function
+
+PESTS AND PESTICIDES, RISK AND RISK AVERSION
+
+377
+
+approach to calculate certainty equivalents of alternative cotton pest control
+strategies under different degrees of risk aversion. The use of this approach
+was attacked by Scott et al. (1986) but defended by Liapis and Moffitt
+(1986). Lazarus and Swanson (1983) used numerical solution in conjunction
+with a simulation model to calculate pest density thresholds for application
+of pesticide and for switching crop rotation.
+The numerical solution techniques employed in these studies can be very
+useful when the problem is not amenable to analytical solution or to
+solution by common optimization techniques such as DP or LP. This can be
+the case, for example, when the profit function has more than one local
+optimum, when it has several state variables or when close links with a
+simulation model are desired.
+In a number of studies relevant to pesticide application, Lichtenberg and
+Zilberman have used marginal analysis to derive optimal regulatory standards for reducing the probability of negative effects on health (Lichtenberg
+and Zilberman 1988a, 1988b; Lichtenberg et al. 1988). In each of these
+analyses allowance was made for "aversion to uncertainty." No other
+studies of public or social pest control problems have considered risk except
+by conducting sensitivity analysis (e.g. Pannell, 1984; Denne, 1988).
+RELEVANCE FOR DEVELOPED AND DEVELOPING COUNTRIES
+
+Almost all studies cited in this review deal with problems in developed
+countries. However the review also has relevance for developing countries;
+the biological and economic relationships are similar although some parameters differ. Particularly important for this topic is the higher level of absolute
+risk aversion found amongst farmers in developing countries (Binswanger,
+1980; Hamal and Anderson, 1982; Antle, 1987) compared to their counterparts in developed countries (Bond and Wonder, 1980; Bardsley and Harris,
+1987; Myers, 1989). (These studies find similar ranges for partial risk
+aversion in developed and developing countries, and since incomes are lower
+in developing countries this implies that they have higher absolute risk
+aversion). Given the conventional wisdom about pest control reducing risk
+we would expect farmers in developing countries to adopt pesticides with
+enthusiasm. However if the conclusion in this review is correct and pesticides do not always reduce risk we should not be surprised if adoption of
+pesticides is no greater than for other inputs such as chemical fertilizers.
+Secondly, if information about pest density increases in value with
+increasing risk aversion (as found by Antle 1988a, b), we would expect
+pesticides to be more acceptable to farmers in developing countries if they
+are promoted as part of an IPM package involving scouting for pests before
+making spray decisions. However, further work is needed in this area as
+
+378
+
+D.J. PANNELL
+
+Thornton and Dent (1984a, b) found decreasing information value with
+increasing risk aversion.
+CONCLUSION
+
+In the course of this review, some commonly made assertions about the
+influence of risk in pest control have been challenged. In addition some
+gaps, unresolved issues and possible methodological deficiencies in the
+existing literature have been identified.
+There are a number of sources of uncertainty which affect decision
+making for pest control. It was concluded that for some of these sources of
+uncertainty (e.g. pest density, yield loss per pest, pesticide effectiveness)
+pesticide application acts to reduce risk. However, for others (e.g. pesticide
+damage to crops, pest-free crop yield, output price) pesticide application can
+increase risk. Thus the validity of the usual assumption that pesticides
+reduce risk depends on the relative importance of these different sources of
+uncertainty. Thus it is important to consider more sources of risk than the
+ones most commonly considered: uncertainty about pest density and pest
+mortality.
+It was noted that, due to nonlinearities in the biological relationships, risk
+can affect pesticide decisions even if the farmer's objective is to maximise
+expected profit. Evidence in the literature indicates that the optimal level of
+pesticide use for risk-neutral decision makers is lower under uncertainty.
+This issue has received attention with regard to weeds but has been relatively
+neglected for insects and diseases. On the other hand, applied studies of the
+impact of risk aversion on pesticide decisions have been conducted for
+insects and diseases (albeit for a limited range of sources of uncertainty) but
+not for weeds.
+Information about the cropjpestjpesticide system not only increases
+expected profits but can also be a very useful source of risk reduction in its
+own right. On the other hand some studies have indicated that use of
+information results in higher levels of risk. The impact on risk of information use needs further investigation to resolve this conflicting evidence. So
+far, studies of information use in pest control have focused on information
+about pest density. Attention should also be given to information related to
+other variables such as pesticide efficacy and pest-free yield.
+The review has covered a wide range of analytical techniques, with
+different strengths and weaknesses, which can be used to analyse risk in
+decisions on control of pests. Regardless of the technique used, virtually all
+published applied studies have treated the pesticide as a binary variable to
+be used at recommended rates or not at all. There appears to be scope for
+analysing risk and risk aversion when input level is treated as a continuous
+
+PESTS AND PESTICIDES, RISK AND RISK AVERSION
+
+379
+
+variable. With increasing concern about externalities from high pesticide use
+(e.g. through spray drift, chemical residues in food, resistance development)
+the economics of reducing chemical rates, including its impact on risk, is a
+topic ripe for analysis by agricultural economists (Pannell, 1988a, b, 1989).
+ACKNOWLEDGEMENTS
+
+The author thanks Bob Lindner, Greg Hertzler, Rob Fraser, two anonymous referees and the Journal's editor for comments on earlier drafts of the
+paper.
+REFERENCES
+Allais, M., 1953. Le comportment de l'homme ratione! devant le risque: critique des axioms
+et postulates de !'ecole Americaine. Econometrica, 21: 503-546.
+Anderson, J.R., Dillon, J.L. and Hardaker, J.B., 1977. Agricultural Decision Analysis. Iowa
+State University Press, Ames, lA, 344 pp.
+Antle, J.M., 1983. Incorporating risk in production analysis. Am. J. Agric. Econ., 65:
+1099-1106.
+Antle, J.M., 1987. Econometric estimation of producers risk attitudes. Am. J. Agric. Econ.,
+69: 509-522.
+Antle, J.M., 1988a. Pesticide Policy, Production Risk, and Producer Welfare- An Econometric Approach to Applied Welfare Economics. Resources for the Future, Washington, DC,
+130 pp.
+Antle, J.M., 1988b. Integrated pest management: it needs to recognize risks, too. Choices, 3:
+8-11.
+Antle, J.M. and Capalbo, S.M., 1986. Pesticides and public policy, In: T.T. Phipps, P.R.
+Crosson and K.A. Price (Editors), Agriculture and the Environment. National Center for
+Food and Agricultural Policy, Washington, DC, pp. 155-174.
+Auld, B.A. and Tisdell, C.A., 1986. Economic threshold/critical density models in weed
+control. In: EWRS Symp. Economic Weed Control. European Weed Research Society,
+Wageningen, Netherlands, pp. 261-268.
+Auld, B.A. and Tisdell, C.A., 1987. Economic thresholds and response to uncertainty in weed
+control. Agric. Syst., 25: 219-227.
+Auld, B.A. and Tisdell, C.A., 1988. Influence of spatial distribution on weeds on crop yield
+loss. Plant Prot. Q., 3: 81.
+Bardsley, P. and Harris, M., 1987. An approach to the econometric estimation of attitudes to
+risk in agriculture. Aust. J. Agric. Econ., 31: 112-126.
+Binswanger, H.P., 1980. Attitudes toward risk: experimental measurement in rural India. Am.
+J. Agric. Econ., 62: 395-407.
+Bond, G. and Wonder, B., 1980. Risk attitudes amongst Australian farmers. Aust. J. Agric.
+Econ., 24: 16-34.
+Burrows, T.M., 1983. Pesticide demand and integrated pest management: a limited dependent
+variable analysis. Am. J. Agric. Econ., 65: 806-810.
+Cammell, M.E. and Way, M.J., 1977. Economics of forecasting for chemical control of the
+black bean aphid. Ann. Appl. Bioi., 85: 333-343.
+Carlson, G.A., 1970. A decision theoretic approach to crop disease prediction and control.
+Am. J. Agric. Econ., 52: 216-223.
+
+380
+
+D.J. PANNELL
+
+Carlson, G.A., 1984. Risk reducing inputs related to agricultural pests. In: Risk Analysis of
+Agricultural Firms: Concepts, Information Requirements and Policy issues. Proc. Regional Research Project S-180, Department of Agricultural Economics, University of
+Illinois, Urbana, IL, pp. 164-175.
+Carlson, G.A. and Main, C.E., 1976. Economics of disease-loss management. Annu. Rev.
+Phytopathol., 14: 381-403.
+Chew, S., 1983. A generalisation of the quasilinear mean with applications to the measurement of income inequality and decision theory resolving the allais paradox. Econometrica,
+51: 1065-1092.
+Chisaka, H., 1977. Weed damage to crops: yield loss due to weed competition. In: J.D, Fryer
+and S. Matsunakaka (Editors), Integrated Control of Weeds. University of Tokyo Press,
+Tokyo, pp. 1-16.
+Cochran, M.J., Robison, L.J. and Lodwick, W., 1985. Improving the efficiency of stochastic
+dominance techniques using convex set stochastic dominance. Am. J. Agric. Econ., 67:
+289-295.
+Conway, G.R., 1977. Mathematical models in applied ecology. Nature, 269: 291-297.
+Denne, T., 1988. Economics of nasella tussock (Nassella trichotoma) control in New Zealand.
+Agric. Ecosyst. Environ., 20: 259-278.
+Feder, G., 1979. Pesticides, information, and pest management under uncertainty. Am. J.
+Agric. Econ., 61: 97-103.
+Gold, H.J. and Sutton, T.B., 1986. A decision analytic model for chemical control of sooty
+blotch and flyspeck diseases of apples. Agric. Syst., 21: 129-157.
+Greene, C.R., Kramer, R.A., Norton, G.W., Rajotte, E.G. and McPherson, R.M., 1985. An
+economic analysis of soybean integrated pest management. Am. J. Agric. Econ., 67:
+567-572.
+Hadar, J. and Russell, W.R., 1969. Rules for ordering uncertain prospects. Am. Econ. Rev.,
+59: 25-34.
+Hamal, K.S. and Anderson, J.R., 1982. A note on decreasing absolute risk aversion among
+farmers in Nepal. Aust. J. Agric. Econ., 26: 220-225.
+Hawkins, D.E., Slife, F.W. and Swanson, E.R., 1977. Economic analysis of herbicide use in
+various crop sequences. Ill. Agric. Econ., 17: 8-13.
+Hillebrant, P.M., 1960. The economic theory of the use of pesticides, Part II. Uncertainty. J.
+Agric. Econ., 14: 52-61.
+Johnston, J. and Price, D., 1986. The economic threshold concept in pest management,
+decision theory and stored grain insects. Paper presented 30th Annu. Conf. Australian
+Agricultural Economics Society, Canberra, 3-5 February.
+King, R.P., Lybecker, D.W., Schweizer, E.E. and Zimdahl, R.L., 1986. Bioeconomic modeling
+to simulate weed control strategies for continuous corn (Zea mays). Weed Sci., 34:
+972-979.
+Lambert, D.A. and McCarl, B.A., 1985. Risk modeling using direct solution of nonlinear
+approximations of the utility function. Am. J. Agric. Econ., 67: 846-852.
+Lazarus, W.F. and Swanson, E.R., 1983. Insecticide use and crop rotation under risk:
+rootworm control in corn. Am. J. Agric. Econ., 65: 738-747.
+Liapis, P.S. and Moffitt, L.J., 1983. Economic analysis of cotton integrated pest management
+strategies. South. J. Agric. Econ., 15: 97-102.
+Liapis, P.S. and Moffitt, L.J., 1986. Economic analysis of cotton integrated pest management
+strategies: Reply. South. J. Agric. Econ., 18: 173-174.
+Lichtenberg, E. and Zilberman, D., 1986a. Problems of pesticide regulation. In: T.T. Phipps,
+P.R. Crosson and K.A. Price (Editors), Agriculture and the Environment. National Center
+for Food and Agricultural Policy, Washington, DC, pp. 123-145.
+
+PESTS AND PESTICIDES, RISK AND RISK AVERSION
+
+381
+
+Lichtenberg, E. and Zilberman, D., 1986b. The econometrics of damage control: why
+specification matters. Am. J. Agric. Econ., 68: 261-273.
+Lichtenberg, E. and Zilberman, D., 1988a. Efficient regulation of environmental risks. Q. J.
+Econ., 103: 167-178.
+Lichtenberg, E. and Zilberman, D., 1988b. Regulation of marine contamination under
+environmental uncertainty: shellfish contamination in California. Mar. Resour. Econ., 4
+(in press).
+Lichtenberg, E., Zilberman, D. and Bogen, K.T., 1988. Regulating environmental health risks
+under uncertainty: groundwater contamination in California (unpublished).
+Lybecker, D.W., Schweizer, E.E. and King, R.P., 1988. Economic analysis of four weed
+management systems. Weed Sci., 36: 846-849.
+MacCrimmon, K. and Larsson, S., 1979. Utility theory: Axioms versus paradoxes. In: M.
+Allais and 0. Hagen (Editors), Expected Utility Hypotheses and the Allais Paradox.
+Reidel, Dordrecht, Netherlands.
+Machina, M., 1982. Expected utility analysis without the independence axiom. Econometrica,
+50: 277-323.
+Markowitz, H., 1952. Portfolio selection. J. Finance, 7: 77-91.
+Marra, M.C. and Carlson, G.A., 1983. An economic threshold model for weeds in soybeans
+(Glycine max). Weed Sci., 31: 604-609.
+Marra, M.C., Gould, T.D. and Porter, G.A., 1989. A computable economic threshold model
+for weeds in field crops with multiple pests, quality effects and an uncertain spraying
+period length. Northeast. J. Agric. Resour. Econ., 18: 12-17.
+McCarl, B.A., 1981. Economics of integrated pest management: an interpretive review of the
+literature, Oreg. State Univ. Agric. Exp. Stn. Spec. Rep. 636, 142 pp.
+Menz, K.M. and Webster, J.P.G., 1981. The value of a fungicide advisory programme for
+cereals. J. Agric. Econ., 32: 21-30.
+Meyer, J., 1977a. Choice amongst distributions. J. Econ. Theory, 14: 326-336.
+Meyer, J., 1977b. Second-degree stochastic dominance with respect to a function. Int. Econ.
+Rev., 18: 477-487.
+Moffitt, L.J., 1986. Risk efficient thresholds for pest control decisions. J. Agric. Econ., 37:
+69-75.
+Moffitt, L.J., Tanigoshi, L.K. and Baritelle, J.L., 1983. Incorporating risk in comparisons of
+alternative pest control methods. Environ. Entomol., 12: 1003-1011.
+Moffitt, L.J., Hall, D.C. and Osteen, C.D., 1984. Economic thresholds under uncertainty with
+application to corn nematode management. South. J. Agric. Econ., 16: 151-157.
+Moffitt, L.J., Farnsworth, R.L., Zavaleta, L.R. and Kogan, M., 1986. Economic impact of
+public pest information: soybean insect forecasts in Illinois. Am. J. Agric. Econ., 68:
+274-279.
+Mumford, J.D., 1981. Pest control decision making: sugar beet in England. J. Agric. Econ.,
+32: 31-41.
+Musser, W.N., Tew, B.V. and Epperson, J.E., 1981. An economic examination of an
+integrated pest management production system with a contrast between E-V and stochastic dominance analysis. South. J. Agric. Econ., 13: 119-124.
+Musser, W.N., Wetzstein, M.E., Reece, S.Y., Varca, P.E., Edwards, D.M. and Douce, G.K.,
+1986. Beliefs of farmers and adoption of integrated pest management. Agric. Econ. Res.,
+38: 34-44.
+Myers, R.J., 1989. Econometric testing for risk averse behaviour in agriculture. Appl. Econ.,
+21: 541-552.
+Osteen, C.D., Bradley, E.B. and Moffitt, L.J., 1981. The Economics of Agricultural Pest
+Control: An Annotated Bibliography, 1960-80. Economic and Statistical Services Bibli-
+
+382
+
+D.J. PANNELL
+
+ographies and Literature of Agriculture, 14. U.S. Department of Agriculture, Washington,
+DC, 53 pp.
+Osteen, C.D., Moffitt, L.J. and Johnson, A.D., 1988. Risk efficient action thresholds for
+nematode management. J. Prod. Agric., 1: 332-338.
+Pandey, S., 1989. Economics of wild oats control: an application of stochastic dynamic
+programming. Paper presented 33rd Annu. Conf. Australian Agricultural Economics
+Society, Lincoln College, New Zealand, February.
+Pannell, D., 1984. Using simulation for economic assessment of the skeleton weed eradication
+programme in Western Australia. Aust. Weeds, 3: 146-149.
+Pannell, D.J., 1988a. Theory and reality of weed control thresholds: a comment. Plant Prot.
+Q., 3: 43-44.
+Pannell, D.J., 1988b. Weed management: a review of applied economics research in Australia.
+Rev. Market. Agric. Econ., 56: 255-269.
+Pannell, D.J., 1989. Economics and the law relating to flexibility of chemical rates. Plant
+Prot. Q., 4: 104-106.
+Pannell, D.J., 1990a. Do herbicides reduce income variability from agronomic crops? In: J.W.
+Heap (Editor), Proc. 9th Australian Weeds Conference, 6-10 August 1990. Crop Science
+Society of South Australia, Adelaide, S.A., pp. 10-14.
+Pannell, D.J., 199Gb. Responses to risk in weed control decisions under expected profit
+maximisation. J. Agric. Econ., 41: 391-403.
+Pingali, P.L. and Carlson, G.A., 1985. Human capital, adjustments in subjective probabilities,
+and the demand for pest controls. Am. J. Agric. Econ., 57: 853-861.
+Plant, R.E., 1986. Uncertainty and the economic threshold. J. Econ. Entomol., 79: 1-6.
+Quiggin, J., 1982. A theory of anticipated utility. J. Econ. Behav. Org., 3: 323-343.
+Quiggin, J. and Fisher, B., 1989. Generalised utility theories - implications for stabilisation
+policy. Paper presented 33rd Annu Conf. Australian Agricultural Economics Society,
+Lincoln College, New Zealand, February.
+Quirk, J. and Saposnik, R., 1962. Admissibility and measurable utility functions. Rev. Econ.
+Stud., 29: 140-146.
+Reichelderfer, K.H., 1980. Economics of integrated pest management: discussion. Am. J.
+Agric. Econ., 62: 1012-1013.
+Reichelderfer, K.H. and Bottrell, D.G., 1985. Evaluating the economic and sociological
+implications of agricultural pests and their control. Crop Prot., 4: 281-297.
+Robison, L.J. and Barry, P.J., 1987. The Competitive Firm's Response to Risk. Macmillan,
+New York, 324 pp.
+Scott, R.D., Cochran, M.J. and Nicholson, W.F., 1986. Economic analysis of cotton integrated pest management strategies: a comment. South. J. Agric. Econ., 18: 169-171.
+Shoemaker, C.A., 1979. Optimal management of an alfalfa ecosystem. In: G.A. Norton and
+C.S. Holling (Editors), Pest Management. Proc. Int. Conf. Pest Management, 25-29
+October 1976. Pergamon, Oxford, pp. 301-315.
+Shoemaker, C.A., 1984. The optimal timing of multiple applications of residual pesticides:
+deterministic and stochastic analyses. In: G.R. Conway (Editor), Pest and Pathogen
+Control: Strategic, Tactical, and Policy Models. Wiley, Chichester, pp. 290-309.
+Shoemaker, C.A. and Onstad, D.W., 1983. Optimization analysis of the integration of
+biological, cultural and chemical control of alfalfa weevil (Coleoptera: Curculionidae).
+Environ. Entomol., 12: 286-295.
+Stefanou, S.E., Mangel, M. and Wilen, J.E., 1986. Information in agricultural pest control. J.
+Agric. Econ., 37: 77-88.
+Taylor, C.R., 1986. Risk aversion versus expected profit maximization with a progressive
+income tax. Am. J. Agric. Econ., 66: 137-143.
+
+PESTS AND PESTICIDES, RISK AND RISK A VERSION
+
+383
+
+Taylor, C.R. and Burt, O.R., 1984. Near-optimal management strategies for controlling wild
+oats in spring wheat. Am. J. Agric. Econ., 66: 50-60.
+Thornton, P.K., 1984. Treatment of risk in a crop protection information system. J. Agric.
+Econ., 36: 201-209.
+Thornton, P.K. and Dent, J.B., 1984a. An information system for the control of Puccinia
+hordei, 1: Design and operation. Agric. Syst., 15: 209-224.
+Thornton, P.K. and Dent, J.B., 1984b. An information system for the control of Puccinia
+hordei, II: Implementation. Agric. Syst., 15: 225-243.
+Tisdell, C., 1986. Levels of pest control and uncertainty of benefits. Aust. J. Agric. Econ., 30:
+157-161.
+Tolley, H.D. and Pope, R.D., 1988. Testing for stochastic dominance. Am. J. Agric. Econ.,
+70: 693-700.
+Webster, J.P.G., 1977. The analysis of risky farm management decisions: advising farmers
+about use of pesticides. J. Agric. Econ., 28: 243-259.
+Webster, J.P.G., 1982. The value of information in crop protection decision making. In: R.B.
+Austin (Editor), Decision Making in the Practice of Crop Protection. British Crop
+Protection Council, Croydon, pp. 33-41.
+Wetzstein, M.E., 1981. Pest information markets and integrated pest management. South. J.
+Agric. Econ., 13: 79-83.
+Whitmore, G.A., 1970. Third degree stochastic dominance. Am. Econ. Rev., 60: 457-459.
+Zacharias, T.P. and Grube, A.H., 1984. An economic evaluation of weed control methods
+used in combination with crop rotation: a stochastic dominance approach. North Central
+J. Agric. Econ., 6: 113-120.
+Zacharias, T.P., Liebman, J.S. and Noel, G.R., 1986. Management strategies for controlling
+soybean cyst nematode: an application of stochastic dynamic programming. North Central
+J. Agric. Econ., 8: 175-188.
+
+
