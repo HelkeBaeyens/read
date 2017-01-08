@@ -252,6 +252,34 @@ def level(lexicon,dictionary):
 			return('A1')
 	level_words(lexicon,dictionary)
 	return(level_text(word_levels))
+
+def nr_wordlev(lexicon,dictionary):
+	"""Looks up the level of a word and counts how many time each level appears in the text"""	
+	word_levels=[ ]
+	for word in lexicon:
+		level = dictionary[word]
+		word_levels.append(level)
+	counter_A1 = 0
+	counter_A2 = 0
+	counter_B1 = 0
+	counter_B2 = 0
+	counter_C1 = 0
+	counter_C2 = 0
+	for level in word_levels:
+		if level == 'A1':
+			counter_A1 += 1
+		elif level == 'A2':
+			counter_A2 += 1
+		elif level == 'B1':
+			counter_B1 += 1
+		elif level == 'B2':
+			counter_B2 += 1
+		elif level == 'C1':
+			counter_C1 += 1
+		else:
+			counter_C2 += 1
+	counters = {1: counter_A1, 2: counter_A2, 3: counter_B1, 4: counter_B2, 5:counter_C1, 6:counter_C2}
+	return (counters)
 """.................................................................................."""
 dictionary = load_dictionary("data\\dictionaryABC.csv",';')
 #words = load_input(filename)
@@ -262,4 +290,5 @@ dictionary = load_dictionary("data\\dictionaryABC.csv",';')
 #print(lemmas)
 #print(lexicon)
 #print(len(lexicon))
-#print(level(lexicon,dictionary))
+#print(level(lexicon,dictionary))#print(level(lexicon,dictionary))
+#print(nr_wordlev(lexicon,dictionary))
