@@ -1,0 +1,771 @@
+Agricultural Economics, 2 ( 1988) 123-137
+Elsevier Science Publishers B.V., Amsterdam- Printed in The Netherlands
+
+123
+
+A Dynamic Adjustment Model for U.S.
+Agriculture: 1948-79
+Utpal Vasavada 1 and V. Eldon Ball 2
+1 Department
+
+of Agricultural Economics, University of Georgia,
+Conner Hall, Athens, GA 30602 (U.S.A.)
+
+2 1nputs,
+
+Technology and Productivity Branch, USDA Economic Research Service,
+Washington, DC (U.S.A.)
+
+(Accepted 11 January 1988)
+
+Abstract
+Vasavada, U. and Ball, V.E., 1988. A dynamic adjustment model for U.S. agriculture: 1948-79.
+Agric. Econ., 2: 123-137.
+A multioutput model is developed within the adjustment cost framework to analyze the structure of dynamic adjustments in U.S. agriculture during the post-war period. An important feature
+of this model is that the econometric model is consistent with dynamic economic theory. Fluctuations in capital stocks, variable inputs, and outputs are explained by changing opportunity costs.
+Empirical results indicated that durable equipment, farm-produced durables, and family labor
+exhibited significant rigidity in adjustment as a response to exogenous shocks. Surprisingly, the
+hypothesis that real estate was a variable input could not be rejected. The univariate flexible
+accelerator hypothesis, which is widely maintained in most agricultural adjustment studies, is
+inconsistent with the data.
+
+Introduction
+
+In a dynamic agricultural economy, firms typically restructure their resource
+allocation decisions as a response to changing relative prices. For this reason
+it is meaningful to investigate the adjustment process accompanying the revision of optimal production plans. An important feature of the economic climate faced by U.S. agricultural producers is temporal variation in relative prices
+of inputs and outputs. Price changes are induced sometimes by the operation
+of macroeconomic shocks; in other instances, a variety of factors including, but
+not limited to, the influence of technical change and shifting consumer tastes
+The research was funded by cooperative agreement #58-3J23-0035 with the Food Marketing and
+Consumption Economics Branch, Economic Research Service, U.S. Department of Agriculture.
+
+0169-5150/88/$03.50
+
+© 1988 Elsevier Science Publishers B.V.
+
+124
+
+work to create unstable relative prices. Regardless of the source of temporal
+price variation, resource allocation decisions are constantly revised to achieve
+profitable production. Accordingly, this study focuses on the formulation and
+revision of production plans in an economic environment characterized by
+changing opportunity costs.
+The maintained structural hypotheses about U.S. agricultural production
+permit short and long-run economic responses to diverge. Such a divergence
+explicitly recognizes the dynamic nature of agricultural input and output markets. Inputs and outputs may fail to instantaneously adjust to their desired
+long-run values. When this happens, input and output markets are in shortrun disequilibrium. As this state of affairs is unlikely to persist over any length
+of time, actual values eventually coincide with desired values when long-run
+equilibrium is attained. Two features of the adjustment problem are examined
+in some detail. First, an attempt is made to identify forces determining longrun equilibrium values of agricultural inputs and outputs. Naturally, opportunity costs must figure as prime candidates here. Second, the adjustment process involved in the transition from current to long-run equilibrium values is
+highlighted.
+Section 1 describes two important analytical hypotheses employed in the
+subsequent empirical investigation. A brief description of the adjustment cost
+hypothesis and a justification for the use of multioutput technologies are included. These hypotheses are then integrated into a well-defined optimization
+problem with the explicit intent of deriving econometric equations (Section2).
+Section 3 is concerned with the development of empirical supply, variable factor demand, and stock adjustment equations. Care is taken to ensure that these
+equations confirm to a well-defined optimization problem. The maintained
+model is rich enough to include several nested structures as alternative hypotheses. A rigorous hypothesis testing procedure is identified in Section 4.
+Results of the preliminary empirical investigation involving the use of U.S.
+aggregate agriculture time series data spanning the time period 1948-79 are
+contained in the penultimate section. Conclusions and possible extensions of
+the present effort are the subject matter of the final section.
+1. Adjustment costs, multioutput technologies and U.S.
+agriculture
+
+The adjustment cost hypothesis provides an appealing rationalization for
+the divergence of actual from desired values of a production input. Proponents
+of this hypothesis argue that it is costly for the decision- maker to rapidly adjust
+stocks of production inputs to their long-run equilibrium values (Penrose, 1959;
+Arrow, 1982). If this is true, then the decision-maker has an incentive to adjust
+slowly rather than quickly to minimize the penalty associated with rapid adjustment. Slow adjustment of inputs implied by the adjustment cost hypothesis
+
+125
+
+provides the required bridge between short and long-run economic analyses.
+In the absence of adjustment costs this distinction is meaningless. The firm
+can respond immediately to changing market conditions since rapid adjustment is not penalized.
+A concrete example may illustrate this point further. Starting from an initial
+equilibrium position, suppose that the relative price of corn increases. Under
+normal conditions, this will stimulate both long-run corn supply and inputs
+used in the production of corn. When there are no impediments to adjustment,
+actual supply and input usage match desired values instantaneously. Sluggish
+adjustment is ruled out in this example because the firm has no incentive to
+adjust slowly in the absence of adjustment costs. Under these circumstances,
+the distinction between short and long-run supply and input demand response
+is nonexistent. Purely static production models fail to integrate the stylized
+feature of lagged adjustment because they implicitly impose the stringent assumption of zero adjustment costs. This makes consideration of the adjustment cost hypothesis to explain dynamic behavior in input and output markets
+a reasonable hypothesis to maintain.
+While the adjustment cost hypothesis contains a powerful rationalization
+for the prevalence of lags in economic response, it serves another useful purpose as well. This hypothesis has been fruitfully used to analyze aggregate
+investment behavior (Berndt et al., 1979). It introduces a new dimension into
+conventional production economics problems. Under this hypothesis, the allocation decision of the firm involves concurrent choice of variable inputs, supply of outputs, and optimal investment. By including the investment decision
+with other decision variables, this hypothesis defines a broader class of
+problems.
+To give specific meaning to the idea of adjustment costs, some important
+distinctions merit mention. Adjustment costs can be internal or external. When
+the penalty charged for altering input stocks are pecuniary in nature, the costs
+are termed external. Nonpecuniary costs reckoned in terms offoregone output
+or variable factors are internal costs. Either of them could be a maintained
+hypothesis although it is easy to establish that, from a modeling perspective,
+external costs are a special case of internal costs (Mortenson, 1973). The present study adopts internal adjustment costs for U.S. agriculture. Besides being
+the less restrictive hypothesis, this practice is consistent with the development
+of previous agricultural investment studies (Vasavada and Chambers, 1986).
+Examples of adjustment costs in agriculture include search cost, relocation
+cost, reorganization costs, and psychic costs.
+Another important feature of the present study is the emphasis on multioutput technologies. Several justifications are available for utilizing this hypothesis. First, the data employed in estimation were highly aggregative in nature.
+Detailed data available on outputs could be gainfully utilized in the model specification. The multioutput specification was also flexible enough to test some
+
+126
+
+structural hypotheses such as consistency in aggregation andjointness. A single composite output measure precludes this possibility.
+The dual maintained hypotheses of multioutput technologies and adjustment costs are integrated into the analysis by modifying the conventional production function. To illustrate this procedure, some notation must be
+introduced. Let L denote the vector of variable inputs, K the vector of quasifixed inputs, I the vector of gross investments in quasi-fixed inputs, and Y is
+the output vector. Each of these variables must be indexed with a time subscript. The time subscript is dropped in our analysis mainly to avoid tedious
+notation. Quasi-fixed inputs are fixed in the short run but variable in the long
+run. To contrast, quantities of variable inputs can freely be varied at all times.
+One way to represent the restrictions implied by technology is the modified
+multioutput transformation function:
+Q.>( Y, L, K, I) =0
+
+(1)
+
+The inclusion of investment in the transformation function reflects adjustment costs and warrants some elaboration. To see how the inclusion of investment in (/) ( · ) is equivalent to imposing the adjustment cost hypothesis, consider
+the derivative, oYj811 . It is easy to obtain an expression for this derivative in
+terms of the derivatives of Q.> ( • ) by total differentiation of ( 1). This derivative
+measures the marginal change in the ith output when the jth input stock is
+augmented or depleted. In the absence of adjustment costs this derivative is
+exactly zero as changing the size of the jth input stock is not penalized. However, in the presence of adjustment costs, this derivative is negative since investment in the jth input stock is penalized by a reduction in the ith output.
+Here adjustment costs are being measured in terms of forgone output and hence
+are internal. The specification ( 1) proves to be a convenient method for ineluding the dual maintained hypotheses of multioutput technologies and adjustment costs. Together these components will now be fused into a consistent
+theoretical framework to derive empirical econometric equations.
+2. A Dynamic multioutput model for U.S. agriculture
+
+At each point in time the representative agricultural firm enjoys a stream of
+rents accruing to its stock of quasi-fixed inputs. When appropriately discounted, the value of this stream is a measure of the value of the firm. Optimal
+variable inputs, investments, and output supply are solutions to the problem
+of maximizing the value of a representative agricultural firm. A hypothetical
+two-stage maximization problem is used to illustrate this principle. The development described here is an extension of dynamic duality developed by Epstein (1981).
+In the first stage, the firm is presumed to pick quantities of variable inputs
+and outputs. Let W represent the vector of variable input prices and P the
+
+127
+
+vector of output prices. All prices are normalized arbitrarily by the first output
+price. Naturally, the price of the first output is set to one and is excluded from
+P. The short-run normalized restricted profit function for the multioutput
+transformation function ( 1) is the solution to:
+subjectto
+
+n(P, W,K,l)=max {P'Y-W'L}
+
+<1>(·)=0
+
+(2)
+
+Y,L
+
+The notation ' is used to denote transposition. Adjustment costs impact on
+the short-run profitability of the representative firm. Any expansion or contraction of quasi-fixed input stocks is accompanied by a reduction in short-run
+profits. The dual function n( ·) inherits this property from the function <1>( ·)
+(Diewert, 1973). Subject to regularity conditions that the feasible input and
+output combinations define a closed, nonempty, and convex set, a duality relationship between n( ·)and <1>( ·) is implied. This duality causes n( ·)to obey
+certain regularity conditions. These are: n ( · ) is linearly homogeneous, monotonically increasing, and concave inK; homogeneous of degree zero and convex
+in all prices; monotonically decreasing in variable input prices, and monotonically increasing in output prices. Standard duality arguments establish these
+results.
+The second phase of the decision process involves optimal choice of quasifixed inputs by maximizing the discounted future stream of rents. Rents accruing to quasi-fixed inputs are obtained by substracting total rental cost from
+short-run variable profits. To aid in representing this problem concretely, some
+additional notation is necessary. Denote the vector of normalized unit rental
+prices of quasi-fixed inputs by q and the constant discount rate by fJ. Finally~
+is a proxy for the diagonalized matrix of constant depreciation rates. The firm
+solves:
+J(P, W,q,K)=max
+1
+
+loo exp(-fJt)
+Jo
+
+[n(·)-q'K] dt
+
+(3)
+
+subject to
+- the standard equations of motion:
+dK= (I-~K) dt
+- and initial conditions
+K(O) =Ko
+
+The equations of motion merely rehash the standard formulation that gross
+investment is the sum of net investment and replacement investment. The
+assumption of geometric decay in the quasi-fixed input stock is implicit in this
+analysis. Justifications for this assumption are documented by Jorgenson
+(197 4). The infinite horizon assumption may seem innocuous. This assumption is consistent with geometric decay of the capital stock maintained earlier.
+Besides, the decision-maker only follows up on the optimal plan implied by
+
+128
+
+( 3) for the first time period. At the end of the first time period, ( 3) is solved
+again after updating the information set. J ( · ) is the optimal value of the firm.
+Although the time subscript has been suppressed in the maximand, it hides
+an important issue in specification and estimation of dynamic production
+models, namely the formation of future price expectations. The values of (P,
+W, q) must either be known with certainty at the beginning of the planning
+period or expectations must be formed about their values at all future points
+in time. Otherwise, the maximand ( 3) cannot be evaluated. Several approaches are available to tackle this problem. Prominent among these is the
+rational expectations view (Muth, 1961). It is extremely difficult to include
+this approach into the type of analysis proposed here. Hence the simplifying
+assumption that economic agents have static expectations is maintained. Static
+expectations essentially stipulates that current relative prices repeat themselves over the planning horizon.
+As might be expected, the value function J ( · ) inherits some properties from
+the now primal normalized restricted profit function n( ·) (Epstein, 1981).
+This follows from the duality relationship that given n( · ), there is a corresponding J ( · ) and vice versa. From the standpoint of the empirical analyst,
+this duality helps to obtain convenient closed-form expressions for variable
+input, investment, and output supply equations. These behavioral equations
+describe the relationship between optimal values of decision variables and opportunity costs, which is the main interest of this analysis. Exploiting duality
+results to develop estimating equations share the distinction that the equations
+so obtained can be integrated back into a well-defined value function. Basically, the strategy pursued here will closely parallel that adopted in static duality studies (see Diewert, 1984, for a comprehensive survey of this approach).
+First, a flexible form for a value function J ( · ) is specified. The econometric
+equations are then defined in terms of derivatives of the value function.
+
+3. A Normalized quadratic value function
+
+Several choices for the value function J (P, W, q, K) are available. These are
+more fully described in Epstein ( 1981). A normalized quadratic second-order
+Taylor series expansion was chosen for this study. One reason for making this
+choice was that the implied variable input, investment demand, and output
+supply equations were linear in normalized prices. Both short and long-run
+investment demand equations inherited this property. Besides, this functional
+form has been adopted in previous studies of aggregate agricultural investment
+behavior (Lopez, 1985; Vasavada and Chambers, 1986). Keeping this in mind,
+consider the parametric specification:
+
+129
+
+pl
+
+lAnA12A13A14
+A12 Az2 Az3 Az4
+( 4)
+A13 Az3 A33 A34
+K
+A14 Az4 A34 A44
+Note that a0 is a scaler; a 1 , a 2 , a3 and a 4 are appropriately dimensioned vectors.
+Likewise, An, A 12 , ... , A 44 are appropriately dimensioned matrices. Equation
+( 4) expresses a relationship between optimal value of a firm, opportunity costs,
+and quasi-fixed input stocks. To obtain econometric equations, note that the
+Bellman equation corresponding to problem ( 3) is:
+J =aa + [alaza3a4 l
+
+W
+l q
+
++
+
+[P' W' q' K']
+
+j)J =max{ [n(P, W, q, K) -q' K] +JK(l-EK)}
+
+l[fl
+
+( 5)
+
+I
+
+An important economic principle is embodied in the Bellman equation ( 5).
+According to this equation, at each point in time along the optimal path, the
+required rate of return implied by the subjective discount rate is the same as
+the actual objective rate of return. That is, the firm picks an optimal production plan involving choice of inputs and outputs that equate these two
+magnitudes.
+The Bellman equation helps to express optimal decision variables in terms
+of first and second derivatives of the value function J ( · ) . Application of the
+envelope theorem to ( 5) yields the equations:
+K*=l-EK=J;k[ftJq
+
++ K]
+
+(6a)
+
+L*=-ftJw +JwkK*
+
+(6b)
+
+Y* = /)Jp +JpkK*
+
+(6c)
+
+Lower case subscripts in (6a)-(6c) are used to designate derivatives. For example, Jq is the vector of first partial derivatives of the value function with
+respect to normalized rental prices of quasi-fixed inputs. Extending this convention to second derivatives, the notation J wk is the sub hessian matrix whose
+typical ijth element is{ 8JI 8 wi 8Kj}. Together' equations ( 6a)- ( 6c) correspond to the dynamic analogue of Hotelling's lemma which is widely used in
+applied static duality analysis (Young et al., 1985). Given the value function
+( 4), the optimal investment demand, variable input, and output supply equations can be expressed in terms of the first and second derivatives of the value
+function.
+The structural model used in econometric estimation is derived by applying
+( 6a)- ( 6c) to the value function ( 4). Equations in the structural model are:
+
++ A13P+A23 W +A33q+A34K} + K]
+
+(7a)
+
+L*=-ft[az +A1zP+A2z W+ Az3q+Az4K] +A24K*
+
+(7b)
+
++A 1 4K*
+
+(7c)
+
+K*=A:3l [j){a3
+
+Y*=-ft[a 1 +AnP+A12 W+A 13 q+Al4K]
+
+130
+
+A closer look at the system of investment demand equations reveals some interesting information. Long-run quasi-fixed input demand equations are obtained by setting net investment to zero and solving the implicit equation in
+(7a). Long-run input demands are observed to be linear in normalized prices.
+Another feature shared by equation (7a) is that they define a multivariate
+flexible accellerator (abbreviated as MFA). The MFA was originally advanced
+to characterize a richer class of lag distributions than were provided by simple
+accelerator models (Nadiri and Rosen, 1969). The MFA always results when
+the matrix Jqk is a constant matrix.
+Earlier, an effort was made to stress the relationship between long-run equilibrium values and impediments that prevented attainment of these values.
+The prevalence of adjustment costs ensure that complete adjustment to steady
+state values does not occur instantaneously. This information is embodied in
+the net investment equation ( 7a). Several alternative models are nested within
+the maintained structural model. They can be obtained by imposing simple
+parametric restrictions.
+4. A Hypothesis testing procedure
+
+As noted before, the maintained structural model was consistent with a MFA
+lag distribution. This is a verified by rewriting ( 6a) as:
+K*=M[K-K]
+
+(8)
+
+where the matrix M equals [J+J-q}. and the vector of steady state input demands K =-fJJq. All structural hypotheses relate to the crucial adjustment
+matrix M. When the matrix M is a diagonal matrix, the univariate flexible
+accelerator adjustment mechanism is obtained. This alternative model rules
+out interdependencies in adjustment between different inputs. For example,
+the adjustment of capital stock is unaffected by disequilibrium in labor markets. Previous agricultural investment studies have usually invoked the univariate flexible accelerator ( Griliches, 1960; Penson et al., 1981). For this
+reason, testing this hypothesis was a useful exercise.
+Another possibility lies in noting that, in the absence of adjustment costs,
+inputs instantaneously adjust to desired levels. This is the same as the observation that the matrix-Min (8) is a unit matrix. When M is a unit matrix,
+actual investment equals desired investment and no short-run disequilibrium
+can occur in input markets. Imposing this restriction helps to investigate the
+null hypothesis of no adjustment costs. It is worth observing that the ability to
+confront the maintained hypothesis with observed data is yet another strength
+of the adjustment cost model proposed in our investigation. A test for instantaneous input adjustment is also a test for the hypothesis that all production
+inputs are variable. Rejection of this hypothesis does not terminate the hypothesis testing procedure.
+
+131
+
+In fact, intuition suggests that this hypothesis might likely be rejected. The
+conclusion that all factors are not variable does not rule out the possibility that
+some inputs are variable. To test for the possibility that a single input, say the
+ith input, is variable, the following parametric restrictions must be imposed:
+Mii
+
+= -1
+
+and
+
+Mij
+
+= 0
+
+Vi =I= j
+
+(9)
+
+Following the rejection of the hypothesis that all inputs are variable, each input
+can individually be tested by imposing (9). The results obtained from this
+exercise will hopefully serve to guide future analysts about the correct specification of empirical production models. Investigations into rigid adjustment
+in input markets have a long and sometimes controversial history. The asset
+fixity hypothesis (Johnson and Quance, 1982) and attempts to test it (Chambers and Vasavada, 1983) have received some attention recently. A second
+advantage of our hypothesis testing procedure follows from the empirical information obtained on the degree of asset fixity in U.S. agriculture. Structural
+hypotheses studied and implied parametric restrictions are summarized in Table 1.
+Before passing to the empirical analysis, a cursory mention of the test statistic used to discriminate between alternative models is appropriate. Several
+choices are available for this purpose. Prominent among these are Wald staTABLE 1
+
+Hypotheses of interest and implied parametric restrictions
+Hypothesis
+
+Parametric restrictions*
+
+Remarks
+
+All production
+inputs variable
+
+Mn=M22 =M33 =M44 = -1 and
+M1z=M13=M1•=Mz1 =Mz3
+=Mz•=Msl =M3z =M34
+=M•l=M•z=M•3=0
+
+M is the negative of the
+unit matrix
+
+Durable equipment
+variable
+
+M 11 = -1 andM21 =M3l=M41 =0
+
+Modify 1st column of
+adjustment matrix
+
+Real estate
+variable
+
+Modify 2nd column of
+adjustment matrix
+
+Farm-Produced
+durable variable
+
+Modify 3rd column of
+adjustment matrix
+
+Family Labor
+variable
+
+Modify 4th column of
+adjustment matrix
+
+Univariate flexible
+accelerator
+
+M1z=M13=M1•=Mz1=M23=Mz•
+=M•l=M•z=M•3
+=M31=M3z=M33=0
+
+M is a diagonal matrix
+
+*1 denotes durable equipment, 2 represents real estate, 3 stands for farm-produced durables, and
+4 denotes family labor.
+
+132
+
+tistics, likelihood ratio statistics, and Langrangian multiplier statistics. Our
+study utilized the likelihood ratio statistic. If O" denotes the ratio of values of
+likelihood functions for restricted and unrestricted models, then -21nO" is distributed as a chi-squared with degrees of freedom equal to the number of independent restrictions (Theil, 1971). This test is easy to apply and one that is
+often used in related studies.
+Empirical results
+
+The empirical model comprised of four quasi-fixed inputs, two variable inputs, and four outputs. Quasi-fixed inputs included durable equipment, real
+estate, family labor, and farm-produced durables. Hired labor and intermediate materials were variable inputs. Finally, livestock, dairy, grains, and other
+field crops were the outputs considered. Data used in estimation are described
+in Ball ( 1985). Before proceeding to estimate the model, a time trend was
+appended to each equation. This is consistent with standard practice in empirical production models. The time trend is used as a proxy for biased technical change in U.S. agriculture. Biased technical change was assumed to
+function as a shifter on the input demand and supply equations. In the input
+equations a positive coefficient indicated input-using technical change. A negative coefficient was consistent with input-saving technical change. The maintained structural model was recursive. Hence the method of iterated nonlinear
+seemingly unrelated regressions was employed. Parametric estimates obtained
+by this method are known to be asymptotically equivalent to maximum likelihood estimates at the point of convergence. This observation has significance
+to the hypothesis testing procedure initiated at a later stage in the empirical
+analysis. All estimation was performed by using the TROLL package.
+Estimated parameters of the adjustment matrix for maintained and accepted versions of the model are reported in Table 2. Adjustment coefficients
+reported there provided information on the relative speed of adjustment to a
+divergence of actual from desired values. A change in relative prices induces a
+gap between actual and desired stocks which is not rectified in the immediate
+time period. Durable equipment took a little over 3 years to adjust to desired
+values. This result can be explained in some cases by the observation that
+agricultural machinery cannot be deployed in other industries during periods
+of decline in prices of agricultural products. In the extreme case, when adjustment costs for this input are infinite, a commonly cited example is that once
+agricultural machinery is installed, it is 'bolted to the floor', and cannot be
+disinvested in response to changing relative prices. A similar conclusion
+emerged for farm-produced durables.
+However, family labor predicted longer adjustment lags. This input took
+over four years to adjust to a disequilibrium. Long lags in labor adjustment
+have been alluded to in the agricultural economics literature (Baumgartner,
+
+133
+
+TABLE2
+Estimated parameters of adjustment matrix for maintained and accepted versions of model
+Parameter*
+
+Mn
+M,2
+M,3
+M,4
+M21
+Mz2
+M23
+M24
+M3,
+M32
+M33
+M34
+M4,
+M4z
+M43
+M44
+
+Maintained model
+
+Accepted model
+
+Estimate
+
+Standard error
+
+Estimate
+
+Standard error
+
+-0.3019
+-0.0137
+-0.3535
+0.1125
+-0.9363
+-0.7350
+-0.8431
+-0.1499
+-0.1367
+-0.1159
+-0.3961
+-0.0557
+-0.1413
+-0.0070
+-0.5131
+-0.1707
+
+0.0574
+0.0459
+0.0798
+0.0222
+0.1903
+0.1514
+0.2608
+0.0737
+0.1085
+0.0766
+0.1418
+0.0365
+0.1756
+0.1363
+0.2263
+0.0599
+
+-0.3064
+0
+-0.3372
+0.1124
+-1.1022
+-1.0
+-1.0606
+0.1757
+-0.0664
+0
+-0.3079
+-0.0646
+-0.0808
+0
+-0.4349
+-0.1536
+
+0.0435
+0
+0.0713
+0.0189
+0.1512
+0
+0.2067
+0.0672
+0.0752
+0
+0.1226
+0.0328
+0.1233
+0
+0.1753
+0.0615
+
+*1 denotes durable equipment, 2 denotes real estate, 3 stands for farm-produced durables, and 4
+represents family labor.
+
+1965) and have been regarded as an important element of the farm problem.
+One possible explanation for rigid labor adjustment is the specific human capital embodied in choice of farming as an occupation. When profitability of
+farming declines, farmers are unable to easily switch their labor skills to other
+occupations. This process takes significant retraining and farmers may continue to remain in agriculture, at least in the short run, in anticipation of improved profits. The surprising result obtained from our model was that real
+estate stocks adjusted instantaneously to desired levels. No adjustment lags
+were prevalent for this input confirming the hypothesis of zero adjustment
+costs.
+Results of the hypothesis testing procedure are reported in Table 3. First,
+the univariate flexible accelerator hypothesis was tested. A calculated statistic
+of 173.51 exceeded the corresponding tabulated value of 32.62 for 16 degrees of
+freedom. This hypothesis was hence rejected. Rejection of the univariate flexible accelerator has been confirmed by previous empirical studies as well (Epstein and Denny, 1983). Adoption of this adjustment mechanism may lead to
+incorrect conclusions in studying agricultural input markets. Following this,
+an effort was made to determine whether all production inputs were variable.
+Again, the calculated likelihood ratio statistic was found to exceed the table
+
+134
+
+TABLES
+Likelihood ratio statistics for hypothesis tests
+Hypothesis
+
+Likelihood ratio
+statistics
+
+Degrees of
+freedom
+
+Table value
+for chi -square
+
+Univariate flexible accelerator
+All production inputs variables
+Durable equipment
+Real estate variable
+Farm-produced durable variable
+Family labor variable
+
+49.53
+173.51
+66.00
+4.80
+26.60
+61.43
+
+12
+16
+4
+4
+4
+4
+
+27.78
+32.62
+13.70
+13.70
+13.70
+13.70
+
+value for 12 degrees of freedom. This pointed to the prevalence of quasi-fixity
+in aggregate U.S. agriculture. Quasi-fixity may be viewed as a weak form of
+asset fixity. Our results confirm the notion of rigidity in input market
+adjustment.
+The next step involved testing for quasi-fixity of individual inputs. The calculated statistic for durable equipment, farm-produced durables, and family
+labor were all higher than the table value of 13.70 for 4 degrees of freedom.
+Quasi-fixity of these inputs could not be rejected. There appeared to be significant adjustment costs associated with changing the levels of these inputs. To
+contrast, the hypothesis that real estate was a variable input could not be rejected. The calculated statistic did not lie in the region of rejection. Adjustment
+costs did hot influence smooth changes in the stocks of this input. Empirical
+evidence generated by the hypothesis testing procedure confirmed the prevalence of adjustment costs as significant contributing factors in preventing instantaneous adjustment to changing opportunity costs. Dynamic output
+adjustment was also implied by our estimates. Equation ( 7c) clearly implies
+that so long as at least one input is quasi-fixed, output adjustment is dynamic.
+The accepted model also gave detailed information about the nature of biased
+technical change in aggregate U.S. agriculture. Among the quasi-fixed inputs
+durable equipment exhibited factor using technical change; farm-produced durables exhibited the opposite behavior, namely factor saving technical change.
+Self-employed labor, like family labor, also diminished in quantity as a result
+of technical change. The other variable input, intermediate materials, increased due to the influence of technical change. Three of four outputs had
+positive coefficients for the time trend. The only exception was the supply of
+dairy products which had a negative coefficient on the time trend. The unlikely
+coefficient sign for the dairy sector may arise because the dairy sector is highly
+regulated in the U.S. and the present model inadequately captures relevant
+structural features of the dairy industry. Within the present framework, the
+only explanatory variables in the dairy supply equation are relative prices and
+
+135
+
+a time trend. Inclusion of other variables may rectify this problem. Based on
+these coefficient signs, technical change tended to reduce the supply of dairy
+products while increasing grain, other field crops, and livestock output. Our
+dynamic specification overwhelmingly supports the presence of biased technical change at the aggregate level, both in input and output markets.
+Before closing the empirical discussion, a few remarks on the econometric
+performance of the estimated model are called for. The model satisfied the
+monotonicity restriction. All left hand side variables had positive predicted
+values when evaluated at the point estimates. Despite the large number of
+parameters to be estimated (101 in all), many parameters were statistically
+significant at conventional levels of significance. Roughly 65% of the parameters were statistically significant at the five percent level of significance. On
+the negative side, the estimated parameters were inconsistent with convexity
+of the value function, as dynamic duality would imply. However, failure of a
+model to conform to curvature restrictions is not limited to this study as many
+studies adopting the dual approach have failed on this front (Shumway, 1983 ).
+Another encouraging observation was that most versions of the model attained
+convergence in fewer than 200 iterations. Apparently the complex cross-equation restrictions and poor starting values did not render the task at hand an
+impossible one.
+Conclusions
+
+An attempt was made in this paper to summarize the results of an ongoing
+project on identification of the appropriate production structure for aggregate
+U.S. agriculture. Admittedly, this is an ambitious goal to set and can only be
+accomplished in a sequence of steps. Hopefully, each step will provide some
+new information about the structure of production in the U.S. agriculture
+economy and also serve to guide future research. Keeping this in mind, it is
+useful to summarize the results obtained thus far and indicate the next items
+on the research agenda. Our model suggests that quasi-fixed inputs adjust to
+their desired values in 3-5 years. Disequilibrium in input markets induced by
+constantly changing opportunity costs are not rectified immediately but carry
+over in the next few time periods. This is true of output markets too. A sharp
+point of difference with previous estimates is the high adjustment speeds predicted by the multioutput model. Comparable previous studies adopting a single composite output predicted lags of up to 20 years for labor (Vasavada and
+Chambers, 1986). Shorter lags predicted by this model may be a consequence
+of changing the model specification.
+Knowledge about speeds of adjustment help policy makers in the design of
+stabilization policy. Policy instruments in U.S. agriculture are usually designed to distort market-based opportunity costs. These policies have the effect of creating disequilibrium in input and output markets. Model estimates
+
+136
+
+suggest that it may take a few years before the intended output supply and
+input demand levels stabilize to their new long-run equilibrium values. Estimated parameters can be used to develop short and long-run price elasticities.
+While such ancexercise is not difficult to perform, it was relegated to a later
+and more detailed investigation.
+Future investigations must concentrate on improving model specification.
+Two important issues need to be addressed. The first relates to the specification ofnonstatic expectations. The static expectations assumption, while convenient for the empirical analysis, is unduly restrictive. Incorporating
+expectations into dynamic models is by no means an easy task. However, some
+improvement can be made on the existing model. A second issue relates to the
+imposition of curvature restrictions on the value function. Violation of curvature restrictions is a matter of some concern since the estimated model no
+longer obeys the properties stipulated by theory. Convexity constraints can be
+imposed by a method proposed in the literature ( Lau, 1978). For the present,
+it is fair to say that these are some conclusions that can be drawn from the
+assumptions made here and, although preliminary, they enable us to make
+some thumbnail sketches about the nature of input and output adjustments in
+aggregate U.S. agriculture.
+
+References
+Arrow, K.J., 1982. Optimal capital adjustment. In: K.J. Arrow, S. Karlin and H. Scarf (Editors),
+Studies in Applied Probability and Management Science. Stanford University Press, Palo Alto,
+CA.
+Ball, V.E., 1977. Output, input, and productivity measurement in U.S. agriculture. Am. J. Agric.
+Econ., 67: 475-486.
+Baumgartner, H.W., 1965. Potential mobility in agriculture: some reasons for the existence of the
+labor-transfer problem. J. Farm. Econ., 47: 74-82.
+Berndt, E., Fuss, M. and Waverman, L., 1979. A dynamic model of costs of adjustment and interrelated factor demands. Work. Pap. 7925, Institute for Policy Analysis, University of Toronto,
+Ont.
+Chambers, R.G. and Vasavada, U., 1983. Testing asset fixity for U.S. agriculture. Am. J. Agric.
+Econ., 65:761-769.
+Diewert, W.E., 1973. Functional forms for profit and transformation function. J. Econ. Theory,
+6: 404-418.
+Diewert, W.E., 1984. Duality approaches to microeconomic theory. In: K.J. Arrow and M.D. Intriligator (Editors), Handbook of Mathematical Economics, North-Holland, Amsterdam.
+Epstein, L.G., 1981. Duality theory and functional forms for dynamic factor demands. Rev. Econ.
+Stud., 48: 81-95.
+Epstein, L.G. and Denny, M.G.S., 1983. The multivariate flexible accelerator: its empirical implications and an application to U.S. manufacturing. Econometrica, 51: 647-674.
+Griliches, Z., 1960. The demand for a durable input: Farm tractors in the United States; 19211957. In: A.C. Harberger (Editor), The Demand for Durable Goods. University of Chicago
+Press, Chicago, IL.
+
+137
+Johnson, G.L. and Quance, L., 1982. The Overproduction Trap in U.S. Agriculture. Johns Hopkins University Press, Baltimore, MD.
+Jorgenson, D.W., 1974. The economic theory of replacement and depreciation. In: W. Sellakaerts
+(Editor), Econometrics and Economic Theory: Essays in Honor of Jan Tinbergen. MacMillan,
+London, pp. 189-222.
+Lau, L.J., 1978. Testing and imposing monotonicity, convexity and quasi-convexity constraints.
+In: M. Fuss and D. McFadden (Editors), Production Economics: A Dual Approach to Theory
+and Application, I. North-Holland, Amsterdam, pp. 409-453.
+Lopez, R.E., 1985. Supply response and investment in the Canadian food processing industry.
+Am. J. Agric. Econ., 67: 40-48.
+Mortenson, D.T., 1973. Generalized coast of adjustment and dynamic factor demand theory.
+Econometrica, 41: 657-665.
+Muth, J.F., 1961. Rational expectations and the theory of price movements. Econometrica, 29:
+315-335.
+Nadiri, M.I. and Rosen, S., 1969. Interrelated factor demands. Am. Econ. Rev., 59: 457-471.
+Penrose, E.T., 1959. The Theory of the Growth of the Firm. Wiley, New York.
+Penson, J., Romain, R. and Hughes, D., 1981. Net investment in farm tractors: an econometric
+analysis. Am. J. Agric. Econ., 63: 629-635.
+Shumway, C.R., 1983. Supply demand, and technology in a multiproduct industry: Texas field
+crops. Am. J. Agric. Econ., 65: 748-760.
+Theil, H., 1971. Principles of Econometrics. Wiley, New York.
+Vasavada, U. and Chambers, R.G., 1986. Investment in U.S. agriculture. Am. J. Agric. Econ., 68:
+950-960.
+Young, D .L., Mittelhammer, R. C., Rostamizadeh, A. and Holland, D. W., 1985. Duality theory and
+applied production economics research: a pedagogical treatise. Res. Bull. 962, Washington State
+University.
+
+

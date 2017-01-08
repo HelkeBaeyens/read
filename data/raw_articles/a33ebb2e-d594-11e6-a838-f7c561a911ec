@@ -1,0 +1,2803 @@
+AGRICULTURAL
+ECONOMICS
+
+ELSEVIER
+
+Agricultural Economics 26 (2001) 149-172
+www.elsevier.com/locate/agecon
+
+Global models applied to agricultural and trade policies:
+a review and assessment
+Frank van Tongeren a, Hans van Meijl a, Yves Surry b, *
+b
+
+a Agricultural Economics Research Institue (LEI), P.O. Box 29703, 2502 LS The Hague, The Netherlands
+Institut National de Ia Recherche Agronomique (INRA}, Unite d'Economie et de Sociologie Rurales de Rennes,
+Rue Adolphe Bobierre, CS61 103, 35011 Rennes Cedex, France
+
+Received 2 February 2000; received in revised form 12 July 2000; accepted 21 August 2000
+
+Abstract
+The continuing process of global integration bears implications for farmers and related supplying and processing industries
+in all parts of the world, but also for the rest of the world economy. An assessment of agricultural and trade policy impacts is
+bound to be complex and is often supported by quantitative modeling analysis. This article provides an assessment of the present
+state of applied modelling in the area of trade and agricultural policies. We provide in this paper a comparative assessment of
+alternative modelling approaches, considering a total of 16 partial equilibrium and general equilibrium models. The assessment
+includes theoretical modelling foundations, datasets employed and institutional aspects, such as model maintenance and
+dissemination of results. A typology of models is provided by structuring the assessment along a clear set of evaluation
+criteria.© 2001 Elsevier Science B.V. All rights reserved.
+Keywords: Global modelling; Agriculture; Trade
+
+1. Introduction
+The 1990s have witnessed a growing interdependence of national economies. This global trend even
+accelerated since the signing of the Uruguay Round
+Trade agreement in Marrakech in 1994. Signs of this
+increasing globalisation of the world economy take
+several forms. World trade and foreign direct investment (FDI) have grown at a faster pace in the nineties
+than in the previous decade (WTO, 1998). Financial
+markets are more and more interrelated on a world
+wide scale and any shocks occurring in one finan*Corresponding author. Tel.: +33-2-2348-5390;
+fax: +33-2-2348-5380.
+E-mail addresses: f.w.vantongeren@lei.wag-ur.nl
+(F. van Tongeren), surry@roazhon.inra.fr (Y. Surry).
+
+cial place have repercussions elsewhere in the world.
+Another sign of this world globalisation is the ongoing
+creation of regional trade agreements and a consolidation of existing ones. On the policy side, globalisation
+of the world economy led policy makers, governments
+and international institutions to tackle global policy
+issues such as global warming and transboundary environmental problems and come up with some real
+policy proposals. This awareness among policy makers also manifests itself in the trade policy area with a
+global consensus to launch a new round of trade policy
+negotiations despite a bad start at Seattle in November
+1999.
+This overall trend of globalisation of economic
+activity and simultaneously a global orientation of
+policy discussions is continuing to represent an enormous challenge for economists. Assessments of such
+
+0169-5150/011$- see front matter© 2001 Elsevier Science B.V. All rights reserved.
+PII: S0169-5150(00)00109-2
+
+150
+
+F. van Tongeren et aLl Agricultural Economics 26 (2001) 149-172
+
+phenomena has required the development of global
+economic models. Such effort in global modelling is
+now well established and has become an integrated
+part of the economics field. Furthermore, the development of such models has been facilitated by the
+rapid improvement in information and communication
+technologies (ICT). In parallel with the globalisation
+of economic activity and policy making, economics
+research is globalising as well. Large scale global
+models are increasingly supported by international
+teams and international groups of stakeholders.
+The purpose of this article is to review the present
+state of applied modelling used to examine the global
+impacts of agricultural and trade policies. Although
+the scope of this review is limited by a deliberate bias
+towards agricultural trade issues, we should also not
+lose sight that, nowadays, many global phenomena
+go beyond agricultural and trade policy issues, some
+of which are environmentally related. This led us to
+adopt an open-minded strategy in conducting this review of global models. More specifically, we reviewed
+not only global models with an exclusive agricultural
+and trade policy focus but also looked at models which
+may also be used to assess other global problems such
+as global macroeconomic and environmental issues.
+The continuing process of global integration bears
+implications, not only, for farmers and related supplying and processing industries in all parts of the
+world, but also for the rest of the world economy.
+An assessment of likely policy impacts is bound to
+be complex and should be supported by quantitative
+modeling analysis that explicit the relations of countries between each other, and that explicit relevant
+interactions between the agricultural sectors and the
+rest of the economy.
+There is no model which can serve all purposes.
+The choice of theoretical framework, the extent of
+regional and sectoral desegregation and the choice
+of datasets and estimation methods determine the
+domain of applicability of the model. Potential users
+of applied models should be aware of strengths and
+weaknesses of alternative approaches. This review
+primarily presents factual information about relevant
+models, and presents this information in a structured
+format so as to highlight common features, differences
+and areas of applicability of modelling approaches. In
+this way we hope to assist the model user in making
+his own assessment.
+
+Table 1 lists the sixteen models discussed in this
+review, their initiating bodies (institutions and/or
+persons) and their current status. A first distinction
+in Table 1 is that between partial equilibrium models focusing on agriculture on the one hand, and
+economy-wide models on the other hand. These latter
+global models are designed in such a way that they
+could address agricultural and trade policy issues but
+also other global problems such as global macroeconomic and environmental ones. A large part of these
+models are still operational and are currently used
+for policy- and outlook analysis. For these reasons,
+they are in a continuous state of flux of evolving
+through successive updates and changes. This situation led us to conduct the model review at a point
+of time (early 1999) and provide a snapshot of all
+these models as they functioned at the beginning of
+1999. Changes that could have occurred to the operational models since this date are not considered
+in this article. Information on the individual models
+has been gathered using published papers and journal
+articles, unpublished working documents, electronic
+www/documents and personal contacts. An annex to
+this article, which is available on request, provides a
+detailed description of each of the models reviewed.
+The requirement that the model should be relatively
+recent and likely to be used in the 1990s has led us to
+exclude important precursors such as the IIASA Basic
+Linked System (Parikh et al., 1988), The GOL model
+developed by USDA-ERS (Roningen and Liu, 1983),
+OECD's MTM model (Huff and Moreddu, 1990)
+and the Tyers-Anderson model (Tyers and Anderson,
+1992). We have also excluded single-commodity trade
+models and linear (or non-linear) programming models that attempt to describe input-output relationships
+for a certain production process in great detail.
+Although this review of global models has an agricultural and trade policy focus, it does not pretend to
+be exhaustive. The authors are well aware that some
+global models have been excluded from this review.
+This is especially true in the area of environmental
+modelling and more especially in the area of global
+warming where a large and continuous research effort
+has taken place over the last 10 years. 1 Also, existing
+1 For a full review and state of the art in models of climatic
+change, see the various chapters of the OECD Workshop on Economic Modelling of Climate Change (OECD, 1998).
+
+Table 1
+List of models reviewed in this article
+Model
+Partial models
+AGLINK
+
+ESIM (European Simulation Model)
+
+FAO World Model
+FAPRI
+GAPsi (Gemeinsame AgrarPolitik
+Simulation)
+MISS (Modele International Simplifie
+de Simulation)
+SWOPSIM (Static World Policy
+Simultaion Model)
+WATSIM (World Agricultural Trade
+Simulation Model)
+Economy-wide models
+G-Cubed (Global Computable Genereal
+Equilibrium Growth Model)
+GTAP (Global Trade Analysis project)
+
+GREEN
+INFORUM (Inter-industry Forecasting
+at the University of Maryland)
+MEGABARE/GTEM
+Michigan BDS (Brown-Deardorff-Stern)
+RUNS (Rural-Urban-North-South)
+WTO Housemodel
+
+Initiating bodies (institutions and/or persons)
+
+Key reference
+
+Current Status
+
+Organisation for Economic Co-operation and
+Development (OECD)
+US Department of Agriculture/Economic Research
+Service, USDA/ERS, and University Giittingen,
+Germany
+Food and Agriculture Organisation of the United
+Nations (FAO)
+Food and Agricultural Policy Research Institnte,
+Iowa State University
+Bundes Forschungsanstalt fur Landwirtschaft
+(PAL), Germany
+Institut National de Ia Recherce Agronomique
+(INRA), France
+US Department of Agriculture/Economic Research
+Service (USDA/ERS)
+University of Bonn, European Commission,
+Federal Ministry of Agriculture, Germany
+
+See http://www.oecd.org/agr/
+Documents/aglink98.pdf
+Tangermann and Josling (1994)
+
+Used
+
+FAO (1993) and see
+http/:www.fao.org/es/esc
+Young et a!. (1999)
+
+Used
+
+Frenz and Manegold (1988)
+
+Used
+
+Mahe and Tavera (1989)
+
+Not used
+
+Roningen (1986)
+
+Not used
+
+Henrichsmeyer et a!. (1998)
+
+Used
+
+Used
+:"11
+
+Used
+
+"'
+
+1:>
+;:,
+
+C'
+
+;:,
+
+"""'~
+;:,
+
+~
+
+,....
+
+1:>
+
+;;:
+
+""~-
+
+E..
+i:'
+
+~
+~
+
+"
+;;
+"~;:,
+
+McKibbin and Wilcoxen, US Environmental
+Protection Agency (EPA)
+Purdue University, GTAP Center and GTAP
+Consortium
+Organisation for Economic Co-operation and
+Development (OECD)
+University of Maryland
+
+Australian Bureau of Agriculture and Resource
+Economics
+University of Michigan
+Organisation for Economic Co-operation and
+Development (OECD)
+The World Trade Organisation (WTO)
+
+McKibbin and Wilcoxen (1999), and see
+http://www.msgpl.com.au/msgpl/msghome.htm
+Hertel (1997), and see
+http://www.agecon.purdue.edu/gtap/
+Lee et a!. (1994)
+
+Used
+
+N
+0\
+
+Used
+
+-;::,
+
+Used
+
+.:::
+,_
+
+Almon (1991), and see http://www.
+inform.umd.edu/EdRes/Topic/Economics/
+EconData/lntpartn.html
+ABARE (1996), and see http://www.abare.gov.au/
+
+Used
+
+'f'
+,_
+
+Brown et a!. (1992), and see
+http://www.spp.umich.edu/rsie/model
+Burniaux and van der Mensbrugghe (1990)
+
+Used
+
+Francois et al. (1995), and see http://www.
+intereconomics.com/handbook/disk.htm
+
+<::>
+<::>
+
+""'-
+
+;::]
+
+Used
+
+Not used
+Used
+
+v:
+
+!52
+
+F. van Tongeren et al./Agricultural Economics 26 (2001) 149-172
+
+global trade models are increasingly taking environmental issues into account. In the same vein, we do
+not intend to review the large body of work dealing
+with the specification of environmental models which
+is out of the scope of this review. 2
+
+2. Evaluation criteria
+This section introduces our set of evaluation criteria,
+which are subsequently used to describe and compare
+alternative modelling approaches. The set of criteria is
+based on the recognition that applied modelling forms
+a combination of theory and empirical data, both of
+which deserve due attention in policy relevant modelling.
+The general 'filter' for inclusion of models in the
+current review has been that the model should
+• be multi-region and global in nature;
+• have relevance for agriculture, trade and natural resource based activities;
+• be multi-commodity;
+• have a medium term time frame (around 5 years);
+• be an equilibrium model (i.e. not models that project
+demand-supply gaps using primarily technical relations);
+• be of recent vintage, and likely to be used in some
+form in the 1990s;
+• be an applied model, i.e. uses a combination of theory and empirical data;
+• have a strong policy orientation.
+2.1. Conceptual framework: definition and scope
+2.1.1. Market equilibrium models versus
+time series projection models
+Although time series projection models have been
+excluded from the list, it is useful to distinguish this approach from equilibrium models. Time series projection models attempt to forecast the future on the basis
+of extrapolation of historical data. These models typically put more emphasis on the statistical behaviour
+of time series data than on the economic theoretical
+underpinnings of behavioural equations. A projection
+model may, for example, project commodity supply
+2 For a recent review of these environmental models, see Conrad
+( 1999), and Faucheux and Levarlet ( 1999).
+
+based on agronomic data on acreage and yields without taking into account farmers' responses to changing
+market prices. For a discussion of this method and a
+large scale application, see Alexandratos (1995). Another well known global model that relies heavily on
+the projections method is found in Rosegrant et al.
+(1995).
+On the other hand, market equilibrium models contain the response (behaviour) of economic agents to
+changes in prices (costs), and prices adjust so as to
+clear markets. The objective of these models is the determination of equilibrium prices and quantities on (interrelated) sets of markets. 3 In a fully fledged global
+equilibrium model, there will typically be endogenous
+prices attached to world markets as well as domestic markets. This class of models is firmly established
+within mainstream economics where the behavioural
+response of suppliers and buyers is typically derived
+from optimising assumptions: given a description of
+the production technology, the supplier chooses a combination of inputs such that costs are minimised for
+a given level of output. Given a description of consumer preferences, the buyer determines his preferred
+consumption bundle such that his/her utility is maximised for a given level of his/her budget. Standard
+assumptions include constant returns technology, homothetic preferences, and markets characterised by
+perfect competition. While these basic theoretical assumptions underlie equilibrium modelling, the optimisation process is usually not modelled explicitly.
+Rather, a reduced form approach is common, where
+demand and supply are specified as functions of income, prices and elasticities.
+Depending on assumptions made about the flexibility of production factors, equilibrium models can
+be classified as short term, medium term or long term.
+Short term (in the Marshallian sense) means that some
+production factors are fixed, and are not allowed to
+reallocate between alternative uses. The fixed factors
+will typically be capital, agricultural land, and perhaps agricultural labour. Medium term models allow
+3 This does not deny the existence and relevance of disequilibrium situations. Temporary shortages and excess supply situations
+(which may, for example, arise as a consequence of price or quantity regulations) can very well be captured in equilibrium models,
+for example, by allowing for stockpiling and depletion. The key
+point is that these models catch market interactions in a coherent
+and theoretically sound way.
+
+F. van Tongeren et al. I Agricultural Economics 26 (2001) 149-172
+
+for reallocation of all production factors as response
+to some exogenous events. Finally, long term models would also model endogenous capital formation.
+Within the group of market equilibrium models, we
+can identify partial and economy-wide models.
+2.1.2. Representation of national economies:
+partial versus economy-wide models
+Partial models treat international markets for a
+selected set of traded goods, e.g. agricultural goods.
+They consider the agricultural system as a closed
+system without linkages with the rest of the economy. Effects of the rest of the domestic and world
+economy on the agricultural system may be included
+in a top-down fashion by altering parameters and
+exogenous variables. Partial models are in principle
+able to provide much product detail. See also Meilke
+et al. (1996) who give a summary of global partial
+equilibrium models adapted to agricultural trade.
+Partial models may be single- or multi-product.
+Multi-product models are able to capture supply and
+demand interrelationships among agricultural products. Most partial models include linear or log-linear
+behavioural equations, which allows the representation of supply and demand relationships (responses)
+prevailing in the markets under study. 4 They also incorporate into their supply and demand relationships
+exogenous variables such as technical change, world
+population and household income.
+Partial models of international trade in agriculture
+generally focus on trade in primary commodities. That
+is, they capture agricultural supply, demand and trade
+for unprocessed or first-stage processed agricultural
+products without taking into account trade in processed food products, despite the fact that the latter
+commodities represent an increasing share of world
+trade.
+The main area of application of partial equilibrium
+models is detailed trade policy analysis to specific
+products, which represent only a small portion of the
+activities of the economy in question. This (small sector) condition implies that policy-induced changes on
+4 Some (single country) partial equilibrium modellers attempt to
+overcome the shortcomings that are implied by linear and log-linear
+behavioural equations by estimating flexible functional forms. See,
+e.g. Frohberg et a!. (1997). To our knowledge this has not yet
+been applied in global trade models, however.
+
+153
+
+the rest of the economy (outside the farm sector) are
+so small that they can safely be ignored.
+On the other hand, economy-wide models provide
+a complete representation of national economies,
+next to a specification of trade relations between
+economies. A first step in moving from partial equilibrium to economy-wide modelling is to introduce
+supply and demand equations for an aggregate residual commodity. By imposing regularity restrictions
+on the supply and demand elasticities of the amended
+model, one obtains a model that includes demand and
+supply interactions between agricultural commodities and other commodities in a consistent way. A
+fuller economy-wide specification is obtained when
+the model is closed with respect to the generation of
+factor income and expenditures, which requires the
+explicit specification of factor markets for land, labour
+and capital. In other words, the essential general
+equilibrium features are captured by including factor movements between sectors, next to allowing for
+demand interactions. Economy-wide models capture
+implications of international trade for the economy
+as a whole, covering the circular flow of income and
+expenditure and taking care of inter-industry relations.
+There are three broad classes of economy-wide
+models: macro-econometric models, input-output
+models and applied general equilibrium (AGE) models. Macro-econometric models do not concern us
+here, since they will not zoom in on agriculture, but
+rather are concerned with macro-economic phenomena such as inflation and exchange rates. Input-output
+models provide a comprehensive description of
+inter-industry linkages and a full accounting of primary incomes earned in production activities.
+AGE models do also usually contain full inputoutput detail, but on top of that they contain equations
+that describe the behavioural response of producers,
+consumers, importers and exporters and possibly other
+agents in the economy. 5 AGE models are specifically concerned with resource allocation issues, that
+is, where the allocation of production factors over
+alternative uses is affected by certain policies or exogenous developments. International trade is typically
+an area where such induced effects are important
+5 Limitations of open Leontief input-output models include fixed
+prices, exogenous final demand, perfectly elastic factor supplies,
+and an inability to demonstrate welfare effects.
+
+154
+
+F. van Tongeren et al./Agricultural Economics 26 (2001) 149-172
+
+consequences of policy choices. Needless to say, such
+induced effects are not visible in partial models. In the
+face of changing international prices, resources will
+move between alternative uses within the domestic
+economy, or even between economies if production
+factors are internationally mobile. Only if a complete
+description of the multi-sectoral nature of the economy is provided, can such developmental issues be
+analysed.
+
+2.1.3. Regional scope
+Multi-region models differ with respect to their
+regional coverage. 6 Global trade models attempt
+a closed accounting of the selected commodity
+trade flows for the entire world. If the model is
+economy-wide, the global model also includes a
+globally closed income accounting system. At the
+other end of the scale, a model might focus on
+trade between a selected set of trading partners,
+without attempting a globally closed accounting.
+Or it might even single out one group of countries,
+such as the EU-15, and describe its trade on world
+markets.
+A globally closed database does not imply that all
+regions or countries distinguished are treated with the
+same amount of detail. An intermediate position is
+frequently adopted, wherein the model's database is
+closed with respect to the world, but only selected
+regions are treated with a great amount of detail, and
+confining the description of other regions to a smaller
+range of variables that are of crucial importance.
+2.1.4. Linked individual country models or
+parametric differences between regions
+There are two broad approaches with respect to the
+modelling of individual economies within the global
+economic system. One approach starts by giving a detailed representation of individual economies, taking
+into account much of the institutional and economic
+details of the individual countries, and subsequently
+linking individual country models through trade flows,
+6 In accordance with the international trade literature, 'regional'
+has a supra-national meaning in this report, and not an intranational (provinces, etc.) one. A 'country' corresponds to the
+notion of a nation state. Whenever this article refers to regions, we
+mean an aggregate of individual countries. Regional aggregations
+of countries, therefore, do not necessarily represent a coherent
+geographical space, for example, a 'Rest of the World' region.
+
+capital flows and possibly factor mobility between
+countries. 7
+The other route to global modelling starts by
+assuming the same modelling structure for all individual economies, and representing differences
+between economies in terms of data and parameters
+only. This approach yields a relatively transparent
+model structure, since there is only one economic
+model. This in turn greatly facilitates both the data
+handling aspects as well as the interpretation of results. In the linked country models approach, the
+individual country models may be based on different
+theoretical assumptions, which may make it difficult
+to disentangle model results into the effects of exogenous events on the one hand and differences in
+theories on the other hand. A disadvantage of the
+'one model fits all' approach is clearly its limited
+capability to handle structural differences between
+economies. 8
+2.2. Specification and modelling issues
+
+2.2.1. Dynamic versus comparative
+static specifications
+Dynamic models allow the analysis of lagged transmissions and adjustment processes over time. Alternatively, the comparative static approach studies the
+differences between equilibria resulting from different
+assumptions on exogenous data or policy variables.
+The time path between equilibria is ignored in comparative static models.
+Dynamic models can be used to trace the accumulation of stock variables, whereas static models
+are unable to do this. In comparative static models,
+policy changes have no effect on the accumulation of
+stocks - e.g. capital stock - and the associated
+changes in production possibilities. For short-run
+agricultural analysis the implications of accumulating
+commodity stocks may be relevant as well.
+Dynamic features can be incorporated in equilibrium models in several ways. The most frequently
+used approach is to specify a recursive sequence of
+7 The United Nations Project LINK (Klein and Su, 1979) is a
+well known example of this approach to global modelling.
+8 An intermediate approach has been followed by the GLOBUS
+model (Bremer, 1987), which included three prototypical model
+structures for, respectively, developed market economies, centrally
+planned economies and developing economies.
+
+F. van Tongeren et al. I Agricultural Economics 26 (2001) 149-172
+
+temporary equilibria. That is, in each time period the
+model is solved for an equilibrium, given the exogenous conditions prevailing for that particular period.
+In between periods, stock variables are updated, either exogenously (e.g. population) or as a result of the
+equilibrium outcomes of the preceding period (e.g. investment demand leading to a changed capital stock in
+the next period). Recursive dynamics do not guarantee
+time-consistent behaviour. In contrast, in intertemporal equilibrium models agents display optimal
+behaviour over time as well as within periods.
+Intertemporal models are usually tantamount to
+using rational expectations assumptions. 9 Such
+forward-looking behaviour leads to equilibrium time
+paths that move towards a long-run steady state (if
+it exists). A main reason to incorporate such intertemporal features into general equilibrium models is the desire to model savings rates endogenously, and hence to allow the model to generate
+alternative (endogenous) growth rates. In such models, a policy change can have a lasting effect on
+the economy's growth rate through changes in the
+accumulation of capital stocks. A feature which
+is impossible with a fixed savings rate assumption. 10
+Comparative static models are sometimes used to
+generate projections of policy impacts at some future
+point in time. Such projections are not to be confused
+with econometric forecasts, but are achieved by constructing an artificial future dataset that is consistent
+with the model's assumptions- a so-called baseline
+- and subsequently conducting a policy experiment
+on the basis of this projected dataset. The artificial future dataset is constructed by making assumptions on
+the growth of exogenous variables and parameters and
+subsequently letting the model solve for an equilibrium that is consistent with these assumptions. Typical projections with AGE models rely on exogenous
+forecasts of GDP, factor endowments and factor productivity.
+9 Furthermore, by modelling the intertemporal equilibtium behaviour of economic agents, as well as equilibria within periods,
+such models are able to counteract the Lucas (1976) critique on
+economic models.
+10 If knowledge is included as a production factor that can be
+accumulated, growth rates become endogenous, even with a fixed
+savings rate (see endogenous growth literature, for example, Grossman and Helpman (1991)).
+
+155
+
+2.2.2. Modelling of international trade
+
+2.2.2.1. Assumptions concerning the nature of traded
+goods: homogeneous versus heterogeneous goods.
+In classical trade models, goods are assumed to be
+similar in the eyes of buyers. In such a market, the
+goods of one producer perfectly substitute for those
+of another and are called homogeneous. If the number of suppliers is sufficiently large, the market will
+approach the perfect competitive outcome and prices
+across suppliers will be equalised. Homogeneity and
+competitiveness also imply that each actor in the
+market is either a buyer or a seller of the good, but
+never both, since each actor is either able to produce
+the good with non-negative profits at the prevailing
+market price or not. This implies that a country can
+only be an exporter or an importer of a certain good,
+and models that include this assumption describe only
+inter-industry trade.
+Homogeneity therefore simplifies the task of trade
+modelling considerably. Since prices are equalised and
+there is no other distinguishing characteristic of the
+goods, it makes no difference from which supplier
+a particular purchase is made. The homogeneity assumption is therefore associated with a 'pooled' market approach to trade modelling, where we see only
+what each actor brings to the market (supply) and what
+that actor takes from the market (demand). For obvious reasons, the pooled market approach is also known
+as 'non-spatial' modelling.
+However, these simplifications in modelling have
+severe limitations for applied trade research, as these
+models explain only inter-industry trade and not
+intra-industry trade. The latter turns out to be an
+important phenomenon in trade, since even at high
+levels of disaggregation, countries report both exports
+and imports in any sector. If intra-industry trade is
+netted out, one ignores an important phenomenon of
+the real world and underplays the importance of trade
+to each region. Furthermore, these trade models can
+be hypersensitive to changes in transportation costs
+and trade policy wedges, and run the risk of extreme
+specialisation when sector-specific factors of production are not present in the model, see also Francois
+and Reinert (1997).
+One way to introduce intra-industry trade in a
+model is to assume that goods are distinguished by
+other factors than price alone, and hence are viewed
+
+156
+
+F. van Tongeren et al. I Agricultural Economics 26 (2001) 149-172
+
+as imperfect substitutes from the perspective of the
+buyer. When product differentiation is possible, goods
+are called heterogeneous and the task of trade modelling is considerably more complex. First, there is no
+need for prices to equalise across suppliers. If goods
+are heterogeneous, then different buyers are willing to
+pay different prices to obtain the same quantity of the
+good. Hence, independent price movements among
+suppliers are possible. Second, each actor in the market may be both a buyer and a seller at the same time
+if goods are differentiated. This implies that the trade
+model has to trace twice as many transactions than
+under the homogeneity assumption. Clearly, the bilateral specification provides a richer and more detailed
+picture of the market, but requires much more data,
+parameters, bookkeeping and computational effort.
+Whether the additional effort is justified by additional
+relevant information depends on the kind of problems
+a model has to tackle. Many policy disputes and policy instruments are bilateral in nature, and can only be
+treated within a bilateral specification of trade flows.
+There are two ways to incorporate product differentiation into applied trade models. On the one hand,
+product differentiation can be introduced exogenously
+by assuming that products are differentiated by country of origin. This method introduced by Armington (1969) simply assumes that imports and domestic
+goods are imperfect substitutes in demand. The often
+used Armington formulation in applied trade models
+invokes the assumption that products are differentiated by country of origin. In combination with a preference function that is separable in domestic products
+and combined foreign products, this yields empirically manageable import functions. Most often a CES
+functional form for preferences is assumed. 11 This
+assumption has received much criticism because the
+source of product differentiation is exogenously introduced on the demand side. Another disadvantage of
+this assumption is that terms of trade effects turn out to
+be quite large empirically. The Armington assumption
+implies that each importer, however small the region
+may be, has some degree of market power, and is there-
+
+In general, the assumption of (weak) separability of the utility function implies that 'bundles' of goods have to be identified,
+where substitution is relatively easy within 'bundles' but substitution is less easy across 'bundles'. This is evidently also an empirical issue.
+11
+
+fore able to influences world prices. See Brown (1987)
+for an analytical and numerical assessment of terms
+of trade effects under the Armington assumption.
+An alternative approach is to introduce product differentiation endogenously at the firm level on the supply side. 12 This approach assumes that consumers
+prefer differentiated goods either to obtain a better
+match between their preferred variety and those extant
+in the market place (Lancaster, 1980) or to obtain increased variety in consumption (Spence, 1976; Dixit
+and Stiglitz, 1977). Krugman (1979, 1980) and Ethier
+(1979, 1982) introduced the concept of monopolistic
+competition into international trade theory. In this approach fixed costs such as R&D or marketing costs
+are necessary to produce differentiated goods. The inclusion of fixed costs has some implications for trade
+policies. Next to the traditional gains from trade we
+get 'noncomparative advantage' gains from trade in
+the presence of scale economies and imperfect competition. First, shocks that increase output at firm level
+result in positive scale effects. Second, there are gains
+from trade in the form of increased variety (thereby
+incurring fixed costs and reducing the sales of existing
+firms). Thirdly, scale economies imply that the market can only support a limited number of firms, which
+are consequently imperfectly competitive. Trade creates a larger market that can support a larger number
+of firms and hence a greater level of competition. The
+reduction in market power is called the procompetitive effect. The advantage of this approach is that it
+locates product differentiation on the supply side and
+it minimises terms of trade effects. A disadvantage is
+that the absence of firm level data makes econometric
+estimation of elasticities problematic (Winters, 1990).
+2.2.3. Representation of policies
+A careful representation of policies is an essential component of global models applied to practical
+agricultural and trade issues. The policies considered
+cover not only trade policies but also domestic agricultural policies which add further distortions between
+international and domestic prices. Modelling policy
+12 Berkum van and van Meijl (2000) give an elaborate survey of
+determinants of international trade, such as factor endowments,
+product differentiation, economies of scale and innovation, and
+their implications for trade patterns and trade policies. Furthermore,
+they survey empirical evidence on the relevance of various theories
+for explaining trade in agricultural and food products.
+
+F. van Tongeren et al./ Agricultural Economics 26 (2001) 149-172
+
+157
+
+price distortions caused by the quota. There are several
+methods to quantify quotas and other non-tariff measures (Laird, 1997), which basically amount to two alternative ways to implement them in applied models:
+the first is a tariff equivalent representation, while the
+second method specifies quantity restrictions directly.
+
+instruments in global models can take two forms. The
+first one consists of developing a direct structural representation of the policy instruments through the incorporation of its mechanisms. The second approach is
+more indirect and measures the policy-induced distortions through a price-transmission (policy-response)
+relationship linking international and domestic
+prices. 13 Depending on the values taken by this relationship, it is flexible enough to capture a wide array
+of trade and domestic agricultural policy regimes
+ranging from a perfect transmission of world prices
+to perfect insulation. Measures of distortions captured by price wedges and/or tariff equivalents are
+incorporated into this policy response function.
+In the global models under review, these two forms
+of representing policies are being used extensively.
+Concerning the price transmission specification, the
+most common form of modelling policy instruments
+is the perfect transmission case with price wedges and
+or tariff equivalents. This form is relatively easy to implement. In what follows, we illustrate the modelling
+of policy instruments through two trade policy instruments: tariffs and quantitative restrictions.
+Tariffs and quantitative restrictions such as quotas and voluntary export restraints (VERs) are two
+types of trade policy instruments that are examined
+in applied trade models. Tariffs can be introduced in
+a straightforward manner and are most of the time
+expressed as the percentage by which the domestic
+price exceeds the world price; i.e. an ad valorem tariff rate. Quotas are more difficult to implement. First,
+one has to investigate whether a quota is binding or
+not. Second, it is difficult to assess what would be the
+level of imports without the quota. Third, one has to
+model who appropriates the rents that accrue from the
+quota: domestic importers or foreign exporters. With
+regard to the second element researchers focus on the
+
+2.2.3.1. Tariff equivalents or price wedges. The tariff equivalent or price wedge of a non-tariff measure is
+the difference between the free world price of a good
+and the price on the domestic market. These measures
+can be relatively easily be observed when goods are
+homogenous and free world prices can be obtained
+from transaction values. For manufactured goods, the
+former is a problem and for many (agricultural) commodities the latter is a problem. A popular method
+to arrive at estimates of tariff equivalents is use of
+producer support estimates (PSE). 14 A disadvantage
+of these subsidy equivalents is that they vary considerably from year to year, not only through changes
+in policies but especially through changes in world
+prices, exchange rates and the value of domestic production.
+The representation of quantity restrictions as price
+wedges is not always an adequate approach. If a quota
+is not binding in the benchmark, its tariff equivalent
+will be equal to zero. However, the quota may become
+binding as the result of a policy simulation. This effect
+will not be captured when the quota is approximated
+by a tariff equivalent because the tariff equivalent remains zero. Additional complications arise in the case
+of multi-tier protective schemes like tariff-rate quotas
+(TRQs). These schemes specify different tariff rates
+for different import quota levels, and it has to be determined whether each quota is really binding and/or
+the tariff is prohibitive. Also, the implementation of
+a quota implies the generation of quota rents, which
+
+13 For more details on the specification and implementation of
+price transmission equations, see Tyers and Anderson (1992,
+Chapter 2). Price transmission equations can also be viewed as
+reduced-form relationships obtained from a structural "political
+economy" model explaining the behaviour of policy decision makers who optimise a policy preference (social utility) functions
+subject to economic and political constraints. The empirical implementation of price transmission equations is often pragmatic
+and not necessarily derived in a consistent fashion from the underlying political economy model. This could explain why such a
+specification of policies is not used in global computable general
+equilibrium models.
+
+14 PSEs were formerly known as 'producer subsidy equivalents'.
+These include the transfer from price distortions (i.e. price wedges),
+and the transfers from government to producers. The transfer from
+price distortions or market price support is again the transfer from
+consumers to producers in the form of price gaps between domestic and world prices. The transfer from government expenditures includes both direct government payments and indirect transfers (e.g. input subsidies, tax concessions). The consumer subsidy
+equivalent (CSE) measures the implicit tax or subsidy imposed on
+consumers. See Cahill and Legg (1990) for a comprehensive description. Both PSEs and CSEs are regularly published by OECD.
+
+158
+
+F. van Tongeren et al./ Agricultural Economics 26 (2001) 149-172
+
+accrues as income to the holder of the right to import
+or export under the quota. The endogenous determination of quota rents and their distribution over holders
+of quota rights can only properly be captured by an
+explicit representation of these policy measures. See,
+for example, DeMelo and Tarr (1992) for a discussion
+of trade quota instruments.
+
+2.2.3.2. Other policy instruments. Next to border
+protection instruments stricto sensu, other relevant
+policies frequently need to be represented in models.
+For example, in relation to the GATT/WTO commitments, ceilings on the volume of subsidised exports
+as well as bounds on the value of export subsidies
+may be relevant. In relation to the common agricultural policy (CAP) of the European Union, land
+set-aside and headage premiums are clearly examples
+of agricultural polices that do not directly affect border protection, but nevertheless do have an impact on
+trade flows.
+2.2.4. Theoretical consistency
+Judging the theoretical consistency of models has
+many facets, and the discussion here is far from
+exhaustive. 15 At its most basic level, a model's numerical results should be qualitatively in accordance
+with the theoretical foundations on which the model
+has been erected. At the level of numerical implementation of the model, theoretical consistency places
+requirements on the parameters used in functional
+forms, especially parameters used in demand systems
+and supply equations. 16
+15 It is not a straightforward task to develop a sound set of criteria
+to judge the theoretical consistency of models. This theme is also
+closely related to the issue of model validation, which we have
+not taken up in this article. In addition the evaluation of theoretical validity would require much more information on the individual models than is available. Since numerical model outcomes
+are contingent on the particular set of assumptions employed, in
+particular policy assumptions and assumptions on exogenous variables, a judgement of the numerical validity would require a study
+where model results are compared against the background of the
+same set of assumptions.
+16 The four essential properties of demand functions are: (I)
+adding up: at the given level of prices and income, demand equals
+total expenditure, (2) homogeneity: compensated (Hicksian) demand is homogeneous of degree zero in prices and uncompensated (Marshallian) demand is homogeneous of degree zero in
+income and prices together, (3) symmetry: cross-price effects are
+
+Imposing all regularity conditions on the parameters used in demand system and the supply equations
+of global partial equilibrium models is almost an insurmountable task. To overcome this problem, global
+partial equilibrium modellers have adopted the following two strategies: (i) ensure that all parameters (elasticities) satisfy the essential regularity conditions (i.e.
+that own price effects have the right signs and dominate the cross-price effects) and/or (ii) impose the full
+set of regularity conditions to small components of the
+global model.
+The economic structure of general equilibrium
+models forces the model builder to exercise a strict
+discipline with regard to the restrictions on parameters. In particular, a necessary condition for the
+existence and uniqueness of an equilibrium solution
+is that all excess demand functions are homogeneous
+of degree zero in prices. This condition is met when
+the regularity conditions on demand and supply equations are satisfied. In a properly designed general
+equilibrium model, equality between incomes and expenditures will always be satisfied for the economy as
+a whole. This feature does not always hold for partial
+equilibrium models because they lack the restrictions
+imposed by an economy-wide national accounting
+framework.
+
+2.2.5. Model closures
+'Closing' the model is the process of classifying the
+variables as either endogenous, i.e. values are determined (solved for) by the model, or exogenous, i.e.
+predetermined outside the model. Model experiments
+are conducted by introducing alternative assumptions
+on exogenous variables.
+Alternative model closures can also be employed to
+construct different models from the same basic modelling framework. Multi-region models with a global
+coverage can sometimes be transformed into single
+region models by singling out one specific region
+and declaring 'the rest of world' as exogenous. Similarly, economy-wide models can be transformed into
+symmetric, (4) negativity: the matrix of own- and cross-price
+derivatives of compensated demand functions is negative
+semi-definite. In particular this implies that (a) compensated demand function slope downward, and (b) own price effects dominate cross-price effects. See, for example, LaFrance (1986) and
+LaFrance and Hanemann (1989). Similar observations hold for
+equation systems used to model the supply side.
+
+F. van Tongeren et al./Agricultural Economics 26 (2001) 149-172
+
+partial models of selected sectors, by specifying a
+closure which holds 'the rest of the economy' as exogenous. The latter possibility is especially useful if
+one wants to compare partial equilibrium outcomes
+against general equilibrium outcomes, thereby checking for the presence of significant economy-wide
+induced effects following a certain policy change
+targeted at the agricultural sector.
+There are certain general closure rules that have
+to be fulfilled by both partial and general equilibrium models. Both in a partial and a general equilibrium setting, a valid closure has to assure that
+the number of endogenous variables is equal to the
+number of equations. In addition to this necessary
+technical condition, the closure must specify a valid
+economic environment. For example, if the equilibrium model demands that all buyers exhaust their
+budget, the closure must be such that all buyers
+are on their budget constraint, and that there are
+no 'leakages' with respect to incomes and expenditures.
+Since partial models describe only a subsystem of
+the economy, they do not have to be concerned about
+the so-called 'macroeconomic closure', i.e. the treatment of the link between investment and savings. In
+models without intertemporal decision making with
+respect to investments, the identity between macroeconomic investment and savings is guaranteed by
+fixing either one at some pre-specified level, and
+requiring the other variable to accommodate. For example, a so-called 'Keynesian closure' specifies an
+exogenous investment level and lets savings adjust
+endogenously. On the other hand, in 'neo-classical
+closures', investment is adjusting to savings levels.
+Since the source of savings may be both domestic
+and foreign, the closure rule also has implications for
+the treatment of the current account balance. If the
+trade balance is fixed exogenously, one essentially
+also fixes the difference between domestic savings
+and domestic investments. In addition, in multi-region
+economy-wide models, the approach of fixing trade
+balances at the regional level is a simplifying way to
+avoid modelling the allocation of global savings to
+individual regions. A disadvantage of this approach
+is the inability to model endogenous changes in the
+volume of regional trade balances. It is obvious that
+the specification of the macroeconomic closure can
+have profound impacts on model outcomes.
+
+159
+
+2.3. Data and parameters
+2.3.1. Data
+Data requirements are very demanding for
+multi-regional models of international trade. The
+amount of data is determined by the level of desegregation (countries/regions, activities/commodities) and
+the theoretical structure (homogeneous/heterogeneous
+goods, bilateral/pooled markets).
+Not only is the amount of data usually quite large,
+but the data needed to be mutually consistent. Especially if trade is related to domestic inter-industry
+structures, substantial adjustments to the published
+data are necessary, because the procedures for collecting and classifying trade statistics differ from those
+employed for domestic input--output tables. While
+trade data with broad coverage are now widely available on a comparable basis, this is certainly not true
+for input-output data and for trade protection information. 17 A social accounting matrix (SAM) usually
+underlies economy-wide models. Although the SAM
+is sometimes only implicitly present in the database
+of AGE models, it forms the basis for a coherent
+and consistent description of national economies. See
+Laird (1997) for a description of widely used data
+sources for international trade analysis. 18
+It is obvious that regular updating of datasets will
+improve the timeliness and relevance of results. The
+choice of base year for a modelling dataset has additional consequences, both for comparative static and
+dynamic models. The economic conditions that prevail at the point of reference determine the conclusions
+that can be drawn from alternative simulations.
+2.3.2. Parameters
+The parameters used in behavioural equations determine the response to policy changes, and are therefore
+a very crucial element in each modelling exercise. Key
+parameters usually are: price- and income elasticities
+17 A recent joint initiative by USDAIERS, Agriculture and Agrifood, Canada, the European Commission, UNCTAD, FAO and
+OECD develops a new Agricultural Market Access Database
+(AMAD). At the time of writing this contains tariff-line level
+data on market access commitment and implementation of about
+50 WTO members. AMAD is publicly available since September
+2000. See Waino et al. (2000) and www.amad.org.
+18 The annex to van Tongeren and van Meijl (1999) lists the
+datasources of individual models in some detail.
+
+160
+
+F. van Tongeren et al./ Agricultural Economics 26 (2001) 149-172
+
+and budget shares in demand systems; substitution
+elasticities and input cost shares in supply systems;
+Armington (substitution) elasticities in import demand; if economies of scale are included, parameters
+that capture the degree of exhaustion of returns to scale
+(cost-disadvantage ratio). As already mentioned above
+in Section 2.2.4 the values of these parameters must
+be determined in consistency with data and theory.
+Two approaches to estimating model parameters
+can be distinguished: econometric estimation and
+calibration. Econometric estimation of parameters
+should ideally be done by simultaneous equation estimation methods that take into account the overall
+model structure. However, given the size of applied
+trade models, identification problems, lack of data,
+etc., this is not feasible, and one has to resort to
+single-equation estimation methods, using either time
+series or cross-section data. See Jorgenson (1984) for
+econometric estimation of AGE models.
+Most applied trade modellers resort to calibration
+methods - also called the 'synthetic approach' to generate a set of parameters that is consistent with
+both the benchmark data and the model's theory. The
+calibration approach takes initial estimates of elasticities, etc., from outside sources and adjusts certain
+other parameters in the given functional forms to the
+initial equilibrium dataset. Calibration, therefore, exploits theoretical restrictions, equilibrium assumptions
+and assumptions on functional forms to arrive at a
+point estimate.
+
+3. Model overview
+3.1. Partial models
+In this section we describe the features of the selected partial equilibrium models. We first describe the
+design choices of a prototypical standard multi-region
+partial equilibrium model. This standard model will
+serve as a point of reference for the individual partial equilibrium models. Individual models are summarised in alphabetical order in Table 2, which also
+identifies their non-standard features.
+A standard partial equilibrium model has the following features:
+• regional scope: global coverage;
+
+• regional unit of analysis: parametric differences
+between countries;
+• dynamics: comparative static;
+• modelling of trade: homogeneous goods;
+• characterisation of global markets: pooled markets;
+• representation of policies: ad valorem price wedges
+(trade: tariff equivalents);
+• theoretical consistency: not implied by theoretical
+structure; 19
+• model closures: factor markets and non-agricultural
+sectors are exogenous.
+The standard multi-region applied partial equilibrium
+model framework consists of an economic structure
+that includes for each region constant elasticity supply and demand equations which determine domestic
+prices. The standard model is multi-product by nature to capture supply and demand interrelationships
+among agricultural products. Therefore, supply and
+demand equations are functions of own and cross
+product prices. The interactions between the agricultural product groups are taken into account while
+influences of factor markets and the rest of the economy are treated as exogenous. Supply and demand
+relationships incorporate therefore exogenous variables such as population, household income and technical change. Each sector produces one homogeneous
+good that is perfectly substitutable both domestically
+and internationally. A region's international trade is
+viewed as the difference between the regions' supply
+and demand and brought to the world market (pooled
+approach, no bilateral trade). For each product, world
+market clearing price balances global trade. World
+prices for each product feed back into domestic prices
+through a set of equations which specify wedges between world price and domestic price. All policies
+are inserted as ad valorem price wedges. Finally, the
+19 Generally speaking, the specification of supply and demand
+relationships in all selected partial equilibrium models has been
+conducted in such a way that the own price effects always dominate
+cross-price effects. In some cases, the homogeneity condition might
+have been imposed. Some partial equilibrium models may satisfy
+for some of their components regularity conditions implied by
+economic theory. Given the large size of most of these partial
+equilibrium models, it has been impossible to undertake a full
+screening of all their supply and demand relationships and to
+check whether they satisfy all the regularity conditions. However,
+when documentation on these models permits, we identified the
+components which satisfy regularity conditions.
+
+Table 2
+Model summary of partial equilibrium models of trade in agricultural products
+Description
+
+Standard
+model
+
+Static partial
+equilibrium model,
+global coverage, no
+factor markets
+
+Modelling
+of trade
+
+Goals
+
+Key
+
+applications
+
+Homogeneous
+good
+
+Policy
+Representation
+
+Number of
+regions (r) or
+countries (c)
+
+coverage?
+
+Global
+
+Number of
+sectors/
+
+(yes/no)
+
+products
+
+11 (c) +2 (r)
+
+Yes
+
+19
+
+Number of farm
+(!) or processed
+(p) products
+
+Software
+
+6 (!) + 13 (p)
+
+SIMPC
+
+Data
+availability
+(yeS/no)
+
+Price wedges
+
++ pooled
+
+markets
+
+included
+AGLINK
+
+ESIM
+
+FAO
+World
+Model
+
+FAPRI
+
+Recursive dynamic
+model includes land
+allocation
+
+Standard model, land
+market included,
+special emphasis to
+Eastern Europe
+Recursive dynamic
+model includes land
+allocation
+
+Econometric
+recursive dynamic
+model, with a special
+emphasis on the US
+
+Standard
+
+To assist the OECD
+
+Standard
+
+Secretariat in its
+annual medium term
+outlook. Conduct
+quantitative analysis
+agricultural policies
+on principal
+agricultural markets
+Enlargement studies
+
+Quantity restrictions
+modelled exp1icitly
+
+Yes
+
+~
+
+"'"'
+
+;>
+
+EU enlargement
+
+Quantity restrictions
+modelled explicitly
+
+7 (c) +2 (r)
+
+Yes
+
+Standard
+
+147 (c)+ 1 (r)
+
+Yes
+
+27
+
+17(!)+10(p)
+
+Spreadsheet
+(Supercalc
+5.5 or Excel)
+
+No
+
+Fortran
+
+No
+
+~
+
+;>
+
+"""'Ol
+
+;>
+
+Standard
+
+Standard
+
+Medium- and/or
+long-term projection
+model. Simulating
+impacts of policy
+changes
+Compound modelling
+system for poJicy
+analysis; short-,
+medium and long
+term projections
+(1-10 years),
+annual baseline
+
+GAPsi
+
+Recursive dynamic
+model
+
+Standard
+
+EU agricultural
+policy analysis
+
+MISS
+
+Standard model, four
+regions
+
+Standard
+
+Analysis of
+agricultural policy
+changes in EU
+and US
+
+SWOPSIM Standard model
+
+Standard: base
+model,
+Armington:
+one
+application
+
+WATSlM
+
+Standard
+
+Standard model
+
+Aunual OECD
+medium term
+agricultural outlook
+
+Simulation of effects
+of changes in
+agricultural support
+policies on
+production,
+consumption and
+trade
+Three target periods
+with different aims:
+short-term shock
+analysis (not yet
+available), mediumterm projections and
+policy analysis,
+long-term projections
+and analysis of
+various shift factors
+
+To contribute to the
+outlook of FAO on
+agricultural commodity
+markets, Uruguay
+Round
+Quantitative
+evaluations of
+(inter)national
+agricultural policies
+that affect US and
+world agriculture,
+farm legislation reform
+through Uruguay
+Round negotiations
+CAP reform, Agenda
+2000; planned: EU
+enlargement, WTO
+Trade liberalisation in
+GATT framework and
+CAP reform in game
+theoretic setting,
+focusing on EU-US
+relations
+Multilateral trade
+liberalisation (GATI
+Uruguay Round),
+agricultural policy
+reforms in US and EU
+
+13
+
+6 (!) + 7 (p)
+
+~
+
+,_
+
+Standard
+
+29 (c +r)
+
+Yes
+
+24
+
+24 (!)
+
+SAS-AREMOS,
+Larus 123
+
+No
+
+"'
+:;::
+"""':::!.
+1::
+
+~
+
+~
+
+?;1
+
+<:l
+;>
+<:l
+
+;:!
+
+c;·
+
+Quantity restrictions
+modelled expJicitly
+
+13 (c) +4 (r)
+
+Yes
+
+13
+
+13 (!)
+
+GAMS, Excel
+(output)
+
+No
+
+Quantity restrictions
+modelled explicitly
+
+1 (c) + 3 (r)
+
+No
+
+10 (final) +
+10 (inputs)
+
+10 (f) + 4 (non
+agri-inputs)
+
+Home made
+software
+(Language C)
+
+Yes
+
+'"'
+
+"'
+
+"'<::>
+w
+<::>
+.::
+.._
+;:,..
+
+'P
+.._
+Standard
+
+(1) Baseline for years Quantity restrictions
+2005, 2010, 2015 and modelled explicitly
+2020, (2) analysis of
+different shift factors
+including income in
+Asia, productivity in
+transition countries,
+(3) trade liberalisation
+
+36 (r)
+
+Yes
+
+22
+
+22 (!)
+
+Spreadsheet
+(Supercalc 3
+or 5)
+
+Yes
+
+4 (c)+ 10 (r)
+
+Yes
+
+29
+
+14 (!) + 15 (p)
+
+ForLran, GAMS
+
+Yes
+
+t:::l
+
+-0\
+
+162
+
+F. van Tongeren et al./Agricultural Economics 26 (200 I) 149-172
+
+standard model is comparative static in nature. In this
+paper the standard SWOPSIM model is an example
+of a typical standard partial equilibrium model.
+The standard partial equilibrium model can be modified to capture the following elements:
+• possibility that policy instruments can be represented explicitly and in a detailed fashion;
+• inclusion of autonomous shifters into behavioural
+(supply and demand) relationships to generate projections.
+In general, all the selected models are pretty close
+to the standard model. They differ from the standard
+model because they are recursive dynamic (AGLINK,
+FAO World Model, FAPRI, GAPsi), endogenise land
+allocation (AGLINK, FAO World Model, WATSIM),
+model explicitly quantitative policies (AGLINK,
+ESIM, GAPsi, MISS 20 and WATSIM) or include
+bilateral trade by using the Armington assumption
+(SWOPSIM, one application). Besides the design
+choices the models differ in their product and country
+coverage, which leads to a rather large differences in
+focus.
+
+3.2. Economy-wide models
+As we did in Section 3.1 for partial equilibrium
+models, we first define a prototypical model as a point
+of reference against which the features of individual economy-wide models can be compared. Individual models are summarised in alphabetical order in
+Table 3, which also presents their non-standard features. We choose as our standard a multi-region AGE
+model, which has the following characteristics in terms
+of the criteria introduced in Section 2.
+A standard economy-wide model has the following
+features:
+• regional scope: global coverage;
+• regional unit of analysis: parametric differences between countries/regions;
+• dynamics: comparative static;
+• modelling of trade: Armington;
+20
+
+The MISS and AGLINK models are the only two partial equilibrium models which are explicitly concerned about regularity
+conditions in some of their components. For the former model,
+supply equations satisfy the regularity conditions while for latter,
+feed demand relationships are theoretically consistent.
+
+• characterisation of global markets: bilateral trade
+relations;
+• representation of policies: ad valorem price wedges
+(trade: tariff equivalents);
+• theoretical consistency: implied by model structure;
+• model closure: endogenous volumes and prices on
+all markets, including factor markets. Exogenous:
+factor endowments, policy instruments. Macro closure: 'neo-classical', savings driven investment at
+global level (endogenous trade balance).
+The main features of the standard multi-region
+AGE model correspond closely to those attributed
+by Baldwin and Venables (1995) to 'first generation'
+models: comparative static, constant returns to scale
+in production, perfect competition on all markets,
+Armington assumptions for imports. In addition, our
+standard model has a database with global coverage,
+i.e. in principle global economic activity is covered. 'Standard models' included in this review are
+RUNS, GREEN, GTAP and MEGABARE. Within
+each regional economy of a standard multi-region
+AGE model, inter-industry linkages are captured by
+an input--output structure. Demand for factors of production is derived from cost minimisation, given a
+sectoral production function (nested CBS) that allows
+for substitution between inputs. Typically, substitution is allowed only between primary factors -land,
+labour, capital - while intermediate inputs are used
+in fixed proportion with output (Leontief technology).
+Each sector produces one homogeneous good that
+is perfectly substitutable domestically but substitutes
+imperfectly with foreign goods (Armington assumption). Next to the binary distinction 'domestic versus
+foreign', the multi-region nature of the model enables
+a distinction of traded commodities according their
+region of origin. That is, bilateral trade flows are captured. 21 Factor markets {or land, labour and capital
+are included, endowments for these primary factors
+are given and the factors are fully employed.
+Labour and capital are assumed to be fully mobile
+across domestic sectors, while land is imperfectly
+21 One strand of AGE models uses, in addition to Armington style
+imports, a CET transformation function that models the split of
+domestically produced goods into exported commodities and those
+destined for the domestic market. An advantage of this method is
+that it dampens the size of terms of trade effects that emerge in
+Armington models, see DeMelo and Robinson (1989).
+
+Table 3
+Summary of economy-wide models
+Description
+
+Standard
+model
+
+G-cubcd
+
+Applied General
+Equilibrium model,
+multi-sector, comparative
+static, constant returns to
+scale in production,
+perfect competition on all
+markets, global coverage
+Intcrtcmporal applied
+
+Modelling
+of trade
+
+Number of
+
+Global
+
+regions (r) or
+countries (c)
+
+coverage sectors
+
+Public
+data
+
+Yes/No)
+
+availability
+
+Number of Number of
+farm (f) or
+processed (p)
+products
+
+Software
+
+General purpose
+
+Yes
+
+package
+
+:.,
+Standard
+
+Standard (default version)
+recursive dynamic and
+imperfect competition
+versions available
+
+Standard monopolistic
+competition versions
+available
+
+GREEN
+
+Recursive dynamic
+
+Standard, except crude
+oil (homogeneous)
+
+1NFORUM
+
+Linked system of
+dynamic national
+macroeconomctric models
+with inter-industry
+input-{}Uiput linkages
+
+Price and income
+sensitive
+econometrically
+estimated import and
+export equations
+
+Recursive dynamic
+endogenous population
+growth, technology
+bundles in electricity and
+iron & steel
+
+Standard
+
+Michigan
+BDS
+
+Scale economics and
+monopolistic competition
+in manufacturing
+industries
+
+Monopolistic
+competition
+
+RUNS
+
+Recursive
+dynamic
+
+The WTO
+housemodcl
+
+Standard and imperfect
+competition versions
+
+Agriculture:
+homogeneous goods
+& pooled markets,
+manufactures: standard
+Standard and firm level
+product differentiation
+
+a
+
+Policy
+representation
+
+Ad valorem
+price wedges
+
+flows
+
+macroeconomic model
+
+MEG ABARE
+and GTEM
+
+Key applications
+
+Armington, bilateral
+
+general equilibrium and
+
+GTAP
+
+Goals
+
+Contribute to the policy
+debate on environmental
+policy and international
+trade, wilh a focus on
+global warming policies
+
+Trade policy analysis,
+especially multilateral
+liberalisation.
+Agricultural policies
+Asses the economic
+impact of imposing
+limits on carbon
+emissions
+Annual forecasts and
+policy analysis at
+national and
+internationally linked
+levels
+Policy scenario analysis
+primarily in climate
+change but also in global
+agricultural trade reform
+and trade in strategic
+commodities (e.g. coal)
+To analyse
+microeconomics effects
+of trade liberalisation
+policies
+
+Analysis of agricultural
+policies
+
+To analyse global trade
+analysis issues such as
+the upcoming WTO
+round
+
+Economy-wide impacts
+of greenhouse policies,
+financial crisis in Asia.
+global predictions and
+outlook of the world
+economy, Uruguay
+Round
+GA"n· Uruguay Round,
+technological changes,
+environmental policies;
+EU enlargement, CAP
+reform
+Kyolo protocol
+assessment
+
+Standard and tradable
+emission pennits
+
+4 (c) + 4 (r)
+
+Yes
+
+12
+
+1 (f)+ I (p)
+
+Gauss
+
+No
+
+""
+
+1:>
+;:s
+
+(;l
+
+;:s
+Oo
+
+"';:s<ii
+
+Standard in default
+version, volume and
+value restrictions
+(quota, etc.) available
+Standard, quota,
+tradable emission
+permits
+
+27 (c) + 12
+(r) +RoW"
+
+Yes
+
+50
+
+12 (f) +8 (p)
+
+GEMPACK and
+GAMS versions
+available
+
+Yes,
+at cost
+
+~
+
+"'
+
+:-
+
+"
+
+~
+
+Oo
+
+5 (c) + 7 (r)
+
+Early work on NAFfA,
+national US studies
+(LIFT), Austrian
+integration in EU
+
+Standard,
+macro-economic
+policy instruments,
+taxes and transfers
+
+13 (c)
+
+Climate change policy
+and the economic
+impact of the Kyoto
+protocol, WTO and the
+agricultural trade
+libcralisation
+Regional trade
+agreements (NAFTA,
+extension of EU with
+Eastern European
+countries), Uruguay
+Round, liberalisation in
+services
+GA1T Uruguay Round,
+agricultural trade
+liberalisation
+
+Standard, tradable
+emission permits
+
+27 (c) + 12
+(r) +RoW
+
+Multi~region CGE
+analysis of the results
+of the Uruguay Round
+
+Standard, import
+quota
+
+Yes
+
+No
+
+Yes
+
+9
+
+Varies by
+country:
+minimum
+33,
+maximum
+!00
+50
+
+1 (f)
+
+Varies by
+country
+
+C language
+
+No
+
+G language
+
+Yes partly,
+free
+
+~·
+
+;;..
+
+"'~
+~
+
+a
+
+g
+'-!
+
+c;·
+
+"'N
+12 (f) + 8 (p)
+
+GEM PACK
+
+Partly, Yes,
+sec GTAP
+energy
+parts: No
+
+0\
+
+~
+
+a
+a
+
+.::
+.....
+-k
+
+Standard
+
+34 (c) +RoW
+
+Yes
+
+29
+
+2 (!)
+
+GEM PACK
+
+Yes
+
+'f'
+.....
+;j
+
+Standard
+
+13 (c) + Y (r)
+
+Yes
+
+20
+
+11 (f) + 4 (p)
+
+5 (c) + 7 (r)
++RoW
+
+Yes
+
+19
+
+3 (f)+ 1 (p)
+
+Fortran
+
+No
+
+GAMS/MPSGE
+
+Yes
+
+Rest of world.
+~
+
+U-l
+
+164
+
+F. van Tongeren et al./ Agricultural Economics 26 (2001) 149-172
+
+mobile and tied to agricultural production. Consumer demand is derived from utility maximisation
+under a budget constraint, and · consumers allocate
+their expenditures over domestic and foreign goods.
+A government actor levies various types of indirect
+taxes and subsidies including import tariffs and export
+subsidies. All policy instruments are specified as ad
+valorem price wedges. All factor markets and commodity markets are assumed to clear, which yields
+equilibrium solutions to factor- and commodity prices
+as well as the corresponding equilibrium quantities.
+All regional economies are linked through bilateral
+commodity trade and through interregional investment
+flows. As discussed in Section 2.2.5, there are different approaches to deal with this latter aspect. If one is
+willing to assume a constant current account balance
+in all regions, then the difference between regional
+savings and investments is essentially predetermined,
+and as a consequence the aggregate level of the savings - investment balance is also predetermined. If
+one wants to allow for endogenous determination of
+the current account balance, the standard model must
+include a mechanism to redistribute aggregate savings
+over regions.
+We also classify under the heading 'standard model'
+those which include a recursive sequence of temporary equilibria. 22 Recursive models do generate time
+paths for endogenous variables, but there is in fact no
+behavioural linkage between periods. As a result, the
+equilibrium solution in each period can essentially be
+calculated without reference to earlier or later periods.
+'Second generation' models add increasing returns
+and imperfect competition in some of the sectors, allowing for estimates of scale and variety effects, as
+discussed in Section 2.2.2. These models are comparative static in nature. Examples included here are
+the Michigan BDS and WTO models. In contrast,
+'third generation' models include time consistent forward looking behaviour and endogenous savings rates,
+hence allowing for the modelling of short run dynamics. The G-cubed model is an example of this brand.
+
+22 The Baldwin and Venables (1995) 'first generation models' are
+comparative static. However, single region recursive AGE models
+have a long tradition, starting from the work of Adelman and
+Robinson (1978) on Korea. While the standard recursive approach
+allows for accumulation of capital stocks, investment behaviour is
+not forward looking in these models.
+
+Most of selected economy-wide models- whether
+dynamic or static - share in common the fact that
+theoretical consistency is met by adopting restrictive
+structures for consumers' preferences and firms' technologies. Hence, the former are often represented by
+explicitly additive structures while firms' technologies
+are also specified using (nested) CES functions. With
+the exception of GTAP, all the selected applied general
+equilibrium models are specified with (nested) CES
+functions, and linear expenditure systems. Less restrictive flexible functional forms have been proposed to
+allow for different degrees of substitutability between
+factors of production or between consumption goods
+(see Patridge and Rickman (1998) for a discussion).
+When incorporating flexible functional forms into an
+AGE model, care has to be exercised that the parameterisation meets certain curvature properties to ensure existence and uniqueness of equilibria. The GTAP
+model is the only one which attempts to adopt a less
+restrictive structure to represent consumer expenditures. In fact, consumers' preferences in this model
+are specified through a non-homothetic constant difference of elasticities (CDE) demand system (Hanoch,
+1975) which allows budget shares to vary with income.
+The standard, 'first generation' multi-regional
+AGE model is a firmly established workhorse in
+international trade analysis. While retaining most
+of the standard assumptions, certain special features are introduced into some models to capture
+specific issues, such as developing country agriculture (RUNS) or aspects of the EU' s CAP (some
+GTAP applications). Recursive dynamic variations
+of the standard model are now commonplace in
+research in the field of global climate change
+(GREEN, MEGABARE). Imperfect competition
+versions have gained ground in trade liberalisation
+of manufactures, and are likely to be used in the
+assessment trade liberalisation in services (WTO,
+BDS, GTAP). The most recent development is the
+intertemporal modelling of macroeconomic interactions between financial markets and real sectors
+(G-cubed).
+The size of the data collection effort for global
+models has in the past forced modellers to be rather
+economical as regards the regional and sectoral disaggregation. Two collaborative efforts to reduce this
+entry barrier exist to date: INFO RUM and GTAP. The
+GTAP database is specifically tailored to the needs of
+
+F. van Tongeren et al. I Agricultural Economics 26 (200 1) 149-172
+
+general equilibrium modellers, and this has certainly
+contributed to its wider usage, also by non-GTAP
+modelling teams.
+
+4. Assessment
+We started this survey with the claim that no model
+can serve all purposes. Following the criteria set out
+in Section 2, Table 4 gives an overview of the design
+choices made in the surveyed models, and serves as an
+aid to get an overview of the current state of the field.
+Eight out of the 16 surveyed models are partial
+models, according to Table 4. Results obtained from
+Table 4
+Basic modelling design choices"
+Total
+
+Partial
+Models
+
+Economy
+wide
+models
+
+Scope of representation
+National economies
+Partial
+General
+
+8
+0
+
+0
+8
+
+8
+8
+
+Regional scope
+Global coverage
+Non-global coverage
+
+8
+0
+
+7
+
+15
+
+Regional unit of analysis
+Linked country models
+Parametric differences
+
+0
+8
+
+7
+
+1
+15
+
+Dynamics
+Static
+Recursive dynamic
+Forward looking
+
+4
+4
+0
+
+3
+4
+
+7
+8
+
+Modelling of trade
+Homogeneous
+Armington
+Monopolistic competition
+Other
+
+8
+0
+0
+0
+
+0
+5
+2
+
+8
+5
+2
+
+Treatment of quantitative policies
+Tariff/price equivalents
+3
+Explicit treatment
+5
+
+5
+3
+
+8
+8
+
+Data: public data availability?
+Yes
+3
+No
+5
+
+5
+3
+
+8
+8
+
+Parameters
+Estimated
+Calibrated
+
+0
+8
+
+2
+14
+
+2
+6
+
+a The table refers only to standard versions of models.
+
+165
+
+a general equilibrium analysis will only differ significantly from partial equilibrium results if agricultural
+trade policies lead to noticeable price shifts in other
+sectors. However, in industrial countries agriculture
+accounts for only a small share of GNP. Therefore, the
+strength of the linkages of agriculture with other sectors is typically not very strong at the level of aggregation that AGE models tend to employ. An exception
+may be those linkages than run through markets for
+natural resources, especially land. In contrast, developing countries and countries in transition witness a
+relatively high share of agriculture in economic activity. There are, therefore, significant second-round effects to be expected from polices that pave the ground
+towards regional integration and multilateral trade liberalisation, and AGE models provide the only coherent
+way to analyse these. More generally, policy changes
+such as CAP reform and WTO agreements are associated with impacts that reach beyond the agricultural
+sector and involve effects on factor markets for land
+and labour, which can most fruitfully be studied in a
+general equilibrium framework.
+In industrialised countries, there do exist strong
+linkages, however, with sectors that are closely related
+to agriculture, either because they deliver key inputs
+such as fertilisers, herbicides, agricultural machinery,
+or because they process primary agricultural products,
+such as beef processing and dairy industries. Highlighting such interdependencies within the agricultural
+complex is one area where partial equilibrium models
+can potentially be very successfully used, and some
+of the recent partial models have taken up this challenge (WATSIM, ESIM). This aspect is also gaining
+importance in the presence of dramatically increasing
+trade shares of processed food products. Most of the
+partial equilibrium models surveyed in this article do
+not fully exploit this potential advantage because they
+have a focus on trade in primary agricultural commodities. As a result, there has been a tendency to
+use AGE models to highlight the forward and backward linkages within food supply chains, as well as
+to incorporate trade in differentiated food products.
+The majority of the models has a global coverage,
+only one of them treats a regional subset of economies
+(INFORUM). Within the group of models that closes
+their accounting with respect to world trade, there are
+differences in regional emphasis. FAPRI focuses on
+the US, ESIM on Eastern Europe, MISS focuses on
+
+166
+
+F. van Tongeren eta/.! Agricultural Economics 26 (2001) 149-172
+
+US-EU interactions, GAPsi emphasises the EU. A
+clear regional bias is less obvious in the economy-wide
+models with a global coverage. All of them include at
+least the major trading regions (US, EU, Asia Pacific).
+The commodity coverage of partial models puts
+more emphasis and detail on agricultural commodities. Most AGE models include only 1-3 agricultural
+sectors. RUNS and GTAP are exceptions in this regard. The recent version of the GTAP database has
+an amount of agricultural detail that is comparable to
+partial agricultural models. 23
+Only one of the models, INFO RUM, features linked
+individual country models, while all others favour representation of differences between economies via differences in parameters. While in principle, individual country models can capture more regional economic and institutional details, there are clear difficulties with this approach in terms of consistency
+and maintenance, see Section 2.1.4. Indeed, the linked
+country models approach seems to be less sustainable, and their contribution to global trade analysis has
+been rather limited. (The IIASA Basic Linked System,
+Parikh et al., 1988; The project LINK, Klein and Su,
+1979).
+Comparative static modelling has certainly not gone
+out of fashion, although eight models favour a recursive dynamic approach which permits them to generate time paths of variables and lagged adjustment
+patterns. Forward looking time consistent behaviour
+is only introduced into one model, G-cubed, which
+does not have a specific agricultural focus, but concentrates more on macroeconomic phenomena. Explicit
+introduction of time is certainly appealing to policy
+users of models, since this relates the model outcomes
+to concrete time periods. Comparative static models
+have reacted to this demand by generating projections
+without explicit modelling of the dynamics, see Section 2.2.1. While this procedure has some appeal, it
+is also not free of criticism, and some caution should
+be exercised. Partial models have to make assumptions on the development of a large number of exogenous variables to produce a projected future dataset.
+In fact, the largest part of the projected future does
+not derive from the model, but from outside assump23 At the time of writing, version 4 is the current version of the
+GTAP database (McDougall et a!., 1999). Version 5 is expected
+to become publicly available during 2000.
+
+tions. Since the partial model itself does not provide
+a consistency check, it is questionable whether these
+assumptions are always consistent among each other.
+Projections with static general equilibrium models do
+provide a consistency check, but these models rely on
+an extremely small number of assumptions for their
+projections. This implies that a large part of the step
+between two time periods is 'explained' by residual
+factors such as total factor productivity (TFP) growth
+rates which accumulate much of deviations not included in the original model. Finally, the features of
+the 'baseline' in all dynamic models as well as in
+projections are critical for the interpretation of policy
+results which are obtained relative to the constructed
+baseline scenario.
+It is striking to note that all partial equilibrium models treat international trade in homogeneous products,
+while AGE models deal with trade in differentiated
+products by default. As already mentioned above, the
+volume of trade in processed food products is increasing relative to trade volumes in primary commodities.
+Since processed food can be considered to be of a
+more differentiated nature than primary products, it is
+highly relevant to come to grips with trade in differentiated products. By excluding intra-industry trade, and
+limiting the analysis to net trade, partial models capture the degree to which countries are interwoven only
+imperfectly. If net trade in a certain commodity turns
+out to be zero, two economies are unduly qualified as
+unlinked if in fact there exist intra-industry trade relations. These models also run the risk of predicting
+the empirically contestable phenomenon of extreme
+specialisation. Net trade in homogeneous goods also
+makes it impossible to incorporate bilateral trade policies. While the standard treatment of trade in differentiated products follows the Armington specification,
+two AGE models (BDS, WTO) incorporate firm-level
+product differentiation and economies of scale by default, and the standard GTAP model has been amended
+in that direction. These models focus on manufacturing and services, where these phenomena are perhaps
+more relevant than in agriculture. However, in food
+processing industries economies of scale and imperfect competition aspects are certainly relevant as well.
+A related issue is FDI by internationally operating processing and retailing firms. This is as yet untreated
+in the applied models surveyed, but does require the
+recognition of economies of scale at the plant level
+
+F. van Tongeren et a/. I Agricultural Economics 26 (200 I) 149-172
+
+as well as at the firm level (Markusen and Venables,
+1998). Scale and variety effects tend to yield 'large
+numbers' in trade liberalisation studies. It must be
+recognised, though, that hitherto the empirical basis
+for these industrial organisation issues is rather weak.
+Cross country econometric evidence on key parameters that measure scale economies are not yet available.
+Eight models attempt to capture explicitly quantitative trade restrictions and CAP-type policies, and
+eight of the models resort to a tariff-equivalent representation. Policies are typically formulated at the
+commodity level or tariff-line level. It is at this level
+that policy makers need information, and partial models are in principle able to get down to the required
+level of detail, including specific institutional arrangements. Partial models, with their focus on selected
+sectors, are in principle able to give a more precise
+representation of policies, such as quantitative restrictions. However, our survey of partial model reveals
+that some partial models under-utilise that potential and resort to a tariff-equivalent representation of
+policies.
+The inventory of models shows that some datasets
+are used by different models. Usually, modellers adjust the raw data to suit their specific needs, and consequently some duplication of efforts occurs. Eight
+modelling teams choose to make there dataset publicly
+available, either free of charge or at cost. This practice, which is increasingly observed within the modelling community, is considered a very useful step as
+it allows others to build on existing (and time consuming) work and it increases the transparency of modelling results. Sharing of databases has in the past
+been hampered by well known public good problems,
+which provide insufficient incentives for individual
+teams to contribute to database development. The INFORUM network provides an early example of an institutional set-up that facilitates sharing of data. INFORUM contributors submit (input-output) data in a
+form that matches their particular country model, and
+does therefore not require major adjustments to a common standard. In contrast, the GTAP framework enforces uniform standards on regional data and trade
+data. In addition, GTAP is supported by a strong group
+of institutional stakeholders which puts high requirements on the quality, timeliness and documentation of
+the data.
+
+167
+
+It turns out that 14 of the models surveyed here rely
+on calibration methods, and take their initial parameter
+estimates from the same published sources that sometimes date back a considerable time. Current models
+are dominated by 'theory' over 'observations'. Econometric estimation of key behavioural parameters in
+applied models is certainly an underdeveloped area,
+although there are some initiatives to estimate partial models in consistence with micro-economic theory (ESIM, FAPRI). Recent developments in entropy
+estimation methods may help to alleviate some of the
+technical problems that one encounters in estimating
+large scale AGE models with limited data (see Golan
+et al., 1996).
+Although not apparent from our earlier discussions,
+documentation of models is generally weak and scattered, with some notable exceptions (BDS, G-cubed,
+GTAP). Especially agency based models do not stand
+out by clarity of documentation. Modellers that are
+rooted in academia face stronger incentives to submit
+their work to peer reviews, which increases transparency. An important related aspect is the accessibility of models and data to outside users, who do not
+belong to the organisations or bodies which have (initially) financed or sponsored the development of these
+models. While eight models offer the possibility to
+obtain their datasets, the models themselves are often
+proprietary. However, some of the models which are
+presented in this review can be considered as 'public
+goods' (conditional on certain costs and guarantees)
+which can be used by or made available to interested
+organisations or persons. Thus, the SWOPSIM model
+developed by the economic research service (ERS)
+of USDA has been made available to numerous academics who worked on the impact of agricultural
+trade liberalisation. The OECD AGLINK model is
+presently used by government services of OECD
+member countries. A part of the INFORUM models
+and modelling tools are in the public domain. At the
+present time, GTAP represents the most far reaching
+attempt to public availability, and has now several
+hundred users in the academic community as well as
+in research agencies all over the world.
+Building an applied trade model is a costly exercise, which tends to require several man-years
+of dedicated work on database construction, theory
+formulation, parameter estimation and computer implementation. In addition, the size of the investment
+
+168
+
+F. van Tongeren eta/./Agricultural Economics 26 (2001) 149-172
+
+implies that the basic design choices are to a large
+extent irreversible. Once a particular route has been
+chosen, the switching cost may become prohibitive.
+Some developments point towards a further reduction
+in entry costs to this type of work: (a) convergence
+towards standards in model building, where new models can build on established blueprints. (b) A major,
+and seldom fully appreciated, part of model building
+is devoted to database construction. GTAP has pioneered institutional innovations that lower the costs
+associated with database construction and database
+maintenance considerably. (c) The availability of
+powerful general purpose software packages renders
+it obsolete to develop own software to solve large
+scale models numerically. Additional advantages of
+using packages like GAMS, GEMPACK or GAUSS
+is the transferability, reproducibility (and therefore
+cross-checking) of models and ease of maintenance.
+Early partial equilibrium models have been implemented in spreadsheets, which was top technology at
+the time. Except for small scale models, and models
+for pedagogic purposes, spreadsheet models do not
+have much to commend them. They are inherently
+difficult to maintain and are very error-prone.
+
+4.1. Classification of the reviewed global models
+The assessment of global models has been conducted in a qualitative fashion using the set of criteria
+defined in Table 4. From this analysis, is it possible
+to give a classification of these 16 models which distinguishes groups of models having the same profiles?
+An attempt has been made here by identifying and ordering the set of criteria which discriminate best between the possible groups of models. In addition to the
+clear distinction between partial and economy-wide
+models, the other discriminating criteria are whether
+the models are synthetic or econometrically-estimated,
+dynamic or static, currently used or shelved and in
+the case of economy-wide models whether they have
+a global or non-global coverage and how they specify
+international trade. 24 The results are presented in a
+24 The classification process has been supported by a multivariate
+factor analysis called 'multiple correspondence analysis' (MCA),
+which is especially designed to process datasets consisting of
+qualitative variables with several modalities (Escoffier and Pages,
+1990). The coding and listing of variables (not presented in this
+
+hierarchical tree-like diagram which provides an intuitive visual presentation of the model groupings.
+Fig. 1 presents the classification of the 16 models.
+Each branch in the figure is identified with the variable
+which discriminates between groups. The hierarchical structure of models clearly distinguishes in a first
+stage partial equilibrium from economy-wide models.
+Within these two broad groups, several sub-groups
+are easily identified. Looking first at the partial equilibrium model group, we can identify three pairs of
+models. The first pair is made up of the FAO and
+FAPRI models which are econometrically estimated
+dynamic recursive models. Within the models with calibrated parameters, the second pair of models consists
+of static models, such as SWOPSIM, WATSIM, ESIM
+and MISS, and the third pair is made up of recursive
+dynamic models, such as GAPSI and AGLINK.
+A similar analysis of grouping can be conducted for
+economy-wide models, where we observe that the INFORUM model stands on its own. As already observed
+earlier, this model has a profile which is quite different from all other economy-wide models. Not surprisingly, the seven, remaining economy-wide models are gathered in groups which can be defined along
+the classification of first-, second- and third-generation
+models. Hence, the model G-cubed is the only third
+generation model (forward looking behaviour) while
+the pair formed by the models BDS and WTO are second generation models (imperfect competition). The
+four remaining economy-wide models can be viewed
+as first-generation models. Within the latter group the
+standard GTAP model is static whereas the GREEN,
+MEGABARE and RUNS models are recursive dynamic.
+
+5. A modeller's research agenda
+The distinction between partial- and general equilibrium models runs as a red thread through this article.
+We have emphasised that both approaches have their
+relative merits and are suited for certain policy questions. We believe that further improvements of both
+
+paper but available upon request from the authors) used in this
+multivariate factor analysis has been conducted using the criteria
+developed in Table 4.
+
+F. van Tongeren eta!./Agricultural Economics 26 (2001) 149-172
+
+169
+
+GREEN
+
+r--~ EGABARE
+
+L___RUNS(*)
+
+Static or
+Static
+
+G TAP
+
+Armington
+Forward looking
+
+Global coverage
+
+G CUBED
+B DS
+WTO
+
+Imperfect competition
+
+Economy-wide
+
+Non global coverage
+
+I NFORUM
+
+Econometrically estimated
+
+FAO
+FAPRI
+
+Partial equilibrium
+
+I
+I
+I
+
+Static
+Calibrate~
+
+s WOPSIM(*)
+M ISS(*)
+ATSIM
+E SIM
+
+--
+
+G APSI
+c=AGLINK
+
+Recursive
+
+(*):not currently used
+Fig. I. Classification of reviewed global models.
+
+types of models are desirable, and further research
+efforts might be put into the following directions.
+As far as partial equilibrium models are concerned,
+the trade-off between pragmatism and theoretical elegance is currently biased towards practical usability.
+Improvements of the theoretical structure of most
+partial models are desirable, not only from a purely
+academic point of view but also in order to avoid
+misleading policy conclusions. For example, a model
+that does not guarantee the equality between incomes
+and expenditures because of an ad hoc treatment of
+demand parameters is likely to lead to wrong conclusions. This is especially the case if the model is used
+for longer term projections where income levels and
+budget shares are likely to change substantially.
+As far as the contribution to the current policy
+debate is concerned, the partial models will need
+to take up policy issues related to non-market interactions, such as the policy discussion around
+multi-functionality of agriculture. This requires serious investigations into the modelling of positive and
+negative externalities associated with agricultural activities. A related policy issue concerns the current
+debate on decoupling of income support measures. In
+their current form, none of the models reviewed here
+
+is capable to shed light on the degree in which alternative income support schemes affect output, prices
+or trade. As mentioned before, the current generation
+of partial trade models focuses on trade in primary
+or first stage processed agricultural commodities. In
+view of dramatically increasing trade shares of processed, and differentiated, products, serious efforts
+towards a more comprehensive modelling of the supply chain will enhance the usability of partial models.
+Incorporation of bilateral trade flows opens the route
+to modelling bilateral trade instruments, which are
+of great importance in the upcoming round of multilateral trade negotiations. There is no way to model
+TRQs without a bilateral trade specification.
+In as far as partial models display a bias towards
+pragmatisms, general equilibrium models have a
+tendency to favour theoretical elegance over relevance to detailed policy formulation. The usability of
+global general equilibrium models will be enhanced
+if country specific institutional and policy details are
+incorporated. Introducing more 'pragmatism' should,
+however, not sacrifice their theoretical soundness,
+which is a major advantage of this class of models.
+Another potential area for improvement is the dynamic specification. For many questions, and for many
+
+170
+
+F. van Tongeren et al. I Agricultural Economics 26 (2001) 149-172
+
+users of model results, it is important to sketch the
+time path towards a new equilibrium.
+Within the general equilibrium modelling community large efforts are currently on-going in modelling
+global environmental issues, such as climate change.
+There seems to be scope for integrating economic
+models with ecological models, and some experience
+is already gained in this respect (Darwin et al., 1996;
+Nordhaus and Zhang, 1996).
+
+6. Concluding remarks
+
+Ten years ago, the OECD and the World Bank convened a symposium that assessed the 'state-of the-art'
+in agricultural trade modelling at that time, see Goldin
+and Knudsen (1990). The field has changed over the
+past decade, but to some extent the comments made
+at this symposium can be echoed today. Probably the
+most important innovations have not been theoretical,
+nor have they been technological. The most significant changes have been of an institutional nature, albeit supported by recent computer and communications technologies. Ten years ago, models, data and
+software were almost exclusively proprietary. Today,
+it has become more common to exchange computer
+code and to share databases. This tendency can be expected to be continued in the future. The 'open source'
+concept that spurred rapid innovations in some parts
+of the software industry may very well be the direction
+towards which the global trade modelling community
+is heading.
+
+Acknowledgements
+
+The authors would like to thank all persons who
+contributed to this survey. This includes first of all the
+members of the GTAP-EU concerted action project:
+S!1lren Frandsen, Chantal Pohl Nielsen, Michael Strehr
+(SJFI, Denmark); Martina Brockmeier, Dirk Manegold (FAL, Germany); Joseph Francois, Machiel
+Rambout (Erasmus University Rotterdam/Tinbergen
+Instiute, The Netherlands); Risto Vaittinen, Leena
+Kerkela (Higher School of Economics and Business
+Administration, Finland); Thomas Ratinger (VUZE,
+Czech Republic); Kenneth Thomson (University of
+Aberdeen, UK); Bruno Henry de Frahan, (Univer-
+
+site Catholique de Louvain, Belgium), Akka Ait El
+Mekki (Ecole Nationale d' Agriculture de Meknes,
+Maroc); Luca Salvatici (Universita degli studi di
+Roma La Sapienza, Italy), Paul Veenendaal (LEI, The
+Netherlands). We also thank Rob Peters (European
+Commission, DG-AGRI) for comments and fruitful
+discussions. In addition we sincerely thank all individual researchers and modelling teams who shared
+information on their models with us. This research has
+been financially supported by the European Commission under the Fair-6 and Inco programmes (FAIR6
+CT 98-4141). The content of this article is the sole
+responsibility of the authors and does not in any way
+represent the views of the European Commission or
+its services.
+References
+ABARE, 1996. The MEGABARE model: interim documentation.
+Australian Bureau of Agriculture and Resource Economics,
+Canberra.
+Adelman, I., Robinson, S., 1978. Income distribution policies in
+developing countries: a case study of Korea. Stanford University
+Press, Stanford.
+Alexandratos, N. (Ed.), 1995. World Agriculture towards 2005. An
+FAO Study, Food and Agricultural Organization of the United
+Nations, Rome.
+Almon, C., 1991. The INFORUM approach to inter-industry
+modelling. Econ. Syst. Res. 3 (1), 1-7.
+Armington, P.A., 1969. A theory od demand for products
+distinguished by place of production. IMF Staff Papers 16,
+159-178.
+Baldwin, R.E., Venables, A.J., 1995. Regional economic
+integration. In: Grossman, Rogoff (Eds.), Handbook of
+International Economics, Vol. III. Elsevier, Amsterdam (Chapter
+31).
+Berkum, S. van, van Meijl, H., 2000. The application of trade and
+growth theories to agriculture: a survey. Aust. J. Agric. Resour.
+Econ. 44 (4), 505-542.
+Bremer, S.A. (Ed.), 1987. The GLOBUS model. In:
+Computer Simulation of Worldwide Polictical and Economic
+Developments. Campus/Westview Press, Frankfurt and Boulder.
+Brown, D.K., 1987. Tariffs, the terms of trade and national product
+differentiation. J. Policy Model. 9, 178-203.
+Brown, D.K., Deardorff, A.V., Stern, R.M., 1992. A North
+American free trade agreement: analytical issues and a
+computational assessment. The World Econ. 15, 15-29.
+Burniaux, J.-M., van der Mensbrugghe, D., 1990. A
+rurallurban-north!south general equilibrium model for
+agricultural policy analysis. OECD Economics Department
+Technical Papers no. 33, Paris.
+Cahill, C., Legg, W., 1990. Evaluation de !'aide a ]'agriculture
+au moyen des equivalents subvention a Ia production et a
+
+F. van Tongeren et al./Agricultural Economics 26 (2001) 149-172
+
+Ia consommation theorie et pratique, Revue Economique de
+l'OCDE, Vol 13. Numero special sur Ia modelisation des
+consequences des politiques agricoles, pp. 16-46.
+Conrad, K., 1999. Computable general equilibrium models
+for environmental economics and policy analysis. In: van
+den Berg, C.J.M. (Ed.), Handbook of Environmental and
+Resource Economics. Edward Elgar, Cheltenham, Chapter 69,
+pp. 1060-1089.
+Darwin, R., Tsigas, M., Lewandrowski, J., Raneses, A., 1996. Land
+use and cover in ecological economics. Ecol. Econ. 17 (3),
+157-181.
+DeMelo, J., Robinson, S., 1989. Product differentiation and the
+treatment of foreign trade in computable general equilibrium
+models of small economies. J. Int. Econ. 27, 47-67.
+DeMelo, J., Tarr, D., 1992. A general equilibrium analysis of US
+Foreign Trade Policy, MIT Press, Cambridge.
+Dixit, A.K., Stiglitz, J., 1977. Monopolistic competition and
+optimum product diversity. Am. Econ. Rev. 67, 297-308.
+Escoffier, B., Pages, J., 1990. Analyses factorielles simples et
+multiples. Objectifs, methodes et interpretation. Dunod, Paris.
+Ethier, W., 1979. Internationally decreasing costs and world trade.
+J. Int. Econ. 9, 1-24.
+Ethier, W., 1982. Decreasing costs in international trade and Frank
+Graham's argument for protection. Econometrica 50, 12431268.
+FAO, 1993. The world food model- Model Specification. FAO
+Mimeograph, ESC/M/93/1, Rome.
+Faucheux, S., Levarlet, F., 1999. Energy-economy-environment
+models. In: van den Berg, C.J.M. (Ed.), Handbook of
+Environmental and Resource Economics. Edward Elgar,
+Cheltenham, Chapter 73, 1060-1089.
+Francois, J.F., Reinert, K.A., 1997. Applied Methods for Trade
+Policy Analysis: A Handbook, Cambridge University Press,
+Cambridge.
+Francois, J.F., McDonald, B., Nordstrom, H., 1995. Assessing
+the Uruguay Round. In: Martin, W., Winters, L.A. (Eds.),
+The Uruguay Round and Developing Economies. Cambridge
+University Press, Cambridge.
+Frenz, K., Manegold, D., 1988. Lineares Modell zur Bestimmung von Preis- und Mengenwirkungen einer restriktiven
+Agrarpreispolitik in der EG, Arbeitsbericht des Instituts fiir
+landwirtschaftliche Marktforschung 88/1. Braunschweig.
+Frohberg, K., Hartmann, M., Weingarten, P., Fock, A., Wahl,
+0., 1997. The Central European agricultural simulation model
+(CEASIM): an overview. Research Report of the Institute
+of Agricultural Development in Central and Eastern Europe
+(IAMO), Halle/Saale, unpublished document.
+Golan, A., Judge, G., Miller, D., 1996. Maximum Entropy
+Econometrics: Robust Estimation with Limited Data, Wiley,
+Chichester.
+Goldin, I., Knudsen, 0. (Eds.), 1990. Agricultural trade
+liberalisation: implications for developing countries. Organistion for Economic Co-operation and Development, Paris.
+Grossman, G.M., Helpman, E., 1991. Innovation and Growth in
+the Global Economy. MIT Press, Cambridge.
+Hanoch, G., 1975. Production and demand models with direct or
+indirect implicit additivity. Econometrica 43, 395-419.
+
+171
+
+Henrichsmeyer, W., von Lampe, M., Mtillmann, C., 1998.
+Weiterentwicklung und Andwendung des Welt-Agrarhandelsmodells WATSIM fiir Langfristsimulationen der Weltagrarmarkte sowie der Auswirkungen fiir die Landwirtschaft der
+EU und der Bundesrepublik Deutschland unter Einbeziehung
+des Modellsystems RAUMIS. Interim Report for the Federal
+Ministry for Food, Agriculture and Forestry, Bonn.
+Hertel, T.W. (Ed.), 1997. Global Trade Analysis: Modelling and
+Applications. Cambridge University Press, Cambridge.
+Huff, H.B., Moreddu, C., 1990. The ministerial mandate trade
+model (MTM): OECD economic review, Vol. 13. Special issue
+on Modeling the effects of Agricultural policies.
+Jorgenson, D.W., 1984. Econometric methods for applied general
+equilibrium modelling. In: Scarf, Shoven (Eds.), Applied
+General Equilibrium Analysis. Cambridge University Press,
+Cambridge (Chapter 4).
+Klein, L.W., Su, V., 1979. Protectionism: an analysis from project
+LINK. J. Policy Model. I (1), 5-35.
+Krugman, P.R., 1979. Increasing returns, monopolistic competition,
+and international trade. J. Int. Econ. 9, 469-479.
+Krugman, P.R., 1980. Scale economies, product differentiation and
+the pattern of trade. Am. Econ. Rev. 70, 950-959.
+LaFrance, J., 1986. The structure of constant elasticity demand
+models. Am. J. Agric. Econ., 543-552.
+LaFrance, J., Hanemann, W.M., 1989. The dual structure of
+incomplete demand systems. Am. J. Agric. Econ., 262-274.
+Laird, S., 1997. Quantifying commercial policies. In: Francois,
+J.F., Reinert, K.A. (Eds.), Applied Methods for Trade
+Policy Analysis: A Handbook. Cambridge University Press,
+Cambridge.
+Lancaster, K., 1980. Intra-industry trade under perfect monopolistic
+competition. J. Int. Econ. 10, 151-175.
+Lee, H., Oliviera-Martins, J., van der Mensbrugghe, D., 1994. The
+OECD Green model: an updated overview. OECD Economics
+Department Technical Papers no. 97, Paris.
+Lucas, R.E., 1976. Econometric policy evaluation: a critique. J.
+Monetary Econ. 1 (2), 19-46.
+Mahe, L., Tavera, C., 1989. Bilateral harmonization of EC and
+US agricultural policies. Eur. Rev. Agric. Econ. 15, 325-348.
+Markusen, J.R., Venables, A.J., 1998. Multinational firms and the
+new trade theory. J. Int. Econ.
+McDougall, R.A., Elbehri, A., Truong, T.P. (Eds.), 1999. Global
+trade, assistance and protection: the GTAP 4 database. Center
+for Global Trade Analysis, Purdue University, West Lafayette.
+McKibbin, W., Wilcoxen, P., 1999. The theoretical and empirical
+structure of the G-cubed model. Econ. Model. 16, 123-148.
+Meilke, K., McClatchy, D., De Gorter, H., 1996. Challenges in
+quantitative economic analysis in support of multilateral trade
+negotiations. Agric. Econ. 14, 185-200.
+Nordhaus, W.D., Zhang, Z., 1996. A regional dynamic
+general-equilibrium model of alternative climate change
+strategies. The Am. Econ. Rev. 86 (4), 741-765.
+OECD, 1998. OECD workshop report on economic modelling of
+climate change. OECD Headquarters, Paris, 17-18 September,
+1998.
+Parikh, K.S., Fischer, G., Frohberg, K., Guldbrandsen, 0., 1988.
+Towards free trade in agriculture, Matinus Nijhoff, Dordrecht.
+
+172
+
+F. van Tongeren et al./ Agricultural Economics 26 (2001) 149-172
+
+Patridge, M.D., Rickman, D.S., 1998. Regional computable general
+equilibrium modeling: a survey and critical appraisal. Int.
+Regional Sci. Rev. 21 (3), 205-248.
+Roningen, V.O., 1986. A static world policy simulation
+(SWOPSIM) modeling framework. Staff Report, Economic
+Research Service, US Department of Agriculture, Washington,
+DC.
+Roningen, V.O., Liu, K., 1983. The world grain, oilseeds
+and livestock (GOL) model - background and standard
+components. ERS Staff Report no. AGES830317, Econ. Res.
+Serv., US Department of Agriculture.
+Rosegrant, M.W., Agcaoili-Sombilla, M., Perez, N.D., 1995.
+Global food projections to 2020: implications for investment.
+2020 Vision for Food, Agriculture, and the Environment
+Discussion Paper 5, International Food Policy Research
+Institute, Washington, DC.
+Spence, M., 1976. Product differentiation and welfare. Am. Econ.
+Rev. 66, 407-415.
+Tangermann, S., Josling, T.E., 1994. Pre-accession agricultural
+policies for Central Europe and the European Union Study
+commissioned by DO I of the European Commission.
+Giittingen.
+
+Tongeren, F.W. van, van Meijl, H. (Eds.), 1999. Review of applied
+models of international trade in agricultural and related resource
+and environmental modeling. Agricultural Economics Research
+Institute, Report 5.99.11 (EU-FAIR VI-CT 98-4148, Interim
+report 1).
+Tyers, R., Anderson, K., 1992. Disarray in World Food Markets:
+A Quantitative Assessment. Cambridge University Press,
+Cambridge.
+Waino, J., Gibson, P., Whitley, D.B., 2000. Implementation of
+Uruguay Round tariff reductions. ERS/USDA, Agricultural
+Outlook, November 1999.
+Winters, A.L., 1990. The role of partial equilibrium agricultural
+models. In: Goldin, I., Knudsen, 0. (Eds.), Agricultural
+Trade Liberalisation: Implications for Developing Countries,
+pp. 453-454.
+World Trade Organisation (WTO), 1998. Annual Report, Geneva.
+Young II, R.E., Westhoff, P.W., Brown, D.S., Adams, G., Womack,
+A.W., 1999. Modeling the world agrifood sector: the Food and
+Agricultural Policy Research Institute approach. Paper Prepared
+for The Agricultural Economics Society, Annual Conference
+1999. Stranmillis University College, The Queen's University,
+Belfast, 28 March 1999.
+
+

@@ -1,0 +1,2151 @@
+Available online at www.sciencedirect.com
+SCIENCE @DIRECTO
+
+ELSEVIER
+
+AGRICULTURAL
+ECONOMICS
+
+Agricultural Economics 29 (2003) 125-142
+www.elsevier.com/locate/agecon
+
+Technological change and risk management: an application
+to the economics of corn production
+Kwansoo Kim 1 , Jean-Paul Chavas*
+Department of Agricultural and Applied Economics, University of Wisconsin, Madison, WI 53706, USA
+
+Received 10 October 2001; received in revised form 16 April2002; accepted 15 August 2002
+
+Abstract
+The paper investigates the linkages between technological change and production risk, with an application to corn. The
+effects of technology on risk exposure are analyzed. We define technological progress to be risk-increasing (risk-decreasing)
+if it increases (decreases) the relative risk premium. The analysis is applied to panel data from Wisconsin research stations.
+Conditional moments (including mean, variance and skewness) of corn yield, grain moisture and corn profit are estimated for
+different sites. We investigate how the trade-off between expected return and the risk premium varies over time and over space.
+The empirical results indicate that technological progress contributes to reducing the exposure to risk as well as downside risk
+in corn production, although this effect varies across sites. They also stress the role of the relative maturity of corn hybrids as
+a means of managing risk.
+© 2003 Elsevier B.V. All rights reserved.
+JEL classification: D8; 03; Ql
+Keywords: Technological change; Production risk; Downside risk; Corn
+
+1. Introduction
+
+Technological change has contributed to large increases in agricultural productivity (e.g. Ball et al.,
+1979; Brennan, 1984; Master et al., 1998; Byerlee,
+1996). Besides improving productivity, technological
+change has also affected production risk (e.g. Antle
+and Crissman, 1990; Binswanger and Barah, 1980).
+While genetic improvements have increased mean
+* Corresponding author. Tel.: + 1-608-262-9482;
+fax: +I -608-262-4376.
+E-mail addresses: chavas@aae.wisc.edu (J.-P. Chavas),
+kimk@snu.ac.kr (K. Kim).
+1 Present address: Department of Agricultural Economics &
+Rural Development, College of Agricultural & Life Sciences, Seoul
+National University, Seoul441744, Korea. Tel.: +82-31-290-2434;
+fax: +82-31-295-6696.
+
+crop yields, they have also affected yield variability.
+For example, while the green revolution generated
+increases in both mean and variance of yield, Traxler
+et al. (1995) found that the post-green revolution era
+exhibited both slower mean yield growth and declining yield risk. This latter effect can be attributed in
+part to genetic improvements targeted to improved
+pest and disease resistance.
+Interest in risk issues is motivated by the empirical
+evidence that most farmers are risk averse (e.g. Lin
+et al., 1974; Binswanger, 1981; Antle, 1987; Saha
+et al., 1994). This suggests that technological change
+can also generate benefits by reducing the farmers'
+exposure to production risk. In addition, the empirical
+evidence indicates that most farmers exhibit decreasing absolute risk aversion (e.g. Binswanger, 1981;
+Chavas and Holt, 1996). This implies that farmers
+
+0169-5150/$ - see front matter © 2003 Elsevier B.V. All rights reserved.
+doi: 10.1016/S0169-5150(03)00081-1
+
+126
+
+K. Kim, J.-P. Chavas/Agricultural Economics 29 (2003) 125-142
+
+are averse to 'downside risk' (Antle, 1987). Intuitively, this means that farmers are especially
+averse to being exposed to unexpectedly low returns.
+This has motivated research on the role of downside risk in risk management, including the 'safety
+first' approach (e.g. Roumasset, 1976). Much research has analyzed agricultural risk, including the
+mean-variance investigation of input effects (e.g. Just
+and Pope, 1997) and technology (e.g. Traxler et al.,
+1995). Yet, the influence of technological change on
+downside risk exposure (e.g. on the probability of
+crop failure) remains poorly understood. There is a
+need to refine our understanding of the linkages between technological change and exposure to risk and
+downside risk in agriculture, with implications for the
+cost of private risk bearing.
+This study presents an economic analysis of risk
+exposure in corn production and corn profitability at
+the edge of the Corn Belt. Following Antle (1983)
+and Antle and Goodger (1984), our analysis of production risk involves a moment-based approach. We
+extend the mean-variance analysis presented in Just
+and Pope (1997) and Traxler et al. (1995) by also
+examining the third central moment of the relevant
+random variables. Under risk aversion, decision makers are adversely affected by a higher variance of returns. And under downside risk aversion, the welfare
+of decision makers is positively (negatively) affected
+by an increase (decrease) in skewness of returns. This
+paper examines the effects of technological change
+on the mean, variance and skewness of corn yield and
+corn profitability, as they evolve under technological
+progress. Relying on Pratt's (1964) risk premium
+as a measure of the cost of private risk bearing, we
+define technological progress to be risk-increasing
+(risk-decreasing) if it increases (decreases) the relative
+risk premium. We investigate empirically the trade-off
+between risk, measured by both second and third central moments, and expected profit, with a special focus
+on the degree of farmers' exposure to downside risk.
+The analysis is applied to corn yield and corn
+profitability using time series data (1974-1997) from
+several research stations in Wisconsin. The panel
+structure of the data enables us to investigate the
+implications of risk (including downside risk) associated with corn profitability on farmers' welfare over
+time and across space. Econometric estimates are
+obtained for the first three moments of the distribu-
+
+tion of corn yield, corn moisture and corn profit. The
+empirical evidence shows how the trade-off between
+expected return and risk has evolved over time and
+across sites. Our results indicate that technological
+progress has contributed to reducing risk exposure,
+although such effects vary across space. They also
+stress the importance of relative maturity of corn hybrids as a means of managing production risk. Finally,
+they document the role and evolution of downside
+risk exposure, and its implications for the cost of
+risk.
+This paper is organized as follows. Section 3
+presents a conceptual framework of decision-making
+under risk. Under the expected utility model, we
+analyze the effects of technology and input use on
+production risk and profitability. We use the properties of the relative risk premium to characterize the
+effects of technology on risk exposure. As discussed
+in Section 4, we rely on a moment-based approach to
+approximate the risk premium. This guides our econometric specification for empirical research shown in
+Section 5. The data and application of the model to
+corn are discussed in Section 6. Sections 7 and 8
+present the empirical analysis. We analyze how the
+choice of corn hybrid maturity affects corn yield and
+corn profitability, focusing on its effects on expected
+value, variance as well as skewness. Corn hybrid maturity is found to have statistically significant effects
+on production risk. This implies that the choice of
+hybrid maturity is an important risk management tool
+for farmers. We also find evidence that technological
+change contributes to a significant reduction in risk
+exposure through its effects on the variance as well
+as skewness of profit. In other words, besides increasing yield, technological progress also lower farmers'
+exposure to both risk and downside risk. However,
+these effects are found to vary between farm types
+and across space. Finally, concluding remarks are
+presented in Section 9.
+
+2. Conceptual framework
+Consider a farm producing Y = (Y1, Y2, ... , Y17 ),
+a vector of outputs under uncertainty. Under technology t, farm production of output Yi is represented by
+the stochastic functions Yi = A; · y;(x;, t, e), where
+Ai is the acreage of the ith commodity, y;(x;, t, e) is
+
+K. Kim, J.-P. Chavas/Agricultural Economics 29 (2003) 125-142
+
+the corresponding production per acre, xi is a vector
+of inputs used to produce y;, and e is a vector of
+stochastic factors that are not known to the decision
+maker at the time when the input decisions are made.
+The vector of stochastic factors e is treated as a random variable with a given probability distribution G.
+The vector e includes unpredictable weather effects
+as well as the effects of pest and diseases on farm
+production. Similarly, under technology t, farm production cost in producing the ith commodity is represented by the stochastic function (A; · C;(x;, t, e)),
+where C;(x;, t, e) is the cost per acre, depending of
+input choices x;, technology t, and production uncertainty e. Note that this allows cost to depend directly
+on yield, e.g. C; = c;(y;(x;, t, e), x;, t, e). Examples
+of ex-post costs that vary with output include storage
+cost and drying cost. By denoting p; the price of output Y;, total profit associated with farm activities Y is:
+n
+
+n
+
+= L{A; · [p; · y;(Xi, t, e)- C;(x;, t, e)]},
+
+(1)
+
+i=l
+
+127
+
+variable n by its expected value E(n). It is a monetary
+measure of the implicit cost of private risk bearing.
+In this context, for non-degenerate risk, risk aversion
+implies that R > 0, i.e. that the decision maker always prefers a riskless world. This corresponds to a
+concave utility function: a2 u I an 2 < 0 (Pratt, 1964 ).
+From Eq. (2), maximizing expected utility is
+equivalent to maximizing the certainty equivalent,
+E[n(x, t, ·)]- R(x, t). In general, the certainty equivalent, E[n(x, t, ·)]- R(x, t), depends on input use x
+and technology t. Of particular interest are the effects
+of input use x and technology t on risk exposure. An
+input x is said to be risk-increasing (risk-decreasing)
+if aR(x, t) jax > 0 ( <0), i.e. if it increases (decreases)
+the cost of private risk bearing (e.g. Ramaswami,
+1992). Assuming an interior solution, and using the
+first-order necessary condition a[E(n) - R]jax = 0,
+this can be expressed equivalently through the effects
+on the relative risk premium: R(x, t) j[E(n(x, t, ·)) R(x, t)]. In other words, at the optimum, input x is
+risk-increasing (risk-decreasing) if it tends to increase
+(decrease) the relative risk premium:
+
+subject to
+a[R(x, t)/(E(n(x, t, ·))- R(x, t))]
+O(
+----'------------ >
+< 0).
+ax
+
+n
+
+"A--A
+~
+r-'
+i=l
+
+where A denotes total acreage available for farm production. The price of output, Pi, can also introduce
+a stochastic market environment in the analysis. This
+allows for price and weather uncertainty, as well as
+technology effects in production decisions. Assume
+that inputs are chosen to maximise the expect utility
+of profit EU(n), where E is the expectation operator
+based on the information available at the time decisions are made. The von Neumann-Morgenstern
+utility function U(n) represents the risk preferences
+of the decision maker, with auI an > 0. Then, we can
+characterize farm decision-making by the optimization problem: Max{EU(n)}, where profit n is given
+in Eq. (1). The cost of private risk bearing can be
+measured by the sure amount R satisfying:
+EU(n)
+
+=
+
+U[E(n) - R],
+
+(2)
+
+where [E(n) - R] is the certainty equivalent of profit
+(Pratt, 1964). The valueR defined in Eq. (2) is the risk
+premium measuring the largest amount of money the
+decision maker is willing to pay to replace the random
+
+In a similar fashion, we propose to investigate the
+effects 9f technological change on risk exposure. We
+consider the case of technological progress associated
+with an increase in the technology index t, such that
+a[E(n(x, t, ·))- R(x, t)]jat > 0.
+Definition. Under risk aversion (where R > 0),
+technological progress is said to be risk-increasing
+(risk-decreasing) if
+a[R(x, t)/(E(n(x, t, ·))- R(x, t))] > O( < O).
+at
+
+Assuming that E(n) > 0, E(n) - R > 0, and R >
+0, this definition implies that technological progress is
+risk-increasing (risk-decreasing) if a ln[R(x, t)]jat >
+(<)aln[En(x, t)]jat, i.e. if technological progress
+tends to increase the risk premium relatively more
+(less) than expected return. Note that this characterization of linkages between technology and risk
+exposure depends on risk preferences as they influence the cost of private risk bearing R. This suggests
+a need to assess the risk premium R.
+
+128
+
+K. Kim, J.-P. Chavas/Agricultural Economics 29 (2003) 125-142
+
+3. Empirical implementation
+While R can always be obtained as an implicit
+solution to Eq. (2), this requires knowing both the
+utility function U(rr) and the probability distribution
+of n:. Obtaining such empirical information can be
+challenging. Two options are available: (1) obtain
+parametric estimates of the probability function of
+n:; or (2) estimate the moments of n. The first option involves specifying a functional form for the
+probability function and estimating it by the maximum likelihood method. The choice of functional
+form includes standard distributions (such as normal,
+beta, gamma) as well as transformations of standard distributions. Several transformations have been
+applied in the literature, including the inverse hyperbolic sin (e.g. Moss and Shonkwiler, 1993; Ramirez,
+1997) and the hyperbolic tangent (e.g. Taylor, 1984;
+Ramaswami, 1992). One problem with these approaches is that choosing the functional form is not
+always obvious. On the one hand, if one knew the
+functional form for sure, then maximum likelihood
+estimation would provide consistent and asymptotically efficient parameter estimates. On the other hand,
+if the functional form is not the 'true one', then the
+model would be mis-specified generating inconsistent
+parameter estimates. Given that we often have weak a
+priori information about the true shape of a probability function, the issue of mis-specification bias can be
+important.
+One alternative approach is to proceed by estimating the moments of the random variable n:. There has
+been much empirical research focusing on estimating
+the first two central moments: the mean and the variance. Situations in which production decisions affect
+risk exposure imply heteroscedasticity as the variance
+of profit is expected to vary with input choice. A common approach has been to use the Just-Pope specification for estimating the first two moments (e.g. Just and
+Pope, 1997; Traxler et al., 1995). However, it is possible to go beyond a mean-variance analysis. As shown
+by Antle (1983, 1987) and Antle and Goodger (1984),
+consistent estimates of all relevant central moments
+can be obtained econometrically. This allows the investigation of the mean, variance as well as higher
+moments (e.g. the skewness associated with downside
+risk exposure). This is the approach we follow in this
+paper.
+
+Once the riskiness of profit n: is assessed, understanding its implications for the cost of private risk
+bearing requires information about risk preferences.
+Using a moment based-approach, it will be convenient
+to rely on an approximation to the risk premium R.
+Under differentiability, take a first-order Taylor series
+expansion on the right-hand side of Eq. (2) with respect to R, and a mth order Taylor series expansion
+on the left-hand side of Eq. (2) with respect to n:. As
+shown by Antle (1987), this gives the following approximation to the risk premium R:
+1 [ -~-·E[n:-E(n:)]l
+m uJ
+·]
+R~-·
+Ul
+~ .,
+}=2
+
+(3)
+
+J.
+
+where u 1 = (aiu;an:i)(E(n:)) is the jth derivative
+of U with respect to profit rr, evaluated at E(n:), j =
+1, ... , m, m :::: 2. Note that E[n:- E(n:)]i is the jth
+central moment of n:. Thus, expression (3) provides an
+approximate measure of the risk premium as a function of the first m moments of profit. When m = 2,
+this gives the approximation obtained by Pratt, where
+the risk premium is proportional to the variance of
+n. Under risk neutrality, the utility function U(n:) is
+linear, the risk premium R is zero, and maximizing
+Eq. (2) reduces to maximizing the sum of expected
+profit. However, risk aversion means that a2 u;an: 2 <
+0 (Pratt, 1964). Then, Eq. (3) implies that the risk premium R increases with the variance of profit. Below,
+we will consider the case where m = 3. Going beyond
+the variance, this includes the effects of skewness
+or downside risk exposure on the risk premium. As
+shown by Antle (1987), downside risk aversion means
+that a3 u;alf 3 > 0, implying that the third central moment becomes relevant: decision-makers prefer a positive skewness as it reduces their exposure to downside
+risk.
+The model just presented is quite general: it includes
+multiple sources of uncertainty associated with different outputs. However, in this paper, we focus on the
+uncertainty associated with a particular output (corn).
+For this purpose, assume that corn corresponds to the
+first commodity (i = 1). Let
+11
+
+1T
+
+=
+
+L[A; . n:;],
+i=l
+
+K. Kim, J.-P. Chavas I Agricultural Economics 29 (2003) 125-142
+
+where xi= Pi·Y;(x;, t, ei)-C;(x;, t, e;) denotes profit
+per acre of the ith commodity. Note that
+
+( t8i)J
+i=l
+
+=
+
+where j1, h
+ing
+
+L li·l2·"""}n·
+.
+1 . ('
+
+. 18{ 1
+
+•
+
+8~2 8~',
+•••
+
+129
+
+on the certainty equivalent. Note that Eq. (4) applies
+under very general conditions. As such, it allows for
+many probability distribution functions for the random
+variables e, thus providing a flexible representation of
+the uncertainty.
+
+. ... , j 11 are non-negative integers satisfy4. Econometric specification
+
+n
+
+L:ji =
+
+j.
+
+i=l
+
+Letting 8i = [Ai · (x;- E(xi))]. it follows that the risk
+premium R can be approximated by
+1 [
+m uJ
+. "·
+R ~Ul · - "
+~., · [A 11 · ~'"'Jlr
+)=2 J.
+
++ 8J·]]
+
+(3')
+
+'
+
+where 11- jJT = E[ (x 1 - E(xJ) )1] is the jth central moment of profit per acre of the first commodity, j ::: 2,
+and
+
+8j=
+
+L
+. . j! . E[8{ 1 ·8~2 ···8k],
+. . ]1!]2!···]n!
+
+]1 <]
+
+j=2, ... ,m.
+Expression (3') relates the risk premium R to the first
+m moments of 7rl, while the 8/ s account for the effects of risky returns associated with other production
+activities. It follows that the certainty equivalent of
+profit can be approximated as
+n
+
+E(x) - R ~ L[A; · E(Jri)]
+i=l
+
+1 [
+m uJ
+1. " ·
+-- · - "
+~ - · [A 1 · ~'"'
+J1T
+
+ur
+
+)=2
+
+.,
+
+J.
+
++ 81·] ]
+
+.
+
+(4)
+Eq. (4) identifies the components of the certainty
+equivalent directly associated with the first commodity. They are
+1 [
+m uJ
+.
+]
+A1·f.i-JJT-U 1 · -L:~·[A{·/1-JJT],
+)=2 1
+
+where /1-IJT = E(x 1). This shows the direct effects of
+the first m moments of the distribution of profit Jr1
+
+This section discusses the econometric specification used below in our empirical investigation of the
+distribution of com yield, moisture and profit. Let
+/1-JJT(xl, t) = Exr(xl, t, e) denote the mean profit or
+first moment of profit per acre of the first commodity.
+And let /1-jrr(XI, t) = E[(:7rJ(XI, t, e)- /1-JJT(XI, t))i]
+be the jth central moment of :7rJ, j = 2, ... , m, conditional on input decisions xr and on technology t.
+Eq. (4) shows how the certainty equivalent of profit depends on the mean profit f.J-lrr (x 1, t), on the variance of
+profit, f.J-2rr (x 1, t), on the skewness of profit f.i-3JT (x 1, t),
+etc. and on other interaction effects across activities.
+This suggests a need to estimate the moments of profit
+11- Jrr(XI, t), j = 1, 2, ... , 3. For that purpose, we specify a parametric form for each 11- Jrr and estimate the
+corresponding parameters. Let 11- )JT = fJ(xi, t, fi ).
+where fi J is a vector of parameters. Then, consider the
+econometric model:
+(5)
+
+where VIJT is an error term distributed with mean zero,
+E(vrJT) = 0. Then, treating (XJ, t) as exogenous variables, Eq. (5) represents a standard regression model
+where the parameters fi 1 can be consistently estimated
+by the least squares method. Let fiTs be the least
+squares estimator of fir in Eq. (5), giving the least
+squares residual v}:~ = 7rl - !I (x 1, t, fiTs). Consider
+the following model specification:
+
+(6)
+Then, the least squares estimation of Eq. (6) gives fi~,
+a consistent estimator of fi2 (Antle, 1983). It follows
+thatfz(xl, t, fi~) is a consistent estimator of Var(VJrr ).
+In the presence of heteroscedasticity, this provides a
+basis for re-estimating Eq. (5) by generalized least
+squares. The resulting estimator fi?LS is consistent,
+asymptotically efficient, and asymptotically normal.
+This provides the estimator of expected profit reported
+
+130
+
+K. Kim, J.-P. Chavas/Agricultural Economics 29 (2003) 125-142
+
+below. Next, define
+consider:
+GLS .
+
+vy;s = n1 -
+
+(v1rr )1 =/j(X1,t,pj)+vjrr.
+
+/1 (x 1, t, pyLs) and
+j~2.
+
+of the functions h j(X1, t, y ). j = 1, 2, ... , can be
+consistently estimated as discussed above.
+
+(6')
+
+vy;s
+
+is a consistent estimator of v1rr. it follows
+Since
+that the least squares estimator of Pj in Eq. (6') is consistent and asymptotically normal for j ~ 2 (Antle,
+1983; Antle and Goodger, 1984). However, noting that
+Var(Vjrr) = /2j- (/j) 2, the standard errors of pj need
+to be corrected for heteroscedasticity. For that purpose, we implement the procedure proposed by White
+(1980) to obtain consistent estimates of the standard
+errors of Pj in Eq. (6'). This provides the empirical
+framework used below in the investigation of the distribution of profit (measured through its mean, variance and skewness) as it changes with technology t
+and the input choices x 1·
+Farm profit n1 is a function of input choice x 1,
+technology t, and uncertainty e. As indicated in
+Eq. (1), it will be of interest to decompose the effects
+of (x 1, t, e) on farm profit n1 into two main effects:
+(1) production effects through the production function Y1 (x 1, t, e); and (2) cost effects through the cost
+function C1(x1, t, e). 2 Both functions are stochastic
+because they depend on the random variables e. Following the moment-based approach, they can each
+be represented by their central moments: mean, variance, skewness, etc. The empirical analysis of these
+moments can be conducted in a way similar to the
+approach just discussed for the profit function. For
+example, the central moments of the production function Y1 (x 1, t, e) can be parameterized as E (y 1) =
+f.L1y = g1(x1, t,a1) for the expected value of yield
+2
+'
+E[(Y1 - f.L1y) ] = f.L2y = g2(x1, t, a2) for the variance of yield, E[(Y1 - f.L1y) 3 ] = f.L3y = g3 (x1, t, a3)
+for the skewness of yield, etc. Following the estimation method discussed above, the parameters of the
+functions gj(X1, t, «j), j = 1, 2, ... , can be consistently estimated. Similarly, the central moments
+of the function C 1(x 1, t, e) can be parameterized
+as E(C1) = f.L1c = h1(x1, t, y 1) for expected cost,
+E[(C1 - f.Llc) 2] = f.L2c = h2(x1, t, y 2) for the variance of cost, E[(C1 - f.L1c) 3] = f.L3c = h3(x1, t, y 3)
+for the skewness of cost, etc. Again, the parameters
+2 For simplicity, we focus our attention on production and cost
+uncertainty. This neglects the possible effects of price uncertainty.
+Incorporating price risk into the analysis would be straightforward.
+
+5. An application to corn
+We apply the conceptual framework developed in
+the previous sections to com production, with a focus on the risk implications of production uncertainty.
+In particular, we examine the effects of technology
+and climate change at the edge of Corn Belt. First,
+Mendelsohn et al. (1994) has argued that the effects
+of climatic change are expected to be more significant
+in marginal areas around the Com Belt. Second, characterizing the implications of technological change at
+the edge of the Com Belt allows us to examine the differential effects of technological change on com production over space.
+Our analysis relies on com production and cost data
+obtained from three research stations in Wisconsin:
+Arlington, Marshfield and Spooner. The Arlington research station is in Southern Wisconsin, Spooner is
+in Northern Wisconsin, while Marshfield is in Central Wisconsin. The Arlington station is located in the
+Northern Corn Belt. As such, the data from Arlington provide information on the effects of technology
+and climatic changes on com production and costs in
+the Corn Belt. In contrast, Marshfield and Spooner are
+outside the Corn Belt. This means that the data from
+Marshfield and Spooner provide useful information on
+technology and climate effects in more marginal areas
+for corn production.
+As one moves north in Wisconsin, corn yields decline as the growing season gets shorter. To deal with
+this shorter growing season, farmers in Northern Wisconsin plant short-season corn hybrids for at least two
+reasons: (1) they give a higher probability of reaching
+maturity before the end of the growing season; and
+(2) they require lower drying costs. These trade-offs
+are evaluated below. The data set consists of 24 years
+(1974-1997) of yield and relative maturity 3 (RM) information generated from long-term studies of corn
+yields conducted by the University of Wisconsin Agricultural Experiment Station. These agronomic trial
+3 Corn relative maturity is measured using the 'Minnesota relative maturity rating', a standardized index characterizing the number of days it typically takes a corn hybrid to reach maturity.
+
+K. Kim, J.-P. Chavas/Agricultural Economics 29 (2003) 125-142
+
+131
+
+Table I
+Description of data
+N"
+
+Location
+
+South
+Central
+North
+
+Arlington
+Marshfield
+Spooner
+
+2484
+1591
+2335
+
+GDD
+Mean
+
+S.D.
+
+2852.9
+2645.5
+2586.5
+
+191.9
+186.6
+202.2
+
+Average yield
+(bushel/acre)
+
+Average
+moisture (%)
+
+166.3
+119.5
+109.0
+
+25.9
+27.5
+27.9
+
+Relative maturity (RM) (days)
+Minimum
+
+Maximum
+
+85
+75
+70
+
+120
+110
+110
+
+• N denotes the number of observations.
+
+studies were designed to measure com hybrid performance. They measured yield and grain moisture for a
+range of com hybrids. Because other inputs (including
+cultural practices) were uniformly administrated during the experiment at each site, yield variations in each
+location are mainly due to the choice of hybrid maturity, genetic improvements and uncontrollable factors (mainly weather effects). This provides a basis
+for evaluating the evolution of the distribution of corn
+yield and cost over time and across space.
+Table 1 summarizes the data for the three research
+stations. Number of observations (N), average growing degree days (GDD)4 and its standard deviation,
+average yield (bushel/acre), average corn moisture at
+harvest (%) and the range of RM for each location are
+presented. As expected, as one moves north, average
+GDD declines. Below, we will examine the evolution
+of GDD as a proxy measure of climate change. The
+average yield over the sample period decreases as one
+moves north. Relative maturity ranges from 85 to 120
+in the south, and from 70 to 110 in the north, reflecting the different climatic conditions.
+
+6. Estimation results
+Focusing on the first three central moments of the
+distribution of corn yield, com moisture, GDD and
+4 GDD is a temperature-based index commonly used as a summary measure of the length of the growing season for com. For
+example, for a given location and growing season, the GDD index
+for com is defined as
+
+GDD =
+
+L. ~[max(Tmini•
+50)+ min(Tmaxi• 86)]- 50,
+2
+'
+
+where Tmini (Tmaxi) is the minimal (maximal) temperature on day
+i (in °F). It reflects the absence of appreciable com growth for
+temperatures below 50 or above 86°F.
+
+corn profit, this section presents an empirical investigation of (i) the determinants of the distribution of
+corn yield, (ii) the distribution of GDD and its trend,
+(iii) the factors affecting the moisture of corn grain at
+harvest, and (iv) the distribution of corn profit and its
+evolution (both over time and across space).
+
+6.1. Mean, variance and skewness of corn yield
+As discussed in Section 4, we estimate the factors
+influencing the mean, variance and skewness of com
+yield. First, we consider the stochastic production
+function representing corn yield, YI = 81 (xi, t, a1) +
+VJy, where VJy is an error term distributed with mean
+zero. We consider two specifications. In the first
+(Model I), we let XI = (RM, RM2 , T): yield is a
+linear function of RM, RM2 , and a time trend T. The
+introduction of RM 2 allows for possible non-linear
+relationship between relative maturity and corn yield.
+The time trend T captures two effects, the impact of
+technological change (e.g. genetic progress) 5 on yield
+(Cardwell, 1982), and the impact of weather change
+(Baker et al., 1993; Mendelsohn et al., 1994). The error term VIy accounts for unobserved weather effects
+and other uncontrollable factors affecting corn yield.
+Note that this specification corresponds to an ex ante
+analysis. It reflects the situation in which weather information is not known to farmers at planting time. In
+contrast, our second specification (Model II) attempts
+5 More informative measures of technology can possibly replace
+time trend. For example, genetic improvements can be directly
+measured by different hybrids applied. However, this is not included in our analysis because the number of hybrids is very large
+and the hybrids change over time in our data. For example, some
+of the hybrids used in the early part of the sample are no longer
+present in the later part. This makes it difficult to find any simple way of incorporating the hybrid information in our analysis
+beyond their RM rating.
+
+w
+
+N
+
+Table 2
+Estimated relationship between yield and RM in Wisconsin
+Location
+
+R2
+
+Parameter
+
+N
+
+Constant
+
+RM2
+
+RM
+
+(A) Model I: expected yield= g 1 (RM, RM2 , D; Model II: expected yield= g 1 (RM, RM2 , T, GDD)
+Arlington
+2484
+Model I
+-73.51 (!00.32)
+3.48 (!.904)*
+-0.014 (0.009)
+Model II
+-70.!8 (94.87)
+3.54 (!.82)*
+-0.014 (0.009)
+
+~
+
+GDD
+
+T
+
+!"<:
+
+;.....
+
+:1:,
+!.86 (0.068)***
+!.88 (0.24)***
+
+-0.002 (0.0028)
+
+0.252
+0.258
+
+~
+
+-0.018 (0.003)***
+
+0.250
+0.250
+
+"'~
+
+0.071 (0.003)***
+
+0.234
+0.402
+
+E'
+
+0.0088
+0.0!0
+0.0067
+
+B.~
+
+c
+
+Marshfield
+Spooner
+
+1591
+2335
+
+5.10 ( !.967)***
+5.62 (1.872)***
+
+-0.026 (0.01!)**
+-0.029 (0.0!)***
+
+!.87 (0.092)***
+!.98 (0.087)***
+
+-53!.02 (90.28)***
+-706.!2 (73.13)***
+
+13.70 (2.!24)***
+13.50 (1.71)***
+
+-0.077 (0.012)***
+-0.076 (0.0!)***
+
+2.!8 (0.085)***
+2.21 (0.077)***
+
+-788.71 (276.3)***
+-25.48 (259.9)
+-533.80 (350.6)
+
+11.795 (2.59)***
+5.631 (2.96)*
+13.841 (4.07)***
+
+Model I
+Model II
+
+-148.80 (89.40)
+-129.48 (82.84)
+
+Model I
+Model II
+
+(B) Variance of yield = gz(RM, D
+Arlington
+2484
+Marshfield
+1591
+Spooner
+2335
+(C) Skewness of yield = g3(RM, D
+Arlington
+2484
+1591
+Marshfield
+Spooner
+2335
+
+3.425 (2.60)
+7.753 (2.06)***
+8.80 (2.88)***
+
+OQ
+
+~·
+
+:;:
+
+~
+~
+§
+
+c
+
+N
+
+'0
+
+-17109 (18890)
+-19848 (15715)
+2427.8 (24331)
+
+78.29 (174.04)
+256.14 (179.1)
+-102.92 (283.09)
+
+Note: Standard errors are given in parentheses. N denotes the number of observations.
+
+* Denotes significance at the 10% level.
+** Denotes significance at the 5% level.
+*** Denotes significance at the 1% level.
+
+451.51 (182.37)**
+-47.15 (102.9)
+45.22 (185.66)
+
+0.0033
+0.0001
+0.0001
+
+w
+
+~-...
+N
+
+Y'
+-...
+
+""
+N
+
+K. Kim, J.-P. Chavas/Agricultural Economics 29 (2003) 125-142
+
+to untangle weather effects from technological change
+by including GDD in g1 (·).Note that this specification
+is consistent with an ex-post analysis since, for a given
+year, information on GDD becomes known to farmers
+only at harvest time.
+Second, we consider the variance of yield: f..L2y =
+g2(x1, t, a2) + V2y· We specify and estimate the variance of corn yield as a linear function of RM and T.
+Third, we investigate the skewness of yield: f..L3y =
+g3(x1, t, a3) + V3y· This function is estimated using
+a linear specification with RM and a time trend T as
+explanatory variables.
+The econometric results are reported in Table 2.
+From Table 2(A), the coefficient estimates in the expected yield equations (Model I and Model II) have
+anticipated signs and a high level of significance. First,
+the coefficients associated with RM are all statistically
+significant for both specifications. In all three sites, we
+find a positive and concave relationship between relative maturity and corn yield: long season hybrids tend
+to produce higher expected yield. Second, for both
+specifications, the coefficients of time trend T are all
+statistically significant at the 1% level. The positive
+signs of the coefficients indicate that expected corn
+yield increases over time. In both models, the magnitude of the time trend effects increases as one moves
+north. This identifies spatial heterogeneity in the effects of technology and climate changes on expected
+corn yield. As discussed above, Model I presents an ex
+ante analysis, where the time trend T captures the joint
+effects of weather change and productivity growth.
+In contrast, Model II presents an ex-post analysis,
+conditional on GDD information. This allows separate estimates of the effects of weather change versus
+technological progress. Indeed, to the extent that
+GDD captures the effects of weather change in Model
+II, the time trend T would then capture the effects of
+technological change. Table 2 shows that the inclusion
+of GDD does not alter significantly the magnitude
+of the estimated coefficients for time trend variable
+T. This indicates that productivity growth dominates
+the effects of weather change. Also, it suggests that
+the time trend variable T in the ex ante specification
+(Model I) captures mostly the effects of technological change. This issue is further explored in the next
+section. In the following, we rely on an ex ante framework for estimating and evaluating three moments of
+yield, moisture and profit associated with corn pro-
+
+133
+
+duction. This reflects the fact that, at planting time,
+the farmer makes decisions without knowing the production shocks that will become revealed during the
+growing season (e.g. rainfall, diseases, frosts, etc.). 6
+Table 2(B) reports estimation results for the variance of yield. The fairly low R 2 value suggests that
+a large part of the variance remains unexplained.
+However, the variance of yield tends to increase over
+time. While not significant in Arlington, this effect
+becomes positive and significant as one moves north.
+This suggests that technological and climatic changes
+have increased production risk for corn at the edge of
+the Corn Belt (but possibly not within the Corn Belt).
+The estimation results for the skewness of yield is
+reported in Table 2(C). We found no evidence of statistically significant relationship between relative maturity and the skewness of yield. While the choice of
+relative maturity is relevant in dealing with production
+risk (as measured by the variance of yield), it suggests
+that RM choice does not affect exposure to downside
+yield uncertainty. At Arlington, positive and significant time trend suggests that technology and climate
+changes tend to increase the skewness of yield. This
+implies that exposure to downside yield risk has declined over time at Arlington. However, these effects
+are not statistically significant outside the Corn Belt
+(Marshfield and Spooner).
+Next, we investigate the nature of the exposure to
+downside yield risk. For that purpose, we tested the
+null hypothesis that the yield distribution is symmetric, using a Wald statistic. The skewness coefficient
+measuring symmetry of the distribution is defined as
+s 1 = (!3) 2 1(f2) 3 , where .fi is the ith central moment
+of yield (Greene, 1993, p. 310). Under the null hypothesis of symmetry (s 1 = 0), the test statistic W =
+N. (sV6) is distributed x2 (1). We tested for symmetry
+at each site for different values of RM and at different
+time periods. For Arlington and Marshfield, the test
+results imply that, in most cases, the null hypothesis of
+symmetry is rejected at the 5% significance level. The
+test results then provide evidence that the distribution
+
+6 An ex post approach evaluating the yield effects of weather
+patterns during the growing season is of interest from an agronomic
+viewpoint. However, it would involve estimating weather effects
+that are not known to the farmer at planting time. Below, we focus
+our analysis on ex ante analysis relating the probability distribution
+of yield to factors that are known to the farmer at planting time.
+
+134
+
+K. Kim, J.-P. Chavas/ Agricultural Economics 29 (2003) 125-142
+
+of yield is skewed to the left (corresponding to a significant exposure to downside risk) in Arlington and
+Marshfield. As one moves north (Spooner), the null
+is rejected regardless of the maturity length of corn
+hybrids. Thus, in general, we find evidence that the
+distribution of yield is skewed to the left, implying a
+significant exposure to downside yield risk. However,
+one exception is at Arlington, where we failed to reject the null for medium-season hybrids in the 1990s,
+while we rejected the null for the same hybrids in the
+1970s and the 1980s. This indicates that yield skewness has changed and that the exposure to downside
+risk has declined over time in Arlington.
+6.2. Technological change versus climatic change
+
+The estimation results discussed in the previous
+section show some significant increases in the mean,
+variance and skewness of yield over time. The joint effects of technology and climate changes on the mean,
+variance and skewness of corn yield (captured by the
+time trend 1), appear to vary across sites. Contrasting
+Model I and Model II in Table 2(A), we have found
+some evidence that most of the effects captured by the
+time trend are due to technological change. Below,
+we provide some additional evidence on this issue.
+We consider the evolution of the distributions of
+GDD at each site. Since GDD is a temperature-based
+index providing a summary measure of the length of
+the growing season for corn, we use it as a proxy
+for climate change. Using the moment-based approach
+discussed in Section 4, the mean, variance and skewness of GDD are estimated as linear functions of a
+time trend. The results are presented in Table 3. As indicated in Table 3(A), the coefficient of the time trend
+T in mean GDD equation is positive and statistically
+significant for Marshfield. However, it is not statistically significant for Arlington and Spooner. Thus, for
+Arlington and Spooner, there is no strong evidence of
+a longer growing season (as measured by GDD). For
+these stations, this weak evidence of global warming
+effects suggests that most of the yield trends could be
+attributed to technological change. For Marshfield, we
+find strong evidence of a longer growing season. This
+is consistent with beneficial effects of global warming in the northern fringe of the US (Mendelsohn
+et al., 1994; NOAA, 2000). On the other hand, as indicated in Table 2(A), we also find strong evidence of
+
+joint effects of technology and climate changes on productivity gain. Then, how much of productivity gain
+at Marshfield can be attributed to technological improvement? Compared with the annual yield increase
+of +1.87bushel/acre per year (+1.13% per year), an
+increase of +0.42% per year in the growing season
+(associated with an average annual increase in GDD of
+11.45 °F) is reported in Table 3(A). To the extent that
+GDD increases are expected to generate proportional
+changes in expected corn yield, this suggests that about
+37% of productivity gain in Marshfield would be attributed to a longer growing season. This would suggest that 63% of productivity gain may be associated
+with technological change. In a way consistent with
+Thompson (1975, 1988) and Cardwell (1982), this indicates that only a small proportion of yield trend can
+be attributed to evolving weather patterns. 7 Thus, for
+all three sites, technological progress seems the dominant factor influencing productivity trends in corn production.
+Next, we evaluate the impact of climatic change
+on production risk (as measured by the variance of
+corn yield). Table 3(B) reports that the coefficient of
+the time trend T in the variance of GDD equation is
+positive and statistically significant for Arlington and
+Marshfield. This suggests that the growing season
+has become more unpredictable at these locations.
+However, the time trend effect is not statistically
+significant at Spooner. Thus, at Spooner, there is no
+strong evidence that the length of the growing season
+has become more unpredictable. This suggests that,
+at the edge of the Corn Belt, it is not clear whether
+global warming is contributing to increased corn yield
+uncertainty. Yet, significant increases in yield risk
+have been reported in Table 2(B) for Spooner. To the
+extent that they are not associated with climatic fluctuations, these changes can be attributed to changing
+technology. This indicates that, along with higher
+expected yields, improved technologies also bring an
+increased exposure to production risk (e.g. improved
+7 Additional evidence is obtained by introducing the GDD variable (as a proxy for climate change) in the expected yield equation
+reported in Table 2A. After introducing GDD, the estimated coefficients for the time trend variable T became 1.882, 1.987 and
+2.208 for Arlington, Marshfield and Spooner, respectively. These
+estimates are very close to the ones reported in Table 2A. This indicates that the time trend variable T primarily captures the effects
+of technological change.
+
+K. Kim, J.-P. Chavas/Agricultural Economics 29 (2003) 125-142
+
+135
+
+Table 3
+Estimated relationship between growing degree days (GDD) and Tin Wisconsin
+N
+
+Location
+
+R2
+
+Parameter
+Constant
+
+(A) Expected GDD
+Arlington
+Marshfield
+Spooner
+
+= d1 (D
+
+(B) Variance of GDD
+Arlington
+Marshfield
+Spooner
+(C) Skewness of GDD
+
+Arlington
+Marshfield
+Spooner
+
+T
+
+25
+25
+25
+
+2868.5 (59.67)***
+2500.99 (51.62)***
+2535.58 (75.69)***
+
+-1.126 (4.84)
+11.45 (4.12)**
+3.742 (5.33)
+
+0.0023
+0.212
+O.Q201
+
+2885.5 (I 055)***
+1963.4 (959.3)**
+654.83 (1235.3)
+
+0.1654
+0.1328
+0.0092
+
+= d2CD
+25
+25
+25
+
+-815.67 (9597)
+3299.17 (9213)
+30518 (16020)*
+
+= d3(D
+25
+25
+25
+
+-251988 (531405)
+-407019 (456373)
+116721 (533661)
+
+2577741 (3637943)
+4278078 (3953626)
+-1258625 (6631540)
+
+0.0075
+0.0046
+0.0014
+
+Note: Standard errors are given in parentheses. N denotes the number of observations.
+
+*Denotes significance at the 10% level.
+**Denotes significance at the 5% level.
+*** Denotes significance at the 1% level.
+
+short-season hybrids with better average yield but
+more sensitivity to weather shocks). In contrast, in the
+Corn Belt (Arlington), we find a significant increase in
+the unpredictability of the length of the growing season. Yet, as indicated in Table 2(B), there is no statistical evidence that the variance of yield has increased
+over time in Arlington. These two findings suggest that
+technological progress in Arlington has contributed
+to reducing exposure to production risk in the Corn
+Belt. This shows that technological progress interacts
+with production risk in different ways across regions.
+Finally, we inquire about the effects of climatic
+change on exposure to downside production risk. This
+involves an investigation of the skewness of GDD. As
+indicated in Table 3(C), we find no statistical evidence
+that the skewness of GDD has changed over time. To
+the extent that the time trend captures climate change,
+this suggests that the impact of climate change on exposure to downside risk remains unchanged. Yet, we
+found statistically significant increase in the skewness
+of corn yield at Arlington. We interpret this to mean
+that, at Arlington, most of the reduction in downside
+risk can be attributed to technological progress (e.g.
+due to new hybrids that are more resistant to pests and
+diseases). In all cases, we conclude that technological
+progress seems to be the dominant factor influencing
+the evolving distribution of corn yield.
+
+6.3. Mean, variance and skewness of corn moisture
+This section explores corn grain moisture at harvest. Since the cost of drying depends on the moisture of corn grain at harvest, we examine the factors
+affecting the uncertainty involved in drying cost. Expected moisture, variance of moisture, and skewness
+of moisture are specified and estimated. The estimation results are reported in Table 4 for each site.
+Mean, variance and skewness of moisture equations
+are specified as a linear function of relative maturity RM and a time trend T. Including a time trend
+allows us to examine the effects of technology and
+climatic changes on the evolution of moisture over
+time.
+As indicated in Table 4(A), the effects of RM on
+mean corn grain moisture are positive and become
+significant as one moves north. The variance of moisture also exhibits a positive relationship with RM,
+suggesting that the risk associated with the unpredictability of corn grain moisture increases with corn
+hybrid maturity. This relationship seems to become
+more important as one moves north. As indicated
+in Table 4(C), we find strong evidence of a statistically significant and positive relationship between
+RM and the skewness of corn moisture at Arlington
+and Marshfield. This suggests that planting a longer
+
+136
+
+K. Kim, 1.-P Chavas/ Agricultural Economics 29 (2003) 125-142
+
+Table 4
+Estimated relationship between com moisture and RM in Wisconsin
+Location
+
+Parameter
+
+N
+
+Constant
+(A) Expected moisture = h 1(RM, T)
+Arlington
+2484
+Marshfield
+1591
+2335
+Spooner
+(B) Variance of moisture = h2(RM, T)
+2484
+Arlington
+Marshfield
+1591
+Spooner
+2335
+(C) Skewness of moisture
+
+Arlington
+Marshfield
+Spooner
+
+= h3(RM,
+
+2484
+1591
+2335
+
+RM
+
+T
+
+-11.46 ( 1.35)***
+0.439 ( 1.838)
+-2.278 (2.014)***
+
+0.309 (0.013)***
+0.341 (0.021)***
+0.362 (0.024)***
+
+0.323 (0.011)***
+-0.295 (0.020)*
+-0.024 (0.0178)
+
+0.371
+0.183
+0.091
+
+-42.63 (8.07)***
+-77.65 (15.82)***
+-83.37 (21.47)***
+
+0.535 (0.083)***
+1.271 (0.192)***
+1.156 (0.250)***
+
+0.023 (0.089)
+-0.668 (0.159)***
+1.491 (0.162)***
+
+0.020
+0.045
+0.040
+
+2.613 (1.287)**
+8.601 (3.190)***
+1.468 (4. 884)
+
+-3.106 (1.327)**
+-1.185 (2.397)
+4.915 (2.981)
+
+0.0073
+0.0097
+0.0002
+
+T)
+
+-210.55 (119.7)*
+-723.50 (260.8)**
+-133.26 (421.6)
+
+Note: Standard errors are given in parentheses. N denotes the number of observations.
+
+* Denotes significance at the 10% level.
+**Denotes significance at the 5% level.
+*** Denotes significance at the 1% level.
+
+season com hybrid increases the odds of facing high
+moisture com at harvest time.
+Next, we evaluate the evolution of the distribution of
+corn grain moisture. First, at Arlington, the coefficient
+of the time trend in the expected moisture equation is
+positive and statistically significant. This means that
+technological progress and climatic change tend to increase expected moisture, thereby increasing drying
+costs. With no evidence of changes in climatic trend
+(Table 3(A)), this suggests that most of these effects
+can be attributed to technological progress at Arlington. However, as indicated by the statistically significant and negative relationship between time trend and
+the skewness of moisture (Table 4(C)), technological
+progress contributes to lowering the odds of facing
+high moisture corn at harvest (which would reduce
+drying cost). At Marshfield and Spooner, we find no
+strong evidence of time trend effects on either expected
+moisture or skewness of moisture. However, note that
+these sites show statistically significant relationships
+between time trend and the variance of moisture.
+6.4. Mean, variance and skewness of corn profit
+Finally, we explore the implications of technology and uncertainty on corn profit. We measure com
+profit as corn revenue minus drying cost on a per acre
+
+basis. The corn price is assumed to be US$ 2.00 per
+bushel. 8 The drying cost varies depending on corn
+moisture at harvest as well as farm type. We consider
+three farm types: a livestock farm where corn is fed
+directly to livestock with no drying; a grain farm
+using on-farm drying facilities; and a grain farm relying on commercial drying. 9 The expected value of
+profit, its variance and its skewness are specified and
+estimated as discussed in Section 4. The econometric
+results are presented in Table 5. Table 5(A) summarizes the estimation results for expected income by
+farm type and by location (Arlington, Marshfield and
+Spooner). The results are consistent with those obtained in the analysis of expected yield (see Table 2
+and the associated discussion). For example, the coefficients associated with relative maturity RM and
+time trend Tare statistically significant (except RM2
+8 Thus, the analysis presented here neglects price uncertainty.
+The sensitivity of our results to price changes was evaluated.
+While higher corn prices increase corn profitability, the empirical
+findings presented below were found to be fairly robust.
+9 On a livestock farm, drying cost are zero and corn moisture
+variations have no impact on income. In contrast, corn drying affects cost under commercial drying, with a drying cost of 0.03 cent
+per bushel per percentage moisture in excess of 15.5%. On-farm
+drying represents an intermediate situation, with a drying cost of
+0.015% per bushel per percentage moisture in excess of 15.5%.
+
+K. Kim, J.-P. Chavas/Agricultural Economics 29 (2003) 125-142
+
+137
+
+Table 5
+Estimated relationship between profit and RM in Wisconsin
+Location
+
+Farm type
+
+Parameter
+Constant
+
+(A) Expected profit = .fi (RM, RM 2 , T)
+Arlington
+-147.03 (200.65)
+Livestock
+On-farm
+-127.76 (193.28)
+-105.43 (194.35)
+Commercial
+Marshfield
+
+Livestock
+On-farm
+Commercial
+
+-297.61 (178.80)*
+-284.66 (173.79)
+-277.49 (174.87)
+
+Spooner
+
+Livestock
+On-farm
+Commercial
+
+-1062.0 (180.56)***
+-972.10 (176.77)***
+-880.47 (177.62)***
+
+(B) Variance of profit =fz(RM,
+Arlington
+Livestock
+On-farm
+Commercial
+
+RM
+
+T
+
+6.972 (3.808)*
+7.263 (3.669)**
+7.493 (3.692)**
+
+-0.0275 (0.018)
+-0.033 (0.0 17)*
+-0.038 (0.017)**
+
+3.731 (0.136)***
+2.498 (0.131)***
+1.285 (0.132)***
+
+0.252
+0.134
+0.042
+
+10.215 (3.93)***
+10.039 (3.822)***
+9.999 (3.845)***
+
+-0.053 (0.021)**
+-0.055 (0.021)***
+-0.058 (0.021)***
+
+3.748 (0.185)***
+3.860 (0.179)***
+3.944 (0.179)***
+
+0.249
+0.252
+0.247
+
+27.41 (4.25)***
+25.51 (4.16)***
+23.58 (4.18)***
+
+-0.153 (0.025)***
+-0.146 (0.024)***
+-0.138 (0.024)***
+
+4.357 (0.170)***
+4.10 (0.165)***
+3.83 (0.165)***
+
+0.234
+0.218
+0.196
+
+T)
+
+-3154.8 (1105.1)***
+-3091.6 (1059.5)***
+-3661.2 (1122.04)***
+
+47.18 (10.36)***
+48.42 (9.97)***
+56.17 (10.65)***
+
+13.70 (10.39)
+-12.34 (10.84)
+-28.15 (12.0)**
+
+0.0088
+0.0091
+0.0130
+
+Marshfield
+
+Livestock
+On-farm
+Commercial
+
+-101.95 (1039.8)
+254.29 (956.31)
+146.55 (953.02)
+
+22.52 (11.83)*
+19.90 (10.87)*
+23.76 (10.83)**
+
+31.01 (8.25)***
+9.53 (7.78)
+-8.33 (8.33)
+
+0.0098
+0.0025
+0.0015
+
+Spooner
+
+Livestock
+On-farm
+Commercial
+
+-2135.2 (1402.4)
+-2412.7 (1412.9)
+-2999.4 (1505.1)**
+
+55.36 (16.28)***
+52.72 (16.45)***
+54.78 (17.58)***
+
+35.20 (11.53)***
+61.36 (10.61)***
+93.34 (10.28)***
+
+0.0067
+0.0120
+0.0213
+
+3612.1 (1458.9)**
+6485.9 (1524.4)***
+9280.6 (1731.5)***
+
+0.0033
+0.0129
+0.0214
+
+(C) Skewness of profit =fz(RM, T)
+Arlington
+Livestock
+-136871 (151125)
+-218213 (142750)
+On-farm
+Commercial -298163 (154627)**
+
+626.35 (1392.3)
+1083.2 (1315.5)
+1508.3 (1449.4)
+
+Marshfield
+
+Livestock
+On-farm
+Commercial
+
+-158785 (125725)
+-35596 (109204)
+108668 (107465)
+
+2049.1 (1432.9)
+833.25 (1245.3)
+-579.60 (1228.6)
+
+-377.18 (823.18)
+-1955.9 (741.6)***
+-3065.0 (809.9)***
+
+0.0001
+0.0004
+0.0039
+
+Spooner
+
+Livestock
+On-farm
+Commercial
+
+21982 (194650)
+38721 (198032)
+36328 (220540)
+
+-823.34 (2264.7)
+-352.67 (2309.6)
+327.78 (2528.9)
+
+361.76 (1485.3)
+-2296.2 (1334.8)
+-4421.0 (1338.0)***
+
+0.0001
+0.0007
+0.0012
+
+Note: Standard errors are given in parentheses.
+* Denotes significance at the 10% level.
+**Denotes significance at the 5% level.
+*** Denotes significance at the I% level.
+
+at Arlington for a livestock farm) and have expected
+signs. They indicate that technological change has
+contributed to increases in expected corn profitability
+over time, with the rate of increase being faster as
+one moves north. However, the patterns of variance in
+corn profitability become more complex. For example, it is only in Northern Wisconsin (Spooner) that
+profit risk increases significantly over time for all farm
+types. The rate of increase is largest for farms using
+
+commercial drying, and smallest for livestock farms.
+In the other locations, the results vary across farms
+types, indicating the significant role of drying cost.
+Using the econometric results presented in
+Table 5(A), we evaluated the RM value that maximizes expected profit. This corresponds to a risk
+neutral scenario. At Arlington the optimal RM equals
+125.9 for the livestock farm, 110.9 for on-farm drying, and 98.7 for commercial drying. These values
+
+138
+
+K. Kim, J.-P. Chavas!Agricultural Economics 29 (2003) 125-142
+
+are 96.0, 90.1 and 84.9 at Marshfield, and 89.0, 87.3
+and 85.3 at Spooner, respectively for livestock farm,
+on-farm drying and commercial drying. This shows
+that, as one moves north, the drying cost effects are
+important, and maximum expected profit is achieved
+at lower value of RM. These results indicate that, under commercial drying, switching to lower maturity
+rating provides farmers an opportunity to reduce their
+drying cost and to increase expected profit.
+Next, we evaluate the farmer's risk exposure.
+Table 5(B) reports statistically significant and positive
+relationship between the variance of profit and relative maturity RM. This suggests a trade-off between
+expected profit and the variance of profit. Table 5(C)
+shows no significant RM effects on the skewness of
+profit. This suggests that RM is not an effective means
+of controlling downside risk. Yet, a Wald test statistic suggests that, in general, the distribution of corn
+profit is not symmetrically distributed. For example,
+at Arlington and Spooner relative skewness values
+indicate that the distribution of profit is skewed to the
+left, implying the presence of a significant exposure
+to downside risk. However, in Arlington, we find that
+the exposure to downside risk has decreased over
+time.
+
+7. Economic implications
+This section discusses the economic implications of
+our econometric estimates. First, we explore whether
+relative maturity is a risk-increasing or risk-decreasing
+input. We also investigate the relationships between
+technological progress and risk exposure. Second, we
+examine the relationship between expected corn profit
+and the cost of risk (as measured by the risk premium),
+and its evolution over time and across space. Finally,
+we decompose the risk premium into two parts: one
+due to the second moment and the other due to the third
+moment of corn profit. This provides some insights
+on the relative role of variance versus downside risk
+exposure (as captured by the third moment) in the
+evaluation of the cost of risk.
+
+7.1. Technology, relative maturity and risk
+The cost of private risk bearing was defined by the
+risk premium R in Eq. (2) and approximated by Eq. (3)
+
+or Eq. (3'). From Eq. (3'), the risk premium per acre
+of corn can be approximated by
+
+RI
+
+1
+
+~ A . Ul
+I
+
+.
+
+[
+
+m uj
+-I.:-.-,
+.[A{..
+
+/Ljn]
+
+]
+
+,
+
+(7)
+
+j=l } ·
+
+where {L jn is the jth central moment of corn profit per
+acre n1, j 2: 2. 10 Expression (7) shows that the risk
+premium depends on the first m moments of n 1 as
+well as risk preferences U. We have information about
+the first three central moments of n 1 (see Table 5). To
+make use of Eq. (7) to evaluate the cost of risk, we need
+to know the decision maker's risk preferences. Below,
+we present results obtained assuming that the decision maker's risk preferences exhibit constant relative
+risk aversion (CRRA), with utility function U(n) =
+n 1-A when (1- A) > 0, and U(n) = -n 1-A when
+(1- A) < 0, A > 0 being the relative risk aversion coefficient (Pratt, 1964). Note that this is consistent with
+risk aversion (U 2 < 0), decreasing absolute risk aversion (see Pratt, 1964), as well as downside risk aversion (U 3 > 0). Given the empirical evidence that most
+farmers are risk averse (Lin et al., 1974; Binswanger,
+1981; Antle, 1987; Saha et al., 1994) as well as downside risk averse (e.g. Binswanger, 1981; Chavas and
+Holt, 1996), this risk preference specification seems
+reasonable. For the purpose of illustration, the results
+presented below correspond to a CRRA coefficient
+A= 2_11
+Using the approximate risk premium given in
+Eq. (7), we first examine the relationship between
+RM and the cost of risk. Evaluated at 1997, we calculated the change in the risk premium R 1 due to
+a change in RM. We found that, regardless of sites
+and farm types, the risk premium R 1 increased with a
+longer maturity corn hybrid. This implies that relative
+maturity is a risk-increasing input: a longer relative
+maturity involves a higher cost of risk.
+
+10 Note that Eq. (7) ignores interactions with other production
+activities. Such interactions would be relevant at the farm level.
+However, given our focus on com production, they are neglected
+in the analysis presented below.
+11 A sensitivity analysis was conducted on the relative risk aversion coefficient A. We investigated the following scenarios: A= 1,
+2, 3, 6. Although the quantitative results varied depending on the
+choice of A, we found fairly similar qualitative results across scenarios.
+
+K. Kim, J.-P. Chavas/Agricultural Economics 29 (2003) 125-142
+
+In a similar fashion, we explored the relationship between technological change and risk. In Section 3, we
+defined technological progress to be risk-increasing
+(or risk-decreasing) depending on its impact on the
+relative risk premium. We used expression (7) to evaluate the relative risk premium comparing 1975 with
+1994, for each location and each farm type. With one
+exception (commercial farm in Spooner), we found
+that the relative risk premium was lower in 1995 than
+in 1975. We interpret this as strong evidence that technological progress has been risk-decreasing. This is
+consistent with the results reported in Table 5.
+Next, we examine whether these findings are statistically meaningful. First, we tested the null hypothesis that RM input has no effect on the risk
+premium. This is done by calculating the change in
+the risk premium due to a change in RM, and bootstrapping its distribution. The null hypothesis that
+RM has no effect on the risk premium was tested for
+each farm type and each site. Using a 5% significance level, we strongly rejected the null hypothesis
+for each farm type at Arlington as well as Spooner.
+This provides statistical evidence that choosing a
+lower RM is a risk-reducing strategy. At Marshfield,
+we also rejected the null hypothesis for on-farm
+storage and commercial farm. Again, this provides
+evidence that short season hybrids generate a lower
+risk premium. However, we failed to reject the null
+hypothesis for the livestock farm at Marshfield (with
+a P-value of 0.197). This shows that risk exposure
+varies across sites. It also illustrates the importance
+of drying cost in the evaluation of risk management
+strategies.
+Second, we examined the statistical significance of
+the time trend T on the relative risk premium. The
+null hypothesis is that the relative risk premium has
+not changed over time. Again we used Eq. (7) to
+bootstrap the distribution of the change in the relative risk premium between 1975 and 1994. Using a
+5% significance level, the null hypothesis is strongly
+rejected for all farm types and all RM at Arlington
+and Marshfield. We interpret this as strong statistical
+evidence that technological progress is risk-reducing
+at Arlington and Marshfield. However, the tests results differ for a commercial farm at Spooner. The
+P-values were 0.32, 0.779, 0.755 and 0.651 for RM =
+70, 75, 80, 90, respectively, indicating that we fail to
+reject the null hypothesis at Spooner. This suggests
+
+139
+
+that the linkages between technological change and
+risk exposure vary across sites as well as across farm
+types.
+7.2. Trade-off between expected profit and risk
+premium
+
+The trade-offs between expected profit and the
+risk premium (obtained from Eq. (7)) are reported
+in Fig. la-c by farm type for Arlington, Marshfield
+and Spooner, respectively. They summarize the effects of drying cost and technological progress on the
+expected profit and risk premium by location and by
+farm type. They also show the evolution of the relationship between expected profit and risk premium
+between the 1970s and the 1990s. Each point is obtained by changing corn hybrids and their associated
+RM ratings (expressed in days). The slope of the lines
+shows how expected corn profit and risk premium
+relate to each other. For example, the positive slope
+of frontier functions indicates that expected income
+cannot be increased without also increasing the risk
+premium. Alternatively, the risk premium cannot be
+reduced without sacrificing expected income.
+In the Corn Belt (represented by the Arlington site),
+the growing season is longer. Each farm type exhibits
+a different slope of its frontier function. For example,
+the livestock farm shows relatively large trade-off between expected return and risk premium, whereas the
+trade-off is less pronounced under commercial drying.
+This means that, under commercial drying, the risk
+premium can be reduced without much reduction in
+expected profit by choosing hybrids with lower relative maturity RM. The relationship indicates that technological progress has allowed farmers to significantly
+reduce their risk premium without much reduction in
+expected return.
+In contrast, under a short growing season, Spooner
+(in Northern Wisconsin) shows different linkages between technological change and the trade-off between
+risk premium and expected return. There, technological progress has not allowed farmers to reduce their
+risk premium without significant reduction in expected
+return. Finally, the results obtained in Central Wisconsin (Marshfield) are intermediate between the other
+two sites. The risk premium trade-off is not as pronounced as in the north, but more pronounced than in
+the south.
+
+K. Kim, J.-P. Chavas/Agricultural Economics 29 (2003) 125-142
+
+140
+
+350
+300
+
+oE
+80..
+
+250
+
+""
+
+200
+
+~
+u
+Q)
+
+0..
+
+><
+
+" •• ··""Livestock
+1990s
+-" • •
+"- ... - - - - .• on-farm.
+• ·• •
+~Livestock
+..... _.
+Commercial-•On-farm
+
+·-·---
+
+Irs
+
+90
+
+wo
+
+,. Commercial
+
+120
+
+1970s
+
+Arlington
+
+!50
+
+u:!
+
+100
+50
+
+10
+
+12
+
+14
+
+16
+
+20
+
+18
+
+22
+
+Risk premium
+
+(a)
+
+350
+300
+
+oE
+80..
+
+250
+
+]
+
+200
+
+1990s
+
+'" Livestock
+
+Commercial
+
+~estock
+
+••<:- . .
+
+On-farm
+On-farm
++" 1 t
+• Commercial
+7580 85
+95
+Marshfield
+1970s
+
+u
+Q)
+
+~ 150
+100
+50
+
+0
+
+4
+
+(b)
+
+6
+
+10
+
+12
+
+16
+
+14
+
+20
+
+18
+
+22
+
+Risk premium
+
+350
+300
+-&Livestock
+
+250
+
+~
+
+.A.·· •
+
+~
+
+0..
+
+""u
+~
+
+.,•
+
+• • • "' • •
+
+200
+
+•.
+
+1990s
+
+On-fann
+
+-----Commercial
+·•
+
+150
+
+Q)
+
+0..
+
+><
+u:! 100
+
+Commercia1 19708
+
+On-farm
+
+Spooner
+
+50
+
+0
+
+(c)
+
+4
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+22
+
+Risk premium
+
+Fig. 1. Expected profit and risk premium at (a) Arlington, (b) Marshfield and (c) Spooner. Note: Numbers above each frontier denote
+maturity days. Unit of measurement: US$/acre.
+
+K. Kim, J.-P. Chavas/ Agricultural Economics 29 (2003) 125-142
+
+Finally, it is instructive to use Eq. (7) to decompose
+the risk premium into two components: the part due
+to variance, and the part due to skewness. For all sites
+and all farm types, we find that a large part of the risk
+premium is attributed to second moment effects. For
+example, on commercial farms in Arlington, the variance effects vary from 67% (when RM = 85) to 91%
+(when RM = 120) of the risk premium. In addition,
+in Arlington (where the growing season is longer),
+while lower relative maturity RM significantly reduces
+the cost of risk due to variance, it also increases the
+cost of risk due to downside risk exposure. Over time,
+the exposure to both variance and downside risk decreases, especially for a commercial farm. This suggests that technological progress has contributed to
+reducing risk associated with the unpredictability of
+com grain moisture. For the other two farm types, risk
+improvements also exist, but they are smaller.
+Interestingly, under a short growing season, Spooner
+(in Northern Wisconsin) shows different evolution patterns of second and third moment effects. There, technology apparently weakens the ability to manage risk
+(especially downside risk) orcommercial farms (where
+drying cost significantly affect the variability of com
+profit). As one moves north, the third moment effects
+become relatively more important in the evaluation of
+the cost of risk. This illustrates the complex interactions between technological progress and risk exposure over space.
+
+141
+
+Northern Wisconsin. But our results also show that, in
+Southern Wisconsin (in the Corn Belt), these changes
+have increased the skewness of corn yield and contributed to reducing exposure to downside risk and
+to lowering the cost of risk. While we found some
+evidence of climatic change, its effects appear to be
+dominated by the impact of technological change.
+Our findings show that technological progress has
+provided improved means of dealing with risk in the
+Corn Belt. This can be attributed in part to genetic
+improvements targeted to improved pest and disease
+resistance. We found strong statistical evidence identifying technological progress to be risk-decreasing:
+technological change has contributed to lowering the
+relative risk premium over the sample period. However, we emphasize that such benefits are found to
+vary across sites.
+Our analysis has stressed the role of risk management in corn production. It has emphasized the importance of choosing corn hybrids and their relative
+maturity as a means of managing risk. Also, it highlighted the role of technological progress in risk exposure. The analysis of risk premium and expected
+profit showed that technology and exposure to risk and
+downside risk can interact, and that such effects vary
+over space. It illustrated the role of downside risk exposure in the assessment of technological change in
+agriculture. Further research is needed to evaluate production uncertainty issues for different commodities
+and in different locations.
+
+8. Summary and conclusions
+Acknowledgements
+This paper has investigated the distribution of com
+yield, grain moisture and profit, with a focus on the
+effects of technology and climate changes on the evolution of trade-off between com profitability and risk.
+It used panel data from Wisconsin research stations,
+covering sites from the Corn Belt to the Northern
+fringe of the US. Using a moment-based approach,
+our empirical analysis examined conditional means,
+variances and skewness for corn yield, moisture and
+profit in different sites in Wisconsin. It shows how
+corn yield, moisture and profit have evolved over time,
+and how technology and climate change have affected
+them across sites.
+We found evidence that technology and climate
+changes have increased production risk in Central and
+
+We would like to thank J. Lauer for providing the
+data, and R. Klemme for making this research possible. This project was funded by a Hatch grant from the
+College of Agricultural and Life Sciences, University
+of Wisconsin, Madison.
+
+References
+Antle, J .M., 1983. Testing the stochastic structure of production:
+a flexible moment-based approach. J. Business Econ. Stat. 1,
+192-201.
+Antle, J.M., 1987. Econometric estimation of producers' risk
+attitudes. Am. J. Agric. Econ. 69 (August), 509-522.
+
+142
+
+K. Kim, J.-P. Chavas/Agricultural Economics 29 (2003) 125-142
+
+Antle, J.M., Crissman, C.C., 1990. Risk, efficiency, and the
+adoption of modern crop varieties: evidence from the
+Philippines. Econ. Dev. Cult. Change 38 (April), 517-537.
+Antle, J.M., Goodger, W.J., 1984. Measuring stochastic technology:
+the case of Tulare milk production. Am. J. Agric. Econ. 66,
+342-350.
+Ball, eta!., 1979. Agricultural productivity revisited. Am. J. Agric.
+Econ. 79, 1045-1063.
+Baker, D.G., Rushy, D.L., Skaggs, R.H., 1993. Agriculture and
+recent benign climate in Minnesota. Bull. Am. Meteorol. Soc.
+74 (June), 1035-1040.
+Binswanger, H.P., 1981. Attitudes toward risk: theoretical
+implications of an experiment in rural India. Econ. J.
+91 (December), 867-889.
+Binswanger, H.P., Barah, B.C., 1980. Yield risk, risk aversion
+and genotype selection: conceptual issues and approaches.
+International Crops Research Institute for the Semi-Arid
+Tropics, Research Bulletin No. 3, Hyderabad, India.
+Brennan, J.P., 1984. Measuring the contribution of new
+varieties to increasing wheat yields. Rev. Mktg. Agric. Econ.
+52.(December), 175-195.
+Byerlee, D., 1996. Modem varieties, productivity and
+sustainability: recent experience and emerging challenges.
+World Dev. 24 (April), 697-718.
+Cardwell, V.B., 1982. Fifty years of Minnesota corn production:
+sources of yield increase. Agron. J. 74 (November-December),
+984-990.
+Chavas, J.P., Holt, M.T., 1996. Economic behavior under
+uncertainty: a joint analysis of risk preferences and technology.
+Rev. Econ. Stat. 78, 329-335.
+Greene, W.H., 1993. Econometric Analysis. Macmillan, New York.
+Just, R.E., Pope, R.D., 1997. Production function estimation and
+related risk considerations. Am. J. Agric. Econ. 61, 277284.
+Lin, W., Dean, G.W., Moore, C.V., 1974. An empirical test of
+utility versus profit maximization in agricultural production.
+Am. J. Agric. Econ. 56 (August), 497-508.
+
+Master, W.A., Bedingar, T., Oehmke, J.F., 1998. The impact
+of agricultural research in Africa: aggregate and case study
+evidence. Agric. Econ. 19 (September), 81-86.
+Mendelsohn, R., Nordhaus, W.D., Shaw, D., 1994. The impact of
+global warming on agriculture: a Ricardian analysis. Am. Econ.
+Rev. 84, 753-771.
+Moss, C.B., Shonkwiler, J.S., 1993. Estimating yield distributions
+with a stochastic trend and nonnormal errors. Am. J. Agric.
+Econ. 75, 1056-1062.
+National Oceanic and Atmospheric Administration (NOAA), 2000.
+Climate Predictions. Climate Prediction Center, US Department
+of Commerce, Washington, DC.
+Pratt, J.W., 1964. Risk aversion in the small and in the large.
+Econometrica 32, 122-136.
+Ramaswami, B., 1992. Production risk and optimal input decisions.
+Am. J. Agric. Econ. 74 (November), 860-869.
+Ramirez, O.A., 1997. Estimation and use of a multivariate
+parametric model for simulating heteroskedastic, correlated,
+nonnormal random variables: the case of Corn Belt corn,
+soybean, and wheat yields. Am. J. Agric. Econ. 79, 191-205.
+Roumasset, J., 1976. Rice and Risk. North-Holland, Amsterdam.
+Saba, A., Shumway, C.R., Talpaz, H., 1994. Joint estimation of risk
+preference structure and technology using expo-power utility.
+Am. J. Agric. Econ. 76 (May), 173-184.
+Taylor, C.R., 1984. A flexible method for empirically estimating
+probability functions. West. J. Agric. Econ. 9, 66-76.
+Thompson, L.M., 1975. Weather variability, climate change and
+grain production. Science 188, 535-541.
+Thompson, L.M., 1988. Effects of changes in climate and weather
+variability on the yields of corn and soybeans. J. Prod. Agric.
+1, 20-27.
+Traxler, G.J., Falck-Zepeda, J.I., Ortiz-Monasterio, R., Sayre, K.,
+1995. Production risk and the evolution of varietal technology.
+Am. J. Agric. Econ. 77 (February), 1-7.
+White, H., 1980. Heteroscedasticity-consistent covariance matrix
+estimator and a direct test for heteroscedasticity. Econometrica
+48, 817-838.
+
+

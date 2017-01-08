@@ -1,0 +1,1303 @@
+Agricultural Economics 18 (1998) 21-30
+
+AGRICULTURAL
+ECONOMICS
+
+ElSEVIER
+
+Buyer preferences for sheep and goats in southern Nigeria: A
+hedonic price analysis
+M.A. Jabbar
+International Livestock Research Institute (/LRI), P. 0. Box 5689, Addis Ababa, Ethiopia
+
+Accepted 30 July 1997
+
+Abstract
+A survey of two rural markets in southwest Nigeria over 14 months showed that supplies, sales and prices of sheep and goats varied
+widely during the period with a sharp peak during the Muslim festival of Eid-e1-Kabir and a smaller peak during the Christmas-New Year
+period. Local West African Dwarf (WAD) sheep and goats and northern Y' ankasa sheep and Red Sokoto goats were traded in the markets
+and animals were purchased for rearing, trading, ceremonies, butchering/ catering, sacrifice, and festivals. There were significant differences
+between species /breeds purchased for various purposes. A hedonic price model was fitted to determine factors influencing price. After
+adjustments were made for age, weight, sex, time of transaction and market, WAD sheep commanded higher prices than WAD goats and
+Red Sokoto goats for all purposes except for butchering/ catering; Red Sokoto goats commanded similar or lower prices than WAD goats
+depending on the purpose for purchase; and Y'ankasa sheep, principally purchased for the Eid-el-Kabir festival, commanded marginally
+higher prices than WAD sheep. The market share of WAD sheep is currently small and is under competition from northern sheep and goats,
+so increased production of WAD sheep in the south will benefit both producers and consumers in the area. In general, the results indicate
+that buyers have preferences for specific breeds and species for specific purposes, so producers and sellers may benefit by targeting specific
+buyer categories and times of the year. Published by Elsevier Science B.V.
+Keywords: Sheep and goat trade; Hedonic price model; Nigeria
+
+1. Background and objectives
+Trypanotolerant West African Dwarf (WAD)
+sheep and goats are the most common ruminant
+species kept by small-scale crop farmers in the humid zone of west and central Africa. Of the 19.8
+million small ruminants in the zone, over 60% are
+WAD goats (Mcintire et al., 1992). Nearly half of
+the small ruminants of humid zone are found in
+Nigeria (Jahnke, 1982). As the aggregate demand for
+small ruminant meat in the zone exceeds supply
+from local sources, the gap is met by supplies from
+the subhumid and semiarid zones in the north of the
+country and beyond. In the past, only southern urban
+markets used to be served by northern animals but in
+recent years, northern animals have started penetrat0169-5150/98/$17.00 Published by Elsevier Science B.V.
+PII S0169-5150(97)00038-8
+
+ing southern rural markets, and the share of northern
+animals in the southern markets has been increasing.
+Principally, Red Sokoto goats and Y'ankasa sheep
+are exported to the southern markets, and more goats
+than sheep are exported (Francis, 1990; Jabbar, 1995).
+Of all the animals traded in the southern rural
+markets, only a few are purchased by local villagers
+for rearing, some are bought by traders to resell live
+or as meat and most of the animals are bought by
+different types of consumers for ceremonies and
+festivals, e.g., birth, marriage, funeral, sacrifice,
+Christmas and Eid-el-Kabir (Sandford, 1982; Francis, 1990; Jabbar, 1995). It is common among Christians, Muslims and animists in the region to offer to
+sacrifice an animal if a wish is fulfilled, e.g., if a sick
+person gets well. Normally, the meat of the sacrifi-
+
+22
+
+M.A. Jabbar /Agricultural Economics 18 (1997) 21-30
+
+cial animal is distributed among poor neighbours.
+Muslims also sacrifice animals on the occasion of
+Eid-el-Kabir (also called Eid-el-Adha) festival to
+commemorate prophet Ibrahim's (prophet Abraham
+in Christian religion) response to god's wish to
+sacrifice his son to prove his commitment, love and
+loyalty to god. Since Muslims follow lunar calendar,
+this occasion moves forward by 10-11 days every
+year.
+Earlier market and price surveys in southern
+Nigeria have generally shown that supplies, sales and
+prices of small ruminants peak at festival times and
+that the price of a particular species /breed depends
+on animal attributes such as weight, sex, time of
+sale, location of market (Okali, 1979; Okali and
+Upton, 1985; Francis and Ingawa, 1988; Francis,
+1990; Jabbar, 1995). These studies have also shown
+that nominal prices of southern species /breeds were
+lower than that for northern species /breeds but in
+the absence of appropriate adjustments for animal
+characteristics like age, weight and sex, the price
+comparisons may not reflect true differences. Moreover, these studies did not consider the possibility of
+any significant price differences between animals
+purchased for different purposes. Andargachew and
+Brokken (1993) have found significant price differences between small ruminants purchased for different purposes in the Ethiopian markets.
+The objectives of this paper are to determine if
+buyers of small ruminants in southern Nigeria have
+systematic preferences for specific species /breeds
+for specific purposes, and whether they pay significantly different prices for different species /breeds
+consistent with their preferences. Answers to these
+questions have important implications for the local
+and northern producers who supply the southern
+markets. Any significant price differences by
+species /breeds, purpose and time of purchase would
+mean that producers and sellers could benefit by
+targetting specific buyer categories and times of the
+year to sell their animals.
+
+2. Materials and methods
+2.1. Source of data
+Two rural markets-Oja and Apomu-were
+monitored in Oyo state, southwest Nigeria. Oja is
+
+located about 10 km outside Oyo town, and Apomu,
+about 35 km away from lbadan, a large city. These
+markets are functionally independent in the sense
+that their supply hinterlands and service areas are
+largely different. Both are general commodity markets, a section of which is used for trading small
+ruminants. Both the markets normally meet every 4
+days, and more frequently before major festivals
+such as Christmas and Eid-el-Kabir. Data were collected each market day from the buyers and the
+sellers of all the animals traded except that during
+festival periods when large number of animals were
+traded, records of a random sample of animals were
+taken. Data were collected for the period December
+1989 to January 1991. During this period, the two
+markets met for a total of 223 days and records were
+collected of 4504 traded animals.
+For each traded animal, data were collected on
+price, species, breed, sex, age (months), live weight
+(kg), seller type, seller sex, buyer type, buyer sex,
+reason for sale, reason for purchase or intended use
+of the animal. Animals are not normally weighed by
+buyers and sellers in the market but an ability by
+either side to make a good guess about weight helps
+in making a good bargain. However, for the purposes
+of this study, each traded animal was weighed on a
+scale immediately after the buyer and the seller
+reached an agreement to exchange. Age was measured by examining teeth and by consulting the seller
+and the buyer. Some general characteristics of this
+sample were reported earlier (Jabbar, 1995) and the
+results of more rigorous price analysis are presented
+in this paper.
+2.2. Analytical method
+
+A hedonic price model was used to determine the
+effects of various factors on price. A hedonic price
+function relates the price of a product (good or
+service) to its various attributes or characteristics.
+Waugh (1928) and later Lancaster (1971) made early
+attempts to relate price to product characteristics.
+Rosen (1974) and Lucas (1975) advanced those ideas
+providing a theoretical framework for hedonic price
+analysis. The underlying hypothesis of such analysis
+is that products have utility bearing attributes and
+that the values of those attributes contribute to the
+price of the product. The observed product price is
+
+M.A. Jabbar /Agricultural Economics 18 (1997) 21-30
+
+therefore a composite of the implicit values of the
+product's attributes.
+The theory of hedonic pricing offers no suggestion concerning the functional form governing the
+relationship between price and different attributes,
+this is considered a matter for empirical determination (Williams, 1989). The theoretical framework
+suggested by Rosen (1974) assumes competitive
+market structure where consumers' bid functions and
+suppliers' offer price functions are always tangential
+at the equilibrium. So hedonic price function is
+essentially a function of product attributes and not of
+individual buyer and seller attributes (Oczkowski,
+1994). This means that only products are differentiated, while their markets, buyers and sellers are not.
+In most empirical studies, however, linear regression
+models have been used with product as well as
+market and market agent attributes as variables implying the existence of elements of noncompetitiveness in the relevant product market being investigated (see for example, Brorsen et al., 1984; Francis,
+1990; Parker, 1993; Parker and Zilberman, 1993;
+Andargachew and Brokken, 1993; Williams et al.,
+1993; Oczkowski, 1994; Rodriguez et al., 1995).
+Most hedonic regression models use a set of
+quantitative (continuous) variables, a set of qualitative (discrete) variables in the form of dummies, and
+in some cases a set of interaction variables. For
+quantitative variables in the regression, the respective partial derivative of the function represents the
+implicit marginal attribute price. For qualitative variables, the estimated coefficient measures the impact
+of the presence of the given attribute. In this case,
+the implicit (predicted) price cannot be derived from
+a partial derivative but requires additional manipulation (Gujarati, 1988). In models with many qualitative attributes each with several categories requiring
+many dummy variables and numerous interaction
+terms, the number of terms in the equation may
+. become large. In such cases, the estimation of the
+predicted prices becomes cumbersome and at times
+difficult to interpret and compare (see for example,
+Francis, 1990; Andargachew and Brokken, 1993;
+Rodriguez et al., 1995).
+An alternative is to use Analysis of Covariance
+(AnCov) technique which is a combination of linear
+regression and analysis of variance (ANOVA). In the
+AnCov technique, the ANOVA results are adjusted
+
+23
+
+for the linear relationships between the dependent
+variable and the covariates (Norusis, 1993). The
+general explicit form of the AnCov model may be
+written as: P = F(Q,C) + U, where P is the observed price of a product, Q is a set of factors
+(qualitative variables) each with more than one categories, C is a set of covariates (quantitative variables), and U is a residual error term. Relevant
+interaction terms may be optionally included in the
+model. The estimated parameters of the model can
+be used to estimate the adjusted mean prices of
+different categories of a product, e.g., male and
+female sheep: adjusted prices are estimated prices if
+both male and female were of the same attributes. In
+a multifactor, multicovariate model, the parameters
+for categories of a factor are estimated by adjusting
+the effects of all other factors and the covariates.
+With simultaneous or joint confidence intervals generated by the model, the significance of differences
+of the parameters of different categories of a factor
+can be compared (Norusis, 1993; Gujarati, 1988). In
+principle, linear regression and AnCov techniques
+perform the same function but slightly differently.
+The principal advantage of AnCov results is that
+they can be interpreted more directly and easily to
+compare differences between categories of a factor.
+In this study, the AnCov technique was employed
+using the General Factorial Analysis of Variance
+procedure of SPSS for Windows to estimate parameters (Norusis, 1993). The factors and covariates used
+are discussed in Section 3.2.
+
+3. Results
+3.1. General characteristics of the data
+Of the 4504 animals traded in the two markets,
+69% were WAD goats, 9% WAD sheep, 21% Red
+Sokoto goats and 1% were Y' ankasa sheep (Table
+1). There were a small number of Red Kano goats
+and Balarni sheep from the north which were respectively combined with Red Sokoto goats and Y'ankasa
+sheep in this analysis. Of all the animals, 76% were
+sold by farmers from the surrounding areas of the
+two markets, and 26% by traders. Of all the traded
+animals, 24% were purchased by farmers for rearing,
+27% by traders for resale in the same or other rural
+
+M.A. Jabbar /Agricultural Economics 18 (1997) 21-30
+
+24
+
+Table l
+Distribution of sheep and goats according to purpose for buying in southwest Nigeria
+Purpose for buying
+
+WAD goat
+
+WAD sheep
+
+Red Sokoto goat
+
+Rearing
+Trading
+Butchering/ catering
+Ceremony
+Sacrifice
+Festival
+Not specified
+All purposes (N)
+All purposes (%)
+
+914
+1060
+565
+252
+147
+177
+16
+3131
+69.5
+
+161
+131
+14
+40
+8
+33
+1
+388
+8.6
+
+11
+11
+118
+581
+
+xz
+
+Value
+
+df
+
+Significant
+
+Pearson
+Likelihood ratio
+Mantel-Haenszel test
+Minimum expected frequency
+Cells with expected frequency
+
+2248.99729
+18
+2222.57109
+18
+967.35548
+0.211
+4 of 28 (14.3%)
+
+<5
+
+markets or in the urban markets, 16% by butchers
+and catering restaurants, 20% by consumers for various ceremonies, 10% by consumers for different
+festivals and 3% by consumers for sacrifice.
+Traders are an important category of market agents
+who are more experienced and skilled than any other
+type of buyer or seller in evaluating the product
+quality attributes of each animal. They are also
+skilled in assessing the true value of an animal and
+the value a specific type of buyer or seller may put
+on the animal. These knowledge and skill primarily
+influence the margin they are able to derive from
+each transaction.
+Some traders in the sample markets bought local
+animals from the farm gate or at the market for
+resale in the market while other traders brought
+northern animals from terminal urban markets in
+Oyo and Ibadan. Some local traders maintained stalls
+at the market where few animals were kept on
+non-market days to meet the emergency needs of
+local buyers. Transactions during non-market days
+were not monitored in this study. During a market
+day, a buyer or a seller, particularly a trader, could
+be involved in multiple transactions-buying/selling
+several animals or buying and reselling the same
+animal the same day. It was difficult to keep track of
+such multiple transactions. Since records of all individual transactions were kept, a trader involved in
+
+216
+8
+945
+21.0
+
+Y' ankasa sheep
+
+3
+34
+38
+0.8
+
+Total N
+1086
+1203
+697
+876
+155
+460
+25
+4502
+
+Total%
+24.1
+26.7
+15.5
+19.5
+3.4
+10.2
+0.6
+100.0
+
+0.00
+0.00
+0.00
+
+multiple transactions was recorded as a buyer in one
+transaction and a seller in another.
+There are significant differences between species
+and breeds purchased for different purposes (Table
+1). The sample markets being rural with supply
+hinterland for WAD sheep and goats, traders would
+be normally expected to sell but not purchase
+Y' ankasa sheep and Red Sokoto goats of the north,
+and this was indeed the case. Ninety percent of the
+Y' ankasa sheep were purchased by consumers for
+the Christmas and Eid-el-Kabir festivals for which
+Red Sokoto goat was also preferred to WAD sheep
+and goats. WAD goat was the favourite animal for
+sacrifice, butchering and catering but Red Sokoto
+goat was the predominant animal used for ceremonies such as funerals, births and marriages.
+A large number of animals are traded around the
+times of festivals. Supplies and sales of animals
+peaked in June-July coinciding with the Muslim
+festival of Eid-el-Kabir. A smaller peak in December
+coincided with the Christmas-New Year festivals.
+Supplies built up over the few weeks prior to Eidel-Kabir in July. Actual supplies in June-July 1990
+accounted for 55% of total supply for the year with
+July alone accounting for 43% of the total supply for
+the year. Out of the total July supply, 73% were on
+offer on three market days within 10 days prior to
+Eid-el-Kabir. During the whole 14 months period
+
+25
+
+M.A. Jabbar /Agricultural Economics 18 ( 1997) 21-30
+
+supply per market per day averaged 74 animals but
+supply averaged 117 and 47 animals respectively
+during peak festival periods (June-July, DecemberJanuary) and other normal months. Northern animals
+constituted 40-50% of daily supplies during the
+peak festival periods and 20-28% of the daily supplies during other months. This indicates that northern suppliers primarily target festival related markets
+in the south.
+Observed age and live weight of the traded animals are shown in Table 2. Overall, Y' ankasa sheep
+were the oldest and heaviest animals while WAD
+goats were the lightest. Females were older and
+heavier than males. Among various end uses, animals bought for rearing and sacrifice were younger
+and lighter than those bought for trading, ceremonies, festivals and butchering/catering. Buying
+younger and lighter animals for rearing would be
+expected but buying younger and lighter animals for
+
+sacrifice indicates that when satisfying god in the
+spirit of sacrifice, size of the animal is perhaps not
+important. Animals traded during June-July were of
+higher average weight than those traded during other
+months. This was primarily because heavier northern
+animals were traded in June-July for the Muslim
+festival of Eid-el-Kabir. It may be noted that Eid-elKabir occurs 10-11 days sooner every year due to
+the lunar cycle, but whenever it occurs, larger animals would be normally purchased.
+3.2. Determinants of price
+
+Several models were fitted to assess the effects of
+different factors on the price per animal. The results
+of the best performing models are presented in Table
+3. In the overall model run with the entire sample,
+age, age square, live weight and live weight square
+were used as covariates while purpose of purchase,
+
+Table 2
+Mean observed age and weight of sheep and goats purchased for different purposes in southwest Nigeria
+Purpose for purchase
+
+All animals
+
+Sex
+
+Species /breed
+WAD goats
+
+WAD sheep
+
+Red Sokoto goats
+
+Y'ankasa sheep
+
+Male
+
+Female
+
+16.1
+12.9
+
+16.9
+11.6
+
+15.9
+17.3
+
+17.7
+17.5
+
+21.4
+25.4
+
+12.0
+12.3
+
+22.7
+17.1
+
+Rearing
+Age
+Weight
+
+8.7
+10.9
+
+8.0
+7.4
+
+8.7
+14.4
+
+13.8
+15.5
+
+7.1
+10.3
+
+10.5
+11.4
+
+Trading
+Age
+Weight
+
+16.7
+14.2
+
+17.0
+11.4
+
+15.4
+18.0
+
+21.9
+17.4
+
+10.8
+11.9
+
+22.1
+16.6
+
+Butchering/ catering
+Age
+Weight
+
+20.7
+15.6
+
+21.2
+13.3
+
+25.5
+18.6
+
+18.5
+18.4
+
+13.8
+12.2
+
+27.9
+19.2
+
+Ceremonies
+Age
+Weight
+
+20.5
+16.2
+
+22.6
+14.0
+
+22.8
+18.8
+
+17.5
+16.9
+
+14.1
+13.1
+
+29.4
+19.9
+
+Sacrifice
+Age
+Weight
+
+13.7
+11.6
+
+16.2
+10.6
+
+13.2
+17.8
+
+10.3
+9.5
+
+19.1
+15.2
+
+Festivals
+Age
+Weight
+
+20.9
+18.9
+
+21.5
+15.2
+
+24.7
+22.5
+
+15.6
+16.5
+
+28.3
+22.2
+
+All purposes
+Age, months
+Weight, kg
+
+17.7
+18.3
+
+21.4
+25.4
+
+M.A. Jabbar /Agricultural Economics 18 (1997) 21-30
+
+26
+
+species /breed, sex, market and month of purchase
+were used as factors. In order to test whether differences in species/breed preferences for specific purposes were also reflected in price differences, interactions between purpose of buying and
+species /breed, sex and market were introduced in
+the overall model. But because certain
+species/breeds were not purchased for some pur-
+
+poses and in some cases very few were purchased,
+several cells in the data matrix were empty. In this
+case, the model estimated the coefficients of the
+interaction terms assuming those empty cells as null
+or zero values but the hypothesis being tested in this
+way was not the hypothesis of interest to this study
+(see, Norusis, 1993, for an explanation of the implication of estimating parameters assuming zero for
+
+Table 3
+Determinants of the price of sheep and goats in southwest Nigeria by purpose of buying
+Co variates and factors
+
+Purpose of buying
+
+----------------------------------------------------------------All purposes
+Rearing
+Trading
+Coefficient
+
+Covariates
+Age (months)
+Age 2
+Live weight (kg)
+Weight 2
+
+3.38
+-0.02
+7.96
+0.01
+
+Standard error
+0.26' *
+0.00' *
+0.56' *
+0.02
+
+Factors
+Purpose of buying
+Rearing
+Trading
+Butchering/ catering
+Ceremonies
+Sacrifice
+Festival
+
+0.0
+-13.42
+-12.04
+-6.65
+3.38
+37.60
+
+2.09 *
+2.53.
+2.80
+3.92
+3.14'
+
+Species/ breed
+WAD goats
+WAD sheep
+Red Sokoto goats
+Y'ankasa sheep
+
+0.0
+50.87
+-15.88
+128.23
+
+2.83 *
+-2.45 *
+7.99'
+
+Sex
+Male
+Female
+
+0.0
+-0.91
+
+Market
+Oja
+Apomu
+Month of buying
+1989 Dec-1990 Jan
+1990 Feb-Mar
+April-May
+June-July
+August-November
+Dec-1991 Jan
+
+Rz
+N
+
+Coefficient
+
+Standard error
+
+Coefficient
+
+3.25
+-0.03
+8.40
+0.002
+
+0.62' '
+0.02
+0.81 * '
+0.03
+
+2.05
+-0.01
+11.63
+-0.08
+
+NA
+
+Standard error
+0.41' *
+0.00 *
+0.95' *
+0.03 * *
+
+NA
+
+0.0
+44.57
+9.43
+
+3.03'
+7.82
+
+0.0
+39.53
+19.83
+
+4.21 *
+11.57
+
+1.65
+
+0.0
+7.83
+
+1.69.
+
+0.0
+4.44
+
+2.69
+
+0.0
+-3.15
+
+1.36.
+
+0.0
+1.95
+
+1.55
+
+0.0
+-1.57
+
+2.27
+
+0.0
+-16.20
+-20.33
+0.88
+-27.34
+-2.12
+
+2.49'
+2.57 *
+2.37
+2.19'
+2.25
+
+0.0
+-14.92
+-24.48
+-23.56
+-23.92
+-7.21
+
+2.66'
+2.92.
+2.92 *
+2.68.
+3.07
+
+0.0
+-5.66
+-17.11
+3.17
+-19.96
+9.65
+
+0.77
+4473
+
+0.84
+1085
+
+0.83
+1200
+
+4.43
+4.48*
+4.49
+3.40*
+3.50
+
+M.A. Jabbar I Agricultural Economics 18 (1997) 21-30
+
+27
+
+Table 3 (continued)
+Covariates and factors Purpose of buying
+B utcheringl catering
+
+Ceremonies
+
+Sacrifices
+
+Festivals
+
+Coefficient Standard eJTOr Coefficient Standard error Coefficient Standard error Coefficient Standard error
+Covariates
+Age
+Age 2
+Weight
+Weight 2
+Factors
+Purpose of buying
+Species I breed
+WAD goats
+WAD sheep
+Red Sokoto goats
+Y' ankasa sheep
+
+2.61
+-0.02
+8.38
+0.02
+
+0.69''
+0.01
+1.37' '
+0.04
+
+NA
+
+2.48
+-0.01
+11.78
+-0.13
+
+NA
+
+0.0
+24.28
+-13.00
+
+11.46
+5.02'
+
+0.0
+45.28
+-25.37
+
+Sex
+Male
+Female
+
+0.0
+-0.73
+
+4.91
+
+0.0
+-3.76
+
+Market
+Oja
+Apomu
+
+0.0
+-0.95
+
+3.23
+
+0.0
+-26.12
+-26.40
+-16.08
+-46.65
+-1.63
+
+5.43'
+5.78'
+5.49'
+5.10'
+5.90
+
+Month of buying
+1989 Dec-1990 Jan
+1990 Feb-March
+April-May
+June-July
+August-November
+Dec-Jan 1991
+Rz
+
+N
+
+0.76
+696
+
+0.54. '
+0.01
+1.36 * *
+0.04'
+
+6.98
+-0.10
+8.18
+-0.07
+
+1.47' '
+0.03''
+2.85 *
+0.09
+
+NA
+
+14.82'
+
+4.13
+
+0.0
+0.98
+
+0.0
+-4.86
+
+2.99
+
+0.0
+-25.77
+-15.71
+-1.24
+-24.04
+-23.15
+
+4.77'
+4.97'
+4.74
+4.11'
+4.47'
+
+0.68
+870
+
+1.35' '
+0.02' '
+2.83
+0.07' '
+
+NA
+
+0.0
+55.92
+
+7.34'
+3.79'
+
+8.00
+-0.06
+1.59
+0.18
+
+0.0
+85.86
+13.43
+100.92
+
+16.83'
+9.77
+17.87'
+
+8.39
+
+0.0
+-29.67
+
+9.66'
+
+0.0
+-8.62
+
+5.97
+
+0.0
+0.44
+
+0.0
+-10.34
+-22.95
+-25.41
+-37.54
+-13.37
+
+12.90
+10.75
+9.22'
+8.91'
+11.61
+
+0.74
+154
+
+8.35
+
+0.0
+-59.04
+37.33
+
+23.07'
+12.32'
+
+-29.04
+
+11.09'
+
+0.70
+459
+
+For covariates ' ', ', indicated t values are significant at 1 and 5% levels. For categories in factors, * indicate that the coefficient of the
+relevant category is significantly different from the base category in the factor, based on Joint univariate 0.95 Bonferroni confidence
+interval.
+
+empty cells). Therefore, rather than introducing interaction terms in the overall model, separate models
+were fitted to animals purchased for specific purposes, using relevant factors and categories.
+In the overall model, the specified covariates and
+factors explain 77% of the variation in price per
+animal but in the purpose specific models, the explanatory power varies from 68% for animals purchased for ceremonies to 84% for animals purchased
+for rearing (Table 3). Among the covariates, age and
+live weight have significant relationship with price
+but the magnitudes vary in purpose specific models.
+
+Except in the case of festival, the coefficient of live
+weight is greater than that for age. For festival, age
+is a more important variable than weight (actually
+the coefficient of weight is not statistically significant) because for the Muslim festival of Eid-el-Kabir,
+animals below certain age are not suitable for slaughter.
+The negative effect of age square, significant in
+all cases except for rearing, trading and butchering,
+indicate that less premium is paid for older animals.
+The average age of animals purchased for rearing is
+low with a small range which perhaps explains why
+
+28
+
+M.A. Jabbar /Agricultural Economics 18 (1997) 21-30
+
+the coefficient of age square of this group is not
+significant. The sign of weight square is positive in
+the overall model and for rearing, butchering and
+festival, indicating that price increases at an increasing rate as animals get heavier, though this relationship is significant only in the case of festival, indicating higher premium is paid for heavier animals
+slaughtered for festival. For trading, ceremonies and
+sacrifice, the negative sign of weight square indicates
+that less premium is paid for heavier animals, particularly those purchased for trading and ceremonies.
+Other things being equal, the results also show the
+following.
+(a) In the overall model, traders, butchers/ caterers
+and consumers purchasing for ceremonies paid significantly lower prices and those purchasing for festivals paid higher prices than prices paid by farmers
+for rearing, which was used as the base category.
+Traders and butchers I caterers paid slightly lower
+prices than that paid by consumers purchasing for
+ceremonies. There was no significant difference between prices paid for animals purchased for rearing
+and for sacrifice.
+(b) In the overall model, WAD sheep and
+Y' ankasa sheep prices were significantly higher and
+Red Sokoto goat prices were significantly lower than
+WAD goats. Prices of Y'ankasa sheep were significantly higher than those for WAD sheep. But the
+pattern varied between purpose specific models. All
+types of buyers paid significantly higher prices for
+WAD sheep compared to WAD goats, except in the
+case of butchers/caterers. There was no significant
+difference between WAD goat and Red Sokoto goat
+prices for animals purchased for rearing, trading and
+festival but Red Sokoto goat prices were significantly lower in case of purchases for ceremonies and
+butchering/ catering. Y' ankasa sheep prices were
+significantly higher than those for WAD sheep in the
+overall model as well as in the model for festival, for
+which most Y' ankasa sheep were purchased.
+(c) In the overall model, prices for females were
+lower than for males, but the differences were not
+significant. However, the pattern varied between purpose specific models. Females purchased for rearing,
+trading and sacrifice were paid higher prices but
+significant only in the case of rearing which is
+consistent with the breeding objectives of the buyers.
+Females purchased for butchering/ catering, cere-
+
+monies and festivals were paid lower prices. The
+difference was significant only in the case of purchases for festival, because preferably a male is
+slaughtered for Eid-el-Kabir.
+(d) In the overall model, prices in Apomu market
+were significantly lower than in Oja. However, in
+purpose specific models, prices in Apomu were
+higher in some cases and lower in others but in no
+case the difference was significant.
+(e) The month of purchase was aggregated into
+several groups on the basis of test runs which showed
+that prices were similar during certain periods. In the
+overall model, compared to December 1989-January
+1990 period (which was considered as the base),
+February to May 1990 prices were significantly
+lower, and August to November 1990 prices were
+also significantly lower. June-July and December
+1990-January 1991 prices were not significantly
+different from the base period. In the purpose specific models, the signs, magnitudes and significance
+of periodic price differences were highly variable
+though the general pattern was the same as that for
+the overall model except in the case of festival
+purchases, which was time specific. In the case of
+festival, April-May prices were significantly lower
+than the previous December-January prices but
+June-July prices were significantly higher. The reason is that the festival held in June-July period was
+more important than that held in April-May. The
+prices in next December-January were significantly
+lower compared to previous December-January, the
+base period.
+
+4. Discussion and conclusion
+In the southwest Nigerian rural markets supplies,
+sales and prices of small ruminants peak before the
+Muslim festival of Eid-el-Kabir and to some extent
+during the Christmas-New Year period. Throughout
+the year, animals are purchased for rearing, trading,
+butchering/ catering, sacrifice and various ceremonies such as marriage, funeral, birthdays, and for
+festivals. There are strong preferences among buyers
+for specific species and breeds of small ruminants
+for specific purposes as indicated by significant differences in the volume of purchases. Local WAD
+goats and sheep are preferred for rearing because of
+
+M.A. Jabbar /Agricultural Economics 18 (1997) 21-30
+
+their adaptation to the local environment, for
+butchering/catering because of the local consumers'
+taste and preference for the meat of local animals,
+and for sacrifice which has long cultural tradition
+attached to local animals. Local species /breeds were
+also preferred for slaughtering on the occasion of
+various ceremonies when entertaining guests was the
+primary objective, and for festivals. But the present
+purchase pattern indicates that this preference pattern
+is changing with increasingly more northern
+species/breeds used for these purposes. Northern
+animals constituted 34% of supplies in the present
+survey compared to 28% reported for a similar survey conducted during 1983-85 in which the same
+markets were included (Francis, 1990).
+Average supplies per market day including peak
+period was 35 in 1983-1985 compared to 74 in the
+1989-1991 survey. The market share of southern
+animals in total supply and sales have remained
+stable between the two survey periods. However, the
+number of northern animals in the southern markets
+in the normal as well as peak market periods have
+increased significantly over time.
+One of the principal reason for increased penetration of northern animals into the southern rural markets is that transportation of animals from the north
+has become faster, easier and cheaper due to better
+and wider roads that allow larger lorries to carry
+many more animals per trip. Within the southern part
+of the country, connection of rural markets to urban
+centers, such as lbadan with Apomu, has improved.
+Consequently, northern animals can be sold at more
+competitive prices at rural markets.
+Adjusted prices of WAD goats are either significantly higher or similar to Red Sokoto goat prices
+depending on the purpose for buying but adjusted
+prices of WAD sheep are significantly higher than
+either goat breed for almost all purposes, indicating a
+strong buyer preference for this breed.
+Adjusted prices of Y' ankasa sheep, purchased
+primarily for the Muslim festival of Eid-el-Kabir, is
+higher than WAD sheep prices. However, the overall
+market share of WAD sheep is only 9% compared to
+70% for WAD goats and 21% for Red Sokoto goats.
+It is probable that under strong price competition
+from northern goats, and increasing consumer acceptance of northern animals for purposes for which
+previously local species/breeds were preferred, the
+
+29
+
+market share of WAD sheep may decline further. On
+the other hand, lower market share and significantly
+higher adjusted prices for WAD sheep paid by all
+categories of buyers indicate that there is excess
+demand for this breed and so both producers and
+consumers should benefit from increased WAD sheep
+production. Producers and sellers will benefit by
+targeting specific buyer categories and times of the
+year because of strong buyer preferences for specific
+species /breeds of animals for specific purposes and
+because of their willingness to pay different prices
+consistent with their preferences. Increasing market
+share of northern animals in rural markets is evidence that northern producers and traders are taking
+advantage of these market niches.
+
+Acknowledgements
+
+Helpful comments on an earlier draft by Simeon
+Ehui, Brent Swallow and Sarah Gavian, and two
+anonymous referees are gratefully acknowledged.
+The author alone is responsible for the content of the
+paper.
+
+References
+Andargachew, K., Brokken, R.F., 1993. Intra-annual sheep p1ice
+patterns and factors underlying price variations in the central
+highlands of Ethiopia. Agric. Econ. 8, 125-138.
+Brorsen, B.W., Grant, W.R., Rister, M.E., 1984. A hedonic price
+model for rough rice bid/acceptance markets. Am. J. Agric.
+Econ. 66, 156-163.
+Francis, P.A., 1990. Small-ruminant marketing in southwest Nigeria. Agric. Econ. 4, 193-208.
+Francis, P.A., Ingawa, S.A., 1988. Small-ruminant marketing in
+southwest Nigeria. Afr. J. Agric. Sci. 15, 69-82.
+Gujarati, Damodor N., 1988. Basic Econometrics, 2nd edn. McGraw-Hill, New York.
+Jabbar, M.A., 1995. Market niches for increased small ruminant
+production in southern Nigeria. Oxford Agrar. Stud. 23 (1),
+85-96.
+Jahnke, H.E., 1982. Livestock Production Systems and Livestock
+Development in Tropical Africa. Kieler Wissenschaftsverlag
+Vauk, Kiel, Germany.
+Lancaster, K., 1971. Consumer Demand: A New Approach.
+Columbia Univ. Press, New York.
+Lucas, Robert, E.B., 1975. Hedonic price functions. Econ. Enq.
+13, 157-178.
+Mcintire, J., Bourzat, D., Pingali, P., 1992. Crop-livestock inter-
+
+30
+
+M.A. Jabbar /Agricultural Economics 18 (1997) 21-30
+
+action in sub-Saharan Africa. The World Bank, Washington,
+DC.
+Norusis, Marija J., 1993. SPSS for Windows: Advanced Statistics.
+Release 6. SPSS, Chicago.
+Oczkowski, E., 1994. A hedonic price function for Australian
+premium table wine. Aust. J. Agric. Econ. 38 (I), 93-110.
+Okali, C., 1979. Socioeconomic information for ILCA's smallruminant programme in Badeku and Eruwa areas, Oyo State,
+Nigeria. Working Paper 1, Humid Zone Programme, International Livestock Centre for Africa, lbadan, Nigeria.
+Okali, C., Upton, M., 1985. The market potential for increased
+small-ruminant production in southwest Nigeria. In: Sumberg,
+J.E., Cassady, K. (Eds.), Sheep and Goats in Humid West
+Africa. International Livestock Centre for Africa, Addis Ababa,
+Ethiopia.
+Parker, D.D., 1993. Retail price response to quality characteristics
+of fresh peaches by store type. Agribusiness 9, 205-215.
+Parker, D.D., Zilberman, D., 1993. Hedonic estimation of quality
+factors affecting the farm-retail margin. Am. J. Agric. Econ.
+75, 458-466.
+
+Rodriguez, A., Ali, 1., Afzal, M., Shah, N.A., Mustafa, U., 1995.
+Price expectations of sheep and goats by producers and intermediaries in Quetta market, Pakistan. Agric. Econ. 12, 79-90.
+Rosen, S., 1974. Hedonic prices and implicit markets: Product
+differentiation in pure competition. J. Pol. Econ. 82, 34-55.
+Sandford, S., 1982. Institutional and economic issues in the
+development of goat and goat product markets. Proc. Third
+International Conference on Goat Production and Disease.
+Dairy Goat Journal Pub!., Scottsdale, AZ, USA.
+Waugh, F.V., 1928. Quality factors influencing vegetable prices.
+J. Farm Econ. 10, 185-196.
+Williams, C.H., 1989. The choice of functional form for hedonic
+price function: An application of the Box-Cox transformation
+to cattle prices in Queensland. Discussion paper 16, Department of Economics, Univ. of Queensland.
+Williams, C.H., Rolf, J., Longworth, J.W., 1993. Does muscle
+matter? An economic valuation of live cattle characteristics.
+Rev. Market. Agric. Econ. 61 (2), 169-189.
+
+

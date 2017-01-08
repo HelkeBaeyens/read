@@ -1,0 +1,1114 @@
+Agricultural Economics 30 (2004) 157–167
+
+The impact of seed industry concentration on innovation:
+a study of US biotech market leaders
+David E. Schimmelpfennig a,∗ , Carl E. Pray b , Margaret F. Brennan c
+a
+
+Economic Research Service, US Department of Agriculture, Resource Economics Division,
+1800 M Street, NW, Room 4195, Washington, DC 20036-5831, USA
+b Department of Agricultural, food and Resource Economics, Rutgers University, USA
+c Cook College Office of Research, Rutgers University, USA
+
+Received 18 April 2001; received in revised form 1 June 2002; accepted 6 November 2002
+
+Abstract
+Agricultural research drives increases in agricultural productivity, and the number of private agricultural input firms has been
+declining. The empirical relationship between the number of firms doing applied biotechnology crop research and the amount
+of research output they produce is investigated in a research profit function model. Increases in seed industry concentration
+have reduced biotech research intensity in the United States in the 1990s. Concentration and research are simultaneously
+determined and are influenced by the appropriability of research results and the state of technological opportunity.
+© 2003 Elsevier B.V. All rights reserved.
+JEL classification: L1; Q16; C3
+Keywords: Industrial organisation; Biotechnology R&D
+
+1. Introduction
+Productivity growth has an important influence on
+the competitiveness and profitability of international
+agriculture. To remain in business agricultural producers have often had to adopt new technologies. Some
+of these innovations have been embodied in mechanical inputs that have replaced labour. Other new inputs,
+like high-yielding seed varieties and chemical herbicides and pesticides, have increased land productivity.
+These new technologies have led to post-war total factor productivity growth in agriculture that is almost
+∗ Corresponding author. Tel.: +1-202-694-5507;
+fax: +1-202-694-5774.
+E-mail address: des@ers.usda.gov (D.E. Schimmelpfennig).
+
+four times the growth rate in the non-farm economy
+in the US (Jorgenson and Gollop, 1992).
+Huffman and Evenson (1992) showed that both public and private research were major contributors to productivity growth in the post-war period. The relative
+importance of the public and private sectors has been
+changing around the world, but particularly in the US.
+Private sector spending on agricultural research and
+development (R&D) more than doubled in the US between 1970 and 1996, from 2 to 4.2 billion US dollars
+(bUS$). Public Federal and State research have been
+stagnant at a little over 1.5 and 1 bUS$, respectively,
+since 1978 (Fuglie, 2000).
+In the 1990s, the private sector made major investments in agricultural biotechnology research. Just and
+Hueth (1993) link the direction of biotechnology in-
+
+0169-5150/$ – see front matter © 2003 Elsevier B.V. All rights reserved.
+doi:10.1016/j.agecon.2002.11.001
+
+158
+
+D.E. Schimmelpfennig et al. / Agricultural Economics 30 (2004) 157–167
+
+novation to market structure. They argued that chemical companies would develop biological innovations
+that increase dependence on the chemicals that they
+sell. Ollinger and Pope (1995) empirically tested Just
+and Hueth’s theoretical findings using the numbers of
+permits for pre-market field tests of genetically modified crops from the US Department of Agriculture’s
+(USDA) Animal Plant Health and Inspection Service
+(APHIS). They did not find empirical support for the
+Just and Hueth hypothesis.
+The large number of mergers and acquisitions in
+agricultural inputs industries around the world raises
+the question whether more concentrated markets increase or decrease the level of biotechnology research,
+and future increases in agricultural productivity. Other
+than the studies mentioned in the previous paragraph,
+there have been no empirical studies of the links between the structure of the agricultural input industries
+and the amount of R&D. Furthermore, for all industries there are few indicators to help the Federal Trade
+Commission (FTC) or Department of Justice in the
+US, or their counterparts around the world, identify
+whether the level of concentration in the innovation
+market is in some sense sub-optimal. We develop a simultaneous theoretical model of concentration in the
+innovation market and private R&D intensity in an attempt to answer this question.
+Of course, industry structure is not the only factor that can influence the amount of private research.
+Public R&D and stronger intellectual property rights
+(IPRs) could also induce more private R&D. Thus our
+model also includes variables for public research and
+IPRs. We test the model with private R&D measured
+by data on biotech field trials of corn, cotton and soybeans divided by total (biotech and non-biotech) US
+market seed sales to control for potential market size.
+
+The answers to these questions will be of interest to
+policymakers and officials in antitrust regulation who
+are concerned with levels of seed and biotech industry
+concentration. We provide some of the first estimates
+of the effects of concentration in these industries. The
+results should also be of interest to administrators in
+public research institutions and people in charge of
+IPRs. The next section reviews the recent stylised facts
+about US corn, cotton and soybean production and the
+influence of biotechnology on these crops. The following sections introduce the theoretical model and test
+it using aggregate US data. The last section examines
+some of the policy implications of our results.
+
+2. Corn, cotton and soybean production, industry
+consolidation, and the spread of genetically
+modified varieties
+This study focuses on corn, cotton and soybeans
+because genetically modified (GM) varieties of these
+three crops cover most of the total area of GM crops
+in the US. Table 1 presents some of the characteristics
+of the US markets for and research efforts on these
+crops. Total area planted to transgenic varieties remained quite large in 2000. Round-up ReadyTM soybeans cover the most area followed by insect resistant
+(Bt) corn, Bt cotton and cotton with stacked Bt and
+Round-up Ready (RR) genes. The spread of GM varieties in these crops is partially the result of large investments in plant breeding and biotech research that
+have focused on these crops. Corn has attracted far
+more plant breeding and biotech research resources
+than any other crop (see last column in Table 1), and
+has had the largest number of transgenic varieties approved for commercial use (see next to last column of
+
+Table 1
+Characteristics of US biotech markets and research on corn, cotton and soybeans
+
+Corn
+Cottona
+Soybeans
+
+Area planted in
+US, 2000
+(millions of acres)
+
+Area of transgenic
+varieties, 2000
+(millions of acres)
+
+Number of private
+plant breeders,
+1994 (Frey, 1996)
+
+Number of
+biotech patents
+(1990–1999)
+
+Number of
+transgenic varieties
+approved for
+commercial use
+
+Number of field
+trials (and rank)
+
+79.6
+15.4
+74.5
+
+19.9
+9.4
+40.2
+
+510
+103
+101
+
+299
+382
+141
+
+14
+5
+5
+
+2591 (1)
+395 (5)
+509 (3)
+
+Sources: area planted and area of transgenics from NASS (2000). Transgenic varieties approved and number of field trials from APHIS
+(1999). Patents see Table 2.
+a Upland varieties (excludes Pima cotton).
+
+D.E. Schimmelpfennig et al. / Agricultural Economics 30 (2004) 157–167
+
+Dow, but only a few (including Liberty LinkTM and
+non-transgenic imidazolinone (IMI) herbicide tolerant
+varieties) have been adopted in the US so far.
+There is less concentration in the innovation markets than in the sales of genes or varieties. Measuring
+concentration in the innovation market is possible because all new GM varieties ready to be tested in open
+fields have to be registered with USDA and data on
+each application is publicly available. This data can be
+used to measure concentration in several ways. First,
+we can simply look at the number of firms that are
+doing research on genetically engineered crops. Fig. 1
+shows that the number of firms increased rapidly to
+the mid-1990s and slowly started to decline thereafter.
+Second, we can calculate a four-firm concentration ratio of the field trials of these crops. In 1989–1990 and
+1998, over 80% of all field trials were done by the top
+four firms. Third, one firm, Monsanto, has conducted
+over a third of all field trials in some years.
+Another reason to look at these crops is that US policy makers are intervening in the supply of research
+and technology in many ways—antitrust activity,
+public research, and strengthened patents. Concentration in these industries has already attracted antitrust
+actions. When Monsanto acquired Holden’s Foundation Seed Company in 1997, the government required
+Monsanto to continue to make corn germplasm available to other companies for a number of years. To get
+approval for its acquisition of DeKalb, Monsanto had
+to remove restrictions on the use of other companies’
+genes in connection with Monsanto’s genes and give
+up some of its plant transformation technology to the
+
+Table 1). Soybeans and cotton were ranked third and
+fifth in biotech research respectively. We concentrate
+exclusively on the US because of the strong possible
+impact that consumer acceptance may have had on the
+development and adoption of transgenic varieties in
+Europe in the late 1990s.
+There has been growing concentration in the seed
+markets of these crops in the US. Mergers and acquisitions have led to a corn seed market in 1997 in which
+Pioneer/DuPont had over 40% of total sales, Monsanto
+had 20% and a large number of companies competed
+for the other 40% or less. “In addition, Monsanto’s
+purchase of Holden’s [Foundation Seed Company]
+gives them significant influence over germplasm sold
+to other companies; Holdens’ germplasm is estimated
+to be part of an additional 30–40% of branded seed
+sales” (Hayenga, 1998). These two companies are also
+leaders in soybean seed sales. Each company’s share
+of purchased seed is around 20%. Finally, in cotton,
+one company, Delta and Pineland, which was almost
+purchased by Monsanto, controls more than 70% of
+the seed market. The next largest company has about
+16% (Hayenga).
+Sales of the biotech-gene component of these seeds
+are even more concentrated although levels of concentration are declining as more genes owned by more
+companies come on the market. Monsanto provides
+the Bt and RR genes for corn, soybeans and cotton not
+only to their own subsidiaries, but also to Pioneer and
+other competitors (Rausser et al., 1999). Competing
+varieties of Bt and herbicide tolerance genes are available from American Cyanamid, Aventis, Syngenta and
+
+%
+
+100
+
+45
+
+90
+
+40
+
+80
+70
+
+35
+
+60
+50
+
+No. of
+25 Firms
+20
+
+30
+
+40
+30
+
+15
+10
+
+20
+10
+
+5
+
+0
+
+0
+1989
+
+1990
+
+1991
+
+1992
+
+1993
+
+1994
+
+159
+
+1995
+
+1996
+
+1997
+
+1998
+
+Source: APHIS, 1999
+Fig. 1. Concentration of research and number of firms.
+
+Monsanto
+4 Firm
+Total No.
+of Firms
+
+160
+
+D.E. Schimmelpfennig et al. / Agricultural Economics 30 (2004) 157–167
+
+University of California. In addition, it appears that
+the FTC held up Monsanto’s purchase of Delta and
+Pineland until Monsanto sold off their cotton seed
+subsidiary Stoneville.
+The Federal government is also intervening in these
+markets by investing a considerable amount of public
+money in corn, cotton and soybean research including strategic research like the corn genome project.
+In soybeans, public varieties still account for about
+10% of soybean sales. Finally, the government intervenes through the patent system. The US system allows patenting of plant varieties, genes and biotech
+tools unlike most other countries in the world where
+plant varieties and genes can not be patented. The results obtained for the US can help inform biotech policymaking in other countries and particularly in the
+European Community (EU) where the US companies
+are quite active.
+
+3. The economic model
+Arrow (1962) argued that the payoff to a successful
+firm in an R&D race would depend on the structure
+of the market for its innovation. Phillips (1971) extended this theoretical argument by pointing out that
+the nature and structure of R&D might feed back and
+influence the structure of the market for the resulting
+innovations. Schumpeter was among the first to notice
+that in more competitive industries the rate of innovation seemed to be higher, but in his later writings
+he points out that market concentration can lead to
+more R&D. In this paper, we empirically test a Schumpeterian model in which market structure and R&D
+are jointly and endogenously determined (Levin and
+Reiss, 1984; Dasgupta and Stiglitz, 1980a). We also
+explicitly model and test the influence of appropriability and public R&D on private research spending, and
+thus possibly industry structure.
+Besides the link between industry structure and innovation, Schumpeter is also associated with the related idea that the rate of innovation might depend on
+firm size. Kohn and Scott (1982) examine the theoretical relationships between firm-specific R&D scale
+economies and firm size in a static model. They find
+that relationships between firm size, R&D and various
+Schumpeterian hypotheses could be influenced by differences in sizes of potential market shares, opportu-
+
+nities for risk spreading, costs of capital, and access to
+efficient marketing channels. The message from this
+literature is that the relationship between a firm’s size
+and its rate of innovation is probably dynamic in annual data. Cohen and Levin (1989) find that most of the
+empirical literature testing Schumpeterian hypotheses
+is inconclusive because of failures to focus on factors
+explaining interindustry differences in rates of innovation and firm heterogeneity.1 They point the way
+forward by indicating the need to measure interindustry differences in the availability of technological opportunity and the appropriability of the returns from
+innovation.
+We develop a framework that explicitly considers
+these factors, and we appeal to Cohen et al.’s (1987)
+finding that firm size has a small, insignificant interindustry effect on R&D intensity when technological opportunity and appropriability are held constant.
+It seems quite likely that the same will be true when
+three comparatively similar agricultural biotech crops
+comprise the ‘industries’. Levin et al. (1985) find
+this to be true across 13 (two-digit SIC) industries.
+The remaining question then is whether the data on
+these three crops will allow us to identify significant
+cross-crop effects of concentration on R&D intensity
+in aggregate US data.
+We employ a static model with identical firms and
+assume firms maximise profit by choosing only their
+levels of output and expenditures on R&D. Firm i’s
+R&D (xi ) shifts its own cost function down, independently of the level of output chosen, and contributes
+to the industry level of R&D (Σxi = X). The unit cost
+of firm i is,
+ci = c(xi , X)
+
+(1)
+
+where c1 , c2 < 0, and c11 , c22 > 0,2 with positive,
+convex returns to own and industry R&D.3 X is an
+argument in the firm’s cost function because the firm
+may benefit from innovation spill-overs within its industry. Spill-overs are an external scale economy that
+1 Several industries are necessary in most empirical studies to
+allow for the collection of sufficient data to test for significant
+relationships.
+2 Numerical subscripts denote first or second derivatives with
+respect to first (1) or second (2) arguments.
+3 Moschini and Lapan (1997) argue that for agricultural input
+innovations, product and process innovations can both be modeled
+as downward shifts in the cost function of the innovating firm.
+
+D.E. Schimmelpfennig et al. / Agricultural Economics 30 (2004) 157–167
+
+firms may attempt to control, so we solve the model
+in a way that allows us to monitor the appropriability
+of own R&D (xi ). The problem of firm i is then to,
+= [p(Q) − c(xi , X)]qi − xi
+
+Max
+qi ,xi
+
+(2)
+
+i
+
+where Q = Σqi is industry output, and p(X) is the
+inverse industry demand curve for biotech seed varieties.
+There is some evidence that agricultural input markets are oligopolistic with free-entry (Barton, 1998;
+Harl, 2000). We therefore assume that firms make
+Cournot conjectures regarding the output levels chosen
+by all other firms. For firm i this implies dQ/dqi = 1.
+Conjectural variations concerning the response of input industry R&D to a change in one firm’s R&D level
+could be more complicated. To leave open a full range
+of conjectures concerning inter-firm strategic R&D behaviour we assume dX/dxi = θi , so θ is a function
+of xi conditional on X (xi /X). Later we explore how
+changes in θ influence the empirical results, but we do
+not estimate θ directly.4 Dasgupta and Stiglitz (1980b)
+show that the profit of each firm in an industry, in a
+similar model, is zero in the long-run with symmetric
+free entry and exit.
+Following Levin and Reiss, the first-order conditions for maximisation of the profit of the ith firm are
+si
+p 1−
+= c,
+(3)
+ε
+and
+−(c1 + c2 θi )qi = 1
+
+(4)
+
+where ε = p/Qp1 , is the price elasticity of demand,
+and si = qi /Q, is the ith firm’s market share. With
+Cournot conjectures in output, equilibria exist under a
+wide range of parameter values. Using the symmetric
+industry zero-profit condition,
+[p(Q) − c(xi , X)]Q = nx
+4
+
+(5)
+
+It is also possible to think of the output and R&D levels chosen by the firms as the outcome of a symmetric Nash (one-shot)
+noncooperative game. Introducing dynamic games like Stackelberg
+leaders and followers would be quite appealing because of the
+possibility that there is a first-mover advantage in agbiotech research, but this is beyond the scope of our paper. Instead we make
+the convenient assumption that technological opportunity and appropriability control for firm heterogeneity in strategic behaviour,
+the same assumption that we made for firm size.
+
+161
+
+so that markets clear, and after dividing both sides of
+(5) by total revenue, we have two structural equations:
+1
+(qi ) = ε(qi )R,
+n
+and
+R
+(xi /X)
+= α(xi /X) + γ(X/xi )θ
+1−R
+n
+
+(6)
+
+(7)
+
+where n is the number of firms in each input market as
+a function of the output of firm i, so 1/n is the Herfindahl index of concentration (H) for equally sized firms.
+R is the ratio of industry R&D to sales.In Eq. (7),
+(1 − R) is the share of sales revenue that does not go
+to R&D in the industry, and α is firm elasticity of unit
+cost with respect to own R&D (xi ) holding industry
+R&D constant. Since R&D is assumed to be focused
+on cost-reducing innovations, α represents the productivity of research or technological opportunity. Also in
+(7), γ is the elasticity of unit cost with respect to input
+industry R&D (X) holding own R&D constant. This
+elasticity is a measure of the extent to which research
+results are appropriable by the innovator or spill-over
+to lower the costs of other firms. As long as the conjectural variation, θ, is positive, higher levels of γ will
+be associated with increased appropriability.5 Concentration and R&D intensity are jointly endogenous (and
+are functions of the choice variable, output) and the
+theoretical model is identified by α (that is a function
+of the other choice variable, R&D).
+The input market elasticities, α, ε, and γ are time
+variant in the theoretical model, so to empirically estimate the model with time series data, additional structure must be imposed on (6) and (7). By assuming that
+both the underlying cost and inverse demand functions
+have constant elasticities, and after taking natural logs
+of Eq. (6), the empirical model becomes:
+Log H = constant1 + β1 log (R) + e1
+
+(8)
+
+R
+= constant2 + β2 α + β3 (θγH) + e2
+1−R
+
+(9)
+
+where R is industry R&D intensity, β1,...,3 are estimated coefficients, and the e1,2 are residual errors.
+5 If the behavioural parameter θ were negative, it would mean
+that firms are free-riders to the extent that a 1$ increase by firm
+i produces cutbacks of more that 1$ in the R&D expenditures of
+the other firms.
+
+162
+
+D.E. Schimmelpfennig et al. / Agricultural Economics 30 (2004) 157–167
+
+Eq. (9) is not in logarithms so the model can be estimated jointly as a linear simultaneous system. The
+theoretical model indicates appropriability should be
+interacted with concentration (1/n) (when θ is held
+constant) in (9), so the estimated models provide information on the substitutability and complementarity
+of appropriability and concentration. If β3 is positive
+(negative), appropriability and concentration are complements (substitutes).
+The model is estimated as an independent linear
+simultaneous system for each of the three crops (corn,
+cotton and soybeans), and as a panel, assuming that
+coefficients are homogeneous across the crops, accounting for any correlation between the errors in
+the equations for different crops. There are several
+approaches available for instrumental variable estimation of panel data. Baltagi (1981) shows that one-way
+error components three-stage least squares reduces
+to one-way error components two-stage least squares
+(EC2SLS) when the errors in Eqs. (8) and (9) are uncorrelated with each other. This appears to be the case
+as we show in the results section. The model is identified empirically by the use of first stage instruments
+that are correlated with the variables and uncorrelated
+with the error terms. The first stage instruments that
+we use are total US sales figures for rapeseed, rice
+and sugarbeets.
+
+4. Data
+To test the impact of concentration on research intensity, our principle goal, we have identified variables
+that measure concentration and research, and other important variables that influence research intensity. The
+variable names and data sources are listed in Table 2.
+Concentration is measured as the Herfindahl index for
+the industry, which for equally sized firms is equal to
+the reciprocal of the number of firms.6 Biotechnology
+research intensity is measured as counts of biotech
+crop field trials divided by total GM and non-GM seed
+sales to capture GM market potential.7 Field trials are
+6 The theoretical model that we test assumes equally size firms,
+so we maintain this assumption in the creation of variables to
+test the model. The 4-firm concentration ratio displays insufficient
+inter-annual variability.
+7 Our intensity variable measures applied research, and we are
+unable to determine how market structure might influence the
+
+a good proxy for proprietary data on applied R&D expenditures by crop. Every time a company wishes to
+test a plant variety that it has transformed with a foreign gene it must apply to the USDA for permission to
+test this variety in experimental fields. Field trials are
+not the perfect expenditure variable because of other
+random and administrative factors in the GM-crop approval process that can influence the number of field
+trials, but they do measure research activity and not
+just research success. For corn, for example, only 14
+GM varieties have been approved for commercial use
+while there have been 2591 field trials of GM corn
+varieties (Table 1). Our theoretical model focuses on
+the current relationship between these variables, abstracts from dynamic considerations, and indicates that
+research intensity may be influenced by at least two
+groups of factors in addition to concentration.
+The first set of these other factors are those that shift
+α or technological opportunity. Some of these factors
+are crop specific public research and plant breeding,
+crop specific transformation possibilities, and the exploitation of spillovers from public goods. We measure
+this as the number of scientists (scientist years, SYs)
+at the USDA and the land grant universities working
+on crop specific public research as recorded in the
+USDA’s Current Research Inventory System (CRIS).
+Research expenditures from the same source did not
+provide useful results, probably because of the substantial administrative and overhead costs included in
+these expenditures. The more scientists are working
+on a crop, the more likely they are to find new research methods, new genes, new germplasm or new
+knowledge about the crop that will reduce a private
+firm’s costs of developing a new variety. We applied
+a simple lag to the data and in the name of parsimony
+avoided more elaborate distributed lag structures.
+Firms’ expectations about technological opportunity are likely to be based on the cost of research and
+the probability of developing and commercialising a
+new product. This expectation will in turn depend on
+the cost of research inputs, and the time and effort
+needed to develop a commercial product. We tried,
+unsuccessfully, to create a variable for past research
+success. Technological opportunity to improve each
+willingness of firms to engage in basic research, such as genomics,
+which could be influenced by quite a different set of factors
+because of the long-term nature of basic research.
+
+D.E. Schimmelpfennig et al. / Agricultural Economics 30 (2004) 157–167
+
+163
+
+Table 2
+Corn, cotton and soybeans biotechnology data, 1989–1998
+Variable name
+
+Variable
+
+How to measure
+
+Source
+
+Research intensity
+
+Private applied biotech R&D
+per unit of seed sales
+Public research expenditure
+
+Annual field trials by crop per 1 US$ of seed
+sales of that crop
+Scientist years (SYs) by commodity
+
+APHIS and ERS USDA
+CRIS USDA
+
+Biotech patents
+
+Patents of private firms by crop
+
+Derwent world patent index
+
+R&D concentration
+Multinational
+
+1/number of firms conducting field trials on a crop
+Percentage of trials by multinational companiesa
+
+Calculated from APHIS data
+Calculated from APHIS data
+
+Technological
+opportunity
+Appropriability
+Concentration
+
+Sources: APHIS (1999). Seed sales are calculated using the value of seed purchased per acre when available from Gill (1996) and filling
+in more recent years using the value of seed purchased per acre in 1996 multiplied by the sown area of the crop. Scientist years are
+unpublished data from the Current Research Information System (CRIS) of USDA in various years. The number of issued biotech patents
+by private firms is supplied by Derwent Information’s Derwent World Patent Index.
+a These include firms owned by multinational chemical or pharmaceutical companies, i.e. Monsanto, DuPont, Novartis, Agrevo,
+Astra/Zeneca and Dow.
+
+specific crop will be influenced primarily by public
+sector research on that crop. Public scientists and labs
+also carry out contract research for the private sector
+that is included in the CRIS data.
+Second, we control for factors affecting γ or appropriability. We measure this by the number of biotech
+patents on each crop. Firms’ expectations of their ability to appropriate a share of the total cost savings due
+to research will depend on the legal structure of IPRs,
+the physical ease of copying the invention, and the
+firms’ abilities to stay ahead of competitors. In addition, monopoly power arising from factors other than
+IPRs can also increase the ability of firms to capture a
+share of the market, and we include market size in the
+research intensity variable. Since corn is a hybrid crop,
+it is difficult for farmers to replant the seed. However,
+companies still feel it is important to protect their hybrid varieties, breeding techniques, inbred lines and
+genes from copying by other companies. They do this
+using utility patents whenever possible.
+Cotton and soybean seeds are not F1 hybrids. Companies producing these crops can only protect them by
+means of plant breeder’s rights and utility patents—not
+the technical protection provided by hybrids. Companies will only go to the expense of patenting if they
+think that there is a market for their new technology,
+and that the patents will actually reduce spill-overs.
+Therefore the number of biotech patents on each crop
+reflects in part, companies’ assessments of whether
+IPRs really provide appropriability for their technologies or not. Instrumental variables were introduced
+
+to handle the simultaneity in the theoretical model in
+Section 3, but are also necessary because patents are
+probably systematically related to R&D through some
+form of research production function.
+
+5. Results
+From previous research and other information that
+we have collected on the agricultural input industry,
+it is not clear whether increased concentration will
+increase or decrease research intensity, defined as
+research output per unit of total GM and non-GM
+industry sales. Concentration could increase appropriability, which could increase R&D intensity.
+Economies of scale and scope in conducting research,
+and obtaining and defending IPRs on research results,
+could increase the productivity of a unit of research
+and could increase research intensity. However, concentration might also reduce the competitive pressure
+to carry out research. Economies of scale in research
+obtained within a firm could be offset by diseconomies
+of centralised bureaucratic management. In addition,
+risk aversion may increase with increased concentration, as small, high-risk entrepreneurial firms are
+eliminated.
+Conversely, research intensity may or may not lead
+to increased concentration. An incentive for expansion and concentration may be to spread-out the sunk
+cost of research, especially the large investments that
+are required to carry out research in basic biotech-
+
+164
+
+D.E. Schimmelpfennig et al. / Agricultural Economics 30 (2004) 157–167
+
+Table 3
+Two-stage least squares (2SLS) estimates of structural equations for individual crops
+Regressors
+Corn (n = 9)
+R&D intensity
+Patentsa concentration
+Public R&D (5 year lag)
+Constant
+Durbin–Watson statistic
+Akaike information criterion
+Cotton (n = 10)
+R&D intensity
+Patentsa concentration
+Public R&D (15 year lag)
+Constant
+Durbin–Watson statistic
+Akaike information criterion
+Soybeans (n = 10)
+R&D intensity
+Patentsa concentration
+Public R&D (20 year lag)
+Constant
+Durbin–Watson statistic
+Akaike information criterion
+a
+b
+
+Industry concentration equation
+
+R&D equation
+
+Coefficient
+
+t-statistic
+
+Coefficient
+
+t-statistic
+
+−0.48
+
+−9.69b
+0.04
+0.0002
+
+2.33a
+1.76a
+
+−3.99
+
+−22.14b
+
+1.99
+0.48
+−0.56
+
+0.89
+−2.72
+−4.45b
+0.07
+0.0004
+
+−2.56
+
+−10.95b
+
+1.12
+0.46
+
+1.41
+−0.51
+
+−0.81
+
+−8.99b
+
+−4.44
+
+−13.88b
+
+2.14
+0.56
+
+2.07a
+1.79a
+
+−0.007
+0.0005
+−0.04
+
+−3.61a
+4.65b
+−1.43a
+
+1.62
+−5.17
+
+Significant at 90% confidence level.
+Significant at 99% confidence level.
+
+nology. The growth of multinational agricultural firms
+may have resulted from a desire to spread the cost of
+biotechnology research over as large a share of the
+seed industry as possible and, to span as many industries and the largest geographic areas possible. We
+tested a multinational firm concentration variable, but
+it was not significant.
+To resolve these questions empirically we estimate
+Eqs. (8) and (9) individually for each crop. Table 3
+shows the results. Both the industry concentration
+equation and the R&D equations are correctly specified, as indicated by the diagnostic statistics. The
+empirical evidence is that industry concentration and
+R&D intensity are simultaneously determined as in
+the theoretical model. In addition, the estimated R&D
+coefficients in the concentration equations are all
+negative. This indicates an inverse relationship between concentration and research intensity for corn,
+cotton and soybeans in the US. These coefficients are
+elasticities, so a one-unit decrease in R&D intensity
+arising from one less field trial or a one-unit increase
+
+in sales (in thousands US$), is associated a less than
+one unit increase in concentration or a proportional
+decrease in the number of firms. Hence, fewer firms
+do less research, or increased concentration reduces
+R&D intensity.
+The results for the three crops are similar, even
+though the crops themselves are quite different. Cotton and soybeans are dicotyledons that could be genetically modified earlier and are still more easily and
+cheaply transformed and might therefore be expected
+to display a higher research intensity than corn, which
+is a monocotyledon.8 In reality, great research efforts
+were made to improve corn because of its large market
+potential. The first field trials on GM cotton and soybeans were in 1989, but GM corn was not far behind
+and appeared in the field in 1990.
+8 Monocots have primarily been transformed using the biolistic
+gun, which was and still is much less efficient and reliable than
+the agrobacterium process, which has only recently been modified
+to be useful for monocots.
+
+D.E. Schimmelpfennig et al. / Agricultural Economics 30 (2004) 157–167
+
+165
+
+Table 4
+Error components panel data two-stage least squares (EC2SLS) estimates of structural equations (corn, cotton and soybeans combined)
+Regressors (n = 29)
+
+R&D intensity
+Patentsa concentration
+Public R&D (4-year lag)
+Constant
+F-statistic (14,14)
+Log Amemiya problem criterion
+Akaike information criterion
+a
+b
+
+ragedright Industry concentration equation without group dummy variables
+
+ragedright R&D equation
+with period effects
+
+Coefficient
+
+t-statistic
+
+Coefficient
+
+t-statistic
+
+−0.0006
+
+−2.14a
+
+−1.40
+
+−4.54b
+
+−0.0005
+0.003
+−0.44
+
+−2.15a
+2.65b
+−1.08
+
+0.172
+3.009
+
+8.9b
+−4.96
+−2.23
+
+Significant at 95% confidence level.
+Significant at 99% confidence level.
+
+In the R&D equation, patents and industry concentration are complements for corn and cotton and
+substitutes for soybeans. The more concentration in
+the soybean industry, the fewer the patents and lower
+the appropriability of private soybean biotech R&D.
+This result will be shown to hold up in the panel
+model of the three crops combined (below). The reported coefficients for this appropriability variable assume Cournot–Nash conjectures (θ = 1) which implies firms are not able to steal private research results
+directly from their competitors. Assuming that firms
+are subject to research free-riding (θ < 1) increases
+the size of the reported coefficient on the interaction
+term proportionately.9
+Public R&D has a small positive and significant
+effect on all three crops. The lag on public research for
+soybeans is four times longer than the lag on public
+corn R&D. This result indicates the relatively quick
+impact that public R&D has had on private corn R&D
+intensity. Disregarding the lags, a public scientist-year
+of research on cotton or soybeans has twice the impact
+of a similar allocation of research on corn, but the
+effect takes three to four times longer.
+There are some important differences between the
+results for the individual crops, with different (and
+large) R&D elasticities and patents and concentration
+that can be substitutes or complements. To investigate
+the cross-crop effects of intensity and concentration,
+the results from estimating the model as panel data
+9 We are unable to estimate free-riding endogenously in a linear
+model.
+
+are presented in Table 4. These overall results provide plausible estimates. A 100-unit decrease in R&D
+intensity arising from one-hundred fewer field trials
+or a 100-unit increase in sales (in thousands US$), is
+associated with a 6% increase in concentration, or
+a proportional decrease in the number of firms. The
+concentration equation is estimated without group
+dummy variables and with an overall constant, as
+indicated by the theoretical model.10 The negative
+signs on the R&D elasticities are confirmed, but by a
+smaller but nevertheless significant coefficient in the
+panel estimation.
+In the panel data form of the R&D equation in
+Table 4, the interaction term is also smaller than in the
+individual equations. Overall, patents and concentration are substitutes. More concentration is associated
+with fewer patents. One interpretation of this result is
+that as firms develop market power, they have fewer
+competitors to protect their intellectual property from.
+This result could also be related to the earlier finding
+that concentration and R&D intensity are inversely related. More concentration could mean fewer patents
+because there are fewer research results to protect.
+Public R&D still has a small positive sign in the
+panel model and the cross-crop lag is only four years
+in the overall model. Constants are included in the
+models because of the indication of an overall constant
+in the theoretical model (9), and individual and period
+10 We investigated the properties of the price elasticities of demand for corn, cotton and soybeans that make up the constant
+in Eq. (8) and found them to be time invariant and quite similar
+across crops.
+
+166
+
+D.E. Schimmelpfennig et al. / Agricultural Economics 30 (2004) 157–167
+
+fixed effects are indicated by diagnostic statistics for
+the estimation of the panel version of (9). The overall constant is not significant in the R&D equation,
+but is maintained for consistency with the theoretical
+model. The average simple correlation between the
+residuals of the concentration and R&D equations is
+only −0.06 indicating the appropriateness of EC2SLS
+for panel data over more complicated full information
+alternatives.
+
+6. Conclusions
+The empirical results from the estimation of a simultaneous research profit function indicate an inverse
+relationship between firm concentration in corn, cotton and soybean seed markets, and R&D intensity in
+these US markets. One interpretation of this result is
+that increased competition in R&D, as indicated by
+low levels of market concentration and the participation of more competing firms in the GM crop approval
+process, is positively related to R&D intensity. As the
+number of firms declined through mergers and acquisitions, the intensity of R&D fell, holding appropriability and technical opportunity constant.
+Schumpeter’s early idea that concentration reduces
+the incentives to do research may have been the correct one for the seed market leaders in the US. We do
+not find support for his later assertion that the opposite
+may be true. The levels of concentration in the seed
+industry in the US raise concerns about maintaining or
+increasing levels of research activity and a steady supply of productive new agricultural input innovations.
+The multinationals may have already begun a cycle of
+divestiture and spinning-off of agricultural divisions
+that could lead to increases in research intensity in the
+future if the restructuring results in more firms doing
+agricultural research.
+Additional work is needed on dynamic aspects
+of these Schumpeterian relationships. These aspects
+include the influence of intertemporal strategic behaviour, and how changing firm size and associated
+access to financial and human resources might affect
+the rate of innovation, as mergers and acquisitions
+cause both the number of firms in an industry and
+their sizes to change.
+We attempt to control for these factors in our static
+model with measures of technological opportunity
+
+and research appropriability. Public research representing the level of technological opportunity has
+a small positive and significant effect in all of the
+model specifications, indicating that public research
+stimulates private biotech R&D. The stagnation of
+funding for public R&D since 1978 may be a significant problem for several reasons. The level of public
+research might be less than optimal given the high
+rates of return to public research, but the low level
+may also limit the amount of private research.
+Whether appropriability, measured by numbers of
+patents, stimulates or reduces research intensity depends on the crop. Concentration by itself is inversely
+related to research intensity, and concentration has
+been increasing in recent years in these commodities.
+Patenting is a complement to concentration for corn
+and cotton, which implies that patenting works with
+concentration to reduce the amount of research. For
+soybeans and when the three crops are pooled together,
+patenting and concentration are substitutes which implies that patents are working to increase research
+while concentration is pulling it down. The differences
+in the way the individual crops react to patenting may
+be due to the fact that corn varieties are protected
+from copying by being hybrids. For cotton it is relatively easy to enforce plant breeders rights because
+all seeds have to go through a few seed plants. Thus,
+patents are a substitute for concentration in soybeans
+because they are a relatively more important means
+of gaining appropriability than in the two other crops.
+These results suggest several policy implications.
+First, it appears to be important to ensure competition
+in biotech innovation markets since reduced competition is associated with reduced R&D. Second, public
+research can stimulate private research, which provides a reason for government investments in public
+research in addition to high social rates of return.
+Third, patents may be an important way to stimulate R&D in commodities where technical means of
+protecting intellectual property are weak.
+
+Acknowledgements
+Financial Support for this research was provided
+under Cooperative Agreement No. 43-3AEL-9-80050
+between the USDA and Rutgers. We wish to thank
+Sanjib Bhuyan, John King, Mike Ollinger, Robbin
+
+D.E. Schimmelpfennig et al. / Agricultural Economics 30 (2004) 157–167
+
+Shoemaker, and two referees for very useful comments. We also express appreciation to participants in
+seminars in the Department of Agricultural and Applied Economics, Virginia Tech, Blacksburg, VA; the
+Department of Agricultural Economics and Marketing, Rutgers University, NJ; the USDA Economists
+Group workshop, Economics of Agricultural Research, Issues 2000 Seminar Series, Beltsville, MD;
+and the USDA conference The American Consumer
+in the Changing Food System, Rosslyn, VA. The
+views expressed are not necessarily those of the US
+Department of Agriculture.
+
+References
+Animal and Plant Health Inspection Service (APHIS), 1999.
+Data retrieved December 1999 from the World Wide Web:
+http://www.nbiap.vt.edu/.
+Arrow, K.J., 1962. Economic welfare and the allocation of
+resources for invention. In: Nelson, R.R. (Ed.), The Rate and
+Direction of Inventive Activity: Economic and Social Factors.
+Princeton University Press for the National Bureau of Economic
+Research, Princeton, NJ, pp. 609–625.
+Baltagi, B.H., 1981. Simultaneous equations with error
+components. J. Economet. 17, 189–200.
+Barton, J., 1998. The impact of contemporary patent law on
+plant biotechnology research. In: Eberhardt, S.A., Shands, H.L.,
+Collins, W., Lower, R.L. (Eds.), Intellectual Property Rights III,
+Global Genetic Resources: Access and Property Rights. Crop
+Science Society of America, Madison, WI.
+Cohen, W.M., Levin, R.C., 1989. Empirical studies of innovation
+and market structure. In: Schmalensee, R., Willig, R.D.
+(Eds.), Handbook of Industrial Organization, vol. II. Elsevier,
+pp. 1059–1107.
+Cohen, W.M., Levin, R.C., Mowery, D.C., 1987. Firm size and
+R&D intensity: a re-examination. J. Indus. Econ. 35, 543–
+564.
+Dasgupta, P., Stiglitz, J., 1980a. Uncertainty, industrial structure,
+and the speed of R&D. RAND J. Econ. 11, 1–28.
+Dasgupta, P., Stiglitz, J., 1980b. Industrial structure and the nature
+of innovative activity. Econ. J. 90, 266–293.
+Frey, K.J., 1996. National plant breeding study I. Special Report
+98. Iowa Agriculture and Home Economics Experiment Station.
+Iowa State University, Ames, IA, 51 pp.
+Fuglie, K.O., 2000. Trends in agricultural research expenditures
+in the United States. In: Fuglie, K.O., Schimmelpfennig, D.E.
+(Eds.), Public-Private Collabouration in Agricultural Research:
+
+167
+
+New Institutional Arrangements and Economic Implications.
+Iowa State University Press, Ames, IA, pp. 9–23.
+Gill, M., 1996. Seed use, costs, and trade. AREI Updates,
+No. 10, Economic Research Service, US Department of
+Agriculture, Washington, DC, 4 pp. Retrieved 6 November
+2002 from the World Wide Web: http://www.ers.usda.gov/
+publications/arei/96upd/upd96-10.pdf.
+Harl, N.E., 2000. The age of contract agriculture: consequences
+of concentration in input supply. J. Agribusiness 18, 115–127.
+Hayenga, M., 1998. Structural change in the biotech seed
+and chemical industrial complex. AgBioForum. 1, 43–55.
+Retrieved 8 January 2001 from the World Wide Web:
+http://www.agbioforum.missouri.edu/.
+Huffman, W.E., Evenson, R.E., 1992. Contributions of public and
+private science and technology to US agricultural productivity.
+Am. J. Agric. Econ. 74, 751–756.
+Jorgenson, D.W., Gollop, F.M., 1992. Productivity growth in US
+agriculture: a postwar perspective. Am. J. Agric. Econ. 74,
+746–750.
+Just, R.E., Hueth, D.L., 1993. Multimarket exploitation: the case
+of biotechnology and chemicals. Am. J. Agric. Econ. 75, 936–
+945.
+Kohn, M., Scott, J.T., 1982. Scale economies in research and
+development: the Schupeterian hypothesis. J. Indus. Econ. 30,
+239–249.
+Levin, R.C., Cohen, W.M., Mowery, D.C., 1985. R&D
+appropriability, opportunity, and market structure: new evidence
+on some Schumpeterian hypotheses. Am. Econ. Rev. 75, 20–24.
+Levin, R.C., Reiss, P.C., 1984. Tests of a Schumpeterian model
+of R&D and market structure. In: Griliches, Z. (Ed.), R&D,
+Patents, and Productivity. The University of Chicago Press
+for the National Bureau of Economic Research, Chicago,
+pp. 175–208.
+Moschini, G., Lapan, H., 1997. Intellectual property rights and the
+welfare effects of agricultural R&D. Am. J. Agric. Econ. 79,
+1229–1242.
+National Agricultural Statistics Service (NASS), 2000. Acreage.
+Agricultural Statistics Board, US Department of Agriculture,
+Washington, DC, 30 June.
+Ollinger, M., Pope, L., 1995. Plant biotechnology: out of the
+labouratory and into the field. Agric. Econ. Rept. No. 697,
+Economic Research Service, US Department of Agriculture,
+Washington, DC, April, 13 pp.
+Phillips, A., 1971. Technology and market structure: a study of the
+aircraft industry. Lexington Books, Lexington, MA, 235 pp.
+Rausser, G., Scotchmer, S., Simon, L., 1999. Intellectual
+property and market structure in agriculture. In: Proceedings
+of the Paper Presentation to the Conference, The shape
+of the Coming Agricultural Biotechnology Transformation:
+Strategic Investment and Policy Approaches from an Economic
+Perspective. Rome, Italy, 17–19 June 1999, 29 pp.
+
+

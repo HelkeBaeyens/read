@@ -1,0 +1,1357 @@
+Agricultural Economics, 6 (1992) 315-332
+Elsevier Science Publishers B.V., Amsterdam
+
+315
+
+Adoption and abandonment of irrigation
+technologies
+Ariel Dinar
+Department of Agricultural Economics, University of California and USDA -ERS,
+Davis, CA, USA
+
+and Dan Yaron
+Department of Agricultural Economics and Management, The Hebrew University of Jerusalem,
+Rehovot 76100, Israel
+(Accepted 20 March 1991)
+
+ABSTRACT
+Dinar, A. and Yaron, D., 1992. Adoption and abandonment of irrigation technologies.
+Agric. Econ., 6: 315-332.
+Adoption and abandonment processes are analyzed for seven irrigation technologies. A
+procedure is developed to estimate the technology cycle and applied to data available for
+citrus groves in several regions of Israel, and Gaza. The technology cycle was used to
+estimate diffusion-abandonment patterns for several irrigation technologies that have been
+abandoned. Results suggest that the technology cycle is unique to each technology and
+similar in length for all regions. Results predict the year of full abandonment of each
+technology. For modern technologies still in the diffusion phase, a logistic equation was
+fitted to the aggregated data. Results suggest that diffusion is significantly affected by
+economic variables such as water price, crop yield price, and subsidy for irrigation equipment. Use of the estimated equations for policy purposes suggest that water price and
+subsidy for irrigation equipment can be used to control the diffusion process (speed and
+ceiling) of the irrigation technologies.
+
+INTRODUCTION
+
+The diffusion of innovations has long been a major topic in the context
+of technological change. Most of the empirical economic studies on diffuCorrespondence to: A. Dinar, Department of Agricultural Economics, University of California, Davis, CA 95616, U.S.A.
+0169-5150j92j$05.00 © 1992 - Elsevier Science Publishers B.V. All rights reserved
+
+316
+
+A. DINAR AND D. Y ARON
+
+sion of technologies have estimated rates of adoption and levels of adoption until the stage when the process reaches its ceiling (e.g., Jarvis, 1981;
+Jansen, Walker and Barker, 1990). Less attention has been devoted to the
+stage when the innovation is abandoned, which occurs at least as frequently
+in the history of technological changes. A discontinuance of technology can
+be the result of technological substitution (Fisher and Pry, 1971; Rogers,
+1983; Cameron and Metcalfe, 1987) which creates technology cycles.
+In the development of new technologies it is essential for the developer,
+or the policy maker, to estimate the expected life span of the technology in
+order to analyze the effects of possible policy variables on the resulting
+number of users of that technology (or any other measure for intensity of
+use). Several studies have recognized the importance of irrigation technologies in the process of agricultural development (Hayami and Ruttan, 1971;
+Kulshreshtha, 1989). The economic literature on irrigation technology
+diffusion has generally provided information on diffusion of one or at most
+two technologies (Fishelson and Rymon, 1989; Casterline, Dinar and Zitberman, 1989). Less attention has been devoted to the abandonment phase
+of the technologies. This is probably due to lack of information on use of
+various technologies over time.
+The purpose of this paper is to extend the existing literature by depicting
+and estimating the diffusion-abandonment processes of several irrigation
+technologies. The next section provides a conceptual framework for the
+analysis which includes both the procedure for estimating technology cycles
+and the framework for estimating diffusion-abandonment and diffusion
+curves for several technologies. This framework is applied to survey data
+from citrus groves in Israel. As compared to previous studies, this data base
+addresses seven irrigation technologies. The estimates for the diffusion
+curves are used to demonstrate and estimate policy effects on the diffusion
+of irrigation technologies.
+CONCEPTUAL FRAMEWORK
+
+The introduction of any technology can be described as composed of two
+phases: in the first phase, the technology is introduced to an increased
+number of users (or any measure of use, such as number of acres). This
+phase is generally defined in the literature as the diffusion of the technology. The second phase is characterized by declining use of that technology.
+The economic literature has concentrated mainly on estimating diffusion
+curves for technologies (e.g., Griliches, 1960; Jarvis, 1981). However, it is
+also important for policy makers to know the rate and time at which a
+technology will be abandoned. The analysis provided in this section distinguishes (using the terminology suggested earlier) between two groups of
+
+IRRIGATION TECHNOLOGIES
+
+317
+
+technologies: (1) technologies that are in a process of abandonment or have
+already been abandoned, and (2) technologies that are still in the diffusion
+process.
+For the first group of technologies, a procedure is suggested to estimate
+the technology cycle and is applied to data for citrus groves. The technology cycle provides data used to estimate a quadratic expression of share of
+users for a given technology over time (a diffusion-abandonment pattern),
+which is applied to estimate the time of a complete discontinuance of that
+technology. For the second group of technologies diffusion logistic curves
+are estimated. Crop yield price, water price, and government subsidy for
+irrigation equipment are used to explain diffusion rates.
+
+A procedure for estimating technology cycles
+The term 'innovation cycle' in agriculture was used by Kislev and
+Shchori-Bachrach (1973). They estimated the effects of different profiles of
+adopters on the diffusion rate and ceiling for agricultural use of plastic
+sheeting, without, however, estimating the length of the innovation cycle.
+Several studies (Coughenour, 1961; Bishop and Coughenour, 1964;
+Deutschmann and Hevens, 1965) investigated the reasons for discontinuing
+innovations, but no innovation cycle was estimated. Easingwood (1988)
+estimated product lifespan patterns for new industrial products. His model
+provides an estimate for the overall life of a given technology from the first
+day of its appearance in the market until its final disappearance. Although
+the concept of technology cycle was implicitly included in Easingwood
+(1988), no use or estimate was provided.
+Estimation of diffusion and abandonment processes for technologies
+used in the distant past may face problems of reliable data since documentation on the number (or share) of users may not be complete for the entire
+period. This may partially explain past difficulties in estimating technology
+cycles. The current study is fortunate to have data that allows detection of
+the diffusion-abandonment process. Several data points exist: (1) the number of users (or acres) and time (year) when the technology was first
+introduced, (2) present information on use of the technology, and (3)
+information is also available on the number of new adopters during the
+diffusion phase only but not during the abandonment phase.
+Diffusion and abandonment of a given technology in the absence of a
+complete data set for the stage of abandonment can be described using the
+concept of technology cycle that provides the rate at which technologies are
+being replaced. A technology cycle is defined here as the time period
+between the adoption of a particular technology by a decision maker and
+its abandonment or replacement by another technology. This concept has
+
+318
+
+A. DINAR AND D. Y ARON
+
+been used broadly in models of equipment replacement (e.g., Rifas, 1957,
+p. 67) that suggest replacement patterns for equipment used by identical
+producers. Therefore, the technology cycle hereafter presented is not a
+behavioral model (such as the model in Kislev and Shchori-Bachrach,
+1973), but rather, a procedure to fit a curve to incomplete time series data.
+In doing so, one assumes that each technology is associated with a given
+life span (cycle) that does not change over time or as a result of market
+events. This is a simplifying assumption since technology cycles may be
+influenced by competing technologies, and prices, although, there are
+circumstances when this is not necessarily true (Dinar and Zilberman,
+1991). Therefore, the estimates here can provide an upper bound to the
+technology cycle.
+Let t = t 0 , .•. , tT, ... , tT be the analyzed time period where t 0 and tT are
+the first and last years with observed number of adopters, and t T is the last
+year in the sample for which the actual number of users of a particular
+technology is known (notice that tT ';:?; tT).
+N 1T is the observed number of users of the technology at time tT, and n 1
+is the number of new adopters in year t. The variable n 1 is defined as the
+cumulative number of adopters in year t, assuming (at this stage) no
+discontinuance or abandonment of that technology (pure accumulation).
+Then:
+
+(1)
+This definition of n 1 accounts for the cumulative number of possible
+users as it appears in the data set. Since the above expression does not take
+into account the number of growers abandoning the technology, the value
+for n 1 at year t is not in agreement with the observed value for users of the
+technology in year t, and therefore:
+
+(2)
+and
+
+(3)
+The variable Nt is the estimated number of users of the technology at
+year t that is implicitly expressed as:
+
+(4)
+where z is the technology cycle (years).
+
+319
+
+IRRIGATION TECHNOLOGIES
+LAST YEAR
+OBSERVED NO.
+OF ADOPTERS
+
+,(,
+
+FIRST YEAR
+OBSERVED NO.
+
+"(~"~/
+
+y
+
+•
+
+_.&--
+
+ntT=ntr
+
+-
+
+t
+Ntr = Ntr
+CURRENT NO.
+OF USERS
+
+/
+
+0
+
+OBSERVED NO. OF USERS
+
+(Nt)
+
+A ACCUMULATED (puro accumulation) NO. OF ADOPTERS ( n 1)
+D. ESTIMATED NO. OF USERS ( Nt)
+
+...
+
+):, FARMERS ABANDONING THE TECHNOLOGY DURING
+
+-
+
+-
+
+tj - t
+
+0
+
+-DIFFUSION CURVE BASED ON GIVEN ABANDONMENT PATERN
+
+--DIFFUSION CURVE BASED ON PURE ACCUMULATION PATERN
+
+Fig. 1. Scheme for the estimation procedure of the technology cycle.
+
+More specifically, N 1° can be estimated as follows (see also Fig. 1):
+for
+
+t
+
+for
+for
+
+t 0 <t<tr
+t = ty
+
+for
+for
+for
+
+t- t 0 <z
+
+=
+
+t0
+
+(5)
+
+and
+0
+t- t 0 ;;?; z
+
+nt-z =
+
+(6)
+
+where g1 is the number of farmers abandoning the technology at year t.
+The estimated technology cycle ( z *) is then the value for the technology
+cycle that minimizes the difference between the observed and calculated
+number of users at year T:
+z * = z ~ {min
+~oT
+z
+
+I
+
+-
+
+N 1T
+
+I}
+
+(7)
+
+As a first step, technology cycles are estimated for each irrigation
+technology in every region using the system consisted of (4)-(7). This is
+done using a simulation program (simulated values for drag-line are presented in Fig. 2) and a reasonable range of initial values for z. The chosen
+value (z *) is the one that meets the criteria of equation (7).
+
+320
+0.5
+
+A. DINAR AND D. Y ARON
+
+e
+
+OBSERVED
+
+0 SIMULATED
+
+)Q0.4
+
+b. ESTIMATED
+
+w
+
+:;::
+~0.3
+
+t!)
+
+'"0
+
+w
+
+0.2
+
+()()~
+
+cr
+
+b.
+
+<t
+
+~0.1
+
+()()b.
+
+b.
+()b.
+
+§§b.
+
+0
+
+1960
+
+1963
+
+1967
+
+1971
+
+1975
+
+1979
+
+1983
+
+1987
+
+Fig. 2. Observed, simulated and estimated values for the diffusion of drag-line sprinklers in
+Hadera region.
+
+To demonstrate the use of the technology cycle for creating the data
+needed to estimate a diffusion-abandonment curve for a given technology,
+assume for example, data for a 7-year period, and a cycle of 4 years. The
+number of new adopters each year is 5, 7, 4, 3, 4, 3, 0, over the period of
+the 7 years. The actual number of users will therefore be 5, 12, 16, 19, 18
+(19 + 4- 5), 14 (18 + 3 - 7), 11 (14 + 0- 3). Notice that for the first 4 .
+years, the technology was in a phase of diffusion and then for 3 years it is in
+an abandonment process.
+
+Diffusion-abandonment curves for irrigation technologies that have been
+abandoned
+For technologies in the abandonment phase, a diffusion curve is developed using the initial number of adopters and the estimated technology
+cycle, z *. The observed pattern for these technologies displays a quadratic
+curve over time (Fig. 2). The quadratic functional form to be estimated for
+that process is:
+
+(8)
+In this expression N 1 is the cumulative share of adopters by year t. The
+index t was normalized by setting the first year of the diffusion at 1. b 1, b 2 ,
+and b 3 are the estimated coefficients. First-order conditions with respect to
+t provide the estimate for the year (t*) in which the ceiling was reached:
+
+(9)
+Substituting t * into the quadratic diffusion curve (8) yields the estimated ceiling, Nt *. For t > t * the diffusion process is negative, meaning
+that the technology is being abandoned. For technologies that are still in a
+
+IRRIGATION TECHNOLOGIES
+
+321
+
+process of abandonment, the year of complete abandonment can be estimated by solving equation (8) with the estimated values for the b/s, and
+setting N 1 to be zero.
+Effect of input and output prices on th£! diffusion of modern irrigation
+technologies
+
+A number of studies have recognized that diffusion of a technology
+could be affected by the product price and the profitability expected to
+result from the technology. Griliches (1960) showed that the rate at which
+growers accept a new agricultural technology depends, among other things,
+on the magnitude of the profit to be realized from the changeover.
+Mansfield (1963) showed that diffusion rates of new technologies in several
+industries were positively related to the profitability of those technologies.
+Jarvis (1981) showed that both the rate and the extent of diffusion for new
+technologies were positively related to the profitability of those technologies. Using a normative model, Dinar and Letey (1989) demonstrated the
+positive combined effects of charges for irrigation water and capital subsidies for irrigation technologies on the economics of technology selection
+under various limiting environmental conditions. Theoretical and empirical
+evidence cited in Feder, Just and Zilberman (1985) and in Thirtle and
+Ruttan (1987), provides the basis to develop an empirical model to estimate
+effects of output prices and input costs on the diffusion of technologies.
+Long-term investment decisions such as in irrigation equipment are based
+on past and future price expectations for inputs and output. For the
+purpose of our analysis assume that only past prices of input and output (in
+year t - t) affect the decision to invest in irrigation equipment.
+This section demonstrates the use of economic variables to estimate
+diffusion curves. These variables represent crop yield price, water price,
+and subsidies provided by the government for the investment in irrigation
+technologies. (The model is applied to technologies that are still in the
+diffusion phase.)
+The basic logistic equation for the diffusion process is:
+(10)
+
+where d 3 , which is the rate of diffusion, is assumed to be a function of crop
+profitability, water price, and the subsidy for the investment in the technology (capital cost). By expressing d 3 as a linear function of these variables
+(d 3 = 1/Jo + I/J 3 P1_t + I/J 4 P1"!.t + !f;5 S1_t), the basic logistic equation becomes
+(Jarvis, 1981):
+
+(11)
+
+322
+
+A. DINAR AND D. YARON
+
+where P1 _ 1 is a variable measuring crop profitability, P1"'!1 is water price,
+and S 1 _ 1 is a variable measuring subsidy level for the capital cost of the
+technology in year t-t.
+DATA AND EMPIRICAL SPECIFICATIONS
+
+The models presented earlier were applied to data from a study of citrus
+groves in Israel. The study sample includes only groves which are owneroperated, and are greater than 2.5 ha (1 ha = 2.5 acres or 10 dunams).
+Excluded are groves operated either by cultivation companies on the basis
+of fixed payment, or by part-time operators 1• These kinds of operators
+were observed to be motivated by economic considerations extremely
+different than full time owner operators (e.g., Guttman and Haruvi, 1986;
+Feder et al., 1988). A total of 209 groves owned by kibbutz (collective
+settlement), moshav (cooperative settlement), and private owners were
+sampled. These groves are from settlements in six regions (from north to
+south: Hadera, Ra'anana, Rehovot, Lackish, Negev and Gaza). The sampled area accounts for 16% of the total citrus area in Israel (Table 1).
+Questionnaires were completed during the course of interviews conducted
+with growers between October 1986 and April 1987. General information
+on sample size and current distribution of irrigation technologies by regions
+is presented in Table 1.
+Irrigation technologies in common use during the study period were (in
+order of their introduction to the market): (1) traditional irrigation such as
+border and furrow, (2) hand-moved sprinklers (aluminum pipes), (3) solid
+set sprinkers above canopy (hereafter referred to as 'above-canopy'), (4)
+drag-line sprinklers under canopy (plastic pipes), (5) solid-set sprinklers
+under canopy (plastic pipes), (6) low volume micro-sprinklers and micro-jets,
+and (7) drip irrigation. The first four irrigation technologies have been
+abandoned by farmers in most of the regions. The later three technologies
+are still in a process of diffusion in most of the regions. These three
+technologies will be identified hereafter as 'the modern technologies'.
+Additional information with regard to the data, as well as detailed technology characteristics and associated costs, can be found in Dinar and Yaron
+(1988). Information regarding number of groves, and adoption periods for
+various technologies by region is presented in Table 2.
+It should be noted that the estimated share of these groves was 40% of the total area, but
+their share in production was less than 15% due to bad maintenance. Also, many of these
+groves went out of production atfer 1987 (N. Ravid, Head, Ext. Serv. Dep. Citrus, Hakiria
+Tel-Aviv, personal communication, 1990).
+1
+
+323
+
+IRRIGATION TECHNOLOGIES
+
+TABLE 1
+Characteristics of sample citrus farms, 1987, by region
+Region
+Gaza
+
+Negev
+
+Lackish
+
+Rehovot
+
+Ra'anana
+
+Hader a
+
+Citrus area (1000 ha)
+Sample area (ha)
+Sampled groves
+
+375
+44
+
+2.9
+1873
+57
+
+3.6
+633
+21
+
+11.4
+1030
+28
+
+11.0
+1210
+25
+
+6.5
+759
+34
+
+Technology
+
+Percent of area equipped with technology
+0
+0
+2.3
+23.4
+35.9
+34.3
+4.1
+
+0
+0.7
+7.9
+8.3
+42.5
+38.2
+2.4
+
+Traditional (furrow)
+Hand-moved
+Above-canopy
+Drag-line
+Solid-set
+Micro-sprinkler
+Drip
+a
+
+50.3
+0
+0
+0
+5.6
+44.1
+0
+
+0
+0
+0
+32.0
+5.4
+7.0
+45.6
+
+0
+0
+0
+40.5
+28.9
+17.7
+12.0
+
+0
+0
+0
+21.4
+27.8
+48.6
+2.3
+
+Aggregated data not available.
+
+The period of interest for purposes of this study began in the fifties
+(although data for some technologies exist from the beginning of the
+century), when hand-moved sprinkers replaced the traditional furrow irrigation in some established groves and also became the irrigation technology introduced in newly established groves. The hand moved sprinklers
+
+TABLE 2
+Plantation and adoption periods for irrigation technologies in different regions in the
+sample
+Region
+
+Gaza
+
+Negev
+
+Lackish
+
+Rehovot
+
+Ra'anana
+
+Had era
+
+Plantation period
+
+1930-68
+
+1954-74
+
+1954-64
+
+1932-79
+
+1920-78
+
+1901-67
+
+to- tr
+
+to- tr
+
+to- tr
+
+1932-57
+1950-63
+1965-68
+1960-76
+1965-80
+1973-85
+1972-82
+
+1920-54
+1946-64
+1960-72
+1962-75
+1970-76
+1970-83
+1978-81
+
+1901-61
+1946-67
+1949-77
+1960-77
+1960-84
+1970-84
+1976-85
+
+Observed adoption period
+to- tr
+
+Furrow
+Hand-moved
+Above-canopy
+Drag-line
+Solid-set
+Micro-sprinklers
+Drip
+
+to- tr
+
+to- tr
+
+1930-68
+
+1977-78
+1975-83
+
+1954-64
+
+1954-64
+
+1960-73
+1961-81
+1970-85
+1967-86
+
+1962-72
+1970-80
+1975-81
+1970-81
+
+t 0 =first year with observations on adoption.
+t 7 = last year with observations on adoption.
+
+324
+
+A. DINAR AND D. YARON
+
+system, consisting of aluminum pipes, was labor-tensive and allowed very
+little flexibility with regard to irrigation schedule.
+Drag-line systems which were first introduced in the early sixties have
+been in use for the longest period of time, although this technology is
+labor-intensive and very difficult to control. The introduction of solid set
+sprinkelrs both above and under the canopy saved labor and contributed to
+better control of water application to individual trees. Both of these
+technologies however, are capital intensive and labor extensive in comparison to the traditional furrow irrigation. Other disadvantages associated
+with the solid set technologies involve operational difficulties, irrigation
+water uniformity, and salinity problems (in the case of above-canopy).
+Micro-jet and micro-sprinker systems (hereafter referred to as microsprinklers) introduced in the seventies are capital intensive, but require
+only low water pressure, save labor, provide better irrigation water uniformity, and are easy to control. Drip irrigation systems demonstrate the
+same advantages as micro-sprinkers, and are also less capital intensive than
+micro-sprinklers.
+For the purpose of estimating the effect of economic variables on
+diffusion, three variables were used. The first variable is the export price
+(P1 _ 1 ) for the shamuti variety of citrus ($ per 10 kg), on the assumption
+that shamuti prices represent other citrus variety prices. (Shamuti is also
+the main crop in the data base.) The information for constructing this
+variable was collected from data recorded in the Statistical Abstract of
+Israel (various years) with values represented in 1984 constant dollars. The
+second explanatory variable is water price ( P1"!_), calculated in $ jm 3
+(1233.5 m 3 = 1 acre-foot) from the Statistical Abstract of Israel (various
+years) assuming the same price for all regions. This assumption is quite
+reasonable under conditions prevailing in Israel since water prices are
+dictated by a central authority which does not discriminate among regions.
+The third variable is the subsidy rate (S 1 _ 1 ) on government loans for
+irrigation equipment (Israel Ministry of Agriculture, various years). These
+rates may differ by technologies, but it is assumed that no difference exists
+between regions. This assumption holds for the regions included in the
+data base, but not necessarily for other regions which may receive preferred subsidy rates.
+For the purpose of estimating the diffusion logistic curves for solid set,
+micro-sprinklers, and drip, no distinction is made among regions and all
+209 observations are grouped in one data set.
+RESULTS
+
+Data on the current shares of the different irrigation technologies in
+various regions are presented in Table 1. In 1987, more than 50% of the
+
+325
+
+IRRIGATION TECHNOLOGIES
+
+grove area (groves and growers may be used hereafter in the same context)
+was equipped with modern irrigation technologies. The diffusion processes
+of these technologies began in the ealry sixties to the early seventies
+depending on the region and the irrigation technology (Table 2). Handmoved sprinklers were adopted in the fifties in five regions, but by 1987 this
+system was no longer in use (except for less than 1% of the area in
+Hadera). Above-canopy sprinklers were adopted in the three northern
+regions (Rehovot, Ra'anana, and Hadera), but are found today in only
+2.3% and 7.9% of grove area in Ra'anana and Hadera regions, respectively. Drag-line sprinklers were adopted by growers in five regions but are
+used today on only 32% of the citrus groves in Negev, 40.5% in Lackish,
+21.4% in Rehovot, 23.8% in Ra'anana, and 8.3% in Hadera.
+For each irrigation technology with declining use over time, data are
+available on the number of groves currently practicing that technology (as
+of 1987), and annual number of adopters from as early as 1901 to 1987. The
+missing piece of information relates to the number of growers abandoning
+the technology each year. The procedure developed to estimate the technology cycle was applied to the data on furrow, hand-moved, above-canopy,
+drag-line, solid-set, and micro-sprinklers for each region separately. (The
+technology cycle can not be applied to technologies still in a diffusion
+process using the approach developed here.) Results for the technology
+cycle estimates are presented in Table 3. The estimated technology cycle
+for furrow irrigation is 26-30 years; the cycle for hand-moved sprinklers is
+22-24 years, for above-canopy sprinklers it is 26-28 years; for drag-line
+sprinklers it is 17-20 years; for solid-set sprinklers it is 17 years (only in the
+Negev); and for micro-sprinklers the cycle is 15-17 years (only for Negev
+and Hadera Regions). In general, the Negev and Lackish regions exhibit
+shorter technology cycles for all irrigation technologies than the other
+
+TABLE 3
+Estimated irrigation technology cycles (years)
+Tech.
+
+Gaza
+
+Furrow
+Hand
+Above
+Drag
+Solid
+Micro
+Drip
+
+28
+
+*
+
+Negev
+
+Lackish
+
+22
+
+23
+
+18
+17
+15
+
+Note: - Was not in use.
+
+*
+*
+
+Rehovot
+
+Ra'anana
+
+Hadera
+
+18
+
+30
+24
+26
+20
+
+26
+22
+27
+19
+
+26
+23
+28
+17
+
+*
+*
+*
+
+*
+*
+*
+
+*
+*
+*
+
+17
+
+Still in the diffusion process.
+
+*
+*
+
+326
+
+A. DINAR AND D. Y ARON
+
+regions. However, these differences were not found to be statistically
+significant.
+The number of farmers using a particular irrigation technology being
+renounced, was calculated for each region using the technology cycle. Then
+quadratic logistic equations were estimated using a non-linear, iterative,
+least squares procedure (SAS, 1985). Since there is a tremendous volume of
+information, only results for Rehovot and Hadera regions are presented in
+Table 4. A curve depicting the estimated diffusion and abandonment of
+drag-line sprinklers in Hadera region is presented in Fig. 2. Results for all
+regions and technologies can be found in Dinar and Yaron (1988).
+The coefficients presented in Table 4 (and additional coefficients that
+are not presented) were used to estimate the year when the diffusion
+process reached its ceiling for different technologies. Application of the
+procedure (equation 9) to the drag-line sprinkler equation (Table 4),
+indicates that the ceiling was reached 15-19 years after the beginning of
+the diffusion process (depending on the region). For technologies being
+renounced (but not yet abandoned), the coefficients in Table 4 also make it
+possible to estimate, the year when a technology will be fully abandoned.
+
+TABLE 4
+Estimated logistic quadratic diffusion and abandonment curves for technologies being
+abandoned, by regions a
+Irriation technology
+Furrow
+
+Hand-moved
+
+Above canopy
+
+Drag-line
+
+Rehovot region
+Rz
+0.865
+bj
+0.403
+(0.054)
+-25.15
+bz
+(3.817)
+482.09
+b3
+(66.263)
+
+0.800
+0.168
+(0.025)
+-4.14
+(0.857)
+40.92
+(7.057)
+
+0.565
+0.995
+(0.284)
+-2.77
+(5.268)
+61.29
+(21.998)
+
+0.957
+0.132
+(0.016)
+-3.59
+(0.582)
+46.64
+(4.926)
+
+Hadera region
+Rz
+0.908
+bj
+0.430
+(0.031)
+-36.91
+bz
+(2.997)
+916.86
+b3
+(70.943)
+
+0.836
+0.237
+(0.032)
+-7.24
+(1.259)
+76.91
+(11.924)
+
+0.764
+0.819
+(0.262)
+-25.10
+(9.693)
+333.62
+(86.623)
+
+0.926
+0.444
+(0.049)
+-11.02
+(1.556)
+103.91
+(11.923)
+
+In parentheses are asymptotic standard deviations of the coefficients.
+a Results are presented for only two regions. Additional results are available upon request.
+
+IRRIGATION TECHNOLOGIES
+
+327
+
+For the drag-line sprinklers that were still in use on small portions of
+groves in the various regions, it is estimated (not presented) that this
+technology will disappear 30-35 years after initial adoption. Specifically, it
+is estimated that during the year 1990, drag-line systems will no longer be
+used in the Negev, lackish, and Hadera regions; and in 1995 they will also
+disappear from Rehovot and Ra'anana regions. Similar estimates exist for
+other technologies and are available upon request.
+The three 'modern technologies' - solid-set sprinklers, micro-sprinklers
+and drip systems - are used in all regions (except for Gaza where drip was
+not used). Therefore, aggregated logistic diffusion curves were estimated
+for the sample data. A range of lag periods from 1 year to 5 years was used
+in the analysis (not presented), however, a lag of one year provided the
+most reasonable results. A one-year lag is therefore used here, assuming
+that a decision regarding the installation of a technology in year t depends
+upon conditions existing in year t - 1. Some difficulties were encountered
+in estimating these logistic curves. In all cases the Durbin-Watson (D.W.)
+statistic is in the intermediate range, indicating inconclusive results with
+regard to positive serial correlation. Draper and Smith (1981) suggest such
+cases be treated as if a serial correlation had been found. Because of these
+difficulties, the coefficients are not presented. In order to correct for the
+possible presence of first order serial correlation, the Hildreth-Lu procedure (Pyndick and Rubinfeld, 1981) was applied. The corrected logistic
+expression is now:
+(12)
+
+where
+N 1 = N 1 - yN1 _
+
+1
+
+Pt-1 = Pt-1- yPt-2
+Pt"'!_I =Pt"'!_l- yPt"'!_2
+
+and
+st-1 = st-1- ySt-2
+
+and y is a scalar of grid values (0 ~ y ~ 1).
+Equation (12) was estimated for a range of y values using the same
+procedure as equation (10). The chosen value for y is that given by the
+smallest sum of squared residual for the regression runs. The chosen values
+of y are presented in Table 5 for each technology; an autoregressive
+transformation was performed and the results of the regression runs are
+also presented. Values for the D.W. statistic are now higher than in the
+
+328
+
+A. DINAR AND D. YARON
+
+TABLE 5
+
+Logistic curves for the diffusion of several modern irrigation technologies (corrected for
+serial correlation)
+Dependant variable:
+
+Share of groves using the technology
+Irrigation technology
+
+"Y
+
+Asymptotic R 2
+d'I
+d'2
+
+rfio
+1/1 3 (yield price)
+1/14 (water)
+1/15 (subsidy)
+
+D.W.
+Actual share of
+adopters at 1987
+
+Solid-set
+
+Micro-sprinkler
+
+Drip
+
+0.2
+0.997
+0.358
+(0.003)
+-4.93
+(0.178)
+0.352
+(0.014)
+0.00044
+(0.0012)
+0.00052
+(0.0018)
+0.01
+(0.0063)
+2.01
+
+0.3
+0.997
+0.561
+(0.006)
+-8.26
+(0.279)
+0.419
+(0.014)
+0.00300
+(0.0008)
+0.00481
+(0.0013)
+0.03
+(0.0072)
+1.95
+
+0.4
+0.995
+0.234
+(0.003)
+-6.34
+(0.246)
+0.308
+(0.013)
+0.00310
+(0.0010)
+0.00550
+(0.0021)
+0.05
+(0.0099)
+1.98
+
+0.35
+
+0.51
+
+0.22
+
+In parenthesis are asymptotic standard deviations.
+
+original regression, indicating that no serial correlation exists in the transformed estimated residual.
+In all cases the estimated ceiling (d{) is higher than the actual share of
+adopters in 1987, indicating that the diffusion process will reach its ceiling
+after that year. All coefficients affecting the diffusion process behave as
+reported in the literature: an increase in shamuti export price, in water
+price, and in subsidy rate for modern irrigation equipment, will increase
+the share of the modern technologies used in citrus groves. These findings
+are in agreement also with results provided by Caswell and Zilberman,
+1985). The speed at which the ceiling will be reached can also be influenced by those variables. For example (not presented in the tables), if
+export prices remain at 1987 level while holding all other variables constant, ceiling will be reached in the years 1999, 2000, and 2001 for solid-set,
+micro-sprinklers, and drip, respectively. If export prices increase by 10%
+ceiling will be reached one year earlier than in the previous case for all
+technologies. A decrease of the same rate in export price will result in a
+one-year delay in approaching the ceiling for all technologies.
+
+329
+
+IRRIGATION TECHNOLOGIES
+
+-
+
+soIll
+..._
+
+/
+
+CD
+Ill
+
+::::>
+
+.....
+
+I
+
+50
+
+0
+
+..._
+CD
+.£l
+
+E
+
+/
+
+::l
+
+30
+
+I
+
+-
+
+/
+
+/
+
+I
+
+I
+
+40
+
+z
+
+/
+
+/
+
+-
+
+//
+
+I
+
+/
+
+25~/ 20% /
+
+I 15%
+
+Subsidy rate for
+investment in
+irrigation equipment
+
+v / / -//
+~--
+
+/-
+
+/
+
+I
+
+2001
+
+1997
+
+1994
+year
+
+Fig. 3. Effect of subsidy for irrigation equipment on the diffusion of drip (national data).
+
+There are some tradeoffs between greater use of modern technologies,
+or shorter adoption periods, and social cost. For example, in case of
+externalities in the production process related to irrigation, a regional
+authority might be interested in transition to more efficient irrigation
+technologies. This change is associated with additional investment that
+might be subsidized by society through tax dollars, and should therefore be
+evaluated in this regard. The effect of changes in subsidy rates for irrigation equipment on diffusion of drip is demonstrated in Fig. 3. A subsidy
+
+.25
+,.......
+I"')
+
+E
+
+.20
+
+CD
+0
+
+.15
+
+'-...
+~
+"i:
+
+Substitution
+rate
+.1
+
+=
+
+0..
+
+..._
+Q)
+
+0 .10
+
+!so-time__/
+curve
+
+3:
+
+.05
+5
+
+10
+
+15
+
+20
+
+25
+
+Subsidy rate (%)
+
+Fig. 4. Substitution between water price and subsidy for irrigation equipment in order to
+reach the ceiling of the diffusion process for drip at year 2000 (national data).
+
+330
+
+A. DINAR AND D. Y ARON
+
+rate for irrigation equipment of 20% would result in reaching the ceiling
+four years earlier (1997 instead of 2001) than with a subsidy rate of 15%,
+where as with a subsidy rate of 25%, the diffusion reaches ceiling in 1994.
+The time gained by the increased subsidy can be weighted against possible
+losses resulting from continued use of the existing irrigation technology.
+Another demonstration of the usefulness of the results is presented in
+Fig. 4. Here two policy variables are substituted in order to achieve the
+ceiling of the diffusion process for drip irrigation at year 2000: water price
+and subsidy rate, both of which can be controlled by the government and
+used for policy purposes. By drawing a substitution curve between these
+two policy variables (using the estimated equation for drip irrigation in
+Table 5), it was found that the substitution rate is larger in cases where
+water prices are high (substitution rate of 0.1) than in cases of low water
+prices (substitution rate of 0.05). These findings can, therefore, serve the
+policy maker to optimize the combination between these two variables.
+CONCLUSIONS
+
+In this study adoption and abandoment processes of irrigation technologies in citrus groves were estimated and depicted. Data from Israel and
+Gaza were used to: (1) estimate technology cycles for different irrigation
+technologies, (2) estimate, using the technology cycle, the process of
+diffusion-abandonment of technologies already in the process of renouncement, and (3) confirm hypotheses established in previous theoretical and
+empirical studies with regard to the effects of input and output prices on
+the diffusion processes of irrigation technologies still in the diffusion phase.
+It was found that the technology cycle length for a given technology is
+dependent only on the technology and not on physical conditions prevailing
+in different regions (e.g., weather, soil types etc.). For technologies being
+abandoned, the technology cycle was used to estimate the year of discontinuance. These findings can serve policy makers of developing agricultural
+regions, as well as manufacturers of irrigation equipment who are interested in predicting years of use for a given technology.
+In many cases, policy makers must consider the effects of possible
+policies on the behavior of growers in order to achieve changes in resources
+use. For example, in the United States, the new 1990 Farm Bill considers
+policies to improve water conservation and reduce pollution problems. In
+Asia, as irrigation water becomes the binding constraint for rice production, improvements in irrigation efficiencies will need to be found. Studies
+suggest, among other means, that farmers should improve their irrigation
+performances by transition to modern irrigation practices. The current
+study, although based on data from one region, provides insights that can
+
+IRRIGATION TECHNOLOGIES
+
+331
+
+be used elsewhere. Effects of input and output prices on diffusion of
+modern irrigation technologies were estimated and used to demonstrate
+the effectiveness of possible combinations of policy variable levels on
+achieving a range of technology diffusion rates. These variables were found
+to be very effective in determining rate and ceiling of the diffusion process.
+ACKNOWLEDGEMENT
+
+This study was supported in part by the U.S. Agency for International
+Development to the Hebrew University of Jerusalem as a part of a
+Tri-national Egypt-Israel-U.S.A. Project- Patterns of Agricultural Technology Exchange and Cooperation in a Similar Ecosystem: The Case of
+Egypt and Israel.
+The authors thank the specialists of the Agricultural Extension Service
+in Israel and Gaza for help in data collection. Helpful comments to this
+version were provided by the Editor-in-Chief and an anonymous reviewer.
+REFERENCES
+Bishop, R. and Coughenour, C.M., 1964. Discontinuance of farms innovations. Bull. AE
+361, Department of Agricultural Economics and Rural Sociology, Ohio State University,
+Columbus, OH.
+Cameron, H.M. and Metcalfe, J.S., 1987. On the economics of technological substitution.
+Techno!. Forecast. Social Change, 32: 147-162.
+Casterline, G., Dinar, A. and Zilberman, D., 1989. The adoption of modern irrigation
+technologies in the United States. In: A. Schmitz (Editor), Free Trade and Agricultural
+Diversification: Canada and the United States. Westview, Boulder, CO, pp. 222-248.
+Caswell, M. and Zilberman, D., 1985. The choices of irrigation technologies in California.
+Am. J. Agric. Econ., 67: 224-234.
+Coughenour, C.M., 1961. The practice-use tree and the adoption, drop-out, and non-adoption of recommended farm practices: a progress report. Paper presented at Rural
+Sociological Society Meeting, Ames, IA.
+Deutschmann, P.J. and Hevens, A.E., 1965. Discontinuances: a relatively uninvestigated
+aspect of diffusion. Department of Rural Sociology, University of Wisconsin, Madison,
+WI.
+Dinar, A. and Letey, J., 1989. Economic analysis of charges and subsidies to reduce
+agricultural drainage pollution. In: J.B. Summers (Editor), Proc. 2nd Pan-American
+Regional Conf. Toxic Substances in Agricultural Water Supply and Drainage - An
+International Environmental Perspective, Ottawa, Ont., Canada - U.S. Committee on
+Irrigation and Drainage, Denver, CO, 8-9 June, pp. 53-70.
+Dinar, A. and Yaron, D., 1988. Adoption of new irrigation technologies in citrus: Process
+description and the influence of inputs scarcity and quality. Final report, TATEC-Patterns of Agricultural Technology Exchange and Cooperation in Similar Ecosystem: The
+Case of Egypt and Israel. A Tri-national Project Egypt-Israel-U.S.A., 71 pp.
+Dinar, A. and Zilberman, D., 1991. Effects of input quality and environmental conditions on
+selection of irrigation technologies. In: A. Dinar and D. Zilberman (Editors), The
+
+332
+
+A. DINAR AND D. YARON
+
+Economics and Management of Water and Drainage in Agriculture. Kluwer, Boston,
+MA, pp. 229-250.
+Draper, N.R. and Smith, H., 1981. Applied Regression Analysis (2nd Edition). Wiley, New
+York.
+Easingwood, C.J., 1988. Product life cycle patternsfor new industrial products, R&D
+Manage., 18: 23-32.
+Feder, G., Just, R.E. and Zilberman, D., 1985. Adoption of agricultural innovations in
+developing countries, a survey. Econ. Dev. Cult. Change, 33: 255-298.
+Feder, G., Onchan, T., Chalamwong, Y. and Holgladarom, C., 1988. Land Policies and
+Farm Productivity in Thailand. Johns Hopkins University Press for Wold Bank.
+Fishelson, G. and Rymon, D., 1989. Adoption of agricultural innovation: the case of drip
+irrigation of cotton in Israel. Techno!. Forecast. Social Change, 35: 375-382.
+Fisher, J.C. and Pry, R.H., 1971. A simple substitution model for technological change.
+Techno!. Forecast. Social Change, 2: 75-84.
+Grilliches, Z., 1960. Hybrid corn and the economics of innovations. Science, 132: 275-280.
+Guttman, J.M. and Haruvi, N., 1986. Cooperating and part-time farming in the Israeli
+moshv. Am. J. Agric. Econ., 68: 77-87.
+Hayami, Y. and Ruttan, V.W., 1971. Agricultural Development: An international Perspective. Johns Hopkins University Press, Baltimore, MD.
+Israel Ministry of Agriculutre, various years. Bureau of the Water, Department for irrigation efficiency, Price Lists and Loan Terms. Tel Aviv, Israel (in Hewbrew).
+Jansen, H.G.P., Walker, T.S. and Barker, R., 1990. Adoption ceilings and modern coarse
+cereal cultivars in India. Am. J. Agric. Econ., 72: 653-663.
+Jarvis, L.S., 1981. Predicting the diffusion of improved pasture in Uruguay. Am. J. Agric.
+Econ., 63: 496-502.
+Kislev, Y. and Shchori-Bachrach, N., 1973. The process of an innovation cycle. Am. J. Agric.
+Econ., 55: 28-37.
+Kulshreshtha, S.N., 1989. Irrigation and prairie agricultural development. In: A. Schmitz
+(Editor), Free Trade and Agricultural Diversification: Canada and the United States.
+Westview, Boulder, CO, pp. 222-248.
+Mansfield, E., 1963. Intrafirm rates of diffusion of an innovation. Rev. Econ. Stat., 45:
+348-359.
+Pindyck, R.S. and Rubinfeld, D.L., 1981. Econometric Models and Economic Forecasts
+(2nd Edition), McGraw-Hill, New York.
+Rifas, B.E., 1957. Replacement models. In: C.W. Churchman, R.L. Ackroff and E.L. Arnoff
+(Editors), Introduction to Operations Research, Wiley, New York.
+Rogers, E.M., 1983. Diffusion of Innovations (3rd Edition). Free Press, New York. SAS,
+1985. SAS User's Guide: Version 5 Edition. SAS Institute Inc., Cary, NC.
+Statistical Abstract of Israel, various years. Central Bureau of Statistics, Jerusalem.
+Thirtle, G.C. and Ruttan, V.W., 1987. The Role of Demand and Supply in the Generation
+and Diffusion of Technical Change. A volume of the Economics and Technological
+Change section, edited by F.M. Scherer, Harwood Academic Publications, New York.
+
+

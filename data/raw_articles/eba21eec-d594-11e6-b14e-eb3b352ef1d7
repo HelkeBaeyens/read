@@ -1,0 +1,989 @@
+AGRICULTURAL
+ECONOMICS
+
+ELSEVIER
+
+Agricultural Economics 18 (1998) 157-165
+
+Efficiency and technical progress in traditional and modern
+agriculture: evidence from rice production in China
+Xiaosong Xu
+a
+
+a,
+
+Scott R. Jeffrey
+
+b,
+
+*
+
+Centre for Chinese Agricultural Policy, Chinese Academy of Agricultural Sciences, Beijing, China
+b Department of Rural Economy, University of Alberta, Edmonton, Alberta, Canada T6G 2Hl
+
+Accepted 18 October 1997
+
+Abstract
+Productive efficiency for Chinese hybrid and conventional rice production is estimated using a dual stochastic frontier efficiency
+decomposition model. Results reveal significant differences in technical and allocative efficiency between conventional and hybrid rice
+production, and indicate significant regional efficiency differences in hybrid rice production, but not in conventional rice production. © 1998
+Elsevier Science B.V.
+Keywords: Hybrid rice production; Conventional rice production; Stochastic frontier efficiency
+
+1. Introduction
+
+The continuous creation/introduction of new
+technology has been used as a standard for distinguishing a modem agricultural system from a traditional system (Schultz, 1964). However, in developing countries, some new agricultural technologies
+have been only partially successful in improving
+productive efficiency. This is often attributed to a
+lack of ability and/ or willingness to adjust input
+levels on the part of producers, due to familiarity
+with traditional agricultural systems (i.e., Schultz's
+'poor but efficient' hypothesis) andI or the presence
+of institutional and cultural constraints (Ghatak and
+lngerset, 1984). These considerations suggest that, in
+some cases, there may exist a negative relationship
+between technical progress in conventional agriculture and realized efficiency gains.
+
+*
+
+Corresponding author.
+
+This paper examines efficiency for hybrid rice in
+China. Rice is a very important crop in Chinese
+agriculture. Since 1976, F1 hybrid varieties 1 have
+become increasingly important in Chinese rice production, relative to 'conventional' rice varieties,
+which are predominantly improved semi-dwarf varieties. 2 In 1990, approximately 40% of China's rice
+was planted in hybrid rice (Lin, 1994). While hybrid
+
+1 F hybrids are a type of high yielding variety of rice. The
+1
+production of F 1 hybrid seed involves a complicated three-line
+method (Lin, l99la). First, a cytoplasmic male-sterile parent plant
+is located. This plant is then crossed with a maintainer line to
+produce offspring that, while sterile, have desirable genetic characteristics. These seeds are then crossed with a 'restorer' line to
+produce F 1 seeds with normal self-fertilizing capabilities.
+2 Strictly speaking, conventional rice varieties currently being
+used in China are not traditional in the Schultz sense but are
+instead post 'green revolution' varieties. Therefore, the newer
+hybrid rice vruieties are 'third generation' varieties.
+
+0169-5150/98/$19.00 © 1998 Elsevier Science B.V. All rights reserved.
+Pll SO 169-5150(97)00050-9
+
+158
+
+X. Xu, S.R. Jeffrey/ Agricultural Economics 18 (1998) 157-165
+
+rice has been introduced to some other rice producing countries, China is the only country in the world
+in which hybrid rice is widely used in commercial
+production.
+The Chinese government often influences the diffusion of new agricultural technologies according to
+its self-sufficiency objective. As a result, the importance of efficiency considerations in the adoption
+decision regarding hybrid rice at the regional and
+producer level is uncertain. The measurement of
+technical and economic efficiency for hybrid rice
+production, and the relationship of efficiency and
+producer socioeconomic characteristics would be
+useful in addressing these issues. While other studies
+have examined economic issues related to the adoption and production of hybrid rice (e.g., He et al.,
+1984, 1987; Lin, 1991a,b, 1992, 1994), little attention has been given to the examination of efficiency
+for hybrid rice production in China.
+Most studies that examine efficiency in developing country agriculture have focused on technical
+efficiency (Bravo-Ureta and Pinheiro, 1993). While
+physical productivity considerations are important,
+improvements in economic efficiency will lead to
+greater benefits to agricultural producers in these
+countries. Previous studies have examined efficiency
+in rice production for other developing countries
+(e.g., Dawson et al., 1991; Kalirajan, 1991). However, few studies have examined the effects of technical change on efficiency.
+The primary purpose of this paper is to examine
+the effects of technical change on efficiencies of
+traditional and modem agriculture within the context
+of rice production in China, i.e., to provide a test of
+Schultz's 'poor but efficient' hypothesis. In doing
+so, both technical and economic efficiencies are
+considered within the context of technical change
+(i.e., adoption of hybrid rice). A secondary objective
+is to examine the linkage between efficiency in rice
+production and producer socioeconomic characteristics in order to provide information that may be
+useful in analysing the effects of policies designed to
+improve the productivity of new agricultural technologies.
+These objectives are achieved through an examination of productive efficiency for conventional and
+hybrid rice in China. Two frontier production functions are estimated; one for conventional rice and
+
+one for hybrid rice. These functions are then used to
+measure the degree of efficiency for Chinese rice
+production.
+The remainder of this paper is organized as follows. A brief review of frontier production function
+methodology is provided in Section 2. This is followed by a discussion of the analytical model used
+in the study, and a description of the study regions
+and data. The results of the analysis are then presented and discussed. Section 6 summarizes the
+study's findings and provides some concluding comments.
+
+2. Efficiency and frontier production functions
+Farrell (1957) distinguishes between technical and
+allocative efficiency (or price efficiency) in production through the use of a 'frontier' production function. Technical efficiency is the ability to produce a
+given level of output with a minimum quantity of
+inputs under certain technology. Allocative efficiency refers to the ability of choosing optimal input
+levels for given factor prices. Economic or total
+efficiency is the product of technical and allocative
+efficiency. An economically efficient input-output
+combination would be on both the frontier function
+and the expansion path.
+Empirical studies of productive efficiency have
+used a variety of approaches in modelling frontier
+production functions; parametric vs. nonparametric,
+deterministic vs. stochastic, and programming methods vs. statistical methods. Battese (1992) provides a
+review of parametric efficiency methods, both deterministic and stochastic. Bravo-Ureta and Pinheiro
+(1993) provide a review of empirical studies relating
+to farm level production efficiency in developing
+countries.
+Given the alternative empirical tools available, the
+choice as to the 'best' method is unclear. Little
+rigorous analysis has been done in assessing the
+sensitivity of efficiency measures to the choice of
+methodology. Bravo-Ureta and Rieger (1990) compare the results of deterministic (both programming
+and econometric analyses) and stochastic parametric
+efficiency models for a sample of US dairy farms.
+While the estimates from each approach differ quantitatively, the ordinal efficiency rankings of farms
+
+X. Xu, S.R. Jeffrey/ Agricultural Economics 18 ( 1998) 157-165
+
+obtained from the different models appear to be quite
+similar. This would suggest that, to a certain degree,
+the choice between alternative modelling approaches
+may be somewhat arbitrary.
+
+3. Analytical model and empirical methods
+This study employs a stochastic parametric decomposition and neoclassical duality model to measure the technical, allocative and economic efficiency of hybrid and conventional rice production in
+China. The stochastic frontier production function
+model is specified as follows:
+
+( 1)
+where Y is output (i.e., yieldjha), x. denotes the
+actual input vector (i.e., input usejha), fJ is the
+vector of production function parameters, v is a
+random error term with zero mean and u is a nonnegative one-sided error term.
+The frontier production function is represented by
+f(X.,fJ), and is a measure of maximum potential
+output for any particular input vector x •. Both v and
+u cause actual production to deviate from this frontier. The random variability in production that cannot
+be influenced by producers is represented by v (e.g.,
+environmental factors such as temperature and moisture); it is identically and independently distributed
+as N(O, a}) and may be considered as the 'normal'
+error term. The non-negative error term u represents
+deviations from maximum potential output attributable to technical inefficiency; u is identically
+and independently distributed 'half normal' (i.e.,
+IN(O, a-})1). 3
+The use of stochastic, parametric methodology is
+consistent with recent agricultural production efficiency studies (e.g., Bravo-Ureta and Evenson, 1994;
+Kumbhakar, 1994; Parikh and Shah, 1994). There
+are also some conceptual advantages to using a
+
+3 Recently, the question of the most appropriate distribution for
+the compound error term has arisen (Bravo-Ureta and Pinheiro,
+1993). While more flexible distributional assumptions may be
+made for u (e.g., Greene, 1990), there is no rigorous evidence that
+these improve results. Likewise, most empirical stochastic production function studies use the half-normal distribution.
+
+159
+
+stochastic approach, as it allows for statistical noise
+rather than attributing all deviations to efficiency
+differences. Finally, this approach is relatively
+straightforward to implement and interpret.
+A Cobb-Douglas functional form is employed to
+model rice production technology in this study. While
+more flexible functional forms than the CobbDouglas may be chosen for modelling frontier agricultural production technology (e.g., the translog used
+by Kumbhakar, 1994), Kopp and Smith (1980) suggest that functional form has a limited effect on
+empirical efficiency measurement. The CobbDouglas form has been used in many empirical
+studies, particularly those relating to developing
+country agriculture. 4 The Cobb-Douglas functional
+form also meets the requirement of being self-dual,
+allowing an examination of economic efficiency.
+The frontier production function model is estimated using Maximum Likelihood procedures. In
+order to empirically measure technical efficiency, the
+deviations from the frontier must be separated into a
+random component (i.e., v) and an inefficiency component (i.e., u). Given the distributional assumptions
+for u and v, the Maximum Likelihood estimation
+provides sufficient information to calculate a conditional mean for u (Jondrow et al., 1982). From this
+calculation, estimates of u and v may be determined.
+Technical efficiency is empirically measured using adjusted output (Y *) for each firm. Adjusted
+output represents the observed output (Y) adjusted
+for statistical noise, and is calculated as follows:
+
+Y * = f( x.;fJ)- u = Y- v
+
+(2)
+
+where x. represents actual input use, j() is the
+'deterministic' frontier output, and u and v are
+estimates of the random and inefficiency components
+of overall deviations from the frontier.
+Fig. 1 illustrates the difference between observed
+and adjusted output. For firm i, Xi is the vector of
+actual input use and Yi is the observed output. Given
+the level of input use, the frontier output is represented by A. This is greater than the deterministic
+frontier output (i.e., B = f(Xi; fJ)) due to favourable
+
+4 The review by Battese ( 1992) of frontier production functions
+provides an indication of the frequency with which Cobb-Douglas technology is assumed in these studies.
+
+X. Xu, S.R. Jeffrey/ Agricultural Economics 18 (1998) 157-165
+
+160
+
+Output (Y)
+
+f(X.;fJ)
+
+0
+
+X,
+
+Xi
+
+Inputs (X)
+
+Fig. 1. Stochastic frontier production function.
+
+function is· derived from the original frontier production function, xe is both allocatively and technically
+efficient.
+The technically efficient, economically efficient
+and actual input vectors (XI' Xe and Xa, respectively) may be combined with the input price vector
+P to compute technical efficiency (TE), economic
+efficiency (EE) and allocative efficiency (AE) indices, as follows:
+TE = ( x;P)j( X~P)
+EE = ( X~P)j( X~P)
+
+(3)
+
+AE = (EE)/(TE) = ( X~P)/( x;P)
+conditions (i.~e., vi> 0). The total deviation from the
+frontier function for this firm, as defined by Eq. (1)
+(i.e., u - u) is the distance BY;. This distance may
+be partitioned into the random component (i.e., u =
+AB) and the inefficiency component (i.e., u = AY)
+using the method developed by Jondrow et al. (1982).
+As indicated by Eq. (2), u; (i.e., distance A Y) is
+subtracted from the deterministic frontier output to
+obtain the adjusted output for firm i (Y; * ). Similarly,
+firm j uses inputs Xj to produce lj. Frontier output
+for this firm is C. The total deviation from the
+deterministic frontier function (i.e., DY) may be
+partitioned into the random component CD (i.e.,
+u < 0) and the inefficiency component CYr Adjusted
+output 1j * is equal to the deterministic frontier
+output minus uj (i.e., D- CYj).
+Adjusted output ( Y * ) is used to calculate the
+technical efficient input vector (X1). X 1 is derived
+by simultaneously solving Eq. (1) and the input
+ratios X 1 /X; = k; (i > 1) where k; is equal to the
+observed ratio of the two inputs (i.e., from Xa) in
+the production of Y *. Battese (1992) provides a
+detailed explanation of stochastic frontier production
+function methodology and the calculation of X 1•
+Given the assumption of Cobb-Douglas technology, the frontier production function is self-dual.
+Thus, the corresponding cost frontier can be derived
+analytically from the stochastic frontier production
+function estimate. Shephard's lemma is used to determine the set of conditional factor demand functions. These functions provide the economically efficient levels of input use (Xe), given a particular
+output level and set of input prices. Since the cost
+
+where x;P is the technically efficient cost of production, X~P is the economically efficient cost of
+production, and X~P is the actual cost of production
+for any particular firm's observed level of output. In
+all cases, efficient production is represented by an
+index value of 1.0, and lower index values represent
+less efficient production (i.e., a greater degree of
+inefficiency).
+
+4. Sample regions and study data
+The data used in this study are obtained from a
+cross-sectional survey of households in Jiangsu
+province in China. The survey was carried out from
+July 1985 to January 1986. Jiangsu province is located in the Yangtze River valley and is one of the
+most important rice producing areas in China, as the
+region's climate is well suited for rice production. In
+1986, the average rice yield in this province was
+6.76 metric tonjha, or 1.56 metric ton more than the
+national average. The area sown to rice and total rice
+output of the province, in 1986, represented 7.8 and
+9.8%, respectively, of the totals for China.
+Jiangsu province can be divided into three rice
+production regions: north (i.e., north of the Yangtze
+River valley), central (i.e., along the Yangtze River
+valley) and south (i.e., south of the Yangtze River
+valley). While natural agricultural production conditions are similar among these three regions, economic development has been rather unbalanced. In
+the south, the economy is relatively well developed.
+Peasants' annual income is approximately two times
+
+X. Xu, S.R. Jeffrey/ Agricultural Economics 18 (1998) 157-165
+
+161
+
+Table 1
+Economic profile of Jiangsu province, by study region (1986)
+Region"
+
+Average level of education for farm labour (yrjperson)
+Average nonfarm income per household (US$/yr)
+Average capital input into rice production (US$ /ha)
+Average labour input into rice production (day /hab)
+Average rice yield (tonjha)
+
+South
+
+Central
+
+North
+
+6.3
+144
+154
+242
+7.39
+
+4.8
+90
+127
+283
+6.78
+
+4.3
+45
+119
+293
+6.54
+
+Source: Jiangsu Provincial Statistical Yearbook, 1987.
+"The locations for the three regions are explained in the main body of the paper.
+bA day is equal to 8 h of labour.
+
+greater in the south than in the north. As shown in
+Table 1, peasants in the south are better educated
+than those in the north and central regions. Due to
+the greater development of non-farm rural industry
+in the south, farmers in this region also have significantly more off-farm income than those in the north
+and the central regions (Table 1).
+Significant differences also exist among the three
+regions in terms of relative input use in rice production. As shown in Table 1, the use of capital inputs is
+highest in the south region (i.e., 29% greater than in
+the north) and lowest in the north, while labour use
+on a per hectare basis is lowest in the south (i.e.,
+17% lower than in the north) and greatest in the
+north. Given these differences in the characteristics
+of agriculture between the three rice production regions of Jiangsu province, the north is defined as a
+traditional agricultural region while the central and
+the south are classified as more modern agricultural
+regions, for the purposes of this study.
+In establishing the sample for the farm household
+survey, two counties are selected from each region
+(i.e., south, central and north) on a random basis.
+The six counties selected from this process are Wu,
+jing and Jurong (south); Taixing and Jiandu (central),
+and Huaiyin and Dafeny (north). Within each of
+these counties, 15 conventional rice farmers and 15
+hybrid rice farmers are randomly selected as the
+sample households for the survey. This results in a
+total sample size of 180 rice households, distributed
+over 33 villages in the six counties.
+Each of these 180 households is surveyed with
+respect to output levels and input use in rice production, as well as socioeconomic characteristics. Rice
+
+production and input data are collected on a per
+hectare basis. Rice yield is expressed in terms of
+metric tonjha. Data are collected for five productive
+inputs; labour, chemical fertilizer, manurial fertilizer,
+machinery and irrigation services, and pesticides.
+Labour use is expressed as day jha, with 1 day being
+equal to 8 h of labour. Chemical fertilizer use is
+measured as metric tons of pure nutrient per hectare,
+while manurial fertilizer use is measured in value
+terms, aggregated by the local price. Machinery and
+irrigation services are aggregated using tractor service time. Pesticides are measured in terms of kgjha.
+In addition to input and output quantities, prices for
+input and output are collected on a regional average
+basis.
+Socioeconomic characteristics are also collected
+for the survey sample. These characteristics include
+household size, total number of years of schooling
+for household labour, average income from non-rice
+farm sources, average non-farm income and total
+area of rice production. These data are used in the
+analysis to identify important characteristics influencing efficiency of rice production.
+5. Empirical rtrsults
+
+Cross-sectional data for a sample of 90 hybrid
+rice (HR) households and 90 conventional rice (CR)
+households are used to estimate 'average' and frontier rice production functions. 5 The sample size for
+5 The average functions are estimated using OLS procedures
+and represent the results obtained from 'standard' production
+function analysis.
+
+X. Xu, S.R. Jeffrey/ Agricultural Economics 18 (1998) 157-165
+
+162
+
+the CR production function is 100, since some HR
+households are included in both samples (i.e., produce both hybrid and conventional rice). Dummies
+are included in the model to represent the south
+(D 1 = 1) and central (D 2 = 1) regions. Table 2 presents the maximum likelihood estimates of stochastic
+frontiers for HR and CR. Standard OLS estimates
+(i.e., the average functions) are provided for comparison.
+Some implications may be drawn from the results
+shown in Table 2. First, the constant term for the CR
+function is higher than that for the HR function
+(5.944 vs. 4.895). This lends credibility to the view
+that since CR varieties have been adapted over time
+for use in poor conditions with relatively low capital
+input use, they have a higher 'basic' yield (Hayami
+and Ruttan, 1985). Also, the regional yield differences captured by the dummy variables (D 1 and D 2 )
+are much greater for HR production than for CR
+production, particularly for the south region.
+The results in Table 2 also suggest that the response in HR production is much more elastic with
+respect to chemical fertilizer and pesticides than is
+the case for CR production. This is also true to a
+lesser extent for manurial fertilizer and machinery
+services. The opposite is true for labour input use,
+however. These results confirm the findings by Fan
+(1991) that 'modem' inputs (e.g., chemical fertilizers
+
+and machinery services) are becoming more important for Chinese agriculture over time, i.e., with the
+increase in hybrid rice production. Overall, HR production is more responsive to scale increases in the
+five inputs modelled in the analysis, i.e., the elasticity "of scale for the HR function is 0.804 vs. 0.387 for
+CR production.
+The HR and CR frontier functions are used, in
+combination with regional average input prices, to
+derive the frontier cost functions. The resulting cost
+frontiers are as follows:
+ln CeR
+
+=
+
+-6.005- 0.134D 1 - 0.269D 2
+
++ 0.289ln PL + 0.207ln Pep
++ 0.271ln
+
+PMP
+
++ 0.090ln PMs
+
++ 0.142ln PPE + 2.584ln Y *
+ln CHR = -1.995- 0.537D 1
+
+-
+
+( 4)
+
+0.286D 2
+
++ 0.114ln PL
++ 0.383ln Pep + 0.199ln PMP
++ 0.106ln PMs + 0.198ln PPE
++ 1.244ln Y *
+
+(5)
+
+where CeR and CHR represent variable costs of CR
+and HR production per hectare, respectively; Y * is
+'adjusted' rice yield (defined earlier); PL is labour
+
+Table 2
+Average production functions and stochastic frontier functions for hybrid and conventional rice production•·b
+Variable
+
+Hybrid rice (n = 90)
+Average
+
+Constant
+D1 (South)
+D2 (Central)
+Labour
+Chemical fertilizer
+Manurial fertilizer
+Machinery
+Pesticides
+Adjusted R 2
+uufuv
+
+4.786' * ' (15.56)
+0.459' * ' (8.69)
+0.250' •.•. (6.20)
+0.082 (1.14)
+0.323 * ' * (8.72)
+0.163 * * ' (5.28)
+0,078' ' (2.58)
+0.156' ' ' (8.92)
+0.80
+
+Conventional rice (n = 100)
+Frontier
+4.895' * ' (10.31)
+0.432 * ' * (6.15)
+0.230' ' ' (3.69)
+0.092 (0.85)
+0.308' ' ' (6.30)
+0.160' * ' (3.34)
+0.085 * ' (2.52)
+0.159' * ' (8.83)
+2.117.' (2.20)
+
+Average
+5.881' ' ' (30.79)
+0.057' ' * (3.29)
+0.116' ' ' (5.38)
+0.125' (1.90)
+0.067 * ' * (3.14)
+0.104 *' * (7.10)
+0.034' (1.41)
+0.056' ' ' (4.77)
+0.73
+
+Frontier
+5.944 *
+0.052'
+0.104'
+0.112'
+0.080'
+0.105'
+0.035 '
+0.055'
+
+' ' (30.91)
+
+' ' (3.08)
+* (2.64)
+* (2.61)
+
+' ' (3.89)
+' ' (6.41)
+(1.35)
+' ' (4.13)
+
+1.619' ' (2.65)
+
+0.081' ' (2.09)
+(]"2
+
+v
+
+a;/
+Log likelihood
+
+0.0034
+0.0153
+86.9
+
+0.0019
+0.0049
+140
+
+"The numbers in parentheses represent t-ratios for the average functions, and asymptotic t-ratios for the frontier functions.
+b '"''Represents significance at the 0.01 level; ''Represents significance at the 0.05 level; 'Represents significance at the 0.10 level.
+
+X. Xu, S.R. Jeffrey/ Agricultural Economics 18 (1998) 157-165
+
+cost (Yanjday); PcF and PMF are the unit costs of
+chemical and manurial fertilizer, respectively; PMs
+is the of the price of machinery service, measured as
+the cost of renting tractor services; Pps is the price
+of pesticides, weighted by the actual use of various
+pesticides.
+Using the cost frontiers, regional average prices
+and Eq. (3), the economic (EE), technical (TE) and
+allocative (AE) efficiency indices are computed for
+each producer. The resulting indices are summarized
+in Table 3.
+One result that may be drawn from Table 3 is that
+efficiency for HR production is lower than for CR
+production. This is consistent across regions, and for
+all three measures of productive efficiency. The relative (i.e., percentage) difference in allocative efficiency is greater than for technical efficiency. Not
+surprisingly, the greatest difference is in economic
+Table 3
+Efficiency measures for hybrid and conventional rice, by region"
+Regionb
+
+Hybrid rice
+
+TE
+
+EE
+
+AE
+
+Conventional rice
+
+TE
+
+EE
+
+AE
+
+Average
+SD
+Maximum
+Minimum
+Average
+SD
+Maximum
+Minimum
+Average
+SD
+Maximum
+Minimum
+Average
+SD
+Maximum
+Minimum
+Average
+SD
+Maximum
+Minimum
+Average
+SD
+Maximum
+Minimum
+
+South
+
+Central
+
+North
+
+0.85
+0.11
+0.90
+0.64
+0.61
+0.11
+0.77
+0.38
+0.72
+0.11
+0.89
+0.52
+0.94
+0.05
+0.98
+0.87
+0.83
+0.08
+0.93
+0.62
+0.88
+0.07
+0.97
+0.77
+
+0.78
+0.12
+0.87
+0.54
+0.52
+0.11
+0.76
+0.33
+0.67
+0.11
+0.85
+0.46
+0.91
+0.04
+0.97
+0.81
+0.80
+0.08
+0.93
+0.64
+0.86
+0.10
+0.96
+0.68
+
+0.74
+0.11
+0.88
+0.50
+0.49
+0.11
+0.67
+0.23
+0.66
+0.13
+0.79
+0.45
+0.87
+0.04
+0.97
+0.84
+0.74
+0.04
+0.93
+0.56
+0.85
+0.10
+0.96
+0.53
+
+aTE, EE and AE refer to technical efficiency, economic efficiency
+and allocative efficiency, respectively.
+bThe locations for the three regions are explained in the main
+body of the paper.
+
+163
+
+efficiency, since economic efficiency is calculated as
+the product of technical and allocative efficiencies.
+The degree of variability in efficiency is also greater
+for HR production than for CR production, as measured by the standard deviation. This evidence provides support, in the context of Chinese agriculture,
+to the theory about efficiency and technical progress
+in traditional agriculture, and supports the 'poor but
+efficient' hypothesis, i.e., farmers are allocatively
+efficient with traditional varieties.
+The other significant result that may be drawn
+from Table 3 is that productive efficiency is greater
+in the south than in the north. Efficiency values for
+the central region lie between those for the north and
+south. This difference is consistent for both HR and
+CR production, and for all three measures of productive efficiency. However, the observed differences
+are greater, on average, for HR production than for
+CR production.
+Relative to previous studies for other rice producing regions, Chinese rice production appears to display greater technical efficiency. For example, average technical efficiency estimates for rice production
+in the Philippines and Malaysia are 0.50 (Kalirajan
+and Flinn, 1983) and 0.65 (Kalirajan and Shand,
+1986), respectively. These differences are not surprising, as production decisions in China during the
+relevant time period (i.e., mid-1980's) were largely
+controlled by local government, and a goal of the
+Chinese government at that time was to maximize
+rice yield. Comparisons for allocative and economic
+efficiency are not made, as relatively few studies
+examine these aspects of productive efficiency.
+The efficiency calculations reveal significant differences among regions and peasants in HR production. Schumpterian theory of economic development
+suggests that technical efficiency is influenced by
+technical knowledge and understanding, as well as
+by the socioeconomic environment within which the
+farmer must make decisions (Kalirajan, 1990). Based
+on previous studies (Bravo-Ureta and Pinheiro,
+1993 ), three characteristics are chosen as indicators
+of this socioeconomic environment and are subsequently used as explanatory variables in the analysis
+of productive efficiency for HR production: (i) education, measured by average years of schooling for
+household labour; (ii) land size, measured by the
+total land area cultivated; and (iii) total household
+
+X. Xu, S.R. Jeffrey/ Agricultural Economics 18 (1998) 157-165
+
+164
+
+Table 4
+Statistical analysis of socioeconomic factors influencing efficiency of hybrid rice productiona,b
+Regionc
+
+South
+
+Central
+
+North
+
+Socioeconomic factors
+
+HREE
+HRTE
+HRAE
+HREE
+HRTE
+HRAE
+HREE
+HRTE
+HRAE
+
+Education
+
+Land size
+
+Non-farm income
+
+Rz
+
+F
+
+0.0127' (1.17)
+0.0093 •• (2.82)
+0.0019 (1.34)
+0.0028' (1.65)
+0.0006 •• (1.18)
+0.0045 (1.23)
+0.0012 (1.35)
+0.0161' ' (3.78)
+0.0026 (1.39)
+
+0.0152 •• (3.32)
+0.0027' (2.40)
+0.0141. ' (3.39)
+-0.0129 •• (- 2.33)
+0.0031. (1.92)
+-0.0126' * (- 2.49)
+-0.0041' (- 1.86)
+-0.0017 (-1.40)
+-0.015 * ' (3.78)
+
+0.0020. (1.73)
+0.0010' ' (2.45)
+0.0030' * (2.69)
+0.0010' * (2.20)
+0.0010. (1.74)
+0.0020 * (1.76)
+0.0010' (1.30)
+0.0013' * (1.83)
+0.0011 •• (1.75)
+
+0.63
+0.49
+0.61
+0.42
+0.45
+0.46
+0.36
+0.61
+0.31
+
+14.1
+7.4
+11.2
+5.2
+5.7
+6.3
+4.6
+12.7
+4.4
+
+aHREE, HRTE and HRAE are estimated economic, technical and allocative efficiency indices, respectively, for hybrid rice production.
+bThe numbers in parentheses are t-values. ''Represents significance at the 0.05 level; 'Represents significance at the 0.10 level.
+cThe locations for the three regions are explained in the main body of the paper.
+
+non-agricultural income. OLS procedures are used to
+estimate the relationship between productive efficiency and these characteristics.
+The underlying assumption in this type of procedure is that the explanatory variables are exogenous
+to the decisions made by producers. While this is
+likely true for land size and education, it is not
+normally the case for non-farm income. 6 Given the
+differences between regions in terms of off-farm
+employment opportunities, however, it may be argued that to a certain extent non-farm income is
+exogenous. Likewise, Kalirajan (1991) argues that
+since variables such as farm size, education and
+non-farm income have indirect influences on technical efficiency, it is appropriate to include these in a
+secondary analysis.
+The results of this analysis are presented in Table
+4. Overall, the explanatory ability of the three variables included in the analysis is limited (i.e., R 2
+values are generally less than 0.5), and not all regressions or parameter estimates are significant. Education appears to be a significant factor in explaining
+technical efficiency, but not as significant for allocative efficiency. A positive relationship appears to
+exist between land size, and economic and allocative
+efficiency in modern agricultural regions (i.e., the
+south), while the opposite is true for traditional
+
+6 The authors gratefully acknowledge the comments of an
+anonymous reviewer for raising this issue.
+
+agricultural areas (i.e., the north). This suggests that
+the predominantly small farm sizes may pose a
+constraint to technical change in more modern regions, but not in more traditional agricultural production areas. A similar analysis was conducted for CR
+production, but no significant relationships were
+found.
+
+6. Concluding comments and policy implication
+This paper uses a stochastic production and cost
+frontier to derive technical, allocative and economic
+efficiency of Chinese conventional rice and hybrid
+rice production. The results suggest that while HR
+production increases the potential economies of scale
+for Chinese rice production, observed productive
+efficiencies are lower than for CR production. The
+results of this study are consistent with 'poor but
+efficient' hypothesis; peasants are more efficient in
+allocating inputs for CR production than for HR
+production. This is consistent for both modern and
+traditional agricultural areas.
+Facing increasing population pressures, China has
+adopted policies designed to improve technical efficiency and total productivity. This study reveals a
+positive relationship between efficiency and education for HR production, thus, emphasizing the importance of considering peasants' abilities to receive and
+understand information relating to new agricultural
+technology. This study also determines that land size
+
+X. Xu, S.R. Jeffrey/ Agricultural Economics 18 (1998) 157-165
+
+is a positive factor in explaining the efficiency of HR
+in modern agricultural areas. This suggests that in
+modern agricultural regions, the predominantly small
+farm size may pose a restraint to technical change
+and thus, supports the argument for further liberalization in land markets.
+
+Acknowledgements
+The authors would like to thank V.W. Ruttan, the
+journal editor and anonymous journal reviewers, for
+their constructive comments.
+
+References
+Battese, G.E., 1992. Frontier production functions and technical
+efficiency: a survey of empirical applications in agricultural
+economics. Agric. Econ. 7, 185-208.
+Bravo-Ureta, B.E., Evenson, R.E., 1994. Efficiency in agricultural
+production: the case of peasant farmers in eastern Paraguay.
+Agric. Econ. 10, 27-37.
+Bravo-Ureta, B.E., Pinheiro, A., 1993. Efficiency analysis of
+developing country agriculture: a review of the frontier function literature. Agric. Res. Econ. Rev. 22, 88-101.
+Bravo-Ureta, B.E., Rieger, L., 1990. Alternative production frontier methodologies and dairy farm efficiency. J. Agric. Econ.
+41, 215-226.
+Dawson, P.J., Lingard, J., Woodford, C.H., 1991. A generalized
+measure of farm-specific technical efficiency. Am. J. Agric.
+Econ. 73, 1098-1104.
+Fan, S., 1991. Effects of technological change and institutional
+reform on production growth in Chinese agriculture. Am. J.
+Agric. Econ. 73, 266-275.
+Farrell, M.J., 1957. The measurement of production efficiency. J.
+R. Stat. Soc. Ser. A 120, 253-281.
+Ghatak, S., Ingerset, K., 1984. Agriculture and Economic Development. Johns Hopkins Univ. Press, Baltimore.
+Greene, W.H., 1990. A gamma-distributed stochastic frontier
+model. J. Econometrics 46, 141-163.
+
+165
+
+Hayami, Y., Ruttan, V.W., 1985. Agricultural Development: an
+International Perspective. Johns Hopkins Univ. Press, Baltimore.
+He, G., Te, A., Zhu, X., Travers, L.S., Lai X., Herdt, R.W., 1984.
+The Economics of Hybrid Rice Production in China. IRRI
+Research Paper Series 101, International Rice Research Institute, Los Banos, Philippines.
+He, G., Zhu, X., Flinn, J.C., 1987. Hybrid seed production in
+Jiangsu province, China. Oryza 24, 297-312.
+Jondrow, J., Lovell, C.A.K., Materov, I.S., Schmidt, P., 1982. On
+the estimation of technical inefficiency in the stochastic frontier production model. J. Econometrics 19, 233-238.
+Kalirajan, K., 1990. On measuring economic efficiency. J. Appl.
+Econometrics 5, 75-85.
+Kalirajan, K., 1991. The importance of efficient use in the adoption of technology: a micro panel data analysis. J. Productivity
+Anal. 2, 26-113.
+Kalirajan, K., Flinn, J.C., 1983. The measurement of farm-specific
+technical efficiency. Pakistan J. Appl. Econ. 2, 167-180.
+Kalirajan, K., Shand, R.T., 1986. Estimating location-specific and
+firm-specific technical efficiency: an analysis of Malaysian
+agriculture. J. Econ. Dev. Stud. 21, 232-243.
+Kopp, R.J., Smith, V.K., 1980. Frontier production function estimates for steam electric generation: a comparative analysis.
+South. Econ. J. 47, 1049-1059.
+Kumbhakar, S.C., 1994. Efficiency estimation in a profit maximising model using flexible production function. Agric. Econ. 10,
+143-152.
+Lin, J.Y., l99la. The household responsibility system reform and
+the adoption of hybrid rice in China. J. Econ. Dev. 36,
+353-372.
+Lin, J.Y., 199lb. Education and innovation adoption in agriculture: evidence from hybrid rice in China. Am. J. Agric. Econ.
+73, 713-723.
+Lin, J.Y., 1992. Hybrid rice innovation in China: a study of
+market-demand induced technological innovation. Rev. Econ.
+Stat. 74, 14-20.
+Lin, J.Y., 1994. Impact of hybrid rice on input demand and
+productivity. Agric. Econ. 10, 153-164.
+Parikh, A., Shab, K., 1994. Measurement of technical efficiency
+in the north-west frontier province of Pakistan. J. Agric.
+Econ. 45, 132-138.
+Schultz, T.W., 1964. Transforming Traditional Agriculture. Yale
+University Press, New Haven, CT.
+
+

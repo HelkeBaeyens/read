@@ -1,0 +1,1839 @@
+AGRICULTURAL
+ECONOMICS
+
+ELSEVIER
+
+Agricultural Economics 25 (2001)
+
+27~39
+
+www.elsevier.com/locate/agecon
+
+How does gender affect the adoption of agricultural innovations?
+The case of improved maize technology in Ghana
+Cheryl R. Doss a,*, Michael L. Morris b, 1
+Yale Center for International and Area Studies, Yale University,
+P. 0. Box 208206, New Haven, CT 06520-8206, USA
+Economics Program, International Maize and Wheat Improvement Center (CIMMYT),
+Apdo. Postal6-64I, Mexico, D.F 06600, Mexico
+a
+
+b
+
+Received 2 November 1999; received in revised form 7 June 2000; accepted 23 June 2000
+
+Abstract
+Why do men and women adopt agricultural technologies at different rates? Evidence from Ghana suggests that gender-linked
+differences in the adoption of modern maize varieties and chemical fertilizer result from gender-linked differences in access
+to complementary inputs. This finding has important policy implications, because it suggests that ensuring more widespread
+and equitable adoption of improved technologies may not require changes in the research system, but rather introduction
+of measures that ensure better access for women to complementary inputs, especially land, labor, and extension services.
+© 2001 Elsevier Science B.V. All rights reserved.
+JEL classification: Q12; 116; 012
+Keywords: Adoption; Maize; Ghana; Gender
+
+1. Introduction
+In recent years, development practitiOners have
+become increasingly interested in questions relating to
+the distributional impacts of technical change in agriculture. Scientific breakthroughs such as the muchpublicized green revolutions in wheat and rice have
+brought about dramatic productivity gains in many
+important cereal crops, but the persistence of chronic
+malnutrition among a significant portion of the world's
+* Corresponding author. Tel.: +1-203-432-9395.
+E-mail addresses: cheryl.doss@yale.edu (C.R. Doss),
+m.morris@cgiar.org (M.L. Morris).
+1 Tel.: +52-5804-2004; fax: +52-5804-7558.
+
+population has led to the realization that millions of
+people still lack reliable access to sufficient quantities of food. Many of these people are smallholder
+farmers in developing countries.
+This realization has focused increased attention on
+issues relating to the development and dissemination
+of improved agricultural technologies. If certain groups of farmers are not adopting improved technologies
+or are adopting them at a lower rate than other groups,
+then we need to determine why, because only by
+understanding the reasons will we be able to develop
+improved technologies that are appropriate for all.
+More concretely, since women farmers tend to adopt
+improved technologies at a lower rate than male farmers, we need to understand the reasons behind what
+
+0169-5150/01/$ ~see front matter© 2001 Elsevier Science B.V. All rights reserved.
+PII: SOI69-5150(00)00096-7
+
+28
+
+C.R. Doss, M.L. Morris I Agricultural Economics 25 (2001) 27-39
+
+appear to be gender-linked differences in technology
+adoption rates.
+
+tary inputs that affect adoption indirectly, then it may
+be more important to work on improving women's
+access to these complementary inputs.
+
+1.1. Research objectives
+Using empirical data from Ghana, we address three
+questions about gender and technology adoption. First,
+does including gender as an explanatory variable in
+standard regression models add to our understanding of the technology adoption process? Second, can
+farmers' adoption decisions be better understood by
+explicitly considering household structural variables,
+particularly the gender of the household head? Third,
+to what extent are frequently observed differences in
+the rates at which men and women adopt improved
+technology attributable to gender-linked differences in
+access to complementary inputs, such as land, labor,
+and extension services?
+These questions are of obvious practical importance, because they go directly to the issue of whether
+gender-related differences in adoption patterns occur
+because (a) men and women have different preferences when it comes to technology, or (b) men and
+women have the same preferences when it comes
+to technology but face different constraints that prevent them from adopting at the same rate. Men's and
+women's technology preferences can differ for many
+reasons. For example, crop varietal preferences can
+differ by gender if men and women have different
+uses for a particular crop. In cases where women
+grow a crop primarily for home consumption and
+men grow the same crop primarily for sale, women
+and men may have different preferences for varietal
+characteristics such as appearance, taste, ease of processing, ease of cooking, and storage. Also, if women
+farmers are intrinsically more risk averse than men or
+less innovative, then this might explain lower levels of
+adoption.
+Identifying the causes of gender-related differences
+in adoption is crucial, because if gender affects the
+adoption process directly - in other words, if men
+and women adopt at different rates even when they
+face exactly the same constraints - then it may be
+necessary to modify research strategies to ensure that
+technologies are developed that meet their dissimilar needs. If, on the other hand, differential rates of
+adoption arise because men and women face different
+constraints, especially unequal access to complemen-
+
+2. Maize in Ghana
+Maize in Ghana makes a particularly appropriate
+case study for this inquiry into the links between gender and adoption for at least three reasons.
+First, maize is Ghana's most important cereal
+crop. It is grown by the vast majority of rural households in all parts of the country except for the Sudan
+Savannah zone of the far north. According to official
+statistics, the area planted to maize in Ghana currently
+averages about 650,000 ha per year. Most maize is
+cultivated in association with other crops, so planting
+densities for maize are generally low. Grain yields of
+maize per unit land area are correspondingly modest,
+averaging less that 2 t!ha. Total annual maize production is currently estimated at just over 1 million t.
+Second, maize is the most widely consumed staple
+in Ghana. A national survey carried out in 1990 revealed that over 94% of all households had consumed
+maize during an arbitrarily selected 2-week period
+(Alderman and Higgins, 1992). Another study based
+on 1987 data found that maize and maize-based food
+accounted for 10.8% of total food expenditures by
+poor households and 10.3% of food expenditures by
+all households (Boateng et al., 1990).
+Third, both men and women cultivate maize in
+Ghana. Furthermore- and in this respect Ghana differs from many other countries- women frequently
+manage their own maize fields, contribute an important proportion of overall labor requirements, and
+exercise complete discretion over the disposal of the
+harvest. Because maize production activities are managed autonomously by men and women, technology
+choice decisions tend to be made independently by
+men and women, which makes it easier to distinguish
+gender-related dimensions of the adoption process.
+
+2.1. Ghana's maize-based farming systems
+Generally speaking, the climate in Ghana grows
+hotter and drier as one moves northward and inland
+away from the Atlantic coast. Maize cropping systems
+and production technologies vary between the four
+
+C.R. Doss, M.L. Morris I Agricultural Economics 25 (2001) 27-39
+
+agro-ecological zones in which significant amounts of
+maize are cultivated.
+The Coastal Savannah zone includes a narrow
+belt of Savannah that runs along the Atlantic coast,
+widening towards the east of the country. Farmers in
+this zone grow maize and cassava as their principal
+staples, often intercropped. Annual rainfall, which is
+bimodally distributed, totals only 800 mm per year,
+so most maize is planted following the onset of the
+major rains beginning in March or April. Soils are
+generally light in texture and low in fertility, and
+productivity is low.
+Immediately inland from the Coastal Savannah
+lies the forest zone. Most of Ghana's forest is
+semi-deciduous, with a small area of high rain forest
+remaining only in the southwestern part of the country near the border with Cote d'Ivoire. Maize in the
+forest zone is grown in scattered plots, usually intercropped with cassava, plantain, or cocoyam as part
+of a bush fallow system. Some maize is consumed
+in the forest zone, but it is not a leading food staple,
+and much of the crop is sold. Annual rainfall averages about 1500 mm, and maize is planted both in the
+major rainy season (beginning in March) and in the
+minor rainy season (beginning in September).
+Moving further north, the forest zone gradually
+gives way to the transition zone. The exact boundary is
+subject to dispute, which is not surprising considering
+that the boundary area is characterized by a constantly
+changing patchwork of Savannah and forest plots.
+What is certain, however, is that the transition zone is
+an important region for commercial grain production.
+Much of the transition zone has deep, friable soils,
+and the relatively sparse tree cover allows for more
+continuous cultivation and greater use of mechanized
+equipment. Rainfall is bimodally distributed and averages about 1300 mm per year. Maize in the transition
+zone is planted in both the major and minor seasons,
+usually as a monocrop or in association with yam or
+cassava.
+The Guinea Savannah zone occupies most of the
+northern part of the country. Annual rainfall totals
+about 1100 mm and falls in a single rainy season
+beginning in April or May. Sorghum and millet are
+the dominant cereals in the Guinea Savannah, but
+maize grown in association with small grains, groundnut and/or cowpeas is also important. Some fields
+are prepared by tractor, but most are prepared by
+
+29
+
+hand. Maize is grown in permanently cultivated fields
+located close to homesteads, as well as in more distant
+plots under shifting cultivation.
+2.2. Improved maize production technologies
+
+Our analysis focuses on factors affecting the adoption of two improved maize production technologies:
+modem varieties (MVs) 2 and chemical fertilizer.
+These technologies were developed and promulgated through the Ghana Grains Development Project
+(GGDP), an 18-year research and extension project
+that was established to develop and disseminate improved technologies for maize and grain legumes.
+2.3. Modern varieties (MVs)
+
+Prior to inception of the GGDP, plant breeders
+working at Ghana's national maize breeding institute,
+the Crops Research Institute (CRI), had developed
+and released several MV s of maize. These early MV s
+generated little interest among farmers, however, and
+they were not widely adopted. Under the GGDP, the
+CRI maize breeding program was reorganized, with
+the objective of strengthening links with international
+research centers. At the same time, an extensive
+on-farm testing program was introduced to increase
+the role of farmers in the varietal evaluation process.
+These changes led eventually to the release of a series
+of maize MV s characterized by high yielding ability,
+increased resistance to diseases and insect pests, enhanced drought tolerance, and improved grain quality.
+The seed of these MVs was produced and distributed
+to farmers through a number of schemes involving
+CRI, the extension service, NGOs, and private seed
+companies.
+2.4. Chemical fertilizer
+
+At the time the GGDP was launched, few farmers
+in Ghana were applying chemical fertilizer to their
+maize fields. The low level of fertilizer use on maize
+was quickly identified as a priority problem for rese2 As used here, the term modem varieties (MVs) refers to improved open-pollinating varieties (OPVs) and hybrids developed by a
+formal plant breeding program. Local varieties refers to farmers'
+traditional varieties.
+
+30
+
+C.R. Doss, M.L. Morris/Agricultural Economics 25 (2001) 27-39
+
+arch, because experimental evidence showed clearly
+that soil fertility was severely constraining yields
+in many areas. Although the relative unpopularity
+of fertilizer among Ghanaian maize farmers could
+be attributed to a number of causes, one significant
+problem was that there were no consolidated, widely
+accessible recommendations for applying fertilizer to
+maize. In an attempt to remedy this problem, GGDP
+researchers organized an on-farm testing program
+aimed at developing fertilizer recommendations for
+maize. The challenge was to formulate recommendations that would be sufficiently flexible to accommodate the wide range of soil fertility conditions found
+in farmers' fields, yet at the same time simple enough
+to be incorporated into existing extension programs.
+Following several years of trials, GGDP researchers
+came up with a set of fertilizer recommendations that
+distinguished among agro-ecological zones and took
+into account field cropping histories. The recommendations were promoted through a national extension
+campaign that included thousands of on-farm demonstrations and farmer field days.
+It is important to note that the two technologies
+differ in a number of ways that can be expected
+to influence the adoption process. MVs are a relatively simple technology, in the sense that farmers
+who decide to adopt MVs must make relatively few
+changes to their current practices. MVs are also relatively inexpensive: the cost of MV seed comprises a
+small proportion of total production costs. Primarily
+for these reasons, MV s should be accessible to all
+farmers, regardless of their resource endowment or
+technical management skills.
+In contrast, chemical fertilizer is a relatively
+complex technology, in the sense that farmers who
+decide to adopt fertilizer must learn the names of
+different products, their nutrient composition, correct
+application rates (based on field characteristics), optimal application schedules, and efficient application
+methods. In addition, chemical fertilizer is expensive:
+the cost of purchasing chemical fertilizer, transporting
+it to the farm, and applying it significantly increases
+cash outlays. For these reasons, it is reasonable to
+expect that fertilizer is likely to be adopted more
+readily by wealthier farmers (who can more easily
+afford the cost) and/or better educated farmers who
+possess greater technical knowledge and superior
+management skills.
+
+In considering the adoption decision, it is important
+to keep in mind that there is an interaction between
+MV s and fertilizer, so that the benefits of adopting both
+technologies exceed the sum of the benefits achieved
+by adopting only one or the other.
+
+3. Data
+Data on the adoption of MVs and chemical fertilizer were collected through a national survey of maize
+growers carried out between November 1997 and
+March 1998. A three-stage, clustered, randomized
+procedure was used to select a representative sample
+of 420 maize farmers located in 60 villages throughout the country. These farmers were questioned at
+length about their maize production, consumption,
+and marketing practices; their preferences for different maize varietal characteristics; and their knowledge
+of and access to improved inputs, such as seed and
+fertilizer (for additional details about the survey, see
+Morris et al. (1999)).
+An impacts study carried out following the termination of the GGDP revealed that both MVs and fertilizer have been adopted less extensively by women
+than by men. During the 1997 cropping season, 39.0%
+of female farmers planted MVs compared to 59.0%
+of male farmers, and 16.2% of female farmers applied
+fertilizer to their maize fields compared to 22.5%
+of male farmers (Morris et al., 1999). Here, we are
+interested in identifying the factors that gave rise to
+these observed differences in adoption rates.
+Many technology adoption studies distinguish between the rate of adoption (defined as the proportion
+of farmers that adopt a given technology, regardless of
+the level of use) and the intensity of adoption (defined
+in terms of the level of use of the technology, e.g.
+the proportion of the farmer's land planted to MV s or
+the quantity applied of fertilizer). In Ghana, farmers
+who adopt MV s tend to plant them over their entire
+landholdings, so the intensity measure usually takes
+on a value of either 0 or 100%. The rate of adoption
+measure therefore ends up being very similar to the
+intensity of adoption measure. In the case of fertilizer, the available data did not enable us to determine
+the amount of fertilizer applied by each farmer. For
+these reasons, we chose to focus only on rates of
+adoption.
+
+CR. Doss, M.L. Morris I Agricultural Economics 25 (2001) 27-39
+
+4. Adoption model
+Maize farmers in Ghana must decide whether to
+adopt MVs, fertilizer, or both. The benefits realized
+when both technologies are adopted jointly exceed
+the sum of the benefits realized when each one is
+adopted separately, so the decision to adopt one technology can be expected to affect the decision to adopt
+the other. Because the two adoption decisions are
+linked, we use a two-stage probit approach. In the
+first stage, the full set of estimators is used to predict
+the probability of adopting either fertilizer or MVs. In
+the second stage, predicted values for MV adoption
+and fertilizer adoption are included as independent
+variables in the final set of estimations. Consistent
+standard errors on the independent variables are
+generated using a bootstrapping procedure.
+The basic model is specified as follows:
+MYadopter = fh X 1 + thfertadopter*
+fertadopter = fhX2
+
++ c: 1
+
++ ,84MVadopter* +c:2
+
+where MVadopter and fertadopter are dummy variables indicating whether the farmer adopted MV s
+and/or fertilizer, X1 and X2 are vectors of variables expected to affect the technology adoption decision, and
+MVadopter* and fertadopter* are the predicted values
+(generated as described in the preceding paragraph)
+of the adoption variables. All of the independent
+variables are discussed in detail below.
+Dummy variables are included for three ecological
+zones in which maize is cultivated: the Coastal Savannah, the transition zone, and the Guinea Savannah
+(a fourth zone, the forest zone, serves as the reference). The purpose of the zonal dummy variables is to
+control for agro-climatic differences that could affect
+the profitability of the technologies. Since the northern part of the country, including virtually all of the
+Guinea Savannah zone and portions of the transition
+zone, is inhabited mainly by Muslim ethnic groups
+among which women tend to be less responsible for
+agriculture, the zonal dummy variables may also pick
+up some cultural variability, which could be linked to
+gender effects.
+Several characteristics of the farmer are included
+as covariates. The farmer's gender is represented by
+a dummy variable. Instead of using the gender of
+the household head (the conventional practice in most
+
+31
+
+adoption studies), we use the gender of the farmer.
+This allows us to examine the behavior of female farmers in both female- and male-headed households. The
+farmer's age is also included, as is the farmer's education, expressed as the number of years of formal
+schooling completed.
+Included also are several other explanatory variables thought to affect technology adoption decisions
+(most of these variables are extensively discussed in
+the adoption literature; see Feder et al. (1985) and
+Feder and Umali (1993)). The amount of land owned
+by the farmer is included, because even though MVs
+and fertilizer are both expected to be scale-neutral,
+wealthier farmers (i.e. those with more land) are more
+likely to be able to afford fertilizer. Since agricultural
+extension agents serve as an important source of technical information and improved inputs, the number
+of extension visits received by the farmer is expected
+to be positively correlated with the probability of
+adoption. Market access may also affect the adoption decision, so an index was created to reflect the
+level of infrastructure present in the farmer's village
+(the index was calculated based on the presence or
+absence of a tarred road, a good feeder road, reliable
+transportation, and a physical market). Since adopting
+a new technology often implies a need for additional
+labor, labor availability is frequently associated with
+successful adoption. In Model 1, household size is
+used as a simple measure of labor availability. The
+literature on gender and farming in Africa (see Doss,
+1999) suggests that men's labor and women's labor
+are not interchangeable, however, so in Model 2, we
+account for labor availability by including as separate
+explanatory variables the number of adult men, adult
+women, and children in the farmer's household.
+In addition to the many factors that are expected to
+influence adoption of both MV s and fertilizer, certain
+technology-specific factors are expected to influence
+the two adoption decisions separately. In the case
+of MV adoption, varietal choice is expected to be
+influenced by the farmer's seed procurement practices. Therefore, in the MV adoption equation, we
+include a seed source variable that indicates whether
+the seed planted in a given maize field was saved
+from the farm or externally acquired (e.g. obtained
+from another farmer, from an extension agent, or
+from a shop). In the case of fertilizer, the adoption
+decision is expected to be influenced by soil fertility
+
+32
+
+C.R. Doss, M.L. Morris I Agricultural Economics 25 (2001) 27-39
+
+considerations. Therefore, in the fertilizer adoption
+equation, we include a soil fertility variable based on
+the number of years that the field had been continuously cropped. If the field had been fallow prior to
+the year of the survey, we use the number of years
+that the field had been fallow, so the variable can take
+on positive or negative values.
+
+5. Empirical results
+Empirical results obtained from estimating Models
+1 and 2 are summarized in Table 1. Three aspects of
+the results are noteworthy.
+First, in both models, the gender variable lacks significant explanatory power. This result is unexpected,
+considering that men and women farmers are known
+to have adopted the technologies at different rates.
+Second, many of the other explanatory variables
+have the expected signs and are statistically significant. In the MV adoption equation, ecological zone,
+level of education, amount of land owned, number of
+extension visits, level of infrastructure, and number
+of adult males in the household (Model 2 only) are
+positively associated with the probability of adoption.
+In the fertilizer adoption equation, ecological zone,
+farmer's age, amount of land owned (Model 1 only),
+number of extension visits, level of infrastructure, and
+the proxy for soil fertility are positively associated
+with the probability of adoption.
+Third, several of the explanatory variables lack
+statistical significance. With the exception of the
+coefficient on the number of adult men in the MV
+adoption equation, none of the coefficients on the
+various measures of labor availability are statistically
+significant. This could indicate that labor availability
+does not affect MV and fertilizer adoption decisions,
+or it could simply mean that the variables we are using
+(based on the number of people living in the farmer's
+household) are not good indicators of the ability of
+Ghanaian farmers to mobilize labor to work in their
+maize fields. Somewhat more puzzling, neither of
+the estimated coefficients on the (fitted) endogenous
+variables shows significant explanatory power, suggesting that MV and fertilizer adoption decisions may
+be taken independently, rather than jointly.
+As a further test of the significance of gender
+on adoption, a likelihood-ratio test statistic was
+
+constructed to test the hypothesis that the coefficient
+on female is equal to 0 (Ho: tlfemale = 0). In both
+models, the null hypothesis cannot be rejected. This
+suggests that controlling for other factors, the adoption of MV s and fertilizer is not associated with the
+gender of the farmer.
+
+6. Female-headed households
+In Models 1 and 2, the unit of observation is the
+farmer, so the analysis focuses on the adoption behavior of individual women and men. This is somewhat
+different from the conventional approach; in most
+adoption studies, the unit of observation is the household, and gender effects are explored by including a
+dummy variable indicating the gender of the household head. One drawback of the conventional approach
+is that it does not reveal anything about the behavior of
+female farmers who live in male-headed households.
+In Ghana, as elsewhere in Africa, these numbers may
+be significant. For example, 70% of the female respondents in our sample were married, suggesting that
+they may have been living in male-headed households.
+Failure to distinguish between the gender of the
+farmer and the gender of the household head may represent an important omission, because the constraints
+faced by women farmers who live in female-headed
+households may be more severe than those faced by
+women farmers who live in male-headed households
+(see Doss (1999) for a review of the literature on this
+issue). 3 A wealth of case study evidence suggests that
+female-headed households are less likely to adopt new
+technologies than male-headed households (for recent
+examples, see Smale et al. (1991) and Kumar (1994)).
+In some cases, we may indeed be interested in understanding the adoption decisions of female-headed
+households, but here we ask whether the adoption
+behavior of female farmers varies depending on the
+gender of the head of the household in which they live.
+Household decision-making processes vary throughout Ghana and presumably also within our nationally
+representative sample. Typically, however, women
+3 To further complicate matters, definitions of female-headed
+households found in the literature are not consistent. For a good
+discussion of the implications of the different definitions, see
+Rogers (1995).
+
+C.R. Doss, M.L. Morris/ Agricultural Economics 25 (2001) 27-39
+
+33
+
+Table I
+Adoption of improved technologies (modern varieties and fertilizer)
+Model 2
+
+Model I
+Coefficient
+MV adoption
+Female
+Female in FHH
+Female in MHH
+Coastal Savannah
+Transition Zone
+Guinea Savannah
+Age
+Education
+Land owned
+Extension
+Infrastructure
+Men
+Women
+Children
+Household size
+New seed
+Predicted fertilizer user
+Constant
+Log likelihood
+LR statistic: ,Bremale = 0
+,/3FjFHH = ,/3FjMHH = 0
+
+-0.085
+
+0.601 **
+0.924**
+0.924**
+0.006
+0.059***
+0.064**
+0.082***
+0.181 *
+
+0.005
+0.976***
+-0.068
+-2.187***
+-210.49
+0.2768
+
+Standard error
+0.200
+
+0.266
+0.331
+0.367
+0.007
+0.017
+0.027
+0.032
+0.098
+
+0.014
+0.194
+0.238
+0.660
+-210.49
+0.2768
+
+Coefficient
+-0.059
+
+Model 3
+Standard error
+
+0.606**
+0.998***
+0.937**
+0.006
+0.060***
+0.064**
+0.084***
+0.203**
+0.112**
+-0.065
+-0.018
+
+0.274
+0.329
+0.370
+0.007
+0.018
+0.027
+0.031
+0.098
+0.051
+0.054
+0.027
+
+0.999***
+-0.069
+-2.257***
+-206.99
+0.121
+
+0.201
+0.235
+0.652
+-206.99
+0.121
+
+= ,/3p/MHH
+,/3F/MHH = 0
+
+0.093
+
+0.225
+
+0.419*
+0.685***
+0.450
+-0.016**
+0.003
+0.032*
+0.044**
+0.180**
+
+0.248
+0.246
+0.305
+0.008
+0.018
+0.019
+0.021
+0.079
+
+0.017
+0.042**
+0.009
+-1.349***
+-170.91
+0.189
+
+0.013
+0.017
+0.054
+0.425
+-170.91
+0.189
+
+= ,/3p /MHH
+,BF/MHH = 0
+,/3p /FHH
+
+* Significant at the 0.10 level.
+** Significant at the 0.05 level.
+*** Significant at the 0.01 level.
+
+0.053
+
+0.442*
+0.652**
+0.457
+0.016**
+0.003
+0.031
+0.043**
+0.169**
+-0.061
+0.070
+0.032
+0.042**
+0.010
+-1.303***
+-169.48
+0.049
+
+Standard error
+
+0.204
+
+,/3p /FHH
+
+Fertilizer adoption
+Female
+Female in FHH
+Female in MHH
+Coastal Savannah
+Transition Zone
+Guinea Savannah
+Age
+Education
+Land owned
+Extension
+Infrastructure
+Men
+Women
+Children
+Household size
+Years cropped
+Predicted MV user
+Constant
+Log likelihood
+LR statistic: ,Bremale = 0
+,/3F/FHH = ,/3FjMHH = 0
+
+Coefficient
+
+-0.716**
+0.136
+0.640**
+0.982***
+0.930***
+0.007
+0.057***
+0.064**
+0.081 ***
+0.186**
+
+0.328
+0.223
+0.255
+0.314
+0.345
+0.007
+0.017
+0.027
+0.031
+0.093
+
+0.005
+0.999***
+-0.067
+-2.241 ***
+-207.29
+
+0.014
+0.196
+0.197
+0.603
+-207.29
+
+6.68**
+6.40**
+6.30**
+
+6.68
+6.40
+6.30
+
+-0.138
+0.175
+0.430*
+0.705***
+0.449
+-0.015*
+0.003
+0.033
+0.044*
+0.181**
+
+0.387
+0.247
+0.252
+0.253
+0.317
+0.008
+0.020
+0.020
+0.023
+0.081
+
+0.017
+0.043
+0.010
+-1.362***
+-170.54
+
+0.014
+0.146
+0.068
+0.456
+-170.54
+
+0.228
+
+0.248
+0.255
+0.315
+0.008
+0.019
+0.020
+0.021
+0.080
+0.050
+0.051
+0.028
+0.017
+0.052
+0.433
+-169.48
+0.049
+
+0.935
+0.745
+0.342
+
+0.935
+0.745
+0.342
+
+34
+
+C.R. Doss, M.L. Morris I Agricultural Economics 25 (2001) 27-39
+
+farmers take independent decisions regarding the management of agricultural enterprises and the disposal
+of revenue earned. Although cash, labor, physical inputs (including seed and fertilizer) and information
+may be exchanged within the household, each farmer
+tends to act independently, and we would not necessarily expect to see efficient flows of resources and
+information (for an example of production losses due
+to inefficient factor allocation within the household,
+see Udry (1996)).
+The data set for Ghana unfortunately does not include information about the gender of the household
+head. However, from the available data, it is possible
+to infer whether the household in which the farmer
+lives is likely to be male-headed or female-headed.
+Specifically, it can be assumed that all male farmers
+and all married female farmers live in male-headed
+households and that all unmarried female farmers live
+in female-headed households. 4 Using these assumptions, 25% of the (female) sample farmers living in
+female-headed households have adopted MVs, compared to 56% of the (female and male) sample farmers
+living in male-headed households. Similarly, 13% of
+the (female) sample farmers living in female-headed
+households and 22% of the (female and male) sample farmers living in male-headed households have
+adopted fertilizer.
+In Model 3, we disaggregate the farmers into three
+categories: (1) male farmers, all of whom implicitly
+live in male-headed households (M/MHH); (2) female
+farmers living in male-headed households (F/MHH)
+and (3) female farmers living in female-headed households (F/FHH). Within male-headed households, the
+MV adoption rate does not differ significantly (in a
+statistical sense) between male and female farmers
+(Table 1). However, the MV adoption rate for female
+farmers living in male-headed households is significantly higher than the rate for female farmers living
+in female-headed households. Table 2 presents the
+marginal effects; these are negative and relatively
+large for female farmers living in female-headed
+households. These results indicate that women do not
+4 This would count women who report themselves as married but
+whose husbands are absent as living in male-headed households.
+In addition, if an unmarried woman was living in a household
+headed by a man that was not her husband (for example, her
+father, brother, or uncle), she would be incorrectly categorized as
+living in a female-headed household.
+
+Table 2
+Marginal effects of technology adoption determinants (Model 3)
+Adoption determinants
+
+Marginal effects
+
+MV adoption
+Female in FHH
+Female in MHH
+Coastal Savannah
+Transition zone
+Guinea Savannah
+Age
+Education
+Land owned
+Extension
+Infrastructure
+Household size
+New seed
+Predicted fertilizer user
+Constant
+
+-0.2409
+0.0459
+0.2154
+0.3302
+0.3127
+0.0024
+0.0191
+0.0215
+0.0273
+0.0624
+0.0161
+0.3358
+-0.2250
+-0.7535
+
+Fertilizer adoption
+Female in FHH
+Female in MHH
+Coastal Savannah
+Transition zone
+Guinea Savannah
+Age
+Education
+Land owned
+Extension
+Infrastructure
+Household size
+Years cropped
+Predicted MV user
+Constant
+
+-0.0355
+0.0451
+0.1108
+0.1814
+0.1157
+0.0039
+0.0006
+0.0085
+0.0112
+0.0467
+0.0043
+0.0109
+0.0025
+-0.3507
+
+necessarily make different adoption decisions than
+men, but they also suggest that there is something
+about the structure of female-headed households that
+makes farmers living in these households less likely
+to adopt MVs. In the case of fertilizer, the adoption decision is affected neither by the gender of
+the farmer nor by the gender of the household head
+(Table 1).
+Likelihood ratio tests can be used to disaggregate the effects of the gender of the farmer from the
+gender of the household head. First, we test the hypothesis that there is no effect of gender on adoption
+by constraining the coefficients on female farmers
+in both male- and female-headed households to be 0
+(,BF/MHH = .BF/FHH = 0). This hypothesis is rejected
+in the case of MV adoption. Then, we constrain the
+coefficients on the gender of the household head to
+
+CR. Doss, M.L. Morris! Agricultural Economics 25 (2001) 27-39
+
+35
+
+Table 3
+Land owned and cultivated, by gender (number, percent of maize farmers)"
+Amount of land (ha)
+
+Land owned
+Women
+
+Men
+
+0
+:Sl
+1.1-3
+3.1-5
+5.1-10
+:::': 10
+Total
+a
+
+65
+20
+59
+55
+74
+42
+
+Land cultivated
+
+(20.6)
+(6.3)
+(18.7)
+(17.5)
+(23.5)
+(13.3)
+
+315 (100.0)
+
+All
+
+Male HH
+
+Female HH
+
+16
+11
+22
+14
+7
+3
+
+10
+6
+6
+6
+3
+1
+
+(21.9)
+(15.1)
+(30.1)
+(19.2)
+(9.6)
+(4.1)
+
+73 (100.0)
+
+(31.3)
+(18.8)
+(18.8)
+(18.8)
+(9.4)
+(3.1)
+
+32 (100.0)
+
+91
+37
+87
+75
+84
+46
+
+Men
+
+(21.7)
+(8.8)
+(20.7)
+( 17.9)
+(20.0)
+(11.0)
+
+420 (100.0)
+
+n.a.
+14
+76
+60
+106
+59
+
+Women
+
+(4.4)
+(24.1)
+(19.0)
+(33.7)
+(18.7)
+
+315 (100.0)
+
+All
+
+Male HH
+
+Female HH
+
+n.a.
+10 (13.7)
+27 (37.0)
+23 (31.5)
+10 (13.7)
+3 (4.1)
+
+n.a.
+13 (40.6)
+8 (25.0)
+6 (18.8)
+4 (12.5)
+1 (3.1)
+
+n.a.
+
+73 (100.0)
+
+32 (100.0)
+
+420 (100.0)
+
+37
+111
+89
+120
+63
+
+(8.8)
+(26.4)
+(21.2)
+(28.6)
+(15.0)
+
+Source: 1998 CRI/CIMMYT survey.
+
+be the same (tlF/MHH = tlF/FHH = 0), testing the
+hypothesis that the gender of the household head is
+not significant while controlling for the gender of the
+farmer. Again, the hypothesis is rejected in the case
+of MV adoption. Finally, we perform a second test
+of the hypothesis that the gender of the household
+head does not matter by constraining the coefficient
+on female farmers in male-headed households to be 0
+(tlF/MHH = 0). This test differs from the previous one
+in that it does not control for the gender of the farmer.
+For the third time, the hypothesis is rejected. Therefore, we conclude that the gender of the household
+head does affect MY adoption.
+When similar likelihood ratio tests are used to test
+the same hypotheses with regard to fertilizer adoption, none of the null hypotheses can be rejected.
+This result suggests that controlling for other factors,
+gender is not an important determinant of fertilizer
+adoption, regardless of whether gender is defined as
+the gender of the farmer or gender of the household
+head.
+
+7. Access to key inputs and information
+The results presented in Table 1 suggest that gender
+per se is not significantly associated with MV or fertilizer adoption rates, although the gender of the household head may be important. Based on this finding,
+we ask whether gender is linked to factors that indirectly influence adoption behavior. In particular, since
+adoption is associated with land ownership, number
+
+of adult men in the farmer's household (MV adoption
+only), education, and number of contacts with the
+extension service, are these factors correlated with
+gender?
+Descriptive statistics and simple linear regressions
+can help to determine if women and men enjoy
+equal access to land, labor, education, and extension
+services.
+
+7.1. Land
+Wealth is often positively associated with the adoption of new technologies, because wealthier farmers
+are better able to bear risk and therefore are more likely
+to try new technologies. In rural Ghana, land ownership provides a good measure of wealth. Clearly, there
+is some sort of association between land ownership
+and gender: women tend to own smaller plots than
+men, and a greater proportion of women are landless
+(Table 3). Similarly, women tend to cultivate smaller
+plots than do men. 5 Female farmers in female-headed
+households own and cultivate smaller plots than female farmers in male-headed households. The determinants of land ownership were explored using a to bit
+approach. Controlling for the farmer's age, residency
+status (native or settler), and marital status, as well as
+for ecological zone and level of infrastructure, women
+farmers on average were found to have significantly
+less access to land (Table 4).
+5 The amount of land cultivated by individual farmers reflects
+not only their access to land but also their access to the labor
+needed to cultivate it.
+
+36
+
+C.R. Doss, M.L. Morris/ Agricultural Economics 25 (2001) 27-39
+
+Table 4
+Determinants of land ownership (tobit estimates)
+Determinants
+
+Estimated coefficient
+
+Standard error
+
+Significance level
+
+Female
+Resident status
+Age
+Infrastructure
+Coastal Savannah
+Guinea Savannah
+Transition zone
+Marital status
+Log likelihood= -1109.25
+
+-1.455
+3.574
+-0.003
+0.215
+-2.598
+5.100
+-0.474
+-5.60 E-03
+
+0.707
+0.670
+0.003
+0.268
+0.860
+0.795
+0.093
+0.79
+
+**
+***
+
+***
+***
+
+** Significant at the 0.05 level.
+***Significant at the 0.01 level.
+
+7.2. Labor
+
+many parts of Africa, men have claim over women's
+labor, but women do not have similar claim over men's
+labor. Therefore, the data do not allow us to conclude that female farmers have access to male labor;
+they simply indicate that the households in which female farmers live include men who could potentially
+provide labor.
+
+Throughout many parts of sub-Saharan Africa,
+women have greater difficulty than men in obtaining
+labor, especially male labor needed for land preparation activities (e.g. clearing, burning, plowing). Within
+our sample, women farmers live in households that
+contain slightly fewer men on average, except for in
+the transition zone (Table 5). Household size varies
+by zone, but within zones there do not appear to be
+significant differences between the household sizes
+of male and female farmers. The data thus suggest
+that male and female maize farmers live in households that contain approximately the same number of
+adults. Female-headed households have fewer men,
+but they still contain some adult men. The data do not
+allow us to determine who these men are, but they
+may be adult sons.
+What these numbers cannot tell us, however, is
+whether male and female maize farmers have equal
+access to the labor of other household members. In
+
+7.3. Education
+Although education is not an input, education
+is known to be important in determining farmers'
+ability to understand and manage unfamiliar technology. The regression results indicate that education is a significant determinant of MV adoption in
+Ghana. Education patterns vary by gender. Female
+farmers have less years of schooling, on average,
+than male farmers (Table 6). Female farmers in
+female-headed households have less years of education than female farmers in male-headed households
+(Table 7).
+
+Table 5
+Household size and composition, by zone and gender of farmer"
+Household
+size
+
+Coastal Savannah
+Male
+farmers
+
+Forest
+
+Female farmers
+Male
+HH
+
+Female
+HH
+
+Male
+farmers
+
+Transition
+Female farmers
+Male
+HH
+
+Female
+HH
+
+Male
+farmers
+
+Guinea Savannah
+Female farmers
+Male
+HH
+
+Female
+
+Male
+farmers
+
+HH
+
+Female farmers
+Male
+HH
+
+Men
+Women
+Children
+
+3.1
+2.9
+3.5
+
+2.7
+2.7
+3.7
+
+2.2
+3.1
+7.1
+
+2.4
+2.3
+3.5
+
+2.3
+2.2
+3.5
+
+1.6
+2.1
+2.8
+
+2.3
+2.8
+3.6
+
+3.0
+3.9
+5.3
+
+2.6
+4.1
+4.3
+
+4.3
+4.0
+7.2
+
+3.0
+2.0
+8.0
+
+Total
+
+9.5
+
+9.1
+
+12.4
+
+8.2
+
+8.0
+
+6.5
+
+8.7
+
+11.9
+
+11.0
+
+15.5
+
+13.0
+
+a
+
+Source: 1998 CRVCIMMYT survey.
+
+Female
+HH
+
+C.R. Doss, M.L. Morris I Agricultural Economics 25 (2001) 27-39
+Table 6
+Average years of schooling, by gender and gender of household
+head•
+Men
+
+Years of schooling
+
+6.25
+
+All
+
+Women
+Male HH
+
+Female HH
+
+4.60
+
+2.84
+
+5.70
+
+a Source: 1998 CRI/CIMMYT survey.
+Table 7
+Education level, by gender (number, percent of maize farmers)•
+Women
+
+Years of
+schooling
+
+Men
+
+0
+1-3
+4-6
+7-10
+::::10
+
+107
+13
+24
+129
+40
+
+Total
+
+313 (100.0) 73 (100.0)
+
+(34.2)
+(4.2)
+(7.7)
+(41.2)
+(12.8)
+
+All
+
+Male HH
+
+Female HH
+
+28
+2
+17
+26
+0
+
+21
+I
+3
+5
+2
+
+(38.4)
+(2.7)
+(23.3)
+(35.6)
+(O.Q)
+
+(65.6)
+(3.1)
+(9.4)
+(15.6)
+(6.3)
+
+32 (100.0)
+
+156
+16
+44
+160
+42
+
+(37.3)
+(3.8)
+(10.5)
+(38.3)
+(10.0)
+
+418 (100.0)
+
+a Source: 1998 CRI/CIMMYT survey.
+
+7.4. Extension contacts
+The uptake of new technologies is often influenced
+by the farmer's contact with extension services, since
+extension agents provide improved inputs and technical advice. Within our sample, the frequency of contact with extension agents is strongly associated with
+the gender of the farmer. On average, women reported
+fewer contacts with extension agents, and a larger proportion of women reported no extension contacts at
+all (Table 8). In interpreting the data in Table 8, it is
+important to keep in mind that differences in the number of reported contacts with extension agents may not
+be attributable to the gender of the farmer but instead
+could result from other factors that are correlated with
+the gender of the farmer. For example, it is plausible
+that extension agents might prefer to visit farmers with
+more land, a larger area planted to maize, or those
+who have already adopted improved technologies, all
+of which happen to be correlated with gender.
+On the whole, these findings suggest that male and
+female maize farmers in Ghana do not enjoy equal
+access to land, education, and agricultural extension
+services. The data are less conclusive regarding the
+availability of and access to labor, especially male
+labor within the household.
+
+37
+
+8. Discussion
+
+In view of this evidence, what can we conclude
+about the three questions posed at the beginning of the
+paper?
+First, in this example involving maize in Ghana,
+after we control for farmer's age and level of education, access to land and labor, contact with the extension service, and market access, there is no significant
+association between the gender of the farmer and the
+probability of adopting MV s or fertilizer. Since men
+and women have adopted MV s and fertilizer at different rates, this finding shows the critical importance of
+correctly specifying adoption models. Failure to control for gender-linked factors can lead to misleading
+conclusions about the importance of gender per se as
+an explanatory factor. 6
+Second, being a female farmer and living in a
+female-headed household affect the adoption decision in quite different ways. Therefore, although
+people living in female-headed households are less
+likely to adopt new technologies than people living
+in male-headed households, this does not necessarily
+mean that female farmers are less likely to adopt new
+technologies than male farmers. Admittedly, simply
+identifying the gender of the household head does
+not completely capture what we are interested in,
+which is whether women farmers can mobilize the
+support of male household members in order to gain
+access to resources. However, this information tends
+to be difficult to obtain through conventional survey
+methods, so gender of the household head is a useful
+proxy. 7
+
+6 One caveat should be noted. The sample includes only farmers
+who were identified as 'maize farmers'. If either men or women
+were disproportionately excluded from the sample because they
+were not considered maize farmers, the results could be biased.
+The proportion of women farmers in the sample corresponds to
+the percentage of women growing maize identified through the
+1991-1992 round of the Ghana Living Standard Survey (reported
+in Doss (1997)), however, so we believe these results were not
+affected by sample selection bias.
+7 In some cases, making assumptions about control of resources
+based on the gender of the household head can lead to incorrect
+conclusions. For example, women farmers frequently report that
+their husband is the head of the household, even though he may
+live elsewhere and may not be involved in agricultural decisionmaking.
+
+w
+
+00
+
+0
+
+""
+
+E
+~
+
+Table 8
+Reported number of contacts with extension agents, by zone and gender of farmer (number, percent of maize farmers )a
+Number of
+contacts
+
+Coastal Savannah
+Male
+farmers
+
+0
+1-3
+4--7
+::::8
+
+31
+11
+9
+9
+
+(51.7)
+(18.3)
+(15.0)
+(15.0)
+
+Total
+
+60 (100.0)
+
+Female farmers
+Male HH
+8
+4
+1
+2
+
+(53.3)
+(26.7)
+(6.7)
+(13.3)
+
+15 (100.0)
+
+Female HH
+7
+1
+0
+1
+
+(77.8)
+(11.1)
+(0.0)
+(11.1)
+
+9 (100.0)
+
+a Source: 1998 CRI/CIMMYT survey.
+
+Male
+farmers
+67
+14
+22
+29
+
+(50.8)
+(10.6)
+(16.7)
+(22.0)
+
+132 (100.0)
+
+Guinea Savannah
+
+Transition
+
+Forest
+Female farmers
+Male HH
+19
+8
+7
+8
+
+(45.2)
+(19.0)
+(16.7)
+(19.0)
+
+42 (100.0)
+
+Female HH
+87
+0
+2
+5
+
+(53.3)
+(0.0)
+(13.3)
+(33.3)
+
+15 (100.0)
+
+Male
+farmers
+27
+3
+9
+2
+
+(65.9)
+(7.3)
+(22.0)
+(4.9)
+
+41 (100.0)
+
+Female farmers
+Male HH
+9
+2
+1
+2
+
+(64.3)
+(14.3)
+(7.1)
+(14.3)
+
+14 (100.0)
+
+Female HH
+5
+1
+2
+0
+
+(62.5)
+(12.5)
+(25.0)
+(0.0)
+
+8 (100.0)
+
+Male
+farmers
+53
+16
+6
+7
+
+(64.6)
+(19.5)
+(7.3)
+(8.5)
+
+82 (100.0)
+
+Female farmers
+Male HH
+
+Female HH
+
+(100.0)
+(0.0)
+(0.0)
+(0.0)
+
+-
+
+14 (100.0)
+
+-
+
+2
+0
+0
+0
+
+r
+~
+~-
+
+~
+~-
+
+"i2'"
+
+[
+
+r
+
+5"
+
+"'v,
+
+"N
+
+8
+
+-:::::
+
+"'f-1
+""
+
+\()
+
+C.R. Doss, M.L. Morris I Agricultural Economics 25 (2001) 27-39
+
+Third, the observed measures of access to land
+and number of extension contacts are clearly correlated with gender. However, it is not possible to
+determine from the data whether women have access to the same quality of land as men. Nor can it
+be determined whether the quantity and/or quality
+of information provided by extension workers differ
+depending on the gender of the farmer. If women
+consistently have access to poor quality land or consistently receive poorer quality extension information,
+this would bias our results, in the sense that the effect
+of gender would be overstated (i.e. the absolute value
+of the estimated coefficient on the gender variable in
+an adoption equation would be larger). Conversely,
+if women consistently farm better quality land or
+consistently receive better extension information, the
+effect of gender would be understated. Also, as previously noted, although the number of men in the
+household is correlated with MV adoption, simply
+counting the number of household members does not
+reveal whether women are able to mobilize the labor
+that is present in their households to work in their
+maize fields. Thus, even though differences can be
+observed in access to land, extension visits, and male
+household labor, unobserved differences may also
+be present, and these unobserved differences may be
+as significant or even more significant in influencing
+adoption behavior.
+On the whole, these results from Ghana suggest that
+technology adoption decisions depend primarily on
+access to resources, rather than on gender per se. This
+conclusion should be interpreted with caution, however, because it does not necessarily mean that MVs
+and fertilizer are gender-neutral technologies. If adoption of MVs and/or fertilizer depend on access to land,
+labor, or other resources, and if, in a particular context,
+men tend to have better access to these resources than
+women, then in that context, the technologies will not
+benefit men and women equally. Policy changes thus
+may be needed to increase women's access to the key
+resources; alternatively, it may be desirable to modify
+research efforts by deliberately targeting technologies
+that are particularly suited for the resources that are
+available to women. The bottom line is that it is important to examine both the technology itself and the
+physical and institutional context in which the technology is implemented in order to predict whether it will
+be adopted successfully by women as well as men.
+
+39
+
+Acknowledgements
+
+We would like to express our heartfelt gratitude to some of the many people who helped make
+this article possible. A.A. Dankyi and Robert Tripp
+were instrumental in designing and implementing
+the national technology adoption study. Staff of the
+Crops Research Institute in Kumasi provided valuable assistance in carrying out the field survey. Barry
+Goodwin and William Greene generously shared
+their knowledge of bootstrapping techniques. Two
+anonymous reviewers contributed a number of useful
+comments.
+References
+Alderman, H., Higgins, P., 1992. Food and Nutritional Adequacy
+in Ghana. Cornell Food and Nutrition Policy Paper No.
+27. Cornell Food and Nutrition Policy Project, Ithaca,
+New York.
+Boateng, E.O., Ewusi, K., Kanbur, R., McKay, A., 1990. A Poverty
+Profile for Ghana, 1987-88. Social Dimensions of Adjustment
+in Sub-Saharan Africa Working Paper No. 5. The World Bank,
+Washington, DC.
+Doss, C.R., 1997. Men's Crops? Women's Crops? The Gender
+Patterns of Cropping in Ghana. Processed. Yale Center for International and Area Studies, Yale University, New Haven, CT.
+Doss, C.R., 1999. Twenty-five Years of Research on Women Farmers in Africa: Lessons and Implications for Agricultural Research Institutions. Economics Program Paper 99-02. CIMMYT,
+Mexico, D.P.
+Feder, G., Umali, D., 1993. The adoption of agricultural innovations: a review. Techno!. Forecast. Social Change 43, 215-239.
+Feder, G.R., Just, R.E., Zilberman, D., 1985. Adoption of agricultural innovations in developing countries: a survey. Econ.
+Develop. Cultural Change 33, 255-298.
+Kumar, S.K., 1994. Adoption of Hybrid Maize in Zambia: Effects
+on Gender Roles, Food Consumption and Nutrition. Research
+Report 100. International Food Policy Research Institute,
+Washington, DC.
+Morris, M.L., Tripp, R., Dankyi, A.A., 1999. Adoption and impacts
+of improved maize production technology: a case study of the
+Ghana Grains Development Project. CIMMYT, Mexico, D.P.
+Rogers, B.L., 1995. Alternative definitions of female headship in
+the Dominican Republic. World Develop. 23, 2033-2039.
+Smale, M., Kaunda, Z.H.W., Makina, H.L., Mkandawire,
+M.M.M.K., Msowoya, M.N.S., Mwale, D.J.E.K., Heisey, P.W.,
+1991. Chimanga cha Makolo, Hybrids, and Composites: An
+Analysis of Farmers' Adoption of Maize Technology in Malawi,
+1989-91. Economics Program Working Paper 91-04. CIMMYT,
+Mexico, D.P.
+Udry, C., 1996. Gender, agricultural production, and the theory of
+the household. J. Political Econ. 104 (5), 1010-1046.
+
+

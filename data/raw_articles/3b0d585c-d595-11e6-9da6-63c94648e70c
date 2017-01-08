@@ -1,0 +1,1396 @@
+AGRICULTURAL
+ECONOMICS
+
+ELSEVIER
+
+Agricultural Economics 10 (1994) 307-316
+
+Asymmetry in beef, lamb and pork farm-retail price transmission
+in Australia
+G.R. Griffith a,*, N.E. Piggott
+a
+
+b
+
+New South Wales Agriculture, Regional Veterinary Laboratory, PMB (UNE), Armidale, N.S. W 2351, Australia,
+b University of California, Davis, CA 95616, USA
+
+(Accepted 26 October 1993)
+
+Abstract
+The hypothesis of asymmetry in price transmission within the Australian meat market is tested using monthly
+data for beef, lamb and pork prices at different market levels over the period 1971-1988. The results indicate that
+asymmetrical price response is a strategy used by beef and lamb retailers and wholesalers to adjust to changing input
+prices, but not by pork retailers and wholesalers. This difference is perhaps unexpected given the similarity in
+behaviours relating to price levelling in this market, the high cross-price elasticities of demand between these meats,
+and the relatively greater degree of concentration in the pork market.
+
+1. Introduction
+
+Previous research has confirmed the presence
+of short-term price levelling behaviour in the
+Australian meat market (Naughtin and Quilkey,
+1979; Griffith, Green and Duff, 1991). Price levelling refers to the practice of wholesalers (retailers) holding their selling prices relatively stable in the face of rising or falling auction (wholesale) prices. In effect, the resultant impact of
+fluctuations in raw material prices on the prices
+charged to consumers is smoothed or made less
+volatile under price levelling. The evidence of this
+
+* Corresponding author.
+Financial support was provided by the Swine Compensation
+Fund of New South Wales and the Australian Pig Research
+and Development Corporation.
+
+type of behaviour by meat wholesalers and retailers has caused increasing concern about the efficiency of the meat market. First, as has been
+demonstrated by Parish (1967), price levelling
+destabilises farm level prices while stabilising retail prices. Livestock producers in particular are
+concerned that changes in prices at the farm level
+are both greater than they should be and are not
+fully passed onto the higher levels of the market,
+and so do not influence consumer purchase decisions. Second, there is the suspicion that wholesalers and retailers are more inclined to pass on
+price rises than price falls. This is known as
+asymmetric price transmission.
+The ability of the wholesale and retail sectors
+to undertake these types of pricing strategies
+depends predominantly on the competitive structure of these sectors. Fewer, larger firms may
+" ... employ pricing strategies which result in
+
+0169-5150/94/$07.00 © 1994 Elsevier Science B.V. All rights reserved
+SSDI 0169-5150(93)E0047-Q
+
+308
+
+G.R. Griffith, NE. Piggott j Agricultural Economics 10 (1994) 307-316
+
+complete and rapid pass-through of cost increases but slower and less complete transmission
+of cost savings" (Kinnucan and Forker, 1987, p.
+285). In the Australian meat producing, processing and distribution sectors there have been some
+underlying changes with respect to structure in
+recent years, especially in the intensive industries.
+Beef and lamb are the two traditional red meats
+produced in Australia, mainly from extensive pasture grazing systems, while pork is one of the
+major meats produced from intensive, indoor
+production systems. The increasing concentration
+in the pig processing and marketing sectors has
+been well documented (Bennett, 1982). Similar
+consolidation, though not to the same extent, has
+occurred in the beef and lamb processing and
+marketing sectors. This variation in concentration
+in the Australian extensive and intensive meat
+industries may manifest differing patterns of
+asymmetrical pricing behaviour. Another possible
+cause of differences may be variations in the
+proportion of output exported and in the magnitudes of domestic per capita consumption of each
+meat.
+An understanding of price formation and price
+transmission, including asymmetric pricing behaviour, is important in explaining the dynamics
+of price transmission processes and pricing inefficiencies in the marketing of commodities. It is
+also important in contributing to policy discussions relating to such issues as the rationalisation
+of processing capacity, the regulation of throughput in the processing sector, and the distribution
+of the benefits of research among producers,
+processors and consumers. The value of this information is not constrained to developed agricultural economies such as Australia, but also
+extends to developing countries where pressure is
+apparent for better resource allocation and more
+efficient marketing channels.
+Most applications to date in this area have
+been undertaken in the United States, mainly in
+the pork market, and this is where the methodology has been developed. Heien (1980) and
+Schroeder (1988) found evidence of asymmetry in
+wholesale-retail pork price relationships. Furthermore, Hahn (1990) found that the farm, wholesale and retail prices of pork showed significant
+
+evidence of asymmetric price interactions, with
+retail prices displaying greater sensitivity to price
+increasing shocks than to price declining shocks.
+Alternatively, Boyd and Brorsen (1988, p. 103)
+found " ... that wholesale (packer) prices respond
+similarly to farm price decreases and increases.
+Also there is no significant difference between
+retailers' response to wholesale price increases
+and their response to wholesale price decreases."
+Some studies have examined the United States
+beef market. Hall, Tomek, Ruther and Kyerine
+(1981) found no evidence of asymmetry in farmwholesale or wholesale-retail beef price relationships. They concluded (p. 21) that "Wholesalers
+and retailers do not appear to have treated increases in farm or carcass prices in a manner
+different than decreases." However, Hahn (1990)
+found that the farm, wholesale and retail prices
+of beef showed significant evidence of asymmetric price interactions. Prices displayed greater
+sensitivity to price increasing shocks than to price
+declining shocks.
+This issue of asymmetric price transmission
+has not been examined for the processing and
+marketing sectors of the Australia meat market
+except for a brief exploration by Freebairn (1984)
+and some recent work by Lye and Sibley (1991).
+In a markup model explaining retail food prices
+by farm prices, wages and the price of a substitute product, Freebairn added a dummy variable
+to indicate periods when farm prices were rising.
+He found a non-significant coefficient on this
+variable for all foods studied including beef, lamb
+and pork. Thus the hypothesis of asymmetrical
+responses to price rises and price falls was not
+supported. Lye and Sibly (1991), using customer
+market analysis (emphasising consumer expectations about prices) and this data set, found that
+retail meat prices in New South Wales were
+inflexible, and more so in the downward direction
+than the upward direction. Asymmetrical adjustment of prices was concluded.
+The aim in this paper is to test the hypothesis
+of short-term retail and wholesale price asymmetry in the Australian beef, lamb and pork markets
+using a different methodology to those employed
+previously by Freebairn (1984) and Lye and Sibley (1991).
+
+G.R. Griffith, N.E. Piggott/ Agricultural Economics 10 (1994) 307-316
+
+2. Methodology
+
+Background issues. The markup pncmg model
+popularised by Heien (1980) forms the basis for
+most subsequent research in this area. This model
+is:
+
+(1)
+where PR is retail price of the commodity under
+analysis, PF is farm price of the commodity on a
+retail equivalent basis, C represents processing
+and marketing costs; and the data are typically
+measured at monthly intervals.
+The use of this pricing rule rests on several
+critical assumptions. First, the market for the
+commodity is assumed to be competitive. It is
+clear that concentration levels in meat processing
+and distribution in Australia have increased in
+recent years. For example in New South Wales
+the four largest pig slaughtering organisations
+accounted for 54% of total export licensed
+slaughter in 1978 and 60% in 1984. The 20 or so
+Australian pigmeat processing firms in the largest
+employment size group constitute only 15% of
+firms yet account for over 65% of turnover, value
+added and employment (Griffith and Gill, 1987).
+Some 40% of meat is sold through supermarkets
+and two large chains dominate this market
+(Australian Meat and Livestock Corporation,
+1993). However, there are still large numbers of
+processors, wholesalers and retailers in the Australian red meat industry, and the overall levels of
+concentration, although rising, remain relatively
+low (Australian Bureau of Statistics, 1990). Thus
+this assumption seems plausible.
+Second, the processing function is assumed to
+be a Leontief-type fixed proportions transformation, with no possibility of other marketing inputs
+being substituted for the farm commodity when
+relative prices change. This is recognised as a
+strong assumption but there is a lack of empirical
+evidence on this. However, given that the data
+are monthly, one would anticipate only limited
+substitutability if any over this time period, hence
+the assumption may be of little consequence in
+practice. It would be difficult to make such an
+assumption with annual data however.
+
+309
+
+Third, constant returns to scale are assumed.
+This is equivalent to assuming constant marginal
+costs of processing, or that variations in the volume of the farm commodity undergoing processing have no influence in explaining price transmission behaviour. This is perhaps the most contentious of the assumptions in the context of the
+Australian meat industry, as previous work using
+these or similar data has generally shown a significant negative relationship between the farm-retail margin and the quantity of livestock being
+processed (Griffith, 1974; Griffith, Green and
+Duff, 1991). Thus increasing returns to scale are
+indicated, and a throughput variable should be
+added to the basic markup model.
+Fourth, there is an underlying assumption that
+the retail price changes in response to a change
+in price at the farm or wholesale level. Thus farm
+price "causes" retail price in the Granger sense
+(Granger, 1969). Although causality tests are not
+conducted here, Freebairn (1984) has shown that
+for beef and pork in the Sydney market the farm
+price does indeed "cause" the retail price. Further, using a cross-spectral analysis Griffith (1975)
+concluded tentatively that pork auction prices did
+lead retail prices, so although there may be problems interpreting Granger causality tests, the
+cross-spectral results provide some corroborating
+evidence. Hence this assumption seems reasonable for beef and pork. However, for lamb, Freebairn found that retail price "causes" farm price 1•
+This may be of some concern in interpreting the
+results for lamb.
+Two other methodological issues also require
+consideration, First, when data periodicity is
+monthly as in this study, the question of lags in
+
+1 Freebairn rejected the null hypothesis that future values of
+beef (pork) retail prices as a group had no influence on
+current beef (pork) farm prices. Conversely, he could not
+reject the null hypothesis that future values of farm prices as a
+group had no influence on current retail prices. Thus current
+values of farm prices were associated with future values of
+retail prices, but not vice versa. For beef and pork, farm
+prices "cause" retail prices. However, for lamb, current values
+of retail prices were associated with future values of farm
+prices, but not vice versa. For lamb, retail price "causes" farm
+price.
+
+G.R. Griffith, N.E. Piggott I Agricultural Economics 10 (1994) 307-316
+
+310
+
+responses become important. There are a number of reasons why changes in retail price typically tend to lag changes in farm price (Heien,
+1980; Hall, Tomek, Ruther and Kyerine, 1981;
+Ward, 1982) such as the time required to actually
+perform the processing, storage, transport and
+distribution functions; differences in price collection and reporting methods; the cost of retailers
+changing prices; and differences in information
+availability, transmission and use at different levels of the market. Therefore, in setting up a
+model to test the asymmetry pricing hypothesis,
+some form of lag structure should be incorporated on the independent variables. Also, as is
+well known, problems of autocorrelation are
+highly likely with monthly data.
+Second, there is the issue of whether the dependent and independent variables should be
+transformed in some way to more accurately mea-
+
+Table 1
+Example of calculation of PFR and PFF for pork farm price,
+Sydney market, January 1971-March 1972
+Month
+
+1971-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-11
+
+-12
+1972-1
+-2
+-3
+
+Actual
+farm
+price
+(PF)
+69.6
+67.5
+68.7
+68.7
+66.6
+70.0
+71.9
+73.8
+76.3
+76.8
+70.8
+70.8
+66.4
+65.2
+62.0
+
+Price
+increases
+
+Price
+decreases
+
+(pp')
+
+(pp")
+
+0.0
+1.2
+0.0
+0.0
+3.4
+1.9
+1.9
+2.5
+0.5
+0.0
+0.0
+0.0
+0.0
+0.0
+
+-2.1
+0.0
+0.0
+-2.1
+0.0
+0.0
+0.0
+0.0
+0.0
+-6.0
+0.0
+-4.4
+-1.2
+-3.2
+
+PFR
+
+0.0
+1.2
+1.2
+1.2
+4.6
+6.5
+8.4
+10.9
+11.4
+11.4
+11.4
+11.4
+11.4
+11.4
+
+PFF
+
+-2.1
+-2.1
+-2.1
+-4.2
+-4.2
+-4.2
+-4.2
+-4.2
+-4.2
+-10.2
+-10.2
+-14.6
+-15.8
+-19.0
+
+where following Kinnucan and Forker (1987) the variables are
+defined as:
+PF' = PF- PF( -1) if PF > PF( -1)
+otherwise
+=0
+PF"= PF- PF( -1) if PF < PF( -1)
+=0
+otherwise
+where PFR is the cumulative sum of PF', and PFF the cumulative sum of PF".
+
+sure the differential impacts of rising and falling
+price phases. The conventional method (Ward,
+1982; Kinnucan and Forker, 1987; Schroeder,
+1988) is that two farm price variables, PFR (rising)
+and PFF (falling) - or two wholesale price variables - should be constructed following Houck
+(1977, p. 571) as shown in Table 1. The dependent variable and any other independent variables
+should be expressed as deviations from their respective initial values. This technique is based on
+earlier work by Wolffram (1971) and Houck (1977)
+dealing with asymmetrical supply response and by
+Heien (1980) who extended the method to price
+transmission. Houck (1977) provides a detailed
+justification for using these types of transformations. The key point is that the method decomposes or partitions changes in the dependent
+variable, from a previous position in time (the
+initial values) into changes due to rising input
+prices, falling input prices, and other factors. In
+applying the model, Heien (1980) calculated the
+rising and falling farm price variables but did not
+use any lag structure. Subsequent studies have
+calculated the PFR and PFF variables and imposed
+distributed lags (e.g. Ward, 1982).
+Estimating model and hypothesis. The model used
+for estimation in this study, based on Kinnucan
+and Forker (1987) and the discussion above, is as
+follows:
+
+where for each meat, PFR and PFF are constructed
+variables denoting the rising and falling phases of
+PF as shown in Table 1, Q is the production of
+meat, T is a trend term, and E is a random error;
+the other variables are as previously defined; and
+a, ... , f are coefficients to be estimated.
+The first summation variable is always positive,
+while the second is always negative. Almon distributed lag procedures are imposed on the calculated rising and falling variables, PFR and PFF, so i
+and j are the lengths of the Almon lags on PFR
+and PFF, respectively. The retail price, cost and
+quantity variables are expressed as deviations
+from their respective initial values. Neither the
+
+G.R. Griffith, N.E. Piggott j Agricultural Economics 10 (1994) 307-316
+
+cost nor quantity variables are specified in distributed lag forms. Cost changes gradually over
+time and as Heien (1980) has noted, retailers
+tend to use the smoothed value of cost as a basis
+for pricing (see also Griffith, Green and Duff,
+1991). Presumably, these retailers would also even
+out the price impacts of throughput fluctuations.
+The ci coefficients represent the net effect of
+rising farm prices on retail prices while the dj
+coefficients represent the net effect of falling
+farm prices on retail prices. The appropriate test
+of whether there is a significant difference in the
+sum of the coefficients of the rising phase of farm
+prices versus the falling phase in farm prices can
+be formally represented as:
+Ha: L:ici = L:jdj
+
+(3)
+
+H 1 : H 0 not true
+
+( 4)
+
+A t-test was used to test this null hypothesis.
+Equivalent models to that specified in Eq. (2) are
+also specified for the farm-wholesale and the
+wholesale-retail components of the price transmission process. So in all there are nine equations to be estimated. In addition, in all models, a
+dummy variable DD is added to reflect a change
+in price calculation procedures in 1980, and
+monthly dummy variables n1, ... , n11 are added
+to measure any seasonal patterns not already
+accounted for.
+Alternative modelling frameworks to Eq. (2)
+that have been used in the asymmetry and price
+transmission literature are the Vector Autoregressive (VAR) Models of Babula, Bessler and
+Schulter (1990) and the Generalised Switching
+Model (GSM) of Hahn (1990). VAR is a "dataoriented technique [which] provides evidence on
+the dynamic properties of relationships" (Babula
+et al., 1990, p. 13). However, no explanation of
+the reasons for this behaviour is provided. More
+structural, economic models, such as those reported here, are required for this purpose. Hahn
+(1990, p. 21) considers his GSM to be "the rough
+equivalent of a set of unrestricted reduced form
+equations for a general set of endogenous switching regressions relating the farm, wholesale, and
+retail prices of a meat." The models reported
+here are structural models rather than reduced
+
+311
+
+form models, and are therefore more suited to
+explanation of the factors causing price transmission differences across meats. Neither of these
+alternative models are applied in this study, but a
+comparison of results and policy implications from
+each would be of interest.
+
+3. Data
+
+Monthly data for the period January 1971 to
+December 1988 were used (n = 216) for the following variables:
+PFk
+Monthly estimated dressed auction carcase price, in centsjkg, of composite beef,
+lamb and pork carcases sold at Homebush
+sale-yards in Sydney and adjusted for
+byproducts and shrinkage.
+Pwk
+Monthly wholesale price, in centsjkg, of
+composite beef, lamb and pork carcases
+sold in the Homebush meat halls in Sydney and adjusted for shrinkage.
+PRk
+Monthly composite retail price, in cents/
+kg, of beef, lamb and pork at selected
+retail outlets in Sydney.
+cwk
+Indices of monthly wholesale marketing
+costs for beef, lamb and pork. Slaughtering fees comprise over 50% of wholesale
+operating costs, so slaughtering fees
+charged at Homebush abattoir in Sydney
+were used as a proxy for all wholesale
+costs. The base period was January 1971
+= 100.00.
+cR
+An index of monthly retail marketing costs.
+Since wages contribute over 50% of retail
+operating expenses, the weekly wage rate
+for a New South Wales General Butcher
+Shopman under the Federal Meat Industry Award was used as a proxy for all
+retailing costs. The base was January 1971
+= 100.00.
+Qk
+Throughput of each meat. Due to the
+closure of the Homebush abattoir in mid
+1988, it was not possible to obtain
+throughput at the Homebush meat halls.
+As a proxy New South Wales production
+of beef, lamb and pigmeat was used.
+
+G.R. Griffith, N.E. Piggott I Agricultural Economics 10 (1994) 307-316
+
+312
+
+T
+DD
+
+a linear time trend, where January 1971 =
+1, February 1971 = 2, etc.
+a dummy variable to reflect changes in the
+calculation procedures for PF, where January 1971 to December 1979 = 0, January
+1980 to December 1988 = 1.
+
+D1-
+
+Dll
+k
+
+monthly dummy variables.
+beef, lamb and pork.
+
+All the basic auction, wholesale and retail price
+data came from the records of the now Economic
+Services Unit of N.S.W. Agriculture. The procedures for adjusting and weighting these prices
+and for calculating the wholesale and retail
+spreads are outlined in detail by Griffith, Strong,
+Green and Freshwater (1992). Slaughtering fees
+came from the records of the Homebush Abattoir
+Corporation and the N.S.W. Meat Industry Authority, throughput came from the Australian
+Meat and Livestock Corporation, and wage rates
+came from the Meat and Allied Trades Federation and the N.S.W. Department of Industrial
+Relations. The price and cost variables were all
+expressed in nominal terms.
+As noted above, PFR and PFF were calculated
+from PF, and the equivalent rising and falling
+wholesale price variables PWR and PWF were calculated from PW, for use in the estimating equations. For beef, approximately 51% of the observations on PF and 50% of observations on PW
+were falling, while for lamb the relevant percentages were very similar, 49% and 51%. For pork,
+approximately 44% of the observations on PF and
+41% of observations on PW were falling, so a
+reliable estimate of the presence or absence of
+asymmetrical price response should be able to be
+provided.
+
+4. Estimation technique
+
+The nine equations were estimated using least
+squares procedures. Limited experimentation in. dicated that autocorrelation was endemic and all
+subsequent equations were estimated with a
+first-order correction.
+
+The question of jointly choosing lag length and
+order of polynomial for the Almon lags was resolved as follows. First, the lengths of the lags
+were determined by adding lagged variables until
+insignificant coefficients were encountered using
+a t-test. Where significant lag lengths greater
+than two were found, higher order polynomials
+were tested for using an F-test.
+
+5. Results
+
+Estimated equations. The results of estimating the
+nine equations of the form specified in Eq. (2)
+above, using the data transformations and methods described there, are reported in Tables 2, 3
+and 4 for beef, lamb and pork, respectively.
+There were some common features of all of
+these equations: the extremely high level of explained variance; the large size and high significance of the rho coefficient, which indicated that
+there was very strong positive autocorrelation in
+the raw residuals; the overall lack of significance
+of seasonality, significant only in the pork farmwholesale and in the lamb farm-wholesale price
+linkages; and the short lag lengths which were
+significant in the Almon lags, only reaching a lag
+of three months in the lamb wholesale-retail linkage (Table 3).
+Features which differed across equations included the influence of cost factors, which were
+significant in five of the nine equations, but contrary to expectations - were mostly negative;
+the influence of time trends, which were mostly
+significant for lamb and pork but not for beef; the
+influence of the dummy variable for the change
+in calculation procedure, which was significant
+for beef but not generally for lamb or pork; and
+the influence of throughput, which had a significant effect on the explanation of price transmission for lamb but not generally for beef or pork.
+Only the lag lengths for lamb were greater
+than two (Table 3). An F-test of the null hypothesis of a linear model could not be rejected. All
+Almon polynomials were therefore linear.
+
+G.R. Griffith, N.E. Piggott/ Agricultural Economics 10 (1994) 307-316
+Table 2
+Beef regression equations and asymmetry tests, Sydney market, January 1971-December 1988
+
+313
+
+Table 3
+Lamb regression equations and asymmetry tests, Sydney market, January 1971-December 1988
+
+Item
+
+WholesaleRetail
+
+FarmWholesale
+
+FarmRetail
+
+Item
+
+WholesaleRetail
+
+FarmWholesale
+
+FarmRetail
+
+Rz
+
+0.997
+2.361
+0.946 *
+-19.159
+0.708 **
+13.704 **
+-1.549
+-3.779
+-2.707
+0.390
+4.904
+1.337
+-0.084
+-3.081
+-0.670
+-2.113
+-2.740
+-1.48E-04
+-0.262 **
+
+0.993
+2.082
+0.524 *
+1.768
+-0.050
+27.899 *
+0.578
+2.817
+1.844
+1.899
+0.792
+2.417
+1.579
+0.912
+-0.698
+0.199
+0.283
+-3.10E-04 *
+
+0.997
+2.585
+0.885 *
+3.526
+-0.247
+19.040 *
+-0.774
+-1.149
+-1.440
+2.497
+4.714
+1.535
+-0.927
+-3.273
+-2.528
+-3.955
+-2.912
+-1.11E-04
+
+Rz
+
+0.993
+2.062
+0.741 *
+-5.173
+-0.263
+-7.499
+-1.380
+4.936
+6.141
+3.925
+6.392
+8.490 *
+4.914
+-0.404
+-0.388
+2.779
+3.436
+-1.23E-03 **
+-0.082
+
+0.986
+1.768
+0.770 *
+-8.085
+1.138 *
+25.673 *
+0.531
+1.334
+0.322
+0.774
+0.766
+-0.064
+1.792
+6.579 *
+4.694 **
+1.147
+1.247
+-1.56E-03 *
+
+0.992
+2.178
+0.805 *
+-8.773
+1.022 *
+13.401
+-3.447
+2.022
+0.939
+1.406
+3.435
+5.630
+0.908
+-1.453
+-2.039
+-0.076
+3.116
+.,-1.33E-03 *
+
+-5.584 *
+0.374 *
+0.240 *
+
+-4.615 **
+0.347 *
+0.160 **
+0.195 *
+
+DW
+Rho
+INT.
+T
+DD
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+D11
+Q
+CR
+
+cw
+
+0.683 *
+
+PR 1
+PR 1 _ 1
+PR 1 _z
+PF1
+PF1 _.1
+
+Cumulative
+rises
+Cumulative
+falls
+t-test value
+Polynomial
+order
+
+-0.113
+0.481*
+0.683
+
+DW
+Rho
+INT.
+T
+
+DD
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+D11
+Q
+CR
+
+4.329 *
+0.209 *
+0.623 *
+0.772 *
+0.832
+
+-1.595
+0.208 *
+0.430 *
+0.250 *
+0.169
+0.220 **
+0.888
+
+0.368
+
+0.772
+
+0.389
+
+2.151 *
+1
+
+1.322
+
+3.563 *
+1
+
+* Significant at the 5% level.
+** Significant at the 10% level.
+
+cw
+PR 1
+PR 1 _ 1
+PR 1 _ 2
+PRI-3
+PF1
+
+0.501 *
+0.095
+0.351 *
+0.212 **
+0.826 *
+
+Cumulative
+rises
+Cumulative
+falls
+t-test value
+Polynomial
+order
+
+* Significant at
+
+-0.038
+0.562
+0.703
+
+1.159
+
+0.295 *
+0.426 *
+0.615
+
+0.826
+
+0.722
+
+0.600
+
+-2.463 *
+1
+
+1.366
+1
+
+PFI-1
+
+3.121 *
+1
+
+*
+
+the 5% level.
+
+** Significant at the 10% level.
+
+Asymmetry hypothesis. A test of the asymmetry
+hypothesis was formulated following Mendenhall,
+Schaeffer and Wackerly (1981):
+
+(I:;C;- L:jdj)
+
+t = """"""r.?==='=============-
+
+v[vAR(I:;c;- L;jdj)]
+
+where the variance of the difference between the
+sums is calculated from the variances of each of
+the components of both sums and the covariances
+between each of the components of both sums.
+This procedure was followed for each of the
+equations estimated in this study and the results
+
+are reported near the bottom of Tables 2, 3
+and 4.
+The results show that for six of the nine price
+linkages (all three beef; wholesale-retail and
+farm-retail Iamb; and farm-wholesale pork), the
+cumulative effect on the dependent variable of
+rising input prices (I:;c) exceeded the cumulative
+effect of falling input prices (L:jd). In three of
+these six cases (beef wholesale-retail and farm-retail, and lamb wholesale-retail) the test statistics
+were significantly different from zero, rejecting
+the null hypothesis. Thus there was asymmetry in
+
+G.R. Griffith, N.E. Piggott I Agricultural Economics 10 (1994) 307-316
+
+314
+
+Table 4
+Pork regression equations and asymmetry tests, Sydney market, January 1971-December 1988
+Item
+
+WholesaleRetail
+
+FarmWholesale
+
+FarmRetail
+
+R2
+DW
+Rho
+INT.
+T
+DD
+D1
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+o9
+o10
+Dll
+
+0.994
+2.571
+0.913 *
+-30.444 **
+2.281 *
+1.065
+1.926
+0.853
+-2.042
+0.432
+1.462
+2.636
+-1.563
+-2.213
+0.925
+0.031
+2.710
+-6.62E-04
+-0.565 *
+
+0.985
+1.877
+0.869 *
+0.760
+0.780 **
+3.664
+-3.617
+-5.605 *
+-7.126 *
+-7.921 *
+-9.222 *
+-10.045 *
+-13.258 *
+-11.609 *
+-11.463 *
+-6.725 *
+-3.448 **
+-3.62E-04
+
+0.993
+2.617
+0.907 *
+-14.554
+1.800 *
+3.738
+2.309
+2.694
+-2.627
+-0.378
+1.202
+2.495
+-2.597
+-2.961
+-0.545
+-1.610
+1.472
+-3.38E-04
+
+Q
+CR
+
+cw
+PR 1
+PRI-1
+PF1
+PF1 _1
+
+Cumulative
+rises
+Cumulative
+falls
+t-test value
+Polynomial
+order
+
+0.166
+-0.248
+0.466
+0.166
+
+*
+*
+
+-0.029
+-0.054
+0.313
+0.244
+
+*
+
+-1.465
+-0.184
+0.373 *
+0.257 *
+
+0.259
+
+0.189
+
+0.217
+
+0.244
+
+0.257
+
+-0.335
+
+0.127
+
+-0.405
+
+* Significant at the 5% level.
+** Significant at the 10% level.
+
+wholesale or retail price transmission between
+periods of rising and falling farm or wholesale
+prices, in these three cases, over this data period.
+Price rises were passed on more fully than price
+falls in these cases. In the other three cases
+where the cumulative rise exceeded the cumulative fall (beef and pork farm-wholesale and Iamb
+farm-retail), the test statistics were not significantly different from zero, failing to reject the
+null hypothesis. Thus there was no asymmetry in
+price transmission in these instances.
+In the remaining three price linkages (lamb
+farm-wholesale, and pork farm-retail and wholesale-retail), the cumulative effect on retail price
+
+of falling farm or wholesale prices ('[,jd) exceeded the cumulative effect of rising farm or
+wholesale prices ('[,icJ For the two pork linkages
+(Table 4), the test statistics were not significantly
+different from zero, failing to reject the null
+hypothesis. Thus the results indicate no asymmetry in wholesale or retail price transmission between periods of rising and falling pork farm or
+wholesale prices, over this data period. However,
+in the lamb farm-wholesale linkage (Table 3), the
+test statistic was significantly different from zero,
+rejecting the null hypothesis. Thus some asymmetry in lamb wholesale price transmission between
+periods of rising and falling farm prices seems
+evident over this data period. Price falls were
+passed on more fully than price rises in this case.
+Further, there was some evidence that the
+response to price changes at lower levels of the
+market was slower for beef and lamb price rises
+than for price falls because in most of the equations there was a longer lagged response on the
+rising prices than there was on the falling prices.
+For pork, however, this did not seem to be apparent because in one of the equations there was a
+lagged response on the falling prices while in the
+other equations there was a lagged response on
+the rising prices.
+The means of the price rises and price falls for
+each price level were also examined, using a
+t-test for the difference between two sample
+means. The results are reported in Table 5. For
+each of the nine prices, the mean increases were
+greater than the mean decreases, but only for
+beef and pork retail prices were these differences
+significant (at the 5% and 10% levels, respectively). This suggested that for these two cases,
+retail prices adjusted less fully to falling wholesale prices than to rising wholesale prices. This
+confirmed the evidence reported in Table 2 for
+beef, where the coefficient on the price fall variable was less than the coefficient on the price rise
+variable in the two relevant equations. However,
+the results contradicted the evidence for pork,
+where the coefficient on the price rise variable
+was less than the coefficient on the price fall
+variable in the two relevant equations.
+Finally, there were more price rises than price
+falls at the retail level, and the actual numbers of
+
+G.R. Griffith, N.E. Piggott/ Agricultural Economics 10 (1994) 307-316
+Table 5
+Numbers and means of rising, falling and stable beef, lamb
+and pork price changes, Sydney market, January 1971-December 1988
+Price
+
+Beef
+Farm
+Wholesale
+Retail
+Lamb
+Farm
+Wholesale
+Retail
+Pork
+Farm
+Wholesale
+Retail
+
+Rising
+
+Falling
+
+Stable
+
+t-
+
+test
+
+No.
+
+Mean
+
+No.
+
+Mean
+
+103
+108
+128
+
+3.41
+3.07
+3.51
+
+110
+99
+84
+
+-2.91
+-2.31
+-1.72
+
+2
+8
+3
+
+0.70
+1.01
+2.20
+
+106
+109
+123
+
+5.18
+4.20
+4.81
+
+106
+99
+92
+
+-4.79
+-3.55
+-3.18
+
+3
+7
+0
+
+0.33
+0.73
+1.58
+
+117
+85
+124
+
+3.60
+2.72
+4.11
+
+94
+88
+90
+
+-2.94
+-1.65
+-2.54
+
+4
+42
+
+0.95
+1.27
+1.89
+
+*
+
+**
+
+* Significant at the 5% level.
+** Significant at the 10% level.
+
+rises and falls were very similar reflecting the
+high cross-price elasticities of demand between
+these meats (Piggott and Griffith, 1992). The
+picture was somewhat different at the farm and
+wholesale levels where there were similar numbers of price rises and price falls, except for pork
+at the farm level where the number of rises
+exceeded the number of falls by a substantial
+margin. At the wholesale level there were a relatively greater number of "no changes", especially
+for pork. This fact reinforced findings of shortterm price levelling at the wholesale level found
+in other work (Griffith, Green and Duff, 1991).
+For pork, the substantial number of "no changes"
+may explain why neither of the components of
+the overall pork farm-retail price linkage showed
+any significant asymmetry behaviour. The wholesale market was disrupting the process of transmitting changes in market conditions between the
+different levels of the market.
+
+6. Summary and Conclusions
+
+In this paper the hypothesis of asymmetrical
+pricing behaviour in the Australian beef, lamb
+and pork market has been examined. There were
+five main results. First, the cumulative effect on
+retail or wholesale price of the rising wholesale or
+
+315
+
+farm beef and lamb price variable exceeded the
+cumulative effect of the falling wholesale or farm
+price variable in five of the six relevant equations.
+Three of these equations rejected the null hypothesis suggesting that there was some asymmetry in price transmission between periods of rising
+and falling wholesale or farm beef and lamb
+prices. In the sixth equation, the cumulative effect on wholesale lamb price of the falling farm
+lamb price variable exceeded the cumulative effect of the rising farm price variable, with the test
+statistic being significant. Again this suggests
+asymmetry.
+Second, the cumulative effect on retail or
+wholesale price of the rising wholesale or farm
+pork price variable did not exceed the cumulative
+effect of the falling wholesale or farm price variable in two of the three relevant equations. In the
+third equation, the cumulative effect on wholesale pork price of the rising farm pork price
+variable exceeded the cumulative effect of the
+falling farm price variable. However, in each case,
+the test statistics were very small, indicating failure to reject the null hypothesis. The results
+suggest that there was no asymmetry in price
+transmission between periods of rising and falling
+wholesale or farm pork prices.
+Third, for each of the three prices of each
+meat, the mean increases were greater than the
+mean decreases, although only for beef and pork
+retail prices were these differences significant.
+This suggests that the beef and pork retail prices
+adjust less fully to falling wholesale prices than to
+rising wholesale prices.
+Fourth, for pork there were a much greater
+number of price rises than price falls at the farm
+and retail levels. The picture was somewhat different at the wholesale level where there were
+similar numbers of price rises and price falls and
+a substantial number of "no changes". This fact
+reinforces findings of price levelling at the wholesale level found in other work (Griffith, 1974;
+Naughtin and Quilkey, 1979; Griffith, Green and
+Duff, 1991).
+Finally, for beef and lamb there were a much
+greater number of price rises than price falls at
+the retail level. At the farm and wholesale levels
+there were similar numbers of price rises and
+
+316
+
+G.R. Griffith, N.E. Piggott I Agricultural Economics 10 (1994) 307-316
+
+price falls and at the wholesale level there were a
+greater number of "no changes". Again findings
+of price levelling at the wholesale level found in
+other work are validated.
+Therefore this study provides new evidence
+which confirms Freebairn's (1984) conclusion relating to the absence of price asymmetry for pork,
+but not for beef and lamb. Conversely, for beef
+and lamb the results of this study accord with
+those of Lye and Sibly (1991) who found evidence
+of asymmetrical adjustment of retail prices in the
+New South Wales meat market.
+On balance it appears that in the Australian
+meat market, asymmetrical price response is an
+adjustment strategy used by beef and lamb retailers and wholesalers to contend with input price
+changes, but it is not employed by pork retailers
+and wholesalers. This difference in behaviour is
+perhaps unexpected given the similarity in behaviours relating to price levelling and the high
+cross-price elasticities. Also, given the relatively
+greater degree of concentration in the pig market, if any meat was to show evidence of asymmetry it would be expected to have been pork.
+Acknowledgements
+
+The assistance of Lachlan Duff, Wayne Green,
+David Shannon and Andrea Strong during the
+data collection and calculation phase of this research program is gratefully acknowledged, as are
+the helpful comments of two anonymous referees.
+References
+Australian Bureau of Statistics (1990) Censuses of manufacturing establishments. Industry Concentration Statistics,
+Australia, 1986/87, Cat. No. 8207.0. Australian Government Publishing Service, Canberra.
+Australian Meat and Livestock Corporation (1993) Domestic:
+Retail sales trends. Meat and Livestock Review, March
+1993, and previous issues.
+Babula, R.A., Bessler, D.A. and Schulter, G.E. (1990) Poultry-related price transmissions and structural change since
+the 1950's. J. Agric. Econ. Res., 42(2): 13-21.
+Bennett, C. (1982) The changing Australian pig industry. Q.
+Rev. Rural Econ., 4: 313-320.
+Boyd, M.S. and Brorsen, B.W. (1988) Price asymmetry in the
+U.S. pork marketing channel. North Cent. J. Agric. Econ.,
+10: 103-110.
+
+Freebairn, J.W. (1984) Farm and retail food prices. Rev.
+Market. Agric. Econ., 52: 71-90.
+Granger, C.W. (1969) Investigating causal relations by econometric models and cross-spectral methods. Econometrica,
+37: 424-438.
+Griffith, G.R. (1974) Sydney meat marketing margins - an
+econometric analysis. Rev. Market. Agric. Econ., 42: 223239.
+Griffith, G.R. (1975) A cross-spectral approach to measuring
+pricing efficiency in the N.S.W. pigmeat market. Rev.
+Market. Agric. Econ., 43: 163-183.
+Griffith, G.R. and Gill, R.A. (1987) Market structure of the
+Australian pig industry. Research Report 11/97, Economic Services Unit, N.S.W. Agriculture, Armidale.
+Griffith, G.R., Green, W. and Duff, G.L. (1991) Another look
+at price levelling and price averaging in the Sydney meat
+market. Rev. Market. Agric. Econ., 59: 97-109.
+Griffith, G.R., Strong, A., Green, W. and Freshwater, R.
+(1992) Monthly meat price spreads for the Sydney market,
+1971-1988. Economic Services Unit, N.S.W. Agriculture,
+Armidale.
+Hahn, W.F. (1990) Price transmission asymmetry in pork and
+beef markets. J. Agric. Econ. Res., 42(4): 21-30.
+Hall, L.L., Tomek, W.O., Ruther, D.L. and Kyerine, S.S.
+(1981) Case studies in the transmission of farm prices.
+AER 81-12, Department of Agricultural Economics, Cornell University, Ithaca, NY.
+Heien, D.M. (1980) Markup pricing in a dynamic model of the
+food industry. Am. J. Agric. Econ. 62: 10-18.
+Houck, J.P. (1977) An approach to specifying and estimating
+nonreversible functions. Am. J. Agric. Econ., 59: 570-572.
+Kinnucan, H.W. and Forker, O.D. (1987) Asymmetry in
+farm-retail price transmission for major dairy products.
+Am. J. Agric. Econ., 69: 285-292.
+Lye, J.N. and Sibley, H.J. (1991) Testing for pricing asymmetries in customer markets. Department of Economics, Univ.
+Melbourne, Vic.
+Mendenhall, W., Schaeffer, R.L. and Wackerly, D.D. (1981)
+Mathematical Statistics with Applications. Duxbury,
+Boston, MA.
+Naughtin, J.C. and Quilkey, J.J. (1979) Pricing efficiency in
+the retail meat market. Aust. J. Agric. Econ., 23: 48-61.
+Parish, R.M. (1967) Price "levelling" and "averaging". Farm
+Econ., 11: 187-198.
+Piggott, N.E. and Griffith, G.R. (1992) Measuring the demand
+response to advertising in the Australian meat industry.
+Paper presented to the Annual Conference of the Australian Agricultural Economics Society, Canberra. N.S.W.
+Agriculture, Armidale.
+Schroeder, T.C. (1988) Price linkages between wholesale and
+retail pork cuts. Agribusiness, 4: 359-369.
+Ward, R.W. (1982) Asymmetry in retail, wholesale and shipping point pricing for fresh vegetables. Am. J. Agric.
+Econ., 64: 205-212.
+Wolffram, R. (1971) Positivistic measures of aggregate supply
+elasticities: some new approaches - some critical notes.
+Am. J. Agric. Econ., 53: 356-359.
+
+

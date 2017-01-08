@@ -1,0 +1,1354 @@
+AGRICULTURAL
+
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 28 (2003) 39-50
+www.elsevier.corn!locate/agecon
+
+Cash cropping and food crop productivity: synergies or trade-offs?
+Jones Govereh a, T.S. Jayne b,*
+Food Security Research Project, Lusaka, Zambia
+Department of Agricultural Economics, Agriculture Hall, Michigan State University, East Lansing, MI 48824-1039, USA
+a
+
+b
+
+Received 25 January 2001; received in revised form 24 January 2002; accepted 10 April2002
+
+Abstract
+The case for promoting export-oriented cash crops in Africa has generally been based on their direct potential contribution
+to agricultural productivity and small farmer incomes. A relatively neglected avenue of research concerns the synergistic
+effects that cash cropping can have on other household activities, including food production. The conventional view that cash
+crops compete with food crops for land and labour neglects the potential for cash crop schemes to make available inputs
+on credit, management training, and other resources that can contribute to food crop productivity, which might otherwise
+not be accessible to farmers if they did not participate in cash crop programs. This article builds on previous research by
+hypothesising key pathways by which cash crops may affect food crop activities and empirically measuring these effects
+using the case of cotton in Gokwe North District in Zimbabwe. Analysis is based on instrumental variable analysis of survey
+data on 430 rural households in 1996. Results indicate that_.after controlling for household assets, education and locational
+differences-households engaging intensively in cotton production obtain higher grain yields than non-cotton and marginal
+cotton producers. We also find evidence of regional spill-over effects whereby commercialisation schemes induce second
+round investments in a particular area that provide benefits to all farmers in that region, regardless of whether they engage in
+that commercialisation scheme. The study suggests that the potential spill-over benefits for food crops through participation
+in cash crop programs are important to consider in the development of strategies designed to intensify African food crop
+production.
+© 2002 Elsevier Science B.V. All rights reserved.
+Keywords: Africa; Zimbabwe; Cash crops; Cotton; Productivity; Food security
+
+1. Introduction
+Meeting the challenge of raising rural incomes in
+Africa will require some form of transformation out
+of the semi-subsistence, low-input, low-productivity
+farming systems that currently characterise much of
+rural Africa. In some areas of eastern and southern Africa, food crop intensification was formerly
+• Corresponding author. Tel.: +1-517-355-0131;
+fax: +1-517-432-1800.
+E-mail address: jayne@msu.edu (T.S. Jayne).
+
+promoted through state-led programs integrating subsidised credit, input delivery and crop purchase by
+state marketing boards that operated even in remote
+farming areas (Rohrbach, 1988; Byerlee and Eicher,
+1997; Putterman, 1995). However, these policies
+eventually accumulated large budget deficits and became financially unsustainable, leading to an often
+sudden withdrawal of services to farmers and an associated stagnation or decline in the use of cash inputs
+on food crops (Jayne and Jones, 1997). Farmers in
+many countries are purchasing less hybrid seed and/or
+less fertiliser for food crops than during the former
+
+0169-5150/02/$- see front matter© 2002 Elsevier Science B.V. All rights reserved.
+PIT: S0169-5150(02)00066-X
+
+40
+
+J. Govereh, T.S. Jayne I Agricultural Economics 28 (2003) 39-50
+
+period of controlled marketing. 1 Renewed growth in
+African agriculture will require financially sustainable
+intensification of existing cropland, since most of the
+high-potential farmland in Africa is already under
+production.
+High-value cash crops represent one potential avenue of crop intensification. Evidence from other
+parts of Africa indicates that farm incomes and productivity can benefit from engaging in cash crops
+with well-developed channels for procuring inputs on
+credit and marketing the crop (Dione, 1989; Goetz,
+1993; Von Braun and Kennedy, 1994; Kelly et al.,
+1996; Poulton et al., 1998; Dorward et al., 1998).
+But the active promotion of non-food cash crops
+in Africa is often impeded by perceptions that they
+compete with food production and exacerbate household food insecurity. 2 The effects of shifting to more
+commercially-oriented cropping patterns on the allocation of households' resources are complex and
+need to be more fully understood to guide agricultural policy formation. In addition to the direct effect
+of cash cropping on household incomes, there may
+be important indirect effects of cash cropping on the
+productivity of other household activities such as food
+cropping. These potential synergies between cash
+crops and food crops have been generally neglected
+in food crop research and extension programs, 3 although they may have important implications for
+
+1 For evidence from eastern and southern Africa, see Jayne and
+Jones, 1997; Howard and Mungoma, 1997; Kherallah eta!., 2002.
+2 The World Bank and other donors have come under renewed
+criticism from civil society groups contending that support for
+cash cropping in Africa benefits mainly foreign marketing firms
+and reduces the amount of food available for consumption. Consider the following except from a full page advertisement in the
+New York Times on 18 January 2000, by a lobby group called
+"Turning Point Project", representing over 60 NGOs and research
+foundations: "Globalised industrial-style agriculture does not grow
+staple foods for the hungry, or for their communities. Global corporations favour luxury high profit items: flowers, potted plants,
+sugar cane, beef, shrimp, cotton, coffee, soybeans for export to
+wealthy countries. Local people are often left with nothing. In
+Africa, where severe famines occurred in the past decade, newly
+industrialised agriculture does not produce staple foods, but record
+crops of ... cotton and sugar cane! For export. As export crops
+and livestock use up available land, small farmers are forced to
+use marginal, less fertile lands. Staple food production for local
+use plummets, increasing hunger."
+3 For informative exceptions, see Goetz, 1993 and Dione, 1989.
+
+programs designed to promote smallholder food crop
+productivity growth.
+This paper studies the synergies between cash cropping and food crop productivity at the household level
+using the case of Gokwe North District in Zimbabwe.
+The paper theorises two potential pathways by which
+cash crop schemes may affect food crop productivity
+and then empirically measures these effects. Results
+are based on econometric analysis of cross-section
+household survey data collected in 1996. The findings suggest that, especially under conditions of credit
+and input market failures, participation in cash crop
+schemes may enable households to acquire key inputs
+and skills which they can use to increase the productivity of other enterprises in their crop mix. A better
+understanding of why and how these synergies occur
+can help in the design of policy strategies to intensify
+food crop production in Africa.
+
+2. Conceptual framework: synergies between
+cash crops and food crops
+Economists have long advocated specialisation and
+commercialisation as part of a broader strategy of
+comparative advantage. The underlying premise is
+that markets allow households to increase their incomes by producing that which provides the highest
+returns to land and labour, and then using cash to buy
+household consumption items, rather than being constrained to produce all the various goods needed for
+consumption (Timmer, 1997). While this concept of
+comparative advantage is well accepted undfu the assumption of frictionless markets, in reality the process
+of commercialisation involving non-food cash crops
+can be impeded by risks and costs in the food marketing system. Food market failures give rise to the
+well-understood non-separability of household production and consumption decisions, which accounts
+for the potential breakdown of agricultural commercialisation strategies based on comparative advantage
+(Singh et al., 1986; Fafchamps, 1992). These arguments form a large part of the foundation of the long- .
+standing critique of cash crop promotion in Africa. '
+However, there are other less well-understood nonseparabilities between crop choice and access to inputs and training and other investment decisions that
+need to be considered in understanding the normative
+
+J. Govereh, T.S. Jayne I Agricultural Economics 28 (2003) 39-50
+
+and positive implications of agricultural commercialisation strategies. For example, farmers with limited
+cash income may be able to afford key inputs only
+if provided on credit; and in many areas agricultural
+credit tends to be available primarily through interlocked cash crop schemes (Dorward et al., 1998). The
+case for cash cropping has generally been based on
+the direct contribution that these crops can have on
+farm incomes. A relatively neglected avenue of research concerns the effects that cash cropping can have
+on the productivity of other household activities. The
+following sections classify two potential pathways by
+which cash cropping may affect the productivity of
+other crops: (1) household-level synergies; and (2) regional spill-over effects.
+2.1. Household-level synergies
+Household-level synergies occur when the household's participation in a commercialised crop scheme
+enables it to acquire resources that otherwise would
+not be available, for use on other enterprises in
+the crop mix. There are several pathways of this
+type. Under conditions of constrained access to farm
+credit, households' ability to intensify food crop production may depend on their participation in cash
+crop schemes. Strasberg (1997), for example, finds
+that under credit and input market failures in northern Mozambique, participation in cotton outgrower
+schemes was the primary means of acquiring cash
+inputs for use in food production. In parts of Central
+Province, Kenya, smallholders engaging in coffee production obtained through their coffee co-operatives
+access to credit, inputs, extension services and equipment for use not only on coffee but also on food
+crops. The coffee co-operatives' explicit support of
+members' food crop production was based on the
+premise that this would raise their ability to sustainably and profitably participate in coffee production,
+which would in turn provide longer term benefits
+to the company (Govereh et a!., 1999). In Zambia,
+farmer application of pesticides acquired through
+participation in cotton outgrower schemes benefited
+grain yields as well as cotton due to 'wind drift'
+(Fereidoon et a!., 1996). Due to crop rotation, maize
+can benefit from residual fertiliser acquired on credit
+from participation in cotton schemes and applied to
+plots on which cotton was grown the year before
+
+41
+
+(Dione, 1989). Access to these inputs on credit was
+not assured for households choosing to concentrate
+their farming activities on food crops alone. These
+examples indicate the potential non-separability between crop choice decisions and access to resources
+and opportunities.
+Agricultural commercialisation may have an indirect impact on food productivity via its effects on
+animal traction adoption. When faced with poorly
+functioning credit markets, cash cropping can provide a needed source of cash for purchasing lumpy
+assets such as animal traction equipment and draught
+power which can also be used to intensify food crop
+production. 4 In Mali, 70% of the farmers surveyed by
+Dione (1989) perceived cotton production and use of
+fertiliser as the two most important conditions determining the profitability of animal traction adoption.
+Rental markets for oxen and plough usage do exist in
+many areas but oxen owners typically reserve the perceived optimal time for animal traction functions for
+their own plots, leaving renters with the option to rent
+weakened oxen at sub-optimal times. Cash-generating
+crops can help farmers overcome capital constraints
+on the purchase of lumpy assets and inputs, which
+can be used to expand food crop as well as cash crop
+production (Von Braun and Kennedy, 1994).
+Promotional support and training of cash crop
+producers by private firms may also raise the productivity of existing household resources devoted to
+food crop productivity. In Zimbabwe, the Department
+of Agricultural and Technical Services (AGRITEX)
+co-operates with private fertiliser and pesticide manufacturing firms in training farmers at the Cotton
+Training Institute. One important part of the training
+program focuses on pest scouting. Farmers get extensive training in determining the critical stages of
+economic injury to a cotton stand. Mariga (1994) argues that cotton instills discipline in farmers because
+of its stringent husbandry requirements. Such knowledge not only improves cotton management skills
+but improves the overall quality of farm husbandry.
+For example, farmers with knowledge of cotton pest
+
+4 Animal traction's contribution to food crop production has
+been observed to involve elements of both area expansion (by
+allowing more land to be cultivated than under hand-hoe plowing
+technology) and yield improvement (through timeliness of land
+preparation, planting and weeding). See Govereh, 1999.
+
+42
+
+J. Govereh, T.S. Jayne I Agricultural Economics 28 (2003) 39-50
+
+scouting may be better able to determine the stage
+at which maize stalk-borers or grain weevils cause
+economic injury. Mariga (1994) asserts that such
+investments in human capital through participation
+in cash crop programs has had a positive spill-over
+effect on food crop productivity.
+
+investments that support food crop production). The
+remainder of this paper examines these issues based
+on the case of cotton in Gokwe North District of
+Zimbabwe.
+
+3. Data and sampling frame
+2.2. Regional spill-over effects
+Regional effects occur when a commercialisation
+scheme attracts investments to a region which provide
+widespread spill-over benefits to all farmers in that
+region regardless of whether they engage in that commercialisation scheme. For example, the promotion
+of input-intensive cash crops can make key inputs
+more readily available in the area, for use on food
+or cash crops. Dione (1989) found that the introduction of cotton to southern Mali increased the demand
+for fertiliser, which subsequently stimulated private
+investment by input manufacturers, distributors and
+retailers. These investments made fertiliser and other
+inputs more accessible and profitable not only for use
+on cotton (which was the primary impetus for the
+expansion of input supply in these areas) but also for
+farmers who only produced staple food crops. These
+examples highlight the potential synergies between
+input-intensive cash crops and subsistence crops.
+Regional spill-over effects can also occur when agricultural commercialisation spurs private investment in
+market infrastructure that improves the productivity of
+other farm activities, including food crop production.
+It has been observed that private investment in transportation infrastructure to support cash crop activities
+has also raised the returns to smallholder grain production and grain traders' operations (Strasberg, 1997).
+The general inductive argument built up from these
+cases is that commercialised crop production and
+marketing programs may create important synergies
+with more subsistence-oriented crops. These potential synergies arise from both household-level and
+regional-level spill-over effects. Whether these synergies actually arise depends on the perspectives and
+approaches that marketing firms adopt toward smallholders (e.g. whether credit is provided under terms
+that are not available in 'open markets', whether the
+input and output marketing system that develops to
+support the cash crop induces auxiliary private sector response in service provision and infrastructural
+
+The data used in this study is based on a multiple
+visit survey of 480 rural households in 1996. The survey was designed and implemented under the Project
+on Integrated Assessment of Trypanosomosis Control
+Strategies and Their Impacts. This component of the
+overall project was a collaboration between The International Livestock Research Institute, The University
+of Zimbabwe, The Regional Tsetse and Trypanosomasis Control Program and The Department of Veterinary Services, Tsetse Control Branch of Zimbabwe.
+Gokwe North District was selected for implementing the survey. Gokwe is a major cotton producing
+area and has been a destination for internal immigrants
+seeking the fortunes associated with cotton. The influx of immigrants into Gokwe is often dubbed "the
+white gold rush". A four-stage stratified sampling procedure was adopted to select study sites within Gokwe
+North. The first stage involved purposive selection of
+three cluster areas that experienced early, mid and recent tsetse fly clearance. Each cluster area falls under
+Natural Region III (moderately high agro-ecological
+potential). They are found along the major drainage
+systems with soils that are moderately well drained,
+sandy clay loam or clay. These soils have high agricultural potential and no farmers in the sample applied
+any supplementary nutrients. The most limiting input
+was animal traction because the soils (vertisols) are
+hard and difficult to work manually.
+During the second stage, two wards were purposively selected from each of the cluster areas. Selection of two wards per cluster area provided an
+opportunity to identify differences in local administration that could have affected the settlement process. In
+the third stage, two villages were purposively selected
+within each ward: one village had the best access to
+services in 1996 and the other village had the worst
+access to services at that time. At the fourth stage,
+a random sample of 40 households, representing approximately 15-25% of the village population, was
+drawn from each village. The resulting sample size
+
+J. Govereh, T.S. Jayne/ Agricultural Economics 28 (2003) 39-50
+
+was 482 households. Households were interviewed
+for information on demographics, farm and non-farm
+activities, agricultural practices and asset holdings.
+
+4. Research questions and method of analysis
+The conceptual framework in Section 2 suggests
+that the intensity of cotton production in Gokwe
+North may potentially influence the productivity of a
+farmer's other crops. This section develops a model
+for measuring (1) the determinants of cotton commercialisation at the household level, and (2) the
+contribution of cotton commercialisation to food crop
+yields and production.
+Some key descriptive features of the data are important in guiding model specification. Cropping patterns in Gokwe North are concentrated on two crops.
+Maize accounts for 47.4% of cropped area, while cotton accounts for 45.2%. 5 However, there are clear differences in the reasons for growing these crops: 100%
+of the cotton production was marketed, while 93.8%
+of the maize production was consumed on the farm.
+Cotton sales contributed 83.6% of the value of marketed crop income. In this area of Zimbabwe, agricultural commercialisation is virtually synonymous with
+expanding cotton cultivation.
+The major inputs in the cotton system that may
+give rise to household-level synergies with food
+crops are draught equipment, herbicides, pesticides
+and sprayers. These purchases are made from cotton
+traders who are in local village centres or from larger
+dealers in town centres. The key technologies in the
+maize production system are hybrid seed and animal
+traction. Fertiliser is not commonly used in these areas because the soils do not have nutrient deficiencies
+that require the use of inorganic fertiliser. Traction is
+a key production input because the soils are heavy and
+difficult to work with a hand hoe. Traction equipment
+is important both in expanding the household's cultivable land and in allowing for more timely planting.
+Given our hypothesis that a household's grain crop
+productivity may be related to its involvement in
+cotton production, we develop an indicator of cotton
+commercialisation. We define the household's cotton
+5 The remaining 8% of cropped area is devoted to groundnuts,
+sunflower, millet and sorghum.
+
+43
+
+commercialisation index, CCI;, as the value of cotton sales over total crop production for household i.
+This index is neutral with respect to farm production,
+and measures the household's involvement in cotton
+relative to its total farm output. This index ranged
+from zero (for 19% of the cases) to 96% across the
+sampled households, with a mean of 42%. We model
+cotton commercialisation as a function of exogenous
+household characteristics, X;, and administrative zone
+dummy variables, D;:
+CCI;= ao
+
++ a1X; + a2D; + e;
+
+(i = 1, ... , 453 households)
+
+(1)
+
+We specify models of Y; and Y;/A;, the gross value
+of food output per household and per hectare output
+of food crops 6 , as:
+
+(2)
+
+y.
+A';
+
+= b~ + b~ X; + b;cci; + b~RSi + b~D; + u;
+(3)
+
+where RS;, represents regional spill-over effects; e;,
+u; and u;' are residual terms.
+Because cotton commercialisation and food production are endogenously determined, an instrumental
+variables approach was used to estimate both (2) and
+(3). The appropriateness of this approach, however, is
+contingent on finding instruments that are correlated
+with CCI; but not food production or yields. Instrumental variables for cotton commercialisation were:
+the distance from each household to the nearest cotton buying outlet and the number of cotton sprayers
+owned by the household. Definitions ofthe specific exogenous, endogenous and instrumental variables and
+their expected signs are found in Table 1.
+What is the hypothesised pathway by which food
+crop productivity in (3) is related to the intensity
+of household cotton production? The presence of
+household-level synergies is measured by the effects of cotton commercialisation in (2) and (3). The
+6 This is admittedly a partial measure of land productivity, but
+it was not possible to construct more sophisticated measures of
+multi-factor productivity due to the paucity of information on land
+rental values and seasonal wages.
+
+44
+
+J. Govereh, T.S. Jayne/ Agricultural Economics 28 (2003) 39-50
+
+Table I
+Description of variables included in models
+Anticipated sign
+Commercialisation
+index (CCI;)
+Endogenous variables
+Cotton commercialisation index-value of cotton production
+divided by value of total crop production (%)
+Exogenous variables (X;)
+Farm size: combined size of all arable plots including the
+garden (ha)
+Family size: total household number of adult equivalents
+(persons)
+Education: household-head's years of formal education
+(years)
+Farm capital: value of working farm implements and
+draft animals (Z$)
+Migrant settler: dummy variable = I if family migrated to
+Gokwe North since 1950
+Certified farmer: dummy variable = I if household member
+has completed an intensive public extension program
+Gender: dummy variable = I if female headed household
+Village-level mean cotton yield (kg/ha)
+Locational dummy variables (D;)
+Zone 1: dummy variable = 1 if household resides in village
+cleared of tsetse flies in the early period (1965-1976)
+Zone 2: dummy variable = 1 if household resides in village
+cleared of tsetse flies in the mid period (1976-1984)
+Regional spill-over effects (RS;)
+Cotton traders: number of cotton input traders and buyers
+based in each village in 1996
+Instrument variables (Z;)
+Sprayers: number of cotton sprayers owned by household
+Distance to marketing depot: average distance from village
+to the cotton marketing depot (km)
+
+measurement of regional spill-over effects, RSi, requires a exogenous village-level indicator of cotton
+commercialisation. The variable chosen to represent
+regional spill-overs was the number of retail dealers
+distributing cotton inputs and buying seed cotton,
+and is intended to measure the extent of village-level
+investment in cotton-related service provision. We
+hypothesise that as the density of cotton-related services increases, such services will increasingly benefit
+food crop production in that area. However, to the
+extent that the density of cotton traders and grain
+output are both driven by underlying agro-ecological
+factors, RS; could be endogenous. We include administrative zone dummy variables, D;, in each model
+
+Grain
+production (Y;)
+
+Grain production
+per hectare (Y;IA;)
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+?
+
+?
+
++
+
++
+
++
+
+?
+
+?
+
++
+
++
+
++
+
+?
+
+?
+
++
+
+?
+
+?
+
++
+
++
+
++
+
++
+
+IV
+IV
+
+IV
+IV
+
+to control for unobserved agro-ecological and infrastructural effects across locations, but there may still
+be some variation within zones so the results should
+be interpreted cautiously. In recognition of this, we
+estimate models (1), (2) and (3) both with and without the inclusion of the regional spill-over term (the
+village-level number of retail cotton dealers) to examine the robustness of the model. Additionally, we
+estimate a separate maize yield model that includes
+mean village-level cotton yields to further control for
+unobserved locational factors.
+Unfortunately, data on households' allocation of
+fertiliser and other inputs on food crops were not
+available, hence we must model the effects of cotton
+
+J. Govereh, T.S. Jayne/ Agricultural Economics 28 (2003) 39-50
+
+45
+
+Table 2
+Household characteristics according to cotton commercialisation index in Gokwe North District, Zimbabwe, 1995-1996
+Characteristics
+
+Sample size (n)
+Land size (ha)
+Fallow area (ha)
+Family size (number)
+Farm capital investment (Z$)
+Animal draft teams (number)
+Used animal draft power (%)
+Family head years in school (years)
+Master farmer certified (%)
+Female headed (%)
+Grain yield (kg/ha)
+Grain output (kg per capita)
+Total crop income/ha cropped (Z$)
+Total crop income per capita (Z$)
+Grain self-sufficient (%)
+Grain selling households (%)
+Distance to market (km)
+
+Cotton commercialisation indexa
+Non-cotton
+growers (0%)
+
+First tercile
+(1-66%)
+
+Second tercile
+(67-82%)
+
+Third tercile
+(>82%)
+
+Total
+
+80
+4.39
+1.29
+5.9
+2254
+0.36
+42
+4.5
+2
+21
+1165
+481
+1690
+639
+59
+20
+27.5
+
+118
+5.62
+0.78
+6.4
+4353
+1.09
+74
+5.9
+6
+II
+1443
+495
+2271
+1492
+81
+42
+25.2
+
+110
+5.66
+0.71
+6.8
+5120
+1.20
+75
+6.0
+12
+
+122
+7.87
+0.78
+6.6
+6806
+1.65
+79
+6.8
+
+430
+6.04
+0.85
+6.5
+4855
+1.14
+70
+5.9
+8.4
+13.0
+1167
+385
+2396
+1732
+57
+27
+24.5
+
+11
+
+11
+11
+
+1037
+331
+2340
+1525
+50
+25
+23.5
+
+1007
+263
+3001
+2822
+41
+21
+22.6
+
+Source: Own calculations using Socioeconomic Impact Assessment of Tsetse and Trypanosomosis Control Surveys, Gokwe North District,
+Zimbabwe, 1995-1996.
+a Cotton commercialisation is defined as value of cotton sales divided by value of total crop production; this variable ranges from zero
+(i.e. household does not grow cotton) to 100% (cotton constitutes 100% of the household's crop output).
+
+commercialisation on food production and draw inferences about the causes rather than model the effects
+of cotton commercialisation on food crop input use
+explicitly.
+
+5. Characteristics of commercialised smallholder
+farmers
+As a prelude to the econometric analysis, we provide some descriptive insights on four categories of
+farmers: those households not growing cotton (about
+19% of the sample), and three relatively equal groups
+of the remaining households stratified into terciles
+according to their involvement in cotton production
+as indicated by the cotton commercialisation index
+(Table 2). We see that mean land holding size is
+greater for cotton growers than non-cotton households, and that land holdings increase with the intensity of cotton production. Fallowed area, on the
+other hand, is greater for non-cotton households. Cotton growers have accumulated more draught animals
+
+and farm capital assets (mostly draught and pesticide
+equipment) which enable greater area to be put under
+cultivation. To acquire draught cattle in Gokwe North
+District, 53% of the farmers use income from cotton,
+20% use a combination of cotton and maize income
+and 18% use wage savings. Intensity of cotton production also appears to be higher for households having a 'master farmer' ,7 those that are male-headed,
+and those located relatively close to a cotton buyer.
+We also find prima facie support for the oft-cited
+assertion that cash crops are grown at the expense
+of household food production. Results in Table 2 indicate that per capita grain production is highest for
+the non-cotton households and the lowest tercile of
+cotton producers. These households produce roughly
+85% more grain per capita than households in the
+most intensive cotton production tercile. Almost 60%
+of the non-cotton producers are grain self-sufficient
+as opposed to 41% for households in the top cotton
+7 These are households that have passed an agricultural husbandry training course by the national extension service.
+
+46
+
+J. Govereh, T.S. Jayne I Agricultural Economics 28 (2003) 39-50
+
+production tercile. However, the fact that farmers in
+the highest tercile still manage to produce 263 kg of
+grain per capita on average indicates that even the
+most intensive cotton producers secure at least some
+portion of their food needs through own production.
+Moreover, the results in Table 2 also show that
+household cotton commercialisation is associated with
+higher gross per capita crop income. Households in
+the top cotton tercile have about four times the crop
+income per capita and almost double the crop income
+per cultivated hectare as non-cotton producers. While
+households not growing cotton tend to have higher
+levels of grain production, clearly the commercialised
+cotton producers are in a better position to buy their
+residual food needs from local markets using cotton
+revenue. They are also in a better position to afford
+cash inputs for food crop production from local dealers who sell almost exclusively on a cash basis only.
+These observations are consistent with evidence found
+in other studies of agricultural commercialisation (Von
+Braun and Kennedy, 1994; Strasberg, 1997). However,
+these bivariate figures do not provide any clear insights into the effects of cotton commercialisation on
+household grain production or productivity, which we
+address in Section 6.
+
+6. Econometric results
+6.1. Determinants of cotton commercialisation
+Many factors are involved in accounting for the
+wide differences observed in cotton commercialisation
+across the sample. As shown in Table 3, column (a),
+the proportion of cotton in total production (CCI) is
+positively associated with farm size, education of the
+household head, the value of farm capital, the number of cotton sprayers and a relatively early clearing
+of tsetse from the village in question. Family size,
+households that are female-headed and distance from
+the nearest cotton buyer are negatively related to cotton commercialisation. Despite their statistical significance, differences in farm size, family size and farm
+capital all have relatively small effects on the CCI,
+holding other factors constant.
+The most important factors associated with cotton
+commercialisation are arguably educational levels, the
+distance from the farm to the nearest cotton buyer
+
+and villages that were cleared of tsetse fly relatively
+early. A difference of 5 years education is associated
+with roughly a 9% difference in the predicted CCI.
+A difference of 10 km distance to the nearest cotton
+buying outlet is associated with a 6.8% decline in the
+CCI. The share of cotton in total crop production for
+households in villages that were cleared of tsetse fly
+relatively early in the settlement of Gokwe North was
+about 10% higher than in households in areas cleared
+relatively recently. This may be because areas with
+early tsetse fly clearance have had more time to accumulate draught animals and traction equipment, which
+are shown to be significantly associated with the intensification of cotton production.
+
+6.2. Effects of commercialisation on food production
+Columns (b) and (c) of Table 3 show the instrumental variable (IV) models for household grain
+production. The IV results point to an absence of
+household-level synergies between cotton and grain
+production. The share of cotton in total crop production is associated with neither a strong increase nor a
+decline in total grain production. While cotton commercialisation apparently does not contribute to grain
+production, there must be countervailing positive effects on grain output that offset the substitution of
+land from grain to cotton. We examine this issue in
+Section 6.3.
+As expected, household grain production is significantly associated with farm size and the value of accumulated farm assets. An additional hectare of land
+owned is associated with about Z$ 150 more grain
+production (equivalent to about 120 kg of maize),
+other factors constant. The relationship between maize
+yields and farm size is even stronger when all other
+household variables are evaluated at their means for
+different farm size categories within the sample. We
+calculated the mean values for all other household
+variables for farms within the 20-30th percentile
+of farm size (2.80-3.66 ha) and for farms within
+the 70-80th percentile (6.28-9.71 ha). The predicted
+maize production for the two groups, based on model
+results in Table 3, column (c) are 972 and 1602kg,
+respectively, a difference of roughly Z$ 800.
+Households tend to have higher levels of grain production in locations that were recently cleared of tsetse
+fly. Households in the early and mid clearance areas
+
+Table 3
+Model results for commercialisation, food crop productivity and output equations
+Model 1: cotton
+commercialisation index
+(OLS)
+
+Model 2: value of grain production per
+household in Z$ (IV)
+
+(a)
+
+(h)
+
+Coefficient
+
+t-Statistics
+
+Instrument variables
+Sprayers
+Distance to cotton
+buyer (km)
+Constant
+S.E.
+N
+Adj. R2
+
+(c)
+
+Coefficient
+
+t-Statistics
+
+(e)
+
+(d)
+
+Coefficient
+
+t-Statistics
+
+Coefficient
+
+t-Statistics
+
+(f)
+
+Coefficient
+
+t-Statistics
+
+~
+
+Coefficient
+
+t-Statistics
+
+~
+~
+
+Endogenous variables
+Commercialisation index
+Exogenous variables
+Farm size (ha)
+Family size (number)
+Education of head (years)
+Migrant settlers
+Gender
+Value farm capital (Z$)
+Certified farmer
+Early cleared grad
+Mid cleared grad
+Cotton traders
+Cotton yield, villagelevel mean (kg/ha)
+
+Model 3: value of grain production per hectare (Z$/ha) (IV)
+
+-2.79
+
+-0.19
+
+1.09
+
+0.08
+
+14.13
+
+2.04*
+
+15.31
+
+2.18*
+
+12.15
+
+1.23
+
+~
+
+~
+
+,
+
+~
+
+1.18
+-0.8
+1.72
+-3.31
+-7.96
+0.39
+4.28
+9.58
+4.56
+
+3.23*
+-2.25*
+4.87*
+-1.26
+-2.25*
+2.24*
+0.98
+3.17*
+1.4
+
+8.34
+-0.6
+
+4.03*
+-2.74*
+
+60.37
+
+8.97*
+
+162.97
+28.82
+1.41
+596.9
+-292
+50.12
+-422.75
+-641.16
+-1738.8
+
+5.15*
+1.05
+0.04
+3.00*
+-1.04
+3.16*
+-1.27
+-2.49*
+-6.53*
+
+14D.48
+36.24
+-6.8
+675.16
+-279.71
+44.72
+-314.31
+-633.35
+-1931.5
+75.5
+
+4.37*
+1.34
+-0.19
+3.41*
+-1.01
+2.92*
+-0.95
+-2.62*
+-7.13*
+2.84*
+
+-69.45
+20.22
+-10.67
+2.45
+-41.65
+7.72
+36.97
+-171.96
+-838.51
+
+-4.62*
+1.55
+-0.63
+O.D3
+-0.31
+1.05
+0.23
+-1.41
+-6.63*
+
+-76.29
+22.45
+-13.17
+26.23
+-37.92
+6.61
+69.92
+-178.71
+-897.03
+22.94
+
+-4.88*
+1.70**
+-0.77
+0.27
+-0.28
+0.86
+0.44
+-1.45
+-6.81*
+1.78**
+
+-70.47
+20.46
+-7.95
+18.64
+-64.9
+7.99
+89.12
+-172.13
+-870.05
+21.91
+0.09
+
+-3.56*
+1.51
+-0.47
+0.24
+-0.45
+1.02
+0.53
+-1.36
+-4.97*
+1.65**
+0.30
+
+sis'
+"'~
+
+"":::!....,
+1:
+
+~
+
+a
+~
+
+c;s
+c
+
+~"
+Co
+"'
+
+"N
+0
+&;
+'-
+
+w
+
+23.884
+424
+0.264
+
+1547.3
+
+2.12*
+1738
+424
+0.263
+
+1032.7
+
+1.391
+1713
+424
+0.278
+
+910.4
+
+2.62*
+826.5
+424
+0.193
+
+754.02
+
+2.09*
+832.7
+424
+0.194
+
+909.55
+
+1.92**
+813.7
+424
+0.204
+
+10
+
+t!,
+
+0
+
+Source: Own calculations using Socioeconomic Impact Assessment of Tsetse and Trypanosomosis Control Surveys, Gokwe North District, Zimbabwe, 1996-1997.
+• Denotes statistical significance (one-tailed test) at the 5% level.
+•• Denotes statistical significance (one-tailed test) at the 10% level.
+
+:!::i
+
+48
+
+J. Govereh, T.S. Jayne/ Agricultural Economics 28 (2003) 39-50
+
+produced 1.5-3 tonnes less grain than households in
+locations cleared recently. As shown in model (1),
+smallholders in the early clearance areas have intensified into cotton to a greater extent, facilitated by the
+relatively longer period of time in which cattle and
+traction equipment could be accumulated.
+When the number of cotton input traders is included
+in the model (column c), this variable is positively and
+significantly correlated with household grain output.
+The coefficients of the other statistically significant covariates remain relatively unchanged. While the main
+economic activity in most of these villages is cotton
+production, the presence of cotton traders had positive
+spill-overs on smallholder grain production. In 25% of
+the villages sampled, there were three or fewer cotton
+traders, while eight or more cotton traders were found
+in the top 25% of villages. Many of the inputs sold by
+these traders can also be applied to food crops. A shift
+from three to eight traders was associated with a Z$
+375 increase in household grain production (the mean
+level over the entire sample was Z$ 1665 in 1996 Z$).
+As indicated earlier, it is plausible that there is an
+underlying association between the number of cotton
+traders in a village and the agro-ecological potential
+of that area. While we cannot rule out that this affects our results, we attempted to control for agroecological potential in the village sample selection
+process (Section 3) and further control for differences
+in tsetse fly clearance which reflect the timing of
+draught animal introduction into an area. Moreover,
+we control for household-level characteristics that
+would tend to also reflect geographic differences in
+productive potential (e.g. farm capital assets, landholding size, family size). Given the inclusion of these
+location and household-level variables controlling for
+grain production potential, it would seem reasonable
+to conclude that the association between the number
+of cotton traders and household grain crop production
+largely reflects the positive spill-over effects that service provision investments for cotton have on grain
+crop production.
+6.3. Effects of cotton commercialisation on food
+productivity
+Results in Table 3, model 3, highlight the complementary relationship between cotton commercialisation and household grain yield. Four results in column
+
+(d) show that the effect of the household commercialisation index on food productivity is positive and significant. Moving from the 25 to 75th percentile of the
+cotton commercialisation index is associated with a Z$
+370/ha increase in grain yields (equivalent to 296kg
+at prevailing maize price levels), a 25% increase over
+mean grain yields in the entire sample. We cannot say
+precisely why households with intensive cotton production obtain higher grain yields than non-cotton and
+marginal cotton farmers because data on input usage
+on fields devoted to food crops is not available. However, as we have indicated earlier, cotton producers
+have access to key inputs such as credit and training
+through the cotton schemes that are either not accessible on credit terms to non-participating farmers, or
+simply not available to them at all.
+Farm size has a significant and negative effect on
+maize yields. Other factors held constant, smaller
+farms were more productive in the use of land than
+large farms. The results suggest that maize yields
+decline by Z$ 44/ha (3.6% of mean yield levels in
+the sample) as landholdings increase by 1 ha, ceteris paribus. The inverse relationship between maize
+yields and farm size also holds up when all other
+household variables are evaluated at their means for
+different farm size categories. 8
+Family size makes a positive but imprecisely estimated contribution to grain yields. And households in
+areas cleared relatively recently from tsetse fly infestation tend to have higher grain yields than households
+in early-clearance areas, perhaps reflecting declining
+fertility due to the longer duration of cultivation in
+the latter areas. Demographic attributes such as family
+size, gender of the household head, and settler status
+do not have any important effects on grain productivity. Farmers that received master farmer training obtain higher grain yields than other farmers, but this
+effect is not statistically significant.
+The inclusion of the regional spill-over variable in
+model 3 (column e) makes only a marginal contribution to the adjusted R 2 and has little effect on the coefficient estimates of the significant variables in column
+(d). Nevertheless, the effect of the regional spill-over
+8 Following the procedure explained in Section 6.2, the predicted
+maize yields for those households between the 20th and 30th
+percentiles of farm size versus those between the 70th and 80th
+percentile, based on model results in Table 3 column (e), are 726
+and 462 kg/ha, respectively.
+
+J. Govereh, TS. Jayne I Agricultural Economics 28 (2003) 39-50
+
+variable on food crop productivity is positive and significant at P = 0.08. Everything else constant, an additional cotton input retailer in the area boosts grain
+output by Z$ 22.9/ha. When village-level cotton yields
+are introduced in column (f) to further control for unobserved village factors, the CCI coefficient declines
+slightly and is imprecisely estimated. The effect of an
+additional cotton trader in the area has roughly the
+same effect as in column (e), and is barely significant
+at P = 0.10. Because the cotton retailers provide a
+range of services for farmers growing food crops, including inputs used in maize production, the growth
+of cotton appears to be associated with increased grain
+productivity.
+
+7. Conclusions and implications
+This paper addresses the potential for cash crop
+production to promote food crop productivity. We
+argue that in addition to the direct stimulus that cash
+cropping can have on household incomes, there may
+be important indirect effects of cash cropping on the
+productivity of other household activities such as food
+cropping. We have classified two potential pathways
+by which these benefits occur: household-level synergies, in which a farmer's participation in a commercialised crop scheme enables her to acquire resources
+that would otherwise not be accessible for use on
+other crops; and regional spill-over effects, which
+occur when a commercialisation scheme attracts new
+investments to a region thereby providing benefits to
+all farmers in that region, regardless of whether they
+engage in the commercialisation program. We find
+that farmers benefited from both of these pathways in
+the case of cotton production in Gokwe North District
+in Zimbabwe, although the case for household-level
+synergies is less clear-cut. Specifically, the econometric results indicate that-after controlling for household assets, education and training and locational
+differences-households that engage intensively in
+cotton production tend to have higher grain yields than
+non-cotton and marginal cotton producers. But because they allocate relatively less of their land to food
+crops, the intensive cotton farmers produce about the
+same amount of grain as the non-cotton farmers, other
+factors constant. We also find a positive association between the number of cash crop traders in a given vill-
+
+49
+
+age and the value of grain output produced per household and per hectare in that village, although these
+results should be interpreted cautiously due to the
+potential endogeneity of cotton traders in the models.
+These findings call into question the frequently
+heard assertions that cash crop production comes at
+the expense of household food security. Certainly
+there are instances in which such problems have occurred, but our findings indicate that this cannot be
+considered a determinate outcome. Especially in the
+presence of credit market failures (which frequently
+occur in many areas of Africa where credit repayment
+is hindered by firms' inability to control the output
+market), low-resource farmers' ability to obtain inputs is constrained. Participation in cash cropping
+programs may allow farmers to overcome such market failures facing food crop input and credit supply.
+However, whether these complementarities actually
+materialise depends on whether cash cropping firms
+are able to continue to recoup their up-front costs and
+support farmers through purchase of the cash crop. A
+useful analysis of the strategic interactions between
+smallholders and cash crop trading firms is contained
+in Dorward et al. (1998).
+The potential synergies or trade-off between cash
+crops and food crops have been generally neglected
+in food crop research and extension programs, although they may have important implications for
+programs designed to promote smallholder food crop
+productivity growth. To a large extent, agricultural
+and nutrition policies in the region have historically
+formulated rural development strategies with a food
+crop focus and have implicitly or sometimes explicitly regarded diversification into non-food cash crops
+as detrimental to household food security objectives.
+Our findings suggest that, to the contrary, there is
+some potential for high-value cash crops to promote
+food crop productivity. We hope that this article will
+succeed in stimulating further analysis of the complex
+interactions between smallholder commercialisation
+involving non-food crops and household food security
+and income growth in sub-Saharan Africa.
+
+Acknowledgements
+The authors gratefully acknowledge funding for
+this research by the Food Security II Co-operative
+
+50
+
+J. Govereh, T.S. Jayne I Agricultural Economics 28 (2003) 39-50
+
+Agreement (PCE-A-00-97-00044-00) between AID/
+Global Bureau, Office of Agriculture and Food Security, and The Department of Agricultural Economics
+at Michigan State University. The Agriculture, Natural Resources and Rural Enterprise Division, Office of
+Sustainable Development, Bureau for Africa, USAID
+(AFR/SD/ANRE) also supported this work. Additional financial support was provided by The International Livestock Research Institute, The University of
+Zimbabwe, The Regional Tsetse and Trypanosomosis
+Control Program, and The Department of Veterinary
+Services Tsetse Control Branch of the Ministry of
+Agriculture, Government of Zimbabwe. This article
+has benefited from the useful comments of Takashi
+Yamano, Maxwell Mudhara, Edward Mazhangara,
+Colin Poulton, David Tschirley and two anonymous
+reviewers.
+
+References
+Byerlee, D., Eicher, C. (Eds.), 1997. Africa's Emerging Maize
+Revolution. Lynn Reinner Publishers, Boulder, CO.
+Dione, J., 1989. Informing Food Security Policy in Mali: Interactions Between Technology, Institutions and Market Reforms.
+Unpublished PhD Dissertation, Michigan State University, East
+Lansing, MI.
+Dorward A., Kydd, J., Poulton, C. (Eds.), 1998. Smallholder
+Cash Crop Production Under Market Liberalization. CAB
+International, New York.
+Fafchamps, M., 1992. Cash crop production, food price volatility,
+and rural market integration in the third world. Am. J. Agric.
+Econ. 74 (!), 90-99.
+Fereidoon, J., Mulila-Mitti, J., Mitti, G., Phiri, E., 1996. Integrated
+Crop Management: A Guide for Sustainable Smallholder
+Farming. Integrated Crop Management/Food Legume Project,
+Department of Agriculture, Ministry of Agriculture Food and
+Fisheries, Zambia.
+Goetz, S., 1993. Interlinked markets and the cash crop-food crop
+debate in land-abundant tropical agriculture. Econ. Dev. Cultural
+Change 41, 343-361.
+Govereh, J., 1999. Impacts of Tsetse Control on Immigration
+and Household Accumulation of Capital: Zambezi Valley,
+
+Zimbabwe. Unpublished PhD Dissertation, Michigan State
+University, East Lansing, MI.
+Govereh, J., Nyoro, J., Jayne, T., 1999. Smallholder Commercialisation, Interlinked Markets, and Food Crop Productivity:
+Cross Country Evidence from eastern and southern Africa,
+Paper Presented at the Fourth Agricultural Transformation
+Workshop, Nairobi, Kenya. USAID/Africa Bureau/Sustainable
+Development Division, Washington, DC.
+Howard, J., Mungoma, C., 1997. Zambia's Stop-and-Go Maize
+Revolution. In: Byerlee, D., Eicher, C. (Eds.), Africa's Emerging
+Maize Revolution, Lynn Reinner Publishers, Boulder, CO.
+Jayne, T., Jones, S., 1997. Food marketing and pricing policy
+in eastern and southern Africa: a survey. World Dev. 25 (9),
+1505-1527.
+Kelly, V., Diagana, B., Reardon, T., Gaye, M., Crawford, E., 1996.
+Cash Crop and Food Grain Productivity in Senegal: Historical
+View, New Survey Evidence, and Policy Implications, MSU
+Staff Paper 95 (05).
+Kherallah, M., Delgado, C., Gabre-Mahin, E., Minot, N., Johnson,
+M., 2002. Reforming Agricultural Markets: Achievements
+and Challenges. Johns Hopkins University Press, Baltimore,
+MD.
+Mariga, I., 1994. Cotton research and development. In: Rukuni, M.,
+Eicher, C. (Eds.), Zimbabwe's Agricultural Revolution. Harare
+University of Zimbabwe Press, pp. 219-233.
+Poulton, C., Dorward, A., Kydd, J., 1998. The revival of
+smallholder cash crops in Africa: public and private roles in
+the provision of finance. J. Int. Dev. 19 (1), 85-103.
+Putterman, L., 1995. Economic reform and smallholder agriculture
+in Tanzania: a discussion of recent market liberalization, road
+rehabilitation, and technology dissemination efforts. World Dev.
+23 (2), 311-326.
+Rohrbach, D., 1988. The Growth of Smallholder Maize Production
+in Zimbabwe: Causes and Implications for Food Security.
+Unpublished PhD Dissertation, Michigan State University, East
+Lansing, MI.
+Singh, I., Squire, L., Strauss, J., 1986. Agricultural Household
+Models: Extensions, Applications, and Policy. Johns Hopkins
+University Press, Baltimore, MD.
+Strasberg, P.J., 1997. Smallholder Cash-Cropping, Food-Cropping
+and Food Security in Northern Mozambique. Unpublished PhD
+Dissertation, Michigan State University, East Lansing.
+Timmer, C.P., 1997. Farmers and markets: the political economy
+of new paradigms. Am. J. Agric. Econ. 79, 621-627.
+Von Braun, J., Kennedy, E., 1994. Agricultural Commercialisation,
+Economic Development, and Nutrition. Johns Hopkins
+University Press, Baltimore, MD.
+
+

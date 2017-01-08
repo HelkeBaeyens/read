@@ -1,0 +1,2123 @@
+Agricultural Economics, 8 (1993) 107-124
+Elsevier Science Publishers B.V., Amsterdam
+
+107
+
+Demand for cereal grains in Asia:
+the effect of urbanization
+Jikun Huang and Cristina C. David
+International Rice Research Institute, Manila, Philippines
+
+(Accepted 7 April 1992)
+
+ABSTRACT
+Huang, J. and David, C.C., 1992. Demand for cereal grains in Asia: the effect of urbanization. Agric. Econ., 8: 107-124.
+This paper analyzes the effects of urbanization on demand for cereal grains - rice,
+wheat, and coarse grains - in nine Asian countries. A complete demand system (Almost
+Ideal Demand System in linear form) is estimated in two stages based on aggregate time
+series data from 1960 to 1988.
+In the high-income countries, i.e. Japan and South Korea, urbanization was observed to
+significantly reduce demand for cereal grains. In the lower-income countries, demand for
+cereal grains either increased or remained the same with urbanization.
+Among cereal grains, urbanization has had negative effects on demand for rice and
+coarse grains, but consistently positive effects on demand for wheat. Only Japan and
+Thailand among the countries studied have negative income elasticities of demand for total
+cereal grains and for rice in particular. Hence, rice remains a necessity and a normal good
+in most Asian countries.
+Previous estimates of income elasticities of rice based on time-series aggregate data tend
+to be lower than those based on cross-section household level data. When urbanization is
+explicitly specified in the demand model, the estimates of income elasticities from time-series
+data turn out to be consistent with those from cross-section data.
+
+INTRODUCTION
+
+Cereal grains account for two-thirds of the calorie intake in the average
+Asian diet. Except in Pakistan, where wheat is the staple food, rice
+continues to be the dominant staple grain, contributing 40-75% of total
+calorie intake in most Asian countries. Significant quantities of wheat are
+Correspondence to: Christina C. David, International Rice Research Institute, P.O. Box 933,
+Manila, Philippines
+
+0169-5150j93j$06.00 © 1993 -Elsevier Science Publishers B.V. All rights reserved
+
+108
+
+J. HUANG AND C. C. DAVID
+
+consumed in northern parts of China and India, while coarse grains such as
+corn, barley and sorghum are important staples only in relatively small
+parts of the Philippines, South Korea and Indonesia. Not only is rice the
+major staple food, more than half of the rural labor force is engaged in rice
+production and thus it is also the major source of livelihood in rural Asia
+(Barker and Herdt, 1985). Because of the political importance of food
+self-sufficiency and cheap food in Asia, the nature of future demand for
+cereal grains, particularly of rice, is of major concern for policy formulation.
+Although numerous studies of demand for cereal grains in Asia have
+been undertaken, estimates of income elasticities have varied widely depending on the type of data used and the specification of the demand
+model. For example, Table 1 shows that income elasticities of rice estimated from cross-section household data tend to be higher than those
+based on aggregate time-series data. Indeed, the study by Ito, Peterson and
+Grant (1989) using cross-country, time-series data in Asia indicates rela-
+
+TABLE 1
+Income elasticities for rice in Asia estimated by previous studies
+Country
+Bangladesh
+China
+India
+
+Indonesia
+
+Japan
+S. Korea
+
+Pakistan
+Philippines
+Thailand
+
+Time-series
+
+Cross-section
+Authors
+
+Survey year
+
+Bouis (1989)
+FAO (1971)
+Bouis (1989)
+Swamy and
+Binswanger (1983)
+Timmer and
+Alderman (1979)
+Bouis (1989)
+FAO (1991)
+FAO (1971)
+Ingco (1990) c
+
+1973
+1971
+1977
+
+0.34/0.83
+0.40
+0.05/0.85
+
+1956-75
+
+0.942
+
+FAO (1991)
+Bouis (1989)
+Bouis (1989)
+Ingco (1991)
+Bouis (1989)
+
+c
+
+1976
+1981
+1971
+1971
+1965
+1978
+1971
+1984
+1978
+1984/85
+1975
+
+Elasticity
+
+IPG
+b
+
+b
+
+0.28/1.16 b
+0.04/0.40 b
+-0.10
+0.30
+0.28
+0.03
+0.30
+0.26/0.73 b
+-0.20/0.20 b
+0.29
+-0.14/0.20 b
+
+a
+
+HDD
+
+-0.04
+0.25
+0.14
+
+0.08
+0.33
+0.24
+
+0.15
+
+0.25
+
+0.19
+0.12
+-0.56
+0.06
+0.08
+0.03
+
+0.54
+0.47
+-0.45
+0.17
+0.16
+0.17
+
+0.11
+0.13
+-0.25
+
+0.32
+0.32
+-0.17
+
+Refers to estimates by Ito, Peterson and Grant (IPG) and Huang, David and Duff (HDD)
+pertaining to the same expenditure survey year except for the second line for India which
+refers to income elasticity in 1974.
+b The range relates to income (highjlow).
+c Based on time-series data.
+a
+
+109
+
+CEREAL GRAINS IN ASIA
+
+tively low and declining income elasticities over time, leading to the
+conclusion that rice is becoming an inferior good. While these results have
+been modified by Huang, David and Duff (1991) by correcting the methodological problems, there are at least two weaknesses with currently available estimates. First, the model specification ignores the theoretical restrictions of demand relationship, and secondly, the effect of structural changes
+in the economy such as urbanization has not been explicitly specified.
+In this paper, we examine whether and to what extent the rate of
+urbanization affected the patterns of cereal grains consumption in Asia.
+We estimate a complete demand system based on time-series (1960-1988)
+aggregate data from nine major rice growing countries. These are
+Bangladesh, China, India, Indonesia, Philippines, Thailand, Japan, South
+Korea and Pakistan, which together account for about 85% of the world's
+rice consumption and production.
+CEREAL GRAIN CONSUMPTION IN ASIA
+
+Table 2 summarizes the annual per-capita consumption of rice, wheat
+and coarse grains in nine selected Asian countries over the past three
+decades. Whereas rice consumption per capita decreased significantly in
+three countries - Bangladesh, Japan and Thailand, wheat consumption per
+capita increased significantly in nearly all countries. In fact, it was only in
+China and Indonesia, and to a lesser extent the Philippines, where significant increases in per-capita rice consumption were experienced. In India,
+South Korea and Pakistan, rice consumption per capita remained essen-
+
+TABLE 2
+Annual per-capita cereal grains consumption (kg) in Asia, 5-year average
+Country
+
+Coarse grains
+
+Wheat
+
+Rice
+
+1960- 1984- Change 1960- 1984- Change 1960- 1984- Change
+64
+88
+64
+64
+88
+88
+Bangladesh
+China
+India
+Indonesia
+Japan
+South Korea
+Pakistan
+Philippines
+Thailand
+
+183
+68
+79
+110
+125
+132
+23
+91
+194
+
+155
+115
+79
+160
+81
+136
+22
+105
+161
+
+-28
+46
+0
+50
+-44
+4
+-1
+13
+-33
+
+1
+33
+33
+1
+43
+9
+123
+14
+1
+
+Sources: USDA and IMF (various issues).
+
+29
+92
+60
+9
+50
+30
+134
+16
+4
+
+28
+59
+27
+8
+7
+21
+11
+3
+3
+
+48
+53
+27
+23
+47
+25
+30
+0
+
+36
+34
+21
+49
+37
+14
+39
+
+-12
+-19
+-6
+26
+-10
+-11
+9
+
+110
+
+1. HUANG AND C.C. DAVID
+
+tially the same. While declining trends for Japan and even Thailand may be
+expected because of relatively high per-capita income, this is somewhat
+unexpected for Bangladesh, which has one of the lowest per-capita incomes
+in Asia. On the other hand, consumption of per-capita coarse grains
+decreased in most countries. The only exceptions are in Japan and the
+Philippines, but this may be likely due to difficulties in identifying the use
+of coarse grains between food and feed. Overall, Table 2 indicates that
+over time, consumption of wheat increases relative to rice, and especially
+coarse grains, where consumption per capita generally declined in absolute
+terms. The increase in per-capita consumption of wheat was more substantial in China, Bangladesh, India and South Korea.
+There is a common belief that wheat is substituted for rice as income
+grows. However, cross-section household survey data (Table 3) indicate
+that per-capita rice consumption is larger at higher-income levels in both
+the urban and rural areas. On the other hand, per-capita rice consumption
+in the urban sector is significantly lower than in the rural sector. This
+pattern may have two explanations. First, demand for more conveniently
+consumed food is greater in the urban areas where both spouses typically
+work outside the home, travel time between work and home are large, and
+cost of household help is higher than in the rural areas. Because wheat is
+typically consumed in the form of commercially supplied bread and instant
+noodles which can be easily purchased and consumed, it offers substantial
+time savings for the household. Secondly, agricultural labor requires more
+physical energy and thus calorie inputs than industrial work. At a given
+income, rural consumers will have a greater demand for the cheaper food
+per calorie, such as cereal grains, or even roots and tubers to maintain the
+calorie requirements for subsistence. 1 Evidently, changes in the rate of
+urbanization together with changes in relative prices and income will affect
+consumption patterns of cereal grains in Asia.
+MODEL AND DATA
+
+Conceptual model
+The Almost Ideal Demand System (Deaton and Muellbauer, 1980) in
+linear form (LA/ AIDS) has been used as a basic model and extended to
+
+1 Consumption and price data for the roots, tubers, animal products and vegetables are not
+available for most countries studied. Therefore, the substitution effects between these
+commodities and cereal grains are not examined explicitly in this study.
+
+111
+
+CEREAL GRAINS IN ASIA
+
+TABLE 3
+Comparison of annual per-capita cereal grains consumption (kg per capita) by income
+group, by regions in selected Asian countries
+Country
+
+Income
+group a
+
+Bangladesh
+II
+III
+IV
+all
+I
+II
+III
+IV
+I
+II
+III
+I
+II
+III
+IV
+all
+I
+II
+III
+IV
+
+India
+
+Indonesia
+
+Pakistan
+
+Philippines
+Thailand b
+
+Urban
+
+Rural
+
+Rice
+
+Wheat
+
+108
+120
+133
+138
+132
+56
+70
+71
+71
+95
+110
+116
+8
+10
+13
+15
+95
+113
+113
+113
+116
+
+30
+32
+31
+31
+31
+46
+59
+66
+70
+2
+3
+6
+110
+110
+104
+102
+13
+19
+25
+29
+32
+
+Coarse
+grains
+
+25
+18
+14
+10
+2
+2
+2
+
+5
+
+Rice
+
+Wheat
+
+103
+123
+159
+181
+147
+59
+87
+100
+103
+92
+133
+155
+11
+17
+16
+19
+116
+152
+163
+156
+151
+
+24
+20
+18
+17
+20
+26
+42
+54
+81
+2
+2
+5
+129
+132
+148
+160
+4
+5
+13
+22
+28
+
+Coarse
+grains
+
+57
+54
+53
+56
+18
+8
+7
+
+17
+
+a Income levels from the lowest I to the highest IV. b The figures under wheat are all other
+cereal grains except rice.
+Sources: Bangladesh data are from Dey (1988, table 9), Philippines from Quisumbing et al.
+(1988, table 56), and others from Bouis (1989, tables 55, 56, 58).
+
+include urbanization rate as an explanatory variable. The LA/ AIDS model
+can be expressed as:
+wi
+
+=at+
+
+L'Yij In Pj
+
++ f3t ln(YjP)
+
+for
+
+i,j=l, ... ,n
+
+(1)
+
+j
+
+where w is the budget share, Y is expenditure or income, pj is commodity
+price, i and j are commodity indices, at, f3t and "'j are parameters to be
+estimated, and P is the price index defined as In P = ~i wi In Pi·
+When using time-series data, equation (1) may be misspecified due to
+omission of the effects of urbanization on consumption patterns between
+total cereal grains and all other commodities, and among cereal grains. To
+simplify the analysis, the parameters a* and {3 * in equation (1) are
+
+112
+
+J. HUANG AND C.C. DAVID
+
+assumed to be linear functions of Z, where Z is a variable representing
+urbanization. 2 This means that expansion of the urban sector in the
+economy shifts the intercept and the slope of real income over time.
+The impact of Z can then be specified with respect to equation (1) as:
+
+wi = ai + a;z + ~/Yij ln Pj + (f3i
+
++ {3;Z) ln(YjP)
+
+(2)
+
+where a, a', {3, {3' and y are unknown parameters to be estimated.
+Existence of shifts in parameters caused by urbanization may be tested by
+examining whether or not a;= 0 and 13; = 0. Adding-up requires ~ a;= 0
+and ~ 13; = 0.
+To calculate the elasticities of income or expenditure (eiy), price (ei),
+and urbanization (eiz), the following formulas are used: 3
+
+eiy =
+
+1 + (f3i + {3;Z)jwi- (f3i + {3;Z)jwi[ ~wk
+
+ln Pk( eky-
+
+1)]
+
+(3)
+
+eij= -oij+yijjwi-(f3i+{3;Z)jwi[wj+~wk ln pk(ekj+okj)]
+
+(4)
+
+eiz = Zjwi[ a;+ 13; ln(YjP) - f3;~wk ln pkekz]
+
+(5)
+
+where oij is the Kronecker delta. The incon:e and price elasticities for the
+standard model, i.e. equation (1) without urbanization variables, can be
+obtained by imposing 13; = 0 in equations (3) and (4), respectively. Similar
+to the property of income elasticities or Engel Aggregation condition, the
+sum of weighted urbanization elasticities for related commodities will be
+zero, i.e., ~i wieiz = 0.
+
+Estimation procedure and data
+For empirical estimation, the following stochastic structure of equation
+(2) is specified:
+
+(6)
+where t indexes time, and uit is the error term.
+Considering the problem of data availability and the number of parameters to be estimated, the demand system was estimated in two stages. In the
+first stage, commodities have been grouped broadly into two, namely cereal
+grains, and non-cereal goods which include all other commodities besides
+We assume that only a;* and {3;* but not Yii are affected by the urbanization variable Z to
+avoid some econometric problems. However, this specification should not be considered as
+too restrictive an assumption, since change in {3;* can reflect both changes in income and
+price elasticities as we will see from the elasticity formulas presented later.
+3 The elasticity formulas for LA/ AIDS model are derived based on the studies by Green
+and Alston (1990) and Huang and David (1991).
+2
+
+113
+
+CEREAL GRAINS IN ASIA
+
+cereal grains. Because the demand system expressed in budget share form
+is singular, only one equation (total cereal grain demand) is estimated. If
+serial correlation in the error terms is observed, the first-order autoregressive model or first-difference equation is used to estimate the total cereal
+grain demand function for each country.
+In the second stage, the model consists only of cereal grains disaggregated into rice, wheat and coarse grains. The composition of coarse grains
+which included corn, barley, sorghum, rye, millet and other mixed grains
+differed by country. The error term u; 1 in equation (6) is a random variable
+satisfying the following conditions:
+
+E(u; 1 ) = 0
+E(uituit,)=f!ij
+E(uituit')=O
+
+for
+for
+
+t=t'
+
+(7)
+
+t=l=t'
+
+If the Durbin-Watson test showed that the error terms in most of the
+equations are serially correlated, the first-difference equation is estimated.
+Iterative Seemingly Unrelated Regressions (SUR) or Iterative Zellner
+Estimation procedures (IZE) (Zellner, 1962, 1963) are used directly or
+after the variables have been transformed by the first difference. Several
+authors including Kmenta and Gilbert (1968) and Christensen and Manser
+(1977) have noted that the IZE procedure is equivalent to maximum
+likelihood estimations of linear equations systems. 4
+Data on consumption (availability) of cereal grains were obtained from
+the United States Department of Agriculture (USDA) which is based on
+supply-utilization balance sheets in each country. 5 Because government
+stocks and feed use of cereal grains are not reported for many countries in
+the USDA data base, data on consumption of coarse grains are likely
+overstated, which should be kept in mind when interpreting the results.
+The ratio of urban to total population is from the United Nations. Data on
+
+With both symmetry restrictions and iterative procedure, the estimation converges to full
+information maximum likelihood methods. Because the former requires the use of information across equations, the variance and covariance play important roles in estimation, and
+the latter converges to maximum likelihood method as stated above. Otherwise, the
+Zellner's estimation procedure reduces to single equation ordinary least squares (OLS).
+5 The alternative international source of cereal grain consumption data is the Food and
+Agriculture Organization of the United Nations (FAO). Both are mostly based on official
+supply-utilization balance sheets from respective governments, but the U.S. Department of
+Agriculture has made more modifications on official country statistics when these are
+deemed unreliable or historically inconsistent (Paulino and Tseng, 1980). Although consumption data for the nine selected Asian countries are quite consistent between FAO and
+USDA, we used the USDA data because FAO's published data refer to 3-year averages.
+4
+
+......
+
+......
+..,..
+
+TABLE4
+Estimated parameters in cereal grains demand system models
+Country
+
+Commodity
+
+Bangladesh
+
+Rice
+Wheat
+
+China c
+
+India
+
+In Y /P
+
+0.827
+(1.24)
+-0.827
+( -1.24)
+
+0.164
+(0.86)
+-0.164
+( -0.86)
+
+-
+
+-
+
+Wheat
+
+-
+
+-
+
+Coarse grains
+
+-
+
+Rice
+
+Coarse grains
+Rice
+Wheat
+Coarse grains
+Japan
+
+0.252
+(0.25) b
+0.748
+(0.76)
+
+z
+
+Rice
+
+Wheat
+
+Indonesia
+
+Intercept
+
+Rice
+Wheat
+
+0.018
+(0.22)
+0.070
+(0.70)
+-0.088
+( -0.64)
+
+*
+
+Zln Y /P
+-0.173
+( -1.35)
+0.173
+(1.35)
+-
+
+*
+
+lnPR
+
+lnPW
+
+In PC
+
+R2 a
+
+DW
+
+-
+
+0.94
+
+1.37
+
+-
+
+0.94
+
+1.37
+
+0.75
+
+1.72
+
+0.21
+
+1.69
+
+0.39
+
+1.61
+
+-0.058
+( -3.24)
+0.058
+(3.24)
+
+0.058
+(3.24)
+-0.058
+( -3.24)
+
+0.303
+(8.68)
+-0.131
+( -2.92)
+-0.173
+( -4.42)
+
+-0.131
+(- 2.92)
+0.164
+(2.00)
+-0.034
+( -0.55)
+
+-0.173
+( -4.42)
+-0.034
+( -0.55)
+0.207
+(2.88)
+
+0.473
+(0.12)
+-3.328
+( -0.98)
+3.855
+(1.45)
+
+-0.480
+( -0.15)
+3.619
+(1.30)
+-3.139
+( -1.44)
+
+O.Q15
+(0.02)
+0.638
+(0.96)
+-0.653
+( -1.26)
+
+0.073
+(0.11)
+-0.648
+( -1.19)
+0.575
+(1.35)
+
+0.334
+(5.60)
+-0.180
+( -3.96)
+-0.155
+( -4.89)
+
+-0.180
+( -3.96)
+0.180
+(3.73)
+-0.000
+( -0.01)
+
+-0.155
+( -4.89)
+-0.000
+( -0.01)
+0.155
+(5.27)
+
+0.69
+
+1.69
+
+0.84
+
+1.23
+
+0.94
+
+2.15
+
+3.019
+(6.51)
+-2.154
+( -5.18)
+0.136
+(0.23)
+-
+
+-1.411
+( -3.95)
+1.722
+(5.43)
+-0.311
+( -0.68)
+-4.319
+( -1.40)
+-2.630
+( -1.57)
+
+-0.429
+( -4.66)
+0.412
+(4.99)
+0.017
+(0.15)
+-0.726
+( -1.05)
+-0.837
+( -2.23)
+
+0.277
+(3.99)
+-0.322
+( -5.23)
+0.045
+(0.51)
+0.785
+(1.32)
+0.558
+(1.73)
+
+0.050
+(8.76)
+-0.012
+( -3.38)
+-0.039
+( -8.31)
+0.203
+(15.57)
+-0.165
+( -20.58)
+
+-0.012
+( -3.38)
+0.007
+(2.04)
+0.005
+(1.44)
+-0.165
+( -20.58)
+0.159
+(18.77)
+
+-0.039
+( -8.31)
+0.005
+(1.44)
+0.034
+(6.00)
+-0.038
+( -4.25)
+0.006
+(1.22)
+
+0.87
+
+2.03
+
+0.88
+
+2.23
+
+0.68
+
+1.82
+
+0.89
+
+1.57
+
+n
+
+0.95
+
+1.83
+
+>
+
+-
+
+""'c:::r:
+>
+z
+0
+
+~
+
+0
+
+0
+0
+
+~
+
+0
+
+Coarse grains
+Rice
+
+S. Korea
+
+Wheat
+Coarse grains
+Pakistan
+
+Rice
+Wheat
+Coarse grains
+
+Philippines
+
+Thailand
+
+c
+
+6.949
+(2.82)
+
+1.563
+(2.84)
+
+-1.344
+( -2.82)
+
+-0.038
+( -4.25)
+
+0.006
+(1.22)
+
+0.032
+(4.14)
+
+0.59
+
+3.479
+(1.37)
+-3.842
+(2.44)
+1.363
+(0.83)
+
+-1.459
+( -1.02)
+2.098
+(2.37)
+-0.640
+( -0.69)
+
+-0.539
+( -1.14)
+0.742
+(2.51)
+-0.203
+( -0.68)
+
+0.282
+(1.06)
+-0.390
+( -2.36)
+0.108
+(0.63)
+
+0.095
+(1.34)
+-0.038
+( -0.96)
+-0.057
+( -1.32)
+
+-0.038
+( -0.96)
+0.052
+(1.87)
+-0.014
+( -0.66)
+
+-0.057
+( -1.32)
+-0.014
+( -0.66)
+0.071
+(2.15)
+
+0.75
+
+1.70
+
+0.45
+
+2.25
+
+0.82
+
+1.29
+
+6.444
+(1.33)
+-12.700
+( -2.83)
+7.257
+(2.54)
+
+-6.690
+( -1.57)
+12.596
+(3.15)
+-5.905
+( -2.32)
+
+-1.222
+( -1.29)
+2.575
+(2.93)
+-1.352
+(- 2.42)
+
+1.292
+(1.55)
+-2.409
+( -3.09)
+1.117
+(2.25)
+
+0.243
+(5.43)
+-0.222
+( -5.94)
+-0.021
+( -0.89)
+
+-0.222
+( -5.94)
+0.326
+(7.93)
+-0.104
+( -4.28)
+
+-0.021
+( -0.89)
+-0.104
+( -4.28)
+0.125
+(5.03)
+
+0.58
+
+1.38
+
+0.72
+
+1.85
+
+0.80
+
+1.53
+
+0.161
+(7.04)
+-0.058
+( -3.23)
+-0.104
+(- 5.91)
+
+-0.058
+( -3.23)
+0.074
+(3.34)
+-0.016
+( -1.02)
+
+-0.104
+( -5.91)
+-0.016
+( -1.02)
+0.120
+(5.85)
+
+0.68
+
+1.71
+
+0.37
+
+1.18
+
+0.51
+
+1.60
+
+0.030
+(3.07)
+-0.025
+( -4.05)
+-0.005
+( -0.63)
+
+-0.025
+( -4.05)
+0.026
+(3.64)
+-0.001
+( -0.17)
+
+-0.005
+( -0.63)
+-0.001
+( -0.17)
+0.006
+(0.67)
+
+0.63
+
+1.94
+
+0.74
+
+1.68
+
+0.08
+
+2.92
+
+-
+
+Rice
+
+-
+
+-
+
+Wheat
+
+-
+
+-
+
+Coarse grains
+
+-
+
+-
+
+Rice
+
+-
+
+Wheat
+
+-
+
+Coarse grains
+
+-
+
+-1.553
+( -2.04)
+1.249
+(2.39)
+0.304
+(0.51)
+
+0.179
+(3.36)
+-0.097
+( -1.61)
+-0.082
+( -1.72)
+-0.272
+( -1.68)
+0.214
+(1.93)
+0.058
+(0.46)
+
+-
+
+0.298
+(1.97)
+-0.235
+( -2.27)
+-0.063
+( -0.53)
+
+1.55
+
+(l
+
+tr1
+
+"'~
+
+• System R 2 for India, Indonesia, Korea and Pakistan are 0.98, 0.97, 0.89 and 0.93, respectively. In China, Japan, the Philippines and
+Thailand where estimations are based on first-difference forms, the system R 2 s are not reported. b t-values in parentheses. c Models for
+China and the Philippines are estimated from equation (1), since the original model is not rejected.
+
+r
+
+0
+
+~
+
+z
+z
+Vl
+
+:J>
+
+Vl
+
+s;:
+
+......
+......
+
+U\
+
+116
+
+J. HUANG AND C.C. DAVID
+
+population and private consumption expenditures (PCE) are mainly from
+the International Monetary Fund (IMF, various issues), Asian Development Bank (ADB, various issues) and World Bank (World Tables, various
+issues), except for China which are taken from Beijing Review Press (1990).
+To derive the aggregated price index of all cereal grains, the geometric
+mean is calculated, using the consumer price index as proxy for the price of
+non-cereal commodities. All price data are from various official country
+sources including: Bangladesh Statistical Yearbook, India Directorate of
+Economics and Statistics, Statistical Yearbook of Indonesia, Statistical
+Yearbook of the Ministry of Agriculture (Japan), Economic Statistics
+Yearbook of Korea, Yearbook of Agriculture and Forestry Statistics (Seoul),
+25 years of Pakistan in 1947-72 and Pakistan Statistical Yearbook, Bureau
+of Agricultural Statistics and Central Bank of the Philippines, and China
+State Statistical Bureau.
+RESULTS
+
+Demand systems are estimated with the imposition of homogeneity and
+symmetry conditions suggested by demand theory. Tests of demand restrictions are satisfied when urbanization effects are specified but generally
+rejected in the standard model where urbanization is omitted. The estimation results of the first-stage model as well as the implied demand elasticities of total cereal grains are reported and discussed briefly in Appendix 1.
+Table 4 shows the estimation results of the second-stage cereal grain
+demand model. 6 The statistical results are remarkably good with most of
+the coefficients having the expected signs and reasonable magnitudes. The
+goodness of fit measured by R 2 is generally high except for wheat in China.
+The low R 2 for China may be due to the prevalence of quantitative
+rationing so that income, prices and urbanization alone do not fully explain
+consumption levels of these commodities.
+The coefficients of rice price tend to be more statistically significant than
+those for wheat and coarse grains. Given the predominant role of rice in
+the Asian diet, changes in the price of rice will significantly affect the
+budget shares of all cereal grains. The generally insignificant coefficients of
+real cereal expenditure indicate that the budget share of individual cereal
+grains is not sensitive to changes in the total cereal expenditures, but
+To obtain all the relevant statistical information for all three equations without encountering singularity problem, two alternative pair-wise demand equations are estimated, i.e.
+ricejwheat and then ricejcoarse grains. The results show that estimations are invariant to
+the equation that is dropped. To simplify Table 4, only rice and wheat demand equations
+are reported.
+6
+
+117
+
+CEREAL GRAINS IN ASIA
+
+TABLE 5
+Tests of urbanization effects within cereal grains demand system
+Country
+
+Bangladesh
+China
+India
+Indonesia
+Japan
+S. Korea
+Pakistan
+Philippines
+Thailand
+
+Wald-statistics
+Intercept
+df = 2 a
+
+In Y jP slope
+df = 2 a
+
+Both
+df = 4 b
+
+1.55
+2.767
+3.24
+41.46 * *
+11.16 **
+7.30 *
+12.85 **
+2.31
+6.16 *
+
+1.82
+2.83
+2.78
+39.53
+11.75
+7.10
+12.25
+2.24
+5.62
+
+182.30 **
+2.97
+167.31 **
+59.67 **
+27.58 **
+14.85 **
+92.79 * *
+3.35
+9.60 *
+
+df = 1 for Bangladesh.
+1% level.
+
+a
+
+b
+
+df = 2 for Bangladesh.
+
+**
+**
+*
+**
+
+* Significant at 5% level. * * Significant at
+
+consumption may be significantly affected by those changes. This is because of the simultaneous effects of total cereal expenditure and price on
+the relative budget share (wi = piqJY). For example, holding price constant, the consumption level (q) will increase (decrease) by the same
+proportion as income (Y), leaving the budget share (w) unchanged.
+To examine the existence of urbanization effect, Table 5 reports the
+results of the Wald chi-square tests which showed that urbanization shifted
+the intercepts in five out of nine Asian countries at the 5% significance
+level, i.e., Indonesia, Japan, South Korea, Pakistan and Thailand. Except in
+Thailand, the slopes of real total cereal expenditure have also significantly
+changed in these countries. The overall Wald tests indicate that urbanization has had a significant impact in seven (i.e. Bangladesh, India, Indonesia, Japan, South Korea, Pakistan and Thailand) out of nine countries. The
+insignificant result in China may be due firstly to the slow rate of urbanization over the period of study as interregional migration was highly restricted; and secondly, to the system of grain rationing that limited consumer choices. In the Philippine case, the insignificant coefficient of the
+urbanization ratio may be due to the relatively higher correlation between
+the real income and urbanization which increased the variances of estimates more than in other countries.
+Price and expenditure elasticities
+
+Table 6 summarizes the elasticities of demand for cereal grains computed at the sample mean based on the estimated parameters reported in
+
+118
+
+J. HUANG AND C. C. DAVID
+
+TABLE 6
+Summary of mean budget share and estimated elasticities at sample mean
+Country
+
+Bangladesh
+China
+
+India
+
+Indonesia
+
+Japan
+
+S. Korea
+
+Pakistan
+
+Philippines
+
+Thailand
+
+Commodity
+
+Rice
+Wheat
+Rice
+Wheat
+Coarse b
+Rice
+Wheat
+Coarse
+Rice
+Wheat
+Coarse
+Rice
+Wheat
+Coarse
+Rice
+Wheat
+Coarse
+Rice
+Wheat
+Coarse
+Rice
+Wheat
+Coarse
+Rice
+Wheat
+Coarse
+
+Mean
+budget
+share
+
+Elasticities
+Own
+price
+
+Cereal
+expenditure
+
+Total
+expenditure
+
+0.95
+0.05
+0.46
+0.33
+0.21
+0.55
+0.25
+0.20
+0.86
+0.05
+0.09
+0.78
+0.18
+0.04
+0.75
+0.10
+0.15
+0.24
+0.65
+0.11
+0.69
+0.14
+0.17
+0.95
+0.04
+0.01
+
+-0.92
+-2.48
+-0.35
+-0.58
+0.04
+-0.52
+-0.16
+-0.26
+-0.88
+-0.83
+-0.71
+-0.94
+-0.06
+-0.25
+-0.81
+-0.55
+-0.50
+-0.40
+-0.31
+0.18
+-0.96
+-0.35
+-0.24
+-1.07
+-0.27
+-0.15
+
+0.85
+4.07
+1.04
+1.20
+0.60
+1.18
+0.44
+1.18
+0.93
+0.47
+1.87
+1.21
+0.06
+1.13
+0.92
+1.80
+0.87
+2.12
+0.62
+0.82
+1.25
+0.31
+0.52
+1.11
+-0.96
+-2.28
+
+0.38
+1.82
+0.43
+0.49
+0.25
+0.53
+0.20
+0.53
+0.47
+0.24
+0.94
+-0.21
+-0.01
+-0.20
+0.46
+0.90
+0.43
+0.49
+0.14
+0.19
+0.25
+0.06
+0.10
+-0.14
+0.12
+0.28
+
+a
+
+Urbanization c
+-0.15
+2.95
+
+-0.24
+1.56
+-1.24
+-0.09
+4.54
+-1.30
+-0.34
+1.83
+-1.40
+0.11
+0.27
+-0.72
+-0.11
+0.29
+-1.45
+
+-0.04
+1.22
+-2.96
+
+a Total expenditure elasticities of rice, wheat and coarse grains are the product of total
+cereal expenditure elasticity obtained from stage I and cereal expenditure elasticity from
+stage II. IFPRI's estimates (1976) on total cereal expenditure elasticities are used for
+Bangladesh (0.48), India (0.47), and Pakistan (0.23).
+b Coarse grains.
+c Elasticities are calculated for those countries where the estimated parameters are statistically significant.
+
+Table 4. Except for coarse grains in China and Pakistan, all the own-price
+elasticities have the correct signs. The generally higher absolute values of
+uncompensated own-price elasticities for rice compared to wheat and
+coarse grains would largely reflect the greater income effects of a price
+
+CEREAL GRAINS IN ASIA
+
+119
+
+change in rice which dominates total cereal expenditure in most of the
+countries.
+Several patterns may be observed with respect to the total expenditure
+elasticities for individual grains. The total expenditure elasticity for rice
+remains positive ranging from 0.25 (Philippines) to 0.53 (India) in seven out
+of the nine Asian countries. The negative total expenditure elasticity of
+demand for rice in Japan, which has one of the world's highest per-capita
+incomes, is to be expected. The negative elasticity for Thailand is also
+plausible as the country now has the highest per-capita income among
+South and Southeast Asia. The relatively high elasticity for South Korea is
+due partly to the fact that shifts in consumption from barley to rice have
+occurred as income increased and partly to the overestimate of total
+expenditure elasticity of demand for total cereal grains in the first stage of
+this study.
+The total expenditure elasticities for wheat are positive in all countries
+except for Japan. However, wheat does not appear to be preferred over
+rice as evidenced by the lower total expenditure elasticity for wheat
+compared to rice in India, Indonesia, Pakistan and the Philippines. Japan is
+the only country where all cereal grains are regarded as inferior goods, but
+the absolute values of the expenditure elasticities are relatively low.
+It should be noted that estimated total expenditure elasticities of demand for coarse grains may be overstated because of underestimation of
+feed use, which lead to overestimation of food consumption in the data
+used.
+Urbanization elasticities
+
+The elasticity of urbanization is defined as the percentage change in
+demand due to a percentage change in the ratio of urban to total population. Consistent with expectations, urbanization has generally negative
+effects on consumption of rice and coarse grains, but positive effects on
+wheat consumption.
+Japan has the most negative urbanization elasticity (- 0.34) of demand
+for rice, which implies that omission of urbanization variable in the
+specification of cereal grain demand models for Japan will lead to a
+downward bias in estimated income or expenditure elasticity. The highly
+negative urbanization elasticity (- 0.24) in India, which is next only to
+Japan, can partly explain why per-capita rice consumption in India remained relatively unchanged over the last three decades. Likewise, the
+decrease in per-capita rice consumption by 28 kg in Bangladesh despite the
+relatively high expenditure elasticity during the last three decades may
+partly be explained by the negative effects of urbanization on rice demand
+
+120
+
+J. HUANG AND C.C. DAVID
+
+in this country. 7 The urbanization elasticity of rice in Pakistan is also
+negative but small in magnitude because rice is not a staple food in this
+country. Moreover, unlike in other Asian countries, wheat is not generally
+consumed as commercial breads, and therefore is not necessarily more
+convenient to consume than rice. Thailand also has a negative elasticity,
+but the magnitude is unexpectedly low. The positive urbanization elasticities in South Korea is unexpected and may imply that the substitution of
+rice for barley occurred not only because of higher income but also because
+of the higher rate of urbanization.
+In contrast to rice and coarse grains, urbanization elasticities for wheat
+are all positive with relatively high absolute values. Therefore, observed
+growth in wheat consumption over time in all countries is due not only to
+increases in income but also to the growing urbanization. Because wheat is
+the staple food in Pakistan, the urbanization elasticity is relatively small
+(0.29). The low elasticity obtained for South Korea (0.27) is explained by
+the different nature of substitution among cereal grains in this country.
+Whereas wheat is typically substituted for rice as urbanization increases,
+the substitution of rice for barley was also important in this country during
+this period. In general, countries with small initial budget shares of wheat
+have higher urbanization elasticities.
+For coarse grains, urbanization had negative effects on consumption in
+all countries studied. The negative signs are due to the fact that wheat as
+well as rice are generally more accessible and convenient to consume than
+coarse grains. Omission of urbanization variables in the analysis of demand
+for rice, wheat and coarse grains may therefore tend to underestimate
+income or expenditure elasticities for rice and coarse grains while overestimating them for wheat.
+As shown in Table 1, estimates of income elasticities based on cross-section data are generally significantly higher than those based on time-series
+aggregate data. Even when the estimation problems in IPG's time-series
+analysis which lead to downward bias in estimated income elasticity have
+been corrected by HDD, estimates in the last column are still below those
+from cross-section data. All of these time-series estimates, however, are
+based on single equation models that specify only income and relative
+prices as independent variables. When urbanization and interdependence
+of rice and all other commodities in the economy are accounted for in the
+
+Aside from the effects of urbanization, production shifts from rice to wheat may have
+increased home consumption of wheat grains over the last three decades in Bangladesh.
+This follows from Bouis (1990) hypothesis that greater commercialization of a cereal grain
+will tend to reduce its consumption.
+7
+
+CEREAL GRAINS IN ASIA
+
+121
+
+analysis as done in this paper, estimates of income elasticities based on
+time series become remarkably consistent with estimates from cross section
+data. For example, our expenditure elasticity of demand for rice in
+Bangladesh is 0.38, which is close to the cross-section estimate by Bouis
+(0.34-0.83) and much higher than time-series estimates by IPG (- 0.04)
+and HDD (0.08). Similarly, time-series estimates of expenditure elasticities
+of demand for rice in this study are quite comparable with those estimated
+by cross-section data in China, India, Indonesia, Japan, South Korea,
+Pakistan, Philippines and Thailand. The omission of urbanization variable
+which is typically positively correlated with income, therefore, leads to
+underestimation of income elasticity in time-series analysis.
+CONCLUSIONS
+
+Urbanization has significantly affected patterns of Asian cereal grains
+consumption. Its effects on total cereal grains may differ by country
+according to income levels. In high-income countries, it has been observed
+that urbanization significantly increased the consumption of other noncereal goods and decreased cereal grains consumption, whereas urbanization increased cereal grain consumption in low-income countries.
+Among cereal grains, urbanization has had negative effects on consumption of rice and coarse grains but positive effects on wheat consumption.
+The positive effects of urbanization on demand for wheat are consistently
+observed for all countries because of the greater convenience of consuming
+wheat products. Therefore, continuing increases in wheat consumption
+over time are due not only to increases in income, but also due to those
+urbanization effects. Among the countries studied, only Japan and Thailand have negative income elasticities of demand for total cereal grains.
+Rice remains a necessity and a normal good in all countries except these
+countries.
+A review of the existing studies of rice demand in Asia reveals that
+time-series data tend to generate lower estimates of rice income elasticities
+than cross-section data. This study has shown that when the effects of
+urbanization are taken into account, estimates of income elasticities for
+rice based on time-series data become consistent with those from cross-section data. In order to improve projections of future demand for cereal
+grains, therefore, changes in the rate of urbanization as well as income
+must be taken into account.
+ACKNOWLEDGEMENTS
+
+We are grateful to Keijiro Otsuka and two anonymous referees for
+helpful comments.
+
+......
+
+N
+N
+
+APPENDIX TABLE 1
+Estimated parameters and elasticities of demand for total cereal grains
+Country
+
+China
+India
+Indonesia
+
+Intercept
+
+z
+
+ln(XjP*)
+
+Z In (X/ P*)
+
+In (P cereal)
+
+In (P other)
+
+-4.397
+( -1.90) a
+1.232
+(0.88)
+0.950
+(2.40)
+
+4.965
+(2.34)
+0.243
+(0.22)
+0.018
+(0.05)
+-2.324
+( -2.32)
+-0.809
+( -3.08)
+-0.284
+( -0.23)
+-0.466
+( -0.42)
+
+0.905
+(1.88)
+-0.176
+(-0.71)
+-0.089
+( -1.93)
+-0.294
+( -3.06)
+-0.233
+( -9.63)
+-0.172
+( -0.77)
+-0.212
+( -1.93)
+
+-0.986
+( -2.33)
+-0.038
+( -0.20)
+-0.004
+( -0.01)
+0.187
+(2.24)
+0.067
+(3.04)
+0.059
+(0.29)
+0.056
+(0.45)
+
+0.238
+(12.98)
+0.205
+(5.64)
+0.172
+(11.04)
+0.047
+(3.72)
+0.198
+(8.09)
+0.130
+(7.35)
+0.098
+(4.66)
+
+-0.238
+( -12.98)
+-0.205
+( -5.64)
+-0.172
+( -11.04)
+-0.047
+( -3.72)
+-0.198
+( -8.09)
+-0.130
+( -7.35)
+-0.098
+( -4.66)
+
+Japan
+S. Korea
+Philippines
+Thailand
+
+R2
+
+Demand parameters
+
+2.725
+(13.29)
+1.095
+(0.80)
+1.783
+(1.94)
+
+DW
+
+Elasticity
+Expenditure b
+
+Urbanization
+
+0.96
+
+1/70
+
+0.41
+
+0.57
+
+0.96
+
+1.96
+
+0.22
+
+0.12
+
+c
+
+0.97
+
+2.20
+
+0.51
+
+-0.07
+
+c
+
+0.71
+
+1.62
+
+-0.18
+
+-0.36
+
+0.98
+
+1.94
+
+0.50
+
+-0.93
+
+0.95
+
+1.85
+
+0.20
+
+0.69
+
+0.92
+
+1.85
+
+-0.12
+
+-0.09
+
+c
+~
+
+::r:
+
+t-values in the parentheses.
+The income elasticities for India, Indonesia and Thailand are derived from the original LA/ AIDS model, since tests for urbanization
+effects on consumption showed that they are not statistically significant in the stage I.
+c Elasticities derived from the parameters which are statistically insignificant.
+a
+
+b
+
+c~
+z
+
+(l
+
+z~
+
+0
+
+()
+
+0
+0
+
+~
+
+<
+
+8
+
+CEREAL GRAINS IN ASIA
+
+123
+
+APPENDIX 1
+
+Appendix Table 1 presents the estimation results of the first-stage model
+as well as the implied demand elasticities for total cereal grains. Bangladesh
+and Pakistan as well as India have been excluded from the first-stage
+analysis because of unreliable data on private consumption expenditure in
+the 1960s when the former two countries were not yet separated, and lack
+of data for the latter. With the exception of Japan and Thailand, the total
+expenditure elasticities of demand for cereal grains are positive. Indonesia
+has the highest expenditure elasticities of total cereal grains (0.51), followed by South Korea (0.50) and China (0.41).
+Urbanization effect is still in favor of cereal grains consumption in some
+low-income countries such as China and the Philippines. This may be due
+to the high substitutability of cereal grains for inferior root crops such as
+sweet potatoes and cassava. On the other hand, urbanization reduces
+cereal grains consumption in those countries where income levels are high
+such as Japan and South Korea. This suggests that urbanization induces
+substitution between cereals and other food such as animal products. The
+effects of urbanization on total cereal grain consumption are insignificant
+in India, Indonesia and Thailand.
+REFERENCES
+ADB, various issues. Indicators of developing member countries of ADB. Asian Development Bank, Manila.
+Barker, R. and Herdt R., 1985. The Rice Economy of Asia. Resources for the Future,
+Washington DC.
+Berndt, E. and Savin, N.E., 1975. Estimation and hypothesis testing in singular equation
+systems with autoregressive disturbances. Econometrica, 43: 937-957.
+Beijing Review Press, 1990. The Development of China, 1949-1989. Beijing.
+Bouis, H.E., 1989. Prospects for rice supply and demand balances in Asia. Final report
+submitted to Rockefeller Foundation, International Food Policy Research Institute,
+Washington, DC.
+Bouis, H.E., 1990. Rice in Asia: Is it becoming a commercial good? Working paper,
+International Food Policy Research Institute, Washington, DC.
+Christensen, L.R. and Manser M.E., 1977. Estimating U.S. consumer preferences for meat
+with a flexible utility function. J. Econometrics, 5: 37-53.
+Deaton, A.S. and Muellbauer, J., 1980. An almost ideal demand system. Am. Econ. Rev.,
+70: 312-329.
+Dey, M.M., 1988. Modern rice technology and rice policy in Bangladesh. Ph.D. dissertation,
+University of the Philippines, Los Banos.
+FAO, 1971. Agricultural Commodity Projections, 1970-1980, Vol. 1, 2. Food and Agriculture Organization of the United Nations, Rome.
+FAO, 1991. Demand prospects for rice and other foodgrains in selected Asian countries.
+FAO Econ. Social Dev. Paper 97, Food and Agriculture Organization of the United
+Nations, Rome.
+
+124
+
+1. HUANG AND C. C. DAVID
+
+Green, R. and Alston, J.M., 1990. Elasticities in AIDS models. Am. J. Agric. Econ. 72:
+442-445.
+Huang, J.K. and David, C. C., 1991. Alternative elasticity formulas in AIDS and LA/ AIDS
+models. Social Sci. Div. Working Paper 91-11, International Rice Research Institute,
+Manila.
+Huang, J.K., David, C.C. and Duff, B., 1991. Rice in Asia: Is it becoming an inferior good?
+Comment. Am. J. Agric. Econ., 73: 515-521.
+Ingco, M.D., 1990. Changes in food consumption patterns in the Republic of Korea. PRE
+Working Paper Ser. 506, World Bank, Washington, DC.
+IFPRI, 1976. Meeting food needs in the developing world. IFPRI Res. Rep. 6, International
+Food Policy Research Institute, Washington DC.
+IMF, various issues. International Financial Statistics. International Monetary Fund, Washington, DC.
+Ito, S., Peterson E.W.F. and Grant, W.R., 1989. Rice in Asia: Is it becoming an inferior
+good? Am. J. Agric. Econ., 71: 32-42.
+Kmenta, J. and Gilbert, R.F., 1968. Small sample properties of alternative estimation of
+seemingly unrelated regressions. J. Am. Stat. Assoc., 63: 1180-1200.
+Paulino, L.A. and Tseng, S.S., 1980. A comparative study of FAO and USDA data on
+production, area, and trade of major food staples. IFPRI Res. Rep. 19, International
+Food Policy Research Institute, Washington, DC.
+Quisumbing, M.A.R., Valerio, T.E., Red, E.R. and Villavieja, G.M., 1988. Flexible functional form estimates of Philippine demand elasticities for nutrition policy simulation.
+Working Paper Ser. 88-13, Philippine Institute for Development Studies, Manila.
+Swamy, G. and Binswanger, H.P., 1983. Flexible consumer demand systems and linear
+estimation: food in India. Am. J. Agric. Econ., 65: 675-684.
+Timmer, C.P. and Alderman, H., 1979. Estimating consumption parameters for food policy
+analysis. Am. J. Agric, Econ., 61: 982-998).
+United Nations, 1989. Prospects of World Urbanization, 1988. Population Studies, 112.
+Department of International Economics and Social Affairs, United Nations, New York.
+USDA, various issues. Grains. Foreign Agriculture Circular, U.S. Department of Agriculture, Washington, DC.
+Zellner, A, 1962. An efficient method of estimating seemingly unrelated regressions and
+tests of aggregated bias. J. Am. Stat. Assoc., 57: 348-368.
+Zellner, A, 1963. Estimators of seemingly unrelated regression equations: some exact finite
+sample results. J. Am. Stat. Assoc., 58: 977-992.
+
+

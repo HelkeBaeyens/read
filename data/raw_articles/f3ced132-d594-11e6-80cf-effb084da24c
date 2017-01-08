@@ -1,0 +1,1391 @@
+AGRICULTURAL
+ECONOMICS
+
+ELSEVIER
+
+Agricultural Economics 11 (1994) 61-69
+
+Food demand in rural China:
+evidence from rural household survey
+Shenggen Fan*, Gail Cramer, Eric Wailes
+Department of Agricultural Economics and Rural Sociology, University of Arkansas, 221 Agriculture Building,
+Fayetteville, AR 72701, USA
+Accepted 1 February 1994
+
+Abstract
+The recent rural reforms in China have had great effects on agricultural production and productivity as well as
+rural household consumption. While much has been written on production and productivity effects of these reforms,
+very few Chinese studies have attempted to analyze the changes in rural consumption patterns. This paper uses a
+dynamic AIDS model to estimate various food demand parameters for Chinese rural households using rural
+household survey data recently released by the China State Statistical Bureau. The results show that all important
+food commodities including rice, wheat, coarse grains, vegetables, meat, tobacco and alcohol have positive
+expenditure elasticities. Rice, wheat and coarse grains are necessities, while meat, vegetables, alcohol and tobacco
+are luxuries. The expenditure elasticities for rice, coarse grains and tobacco are declining, but those for wheat, meat,
+vegetables and alcohol are increasing. As per capita income rises and population increases, the demand for these
+items will continue to increase. Therefore, China must continue to increase its food production by a greater rate in
+the future in order to avoid food shortages.
+
+After 30 years of socialist revolution, China
+initiated in 1979 its well known rural reforms,
+which transformed agricultural production from
+central planning to a market-driven system. These
+reforms have had significant effects on agricultural production and productivity as well as rural
+household food demand in China. While much
+has been written on the production and productivity effects of the rural reforms, very few Chinese studies have attempted to analyze in detail
+
+* Corresponding author.
+
+rural household consumption behavior during this
+reform period. 1 Following rapid growth of per
+capita incomes, the importance of grains and
+low-quality vegetables in the Chinese rural diet
+diminished substantially and was supplemented
+with increased meat intake, a diverse array of
+fruits and high-quality vegetables and a distinct
+preference for higher-quality alcohol and tobacco. China has 23% of the world's population
+
+1 For more details on production and productivity effects of
+the Chinese rural reforms refer to Lin (1988, 1992), Fan
+(1991) and Sicular (1988).
+
+0169-5150/94/$07.00 © 1994 Elsevier Science B.V. All rights reserved
+SSDJ 0169-5150(94)00003-K
+
+62
+
+S. Fan et al. /Agricultural Economics 11 (1994) 61-69
+
+with rural residents accounting for more than
+70% of the national total population. Thus,
+changes in the consumption pattern of China's
+rural population can have substantial effects on
+both domestic and international trade, particularly on food and agricultural trade. Knowledge
+of rural household food demand behavior, and
+the effects of current and future reforms on food
+consumption patterns provides important information for policy makers in redesigning and evaluating policy options.
+Several studies on Chinese household consumption (including rural households) have been
+conducted previously. Linear expenditure systems
+were applied for rural households in Hubei
+province and urban households in Beijing for
+1981 and 1982 (Van der Gaag, 1984; Li, Yang
+and He, 1985). Lewis and Andrews (1989) also
+employed a linear expenditure system to estimate
+urban and rural household demand in China. The
+small number of observations available for these
+former studies limited the applicability of the
+results. This study differs from the previous ones
+in several aspects. Firstly, we use provincial aggregate time-series data from rural household
+surveys for a relatively long-term period from
+1982 to 1990. These data were collected by the
+General Organization for Rural Household Surveys of the State Statistical Bureau. This data set
+provides more observations and more variation
+for each variable, plus it enables us to observe
+changes in consumption patterns over time. Secondly, a more flexible demand system, namely the
+almost ideal demand system (AIDS), is employed
+to estimate food demand in rural China. Thirdly,
+the dynamic nature of food consumption for the
+rural households is considered in the model. During the period of analysis (1982-1990), per capita
+incomes as well as consumption patterns have
+changed dramatically. As demand parameters may
+have changed, the model used to analyze these
+parameters must be dynamic.
+The paper is organized as follows. The first
+section of the paper reviews general food consumption patterns and their changes over time in
+rural China. Section 2 introduces a general
+framework (model) which is suitable for analyzing
+food consumption patterns in China. The third
+
+section discusses the data sources and the
+methodology in constructing variables for food
+demand estimation. We empirically estimate the
+demand system for rural households and discuss
+estimated expenditure and price elasticities in the
+fourth section. Finally, we discuss some policy
+implications of this study.
+
+1. Food consumption patterns in rural China
+
+In this part of the paper, we discuss the general trend of food consumption patterns in rural
+China. We give special attention to the effects of
+the rural reforms on the changes in food consumption. However, the rural reforms do not
+have a significant direct effect on rural consumption. They affect consumption patterns indirectly
+through income and relative price changes. Per
+capita income has increased substantially since
+1978 due to the reforms. Average per capita
+income increased only by 2.4% per annum in real
+terms from 1957 to 1978, but then it accelerated
+to 7.1% per annum from 1978 to 1990. The
+relative prices have also changed significantly
+since the reforms were introduced. The retail
+price index increased by 0.5% per annum from
+1957 to 1978, while it increased by 6.3% per
+annum from 1978 to 1990. Among all consumption goods, food prices increased the most rapidly
+since the reforms, at a rate of 8.1% per annum,
+while clothing prices increased the least, at 3.3%
+per year. Fuel and other commodity price increases fall between the above two groups, at
+5.5% and 3.9% per annum, respectively.
+Table 1 shows the long-term basic trends in
+rural household expenditures in China. The proportion of food expenditures to total expenditures declined steadily from 65.9% in 1957 to
+54.9% in 1990. Of the 11% decline, only 4% had
+occurred from 1957 to 1980; only after 1980, did
+the food expenditure decline sharply. In fact, it
+dropped almost 7% in the last decade. This decline would have been even larger if the food
+prices had not increased significantly during the
+1980s.
+Table 2 shows the trend of food consumption
+on a per capita basis in rural China. Fine grain
+
+S. Fan et al. /Agricultural Economics 11 (1994) 61-69
+
+63
+
+Table 1
+Annual per capita income and expenditure: Rural households (yuan)
+Year
+
+Total
+income
+
+Total
+expenditure
+
+Food
+
+Clothing
+
+Fuel
+
+Housing
+
+Other
+
+1957
+1965
+1978
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+
+72.95
+n.a.
+133.57
+191.33
+223.34
+270.11
+309.77
+355.33
+397.60
+423.76
+462.55
+544.94
+601.51
+629.79
+
+70.86
+95.11
+116.06
+162.21
+190.81
+220.23
+248.29
+273.80
+317.42
+356.95
+398.29
+476.66
+535.37
+538.05
+
+46.70
+65.15
+78.57
+100.19
+113.91
+133.20
+147.24
+161.52
+183.33
+201.17
+219.67
+254.57
+289.58
+295.16
+
+9.50
+9.99
+14.74
+19.99
+23.66
+24.77
+27.65
+28.33
+30.70
+33.74
+34.23
+40.41
+43.35
+45.06
+
+7.09
+7.89
+8.24
+9.66
+10.69
+12.36
+13.47
+15.04
+18.16
+18.57
+19.29
+21.69
+23.51
+24.37
+
+1.49
+2.66
+3.71
+12.80
+18.70
+22.58
+27.56
+31.49
+38.66
+51.23
+57.76
+70.25
+76.07
+69.23
+
+6.09
+9.42
+10.79
+19.57
+23.85
+27.32
+32.37
+37.42
+46.57
+52.24
+67.34
+89.74
+102.86
+104.23
+
+Proportion of expenditure(%)
+1957
+100.00
+100.00
+1965
+100.00
+1978
+100.00
+1980
+100.00
+1981
+100.00
+1982
+100.00
+1983
+100.00
+1984
+100.00
+1985
+100.00
+1986
+100.00
+1987
+1988
+100.00
+100.00
+1989
+100.00
+1990
+
+65.90
+68.50
+67.70
+61.77
+59.70
+60.48
+59.30
+58.99
+57.76
+56.36
+55.15
+53.41
+54.09
+54.86
+
+13.40
+10.50
+12.70
+12.32
+12.40
+11.25
+11.14
+10.35
+9.67
+9.45
+8.59
+8.48
+8.10
+8.37
+
+10.00
+8.30
+7.10
+5.96
+5.60
+5.61
+5.43
+5.49
+5.72
+5.20
+4.84
+4.55
+4.39
+4.53
+
+2.10
+2.80
+3.20
+7.89
+9.80
+10.25
+11.10
+11.50
+12.18
+14.35
+14.50
+14.74
+14.21
+12.87
+
+8.60
+9.90
+9.30
+12.06
+12.50
+12.41
+13.04
+13.67
+14.67
+14.64
+16.91
+18.83
+19.21
+19.37
+
+Source: China's Statistical Yearbook (various issues), China's Agricultural Yearbooks (various issues).
+Note: Total income and expenditures are measured in nominal terms. The consumer price index from 1957 to 1990 is 232.6%.
+Other expenses include expenses on daily used articles (soaps, detergent, bicycles, washing machines, sewing machines, watches,
+clocks, electrical fans, refrigerators, motorcycles, sofas, dressing chests, and desks) and cultural related goods (radios, TV sets,
+recorders, cameras, newspapers, etc.).
+
+consumption increased marginally from 1957 to
+1977. 2 It increased significantly from 1978 to
+1982; then the growth slowed after 1983. Coarse
+grain consumption declined very little from 1957
+to 1978. It dropped substantially from 1978 to
+1985 and became stable after 1986. 3 As a component of total fine grain consumption, rice changed
+
+2
+
+Fine grain includes rice and wheat.
+Coarse grains include corn, sorghum, millet, sweet potatoes, oats soybeans and other miscellaneous beans.
+3
+
+very little from 1982 to 1990, while wheat increased by more than 20 kg per person during the
+same period. Per capita meat consumption almost doubled over the period from 1978 to 1990.
+Vegetable consumption changed very little, although it fluctuated across years. Alcohol and
+tobacco consumption has increased sharply. Alcohol increased fourfold from 1978 to 1990, while
+tobacco increased by 80% from 1981 to 1990.
+In terms of food expenditure shares, rice has
+declined while wheat increased slightly (Table 3).
+Coarse grain has declined substantially due to the
+
+S. Fan et al. 1Agricultural Economics 11 (1994) 61-69
+
+64
+
+Table 2
+Annual per capita food consumption in rural China
+Year
+
+Total grain
+(kg)
+
+Fine grain
+(kg)
+
+1957
+1963
+1964
+1965
+1977
+1978
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+
+227.00
+207.95
+212.68
+226.50
+234.71
+248.00
+257.00
+256.00
+260.00
+260.00
+266.50
+257.00
+259.00
+259.00
+260.00
+262.00
+262.00
+
+110.06
+94.35
+106.01
+113.00
+113.40
+122.50
+163.00
+172.50
+192.00
+196.50
+209.00
+209.00
+212.00
+211.00
+211.00
+213.00
+215.00
+
+Rice
+(kg)
+
+132.82
+130.19
+135.30
+135.67
+135.80
+135.00
+134.19
+134.84
+134.99
+
+Wheat
+(kg)
+
+Coarse grain
+(kg)
+
+Meat
+(kg)
+
+Vegetable
+(kg)
+
+Alcohol
+(kg)
+
+Tobacco
+(packs)
+
+59.02
+66.07
+73.75
+73.16
+76.43
+76.47
+76.51
+78.61
+80.03
+
+116.94
+113.60
+106.67
+113.50
+121.31
+125.50
+94.00
+83.50
+68.00
+63.50
+57.50
+48.00
+47.00
+48.00
+49.00
+49.00
+47.00
+
+5.76
+7.75
+8.71
+9.06
+9.97
+10.62
+10.97
+11.79
+11.65
+10.71
+11.00
+11.34
+
+141.50
+127.00
+124.00
+132.04
+130.95
+140.03
+131.13
+133.65
+130.42
+130.08
+133.38
+134.00
+
+1.22
+1.89
+2.32
+2.73
+3.20
+3.48
+4.37
+4.96
+5.48
+5.93
+5.95
+6.14
+
+15.43
+18.87
+19.89
+21.70
+23.72
+25.99
+26.42
+26.43
+27.38
+27.98
+
+Source: China's Statistical Yearbook (various issues), China's Agricultural Yearbook (various issues), and State Statistical Bureau
+(1982-1992).
+Notes: Rice is measured in paddy-rice terms. To convert these data to the more standard milled rice equivalent would require
+multiplying by the milling rate conversion factor of 0.7.
+
+fast growth of per capita income, implying that
+farmers have reduced consumption of corn,
+sorghum and sweet potatoes. Alcohol and tobacco expenditures have increased only slightly
+although quantity consumed increased significantly, since their prices have changed very little
+compared to other commodities. Other food expenditures including tea, sugar, fruit and fish
+have increased substantially.
+
+2. Dynamic AIDS model
+
+As mentioned, as a result of substantial increase in per capita income in rural China, the
+consumption patterns have changed dramatically
+for some food products in the last decade. The
+theoretical model to be employed for this study
+has to take into account these changes. Thus, the
+model has to be able to capture the dynamic
+
+Table 3
+Rural household food consumption structure, 1982-1990
+Year
+
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+
+Rice
+
+Wheat
+
+Coarse
+grain
+
+Meat
+
+Vegetable
+
+Alcohol
+
+Tobacco
+
+Other
+
+(%)
+
+(%)
+
+(%)
+
+(%)
+
+(%)
+
+(%)
+
+(%)
+
+(%)
+
+35.99
+33.71
+30.67
+27.93
+28.07
+28.84
+29.42
+33.13
+30.77
+
+15.94
+16.71
+17.69
+16.05
+15.97
+15.56
+15.21
+16.68
+16.90
+
+17.15
+15.32
+12.72
+10.10
+9.80
+9.72
+9.25
+9.71
+9.81
+
+8.84
+9.83
+11.03
+13.17
+13.73
+13.94
+14.56
+13.22
+13.83
+
+9.02
+9.72
+11.20
+13.37
+12.39
+12.61
+13.28
+10.55
+10.52
+
+3.12
+3.59
+3.93
+4.60
+5.10
+5.11
+4.90
+4.29
+4.74
+
+3.32
+3.61
+4.06
+5.18
+5.19
+4.66
+4.13
+3.59
+3.80
+
+6.62
+7.50
+8.68
+9.60
+9.75
+9.56
+9.25
+8.83
+9.63
+
+Source: Compiled by the authors using price and consumption data.
+Note: Other includes tea, sugar, fruit, fish, cake, candy, and bean by-products.
+
+S. Fan eta/. I Agricultural Economics 11 (1994) 61-69
+
+nature of the consumption parameters for Chinese rural households. In other words, the model
+should have the ability to reflect the changes in
+consumption patterns of the rural population.
+However, due to data limitations and the aggregate nature of the data set, we cannot use formal
+or conventional dynamic demand models. Therefore, the model should not only consider the
+dynamic nature of the consumption patterns, but
+also take into account the data limitations.
+The advantages of the AIDS model have been
+discussed by Deaton and Muellbauer (1980) and
+Alston et al. (1990) among others. The dynamic
+AIDS cost function has the following form:
+ln C[t, u(t), p(t)] = ln a[t, p(t)]
++u(t)b[t,p(t)]
+(1)
+where
+ln a [ t, p( t)]
+
+Now, we formulate the habit behavior of consumers over time. Considering the data availability (only 9 years data), we consider the following
+simplified habit formation:
+
+a;(t) =a?+ (;t
+'Yij( t) = 'Y;~ + ()ijt
+
+i~l
+
+I
+
+I
+
++~I: L'Yij(t)lnp;(t)lnpi(t)
+
+(2)
+
+I
+
+and
+
++[13?+p;t](Inx(t)-lna[t,p(t)])
+
+(6)
+
+Following Green and Alston (1990), the dynamic uncompensated price elasticities can be
+calculated as:
+
+W;
+
+b[t, p(t)] = 13oUP;(t) 13 ;<c>
+
+W;
+
+With adding up, homogeneity and symmetry:
+I
+
+I
+
+and
+
+Lf3;(t)=O
+i~l
+
+i~l
+
+I
+
+I: "'ij( t) = I: 'Y;j( t) = 0
+j~l
+
+'Yij( t) = 'Yi;( t)
+where the indices i and j indicate goods; u(t)
+and p(t) = [p 1(t), ... , p1 (t)] denote the utility
+level at time t and the vector of prices at time t,
+respectively. The demand functions corresponding to (1) are:
+and
+
+t
+
+W;
+
+t
+
+/3;( t)
+- - (-) L'Yki(t) In Pk(t)
+
+(3)
+
+i~O
+
+I;a;(t)=1
+
+In pit
+
+j~l
+
+I
+
+i~l
+
+I: [rB + ()ijt]
+
+wit= a? +(;I +
+
+"'ij(t)
+/3;(t) a/t)
+E;i( t) = 8ij + - (-) ( )
+
+i~lj~l
+
+I
+
+(5)
+
+/3;(t) = 13? + P;f
+where t is time trend and t = 1, 2, ... , T.
+In this formation, the parameters in the demand functions change over time with the assumption of continuous change in consumers'
+tastes and preferences. Therefore, the demand
+function can be written as:
+
+I
+
+= a 0 ( t) + La;( t) ln P;( t)
+
+65
+
+t
+
+(7)
+
+where 8;i = - 1 if i = j, and 8;i = 0 otherwise;
+and expenditure elasticity as:
+
+/3;( t)
+s;(t) = 1 + -(-)
+W;
+
+t
+
+(8)
+
+Under the habit formation of (5), they can be
+calculated as:
+
+[ 13? + p;f] [ aJ + (;t]
+W;(t)
+
+I
+
+w;(t) =a;(t) +
+
+I: 'Y;/t) ln P/t)
+j~l
+
++13;(t){lnx(t)-lna[t,p(t)]}
+(4)
+where w;(t) and x(t) denote the budget share of
+good i and total expenditure, respectively.
+
+(9)
+and
+
+e;(t)=1+
+
+13? + p;f
+()
+W;
+
+t
+
+(10)
+
+66
+
+S. Fan et al. I Agricultural Economics 11 (1994) 61-69
+
+3. Data sources and explanations
+
+This study makes use of the greater availability
+of suitable data since the earlier studies were
+published. The income, expenditure and consumption data used in this study are from sample
+surveys conducted by the General Organization
+for Rural Household Survey of the State Statistical Bureau. The survey started in 1955, was suspended during the Cultural Revolution, and was
+resumed in 1978. China began to publish provincial aggregate data from the surveys in 1982.
+Households are selected using a three-stage stratified and systemic sampling method. Counties are
+selected from each province, sub-village groups
+(production teams) are selected from counties,
+and households are selected from sub-village
+groups. 4 All households are ranked using a major
+indicator, such as income in the previous year.
+Using cumulative population figures and the desired sample size, the sample interval can be
+determined, and units falling in the midpoints of
+each interval are selected for inclusion in the
+survey (Taylor and Hardee, 1986; Tuan and
+Crook, 1983; Lewis and Andrews, 1989). Chinese
+officials recognize that this procedure is not
+strictly in accordance with the principles of random sampling but claim that the impact is not
+significant (Lewis and Andrews, 1989). The number of rural households surveyed has increased
+each year since 1978, and in 1990 the sample
+included 66 960 households.
+Pooled time-series and cross-section data for
+rural China were used in this study. The analysis
+covers the period from 1982 to 1990. Ideally, the
+analysis should cover some years before 1978, but
+this may not be a serious problem to analyze
+changes in consumption behavior since most rural
+price and marketing reforms were undertaken
+after 1982. Even the production responsibility
+
+4 The administrative system in rural China before the reform was state, province, county, commune, production
+brigade, and production team. After the reform, the subcounty level has been changed to township (commune), village
+(production brigade), and sub-village group (production team).
+
+system was not fully implemented by 1983, 5 and
+the effects of the system were not fully released
+until 1984. 6 Twenty-eight provinces (autonomous
+regions or municipalities) were included in the
+analysis. Tibet and Hainan are excluded due to
+data unavailability. Consumption data were available from the survey for individual food items
+including rice, wheat, coarse grain, meat (including pork, beef and mutton), vegetables, fruit, tea,
+sugar, alcohol, fish, cooking oil and tobacco. Price
+data for these food items were taken from various
+issues of China's Commodity Price Statistical
+Yearbooks (China State Statistical Bureau, 19861991) and China's Price Yearbooks (China Ministry of Commerce, 1987-1991). These data were
+collected from rural markets and trade posts in
+various provinces. The expenditure data on these
+items were derived from consumption and price
+data.
+
+4. Estimation and empirical results
+
+First, we estimate equation (4), using iterative
+SUR techniques with symmetry and homogeneity
+restrictions applied. Then, we test whether the
+price and expenditure elasticities have changed
+over time. The test of whether or not price and
+expenditure elasticities have changed is equivalent to the test of whether the parameters of time
+trend in habit formation (5) are equal to zero
+(i.e., [; = 0, eij = 0, and P; = 0). The WALD
+statistics are employed in the test. The test results are presented in Table 4. We reject the
+hypothesis that the constant term and price parameters have changed over time except for tobacco. However, we cannot reject the hypothesis
+that expenditure elasticities have changed. There-
+
+5 The percentages of production teams that adopted the
+household responsibility system are 14% in 1980, 45% in
+1981, 80% in 1982, 98% in 1983, respectively (Lin, 1992).
+6 According to Fan's estimation, the production efficiency
+effects of the reforms were released through a period of time
+(0.753 in 1980, 0.768 in 1981, 0.788 in 1982, 0.791 in 1983,
+0.83.1 in 1984, and 0.843 in 1985). Only after 1984 and 1985
+did the efficiency start to improve greatly.
+
+67
+
+S. Fan et a!./ Agricultural Economics 11 (1994) 61-69
+Table 4
+Tests on restrictions on dynamic specifications
+Parameters
+
+x2 (9)
+
+Constant
+Price parameters
+Rice
+Wheat
+Coarse grain
+Meat
+Vegetable
+Alcohol
+Tobacco
+Expenditure parameter
+
+13.26
+7.56
+8.23
+4.22
+9.86
+6.78
+6.99
+18.71 *
+22.65 *
+
+Note: The critical value of x 2 distribution for p = 0.05 is
+16.92 (d.f. = 9). The symbol * indicates that we can not reject,
+at the 5% level, the hypothesis that demand parameters have
+changed over the time.
+
+fore, we re-estimate the equations in which the
+price parameters do not change while expenditure parameters change.
+The estimated food demand parameters are
+presented in Table 5. Most of the estimates for
+price coefficients are significant at the 5% level
+except for some cross price parameters. Expenditure parameters are significant while three of
+four of the time trend parameters of expenditures
+are significant at the 5% level. The estimated
+price and expenditure elasticities are presented
+in Table 6. The price elasticities for grains including rice, wheat and coarse grains are similar,
+ranging from -0.455 for wheat to -0.547 for
+rice. The price elasticity for meat is higher than
+for both grains and vegetables. Alcohol has the
+
+highest price elasticity. Tobacco has a positive
+price elasticity which indicates that Chinese farmers increase tobacco consumption even when tobacco prices rise. In fact, per capita consumption
+of tobacco in rural China has risen dramatically
+even though tobacco prices have increased
+slightly. Most of the cross price elasticities have
+positive signs which mean that they are substitutes. However, both tobacco and alcohol have
+three negative signs of cross price elasticities.
+Expenditure elasticities of demand for grains are
+inelastic which indicate that grains are necessary
+goods. The expenditure elasticities for rice and
+coarse grains are declining, while the wheat expenditure elasticity is increasing. The demand for
+meat and vegetables is elastic in total food expenditure, and this demand is increasing over time.
+Thus, meat and vegetables are considered luxury
+goods. The demands for tobacco and alcohol are
+elastic with respect to food expenditures, which
+implies that Chinese farmers will spend more on
+these items as their incomes rise.
+These estimates can be compared with those
+of other studies. Since very few studies (except
+Lewis and Andrew, 1989) have reported expenditure and price elasticities for Chinese rural
+households, we only compare our estimates with
+Lewis and Andrews. All of our estimates of both
+expenditure and price elasticities are higher than
+theirs (the expenditure elasticities of grain, pork,
+poultry and fish are 0.22, 1.02, 1.95 and 3.56,
+respectively, and the price elasticities of those
+commodities are -0.14, -0.23, -0.09 and
+
+Table 5
+Estimated parameters for broad group commodities
+Share
+
+Constant
+
+Food
+
+Clothing
+
+Housing
+
+Fuel
+
+Expenditure
+
+Expenditure
+
+Food
+
+0.537
+
+Clothing
+
+0.096
+
+Housing
+
+0.119
+
+Fuel
+
+0.041
+
+0.269
+(0.782)
+-0.075
+( -0.938)
+-0.868
+(- 6.098)
+0.409
+(6.804)
+
+0.251
+(2.047)
+0.009
+(0.316)
+0.031
+(0.61)
+-0.118
+(- 5.428)
+
+-0.002
+( -0.023)
+0.070
+(4.098)
+0.088
+(2.904)
+0.022
+(1.694)
+
+-0.084
+( -1.946)
+0.009
+(0.928)
+0.071
+(3.978)
+-0.012
+( -1.591)
+
+-0.083
+(- 1.391)
+-0.047
+(- 3.363)
+-0.018
+(- 0.75)
+0.038
+(3.643)
+
+-0.117
+(- 2.787)
+0.015
+(1.482)
+0.229
+(13.149)
+-0.009
+(- 5.596)
+
+-0.002
+(- 0.361)
+-0.004
+(- 2.712)
+-0.015
+(- 5.561)
+-0.002
+(4.529)
+
+Note: Numbers in parentheses are t test values.
+
+*t
+
+S. Fan et al. /Agricultural Economics 11 (1994) 61-69
+
+68
+
+Table 6
+Estimated price and expenditure elasticities for major food items
+Price elasticity
+Rice
+Wheat
+Meat
+Coarse Grain
+Vegetable
+Tobacco
+Alcohol
+Expenditure elasticity
+1982
+1990
+
+Rice
+
+Wheat
+
+Meat
+
+Coarse grain
+
+Vegetable
+
+Tobacco
+
+Alcohol
+
+-0.547
+0.155
+0.113
+0.334
+0.034
+-0.413
+-0.584
+
+0.135
+-0.455
+0.098
+0.221
+0.133
+0.089
+0.074
+
+0.102
+0.110
+-0.604
+0.065
+0.079
+0.131
+-0.023
+
+0.545
+0.443
+0.120
+-0.458
+0.110
+-0.183
+0.124
+
+0.060
+0.272
+0.089
+0.141
+-0.472
+-0.231
+-0.320
+
+-0.027
+0.089
+0.001
+-0.175
+-0.190
+0.223
+0.341
+
+-0.186
+0.141
+-0.040
+0.841
+-0.378
+0.132
+-0.796
+
+0.380
+0.313
+
+0.260
+0.589
+
+1.592
+1.783
+
+0.250
+0.026
+
+0.994
+1.199
+
+1.889
+1.733
+
+3.617
+3.391
+
+- 0.69, respectively). This may be partly explained by the fact that this study covers a much
+longer period, and that prices and marketing
+mechanisms have improved recently. Farmers may
+have become more responsive to the price
+changes. The Lewis and Andrews' study only
+covered the period from 1982 to 1985.
+
+5. Conclusions
+
+This study shows that rural reforms in China
+have had a significant impact on the food consumption patterns of Chinese rural households.
+Per capita consumption of grains increased in the
+early-reform period but has stabilized recently.
+Rice consumption has been stagnant, while wheat
+consumption continues to increase. Coarse grain
+consumption has declined almost by half since
+1982. Meat consumption increased sharply during
+the beginning of the reform, but the growth has
+slowed down recently. Vegetable consumption is
+stagnant, while alcohol and tobacco consumption
+has increased substantially. In terms of the cost
+structure in food consumption, Chinese farmers
+have reduced their expenditures on grain consumption while they have increased their expenditure shares on meat, vegetables, alcohol, tobacco and other food items.
+The rural reforms have affected consumption
+behavior through both price and income changes.
+
+We empirically tested whether the price and expenditure elasticities have changed over this reforming period. Our results showed that price
+elasticities have not changed while expenditure
+elasticities have changed.
+These results may have important policy implications for China as well as agricultural and trade
+policies of other countries. The expenditure elasticities for all food items are positive, implying
+that Chinese rural households will continue to
+increase their consumption on all these food items
+as their incomes rise. The expenditure elasticities
+for rice and coarse grains are declining, and that
+for coarse grains dropped to almost zero. The
+expenditure elasticities for meat, vegetables, tobacco and alcohol are all elastic and increasing
+over time. The demand for these luxury food
+items will accelerate as incomes rise. Therefore,
+China will likely face increasing pressure to import food in the future as its economy expands
+and per capita incomes rise.
+The decline of rice expenditure elasticity and
+increase of wheat expenditure elasticity imply that
+China will continue to export rice and import
+wheat. The high expenditure elasticity for meat
+and low demand for direct coarse grain consumption means that China may reduce its direct coarse
+grain consumption and increase the use of coarse
+grains as animal feed. Due to the limited land
+resources, China may import substantial amounts
+of feed grains from the international market and
+
+S. Fan et a/. /Agricultural Economics 11 (1994) 61-69
+
+use its relatively cheap labor force to develop its
+livestock industry.
+
+Acknowledgements
+
+The authors thank the State Statistical Bureau
+of China and Mr. Tian W eiming for providing
+part of the data for this study. Vernon Ruttan,
+Philip Pardey, Gao Xiaoming, Shui Shangnan
+and Ken Young provided valuable comments on
+the draft version of the paper, for which the
+authors are also grateful.
+
+References
+Alston, J., C. Carter, R. Green and D. Pick, 1990. Whither
+Armington trade models? Am. J. Agric. Econ., 72: 455467.
+Deaton, AS. and J. Mue!lbauer, 1980. An Almost Ideal
+Demand System. Am. Econ. Rev., 70: 321-326.
+China Agricultural Yearbook Editing Committee, 1980-1990.
+China's Agricultural Yearbook. Agricultural Press, Beijing
+(in Chinese).
+China Ministry of Commerce, China's Price Yearbook, 19871991. China's Commerce Press, Beijing (in Chinese).
+China State Statistical Bureau, 1982-1992. China's Statistical
+Yearbook. China Statistical Press, Beijing (in Chinese).
+China State Statistical Bureau, 1985-1992. China's Rural
+
+69
+
+Statistical Yearbook. China Statistical Press, Beijing (in
+Chinese).
+China State Statistical Bureau, 1986-1991. China's Commodity Price Statistical Yearbook. China Statistical Press, Beijing (in Chinese)
+Fan, S., 1991. Effects of institutional reform and technological
+change on production growth in Chinese agriculture. Am.
+J. Agric. Econ., 73: 266-275.
+Green, R. and J.M. Alston, 1990. Elasticities in AIDS models.
+Am. J. Agric. Econ., 72: 442-445.
+Huang, J. and C.C. David, 1993. Demand for cereal grains in
+Asia: the effect of urbanization. Agric. Econ., 8: 107-124.
+Lewis, P. and N. Andrews, 1989. Household demand in China.
+Appl. Econ., 21: 793-807.
+Li Xuezeng, Yang Shengming and He Juhuang, 1985. Structure of China's domestic consumption analyses and preliminary forecasts. World Bank Staff Working Paper 755.
+Lin, J.Y., 1988. The household responsibility system in China's
+economic reform: a theoretical and empirical study. Econ.
+Dev. Cult., 36: 199-224.
+Lin, J.Y., 1992. Rural reforms and agricultural growth in
+China. Am. Econ. Rev., 82: 134-151.
+Sicular, T., 1988. Plan and market in China's agricultural
+commerce. J. Polit. Econ., 116: 671-705.
+Taylor J.R. and K.A. Hardee, 1986. Consumer Demand in
+China: A Statistical Factbook. Westview, Boulder, CO.
+Tuan, F.C. and F.W. Crook, 1983. Planning and statistical
+systems in China's agriculture. Foreign Agricultural Economic Report 181, USDA Economic Research Service,
+Washington, DC.
+Van der Gaag, J., 1984. Private household consumption in
+China: a study of people's livelihood. World Bank Staff
+Working Paper 701.
+
+

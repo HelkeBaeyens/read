@@ -1,0 +1,1288 @@
+AGRICULTURAL
+ECONOMICS
+
+ELSEVIER
+
+Agricultural Economics 25 (2001) 347-357
+www.elsevier. com/locate/agecon
+
+The impact of food scares on price adjustment
+in the UK beef market
+TimLloyda·*, S. McCorristonb, C.W. Morgana, A.J. Raynera
+a
+
+School of Economics, University of Nottingham, Nottingham NG7 2RD, UK
+b School of Management and Business, University of Exeter. Exeter, UK
+
+Abstract
+This paper considers the impact of 'food scares', predominately concerns relating to BSE, on UK beef prices at retail,
+wholesale and producer levels over the 1990s. Acknowledging the co-movement that exists between prices in the meat
+marketing chain, we use a co-integrating framework, the results of which show the importance of publicity regarding the
+safety of food in the transmission of beef prices in the UK. The 'food publicity' index that we use has a marked negative
+impact on the prices at all levels, a result that is consistent with the effect of an inward shift in the demand function. Moreover,
+the extent of price decline varies between the marketing stages entailing that the price spreads rise in response to an increase
+in the (negative) publicity about food safety. While not a formal test of market power, these observations are consistent with
+recent theoretical results demonstrating that market power exacerbates price changes in the upstream sectors for a given change
+in the retail demand function. The implication of these varying price changes is that the food safety concerns also cause the
+marketing margins between the stages to widen. The UK's Competition Commission has recently investigated the abuse of
+market power in the food sector, inspired largely by this specific issue.© 2001 Elsevier Science B.V. All rights reserved.
+JEL classification: C32; 110; Qll
+Keywords: Food scares; Food publicity index; Beef prices; BSE; Price adjustment
+
+1. Introduction
+
+In recent years, issues relating to food safety have
+risen to the top of the political agenda in many countries, particularly in Europe and North America. Much
+of this agenda has related to the increased awareness
+over health, changing dietary patterns and the differences in standards between the countries that lie at the
+heart of trade disputes. However, perhaps the most notable feature of the increased public reaction to food
+safety is the issue of 'food scares'. This is particularly
+*Corresponding author. Tel.: +44-115-951-5474;
+fax: +44-115-951-4159.
+E-mail address: tim.lloyd@nottingham.ac.uk (T. Lloyd).
+
+the case in Europe, and is exemplified by the outbreak
+of BSE in the UK, which according to estimates (DTZ
+Pieda Consulting, 1998) saw beef consumption fall
+temporarily by 40%, not only in the UK itself, but also
+in countries such as Germany and Italy which had no
+reported cases of BSE (at the time).
+To some extent, the academic literature has responded by paying greater attention to food safety
+concerns. This has essentially focused on two themes.
+The first has been to re-visit food demand studies taking into account health-driven changes in dietary patterns. Examples include Brown and Schrader (1990),
+Burton and Young (1996), Kinnucan et al. (1997) and
+Rickertsen and von Cramon-Taubadel (2000) among
+others. The other main theme in the food safety
+
+0169-5150/011$- see front matter© 2001 Elsevier Science B.V. All rights reserved.
+PII: SO 169-5150(0 I )00091-3
+
+348
+
+T. Lloyd et al./Agricultural Economics 25 (2001) 347-357
+
+literature has been to focus on the appropriate regulatory structure for dealing with food safety concerns
+(see, for example, the symposia published in the American Journal of Agricultural Economics, December
+1997). However, to the best of our knowledge, the literature has not addressed the impact of food scares on
+the prices at different stages of the marketing chain.
+This is the focus of the present paper which studies
+the nature of price adjustment in the UK beef market
+in response to the outbreak, increased awareness and
+likely effects of BSE. An important feature of the paper is that we consider price adjustment at three stages
+(retail, wholesale and producer) of the beef marketing chain. By doing so, we highlight not only the
+impact of price adjustment but also the effect of food
+scares on price spreads. Our data show that prices
+have fallen at all levels in the 1990s but that spreads
+have not remained constant. Specifically, whereas
+retail prices have fallen by 18%, wholesale and producer prices have fallen by around 40% each. During
+this period all spreads have been observed to grow,
+but the retail-wholesale spread has grown five times
+more than the wholesale-producer spread. While this
+price decline is unsurprising in the face of heightened
+consumer awareness, the change in spreads is perhaps
+less obvious. However, as McCorriston et al. (1998)
+show, this result is consistent with the outcome of
+the model of vertical markets in which a shock to
+retail demand passes through a chain characterised
+by a price transmission elasticity that is greater than
+unity. The value of the elasticity depends on a host of
+factors, one of which is the degree of market power.
+In this paper, we present casual observations of
+the data before exploring econometrically the relationships between prices along the UK's meat chain,
+which are shown to be dependent on the publicity
+given to issues of food safety. To incorporate this empirically, we employ a newly developed measure, the
+'food publicity' index.
+The nature and timing of this research is apt. There
+has been debate in the UK relating to the (casual)
+observation that price changes at the retail stage were
+smaller than those occurring at the farm level. This
+was a principal motivation for the recent Competition
+Commission inquiry, which among the other things
+investigated the market power in the UK food sector
+with a particular emphasis on the vertical relationships. While we present no formal model of the market
+
+structure in this paper, McCorriston et al. (1998, 1999)
+have shown that when the markets are imperfectly
+competitive, price adjustment will vary between the
+sectors.
+Both demand and supply effects are likely to have
+influenced the pattern of price changes in the beef sector over the 1990s. Most obviously, the BSE crisis is
+likely to have caused shifts in the retail demand function for beef, which will have had an impact on the
+upstream prices. However, the cost side effects may
+also be pertinent given new meat sector regulations.
+These have been introduced to reassure consumers of
+the safety of British beef in the aftermath of the crisis and are likely to have increased costs. For example, higher charges for the Meat Hygiene Service and
+Specified Risk Material (SRM) disposal, reduced subsidies for rendering and increased transactions costs
+are widely held to have arisen from the BSE crisis
+(Meat and Livestock Commission, 1999). Costs have
+also increased due to the greater use of Controlled Atmosphere Packaging (CAP). However, in the absence
+of reliable estimates the impact of these changes is difficult to verify, not least because partial compensation
+was received by many of those affected. 1 Clearly, in
+considering the impact of food scares on the UK beef
+sector, there are likely to be both demand and supply
+factors determining prices at each vertical stage. However, as discussed in the following section, it should
+not necessarily be expected that these exogenous factors should have a symmetric impact on prices (and
+hence price spreads) throughout the marketing chain.
+More specifically, while the rising costs due to tighter
+regulatory standards will lead to a decrease in price
+spreads, the shift of the retail demand function will
+lead to an increase in price spreads. Moreover, even if
+the shift factors are equi-proportionate, these effects
+will not cancel out, with the retail demand shifts dominating the impact of the regulatory standards.
+The paper is organised as follows. In Section 2,
+we briefly survey both the theoretical and empirical
+literature relating to price adjustment in the vertically
+related markets. This suggests that even though the
+prices change in the same direction, the extent of the
+price changes vary according to the retail stage and
+hence marketing margins will change. In the case
+1 For example, the Over 30-Month Scheme of compensation
+received by abattoirs (DTZ Pieda Consulting, 1998).
+
+T. Lloyd et al. I Agricultural Economics 25 (2001) 347-357
+
+studied here, marketing margins are expected to increase even if the marketing costs and the retail
+demand curve shift to the same extent. This notwithstanding, the nature of the data relating to food scares
+would suggest that demand shifts are likely to dominate. Section 3 presents the data and in Section 4
+we discuss the framework for the empirical analysis.
+Acknowledging the co-movement of beef prices at all
+stages of the chain, we adopt a co-integration framework for the empirical analysis, the results of which
+are reported in Section 5. These show that beef prices
+do not co-integrate without the inclusion of a measure
+of food safety publicity - the food publicity index.
+The negative impact of the index differs according to
+the marketing level and may account for the growing
+price spreads observed empirically. Section 6 concludes by highlighting issues relating to the on-going
+research.
+
+2. Price adjustment: theoretical
+and empirical issues
+2.1. Theoretical issues
+In the agricultural economics literature, the most
+popular framework for considering the impact of exogenous shocks to the food sector is in the context
+of the equilibrium displacement models originating
+with Gardner (1975). The basis of this framework
+is to consider the impact of price adjustment (and
+corresponding welfare effects) at different stages of
+the marketing chain and how the farm-retail spread
+may change as a consequence. An important feature
+of the Gardner framework relates to the source of
+the exogenous shocks. In particular, a demand-side
+shock directly affecting, say, the retail sector, may
+have a different effect on retail and farm prices than
+a supply-side shock originating at the farm sector.
+However, one important criticism of the standard
+equilibrium displacement framework is that it assumes
+that the downstream food market is perfectly competitive. There is increasing evidence that this is not an
+appropriate characterisation of the food sector in many
+developed countries. For example, Bhuyan and Lopez
+(1997) measure market power across 40 sub-sectors
+of the US food industry and find that in all but three
+cases, the null hypothesis of competitive behaviour
+
+349
+
+can be rejected. Although studies of the food sector in
+other developed countries are generally lacking, high
+levels of concentration at least suggest that similar
+phenomena characterise the food sector in most European countries. Moreover, the recent investigation by
+the UK Competition Commission clearly reinforces
+the suspicion that market power is a feature of the food
+sector in the UK.
+What difference does this make to our understanding of price adjustment? A number of studies from
+the industrial organisation literature have shown that
+imperfect competition has a considerable impact on
+price adjustment. Specifically, under 'reasonable' conditions, for a supply shock, price transmission is reduced if the downstream sector is characterised by
+market power. Recently, McCorriston et al. (1998) introduce market power into the Gardner framework;
+they show that for an increase in costs at the farm
+level, market power in the downstream food sector will
+reduce the level of price adjustment compared with
+the competitive benchmark. The implication is that in
+the presence of a supply shock at the farm level, the
+model predicts a narrowing of price spreads. The same
+holds true for a shift in the marketing services supply
+function which captures the increase in costs due to
+tighter regulatory standards. Under imperfect competition, an increase in the input costs causes retail prices
+to rise but this increase is proportionately less than the
+increase in input costs. Consequently, price spreads
+should narrow where processing costs increase.
+However, this still leaves open the issue of the
+source of the exogenous shock. As highlighted above,
+distinguishing between a demand and cost shock matters. McCorriston et al. (1999) also consider this issue
+and label price adjustment due to a demand shock affecting the retail sector as a 'pass-back' effect. They
+show formally that for an inward shift in the demand
+function, market power in the downstream food sector
+will increase the magnitude of the price changes occurring upstream compared to the competitive benchmark. In other words, price changes at the farm level
+will be greater than those occurring at the retail level
+for a given shift in the retail demand function. The
+implication is that price spreads should widen following such a demand shock. Given that the meat sector
+was likely to be subject to both sources of exogenous
+change over the 1990s, the impact on prices at each
+vertical stage (and, by extension, the development of
+
+350
+
+T Lloyd et al. I Agricultural Economics 25 (2001) 347-357
+
+price spreads) will be the net outcome of both sources
+of exogenous shocks to the beef sector. Moreover,
+even if marketing costs and the demand curve shifted
+by equal amounts, the shift in the retail demand function should dominate the impact of the rise in the costs
+associated with tighter regulatory standards. Thus,
+unless the extent of marketing cost increases was
+significantly greater than the direct effect of the food
+scares (which is unlikely to be the case), a priori we
+should expect to observe a widening of price spreads
+over this period in the presence of market power.
+
+2.2. Empirical issues
+A growing number of studies focus on the empirical aspects of price adjustment in the agricultural and
+related markets. Owing to the apparent co-movement
+in prices, many of these recent studies apply a
+co-integration methodology since it, (a) accounts appropriately for the time-series properties of the data
+and, (b) measures the short-run and long-run nature
+of price adjustment. Examples of such studies include
+von Cramon-Taubadel (1998), Chang and Griffith
+(1998) and Goodwin and Holt (1999) among others.
+The latter two papers differ from the earlier literature
+in that they focus on multiple stages of the marketing
+chain by separately identifying price adjustment at
+the farm, wholesale and retail levels, a practice that is
+also followed in this paper. However, in most cases,
+these empirical studies confine the sources of price
+adjustment to be 'within' the food chain. Exogenous influences, apart from a time trend or a given
+structural break, are not accounted for.
+In summary, investigating the impact of food scares,
+it is important to recognise that this type of exogenous
+shock represents primarily a demand-side shift to the
+food sector. As a result, it is reasonable to expect price
+adjustment in the upstream stages of the marketing
+chain. However, the extent of these price changes will
+vary between the stages if the downstream sectors
+are characterised by imperfect competition. Although
+the analysis of price adjustment is not a formal test
+of market power, higher levels of price adjustment in
+the upstream stages are certainly consistent with it.
+If the extent of price changes between each marketing stage varies, this implies that the price spreads
+(or marketing margin) will also change. Where
+prices are non-stationary and potentially exhibit
+
+co-movement, a co-integration framework offers an
+appropriate methodology for considering the extent of
+price adjustment. The data and the role of food scares
+on the beef market are outlined in the next section.
+
+3. Data issues and 'food scares'
+We employ real beef prices at the producer, wholesaler and retailer level (P1 , W1 and R 1 , respectively)
+in England and Wales. The data have been calculated
+by the Meat and Livestock Commission and represent
+carcass weight equivalents (CWE) to facilitate direct
+comparison of prices at all the three stages. The data
+are monthly and cover the period from January 1990
+to December 1998 (see Figs. 1 and 2). 2 They are deflated by the Retail Price Index (January 1999 base)
+and clearly show a declining trend over the period.
+Retail prices fell by 60 pence/kg, wholesale prices by
+69 pence/kg and producer prices by 75 pence/kg over
+the period. Casual inspection of Fig. 1 also reveals that
+prices have a tendency to co-move, in that price movements at one level of the chain seem to be reflected in
+prices elsewhere in the chain.
+These price series are supplemented by a 'food
+publicity index', which is a count of the number of articles printed in broad-sheet newspapers on a monthly
+basis that relate to the safety of meat. In general,
+these reports are negative in nature and reflect the
+concerns regarding the safety of meat, in terms of its
+production and processing. Articles relating to BSE
+dominate the index although other similar topics such
+as health standards in abattoirs are also covered. The
+index reflects consumer concerns regarding the safety
+aspects of meat consumption and also the impact of
+regulation on the suppliers of meat. Consequently, the
+index will be correlated with the developments that
+affect both the demand and supply of beef, though it
+is likely to be the food scares issue that dominates
+given the public furore over BSE. In the empirical
+analysis, the natural log of this index (denoted it) is
+used. A plot of the series is shown in Fig. 3. Augmented Dickey-Fuller tests indicate that each price
+series and i1 are integrated of order 1 [/(1)], as visual
+inspection of Figs. 1 and 3 suggests.
+2 For
+
+details on data construction see MAFF (1999).
+
+Ul
+
+0
+0
+
+0
+
+-
+
+Ul
+
+0
+
+pence/kg
+tv
+
+tv
+
+0
+0
+
+Ul
+
+0
+
+January-90
+May-90
+September-90
+January-91
+~
+
+May-911
+September-91
+
+C1>
+......
+
+-
+
+I e:.
+
+January-92
+May-92
+
+~
+
+September-92
+
+s::
+0
+
+January-93
+
+~
+
+May-93
+
+~
+
+September-93
+
+.....
+
+=
+
+c
+
+~
+
+~
+
+~
+
+0
+
+C1>
+
+<Jl
+
+l>l
+
+<D
+
+cr"
+0
+0
+
+,...,
+>o
+::J.
+(")
+0
+
+Jl'
+
+January-94
+May-94
+
+.....
+'0
+
+September-94
+
+'P
+.....
+
+January-95
+
+8'
+0
+
+May-95
+
+'0
+
+'0
+'0
+00
+
+=
+~
+(")
+
+0
+
+September-95
+
+f
+
+...'1::1
+0
+
+p..
+
+s::
+(")
+
+...
+C1>
+
+January-96
+May-96
+September-96
+January-97
+May-97
+September-97
+January-98
+May-98
+September-98
+January-99
+
+I~£
+
+Ls;[-Lfr[ ( IOOZ:) s;z;
+
+S:JJUIOUO:JJ[
+
+JV1nJln:l]J8V
+
+nv Ja p<Con :L
+
+w
+0
+0
+
+'0"'"'
+
+Ul
+
+pence/kg
+~
+
+0
+
+0
+
+1\.)
+
+.j>.
+
+0
+
+0
+
+en
+
+CXl
+0
+
+0
+
+__.
+
+__.
+
+__.
+
+0
+0
+
+1\.)
+
+.j>.
+
+0
+
+0
+
+en
+0
+
+January-90
+July-90
+January-91
+
+1
+
+tl
+
+I
+
+July-91
+
+l
+
+LU.
+
+I~
+......
+
+f
+
+~
+
+:::..:
+
+January-92 -j
+
+~
+
+I~
+
+::r
+0
+
+31
+
+(!<I
+
+July-92
+
+s:::
+0
+:::0
+
+5'
+
+-<
+c
+:::-::
+
+cr
+
+('I)
+
+"'
+('I)
+I
+
+"d
+
+~
+
+0
+
+I
+
+:::0
+('I)
+......
+~
+
+:::..:
+I
+"d
+>-1
+0
+
+0..
+~
+
+>-1
+
+()
+('I)
+
+CD
+
+0..
+
+>-1
+
+"'
+
+()
+
+"d
+
+"d
+
+January-93
+
+-e.
+0
+
+CD
+
+"'
+
+!""
+
+~
+
+~
+::r
+
+>-1
+
+('I)
+~
+
+0..
+
+~
+
+('I)
+
+"'
+>-1
+
+>-1
+
+('I)
+
+"'
+
+0..
+
+"d
+
+~
+
+>-1
+
+('I)
+~
+
+July-93
+
+0..
+
+(1)
+(1)
+
+....,
+
+~-
+
+January-94
+
+(1)
+
+~
+...,
+
+.,0..
+(1)
+
+July-94
+
+J"
+
+I-'
+
+'Cl
+'Cl
+
+0
+I
+
+January-95
+
+I-'
+
+'Cl
+'Cl
+00
+
+<;;'
+
+July-95
+
+(1)
+
+:::0
+(")
+
+~
+
+January-96
+July-96
+January-97
+July-97
+January-98
+July-98
+January-99
+
+L~E-LfrE (
+
+woz)
+
+~z s:JJwouo:Ja JVAnJJn:J!.JfiV1 7v JiJ pt.on
+
+:L
+
+Z~£
+
+0
+0
+
+v,
+
+N
+
+~
+
+~
+
+v,
+
+N
+
+January-90
+May-90
+September-90
+January-91
+May-91
+September-91
+January-92
+May-92
+"r:l
+
+fq"
+
+,.,
+
+September-92
+
+>-l
+::r
+
+January-93
+
+"
+8'
+0
+0.
+
+>1:)
+
+May-93
+
+"~
+
+September-93
+
+-<
+
+January-94
+
+o.
+
+s·
+0.
+(D
+
+?'
+>-'
+
+>D
+>D
+0
+
+I
+
+>-'
+
+>D
+>D
+
+May-94
+September-94
+January-95
+
+00
+
+s·
+
+May-95
+
+0
+oo
+
+September-95
+
+~
+
+""
+
+:::1.
+
+so
+s
+
+.:;-
+
+January-96
+May-96
+September-96
+January-97
+May-97
+September-97
+January-98
+May-98
+September-98
+January-99
+
+E~E
+
+Ls;E-LfrE ( rooz) s;z s:J!uwuo:Jg fVJnJfl1.JfJ2v f"JV 1a ptCon :1
+
+V>
+
+w
+
+354
+
+T Lloyd et al.!Agricultural Economics 25 (2001) 347-357
+
+4. Methodology
+
+Table I
+Co-integration test results
+
+The formal analysis is conducted in a vector autoregressive (VAR) framework to exploit the properties
+of integration and co-integration that may exist in the
+data. VAR methods offer a tractable framework for the
+investigation of dynamic relations, particularly when
+the variables are co-integrated. Consider a VAR(k)
+model,
+
+Ho
+
+Xt
+
+=
+
+IT!Xt-1
+
++ · · · + ITkXt-k + e1
+et "'n.i.d.(O, I;)
+
+(1)
+
+where Xt is a (n x 1) vector of I(l) variables, each IT;
+(i = 1, ... , k) is an (n x n) matrix of coefficients to
+be estimated using a (t = 1, ... , T) sample of data
+and et is a (n x 1) vector of errors with a non-diagonal
+covariance matrix. The order (k) of the VAR is also
+determined by the data, and here we adopt the Schwarz
+Information Criterion (SIC) for this purpose.
+Co-integration is evaluated using methods developed by Johansen (1988). Following Stock and
+Watson (1988), it is well known that with n variables
+there can be at the most n - l co-integrating relations
+and n - r common trends in the system. Therefore,
+with a triplet of prices, there can be at the most two
+such co-integrating combinations, since if any two
+pairs of prices co-move (co-integrate) then so must the
+third. In this case, the prices share a single common
+trend and may be expected to co-move over time.
+Given the difficulties that can be encountered interpreting the coefficients of multiple co-integrating vectors (Ltitkepohl and Reimers, 1992) impulse response
+functions are commonly calculated to evaluate the time
+path of the variables in x 1 to exogenous shocks in such
+~ircu~stances. The simulated time paths are found by
+1mposmg a recursive structure on the moving average representation of the VAR and represent the time
+path of the variable i with respect to a unit shock to
+the variable j, s periods ago, all other variables at the
+time of the shock (and earlier) held constant. Since our
+principal interest is in the effect of health information
+on prices, orthogonalised impulses are adopted here
+given that in the current application changes in the
+food publicity index are likely to drive price changes
+and not vice versa. Given that prices at all stages of
+the marketing chain may respond in unison to such
+shocks, this orthogonalisation is advantageous since
+
+Maximal
+eigenvalue
+
+95%
+
+cv
+
+Trace
+
+95%
+
+(a) R,, W, and P1
+20.4
+r=O
+10.0
+r ~ I
+0.3
+r~2
+
+21.0
+14.1
+3.8
+
+30.7"
+10.3
+0.3
+
+29.7
+15.4
+3.8
+
+(b) R,, W,, P, and i,
+44.3b
+r=O
+37.0b
+r ~ 1
+22.3b
+r ~ 2
+1.4
+r ~ 3
+
+27.1
+21.0
+14.1
+3.8
+
+105.0b
+60.8b
+23.7b
+1.4
+
+47.2
+29.7
+15.4
+3.8
+
+cv
+
+Denotes rejection of Ho at the 5% significance level.
+Denotes rejection of Ho at the I o/o significance level. Critical
+values (CV) are those tabulated by Osterwald-Lenum (1992).
+a
+
+b
+
+it incorporates any contemporaneous correlation in e1
+arising from shocks to the food publicity index.
+
+5. Results
+As an initial step, Eq. (1) is estimated for the price
+triplet (Rt. W1 and P 1 ). An unrestricted VAR(l2)
+model, augmented by four impulse dummy variables 3
+gives a good approximation, such that residuals conform to the stated assumptions of e 1 in (1).
+Given that prices are /(1), the model is examined
+for the presence of co-integration implied by the
+co-movement of prices apparent in Fig. l. Panel (a)
+of Table 1 reports the co-integration test statistics for
+this model.
+Whilst there appears to be an indication of
+co-integration amongst the triplet, the formal evidence
+is at the best weak. Specifically, the trace test statistic
+rejects the null hypothesis of no co-integration at the
+5% significance, but the maximal eigenvalue test does
+not. In addition, the test statistics do not provide any
+substantive evidence of the multiple co-integrating relationships suggested by the pair-wise co-movement
+of the data. One literal interpretation of this result is
+that the beef markets are poorly integrated. Alternatively, the explanation might lie in the role of omitted
+variables, in particular, given the preceding discus3 Dummies are for 1993(3), 1995(9), 1996(3) and 1996(4). Whilst
+they have a negligible impact on parameter estimates, they are
+included to satisfy the normality assumption.
+
+2
+
+0
+-1
+
+/
+1
+
+-2
+
+-
+
+-Retail price
+
+""
+
+~
+
+-
+
+-
+
+21
+
+..............1 6
+
+~
+
+26
+
+31
+~
+
+-
+
+-3
+
+./
+
+{
+~
+
+,....
+
+!>
+
+-wholesale price
+
+0
+-1
+
+1
+
+11
+
+21
+
+26
+
+31
+
+;::
+
+""
+~
+~
+
+~
+~
+
+-2
+
+I
+
+-3
+
+~-
+
+-~
+
+-Producer price
+
+~
+
+-;::,
+
+:5
+
+0
+
+-2:
+
+-1
+
+';'I
+
+-2
+
+'I
+
+~
+~
+
+-3
+-4
+
+Fig. 4. Response of beef prices to a 1% shock in the food publicity index.
+
+w
+
+Ul
+Ul
+
+356
+
+T Lloyd et al./ Agricultural Economics 25 (2001) 347-357
+
+sion, the impact of BSE and related health concerns
+on price movements.
+Augmenting the price transmission model with (the
+natural logarithm of) the food publicity index it has a
+marked effect on inference. As the results in Panel (b)
+of Table 1 show, evidence in favour of co-integration is
+now much stronger: the trace and maximal eigenvalue
+test statistics now reject the null of no co-integration at
+the 1% significance level. Moreover, both tests suggest
+the presence of three co-integrating vectors, a result
+consistent with pair-wise co-movement (in combination with the food scares variable). 4 The clear conclusion of the co-integration analysis is that the food
+publicity index plays a key role in the long-run evolution of the UK beef prices and that once the effect
+of the index is taken into account, prices co-move in
+a manner consistent with market integration.
+The above result begs a number of questions, not
+least those relating to the precise role that the food
+publicity index plays in price formation. To investigate
+this issue, Fig. 4 shows the orthogonalised impulse
+response functions of the three beef prices to a unit
+( 1%) shock in the food publicity index. These indicate
+that the heightened publicity regarding food safety initially increases beef prices at all stages of the marketing chain, but that thereafter, they fall. The long-run
+effect is negative on all beef prices, with the estimates
+suggesting that retail, wholesale and producer prices
+fall by 1.70, 2.25 and 3.0 pence/kg, respectively. This
+corresponds to a food publicity elasticity of around
+1.4. 5
+As an adjunct to these results, forecast error decompositions may also be calculated. These estimate the
+proportion of the total variance of each of the prices
+that is due to an orthogonalised shock measured at specific intervals following this shock (Hamilton, 1994 ).
+The results suggest that the effects on prices stabilise
+some 30 months following a shock to the index which
+accounts for approximately 6, 11 and 61% of the variation in the retail, wholesale and producer prices, respectively.
+4 Using the finite sample correction to the asymptotic critical
+values suggested by Reimers (1992) does not change this conclusion, although the P-values of the test are conespondingly larger.
+Specifically, whilst the null of no cointegration cannot be rejected
+at the 10% level in panel (a), it is rejected in panel (b) at tbis level.
+5 At mean values, the food scares elasticities are 1.27, 1.60 and
+1.12, respectively.
+
+The results demonstrate two features: (1) That the
+UK beef prices were responsive to the public's awareness of food safety issues (principally BSE) in the
+1990s but (2) that the impact was not common across
+stages in the marketing chain. This second point suggests that price spreads also move systematically in response to publicity about the safety of food. Shocks to
+the food publicity index cause the wholesale-producer
+price spreads to expand more than the retail-wholesale
+price spreads. Moreover, the difference between retail and producer prices, the measure that receives
+most attention in the public debate on this issue, rises
+by an even larger amount in response to BSE publicity. Specifically, a 1% increase in the food publicity index induces a 0.5 pence/kg increase in the
+retail-wholesale spread, 0.75 pence/kg increase in the
+wholesale-producer spread and thus a 1.25 pence/kg
+increase in the retail-producer spread. Given that the
+media interest has generally risen over the sample period, price spreads are observed to rise over time.
+The observation that the food publicity index should
+lead to decline in prices at each marketing stage is, to
+a large degree, expected and consistent with the dominance of the demand relative to supply sources (i.e.
+due to increased regulation) of exogenous shocks in
+the beef sector over the 1990s. That this price decline
+should vary between stages is a little more surprising,
+particularly given the nature of the data which, being
+consistent with fixed proportions technology, might
+otherwise suggest that all the price declines be equal.
+The fact that these price declines vary between stages,
+leading to a widening of price spreads, is indicative of
+a food chain characterised by some degree of market
+power at wholesale and retail stages.
+
+6. Conclusions
+This paper has focussed on the impact of publicity, predominately concerns relating to BSE, on
+price transmission in the UK beef sector during the
+1990s. Acknowledging the co-movement that exists
+between prices in the meat marketing chain, we use a
+co-integrating framework, the results of which show
+the importance of information, as embodied in a
+food publicity index, in price transmission. Prices at
+all levels have tended to decrease during the 1990s,
+a result that is consistent with inward shifts of the
+
+T. Lloyd et a!./Agricultural Economics 25 (2001) 347-357
+
+demand function. Perhaps more interesting is that the
+extent of price adjustment varies between marketing
+stages. In particular, prices at the retail (wholesale)
+level decline but less so than prices at the wholesale
+(farm) level. While supply side shocks may also have
+been apparent in the UK beef sector over the 1990s
+due to increased regulation, the fact that widening
+margins are observed suggests the dominance of
+demand-side shifts in a market that does not correspond to a perfectly competitive model. Although
+the results presented in this paper do not constitute a
+formal test of market power, they lend support to the
+UK's Competition Commission investigation into the
+degree of market power in the food sector. A more
+formal test for market power in vertically integrated
+markets is the subject of our on-going research.
+
+Acknowledgements
+The authors acknowledge the financial assistance of
+the Ministry of Agriculture, Fisheries and Food of the
+United Kingdom. The views expressed are those of the
+authors and are not attributable to MAFF. We would
+also like to thank David Colman for useful comments
+on a previous version of this paper.
+
+References
+Bhuyan, S., Lopez, R.A., 1997. Oligopoly power in the food and
+tobacco industries. Am. J. Agric. Econ. 79, 1035-1043.
+Brown, D., Schrader, L., 1990. Cholesterol information and shell
+egg consumption. Am. J. Agric. Econ. 72, 548-555.
+Bm1on, M., Young, T., 1996. The impact of ESE on the demand
+for beef and other meats in Great Britain. Appl. Econ. 28,
+687-693.
+Chang, H., Griffith, G., 1998. Examining long-run relationships
+between Australian beef prices. Aus. J. Agric. Res. Econ. 42,
+369-387.
+
+357
+
+DTZ Pieda Consulting, 1998. Economic impact of ESE on the
+UK economy. A report commissioned by the UK Agricultural
+Departments and HM Treasury, HMSO, London.
+Gardner, B., 1975. The farm-retail spread in a competitive industry.
+Am. J. Agric. Econ. 57, 399-409.
+Goodwin, B., Holt, M., 1999. Price transmission and asymmetric
+adjustment in the US beef sector. Am. J. Agric. Econ. 81,
+630-637.
+Hamilton, J.D., 1994. Time Series Analysis, Princeton University
+Press, Princeton.
+Johansen, S., 1988. Statistical analysis of co-integration vectors.
+J. Econ. Dyn. Control 12 (2/3), 231-254.
+K.innucan, H.W., Xiao, H., Hsia, C.-H., Jackson, J.D., 1997. Effects
+of health information and generic advertising on US meat
+demand. Am. J. Agric. Econ. 79, 13-23.
+Li.itkepohl, H., Reimers, H.-E., 1992. Impulse response analysis
+of co integrated systems. J. Econ. Dyn. Control 16, 53-78.
+Meat and Livestock Commission, 1999. Retail Price Spreads and
+Indicative Retail Price Margins for Beef, Pork and Lamb, MLC
+mimeo, Milton Keynes.
+Ministry of Agriculture, Fisheries and Food, 1999. Report of an
+investigation into the relationship between producer, Wholesale
+and Retail Prices of Beef Lamb and Pork, MAFF, London.
+McCorriston, S., Morgan, C.W., Rayner, A.J., 1998. Processing
+technology, market power and price transmission. J. Agric.
+Econ. 49, 185-201.
+McCorriston, S., Morgan, C.W., Rayner, A.J., 1999. Market
+Structure, Demand Shifts and Pass-Back Elasticities.
+Mimeograph, School of Economics, University of Nottingham,
+Nottingham, UK.
+Osterwald-Lenum, M., 1992. A note with quantiles of the
+asymptotic distribution of the maximum likelihood co-integration rank test statistics. Oxford Bull. Econ. Statist. 54, 461-472.
+Reimers, H.-E., 1992. Comparisons of tests for multivariate
+cointegration, Statist. Papers, 33, 335-359.
+Rickertsen, K., von Cramon-Taubadel, S., 2000. Nutrition, health
+and the demand for food - a European perspective, In:
+Symposium Paper presented at the XXIV IAAE Conference,
+Berlin, Germany.
+Stock, J.M., Watson, M.W., 1988. Testing for common trends. J.
+Am. Statist. Assoc. 83, 1097-1107.
+von Cramon-Taubadel, S., 1998. Estimating asymmetric price
+transmission with the error-correcting representation: an
+application to the German pork market. Eur. Rev. Agric. Econ.
+25, 1-18.
+
+

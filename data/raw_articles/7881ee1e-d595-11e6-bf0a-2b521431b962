@@ -1,0 +1,1271 @@
+Economic Development and the Role of Agricultural Technology
+JEL Codes: O13, Q10, Q16
+Sharmistha Self
+Department of Economics
+Missouri State University
+Springfield, Missouri 65897
+E-mail: sself@missouristate.edu
+Richard Grabowski
+Department of Economics
+Southern Illinois University
+Carbondale, Illinois 62901
+E-mail: ricardo@siu.edu
+618-453-5082
+Abstract: In earlier debates on economic development, the agricultural sector’s role was
+somewhat controversial. While dualistic models highlighted the importance of
+agriculture, the mainstream literature placed a greater emphasis on the creation of a
+modern industrial sector. Soon agriculture disappeared from the mainstream development
+literature to re-emerge recently with a variety of multiple-sector growth models
+emphasizing the key role of agriculture and specifically technology in agriculture. This
+paper is an empirical cross-country analysis of agricultural technology’s role in economic
+development. Specifically, the hypothesis being tested is whether improvements in
+agricultural technology have a significant impact on long-run economic growth. The
+results indicate that agricultural modernization has a positive effect on both measures of
+economic growth and human development.
+Keywords: agriculture, technology, growth, well-being
+
+Economic Development and the Role of Agricultural Technology
+Introduction
+Initially development economics concentrated on questions concerning the
+industrialization process. The main questions had to do with how to modernize through
+overcoming the constraints of traditional society. The latter was often linked with
+agriculture and rural people, commonly called peasant agriculture. This sector was
+generally thought to act as a drag on the development process. Thus traditional and
+peasant farming were obstacles, systems which had to be reduced and eventually
+eliminated if modernization was to succeed.
+However, economic historians often saw agriculture as playing a critical role in
+the industrialization of England. Dualistic models also directly modeled traditional
+agriculture in the long-run growth process. In these models the conclusion often implied
+that the long-run growth process must be a balanced one with agricultural productivity a
+necessary condition for eventual industrial/manufacturing growth. In other words, if
+productivity in agriculture remained stagnant, the development of a modern
+manufacturing sector would be limited.
+Throughout much of the 1980s and 1990s much of the analysis of the
+role/contribution of agriculture was carried out by agricultural economists. Much of this
+work concentrated on technological innovation in agriculture, the institutional structure
+necessary to foster technical innovation, etc. However, in terms of long-run growth
+models, agriculture disappeared. This sector and its role were, for the most part, ignored
+in models of long-run growth emphasizing industrialization and manufacturing.
+
+1
+
+Recently, however, one finds a re-emergence of interest in agriculture. Papers by
+Gollin, et. al. (2002) and Olsson and Hibbs (2005) argue that agriculture and the
+productivity of agriculture is the key to understanding the timing of the shift from an
+agrarian based to an industrially based society. The importance of agricultural
+technology in reducing poverty is found in Lipton (1977), Kerr and Kolavalli (1999),
+Datt and Ravallion (1998), Ravallion and Datt (1999), Mellor (2001), and Thirtle et al.
+(2003) to name a few. In addition, some non-traditional roles have also been attributed to
+agriculture in the development process.
+Given the literature referred to above on the importance of agriculture and
+agricultural technology in the development process, the hypothesis in this paper
+concerning agriculture is that improvements in agricultural technology are a precondition to, and have a significant positive impact on, long-run growth. The implication
+of such a hypothesis would be that countries which did not have the necessary precondition, that is they did not improve agricultural technology, did not grow as fast as
+those that did. The paper is an empirical exercise in testing the above hypothesis.
+The paper is organized as follows. The first section will review the literature,
+both traditional and non-traditional, on agriculture’s role in the growth and development
+process. Section two will discuss the data utilized as well as the empirical methodology
+that is applied. Sections three and four will summarize the empirical results with respect
+to growth and various measures of agricultural technology. Section five will present the
+results related to human development. Finally, section six summarizes the paper and
+presents the important conclusions.
+
+2
+
+Review of the Literature
+Much of the early thinking on economic development ignored agriculture
+altogether. For example, Rosenstein-Rodan’s (1943) early work concentrated on
+manufacturing and industry. He argued that the piecemeal establishment of
+manufacturing in poor regions lacking infrastructure would not likely be successful.
+Instead, investment in industry and manufacturing had to be on a broad front such that
+various industries could create markets for each other’s products.
+There were a set of theories which, however, did see a role in the development
+process for agriculture. These were dualistic theories of development constructed by
+Lewis (1954), Fei and Ranis (1961), and Jorgenson (1961). These theories divided the
+less developed economy into the traditional and modern sector. The modern sector was
+driven by profit maximization and the accumulation of physical capital. The traditional
+sector was subsistence oriented and usually thought to be dominated by peasant
+agricultural production. This sector was characterized by output sharing mechanisms
+rather than profit maximization.
+In many of these models it was presumed that the traditional sector was
+characterized by surplus labor. That is, there was so much labor in this sector that it
+could be withdrawn and put to productive work in the modern sector without any fall in
+output in the traditional sector (marginal product of labor in the traditional sector is zero).
+In effect, “free growth” was possible through mobilization of labor for modern
+production. However, once surplus labor was exhausted, the expansion of the modern
+sector might very well be strangled. Continued withdrawal of labor would lead to falling
+output in the traditional sector leading to a rise in the relative price of the traditional
+
+3
+
+sector output relative to that in the modern sector. Johnston and Mellor (1961) built upon
+these ideas in their analysis of the role of agriculture in overall economic development.
+They argued that agriculture supplied the labor necessary to man the modern sector firms
+as well as the food necessary to feed that labor. In addition, the agricultural sector was
+seen as serving as a market for the produce of the modern sector, a stimulus from the
+demand side. Finally, perhaps most importantly, agriculture was likely to serve as the
+main source of savings necessary to finance the expansion of the modern sector.
+After these developments, agriculture disappeared from general models aimed at
+analyzing economic growth and development. Instead, much of the literature concerned
+with agriculture concentrated on analyzing productivity growth in the traditional,
+agricultural sector. Perhaps the most interesting and innovative work in this area has
+been undertaken by Hayami and Ruttan (1985) in developing a theory of induced
+technical and institutional innovation.
+Recently, multiple sector growth models have begun to be constructed with
+agricultural sectors. Matsuyama (1991) developed an endogenous, two sector growth
+model. In this model the engine of growth, the driving force, was learning by doing in
+the manufacturing sector. He compared and contrasted the implications of a closed and
+open economy model. In the closed economy case, an increase in agricultural
+productivity (as measured by total factor productivity) spurs overall economic growth
+since this eases the expansion of learning by doing via manufacturing. However, in the
+open economy case there is a negative link between agricultural productivity and overall
+growth. This occurs because the more productive the agricultural sector is, the more
+
+4
+
+resources that will be devoted to agriculture based on comparative advantage. This, of
+course, implies less manufacturing, less learning by doing, and less growth.
+The results from Matsuyama’s model are, of course, based on assuming that all
+learning by doing occurs in manufacturing, none in agriculture. However, learning by
+doing in manufacturing could enhance productivity in agriculture and perhaps vice versa.
+More generally, the model’s results stem from the assumption that agriculture is, by
+nature, incapable of sustaining rapid productivity growth. Thus it is inevitable that higher
+initial productivity in agriculture (exogenously determined) would lower long-run
+growth.
+This idea that productivity growth is slow in agriculture is actually contradicted
+by empirical analysis. Martin and Mitra (2001) utilize a panel data set for approximately
+50 countries over the period 1967-1992 to analyze this issue. They found that at all
+levels of development technical progress appears to have been faster in agriculture than
+in manufacturing. In addition, “there is strong evidence of convergence in levels and
+growth rates of TFP in agriculture, suggesting relatively rapid international dissemination
+of innovation” (p.417). These results suggest that a large agricultural sector need not be a
+disadvantage in the overall growth process. It may likely be an advantage if productivity
+growth is rapid.
+There is also a huge literature on the role of the agricultural sector and agricultural
+technology in reducing poverty. Thirtle, et al. (2003) shows that research-led
+technological change in the agricultural sector generates enough productivity growth to
+generate high rates of return in Africa and Asia and substantially reduces poverty in these
+regions. Additionally, Lipton (1977) showed that agricultural growth based on improved
+
+5
+
+technology was effective in reducing poverty in developing countries. Kerr and Kolavalli
+(1999) argued that it was research-led technological change in agriculture that led Asian
+countries from famines to food sufficiency. Mellor (2001) argued that agricultural
+productivity reduces both rural as well as urban poverty, an idea echoed in Datt and
+Ravallion (1998) and Ravallion and Datt (1999). Sectoral studies conducted for
+individual countries or selected regions by Datt and Ravallion (1996), Warr (2001), and
+Woden (1999), conducting research on India, Southeast Asia, and Bangladesh
+respectively, show that growth in the primary or agricultural sector helps to reduce both
+rural as well as urban poverty more effectively than urban growth.
+Theorists have now begun to explicitly model the agricultural sector in multiple
+sector growth models. A recent example of this is provided by the work of Gollin,
+Parente, and Rogerson (2002). They extend the neoclassical model to incorporate an
+agricultural sector. They attempt to model the structural transformation that comes with
+development (agriculture shrinking, manufacturing expanding). The intuition of the
+model can be summarized as follows. Agricultural output per person must reach a certain
+level before modern technology will be applied to agricultural production and labor can
+flow out of agriculture and into industry. The rate at which labor can then flow out is
+determined by the rate of technological change in agriculture. Low agricultural
+productivity (labor productivity) can thus substantially delay the onset of
+industrialization.
+Other research has examined new links between agriculture and the growth of the
+rest of the economy. One can think of these new links as representing non-traditional
+roles for agriculture. Timmer (1995) argues that agriculture plays a significant role in
+
+6
+
+reducing poverty by stimulating the development of agribusiness activities as well as
+stimulating the demand for manufactured inputs. Stringer (2001) argues that the
+agricultural sector performs important social welfare functions in developing nations.
+For example, during an economic downturn or an external income shock or financial
+crisis, agriculture can act “as a buffer, safety net, and as an economic stabilizer” (p.7).
+The flexibility of the production process allows for labor to be substituted for capital thus
+cushioning economic blows. Thus people frequently return to the farm during bad times.
+One can summarize much of this discussion in the following way. Agriculture’s
+role in the development process can be seen as a supplier of resources, most importantly
+labor, for the expansion of modern manufacturing. If disequilibrium exists such that the
+marginal product of labor in manufacturing exceeds that in agriculture (the marginal
+product of labor in agriculture need not be zero as Lewis originally argued), then
+transferring labor from the agricultural sector to the manufacturing sector will enhance
+overall growth. Empirically, there seems to be support for the proposition that factor
+market disequilibrium creates an opportunity to enhance growth by reallocating resources
+from agriculture to manufacturing (see Humphries and Knowles (1998), Dowrick and
+Gemmell (1991), and Feder (1986)). A second strand of thought argues that before the
+industrialization process can occur an increase in agricultural productivity must occur.
+Related to this, improvements in productivity in agriculture may indeed be easier for less
+developed nations to bring about, that is the potential for raising agricultural productivity
+may be very great, providing the foundation for rapid overall growth. Finally, enhanced
+agricultural productivity may be the most effective mechanism for improving well being
+in rural areas and this in turn may promote more rapid overall growth.
+
+7
+
+This paper focuses on the role of agricultural productivity (as measured by
+agricultural technology) in the process of overall growth and its impact on well being.
+Several questions suggest themselves. Is the modernization of agriculture an important
+determinant of overall growth? Is this effect robust to the inclusion of other variables?
+Given the non-traditional roles for agriculture, does agricultural modernization have a
+significant impact on human development? Is this impact robust to the inclusion of other
+variables? The key contribution of this paper is to utilize several measures of agricultural
+technology in an empirical estimation process which seeks to answer these questions.
+The methodology and data that will be utilized to address these questions is discussed in
+the following section.
+
+Methodology and Data
+In this paper, it is hypothesized that better agricultural technology which leads to
+improvements in agricultural productivity is a pre-condition for and has a significant
+impact on long-run growth, where growth is defined as the average rate of change of real
+per capita GDP from 1960 to 1995. This paper utilizes four different measures of
+agricultural productivity. The first two measures of agricultural productivity are a
+measure of fertilizer intensity and an interaction term of fertilizer and tractor intensity.
+Often agricultural technology is divided into two categories: biochemical and
+mechanical. Biochemical technologies generally require an intensification of fertilizer
+usage while mechanical innovations require increased usage of implements such as
+tractors, often combined with increased fertilizer use. The third measure is an interaction
+term incorporating fertilizer intensity, tractor intensity, and education of the labor force.
+
+8
+
+This incorporates a human capital element under the assumption that biochemical and
+mechanical technologies can only be effectively used if the individuals utilizing them
+have sufficient knowledge.
+The first three measures of productivity discussed above are indirect in nature in
+that the assumption is that the more intensive the use of tractors, fertilizer, and education,
+the more productive the agricultural sector. The fourth measure of agricultural
+productivity is total factor productivity in agriculture as measured by the Malmquist
+index. The index uses a non-parametric approach for constructing production frontiers
+for a group of countries and measuring each country’s output relative to that frontier.
+Productivity growth measures the extent to which a country moves towards this frontier
+even as this frontier itself moves out (via technological change) through time. It is a
+general measure of productivity (incorporating the effect of all inputs) rather than a
+partial measure (such as the average product of labor or capital).
+The first three measures of agricultural technology are utilized in the analysis of
+this section of the paper. In order to get some intuition in terms of the relation between
+economic growth and the first three measures of agricultural technology, the analysis
+begins by checking the correlation between economic growth (growth in real GDP per
+capita) over the time period 1960 to 1995 and each of the three measures of agricultural
+productivity at the beginning of the period.
+
+Table 1 goes here
+
+9
+
+The lnFert61 variable is the natural log of fertilizer intensity for the year 1961. It
+is measured as kilograms (nitrogen, potash, phosphates) per hectare of land in 1961. The
+second measure of agricultural technology is lnModern61. It is an interaction term
+formed by multiplying fertilizer intensity (1961) by tractor intensity (tractors per hectare
+of land in 1961). The third measure is lnAgModern61 which is an interaction term
+formed by multiplying fertilizer intensity in 1961 by tractor intensity in 1961 by average
+years of schooling (1965). This is a broader measure of agricultural technology since it
+incorporates the impact of tractors and human capital. Average years of schooling in
+1965 represents the earliest availability of this data. The correlation table shows that all
+three measures of initial agricultural productivity are highly correlated to economic
+growth.
+In order to test the hypothesis of the paper, we begin by constructing a simple
+model given by:
+(1a) GR6095 = a + b(lnGDP60) + c(lnFert61) + d(Asia) + e(LatA) + f(SSA) + ε,
+(1b) GR6095 = a + b(lnGDP60) + c (lnModern61) + d(Asia) + e(LatA) + f(SSA) + ε,
+(1c) GR6095 = a + b(lnGDP60) + c (lnAgModern61) + d(Asia) + e(LatA) + f(SSA) + ε.
+The dependent variable is given by GR6095 which is the growth rate of real GDP
+per capita from 1960 to 1995. In addition to the measures of agricultural technology, the
+two equations also include the natural log of GDP per capita in 1960 (lnGDP60) in order
+to capture any sort of convergence effect which might occur. Additionally, regional
+dummy variables for Asia (Asia) Sub-Saharan Africa (SSA), and Latin America (LatA)
+are also included. Equations (1a), (1b) and (1c) try to capture the impact of agricultural
+technology on per capita GDP growth for the given period after we control for the
+
+10
+
+influences of per capita GDP at the beginning of this time period, to account for any
+convergence or residual effect, as well as regional impact from the three regions
+mentioned above.
+It should be pointed out that the type of analysis illustrated above is subject to an
+endogeneity issue or problem. There are two related issues that explain the endogeneity
+problem. First, endogenous variables are those variables which are determined by other
+variables in the system as opposed to exogenous variables which can be considered
+external shocks to the system. The other most important source of endogeneity is reverse
+causality that is when two variables (or more) may be causing each other simultaneously.
+Thus, to be able to make an authentic causal claim one needs a truly exogenous variable,
+that is, a variable which is not related to any of the other variables in the system,
+unobserved or observed. The implication of such endogeneity issues for the purpose of
+this paper is that our main independent variable (a measure of agricultural technology)
+and the dependent variable could be influenced by some other unobserved factor and/or
+the variables could be bi-directionally causal. Thus making arguments concerning
+causality from independent to dependent variables becomes problematic. Although we
+have chosen measures of technology at the start of the time period under analysis, this
+does not completely solve the problem. The ideal solution to the problem would be to
+use instrumental variables estimations. However, useful and appropriate instruments are
+not immediately obvious and using the wrong instruments would lead to unreliable
+results. With this in mind, we have decided not to pursue instrumental variables analysis.
+However, given the discussion above we would like to acknowledge the imitations in our
+present analysis given the possible endogeneity issues.
+
+11
+
+After estimating the above equation(s) the model is broadened to identify and
+control for other variables that may also have affected the growth of per capita GDP
+during that period. This will also serve as a test of robustness of the results to model
+specification. The more general model is given by the following equations:
+(2a) GR6095 = a + b(lnGDP60) + c(lnFert61) + d(lnSchool65) + e(lnInv6095)
++ f(LogFrankRom) + g(ICRGE80) + h(Asia) + i(LatA) + j(SSA) + ε,
+(2b) GR6095 = a + b(lnGDP60) + c(lnFERT61) + d(lnSchool65) + e(Inv6095)
++ f(LogFrankRom) + g(Statehist) + h(Asia) + i(LatA) + j(SSA) + ε,
+(3a) GR6095 = a + b(lnGDP60) + c(lnModern61) + d(lnSchool65) + e(lnInv6095)
++ f(LogFrankRom) + g(ICRGE80) + h(Asia)+ i(LatA) + j(SSA) + ε,
+(3b) GR6095 = a + b(lnGDP60) + c(lnModern61) + d(lnSchool65) + e(lnInv6095)
++ f(LogFrankRom) + g(Statehist) + h(Asia) + i(LatA) + j(SSA) + ε,
+(4a) GR6095 = a + b(lnGDP60) + c(lnAgModern61) + d(lnInv6095) + e(LogFrankRom)
++ f(ICRGE80) + g(Asia) + h(LatA) + i(SSA) + ε,
+(4b) GR6095 = a + b(lnGDP60) + c(lnAgModern61) + d(lnInv6095) + e(LogFrankRom)
++ f(Statehist) + g(Asia) + h(LatA) + i(SSA) + ε.
+One of the additional variables added is a measure for educational attainment
+given by lnSchool65 which is the natural log of the years of total schooling of the
+population in 1965. Since lnAgModern61 includes a measure of human capital, the
+lnSchool65 variable was excluded from the estimation of equations (4a) and (4b) to avoid
+multicollinearity issues. Additional variables include a measure of investment given by
+lnInv6095 which is the natural log of average investment from 1960 to 1995 (this is gross
+capital formation which consists of additions to the fixed assets of the economy plus the
+
+12
+
+net change in inventories), a measure of institutional quality given by ICRGE80 which is
+an average of five different measures of institutional quality, a variable for state antiquity
+given by Statehist , and a series of dummy variables for Asia (Asia), Latin America
+(LatA), and Sub-Saharan Africa (SSA). Finally, most previous empirical work generally
+include some measure of the degree of openness of a nation. To measure this, the
+instrumental variable constructed by Frankel and Roemer (1996) is utilized. It is the log
+of the predicted trade share of an economy, based on a gravity model of international
+trade that only uses a country’s population and geographical features (LogFrankRom).
+Frankel and Roemer (1996) indicate that this variable is strongly related to actual trade
+shares.1
+Several of these variables need further explanation. The Statehist variable is an
+index measuring the type of state that exists (tribal level or above, foreign or locally
+based, the territorial extent of the state) and how long it has existed for various regions of
+the world. The time period covered is from 1 to 1950 C.E. The higher the index number,
+the longer a state has been in existence. The hypothesis is that the longer the state has
+been in existence, the more likely it will have resolved issues of internal conflict and the
+more legitimate the state is likely to be viewed by its citizens. Thus growth is likely to be
+higher. The ICRGE80 variable is an average of measures of corruption, repudiation of
+contracts, expropriation risk, rule of law, and bureaucratic quality for the year 1980. The
+higher this average, the better the quality of institutions and better quality institutions are
+thought to enhance growth. As it turns out, the Statehist and ICRGE80 variables are
+strongly related to each other. As a result, in order to avoid multicollinearity issues these
+variables were not included together in any estimation. This accounts for two versions,
+
+13
+
+(a) and (b), for each of the equations given above. Version (a) includes the institutional
+quality variable ICRGE80 and version (b) includes the state antiquity variable Statehist.
+There have been a number of papers that have utilized ICRGE for various years as
+a measure of institutional quality (Knack and Keefer, 1995), in an attempt to explain
+growth. Easterly and Levine (2003) have used a similar set of variables to try to make a
+distinction between the effects of endowments and the effects of institutions on per capita
+GDP. Acemoglu, Johnson, and Robinson (2001) and Rodrik, Subramanian, and Trebbi
+(2004) use instruments for measures of institutional quality and attempt to distinguish
+between the effects of geography, institutions, and policy on GDP per capita.
+Much of the data used to estimate this and the previous equation are taken from
+Bockstette, Chanda, and Putterman (2002). Specifically, GR6095, lnGDP60, lnInv6095,
+ICRGE80, Statehist, and the regional dummies all come from this paper. The lnSchool65
+variable comes from Barro and Lee (1993). The fertilizer intensity and tractor intensity
+variables are taken from the World Resources Institute (www.wri.org/) who in turn
+derived the data from the FAO.
+The discussion of the previous section indicated that agriculture is likely to play
+an important role in terms of providing a safety net for a society lacking formal programs
+aimed at social welfare. Under such an assumption one would expect that the level of
+human development would also be influenced by agricultural modernization. In order to
+test this proposition, per capita GDP growth is replaced with the average level of the
+human development index (HDI) from 1975 to 1995 as the dependent variable. The HDI
+is a summary measure of human development which is calculated as
+HDI = 1/3 (life expectancy index) + 1/3 (education index) + 1/3 (GDP index).
+
+14
+
+The life expectancy index measures life expectancy at birth (relative measure), the
+education index is a weighted index of the adult literacy rate and the gross enrollment
+index, and the GDP index is calculated using adjusted GDP per capita (PPP US$).
+The data used to calculate the average is taken from various issues of the Human
+Development Report. Thus the following equation is estimated to test the hypothesis.
+(5a) HDI7595 = α + β(lnFert61) + γ(lnInv6095) + δ(ICRGE80) + ζ(LogFrankRom) +
+θ(Asia) + λ(LatA) + ν(SSA) + ε.
+(5b) HDI7595 = α + β(lnModern61) + γ(lnInv6095) + δ(ICRGE80) + ζ(LogFrankRom)
++ θ(Asia) + λ(LatA) + ν(SSA) + ε.
+Notice that lnAgModern61 is not utilized as an independent variable. This is due
+to the fact that it incorporates a measure of educational levels and education, as discussed
+above, is also incorporated in HDI7595. Also, the lnGDP60 is also excluded since
+convergence in GDP is not being tested. The above equations are also estimated utilizing
+the Statehist variable as a substitute for ICRGE80. These are both measures of the
+quality of institutions and the argument here is that improved institutional quality is likely
+to result in improved well being. The inclusion of lnInv6095 in the estimating equation is
+linked to the hypothesis that the more investment that occurs in a country, the greater
+economic opportunities are likely to be and thus the more likely that individuals will be
+able to find jobs and thus experience improvements in well being. The greater the
+openness to trade is also included since it is hypothesized that the resulting increases in
+income will improve welfare. Finally, as outlined in Section One of the paper,
+agricultural productivity has been included in the estimated equation because it is thought
+by some scholars to have a direct impact on poverty and thus well being. That is, a
+
+15
+
+highly productive and prosperous agricultural sector is likely to have farmers that are in
+good health and have greater access to education in addition to higher incomes.
+The data set covers 89 countries (27 African, 22 Latin American, 14 Asian, 5
+Middle Eastern, 16 European, 5 others). For various regressions some countries have
+missing values, thus the size of the sample accordingly shrinks. The next section of the
+paper will discuss and interpret the results.
+
+Results: First Three Measures of Technology
+The results of the estimations of equations (1a), (1b), and (1c) are presented in
+Table 2. All estimations are OLS estimations and all the results are based on White
+heteroscedasticity-consistent standard errors and covariances. As can be seen, all three
+measures of agricultural technology have positive, significant effects on long-term
+economic growth. In addition, it appears that when we control for initial agricultural
+technology, irrespective of how it is measured, conditional convergence is also occurring
+among the countries in the sample, given the negative, statistically significant coefficient
+for GDP per capita in 1960. Finally, the dummy variables for Latin America and
+Subsaharan Africa were negative and statistically significant.
+
+Table 2 goes here
+
+The results indicate that agricultural technology, measured three ways, had a
+significant impact on long-run growth. In order to test the robustness of the result,
+
+16
+
+equations (2a), (2b), (3a), (3b), (4a), and (4b) are estimated and the results are presented
+in Table 3. All estimations show that there is evidence of conditional convergence.
+Moreover the results also testify to the robustness of the statistically significant and
+positive impact that agricultural technology has on per capita GDP growth from the mid1960’s to the mid 1990’s.
+Table 3 goes here
+
+Examining the results for equations (2a) and (2b), one can see that the Statehist
+and ICRGE80 variables are positive and statistically significant when included
+separately. The variables lnSchool65 and lnInv6095 are positive, but are only statistically
+significant for (2b) and (2a) respectively. The LogFrankRom variable has a positive sign
+in (2a) and a negative sign in (2b) and is statistically significant in neither. The dummy
+variables for Latin America, Asia, and Subsaharan Africa are negative but only
+statistically significant in (2b).
+Examining the results for equations (3a) and (3b), one can see that both
+lnSchool65 and lnInv6095 are both positive in sign in both estimations, but only
+education is statistically significant. Both Statehist and ICRGE80 are positive and
+statistically significant when entered separately. LogFrankRom is negative in sign, but is
+not statistically significant. The Latin American dummy variable is negative and
+statistically significant in both formulations. Sub-Saharan Africa and Asia are negative
+and statistically negative only in (3b).
+Examining the results for equations (4a) and (4b), one finds that lnInv6095 is
+positive, but it is statistically significant only in (4a). LogFrankRom is negative, but is
+
+17
+
+not statistically significant in either estimation. The Statehist and ICRGE80 variables are
+both positive and statistically significant when entered separately. The Latin America
+dummy variable is negative and statistically significant in both formulations, while SubSaharan Africa is negative and statistically significant in (4b).
+At this point one might wonder if the results discussed above are influenced by
+the poor data quality for the measures of technology in agriculture for the 1960s. In order
+to explore this possibility, equations (1a), (1b), (2a), (2b), (3a), and (3b) were all reestimated using values for fertilizer intensity and fertilizer intensity times tractor intensity
+for 1975. The results with respect to these variables remain unchanged. Agricultural
+technology has a positive, statistically significant effect on growth from 1960 to 1995.
+In summary, two sets of variables seem to have had significantly positive effects
+on long-term growth: all three versions of the agricultural technology variable and
+Statehist/ICRGE80 variables. This implies that improvements in agricultural technology
+along with good quality institutions within stable states leads to more rapid economic
+growth. In all but one of the formulations LogFrankRom had a negative sign, but it was
+never statistically significant. This result is somewhat surprising since there is a large
+literature that seems to imply that trade openness not only allows for gains from
+comparative advantage (level effects on GDP), but also facilitates the spillover of
+technical knowledge (Keller, 2004) from developed to developing countries (raising the
+growth rate of GDP). The lack of significance of the trade or openness variable may very
+well be due to the fact that trade may allow for the spillover of agricultural knowledge
+from country to country (Alston, 2002). Thus trade may lead to increases in GDP growth
+
+18
+
+via improvements in technology utilized. This effect would not be captured by the above
+estimations.
+
+Results: Malmquist Productivity
+In the previous section three proxy measures for agricultural productivity were
+used. The implicit inference was that higher values for these variables represented better
+technologies and thus more productive agricultural sectors. A more direct measure is
+provided by Trueblood and Coggins (2003). Their paper examines productivity growth
+in agriculture for a large sample of nations for the time period 1961 to 1991. Malmquist
+productivity indexes, discussed earlier in the paper, are constructed utilizing the nonparametric approach for constructing frontiers. Utilizing these measures equation (1a),
+(2a), and (2b) are re-estimated by substituting the Malmquist productivity growth
+measures, AgTFP, for the variable lnFert61. The results are presented in Table 4.
+
+Table 4 goes here
+
+As can be seen, in all three estimations the AgTFP is positive, although it is
+statistically significant for just two. Economic convergence is supported in all three
+formulations. The lnSchool65 variable is positive and statistically significant, whereas
+the lnInv6095 while positive is only significant for one estimation. Both Statehist and
+ICRGE80 are positive and statistically significant. The trade variable is not significant in
+any formulation.
+
+19
+
+An alternative set of data on agricultural productivity is provided in Ludena, et al.
+(2005).2 Their paper examines productivity growth in agriculture for a large sample of
+nations for the time period 1961 to 2000. It too constructs Malmquist productivity
+indexes which are multifactor measures of productivity change. Utilizing these
+measures, equations (1a), (2a), and (2b) are re-estimated by substituting the Malmquist
+productivity measures from Ludena, et al. (2005) for the variable lnFert61. The growth
+rate of GDP per capita now represents the average growth rate from 1960 to 2000
+(GR6000) while the investment variable now represents average investment also for the
+period 1960 to 2000 (lnInv6000). The results of these estimations are presented in Table
+5.
+
+Table 5 goes here
+
+As can be seen, in all three estimations the AgTFP variable is both positive and
+statistically significant. Again agricultural productivity is important for growth. It
+appears that economic convergence is supported in all three formulations. Both the
+lnSchool65 and the lnInv6000 are also positive and statistically significant. Thus
+improved education and increased investment enhance growth in the long-run. In
+addition, both Statehist and ICGRE80 have positive signs and are statistically significant,
+which implies that good institutions and states enhance growth. However, the
+LogFrankRom remains insignificant, which indicates that perhaps trade’s effect on
+growth may not be direct, but may operate through its impact on productivity.
+
+20
+
+Results: Human Development Index
+The next step in the analysis is to shift focus to a broader definition of
+development and to see how agricultural modernization has affected the general wellbeing of a country. So far the focus had been on factors that have an impact on economic
+growth. Now the analysis moves on to test how much impact agricultural technology and
+productivity might have had on human development itself. As mentioned in the previous
+section, the recent literature has found significant connections between the agricultural
+sector and poverty reduction, increases in social welfare or reduction in morbidity, etc.
+These measures of well-being are perhaps best captured by human development as
+measured by the Human Development Index (HDI) constructed by the UNDP. In order to
+analyze this relationship between human welfare or development and agricultural
+modernization, the dependent variable used in Tables 2, 3, and 4 is replaced with the
+average of the HDI index from 1975 to 1995. Accordingly, the next set of results is based
+on estimates of Equations (5a) and (5b) and are presented in Table 6.3 In addition,
+AgTFP, as developed by Trueblood and Coggins (2003), is utilized as a measure of
+agricultural productivity (the last column in Table 6). Finally, the lnGDP60 is no longer
+included since the HDI index also includes a measure of per capita GDP.
+
+Table 6 goes here
+
+In a number of ways the above results echo the results for economic growth
+presented in Tables 3, 4, and 5, especially with respect to agricultural technology and
+productivity. These show that agricultural technology/productivity is a causal factor for
+
+21
+
+improved well-being as well as for economic growth. The investment variable is also
+positive and statistically significant across all estimations. Institutional quality also
+seems to have a robust, positive, and statistically significant effect on well being.
+Openness (LogFrankRom) does not seem to have an influence on the Human
+Development index. The regional dummy variables for Asia and Subsaharan Africa are
+negative and, for the most part, statistically significant. The Latin American dummy is
+positive and statistically significant. The above equations were also estimated using
+Statehist as a substitute for ICRGE80. The results for the agricultural
+technology/productivity variables remain unchanged.
+One might argue that including the AgTFP measure of productivity might
+introduce multicollinearity between the dependent variable, the average value of HDI for
+1975 to 1995, and the independent variable (AgTFP). That is, human capital is a
+component of the HDI measure and improved human capital is also likely to increase
+AgTFP. However, the important thing to note is that the results do not change
+dramatically when AgTFP is introduced as a substitute for lnFert61 and lnModern61.
+One would have expected that if multicollinearity existed, there would be a dramatic
+change in the results. Additionally, several tests of multicollinearity revealed no evidence
+of multicollinearuty between the two variables.4
+The results presented in the tables point to the importance of agricultural
+technology or agricultural modernization as a causal factor for economic growth and the
+well-being of the population. The paper began by asking the following questions. Is the
+modernization of agriculture an important determinant of overall growth? Is this effect
+robust to the inclusion of other variables? Given the non-traditional roles for agriculture,
+
+22
+
+does agricultural modernization have a significant impact on human development? Is this
+impact robust to the inclusion of other variables? Now these can be answered.
+Modernization of agriculture is an important determinant of overall growth and it is
+robust to the inclusion of other variables. In addition, agricultural modernization does
+have a significant impact on the level of human development and this relationship, like
+the previous one, is robust to the inclusion of other variables.
+
+Summary and Conclusions
+In theorizing about long-run growth and development, agriculture seemed to
+disappear from the literature and ceased to play an important role after the development
+of dualistic models in the 1950s and 1960s. However, recently there has been a reemergence of interest and a reconsideration of the importance of agriculture in the
+development process with a number of models being constructed which incorporate
+agriculture. These models and the theories they propose find agriculture in general and
+agricultural technology in particular to play a critical role in long-run growth and
+development.
+An empirical analysis of agriculture’s role in economic growth and development
+was undertaken in this paper. In particular, this paper analyzes the importance of a
+modernized agricultural sector for economic growth and development. Agricultural
+technology, as applied in this paper, is defined four different ways. Three of these
+represent proxy measures for agricultural productivity with the first measuring fertilizer
+intensity, the second fertilizer and tractor intensity, and the third including human capital
+as well as measures of fertilizer and tractor intensity. Using these proxy measures of
+
+23
+
+agricultural productivity in the early 1960s the empirical results indicate that improved
+agricultural technology in the 1960s had a significant, positive influence on growth from
+1960 to 1995. The fourth is a more direct measure of productivity. It is a Malmquist
+index measure of total factor productivity measured for two time periods, 1961 to 1991
+and 1961 to 2000. It too is found to have a statistically significant positive influence on
+long-term growth.
+The results reaffirmed the conclusions drawn from previous analysis concerning
+investment spending, education, and measures of institutional quality. That is, the work
+of Knack and Keefer (1995) and Bockstette, et al. (2002) indicated that institutional
+quality and state antiquity were both important factors in long-run growth. The results of
+this paper reaffirm these results. In addition, investment and human capital also seem to
+be important factors in long-run growth, thus reaffirming previous empirical work on
+growth theory (Jones, 2002). In addition to these variables, it seems that agricultural
+technology, also played an important role in economic growth.
+The above analysis was repeated utilizing the human development index as the
+dependent variable. The hypothesis was that improved technology or modernization of
+the agricultural sector improves well being. Indeed, the measures of agricultural
+modernization seem to have statistically significant positive effects on human
+development.
+The results of this paper complement the recent theoretical work incorporating the
+agricultural sector into multi-sector growth models. These theories indicate that
+historical, long-run growth was dependent on the growth of agricultural productivity via
+
+24
+
+agricultural modernization. These theoretical conclusions are supported by the empirical
+work presented here.
+
+25
+
+References
+Acemoglu, D., S. Johnson and J.A. Robinson, 2001. The Colonial Origins of
+Comparataive Development. American Economic Review 91 (5), 1369-1401.
+Alston, J., 2002. Spillovers. Australian Journal of Agricultural and Resource
+Economics 46 (3), 315-346.
+Barro, R.J. and J. Lee, 1993. International Comparisons of Educational
+Attainment. NBER Working Paper No. 4349.
+Bockstette, V., A. Chanda, and L. Putterman, 2002. States and Markets: The
+Advantage of an Early Start. Journal of Economic Growth 7 (4), 347-369.
+Datt, G., and M. Ravallion, 1998. Farm Productivity and Rural Poverty in India. Journal
+of Development Studies 34(4), 62-85.
+Datt, G., and M. Ravallion, 1996. How Important to India’s Poor is the Sectoral
+Composition of Economic Growth? The World Bank Economic Review 10(1), 125.
+Dowrick, S. and N. Gemmell, 1991. Industrial Catching Up and Economic Growth: A
+Comparative Study Across the World’s Capitalist Economics. Economic Journal
+101 (405), 263-276.
+Easterly, W. and R. Levine, 2003. Tropics, Germs, and Crops: How Endowments
+Influence Economic Development. Journal of Monetary Economics 50 (1), 3-39.
+Feder, G., 1986. Growth in Semi-Industrialized Countries: A Statistical Analysis. In
+Chenery, H., S. Robinson, and M. Syrquin (eds.), Industrialization and Growth: A
+Comparative Study. Oxford University Press.
+Fei, J. and G. Ranis, 1961. A Theory of Economic Development. American Economic
+Review 51 (4), 533-565.
+26
+
+Frankel, J. and D. Romer, 1999. Does Trade Cause Growth? American Economic
+Review 89 (3), 379-399.
+Gollin, D., S. Parente, and R. Rogerson, 2002. The Role of Agriculture in
+Development. American Economic Review 92 (1), 160-164.
+Hayami, Y. and V. Ruttan, 1985. Agricultural Development: An International
+Perspective. Johns Hopkins University Press, Baltimore, U.S.A., 506.
+Humphries, H. and S. Knowles, 1998. Does Agriculture Contribute to Economic
+Growth? Some Empirical Evidence. Applied Economics 30 (6), 775-781.
+Johnston, B. and J. Mellor, 1961. The Role of Agriculture in Economic Development.
+American Economic Review 51 (4), 566-593.
+Jones, C., 2002. Introduction to Economic Growth. W.W. Norton, London, England, 237.
+Jorgenson, D., 1961. The Development of a Dual Economy. Economic Journal (282),
+209-334.
+Keller, W., 2004. International Technology Diffusion. Journal of Economic Literature
+42 (3), 752-782.
+Kerr, J., and S. Kolavalli, 1999. Impact of Agricultural Research on Poverty Alleviation:
+Conceptual Framework with Illustrations from the Literature. EPTD Discussion
+Paper #56, Impact Assessment and Evaluation Group, IFPRI, Washington, D. C.
+Knack, S. and P. Keefer, 1995. Institutions and Economic Performance: Cross-Country
+Tests Using Alternative Institutional Measures. Economics and Politics 7 (3),
+207-228.
+Lewis, W. A., 1954. Economic Development with Unlimited Supplies of Labour. The
+Manchester School 22 (1), 139-191.
+
+27
+
+Lipton, M., 1977. Why Do Poor People Stay Poor? Urban Bias in World Development.
+Temple Smith, London, 467..
+Ludena, C.E., T.W. Hertel, P.V. Preckel, K. Foster, and A. Nin, 2005. Productivity
+Growth and Convergence in Crop, Ruminant and Non-Ruminant Production:
+Measurement and Forecasts. Prepared for Experts’ Meeting on Long Term
+Scenarios of Asia’s Growth and Trade, ADB, Manila, November 10-11.
+Martin, W. and D. Mitra, 2001. Productivity Growth and Convergence in Agriculture
+And Manufacturing. Economic Development and Cultural Change 49 (2), 403422.
+Matsuyama, K., 1991. Increasing Returns, Industrialization, and Indeterminancy of
+Equilibrium. Quarterly Journal of Economics 106 (2), 617-650.
+Mellor, J., 2001. Faster More Equitable Growth – Agriculture, Employment Multipliers,
+and Poverty Reduction. Paper prepared for USADD/G/EGAD.
+Olsson, O. and D.A. Hibbs, 2005. Biogeography and Long-Run Economic Development.
+European Economic Review, 49 (4), 909-938.
+Ravallion, M. and G. Datt, 1999. When is Growth Pro-Poor? Evidence from the Diverse
+Experience of India’s States. World Bank policy research working paper series,
+2263, World Bank, Washington, D.C.
+Rodrik, D., A. Subramanian and F. Trebbi, 2004. Institutions Rule: The Primacy of
+Institutions Over Geography and Integration in Economic Development. Journal
+of Economic Growth 9 (2), 131-165.
+Rosenstein-Rodan, P., 1943. Problems of Industrialization of Eastern and Southeastern
+Europe. Economic Journal 53 (2), 202-211.
+
+28
+
+Stringer, R., 2001. How Important are the ‘Nontraditional’ Economic Roles of
+Agriculture in Development? Discussion Paper No. 0118, Adelaide University,
+May.
+Thirtle, C., L. Lin, and J. Piesse, 2003. The Impact of Research-led Agricultural
+Productivity Growth on Poverty Reduction in Africa, Asia and Latin America.
+World Development 31 (12), 1959-1975.
+Timmer, C.P., 1995. Getting Agriculture Moving: Do Markets provide the Right
+Signals? Food Policy 20 (5), 455-472.
+Trueblood, M.A. and J. Coggins, 2003. Intercountry Agricultural Efficiency and
+Productivity: A Malmquist Index Approach. World Bank, Washington, D.C.
+Warr, P. G., 2001. Poverty Reduction and Sectoral Growth: Evidence from Southeast
+Asia. Paper presented at the WIDER Development Conference on Growth and Poverty,
+Helsinki.
+Woden, Q., 1999. Growth, Poverty, and Inequality: A Regional Panel for Bangladesh.
+Policy Research Working Paper, 2072, The World Bank, Washington, D.C.
+
+29
+
+Footnotes
+1.
+
+Originally these equations were estimated using as a measure of openness the
+variable exports plus imports divided by GDP. The results, for the other
+variables of the model, were very similar to those reported here using the
+measure developed by Frankel and Romer (1999). The latter is thought to be
+a more appropriate measure given the endogeneity issues connected with the
+trade share measure. Ideally, as noted previously in the paper, an instrumental
+variables analysis would be carried out. However, finding good instruments
+for the other variables in the analysis would be very difficult.
+
+2.
+
+The authors would like to thank Ludena, et al. (2005) for making their data
+available.
+
+3.
+
+The reader will note that lnAgModern61 is not utilized as a measure of
+agricultural technology. This is due to the fact that this variable includes a
+measure of schooling. See the earlier discussion of equation (5b).
+
+4.
+
+There was no evidence of pair-wise correlation. The R squared value of
+regression of HDI and AgTFP was only 0.29. Additionally, residual tests for
+autocorrelation and partial correlation of the equation with HDI and AgTFP
+showed no evidence of correlation. Tests of tolerance level and variance
+inflation factor based on the value of the R squared obtained from the above
+regression did not indicate presence of multicollineaarity. Additionally,
+centering was done by transforming the AgTFP values and the HDI values by
+subtracting the mean value from each case and then running the regression
+
+30
+
+with the centered values. This did not change the results in any significant
+manner.
+
+31
+
+Tables
+
+GR6095
+lnAgModern61
+lnModern61
+lnFert61
+
+GR6095
+1
+0.543
+0.583
+0.443
+
+Table 1: Correlations
+LnAgModern61
+lnModern61 lnFert61
+1
+0.821
+0.771
+
+1
+0.792
+
+1
+
+Table 2
+Long-Run Growth: Simple Model
+(Equations (1a), (1b), and (1c))
+lnGDP60
+t-Stat
+AG. VARIABLE
+t-Stat
+Asia
+t-Stat
+SSA
+t-Stat
+LatA
+t-Stat
+
+Ag.Var = lnFert61
+-0.008***
+3.89
+0.004***
+4.41
+0.003
+0.89
+-0.02***
+4.75
+-0.01***
+4.52
+
+Ag.var = lnModern61
+-0.005***
+3.61
+0.001***
+5.15
+-0.002
+0.54
+-0.02***
+5.24
+-0.01***
+6.03
+
+Ag.Var = lnAgModern61
+-0.008***
+4.49
+0.0004***
+6.99
+-0.006
+1.43
+-0.02***
+5.11
+-0.02***
+6.35
+
+Obervations
+75
+74
+64
+R-Squared
+0.59
+0.61
+0.56
+Note: Dependent variable: real per capita GDP growth from 1960 to 1995; a constant term is included in
+each equation but not reported here; * represents statistical significance at 90%, ** represents statistical
+significance at 95%, and *** represents statistical significance at 99%.
+
+32
+
+Table 3
+Long-Run Growth: Control Variables Included
+(Equations (2a), (2b), (3a), (3b), (4a), and (4b))
+lnGDP60
+t-Stat
+Ag. Var
+t-Stat
+lnSchool65
+t-Stat
+lnInv6095
+t-Stat
+LogFrankRom
+t-Stat
+Statehist
+t-Stat
+ICRGE80
+t-Stat
+Asia
+t-Stat
+SSA
+t-Stat
+LatA
+t-Stat
+
+Ag Var = lnFert61
+-0.010*** -0.018***
+-3.48
+-4.70
+0.002*
+0.001***
+1.95
+3.75
+0.004
+0.005*
+1.33
+1.77
+0.009*
+0.001
+1.85
+0.26
+0.001
+-0.001
+0.21
+-0.31
+0.016**
+2.17
+0.004***
+3.23
+0.005
+-0.008*
+0.91
+-1.87
+-0.010
+-0.026***
+-1.16
+-4.29
+-0.007
+-0.010**
+-1.60
+-2.91
+
+Ag Var = lnModern61
+-0.010*** -0.018***
+-4.07
+-4.70
+0.0004*** 0.001***
+2.77
+3.75
+0.006**
+0.005*
+2.03
+1.77
+0.006
+0.001
+1.28
+0.26
+-0.001
+-0.001
+-0.50
+-0.31
+0.017**
+2.51
+0.004***
+3.23
+-0.002 -0.008*
+-0.45
+-1.87
+-0.013
+-0.026***
+-1.54
+-4.29
+-0.010** -0.010**
+-2.43
+-2.91
+
+Ag Var = lnAgModern61
+-0.010***
+-0.018***
+-4.27
+-4.63
+0.0002**
+0.0003**
+2.10
+2.50
+0.004
+0.003
+1.39
+0.95
+0.008*
+0.004
+1.72
+0.98
+-0.001
+-0.001
+-0.49
+-0.28
+0.018**
+2.61
+0.004**
+2.51
+-0.0021
+-0.007
+-0.39
+-1.49
+-0.012
+-0.025***
+-1.42
+-3.81
+-0.009** -0.011***
+-2.17
+-2.72
+
+Observations
+65
+63
+64
+63
+64
+63
+R-Squared
+0.67
+0.74
+0.69
+0.74
+0.68
+0.70
+Note: Dependent variable: real per capita GDP growth from 1960 to 1995; a constant term is included in
+each equation but not reported here; * represents statistical significance at 90%, ** represents statistical
+significance at 95%, and *** represents statistical significance at 99%.
+
+33
+
+Table 4
+Long-Run Growth Equations Utilizing TFP (1961-1991)
+(Trueblood and Coggins, 2003)
+LnGDP
+t-Stat
+Ag. Var.
+t-Stat
+lnSchool65
+t-Stat
+lnInv6095
+t-Stat
+lnFrankRom
+t-Stat
+Statehist5
+t-Stat
+ICRGE80
+t-Stat
+ASIA
+t-Stat
+SSA
+t-Stat
+LatA
+t-Stat
+
+Ag Var = AgTFP
+-0.004**
+-0.009***
+2.31
+-3.60
+0.002***
+0.002**
+2.54
+2.26
+0.006**
+2.10
+0.009**
+2.07
+-0.0004
+-0.25
+0.019***
+2.90
+0.0020
+0.52
+-0.02***
+5.4
+-0.012***
+(-4.39)
+
+0.003
+0.79
+-0.009
+-1.34
+-0.005
+-1.22
+
+-0.015***
+-4.22
+0.001
+1.53
+0.005**
+2.00
+0.006
+1.37
+0.0002
+0.15
+
+0.003*
+1.94
+-0.002
+-0.44
+-0.023***
+-3.36
+-0.008**
+-2.17
+
+Observations
+74
+62
+61
+R-Squared
+0.49
+0.67
+0.66
+Note: Dependent variable: real per capita GDP growth from 1960 to 1995; a constant term is included in
+each equation but not reported here; * represents statistical significance at 90%, ** represents statistical
+significance at 95%, and *** represents statistical significance at 99%.
+
+34
+
+Table 5
+Long-Run Growth Equations Utilizing TFP (1961-2000)
+(Ludena, et al., 2005)
+LnGDP
+t-Stat
+Ag. Var.
+t-Stat
+lnSchool65
+t-Stat
+lnInv6000
+t-Stat
+lnFrankRom
+t-Stat
+Statehist5
+t-Stat
+ICRGE80
+t-Stat
+ASIA
+t-Stat
+SSA
+t-Stat
+LatA
+t-Stat
+
+Ag Var = AgTFP
+-0.406*
+-0.983**
+-1.91
+-2.91
+0.298***
+0.252***
+4.02
+3.18
+0.725**
+2.18
+2.136**
+2.19
+-0.014
+-0.07
+1.733***
+2.67
+0.434
+0.96
+-1.851***
+-3.88
+-1.198***
+-3.67
+
+0.145
+0.35
+-0.269
+-0.33
+-0.461
+-0.97
+
+-1.639***
+-3.84
+0.161**
+2.21
+0.501*
+1.67
+1.630*
+1.77
+0.077
+0.46
+
+0.390***
+2.68
+-0.254
+-0.58
+-1.658***
+-2.53
+-0.529
+-1.17
+
+Observations
+84
+71
+70
+R-Squared
+0.41
+0.55
+0.60
+Note: Dependent variable: per capita GDP growth from 1960 to 2000; a constant term is included in
+each equation but not reported here; * represents statistical significance at 90%, ** represents
+statistical significance at 95%, and *** represents statistical significance at 99%.
+
+35
+
+Table 6
+Estimates Utilizing HDI (75-95) as Dependent Variable
+Ag. Var.
+t-Stat
+lnInv6095
+t-Stat
+LogFrankRom
+t-Stat
+ICRGE80
+t-Stat
+Asia
+t-Stat
+SSA
+t-Stat
+LatA
+t-Stat
+
+Ag.Var = lnFert61
+0.023***
+2.68
+0.076***
+2.83
+-0.009
+-0.74
+0.030***
+4.29
+-0.062**
+-2.48
+-0.117***
+-3.89
+0.052**
+2.00
+
+Ag.var = lnModern61
+0.002*
+1.90
+0.076***
+2.78
+0.004
+0.34
+0.038***
+5.84
+-0.074**
+-2.16
+-0.139***
+-4.40
+0.049*
+1.79
+
+Ag.Var =AgTFP
+0.013*
+1.83
+0.088***
+3.82
+0.008
+0.51
+0.034***
+5.30
+-0.050
+-1.48
+-0.158***
+-4.74
+0.059*
+1.88
+
+Observations
+66
+65
+67
+R-Squared
+0.84
+0.82
+0.83
+Note: Dependent variable: real per capita GDP growth from 1960 to 1995; a constant term is included
+in each equation but not reported here; * represents statistical significance at 90%, ** represents
+statistical significance at 95%, and *** represents statistical significance at 99%.
+
+36
+
+

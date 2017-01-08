@@ -1,0 +1,1002 @@
+AGRICULTURAL
+
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 27 (2002) 97-109
+www.elsevier.com/locate/agecon
+
+Consumption effects of genetic modification:
+what if consumers are right?*
+Konstantinos Giannakas a,*, Murray Fulton b
+a Department of Agricultural Economics, University of Nebraska-Lincoln, 216 H. C. Filley Hall, Lincoln, Nebraska 68583, USA
+b
+
+Department of Agricultural Economics, University of Saskatchewan, Saskatoon, Sask., Canada S7N 5A8
+
+Received 8 June 2000; received in revised form 29 January 2001; accepted 27 November 2001
+
+Abstract
+
+This paper develops a model of differentiated consumers to examine the consumption effects of genetic modification (GM)
+under alternative labelling regimes and segregation enforcement scenarios. Analytical results show that if consumers perceive
+GM products as being different than their traditional counterparts, GM affects consumer welfare and, thus, consumption
+decisions. When the existence of market imperfections in one or more stages of the supply chain prevents the transmission
+of cost savings associated with the new technology to consumers, GM results in welfare losses for consumers. The analysis
+shows that the relative welfare ranking of.the 'no labelling' and 'mandatory labelling' regimes depends on: (i) the level of
+consumer aversion to GM products; (ii) the size of marketing and segregation costs under mandatory labelling; (iii) the share
+of the GM product in total production; and (iv) the extent to which GM products are incotTectly labelled as non-GM products.
+© 2002 Elsevier Science B.V. All rights reserved.
+JEL classification: Dll; D82; LIS; Q13; Ql8
+Keywords: Consumer welfare; Genetic modification; Labelling; Mislabelling; Segregation costs
+
+1. Introduction
+
+Consumer concern about genetic modification
+(GM) of food is one of the most notable features
+of agricultural biotechnology. Unlike farmers, who
+
+*
+
+This work was carried out with partial support from the IFPRIled project on agricultural genetic resources and biotechnology policies. This project is primarily funded by the Swedish
+International Development Cooperation Agency (Sida), with additional support from the Canadian International Development
+Agency (CIDA). The authors wish to thank Peter Hazell and two
+anonymous reviewers of the journal for their useful comments
+and insights. This is University of Nebraska-Lincoln Agricultural
+Research Division Article no. 13240.
+* Corresponding author. Tel.: + 1-402-472-2041;
+fax: + 1-402-472-3460.
+E-mail address: kgiannakas@unl.edu (K. Giannakas).
+
+have seen agronomic benefits in the new technology
+and have quickly adopted transgenic plants such as
+Bt cotton and corn and herbicide-resistant soybeans
+and canola (Economic Research Service, 1999), consumers have expressed reservations about the foods
+produced from these crops. Consumer opposition to
+GM products started in Europe and has spread to
+other countries.
+An Angus Reid poll in eight countries (France,
+Germany, UK, Australia, Canada, US, Japan and
+Brazil) found that among people aware of genetically
+modified foods, 68% on average indicate they would
+be "less likely" to purchase a food product if they
+knew it contained genetically modified ingredients.
+The proportion of respondents expressing aversion
+to GM products varied between 57% in the US and
+
+0169-5150/02/$ - see front matter © 2002 Elsevier Science B. V. All rights reserved.
+Pll: S0169-5150(02)00033-6
+
+98
+
+K. Giannakas, M. Fulton/Agricultural Economics 27 (2002) 97-109
+
+83% in Germany (The Economist, 2000). In an earlier
+poll in the UK (MORI poll), 77% of those surveyed
+favoured a ban on GM food. Consumer resistance
+to GM is founded on health, environmental, moral
+and philosophical concerns about the 'new' practice
+(Hobbs and Plunkett, 1999; Lindner, 2000).
+In response to this consumer reaction, a number
+of food companies, such as Marks and Spencer, MeDonalds, Sainsbury, and Tesco in the UK, Nestle in
+Switzerland, Carrefour in France, McCains in Canada,
+and Frito Lay in the US, have indicated that they
+are only accepting/selling non-GM products. Governments in the European Union (EU) and elsewhere have
+also responded by introducing mandatory labelling
+or by banning specific GM products (i.e. GM corn
+and canola in Austria, France, Greece, and Luxembourg) (Hobbs and Plunkett, 1999; Runge and Jackson, 2000). At the international level, the Biosafety
+Protocol signed by 130 countries in 2000 in Montreal
+required that shipments of living genetically modified
+products (such as seeds) are to be labelled as such.
+While labelling of food products satisfies consumer
+demand for the right to make informed consumption
+decisions (Caswell and Mojduszka, 1996; Caswell,
+1998), the introduction of segregation and labelling
+raises a number of issues that affect everyone in the
+food chain. One issue is the added costs that segregation and labelling introduce and the economic
+impact of these costs on consumers. A second issue
+is that segregation and labelling activities create incentives for the misrepresentation and mislabelling
+of GM products as traditional food. Although, there
+is a growing literature on the nature and origin of
+consumer attitudes towards GM products, most of the
+analysis on the economic consequences of these attitudes is rather heuristic in nature. An exception is the
+paper by Plunkett and Gaisford (2000) who examine
+the welfare effects of introducing GM products, but
+do not consider consumer heterogeneity or examine
+the possibility of mislabelling.
+The objective of this paper is to develop a conceptual model that examines the consumption effects
+of GM under alternative labelling regimes and segregation enforcement scenarios. More specifically,
+the paper analyses the effect of GM products on the
+welfare and purchasing decisions of consumers under: (i) no labelling; (ii) mandatory labelling under
+full compliance; (iii) and mandatory labelling when
+
+misrepresentation of the type of the product (i.e.
+mislabelling) occurs.
+In analysing the consumption effects of GM, this
+paper explicitly accounts for consumer heterogeneity.
+To capture the different attitudes towards GM, consumers are postulated to differ in the utility they derive
+from the consumption of GM products and therefore
+in their willingness-to-pay (WTP) for these products.
+Consumer heterogeneity is critical in understanding
+how demand for both GM and non-GM products exists when labelling occurs.
+In this paper, 'genetically modified' products refers
+to transgenics-products in which some form of gene
+'splicing' has occurred. The new technology is assumed to generate production cost savings while
+having no effect on product characteristics that are
+observable by consumers; the analysis thus applies to
+the producer-oriented first generation GM products
+that are credence in nature.
+The title of the paper stems from the major result of
+the analysis, namely, that if consumers perceive GM
+products to be different from their non-GM counterparts, then there is a reasonable expectation that a percentage of consumers will correctly believe that the
+introduction of GM products lowers their utility and
+would prefer to see these products banned. The key
+factors that determine the magnitude of this welfare
+loss are the degree of aversion to GM products, the
+degree to which the cost savings at the farm level are
+not passed through to consumers, and the magnitude
+of the costs associated with segregating non-GM products from GM products. Although, this group would
+like to ban GM products, when faced with the introduction of GM products as a given, this group will
+prefer mandatory labelling to no labelling.
+The paper is structured as follows. Section 2
+presents the conceptual model. Sections 3-5 examine
+the effect of GM on consumer decisions and welfare
+under no labelling, mandatory labelling with full compliance, and mandatory labelling with mislabelling,
+respectively. Section 6 compares and contrasts the no
+labelling and the mandatory labelling regimes while
+Section 7 summarises and concludes the paper.
+
+2. Consumer characteristics and behaviour
+The rise of consumer concerns over GM products and the diversity of these concerns suggests that
+
+K. Giannakas, M. Fulton/ Agricultural Economics 27 (2002) 97-109
+
+consumers differ in their WTP for GM versus non-GM
+food products. In the simplest case, consider a consumer that consumes one unit of either a traditional,
+a GM, or a substitute product. Assuming that the
+consumer spends a small fraction of total expenditure
+on the goods in question, her utility function can be
+written as:
+Ut
+
+= U-
+
+Pt
+
+if a unit of traditional product is consumed,
+Ugm
+
+=U
+
+- Pgm - AC
+
+if a unit of GM product is consumed,
+and
+Us= U-Ps
+
+if a unit of a substitute product is consumed
+where Ut is the utility associated with purchasing one
+unit of the traditional product, Ugm the utility associated with purchasing one unit of the GM version of
+the traditional product, and Us the utility associated
+with purchasing one unit of a substitute product. 1 The
+price of the traditional product is Pt. the price of its
+GM counterpart is Pgm, and the price of the substitute product is Ps. The parameter U is a per unit base
+level of utility while the term A.c gives the discount in
+utility from consuming GM product. 2 The parameter
+A. is a non-negative utility discount factor while the
+characteristic c differs according to consumer and captures the consumer's aversion towards GM products.
+1 One example of a product that could be supplied in both a
+traditional and a GM form is margarine made from canola. In this
+case, butter can be thought of as a substitute product. A second
+example could be corn chips (made from traditional or GM corn);
+the substitute product is potato chips. Other examples of traditional,
+GM, and substitute products include meat coming from animals
+fed with (traditional or GM) corn or soybean versus meat coming
+from animals tbat are barley fed. For simplicity and without loss of
+generality, it is assumed that the substitute product (butter, potato
+chips and meat coming from barley fed animals in the preceding
+examples) is free of GM ingredients. The implications of relaxing
+this assumption are discussed in footnote 6.
+2 U can also be interpreted as the maximum WTP for a unit of
+the traditional or the substitute product. In such a case, consumer
+maximum WTP for the GM product equals U -?-.c. The difference
+between the WTP and the price of the (traditional, the GM, or
+the substitute) product then provides an estimate of the relevant
+consumer surplus.
+
+99
+
+To simplify the analysis, the characteristic c takes values between 0 and 1. Consumers with large values of c
+prefer the traditional product rather than the GM product, all else equal. The assumption that A.c is greater
+than or equal to 0 is consistent with evidence showing
+that consumers are either indifferent or opposed to GM
+products (Hobbs and Plunkett, 1999). 3 The analysis
+initially assumes that consumers are uniformly distributed between the polar values of c. This assumption
+is then modified to allow a bunching or a concentration
+of consumers at the ends of the spectrum (i.e. 0 and 1).
+Fig. 1 illustrates the situation where no GM product has been introduced. By assumption, the net utility associated with the traditional good is greater than
+that associated with the substitute good, i.e. U - Pt >
+U-Ps, for all consumers. In such a case, all consumers
+purchase the traditional good and total consumer welfare is given by the shaded area in Fig. 1. The effect of
+introducing GM products into the market is examined
+in the following sections.
+
+3. Consumer behaviour when GM products are
+not labelled
+Consider first the situation where a GM product is
+introduced, but no labelling of the product is carried
+out. Because the GM product and its traditional counterpart are marketed together, the price faced by the
+consumer, Pnl, is the same regardless of which product is purchased. The lack of information about the
+type of the product being sold means that consumers
+are uncertain as to the nature of the product they purchase. Since the presence or absence of the GM is
+not detectable with either search or experience, the
+GM can be referred to as a credence characteristic
+(Darby and Karni, 1973; Nelson, 1974). Assuming a
+3 While our analysis applies to the producer-focused, first generation, GM products, the model can be extended, with some
+modification, to analyse the consequences from the introduction of
+consumer-oriented GM products. Specifically, if the new generation of GM products manages to possess attributes valued by consumers (e.g. nutraceuticals), the current aversion to GM products
+could become preference for GM products with desirable characteristics. In such a case, the parameter c in the model would capture heterogeneous consumer preferences and ?-.c would represent
+utility enhancement (rather than utility discount) from the consumption of GM products (i.e. the relevant utility function would
+be written as Ugm = U - Pgm +?-.c).
+
+K. Giannakas, M Fulton/ Agricultural Economics 27 (2002) 97-109
+
+100
+
+Consumer utility
+
+Differentiating consumer attribute (c)
+Fig. 1. Consumer decisions and welfare prior to the introduction of GM food.
+
+probability of 1/f that the non-labelled product purchased is GM, consumer utility is now4
+Unl
+
+= U- Pnl -1/fA.c
+
+if a unit of non-labelled product is consumed,
+and
+Us= U-Ps
+
+if a unit of a substitute product is consumed
+where Unl is the expected per unit utility associated
+with purchasing the non-labelled product (i.e. Unl =
+1/fUgm
+
++ (1 -1/f)Ut).
+
+The consumption choice of the individual consumer
+is determined by the relationship between the utilities
+derived from the non-labelled product and the substitute. More specifically, the consumer with aversion to
+GM product given by:
+
+4 The probability that the non-labelled product is GM can be
+seen as reflecting the share of the GM product in total production
+(i.e. the portion of margarine that is genetically modified in the
+example provided in footnote 1). The greater is the production
+share of the GM version of the product, the greater is the likelihood
+that the non-labelled product is GM.
+
+is indifferent between consuming a unit of non-labelled
+product and a unit of the substitute-the utility associated with the consumption of these offerings is the
+same. Obviously, consumers with a lower aversion to
+GM products (i.e. consumers with c E [0, c~1 )) will
+prefer the non-labelled product while consumers with
+higher aversion to GM products (i.e. consumers with
+c E (c~1 , 1]) will consume the substitute. 5
+Since consumers have been assumed to be uniformly distributed with respect to their aversion to OM
+products, the level of aversion corresponding to the
+indifferent consumer, c~, also determines the share
+of the non-labelled product to total consumption, SnJ·
+The consumption share of the substitute, Ss, is given
+by 1 - c~ 1 . More specifically, SnJ and Ss can be written
+as:
+
+5 The focus of the analysis on individuals that were consumers
+of the product prior to its genetic modification guarantees the
+positive sign of c~1 . More specifically, for consumers to prefer
+the product prior to its genetic modification it should hold that
+U - Pt > U - Ps where Pt represents the price of the product
+before genetic engineering. Due to the cost savings associated with
+the new technology, the price of the non-labelled product Pnl will
+be less than, or equal to, Pt.
+
+K. Giannakas, M. Fulton/ Agricultural Economics 27 (2002) 97-109
+
+101
+
+Consumer utility
+
+V-Pnl
+
+U-pt
+
+U-ps
+
+0~--------------------~.--------------------~
+Cnz
+
+Differentiating consumer attribute (c)
+Fig. 2. Consumption decisions and welfare effects under GM and no labelling.
+
+and
+Ss
+
+Ps- Pnl
+= 1- :....::._....::.....:=
+1/rA.
+
+Fig. 2 graphs the determination of s 111 and ss. The
+downward sloping curve graphs the utility associated
+with the unit consumption of the non-labelled product for different levels of the differentiating attribute
+c, while the (continuous) horizontal line shows the
+utility derived from the consumption of the substitute. The dashed U - Pt curve is the utility curve
+prior to GM. Thus, Fig. 2 is constructed on the
+assumption that the price of the non-labelled product equals the price of the traditional product, i.e.
+Pnl = Pt·
+The intersection of the two (continuous) utility
+curves determines the level of the differentiating
+attribute that corresponds to the indifferent consumer, c~ 1 , as well as the consumption shares of the
+non-labelled product and the substitute. Consumers
+'located' to the left of c~1 purchase the non-labelled
+product while consumers located to the right of c~1
+find it optimal to consume the substitute. Consumer
+welfare under no labelling is given by the area under
+
+the effective utility curve shown as the bold kinked
+curve in Fig. 2. 6
+Comparative statics results can easily be drawn from
+this model. More specifically, a decrease in the price of
+the non-labelled product shifts the Unt curve upwards
+and increases Sn! while an increase in the price of the
+substitute causes a downward shift of the Us curve
+that increases Sn! (i.e. asnJ/aPnl < 0 and asnJ/aps >
+0). Finally, an increase in A. (i.e. an increase in the
+utility discount from consuming GM product for any
+level of c) and/or an increase in the likelihood that
+the non-labelled product is genetically modified, 1jr,
+6 Relaxing the assumption that the substitute product (e.g. butter
+and potato chips in the examples above) remains free of GM
+ingredients would result in a clockwise rotation of the utility curve
+associated with its consumption through the intercept at U - p,
+in Fig. 2. Similar to the case of the non-labelled product, the
+slope of the new utility curve for the substitute product would
+be determined by the utility discount factor A, and the share of
+the GM version of the substitute product to its total production.
+Obviously, genetic modification of the substitute product reduces
+consumer welfare and increases the consumption share of the
+non-labelled product (i.e. margarine and corn chips) relative to the
+case where the substitute (i.e. butter or potato chips) remained in
+its conventional form.
+
+K. Giannakas, M. Fulton! Agricultural Economics 27 (2002) 97-109
+
+102
+
+Consumer utility
+
+U-pnz
+U-p,
+U-ps
+
+Differentiating consumer attribute (c)
+Fig. 3. Welfare effects when GM reduces the market price (Pnl < Ptl·
+
+cause a clockwise rotation of the U0 1 curve through
+the intercept at U - Pol that reduces the share of
+the non-labelled product to total consumption (i.e.
+Bs0 1/BA. < 0 and Bs0 1/B1/I < 0).
+The effect of GM on consumer welfare depends
+largely on the effect of the technology introduction on
+the market price of the non-labelled product. The effect
+of GM on the final price of the product determines
+whether there will be any gains for consumers as well
+as the extent of losses due to consumer aversion to
+GM technology.
+More specifically, if the existence of market imperfections in one or more stages of the food chain
+prevents the transmission of the cost savings to the
+consumers, the price seen by consumers is not affected
+by GM. As was noted earlier, Fig. 2 is constructed
+on the assumption that the price of the non-labelled
+product remains unchanged, i.e. Pol = Pt· Under this
+assumption, the introduction of GM products leads to
+a loss in welfare to consumers in aggregate. This loss
+in welfare is given by the hatched area. Although the
+consumers located at c = 0 experience no loss in welfare, all consumers located to the right of this point
+see their utility fall. The extent of the realised welfare
+loss depends on the level of consumer aversion to
+
+GM products c, the utility discount factor A, and the
+likelihood that the non-labelled product is GM, 1/J.
+If the production costs savings due to GM are transmitted to consumers (i.e. in the case of a perfectly competitive food chain), GM technology reduces the price
+of the product relative to its price prior to GM, Pt, and
+consumers with relatively low level of GM aversion
+will realise an increase in their welfare. Consumers
+with relatively high aversion to GM product experience a reduction in their welfare since the price effect
+of GM is outweighed by the utility discount from GM
+product consumption. Fig. 3 graphs the effect of GM
+on consumer welfare when Pol < Pt·
+The analysis can be easily modified to examine
+cases where consumers are not uniformly distributed
+with respect to their value of c but, rather, are lumped
+at either end of the continuum. For instance, when
+consumers do not perceive GM products as being different from their conventional counterparts (i.e. when
+c = 0 for all consumers), the introduction of the new
+technology will either leave the welfare of consumers
+unaffected (case where Pol = Pt. Fig. 2), or will make
+all consumers better off (case where Pol < Pt, Fig. 3).
+On the other hand, when the aversion of all consumers
+is relatively high (i.e. when c = 1 for all consumers),
+
+K. Giannakas, M. Fulton/ Agricultural Economics 27 (2002) 97-109
+
+GM will cause consumer welfare to fall. More generally, when the distribution of consumers is continuous
+(but not uniform), the welfare effects of GM depend
+on its skewness, i.e. the more skewed is the distribution towards 1, the greater are the losses and the lower
+are the gains (when Pnl < Pt) from the introduction
+of the new technology.
+Overall, the results of this section show that GM
+technology and no labelling may result in some consumption switching to the substitute good and a net
+welfare loss. If the number of consumers experiencing
+a welfare loss is substantial, a ban could be both rational and welfare improving. For net consumer losses
+to be realised it must hold that: (i) the price decrease
+from GM (if any) is relatively small; (ii) the discount
+in utility from consuming the GM product is relatively
+high; (iii) the likelihood that the non-labelled product
+is genetically modified is relatively high; and/or (iv)
+consumers are concentrated at the right hand edge of
+the aversion spectrum.
+
+4. Consumer behaviour with mandatory labelling
+and full compliance
+Consider now the consumer choice problem in an
+institutional arrangement with a mandatory labelling
+regime in place. In this case, traditional (non-GM) and
+GM products are segregated and marketed separately.
+Consumers now have a choice between a non-GM
+labelled product, its GM labelled counterpart, and a
+substitute product. 7 Consumer utility is given by:
+U[ =U-p;
+
+if a unit of non-GM labelled product is consumed,
+7 While the analysis assumes that both GM and traditional products are legally required to be labelled, the results are more general
+and apply to the case where only the GM or the traditional product
+has to be labelled. Specifically, when only traditional products are
+labelled, unlabelled products will be perceived as GM products.
+Similarly, if GM products are legally required to be labelled as
+such, unlabelled products will be perceived as being traditional.
+This symmetry does not hold, of course, when labelling is voluntary. With voluntary labelling, the labelling of a product as GM
+does not imply that non-labelled products are traditional in nature.
+Thus, suppliers of traditional food will always have incentives to
+label their produce as being traditional. Consumers would perceive
+products that are not labelled as traditional as being genetically
+modified.
+
+Ugm
+
+=
+
+103
+
+U - Pgm - A.c
+
+if a unit of GM labelled product is consumed,
+and
+Us= U-Ps
+
+if a unit of a substitute product is consumed
+where pf is the price of the traditional product after the
+introduction of the new technology. All other variables
+are as previously defined.
+The GM product and the non-GM product are not
+necessarily priced the same. In fact for any (positive) quantity of the GM labelled product to be demanded (i.e. for Ugm to exceed U[),Pgm should be less
+than pf. There are two reasons why the GM product
+will be priced lower than its traditional counterpart.
+First, mandatory labelling means increased marketing
+and segregation costs. These transaction costs associated with identity preservation cause consumer prices
+to rise. The majority of these costs are incurred in
+the non-GM labelled product chain (Lindner, 2000),
+which, in turn, implies that consumers of the traditional product face a greater price increase. 8 Second,
+it is assumed that GM technology generates production cost savings at the farm level. Some, if not all, of
+the cost savings may be transmitted to the consumer
+of the GM product.
+Not only do the existence of marketing and segregation costs imply that U - Pgm > U - pf, the
+size of these costs significantly affects the consumption shares of the products being examined. More
+specifically, the greater the marketing and segregation costs, the greater is the price increase of the
+non-GM labelled product (relative to the price of the
+product prior to GM, Pt), and the lower is the utility
+associated with the unit consumption of the non-GM
+labelled product, U(. For relatively high marketing
+and segregation costs, the utility from consuming the
+non-GM labelled product might fall below the utility
+8 The labelling of one type of product would only affect the
+quantitative nature of the results by reducing the labelling costs in
+the supply chain of the product that would not have to be labelled.
+However, when any type of labelling occurs, traditional and GM
+products will have to be segregated. The segregation costs will
+always be higher for producers of the traditional product due to
+the effort required to preserve the identity of their produce by
+keeping it separate from the GM product that consumers regard
+as being inferior.
+
+K. Giannakas, M. Fulton/ Agricultural Economics 27 (2002) 97-109
+
+104
+
+Consumer utility
+
+U-Pgm
+
+14------Sgm
+
+0
+
+*
+
+Cf
+
+Differentiating consumer attribute (c)
+Fig. 4. Consumption decisions and welfare effects when segregation costs are relatively low (U-p; > U-Ps) and
+
+associated with the consumption of the substitute (i.e.
+U- pf < U - Ps). In such a case, consumers with
+a relatively high aversion to GM products will switch
+to the substitute product-there is no market demand
+for the traditional (non-GM) product.
+Fig. 4 depicts the consumption decisions under
+mandatory labelling when marketing and segregation
+costs are relatively low (i.e. when U - pf > U - p 5 ).
+In this case, no consumer switches to the substitute.
+The consumption shares of the GM and non-GM labelled products are determined by the intersection of
+the Ugm and U{ utility curves. The consumer with
+aversion to GM given by
+
+* : U - Pgm - A.c *
+1
+
+c1
+
+=U -
+
+Pt1
+
+pf- Pgm
+=* c1* = ----'--)..----=--
+
+is indifferent between consuming a unit of GM and
+non-GM labelled product-the utility associated with
+the consumption of these offerings is the same. Consumers with low aversion to GM products (i.e. consumers with c E [0, c!)) prefer the GM product, while
+consumers with high aversion to GM products (i.e.
+consumers with c E (c~, l]) consume the non-GM labelled product.
+
+Pgm <p 1•
+
+When consumers are uniformly distributed between
+the polar values of c, c~ also determines the share
+of the GM product in total consumption, Sgm· The
+consumption share of the non-GM labelled product,
+St. is given by 1 - c~, i.e.
+sgm=
+
+pf- Pgm
+)..
+
+(=ct)
+
+and
+St
+
+=
+
+I
+
+1 _ Pt - Pgm
+)..
+
+Obviously, the share of the GM labelled product falls
+as its price and/or the utility discount factor increase,
+and rises as the price of the non-GM labelled product
+increases (i.e. Bsgm/BPgm < 0, Bsgm/BA. < 0, and
+Bsgm/Bpf > 0).
+When the transaction costs from mandatory labelling are relatively high (i.e. when U- pf < U- p 5 ),
+some consumers switch to the substitute product.
+The consumption shares of the GM product and the
+substitute product are determined by the intersection of the Ugm and Us curves (Fig. 5) and can be
+
+K. Giannakas, M. Fulton/ Agricultural Economics 27 (2002) 97-109
+
+105
+
+Consumer utility
+
+U-pgm
+
+U-pt
+
+U-p,
+U-p;
+
+s,
+
+0
+Differentiating consumer attribute (c)
+Fig. 5. Consumption decisions and welfare effects when segregation costs are relatively high (U-p; < U-Ps) and Pgm <p1 •
+
+written as:
+Ps- Pgm
+*
+Sgm =
+(= cl)
+A
+and
+
+=
+
+l _ Ps - Pgm
+A
+Similar to the case of smaller marketing and segregation costs examined earlier, Sgm falls as Pgm and/or A
+increase, and rises asPs increases (i.e. asgm/aPgm <
+0, asgm/aA < 0, and asgm/aps > 0).
+The welfare effects of GM under mandatory labelling clearly depend on the effect of GM technology
+on the price of the GM product. More specifically, if
+the price of the GM product is less than the price of
+the product prior to its GM (i.e. if Pgm <p1) consumers
+with relatively low aversion to GM product will gain
+from the new technology. Consumers with relatively
+high aversion to GM product experience a reduction in
+their welfare due to: (i) the utility discount from GM
+product consumption; and (ii) the price increase of the
+traditional product caused by the marketing and segregation costs. Note that for Pgm to be reduced relative
+to pr, two conditions should be met. First, the market
+Ss
+
+structure must be such that production costs savings
+from the GM technology are transmitted to consumers
+and, second, the effect of the reduced production costs
+on the market price of the GM product should outweigh the effect of increased transaction costs associated with mandatory labelling.
+Fig. 4 graphs the effect of GM on consumer welfare
+when marketing costs are relatively low (i.e. U- pf >
+U - Ps) and Pgm <Pt. The dashed U - Pt curve is the
+utility curve prior to GM. For net consumer gains to be
+realised it should hold that: (i) the price decrease from
+GM is relatively high, (ii) the discount in utility from
+consuming the GM product is relatively low, and/or
+(iii) the marketing and segregation costs are relatively
+low. A bunching of consumers at the left-hand edge
+or the right-hand edge of the diagram would increase
+the gain or loss, respectively.
+More specifically, the greater the price reduction
+from GM, the greater the upward shift of the Ugm
+curve, the greater the consumer gains and the lower the
+welfare loss from the new technology. Similarly, the
+lower the A, the greater the slope of the Ugm curve,
+the greater the gains and the lower the consumer
+losses from GM. Finally, the greater the marketing and
+
+K. Giannakas, M. Fulton/ Agricultural Economics 27 (2002) 97-109
+
+106
+
+segregation costs incurred in the non-GM product
+chain, the greater the downward shift of the U - pf
+curve and the greater the consumer welfare losses
+from the new technology.
+Fig. 5 depicts the welfare effects of GM when the
+transaction costs from mandatory labelling are relative!~ high (i.e. when U- pf < U-Ps) and Pgm 2:: Pt·
+In this case, no consumers gain from the new technology. The extent of the realised welfare losses depends
+on the level of aversion to GM c, the utility discount
+factor A., and the level of Pgm·
+
+5. Consumer behaviour under mandatory
+labelling: the effect of mislabelling
+This section of the paper analyses the consequences
+of mislabelling on consumer purchasing decisions and
+welfare. Mislabelling refers to the case where producers or processors misrepresent the type of the product
+sold in the market; they label GM products as non-GM
+(or in a case where only GM products are required
+to be labelled, they fail to label their GM products as
+such) in an attempt to capture the price premium paid
+for traditional (non-GM) produce.
+When incidents of mislabelling occur in the food
+marketing system, consumer trust in labelling falls.
+Consumers can be expected to assign a probability to
+the event that what is labelled as 'non-GM' is in fact
+genetically modified. Because of the uncertainty regarding the nature of the product consumed, the utility
+derived from the consumption of the non-GM labelled
+product,
+equals e[U- pf- A.c] + (1- e)[V- p1 ],
+where e is the likelihood that the non-GM label is fal~e
+and the product is actually genetically modified.9
+Taking into account this uncertainty, the consumer
+utility under mislabelling becomes:
+
+uzn,
+
+Utm
+
+=
+
+U -
+
+pf - eA.c
+
+and
+Us= U-Ps
+
+if a unit of a substitute product is consumed.
+Relative to the situation of full compliance examined in the previous section, product misrepresentation results in a discount in the utility associated with
+the consumption of the non-GM labelled product.
+Graphically, this utility discount can be seen as a
+clockwise rotation of the utility curve associated with
+the non-GM labelled product through the intercept at
+U - pf in Figs. 5 and 6.
+Consider first the case where marketing and segregation costs are relatively low (i.e. U - p~ > U - Ps).
+Compared to the case where mislabelling does not
+occur, mislabelling reduces both consumer welfare
+(shaded area in Fig. 6) and the consumption share of
+the non-GM labelled product. Some of the (previously)
+non-GM labelled product consumers (i.e. those with
+cE(c/, ci]) switch to the GM labelled product while
+consumers with a relatively high level of c (i.e. consumers with cE(c2, 1]) switch to the substitute. The
+greater the probability ethat the non-GM label is false
+and/or the greater the utility discount from the consumption of GM products, A., the greater the welfare
+losses from mislabelling and the greater the share of
+non-GM product consumers that switch to the GM
+product and the substitute.
+In the presence of mislabelling, the consumption
+share of the GM labelled product, sgm• equals c 1 , the
+share of the non-GM labelled product, St. equals c 2 CJ, while 1 - c2 percent of consumption moves to
+the substitute. Mathematically, the consumption shares
+can be written as
+
+=
+
+s
+gm
+
+St
+
+= :Ps_____ _.:pf
+.___:_
+eA.
+
+if a unit of non-GM labelled product is consumed,
+Ugm
+
+= U-
+
+I
+
+Pt- Pgm _
+A.(1 -e) (- CJ)
+
+pf- Pgm
+
+A.(l-e) (=c2-CJ)
+
+and
+Pgm- A.c
+
+I
+
+Ss
+
+if a unit of GM labelled product is consumed,
+9
+
+Note that the consumer utility when the non-GM labelled
+product is GM is given by U-p;- J...c (rather than U-p m - J...c)
+since the price paid for the consumption of the product isg (and
+not Pgm).
+
+p;
+
+= 1-
+
+Ps e~ Pt ( = 1 - C2)
+
+When the marketing and segregation costs are relatively high (i.e. when U - pf < U - Ps), then mislabelling, as opposed to full compliance, has no effect
+on either welfare or the consumption decisions of
+
+K. Giannakas, M. Fulton/ Agricultural Economics 27 (2002) 97-109
+
+107
+
+Consumer utility
+
+-+-
+
+Sgnz
+
+st
+
+_____.
+
+-+-
+
+ss _____.
+
+Cz*
+Differentiating consumer attribute (c)
+Fig. 6. Consumption and welfare effects of mislabelling when segregation costs are relatively low (U -
+
+consumers since in this case no traditional (non-GM)
+product is consumed (Fig. 5).
+
+6. No labelling versus mandatory labelling
+After having analysed the consumption effects of
+GM technology under the 'no labelling' and 'mandatory labelling' regimes, the question that naturally
+arises is which labelling regime dominates in terms of
+its effect on consumer welfare. Or put in a different
+way, since the introduction of GM products can result
+in net welfare losses under both the 'no labelling'
+and the 'mandatory labelling' regimes, what regime
+harms consumers the least?
+The determination of the factors affecting the relative performance of the two labelling regimes is
+straightforward. Fig. 7 shows the effective utility
+curves under no labelling (dashed kinked curve) and
+mandatory labelling under full compliance (solid
+kinked curve) when the marketing and segregation
+costs are relatively low. For simplicity and without
+loss of generality Fig. 7 depicts the situation in which
+
+p; >
+
+U - Ps).
+
+the price of the non-labelled product Pnl equals the
+price of the GM labelled product Pgm.
+The shaded area NL reflects consumer utility under
+the no labelling regime that is lost when mandatory
+labelling is introduced. Similarly, the area ML represents consumer utility that is lost from a switch from
+mandatory labelling to no labelling. Obviously, consumers located to the right of c+ will favour mandatory labelling, while for consumers located to the left
+of c+ no labelling is the preferred labelling regime.
+The ranking of the labelling regimes in terms of their
+net effect on consumer welfare depends on the relative size of the shaded areas in Fig. 7; if NL is greater
+than ML, then no labelling is the superior regime. Obviously, when the assumption of a uniform distribution of consumers is relaxed, the welfare ranking of
+the two labelling regimes is affected by the skewness
+of the distribution. In general, the greater the number of consumers that are characterised by a relatively
+high aversion to GM products (i.e. the more skewed
+towards one is the distribution of consumers with respect to their value of c), the greater the likelihood that
+mandatory labelling is the preferred labelling regime.
+
+K. Giannakas, M. Fulton/Agricultural Economics 27 (2002) 97-109
+
+108
+
+Consumer utility
+
+U-Pnt
+U-Pgm
+
+U-ps
+
+0
+Differentiating consumer attribute (c)
+Fig. 7. Mandatory labelling vs. no labelling when segregation costs are relatively low (U-p; > U- p 8 ).
+
+Comparative statics results can easily be derived
+from Fig. 7. For instance, an increase in the likelihood
+that the non-labelled product is GM (i.e. an increase in
+1/J') causes a clockwise rotation of the UnJ curve (Unl =
+U- Pnr-1/1' "Ac) that increases ML and reduces NL. The
+greater is 1/J', the greater is the consumer support for
+mandatory labelling. Similarly, an increase in the marketing and segregation costs associated with mandatory labelling will shift the U - pf and U - Pgm - "Ac
+curves downward increasing NL and reducing ML.
+The greater the marketing and segregation costs, the
+greater the proportion of consumers favouring no labelling; when marketing and segregation costs are relatively high (i.e. when U - pf < U - p8 ) the area ML
+vanishes and no labelling is the superior regime.
+Finally, when the assumption of full compliance
+is relaxed and the possibility of product misrepresentation is introduced, the mandatory labelling regime
+becomes even less appealing from the consumers'
+standpoint; mislabelling increases the likelihood that
+no labelling is superior in terms of its effects on total
+consumer welfare. The greater the probability that
+mislabelling occurs, the greater the consumer utility
+losses under mandatory labelling, and the greater
+
+the likelihood that an ali-or-nothing choice between
+the two labelling regimes in terms of their effect on
+consumer utility will favour no labelling.
+
+7. Concluding remarks
+This paper develops a model of differentiated consumers to examine the effects of GM technology on
+the welfare and purchasing behaviour of consumers.
+The conclusion of this paper is that if consumers perceive GM products to be different from their traditional counterparts, then demands for the banning of
+GM products and GM labelling are rational. For instance, when the existence of market imperfections in
+one or more stages of the supply chain prevents the
+transmission of the cost savings associated with the
+GM technology to consumers, then the introduction
+of GM products will generally result in welfare losses
+for consumers. This is true regardless of the labelling
+regime that is in place.
+Given that GM products have been introduced
+into the food system, the analysis also shows that
+the relative welfare ranking of the 'no labelling' and
+
+K. Giannakas, M. Fulton/ Agricultural Economics 27 (2002) 97-109
+
+'mandatory labelling' regimes depends on: (i) the
+level of consumer aversion to GM products, (ii) the
+segregation costs associated with mandatory labelling;
+(iii) the share of the GM product in total production;
+and (iv) the extent of mislabelling. More specifically, the greater the segregation costs associated with
+mandatory labelling, the greater the likelihood that no
+labelling is the superior labelling regime. The greater
+the likelihood that the non-labelled product is GM,
+the greater the likelihood that mandatory labelling
+will be preferred.
+Finally, when the possibility of product mislabelling is introduced into the analysis, the desirability
+of mandatory labelling by consumers falls. The uncertainty about product characteristics due to mislabelling
+reduces consumer welfare and drives some non-GM
+product consumers out of the market. The lower
+the level of trust in the labelling system, the greater
+the expectation that mislabelling occurs, the greater
+the consumer utility losses under mandatory labelling,
+and the greater the likelihood that an aU-or-nothing
+choice between the two labelling regimes in terms of
+their welfare implications favours no labelling.
+The results of this paper can provide an explanation for policy decisions about GM technology and
+labelling observed around the world. Relatively low
+(or zero) consumer aversion to genetic engineering
+coupled with a reduced price of GM products and
+significant segregation costs associated with mandatory labelling could be among the reasons why a 'no
+labelling' policy has been adopted by countries such
+as the US and Canada. Increasing consumer concerns,
+however, and the relatively high level of consumer
+trust in the food safety institutions in both countries
+could increase the relative efficiency of, and hence the
+consumer demand for, mandatory labelling.
+A relatively high aversion to GM technology coupled with a lack of a price reduction for GM products
+would rationalise mandatory labelling, an outcome
+seen in various EU countries. However, a high level
+of distrust of food safety and inspection systems can
+undermine the value of labelling. This result sheds
+light on the demand for an outright ban of GM
+
+109
+
+products by some European consumers, since faith in
+the food inspection systems there has been reduced
+by food safety scares such as the Bovine Spongiform Encephalopathy (BSE) crisis in the British beef
+industry.
+In summary, consumer concerns about GM products
+can be expected to affect consumption decisions and
+to influence the public policy response demanded by
+consumers. These consumption decisions, along with
+the decisions made by policy makers as to how GM
+products are introduced into the food system, can have
+significant impacts on the demand for GM products
+throughout the food system. These system effects, in
+turn, will affect the decisions made by farmers as to
+which crops they grow as well as decisions made by
+life science companies as to the pricing and the development of GM technologies.
+References
+Caswell, J., 1998. Should use of genetically modified organisms
+be labelled? AgBioForum 1, 22-24.
+Caswell, J.A., Mojduszka, E.M., 1996. Using informational
+labelling to influence the market for quality in food products.
+Am. J. Agric. Econ. 78, 1248-1253.
+Darby, M., Karni, E., 1973. Free competition and the optimal
+amount of fraud. J. Law Econ. 16, 67-88.
+Economic
+Research Service, 1999. Genetically engineered crops for pest
+management. Economic Research Service, US Department of
+Agriculture, www.econ.ag.gov/whatsnew/issues/biotech.
+Economist, 2000. Blech. 15 January, p. 69.
+Hobbs, J.E., Plunkett, M.D., 1999. Genetically modified foods:
+consumer issues and the role of information asymmetry. Can.
+J. Agric. Econ. 47, 445-455.
+Lindner, B., 2000. The future of Frankenstein foods. In:
+Proceedings of the Paper Presented at the 44th Annual
+Conference of the Australian Agricultural and Resource
+Economics Society, Sydney.
+Nelson, P., 1974. Advertising as information. J. Polit. Econ. 81,
+729-754.
+Plunkett, M.D., Gaisford, J.D., 2000. Limiting biotechnology?
+Information problems and policy responses. Cur. Agric. Food
+Res. Iss. 1, 21-28.
+Runge, C.F., Jackson, L.A., 2000. Labelling, trade and genetically
+modified organisms (GMOs): a proposed solution. J. World
+Trade 34, 111-122.
+
+

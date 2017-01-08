@@ -1,0 +1,885 @@
+AGRICULTURAL
+ECONOMICS
+
+ELSEVIER
+
+Agricultural Economics 10 (1994) 193-200
+
+Extensification of agriculture and deforestation:
+empirical evidence from Sudan
+Abdelmoneim H. Elnagheeb
+Department of Agricultural and Applied Economics, Georgia Experiment Station, University of Georgia, Griffin, GA 30223-1797, USA
+
+Daniel W. Bromley *
+Department of Agricultural Economics, University of Wisconsin-Madison, 427 Lorch Street, Madison, WI 53706, USA
+(Accepted 29 June 1993)
+
+Abstract
+Extensification of agriculture is one of the major factors contributing to the destruction of forests in Africa. In
+Sudan, such horizontal expansion comes at the expense of land devoted to trees and other vegetation, thereby
+inducing conditions that are inimical to sustainable agricultural production. Different factors have contributed to
+extensification. Although high economic returns from crop (mainly sorghum) production was an important factor
+encouraging extensification of rainfed mechanized farming, other factors outside agriculture have also contributed to
+that expansion. This paper uses data from eastern Sudan and an acreage response model, to identify the most
+important factors influencing acreage expansion. Different measures and forms of risk were used in the acreage
+response model. The paper shows how policies in the energy sector can indirectly influence acreage expansion in the
+agricultural sector.
+
+1. Introduction
+
+Degradation of natural resources in the developing countries can be regarded as arising for
+three primary reasons: (1) explicit government
+policies to satisfy domestic needs or to increase
+exports to earn foreign exchange; (2) misguided
+management policies that have as their intent the
+actual protection of natural resources; and (3) the
+interrelations between other economic policies
+
+and the natural resource base of a country
+(Bromley, 1986). In this paper we report on empirical research highlighting the third of these
+phenomena - the interaction of various economic
+policies and events that may seem, on the surface, to be unrelated. Specifically, this research
+illustrates the linkage between energy supply and
+pricing policy and agricultural extensification that is, the horizontal expansion of agriculture
+into forested areas - in eastern Sudan. 1 While
+
+* Corresponding author.
+
+1 The impacts of agricultural extensification on forestry and
+agricultural production have been discussed elsewhere (e.g.
+Elnagheeb and Bromley, 1992; Ibrahim, 1987).
+
+0169-5150/94/$07.00 © 1994 Elsevier Science B.V. All rights reserved
+SSDI 0169-5150(93)E0036-M
+
+194
+
+A. H. Elnagheeb, D. W Bromley j Agricultural Economics 10 (1994) 193-200
+
+the specific venue of the research is Sudan, similar phenomena exist throughout the Sahel.
+When imported oil was a cheap source of
+energy in Sudan, there was scant incentive to
+clear land for charcoal production. The high cost
+of land clearing was one of the main factors that
+protected forested areas against horizontal expansion of rainfed agriculture (Affan, 1984).
+However, when oil prices began to rise in the
+1970's, charcoal suddenly became a competitive
+energy source for urban dwellers deprived of
+affordable petroleum products. Moreover, the increase in the population of urban areas from
+in-migration has led to significant increases in the
+demand for charcoal. The subsequent increase in
+charcoal prices soon cast the forest in a new light
+to farmers and herders who then began to exploit
+forests to produce charcoal for urban markets.
+Consequently, the increased revenue potential
+from clearing land for agriculture has meant that
+land-clearing costs no longer act as an impediment to accelerated deforestation for creating
+arable land. Hence, the high returns from charcoal production were hypothesized to be another
+important factor contributing to the expansion of
+agriculture into marginal lands at the expense of
+forested areas. This continued expansion of rainfed agriculture in response to important but unintended incentives can be a serious policy problem
+facing many poor countries.
+2. Setting
+
+The rainfed mechanized farming schemes got
+their start in Sudan in 1944, in an area of about
+12 000 feddans, 2 primarily to feed troops stationed in East Africa during World War II. The
+Government then began to encourage the private
+sector to participate in these schemes. The high
+economic returns of early settlers encouraged
+other participants and so resulted in a fairly rapid
+expansion of the area cleared for cultivation. By
+1985 the total area under rainfed mechanized
+farming was about 7.4 million feddans (Earl,
+1985). While called mechanized farming, in fact
+2
+
+feddan = 1.04 acre "' 0.42 ha.
+
+only land preparation and sowing are mechanized. Weeding (if any) and harvesting are manual operations. The grain is cut by hand and
+threshed by stationary harvesters (Ibnouf, 1985).
+Four crops are grown - dura (sorghum), sesame,
+millet and cotton. However, dura accounts for
+80-90% of the land area (Affan, 1984). Sesame is
+the second most important crop, while millet and
+cotton are grown in very limited areas. This trend
+seems persistent over time.
+On the rainfed mechanized schemes, land is
+leased by the Government to farmers in lots of
+1000-2000 feddans for a renewable period of 25
+years at a nominal land rent (LS0.05 per feddan
+per year 3 - approximately $0.13 per acre - in
+1976). These farms are referred to as demarcated
+farms. In addition to the demarcated farms, there
+are large areas of land that have been cleared
+without authorization; these areas are referred to
+as undemarcated farms. Whether authorized (demarcated) or not, the typical farming practice is
+continuous cropping - defined here as putting
+cleared land under production of the same crop
+(dura) for successive years without fallowing (or
+with a very short fallow period). Shifting cultivation to new areas (which are sometimes marginal
+lands) occurs when yields decline below a profitable level. Although some ecological safeguards
+- such as shelterbelts and crop rotation - are
+required by the Mechanized Farming Corporation, these practices are rarely followed. In general, no fertilizers, insecticides or pesticides are
+applied to these cropped lands and so it comes as
+no surprise that, over time, productivity declines. 4
+3. Empirical model
+An acreage response model was used to study
+the acreage expansion in the rainfed mechanized
+
+LS, Sudanese pound= $2.70 in 1976.
+Fertilizers, insecticides and pesticides are imported and
+made available only to irrigated schemes. Following the rotation prescribed by the Mechanized Farming Corporation
+(MFC) would eliminate (or at least reduce) the need for these
+chemicals in the rainfed mechanized farms. However, easy
+access to land and lack of law enforcement discourage farmers to follow the MFC's recommendations.
+3
+4
+
+A H Elnagheeb, D W Bromley/ Agncultura/ Economrcs 10 (1994) 193-200
+
+sector of Sudan. In most of the econometric
+studies of acreage response it has been recognized that risk with respect to price, yield and
+income influences farmers' production decisions
+(Adesina and Brorsen, 1987; Behrman, 1968;
+Chavas and Holt, 1990; Just, 1974; Ryan, 1977;
+Trail, 1978; Wilson et al., 1980; Wolgin, 1975). In
+these studies, risk has been expressed in a 'symmetric' form which considers both very high and
+very low returns as undesirable (Markowitz, 1970).
+However, one expects producers to be more concerned about negative than positive deviations
+from a targeted price, yield or income. Therefore,
+an 'asymmetric' risk analysis that utilizes only the
+negative deviations may be preferred to a symmetric risk analysis (Tronstad and McNeill, 1989).
+Models estimated in this paper utilize both
+symmetric and asymmetric forms of risk. Different variables were used to represent riskiness of
+price or production. These variables range from
+simple expressions such as a moving range or
+absolute difference between expected and actual
+price (Brennan, 1980) to more complicated expressions such as moving standard deviations
+(Behrman, 1968; Just, 1974).
+Dura accounts for 80-90% of the land area
+under the rainfed mechanized sector (Affan,
+1984). Hence, the focus here is on the acreage
+response for dura only. Millet and cotton are
+grown on very limited areas. Therefore, variation
+in prices of millet and cotton can be expected not
+to affect the acreage response for dura. Sesame is
+the second crop in rainfed agriculture and shares
+with millet and cotton the remaining 10-20% of
+the land area. Therefore, the initial models included sesame price, sesame price risk and the
+covariance between dura and sesame prices as
+explanatory variables. However, nested F-tests
+could not reject the null hypothesis that all coefficients on sesame variables were simultaneously
+equal to zero. Hence, these variables are not
+included in the empirical model. The price of
+charcoal is included because farmers can make
+use of cleared trees to produce charcoal. This is
+expected to be an added incentive for farmers to
+clear more land for cultivation. The revenue from
+charcoal can offset, or at least reduce, the cost of
+land clearance (Earl, 1985). The empirical model,
+
+195
+
+based on Behrman (1968), is given by Eq. (1):
+ln(A 1 ) ={3 0 +{3 1 EDP 1 +{3 2 C1 +{3 3
++ {3 5
+
+ERF1 +
+
+{3 6
+
+DPR 1 +
+
+{3 7
+
+CP 1 +{3 4 EDY1
+RFR 1 +
+
+e1
+
+( 1)
+where
+er=per-I+ur
+
+and
+u 1 = N(O,
+
+0" 2 )
+
+and, for time period t, ln(A 1 ) is the natural
+logarithm of dura-cultivated area in feddan; EDP 1
+is expected dura real price 5 in 0.01 Sudanese
+pounds (LS) per kilogram; C 1 is cost of dura
+production in LS per feddan; CP 1 is charcoal price
+in LS per 80-lb sack 6 ; EDY1 is expected dura
+yield in kilogram per feddan; ERF1 is expected
+rainfall in millimeter; DPR 1 is dura price risk; and
+RFR 1 is rainfall risk. Economic theory provides
+little help in choosing the appropriate functional
+form and so different functional forms were tried.
+The form in Eq. (1) gives the best fit of the data.
+The data used in this study are limited to the
+eastern region (Gedarif) which contains the
+largest area devoted to rainfed mechanized agriculture. The data do not distinguish between
+demarcated and undemarcated schemes. More
+complete data were available for the period
+1969-1985 and were used for this study. Data
+sources include different publications. Data on
+areas cultivated, rainfall and yields are from the
+Mechanized Farming Corporation (MFC, 1984).
+The Department of Agricultural Economics and
+Statistics (1986, 1987, 1989) provided data on
+areas cultivated, yields and production costs, while
+the Department of Statistics (undated) is the
+source of data on prices. Data on consumer price
+index and charcoal prices are from the National
+Energy Administration (1987). Charcoal prices
+for the eastern region were not available. Hence,
+
+The consumer price index was used to deflate dura price
+and cost of production. While a price index for agricultural
+mputs would have been a better index for deflating costs of
+production, lack of data precluded this approach.
+6 lb, pound "" 0.454 kg.
+
+5
+
+A. H. Elnagheeb, D. W Bromley/ Agricultural Economics 10 (1994) 193-200
+
+196
+
+we used charcoal prices for the province of Khartoum, a main market for the charcoal produced
+in Gedarif. Costs of production data are supplemented with data from Thimm (1979) and El
+Hadari and Suliman (1980). The data are estimates based on cross-section surveys conducted
+annually by the different government departments.
+The expected real price (EDPt) is assumed to
+be a linear function of last year's real price (opt_ 1)
+according to the maximum-likelihood-estimated
+equation: 7
+EDPt
+
+= 0.0763468
+
++ 0.566671
+
+(2.035)
+
+(3.446)
+
+DPt-1
+
+(2)
+
+where t-values are given in parentheses.
+Farmers need not form expectations about
+charcoal price because charcoal making can proceed rapidly. Therefore, the price of charcoal at
+time t is the observed market price in that year.
+Land preparation and sowing costs are a major
+part of production costs and both are known to
+farmers before land allocation decisions are taken.
+Hence, production costs are treated as non-stochastic. The expected dura yield and expected
+rainfall are assumed to be last year's yield and
+rainfall, respectively. 8
+Two forms of risk analysis (symmetric and
+asymmetric) are used. Within each form two variables (simple and complex) are used to represent
+risk. Hereafter, Xt is dura real price or rainfall,
+while EXt refers to the expected value. For both
+price and rainfall risk, the following risk variables
+are defined. The symmetric-simple measure of
+risk (sxR~) is the absolute value of the difference
+between the actual and expected values for the
+previous year:
+SXR~
+
+= abs(Xt-l- EXt_ 1 )
+
+(3)
+
+7 A Durbin h-test indicated first-order autocorrelation. The
+equation was, therefore, estimated by maximum likelihood.
+8 Last year's rainfall gave better statistical results than the
+average rainfall over the last 2, 3 and 4 years. We also
+regressed yield on time and experimented with the expected
+values as a proxy for expected yield. However, yield from the
+previous year gave better statistical results.
+
+On the other hand, the symmetric-complex measure of risk (sxR~) is a moving standard deviation
+of X 1 over the previous three years (Behrman,
+1968):
+
+sxR~ =
+
+( 4)
+
+[ Ik(xt-k -xBARf;2]o.5
+
+where
+k=1,2,3
+
+The asymmetric-simple measure of risk (ASXR~)
+equals the absolute value of the difference between actual and expected values for the previous
+year if the expected value exceeds the actual
+corresponding value and zero otherwise:
+ASXR s1 =
+
+{
+
+abs(Xt_ 1 - EX 1 _
+0
+otherwise
+
+if
+
+1)
+
+EXt - I
+
+> XI- 1
+(5)
+
+(ASXR~)
+
+The
+
+asymmetric-complex measure of risk
+is given by:
+
+ASXR~ =
+
+[I:
+
+k(xRt-k) 2
+
+1
+
+2t
+
+5
+
+k=l,2,3
+
+(6)
+
+where
+x t - k - xBAR
+XRt-k = (
+
+X
+
+BAR,
+
+~
+
+if
+
+> xt-k
+
+xBAR
+
+.
+ot erw1se
+
+I
+
+Economic theory suggests that the supply of a
+commodity increases as its (expected) price increases ({3 1 > 0). An increase in production costs
+is expected to decrease the acreage for dura
+({3 2 < 0). By converting the cleared trees into
+charcoal the farmer can make some small profit,
+or at least reduce the net costs of land clearance.
+Therefore, we hypothesize that an increase in
+charcoal price will induce farmers to clear and
+cultivate more land ({3 3 > 0). An increase in expected yield (EDY) will mean an increase in expected income and so {3 4 is expected to be positive. Because we are concerned here with rainfed
+agriculture, the area cultivated is expected to
+increase as farmers expect higher rainfall ({3 5 > 0).
+Assuming that farmers are risk-averse, an increase in perceptions of risk (oPR or RFR) is
+expected to shift the acreage curve to the left
+({36 < 0; {37 < 0).
+
+A. H. Elnagheeb, D. W Bromley j Agricultural Economics 10 (1994) 193-200
+
+4. Empirical results
+
+Table I
+Results of the non-nested ]-test
+
+Four versions of Eq. (1) were estimated by
+maximum likelihood procedures (Judge et a!.,
+1982). The four versions differ only in the risk
+variables (oPR and RFR). Accordingly, these four
+versions are the symmetric-simple, symmetriccomplex, asymmetric-simple and asymmetriccomplex risk models. The symmetric form of risk
+is tested against the asymmetric form, and the
+simple measure of risk is tested against the complex measure using the non-nested ]-test (Davidson and MacKinnon, 1981). The results of the
+pairwise ]-test are presented in Table 1. Generally, Table 1 shows that the asymmetric-risk models were preferred to the symmetric-risk models
+and the simple measures of risk were preferred to
+complex measures (for more detail, see Elnagheeb and Bromley, 1991).
+Table 2 presents the maximum likelihood estimates of the four risk models along with the
+estimates of the conventional non-risk model. In
+all models, the majority of coefficients (at least
+
+Tested
+hypotheses (H 0 )
+SSRM
+SCRM
+ASRM
+ACRM
+
+197
+
+a
+
+Alternative hypotheses (H 1)
+SSRM
+2.007
+0.624
+
+SCRM
+
+ASRM
+
+-0.197
+
+1.489
+
+ACRM
+
+*
+
+***
+
+1.690
+0.900
+0.181
+
+**
+
+1.007
+
+" Entries are the values of the !-statistic for testing H 0 .
+SSRM, symmetric-simple risk model; SCRM, symmetric-complex risk model; ASRM, asymmetric-simple risk model;
+ACRM, asymmetric-complex risk model.
+*, * * and * * * indicate statistical significance at the 15%,
+10% and 5% level, respectively. A significant t implies the
+rejection of H 0 .
+
+five out of seven) are significant at the 5% level
+of significance. The signs of all significant coefficients conform with a priori expectations. Dura
+acreage increases with dura's expected price and
+expected yield and decreases with increases in
+the cost of production. The insignificance of the
+expected rainfall coefficient might be due to
+
+Table 2
+Maximum likelihood estimates of dura acreage response function
+Variable
+
+Intercept
+Expected dura
+price, EDP
+Cost, C
+Charcoal
+price, cP
+Expected dura
+yield, EDY
+Expected
+rainfall, ERF
+Dura pricerisk, DPR
+Rainfall
+risk, RFR
+Rho, p
+Chi-square
+
+Model
+SSRM
+
+SCRM
+
+6.5383 * * *
+(17.323)
+4.8874 ***
+(3.988)
+-12.6588 * *
+(- 3.230)
+0.06443 * * *
+(3.243)
+0.001305 **
+(2.043)
+0.0006
+(1.259)
+-2.51142 **
+(- 2.235)
+- 0.0011524 *
+( -1.726)
+- 0.508720 * *
+( -2.289)
+43.881 * * *
+
+6.2612 * * *
+(13.513)
+3.9687 * * *
+(4.150)
+-1.6545
+(- 0.230)
+0.08236 * * *
+(3.989)
+0.00271 * * *
+(4.219)
+0.0000169
+(0.035)
+-2.55884 * *
+(- 2.492)
+- 0.0023291 * *
+( -1.982)
+- 0.829008 * * *
+(- 5.741)
+41.284 * * *
+
+ASRM
+6.8429
+(18.519)
+1.7706
+
+ACRM
+
+***
+*
+
+(1.792)
+
+-9.5532 * *
+(- 1.983)
+0.06667 * * *
+(6.431)
+0.0023 * * *
+(4.599)
+0.0001508
+(0.279)
+-3.81440 * * *
+(- 3.493)
+-0.0002945
+(- 0.378)
+-0.911691 ***
+(- 8.594)
+45.821 * * *
+
+6.9837 * * *
+(17.190)
+4.0139 * * *
+(5.692)
+-13.5655 * *
+(- 2.388)
+0.079977 * * *
+(5.901)
+0.0030 ***
+(5.225)
+-0.0002421
+(- 0.582)
+-1.71877 * *
+(- 2.796)
+-0.0004146 *
+( -1.455)
+-0.914384 * * *
+( -8.747)
+45.301 * * *
+
+Non-risk
+model
+7.0525 * * *
+(16.517)
+3.1177 **
+(2.856)
+-19.4478 * * *
+(- 5.086)
+0.049006 * * *
+(3.188)
+0.0018 **
+(2.381)
+0.0001961
+(0.334)
+
+-0.497130 * *
+( -2.219)
+32.480 * * *
+
+Numbers in parentheses are the t-values.
+*, * * and * * * denote significance at the 10%, 5% and 1% level, respectively; one-sided test for all coefficients and two-sided test
+for chi-square and p.
+
+A. H. Elnagheeb, D. W Bromley 1Agricultural Economics 10 (1994) 193-200
+
+198
+
+collinearity between expected rainfall and expected yield.
+An interesting result is that charcoal price has
+a positive coefficient which is significant at the
+5% level of significance in all models. This finding supports the hypothesis that higher charcoal
+prices act as an added incentive for farmers to
+clear land for cultivation. The result may explain,
+at least partially, why farmers in the rainfed
+mechanized schemes do not leave a portion of
+their land in trees for shelterbelts as required by
+the Mechanized Farming Corporation. The result
+also illustrates the interrelationships between the
+energy and agricultural sectors. Policies such as
+import restrictions on oil products and distorted
+prices of energy resources, influence charcoal
+prices and indirectly influence land-clearing costs
+- and thus influence the total acreage under dura
+production.
+If farmers are risk-responsive (presumably
+risk-averse), they should cultivate smaller areas as
+price and rainfall risk increase. This hypothesis is
+supported by all risk models in Table 2. The
+coefficients on the price and rainfall risk variables are negative in all models and significantly
+different from zero except for the asymmetricsimple measure of rainfall risk. Further, a nested
+F-test rejected, at the 10% level of significance,
+the null hypothesis that both coefficients on price
+and rainfall risk variables are simultaneously
+equal to zero. The hypothesis is rejected in all
+risk models. The F(2, 8) values are 4.16, 3.72,
+7.15 and 6.83 for the symmetric-simple, symmetric-complex, asymmetric-simple and asymmetriccomplex risk models, respectively (the tabulated
+Table 3
+Acreage response elasticities
+Variable
+
+Model
+SSRM
+
+a
+
+(at the means)
+Non-risk
+
+SCRM ASRM ACRM model
+
+Dura price
+0.337
+0.528
+0.429
+0.191
+0.434
+Cost
+-0.503
+-0.380 -0.539 -0.773
+Charcoal price
+0.299
+0.234
+0.242
+0.290
+0.178
+Expected yield
+0.745
+0.359
+0.643
+0.829
+0.505
+Price-risk
+-0.130 -0.161 -0.099 -0.316
+Rainfall-risk
+-0.164 -0.106
+-0.195
+Only significant (at the 10% or less level) elasticities are
+reported.
+
+a
+
+F-value is 3.11). Hence, our results suggest that
+both price and rainfall risks are important decision variables in the intended level of dura production in the rainfed farming schemes of Sudan.
+As expected, omission of the risk variables
+biased the estimates of the coefficients of the
+remaining variables and consequently biased the
+estimates of their respective elasticities. Since the
+expected dura price (EoP 1 ) is assumed to be a
+linear function of last year's price (oP 1 _ 1), the
+elasticity of DP1 _ 1 can be obtained from (see Eq.
+2):
+E
+
+=(a ln(A 1 )jaoP 1 _ 1 )(oP*)
+= 0.566671(a ln(A 1 )/aEoP)(oP*)
+
+(7)
+
+where op* is the average of DP1 _ 1. The acreage
+response elasticities for the risk and non-risk
+models are reported in Table 3.
+Table 3 shows that dura acreage response was
+price-inelastic; a 1% increase in real dura price
+resulted in about 0.4-0.5% increase in dura
+acreage. Omission of the risk variables has led to
+underestimated price elasticity - except for the
+asymmetric-simple risk model. This result is consistent with results from other research (Adesina
+and Brorsen, 1987; Hurt and Garcia, 1982; Ryan,
+1977). Therefore, any policy decisions related to
+the price of dura in a non-risk model would likely
+result in underestimated dura acreage response.
+Both price-risk and rainfall-risk elasticities from
+the asymmetric-simple risk model are the least (in
+absolute value) when compared to those obtained
+from the other risk models. The acreage response
+elasticities from the symmetric-complex and
+asymmetric-complex risk models compare favorably except for the risk variables. The asymmetric-complex risk model gives the highest elasticities, in absolute value, with respect to the risk
+variables. These results imply that dura acreage
+seems more responsive to asymmetric than to
+symmetric price and rainfall risk.
+Although price risk is found to be an important decision variable, its elasticity is smaller, in
+absolute value, than the price elasticity in all risk
+models. This result accords rather well with that
+found by Adesina and Brorsen (1987), Winter
+and Whittaker (1979) and Ryan (1977).
+
+A.H. Elnagheeb, D. W Bromley/ Agricultural Economics 10 (1994) 193-200
+
+Table 3 also shows that dura acreage was as
+responsive to cost of production as it was to dura
+price. This result is important because a good
+part of the costs of production is the cost of
+gasoline which is subsidized by the government.
+Hence, the government can directly influence the
+dura acreage through controlling both the amount
+and price of gasoline.
+
+199
+
+Acknowledgements
+
+This research was supported by the Government of Sudan, the U.S. Agency for International
+Development and the Graduate School and the
+College of Agricultural and Life Sciences at the
+University of Wisconsin-Madison. We acknowledge the valuable assistance of our colleagues
+Jean-Paul Chavas and Matt Holt.
+
+5. Conclusions
+
+Data from the rainfed mechanized farming
+sector of Sudan were used to estimate an acreage
+response model for dura (sorghum). Models that
+utilize symmetric and asymmetric forms of risk
+using different variables (simple and complex) to
+measure risk were estimated.
+Dura acreage increased with dura's expected
+price, or expected yield and decreased with costs
+of production. Sesame prices were not found to
+influence dura acreage. An increase in charcoal
+price could be an added incentive for farmers to
+increase dura acreage. Therefore, policies that
+directly influence charcoal prices - e.g. oil import
+restrictions - should consider the impacts of
+charcoal pricing on acreage expansion. Although
+production of charcoal will save the country some
+badly needed foreign exchange, it will have an
+expansionary effect on the dura acreage. This
+process of deforestation will everitually have a
+negative effect on the production of charcoal
+itself as more trees are destroyed.
+Farmers in the rainfed mechanized farming
+were found to be responsive to risk in prices and
+rainfall. Omission of risk from acreage response
+models would likely lead to underestimated price
+elasticities. Price and rainfall risk negatively influence dura acreage. Hence, policies to reduce
+dura price variability should consider the likely
+acreage-increasing effect of such policies. Hence,
+for any policy that leads to agricultural expansion, the benefits from such an expansion in total
+dura production should be compared to its costs
+in terms of the environmental degradation from
+accelerated deforestation (Simpson, 1978; El
+Tayeb and Lewandowski, 1983; El Taheir, 1987;
+Whitney, 1987).
+
+References
+Adesina, A.A. and Brorsen, W.B. (1987) A risk responsive
+acreage function for millet in Niger. Agric. Econ. 1: 229239.
+Affan, K. (1984) Towards an appraisal of tractorization experience in rainlands of Sudan. Monograph Series 19, Devel·
+opment Studies and Research Center, Faculty of Economic and Social Studies, Univ. Khartoum, Sudan.
+Behrman, J.R. (1968) Supply Response in Underdeveloped
+Agriculture. North-Holland, Amsterdam.
+Brennan, J.P. (1980) Some effects of risk on the supply of
+wheat in Victoria. MSc Agric. thesis, Univ. Melbourne,
+Vic., Australia.
+Bromley, D.W. (1986) Natural resources and agricultural development in the tropics: Is conflict inevitable? In: A
+Maunder and U. Renborg (Editors), Agriculture in a Turbulent World Economy. Gower, Oxford, pp. 319-327.
+Chavas, J. and Holt, M.T. (1990) Acreage decisions under
+risk: the case of corn and soybeans. Am. J. Agric. Econ.,
+72: 529-538.
+Davidson, R. and MacKinnon, J.G. (1981) Several tests for
+model specification in the presence of alternative hypotheses. Econometrica, 49: 781-793.
+Department of Agricultural Economics and Statistics (1986)
+Input use and production costs in rainfed mechanized
+areas of Sudan: Results of 1984/85 Farm Survey. Khartoum, Sudan.
+Department of Agricultural Economics and Statistics (1987)
+Input use and production costs in rainfed mechanized
+areas of Sudan: Results of 1985/86 Farm Survey. Khartoum, Sudan.
+Department of Agricultural Economics and Statistics (1989)
+Input use and production costs in rainfed mechanized
+areas of Sudan: Results of 1987/88 Farm Survey. Khartoum, Sudan.
+Department of Statistics (undated). Internal Trade Statistics.
+Khartoum, Sudan.
+Earl, D.E. (1985) Sudan - the economics of wood energy
+production on mechanized farms. Report 008, National
+Energy Administration, Khartoum, Sudan.
+El Hadari, A.M. and Suliman, A.A. (1980) Dura production
+under rainfed conditions in the Sudan with special refer-
+
+200
+
+A. H. Elnagheeb, D. W Bromley/ Agricultural Economics 10 (1994) 193-200
+
+ence to the Gedarif area. Res. Bull. 25, Department of
+Rural Economy, Univ. Khartoum, Sudan.
+Elnagheeb, A.H. and Bromley, D.W. (1991) Risk forms and
+measures in acreage response functions. Paper presented
+at the Annual Meeting of the American Agricultural Economics Association, 4-7 August 1991, Manhattan, KS.
+Elnagheeb, A.H. and Bromley, D.W. (1992) Rainfed mechanized farming and deforestation in central Sudan. Environ. Resour. Econ., 2: 359-371.
+El Taheir, B.A. (1987) Agroforestry in the Savanna zone of
+the Sudan: with reference to mechanized crop production
+schemes (MCPS) in the Gedaref region. Master's essay,
+Australian National University.
+El Tayeb, G. and Lewandowski, A.M. (1983) Environmental
+degradation in Gedaref district. Sudan Environ. News!.
+Inst. Environ. Stud. 3, Univ. Khartoum, 7 pp.
+Hurt, C.A. and Garcia, P. (1982) The impact of price risk on
+sow farrowings. Am. J. Agric. Econ., 64: 565-568.
+Ibnouf, M.A.O. (1985) An economic analysis of mechanized
+food production schemes in the Central Plains of the
+Sudan. Ph.D. Dissertation, Michigan State University, East
+Lansing.
+Judge, G.G., Hill, R.C., Griffiths, W.E., Liitkepohl, H. and
+Lee, T.C. (1982) Introduction to the Theory and Practice
+of Econometrics. Wiley, New York.
+Just, R.E. (1974) An investigation of the importance of risk in
+farmer's decisions. Am. J. Agric. Econ., 56: 14-25.
+Markowitz, H. (1970) Portfolio selection. Yale University
+Press, New Haven, CT.
+MFC (1984) Agricultural Statistics Bulletin 3, Mechanized
+Farming Corporation, Khartoum, Sudan.
+
+National Energy Administration (1987) Handbook of Sudan
+Energy. Khartoum, Sudan.
+Ryan, T.J. (1977) Supply response to risk: the case of U.S.
+pinto beans. West. J. Agric. Econ., 4: 83-87.
+Simpson, M.C. (1978) Alternative strategies for agricultural
+development in the central rainlands of the Sudan with
+special reference to Damazin area. Paper 3, Rural Development Studies, Univ. Leeds, England.
+Thimm, H-U. (1979) Development projects in the Sudan: an
+analysis of their reports with implications for research and
+training in arid land management. United Nations University, Tokyo.
+Trail, B. (1978) Risk variables in econometric supply response
+models. J. Agric. Econ., 29: 53-61.
+Tronstad, R. and McNeill, T.J. (1989) Asymmetric price risk:
+an econometric analysis of aggregate sow farrowings,
+1973-86. Am. J. Agric. Econ., 71: 630-637.
+Whitney, J.B.R. (1987) Impact of fuelwood use on environmental degradation in the Sudan. In: P.D. Little, M.M.
+Horowitz and A.E. Nyerges (Editors), Lands at Risk in the
+Third World. Westview, Boulder, CO /London.
+Wilson, W.R., Arther, L.M. and Whittaker, J.K. (1980) An
+attempt to account for risk in an aggregate wheat acreage
+response model. Can. J. Agric. Econ., 28: 63-71.
+Winter, J.R. and Whittaker, J.K. (1979 Estimation of wheat
+acreage response functions for the northwest. West. J.
+Agric. Econ., 4: 83-87.
+Wolgin, J.M. (1975) Resource allocation and risk: a case study
+of smallholder agriculture in Kenya. Am. J. Agric. Econ.,
+57: 622-630.
+
+

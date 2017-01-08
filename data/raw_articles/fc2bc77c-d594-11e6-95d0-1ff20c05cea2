@@ -1,0 +1,654 @@
+MEASURING MARKET INTEGRATION IN THE PRESENCE OF
+TRANSACTION COSTS - A THRESHOLD VECTOR ERROR
+CORRECTION APPROACH
+Jochen Meyer1
+Department of Agricultural Economics, Göttingen, Germany
+E-mail: mail@jochenmeyer.de
+ABSTRACT
+Applied econometric analyses of market integration based on price data alone have been criticised, because
+they neglect the role of transaction costs. To meet this objection threshold vector error correction models are
+used. Threshold models can account for the effects of transaction costs in price transmission without directly
+relying upon information about these costs, which are often unavailable. Results from threshold models that
+are based on two thresholds provide results that are economically more intuitive than those obtained from
+one threshold models. However there is no adequate econometric test for threshold significance in a twothreshold model available so far; such tests are only available for the one threshold model. In this paper a
+restricted two-threshold model is developed in which the significance of the thresholds can be tested. This
+model is therefore amenable to economic interpretation and statistical inference. This model is used to
+estimate market integration on the European pig market.
+JEL classification codes: C32, F15
+Keywords: Market integration, price transmission, transaction cost, threshold model
+INTRODUCTION
+Econometric analyses of market integration are becoming increasingly popular. Farmers as well as
+agricultural economists are interested to what extent price shocks are transmitted between markets. For
+example, German pig producers use the commodity exchange AEX in Amsterdam for hedging the price risk,
+assuming that German and Dutch markets are highly integrated. Economists often use market integration,
+defined as the degree of price transmission between two either vertically or spatially related markets, as a
+proxy for market efficiency. To answer questions about market integration, adequate empirical methods are
+necessary. Especially in recent years, these methods have improved considerably. Nevertheless there is still
+no unified approach to evaluate market integration2. Recent studies that rely on price data alone have been
+criticised by Barrett for their neglecting of transaction costs (Barrett 2001; Barrett & Li 2002). Due to
+commonly unavailable information on transaction costs, we therefore propose an approach of measuring
+market integration based on price data alone but also considering effects of transaction costs. Unlike most
+studies that analyse price adjustment between vertical related stages of the marketing chain we focus on
+spatial market integration. Hence our analysis is related to the literature on the “Law of one price” (Lo &
+Zivot 2001; Obstfeld & Taylor 1997). To quantify the price adjustment we use the framework of a vector
+error correction model (VECM). As an extension and innovation we also take testable threshold effects into
+account. To illustrate this approach we analyse market integration between pig markets in Germany and the
+Netherlands.
+In the following section of the paper we describe the empirical method. In section 3 the results of our
+empirical application to German/Dutch pork markets are presented. In section 4 conclusions are drawn and
+suggestions for further research are given.
+
+1
+
+Jochen Meyer is Ph.D. student at the Department of Agricultural Economics, Georg-August University of Göttingen,
+Germany, Platz der Göttinger Sieben, 5, 37073 Göttingen
+2
+See Meyer & v.Cramon-Taubadel (2002) for an overview.
+Proceedings of the 25th International Conference of Agricultural Economists (IAAE)
+ISBN Number: 0-958-46098-1
+Proceedings produced by: Document Transformation Technologies
+1109
+
+16 – 22 August 2003
+Durban, South Africa
+Conference Organised by: Event Dynamics
+
+THRESHOLD VECTOR ERROR CORRECTION MODEL
+Price series of agricultural commodities are often non-stationary. Therefore estimating price adjustment as
+the impact of a change in one price on another price should be based on appropriate methods which allow for
+non-stationary variables. In market integration models, the error correction model (ECM) specification has
+gained popularity because of its intuitively appealing interpretation. For example, v. Cramon-Taubadel
+(1998) analyses vertical price transmission between farm gate and wholesale pig prices in Germany using an
+ECM. To incorporate also effects of transaction costs into models of price transmission, threshold error
+correction models (TECM) have been developed. Based on work by Balke and Fomby (1997) many studies
+have been undertaken so far. Obstfeld and Taylor (1997) for example analyse the “Law of one Price” within
+such framework. Goodwin and Piggott use a threshold error correction model to quantify spatial integration
+in US corn and soybeans markets (Goodwin & Piggott 2001). Ben-Kaabia, Gil et al. (2002) estimate price
+transmission between vertically related stages of the Spanish lamb market using a threshold model. In the
+following we describe the concept of our analysis dealing with difficulties regarding the economic
+interpretation of the adjustment process and the econometric testability of threshold parameters. These issues
+have been frequently ignored in the literature.
+On spatially integrated markets such as Germany and the Netherlands, where it is not apparently clear which
+price causes the other, the use of an vector error correction model (VECM) is appropriate. A specification of
+a VECM is given is the following equation:
+
+ ∆ptNL  α1  k  β iNL, NL
+ GER  =   + ∑  GER , NL
+ ∆pt  α 2  i =1  β i
+
+ ε tNL 
+ φ NL 
+β iNL,GER   ∆ptNL
+−i 
+ECT
++
++
+[
+]
+t −1
+
+  GER 
+ GER 
+β iGER ,GER   ∆ptGER
+φ 
+−i 
+ε t 
+
+(1)
+
+with ∆p t = p t − p t −1 . Here changes in the Dutch as well as changes in the German pig price are
+simultaneously explained by constant terms ( α1, 2 ), lagged short-term reactions to previous changes in the
+Dutch and the German pig price ( ∆p t −i ) and by deviations from the long-term equilibrium denoted ECT.
+If a VECM such as (1) is used to estimate price adjustment one implicit assumption has to be noted.
+Adjustment of prices induced by deviations from the long-term equilibrium (ECT) are assumed to be
+continuous and a linear function of the magnitude of the deviation from long-term equilibrium. So even very
+small deviations from the long-term equilibrium will always lead to an adjustment process on each market.3
+This assumption might lead to a biased result, because it ignores the impact of transaction costs. In spatial
+markets, transportation costs will limit the transmission of price shocks below a critical level because
+potential gains from trade cannot outweigh these costs and hence a perfect price adjustment will not occur.4
+Therefore in the case of significant transaction costs adjustment to the long-term equilibrium should not be
+continuous.
+Taking these implications of transaction costs into consideration provides a justification for the use of
+models with price adjustment including thresholds, with the error-correction term (ECT) as the threshold
+variable.5 Within such models, the extent to which deviations from equilibrium are responsible for a price
+adjustment depends on the magnitude of these deviations. The price adjustment process may be different if
+deviations are above or below a specific threshold.
+In figure 1, price adjustment ( ∆p t ), as a function of deviations from the long-term equilibrium (ECT), is
+represented by a) a linear error-correction model (ECM), b) a one threshold error-correction model (TECM)
+and c) a two threshold error-correction model (TECM). Because of its discontinuous nature the TECM is
+often labelled as “non-linear”.
+
+3
+
+Assuming that φ differs from zero, which is a necessary condition for cointegration and the existence of a long-term
+equilibrium.
+4
+Heckscher first pointed out this argument (Heckscher 1916).
+5
+Threshold models have been introduced by Tong (1978).
+1110
+
+∆p t
+TECM
+(two thresholds)
+
+ECM
+
+c1
+
+c0
+
+c2
+
+ECTt−1
+TECM
+(one threshold)
+
+Figure 1. Impact of the error correction term on the price adjustment.
+Based on the number of thresholds (c) the model contains c+1 different regimes of price adjustment. Studies
+on price transmission using threshold error correction models have either used one threshold (c0) to separate
+the adjustment process into two regimes (Balke & Fomby 1997; Enders & Granger 1998; Abdulai 2002;
+Ben-Kaabia, Gil et al. 2002) or two thresholds (c1 and c2) to separate the adjustment process into three
+regimes6 (Obstfeld & Taylor 1997; Goodwin & Piggott 2001; Serra & Goodwin 2002). We suggest that a
+price adjustment model with three regimes separated by two thresholds7 can make more economic sense than
+a two-regime model with only one threshold. The band between the two thresholds, which are below and
+above the long-term equilibrium, can be interpreted as those deviations from the long-term equilibrium
+which are, compared to adjustment costs, so small that they will not lead to a long-term adjustment process
+of related prices. Results from a TECM with only one threshold cannot be interpreted in such an intuitively
+appealing way.
+The advantage of easy interpretable results from a two-threshold error correction model is unfortunately
+weakened by the fact that so far no adequate econometric test for the significance of two thresholds has been
+developed (Hansen & Seo 2001). To overcome this problem, we use a variant of a one threshold vector error
+correction model (TVECM) proposed by Hansen and Seo (2001):
+
+Regime 1
+ ∆ptNL  α1  k  β iNL, NL
+ GER  =   + ∑  GER , NL
+ ∆pt  α 2  i =1  β i
+Regime 2
+
+ φ1NL 
+ε 
+βiNL,GER   ∆ptNL
+−i 
++  GER  [ ECTt −1 ] +  t  if ECTt −1 ≤ γ
+GER ,GER  
+GER 
+βi
+  ∆pt −i  φ1 
+ε t 
+
+(2)
+
+ ∆ptNL  α 3  k  δ iNL, NL δ iNL,GER   ∆ptNL
+µ 
+ φ2NL 
+−i 
+=
++
++
+[ ECTt −1 ] +  t  if ECTt −1 > γ
+ GER    ∑  GER , NL
+
+GER ,GER  
+GER 
+GER 
+δi
+ ∆pt  α 4  i =1 δ i
+  ∆pt −i  φ2 
+ µt 
+Like the VECM (1) this one threshold model explains the price changes by short-term as well as long-term
+adjustment, but also conditional on the deviation from the long-term equilibrium. If the deviation from the
+long-term equilibrium is greater than the threshold γ, the price transmission process is defined by a different
+regime (regime 2) than in the case of smaller deviations from the long-term equilibrium (regime 1).
+
+6
+7
+
+Price adjustment defined by those long-term deviations between c1 and c2 must not necessarily equal to zero.
+One above the long-term equilibrium level and the other below the long-term equilibrium level.
+1111
+
+As a variant and in the line with approaches by Balke and Fomby we propose the following specification of a
+TVECM (3):
+
+Regime 1
+ ∆ptNL  α1  k  β iNL, NL
+ GER  =   + ∑  GER , NL
+ ∆pt  α 2  i =1  β i
+Regime 2
+
+ φ1NL 
+ε t 
+β iNL ,GER   ∆ptNL
+−i 
++
+ GER  [ ECTt −1 ] +   if ECTt −1 ≤ γ
+GER ,GER  
+GER 
+βi
+  ∆pt −i  φ1 
+ε t 
+
+ ∆ptNL  α 3  k  δ iNL, NL δ iNL,GER   ∆ptNL
+ µt 
+ φ2NL 
+−i 
+=
++
++
+ GER  α  ∑  GER , NL
+ GER  [ ECTt −1 ] +   if ECTt −1 > γ
+GER ,GER  
+GER 
+δi
+ ∆pt   4  i =1 δ i
+  ∆pt −i  φ2 
+ µt 
+The difference between (2) and (3) is the regime definition. In specification (2) one price adjustment process
+applies if the deviations from the long-term equilibrium are below a threshold (regime 1) and another applies
+if the deviations are above a threshold (regime 2)8. This specification excludes the possibility of a “band of
+non-adjustment”9 of smaller deviations from a long-term equilibrium inside a regime of adjustment to bigger
+deviations (figure 2). Specification (3) allows this and is therefore economically more meaningful. Using
+TVECM (3) we assume one regime of price adjustment defined by absolute deviations from the long-term
+equilibrium that are below the threshold γ (regime 1) and another defined by deviations that exceed the
+threshold γ in absolute values (regime 2). Because of this regime definition we yield a TVECM that is based
+on only one threshold (γ) and therefore is testable regarding threshold significance, but that also potentially
+allows for the economically meaningful “band of non-adjustment” (regime 1) inside a regime of price
+adjustment to greater deviations from the long-term equilibrium (regime 2). Note that TVECM (3) is
+essentially a restricted version of the general two threshold model depicted in figure 1; restricted in the sense
+that c1 = c 2 = γ in (3) and in the sense that no asymmetric price transmission is possible in (3) as the same
+price reaction occurs regardless of whether ECTt-1.is larger than γ or smaller than -γ. The simple linear ECM
+in figure 1, in turn, is a restricted form of (3) in which γ=0.
+
+∆p t
+Regime 2
+TECM
+
+Regime 1
+
+Regime 2
+
+„band of non-adjustment“
+
+ECTt−1
+-γ
+
+γ
+
+Figure 2. Impact of the error correction term on the price adjustment.
+We propose a three-step procedure to estimate the restricted TVECM (3). In a first step the two series of
+prices to be analysed for integration are tested for stationarity, using the augmented Dickey-Fuller (ADF)
+unit root test. After the confirmation of non-stationarity the price series are tested for cointegration using the
+Johansen method.
+For comparison reasons and if non-stationarity as well as cointegration can be concluded, a linear vector
+error correction model (1) is estimated in a second step using the error correction term generated by the
+8
+9
+
+Compare with figure 1 (One threshold model).
+Goodwin and Piggott (2001) denote these deviations as a “neutral band”.
+1112
+
+Johansen method. The number of included lags (k) is determined by the Akaike information criterion (AIC).
+To estimate the more general threshold vector error correction model (3) we have to determine the threshold
+γ. For this we use a variant of the Hansen and Seo (2001) search procedure10 that relies on the log
+determinant of the estimated error covariance matrix of (3) as the selection criteria. The selection criteria has
+the following form:
+
+(4)
+Goodwin and Piggott (2001) use a different selection criterion that is based on the trace of the variancecovariance matrix of the residuals. This selection criterion ignores the potential cross correlation between the
+two equations of (3). In a paper Serra and Goodwin (2002) focus on the issues of choosing selection criteria.
+Using a Monte Carlo experiment they found no empirical support that ignoring the cross-equation correlation
+leads to incorrect estimates of the threshold.
+The value of γ that minimises (4) is chosen. Imposed on this search procedure is the restriction that both
+regimes should contain at least a pre-specified fraction (π0) of the total sample.11 Hence the following
+expression should always be satisfied:
+(5)
+After determining the threshold parameter γ, the statistical significance of the threshold is calculated in a
+third step. Because of the unidentified nuisance parameter (γ) that is not present in the non-linear model (1),
+conventional tests statistics have non-standard distributions. Therefore, Hansen and Seo propose the use of a
+SupLM test and bootstrapping techniques to calculate p-values.
+RESULTS OF AN EMPIRICAL APPLICATION
+For our analysis we have chosen pig prices in Germany and the Netherlands, both major pig markets in
+Europe. The share of German pig production in total EU production was 21% in 1995, and the share of
+Dutch pig production was 13% (ZMP 1999). In our analysis we use weekly price data for pigs (€/100kg
+slaughterweight). The price data is collected in the Netherlands and Germany at the farm gate level and
+provided by the ZMP (Zentrale Markt- und Preisberichtstelle). Our price series starts in June 1989 and ends
+in March 2001. 14 weeks with missing data in one or both countries have been omitted from the sample.
+Therefore our total sample for this period contains 600 observations. For further analysis we use the
+logarithmic form of the price data.
+The augmented Dickey-Fuller (ADF) test confirms a unit-root in the pig price series for the Netherlands and
+also in the series of pig prices in Germany (see table 1). Johansen’s maximum eigenvalue statistic as well as
+the Johansen trace statistic reject the null hypothesis of no cointegrating vector at a significance level of 99%
+(see table 1) 12. After normalization with respect to the Dutch pig prices13, we calculate the cointegration
+relationship (table 1) and obtain residuals, which can be interpreted as deviations from a long-term
+equilibrium.
+
+10
+
+We only search over the threshold parameter γ and not also over the cointegration parameter(s).
+For the empirical application we set the trimming parameter to 0.05. Therefore each regime is restricted to contain at
+least 5% of all observations. Hansen & Seo 2002; Ben-Kaabia & Gil et al. 2002 and Goodwin & Piggott 2001 choose
+the same value.
+12
+The constant is suppressed from the fitted regression and included in the cointegration regression.
+13
+Normalisation with respect to the German pig prices leads to very similar results.
+11
+
+1113
+
+Table 1: Unit-root, cointegration and threshold testing results
+a
+Test Statistic Critical Value
+
+Test
+Augmented Dickey-Fuller (ADF)
+- constant term in the fitted regression / two lagges
+German pig price
+Dutch pig price
+
+-2.547
+-2.494
+
+-2.871
+-2.871
+
+Johansen method
+maximum eigenvalue test statistic
+63.95
+19.83
+trace test statistic
+73.21
+24.99
+- cointegration relationship
+ln p(Netherland) = -1.01 + 1.18 ln p(Germany) + ε
+Hansen's threshold test
+SupLM test
+
+28.41
+
+27.05
+
+a
+
+ADF-Test 5% sig. / Johansen 99% sig./ Hansen fixed regressor bootstrap 5% sig.
+Source: own calculation
+
+After determining the deviations from the long-term equilibrium we define the appropriate lag-length of a
+VECM using the Akaike information criterion. The AIC suggest to include two lags (k=2) into the model. To
+compare results from a VECM (1) with those of a TVECM (3) the estimated coefficients of the VECM as
+well as heteroskedasticity-robust Eicker-White standard errors (in italics) for these coefficients are presented
+below:
+ ∆p
+
+ ∆p
+
+NL
+t
+GER
+t
+
+ 0.000   −0.062
+
+ 
+ (0.002 )  ( 0.121)
+=
++
+ 
+0.000   0.046
+
+
+ 
+ ( 0.001)  ( 0.049 )
+
+0.581 
+ −0.121
+
+NL
+(0.119 )  ∆pt −1  (0.075 )
+
++
+0.296   ∆ptGER
+0.050
+−1 
+
+
+(0.078 )
+(0.038 )
+
+−0.164 
+ −0.114 
+
+NL
+(0.109 )  ∆pt −2  (0.054 )
+ ε tNL 
++
++
+ECT
+[
+]
+t −1
+
+ 
+ GER 
+−0.166   ∆ptG−ER
+0.068 
+2 
+ε t 
+
+
+
+(0.059 )
+ (0.031) 
+
+The Breusch-Godfrey test indicates the presence of autocorrelation at the 5% significance level.
+Autocorrelation may be due to a misspecified functional form. As we will see below the TVECM does not
+suffer from autocorrelation. Hence the results of autocorrelation might be interpreted as evidence in favour
+of the TVECM. Due to the autocorrelated residuals of the VECM, the results can only be interpreted with
+NL
+caution. Lagged price changes in the Netherlands ( ∆p tNL
+−1 ;∆p t − 2 ) have no significant effect on the price
+adjustment in Germany or the Netherlands, whereas lagged price changes in Germany seem to have a shortNL
+term effect on price adjustment (except ∆p GER
+t −2 on ∆p t ). The estimated coefficients for the adjustment to
+deviations from the long-term equilibrium indicate a stronger reaction of pig prices in the Netherlands to
+such deviations ( φ NL = −0.114 ) than in Germany ( φGER = 0.068 ).
+Applying the described search procedure yields a threshold parameter of γ=0.095. Based on this parameter
+the TVECM (3) is divided into two regimes. Regime 1 is defined by those weekly prices where the absolute
+deviation from the long-term equilibrium is below 9.5%. Calculated at average prices this deviation represent
+roughly 14 €/100kg slaughterweight. Thus if the deviation from the long-term equilibrium is below
+14 €/100kg slaughterweight, no adjustment will occur. For every observation in regime 2 the absolute
+deviation from the long-term equilibrium is above 9.5%. The adjustment regime 1 (the “band of nonadjustment”) contains 94,6% of all observations. This adjustment regime can therefore be denoted as the
+“general” regime whereas regime 2, containing only 5,4% of all observations, is referred as an “extreme”
+regime, containing bigger deviations from the long-term equilibrium. Using Hansen’s fixed regressor
+bootstrap technique with 10.000 replications we find the critical threshold to be significant at 5% (p-value =
+0.032). Results for the SupLM tests can be found in Table 1.
+1114
+
+Estimated coefficients of the general threshold vector error correction model and also Eicker-White standard
+errors of these coefficients (in italics) are as follows:
+Regime 1
+ 0.001   0.082
+
+ 
+ ∆ptNL  (0.002 )  (0.068 )
+=
++
+ GER  
+0.000   0.050
+ ∆pt 
+
+ 
+ (0.001)  (0.046 )
+
+ −0.073
+ ( 0.061)
+
++
+
+ 
+0.319   ∆ptGER
+0.059
+−1 
+
+
+(0.064 )
+(0.038 )
+0.469 
+
+−0.243 
+
+ −0.084 
+(0.047 )
+
+ [ ECT ] + ε t  if ECT ≤ 0.095
++
+t −1
+t −1
+ GER  
+ 
+
+−0.189  ∆pt −2 
+0.045 
+ε t 
+
+
+
+(0.061) 
+ (0.032 ) 
+
+(0.085 )  ∆ptNL−1 
+
+( 0.093)  ∆ptN−L2 
+
+0.709 
+ −0.525
+
+NL
+(0.273 )  ∆pt −1  (0.334 )
+
++
+−0.496
+0.100   ∆ptGER
+−1 
+
+
+(0.301) 
+(0.239 )
+
+0.711 
+ 0.249 
+
+NL
+(0.395 )  ∆pt −2   (0.143 ) 
+µ 
+[ ECTt −1 ] +  t  if ECTt −1 > 0.095
+
++
+
+0.766   ∆ptGER
+0.417
+−2 
+ µt 
+
+
+
+(0.385 )
+(0.120 )
+
+Regime 2
+ ∆p
+
+ ∆p
+
+NL
+t
+GER
+t
+
+ −0.019   −0.935
+ (0.013 )   (0.221)
+ 
++
+=
+−0.027   −0.210
+
+
+ 
+(0.012 ) (0.127 )
+
+Estimated coefficients in regime 1 are similar to the estimates from the linear VECM. As in the VECM, only
+short-term reactions to lagged price changes in Germany have a significant effect on the German or Dutch
+pig price changes in the TVECM. But unlike the VECM, the threshold model shows no significant
+adjustment to deviations from the long-term equilibrium, if these deviations are below the critical threshold
+(regime 1). These results are in line with assumed transaction costs that prohibit a perfect price adjustment.
+Only if the absolute deviations from the long-term equilibrium are above the critical threshold (regime 2)
+adjustment does take place. These expected results can be found in the strong adjustment of the German pig
+price to deviations from the long-term equilibrium contained in regime 2 ( φGER
+= 0.417 ). The Dutch price
+2
+shows no significant adjustment to deviations from the long-term equilibrium in both regimes.
+Price adjustment according to the estimated VECM differs considerably from adjustment according to the
+TVECM. The VECM suggest that the Dutch pig price as well as the German price react to deviations from
+the long-term equilibrium. The potentially more meaningful TVECM indicates no significant reaction of the
+Dutch price to such deviations. Price leadership analyses that are based on estimated reactions to deviations
+from the long-term equilibrium (eg. Kuiper & Meulenberg 2002) will be sensitive to those differences.
+CONCLUSIONS AND SUGGESTIONS FOR FURTHER RESEARCH
+Analyses of market integration based on price data alone have been criticised, because they often neglect the
+role of transaction costs. To overcome this critique we suggest the use of threshold vector error correction
+models. These models can account for the effects of transaction costs in price transmission, without directly
+relying on transaction cost data. A three regime TVECM would be most suitable to fit the economic
+requirements for the analysis of price adjustment, but unfortunately so far no consistent statistical test for the
+significance of two thresholds is available. Therefore we propose a testable two-regime threshold model that
+includes a “band of non-adjustment”. Our results show that ignoring threshold effects lead to misleading
+results.
+Clearly the use of TVECM for analysing price adjustment is at its beginning. Tests for a three regime
+TVECM could be developed. Such models would have the advantage of capturing potential asymmetric
+price adjustment processes. A generalization to a multivariate model considering adjustment of more than
+two prices is also of interest, as are models that explicitly account for transaction costs.
+The TVECM is based on the assumption of constant transaction costs through the analysed period. If market
+integration is expected to increase over time e.g. due to decreasing transaction costs, the TVECM could be
+extended to variable thresholds.
+REFERENCE
+Abdulai, A. (2002). "Using threshold cointegration to estimate Asymmetric Price Transmission in the Swiss
+pork market." Applied Economics 34: 679-687.
+
+1115
+
+Balke, N. S. And Fomby, T. B. (1997). "Threshold Cointegration." International Economic Review 38(3):
+627-645.
+Barrett, C. B. (2001). "Measuring Integration and Efficiency in International Agricultural Markets." Review
+of Agricultural Economics 23(1): 19-32.
+Barrett, C. B. And Li, J. R. (2002). "Distinguishing between Equilibrium and Integration in Spatial Price
+Analysis." American Journal of Agricultural Economics 84(2): 292-307.
+Ben-Kaabia, M., Gil, J. M. And BOSHNJAKU, L. (2002). "Price transmission asymetries in the lamb sector in
+Spain." paper presented at the Xth EAAE Conference in Zaragoza.
+Enders, W. And Granger, C. W. J. (1998). "Unit-Root tests and asymmetric adjustment with an example
+using the term structure of interest rates." Journal of Business & Economic Statistics 16: 305-311.
+Heckscher, E. F. (1916). "Växelkursens Grundval vid Pappersmyntfot." Ekonomisk Tidskrift 18: 309-312.
+Goodwin, B. K. And Piggott, N. E. (2001). "Spatial Market Integration in the Presence of Threshold
+Effects." American Journal of Agricultural Economics 83(2): 302-317.
+Hansen, B. E. And Seo, B. (2002). "Testing for Two-Regime Threshold Cointegration in Vector Error
+Correction Models." Journal of Econometrics 110: 293-318.
+Kuiper, W. E. And Meulenberg, M. T. G. (2002). "Vertical Price Leadership: A Cointegration Analysis."
+Agribusiness 18(3): 317-331.
+Lo, M. C. And Zivot, E. (2001). "Threshold Cointegration and Nonlinear Adjustment to the Law of One
+Price." Macroeconomic Dynamics 5: 533-576.
+Meyer, J. And Von Cramon-Taubadel, S. (2002). "Asymetric price transmission: a survey." paper presented
+at the Xth EAAE Conference in Zaragoza.
+Obstfeld, M. And Taylor, A. M. (1997). "Non-Linear Aspects of Goods-Market Arbitrage and Adjustment:
+Heckscher's Commodity Points Revisited." The Journal of the Japanese and International Economics 11:
+441-479.
+Serra, T. And Goodwin, B. K. (2002). "Specification Selection Issues in multivariate Threshold and
+switching Models." paper presented at the 2002 AAEA-WAEA Annual Meeting
+TONG, H. (1978). “On a Threshold Model in Pattern Recognition and Signal Processing.” in C. Chen (Ed.),
+Amsterdam: Sijhoff and Noonhoff.
+Von Cramon-Taubadel, S. (1998). "Estimating Asymmetric Price Transmission with the Error Correction
+Representation: An Application to the German Pork Market." European Review of Agricultural
+Economics 25: 1-18.
+
+1116
+
+

@@ -1,0 +1,2266 @@
+AGRICULTURAL
+ECONOMICS
+Agricultural Economics 40 (2009) 323–337
+
+The impact of climate change on China’s agriculture
+Jinxia Wanga,∗ , Robert Mendelsohnb , Ariel Dinarc , Jikun Huangd , Scott Rozellee , Lijuan Zhangd
+a Center
+
+for Chinese Agricultural Policy, Institute of Geographical Sciences and Natural Resource Research,
+Chinese Academy of Sciences, No. Jia 11, Anwai, Beijing, China
+b School of Forestry and Environmental Studies, Yale University, New Haven, CT 06501, USA
+c Department of Environmental Sciences and Water Science and Policy Center, University of California Riverside, Riverside, CA 92521, USA
+d Center for Chinese Agricultural Policy, Chinese Academy of Sciences, No. Jia 11, Anwai, Beijing, China
+e Food Security and the Environment Program, Freeman Spogli Institute for International Studies, Stanford University, Stanford, CA 94305, USA
+Received 26 May 2008; received in revised form 2 January 2009; accepted 5 January 2009
+
+Abstract
+This article examines how expected changes in climate are likely to affect agriculture in China. The effects of temperature and precipitation on net
+crop revenues are analyzed using cross-sectional data consisting of both rainfed and irrigated farms. Based on survey data from 8,405 households
+across 28 provinces, the results suggest that global warming is likely to be harmful to rainfed farms but beneficial to irrigated farms. The net
+impacts will be only mildly harmful at first, but the damages will grow over time. The impacts also vary by region. Farms in the Southeast will
+only be mildly affected but farms in the Northeast and Northwest will bear the largest damages. However, the study does not capture the indirect
+effects on farms of possible changes in water flow, which may be important in China.
+JEL classification: Q54
+Keywords: Agriculture; Climate change; China; Impacts; Ricardian model
+
+1. Introduction
+As scientific evidence becomes more convincing that increasing greenhouse gases will warm the planet (IPCC, 2007a), it
+has become ever more important to understand the impacts of
+global warming. The impacts to the agriculture sector from
+climate change are among the largest and best documented.
+Agronomic studies suggest that crop yields may fall if the
+same crops are grown in the same places under various climate
+change scenarios (IPCC, 2007b). Even with adaptation, studies
+applying the Ricardian approach in Africa (Kurukulasuriya and
+Mendelsohn, 2008; Kurukulasuriya et al., 2006) and South
+America (Seo and Mendelsohn, 2008) suggest that warming
+will reduce farm net revenues. Further, climate change will
+have different impacts on different countries.
+Many agronomic modeling studies have assessed the impacts
+of climate change on several grain crops (e.g., rice, maize, and
+wheat) in various regions of China. The general findings of
+these studies are that crop yields will fall in China like those
+in other developing countries (e.g., Matthews and Wassmann,
+∗ Corresponding author. Tel.: (8610) 6-4889841; fax: (8610) 6-4856533.
+E-mail address: jxwang.ccap@igsnrr.ac.cn (J. Wang).
+
+c 2009 International Association of Agricultural Economists
+
+2003; Parry et al., 2004; Tao et al., 2006; Wu et al., 2006;
+Xiong et al., 2007; Yao et al., 2007). These and other agronomic
+studies have the same caveat in that they assume that the same
+crops are grown in the same places as climate changes. Further,
+agronomic studies in China do not include any economic values
+attached to the estimated yield reductions. And, there are no
+agroeconomic models (such as Adams et al., 1995) that convert
+crop-modeling results into economic outcomes for China.
+The only economic study in China to date of the effect of
+warming on agriculture is a Ricardian analysis (Liu et al., 2004).
+Curiously, this study finds that warming will increase average
+farm net revenue, not reduce it. However, this Ricardian study
+is based on county-level data with potentially severe data limitations. Therefore, it is difficult to weigh the results of this study
+and compare them to the results of the other agronomic studies
+that suggest that warming is harmful. In short, there is simply
+not sufficient evidence to know how global warming will affect
+Chinese agriculture.
+To help answer this question, this article reports the results
+of a new study that measures the sensitivity of Chinese agriculture to warming, employing farm-level data. Like the Liu et al.
+(2004) study, the analysis in this article relies on the Ricardian
+method (Mendelsohn et al., 1994). The analysis is conducted
+
+DOI: 10.1111/j.1574-0862.2009.00379.x
+
+324
+
+J. Wang et al./Agricultural Economics 40 (2009) 323–337
+
+on 8,405 farms sampled across 28 provinces. The data include
+information on each farm’s economic operations and other
+farm/household characteristics. Matching the location of each
+household to climate data (rainfall and temperature) and soils,
+it is possible to examine the effect of climate on net revenue
+controlling for many other factors. By regressing net revenue
+per hectare on climate and a number of other exogenous control variables, we estimate the sensitivity of current Chinese
+farms to climate. The econometric results allow us to estimate
+the direct effects of temperature and precipitation on crop net
+revenues. Further, the results are combined with future climate
+scenarios to predict how future changes in climate might affect
+farmers.
+Unfortunately, the amount of irrigation water a farmer uses
+is not available in the data set. Although for many farms we
+know whether a farm is irrigated or not, we do not know water
+availability or the cost of water. If future climate scenarios reduce available water supplies, this is likely to have an important
+harmful effect on China’s agriculture that this study does not
+take into account. Future studies should address the indirect
+effect of climate change on crop net revenues. Future studies
+should also try to predict how China’s farms might change over
+time with new technology and capital.
+2. Methodology
+The Ricardian approach (Mendelsohn et al., 1994) is the
+primary method that we use in the analysis in this article. The
+Ricardian model assumes that each farmer wishes to maximize
+income, subject to the exogenous conditions of his or her farm.
+Specifically, the farmer chooses the crop and inputs for each
+unit of land that maximizes:
+Pqi Qi (Xi , Li , Ki , IRi , C, W, S) −
+
+Max π =
+i
+
+Px Xi
+i
+
+−
+
+PL Li −
+i
+
+PK Ki −
+i
+
+(1)
+
+PIR IRi ,
+i
+
+where π is net annual income, Pqi is the market price of crop i,
+Qi is a production function for crop i, Xi is a vector of annual
+inputs such as seeds, fertilizer, and pesticides for each crop i,
+Li is a vector of labor (hired and household) for each crop i, Ki
+is a vector of capital such as tractors and harvesting equipment
+for each crop i, C is a vector of climate variables, IRi is a vector
+of irrigation choices for each crop i, W is available water for
+irrigation, S is a vector of soil characteristics, Px is a vector of
+prices for the annual inputs, PL is a vector of prices for each
+type of labor, PK is the rental price of capital, and PIR is the
+annual cost of each type of irrigation system.
+If the farmer chooses the crop that provides the highest net
+income and chooses each endogenous input in order to maximize net income, the resulting net income will be a function of
+just the exogenous variables:
+π ∗ = f (Pq , C, W, S, PX , PL , PK , PIR ).
+
+(2)
+
+With perfect competition for land, free entry and exit will
+ensure that excess profits are driven to zero. As a consequence,
+land rents will be equal to net income per hectare (Mendelsohn
+et al., 1994; Ricardo, 1817).
+The Ricardian function is intended to be a locus of the most
+profitable crops with respect to each exogenous variable such
+as temperature. The net income function does not include less
+profitable alternatives. It consequently does not look like the
+response function for any single crop but rather as the envelope
+of all choices. For example, at cool temperatures, farmers would
+choose to grow wheat (Triticum aestivum L.). As temperatures
+rise, farmers would no longer want to grow wheat because it
+would become less profitable. They instead would shift to maize
+(Zea mays L.). As temperatures increase further, they might
+want to shift to fruit (Panicum miliaceum) or vegetables that are
+more heat tolerant. The Ricardian function, Eq. (2), captures the
+locus of maximum profits for each temperature or precipitation
+level. It is estimated across crops and across inputs, revealing the
+net effect of changing the exogenous variable. Because farmers
+are assumed to make adaptations that are profitable, the method
+automatically captures the adaptation inherent in the market
+(Mendelsohn et al., 1994).
+The Ricardian model was developed to explain the variation in land value per hectare of cropland over climate zones
+(Mendelsohn et al., 1994). In repeated studies in the United
+States, Brazil, Sri Lanka, and South America, the land value
+per hectare of cropland has been found to be sensitive to seasonal precipitation and temperature (Mendelsohn and Dinar,
+1999, 2003; Seo and Mendelsohn, 2008; Seo et al., 2005). In
+some countries, land markets do not function and thus there
+are no land values. Instead, net revenue per unit of land is
+calculated. Similar results have also been found for crop net
+revenue in India, Africa, South America, and Israel (Fleischer et al., 2008; Kurukulasuirya et al., 2006; Mendelsohn and
+Dinar, 1999; Seo and Mendelsohn, 2008). Because the response
+is nonlinear, a quadratic functional form has been used in most
+Ricardian studies.
+Note that the Ricardian model does not take into account
+price changes (Cline, 1996) and thus will overestimate welfare
+effects. However, the prices of crops are determined globally,
+not locally, so the key is the effect of climate on global production. With the expansion of crop production in some parts of
+the world and the contraction in others, the changes in the price
+of crops from global warming is expected to be small (IPCC,
+2007b). Also, the Ricardian analysis does not take into account
+the cost of transition (Kelly et al., 2005). The analysis is measuring long-term equilibrium effects, not short-run transition
+costs.
+
+3. Data and model specifications
+The climate data (monthly temperature and precipitation)
+were gathered from the National Meteorological Information
+Center in China. The data are based on actual measurements in
+
+J. Wang et al./Agricultural Economics 40 (2009) 323–337
+
+753 national meteorological stations that are located throughout
+China. The temperature and precipitation data were collected
+from 1951 to 2001. We rely on the mean values of these variables (climate normal) over this period for each month. The
+climate for each county is assumed to be the value measured by
+that county’s meteorological station.
+Because of the high correlation in the climate data from
+month to month, it is not possible to include every month in
+the econometric analysis. Consequently, the monthly data are
+averaged into four seasons. Winter is the average of December
+to February; spring is the average of March to May; summer
+is the average of June to August; and fall is the average of
+September to November.
+The socioeconomic data that are used in the study come from
+China’s National Bureau of Statistics (CNBS). The data were
+collected by a highly trained, professional enumeration staff
+in 2001 as part of the annual, nationwide Household Income
+and Expenditure Survey (HIES). 1 The data cover 45,700 farm
+households in 4,365 villages, 533 counties, and 31 provinces.
+During the survey enumerators from CNBS collected a rich
+set of information at both the village and the household levels.
+Most importantly the data provide us with a relatively highquality measure for the dependent variable, net crop revenue for
+each household. Net crop revenue is gross crop revenue (or total
+sales for each crop) less than all expenditures for production,
+including expenditures on seed, fertilizer, irrigation, pesticide,
+machinery, plastic sheeting, hired labor, and custom services.
+All of the output that was consumed by each household was
+given a value based on a price of the output as if it was sold
+on the market. Neither family labor nor a household’s rent for
+contracted land is counted as a cost. Therefore, net revenue is a
+measure of returns to land and family labor. Based on the total
+cultivated land area of each household (measured in hectares),
+we can calculate net crop revenue per hectare.
+The data set also includes a number of other household and
+village characteristics. These variables are important from a
+theoretical point of view since they can give us measures of fixed
+factors that belong in Ricardian regressions. Using the data, we
+are able to construct variables that measure the education level
+of members of the farm household, each family’s land area, a
+number of indicators about the topographical environment of
+each village (e.g., if it is located on a plain or in a mountainous
+region), each household’s irrigation status (measured as the
+share of area that is irrigated in the village) and the ease of
+access to markets (e.g., the presence of paved roads between
+the village and key services; the distance to each township’s
+main government office). Such variables are used as control
+variables in the regressions. Descriptive statistics of the key
+variables are shown in Table 1. The table provides key data
+about the entire sample as well as three important subsamples:
+farms from villages that are irrigated, farms from villages that
+1 2001 is reasonably representative. The crop yield, net revenue per hectare,
+and crop marketing price for three major crops (wheat, maize, and rice) in 2001
+are consistent with the values in China from 1990 to 2005.
+
+325
+
+are rainfed, and farms from villages that have both irrigated and
+rainfed farms. 2
+In addition to information about climate and socioeconomic
+conditions, the characteristics of a region’s soils also are important determinants of net crop revenue. To account for soils, we
+rely on a soils map from FAO’s website. There are three major
+soil types—clay, sand, and loam soils. The final set of variables
+for our analysis was created by generating a variable measuring
+the share of cultivated area with each type of soil. These soil
+variables are used directly in the regression. We also include
+county elevation data.
+In order to proceed with our analysis of the effect of climate
+on agriculture, we need to match the climate data with the socioeconomic data of each farmer. Although there are 752 counties with meteorological stations and 533 counties in which
+CNBS collected HIES data, in only 124 counties there are both
+meteorological stations and CNBS samples. In order to ensure
+that we have a relatively good match between the crop revenue
+(and other socioeconomic) data and climate information, we
+restrict our sample to only those households in counties with
+meteorological stations. In total, our final sample has 8,405
+households in 915 villages, in 124 counties in 28 provinces. 3
+By relying on the measurements of climate in the meteorological stations, we avoid some of the climate interpolation
+problems faced by previous Ricardian studies.
+3.1. Model specifications
+In order to capture the expected nonlinear relationship between net revenue and climate, we specify the following model
+to examine the impacts of climate change on agriculture in
+China:
+V = b0 + b1 · T + b2 · T 2 + b3 · P + b4 · P 2
++
+
+dj · Zj + e,
+
+(3)
+
+j
+
+where the dependent variable, V, is crop net revenue per hectare
+(as defined above). The variables T and P represent vectors of
+temperature and precipitation (with one variable for temperature
+and one variable for precipitation for each of the four seasons).
+In addition, we include a vector, Z, of county-, village-, and
+household-level socioeconomic and other control variables. Included in Z are our measures of soil type, elevation of the
+county, terrain (1 if the village is located on a plain and 0 if
+the village is on a mountain), the share of a village’s cultivated
+area that is irrigated, a dummy for access to markets (1 if there
+is a road that connects the village to the outside world and 0
+if there is not), and a variable measuring the distance between
+2
+
+Rainfed is defined as a farm that relies only on rainwater and has no other
+source of water.
+3 In order to match the climate data and household data, we dropped those
+households in counties without a weather station. In addition, we dropped those
+households that did not cultivate any crops (characterized with total cropping
+sown areas of zero).
+
+326
+
+J. Wang et al./Agricultural Economics 40 (2009) 323–337
+
+Table 1
+Descriptive statistics for major variables used for analyzing the determinants of crop net revenue
+All farms
+
+Crop net revenue per ha (yuan/year)
+Spring temperature (◦ C)
+Summer temperature (◦ C)
+Fall temperature (◦ C)
+Winter temperature (◦ C)
+Spring precipitation (mm/month)
+Summer precipitation (mm/month)
+Fall precipitation (mm/month)
+Winter precipitation (mm/month)
+Share of land areas with clay soil (%)
+Share of land areas with silt soil (%)
+Plain (1 = yes; 0 = no)
+Road (1 = yes; 0 = no)
+Distance to township
+government (km)
+Share of irrigated areas in village (%)
+If participate production association
+(1 = yes; 0 = no)
+Share of labor without receiving
+education (%)
+Cultivated land area per
+household (ha)
+Elevation (meter)
+
+Irrigated farms
+
+Rainfed farms
+
+Irrigated or rainfed farms
+
+Mean
+
+Standard
+deviation
+
+Mean
+
+Standard
+deviation
+
+Mean
+
+Standard
+deviation
+
+Mean
+
+Standard
+deviation
+
+10,146
+13.2
+24.2
+13.7
+0.3
+76.2
+144.2
+56.8
+23.2
+30
+31
+0.45
+0.97
+6.1
+
+12,280
+4.7
+3.2
+5.6
+8.5
+65.3
+62.5
+32.5
+24.1
+38
+39
+0.50
+0.18
+4. 5
+
+12,319
+13.8
+25.1
+14.4
+0.9
+81.7
+128.4
+48.6
+28.2
+31
+28
+0.75
+0.97
+5.2
+
+12,846
+3.5
+2. 6
+4.9
+6.7
+79.1
+72.1
+31.4
+27.8
+40
+36
+0.43
+0.18
+3.6
+
+7,464
+11.05
+22.6
+11.1
+−3.3
+53.2
+139.8
+53.8
+15.0
+17
+43
+0.35
+0.95
+7.1
+
+9,736
+4.7
+3.4
+5.6
+8.9
+43.4
+51.9
+33.2
+19.0
+31
+43
+0.48
+0.22
+5.2
+
+10,206
+12.6
+24.0
+13.0
+−0.9
+69.3
+133.4
+50.9
+22.4
+25
+34
+0.58
+0.96
+6.0
+
+11,841
+4.3
+3.2
+5.4
+8.0
+67.4
+64.3
+32.3
+25.2
+37
+40
+0.49
+0.20
+4.4
+
+48.9
+0.03
+
+39.9
+0.18
+
+–
+0.05
+
+–
+0.22
+
+–
+0.01
+
+–
+0.11
+
+54.1
+0.04
+
+47.7
+0.18
+
+7.5
+
+18.5
+
+6.1
+
+16.1
+
+9.6
+
+21.6
+
+7.6
+
+18.8
+
+0.72
+
+1.00
+
+0.57
+
+0.72
+
+0.99
+
+1.29
+
+0.75
+
+1.03
+
+614
+
+750
+
+581
+
+883
+
+709
+
+778
+
+636
+
+841
+
+Note: The observation for all households is 8,405; the observation for irrigated households is 2,750; the observation for rainfed farms is 2,119; and the observation
+for irrigated or rainfed farms is 4,869.
+
+the village and township government. There are also a series
+of household-level variables in Z, including the average education level of each member of the household that is in the labor
+force, a household’s land area, and a dummy variable measuring
+whether or not a household belongs to a production cooperative. The symbols bk and dj are vectors of the coefficients to be
+estimated; e is an error term.
+In order to assess the robustness of the model, we try a number of alternative specifications of Eq. (3). For example, we also
+try using the log of net revenue as the dependent variable. We
+test whether precipitation and temperature are independent by
+adding climate interaction terms. We divide the sample between
+households that live in irrigated and rainfed villages and estimate separate regressions for each subsample (Schlenker et al.,
+2005). As in Schlenker et al. (2005), we assume that in this
+analysis the choice of irrigation is exogenous.
+Based on this model, the change in land value from a marginal
+change in temperature or precipitation evaluated at a particular
+vector of seasonal temperatures T or precipitation P is:
+−
+∂Vi
+= b1 + 2 · b2 · T ,
+∂T
+∂Vi
+= b3 + 2 · b4 · P .
+∂P
+
+(4)
+
+With four seasons, one can calculate the marginal impact of
+each season. The marginal effect depends on the level of temperature and precipitation. We present the results for the mean
+temperature and precipitation in the sample. While seasonal effects might be of some interest, the more relevant expression
+for studying global warming is the overall change in annual
+climate. The annual average marginal effect can be calculated
+as the sum of the average seasonal marginal effects across all
+farms.
+
+4. Results
+In Table 2, we explore a regression model of net revenue per
+hectare on climate, soils, and a number of farm variables. We
+examine this regression for four samples: all the farms (some of
+which are not defined as irrigated rainfed (see below), farms that
+are irrigated, farms that are rainfed, and farms that are either irrigated or rainfed. The first regression includes 8,405 farms, the
+second 2,750 irrigated farms, the third 2,119 rainfed farms, and
+the last regression includes 4,869 farms from the last two subsamples (2,750 + 2,119). There are approximately 3,500 farms
+in villages with a mix of rainfed and irrigated farms where
+we cannot determine whether the farm is irrigated or not. The
+
+J. Wang et al./Agricultural Economics 40 (2009) 323–337
+
+327
+
+Table 2
+Regressions of net crop revenue
+Net crop revenue (yuan/ha)
+
+Spring temperature
+Spring temperature squared
+Summer temperature
+Summer temperature squared
+Fall temperature
+Fall temperature squared
+Winter temperature
+Winter temperature squared
+Spring precipitation
+Spring precipitation squared
+Summer precipitation
+Summer precipitation squared
+Fall precipitation
+Fall precipitation squared
+Winter precipitation
+Winter precipitation squared
+Share of clay soil
+Share of silt soil
+Plain (1 = yes; 0 = no)
+Road (1 = yes; 0 = no)
+Distance to township government
+Share of irrigation in village
+If participate production association (1 = yes; 0 = no)
+Share of labor without education
+Log of cultivated land area per household
+Elevation
+Constant
+Observations
+Adjusted R2
+F-test
+
+All farms
+
+Irrigated farms
+
+Rainfed farms
+
+Irrigated or rainfed farms
+
+1,453
+(2.18)∗
+−118.1
+(5.88)∗∗
+−1,803
+(2.01)∗
+48.7
+(2.53)∗
+119
+(0.20)
+−12.1
+(0.56)
+1,226
+(4.44)∗∗
+62.6
+(7.34)∗∗
+−300.6
+(8.52)∗∗
+1.0574
+(8.56)∗∗
+5.61
+(0.39)
+−0.06078
+(1.55)
+−107.4
+(2.92)∗
+0.9442
+(5.31)∗∗
+554.4
+(8.07)∗∗
+−6.355
+(7.96)∗∗
+4,360
+(7.26)∗∗
+2,080
+(3.85)∗∗
+856
+(2.57)∗
+2,022
+(2.96)∗∗
+21.9
+(0.77)
+4.6
+(1.11)
+1,713
+(2.50)∗
+4.901
+(0.71)
+−5,189
+(29.46)∗∗
+−1.956
+(4.56)∗∗
+26,242
+(3.28)∗∗
+
+4,149
+(1.79)
+−170.4
+(2.18)∗
+1,263
+(0.57)
+17.0
+(0.35)
+−5,178
+(2.55)∗
+67.7
+(0.93)
+2,064
+(3.64)∗∗
+63.9
+(2.91)∗
+−268.3
+(2.84)∗
+0.7255
+(2.21)∗
+151.1
+(3.68)∗∗
+−0.2414
+(2.22)∗
+−413.8
+(3.67)∗∗
+2.3112
+(3.22)∗∗
+668.9
+(3.43)∗∗
+−5.212
+(2.42)∗
+201
+(0.14)
+2,865
+(2.68)∗∗
+−1,459
+(1.96)∗
+722
+(0.55)
+83.4
+(1.19)
+
+1,789
+(1.54)
+−106.9
+(2.97)∗∗
+−6,200
+(4.75)∗∗∗
+125.9
+(4.03)∗∗∗
+2,678
+(2.54)∗
+−116.1
+(2.60)∗
+911
+(1.66)
+67.2
+(4.87)∗∗
+−132.3
+(1.50)
+0.6050
+(1.69)
+−76.5
+(2.70)∗
+0.1322
+(1.64)
+−171.6
+(2.71)∗
+1.2763
+(4.25)∗∗
+655.9
+(5.33)∗∗
+−8.248
+(5.27)∗∗
+−109
+(0.08)
+747
+(0.79)
+1,248
+(2.11)∗
+3,313
+(3.66)∗∗
+−35.8
+(0.93)
+
+2,940.6
+(2.57)∗
+24.6
+(1.71)
+−4,942
+(13.72)∗∗
+−0.920
+(1.41)
+−4,167
+(0.19)
+
+−2,168.4
+(1.27)
+−9.3
+(0.90)
+−3,934
+(14.53)∗∗
+−3.493
+(2.46)∗
+70,431
+(5.22)∗∗
+
+419
+(0.48)
+−60.8
+(2.13)∗∗
+−3,002
+(2.80)∗∗∗
+84.7
+(3.54)∗∗∗
+922
+(1.15)
+−82.0
+(2.71)∗∗∗
+1,431
+(4.06)∗∗∗
+63.6
+(5.87)∗∗∗
+−317.3
+(5.90)∗∗∗
+1.145
+(6.23)∗∗∗
+11.07
+(0.58)
+−0.036
+(0.66)
+−97.1
+(1.99)∗∗
+0.879
+(3.73)∗∗∗
+637.2
+(6.30)∗∗∗
+−7.022
+(6.21)∗∗∗
+1,453
+(1.71)∗
+11,923
+(1.80)∗
+71.9
+(0.16)
+2,370
+(2.97)∗∗∗
+4.32
+(0.12)
+12.5
+(2.74)∗∗∗
+2,496
+(2.85)∗∗∗
+10.7
+(1.19)
+−4,587
+(20.90)∗∗∗
+−1.769
+(3.84)∗∗∗
+39,085
+(4.05)∗∗∗
+
+8,405
+0.21
+89.23
+
+2,750
+0.16
+22.63
+
+2,119
+0.25
+29.62
+
+4,869
+0.20
+48.34
+
+Absolute values of t-statistics in parentheses.
+Significant at 10%; ∗∗ significant at 5% level; ∗∗∗ significant at 1% level.
+
+∗
+
+328
+
+J. Wang et al./Agricultural Economics 40 (2009) 323–337
+
+goodness of fit measures (adjusted R2 ) for all of the models
+ranges from 0.16 to 0.25, a level that is relatively high for
+cross-sectional household data. 4
+The analysis of all farms shown in the first column in Table 2
+reveals that many of the control variables are highly significant.
+Clay and silt soils increase net revenues per hectare (compared
+to sand). It is advantageous for a farmer to be on a plain, have
+access to a road, and participate in a production association. It
+is disadvantageous (lower net revenue per hectare) for a farm
+to be a larger size or higher elevation. The effect of size may
+be an artifact of the omission of household labor as a cost.
+Other factors such as whether the village has more irrigated
+land, laborers with less education, or is closer to the township
+government are not significant. 5
+Most important for this article are the results for the climate
+variables. At least one of the climate variables is significant
+in every season except for fall temperature and summer precipitation. Many of the coefficients of the squared terms are
+significant, implying that climate effects are nonlinear. However, the quadratic nature of the climate variables makes the
+coefficients themselves difficult to interpret. As a result, in
+Table 3, we calculate the marginal impacts of climate using
+both the linear and the squared coefficients of each variable. The
+first column of Table 3 presents the annual marginal temperature and precipitation effects, calculated at the sample mean,
+for the entire sample. The results suggest that higher annual
+temperatures slightly reduce net revenues per hectare in China
+(−10 USD/◦ C). The overall temperature elasticity is −0.09
+(% change in net revenue/% change in temperature). Consistent with earlier Ricardian analyses, the seasonal temperature
+effects are larger and offsetting. Higher spring temperatures are
+harmful, whereas warmer summer and especially winter temperatures are beneficial. 6 Higher annual precipitation increases
+net revenue (+15 USD/mm/mo). The overall precipitation elasticity is +0.8 (% change in net revenue/% change in precipitation). As with the seasonal temperature effects, the seasonal
+precipitation effects are larger and offsetting. A wetter spring
+is harmful, whereas a wetter winter is beneficial.
+We also examine a number of alternative specifications in Table A.1 and Table A.2 in the Appendix. Specifically, we focus
+on the model with the log of net revenue as the dependent variable. This model yields consistent coefficients and higher F-test
+
+4 The adjusted R2 of our estimation results are also similar to that in
+other countries, for example, in the research of Africa (Kurukulasuriya and
+Mendelson, 2008) the adjusted R2 is 0.35; for Brazil and India, it is 0.40 and
+0.56, separately (Mendelson et al., 2007).
+5 The proximity to township government may not matter because townships
+are small or government is not. The amount of irrigation in the village may
+not matter if it does not reflect the irrigation on the farm itself. Finally, the
+education of laborers may not matter because better educated laborers may cost
+more.
+6 For both spring wheat and early rice in China, their planting seasons are
+from February to April. If the winter temperature is warmer, their planting
+seasons can begin earlier.
+
+Table 3
+Marginal impacts of climate on crop net revenue
+All farms
+
+Irrigated
+farms
+
+Rainfed
+farms
+
+Irrigated or
+rainfed farms
+
+Temperature (USD/ha/◦ C)
+Spring
+−230∗∗
+Summer
+76∗
+Fall
+−29
+Winter
+173∗∗
+Annual
+−10∗
+Annual elasticity
+−0.09∗
+
+−49∗
+286
+−458∗
+288∗∗
+68∗
+0.62∗
+
+−143∗∗
+−15∗∗∗
+−68∗
+130∗∗
+−95∗∗
+−0.88∗∗
+
+−153∗∗
+147∗∗∗
+−166∗∗∗
+181∗∗∗
+8∗∗∗
+0.07∗∗∗
+
+Precipitation (USD/ha/mm/mo)
+Spring
+−19∗∗
+Summer
+−2
+Fall
+−1∗
+Winter
+36∗∗
+Annual
+15∗
+Annual elasticity
+0.80∗
+
+−22∗
+11∗
+−21∗∗
+59∗
+27∗
+1.48∗
+
+−6
+−5∗
+−4∗
+38∗∗
+23∗
+1.24∗
+
+−22∗∗∗
+0.2
+−1∗∗
+44∗∗∗
+22∗∗
+1.06∗∗
+
+∗ Significant at 10%; ∗∗ significant at 5% level; ∗∗∗ significant at 1% level.
+Yuan converted to 2006 USD using exchange rate of 8 yuan/USD. We wanted
+to allow easy comparison of marginal impacts with studies in other countries.
+
+values. 7The model also does a better job with heteroscedasticity, explaining some observations with much higher net revenue
+per hectare than the sample average. However, it is important
+to note that the log model yields similar results to the linear
+model. We also explored alternative specifications that control
+for land per household. The results are robust. When including
+either the log of land or when including a quadratic term for
+land, the overall climate results are similar. A third important
+variant that we explored concerns adding climate interaction
+terms between temperature and precipitation. We found that
+these terms were generally insignificant except for the fall season. However, adding interaction terms confounds the role of
+temperature and precipitation so that marginal effects depend on
+both variables. For simplicity, we rely on the model presented
+in this article. However, even when interactions are included,
+the overall results are robust across the different specifications.
+Because of the importance of irrigation in China, it is helpful
+to understand the sensitivity of irrigated versus rainfed farms (as
+first suggested by Schlenker et al., 2005). Earlier research has
+indicated that irrigated and rainfed farms have different climate
+sensitivities in Africa (Kurukulasuriya and Mendelsohn, 2007)
+and South America (Seo and Mendelsohn, 2008). As a result,
+in this article we examine the subsamples of farms that were
+in irrigated villages and the subsamples of farms that were in
+rainfed villages. Farms that were in villages that had both were
+omitted because we could not identify whether the farm used
+irrigation. After dividing the sample, we then estimated the net
+revenue model on the two subsamples as shown in columns 2
+and 3 of Table 2. We also estimated the regression for the two
+subsamples combined in column 4 of Table 2.
+7
+
+It is necessary to note that logging the data will move it closer to the mean,
+automatically improving the R2 and F-test value.
+
+J. Wang et al./Agricultural Economics 40 (2009) 323–337
+
+Comparing columns 2 and 3 in Table 2, most of the coefficients of the control variables for rainfed and irrigated farms are
+not similar to each other. The one exception is that larger plots
+for both samples have lower net revenues. Other variables such
+as percent clay soil, distance to township government, share of
+labor that is uneducated, and farmer characteristics remain insignificant. But the irrigated and rainfed regressions often had
+significantly different coefficients. Silt soil and participating in
+a production association increased the net revenue of irrigated
+land but had no significant effect on rainfed land. Being on a
+plain increased the value of rainfed land but decreased the value
+of irrigated land. Being on a road increased the value of rainfed
+land but had no effect on irrigated land. Higher elevation decreased the value of rainfed land but had no effect on irrigated
+land.
+The coefficients of the climatic variables for the rainfed and
+irrigated regressions in Table 2 were also different. Many of
+the climate coefficients are still significant. Some had the same
+sign though not the same magnitude. Finally, some coefficients
+switched sign, such as fall temperature, summer precipitation,
+and fall precipitation. However, to judge the effect of climate, it
+is helpful to calculate the marginal impacts. The results, shown
+in columns 2 and 3 of Table 3, reveal that temperature has a
+fundamentally different effect on irrigated versus rainfed farming. Higher annual temperatures increase the net revenue of
+irrigated farms by +68 USD/◦ C but reduce the net revenue of
+rainfed farms by −95 USD/◦ C. The seasonal effects are also different. Warmer falls are particularly harmful to irrigated farms,
+whereas warmer summers and winters are beneficial. In contrast, warmer springs and falls are harmful to rainfed farms,
+whereas warmer winters are beneficial. Higher annual precipitation, however, has almost identical effects on irrigated and
+rainfed farms. Wetter climates increase irrigated net revenues by
+27 USD/mm/mo and rainfed net revenue by 23 USD/mm/mo.
+Both irrigated and rainfed farms prosper more than the full
+sample regression suggests. The lower marginal values in the
+full sample may be due to a measurement error because the full
+cost of irrigation is not measured. As rain increases, farmers
+find it profitable to switch from irrigation to rainfed agriculture
+(or reduce the irrigated water they use) to save irrigation costs.
+In practice, they earn more. But using this data without irrigation costs, it appears that they are switching from high-valued
+irrigation to low-valued rainfed farming.
+It is also interesting to compare the results for the regression
+with both irrigated and rainfed farms (column 4 in Table 2) with
+the results of the two independent regressions (columns 2 and
+3). For most of the coefficients, the sign and significance of the
+variable in the combined regression depends on the significant
+coefficient in the two independent regressions. For example, the
+beneficial effect of silt soil in the irrigated regression makes silt
+soil beneficial in the combined regression. Similar evidence can
+be found for proximity to a road, participating in a production
+association and elevation. Finally, some variables (such as distance to township government, education, and cultivated land
+per household) have the same sign and significance in all three
+
+329
+
+regressions. There are two exceptions to this rule. Clay soil is
+not significant in either the irrigated or the rainfed regressions
+but it is significant in the combined regression. Being on a plain
+is significant in both independent regressions but with opposite
+signs, so it is not significant in the combined regression.
+The sign and significance of the climate variables (seasonal
+temperature and precipitation) in the combined regression also
+mainly depend on the significant coefficient in the two independent regressions. The marginal results in Table 3 clearly
+demonstrate where there are offsetting results. For example,
+warmer temperature increases net revenue by 68 USD/mm/mo
+for irrigated farms and reduces net revenue by 95 USD/mm/mo
+for rainfed farms. Combining these two samples together,
+the net revenue only increases by 8 USD/mm/mo. Similarly,
+more precipitation produces a slightly smaller benefit in the
+combined sample than for either irrigated or rainfed farms
+alone.
+The climate results are the most important results of the
+article. At least one of the climate variables is significant in
+every season except for fall temperature and summer precipitation. Many of the coefficients of the squared terms are significant, implying that climate effects are nonlinear. However, the
+quadratic nature of the climate variables makes the coefficients
+themselves difficult to interpret. As a result, in Table 3, we calculate the marginal impacts of climate using both the linear and
+the squared coefficients of each variable. The first column of
+Table 3 presents the annual marginal temperature and precipitation effects, calculated at the sample mean, for the entire sample.
+The results suggest that higher annual temperatures slightly reduce net revenues per hectare in China (−10 USD/◦ C). The
+overall temperature elasticity is −0.09 (% change in net revenue/% change in temperature). Consistent with earlier Ricardian analyses, the seasonal temperature effects are larger and
+offsetting. Higher spring temperatures are harmful, whereas
+warmer summer and especially winter temperatures are beneficial. 8 Higher annual precipitation increases net revenue (+15
+USD/mm/mo). The overall precipitation elasticity is +0.8 (%
+change in net revenue/% change in precipitation). As with the
+seasonal temperature effects, the seasonal precipitation effects
+are larger and offsetting. A wetter spring is harmful, whereas a
+wetter winter is beneficial.
+4.1. Regional impacts
+Although the average effect of temperature is negative and
+the marginal effect of precipitation is positive, the effects are
+quite different in different regions of the country. In order to understand how climate impacts vary across China, the marginal
+impacts of temperature and precipitation are mapped for irrigated and rainfed farms. The marginal temperature results
+of the irrigation regression are shown in Fig. 1. With irrigated
+8 For both spring wheat and early rice in China, their planting seasons are
+from February to April. If the winter temperature is warmer, their planting
+seasons can begin earlier.
+
+330
+
+J. Wang et al./Agricultural Economics 40 (2009) 323–337
+
+Fig. 1. Marginal temperature effect—irrigated farms.
+
+farms, warmer temperatures are more beneficial in the southeast
+and southwest regions (128–255 USD/ha/◦ C). Further, irrigated
+farms in the far south are no longer harmed by warming. However, the rest of China has similar results. Farms in the central
+region continue to enjoy mild benefits from warming (up to 127
+USD/ha/◦ C). The far north has the same marginal damages. The
+marginal precipitation effects for irrigated farms are shown in
+Fig. 2. The damages in the wet southeast disappear and become
+small benefits. All irrigated farms in China enjoy small benefits
+from increased rain.
+The marginal temperature results of the rainfed farm regression are shown in Fig. 3. The temperature impacts show a
+marked progression moving from the far south to the far north.
+There are large damages (−166 to −331 USD/ha/◦ C) in the
+far south from warming. These turn into smaller damages in
+most of the rest of the country (up to −165 USD/ha/◦ C). The
+far north and a few cold places in the southeast get small gains
+from warming (up to 127 USD/ha/◦ C). The results imply that
+most of China is slightly too warm for rainfed agriculture. Any
+further warming is therefore harmful except in the far north.
+
+The marginal precipitation effects are shown in Fig. 4. Increased rain will damage rainfed farms in the wet southeast but
+benefit rainfed farms in the rest of the country.
+
+4.2. Climate simulations
+In order to obtain a sense of the impact of future climate
+changes, we simulate climate change impacts using the econometric model described above. The simulation is admittedly
+just a first step since it assumes that China’s farms will remain
+as they are now. Clearly this will not be the case as future
+farmers make many changes across the landscape. However,
+the analysis of the impact of future climate scenarios on today’s
+farms does at least give a sense of the importance of climate
+change.
+In this study, we look at the results of three climate models:
+Parallel Climate Model (PCM), Hadley CM3 (Hadley), and
+the Canadian Climate Centre (CCC) model. Although they do
+not give a complete range of possible impacts, the three models
+
+J. Wang et al./Agricultural Economics 40 (2009) 323–337
+
+331
+
+Fig. 2. Marginal precipitation effect—-irrigated farms.
+
+were chosen to reflect a broad range of climate sensitivities. The
+2100 average prediction for temperature change in China thus
+ranges from 2.5◦ C in the PCM model to 4.0◦ C in the Hadley
+model, and 4.1◦ C in the CCC model. The models also provide
+different estimates of the change in precipitation as shown in
+Table 4.
+The national results are quite different in each scenario. The
+damages are much smaller in the relatively mild PCM scenario.
+However, in the Hadley and CCC scenarios, the damages are
+much larger. The impacts grow over time as the warming continues. By 2100, the damages reach 700 USD/ha in the Hadley
+scenario. The impacts, however, vary a great deal by farm type.
+Climate change is beneficial to irrigated farms as they can adapt
+to the extra heat by using more water. Of course, this result is
+predicated on the condition that there is more water to use. Rainfed farms, in contrast, are hurt immediately by climate change
+and the damages intensify with time.
+The results are not uniform across regions. The Southeast
+is much less impacted by climate change as there is ample
+rainfall to offset the extra heat in this region. The Northeast and
+Northwest, in contrast, are very sensitive to warming.
+
+5. Conclusion and policy implications
+This study conducts a Ricardian analysis on 8,405 farm
+households across 28 provinces in China. Net revenues are regressed on seasonal climate and a number of control variables.
+Several specifications of the model are estimated. The empirical
+results are robust. The average impact of higher temperatures
+is negative and the average impact of more precipitation is positive. However, marginal increases in temperature and rainfall
+have very different effects on different farm types in different
+regions. Warming is beneficial to irrigated farmers in China
+as they can use water to offset the heat. Rainfed farmers, in
+contrast, are quite vulnerable to warming and they will suffer
+reductions in net revenue. More rain is likely to be harmful to
+rainfed farmers in the wet southeast but will benefit farmers in
+the remaining regions. Irrigated farmers, like rainfed farmers,
+will gain from increased rainfall.
+These basic results are similar to results from other countries
+(Kurukulasuriya et al., 2006; Mendelsohn and Dinar, 2003;
+Mendelsohn et al., 1994, 2001; Seo and Mendelsohn, 2008).
+First, climate has an effect on net revenue in every country.
+
+332
+
+J. Wang et al./Agricultural Economics 40 (2009) 323–337
+
+Fig. 3. Marginal temperature effect—rainfed farms.
+
+Second, higher temperatures increase the net revenues of irrigated farms. Third, higher temperatures are beneficial to rainfed
+farms in cooler climates but harmful to rainfed farms in warm
+or hot climates. Fourth, more precipitation is beneficial unless
+there is an excessive amount of rain. Fifth, seasonal impacts
+vary and are offsetting.
+Our results, however, are not completely consistent with previous economic work on China’s agricultural sector (Liu et al.,
+2004). Our study finds that warming will be harmful to agriculture in China and that harm will grow over time, whereas
+Liu et al. (2004) found it was beneficial. We believe that this
+difference may lie in the choice of data sets. The farm data set
+in this study is likely more reliable than the county data set
+used by Liu et al. (2004). 9 However, not all of the results of the
+two studies were different. Both studies found that increased
+9
+
+The importance of having detailed household data for Ricardian analyses
+rather than county-level data has already been recognized (e.g., Dinar et al.,
+2008). Since the Ricardian technique implicitly measures adaptation in farmers’ decision, having a detailed data set with specific adaptation options (in
+the household data set) provides richer results and more meaningful policy
+implications.
+
+rainfall was beneficial. Both studies found that climate effects
+are nonlinear and effects differ by season. Hence, although the
+temperature results are different, many of the other results of
+the two studies are similar.
+Our economic analysis is also quite consistent with agronomic studies. Both analyses predict that global warming will
+be harmful to China’s agriculture. Both types of studies predict
+that rainfed grains are especially vulnerable. However, the economic analysis suggests that the overall impacts will be smaller.
+We believe that the crop study models lead to more pessimistic
+results because they do not consider adaptation. They do not
+include the possibility of crop switching, changes in irrigation,
+or other changes that farmers might undertake. These adaptations are implicitly captured in the Ricardian method. The
+agronomic studies also do not generally measure vegetables
+and other high-valued crops grown in irrigated conditions, but
+rather deal with grains. Therefore, they may underestimate the
+benefits of warming to irrigated farms.
+The marginal effect of higher temperature for China is only
+mildly harmful for two important reasons. Many areas in China
+are cool so that a small warming causes little harm. Further, a
+
+J. Wang et al./Agricultural Economics 40 (2009) 323–337
+
+333
+
+Fig. 4. Marginal precipitation effect—rainfed farms.
+
+large fraction of farms in China are irrigated and they at first
+benefit from warming. At least at first, the agricultural sector
+as a whole in China is only mildly vulnerable. However, over
+time, if warming intensifies, the damages to the rainfed sector
+will lead to growing losses.
+An important message in the research is that irrigation is
+critical to China’s agriculture system. Nearly 60% of cultivated
+land in China is irrigated. This reliance on irrigation, however,
+comes with a price. China’s ability to cope with future climate
+change depends on the availability of water for irrigation. Our
+analysis assumes that water will continue to be available. Data
+were not available to measure the amount of water each farmer
+was using. It was therefore not possible to measure the importance of available water. This could be a critical problem
+for China if climate warming makes water increasingly scarce.
+The negative results of this study could become much larger if
+warming forces many irrigated farms to become rainfed farms.
+Clearly there is a strong need in China for further analysis of
+the effects of climate change on water.
+It is also quite apparent that the effects of climate change
+are not going to be uniform across the country. Warm-
+
+ing will assist areas that are currently very highly productive and will further handicap areas that have below average
+productivity. In particular, warming will help the southeast
+region but hurt the west and far north. China’s policy makers need to be aware that warming is likely to impose additional costs on specific regions that already have below average
+incomes.
+The fact that the agronomic studies predict much larger damages than the Ricardian studies suggest that adaptation matters.
+The ability of China’s farmers to change and adapt to new
+conditions has allowed China to outperform other agricultural
+economies in the world and will continue to be important with
+respect to climate change. However, for farmers to be able to
+endure future climate changes, it is critical that policies allow
+them to get the most out of the available factors of production and natural resources. The results of this study suggest
+that the direct effects of temperature and precipitation on farms
+may not be a great risk to China in the near future. However, the effect of climate change on water availability may
+be very important. Given that water is already a very critical resource in certain regions of China, policy makers may
+
+334
+
+J. Wang et al./Agricultural Economics 40 (2009) 323–337
+
+Table 4
+Climate simulation results across climate scenarios to Chinese farms
+2040–2050
+
+(◦ C)
+
+Change of temperature
+Change of precipitation (%)
+National change (USD/ha)
+All farms
+Irrigated farms
+Rainfed farms
+Irrigated or rainfed farms
+Regional change (USD/ha)
+Northeast
+All farms
+Irrigated farms
+Rainfed farms
+Irrigated or rainfed farm
+Southeast
+All farms
+Irrigated farms
+Rainfed farms
+Irrigated or rainfed farms
+Middle
+All farms
+Irrigated farms
+Rainfed farms
+Irrigated or rainfed farms
+Northwest
+All farms
+Irrigated farms
+Rainfed farms
+Irrigated or rainfed farms
+Southwest
+All farms
+Irrigated farms
+Rainfed farms
+Irrigated or rainfed farms
+
+2090–2100
+
+PCM
+
+HADCM3
+
+CCM2
+
+PCM
+
+HADCM3
+
+CCM2
+
+0.74
+3.44
+
+1.08
+−1.31
+
+1.5
+0.18
+
+2.45
+8.23
+
+4.01
+7.69
+
+4.1
+−1.71
+
+−110
+348
+−450
+10
+
+−76
+521
+−567
+83
+
+−146
+703
+−838
+98
+
+−397
+1,071
+−1,565
+90
+
+−686
+1,636
+−2,657
+241
+
+−570
+1,696
+−2,575
+348
+
+−193
+218
+−113
+−43
+
+−238
+274
+−80
+−18
+
+−358
+378
+−160
+−35
+
+−692
+612
+−452
+−98
+
+−1,205
+833
+−839
+−87
+
+−1,163
+789
+−723
+−21
+
+0
+675
+−605
+52
+
+97
+1,000
+−825
+151
+
+90
+1,368
+−1,187
+190
+
+−26
+2,155
+−2,094
+231
+
+−67
+3,411
+−3,552
+479
+
+81
+3,515
+−3,538
+604
+
+−95
+376
+−627
+48
+
+−36
+579
+−826
+162
+
+−97
+778
+−1,198
+200
+
+−338
+1,172
+−2,151
+227
+
+−572
+1,816
+−3,617
+488
+
+−427
+1,907
+−3,559
+635
+
+−224
+−241
+−296
+−3
+
+−300
+−352
+−366
+23
+
+−440
+−506
+−551
+27
+
+−804
+−886
+−1,066
+25
+
+−1,403
+−1,580
+−1,861
+98
+
+−1,391
+−1,611
+−1,799
+141
+
+−107
+577
+−938
+−58
+
+−24
+956
+−1,224
+36
+
+−90
+1,276
+−1,768
+16
+
+−363
+1,880
+−3,153
+−110
+
+−587
+3,052
+−5,205
+−38
+
+−398
+3,297
+−5,097
+142
+
+Note: (1) The base year is 1990–2000.
+(2) Climate scenario for A2 emissions scenario. Data for each model is available at http://cera-www.dkrz.de/CERA/index.html
+(3) The Northeast region includes Liaoning, Jilin, Heilongjiang, Tianjin, and Hebei provinces; the Southeast region includes Shanghai, Jiangsu, Zhejiang, Fujian,
+Shandong, and Guangdong provinces; the Middle region includes Shanxi, Anhui, Jiangxi, Henan, Hubei, Hunan, Inner Mongolia, and Guangxi provinces; the
+Northwest region includes Shaanxi, Gansu, Qinghai, Ningxia, and Xinjiang provinces; and the Southwest region includes Chongqing, Sichuan, Guizhou, and Yunnan
+provinces.
+
+want to use this resource wisely, especially in regions where
+water is scarce. Climate change increases the pressure to develop institutions and infrastructure in water-scarce regions to
+treat water as a valuable resource. Because water scarcity is
+a regional issue, it is very important that China adopt water
+policies in each region that reflects the regional scarcity of
+water.
+In order to address future warming, China may also consider
+developing management practices and new varieties (crops and
+livestock) for a warmer world. Finally, China would benefit
+from adaptation at large, by having new technologies (research),
+educating farmers about better technologies (extension), and
+building credit institutions to allow farmers to purchase and
+apply needed technology.
+
+Acknowledgments
+The authors thank Jianmin Cao, Cheng Cheng, Yumin Li, and
+Hao Li for their assistance in data cleaning. The article benefited from review comments by Hui Liu, Wolfram Schlenker,
+and Apurva Sanghi. We also thank the State Office of Agricultural Comprehensive Development in China (SOCAD) for
+their support—the writing of this article took place in parallel
+with work carried on in the context of the proposed Global
+Environmental Facility financed project “Adaptation to Climate Change” to be implemented by SOCAD. Additional support was provided by National Natural Sciences Foundation
+(70733004) in China, DECRG in the World Bank, and EU
+(#044255).
+
+J. Wang et al./Agricultural Economics 40 (2009) 323–337
+
+335
+
+Appendix: Alternative functional specifications
+Table A.1
+Alternative Ricardian regressions of all farms
+With interaction terms
+
+Spring temperature
+Spring temperature squared
+Summer temperature
+Summer temperature squared
+Fall temperature
+Fall temperature squared
+Winter temperature
+Winter temperature squared
+Spring precipitation
+Spring precipitation squared
+Summer precipitation
+Summer precipitation squared
+Fall precipitation
+Fall precipitation squared
+Winter precipitation
+Winter precipitation squared
+Spring precipitation∗ temperature
+Summer precipitation∗ temperature
+Fall precipitation∗ temperature
+Winter precipitation∗ temperature
+Share of land areas with clay soil
+Share of land areas with silt soil
+Plain (1 = yes; 0 = no)
+Road (1 = yes; 0 = no)
+Distance to township government
+Share of irrigated areas in village
+If participate production association (1 = yes; 0 = no)
+Share of labor without receiving education
+Cultivated land area per household
+
+Without interaction terms
+
+Net crop revenue
+
+Log net crop revenue
+
+Net crop revenue
+
+Log net crop revenue
+
+−457.7
+(0.63)
+−92.0
+(3.94)∗∗∗
+−3,702
+(3.39)∗∗∗
+105.48
+(4.44)∗∗∗
+2,403
+(2.85)∗∗∗
+−81.05
+(2.33)∗∗
+1,593
+(5.23)∗∗∗
+76.37
+(7.55)∗∗∗
+−325.27
+(5.78)∗∗∗
+1.06
+(7.50)∗∗∗
+−63.78
+(1.72)∗
+−0.11
+(2.67)∗∗∗
+20.28
+(0.39)
+1.24
+(5.20)∗∗∗
+538.53
+(7.10)∗∗∗
+−6.88
+(7.23)∗∗∗
+−0.835
+(0.28)
+4.08
+(2.63)∗∗∗
+−8.62
+(2.79)∗∗∗
+15.93
+(2.44)∗∗
+5,477
+(8.07)∗∗∗
+3,412
+(6.02)∗∗∗
+727
+(2.06)∗∗
+2,771
+(3.86)∗∗∗
+−32.02
+(1.07)
+17.21
+(4.01)∗∗∗
+2,747
+(3.86)∗∗∗
+0.364
+(0.05)
+−1,992
+
+−0.2487
+(5.02)∗∗∗
+−0.00612
+(3.83)∗∗∗
+−0.2419
+(3.25)∗∗∗
+0.01057
+(6.52)∗∗∗
+0.415
+(7.21)∗∗∗
+−0.01529
+(6.43)∗∗∗
+0.2519
+(12.11)∗∗∗
+0.01072
+(15.52)∗∗∗
+−0.03730
+(9.71)∗∗∗
+0.00010
+(10.40)∗∗∗
+−0.00126
+(0.49)
+−0.00001
+(2.90)∗∗
+0.00264
+(0.74)
+0.00018
+(11.13)∗∗∗
+0.05703
+(11.01)∗∗∗
+−0.00075
+(11.55)∗∗∗
+0.00062
+(3.01)∗∗∗
+0.00014
+(1.31)
+−0.00172
+(8.18)∗∗∗
+−0.00023
+(0.51)
+0.556
+(12.01)∗∗∗
+0.300
+(7.76)∗∗∗
+0.171
+(7.11)∗∗∗
+0.108
+(2.21)∗∗
+−0.001
+(0.69)
+0.00362
+(12.36)∗∗∗
+0.168
+(3.45)∗∗∗
+−0.00073
+(1.48)
+−0.310
+
+609.0
+−0.92
+−113.7
+(5.50)∗∗∗
+−2,121
+(2.38)∗∗
+68.99
+(3.47)∗∗∗
+719.6
+(1.14)
+−5.69
+(0.25)
+1,194
+(4.18)∗∗∗
+58.08
+(6.49)∗∗∗
+−304.86
+(8.31)∗∗∗
+1.002
+(7.79)∗∗∗
+39.28
+(2.93)∗∗∗
+−0.12
+(3.10)∗∗∗
+−61.53
+(1.62)
+0.792
+(4.31)∗∗∗
+469.33
+(6.56)∗∗∗
+−5.46
+(6.56)∗∗∗
+
+−0.2420
+(5.31)∗∗∗
+−0.00316
+(2.23)∗∗
+−0.3572
+(5.84)∗∗∗
+0.01219
+(8.95)∗∗∗
+0.4800
+(11.07)∗∗∗
+−0.01911
+(12.22)∗∗∗
+0.1972
+(10.07)∗∗∗
+0.00996
+(16.23)∗∗∗
+−0.02262
+(8.99)∗∗∗
+0.00009
+(10.46)∗∗∗
+0.00460
+(5.01)∗∗∗
+−0.00001
+(5.26)∗∗∗
+−0.02041
+(7.83)∗∗∗
+0.00015
+(11.60)∗∗∗
+0.04787
+(9.76)∗∗∗
+−0.00068
+(11.98)∗∗∗
+
+5,345
+(8.55)∗∗∗
+3,259
+(5.87)∗∗∗
+975
+(2.83)∗∗∗
+2,584
+(3.64)∗∗∗
+−30.89
+(1.04)
+15.68
+(3.68)∗∗∗
+2,601
+(3.67)∗∗∗
+0.517
+(0.07)
+−1,925
+
+0.423
+(9.88)∗∗∗
+0.311
+(8.18)∗∗∗
+0.196
+(8.30)∗∗∗
+0.103
+(2.11)∗∗
+0.002
+(1.11)
+0.003
+(11.82)∗∗∗
+0.137
+(2.82)∗∗∗
+−0.001
+(1.88)∗
+−0.303
+(continued)
+
+336
+
+J. Wang et al./Agricultural Economics 40 (2009) 323–337
+
+Table A.1
+(Continued)
+With interaction terms
+
+Constant
+Observations
+Adjusted R2
+F-test
+
+Without interaction terms
+
+Net crop revenue
+
+Log net crop revenue
+
+Net crop revenue
+
+Log net crop revenue
+
+(11.66)∗∗∗
+
+(26.55)∗∗∗
+
+(11.35)∗∗∗
+
+41,700
+(4.05)∗∗∗
+8405
+0.15
+51.21
+
+10.41
+(14.81)∗∗∗
+8405
+0.39
+189.32
+
+22,465
+(2.97)∗∗∗
+8405
+0.15
+58.47
+
+(26.09)∗∗∗
+11.12
+(21.44)∗∗∗
+8405
+0.39
+213.53
+
+Absolute value of t-statistics in parentheses.
+Significant at 10%; ∗∗ significant at 5%; ∗∗∗ significant at 1%.
+
+∗
+
+Table A.2
+Alternative specifications of irrigated and rainfed farms
+Net crop revenue
+
+Spring temperature
+Spring temperature squared
+Summer temperature
+Summer temperature squared
+Fall temperature
+Fall temperature squared
+Winter temperature
+Winter temperature squared
+Spring precipitation
+Spring precipitation squared
+Summer precipitation
+Summer precipitation squared
+Fall precipitation
+Fall precipitation squared
+Winter precipitation
+Winter precipitation squared
+Spring precipitation ∗ temperature
+Summer precipitation ∗ temperature
+Fall precipitation ∗ temperature
+Winter precipitation ∗ temperature
+Share of land areas with clay soil
+
+Irrigated farms
+
+Rainfed farms
+
+Irrigated or rainfed farms
+
+6,811
+(2.80)∗∗∗
+−324.8
+(3.85)∗∗∗
+7,285
+(2.11)∗∗
+−119.55
+(1.67)∗
+−8,845
+(3.35)∗∗∗
+331.65
+(3.05)∗∗∗
+2,238
+(3.04)∗∗∗
+51.61
+(1.41)
+−294.88
+(2.41)∗∗
+−0.99
+(2.47)∗∗
+148.14
+(1.05)
+−0.158
+(1.41)
+−127.11
+(0.73)
+5.631
+(5.12)∗∗∗
+13.25
+(0.06)
+6.461
+(2.22)∗∗
+26.918
+(3.37)∗∗∗
+0.117
+(0.02)
+−50.82
+(3.23)∗∗∗
+−33.27
+(1.90)∗
+−1,934
+(1.29)
+
+−1,466
+(1.37)
+−76.5
+(1.84)∗
+−8,742
+(5.80)∗∗∗
+254.25
+(6.78)∗∗∗
+6,780
+(5.19)∗∗∗
+−258.73
+(4.07)∗∗∗
+1,583
+(2.67)∗∗∗
+97.91
+(6.55)∗∗∗
+−177.44
+(1.39)
+0.61
+(1.44)
+17.94
+(0.28)
+0.087
+(1.06)
+102.74
+(1.16)
+3.519
+(5.61)∗∗∗
+864.14
+(5.91)∗∗∗
+−14.785
+(7.09)∗∗∗
+−3.269
+(0.46)
+−2.701
+(1.02)
+−33.10
+(4.16)∗∗∗
+82.57
+(4.84)∗∗∗
+−1,591
+(1.02)
+
+−2,185
+(2.32)∗∗
+−6.982
+(0.21)
+−7,035
+(5.25)∗∗∗
+197.82
+(6.60)∗∗∗
+5,378
+(4.91)∗∗∗
+−258.08
+(5.53)∗∗∗
+1,651
+(4.47)∗∗∗
+88.26
+(7.13)∗∗∗
+−264.98
+(3.47)∗∗∗
+1.13
+(5.48)∗∗∗
+−5.348
+(0.10)
+−0.088
+(1.50)
+−82.93
+(1.08)
+1.593
+(4.83)∗∗∗
+634.55
+(5.69)∗∗∗
+−9.171
+(6.42)∗∗∗
+−5.706
+(1.46)
+2.160
+(1.01)
+−4.996
+(1.04)
+49.45
+(5.32)∗∗∗
+289
+(0.30)
+(continued)
+
+J. Wang et al./Agricultural Economics 40 (2009) 323–337
+
+337
+
+Table A.2
+(Continued)
+Net crop revenue
+
+Share of land areas with silt soil
+Plain (1 = yes; 0 = no)
+Road (1 = yes; 0 = no)
+Distance to township government
+
+Irrigated farms
+
+Rainfed farms
+
+Irrigated or rainfed farms
+
+4,141
+(3.58)∗∗∗
+−463
+(0.56)
+564
+(0.42)
+72.0
+(0.98)
+
+3,746
+(3.61)∗∗∗
+1,095
+(1.75)∗
+4,660
+(4.84)∗∗∗
+−50.7
+(1.26)
+
+3,138
+(2.70)∗∗∗
+32.9
+(2.21)∗∗
+−2,720
+(5.78)∗∗∗
+−66,240
+(2.10)∗∗
+2,750
+0.12
+14.94
+
+−2,586
+(1.46)
+−9.87
+(0.92)
+−1,189
+(5.95)∗∗∗
+65,090
+(4.47)∗∗∗
+2,119
+0.20
+20.25
+
+3,282
+(4.61)∗∗∗
+−187
+(0.38)
+2,702
+(3.22)∗∗∗
+−35.9
+(0.93)
+21.84
+(4.56)∗∗∗
+3,547
+(3.95)∗∗∗
+2.55
+(0.27)
+−1,626
+(8.02)∗∗∗
+67,420
+(5.39)∗∗∗
+4,869
+0.15
+30.39
+
+Share of irrigated areas in village
+If participate production association (1 = yes; 0 = no)
+Share of labor without receiving education
+Cultivated land area per household
+Constant
+Observations
+Adjusted R2
+F-test
+Absolute values of t-statistics in parentheses.
+Significant at 10%; ∗∗ significant at 5%; ∗∗∗ significant at 1%.
+
+∗
+
+References
+Adams, R., Fleming, R., Chang, C., McCarl, B., Rosenzweig, C., 1995. A
+reassessment of the economic-effects of global climate-change on US agriculture. Clim. Change 30(2), 147–167.
+Cline, W. 1996. The impact of global warming on agriculture: Comment. Amer.
+Econ. Rev. 86(5), 1309–1312.
+Dinar, A., Hassan, R., Mendelsohn, R., Benhin, J., et al. 2008. Climate Change
+and Agriculture in Africa: Impact Assessment and Adaptation Strategies.
+EarthScan, London.
+Fleischer, A., Lichtman, I., Mendelsohn, R., 2008. Climate change, irrigation,
+and Israeli agriculture: Will warming be harmful? Ecol. Econ. 67, 109–
+116.
+IPCC (Intergovernmental Panel on Climate Change), 2007a. Contribution of
+Working Group I to the Fourth Assessment Report. Cambridge University
+Press, Cambridge, UK.
+IPCC (Intergovernmental Panel on Climate Change), 2007b. Impacts, Adaptation and Vulnerability. Cambridge University Press, Cambridge, UK.
+Kelly, D.L., Kolstad, C., Mitchell, G.T., 2005. Adjustment costs from climate
+change. J. Environ. Econ. Man. 50(3), 468–495.
+Kurukulasuriya, P., Mendelsohn, R., 2007. Modeling endogenous irrigation:
+The impact of climate change on farmers in Africa. World Bank Policy
+Research Working Paper 4278, Washington, DC.
+Kurukulasuriya, P., Mendelsohn, R., 2008. A Ricardian analysis of the impact of climate change on African cropland. Afr. Agr. Res. Econ. 2, 1–
+23.
+Kurukulasuriya, P., Mendelsohn, R., Hassan, R., Benhin, J., Diop, M., Eid,
+H.M., Fosu, K.Y., Gbetibouo, G., Jain, S., Mahamadou, A., El-Marsafawy,
+S., Ouda, S., Ouedraogo, M., S`ene, I., Seo, N., Maddison, D., Dinar, A.,
+2006. Will African agriculture survive climate change? World Bank Econ.
+Rev. 20, 367–388.
+Liu, H., Li, X., Fischer, G., Sun, L., 2004. Study on the impacts of climate
+change on China’s agriculture. Clim. Change 65(1–2), 125–148.
+Matthews, R.B., Wassmann, R., 2003. Modelling the impacts of climate change
+and methane emission reductions on rice production: A review. Europ. J.
+Agron. 19, 573–598.
+
+Mendelsohn, R., Dinar, A., 1999. Climate change, agriculture, and developing
+countries: Does adaptation matter? World Bank Res. Obser. 14, 277–293.
+Mendelsohn, R., Dinar, A., 2003. Climate, water, and agriculture. Land Econ.
+79, 328–341.
+Mendelsohn, R., Dinar, A., Sanghi, A., 2001. The effect of development on the
+climate sensitivity of agriculture. Environ. Dev. Econ. 6, 85–101.
+Mendelsohn, R., Nordhaus, W., Shaw, D., 1994. Measuring the impact of global
+warming on agriculture. Amer. Econ. Rev. 84, 753–771.
+Mendelsohn, R., Kurukulasuriya, P., Basist, A., Kogan, F., Williams, C., 2007.
+Climate analysis with satellite versus weather station data. Clim. Change
+81, 71–83.
+Parry, M.L., Rosenzweig, C., Iglesias, A., Livermore, M., Fischer, G., 2004.
+Effects of climate change on global food production under SRES emissions
+and socio-economic scenarios. Global Environ. Change 14, 53–67.
+Ricardo, D., 1817. On The Principles of Political Economy and Taxation,
+Rod Hay’s Archive for the History of Economic Thought, McMaster
+University, Canada. http://www.marxists.org/reference/subject/economics/
+ricardo/tax/index.htm, accessed 11 March, 2009.
+Schlenker, W., Hanemann, M., Fisher, A., 2005. Will US agriculture really benefit from global warming? Accounting for irrigation in the hedonic approach.
+Amer. Econ. Rev. 95, 395–406.
+Seo, S.N., Mendelsohn, R., 2008. A Ricardian analysis of the impact of climate
+change on South American farms. Chilean J. Agr. Res. 68(1), 69–79.
+Seo, S.N., Mendelsohn, R., Munasinghe, M., 2005. Climate change and agriculture in Sri Lanka: A Ricardian valuation. Environ. Dev. Econ. 10, 581–596.
+Tao, F., Yokozawa, M., Xu, Y., Hayashi, Y., Zhang, Z., 2006. Climate change
+and trends in phenology and yields of field crops in China, 1981–2000. Agr.
+For. Met. 138, 82–92.
+Wu, D., Yu, Q., Lu, C., Hengsdiijk, H., 2006. Quantifying production potentials
+of winter wheat in the North China plain. Eur. J. Agr. 24, 226–235.
+Xiong, W., Matthews, R., Holman, I., Lin, E., Xu, Y., 2007. Modelling China’s
+potential maize production at regional scale under climate change. Climate
+Change 85, 433–445.
+Yao, F., Xu, Y., Lin, E., Yokozawa, M., Zhang, J., 2007. Assessing the impacts
+of climate change on rice yields in the main rice areas of China. Clim.
+Change 80, 395–409.
+
+

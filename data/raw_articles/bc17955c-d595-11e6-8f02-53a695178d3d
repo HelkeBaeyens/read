@@ -1,0 +1,1575 @@
+AGRICULTURAL
+
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 18 (1998) 127-143
+
+Multiple job holdings among dairy farm families in New York
+and Ontario
+Alfons Weersink
+a
+
+a,*,
+
+Charles Nicholson b,C, Jeeveka Weerhewa
+
+a
+
+Department of Agricultural Economics and Business, University of Guelph, Guelph, ON, Canada
+b International Livestock Research Institute (/LRI), Addis Ababa, Ethiopia
+c International Food and Policy Research Institute (IFPRI), Washington, DC, USA
+
+Accepted 11 November 1997
+
+Abstract
+Previous empirical studies of multiple job holding have tended to focus on the characteristics of those obtaining off-fann employment
+and the factors affecting the hours supplied to those obtaining off-farm activities. None of these studies have explicitly addressed the reasons
+behind the decision to seek off-farm employment. Neither have they been able to examine in-depth the important issue of how this major
+component of the farm sector responds to alternative policies, since most studies have used cross-sectional data for a given region. A
+comparison between countries would permit the analysis of how multiple job holding responds to differing government policies. The
+purpose of this paper is to examine the reasons for and factors affecting multiple job holdings of dairy farm families in neighboring regions
+of two counties, United States and Canada. The bordering regions of New York and Ontario have similar geographic conditions but
+significantly different farm support and social service policies. The results indicate the importance of farm income on why people work off
+the farm and provide evidence of multiple job holding as a flexible mechanism for coping with changes in the economic environment facing
+the household. For operators, the driving characteristics influencing off-farm labor participation is the farm's financial position. The
+supply-managed milk marketing system ensures higher and more stable returns for Ontario dairy farm labor. In contrast, it is family
+demographics, educational level and social support policy that appears to largely influence spousal off-farm employment decisions. Free
+medical care in Ontario lowers the reservation wage for household members. The effect of these farm and social support policies on the
+relative returns to labor in agriculture and non-farm employment explains the lower participation rate and hours supplied in off-farm work
+by both operators, and hours supplied in off-farm work by both operators and spouses in Ontario dairy farm household. Published by
+Elsevier Science B.V.
+Keywords: Multiple job holding; Dairy farm; New York; Ontario
+
+1. Introduction
+Rising nonfarm wages and a greater increase in the supply of agricultural products relative to demand has
+depressed farm earnings for some households in the nonfarm sector over the last several decades. The resulting
+adjustment of labor out of agriculture has occurred through a large reduction in the number of farms, and also
+through dual employment of those remaining on the farm (Huffman, 1991). Multiple job holding may be viewed
+
+' Corresponding author.
+0169-5150/98/$19.00 Published by Elsevier Science B.V.
+PII S0169-5!50(97)00053-4
+
+128
+
+A. Weersink et al. /Agricultural Economics 18 (1998) 127-143
+
+as a temporary phenomenon in response to financial pressures in agriculture, but it has always been present
+(Fuller, 1991). In recent years, almost 60% of US farm households had either the spouse, operator, or both
+employed in off-farm work and approximately 80% had higher cash incomes from off-farm earnings (including
+wages, rent, interest etc.) than from their farm (USDA, 1992).
+The reasons for examining multiple job holding are generally grouped into 3 issues (Carlin and Bentley,
+1991). First are human resource issues surrounding efficiency and equity differences between those working
+full-time on the farm and those with off-farm jobs. If the latter group are less productive, then understanding the
+characteristics of those individuals would aid in targeting extension efforts to help improve their efficiency.
+However, the need for such efforts and for other farm programs such as income support are brought into
+question if total household income for multiple job holding farm families is similar to those families without
+off-farm jobs. Second are rural development issues that are related to the equity considerations just mentioned.
+If total family incomes are greater for households with off-farm jobs, then the prosperity of rural areas may be
+enhanced more through efforts to increase non-farm employment opportunities than through direct income
+support to farmers. Third are forecasts related to farm structure. The trend to a bi-modal distribution of farm
+sizes is supported if multiple job holding participants tend to be middle-aged. Such individuals are unlikely to
+view off-farm work as a temporary phase in a transition to full-time farming, but rather as a full-time occupation
+with farming as a sideline activity. Operators whose major occupation is not farming almost exclusively have
+small farms (USDA, 1992). A bi-modal distribution has implications for issues such as research priorities, rural
+infrastructure, financial service provisions, and agri-food processing location decisions (Goddard et al., 1993).
+Previous empirical studies of multiple job holding have tended to focus on the characteristics of those
+obtaining off-farm employment and the factors affecting the hours supplied to those off-farm activities (e.g.,
+Bollman, 1979; Huffman, 1980; Sumner, 1982; Simpson and Kapitany, 1983; Gould and Saupe, 1989; Huffman
+and Lange, 1989; Lass et al., 1988; Lass and Gempesaw, 1992; and Weersink, 1992). Focus has been on human
+capital characteristics with the general finding that the increasing off-farm employment rate is due to changes in
+marginal returns to labor between off-farm and farm activities arising largely from improved human capital
+skills. None of these studies have explicitly addressed the reasons behind the decision to seek off-farm
+employment. Neither have they been able to examine in-depth the important issue of how this major component
+of the farm sector responds to alternative policies (Sumner, 1991), since most studies have used cross-sectional
+data for a given region. A comparison between countries would permit the analysis of how multiple job holding
+responds to differing government policies.
+The purpose of this paper is to examine the reasons for and factors affecting multiple job holdings of dairy
+farm families in neighboring regions of two counties, United States and Canada. The bordering regions of New
+York and Ontario have similar geographic conditions but significantly different farm support and social service
+policies. Milk production in Ontario is controlled through a supply management system that enables producers
+in that province to earn higher and more stable returns than their counterparts in New York for whom milk
+prices are subject to a greater degree of market forces. Households in Ontario also benefit from free access to
+medical care but pay higher taxes. The lack of such coverage for families in New York can be a reason for a
+member of a farm household to seek off-farm employment in order to obtain fringe benefits such as medical
+insurance (Jensen and Salant, 1985, Alwang and Stallmann, 1992). The contrasting forms of government
+support in the two regions and the focus on dairy, which requires more labor commitment to the farm than other
+agricultural products, should permit insights into how off-farm labor decisions are affected by government
+policy.
+The paper begins with a theoretical model of multiple job holding decisions by farm families followed by the
+econometric means of estimating the model that accounts for joint decision-making and self-selection biases.
+Section 2 of the paper examines differences between the two regions in the extent of multiple job holdings and
+its explanatory variables along with a discussion of how policy has contributed to these differences. We then
+analyze efficiency and equity measures for differing work regimes and factors affecting the decision to
+participate in off-farm work. Primary reasons for multiple job holdings given by the household and their
+
+A. Weersink et al.j Agricultural Economics 18 ( 1998) 127-143
+
+129
+
+relationship to farm income are then examined. Finally, factors affecting both demand and supply for off-farm
+labor are discussed. Differences in off-farm employment patterns between New York and Ontario as partial
+indicators of how alternative government policies affect multiple job holding decisions by dairy farm families
+are emphasized.
+
+2. Theoretical model
+The decision to work off-farm by operators and spouses can be viewed through an agricultural household
+model that combines agricultural production, consumption and labor supply decisions into a single framework.
+Similar models have been used by Huffman and Lange (1989), Gould and Saupe (1989), and Lass and
+Gempesaw (1992). In these models, the household is assumed to maximize utility by consuming various
+commodities that it produces by combining market goods and time. Household utility is assumed to be derived
+from consumption of all goods (G) and leisure time for the operator (L0 ) and spouse (L8 ). The level of utility
+derived from purchased goods and leisure is affected by exogenous variables such as human capital characteristics of the operator (H 0 ) and spouse (H 8 ) along with other household and area characteristics such as number
+and age distribution of children and service availability (ZH).
+
+( 1)
+Utility is maximized subject to constraints on time, income and farm productivity. Time for the operator and
+spouse are assumed to be heterogeneous. Each allocate their total time endowment (T) to either leisure (L) or
+work which consists of time spent working on the farm (F) and possibly in off-farm employment (M). It is
+assumed that a positive amount of time is allocated to leisure and farm work, but that hours of off-farm work
+may be zero for either the operator or spouse.
+
+(2)
+Working on or off the farm is done to generate income for purchase of consumption goods bought at a price
+Pa. Total amount spent on goods for direct or indirect consumption is limited by the amount earned from farm
+
+income, off-farm income and other exogenous household income (V). Assuming the household faces perfectly
+competitive output and input markets, farm income (PQQ- RX) is equal to the price of farm output (PQ)
+multiplied by quantity produced (Q) less variable costs of production RX where R is the input price vector, and
+X is the quantity of purchased farm inputs. Off-farm income is the product of the wage rate (W) and the hours
+worked off-farm by both the operator and spouse (W 0 M 0 + W 8 M 8 ). The budget constraint on household
+income is therefore
+
+(3)
+The wage rates facing operators and spouses are assumed to depend on their respective human capital
+characteristics (H) and local labor market conditions (ZM).
+
+(4)
+While off-farm wage rates are assumed to be independent of the hours worked, marginal returns to farm
+labor by the operator and spouse are assumed to diminish with increases in hours of farm work. The production
+function therefore imposes an additional constraint on utility maximization by the household. Farm production
+technology is represented by
+Q =f(Fo ps X· Ho Hs
+'
+
+'
+
+,
+
+'
+
+'
+
+zF )
+
+(5)
+
+130
+
+A. Weersink et al.j Agricultural Economics 18 (1998) 127-143
+
+where j(.) is a strictly concave production function and ZF is a vector of exogenous farm specific
+characteristics. Human capital characteristics are included in the production function to account for the increased
+efficiency assumed to be related to factors such as years of formal schooling and prior farming experience.
+The household maximizes utility (1) subject to its time (2), budget (3) and farm productivity (5) constraints
+through its choice of consumption goods purchased, quantity of farm inputs purchased, and the work hours of
+the operator and spouse allocated to farm and off-farm employment. Optimal levels of these choice variables
+can be determined by simultaneously solving the first-order conditions (see Huffman, 1991). An interior
+solution is assumed for all choice variables with the exception of off-farm work by both the operator and
+spouse. Optimal hours of off-farm work are zero if the marginal return to off-farm labor or wage rate (W) is
+less than the marginal value of farm labor evaluated at the point of optimal time allocation between farm work
+and leisure and with no off-farm work. The marginal value of farm labor is the product of farm output price
+(PQ) and the marginal product of farm labor (JF(.)). If, at this point, marginal returns to off-farm labor are
+greater than farm work, the individual will increase off-farm work hours, thereby increasing the marginal value
+of farm labor until the marginal returns to both forms of employment are equated to the marginal rate of
+substitution between leisure and consumption goods (W = PQJF(.) = UL/ U0 ).
+Given the assumption that the farm household is a price taker in output and input markets, the household
+model is recursive if an interior solution exists for all choice variables. Decisions on farm labor and purchased
+inputs are first made, and then consumption decisions on purchased goods and leisure. Off-farm labor supply
+functions are derived residually from the time constraint and will contain all exogenous variables in the
+constrained optimization problem.
+
+(6)
+However, if optimal hours of off-farm work are zero for either the operator or spouse, household decisions
+regarding farm production and consumption decisions must be made jointly, rather than recursively. Off-farm
+labor supply is still determined residually as function of the same variables in Eq. (6), except that the
+unobservable wage rate for an individual not working off-farm is not a determinant of the hours worked
+off-farm by the other partner. However, the supply function for this partner is conditional upon the participation
+decision by the partner without off-farm employment.
+
+3. Econometric model
+The approach for estimating the model of multiple job holdings just presented is based on Huffman and
+Lange (1989) and involves estimating the demand for off-farm labor and the supply of this labor by both the
+operator and the spouse. These decisions on off-farm employment for both members are made jointly by the
+household and can result in four possible scenarios: (1) both operator and spouse work off-farm (M 0 > 0,
+Ms > 0); (2) only the operator works off-farm (M 0 > 0, Ms = 0); only the spouse has off-farm employment
+(M 0 = 0, Ms > 0); and (4) neither partner works off-farm (M 0 = 0, Ms = 0). These four regimes, which will
+be denoted by the subscript j later, have been respectively classified as: dual career, traditional part-time, dual
+career part-time, and traditional (Deseran et al., 1984).
+The off-farm labor demand equations for the operator and spouse are:
+
+(7)
+where f3 are unknown parameters and v is an error term. As noted in Eq. (4), the wage rate (W) is assumed to
+depend on human capital characteristics (H) and local labor market conditions (ZM). The wage rate is observed
+only when the decision is made to work off the farm, which will occur when the wage rate is greater than the
+reservation wage (WR). The reservation wage is the marginal value of farm labor, assuming no off-farm work
+
+A. Weersink et al.j Agricultural Economics 18 (1998) 127-143
+
+131
+
+(M; = 0) and evaluated at the point of optimal allocation of time between farm work and leisure. Thus, the
+reservation wage depends on non-wage and non-price variables exogenous to the household's consumption
+(ZH ), production (ZF) and labor supply (ZM) decisions as represented by Z.
+The supply of off-farm labor depends on the exogenous variables Z and the wage rates as shown in Eq. (6).
+However, the unobservable wage rate for an individual working only on the farm is not a determinant of the
+hours worked off-farm by the other partner. The off-farm labor supply functions, Mj for individual i under
+
+off-farm employment scenario j can be expressed as;m
+M? = aooWo
+M
+
+0
+
++ aosWs + azoZ+
++ a~ 0 Z + ,10
+
+Ms = \ Mt = a~sws
+M 48
+
++ asoWo + azsZ + f.Ls
++ a~sZ + ,ls
+
+x
+
+X
+
+X
+
+if W 0 :2: W 0 R and WS :2: WSR
+
+f.Lo
+
+= \ M? = ab 0 W 0
+M 4° = 0 otherwise
+M!s = assWs
+
+=
+
+if W 0 :2: WOR and WS
+
+< WSR
+
+(8)
+
+if W 0 :2: W 0 R and WS :2: WSR
+if W 0 :2: W 0 R and W 8
+
+< WSR
+
+(9)
+
+= 0 otherwise
+
+where a are unknown parameters and f.L are error terms.
+Sample selection bias is a potential problem in estimating either off-farm labor demand (Eq. (7)) or supply
+(Eqs. (8) and (9)) equations due to the possibility of zero hours worked by some individuals. To correct for such
+bias, the decision to obtain off-farm employment must be modeled. The probabilities of off-farm work for the
+operator (Pr(O)) and spouse (Pr(S)) can be represented as (Gould and Saupe, 1989);
+Pr(O) = Pr(W 0 > W 0 R) = Pr(W 0 > W 0 Riws < wsR)
+
++ Pr(W 0 > W 0 Riws;;::: wsR) = Pr( So> Bo)
+(10)
+
+where
+so= Vo
+
++ ( f.Lofaoo) + ( aosfaoo) Vs
+
+ss = Vs
+
++ ( f.Ls/ ass) + (a sol ass) Vo
+
+Bo = - f3o- f3oH H 0
+Bs
+
+=
+
+-
+
+f3ozZM- ( f3s- f3sH Hs- f3szZM)( aosl aoo)
+
+-f3s- f3sHHs- f3szZM- ( f3o- f3oHH 0
+
+-
+
+f3ozZM)( asofass)
+
++ azo aooZ
++ azsassZ
+
+The probability of working off-farm represented by Eqs. (10) and (11) for the operator and spouse, respectively,
+is equal to the probability of the wage rate being greater than the reservation wage. This probability can be
+decomposed into two conditional probabilities depending on the size of their partner's off-farm earning rate and
+reservation wage, and in turn the likelihood of their partner working on or off the farm. Such joint participation
+decisions can be estimated with a bivariate probit model.
+The interrelated nature of the wage and hours worked equations suggests that the conditional means of the
+disturbance terms in these equations are unlikely to be zero. The biases can be corrected by creating new
+variables from the bivariate probit equations that are conditional means of the disturbance terms and substituting
+them into the demand and supply equations (Amemiya, 1974; Fishe et al., 1981; Gould and Saupe, 1989;
+Huffman and Lange, 1989). For example, the off-farm labor demand Eq. (7) is modified to the following:
+
+(7')
+
+A. Weersink et al.j Agricultural Economics 18 (1998) 127-143
+
+132
+
+where A1 and A2 are the sample correction factors estimated from the bivariate probit equations for the
+operator and spouse, respectively, and cp is the error term.
+Similarly, the conditional expectations of the error terms in the labor supply Eqs. (8) and (9) may also not be
+zero. Operator and spouse selectivity adjustments calculated from the bivariate probit model of the participation
+decision must then be added to account for the nonzero expectations. The following are the resulting four
+unconditional labor supply equations associated with the three scenarios under which one of the household
+members are working off-farm:
+
+M1° = aooW 0 + aosWs + CYzoZ + go1 Am+ gs1 Asl + 1/Jo
+
+(12)
+
+Mis
+
+=
+
+CYsoW 0 + assWs + CYzsZ + gb1 Am+ g~l As!+ 1/Js
+
+(13)
+
+M?
+
+=
+
+aboW 0 + a~oZ+ go2Ao2 + gs2AS2 + 1/Jb
+
+(14)
+
+Mi
+
+=
+
+a~sws + a~sZ + gb3Ao3 + g~3As3 + 1/1~
+
+(15)
+
+where the random error terms, ljJ, now have the desired zero expectations.
+
+4. Data
+Data used in the analysis were obtained from a May 1991 survey of dairy farm families in four nearby areas
+in New York and Ontario, with two regions in each state/province. A random sample of 500 dairy farms from
+northern and western counties in New York was provided by the New York Agricultural Statistics Service. The
+Ontario sample was drawn for two regions agronomically similar to the two in New York. One consisted of five
+counties in eastern Ontario across the St. Lawerence River from the northern New York region and the other
+consisted of three counties in southwestern Ontario due west of the western New York region. Southwestern
+Ontario and western New York tend to have more productive farmland and more favorable climatic conditions,
+and thus a more diverse agricultural sector than the other two regions. A random sample of 220 producers from
+eastern Ontario and 304 from southwestern Ontario was generated from the Ontario Milk Marketing Board's
+computerized database. Overall response rate was 29.4% for New York and 40.9% for Ontario. Although
+response rates were relatively low due to the spring timing of the survey, sample biases were not deemed to be a
+problem based on a comparison of respondent characteristics such as farm size, productivity and operator age to
+those from other published sources (authors).
+The demand and supply of off-farm labor are influenced by four general categories of variables; household or
+family characteristics (ZH), human capital characteristics (H), farm characteristics (Zp) and local labor market
+condition (ZM). Means, standard deviations and the units of measurement for the explanatory variables are
+given by region in Table 1 and under the four possible work regimes (j) in Table 2.
+Family characteristics include the number of children in different age categories and the level of satisfaction
+the family has with farm life. The effect of children on off-farm employment decisions was measured by the
+number of children in each of three different age categories (less than 6, between 6-ll, and between 12-18).
+Increases in the number of preschool age children is hypothesized to decrease the probability of off-farm
+employment particularly for spouses. In contrast, time demands may decrease and expenses increase for older
+children, suggesting a greater likelihood of the operator or spouse seeking employment outside the farm. Dairy
+farm families in each region were asked about their level of satisfaction using a Likert scale with 1 being very
+satisfied and 5 representing very dissatisfied. The more content individuals are with their situation on the farm,
+the less likely they are to desire off-farm employment.
+Human capital characteristics include age, education and farm experience. The effect of age on off-farm
+employment is ambiguous, since both farm and off-farm labor productivity are assumed to increase with
+
+Table 1
+Means for variables in off-farm labor models by region
+Variables
+
+(A) Endogenous
+Off-farm labor participation rate
+Off-farm labor hoursjweek (M)
+Farm labor hours/week (F)
+Off-farm income for those working off farm (US$)
+
+Western New York
+
+Northern New York
+
+Southwestern Ontario
+
+Eastern Ontario
+
+0
+
+s
+
+0
+
+s
+
+0
+
+s
+
+0
+
+s
+
+0.47
+26
+66
+13,423
+
+28
+28
+
+0.48
+17
+64
+16,654
+
+27
+30
+
+0.37
+21
+66
+12,783
+
+21
+27
+
+0.34
+18
+65
+16,505
+
+27
+33
+
+;:...
+
+~
+
+"'~
+
+,..s·
+
+.
+
+~
+
+(B) Exogenous
+Family characteristics (ZH)
+Children-No< 6 yr
+No. 6-11 yr
+No. 12-18 yr
+Satisfaction with farm life (1 = very satisfied, 5 = very dissatisfied)
+Human cap characteristics (H)
+Age-years
+Education ::;; than high school
+High school
+Some post secondary
+Farm characteristics (Zp)
+Tillable acres
+Number of milk cows
+Milk yield per cow (000 kg)
+Net farm income (000 US$)
+Debt/assets
+Location characteristics (ZM)
+Distance to major centre (km)
+Sample size
+
+,.....
+
+.....__
+
+0.63
+0.13
+0.07
+2.41
+46.6
+0.12
+0.50
+0.38
+314
+95
+7.25
+27,540
+0.39
+
+15.6
+83
+
+0.61
+0.03
+0.08
+2.43
+43.3
+0.10
+0.46
+0.44
+
+44.7
+0.22
+0.43
+0.35
+
+0.54
+0.06
+0.07
+2.02
+43.4
+0.04
+0.26
+0.70
+
+41.7
+0.36
+0.25
+0.39
+
+:...
+
+0.80
+0.13
+0.07
+2.00
+40.1
+0.17
+0.27
+0.56
+
+40.9
+0.34
+0.27
+0.39
+
+""::!.
+
+"§'10:"
+~
+
+37.8
+0.18
+0.41
+0.41
+
+.,~
+
+<:>
+<:>
+
+~-
+
+"'>-...
+
+Oo
+
+....._
+>-...
+
+257
+62
+6.29
+12,842
+0.37
+
+13.3
+64
+
+212
+46
+6.19
+32,598
+0.28
+
+22.2
+143
+
+202
+50
+5.58
+30.088
+0.23
+
+~
+
+~
+>-...
+
+";'"'!
+>-...
+
+t:;
+
+16.8
+96
+
+-
+
+w
+w
+
+......
+
+w
+
+~
+
+Table 2
+Means (and standard deviations) for variables in off-farm labor participation, demand and supply models by work regime
+Variables
+
+(A) Endogenous
+Off-farm work status
+Off-farm labor hours (M)
+Farm labor hours (F)
+Off-farm wagqate (W) (US$/h)
+
+Both work (j = 1)
+
+Operator only (j = 2)
+
+Spouse only (j = 3)
+
+Neither (j = 4)
+
+0
+
+s
+
+0
+
+s
+
+0
+
+s
+
+0
+
+s
+
+1.0
+732.73 (744.8)
+2959.5 (153.4)
+14.19 (6.29)
+
+1.0
+1147.6 (758.3)
+877.5 (241.1)
+14.60 (3.66)
+
+1.0
+739.53 (823.79)
+3059.3 (157.1)
+15.59 (5.11)
+
+0
+0
+1744.2 (305.3)
+
+0
+0
+3474.2 (54.1)
+
+1.0
+1150.2 (667.2)
+949.4 (81.9)
+11.24 (8.58)
+
+0
+0
+3395.5 (46.6)
+
+0
+0
+1773.9 (78.1)
+
+(B) Exogenous
+Family characteristics (ZH)
+0.50 (0.51)
+Children-No. < 6 yr
+0.04 (0.21)
+No. 6-11 yr
+0.04 (0.21)
+No. 12-18 yr
+2.36 (0.90)
+Satisfaction with farm life
+( 1 = very satisfied, 5 = very dis sat.)
+Human capital characteristics (H)
+46.00 (7.99)
+Age-years
+0.04 (0.21)
+Education (shares) grade school
+Some high school
+0
+0.55 (0.51)
+High school
+:t
+0.14 (0.33)
+Vocational training
+Some college
+0
+0.27 (0.43)
+College
+Farm characteristics (ZF)
+248.14 (153.1)
+Tillable acres
+48.91 (35.4)
+Number of milk cows
+5.376 (6.52)
+Milk yield per cow (000 kg)
+9.478 (21.76)
+Net farm income (000 US$)
+0.44 (0.46)
+Debtj assets
+Location characteristics (ZM)
+17.42 (14.61)
+Distance to major centre (km)
+.48
+Country (1 =New York, 0 = Ont)
+.43
+Region (1 = eastjnorth, 0 = west)
+22
+Sample Size
+
+-
+
+?>
+
+~
+
+"'2l
+
+0.48 (0.61)
+0.06 (0.24)
+0.06 (0.23)
+2.00 (0.99)
+
+0.56 (0.57)
+0.02 (0.13)
+0.03 (0.16)
+2.29 (0.95)
+
+0.41 (0.50)
+0.18 (0.39)
+0.00 (0.00)
+1.76 (0.66)
+
+s·
+.,,_~"""
+.......
+;:t.
+
+OQ
+
+R·
+
+"~
+
+43.80 (8.21)
+0.04 (0.21)
+0
+0.45 (0.47)
+0.09 (0.37)
+0.09 (0.38)
+0.23 (0.39)
+
+43.64
+0.12
+0.13
+0.27
+0.12
+0
+0.23
+
+(14.11)
+(0.32)
+(0.42)
+(0.48)
+(0.31)
+(0.41)
+
+44.20
+0.13
+0.12
+0.36
+0.12
+0
+0.18
+
+(13.20)
+(0.35)
+(0.41)
+(0.45)
+(0.31)
+(0.39)
+
+43.64 (11.17)
+0.03 (0.19)
+0.11 (0.31)
+0.40 (0.49)
+0.04 (0.19)
+0.19 (0.39)
+0.23 (0.42)
+
+4!.38 (11.19)
+0.02 (0.14)
+0
+0.34 (0.47)
+0.15 (0.36)
+0.11 (0.32)
+0.38 (0.48)
+
+46.78 ( 12.53)
+0.19 (0.39)
+0.18 (0.38)
+0.28 (0.45)
+0.03 (0.19)
+(0.14 (0.35)
+0.18 (0.39)
+
+45.43 (13.61)
+0.11 (0.31)
+0.11 (0.31)
+0.36 (0.48)
+0.09 (0.29)
+0.10 (0.30)
+0.22 (0.41)
+
+~
+~
+
+"';:,
+
+"'
+
+;;
+;:;·
+
+"'
+.....
+Oo
+.....
+IQ
+
+......_
+IQ
+
+~
+
+.....
+
+202.88 (125.33)
+46.82 (32.48)
+4.989 (7.01)
+25.450 (29.40)
+0.41 (0.26)
+
+257.63 (175.7)
+58.47 (39.69)
+6.723 (7.76)
+29.382 (28.23)
+0.33 (0.22)
+
+247.84 (181.4)
+58.74 (48.98)
+5.904 (9.11)
+35.237 (47.44)
+0.30 (0.28)
+
+16.73 (9.69)
+.43
+.50
+17
+
+17.51 (11.65)
+.38
+.54
+112
+
+19.04 (16.69)
+.36
+.54
+289
+
+w
+
+I'
+._
+-!>..
+
+'"'"'
+
+A. Weersink et al.j Agricultural Economics 18 (1998) 127-143
+
+135
+
+experience as measured by age. To account for possible life cycle effects, age is also included in quadratic form.
+As with age, education has a similar a priori ambiguous effect on off-farm labor supply. However, most
+previous studies have found education to have a larger effect on market earnings than on the marginal value of
+farm labor, thereby increasing the probability of participation and off-farm employment hours. Education is
+measured through seven categories for the highest level of schooling obtained, ranging from some grade school
+to college graduate.
+Farm characteristics will influence the value of farm labor productivity. Farm labor (F) along with purchased
+inputs X determines farm output Q. Since the level of farm inputs and off-farm labor hours are determined
+simultaneously, farm output cannot be included in the estimation off-farm participation and supply equations
+unless it is estimated and the predicted values incorporated (Huffman, 1980). Although off-farm employment
+decisions are made simultaneously with the allocation of farm inputs, some inputs can be assumed to be fixed
+for farms in a single cross-section (Gould and Saupe, 1989). Fixed factors considered in this study were the
+number of tillable acres and herd size. It is hypothesized that increases in these size variables will increase
+marginal returns to farm labor and thereby decrease the probability of off-farm work and hours of such work
+supplied. Additional farm characteristics focused on the firm's financial position. Decreases in net farm income
+may induce the need for off-farm income to meet a desired level of total household income. The need for
+off-farm employment may also increase with the level of financial obligations which was measured by the
+debt-to-asset ratio (Simpson and Kapitany, 1983).
+Local labor market conditions influence the availability of off-farm employment and wage rate. Access to
+employment opportunities was measured by distance to the nearest town providing emergency medical services.
+A binary variable for state or province (New York or Ontario) in which the farm was located was also included
+to capture differences in labor market conditions and in policies between the two countries that may affect
+off-farm employment decisions not captured by previous variables. It is hypothesized that households in New
+York are more likely to seek work off the farm due to the lower degree of farm and social support from the
+government that thereby lowers the marginal value product to labor on the farm. In addition, a regional binary
+variable was also included (eastjnorth or western). Increased employment opportunities and thus higher wages
+are assumed to exist in the more populated western areas of both regions.
+·
+
+5. Results
+5.1. Regional differences in explanatory variables
+Econometric results of the participation, demand and supply of off-farm labor are presented after an initial
+analysis of differences in the variables affecting off-farm labor activity between regions, which are largely due
+to contrasting social and farm policy regimes. In terms of family, human capital and location characteristics,
+New York and Ontario dairy households are similar (see Table 1). An overwhelming number of the operators
+are married with an average age in the mid to late 40s. Ontario families tend to be slightly younger and a bit
+larger with about one-third having three or more children living at home, as opposed to less than one-quarter of
+New York families. The percentage of Ontario producers who left school before completing high school is more
+than double that of New York, although a similar percentage in both regions received post-secondary education.
+Women involved in the survey are more highly educated than the men regardless of region.
+Farm characteristics represent the major difference between surveyed households. New York producers on
+average milk nearly twice as many cows (81) as their Ontario peers (47), and the New York milk herds, in
+general, are much larger. Nearly 75% of Ontario producers milk fewer than 51 cows, while less than half of the
+New Yorkers milk a similar number. Only 4% of Ontario dairies are 100-plus herds, whereas over 20% of New
+York herds are of that size. Milk production per cow is also higher in New York by an average of 15%. Despite
+producing less milk, the average Ontario producer's net farm income is approximately 60% (US$10,000) higher
+
+136
+
+A. Weersink et al.j Agricultural Economics 18 (1998) 127-143
+
+than that realized by the average operator in New York. Over 38% of New York farms had negative farm
+income in 1990 (a time of relatively low US milk prices) while only 14% of Ontario farms did. Not only are
+farm incomes higher in Ontario but they are also more diversified with non-milk sales approximately 3 times
+higher than for New York dairies. Ontarians also have lower debt-to-asset ratios (0.26 vs. 0.39). Over 65% of
+the Ontario dairies have positive net farm incomes and debt-to-asset ratios less than 0.40, whereas only 31% of
+the New York farms are in such a favorable financial condition. Differences in farm financial position are
+reflected in differences in satisfaction expressed by producers toward dairy farming.
+Regional variations in these factors influencing off-farm employment are due to contrasting policy regimes.
+The supply-managed marketing system for milk in Ontario ensures operators a fair return calculated on the basis
+of a cost of production formula. In 1991, the system generated receipts per unit of milk sold that were 20%
+higher in Ontario than New York and consequently largely explains the above noted regional differences in net
+farm income. Because this system has been in place since the late 1960s, the difference in farm support policy
+also explains the stronger asset and equity position for producers in Ontario. The stronger financial position
+enjoyed by Ontario dairy households as a result of their marketing system reduces the need for off-farm income
+relative to their counterparts in New York. The need for off-farm earnings is reduced further in Ontario by the
+investment levels required to expand production. Higher non-milk sales for Ontario dairy farms as compared to
+those in New York is likely due to quota costs. The resulting greater diversification of income sources reduces
+the need for off-farm employment to serve as self-insurance device. Greater government support for social
+services in Ontario, particularly for medical care, may explain the larger dairy farm families noted above in
+Ontario as the costs for caring for such as family are reduced. The presence of young children has been
+hypothesized earlier to reduce the desirability of off-farm work. Thus, government policy has served to decrease
+the reservation wage while increasing the marginal returns to farm work, and thereby decreased the likelihood of
+off-farm employment by Ontario dairy households as compared to those in New York.
+5.2. Work allocation
+The regional differences in factors affecting off-farm employment due to differences in policy regime are
+borne out as more of the New York farms (47%) than the Ontario farm (36%) had either a spouse, an operator
+or both employed off-farm (Table 1). In all regions, the most common situation for those families having
+someone working off-farm was for the spouse to be the sole individual with off-farm employment (49 in New
+York, 33% of respondents; 65 in Ontario, 27% of respondents). The small number of operators with outside jobs
+and the lower off-farm employment rate as compared to the national average (60% in the US) reflects the time
+commitment required to manage a dairy farm relative to other farm enterprises.
+In general, few differences existed between average hours worked off-farm by operators and spouses in New
+York and Ontario. Operators in the eastern regions with off-farm jobs spent an average of 10 h less than their
+spouses spend in their outside jobs, while there was little difference between operator and spousal off-farm
+hours in the western regions. Total farm and off-farm labor hours were greater for operators with off-farm
+employment than those without. There were few regional differences in the average hours worked off-farm by
+operators. However, New York spouses averaged about 5 more off-farm hours per week of employment than
+Ontario spouses.
+5.3. Off-farm work participation
+The probability of off-farm employment was estimated using a bivariate probit model (Eqs. (10) and (11))
+that accounted for the joint participation of the operator and spouse in making this decision. The correlation
+coefficient of the error term was positive, but not significantly different than zero at the 5% level of
+significance. Thus, two univariate probit estimations were the appropriate estimations rather than a bivariate
+
+A. Weersink et al.j Agricultural Economics 18 (1998) 127-143
+
+137
+
+Table 3
+Binomial probit estimates of off-farm labor participation
+Variable
+
+Operator
+
+Intercept
+
+-15.793 ( -0.874)
+
+3.333 * (1.715)
+
+-1.860 (- 0.821)
+3.344 * (1.694)
+0.053 (0.701)
+- 1.596 (- 1.571)
+
+-0.285 (- 0.847)
+-1.694* ( -2.794)
+0.964 * (1. 702)
+0.386 * (3.134)
+
+1.155 * (1.727)
+-0.015* (-1.673)
+-4.726 (- 0.061)
+-3.347 (- 1.787)
+-4.734 ( -0.032)
+-11.080 ( -0.187)
+-5.783 (- 0.099)
+
+-0.163 * ( -1.799)
+0.001 (1.376)
+-1.030 * (- 3.478)
+-0.394 * (- 1.768)
+0.388 (1.069)
+0.405 * (2.199)
+0.540 * (3.795)
+
+-0.008 (- 1.254)
+-0.018 (- 0.425)
+-0.079 * (- 1.802)
+4.822 * (1.608)
+
+-0.0003 (- 0.227)
+-0.007 ( -1.344)
+-0.001 ( -0.180)
+0.166 (0.327)
+
+Family characteristics
+Children-No. < 6 yr
+No. 6-11 yr
+No. 12-18 yr
+Satisfaction with farm life (1 = very satisfied, 5 = very dissat.)
+Human capital characteristics (H)
+Age-years
+Age*Age
+Education: Grade school
+Some high school
+Vocational training
+Come college
+College graduate
+Farm characteristics
+Tillable acres
+Number of milk cows
+Net farm income (000 US$)
+Debt/ assets
+Location characteristics
+Distance to major centre (km)
+Country (1 =New York, 0 =Ontario)
+Region (1 = eastjnorth, 0 =west)
+Log-likelihood function
+% M = 0 correctly predicted
+% M > 0 correctly predicted
+
+-0.086 (- 1.308)
+-4.209 * ( -1.683)
+- 2.872 (- 1.412)
+-25.993
+94.6
+50.0
+
+Spouse
+
+-0.006 (- 0.528)
+0.231 * (1.731)
+-0.222 ( -0.843)
+-106.645
+85.5
+57.4
+
+t-ratios in parentheses.
+
+probit model. However, the sign and magnitudes of the coefficients from the univariate probit models as
+reported in Table 3 were consistent with those generated by the bivariate probit model.
+Family characteristics had more of an influence on the probability of the spouse working off the farm than
+the operator. The number of small children reduces the probability of the spouse seeking off-farm employment,
+reflecting higher opportunity costs of home production and work time with young children (Long and Jones,
+1980). The number of older children able to assume domestic responsibilities decreases the spousal reservation
+wage and subsequently increases the likelihood of off-farm employment. The result related to family demographics are consistent with theory and many prior empirical studies (Alwang and Stallmann, 1992; Gould and
+Saupe, 1989; Huffman and Lange, 1989; Lass and Gempesaw, 1992). In contrast, the number and age
+distribution of children does not generally have a significant effect on the participation decision for operators,
+suggesting that children have little influence on the operator's reservation wage. Higher satisfaction with farm
+life also reduces the probability of the spouse working off-farm. The greater the utility associated with
+agriculture, the higher the reservation wage required for the spouse to seek employment away from the farm.
+Although displeasure with farm living is an impetus for off-farm employment by the spouse, it had the opposite
+(but insignificant) effect on the probability of working off-farm for the operator.
+Human capital characteristics played a major role in the off-farm employment decisions of the dairy farm
+families sampled, particularly for spouses. A concave life-cycle pattern was found for operators. Age has a
+
+138
+
+A. Weersink et al.j Agricultural Economics 18 (1998) 127-143
+
+positive impact on off-farm labor participation until 39 years after which the probability of participation
+declines. The effect is consistent with the findings of Sumner (1982) and Weersink (1992) for operators only
+and of Lass and Gempesaw (1992) and Gould and Saupe (1989) for operators making joint decisions. In
+contrast, the probability of off-farm employment for spouses was found to decrease with age. Spousal
+participation appears to be largely driven by the level of education. Individuals with less than a high school
+degree are significantly less likely to work off-farm than those with such a degree. The opposite occurs for
+spouses with some post secondary education. The result is likely associated with the increase in off-farm
+employment earning capabilities associated with more schooling. More education could also change attitudes
+regarding the relative attractiveness with off-farm work and thereby the reservation wage. In contrast to this
+study's results for the spouse and for a majority of previous studies on operator participation, education does not
+appear to affect the probability of off-farm work for operators. Thus, schooling has an indeterminate impact on
+the ratio of market earnings to the marginal value of farm labor.
+Farm characteristics were found to have little influence on the probability of off-farm employment with the
+exception of the farm's financial position for the operator. As expected, increases in the fixed factors of tillable
+acres and number of milk cows reduce the probability of working off-farm, since the marginal productivity of
+farm labor increases with farm size for a given wage rate. However, the results are insignificant for both
+operator and spouse. Increases in financial pressures as measured by decreases in net farm income or increases
+in the debt-to-asset ratio also reduce the likelihood of off-farm employment. These variables had a significant
+effect in the operator's decision but not for the spouse. Differences in farm policy between Ontario and New
+York are reflected in the regional values for these farm characteristics. The supply management system in
+Ontario has resulted in farms with fewer cows than those in New York, but with higher net farm income and
+lower debt-to-asset ratios. As a result, differences in farm policy have an indirect influence on the likelihood of
+off-farm employment.
+Country did not effect operator off-farm labor participation. The result may be due to the incorporation of
+farm support policy considerations within the farm characteristic variables discussed above. Differences in
+social policy between New York and Ontario have not been captured by previous explanatory variables. As a
+result, the dummy variable for the country in which the farm is located can account for any difference. The
+finding that spouses in New York were significantly more likely to work off-farm than their counterparts in
+Ontario is consistent with this hypothesis. The lack of free medical care and thus the need for insurance raises
+the relative value of earnings from off-farm employment that often include medical benefit packages. Regional
+location did not significantly influence off-farm participation rates. The other location variable, distance to a
+major centre, was found to lower the probability of off-farm employment. This was expected given that an
+increase in travel cost will increase the reservation wage; however, the coefficient was insignificant for both
+operator and spouse.
+5.4. Reasons for off-farm employment
+Although the previous analysis provides an understanding of the factors affecting the decision to work off the
+farm, a unique aspect of the survey instrument in this study is that households were asked directly for the major
+reason why a member(s) worked off the farm. Maintaining the dairy farm business was the most frequently cited
+reason for off-farm employment of operators in both New York and Ontario (Fig. 1), which is consistent with
+the econometric findings just discussed (Table 3). However, nearly half (45%) of the operators in New York
+working off-farm said they needed that income to maintain the dairy farm business, while less than one-third
+(29%) of the Ontario operators did so for the same reason. Over 14% of New York operators working off-farm
+did so for the fringe benefits (often medical insurance). Under the nationalized health care system in Ontario,
+none of the operators working off-farm did so to obtain fringe benefits. None of the New York operators said
+they engage in off-farm employment to make contact with other people, whereas 18% of the Ontario operators
+indicated this was their principal reason for working off-farm. Although the same percentage of New York and
+
+A. Weersink et al.j Agricultural Economics 18 (1998) 127-143
+
+139
+
+45
+40
+
+llZI
+
+NY Operator
+
+IIIII
+
+NYSpouse
+
+~
+
+ONT Operator
+
+I2ZI
+
+ONT Spouse
+
+35
+30
+25
+20
+15
+10
+
+0
+Maintain
+dairy farm
+
+Maintain
+minimum
+
+business
+
+family
+income
+
+Fringe
+Benefits
+
+Supplement
+family
+income
+
+Increase
+income
+stability
+
+Fanning not
+primary
+occupation
+
+Contact with
+people
+
+Other/No
+Spouse
+
+Fig. 1. Primary reason for off-farm employment by operator and spouse(% of respondents).
+
+Ontario operators worked off-farm to maintain family income, a much smaller share of New York producers
+work to supplement family income or increase income stability. Thus, it appears that off-farm employment by
+operators is far more important for the basic needs of New York farm business and households than for those in
+Ontario.
+Spouses of the farm operators expressed more flexibility about their choices to work off-farm. Still, the two
+most important reasons given by New York spouses for having off-farm jobs were to help maintain either the
+farm business (23%) or a minimum family income (25%). Ontario farms were not only less dependent on
+off-farm income generated by the operator to maintain the farm or family income, but also on off-farm income
+generated by the spouse. Only 5% of Ontario spouses worked off-farm to help maintain the farm and 15% to
+help maintain family income. The two most important reasons cited by Ontario spouses for working off-farm
+were to supplement family income (18%) and increase income stability (16%).
+In order to better understand the relationship between farm income and the reasons why people seek off-farm
+employment, the eight reasons posed to the household (as shown in Fig. 1) were grouped into three categories;
+(1) to obtain necessities; (2) to improve living standards; and (3) reasons not related to money. Necessities
+groups maintaining either the farm business or family income. Increasing or stabilizing family income along
+with fringe benefits are considered ways to improve living standards, whereas contact with other people,
+farming not primary business and 'other' are considered reasons unrelated to income. The percentage of
+respondents within each of the three categories of reasons was plotted against four farm income classes in Fig.
+2.
+The level of farm income affects why people work off-farm except when the benefit derived from off-farm
+employment is unrelated to income. For farms showing net losses, 70% of the operators in New York and 50%
+of those in Ontario worked off-farm to achieve basic necessities. Similar percentages citing this reason were
+found in the US$0-US$19,999 income category. At the other end of the income scale, none of the operators
+with farm incomes greater than US$40,000 in either region worked off the farm to pay for basic necessities. The
+importance of achieving necessities also declined with income levels for spouses in both regions, but the reasons
+tend to be more evenly distributed among the four net farm income categories.
+
+A. Weersink et al.j Agricultural Economics 18 (1998) 127-143
+
+140
+100
+90
+
+lD Achieve necessities
+
+a Improve living standards
+
+80
+
+m Non-income related
+
+70
+60
+
+...
+~
+
+2
+
+:;;"'
+
+50
+
+0
+
+40
+
+"'
+
+0
+
+~
+
+30
+20
+10
+0
+
+NY
+NetFann
+Income
+
+ONT
+Net Loss
+
+ONT
+
+NY
+
+NY
+
+ONT
+
+$20,000-$39,999
+
+0-$19,999
+
+NY
+
+ONT
+
+>$40,000
+
+80
+70
+
+m Achieve necessities
+
+60
+
+I!1 Non-income related
+
+Ill Improve living standards
+
+~ 50
+
+"0.
+"'
+
+-""
+0
+
+0
+
+40
+30
+20
+10
+
+NY
+NetFann
+Income
+
+ONf
+
+Net Loss
+
+NY
+0-$19,999
+
+ONT
+
+NY
+
+ONT
+
+$20,000-$39,999
+
+NY
+
+ONT
+
+> $40,000
+
+Fig. 2. Primary reason for off-farm employment for operator and spouse by income class.
+
+The results particularly for the operators lend support to the view of multiple job holding as a flexible
+mechanism to adjust to changes in the economic environment facing the household. In the case of insufficient
+farm returns, off-farm earnings provide for minimum subsistence levels. Once those are achieved, such earnings
+provide the opportunity to raise living standards and protect against downturns in farm income below levels
+necessary to achieve basic necessities. Indeed, Barlett (1991) observed that the primary reason for a sample of
+Kansas farmers worked off-farm was the uncertainty associated with farm income. Wealth effects appear
+evident in high income levels, where reasons other than income determine the primary reason for off-farm
+employment. Thus, multiple job holding is a self-insurance activity that can minimize the impact of farm
+income downturns in the same way that credit and insurance markets can help smooth consumption.
+5.5. Off-farm labor demand
+
+An off-farm labor demand equation with sample selection correction factors incorporated from the binomial
+probit model was estimated using ordinary least squares for all observations reporting a market wage. The wage
+offer equation (Table 3) was estimated for the spouse only due to the small number of dairy farm operators
+
+141
+
+A. Weersink et al. /Agricultural Economics 18 ( 1998) 127-143
+
+working off the farm. Off-farm wage rate for the spouse was found to increase with age until 55 years and then
+decrease. The concave profile, although statistically insignificant, is consistent with the normal life cycle
+patterns found by previous studies (Alwang and Stallmann, 1992; Gould and Saupe, 1989; and Huffman and
+Lange, 1989). Those individuals with at least some post secondary education were found to earn significantly
+more than other dairy farm spouses working off-farm. This was the only significant variable in the labor demand
+equation. Although wages tended to be higher in Ontario than New York, the effect of the regional dummy
+variable was insignificant.
+5. 6. Off-farm labor supply equation
+
+The previous sections examined the characteristics of those participating in off-farm employment and the
+primary reason for that decision. We now move to examine the factors affecting the number of hours worked off
+the farm. As with the wage demand equation, off-farm labor supply (Eqs. (12)-(15)) was estimated in two
+stages. Wage rates were predicted from estimates of the labor demand equation in Table 3, and sample selection
+correction factors were generated from estimates of the probability of participation in Table 3. Resulting
+estimates are reported in Table 4. This equation also was estimated only for the households in which the spouse
+alone had off-farm employment (Eq. (14)).
+Two major factors influenced the number of off-farm hours supplied by spouses in farm households.
+Off-farm wage rates were found to have a significant positive influence on the amount of labor supplied by
+spouses in the sample. The results is consistent with theory, although a negative effect was obtained by Huffman
+
+Table 4
+Estimates of off-farm labor demand and supply equations for spouse
+Variable
+Intercept
+Spouse wage rate
+
+Demand (In wage rate)
+1.275 (0.982)
+
+F amity characteristics
+Children- No. < 6 yr
+No.6-11yr
+No. 12-18 yr
+Satisfaction with farm life ( 1 = very satisfied, 5 = very dissatisfied)
+Human capital characteristics (H)
+Age-years
+Age•Age
+Education: less than high school
+More than high school
+
+423.9 (0.490)
+244.6 * (1.627)
+-278.4 * ( -1.909)
+-888.6 ( -1.081)
+72.29 (0.117)
+-28.02 (- 0.199)
+
+0.043 (0.670)
+-0.003 (- 0.489)
+-0.067(-0.104)
+0.169 * (1.849)
+
+Farm characteristics
+Tillable acres
+Number of milk cows
+Net farm income (000 US$)
+Debt/ assets
+Location characteristics
+Distance to job (km)
+Country (1 =New York, 0 =Ontario)
+Region (1 = eastjnorth, 0 =west)
+Sample selection variable
+Adjusted R 2
+
+Supply (annual hours worked)
+
+0.579 (0.494)
+-6.066 (- 1.137)
+-0.002 ( -0.409)
+596.6 (1.054)
+
+-0.219 ( -1.178)
+0.158 (0.897)
+-0.259 ( -0.981)
+0.098
+
+8.537 (0.935)
+82.04 (0.297)
+-46.20 (- 0.206)
+347.3 (0.755)
+0.214
+
+142
+
+A. Weersink et al.j Agricultural Economics 18 (1998) 127-143
+
+and Lange (1989) and by Lass and Gempesaw (1992), when only the spouse works off the farm. The other
+major factor determining the number of off-farm labor hours supplied is the presence of young children. An
+increase in the number of young children in the household reduces off-farm hours as expected, given the time
+corrunitment involved in raising pre-school children. As the age of the children increases, off-farm hours
+increase because the children are increasingly able to care for themselves. The directional impact of farm and
+locational characteristics on supply decisions are generally as expected, but the variables are all insignificant.
+Farm financial pressures tend to increase the amount of labor supplied off the farm, perhaps in an effort to
+reduce those pressures. The result suggests that leisure is a normal good.
+
+6. Conclusions
+
+The two major contributions of this paper are in the examination of specific reasons why farm household
+members work off-farm, and in the exploration of government policy impacts on multiple job holding. Rather
+than infer the reasons for off-farm employment through an analysis of the characteristics of those with off-farm
+jobs, this study directly asked those individuals why they had an off-farm job. In the case of low farm returns,
+off-farm earnings provide for basic necessities and maintain the dairy farm business. Once those are achieved,
+the primary reasons for multiple job holding are related to raising living standards and protecting against
+downturns in farm income. Reasons unrelated to money are cited by households with high farm income levels.
+Thus, the results indicate the importance of farm income on why people work off the farm and provide evidence
+of multiple job holding as a flexible mechanism for coping with changes in the economic environment facing
+the household. There also appears to be wealth effects associated with multiple job holding as a self-insurance
+activity.
+The effect of farm income on the reason for off-farm employment is consistent across both countries.
+However, the level of farm income between the regions varies significantly and is due to differences in farm
+support programs for the dairy sector. Similarly, other regional differences in the factors affecting multiple job
+holding are the consequences of differing government agricultural and social policies between the two countries.
+The general impact of these factors, categorized into family, human capital and farm characteristics, found in
+our econometric models on multiple job holdings, largely confirm results of previous studies. The extension is
+in the analysis of how those characteristics change with the policy regime. For operators, the driving
+characteristic influencing off-farm labor participation is the farm's financial position. The supply-managed milk
+marketing system ensures higher and more stable returns for Ontario dairy farms as compared to those in New
+York, thereby increasing the marginal value product to farm labor. In contrast, it is family demographics,
+education level and social support policy that appears to largely influence spousal off-farm employment
+decisions. Free medical care in Ontario lowers the reservation wage for household members. The effect of these
+farm and social support policies on the relative returns to labor in agriculture and non-farm employment
+explains the lower participation rate and hours supplied in off-farm work by both operators and spouses in
+Ontario dairy farm households. The move to freer trade in dairy products and the likelihood of lower farm
+returns would thus increase multiple job holding among dairy farm families in both countries.
+
+References
+Alwang, J., Stallmann, J.I., 1992. Supply and demand for married female labor: rural and urban differences in the southern United States.
+Southern J. Agr. Econ. 24, 49-62.
+Amemiya, T., 1974. Multivariate regression and simultaneous equation models when the dependent variables are truncated normal.
+Econometrica 42, 999-1012.
+Barlett, 1991.
+Bollman, R.D., 1979. Off-farm work by farmers: an application of the kinked demand curve for labour. Can. J. Agr. Econ. 27, 37-60.
+
+A. Weersink et al./ Agricultural Economics 18 ( 1998) 127-143
+
+143
+
+Carlin, T.A., Bentley, S. (1991). Modelling of-farm enterprise adjustments. In: Hallberg, M.C., Findeis, J.L., Lass, D.A. (Eds.), Multiple Job
+Holding among Farm Families. Iowa State Univ. Press, Ames, IA, pp. 140-148.
+Deseran, F.A., Falk, W.W., Jenkins, P., 1984. Determinants of earnings of farm families in the U.S. Rural Sociol. 49, 210-229.
+Fishe, R.P.H., Trost, R.P., Lurie, P.M., 1981. Labor force earnings and college choice of young women: an examination of selectivity bias
+and comparative advantage. Economet. Educ. Rev. 1, 169-191.
+Fuller, A., 1991. Multiple job-holding among farm families in Canada. In: Hallberg, M.C., Findeis, J.L., Lass, D.A. (Eds.), Multiple Job
+Holding among Farm Families. Iowa State Univ. Press, Ames, IA, pp. 31-44.
+Goddard, E., Weersink, A., Chen, K., Turvey, C.G., 1993. Economics of structural change in agriculture. Can. J. Agr. Econ. 41, 475-489.
+Gould, B.W., Saupe, W.E., 1989. Off-farm labor market entry and exit. Am. J. Agr. Econ. 71, 960-969.
+Huffman, W.E., 1980. Farm and off-farm work decisions: the role of human capital. Rev. Econ. Statist. 62, 14-23.
+Huffman, W.E., 1991. Agricultural household models: Survey and critique. In: Hallberg, M.C., Findeis, J.L., Lass, D.A. (Eds.), Multiple Job
+Holding among Farm Families. Iowa State Univ. Press, Ames, IA, pp. 79-111.
+Huffman, W.E., Lange, M.D., 1989. Off-farm work decisions of husbands and wives: joint decision making. Rev. Econ. Statist. 71,
+471-480.
+Lass, D.A., Gempesaw, C.M., 1992. The supply of off-farm labor: a random coefficients approach. Am. J. Agr. Econ. 74, 400-411.
+Lass, D.A., Findeis, J.L., Hallberg, M.C., 1988. Off-farm employment decisions by Massachusetts farm households. Northeastern J. Agr.
+Res. Econ. 18, 149-159.
+Jensen, H.H., Salant, P., 1985. The role of fiinge benefits in operator off-farm labor supply. Am. J. Agr. Econ. 67, 1095-1099.
+Long, J.E., Jones, E.B., 1980. Labor force entry and exit by married women: a longitudinal analysis. Rev. Econ. Statist. 62, 1-6.
+Simpson, W., Kapitany, M., 1983. Off-farm work behavior of farm operators. Am. J. Agr. Econ. 65, 801-805.
+Sumner, D.A., 1982. The off-farm labor supply of farmers. Am. J. Agr. Econ. 62, 499-509.
+Sumner, D.A., 1991. Useful directions for research on multiple job-holding among farm families. In: Hallberg, M.C., Findeis, J.L., Lass,
+D.A. (Eds.), Multiple Job Holding among Farm Families. Iowa State Univ. Press, Ames, IA, pp. 149-161.
+USDA, 1992. The Economic Well-Being of Farm Operator Households, 1988-1990.
+Weersink, A., 1992. Off-farm labor decisions by Ontario swine producers. Can. J. Agr. Econ. 40, 235-251.
+
+

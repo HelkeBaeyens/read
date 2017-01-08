@@ -1,0 +1,1037 @@
+Available online at www.sciencedirect.com
+SCIENCE @DIRECT•
+
+AGRICULTURAL
+
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 29 (2003) 159-168
+www.elsevier.com/locate/agecon
+
+Factors determining intercropping by rubber
+smallholders in Sri Lanka: a logit analysis
+P.H.M.U. Herath*, Hiroyuki Takeya 1
+Socioeconomic Science of Food Production, Graduate School of Bio Agricultural Sciences,
+Nagoya University, Chikusa-Ku, 464-01 Nagoya, Japan
+
+Received 14 August 2001; received in revised form 3 June 2002; accepted 26 August 2002
+
+Abstract
+
+Variables related to farmers' awareness and attitudes towards intercropping of immature rubber (Hevea brasiliensis) stands,
+extension contacts, education level, and experience with farming other crops are positively associated with the probability
+of adoption. Higher levels of off-farm income are associated with reduced intercropping in immature rubber stands. Farmers
+who are sole owners of the land and engaged in full or part-time rubber farming show lower adoption rates than other land
+ownership groups. Social participation, family size, experience with farming rubber, immature and mature rubber stands size,
+and the nature of the land (fiat/sloped) do not significantly influence adoption. These conclusions were obtained from a logit
+model estimated by employing the results of a survey of 588 smallholder rubber farmers from five major rubber-growing
+regions in Sri Lanka.
+© 2003 Elsevier B.V. All rights reserved.
+JEL classification: C25; Q16; 012
+Keywords: Adoption; Logit model; Intercropping; Rubber; Sri Lanka
+
+1. Introduction
+Rubber (Hevea brasiliensis) is produced on around
+8% (161,500ha) of the agricultural land in Sri
+Lanka (Agricultural Crops and Livestock Survey,
+1992-1993). About 33% of this area is grown in the
+smallholder sector (Anonymous, 1993). 70% of total
+rubber growers are smallholders (land size of less
+than 4 ha). According to the agricultural crops and
+livestock survey in 1992-1993, around 60% of the
+* Corresponding author. Tel.: +81-52-789-4045;
+fax: +81-52-789-4042.
+E-mail addresses: herathupul@hotmail.com (P.H.M.U. Heratb),
+sdtakakeya@agr.nagoya-u.ac.jp (H. Takeya).
+1 Tel.: +81-52-789-4041; fax: +81-52-789-4042.
+
+smallholder farmers own less than 1 ha. Hence, average smallholder rubber land size is very small compared to the estate sector where around 67% of land
+area is owned by 30% of the total rubber cultivators.
+The small size of rubber holdings has aggravated
+the problems associated with the long immature period of rubber. After replanting or new planting, farmers face a gap in income of 5-7 years during which
+the immature rubber cannot be tapped for latex. The
+estate sector has solved this problem by adopting an
+annual replanting cycle, with the aim of maintaining
+less than 20% of the rubber stands in the immature
+phase. Because of the limited land available, this option is not very effective for smallholders, as even if
+they replant only part of their land, the income loss is
+quite considerable. After identifying this vital problem
+
+0169-5150/$ -see front matter© 2003 Elsevier B.V. All rights reserved.
+doi: 10.1 016/S0169-5150(03)00045-8
+
+160
+
+P.H.M.U. Herath, H. Takeya/Agricultural Economics 29 (2003) 159-168
+
+in the sector, in 1979 the Rubber Research Institute of
+Sri Lanka introduced the intercropping of immature
+rubber with crops such as banana, pineapple, passion
+fruit and coffee (Chandrasekera, 1979). The list of
+recommended crops grew over time to include cocoa,
+cinnamon, and tea. However, despite research interest for more than 20 years, survey studies show the
+intercropping among rubber holders is not very attractive. According to Jayasena and Herath (1986), only
+about 30-40% of smallholders with immature rubber stands were intercropping. Approximately 30%
+of smallholders, who did not intercrop, believed that
+the companion crop would exert a negative effect on
+growth of the young rubber trees. A more recent study
+by Stirling et al. (1998) shows that around 40% of the
+smallholders are engaged in intercropping. This study
+also identified the problems of theft and lack of knowledge as major reasons for not intercropping. However,
+none of these studies have attempted to quantify
+the factors influencing adoption of this farming
+system.
+According to a comprehensive review on the adoption of agricultural innovations by Feder and Umali
+(1993), the green revolution from the 1960s to the
+early 1980s motivated numerous studies to explain
+the determinants of adoption during the early stages
+of the diffusion process. Thereafter, studies concentrated on agricultural innovations that have reached
+maturity. Mostly these included the adoption of high
+yielding varieties in particular and a package of interrelated technologies. In this regard, relatively few
+empirical studies have examined the adoption of
+cropping systems. Neill and Lee (1999) attempt to
+explain the adoption of cover crops in maize cultivation. A case study in northwest India discusses the
+factors influencing an agro-forestry farming system
+in which sugarcane, wheat, sorghum and turmeric
+are grown with a poplar forestry crop (Sharma and
+Kumar, 2000). Nganje et al. (2001) analyse the factors
+involved in the adoption of slash and burn agriculture
+versus multi- and mono-cropping systems by farmers
+in Cameroon. However, to our knowledge specific research on the adoption of a farming system in which
+perennial cash crops such as rubber are intercropped
+with short-term crops is not performed in the literature. Thus, the present study attempts to quantify the
+factors influencing this vital aspect in the smallholder
+rubber sector in Sri Lanka.
+
+2. Study area and data
+A sample survey was conducted between October
+1997 and March 1998, covering the five major
+rubber-growing regions (Kalutara, Kegalle, Colombo,
+Gampaha and Ratnapura) where over 80% of Sir
+Lanka's rubber is cultivated. Intercropping is generally restricted to the immature phase of rubber.
+Therefore, the survey was restricted to smallholders
+with rubber plantations less than 6 years old. A stratified random sampling methodology was employed in
+selecting farmers. Following the sampling procedure
+of Cochran (1963), the number of farmers for each
+region was determined considering the cost factor and
+the total budget available. The number of farmers for
+different land sizes within a range was determined by
+the proportional allocation method.
+Many technology adoption studies distinguish between the rate of adoption (e.g. the proportion of
+farmers adopting intercropping) and the intensity of
+adoption (defined based on the level of use of a technology, e.g. the proportion of the farmer's immature
+rubber land planted to other crops). In the smallholder rubber sector in Sri Lanka, farmers tend to
+intercrop their entire immature rubber stands when
+they adopt this new rubber farming system. This may
+be due to the very small land size and the familiarity
+of farmers with this farming system (around 20 years
+ago this farming system was introduced). Thus, the
+level of intercropping immature rubber is either the
+entire stand (100%) or not at all (0%). Hence, in this
+study, data have been gathered on the rate of adoption
+alone. Also, various other socio-economic factors and
+attitudes towards intercropping were recorded.
+The total budget allocated to the survey was 100,000
+Sri Lankan rupees (the exchange rate at the time of
+this study was US $1 = Rs. 70), which was divided
+equally between the five regions. The estimated unit
+cost for surveying a smallholder in the Kalutara region,
+which is nearest to the operational area (the Rubber
+Research Institute of Sri Lanka), was Rs. 125, whilst
+that of all other regions was Rs. 150. Consequently, the
+number of smallholders to be interviewed in Kegalle,
+Colombo, Gampaha and Ratnapura was 167, and 200
+in Kalutara. However, while it was possible to interview all selected smallholders in the Kalutara region,
+problems with transport and the availability of farmers within the 6-month survey period resulted in fewer
+
+P.H.M.U. Herath, H. Takeya/Agricultural Economics 29 (2003) 159-168
+
+case studies in Colombo (88), Gampaha (70), Ratnapura (90), and Kegalle (140). Accordingly, the total
+sample size is 588 farmers. Questionnaire-based structured interviews were conducted for each smallholder,
+and a visual assessment was used to gather site information.
+
+3. Modelling technology adoption
+The decision to intercrop or not to intercrop immature rubber stands can be explained as a discrete
+variable. Hence, regarding choice of models, the most
+important aspect of the decision framework is the dichotomous dependent variable. Classical linear methods are inappropriate for dichotomous choices since
+they can lead to heteroscedasticity variances. This
+problem is typically remedied by using maximum
+likelihood estimation (MLE), although heteroscedasticity in MLE is also a potentially serious problem
+leading to inconsistent estimators (Greene, 2000).
+According to Wooldridge (2000), when heteroscedasticity is observed, such models require more general
+estimation. However, such models are not often used
+in practice, since logit and probit models with flexible
+functional forms in the independent variables tend to
+work well.
+In making decisions about the adoption of a given
+technology, a farmer evaluates the new technology
+in terms of its incremental benefit. If the monetary
+benefit of using the technology is higher than the old
+technology, the preference or utility (U) for that technology (assuming monotonic relationship between
+utility and benefits) will be higher than the old technology. According to Greene (2000), random utility
+models address these types of individual choice situations. A common specification is the linear random
+utility model.
+Suppose an individual farmer's utility after adopting the new technology (intercropping immature rubber stands) for a given vector of economic, social, and
+physical factors (Z) is denoted by Ure (Z), and the
+utility without adoption by UNre (Z). Then, the preference for adopting or not adopting can be defined as
+a linear relationship
+Urc(Z)
+
+=
+
+Zf3re +ere
+
+YNrc(Z) = Zf3Nre + eNre
+
+161
+
+In this case, f3re, f3Nre and ere, eNre are response
+coefficients and random disturbances associated with
+the adoption and non-adoption of intercropping, respectively. Assuming that the qualitative variable Yindexes the adoption decision, then it will take a value
+of one if the farmer adopts the technology and zero
+otherwise. The probability that a given farmer will intercrop his immature rubber land can be expressed as
+a function of Z as follows
+P(Y = 1) = P(Ure > UNie)
+= P(Zf3re +ere > Zf3Nie + eNie)
+= P{Z(f3re - f3Nie) > eNre- ere}
+= P(Zf3 > ~) = F(Zf3)
+
+where P is a probability function, ~ = eNre - ere is a
+random disturbance term, f3 = (f3re- f3Nie) a vector of
+unknown parameters which can be interpreted as the
+net influence of the vector of independent variables on
+adoption of intercropping, and F (Zf3) is the cumulative
+distribution function for ~ evaluated at Zf3.
+The exact distribution of F depends on the distribution of the random term ~- The probit model arises
+from assuming a normal distribution, and a logit model
+arises from assuming a logistic distribution. Under the
+standard assumptions about the error term, there is
+no a priori reason to prefer probit to logit estimation
+(Greene, 2000). Accordingly, in most applications, it
+seems not to make much difference. Considering all
+these aspects, a logit model was developed to study
+the factors affecting intercropping in the smallholder
+rubber sector in Sri Lanka.
+According to the logit model, the probability of an
+individual rubber farmer adopting intercropping (IC)
+in his immature rubber stands, given economic, social,
+and physical characteristics (Z) is, P(ICI Z) and can
+be specified as
+P(ICIZ) =
+
+exp(Z{J + ~)
+1 + exp(Zf3 + ~)
+
+where a< Zf3 <a.
+The probability of not adopting intercropping,
+P(NICIZ), is therefore,
+exp(Zf3 + ~) ]
+P(NICIZ) = 1- P(ICIZ) = 1- [ 1 + exp(Z{J + ~)
+1
+
+1 + exp(Zf3 +
+
+~)
+
+P.H.M.U. Herath, H. Takeya!Agricultural Economics 29 (2003) 159-168
+
+162
+
+The relative odds of adopting versus not adopting intercropping in immature rubber stands are given by
+P(ICjZ)
+P(NICjZ)
+
+[exp(Z,B + ~)][1 + exp(Z,B +
+[1 + exp(Z,B +
+= exp(Z,B + ~)
+
+m
+
+m
+
+By taking the logarithms of both sides,
+P(ICjZ)
+ln [ P(NICIZ)
+
+J = Z,B + ~
+
+(1)
+
+The maximum likelihood approach can be used to
+estimate the above Eq. (1).
+
+4. Empirical model
+The farm and farmer specific factors included in
+the model are based on innovation diffusion theory
+and earlier studies. Detailed reviews of these factors
+are given by Feder and Umali (1993). The selected
+variables for this study included the farmer's experience with rubber-growing (FEXR), experience with
+the other crops recommended for intercropping (FEXOCRO), immature rubber land size (IMRLS-only
+land suitable for intercropping is considered), mature
+rubber land size (MARA-as a source of income),
+whether the rubber land is sloped or flat (TERR), availability of off-farm income (OFI), contacts with extension agents (NEVM), social participation (SOPC),
+decision maker's education level (DMEDUL), farm
+family size (FAMSIZE), nature of land ownership
+(OWNSHIP), distance between a farmer's residence
+and the rubber land (DIS-as a measure of security),
+and a farmer's attitude towards intercropping with
+immature rubber (ATT). A complete description of
+the variables specified and the types of measures that
+have been employed is given in Table 1.
+Implementation of the model must account for different ecological conditions (e.g. soil quality and rainfall patterns) among the five different regions selected
+for the study. Therefore, regional dummy variables for
+four different regions are also incorporated into the
+preliminary estimation of the model. The Ratnapura
+region, where the lowest share of intercropping was
+recorded serves as the reference. Also, the Wald test
+(the equivalent of the Chow test in OLS estimates)
+was conducted to verify the equality of the coefficients
+across these regions.
+
+In many studies, farm size has been shown to positively affect adoption decisions. A study by Negate
+and Parrikh (1999) indicates a positive impact of farm
+size on the adoption of improved wheat varieties.
+Also, a study by Doss and Morris (2001) revealed that
+the adoption of improved maize varieties is positively
+associated with the amount of land owned. Therefore,
+it is hypothesised that the sign on this variable, the
+immature rubber land size in the empirical model, is
+positive.
+Mature rubber land size has been considered as a
+separate explanatory variable in this study as it could
+act as a source of income for intercropping activities in
+immature rubber stands. In this regard, it might have a
+positive impact on intercropping. However, considering problems related to mature rubber such as scarcity
+of tapping labour and high price fluctuations, this variable might also reduce the immature rubber activities
+of the farmer. Therefore, the sign of the variable mature rubber area cannot be decided a priori.
+In this study, the availability of human capital is
+indicated by education level and years of farming
+experience, both in rubber and other crops. Many
+studies of the adoption and diffusion of innovations
+investigate the effect of human capital investments on
+adoption behaviour. Some of the rural social literature (Shoemaker, 1971) has suggested that adoption
+depends on the decision makers' education and information level. Mittal and Kumar (2000) find a positive
+impact of rural literacy on the adoption of high yielding varieties of rice and wheat in India. Also, Doss
+and Morris (2001) indicate that education is a significant determinant of the adoption of modern varieties
+of maize in Ghana. Thus, the impact of the main decision maker's education level on the intercropping
+of immature rubber is assumed to be positive.
+The impact of experience on adoption is ambiguous a priori. As experience increases (and therefore
+age increases), the time horizon in which to reap
+the benefits of adoption decreases, while risk aversion and learning by doing with current management
+practices may increase. On the other hand, greater
+experience could also lead to better knowledge of
+spatial variability in the field and more accurate assessment of the benefits of adoption. Shiyami et al.
+(2000) find that the more experience with growing
+chickpea, the higher the adoption of new varieties.
+Considering the above factors, the impact of farming
+
+P.H.M.U. Herath, H. Takeya/Agricultural Economics 29 (2003) 159-168
+
+163
+
+Table 1
+Description of the variables specified in the model
+Variable acronym
+Dependent variable
+!CONOT
+Independent variables
+NEVM
+OFI
+IMRLS
+MARA
+TERR
+DIS
+
+SOPC
+FEXR
+DMEDUL
+FEOCRO
+OWNS HI
+
+Variable meaning
+
+Type of measure
+
+Whether a rubber farmer has intercropped
+his immature rubber land or not
+
+Dnmmy (intercropped
+intercropped = 0)
+
+Average number of visits made by an
+extension officer to farmer per month
+Whether the farmer has any off-farm
+income or not
+Size of the immature rubber land
+Size of the mature rubber land
+Nature of the land
+Average distance from rnbber land to
+farmer's residence
+Whether a farmer is a member of any farm
+organization or not
+Farmer's actual involvement of growing
+rubber as a decision maker
+Education level of the main decision maker
+of the rubber cultivation
+Farming experience of other crops as an
+actual decision maker
+Nature of land ownership and farmers
+Involvement in real farming
+
+Days per month
+
++
+
+Dnmmy (with off-farm income = 1,
+without off-farm income = 0)
+In hectares
+In hectares
+Dnmmy (flat land = 1; sloped = 0)
+In kilometers
+
++
+
+Dnmmy (member = 1, non-member = 0)
+
++
+
+Number of years
+
++
+
+Number of years of formal education
+
++
+
+Number of years
+
++
+
+Expected sign
+= I,
+
+not
+
+?
+
++
+
+Dnmmy (single ownerships with fnll or
+part-time farming = 1: other type of
+ownerships with full or part-time farming
+= 0)
+
+ATT
+
+Attitudes of farmer towards intercropping
+
+FAMSIZE
+
+Farm family size
+Farmers from Colombo region
+Farmers from Kegalle region
+Farmers from Gampaha region
+Farmers from Kalntara region
+
+Dcolombo
+
+DKegalle
+Doampaha
+DKalutara
+
+experience in rubber and the other crops is expected
+to be positive.
+Contacts with extension agents and social participation are expected to have a positive effect on adoption
+based upon innovation diffusion theory. Such contacts,
+by exposing farmers to information, can be expected
+to stimulate adoption. Higher visitation rates by extension personnel reduces not only the likelihood of
+farmers choosing slash and burn agriculture, but also
+promotes movement into multi- and mono-cropping in
+Cameroon (Nganje et al., 2001). Therefore, the impact
+of variable extension contacts is expected to be positive in this model. The impact of the variable social
+
+Dummy variable (farmer who feels that
+intercropping will have positive effects or
+there will not be any bad effects on cropping
+system = 1: feel there will be bad Impacts
+on rubber or not sure of the impact = 0)
+Total number of members
+Dnmmy (Colombo = I: rest = 0)
+Dummy (Kegalle = 1: rest = 0)
+Dnmmy (Gampaha = I: rest = 0)
+Dummy (Kalutara = 1: rest = 0)
+
++
+
++
+
+participation is hypothesised to be positive based on
+a study by Sharma and Kumar (2000). Accordingly,
+socio-economic status has a positive impact on the
+adoption of agro-forestry innovations in the Haryana
+State of India. In this study, an index has been developed to measure the socio-economic status. Social
+participation is one of the major components of that
+index.
+The role of off-farm income on the decision to
+adopt is not very clear. It is observed that farmers
+with off-farm income are less risk-averse than farmers
+without sources of off-farm income. Off-farm activities will reduce the management resources available
+
+164
+
+P.H.M. U. Herath, H. Takeya/ Agricultural Economics 29 (2003) 159-168
+
+for the adoption process, but access to outside information may have positive effects. Given that most
+of rubber small holders depend on family labour for
+their farming, off-farm activities might have a negative impact on intercropping. According to Dimara
+and Skurass (1998), an increase in the off-farm annual work units decreases the probability of adopting
+flue-cured tobacco varieties in Greece, but this relationship is not statically significant. Considering all
+these factors, it is difficult to predict the sign of this
+independent variable in the model.
+There is mixed evidence about the impact of land
+ownership and full time operation of a farm on incentives to adopt a new technology. On the one hand, land
+ownership is hypothesised to increase incentives by
+lengthening planning horizons and the share of benefits accruing to the adopters while lowering the rates
+of time preference. In this regard, full time operators
+are expected to be more likely to adopt a time and
+management intensive technology (Cooper and Keirn,
+1996). On the other hand, the potential for such technologies to conserve input use, reduce cost, and provide economic benefits even in the short run could
+create incentives for adoption even among renters and
+part-time operators as observed by Lee and Stewart
+(1983). Accordingly, the sign of the variable, land
+ownership, has not been assigned.
+The influence of household size on the decision
+to adopt is not clear. If an agricultural technology
+increases the seasonal demand for labour, it would
+be less attractive to a household with limited family
+labour. Besides labour demand, the other factor related to family size, mentioned as a consideration in
+adoption decisions, is the consumption pressure the
+household faces, i.e. the responsibility of the head of
+the household to ensure that the minimum food requirement of the family is met. If the technology is a
+staple crop, the direction of effect on adoption in subsistence agriculture is ambiguous. While the higher
+consumption pressure a larger family faces may motivate adoption, the risk involved with a new and
+untried variety may inhibit the head of a larger household from adopting it. Considering the above factors,
+the impact of family size on intercropping is assumed
+to be positive, as there is no increased seasonal demand of labour in the recommended major crops such
+as banana and pineapple; however, this could be an
+ideal option for dealing with consumption pressure.
+
+Attitudes towards intercropping have been considered in the model as a psychological factor that would
+affect this new system of rubber farming. In the literature, attitudes have been defined as the degree of a
+farmer's positive or negative feelings towards an innovation. It is assumed that attitudes largely depend on
+household values, beliefs and circumstances (Sharma
+and Kumar, 2000). In this study, attitude towards intercropping immature rubber stands was evaluated by
+accessing the farmer's opinion directly through interviews. Farmers who have stated either that they believe
+that this cropping system would enhance the growth
+of rubber, or those who believe that there will not be
+any negative effects on rubber are considered to have
+positive feelings towards this cropping system. In contrast, farmers who believe that there would be some
+negative effects on rubber or those who express uncertainty regarding the consequences of this farming
+system are categorised as farmers with negative feelings towards the system. In this model, attitudes have
+been included as a dummy variable. Farmers with negative feelings towards the intercropping are considered
+as the base category. Farmers with positive feelings
+towards this farming system, hypothesised to have a
+positive impact on intercropping, are compared to the
+base category.
+The distance between a farmer's residence and the
+rubber land is employed as a measure of security
+and expected to have a negative sign. This is based
+on previous survey studies in which theft was identified as one of the major problems in intercropping.
+Finally, nature of the rubber land is included in the
+model as a dummy variable. Farmers with sloped
+lands are considered as the base category. Thus, level
+land is hypothesised to have a positive influence on
+intercropping compared to this base category.
+
+5. Empirical results
+5.1. Characteristics of the sample farmers
+A summary of the mean characteristics of the
+whole study population, adopters and non-adopters,
+is presented in Table 2. There is a significant difference in the mean values of the number of extension
+visits, off-farm income, nature of the land, farming experience of other crops (FEOCRO) and the
+
+P.H.M.U. Herath, H. Takeya!Agricultural Economics 29 (2003) 159-168
+
+165
+
+Table 2
+Mean values of the independent variables
+Variable
+
+All farmers'
+
+Adopters
+
+Non-adopters
+
+t-test for equal means
+
+?-value
+
+ICO NOT
+NEVM
+OFI
+IMRLS
+MARA
+TERR
+DIS
+SOPC
+FEXR
+DMEDUL
+FEXOCRO
+OWN SHIP
+ATT
+FAMSIZE
+
+0.3
+6.5
+0.63
+1.91
+1.7
+0.34
+2.3
+0.24
+16.3
+8.25
+2.6
+0.89
+0.68
+5.39
+
+10.3
+0.16
+1.95
+1.52
+0.43
+1.8
+0.28
+16.7
+7.9
+6.2
+0.84
+0.92
+5.48
+
+4.9
+0.84
+1.82
+1.72
+0.25
+2.5
+0.22
+16.1
+8.6
+1.0
+0.91
+0.57
+5.35
+
+-33.1
+20.9
+0.64
+0.83
+-4.2
+1.05
+-1.41
+-0.45
+-1.98
+-8.72
+1.59
+-10.69
+-1.25
+
+0.0001
+0.0001
+0.51
+0.40
+0.0001
+0.29
+0.15
+0.64
+0.47
+0.001
+0.11
+0.001
+0.21
+
+Source: own calculations.
+
+attitude towards intercropping between the adopter
+and non-adopter populations. Extension agents visited
+the adopters frequently, and most of them (92%) have
+positive feelings towards intercropping compared to
+the non-adopters (57%). Most of the non-adopters
+have access to off-farm income (84%) compared to
+the adopters (16%). Adopters' farming experience
+with other crops (6.2 years) is higher than that of the
+non-adopters (1 year). About half the population of
+adopters (43%) has level land whereas only about a
+quarter of the population (27%) of non-adopters has
+level land. There is no significant difference between
+the population means of the adopters and non-adopters
+for the variables immature rubber land size, distance
+between residence and land, social participation, land
+ownership, decision maker's education level, farming
+experience with rubber, mature rubber area size, and
+family size.
+5.2. Estimated logit model
+This section presents the results of estimating
+the model with pooled data across all five regions.
+The empirical logit model (1) was estimated using
+SHAZAM econometric software, version 9 (Whistler
+et al., 2001). The estimated coefficients and the corresponding t-ratios are given in Table 3. The estimation
+of the parameters is obtained by the Newton-Raphson
+iterative procedure. To avoid the possibility of false
+pooling of data, the Wald test (the equivalent of the
+
+Chow test in OLS estimates) was conducted to verify
+the equality of coefficients across the different regions. This test fails to reject the null hypothesis that
+these coefficients are equal (Table 3). The estimates
+of the dummy variables included in the model to represent different regions also show that there are no
+significant differences in adoption among the regions
+(Table 3). The likelihood-ratio test of the hypothesis
+that the coefficients of all the explanatory variables
+are zero, has a Chi-squared value of 533.2 with 15
+d.f., suggesting that the estimated model is highly
+significant. The goodness of fit measure, Estrella R 2
+(0.8) indicates a very satisfactory fit. Estrella (1998)
+has suggested that this measure may be interpreted
+intuitively in a similar way to R 2 in the linear regression context. The model correctly predicts 95% (554
+out of 581) of the responses. Conect predictions are
+slightly higher for the non-adopters, 95% (388 out of
+407), than for the adopters, 92% (166 out of 181).
+In addition to the estimated coefficients, the
+marginal impacts of changes in the independent variables on the probability of intercropping are also
+presented. The interpretations of these marginal impacts are dependent on the unit of measurement of the
+independent variables. For example, the marginal impacts show that for a 1% increase in extension visits
+per month, the probability of intercropping immature
+rubber stands increases by 0.05%. This implies a
+highly elastic response of 6.89 when evaluated at the
+mean values of the independent variables.
+
+166
+
+P.H.M.U. Herath, H. Takeya/Agricultural Economics 29 (2003) 159-168
+
+Table 3
+Parameter estimates of the logit model
+Variable
+
+Coefficient estimate
+
+Standard error
+
+Asymptotic t-ratio
+
+Elasticity at means
+
+Slope•
+
+NEVM
+ATT
+OFI
+IMRLS
+MARA
+TERR
+DIS
+SOPC
+FEXR
+DMEDUL
+FEOCRO
+OWNS HI
+FAMSIZE
+
+1.10
+2.31
+-2.44
+-0.071
+-0.062
+0.48
+0.007
+0.29
+0.002
+0.10
+0.17
+-0.93
+0.004
+-0.42
+-0.31
+1.31
+-0.39
+
+0.13
+0.55
+0.45
+0.11
+0.091
+0.46
+0.04
+0.54
+0.017
+0.06
+0.039
+0.65
+0.20
+0.86
+0.82
+0.99
+0.76
+
+8.15***
+4.16***
+-5.31 ***
+-0.60
+-0.68
+1.05
+0.17
+0.53
+0.14
+1.59*
+4.44***
+-1.62***
+0.023
+-0.48
+0.37
+1.32
+-0.51
+
+6.89
+1.50
+-1.48
+-0.13
+-0.099
+0.14
+0.15
+0.067
+0.03
+0.78
+0.441
+-0.79
+0.024
+
+0.046
+0.097
+-0.103
+-0.003
+-0.0026
+0.021
+0.0003
+-0.012
+0.0001
+0.0043
+0.0074
+-0.039
+0.0002
+
+Dco!ombo
+DKegalle
+DGampaha
+DKalutara
+
+Log likelihood function: -74.34; log likelihood (0): -363; likelihood ratio: 577.3; Estrella R2 : 0.85 (Estrella, 1998); R 2 (adj.): 0.79;
+percentage of conect predictions: 0.95; Wald Chi-square statistic: 2.5, P-value: 0.47. Source: own calculations.
+a Marginal effects evaluated at the sample means.
+* P < 0.1 (one-tailed).
+*** p < 0.01.
+
+According to Greene (2000), the marginal effect
+of a binary independent variable can be estimated
+by simply taking the derivative with respect to the
+binary variable as if it were a continuous variable.
+Furthermore, the computation of the derivatives of
+the conditional mean function is useful when the
+variable in question is continuous. However, when
+the explanatory variable is a dummy, the marginal
+effects generally produce a reasonable approximation
+to the change in the probability that Y = 1, at a point
+such as the mean of the regressors. Following this,
+the estimated marginal effects of dummy explanatory
+variables could be defined. For an example, the estimated coefficient for the variable attitude implies that
+for the farm population as a whole, a 10% increase in
+the number of farmers with positive attitudes towards
+intercropping immature rubber will result in a 0.1%
+increase in the probability of intercropping, which
+represents an elastic response of 1.5. For most of
+the explanatory variables, except NEVM, ATT, and
+OFI, the intercropping of immature rubber stands was
+found to be inelastic with respect to changes in these
+variables. The most elastic response was observed for
+a change in extension visits, whereas the most inelas-
+
+tic response was observed for a change in variable
+FAMSIZE.
+
+6. Empirical findings and policy design
+Variables representing the farmers' awareness of
+the intercropping immature rubber stands, extension
+contacts, education level, and experience with farming other crops are shown to have significant positive
+impacts on the probability of adoption. In fact, extension contacts are shown to have the biggest impact
+with the highest estimated elasticity. Experience with
+farming rubber and the social participation of farmers
+are not significant. In this study social participation
+is approximated by the farmers' actual involvement
+in co-operative societies. During the survey, it was
+observed that the rubber farmers' main co-operative
+association is with rubber smallholders' co-operative
+societies. The main objective of these societies is to
+assist farmers with marketing rubber. However, our
+results suggest that a detailed study of the activities of
+these societies is needed in order to promote their involvement in other productive measures in the sector.
+
+P.H.M.U. Herath, H. Takeya/Agricultural Economics 29 (2003) 159-168
+
+In this regard, an active involvement of extension officers in these societies may be useful. Furthermore,
+the results show that increasing farmers' awareness
+through extension and education programs could immensely improve intercropping practices in immature
+smallholder rubber stands.
+The dummy variable representing the fanner's attitude towards intercropping immature rubber stands
+has a significant impact on the probability of adoption. The base category in this regard was the farmers
+who believe that intercropping would be harmful
+to the rubber crop or who are uncertain about the
+possible consequences of this new farming system.
+The empirical results indicate that about 82% of
+the total population and about 57% of the intercroppers belong to this base category, while 92% of
+the non-intercroppers believe that this farming practice would be harmful or are uncertain. In terms of
+marginal impacts, an increase of 10% in the farmers
+with a positive attitude towards intercropping would
+increase the numbered intercroppers by nearly 1%.
+These figures suggest how important the improvement
+of awareness is in order to enhance intercropping in
+the smallholder rubber sector in Sri Lanka.
+The dummy variable representing the ownership of
+land shows a significant negative impact on the intercropping. This indicates that when there is single
+ownership and the farmer is involved full or part-time
+in farming, the probability of intercropping tends to
+be lower compared to the base category, where rubber
+lands have been rented or the immature rubber lands
+have been leased for part-time operators for farming
+during the immature period. According to Lee and
+Stewart (1983), the potential for technologies to conserve input use, reduce costs, and provide economic
+benefits even in the short run could create incentives
+for adoption even among renters and part-time operators. During this survey, it was observed that renting
+out rubber land during the immature period for intercropping is becoming popular among some smallholders. However, Gray (1997) concluded that most
+of the farmers in one of the main rubber-growing
+districts, Kegalle, are not aware of this land leasing
+system. Also, some of the farmers are hesitant to
+lease the land due to a lack of proper legal arrangements. Involvement by extension officers and other
+related government institutions could facilitate this
+activity.
+
+167
+
+Off-farm income is negatively associated with the
+probability of adoption. The impact is significant. In
+terms of marginal impacts, an increase of around 10%
+in the number of farmers with off-farm income will
+lead to a decline in the probability of intercropping
+of about 1%. This may be due to a lack of resources
+such as labour for farming activities due to off-farm
+activities. However, the farmers with off-farm income
+also include those who are receiving financial and
+other assistance under government poverty alleviation
+programs such as Samurdhi (prosperity movement).
+In fact, this survey revealed that around 70% of the
+farmers' main off-farm income was reported to be government assistance. Therefore, a proper co-ordination
+of productive farming activities with these types of
+poverty alleviation programs should be given due policy attention.
+The distance between the rubber land and the
+farmer's residence (a proxy for the theft problem)
+lacks explanatory power. This result was unexpected
+as previous surveys by Jayasena and Herath (1986)
+and Stirling et a!. (1998) reveal that theft is one of the
+major causes impeding intercropping activities in the
+sector. The present results suggest that the theft problem does not affect the intercropping decision, or it
+could indicate that the variable distance is not a good
+indicator of this problem. The effect of immature and
+mature rubber land size and the nature (fiat/sloped)
+of the rubber lands is not significant in the model.
+
+Acknowledgements
+Field research for this paper was undertaken while
+the first author was an Agricultural Economist of the
+Rubber Research Institute of Sri Lanka. We are grateful to the Rubber Research Institute of Sri Lanka for
+facilitating this study. Collaboration of the staff of the
+Rubber Development Department of Sri Lanka and
+the participating farmers is warmly acknowledged.
+Valuable comments by anonymous reviewers are also
+highly appreciated.
+
+References
+Anonymous, 1993. Ferguson Sri Lanka Directory, vol. 125. The
+Associated Newspapers of Ceylon Ltd., Colombo.
+
+168
+
+P.H.M.U. Herath, H. Takeya/Agricultural Economics 29 (2003) 159-168
+
+Cooper, J.E., Keirn, R.W., 1996. Incentive payments to encourage
+farmer adoption of water quality protection practices. Am. J.
+Agric. Econ. 78, 54-64.
+Chandrasekera, B.L., 1979. Research Review of Plant Science
+Department, Annual Review Report 97. Rubber Research
+Institute of Sri Lanka.
+Cochran, W.G., 1963. Sampling Techniques, vol. 2. Wiley, New
+York.
+Doss, C.R., Morris, M.L., 2001. How does gender affect the
+adoption of agricultural innovations? The case of improved
+maize technology in Ghana. Agric. Econ. 25, 27-39.
+Dimara, E., Skurass, D., 1998. Adoption of new tobacco varieties
+in Greece: impact of empirical findings on policy design. Agric.
+Econ. 19, 297-307.
+Estrella, A., 1998. A new measure of fit for equations with
+dichotomous dependent variables. J. Business Econ. Stat. 16 (2),
+198-205.
+Feder, G., Umali, D., 1993. The adoption of agricultural
+innovations: a review. Techno!. Forecast. Soc. Change 43, 215239.
+Greene, W.H., 2000. Models with Discrete Dependent Variables.
+Econometric Analysis, vol. 4. Prentice-Hall, NJ, pp. 499-521.
+Gray, A., 1997. Market impact of a potential increase in production
+of banana resulting from high density intercropping of banana
+with rubber. Report for the Institute of Terrestrial Ecology
+(Bangor), Natural Resource Institute, Central Avenue, UK.
+Jayasena, W.G., Herath, H.M.G., 1986. Innovation Receptivity and
+Adoption in Rubber Mallholdings of Sri Lanka. SRRP Research
+Study 71, ARTI, Sri Lanka, pp. 79-88.
+Lee, L.K., Stewart, W.H., 1983. Land ownership and the adoption
+of minimum tillage. Am. J. Agric. Econ. 65, 256-264.
+Mittal, S., Kumar, P., 2000. Literacy, technology adoption, factor
+demand and productivity: an econometric analysis. Ind. J. Agric.
+Econ. 55 (3), 490-499.
+
+Nganje, W., Schuck, E.C., Yantio, D., Aquach, E., 2001.
+Farmer education and adoption of slash and burn agriculture.
+Agribusiness and Applied Economics Miscellaneous Report
+No. 190, Department of Agribusiness and Applied Economics,
+North Dakota State University, Fargo, North Dakota.
+Neill, S.P., Lee, D.R., 1999. Explaining the adoption and
+disadoption of sustainable agriculture: the case of cover crops
+in Northern Honduras, vol. 31. Working Paper, Department
+of Agricultural Resource and Managerial Economics, Cornell
+University, Cornell.
+Negate, W., Parrikh, A., 1999. The impact of perception and other
+factors on the adoption of agricultural technology in the Moret
+and Jiru districts of Ethiopia. Aglic. Econ. 21, 205-216.
+Shoemaker, F.F., 1971. Communication of Innovations, vol. 2. Free
+Press, New York.
+Sharma, V.P., Kumar, A., 2000. Factors influencing adoption of
+agro forestry program: a case study from North-West India.
+Ind. J. Agric. Econ. 55 (3), 500-509.
+Shiyami, R.L., Joshi, P.K., Asokan, M., Bantilan, M.C.S., 2000.
+Adoption of improved Chickpea varieties: evidence from tribial
+region of Gujarat. Ind. J. Agric. Econ. 55 (2), 159-171.
+Stirling, C.M., Rodrigo, V.H.L., Janowsky, M., Gray, A., 1998.
+High-density banana rubber intercrops: productivity, livelihood,
+stakeholder and market analysis. Final Technical Report,
+Department for International Development, Plant Science
+Research Programme, UK, p. 41.
+Whistler, D., White, K.J., Wong, S.D., Bates, D., 2001. SHAZAM
+for Windows, Professional Edition, Version 9.0. Econometric
+Software, Northwest Econometrics Ltd., Vancouver, BC,
+Canada.
+Wooldridge, J.M., 2000. Limited dependent variable models and
+sample selection corrections. In: Introductory Econometrics: A
+Modern Approach. South Western College Publishing, USA,
+pp. 529-569.
+
+

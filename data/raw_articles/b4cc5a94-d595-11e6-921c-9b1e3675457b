@@ -1,0 +1,1244 @@
+AGRICULTURAL
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 26 (200 I) 173-184
+www.elsevier.com/locate/agecon
+
+Demand for area crop insurance among litchi
+producers in northern Vietnam
+Monte L. Vandeveer*
+Economic Research Service, US Department of Agriculture, 1800 M Street NW, Room S5013, Washington, DC 20036, USA
+
+Received 3 June 2000; received in revised form 20 July 2000; accepted 21 August 2000
+
+Abstract
+This study examines the need for crop insurance for litchi production in northern Vietnam and how farmers might participate
+in such a program. Hypothetical insurance programs were developed which proposed all-risk coverage based on area yields.
+This coverage was offered to farmers to determine both their interest in the program and how insurance features and farmer
+characteristics affected their decision to buy insurance. Farmers were also surveyed regarding their production practices,
+price and yield expectations, and financial and personal characteristics. Even before considering other program costs and
+government budget constraints, there is not a strong case for establishing a crop insurance program here. Results indicate
+that while farmer participation would be significant, crop insurance is not needed to achieve policy goals like raising farmer
+income or guaranteeing subsistence levels of income. Crop insurance is not needed to promote litchi production, which is
+already expanding rapidly due to its high profitability relative to other farm enterprises. In their choice of coverages, farmers
+preferred higher yield guarantee levels and lower indemnity prices. Estimated premiums were quite low when expressed as
+a percent of expected revenue, and farmers were not responsive to changes in premiums. Econometric analysis indicated
+that high income farmers were more likely to participate, but other farmer characteristics seemed to matter little. Anecdotal
+evidence suggested that farmers believed the expected area yields used to set insurance coverage levels were too low. Because
+litchi productivity varies significantly by tree age and the litchi planted area is expanding rapidly, determining appropriate
+values for expected area yields and insurance coverage levels appeared to be the biggest challenge in program design. It is
+hypothesized that additional farmer education about the relationship between area and farm yields and other aspects of area
+insurance could improve such a program's operation. Published by Elsevier Science B.V.
+Keywords: Crop insurance; Litchi; Vietnam; Logit
+
+1. Introduction
+Crop insurance has been used in a variety of
+forms and for a variety of purposes in more than 70
+countries, according to an FAO survey published in
+199l(FAO, 1991). In particular, developing countries
+have established crop insurance programs not only to
+provide farmers with another risk management tool
+*Tel.: +1-202-694-5271; fax: +1-202-694-5823.
+E-mail address: montev@ers.usda.gov (M.L. Vandeveer).
+0169-5150/011$ - see front matter. Published by Elsevier Science B.V.
+PII: SO 169-5 150(00)00 I 08-0
+
+but also to promote other goals, such as improving
+farmers' access to credit, promoting production of
+high-value crops that might also have higher yield
+risk, and providing more stability to agriculture and
+related industries. There have been quite varying degrees of success over the years, across countries and
+across several types of insurance programs (see Hazell
+et al., 1986; Hueth and Furtan, 1994; Mishra, 1996).
+At this date, Vietnam has no formal agricultural insurance programs. As part of a pedagogical program
+related to risk analysis in agricultural production with
+
+174
+
+M.L. Vandeveer! Agricultural Economics 26 (2001) 173-184
+
+the Faculty of Economics and Rural Development at
+Hanoi Agricultural University #1, a study was undertaken to evaluate farmers' interest in crop insurance
+for a crop in northern Vietnam. Several questions were
+important at the outset: could crop insurance be used
+to promote production of high-value, non-traditional
+crops; what types of insurance coverage would be
+appropriate for the particular conditions of northern
+Vietnam; would farmers' incomes be significantly stabilized by crop insurance; would farmers voluntarily
+participate in the program; and what factors appeared
+to affect farmers' insurance decisions.
+Litchi (Litchi chinensis) was considered an appropriate crop for study because it appeared to be highly
+profitable, yet it could be considered a non-traditional
+crop that has not been widely adopted. In addition, the
+view commonly held among farmers was that litchi
+production was rather uncertain. The primary litchi
+growing area in northern Vietnam is near Hanoi, and
+local officials in one district there were willing to cooperate with surveys of litchi producers.
+Two surveys were conducted to collect information addressing the issues mentioned above. A survey
+in May 1998 looked at farmers' production practices, costs, and expectations for prices and yields
+for all crop and livestock enterprises, along with
+farmers' personal characteristics such as age, education, and family size, and financial characteristics
+such as non-farm income and credit availability. A
+second survey in September 1998 evaluated farmers'
+responses to hypothetical crop insurance contracts on
+litchi production.
+The following sections describe general conditions
+for litchi production and other farming practices in the
+surveyed area, the design of a hypothetical insurance
+program for litchi, farmer responses to this proposed
+coverage, and an econometric model of insurance demand. The final section summarizes the need for crop
+insurance for litchi production in northern Vietnam
+and some observations about insurance program design.
+
+2. Litchi production in northern Vietnam
+Litchi production in northern Vietnam occurs primarily in the mountainous region bordering the northern edge of the Red River delta. Luc Ngan district in
+
+Bac Giang province, located about 80 km northeast of
+Hanoi, was selected for the study, since it is an important center for litchi production in this area.
+Luc Ngan district has about 1012km2 and is home
+to 173,000 people living in 31,100 households. Luc
+Ngan district's labor force works primarily in agriculture. Ethnic Vietnamese comprise about 54% of the
+local population, while 10 other ethnic groups living
+in the more mountainous areas of the district comprise
+the rest. Litchi production occurs mainly among the
+Vietnamese ethnic group.
+The climate and topography of Luc Ngan district
+are well-suited for production of a tree crop like litchi.
+Annual rainfall is about 1800--2000mm per year, average annual temperature is 18-23°C, and Luc Ngan
+is seldom affected by severe storms. Only about 18%
+of the district's land is considered suitable for rice and
+other field crops, while the area suitable for cultivating
+fruit trees, consisting of rolling hills, is quite large.
+Litchi saplings are established by cutting and planting small branches from existing trees. The young
+trees begin to bear fruit in their third or fourth year,
+and they continue growing in size and productivity
+until perhaps the age of 15 years. They can remain
+productive indefinitely, with one tree in the area reportedly being more than 200 years old. The trees
+blossom in early spring (February and March), and
+the fruit is harvested over 1 month's period in late
+spring (May-June). However, a tree may not bear fruit
+every year; reportedly only about 60% of trees bear
+fruit in a given year. This may reflect weather conditions during the flowering period or other weather and
+disease-related conditions. A serious disease problem
+appeared in 1997 and 1998, apparently caused by a
+fungus that affects trees in heavy or poorly drained
+soils and which kills infected trees in a relatively short
+time. New management practices such as reducing
+planting depth, improving soil drainage, and greater
+tree pruning are being promoted to reduce this risk, and
+a chemical treatment has also been developed which
+saves about 60% of affected trees if they can be treated
+at an early stage of the disease.
+Litchi was introduced into the area in the 1960s
+by farm families migrating from nearby Hai Duong
+province. Litchi production in Luc Ngan district has
+developed primarily since 1987, about the beginning
+of the doi moi economic renovation period in Vietnam.
+Table 1 shows litchi land area, total production, and
+
+M.L. Vandeveer! Agricultural Economics 26 (2001) 173-184
+
+Table I
+Planted area, total production, and yields for litchi in Luc Ngan
+district, 1991-1998"
+Year
+
+Land area planted
+to litchi (ha)
+
+Total output
+of litchi (t)
+
+Litchi
+yield (t/ha)
+
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+
+1500
+1830
+2050
+2488
+3000
+4000
+5278
+7092
+
+1300
+1400
+1800
+2000
+2250
+4599
+4582
+5000
+
+1.40
+1.40
+1.45
+1.62
+1.50
+1.70
+1.58
+1.25
+
+a Note: Yields are calculated using land area with productive
+trees, not total planted area.
+
+yields from 1991 to 1998 for Luc Ngan district. The
+most significant trend in this data seems to be the rapid
+growth in the planted area, growing from 1500 ha in
+1991 to more than 7000ha in 1998. Of these 7000ha,
+about 4000 have trees old enough to produce fruit.
+Local officials hope to see this expansion continue,
+with a goal of 10,000 ha planted by the year 2005.
+Table 2 shows similar data for Tru Huu commune, the
+particular commune in Luc Ngan district visited for
+this study.
+A survey in May 1998 collected information from
+Tru Huu farmers regarding their production practices
+for both crop and livestock enterprises, their income
+and credit situations, and other personal characteristics. One hundred households were interviewed.
+Several relevant results are reported here.
+
+Table 2
+Planted area, total production, and yields for litchi in Tru Huu
+commune, 1991-1998"
+Year
+
+Land area planted
+to litchi (ha)
+
+Total output
+of litchi (t)
+
+Litchi
+yield (t/ha)
+
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+
+63
+65
+80
+85
+105
+114
+147
+160
+
+106
+115
+120
+144
+145
+215
+259
+245
+
+2.10
+2.20
+2.10
+2.40
+2.30
+2.76
+2.27
+2.15
+
+a Note: Yields are calculated using land area with productive
+trees, not total planted area.
+
+175
+
+Average values for minimum, maximum, and most
+likely litchi yields were 4.1, 8.8, and 6.5 t/ha, respectively. This is significantly higher than the district average yield, 1.49 t/ha, or the commune average yield,
+2.29 t/ha, over the 1991-1998 period. Further investigation revealed that Tru Huu commune had more early
+adopters of litchi production than elsewhere in the district, and the greater maturity of their trees accounts
+for at least some of the differences in yields.
+Further litchi yield information was collected using a "visual impact method," where farmers placed
+counters into various yield ranges to assess their probabilities (see Hardaker et al., 1997). From this information, a yield dist:J.ibution was derived for each
+farmer. The average yield across all 100 farms from
+these calculations was 6.22 t/ha, with a standard deviation of 1.44 t, or a coefficient of variation of about
+26%. This suggests somewhat more variability than
+the minimum and modal yields reported above, where
+the minimum yield was 63% of the modal yield. Litchi
+yields on individual farms also seem more variable
+than the aggregate yields for the district and commune
+seen in Tables 1 and 2. The lowest district yield from
+1991 to 1998 was 1.25 t/ha, about 84% of the average,
+while the lowest commune yield over this period was
+2.10 t/ha, about 91% of average.
+Farmers reported that the litchi price varies significantly by season, with a low of about 11,000 dong/kg
+at harvest and an off-season high of as much as 22,000
+dong/kg (at that time, the exchange rate was about
+13,000-14,000VN dong= US$1). Storage and processing is a problem, so most output is marketed as
+fresh fruit shortly after harvest. Farmers reported that
+they expected to get an average price of about 13,000
+dong/kg.
+Litchi production appeared to be quite profitable.
+With an average yield of about 235 kg/sao (in northern
+Vietnam, one sao equals 360m2 ) and a market price
+of 13,000 dong/kg, average revenue per sao is about
+3.055 million dong. Farmers reported variable costs
+of only about 150,000 dong per sao for litchi, leaving a significant amount for land taxes, other overhead
+costs, and living expenses. A litchi sapling costs only
+about 10,000 dong, so more trees can be planted at
+relatively little expense. A comparison with rice production shows that litchi was nearly five times more
+profitable. As a result, farmers in Tru Huu only planted
+rice for home consumption, not for commercial sales.
+
+176
+
+M.L. Vandeveer/ Agricultural Economics 26 (2001) 173-184
+
+Nearly all households also had some kind of
+small-scale livestock activity. The most common of
+these was raising market hogs, with 85 households
+engaged in this activity. The average annual production was about 240 kg per year (roughly two slaughter
+hogs), with the great majority of production being
+sold commercially. Just over half the households
+raised chickens, mainly for household consumption,
+while just over one quarter of the households had sow
+farrowing operations. Livestock were fed mostly crop
+residues and by-products and table scraps, so there
+was very little cash expense in these operations.
+Regarding credit, 68 households said they had received loans the previous year from a special government program to promote fruit production. The typical
+loan in this program was for an amount of 1 million
+dong, at 0.7% interest per month, with a repayment
+period of 5 years. Only six other households reported
+borrowing money from other sources for agricultural
+purposes. Only three households reported borrowing
+money for non-agricultural purposes.
+Only 18 households reported any non-farm income,
+and only a few of these received significant amounts
+of such. Non-farm income does not play a role in
+most families' financial plans. The average farm size
+among households in the sample was about 11 sao
+(about 0.4 ha), which is larger than average in northem Vietnam. The typical farm household included
+five people, and farmers had attended school for an
+average of 7 years.
+Total annual household income averaged 26.6 million dong, or about 6.2 million dong per person in
+the household (roughly US$ 1973 and US$ 427, respectively). These amounts are noticeably higher than
+average for farm households in northern Vietnam.
+They seem best explained by the higher profitability of litchi production (compared to rice) and the
+relatively larger farm size. Average annual farm income per household was 24.6 million dong, and the
+average for minimum annual farm income was 19.4
+million dong (about 79% of average annual farm income). The major source of income was litchi production.
+These results answer some of the questions posed
+above. First, it appears that crop insurance is probably not necessary to promote the adoption of litchi
+production. The relatively high profitability of litchi
+production probably explains the rapidly expanding
+
+litchi plantings, and these will likely continue regardless of whether crop insurance is introduced.
+Second, farm incomes do not appear extremely variable. While litchi yields showed some variability, it
+appears that farmers can expect at least two-thirds of
+their average incomes in even the worst of years. Farm
+incomes in the sample, while certainly low, were still
+above average for farmers in northern Vietnam, and
+farmers reported that they didn't expect to experience
+income levels less than about 75% of this average.
+Crop insurance for litchi could provide more stability
+to farmers' incomes, but it doesn't appear necessary
+to guarantee a subsistence level of income.
+It's not clear whether crop insurance would improve
+farmers' access to credit. Farm loans came almost
+entirely from a special one-time credit program targeted specifically at promoting fruit tree production,
+and two-thirds of farm households participated in this
+program. This suggests that farmers are at least interested in borrowing money to support and expand their
+farming enterprises. Other agricultural lenders do not
+appear to be serving farmer needs very well. Closer
+examination of lender policies is needed to determine
+if crop insurance could serve as collateral and improve
+access to credit.
+
+3. A hypothetical insurance program
+for litchi farmers
+To assess farmers' interest in crop insurance, they
+were surveyed a second time in September 1998 about
+participating in a hypothetical insurance program for
+litchi production. This section describes how the insurance was designed.
+First, the insurance was designated as all-risk
+insurance, rather than specific-risk insurance. The
+specific risk that concerned farmers most was the relatively recent problem of disease mentioned above.
+However, an insurance program specifically covering
+this disease was considered inappropriate for several
+reasons: insurance could create a moral hazard in caring for the trees, since management practices affect
+the disease's occurrence and its treatment; adverse
+selection might be a problem, since farmers alone
+would know which trees were planted deeply and
+thus more prone to disease; and finally, only 2 years
+of data would make it difficult to estimate premiums
+
+M.L. Vandeveer/ Agricultural Economics 26 (2001) 173-184
+
+accurately. Farmers also said they worried about losses
+due to the weather, but this was expressed as a concern
+for weather in general terms rather than specific perils, such as drought, hail, wind, etc. Consequently, an
+all-risk insurance program was considered most appropriate.
+Next, should the insurance be based on individual
+farm yields or some kind of area yield? Several factors
+suggested that an area-based program would be more
+appropriate. First, area yield histories were available in
+the form of district and commune yield records, which
+would be needed to set coverage levels and estimate
+premiums. Few farmers had similar yield records. Second, the opportunity for fraud would be much greater
+with individual coverage, since farmers could easily
+conceal some output and claim a loss. Also, the administrative cost for monitoring an extremely large
+number of small farmers would be prohibitive. Similarly, other administrative costs would be higher with
+individual coverage, since multiple premium schedules would be needed, each farm's yield history would
+have to be examined in order to assign the appropriate premium, and every individual loss would have
+to be verified. These kinds of administrative costs are
+greatly reduced in an area-based scheme, since only
+the area yield is needed to establish premiums and
+evaluate losses.
+Which type of area unit would be most appropriate? To the extent that farm and area yields differ in
+frequency and severity, area insurance does not provide an effective "yield hedge" (Barnaby and Skees,
+1990). Thus, farmers would likely want the area defined in a way such that the area yield tracks closely
+with their own farm yields.
+Two area units were used for the hypothetical insurance. The first area was defined as Luc Ngan district, since production conditions and weather patterns
+are fairly homogeneous over the area. However, out of
+concern that farmers might fear that the district yield
+would not reflect their own, Tru Huu commune was
+defined as a second area. This commune is one of
+more than 30 communes in the district, and it is the
+commune where the interviewed farmers lived, greatly
+reducing any chance that the area yield might differ
+significantly from their own yields. Several years of
+yield history were available at both the district level
+and the commune level for setting coverage levels and
+premiums.
+
+177
+
+Yield guarantee levels were set at 90 and 85%
+of the areas' expected yields. These relatively high
+percentages were used because of the low variability
+found in the areas' historical yields. Setting expected
+area yields and the consequent insurance coverage
+levels was complicated by the fact that tree productivity depends heavily on tree age, and that the planted
+area contained a large percentage of land with relatively young trees. Thus, average yield for an area
+could change substantially simply due to greater maturity and productivity of older trees, or conversely,
+due to a large number of young trees just beginning
+to bear fruit. In other words, while part of the area
+yield variation is due to weather, disease, pests, and
+other hazards, another part is due to the changing age
+distribution and thus changing productivity of the tree
+population. Both types of effects must be considered.
+Ideally, expected area yield could be estimated by
+a survey determining the percentage of trees in various age categmies, along with estimates of productivity typical for each age category. Unfortunately, such
+information was not available. Expected yields could
+only be set using the yield histories seen in Tables 1
+and 2. For the district, the expected yield was set at
+1.5 t/ha, and for the commune, it was 2.4 t/ha.
+Indemnity payments per sao were defined as an indemnity price times the difference between actual area
+yield and the area yield guarantee when actual yield
+is below the guaranteed yield. Three indemnity prices
+were used: 15,000, 25,000, and 35,000 dong/kg. The
+lowest indemnity price was set close to the normal
+market price level, while the two higher indemnity
+prices were offered in case farmers might be concerned that their own farm loss might be larger than
+the area's yield loss. In this case, a higher indemnity
+price makes the indemnity payment larger, thus offsetting the smaller yield loss at the area level. Miranda
+(1991) and Mahul (1999) provide theoretical discussions about optimal coverage levels for area insurance.
+The premiums were based on the yield histories
+seen in Tables 1 and 2. Yield distributions were fitted
+to the data, and expected yield losses below the yield
+guarantee levels were calculated. Due to the extremely
+low variability in this data, the "pure premiums" (the
+amounts needed to pay only expected indemnities)
+were quite low. Two kinds of loads were then added
+to the pure premiums: the first was a fixed load set at
+5000 dong/sao for the 15,000 indemnity price, with
+
+178
+
+M.L. Vandeveer/ Agricultural Economics 26 (2001) 173-184
+
+propmtionately higher amounts added for the other
+indemnity prices. Then an additional 30% load was
+added to all of these premiums.
+Two schedules were thus obtained for both the district and commune insurance. Premiums for the district
+insurance were slightly higher than those for the commune insurance. In both cases, the premiums for the
+85% yield guarantee were about two-thirds the amount
+of those for the 90% yield guarantee. In all cases, the
+premiums were relatively small in comparison to the
+expected revenue; the highest premium for the district
+insurance was 33,200 dong/sao, only 1.09% of the expected revenue of 3.055 million dong/sao mentioned
+earlier. Even if farmers' yields were much lower, the
+premium would still be in the range of 2-3% of expected revenue per sao.
+The insurance was presented as a voluntary program. No mention was made to farmers as to whether
+it was offered from a private company or through a
+government agency.
+
+4. Farmer response to area crop insurance
+In September 1998, staff members of the Faculty of Economics and Rural Development at Hanoi
+Agricultural University #1 interviewed the same 100
+households regarding their interest in both the district insurance and the commune insurance. After
+explaining how area insurance would work, the staff
+offered the various insurance contracts to the farmers.
+
+Specifically, farmers were asked whether they would
+purchase a particular level of coverage or not. With
+two yield guarantee levels and three indemnity prices,
+this meant six possible coverage combinations for
+each type. For each of these combinations, farmers
+were first asked if they would purchase the coverage
+at the higher premium level (pure premium + fixed
+load + 30% load), and if they declined, then they
+were offered the coverage at the lower premium (pure
+premium + fixed load). Each household was given a
+gift of 20,000 dong for participating in the survey.
+Tables 3 and 4 show the number of farmers buying each of the contracts for the district insurance
+and the commune insurance, respectively. Several
+patterns are apparent in these results. First, farmers
+showed greater interest for the district insurance than
+for the commune insurance. This is surprising at first
+glance, since the commune insurance was cheaper and
+farmers' yields would probably follow the commune
+yield more closely than the district yield. However,
+the interviewers reported that many farmers believed
+the expected commune yield used to establish the coverage levels was too low, meaning that they thought
+it was very unlikely that the commune yield would
+ever drop below the yield guarantee levels.
+This is interesting, considering that the 1991-1998
+average for the commune was 2.29 t/ha, while the
+expected commune yield for the insurance program
+was set at 2.4 t/ha. Considering that farmers in the
+sample reported much higher yields than the district
+or commune, the question arises whether farmers
+
+Table 3
+Number of farmers buying hypothetical district insurance coverage
+Number of farmers buying contract
+
+Insurance contract description
+Yield guarantee (%)
+
+Indemnity price, dong/kg
+
+Premium level
+
+90
+90
+90
+90
+90
+90
+
+15,000
+15,000
+25,000
+25,000
+35,000
+35,000
+
+High
+Low
+High
+Low
+High
+Low
+
+55
+62
+33
+33
+14
+16
+
+85
+85
+85
+85
+85
+85
+
+15,000
+15,000
+25,000
+25,000
+35,000
+35,000
+
+High
+Low
+High
+Low
+High
+Low
+
+16
+18
+18
+21
+9
+II
+
+M.L. Vandeveer I Agricultural Economics 26 (200 1) 173-184
+
+179
+
+Table 4
+Number of farmers buying hypothetical commune insurance coverage
+Number of farmers buying contract
+
+Insurance contract description
+Yield guarantee (%)
+
+Indemnity price, dong/kg
+
+Premium level
+
+90
+90
+90
+90
+90
+90
+
+15,000
+15,000
+25,000
+25,000
+35,000
+35,000
+
+High
+Low
+High
+Low
+High
+Low
+
+41
+44
+19
+21
+21
+21
+
+85
+85
+85
+85
+85
+85
+
+15,000
+15,000
+25,000
+25,000
+35,000
+35,000
+
+High
+Low
+High
+Low
+High
+Low
+
+14
+15
+17
+17
+12
+12
+
+calculated their yields on the same basis as official
+statistics (e.g. yield from all trees, only mature trees,
+only fruit-bearing trees, etc.) and how the official
+statistics themselves were developed. Some clarifications on these issues may have helped farmers better
+understand the relationship between their own farm
+yields and area yields and coverage levels.
+A second pattern in farmer responses is that farmers preferred the 90% yield guarantee level over
+the 85% yield guarantee level. This might be related to the issue just mentioned: farmers perceived
+the probability of area yield falling below 90%
+of average to be rather low, but the probability of
+falling below 85% would be even lower. This pattern
+was true for both district insurance and commune
+insurance.
+A third result was that the farmers usually preferred
+lower indemnity prices. Several explanations of this
+result are possible. One might be that coverage with
+a higher indemnity price also has a higher premium.
+Another reason might be that farmers did not recognize that a higher indemnity price would provide a
+higher indemnity in cases when their own yield loss
+exceeded the area yield loss. It is also possible they
+believed their own yield losses might follow the area
+yields very closely, and that a higher indemnity price
+was unnecessary. No additional questions measured
+farmers' beliefs on any of these issues.
+A fourth result is that farmers were not very responsive to reductions in premiums. In most cases,
+
+reducing the premiums 30% encouraged only a few
+more farmers to buy the insurance.
+Participation was over 50% for only one of the district contracts, and was less than 50% for all of the
+commune contracts. However, participation rates are
+higher when considering how many farmers would
+buy at least one contract. Table 5 shows the number
+of contracts bought by each farmer - that is, how
+
+Table 5
+Number of insurance contracts bought per farmer
+Number of farmers
+
+High premium level
+Bought 0 contracts
+Bought 1 contract
+Bought 2 contracts
+Bought 3 contracts
+Bought 4 contracts
+Bought 5 contracts
+Bought 6 contracts
+Low premium level
+Bought 0 contracts
+Bought 1 contract
+Bought 2 contracts
+Bought 3 contracts
+Bought 4 contracts
+Bought 5 contracts
+Bought 6 contracts
+
+District
+insurance
+
+Commune
+insurance
+
+16
+49
+22
+5
+5
+
+30
+38
+24
+0
+5
+0
+3
+
+I
+
+2
+
+11
+45
+30
+5
+6
+2
+
+25
+42
+25
+0
+5
+0
+3
+
+180
+
+M.L. Vandeveer/ Agricultural Economics 26 (2001) 173-184
+
+many did not buy any insurance, how many bought at
+least one contract, two contracts, and so on. For district insurance, the largest category is the category for
+farmers buying only one contract, with more than 40
+farmers responding this way. However, only 16 farmers did not buy any contracts at the high premium
+level, and only 11 did not buy any at the low premium
+level. So while farmers rejected most of the contracts,
+a sizeable majority still said they would buy at least
+one contract. For commune insurance, the pattern is
+similar, although the number of farmers who did not
+buy any insurance was higher.
+
+5. An econometric model of insurance demand
+What were the effects of insurance contract features and farmer characteristics on the decisions to buy
+insurance? To examine this question, binomial logit
+models were estimated for district and commune insurance decisions. There were 1200 observations for
+each data set, representing the various combinations of
+two yield guarantee levels, three indemnity prices, and
+two premium levels. The following section describes
+the model variables and regression results.
+Three insurance contract features were used as explanatory variables: the premium, the yield guarantee level, and the indemnity price. One would expect
+higher premiums to reduce demand for insurance. A
+higher yield guarantee level represents a higher level
+of protection, so the coefficient for this variable should
+be positive. A higher indemnity price means a higher
+indemnity payment whenever a loss occurs, so a higher
+indemnity price should increase the demand for insurance (assuming no change in the premium).
+Several farm and farmer characteristics were also
+used in the model. The first two variables were personal characteristics, years in farming and education.
+Two types of income variables were also included. The
+first was the ratio of minimum farm income to average farm income. This variable measures the risk of
+having relatively low income: when this ratio is low, a
+farmer has more income variability and might be more
+likely to buy insurance. The second income variable
+is average total income, which includes both farm and
+non-farm income. This measures the farmer's absolute income level, and it should also reflect the wealth
+of the household, and probably farm size, too.
+
+Two other variables were used to reflect farmers'
+attitudes about risk and their responses to risk. The
+first of these is the number of risks affecting litchi
+yield that farmers mentioned on the first survey. These
+included disease, weather, using outdated technology,
+and bird damage, meaning the variable could range
+from 0 to 4. Similarly, on the first survey farmers were
+also asked about different management practices they
+used to reduce risk for litchi. They mentioned three
+kinds of responses: using improved cultivation methods, using chemicals against pests and disease, and
+using other technological innovations. Thus, this variable could range in value from 0 to 3.
+The final two variables were the number of trees
+that died in 1997 and 1998, and the standard deviation
+of litchi yield. Both variables were used to represent
+litchi yield risk, and both variables should be positively correlated with higher demand for insurance.
+The standard deviation oflitchi yield was derived from
+the probability distributions elicited in the first survey.
+Table 6 summarizes the description of these variables
+and shows the abbreviated variable names used in later
+tables.
+The regressions were performed on both the district
+insurance decisions and the commune insurance data
+using the model described above. However, in both
+cases there was an unexpected result: the coefficient
+for the premium was positive, suggesting that farmers
+will buy more insurance when the price is higher. A
+problem of multicollinearity was suspected due to the
+correlation between a higher premium, a higher yield
+guarantee, and a higher indemnity price. In response
+to this problem, the yield guarantee was instead represented with a dummy variable defined to be 1 when
+the yield guarantee was 90% and 0 when it was 85%.
+Regressions for this revised model were performed for
+both types of insurance, and the results seemed more
+satisfactory.
+Table 7 shows the results for the district insurance
+decisions. For the insurance contract variables, the coefficients for both the premium and the yield guarantee have the expected signs and t-statistics significant
+at the 95% confidence level. The coefficient for the indemnity price is negative, perhaps contrary to intuition
+but consistent with the patterns observed in Tables 3
+and 4. It is significant at the 90% confidence level.
+Among the seven explanatory variables for farm
+and farmer characteristics, only three have coefficients
+
+181
+
+M.L. Vandeveer! Agricultural Economics 26 (2001) 173-184
+
+Table 6
+Names and descriptions for explanatory variables in the logit models
+Variable name
+
+Description
+
+PREMIUM
+YGDUMMY
+INDPRICE
+EDUCATN
+YRSFARM
+MINAVGIN
+AVGTINCM
+SUMRISK
+SUMMANAG
+DEADTREE
+STDEVYLI
+
+Insurance premium per sao, in 1000 dong
+Dummy variable for yield guarantee; 1 = 90%, 0 = 85%
+Indemnity price for litchi, in 1000 dong
+Number of years of education for farmer
+Number of years in farming profession
+Ratio of minimum farm income to average farm income
+Average total income, in million dong
+Number of risks mentioned for litchi production
+Number of risk management responses mentioned for litchi production
+Number of litchi trees that died in 1997 and 1998
+Standard deviation of litchi yield, based on elicited yield probabilities
+
+which are significantly different from 0 at the 90%
+confidence level. The first is education, which has a
+negative sign. Thus, other things held constant, farmers with more education were less likely to buy insurance. The second significant coefficient was that
+for average total income. This suggests that wealthier
+farmers (who probably also have larger farms), were
+more likely to buy insurance. The third significant coefficient was that for the number of risks mentioned
+for litchi production. Its sign was negative, which surprisingly suggests that farmers who mentioned more
+types of risk for litchi production were less likely to
+buy insurance.
+
+Regarding model summary statistics, the likelihood
+ratio statistic for the model as a whole was significant
+at the 99.9% confidence level. A total of 924 insurance decisions were predicted correctly, which is 77%
+of the 1200 observations. Most incorrect predictions
+occurred when the farmers did buy insurance but the
+model predicted they would not.
+Table 8 shows the results of the regression for the
+commune insurance decisions. Here, the contract variables have the same signs as in the district results,
+though the coefficient for the premium is not statistically significant. There were somewhat different results for the farm and farmer characteristics, however.
+
+Table 7
+Logit model results for district insurance decisions
+
+Table 8
+Logit model results for commune insurance decisions
+
+Variable
+name
+
+Model
+coefficient
+
+Standard
+error
+
+t-statistica
+
+Variable
+name
+
+Model
+coefficient
+
+Standard
+error
+
+t-statistic•
+
+PREMIUM
+YGDUMMY
+INDPRICE
+EDUCATN
+YRSFARM
+MINAVGIN
+AVGTINCM
+SUMRISK
+SUMMANAG
+DEADTREE
+STDEVYLI
+
+-0.06663
+1.686
+-0.03787
+-0.07784
+-0.004272
+0.5273
+0.02519
+-0.1774
+0.03234
+0.01731
+-0.0001817
+
+0.02752
+0.2523
+0.02065
+0.03854
+0.006967
+0.5088
+0.004474
+0.09921
+0.1113
+0.01914
+0.0002038
+
+-2.421**
+6.685***
+-1.834
+-2.020*
+-0.613
+1.036
+5.631***
+-1.788
+0.291
+0.904
+-0.892
+
+PREMIUM
+YGDUMMY
+INDPRICE
+EDUCATN
+YRSFARM
+MINAVGIN
+AVGTINCM
+SUMRISK
+SUMMANAG
+DEADTREE
+STDEVYLI
+
+-0.02877
+0.09178
+-0.03789
+-0.0003338
+-0.01484
+-0.8011
+0.02174
+0.01244
+-0.1274
+0.04346
+-0.0000804
+
+0.04025
+0.2275
+0.02158
+0.03840
+0.007382
+0.5246
+0.004214
+0.09927
+0.1139
+0.01865
+0.0002080
+
+-0.715
+4.034***
+-1.756*
+-0.009
+-2.011*
+-1.527
+5.272***
+0.125
+-1.118
+2.331 **
+-0.387
+
+a Summary results for model: likelihood ratio test statistic (degrees of freedom = 10) = 193.65 (P < 0.001).
+* p < 0.05.
+** p < 0.01.
+*** p < 0.001.
+
+a Summary results for model: likelihood ratio test statistic (degrees of freedom = 10) = 90.168 (P < 0.001).
+* p < 0.05.
+** p < 0.01.
+*** p < 0.001.
+
+182
+
+M.L. Vandeveer/ Agricultural Economics 26 (2001) 173-184
+
+The coefficients significant at a 90% confidence level
+were those for the number of years farming, average
+total income, and the number of dead trees. Younger
+farmers, or those with less experience, were less likely
+to buy commune insurance. Farmers with higher incomes were more likely to buy commune insurance,
+similar to the case for district insurance. And farmers
+with more dead trees in 1997-1998 were also more
+likely to buy insurance. The ratio of minimum to average income had the expected sign here (farmers with
+relatively lower minimum incomes were more likely
+to buy insurance) and was significant at an 85% confidence level.
+The summary statistics for the model are similar to
+those for the district case. The likelihood ratio statistic
+was highly significant and almost 79% of the insurance decisions were predicted correctly. Again, most
+incorrect predictions occurred when the farmers did
+buy insurance but the model predicted they would not.
+Looking at the two sets of results, the coefficients
+for the insurance contract variables came out mostly
+as expected. However, the results related to farm and
+farmer characteristics were rather disappointing. The
+only clear result seems to be that farmers with higher
+incomes, who are probably larger, wealthier farmers,
+are more likely to buy insurance. Beyond that, it is
+more difficult to predict who might buy insurance.
+The regression coefficients can be converted to a
+more usable form by calculating values for aggregate
+choice probability elasticities. These are presented for
+both district and commune models in Table 9. These
+
+Table 9
+Aggregate choice probability elasticities for district and commune
+insurance
+Variable name
+
+Elasticity for
+district model
+
+Elasticity for
+commune model
+
+PREMIUM
+YGDUMMY
+INDPRICE
+EDUCATN
+YRSFARM
+MINAVGIN
+AVGTINCM
+SUMRISK
+SUMMANAG
+DEADTREE
+STDEVYLI
+
+-0.6833
+0.6587
+-0.5485
+-0.3676
+-0.0644
+0.2612
+0.4271
+-0.1942
+0.0399
+0.0414
+-0.1665
+
+-0.2179
+0.3326
+-0.5772
+-0.0016
+-0.2240
+-0.0399
+0.3702
+0.0137
+-0.1588
+0.1045
+-0.0740
+
+elasticities show the change in the percentage of farmers who would buy insurance when one of the explanatory variables is changed by a small amount. The most
+important elasticity is that for the premium, which
+can be interpreted similarly to a price elasticity. For
+both district and commune insurance, the responses
+to changes in premiums were inelastic; for the district insurance, a 10% reduction in the premium would
+increase participation only 6.8%. For the commune
+insurance, a 10% premium reduction would increase
+participation about 2.2%.
+
+6. Some conclusions
+This study evaluated the need for a crop insurance
+program for litchi production in northern Vietnam and
+how farmers there might participate in such a program.
+Two hypothetical insurance plans were developed and
+presented to them.
+Results indicate there is not a strong case for establishing such a crop insurance program. While
+insurance would reduce the variability of farm income, it is not needed to promote adoption of litchi,
+a very profitable crop, nor is farm income so variable
+that farmers' subsistence needs are threatened without insurance. Litchi producers already have incomes
+substantially above average for farmers in northern
+Vietnam, so using insurance to provide a subsidy for
+poverty alleviation would seem to have little merit,
+too.
+Regarding insurance design, all-risk insurance
+based on area yields was considered the most appropriate form of coverage. The biggest challenge in
+designing the coverage turned out to be establishing
+an expected area yield on which to base the yield
+guarantees. Vmiation in tree productivity by age and
+a rapidly expanding planted area have the potential
+to substantially change the area's average yield, quite
+apart from the effects of weather and other risks.
+In spite of these difficulties, a majority of farmers
+were willing to buy some kind of crop insurance if it
+were available. Farmers clearly preferred higher yield
+guarantees and lower indemnity prices. Even after
+some significant loading, the premiums, which were
+based on each area's yield history, were relatively low
+compared to the typical amount of revenue that litchi
+production can generate. Farmer response to premium
+
+M.L. Vandeveer/ Agricultural Economics 26 (2001) 173-184
+
+changes was inelastic. Other factors, such as farmers'
+perceptions about yield coverage levels, were probably more important in their buying decisions. Farmers
+with higher incomes were more likely to buy insurance, but the correlation between insurance demand
+and other farmer characteristics was less clear.
+It should be emphasized that this research did not
+analyze some important aspects of insurance program
+feasibility. For example, marketing methods, program
+staffing needs, operating costs, and the amount of
+reserves required for catastrophic losses would also
+need to be evaluated. Administrative costs of crop insurance programs in developing countries appear to
+vary widely. For example, Mishra's (1996) study of
+India's area-based scheme found that administrative
+costs accounted for less than 4% of total program
+costs (p. 266); in contrast, the Philippines' crop insurance program had a loss ratio of 0.41 in 1996 but
+still required subsidy to cover its administrative costs
+(Philippine Crop Insurance Corporation, 1997).
+The other major potential cost of the program,
+of course, relates to the actuarial soundness of the
+insurance. Setting accurate area yield coverage levels would be crucial to actuarial performance, as
+artificially high values could lead to unwarranted indemnity payments. The premiums used in the study
+carried significant loads and would reflect some margin for error; the most popular coverage level chosen
+by farmers had what amounted to a 46% load on
+top of the pure premium, while other coverage levels
+carried even higher loads. Even so, probably only
+several years of experience could reveal whether the
+rates were in fact adequate.
+Further analysis of these issues was not undertaken
+because the other arguments for establishing an insurance program were not particularly strong. Farm
+households observed in this survey can continue to
+cope with risk through current practices, such as
+household savings, a bit of enterprise diversification,
+good production practices, borrowing from relatives,
+and so on. And Vietnamese government investment in
+agricultural programs would probably be best directed
+elsewhere.
+In conclusion, a few generalizations about insurance in a developing country context are also ventured.
+First, area-based insurance offers some important advantages but also has some potential drawbacks. It is
+hard to overestimate the importance of establishing
+
+183
+
+appropriate values for the expected area yields and the
+related insurance coverage levels, both for achieving
+significant farmer participation and for avoiding actuarial problems. Related to this, it seems worthwhile
+to assess farmers' perceptions regarding area average
+yield and area yield variability, as well as farmers'
+perceptions of the correlation between their own
+yields and area yields. Some educational effort might
+be needed to correct any misconceptions. Some additional farmer education might also be needed to ensure
+they understand when to use a higher indemnity price.
+From a broader policy standpoint, the costs and benefits of establishing a crop insurance program must
+naturally be compared with those of other agricultural
+programs. Because government spending on agriculture so often faces serious limits in developing countries, investing in a crop insurance program might be
+worthwhile only in more urgent cases, after careful
+investigation indicates its value.
+
+Acknowledgements
+
+This research was undertaken while the author was
+on staff with Resource Exchange International and a
+visiting teacher at Hanoi Agricultural University #1,
+where he worked with the Faculty of Economics and
+Rural Development. The author expresses his appreciation to HAU faculty members for their work in conducting the farmer surveys and commenting on the
+results. Thanks, too, for helpful comments offered at
+a seminar with the Department of Agricultural Economics at Purdue University. The author is alone responsible for the opinions expressed in this article and
+for any errors that might be contained therein.
+
+References
+Barnaby, G.A., Skees, J., 1990. Public policy for catastrophic yield
+risk: an alternative crop insurance program. Choices second
+quarter 5, 7-9.
+Food and Agriculture Organization, 1991. FAO Crop Insurance
+Compendium 1991. Rome.
+Hardaker, J.B., Huirne, R.B.M., Anderson, J.R., 1997. Coping with
+Risk in Agriculture. CAB International, New York.
+Hazell, P., Pomerada, C., Valdes, A, 1986. Crop Insurance
+for Agricultural Development: Issues and Experience. 1ohns
+Hopkins University Press, Baltimore.
+
+184
+
+M.L. Vandeveer/ Agricultural Economics 26 (2001) 173-184
+
+Hueth, D., Furtan, W., 1994. Economics of Agricultural Crop
+Insurance: Theory and Evidence. Kluwer Academic Publishers,
+Boston.
+Mahul, 0., 1999. Optimum area yield crop insurance. Am. J. Agri.
+Econ. 81, 75-82.
+Miranda, M.J., 1991. Area-yield crop insurance reconsidered. Am.
+J. Agri. Econ. 79, 233-242.
+
+Mishra, P., 1996. Agricultural Risk, Insurance and Income:
+A Study of the Impact and Design of India's Comprehensive Crop Insurance Scheme. Avebury Publishing, Aldershot,
+UK.
+Philippine Crop Insurance Corporation, 1997. Annual Report 1996.
+The Philippine Crop Insurance Corporation, Manila.
+
+

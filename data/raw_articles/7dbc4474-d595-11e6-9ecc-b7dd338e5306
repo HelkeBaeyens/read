@@ -1,0 +1,1190 @@
+AGRICULTURAL
+
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 17 (1997) 45-58
+
+Developments in biophysical and bioeconomic simulation of
+agricultural systems: a review 1
+Caleb A. Oriade * , Carl R. Dillon
+Department of Agricultural Economics and Rural Sociology, University of Arkansas, Fayetteville, AR 72701, USA
+Accepted 5 May 1997
+
+Abstract
+This paper reviews the features and uses of some recent biophysical and bioeconomic simulation models in agricultural economics
+research. Problems associated with earlier models are discussed and the extent to which recent simulators have addressed these concerns is
+appraised. Some salient factors that will enhance the continued relevance of simulators as research and decision support tools are indicated.
+© 1997 Elsevier Science B.V.
+
+1. Introduction
+Perhaps more than any other research methodology employed in agricultural economics, the growing
+popularity of systems approach and simulation techniques is rather exceptional judging from the reported number of applications in recent decades. The
+use of this technique in agricultural research, which
+was described as relatively novel in 1971 (Dent and
+Anderson, 1971), had become so widespread a few
+years later to the extent that two surveys of over 300
+literature each did not exhaust available publications
+in the field (Anderson, 1974; Johnson and Rausser,
+1977). Ever since, no serious attempt has been made
+to undertake such a comprehensive review as it is
+doubtful if the value of such an exercise would
+justify the amount of resources required. Instead, the
+recent trend is to narrow the focus of such studies to
+
+Corresponding author.
+This project was funded by Arkansas Agricultural Experiment
+Station project no. 1464.
+*
+
+1
+
+some specific simulation systems andjor agricultural
+practices (Musser and Tew, 1984; Braat and Van
+Lierop, 1987; Dillon et al., 1991).
+In almost all the surveys of simulation use in
+agriculture, certain conclusions are strikingly similar
+regardless of the scope of such studies. The surveys
+have attributed the attractiveness of simulation to the
+dearth of feasible alternative methodologies for tackling the inherent dynamic and/ or stochastic nature
+of agricultural problems. Also, the appeal of simulation has been enhanced by increasing computer capability at a relatively cheaper cost. However, certain
+concerns have been raised pertaining to the wisdom
+of employing simulation tools in every study. The
+objective of this exercise is to review some of the
+recent simulators 2 and their applications to physical
+
+2 In this study, simulators refer to models that are developed for
+simulation purposes (Musser and Tew, 1984; Dillon eta!., 1991).
+This definition contrasts with Anderson (1974) where simulators
+refer to the modelers (persons) and simulands are used for the
+models.
+
+0169-5150/97 j$17.00 © 1997 Elsevier Science B.V. All rights reserved.
+Pll SO 169-5150(97)000 12-1
+
+46
+
+C.A. Oriade, C.R. Dillon/ Agricultural Economics 17 (1997) 45-58
+
+and/or biological issues in agriculture. Such information will help identify the potential strengths of
+simulation that the modelers can build upon, as well
+as the possible pitfalls to avoid. Now that simulation
+is increasingly being used for decision support, information from such a periodic evaluation could prevent costly mistakes from being made or repeated.
+In the sections that follow, some conceptual issues in simulation are first discussed. Next, factors
+that could enhance or limit the appeal of simulation
+are highlighted. Third, the distinguishing features of
+the class of simulators commonly used in agricultural production research are presented. Fourth, a
+number of common simulators and their applications
+are surveyed. Finally, an appraisal of these simulators and their applications is undertaken while some
+of the factors that could enhance the continued relevance of this methodology are indicated.
+
+2. Certain concepts in simulation
+For the sake of exposition, a brief overview of
+certain issues in simulation is presented as a thorough discourse of these concepts has been undertaken elsewhere (Dent and Anderson, 1971; Anderson, 1974; Johnson and Rausser, 1977). Simulation
+is a numerical manipulation of a symbolic model of
+a system with a view to generating experimental
+information about the systems or the model of systems (Anderson, 1974; Johnson and Rausser, 1977;
+Czaki, 1984). Five phases in simulation are generally
+recognized. These are: the model specification, parameter estimation, verification (which may also include calibration), validation and revision stages
+(Anderson, 1974; Johnson and Rausser, 1977; Musser
+and Tew, 1984). The tasks to be accomplished in
+these phases are somehow self-explanatory except
+for the verification and validation functions which
+are often misconstrued. As will be seen in the next
+section, these two steps are arguably the mostly
+criticized components of simulation which deserve
+further elucidation.
+Verification is the process of establishing the truth
+or correctness of model's reality (Dent and Anderson, 1971). It is the process by which the investigator determines whether or not the model performs in
+accordance with the intended purpose (Johnson and
+
+Rausser, 1977). Verification may be undertaken at
+the level of programming the model (Dillon et al.,
+1991) and/or debugging the program (Anderson,
+1974; Law and Kelton, 1991). On the other hand,
+validation is the process of ascertaining the closeness
+of the model to reality which is reflected in the
+model's ability to duplicate the required characteristics of the systems and fulfilling the modelling
+objectives (Dent and Anderson, 1971; Wright, 1971;
+Johnson and Rausser, 1977). Simply put, the objective of validation is to ascertain the usefulness, rather
+than the truthfulness, of the model (Dillon et al.,
+1991).
+Implicit in the above concepts of verification and
+validation is the fact that both duties need not be
+performed by the same set of investigators. Often,
+simulators are usually not developed oy the end-users.
+Therefore, while the function of model verification
+may rest with the developers, the users are certainly
+responsible for validating the models to establish the
+relevance of such simulators to the specific problems
+under investigation.
+Naylor and Finger (1971) proffer three methodological concepts of validation in economics which
+can be extended to validation in computer simulation. Law and Kelton ( 1991) expatiate on these
+concepts by providing specific recommendations on
+how these concepts can be implemented. The first
+concept, rationalism, holds that economic models are
+simply a system of logical deductions from synthetic
+premises of unquestionable truth that are not themselves open to empirical validation (Naylor and Finger, 1971). Thus the role of validation is to identify a
+set of basic assumptions governing the behavior of
+the system being modeled. For this concept, the
+operational framework proposed by Law and Kelton
+(1991) is that the model should possess high face
+validity that seems reasonable to people who are
+knowledgeable about the system being modeled.
+These underlying assumptions may be identified by
+using any combination of these methods: conversations with system experts, observation of the system,
+studying the results from earlier attempts, checking
+the existing theories, the use of experience and intuition.
+The second concept, empiricism is in complete
+opposition to rationalism as it refuses any assumptions that cannot be independently verified. To im-
+
+C.A. Oriade, C.R. Dillon/ Agricultural Economics 17 (1997) 45-58
+
+plement this concept, Law and Kelton (1991) recommend the testing of model's assumptions empirically
+by using either the goodness of fit statistics, sensitivity analyses or other testing parameters. Finally, the
+last concept, positive economics holds that a satisfactory validation is the one that demonstrates an efficient ability of the model to predict the dependent
+variables that are treated by the model regardless of
+whether the underlying assumptions are valid or not.
+Naylor and Finger (1971) further argue that a
+satisfactory validation is one that incorporates basic
+elements of the three concepts in a multistage validation (MV) fashion. In MV, each of the three conceptual positions is regarded as a necessary but not
+sufficient procedure for validating simulation experiments (Naylor and Finger, 1971; Ray and Richardson, 1978). The first stage in MV calls for the
+formulation of a set of hypotheses or postulates
+underlying the model. The second stage attempts to
+validate the postulates subject to the limitations imposed by existing statistical tools. The third and final
+stage in MV tests the model's ability to predict the
+behavior of the system under investigation. For this
+definitive test, when real systems exist, validation
+may be a relatively easy task of comparing the
+simulated data to real, out of sample data (King et
+al., 1993). If the population distribution of the real
+systems is known, the generated data can be tested
+statistically to see whether they could come from
+such a distribution (Anderson, 1974). However, if
+information on the real systems is not available,
+which is the common reason for most ex ante simulation analyses, validation becomes subjective and
+the expert opinion plays a key role in determining
+the credibility of the model (Law and Kelton, 1991).
+In all cases, an acid test of satisfactory validation is
+the ability to show that the simulation model leads to
+a better decision which cannot be readily obtained
+with alternative techniques (Wright, 1971).
+
+3. Strengths and weaknesses of simulation
+Numerous factors have contributed to the
+widespread use of simulation in agricultural economics research. First, by training, economists are
+generally not equipped to undertake physical experimentation that would produce needed information
+
+47
+
+for economic studies. Therefore, when satisfactory
+experimental data can not be sourced from physical
+scientists, simulation becomes inevitable because of
+the relative ease of generating the input-output data
+that are needed. Also, simulation provides a means
+for incorporating certain stochastic variables (e.g.,
+states of nature) that are not easily observable but
+can facilitate a better understanding of the system
+being modeled. Simulation becomes a more powerful
+tool when the generated data lead to sound management decisions that cannot be outclassed by using
+alternative techniques. Simulation can substitute for
+large scale physical experimentation while ex ante
+simulation can aid the understanding of a system that
+does not exist or that is currently impracticable to
+experiment (Anderson, 1974; Johnson and Rausser,
+1977).
+Another factor that is responsible for the explosive use of simulation is the increasing computer
+power and affordability (Dillon et al., 1991; King et
+al., 1993). One of the early concerns of simulation is
+its high cost. For this reason, Dillon (1971) notes
+that simulation, once started, will continue until
+available funds are exhausted. The observation of
+Anderson (1974) that a study through simulation
+always absorbs more resources than anticipated a
+priori duly complements this position. Therefore, It
+is not surprising to see an increased use of simulation as technological advances lower computation
+costs and make it very competitive when compared
+to physical experimentation or other methods.
+The bulk of systems simulation has been used to
+address complex stochastic and/ or dynamic problems in agriculture. Application to irrigation projects
+represents a substantial component of simulation
+(Anderson, 1974; Johnson and Rausser, 1977; King
+et al., 1993). In general, simulation has been used
+primarily as a research tool with little consideration
+for its credibility where credible models are simulators that have been widely accepted to the extent of
+being used as an aid in making decisions (Law and
+Kelton, 1991). However, the increasing demand for
+such credible models is now stimulating interest in
+the development of specialized simulators that meet
+these needs (King et al., 1993).
+The criticisms of simulation are also worthy of
+consideration. Virtually all empirical applications
+have not placed much premium on the importance of
+
+48
+
+C.A. Oriade, C.R. Dillon/ Agricultural Economics 17 (1997) 45-58
+
+model validation (Johnson and Rausser, 1977; King
+et al., 1993). Since a majority of these simulators are
+usually developed by parties that are external to their
+subsequent usage, validation is a prerequisite for
+discerning whether the predetermined model assumptions and the resultant model prescriptions are transportable and applicable to the new environment or
+problem under investigation. Also, some users may
+need to strengthen their justification for employing
+simulation tools as it is possible that feasible, costeffective alternative techniques that can yield superior results are available.
+While the modelling objectives of economists often involve some optimization, potential developers
+and users sometimes fail to recognize that simulation
+is not necessarily an optimal procedure and its application to a problem does not automatically lead to an
+optimal solution. While the search for an efficient
+way of using simulation as a means of optimization
+is an area deserving attention, few approaches have
+been suggested to deal with optimization of systems
+through simulation modelling (Anderson, 1974;
+Czaki, 1984; Azadivar and Lee, 1988). According to
+Azadivar and Lee (1988), these are: the Response
+Surface Methodology (RSM), direct search, and
+Stochastic Approximation Method (SAM). RSM entails the estimation of the regression parameters of
+linear or quadratic form of simulation outcomes (Box
+and Wilson, 1951; Smith, 1976). If the number of
+feasible simulation outcomes is limited, direct search
+for optimal results may be possible either with repeated iterations (Anderson, 1974; Czaki, 1984) or
+by careful enumeration and evaluation of all possible
+outcomes (King et al., 1993; Swinton and King,
+1994). However, since a sizeable number of simulation models are often stochastic and more complicated in nature, the third category, SAM, which is a
+group of statistically convergent search methods,
+may be more appropriate (Kushner and Clark, 1978).
+A heuristic procedure developed by Azadivar and
+Lee (1988) for optimizing complex stochastic systems modeled by simulation is a good example of
+the SAM method. However, users need to balance
+the gains of optimization with the extra costs of
+pursuing any of these optimization procedures.
+Other criticisms of simulation include: the need to
+validate the simulator in every application which
+makes its use time-consuming and expensive
+
+(Ramos, 1987), the divergence between model results and real world situations (Anderson, 1974), the
+fact that many simulation decisions and inputs are
+predetermined and uncontrollable thus necessitating
+an interdisciplinary cooperation for the simulators to
+be adaptable for other research (Musser and Tew,
+1984).
+
+4. Biophysical and bioeconomic simulation
+
+Surveys of simulators and their applications have
+usually been conducted by subject area (Dent and
+Anderson, 1971; Johnson and Rausser, 1977; Czaki,
+1984; Musser and Tew, 1984). Although there is no
+consensus as to the appropriate jargon for this classification, the categories provided by Johnson and
+Rausser (1977) will suffice. Their five broad classes
+are the firm and process, the market, the aggregate,
+the development and the natural resource models.
+In agricultural production, a sub-set of firm and
+process models, otherwise known as biophysical
+simulators, are very common (Boggess, 1984; Musser
+and Tew, 1984). Biophysical simulators (BPS) are
+process models that explicitly account for the biological andjor physical components of agricultural production (Musser and Tew, 1984). These simulators
+provide the means of generating production response
+surfaces required for empirical production research
+(Boggess, 1984).
+Often, BPS and bioeconomic simulators or models have been used interchangeably. A bioeconomic
+model is a mathematical representation of a biological system which describes biological processes and
+predicts the effects of management decisions on
+those processes (King et al., 1993). In practical
+applications, there seems to be no clear distinction
+between BPS and bioeconomic models (BEMS). For
+instance, the literature cited in BPS and BEMS
+surveys often overlap (see, e.g., Musser and Tew,
+1984; Dillon et al., 1991; King et al., 1993). However, a few attempts have been made to distinguish
+between both classes of sii):lulators. In general, BPS,
+by themselves, do not irytlude an economic component. Musser and Tew {1984) contend that it is the
+magnitude of physical processes that differentiates
+BPS from BEMS. However, this distinction fades as
+BPS is intensively used to solve economic problems.
+
+C.A. Oriade, C.R. Dillon/ Agricultural Economics 17 (1997) 45-58
+
+A more definitive difference between BPS and BEMS
+can be gleaned from King et al. (1993). They notice
+that BEMS generally fall within the class of predictive models where biological processes are represented by a relatively small number of equations
+relating current state and control variable levels to
+future states of the system. Conversely, BPS belong
+to a class of process models where relatively detailed
+subsystems of physical and biologically processes
+are linked in an overall representation of plant (or
+animal) growth in such a way that the structure and
+parameters of component subsystems are based on
+general theoretical models of specific physical or
+biological processes. Nevertheless, it is rather difficult to distinguish between both simulators in practice and the remainder of this survey will focus on
+both sets of simulators jointly.
+
+5. Survey of BPS and BEMS simulators
+The simulators reviewed in this section are neither
+representative nor exhaustive of all relevant models.
+Rather, the choice was influenced either by their
+acceptance, as reflected in the number of applications, or by the extensive involvement of agricultural
+economists in their development. Even with these
+criteria, it is conceivable that some important simulators would have been inadvertently left out.
+SOYGRO (Wilkerson et al., 1983) and CERES
+(Ritchie and Otter, 1985) models are among the most
+famous process models that have been used in simulating whole crop-soil systems. Although SOYGRO
+was developed as a decision support tool for irrigation and pest management, it has been largely used
+for research purposes (Hoogenboom et al., 1992).
+SOYGRO simulates the yield, growth and development of soybeans (Glycine max L. Merr) as a function of soil, weather and management variables
+(Wilkerson et al., 1983). From its early version in
+the early 80's, SOYGRO has undergone substantial
+modifications such that it now ranks among the most
+flexible models whose validity of results is no longer
+location-specific or environment-dependent. Hoogenboom et al. (1992) describe the measures that were
+taken to ensure that the predictions of the model are
+reliable. During verification, the code was checked
+so as to ensure that the programming logic was
+
+49
+
+consistent and a true reflection of the system being
+modeled. This was accomplished with the aid of
+debugging tools of FORTRAN compilers and some
+static program analyzers. For calibration, data from
+experimental sites in Gainesville, Florida were compared to model predictions. SOYGRO has been extensively validated in various locations in USA and
+Europe (Hoogenboom et al., 1992; Moulin and
+Beckie, 1993; Nagarajan et al., 1993; Savin et al.,
+1994; Gabrielle et al., 1995). Unlike many simulators, transportability of SOYGRO is enhanced by the
+generic format that was adopted for data entry so
+that site-specific information can be used for model
+predictions.
+To a large extent, the above features of SOYGRO
+are shared by other -GRO models for grain legumes.
+They are PNUTGRO for peanuts (Arachis hypogea
+L.) and BEANGRO for common beans ( Phaseolus
+vulgaris L.). Also, these attributes characterize
+CERES (an acronym for crop estimation through
+resource and environment synthesis) class of models
+for cereals. The purpose of CERES models is to
+generate yield estimates by modelling factors that
+were considered to be most relevant in yield determination. These factors include plant growth and development, soil water and nutrient status (Ritchie and
+Otter, 1985). Random factors that could be controlled by management such as pest and disease
+infestations were not considered. CERES Wheat and
+CERES Maize are the common types of CERES
+models. CERES and -GRO models are among the
+models within the framework of IBSNAT-DSSAT
+(the International Benchmark Sites Network for
+Agrotechnology Transfer Project Decision Support
+Systems for Agrotechnology Transfer) whose goal
+was to standardize the structure of these models in
+order to enhance their suitability for any region
+(Hoogenboom et al., 1992). Validation results for all
+or any components of SOYGRO and CERES models
+have generally shown a satisfactory level of correspondence between observable data and simulated
+variates, although certain sub-routines often require
+some recalibration before realistic model estimates
+are obtained (Moulin and Beckie, 1993; Nagarajan et
+al., 1993; Savin et al., 1994; Gabrielle et al., 1995).
+FLIPSIM (Richardson and Nixon, 1986) is a
+FORTRAN computer simulation model that was developed for analyzing the probable consequences of
+
+50
+
+C.A. Oriade, C.R. Dillon/ Agricultural Economics 17 (1997) 45-58
+
+alternative policies and income tax developments on
+typical farms. It is a firm level, recursive, simulation
+model which generates the annual production, farm
+policy, marketing, financial management, growth,
+and income tax components of a farm over a planning horizon of up to ten years (Richardson and
+Nixon, 1986). FLIPSIM identifies the optimal path
+of crop enterprises by systematically enumerating
+and evaluating the outcomes of all feasible alternatives. Verification and validation of FLIPSIM was
+fashioned after the multistage approach suggested by
+Naylor and Finger (1971).
+HERB (Wilkerson et al., 1991), WEEDSIM
+(Swinton and King, 1994) and WEEDCAM
+(Lybecker et al., 1994) are all recent BEMS which
+are handy decision support systems for the management of agricultural pests (mainly weeds). HERB
+was first in the series of these pest management
+models to be developed. HERB is a computer-based,
+interactive, menu-driven program that can generate
+post-emergence herbicide recommendations for profitable soybean production (Wilkerson et al., 1991).
+Using the field-specific information supplied by the
+user, the model provides a number of feasible weed
+control alternatives and their associated impacts on
+weeds and returns (King et al., 1993). Data obtained
+from North Carolina experiments were used to calibrate HERB model. Information on the specific procedures employed for model verification and validation is rather scanty but satisfactory results with
+HERB applications have been reported (Wilkerson et
+al., 1991; Wiles et al., 1992). WEEDCAM is similar
+to HERB except it is a bioeconomic model for
+managing both pre- and post-emergence weeds in
+irrigated com (Zea mays L.).lt is a spreadsheet-based
+computer software which was developed and validated in Colorado. Its format assumes the knowledge
+of spreadsheet data management. This novel approach enhances the flexibility and robustness of the
+model with its liberal data entry and manipulation
+procedures.
+WEEDSIM extends the frontiers of the above
+weed management models by recognizing a more
+plausible scenario of multiple weeds and multiple
+control strategies within a dynamic setting. It is a
+computer-based, dynamic, bioeconomic weed management model for com and soybeans that identifies
+a two-year path of weed control treatments that
+
+maximize net returns per acre. The two-year horizon
+enables the model to track the carryover effects of
+current weeds and control measures in subsequent
+season. WEEDSIM, like the other two pest management models, identifies the weed control strategies
+that maximize returns by systematically enumerating
+and evaluating profits under all possible sequences
+of feasible weed control actions, rather than using
+dynamic programming or other optimization procedures. For verification, the steps described in Law
+and Kelton (1991) were followed while statistical
+tools and expert opinions were used in model validation. Evidence from on-field validation trials suggests that WEEDSIM is a promising tool for enhancing returns and/or reducing herbicide use when
+compared to farmers' conventional practices (Buhler
+et al., 1996; Porcella et al., 1996). A related model,
+GWM (Wiles et al., 1994), which has a better users'
+interface and which is considerably more flexible
+than WEEDSIM in terms of its data entry capabilities is presently being field-tested in several locations.
+GLEAMS (Groundwater Loading Effects of Agricultural Management Systems) (Leonard et al., 1987)
+is a simulation model for evaluating the effects of
+different management systems on the movement of
+agricultural chemicals. It is a suitable tool for addressing the groundwater quality concerns of chemical usage. Another related model is AGNPS (Agricultural NonPoint Source) (Young et al., 1989) which
+is an event-based water quality model for analyzing
+nonpoint-source pollution in agricultural watersheds.
+Since a major constraint to the widespread use of
+these water quality models is their time-consuming
+input data demands, geographic information systems
+(GIS) have been successfully integrated with AGNPS (Tim and Jolly, 1994). This development has
+proved to be an effective way to collect, manipulate,
+visualize and analyze the input and output data of
+AGNPS (Srinivasan and Arnold, 1994). GLEAMS
+and AGNPS have ben found to be useful tools for
+environmental planning in various locations (Bingner
+et al., 1992; Sugiharto et al., 1994; Foltz et al., 1995;
+Rode and Frede, 1997).
+EPIC (Erosion-Productivity Impact Calculator)
+(Jones et al., 1991) was developed by a multidisciplinary team of USDA researchers at the Blacklands
+Research Center in Temple, Texas. EPIC is a dy-
+
+C.A. Oriade, C.R. Dillon/ Agricultural Economics 17 (1997) 45-58
+
+namic model that can be used to estimate soil erosion and its impacts on crop production. The nine
+major components of EPIC are: weather, hydrology,
+erosion, nutrient cycling, soil temperature, tillage,
+crop growth, crop and soil management, and economics. EPIC has been extensively used and the
+model appears to give acceptable results with mini-
+
+51
+
+mal calibration (Bryant et al., 1992; Rosenberg et al.,
+1992; Foltz et al., 1995; Hughes et al., 1995).
+CEEPES (the Comprehensive Environmental Economic Policy Evaluation System) (Bouzaher et al.,
+1995) is an integrated system of simulation models
+and policy appraisal tools that facilitates a systematic
+evaluation of trade-offs from alternative agroenvi-
+
+Table I
+Some simulators and their applications
+Simulator
+
+Description
+
+Examples of Application
+
+AGNPS(Young eta!., 1989)
+
+Water quality model for analyzing nonpoint-source pollution
+in agricultural watersheds.
+
+CEEPES(Bouzaher eta!., 1995)
+
+Integrated system for evaluating trade-offs from alternative
+agroenvironmental policies
+Process models for predicting growth, development and
+yield of respective cereal grains.
+
+Kozloff et a!., 1992;Sugiharto
+et a!., 1994;Rode and Frede,
+1997.
+Bouzaher et a!., 1995.
+
+CERES models(Ritchie and Otter, 1985)
+
+CIM(Brown et a!., 1983)
+CORNF(Stapper and Arkin, 1980)
+COTTAM(Jackson et al., 1988)
+EPIC(Jones eta!., 1991)
+FLIPSIM(Richardson and Nixon, 1986)
+
+GAFS(Hutton and Hinman, 1968)
+GLEAMS(Leonard eta!., 1987)
+GOSSYM(Baker et a!., 1986)
+GRAZE(Loewer et a!., 1980)
+HERB(Wilkerson eta!., 1991)
+SORGF(Maas and Arkin, 1978)
+
+A computer-based model for managing insect pests in cotton
+A biophysical simulation model for corn
+A model for simulating the growth, development and yield
+of cotton. Similar to GOSSYM.
+Dynamic model for estimating soil erosion impacts on crop
+production
+A firm level, simulation model for generating production,
+financial and marketing data.
+A general agricultural firm simulator
+Model for evaluating effects of management systems on
+movement of agricultural chemicals
+A model for simulating the growth of cotton.
+Dynamic model for simulating beef-forage production as a
+function of both management and environmental variables.
+A bioeconomic model for post-emergence control of weeds
+in soybeans.
+A biophysical simulation model for sorghum.
+
+SOYGRO(Wilkerson et a!., 1983)
+
+A process-oriented computer-based model for predicting
+growth, development and yield of soybeans
+
+SW AT(Brown and Hollis, 1996)
+
+A semi-empirical model for predicting concentrations of
+pesticides entering surface water from agricultural land.
+A hydrology model for simulating water balance and related
+processes in rural basins
+
+SWRRB(Williams et a!., 1985)
+
+TAMW(Maas and Arkin, 1980)
+WEEDSIM(Swinton and King, 1994)
+
+A Biophysical simulation model for wheat. It is very similar
+to CERES-Wheat
+A dynamic bioeconomic model for multiple weed management in corn and soybean.
+
+Parsch et a!., 1991;Johnson et
+a!., 199l;Moulin and Beckie,
+1993.
+S zmedra et a!., 1991.
+Dillon et a!., 1989.
+Dillon eta!., 1989.
+Foltz et a!., !993;Hughes et a!.,
+1995;Sabbagh eta!., 1992.
+Duffy et a!., 1986;Bai1ey and
+Richardson, 1985;Perry et a!.,
+1986;Salassi eta!., 1987.
+Harris and Mapp, 1986.
+Foltz et a!., 1993.
+Misra and Spurlock, 1991.
+Parsch and Loewer, 1987.
+Wiles et a!., 1992.
+Harris and Mapp, 1986; Dillon
+et a!., 1989.
+Boggess and Amerling, 1983;
+Boggess et a!., 1985; Szmedra
+et a!., 1991; Parsch et a!.,
+1991; Nagarajan eta!., 1993.
+Arnold and Allen, 1996;Brown
+and Hollis, 1996.
+Arnold and Williams,
+1987;Singer eta!., 1988;Savabi
+et a!., 1988.
+Dillon eta!., 1989.
+Swinton et a!., 1995;Buhler et
+a!., 1996;Forcella et a!.,
+1996;0riade et a!., 1996.
+
+52
+
+C.A. Oriade, C.R. Dillon/ Agricultural Economics 17 (1997) 45-58
+
+ronmental policies. This is a useful policy evaluation
+model especially with the growing concern regarding
+the potential environmental and health effects of
+agricultural chemicals. The four major components
+of CEEPES are: policy, agricultural decision, fate
+and transport, and health and environmental risk.
+Other simulators that have featured in literature
+include SORGF (Maas and Arkin, 1978), CORNF
+(Stapper and Arkin, 1980), TAMW (Maas and Arkin,
+1980), COTTAM (Jackson et al., 1988), GOSSYM
+(Baker et al., 1986), CIM (Brown et al., 1983),
+GRAZE (Loewer et al., 1980), GAFS (Hutton and
+Hinman, 1968), SWRRB (Williams et al., 1985) and
+SWAT (Brown and Hollis, 1996). Features of these
+simulators are summarized in Table 1.
+6. A survey of selected applications
+As with simulators, this survey does not consider
+all empirical work involving some simulation. Instead, the few that were selected only serve to illustrate the breadth of issues for which simulation
+methods have been deemed appropriate. The categories include irrigation, crop management, pest
+management, livestock management and agriculture
+and environment.
+
+6.1. Irrigation
+BPS and BEMS have been used extensively to
+determine the optimal allocation of irrigation water
+without over-exploiting the aquifers. Mapp and Bidman (1976) employed GAFS to simulate a representative farm and estimate returns under alternative
+duration and severity of soil moisture and atmospheric stresses during the critical stages of crop
+development. Simulated farm incomes under alternative strategies facilitated the recommendation of
+strategies and policy initiatives that are optimal under various water resource situations. Bernardo et al.
+(1987) used a biophysical simulation model,
+SPAW-IRRIG, to generate yield response to irrigation schedules. The irrigation activities so generated
+were later employed in a mathematical programming
+model that identified irrigation strategies for constrained profit maximization under limited water
+supply. Bernardo (1988) employed SORGF to evaluate the effects of spatial variability of irrigation
+
+applications on the efficiency of irrigation. The
+growth and yields of sorghum were simulated under
+both the assumption of uniformity and non-uniformity in water application. This formed the basis for
+comparing benefits under spatial variability to returns from conventional practice of uniform sprinkler
+irrigation.
+On irrigation and risk, Boggess and Amerling
+(1983) employed SOYGRO to explore the implications of irrigation investments on risk and returns to
+irrigation strategy. This crop model was used to
+estimate yield response of crops to irrigation with
+seventeen years of historical weather data. Using
+cost estimates for alternative irrigation practices generated by a computer-based irrigation cost generator
+program, irrigation strategies that could maximize
+present value of returns under various weather conditions were identified. Harris and Mapp (1986) employed SORGF to simulate sorghum returns to
+stochastic soil water and other production and environmental conditions. The returns were later subjected to stochastic dominance comparisons in order
+to identify the water-conserving irrigation strategies
+for grain sorghum farmers that depend on the Ogallala aquifer in Oklahoma. Bosch and Eidman (1987)
+utilized a bioeconomic model to explore the value of
+soil and weather information for choosing optimal
+irrigation strategies when risk preferences of decision makers are not neutral. The study simulated the
+value of information for an expected utility maximizing decision maker whose representative farm comprises both irrigated and non-irrigated acreage under
+corn, soybean and rye production in Minnesota.
+Although the irrigation scheduling strategy was examined, the model proposed can be employed to
+analyze the returns to any production input under
+risk.
+
+6.2. Crop management
+With FLIPSIM, Duffy et al. (1986) evaluated the
+effects of alternative farm programs and levels of
+price variability on the survival and growth of Texas
+cotton farms. Five levels of price variability and
+three farm policy options under 1981 Farm Bill were
+simulated for two representative cotton farms. Perry
+et al. (1986) employed the model to evaluate alternative cropping patterns and share leasing arrange-
+
+C.A. Oriade, C.R. Dillon/ Agricultural Economics 17 (1997) 45-58
+
+ments that can enhance the economic viability of
+tenant rice and soybean farmers in Texas. FLIPSIM
+was used to simulate probability distributions of
+returns to a typical producer. Stochastic dominance
+techniques were later applied to these returns in
+order to identify efficient strategies and establish the
+relationship between crop rotation practices and the
+nature of share-leasing arrangements. Against the
+backdrop of declining acreage under rice production
+in the Mississippi River Delta region of the United
+States, Salassi et al. (1987) also used FLIPSIM to
+determine the economic survivability of rice farms if
+the prevailing economic conditions persist. The study
+led to the identification of enterprise mix and production practices that would sustain a higher level of
+production.
+With CERES models, Johnson et al. (1991) predicted crop yields under different input levels to
+facilitate their evaluation of on-farm effects of cropping strategies that could reduce nitrate groundwater
+pollution. These crop yields were in tum employed
+in optimization and linear programming models from
+which inferences concerning leaching-profit tradeoffs of representative farms were drawn. Parsch et al.
+(1991) developed an amalgam of CERES-wheat and
+SOYGRO models which they used to assess the
+risk-return tradeoffs of double-cropped wheatsoybean producers such that the costs of early harvest of winter wheat are compensated by improved
+returns of early soybean plantings. With other models, Misra and Spurlock (1991) utilized GOSSYM to
+generate yield information required for the identification of efficient cotton cropping systems that balance
+the dual objective of maximizing whole-farm returns
+while reducing the risk of scarce fieldwork time. In a
+study that investigated the optimal crop mixes as risk
+preferences of farmers change in the Blackland
+prairies of Texas, Dillon et al. (1989) employed four
+crop simulation models (i.e., CORNF, SORGF,
+T AMW and COTTAM) to generate the needed input-output data. The economic decision problem
+was solved by applying mean-variance programming
+to the simulated returns.
+6.3. Pest management
+Reichelderfer and Bender (1979) developed a
+simulation model that described the physical produc-
+
+53
+
+tion relationships between Mexican bean beatles,
+control inputs and soybean yields under different
+conditions. The simulation model was later used to
+investigate the relative social and economic advantages of alternative methods of controlling these
+insect pests in soybeans. Boggess et al. (1985) developed and employed a multi-species bioeconomic
+simulation model, the Florida Soybean Integrated
+Crop Management Model (SICM), that could prescribe optimal pest management strategies for soybeans within a deterministic, multiple species setting.
+SICM, which has been incorporated into SOYGRO,
+was used to simulate the population dynamics
+(fecundity, development and mortality) for common
+insect pests of soybeans and under varying weather,
+cultural and soil conditions.
+Szmedra et al. (1991) used the Cotton Insect
+Management (CIM) simulation model to study the
+impact of extending the boll weevil eradication
+(BWE) program to Mississippi River Delta region of
+the United States on producers' returns and the
+efficacy of such pest control actions. The model
+aided the determination of the effectiveness of BWE
+participation and non-participation under low and
+high levels of integrated pest management (IPM).
+Nyangito et al. (1996) employed a whole farm simulation model, the Technology Impact Evaluation System, to assess the impact of alternative disease control methods on the economic viability of dairy cattle
+production among small holder farmers in East
+Africa. Returns under various alternative immunization programs were simulated and stochastic dominance tools facilitated the identification of efficient
+strategies for resource poor, risk averse farmers in
+the study area.
+For site-specific management of weeds, Wiles et
+al. (1992) used HERB to investigate the value of
+information about weed patchiness for improving the
+recommendations of HERB that were based on nonpatchy weed distributions. In a related study, Oriade
+et al. ( 1996) employed a modified version of WEEDS1M to examine the potential economic and environmental benefits of site-specific weed management
+relative to the conventional uniform control of weeds.
+Simulations with this model were carried out within
+a dynamic but deterministic framework.
+For assessing the implications of pesticide policy
+on returns to pest control, Swinton et al. (1995) used
+
+54
+
+C.A. Oriade, C.R. Dillon/ Agricultural Economics 17 (1997) 45-58
+
+WEEDSIM to simulate the effect of local bans and
+taxes on triazine herbicide use in com (Zea mays
+L.).
+
+6.4. Livestock management
+
+Brorsen et al. (1983) developed and utilized a
+stocker cattle growth simulation model to estimate
+physical and economic results of alternative stocker
+production systems. The model was used to calculate
+energy requirements, dry matter intake, and stock
+gains and weights of alternative production systems
+in Oklahoma. Parsch and Loewer (1987) utilized a
+biophysical model, GRAZE, to determine whether
+rotational or continuous grazing results in optimal
+performance for steers pastured on Bermuda grass
+( Cynodon dactylon L. Pers.) in western Arkansas
+and when faced with weather uncertainty. The pasture growth and animal weight gain under nine rotational grazing strategies were simulated with the
+model. Strategies were compared on the basis of net
+returns while variance and other measures of dispersion were used to gauge the riskiness of each grazing
+strategy.
+6.5. Agriculture and environment
+
+Sabbagh et al. (1992) developed and used EPICPST model to simulate the effects of different agricultural management practices on crop yields and
+pesticide losses by surface runoff, sediment movement, and leaching under irrigation in the High
+Plains region of Oklahoma. Kozloff et al. (1992)
+used AGNPS in a Minnesota watershed to simulate
+the relative effectiveness of alternative cropland retirement schemes with respect to budget outlays for
+annual payments to landowners, reduction in downstream sediment yield and nutrient loss, and reduction in on-site erosion. Foltz et al. (1993) combined
+output from EPIC and GLEAMS with a farm level
+linear programming model to assess the economic
+and environmental implications of selected eastern
+Com Belt farming systems. Sugiharto et al. (1994)
+used EPIC and AGNPS to simulate the effects of
+selected management practices on associated sediment and phosphorus yields originating from agricultural land used for dairy operations. They simulated
+1990-1991 land management alternative practices
+
+on three soils in the Upper Bower Creek area of
+Wisconsin and compared the quality of effluents
+from fields and watersheds to current standard practices. Bouzaher et al. (1995) used CEEPES to assess .
+the economic and environmental implications of
+atrazine ban in the Com Belt region of United States.
+Hughes et al. (1995) employed EPIC and budgeting
+tools to evaluate both the short-run profitability and
+long-run sustainability of a number of agricultural
+practices in the Barley cropping area of Jordan.
+6.6. Miscellaneous
+
+Other applications of BPS and BEMS include the
+determination of optimal timing of harvests, evaluation of research productivity and marketing analysis.
+Kellogg et al. (1988) developed a bioeconomic model
+which they used, in conjunction with optimal control
+techniques, to determine the optimal time periods for
+opening the harvest season for Bay Scallop fishery in
+North Carolina. Bosch and Shabman (1990) developed a bioeconomic model which they later used to
+study the effects of alternative types of research
+information on the returns to oyster production. The
+model results provide an insight into the nature of
+research priorities that is appropriate for enhancing
+productivity in the oyster industry. Finally, in
+marketing, Bailey and Richardson (1985) have used
+FLIPSIM to evaluate alternative marketing strategies
+for cotton. Daily features and cash cotton prices were
+simulated by the model and the impact of alternative
+marketing strategies to the farm's survival and economic success was determined within a whole-farm
+framework.
+
+7. Critique and appraisal
+
+Although earlier surveys (Anderson, 1974; Johnson and Rausser, 1977; Musser and Tew, 1984) point
+to a preponderance of simulation applications in
+irrigation studies, simulators are now being richly
+applied to pest management, animal and crop production, risk and environmental issues. Traditionally,
+simulators have been used to resolve dynamic and/or
+stochastic problems. However, its use in static and
+deterministic cases has been increasing. Also, while
+the primary objective of simulation is to forecast
+
+C.A. Oriade, C.R. Dillon j Agricultural Economics 17 ( 1997) 45-58
+
+crop (or livestock) yields, evidence suggests that its
+potential for estimating pollutants and in generating
+certain inputs and intermediate products is being
+explored.
+Recent BPS and BEMS have improved considerably as serious attempts have been made to avoid
+pitfalls associated with earlier systems. Model
+builders have capitalized on technological advances
+in making their systems more robust, flexible and
+portable. Programming modules are increasingly
+being standardized and it is not uncommon to find
+simulation programs that, in addition to being somehow user-friendly, possess advanced graphic capabilities. In some cases, quality documentation that is
+typical of commercial software is now being provided. However, a sizeable proportion of simulators
+are still cumbersome and poorly-designed to the
+extent that their developers often insist on formal
+training of potential users before permitting the use
+of such systems.
+There is evidence of improved interdisciplinary
+collaboration between physical and social scientists
+which has resulted in the development of more robust and widely-tested simulators. However, this
+contradicts one of the reasons often adduced for
+developing new simulators which is the lack of
+certain desirable features in the earlier models. For
+instance, the motivation for developing SOYGRO,
+instead of using the then existing soybean models, is
+the need for a simpler model that has the ability to
+simulate crop growth in response to daily microclimate and stress factors (Wilkerson et al., 1983).
+Also, WEEDSIM was developed because of the
+inability of earlier pest management models to account for the more plausible dynamic nature of weed
+problems within a multiple species and multiple
+control setting (Swinton and King, 1994). Since
+these simulators were developed without any commercial intent, it is possible for more robust and
+widely applicable models to emerge from collaborative efforts that lead to the upgrade of existing
+systems instead of developing new ones. With this
+approach, desirable features that are lacking in earlier models can be incorporated in later versions.
+The structure of funding model-building projects
+sometimes has implications on the shelf-life and
+popularity of the resultant simulators. Model developers often rely on research grants for developing
+
+55
+
+their systems and interest in such models wanes once
+grant funds are exhausted. A system of archiving
+models and the associated resource personnel is germane in ensuring maximum returns to model-building ventures and avoid unnecessary duplication of
+efforts.
+The verification and validation aspects of existing
+models both during system development and subsequent applications have improved considerably. Users
+now regard validation as a key component of project
+implementation. Virtually all studies now incorporate
+some elements of validation. However, in most cases,
+on-field validation trials were carried out at locations
+close to where initial data for calibrating the systems
+were sourced. Rather than attesting to the robustness
+of the simulators, this location bias may account for
+the high degree of correspondence between the simulated and experimental results. For instance, models
+that were validated outside the immediate modelbuilding environment often have to be recalibrated in
+order to obtain acceptable model results (Moulin and
+Beckie, 1993; Nagarajan et al., 1993; Savin et al.,
+1994; Gabrielle et al., 1995).
+Still on validation, there seems to be no consensus
+as to how validation steps should proceed. For validation of BPS and BEMS, some modellers have
+relied heavily on basic comparisons of simulated and
+observed results. Occasionally, subjective expert
+opinion is sought to determine the acceptable level
+of congruence. It is certain that disagreement on
+what constitutes an acceptable form of validation
+procedures will continue until generally agreeable
+standards are set. Until then, Naylor and Finger
+(1971) multi-stage approach as augmented by Law
+and Kelton (1991) which was described earlier may
+serve as a convenient starting point.
+Simulation seems like a methodology of convenience. Some studies that employed simulation tools
+failed to investigate whether alternative strategies
+that could produce similar or superior results were
+readily available. Also, simulation results are sometimes interpreted as optimal solutions. This conclusion is valid only if simulation routines have incorporated an optimization search technique such that
+the resultant simulation outcomes have converged to
+the results of any optimization process. Some of the
+possible optimization search methods were highlighted in an earlier section of this review.
+
+56
+
+C.A. Oriade, C.R. Dillon/ Agricultural Economics 17 (1997) 45-58
+
+8. Conclusion
+Simulation, econometric and mathematical programming methods rank among the best known
+methodologies for tackling the various questions in
+applied economic research. However, the review
+shows how simulation is a unique method that can
+facilitate the resolution of certain complex and j or
+dynamic problems that might otherwise remain intractable. Therefore, the continuous relevance of BPS
+and BEMS as suitable research tool is certainly not
+in doubt despite the minimal instances of their misuse and abuse.
+The importance of simulation to management decision making is reflected in the increasing number
+of simulation-based decision support systems that is
+now in use. This represents a shift from the conventional role of simulation as a purely research tool. It
+also places a higher premium on the precision of
+simulation results as the acceptable margin of error
+disappears. Consequently, in order to ensure the
+usefulness of simulation methods in facilitating optimal management decisions, the residual concerns
+that are highlighted in this and similar studies should
+be addressed.
+
+Acknowledgements
+The authors gratefully acknowledge the assistance
+of Matthew Mason with the literature review. Also,
+the authors are grateful to the two anonymous reviewers for helpful comments and suggestions.
+
+References
+Anderson, J.R., 1974. Simulation: Methodology and application in
+agricultural economics. Rev. Marketing Agric. Econ. 43, 3-55.
+Arnold, J.G., Allen, P.M., 1996. Estimating hydrologic budgets
+for three Illinois watersheds. J. Hydro!. 176, 57-77.
+Arnold, J.G., Williams, J.R., 1987. Validation of SWRRB simulator for water resources in rural basins. J. Water Res. Planning
+Manage. 113, 243-256.
+Azadivar, F., Lee, Y., 1988. Optimization of discrete variable
+stochastic systems by computer simulation. Math. Comp.
+Simul. 30, 331-345.
+Bailey, D., Richardson, J.W., 1985. Analysis of selected marketing strategies: A whole-farm simulation approach. Am. J.
+Agric. Econ. 67, 813-820.
+
+Baker, D.N., Lambert, J.R., Mckinion, J.M., 1986. GOSSYM: A
+simulator of cotton crop growth and yield. S.C. Agric. Exp.
+Station, Clemson Univ., Tech. Bull. No. 1089.
+Bernardo, D.J., 1988. The effect of spatial variability of irrigation
+applications on risk-efficient irrigation strategies. So. J. Agric.
+Econ. 20 (1), 77-86.
+Bernardo, D.J., Whittlesey, N.K., Saxton, K.E., Basset, D.L.,
+1987. An inigation model for management of limited water
+supplies. Western J. Agric. Econ. 12, 164-174.
+Bingner, R.L., Mutchler, C.K., Murphree, C.E., 1992. Predictive
+capabilities of erosion models for different storm sizes. Trans.
+ASAE 35, 505-513.
+Boggess, W.G., 1984. Discussion: use of biophysical simulation
+in production economics. So. J. Agric. Econ. 16 (!), 87-89.
+Boggess, W.G., Amerling, C.B., 1983. A bioeconomic simulation
+analysis of irrigation investments. So. J. Agric. Econ. 15 (2),
+85-91.
+Boggess, W.G., Cardelli, D.J., Barfield, C.S., 1985. A bioeconomic simulation approach to multi-species insect management. So. J. Agric. Econ. 17 (2), 43-55.
+Bosch, D.J., Eidman, V.R., 1987. Valuing information when risk
+preferences are nonneutral: an application to irrigation
+scheduling. Am. J. Agric. Econ. 69, 658-668.
+Bosch, D.J., Shabman, L.A., 1990. Simulation modelling to set
+priorities for research on oyster production. Am. J. Agric.
+Econ. 72, 371-381.
+Bouzaher, A., Cabe, R., Johnson, S.R., Manale, A., Shogren, J.F.,
+1995. CEEPES: An evolving system for agroenvironmental
+policy. In: Milon, J.W., Shogren, J.F., (Eds.), Integrating
+Economic and Ecological Indicators: Practical Methods for
+Environmental Policy Analysis. Praeger. pp. 67-89.
+Box, G.E.P., Wilson, K.G., 1951. On the experimental attainment
+of optimal conditions. J. Roy. Statist. Soc. 13, 1-45.
+Braat, L.C., Van Lierop, W.F., 1987. Integrated economic-ecological modeling. In: Braat, L.C., Van Lierop, W.F. (Eds.),
+Economic-Ecological Modeling. Studies in regional science
+and urban economics 16, pp. 49-53.
+Brorsen, B.W., Walker, O.L., Hom, G.W., Nelson, T.R., 1983. A
+stocker cattle growth simulation model. So. J. Agric. Econ. 15,
+115-122.
+Brown, C.D., Hollis, J.M., 1996. SWAT-a semi-empirical model
+to predict concentrations of pesticides entering surface waters
+from agricultura1land. Pest. Sci. 47, 41-50.
+Brown, L.G., McClendon, R.W., Jones, J.W., 1983. Cotton and
+insect management simulation model. In: Ridgway, R.L., Lyold, E.P., Cross, W.H., (Eds.), Cotton Insect Management with
+Special Reference to the Boll Weevil, Washington, D.C.,
+USDA ARS Agric. Handbook No.589, 1983.
+Bryant, K.J., Benson, V.W., Kiniry, J.R., Williams, J.R., Lavewell,
+R.D., 1992. Simulating com yield response to imgation timings: Validation of the EPIC model. J. Prod. Agric. 5, 237-242.
+Buhler, D.D., King, R.P., Swinton, S.M., Gunsolus, J.L., Porcella,
+F., 1996. Field Evaluation of a bioeconomic model for weed
+management in com (Zea mays). Weed Sci. 44, 915-923.
+Czaki, C., 1984. Simulation and systems analysis in agriculture.
+Developments in Agricultural Economics, 2. Elsevier, Amsterdam, 262 pp.
+
+C.A. Oriade, C.R. Dillon j Agricultural Economics 17 (1997) 45-58
+
+Dent, J.B., Anderson, J.R., 1971. Systems, management and agriculture. In: Dent, J.B., Anderson, J.R., (Eds.), Systems Analysis in Agricultural Management. Wiley. pp. 3-14.
+Dillon, J.L., 1971. Interpreting systems simulation output for
+managerial decision-making. In: Dent, J.B., Anderson, J.R.,
+(Eds.), Systems Analysis in Agricultural Management. Wiley.
+pp. 85-122.
+Dillon, C.R., Mjelde, J.W., McCarl, B.A., 1989. Biophysical
+simulation in support of crop production decisions: A case
+study in the blacklands region of Texas. So. J. Agric. Econ. 21
+(!), 73-86.
+Dillon, C.R., Mjelde, J.W., McCarl, B.A., 1991. Biophysical
+simulation models: recommendations for users and developers.
+Comp. Electronics in Agric. 6, 213-224.
+Duffy, P.A., Richardson, J.W., Smith, E.G., 1986. Effects of
+alternative farm programs and levels of price variability on
+Texas cotton farms. So. J. Agric. Econ. 18 (2), 97-106.
+Foltz, J.C., Lee, J.G., Martin, A.M., 1993. Farm level economic
+and environmental impacts of eastern corn belt cropping systems. J. Prod. Agric. 6, 290-296.
+Foltz, J.C., Lee, J.G., Martin, M.A., Preckel, P.V., 1995. Multiattribute assessment of alternative cropping systems. Am. J.
+Agr. Econ. 77, 408-420.
+Porcella, F., King, R.P., Swinton, S.M., Buhler, D.D., Gunsolus,
+J.L., 1996. Multi-year validation of a decision aid for integrated weed management in row crops. Weed Sci. 44, 650661.
+Gabrielle, B., Menasseri, S., Houot, S., 1995. Analysis and field
+evaluation of the CERES model water balance component.
+Soil Sci. Am. J. 59, 1403-1412.
+Harnos, Z., 1987. Agricultural models. In: Braat, L.C., Van
+Lierop, W.F. (Eds.), Economic-Ecological Modeling. Studies
+in regional science and urban economics 16. pp. 100-103.
+Harris, T.R., Mapp, H.P., 1986. A stochastic dominance comparison of water-conserving irrigation strategies. Am. J. Agric.
+Econ. 68, 298-305.
+Hoogenboom, G., Jones, J.W., Boote, K.J., 1992. Modeling
+growth, development, and yield of grain legumes using SOYORO, PNUTGRO and BEANGRO: a review. Trans. ASAE
+35, 2043-2053.
+Hughes, D., Butcher, W., Jaradat, A., Penaranda, W., 1995.
+Economic analysis of the long-term consequences of farming
+practices in the barley cropping area of Jordan. Agric. Sys. 47,
+39-58.
+Hutton, R.F., Hinman, H.R., 1968. A general agricultural firm
+simulator. Agric. Econ. and Rural Soc. Rep. 72, Pennsylvania
+State Univ.
+Jackson, B.S., Arkin, G.F., Hearn, A.B., 1988. The cotton simulation model 'COTTAM': fruiting model calibration and testing.
+Trans. ASAE 31, 846-854.
+Johnson, S.L., Adams, R.M., Perry, G.M., 1991. The on-farm
+costs of reducing groundwater pollution. Am. J. Agric. Econ.
+73, 1063-1073.
+Johnson, S.R., Rausser, G.C., 1977. Systems analysis and simulation: A survey of applications in agricultural and resource
+economics. In: Judge, G.G. et a!. (Eds.), A survey of agricul-
+
+57
+
+tural economics literature, vol. 2. Minneapolis: University of
+Minnesota press, pp. 157-301.
+Jones, C.A., Dyke, P.T., Williams, J.R., Kiniry, J.R., Benson,
+V.W., Griggs, R.H., 1991. EPIC: An operational model for
+evaluation of agricultural sustainability. Agric. Sys. 37, 341350.
+Kellogg, R.L., Easley, J.E. Jr., Johnson, T., 1988. Optimal timing
+of harvest for the North Carolina bay scallop fishery. Am. J.
+Agric. Econ. 70, 50-62.
+King, R.P., Lybecker, D.W., Regmi, A., Swinton, S.M., 1993.
+Bioeconomic models of crop production systems: design, development and use. Rev. Agric. Econ. 15, 389-401.
+Kozloff, K., Taff, S.J., Wang, Y., 1992. Microtargetting the
+acquisition of cropping rights to reduce nonpoint source water
+pollution. Water Resources Res. 28, 623-628.
+Kushner, H.J., Clark, D.S., 1978. Stochastic approximation method
+for constrained and unconstrained systems. Springer, New
+York.
+Law, A.M., Kelton, W.D., 1991. Simulation modeling and analysis. McGraw Hill Books, NY, pp. 298-324.
+Leonard, R.A., Knisel, W.G., Still, D.A., 1987. GLEAMS:
+Groundwater loading effects of agricultural management systems. Trans. ASAE 30, 1403-1418.
+Loewer, O.J., Smith, E.M., Benock, G., Gay, N., Bridges, T.C.,
+Wells, L.G., 1980. Dynamic simulation of animal growth and
+reproduction. Trans. ASAE 23, 131-138.
+Lybecker, D.W., Schweizer, E.E., Westra, P., 1994. WEEDCAM
+Manual. Colorado State Univ., 49 pp.
+Maas, S.J., Arkin, G.F., 1978. User's guide to SORGF: a dynamic
+grain sorghum growth model with feedback capacity. Texas
+Agricultural Experiment Station, Program and Model Documentation No. 78-1.
+Maas, S.J., Arkin, G.F., 1980. A wheat growth and development
+simulation. Texas Agricultural Experiment Station, Program
+and Model Documentation No. 80-3.
+Mapp, H.P., Eidman, V.R., 1976. A bioeconomic analysis of
+regulating groundwater irrigation. Am. J. Ag. Econ. 58, 391402.
+Misra, S.K., Spurlock, S.R., 1991. Incorporating the impacts of
+uncertain fieldwork time on whole-farm risk-return levels: a
+target MOTAD approach. So. J. Agric. Econ. 23 (2), 9-17.
+Moulin, A.P., Beckie, H.J., 1993. Evaluation of the CERES and
+EPIC models for predicting spring wheat grain yield over
+time. Can. J. Plant Sci. 73, 713-719.
+Musser, W.N., Tew, B.V., 1984. Use of biophysical simulation in
+production economics. So. J. Agric. Econ. 16 (!), 77-86.
+Nagarajan, K., O'Neil, R.J., Lowenberg-Deboer, J., Edwards,
+C.R., 1993. Indiana soybean system model (ISSM): crop
+model evaluation. Agric. Sys. 43, 357-379.
+Naylor, T.H., Finger, J.M., 1971. Validation. In: Naylor, T.H.,
+1971. Computer simulation experiments with models of economic systems. Wiley, New York, pp. 153-164.
+Nyangito, H.O., Richardson, J.W., Mundy, D.S., Mukhebi, A.W.,
+Zimmel, P., Namken, J., 1996. Economic impacts of east coast
+fever immunization on smallholder farms, Kenya: a simulation
+analysis. Agric. Econ. 13, 163-177.
+
+58
+
+C.A. Oriade, C.R. Dillon/ Agricultural Economics 17 (1997) 45-58
+
+Oriade, C.A., King, R.P., Porcella, F., Gunsolus, J.L., 1996. A
+bioeconomic analysis of site-specific management for weed
+control. Rev. Agric. Econ. 18, 523-535.
+Parsch, L.D., Loewer, O.J., 1987. Economics of simulated beefforage rotational grazing under weather uncertainty. Agric.
+Sys. 25, 279-295.
+Parsch, L.D., Cochran, M.J., Trice, K.L., Scott, H.D., 1991.
+Biophysical simulation of wheat and soybean to assess the
+impact of timeliness on double-cropping economics. In: Hanks,
+J., Ritchie, J.T., (Eds.), Modeling Plant and Soil Systems.
+Agronomy monograph series, No. 31, Madison, WI, pp. 511534.
+Perry, G.M., Rister, M.E., Richardson, J.W., Grant, W.R., 1986.
+Analyzing tenure arrangements and crop rotations using farm
+simulation and probit analysis. So. J. Agric. Econ. 18 (2),
+165-174.
+Ray, D.E., Richardson, J.W., 1978. Detailed description of
+POLYSIM. Oklahoma Agricultural Experiment Station, technical bulletin, T-151, 46 pp.
+Reichelderfer, K.H., Bender, F.E., 1979. Application of a simulative approach to evaluating alternative methods for the control
+of agricultural pests. Am. J. Agric. Econ. 61, 258-267.
+Richardson, J.W., Nixon, C.J., 1986. Description of FLIPSIM V:
+a general firm level policy simulation model. Texas Agric.
+Exp. Station, 49 pp.
+Ritchie, J.T., Otter, S., 1985. Description and performance of
+CERES-Wheat: A user oriented wheat yield model. In: Willis,
+W.O., (Ed.), ARS wheat yield project. USDA-ARS-38 pp.
+159-175.
+Rode, M., Frede, H.-G., 1997. Modification of AGNPS for agricultural land and climate conditions in central Germany. J.
+Environ. Quality 26, 167-172.
+Rosenberg, N.J., McKeeney, M.S., Easterling, W.E., Lemon,
+K.M., 1992. Validation of EPIC model simulations of crop
+responses to current climate and carbon dioxide conditions:
+Comparisons with census, expert judgement and experimental
+plot data. Agric. For. Meteorology 59, 35-51.
+Sabbagh, G.J., Norris, P.E., Geleta, S., Bemado, D.J., Elliot, R.L.,
+Mapp, H.P., Stone, J.F., 1992. Environmental and economic
+impacts of pesticide and irrigation practices: EPIC-PST simulation. J. Prod. Agric. 5, 312-317.
+Salassi, M.E., Eddleman, B.R., Hamill, J.G., 1987. Economic
+survivability of Mississippi rice farms: a deterministic simulation approach. So. J. Agric. Econ. 19 (2), 163-173.
+Savabi, M.R., Arnold, J.G., Richardson, C.W., 1988. Application
+of SWRRB on rangeland watersheds. In: Modeling agricultural, forest, and rangeland hydrology. Proceedings of the
+1988 International Symposium, American Society of Agricultural Engineers, pp. 219-231.
+Savin, R., Hall, A.J., Satome, E.H., 1994. Testing the root growth
+subroutine of the CERES-wheat model for two cultivars of
+different cycle length. Field Crops Res. 38, 125-133.
+
+Singer, M.P., Arnold, F.D., Cole, R.H., Arnold, J.G., Williams,
+J.R., 1988. Use of SWRRB computer model for the national
+coastal pollutant discharge inventory. American Water Resources Association technical publication series, TPS. 88-1,
+pp. 119-131.
+Smith, D.E., 1976. Automatic optimum-seeking program for digital simulation. Simulation 27, 27-31.
+Srinivasan, R., Arnold, J.G., 1994. Integration of a basin-scale
+water quality model with GIS. Water Res. Bull. 30, 453-462.
+Stapper, M., Arkin, G.F., 1980. CORNF: A dynamic growth and
+development model for maize (Zea mays L.). Texas Agricultural Experiment Station, Program and Model Documentation
+No. 80-2.
+Sugiharto, T., Mcintosh, T.H., Uhrig, R.C., Lardinois, J.J., 1994.
+Modeling alternatives to reduce dairy farm and watershed
+nonpoint source pollution. J. Environ. Quality 23, 18-24.
+Swinton, S.M., King, R.P., 1994. A bioeconomic model for weed
+management in com and soybean. Agric. Sys. 44, 313-335.
+Swinton, S.M., Lybecker, D.W., King, R.P., 1995. The effect of
+local triazine restriction policies on recommended weed management in corn. Rev. Agric. Econ 17, 351-367.
+Szmedra, P.I., McClendon, R.W., Wetztein, M.E., 1991. Economic risk efficiency of boll weevil eradication. So. J. Agric.
+Econ. 23 (1), 237-245.
+Tim, U.S., Jolly, R., 1994. Evaluating agricultural nonpoint-source
+pollution using integrated geographic information systems and
+hydrologic/water quality model. J. Environ. Quality 23, 2535.
+Wiles, L.J., Wilkerson, G.G., Gold, H.J., 1992. Value of information about weed distributions for improved post-emergence
+control decisions. Crop Protection 11, 547-554.
+Wiles, L.J., King, R.P., Lybecker, D.W., Schweizer, E.E., Swinton, S.M., 1994. User's guide. General Weed Management
+(GWM) Model Version 1.0. Dept. of Agric. and Applied
+Economics, Univ. of Minnesota, Staff Paper P94-23.
+Wilkerson, G.G., Jones, J.W., Boote, K.J., Ingram, K.T., Mishoe,
+J.W., 1983. Modeling soybean growth for crop development.
+Trans. ASAE 26, 63-72.
+Wilkerson, G.G., Modena, S.A., Coble, H.D., 1991. HERB: decision model for postemergence weed control in soybean. Agron.
+J. 83, 413-417.
+Williams, J.R., Nicks, A.D., Arnold, J.G., 1985. Simulator for
+water resources in rural basins. J. Hydr. Engrg. Ill, 970-986.
+Wright, A., 1971. Farming Systems, models and simulation. In:
+Dent, J.B., Anderson, J.R., (Eds.), Systems Analysis in Agricultural Management. Wiley, pp. 17-33.
+Young, R.A., Onstad, C.A., Bosch, D.D., Anderson, W.P., 1989.
+AGNPS: a nonpoint-source pollution model for evaluating
+agricultural watersheds. J. Soil Water Conserv. 44, 168-173.
+
+

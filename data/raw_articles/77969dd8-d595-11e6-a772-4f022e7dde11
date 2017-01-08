@@ -1,0 +1,2442 @@
+AGRICULTURAL
+ECONOMICS
+Agricultural Economics 38 (2008) 151–165
+
+Measuring impacts and adaptations to climate change: a structural Ricardian
+model of African livestock management1
+S. Niggol Seoa,∗ , Robert Mendelsohnb
+b School
+
+a World Bank, 8508 16th Street, Suite 302, Silver Spring, MD 20910, USA
+of Forestry and Environmental Studies, 230 Prospect St., New Haven, CT 06511, USA
+
+Received 29 April 2007; received in revised form 15 August 2007; accepted 15 August 2007
+
+Abstract
+This article develops a new cross-sectional methodology that explicitly incorporates adaptation into an analysis of the impacts of climate change.
+The methodology examines how a farmer will change choices of species and number to adapt to climate. The approach is applied to study Africa,
+where the impacts of climate change are expected to be the most severe. The results indicate that in warmer places, African farmers switch from
+beef cattle to more heat-tolerant goats and sheep. In wetter places, farmers switch from cattle and sheep to goats and chickens. The results indicate
+that large commercial livestock operations specializing in beef cattle will be hard hit from climate change whereas small farmers who can easily
+substitute to goats and/or sheep will be more resilient.
+JEL classification: C53, O13, O18, O55, R11
+Keywords: Climate change; Africa; Livestock; Cross-sectional adaptation analysis
+
+1. Introduction
+This article uses cross-sectional evidence to explore how
+farmers adapt to exogenous environmental factors such as climate and soils. The model builds on the original insights of
+the Ricardian model that explored the locus of land value
+per hectare (Mendelsohn et al., 1994). Although the Ricardian
+model captures adaptation in its measure of impacts, it does
+not provide any insight into how farmers adapt. In this article, we develop a new approach, a Structural Ricardian Model,
+that explicitly models the underlying endogenous decisions by
+farmers. By comparing choices of farmers who face different
+conditions, the model uncovers how farmers adapt. Conditional
+incomes, using a Ricardian approach, are then estimated for
+each choice made by each farmer.
+∗
+
+Corresponding author: Tel.: 203-432-9771. Fax: 203-432-3809.
+E-mail address: Niggol.seo@yale.edu (S. Niggol Seo).
+1 The authors wish to thank the World Bank and Global Environment Facility
+for funding and the Center for Environmental Economics and Policy in Africa
+at the University of Pretoria for their overall management of this project. We
+are especially thankful to Ariel Dinar at the World Bank, Rashid Hassan at
+CEEPA, and Pradeep Kurukulasuriya at UNDP. We would also like to thank
+Professors Robert Evenson, Donald Andrews, Daniel Esty, and Erin Mansur
+at Yale University, Professor Kenneth Train at the University of California at
+Berkeley, many seminar participants at Yale University and Purdue University,
+and two anonymous reviewers for their valuable comments.
+
+c 2008 International Association of Agricultural Economists
+
+We develop this new method and then apply it to study how
+African farmers adapt livestock management to climate. We
+explore which species they choose, how many animals they
+own, and how net revenue per animal for each species changes.
+Understanding adaptation is an important goal in itself to assist
+planning by policy makers and private individuals. However,
+understanding adaptation is also important if one is interested
+in quantifying the impacts of climate change. Forecasts that
+over- or underpredict adaptation will under- or overpredict the
+residual damages from climate change.
+Climate impact studies have consistently predicted extensive
+impacts to the agricultural sector from climate change across
+the globe (Pearce et al., 1996; McCarthy et al., 2001; Tol, 2002).
+The bulk of agricultural studies on the effect of climate change
+have focused on crops. However, a large fraction of agricultural
+output is from livestock. In the United States, livestock account
+for about 40% of the market value of agricultural products sold
+(USDA, 2002). Almost 80% of African agricultural land is used
+for grazing. Yet there are very few economic analyses of climatic effects on livestock. An important exception is the study
+of the effects of climate change on American livestock (Adams
+et al., 1999). American livestock appear not to be vulnerable
+to climate change because most live in protected environments
+(sheds, barns, etc.) and rely heavily on supplemental feed (e.g.,
+hay and corn). African livestock have no protective structures
+and they graze off the land. As a result, we anticipate that
+
+S. N. Seo, R. Mendelsohn / Agricultural Economics 38 (2008) 151–165
+
+152
+Profit
+
+Temperature
+All Livestock
+
+Species 1
+
+Species 2
+
+Species 3
+
+Fig. 1. Theoretical livestock response functions.
+
+African livestock will be sensitive to climate change. In a separate article, the Ricardian model is applied to African livestock
+data (Seo et al., 2007) and shows that livestock are sensitive
+to climate. In this article we provide insight into how farmers
+adjust to climate and what they might do in the future.
+The underlying theory of the Structural Ricardian Model is
+developed in the next section. Section 3 discusses how data
+were collected from over 5,000 farmers who own livestock in
+10 countries across Africa for this study. Section 4 discusses
+the estimation procedure and the cross-sectional empirical results. Forecasted impacts from three climate change scenarios
+generated by Atmospheric Oceanic General Circulation Models (AOGCMs) are then examined in Section 5. The article
+concludes with a summary of results and policy implications.
+2. Theory
+A farmer’s optimization decision can be seen as a simultaneous multiple-stage procedure. The farmer chooses the levels
+of inputs, the desired number of animals, and the species that
+will yield the highest net profit. Given the profit-maximizing
+inputs from each farmer, one can estimate the loci of profitmaximizing choices for each species across exogenous environmental factors such as temperature or precipitation. These
+are the individual loci that lie beneath the overall profit function
+for the farm (Mendelsohn et al., 1994). We call the approach
+a “cross-sectional adaptation model” because it estimates the
+choice of a specific animal, the number of animals, and the underlying profit response functions per animal for each species
+
+that form the overall profit function. For example, in Fig. 1
+we display a traditional Ricardian response function with respect to temperature. Underneath the locus of all choices is a
+set of species-specific response functions. Given the climate,
+the farmer must choose the most profitable species and also the
+inputs that will maximize the value of that species. We examine
+the individual net revenue functions for each species as well as
+the overall net revenue function across all species. We assume
+that each farmer makes his animal husbandry decisions to maximize profit. 2 Hence, the probability that a species is chosen
+depends on the profitability of that animal species (or crop if
+one wants to examine the crop sector). We assume that farmer
+i’s profit in choosing livestock j (j = 1, 2, . . . , J) is
+πj i = V (Zj i ) + εj i ,
+
+(1)
+
+where Z is a vector of independent variables that includes climate variables, soils, and other socioeconomic variables such
+as household characteristics. The profit function in Eq. (1) is
+composed of two components: the observable component V and
+an error term ε. The error term is unknown to the researcher, but
+may be known to the farmer. The farmer will choose the livestock that gives him the highest profit. The farmer will choose
+2 The theory of profit maximization can be contested especially in Africa (De
+Janvry et al., 1991; Moll, 2005; Singh et al., 1986). We made the following two
+adjustments to address the issues arising from special situations of African markets. First, we assume that if a farmer consumes his own product, it is valued at
+market price. Second, most farms depend on their own labor. Although it might
+be reasonable to value own labor by market wages, empirical examinations did
+not support any specific wage.
+
+S. N. Seo, R. Mendelsohn / Agricultural Economics 38 (2008) 151–165
+
+animal j over all other animals if
+π ∗ (Zj i ) > π ∗ (Zki )
+
+for
+
+∀k = j
+
+× [or if εk − εj < V (Zj i ) − V (Zki )
+
+for
+
+k = j].
+
+(2)
+
+More succinctly, farmer i’s problem is
+arg max[π ∗ (Z1i ), π ∗ (Z2i ), . . . , π ∗ (ZJ i )].
+
+(3)
+
+j
+
+153
+
+Because the profit described in Eq. (1) is observed only for
+the chosen species, one must correct for possible selection bias
+when estimating the conditional net revenues or numbers of
+animals (Heckman, 1979). Since the farmer maximizes net revenue conditional on the choice of that species, the error in the
+second-stage equation may be correlated with the error in the
+first stage. According to Dubin and McFadden (1984), with the
+assumption of the following linearity condition 4 :
+J
+
+The probability Pj i for the jth livestock to be chosen is then
+
+Pj i =
+
+exp(Zj i γj )
+J
+k=1
+
+exp(Zki γk )
+
+,
+
+(5)
+
+which gives the probability that farmer i will choose livestock
+j among J animals (Chow, 1983; McFadden, 1981).
+The parameters can be estimated by the maximum likelihood method using an iterative nonlinear optimization technique such as the Newton–Raphson method. These estimates
+are CAN (Consistent and Asymptotically Normal) under standard regularity conditions (McFadden, 1999).
+Note that farmers can choose more than one species of livestock among the five species in our study. That is, there are many
+combinations of livestock species that the farmer could choose.
+In this analysis, we assume that farmers choose one primary
+species from the five species. A primary species is defined as
+that which generates the highest total net revenue for the farm
+(Train, 2003). In another analysis of livestock choice, we compare this approach using the primary species with an alternative
+portfolio approach that examines all possible choices including
+combinations of species (Seo and Mendelsohn, 2007). The two
+approaches yield similar results.
+Conditional on the livestock species chosen, we estimate the
+optimal number of animals per farm for each species and the
+net revenue per animal for each species. We rely on a two-stage
+model. In the first stage, we estimate the probability of selecting
+a species (Eq. 5). In the second stage, conditional on the choice
+of a specific species, we estimate the optimal number of that
+species and the net revenue per animal. We identify the species
+choice equations using the relative prices of each choice. We
+identify the number of animal equations using the percentage
+of grassland in the district. Note that this more general variable
+was used instead of grassland on the farm because many African
+livestock owners graze animals on common lands.
+3
+
+Two common assumptions about the error term are either the Normal or
+the Gumbel distribution. Normal random variables have the property that any
+linear combination of normal varieties is normal. The difference between two
+Gumbel random variables has a logistic distribution, which is similar to the
+normal but with larger tails. Thus the choice is somewhat arbitrary with large
+samples (Greene, 1998).
+
+rj · (εj − E(εj )), with
+j =1
+
+Pj i = Pr[εk − εj < Vj − Vk ] ∀k = j where Vj = V (Zj i ). (4)
+Assuming ε is independently and identically Gumbel distributed 3 and Vk can be written linearly in the parameters
+
+J
+
+E(uj |ε1 , . . . , εJ ) = σ ·
+
+j =1
+
+rj = 0,
+(6)
+
+where uj is the error from the profit equation in the second
+stage, εj is the error from the choice equation in the first stage,
+σ is the standard error of the profit equation, and rj the correlation between the profit equation and choice equations, then
+the selection bias-corrected conditional profit functions can be
+consistently estimated as
+J
+
+πj = Xj ϕj + σ ·
+
+ri ·
+i=j
+
+Pi · ln Pi
++ ln Pj
+1 − Pi
+
++ wj ,
+
+(7a)
+
+where the second term on the right-hand side is the selection
+bias correction term; Xj is a set of independent variables that
+include climate variables, soils, and socioeconomic variables;
+ϕ j is a vector of parameters; and wj is the error term.
+The optimal number of animals can be estimated in the same
+manner:
+J
+
+Nj = Xj ηj + σ ·
+
+ri ·
+i=j
+
+Pi · ln Pi
++ ln Pj
+1 − Pi
+
++ vj ,
+
+(7b)
+
+where the various terms are defined similarly as in Eq. (7a).
+The two-stage model is composed of Eq. (5) and equations
+(7a) and (7b). Expected net revenue is therefore
+J
+
+Wi (Zi ) =
+
+Pj (Zj i ) · πj (Zj i ) · Nj (Zj i ).
+
+(8)
+
+j =1
+
+Because climate is an independent variable in all three terms
+in Eq. (8), the marginal effect on welfare of a change in a
+climate variable, say Zc , has three components: the effect on the
+probability of the livestock to be chosen, the direct effect on the
+conditional profit per animal, and the effect on the conditional
+number of animals:
+∂Pj
+∂πj
+∂Nj
+∂Wj
+=
+· πj · Nj +
+· Pj · Nj +
+· Pj · πj ,
+∂zc
+∂zc
+∂zc
+∂zc
+
+(9)
+
+4 See Bourguignon et al. (2004) for the details of the selection bias corrections from the multinomial choice. They find that in most cases, Dubin and
+McFadden’s method is preferable to the most commonly used Lee method,
+as well as to Dhal’s semiparametric method. Monte Carlo experiments show
+that selection bias correction based on the multinomial logit model can provide
+fairly good correction for the outcome equation even when the IIA hypothesis
+is violated.
+
+S. N. Seo, R. Mendelsohn / Agricultural Economics 38 (2008) 151–165
+
+154
+
+where the marginal effect on the probability can be obtained by
+differentiating Eq. (5):
+∂Pj
+= Pj γj −
+∂zc
+
+J
+
+Pk γk ,
+
+(10)
+
+k=1
+
+and the marginal effect on the net revenue per animal, assuming
+a quadratic relationship between the net revenue and the corresponding climate variable, can be obtained by differentiating
+Eq. (7a):
+∂πj
+= ϕj 1 + 2 · ϕj 2 · zc ,
+∂zc
+
+(11)
+
+and the marginal effect on the number of animals per farm,
+also assuming a quadratic relationship between the number of
+animals and the relevant climate variable, can be found by
+differentiating Eq. (7b):
+∂Nj
+= η j 1 + 2 · η j 2 · zc ,
+∂zc
+
+(12)
+
+where the subscripts 1 and 2 in equations (11) and (12) denote
+the estimated parameters for the linear term and the quadratic
+term for the climate variable zc .
+The change in welfare resulting from a nonmarginal change
+in climate can be computed as the difference in the expected
+net revenues in the two states before and after climate change.
+Suppose that climate changes from Cbefore to Cafter . Then the
+change in welfare can be approximated as
+Wi = Wi (Cafter ) − Wi (Cbefore ).
+
+(13)
+
+The uncertainty surrounding our measure of the welfare
+change can be described by the 95% confidence interval of
+the expected climate change impact. In principle, there are two
+ways to calculate confidence intervals: parametric and nonparametric. It is difficult to calculate the variance of the climate
+change impact parametrically in this model because welfare is
+the product of three predictions. We provide uncertainty estimates in this study via a bootstrap method by resampling 200
+times from the original sample and calculating the 95% confidence interval using the mean and the standard deviation of
+the resulting climate change impacts (Andrews and Buchinsky,
+2000).
+3. Data
+Data for this study come from a larger Global Environmental Facility (GEF)–World Bank project to study climate change
+impacts on agriculture in Africa (Dinar et al., 2008). The countries included were Burkina Faso, Cameroon, Egypt, Ethiopia,
+Ghana, Kenya, Niger, Senegal, South Africa, and Zambia. (Zimbabwe had to be dropped from the livestock analysis because
+of turbulent conditions in that country during the survey.) The
+
+countries were selected to represent the wide range of climate
+throughout Africa. Districts within each country were selected
+to provide as much within-country climate variation as possible.
+Because existing economic data were not sufficient to support
+an analysis, an economic survey of farmers was conducted. The
+original survey interviewed more than 9,000 farmers from 11
+countries. Within that sample, more than 5,000 were livestock
+farmers (Kurukulasuriya et al., 2006).
+The livestock data include information on species, the stock
+of livestock owned, and the livestock products and animals
+sold during the period of July 2002 to June 2003 (the data
+from Kenya, Ethiopia, and Cameroon cover the period July
+2003 to June 2004). The data identify the five major types of
+livestock in Africa as beef cattle, dairy cattle, goats, sheep,
+and chickens. Other less frequently recorded animals include
+pigs, breeding bulls, oxen, camels, ducks, guinea fowl, horses,
+bees, and doves. The major livestock products sold were milk,
+meat, eggs, wool, and leather. Other products included butter,
+cheese, honey, skins, and manure. The five major livestock
+accounted for 93% of the total net livestock revenue in the
+sample (Seo and Mendelsohn, 2007).
+All countries in the sample had a large number of livestock
+farms. Most of the farms in our survey were small household
+farms, but a majority of the farms in South Africa and Kenya located in temperate climate zones were large commercial farms.
+Definitions of what constitutes a small household farm versus
+a large commercial farm are country-specific. South Africa had
+a large number of commercial beef cattle farms while Kenyan
+farmers kept dairy cattle and beef cattle in large numbers. Farmers in Egypt tended to raise chickens while West African farmers depended more on goats and sheep (Seo and Mendelsohn,
+2007).
+Climate data come from two sources: U.S. Defense Department satellites and weather station observations. We relied on
+satellite temperature observations and interpolated precipitation observations from ground stations (see Mendelsohn et al.
+[2007] for a detailed explanation). The climate data measures
+the long-run average weather (17 to 30 years), not the weather
+in the particular year of the economic survey. Climate data
+were gathered in monthly measures of temperature (◦ C) and
+precipitation (mm/month) and then aggregated by season: Winter (May, June, July), Spring (August, September, October),
+Summer (November, December, January), and Fall (February,
+March, April). Seasons for locations north of the equator were
+defined in reverse. Soil data were obtained from the FAO digital soil map of the world (Food and Agriculture Organization
+[FAO] 2004). Soil data were extrapolated to the district level
+using GIS. The data set reports 116 dominant soil types and 26
+aggregated soil types.
+
+4. Empirical results
+As indicated above, although there are many livestock
+species in Africa, we focus on the five primary species that
+
+S. N. Seo, R. Mendelsohn / Agricultural Economics 38 (2008) 151–165
+
+155
+
+Table 1
+Multinomial logit species selection model
+Beef cattle
+Variable
+
+Estimate
+
+χ2
+
+Intercept
+Temperature summer
+Temperature summer sq
+Precipitation summer
+Precipitation summer sq
+Temperature winter
+Temperature winter sq
+Precipitation winter
+Precipitation winter sq
+Soil Cambisols
+Soil Gleysols
+Electricity
+Beef cattle price
+Milk price
+Goat price
+Sheep price
+Chicken price
+
+5.94
+0.31
+−0.0047
+0.0058
+0.0000
+−1.18
+0.0284
+0.020
+−0.0001
+1.09
+−1.86
+0.96
+−0.0027
+−0.482
+0.0212
+0.0066
+−0.513
+
+5.58
+2.82
+1.62
+0.94
+0.22
+73.7
+52.6
+5.53
+1.52
+1.30
+1.17
+18.3
+10.06
+11.25
+5.10
+1.85
+14.4
+
+Dairy cattle
+Odds ratio
+
+Estimate
+
+χ2
+
+1.37
+1.00
+1.01
+1.00
+0.31
+1.03
+1.02
+1.00
+2.97
+0.16
+2.60
+1.00
+0.62
+1.02
+1.01
+0.60
+
+10.85
+−0.942
+0.0157
+−0.0201
+0.0001
+0.296
+−0.0036
+0.0065
+−0.0001
+1.59
+−7.35
+−0.078
+0.0002
+0.511
+0.0136
+0.0034
+−1.074
+
+45.7
+76.5
+53.3
+27.6
+12.6
+5.41
+1.17
+1.44
+5.98
+7.04
+25.1
+0.19
+0.07
+24.4
+3.92
+0.79
+142
+
+Goats
+
+Sheep
+
+Odds ratio
+
+Estimate
+
+χ2
+
+Odds ratio
+
+Estimate
+
+χ2
+
+0.39
+1.02
+0.98
+1.00
+1.35
+1.00
+1.01
+1.00
+4.93
+0.00
+0.93
+1.00
+1.67
+1.01
+1.00
+0.34
+
+−0.22
+−0.168
+0.0049
+−0.0119
+0.0001
+0.0755
+0.0003
+−0.0178
+0.0001
+0.503
+−2.63
+0.0658
+−0.0016
+0.0489
+−0.0180
+−0.0085
+0.416
+
+0.01
+1.74
+3.79
+8.54
+14.4
+0.16
+0.00
+8.98
+5.07
+0.79
+4.23
+0.16
+3.32
+0.20
+3.90
+2.57
+18.9
+
+0.85
+1.01
+0.99
+1.00
+1.08
+1.00
+0.98
+1.00
+1.65
+0.07
+1.07
+1.00
+1.05
+0.98
+0.99
+1.52
+
+4.92
+−0.105
+0.0023
+−0.0155
+0.0000
+−0.435
+0.0139
+−0.0243
+0.0000
+0.6404
+−3.67
+0.336
+−0.0033
+−0.0323
+−0.0261
+−0.0037
+0.765
+
+6.85
+0.68
+0.83
+12.7
+3.03
+8.63
+12.07
+14.5
+0.22
+1.33
+5.90
+4.23
+16.1
+0.09
+8.31
+0.53
+66.5
+
+Odds ratio
+0.90
+1.00
+0.99
+1.00
+0.65
+1.01
+0.98
+1.00
+1.90
+0.03
+1.40
+1.00
+0.97
+0.97
+1.00
+2.15
+
+Notes: (1) The base case is chickens.
+(2) The critical value of chi-square statistic for the significance at 5% is 3.7.
+(3) Three tests of global significance of the model: Likelihood ratio test: P < 0.0001, Lagrange multiplier test: P < 0.0001, and Wald test: P < 0.0001.
+
+generated the most livestock income: beef cattle, dairy cattle, goats, sheep, and chickens. 5 We model the probability of
+choosing each species as a function of summer and winter temperature and summer and winter precipitation. We also include
+other explanatory variables such as dominant soils and a dummy
+variable for electricity. We identified the selection equations by
+the input and output prices of the five species. For example, the
+higher the price of milk (one of the primary outputs) the more
+likely farmers are to choose dairy cattle and goats, but the less
+likely they are to choose sheep and beef cattle.
+Table 1 shows the results of the multinomial logit regression
+of the probability of choosing each of the five species. The base
+case is a household that chose chickens. Most of the coefficient
+estimates are significantly different from zero. The three tests
+of the global significance of the model—likelihood ratio test,
+Lagrange multiplier test, and Wald test—verify that the model
+is highly significant. The coefficients report the odds ratio. For
+example, the odds ratio of the electricity dummy for beef cattle
+is 2.6, which implies that farms with electricity are 2.6 times
+(odds ratio) more likely to own beef cattle than farms without
+electricity. Farms with electricity are also more likely to choose
+sheep but less likely to choose dairy cattle and goats. Soil variables are weakly significant and their coefficients vary across
+livestock species. For example, dairy cattle are more likely to
+be chosen under Cambisol soils, but not under Gleysol soils.
+Under Gleysol soils, beef cattle are more likely to be selected,
+compared with other species.
+5
+
+Species can be further differentiated by breeds (Oklahoma State University,
+2007). For example, some breeds of beef cattle and sheep are more heat tolerant
+than others. Information about breeds was not collected in the survey and so
+this study does not distinguish between different breeds within species.
+
+Coefficients for livestock prices are significantly different
+from zero in most cases. As the price of milk, the primary output from dairy cattle and goats, rises, more farmers choose dairy
+cattle and goats. Own animal price was difficult to interpret because it is both the price of buying an animal (input price) and
+the price of selling it (output price). In general, higher own
+prices led farmers away from choosing a species. For example,
+higher beef cattle prices discouraged farmers from selecting
+beef cattle. Cross price effects are also evident in Table 1. Negative cross price terms imply that two animals are incompatible
+whereas positive cross price terms imply that they can be raised
+jointly. For example, the coefficient on the price of goats (chickens) is positive (negative) for beef and dairy cattle but negative
+(positive) for sheep, implying that goats (chickens) can be raised
+with cattle (sheep) but not sheep (cattle).
+Most climate variables are significantly different from zero.
+The quadratic summer temperature coefficients are positive for
+goats, sheep, and dairy cattle implying a U-shaped function
+but the temperature response function for beef cattle is hillshaped. The quadratic coefficients of the precipitation variables
+are generally positive, indicating a U shape except for beef cattle
+and dairy cattle responses to winter precipitation. Although
+not shown in Table 1, we also tested for the effects of other
+important control variables such as water availability, altitude,
+and other social factors such as religion. These variables were
+dropped because they were not significant. We also tested a
+number of variables describing the farmer including gender,
+age, and education but these too were not significant and so
+were dropped.
+Fig. 2a graphs the relationship between the probability of
+choosing a species and annual temperature. Note that the mean
+temperature in sub-Saharan Africa is 22◦ C. The probability of
+
+S. N. Seo, R. Mendelsohn / Agricultural Economics 38 (2008) 151–165
+
+156
+
+choosing beef cattle and dairy cattle decreases rapidly as temperature rises. In contrast, the probability of choosing goats and
+sheep climbs as temperature rises. With chickens, the estimated
+probability is hill-shaped, with a maximum at the current mean
+temperature of Africa. The graph clearly reveals that farmers
+in Africa today choose animal species selectively to make the
+best use of the current temperature.
+Fig. 2b displays the estimated relationship between the probability of choosing a species and annual precipitation. The
+probability of choosing beef cattle, dairy cattle, and sheep all
+decreases as precipitation increases. Greater rainfall increases
+the probability of diseases such as Trypanosomiasis (Nagana),
+Theileriasis (East Coast Fever), and Rift Valley Fever (Ford
+and Katondo 1977; University of Georgia, 2007) and, perhaps
+more importantly, in the long term, shifts the ecosystem from
+savanna to forest (Sankaran et al., 2005). All three of the large
+grazing animals are clearly more productive in grasslands. In
+contrast to the above results, goats and especially chickens are
+more likely as rainfall increases. Goats may be relatively better
+able to forage successfully in forest settings.
+In the second stage of the analysis, we estimate the conditional net revenue functions. The net revenue per animal for
+each chosen species is regressed on climate variables, soil variables, a dummy variable for electricity, and sale price of the
+corresponding livestock. We identify these net revenue regressions by the sale prices. We account for selection bias by using
+the Dubin–McFadden selection bias correction terms. These
+conditional net revenue regressions use the same seasonal climate variables used in the choice regressions. The functional
+form is quadratic in both temperature and precipitation.
+
+Table 2 summarizes the results of the regression of the conditional net revenue per animal. These regressions confirm that
+the conditional net incomes from the five livestock are sensitive to climate. For beef cattle and chickens, the linear terms
+for summer temperature are positive and quadratic terms are
+negative, implying a hill-shaped response function. For goats
+and dairy cattle, the response functions are U-shaped, but the
+coefficients of the second-order terms are not significant. Summer precipitation response functions for all the species are Ushaped. Some soil variables are significant. Gleysol soils are
+especially harmful to dairy cattle, but beneficial to sheep. The
+price of dairy cattle, goats, chickens, and sheep have a positive
+own price elasticity while the own price elasticity of beef cattle
+is insignificant.
+The selection bias coefficients reveal interactions among the
+species. If the coefficients are negative (positive), they suggest
+that conditions which make the farm attractive to one species
+would make it less (more) attractive to the other. For example, in
+the beef cattle income regression, the coefficient on the selection
+term for sheep is positive, but the selection term for chickens
+is negative. The results reveal that farmers who the selection
+model predicted would choose sheep (but who actually chose
+beef cattle) have higher than expected beef incomes. Whereas
+if the selection model predicted the farmer would have chosen
+chickens but the farmer actually chose beef cattle, that farmer
+would have lower beef cattle income.
+Because the seasonal and quadratic terms make the climate
+variables difficult to interpret, we present the estimated climate
+response functions in Fig. 3. Fig. 3a shows how conditional net
+income per animal responds to temperature for each of the five
+
+Table 2
+Conditional net revenue per animal regression
+Beef cattle
+Variable
+Intercept
+Temp summer
+Temp summer sq
+Temp winter
+Temp winter sq
+Prec Summer
+Prec Summer Sq
+Prec Winter
+Prec Winter Sq
+Soil Cambisols
+Soil Gleysols
+Electricity
+Sale Price
+Cattle beef—selection
+Cattle dairy—selection
+Goats—selection
+Sheep—selection
+Chickens—selection
+ADJ RSQ
+N
+
+Estimate
+
+T-statistic
+
+280
+63.3
+−1.15
+−143
+3.94
+−2.76
+0.009
+−0.882
+−0.003
+−78.4
+−428
+147
+−44.1
+
+0.90
+2.35
+−2.37
+−6.22
+6.26
+−3.71
+2.74
+−0.76
+−0.46
+−0.70
+−1.90
+4.96
+−1.67
+
+−61.2
+205
+313
+−562
+0.75
+333
+
+−1.22
+0.99
+2.47
+−4.13
+
+Dairy cattle
+Estimate
+
+T-statistic
+
+6.83
+−7.98
+0.300
+0.639
+0.129
+−0.390
+0.002
+−0.409
+0.002
+92.9
+−516
+−24.08
+27.2
+−139
+
+0.04
+−0.53
+1.11
+0.04
+0.32
+−0.78
+0.84
+−0.66
+0.64
+1.80
+−3.08
+−1.35
+2.39
+−2.01
+
+380
+232
+−489
+0.27
+1043
+
+3.39
+2.29
+−7.07
+
+Chickens
+Estimate
+3.92
+0.621
+−0.010
+−1.29
+0.031
+0.007
+0.000
+0.006
+0.000
+−0.789
+0.680
+0.376
+0.419
+3.25
+−1.83
+5.65
+−6.33
+0.14
+888
+
+T-statistic
+1.19
+2.66
+−2.16
+−4.81
+4.33
+1.08
+2.32
+0.78
+3.36
+−1.10
+0.46
+1.87
+4.00
+3.60
+−3.49
+3.55
+−5.14
+
+Goats
+Estimate
+
+T-statistic
+
+−17.1
+−5.35
+0.119
+7.13
+−0.196
+0.033
+0.000
+0.028
+0.000
+−1.24
+−18.07
+2.13
+4.82
+−8.04
+13.6
+
+−0.45
+−2.04
+2.54
+1.88
+−2.27
+0.56
+0.77
+0.26
+0.73
+−0.27
+−0.82
+1.01
+3.34
+−0.54
+1.71
+
+−16.7
+5.38
+0.17
+775
+
+−1.80
+0.44
+
+Sheep
+Estimate
+
+T-statistic
+
+69.3
+3.47
+−0.041
+−10.04
+0.21
+−0.068
+0.000
+0.004
+0.000
+−3.33
+58.1
+8.18
+37.7
+51.2
+−21.8
+−6.09
+
+2.82
+1.84
+−1.16
+−3.72
+2.93
+−1.30
+0.92
+0.04
+0.03
+−0.90
+2.67
+3.94
+4.76
+4.75
+−3.16
+−0.48
+
+−19.2
+0.20
+842
+
+−1.76
+
+S. N. Seo, R. Mendelsohn / Agricultural Economics 38 (2008) 151–165
+
+157
+
+P(Xi=1)
+1.0
+
+(a)
+0.9
+
+0.8
+
+0.7
+
+0.6
+
+0.5
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+0.0
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+T_MAEAN_YR
+BEEF CATTLE
+SHEEP
+
+PLOT
+
+DAIRY CATTLE
+CHICKEN
+
+GOAT
+
+Mean Temperature: C_Meat=19, C_Milk=19, Goat=24, Sheep=24, Chicken=21
+
+(b)
+P(Xi=1)
+1.0
+
+0.9
+
+0.8
+
+0.7
+
+0.6
+
+0.5
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+0.0
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+110
+
+120
+
+130
+
+140
+
+150
+
+160
+
+P_MANY_YR
+PLOT
+
+BEEF CATTLE
+SHEEP
+
+DAIRY CATTLE
+CHICKEN
+
+GOAT
+
+Mean Precipitation: C_Meat=58, C_Milk=63, Goat=68, Sheep=59, Chicken=76
+
+Fig. 2. (a) Estimated probability of selecting species given annual mean temperature; (b) estimated probability of selecting species given annual mean precipitation.
+
+158
+
+S. N. Seo, R. Mendelsohn / Agricultural Economics 38 (2008) 151–165
+
+Fig. 3. (a) Estimated net revenues given annual mean temperature; (b) estimated net revenues given annual mean precipitation.
+
+S. N. Seo, R. Mendelsohn / Agricultural Economics 38 (2008) 151–165
+
+species. The conditional net income per animal is generally
+higher for beef cattle but it decreases rapidly as temperature
+rises until the temperature reaches the African mean temperature, at which point farmers stop choosing beef cattle (see
+Fig. 2a). Commercial beef cattle are very profitable but they
+are largely restricted to temperate zones in Africa. By contrast, dairy cattle net revenue increases with higher temperature. Dairy cattle operations are currently concentrated in the
+temperate zones in East Africa and Southern Africa, but they
+are more widely spread across the continent than beef cattle.
+The conditional net income per animal for goats, sheep, and
+chickens changes with temperature, but the magnitude of the
+change is relatively small compared to cattle. Ceteris paribus,
+compared to beef cattle, these smaller animals—goats, sheep,
+and chickens—are likely to become relatively more attractive
+to African farmers as temperatures rise. The figure also indicates that dairy cattle might substitute for beef cattle in higher
+temperatures.
+Fig. 3b shows how conditional net revenue responds to precipitation. It is important in interpreting these results to recognize that increases in precipitation in Africa imply that land
+shifts from grassland to forest (not from unproductive to more
+productive pastureland). The conditional net revenue of beef
+cattle decreases precipitously the wetter it gets, whereas dairy
+cattle net revenues remain quite stable over a large range of precipitation. Sheep conditional net revenue also decreases with
+precipitation. The conditional net revenues of goats and chickens increase slightly.
+We also estimate a third set of regressions that predict the
+number of animals chosen of each species. We identify this third
+set of regressions by the percentage of grassland in each district.
+
+159
+
+Districts with more natural grassland can support more animals.
+As reported in Table 3, farms in districts with more grassland
+choose to own more beef cattle, dairy cattle, goats, and sheep per
+household. Farms with electricity own more animals in general
+but fewer sheep. Soil variables are mostly insignificant, except
+for the positive correlation between Gleysol soils and number
+of sheep. Some of the selection bias correction terms are also
+significant.
+The number of each species of livestock is defined to be a
+quadratic function of summer and winter temperature and precipitation as in the two previous regressions. For each animal,
+some of the climate variables are significant determinants of the
+number of that species. Summer temperature is significant for
+dairy cattle, chickens, and sheep, while winter temperature is
+significant for goats and sheep. The number of goats and sheep
+has a U-shaped relationship with winter temperature. Summer
+precipitation is significant for beef cattle, chickens, and sheep.
+The response is U shaped for chickens, but hill shaped for beef
+cattle and sheep.
+In Figs. 4a and b, we present how the estimated numbers of
+livestock change in response to temperature and precipitation.
+Fig. 4a shows that the number of beef cattle decreases sharply as
+temperature increases while that of dairy cattle shows a slight
+decrease. There are slight increases in the numbers of goats
+and sheep. Chickens have a U-shaped response function with
+respect to both temperature and precipitation, but we omit them
+from both figures because they are at an incompatible scale.
+Fig. 4b shows that the numbers of dairy cattle and goats are
+quite stable over a large range of precipitation, but the number
+of beef cattle decreases rapidly with more rainfall. The sheep
+increase in number as rainfall increases, despite the fact that
+
+Table 3
+Conditional number of animal regression
+Beef cattle
+Variable
+Intercept
+Temp Summer
+Temp Summer Sq
+Temp Winter
+Temp Winter Sq
+Prec Summer
+Prec Summer Sq
+Prec Winter
+Prec Winter Sq
+Soil Cambisols
+Soil Gleysols
+Electricity dummy
+% grasslands
+Cattle beef—selection
+Cattle dairy—selection
+Goats—selection
+Sheep—selection
+Chickens—selection
+ADJ RSQ
+N
+
+Estimate
+223
+−12.6
+0.229
+−25.5
+0.488
+2.13
+−0.01
+−0.378
+−0.002
+8.87
+4.32
+145
+261
+3.71
+−546
+426
+86.1
+0.33
+381
+
+T-statistic
+0.82
+−0.52
+0.51
+−1.09
+0.72
+3.14
+−3.36
+−0.39
+−0.29
+0.09
+0.02
+5.35
+3.41
+0.08
+−3.14
+3.74
+0.72
+
+Dairy cattle
+Estimate
+
+T-statistic
+
+−58.05
+3.78
+−0.063
+1.21
+−0.055
+0.089
+0.000
+0.204
+−0.001
+−4.31
+12.6
+0.665
+14.1
+−4.73
+
+−3.20
+2.90
+−2.77
+0.83
+−1.43
+1.76
+−1.89
+3.10
+−2.45
+−0.77
+0.73
+0.36
+1.72
+−0.75
+
+−5.45
+−16.5
+23.3
+0.12
+1036
+
+−0.48
+−1.58
+3.44
+
+Chickens
+Estimate
+1, 981
+−160
+3.66
+0.046
+0.143
+−2.42
+0.022
+1.96
+−0.008
+251
+−436
+298
+−208
+219
+−132
+497
+−325
+0.12
+876
+
+T-statistic
+1.80
+−2.08
+2.42
+0.00
+0.06
+−1.20
+2.85
+0.80
+−0.49
+1.05
+−0.89
+3.59
+−0.92
+0.63
+−0.70
+0.89
+−0.79
+
+Goats
+Estimate
+
+T-statistic
+
+20.8
+2.35
+−0.037
+−5.55
+0.142
+−0.042
+0.000
+0.010
+0.000
+0.806
+−26.8
+6.04
+3.91
+29.7
+−5.34
+
+0.65
+1.28
+−1.07
+−1.96
+2.12
+−0.88
+0.71
+0.13
+−0.03
+0.21
+−1.47
+3.51
+0.70
+3.21
+−0.94
+
+1.51
+−25.9
+0.03
+774
+
+0.24
+−2.53
+
+Sheep
+Estimate
+14.5
+7.59
+−0.123
+−10.6
+0.224
+0.212
+0.000
+0.148
+0.002
+−2.33
+62.4
+−1.33
+41.5
+12.5
+−35.2
+17.9
+16.6
+0.09
+810
+
+T-statistic
+0.70
+4.31
+−3.81
+−4.34
+3.65
+4.36
+−0.66
+1.69
+2.43
+−0.73
+3.17
+−0.71
+6.37
+1.19
+−4.98
+1.59
+1.67
+
+160
+
+S. N. Seo, R. Mendelsohn / Agricultural Economics 38 (2008) 151–165
+
+Fig. 4. (a) Estimated numbers of animals given annual mean temperature; (b) estimated numbers of animals given annual mean precipitation.
+
+higher rainfall implies they are less frequently chosen and their
+net revenue declines.
+Table 4 shows how all three decisions would change with
+a marginal change in climate. As can be seen from the top
+panel, as temperature rises, farmers switch away from beef
+
+cattle, dairy cattle, and chickens and toward goats and sheep.
+These changes are supported in the second panel of the table
+by the decrease in income from beef cattle in comparison to
+the increase in income for sheep and relatively small change in
+income for goats. Farmers accordingly reduce the number of
+
+S. N. Seo, R. Mendelsohn / Agricultural Economics 38 (2008) 151–165
+Table 4
+Marginal effects of climate on outcomes
+Beef cattle Dairy cattle
+Probability (%)
+Baseline
+9.40%
+27.3%
+Temperature
+−1.29% −1.34%
+Precipitation
++0.2%
+−0.02%
+Net revenue ($/head)
+Baseline
+221
+145
+−5.57
++11.07
+Temperature
+Precipitation
+−0.72
+−0.01
+Number (head/farm)
+Baseline
+57.4
+5.65
+Temperature
+−7.99
++0.01
+Precipitation
+−0.32
++0.02
+
+Goats
+
+Sheep
+
+Chickens
+
+20.8%
++1.09%
+−0.01%
+
+21.8%
++1.68%
+−0.36%
+
+22.9%
+−0.84%
++0.22%
+
+11.5
+−0.42
++0.08
+
+17.8
++0.13
+−0.02
+
+1.55
++0.07
++0.03
+
+11.3
++1.24
+−0.01
+
+13.07
++0.25
++0.21
+
+137
++11.1
++3.48
+
+Note: Temperature is measured in ◦ C and precipitation in mm/month.
+
+beef cattle substantially as observed in the third panel while they
+increase the number of goats and sheep. As rainfall increases,
+farmers move away from beef cattle, dairy cattle, and sheep
+toward goats and chickens. With the increase in rainfall, the
+net income of beef cattle, dairy cattle, and sheep declines, but
+the net income of goats and chickens increases. Although not
+completely consistent across the three analyses, the table clearly
+indicates that farmers would substitute beef cattle for goats and
+sheep as temperature rises and they would substitute cattle and
+sheep for goats and chickens as rainfall increases.
+5. Climate simulations
+We now simulate the consequences of climate change using
+the parameter estimates from the previous section. We examine a set of climate change scenarios predicted by Atmospheric
+Oceanic General Circulation Models (AOGCMs). The climate
+scenarios reflect the A2 SRES scenarios from the following
+three models: the Canadian Climate Center (CCC) scenario
+(Boer et al., 2000), Center for Climate System Research (CCSR)
+(Emori et al., 1999), and Parallel Climate Model (PCM) (Washington et al., 2003). The models were selected to provide a range
+of climate scenarios from mild (PCM) to severe (CCC). For each
+model, we examine country-level climate change scenarios in
+2020, 2060, and 2100. For each climate scenario, we added
+Table 5
+African average AOGCM climate scenarios
+Current
+Temperature
+CCC
+CCSR
+PCM
+
+2020
+
+2060
+
+2100
+
+(◦ C)
+23.3
+23.3
+23.3
+
+Rainfall
+(mm/month)
+CCC
+79.8
+CCSR
+79.8
+PCM
+79.8
+
++1.6
++2.0
++0.6
+
++3.6
++2.8
++1.6
+
++6.7
++4.1
++2.5
+
+−3.7%
+−7.0%
++12.5%
+
+−9.9%
+−4.0%
++1.1%
+
+−18.4%
+−22.0%
++4.3%
+
+161
+
+the change in temperature predicted by each climate model to
+the baseline temperature in each district. We also multiplied the
+percentage change in precipitation predicted by each climate
+model by the baseline precipitation in each district or province.
+This gave us a new climate for every district in Africa for each
+model and each time period.
+Table 5 summarizes the climate scenarios of the three models for the years 2020, 2060, and 2100. The models predict a
+broad set of scenarios consistent with the range of outcomes
+in the most recent IPCC (Intergovernmental Panel on Climate
+Change) report (Houghton et al., 2001; IPCC, 2007). In 2100,
+PCM predicts a 2◦ C increase, CCSR predicts a 4◦ C increase, and
+CCC predicts a 6◦ C increase in temperature in Africa. Rainfall
+predictions are noisier: PCM predicts an average 10% increase,
+CCC predicts a 10% decrease, while CCSR predicts a 30% average decrease of rainfall in Africa. In addition to the mean rainfall in Africa varying substantially across the scenarios, there is
+also substantial variation in rainfall across countries within each
+scenario.
+The three climate models predict temperatures to increase
+steadily until 2100 although at different rates. Precipitation predictions, however, vary across time: CCC predicts a declining
+trend; CCSR predicts an initial decrease, and then increase,
+and decrease again; PCM predicts an initial increase, and then
+decrease, and increase again.
+We used the parameters from our estimated models in the
+previous section to simulate the impacts of climate change on
+the expected revenue of livestock management under various
+scenarios. Table 6 shows the changes in the probabilities of
+choosing a particular species for each climate scenario. CCC
+scenario predicts farmers to shift away from beef cattle, dairy
+cattle, and chickens to goats and sheep by 2020. Under the wet
+PCM scenario, sheep ownership also declines. Under the dry
+CCSR scenario, beef cattle are chosen less often, but to a lesser
+degree. These results are consistent with our earlier response
+
+Table 6
+Predicted change in the probability of selecting each animal from AOGCM
+climate scenarios
+
+Baseline
+probability
+2020
+CCC
+CCSR
+PCM
+2060
+CCC
+CCSR
+PCM
+2100
+CCC
+CCSR
+PCM
+
+Beef
+cattle
+
+Dairy
+cattle
+
+Goats
+
+Sheep
+
+Chickens
+
+9.40%
+
+27.3%
+
+20.8%
+
+21.8%
+
+22.9%
+
+−1.48%
+−0.91%
+−2.73%
+
+−3.09%
+−3.94%
+−5.17%
+
++2.48%
++2.43%
++10.21%
+
++3.10%
++2.81%
+−4.10%
+
+−1.89%
+−1.06%
+−1.93%
+
+−2.15%
+−3.47%
+−2.40%
+
+−6.59%
+3.10%
+−3.35%
+
++10.4%
++0.07%
+−1.14%
+
+−2.49%
++1.28%
++9.59%
+
+−2.82%
+−3.44%
+−5.01%
+
+−0.83%
+−0.41%
+−1.83%
+
+−6.53%
+−6.23%
+−7.35%
+
+−3.34%
++6.45%
++10.7%
+
++15.9%
++3.18%
+−2.19%
+
+−9.94%
+−4.10%
+−4.55%
+
+S. N. Seo, R. Mendelsohn / Agricultural Economics 38 (2008) 151–165
+
+162
+
+Table 7
+Predicted change in net income per animal from AOGCM climate scenarios
+(US$/animal)
+Beef cattle
+Baseline
+2020
+CCC
+CCSR
+PCM
+2060
+CCC
+CCSR
+PCM
+2100
+CCC
+CCSR
+PCM
+
+Dairy cattle
+
+Goats
+
+Sheep
+
+Chickens
+
+224
+
+150.1
+
+11.1
+
+16.7
+
+1.60
+
++6.71
+−0.89
+−82.7
+
++19.9
++19.9
++29.4
+
+−1.45
+−1.48
++3.75
+
+−1.06
+−1.12
+−4.10
+
++0.26
++0.45
++3.02
+
+−78.8
+−44.6
++30.8
+
++33.8
++12.5
++32.8
+
++2.37
+−1.92
+−5.07
+
+−3.30
+−3.51
++0.17
+
++3.08
++0.84
++0.70
+
++100.6
+−24.9
+−66.8
+
++68.1
++49.8
++44.8
+
+−7.84
++1.13
++1.90
+
++1.69
++0.75
+−4.12
+
++1.82
++1.85
++3.46
+
+Table 8
+Predicted change in numbers of each animal per farm from AOGCM climate
+scenarios (animals/farm)
+Beef cattle Dairy cattle
+Baseline
+2020
+CCC
+CCSR
+PCM
+2060
+CCC
+CCSR
+PCM
+2100
+CCC
+CCSR
+PCM
+
+58.3
+
+5.50
+
+Goats
+
+Sheep
+
+Chickens
+
+11.7
+
+13.6
+
+140.9
+
+−12.9
+−9.91
+−24.8
+
++0.39
++0.95
+−0.46
+
++3.94
++4.13
++3.99
+
++1.68
++3.30
++31.1
+
++41.8
++8.86
++122.7
+
+−22.9
+−19.2
+−19.8
+
+−0.34
+−1.07
+−0.39
+
++6.34
++4.73
++12.4
+
++29.8
++7.13
++2.61
+
++108
++27.9
++60.7
+
+−27.6
+−37.2
+−30.4
+
+−1.39
++1.18
+−0.59
+
++24.8
++8.54
++8.95
+
++9.97
++14.1
++34.1
+
++204
++207
++178
+
+functions of species choices in Figs. 2a and b. This general
+trend also continues until 2100.
+We show the changes in the conditional net incomes per animal in Table 7. By 2100, the net income from beef cattle will
+
+decrease over the next century by 30% with the PCM scenario,
+by 10% according to the CCSR scenario, but increase by 50%
+according to the CCC scenario. Net incomes for dairy cattle
+increase by 30–50% by the year 2100. Net incomes for sheep
+increase with the CCC and CCSR scenarios, but decrease with
+the PCM scenario. On the contrary, net incomes for goats increase according to CCSR and PCM scenarios, but decrease
+with the CCC scenario. Net incomes for chickens increase especially under the wet PCM scenario in 2100.
+Table 8 calculates the changes in the number of animals of
+each species for each climate scenario. These results are consistent with the previous two tables on probabilities and net
+incomes indicating that beef cattle will decline substantially
+while goats, sheep, and chickens will increase over the coming
+century. Across the models, the number of beef cattle is predicted to decrease by an average of 15 per farm in 2020, 20 per
+farm in 2060, and 33 per farm in 2100. The number of dairy
+cattle is predicted to remain quite stable over the next 100 years.
+Goats increase in number by 4 in 2020, by 7 in 2060, and by 13
+on average in 2100. The numbers of sheep and chickens also
+are expected to increase.
+Combining the results from Tables 6, 7, and 8, the expected
+change in net income is shown in Table 9 for each AOGCM
+scenario. The current average income from livestock management is around $900. For all the scenarios, the expected income
+from livestock farms is expected to drop substantially by 2020,
+by between 15 and 20%. In the CCC scenario, the loss from
+livestock sector declines to 10% by 2060 and turns into a large
+gain by 2100. With the CCSR scenario, the damages increase
+to 25% in 2060 with more precipitation but then shrink again
+by 2100. With the PCM scenario, there is a 15% loss of income
+by 2020, but this loss is offset completely by 2060, and turns
+into a gain by 2100.
+African farmers are expected to lose income initially because
+they must switch away from beef cattle to animals that provide
+lower returns (thus lowering the net income per animal) and
+reducing the number of valuable animals. These net results
+are consistent with the traditional Ricardian analysis of the
+
+Table 9
+Predicted change in expected income from AOGCM climate scenarios (US$)
+Mean (US$/farm)
+Expected income
+2020
+CCC
+CCSR
+PCM
+2060
+CCC
+CCSR
+PCM
+2100
+CCC
+CCSR
+PCM
+
+% Change
+
+882
+
+Total (billions US$)
+
+Bootstrap lower 95%
+
+Bootstrap upper 95%
+
+60
+
+−162
+−176
+−137
+
+−18.4%
+−19.9%
+−15.5%
+
+−11.05
+−11.9
+−9.33
+
+−220.1
+−236
+−214
+
+−104
+−115
+−60
+
+−101
+−220.1
++5.1
+
+−11.4%
+−24.9%
++0.58%
+
+−6.88
+−14.9
++0.35
+
+−178
+−292
+−70.8
+
+−23.9
+−148
++81.1
+
++1488
+−71.3
+55.2
+
++168%
+−8.08%
+6.26%
+
++101.2
+−4.85
++3.76
+
++1343
+−143
+−24.8
+
++1633
++0.59
++135
+
+S. N. Seo, R. Mendelsohn / Agricultural Economics 38 (2008) 151–165
+
+same data (Seo et al., 2007). However, farmers will be able
+to substitute species, reducing this initial damage over time.
+The 95% confidence interval was calculated for all of these
+estimates using 200 bootstrap runs. The estimated damages
+are significantly different from zero for most of the AOGCM
+scenarios in 2020, 2060, and 2100 except for the PCM scenarios
+in 2060 and 2100.
+Table 9 also extends the analysis from the sample to all farms
+in Africa. This leads to an estimate of the aggregate livestock
+impact across Africa. The results suggest that the damage will
+vary from a loss of $9 to $12 billion in livestock income in
+2020, from zero to a $15 billion loss in 2060, and finally from
+a loss of $5 billion to a gain of $100 billion in 2100. In the long
+run, climate change will be beneficial to the livestock sector in
+Africa and this will offset some of the expected losses to crops
+(Kurukulasuriya et al., 2006).
+
+6. Conclusion
+This article uses a structural equation model to capture the
+endogenous choices made by farmers and their resulting expected income. The model assumes that farmers choose the
+profit-maximizing level of inputs for each animal, the species
+that provides the highest net revenue, and the number of animals of that species. The article tests whether these decisions
+are influenced by climate. The resulting model gives insights
+into how farmers might adapt to climate change.
+The model is applied to 5,000 livestock farmers in Africa.
+The multinomial choice model reveals that the probability of
+selecting beef cattle, dairy cattle, and chickens diminish sharply
+in warmer places. This is completely consistent with the observation that commercial cattle operations are currently located
+only in temperate locations across Africa, such as South Africa
+and Kenya. Furthermore, the model predicts that numbers of
+goats and sheep will increase with warming. This again is consistent with observations of where goats and sheep are currently
+located, in relatively hot locations such as Burkina Faso, Niger,
+and Senegal. The model also reveals that beef cattle and sheep
+are more common in dryer areas, whereas goats and chickens
+are more common in wetter locations.
+The conditional net revenue analysis supports the multinomial choice results in general. Net revenue of beef cattle is
+lower in warmer places, but net revenue of sheep is higher
+in warmer places. In a wetter place, net revenue from goats
+and chickens is higher, but sheep net revenue is lower. Consequently, farmers move away from beef cattle to goats and
+sheep in warmer places. Farmers shift from cattle and sheep
+to goats and chickens in wetter places and the reverse in dryer
+places.
+Finally, the predicted number of animals of each species
+is also consistent with the results from the multinomial logit
+choice and conditional net revenue analysis. The number of
+beef cattle declines rapidly with warming while the number of
+dairy cattle changes little. By contrast, the number of goats,
+
+163
+
+sheep, and chickens increases. With a precipitation increase
+(decrease), the number of beef cattle declines (increase) while
+the number of chickens increases (falls). As the net profitability
+of livestock falls, farmers will reduce their investments in that
+livestock and reduce their herds. This is especially evident with
+beef cattle and warmer temperatures.
+There has been very little quantitative research on animal
+husbandry in Africa so there are few empirical studies with
+which to compare these results. A standard Ricardian analysis
+was done by Seo et al. (2007), using the same data. The results
+of the standard Ricardian model are not exactly the same but are
+consistent with the results in this article. That is, the Ricardian
+analysis predicted that net revenues of large commercial farms
+will fall with either rising temperature or rising rainfall levels,
+but those of small household farms will increase with warming
+due to their reliance on goats and sheep.
+All the AOGCM predictions suggest that the expected profit
+from African livestock management will fall as early as 2020.
+Most of this effect is from the falling profitability of large beef
+cattle operations. Even small changes in temperature will be
+sufficient to have a relatively large effect on beef cattle operations. Additional warming will still be harmful, but farmers
+will be able to make necessary substitutions to avoid further
+damages, thereby lessening the magnitude of damage. Large
+farms dependent on beef cattle will be especially hard hit. In
+contrast, small farms that switch to sheep or goats may not be as
+vulnerable to higher temperatures compared with large farms
+that cannot make this switch.
+Precipitation also plays an important role in the AOGCM results. Scenarios with more precipitation, for example the CCSR
+2060 scenario, are more harmful. Because pastures and ecosystems in general are more productive with more rain, this result
+may seem counterintuitive. However, in Africa, increased precipitation may increase animal diseases such as Nagana, East
+Coast Fever, and Rift Valley Fever that are quite significant
+for livestock (Ford and Katondo 1977; University of Georgia, 2007). Perhaps more importantly, more rain shifts savanna
+or grasslands into forest ecosystems (Sankaran et al., 2005).
+These grasslands are more productive for sheep, dairy cattle,
+and beef cattle. Reductions in precipitation from large to moderate levels appear to be beneficial to livestock. As long as there
+is sufficient precipitation to support grasslands, livestock will
+gain.
+This analysis reveals one way that farmers will be able to
+adapt to climate change. It suggests that small farmers will
+switch species and move away from beef cattle, dairy cattle,
+and chickens toward goats and sheep. Small farmers will be
+able to make these changes without much change in expected
+income. However, climate change is predicted to reduce the
+net incomes of large farms considerably. African policy makers must be careful to encourage private adaptation during this
+period of change. There may be nothing that can be done to sustain the large cattle operations that depend on current climate.
+Providing subsidies or other enticements for such operations
+to continue once climate changes occur would only compound
+
+S. N. Seo, R. Mendelsohn / Agricultural Economics 38 (2008) 151–165
+
+164
+
+the situation. Instead, governments should encourage farmers
+to change the composition of animals on their farms as needed.
+That is, they should inform farmers about how other livestock
+owners have coped with higher temperatures and share indigenous knowledge. Governments should anticipate that farmers
+will make changes on their lands and do whatever is needed to
+facilitate these changes.
+In interpreting these results, there are several caveats that
+should be kept in mind. First, this analysis does not include the
+effect of global warming on prices. We assumed global market prices of livestock are relatively stable over the century. If
+instead there are large changes in livestock prices, these results
+will overestimate the welfare effects of climate change. Second,
+we assumed adaptations can take place as needed. For example, farmers can switch across types of livestock as temperature
+increases and rainfall decreases. However, this may not be the
+case if the adjustment requires a heavy capital investment or
+substantial learning. Third, we assumed that in forecasting climate change impacts, the only thing that changes in the future is
+climate. Many things, however, will change over the century, including population, technologies, institutional conditions, and
+
+reliance on agriculture and livestock. Fourth, we assumed that
+ecosystems will change quickly as climate changes. This may
+not be the case as many forest ecosystems that will eventually
+shift to another ecosystem may survive well into the future.
+Fifth, the analysis did not examine climate variation or extreme
+events. Although it is not clear whether climate variance will
+change in the future (IPCC, 2007), any change in climate variance is likely to have a profound effect on African livestock.
+Lastly, the survey collected only limited data on the cost of
+raising livestock. The study did not have a complete account
+of all the costs of raising livestock. Future studies should address these issues to provide more accurate measures of climate
+change impacts.
+The overall conclusions of the analysis suggest that there
+will be damages from global warming to African livestock
+in the next 20 years of between $9 and $12 billion. Damages in midcentury will depend on precipitation patterns. In
+the long run, global warming will likely be beneficial to the
+livestock sector in Africa and this will help offset some of
+the expected losses to African crops (Kurukulasuriya et al.,
+2006).
+
+Appendix 1: Description of the variables
+Variables
+
+Description
+
+Temperature summer
+
+Average of May, June, and July temperature in the northern hemisphere obtained from the U.S. Defense Ministry satellites for the
+period of 1988–2004. Average of November, December, and January temperature in the southern hemisphere.
+(Temperature summer)2
+Average of May, June, and July Precipitation in the northern hemisphere obtained from the U.S. Defense Ministry satellites for the
+period of 1988–2004. Average of November, December, and January precipitation in the southern hemisphere.
+(Precipitation summer)2
+Average of November, December, and January temperature in the northern hemisphere obtained from the U.S. Defense Ministry
+satellites for the period of 1988–2004. Average of May, June, and July temperature in the southern hemisphere.
+(Temperature winter)2
+Average of November, December, and January precipitation in the northern hemisphere obtained from the U.S. Defense Ministry
+satellites for the period of 1988–2004. Average of May, June, and July precipitation in the southern hemisphere.
+(Precipitation winter)2
+Parent materials are medium- and fine-textured materials derived from a wide range of rocks, mostly in colluvial, alluvial, or aeolian
+deposits. Cambisols are characterized by slight or moderate weathering of parent material and by absence of appreciable quantities
+of illuviated clay, organic matter, aluminium, and/or iron compounds. This soil is found at level to mountainous terrain in all
+climates and under a wide range of vegetation types.
+Wetland soils that, unless drained, are saturated with groundwater for long enough periods to develop a characteristic “gleyic colour
+pattern”
+A dummy variable for electricity
+Price of 1 beef cattle
+Price of 1 liter of milk
+Price of 1 goat
+Price of 1 sheep
+Price of 1 chicken
+Sale prices of the corresponding livestock
+Percentage of grassland within a district
+Probability that species k is chosen
+Net revenue earned from species k divided by the number of the species
+Number of species k at the farm
+Summation over all species of Pk∗ Net revenue per species k ∗ Number of species k
+
+Temperature summer sq
+Precipitation summer
+Precipitation summer sq
+Temperature winter
+Temperature winter sq
+Precipitation winter
+Precipitation winter sq
+Soil Cambisols
+
+Soil Gleysols
+Electricity
+Beef cattle price
+Milk price
+Goats price
+Sheep price
+Chickens price
+Sale price
+% grasslands
+Pk
+Net revenue per species k
+Number of species k
+Expected net revenue
+
+S. N. Seo, R. Mendelsohn / Agricultural Economics 38 (2008) 151–165
+
+References
+Adams, R., McCarl, B., Segerson, K., Rosenzweig, C., Bryant, K. J., Dixon,
+B. L., Conner, R., Evenson, R. E., Ojima, D., 1999. The economic effects
+of climate change on US agriculture. In: Mendelsohn, Neumann (Eds.),
+The Impact of Climate Change on the United States Economy. Cambridge
+University Press, Cambridge, UK, pp. 18–54.
+Andrews, D. K., Buchinsky, M., 2000. A three-step method for choosing the
+number of bootstrap repetitions. Econometrica 68, 23–51.
+Boer, G., Flato, G., Ramsden, D., 2000. A transient climate change simulation
+with greenhouse gas and aerosol forcing: projected climate for the 21st
+century. Clim. Dyn. 16, 427–450.
+Bourguignon, F., Fournier, M., Gurgand, M., 2004. Selection bias corrections
+based on the multinomial logit model: Monte-Carlo comparisons. DELTA:
+Working Paper no. 20, DELTA.
+Chow, G., 1983. Econometrics. McGraw-Hill Book Company, New York.
+De Janvry, A., Fafchamps, M., Sadoulet, E., 1991. Peasant household behavior
+with missing markets: some paradoxes explained. Econ. J. 101(409), 1400–
+1417.
+Dinar, A., Hassan, R., Mendelsohn, R., Benhin, J., 2008. Climate Change
+and Agriculture in Africa: Impact Assessment and Adaptation Strategies.
+EarthScan, London.
+Dubin, J. A., McFadden, D. L., 1984. An econometric analysis of residential
+electric appliance holdings and consumption. Econometrica 52(2), 345–362.
+Emori, S. T. N., Abe-Ouchi, A., Namaguti, A., Kimoto, M., 1999. Coupled
+ocean-atmospheric model experiments of future climate change with an
+explicit representation of sulfate aerosol scattering. J. Meteorol. Soc. Jpn.
+77, 1299–1307.
+Food and Agriculture Organization, 2004. The Digital Soil Map of the World
+(DSMW) CD-ROM, FAO, Rome, Italy.
+Ford, J., Katondo, K., 1977. The Distribution of Tsetse flies in Africa. Organization of African Unity, Nairobi, Kenya.
+Greene, W. H., 1998. Econometric Analysis (3rd ed.). Prentice Hall, Upper
+Saddle River, NJ.
+Heckman, J. J., 1979. Sample selection bias as a specification error. Econometrica 47(1), 153–162.
+Houghton, J. T., Ding, Y., Griggs, D. J., Noguer, M., van der Linden, P. J.,
+Xiaosu, D. (Eds.), 2001. Climate Change 2001: The Scientific Basis. Cambridge University Press, Cambridge, UK.
+Intergovernmental Panel on Climate Change (IPCC), 2007. Summary for policy
+makers. In: Climate Change 2007: The Physical Science Basis. Contribution
+of Working Group I to the Fourth Assessment Report. Cambridge University
+Press, Cambridge, UK.
+Kurukulasuriya, P., Mendelsohn, R., Hassan, R., Benhin, J., Diop, M., Eid, H.
+M., Fosu, K. Y., Gbetibouo, G., Jain, S., Mahamadou, A., El-Marsafawy,
+S., Ouda, S., Ouedraogo, M., S`ene, I., Maddision, D., Seo, S. N., Dinar, A.,
+2006. Will African agriculture survive climate change? World Bank Econ.
+Rev. 20(3), 367–388.
+McCarthy, J., Canziani, O. F., Leary, N. A., Dokken, D. J., White, C. (Eds.),
+
+165
+
+2001. Climate Change 2001: Impacts, Adaptation, and Vulnerability. Cambridge University Press, Cambridge, UK.
+McFadden, D. L., 1981. Econometric models of probabilistic choice. In: McFadden, D. (Ed.). Structural Analysis of Discrete Data and Econometric
+Applications. MIT Press, Cambridge, MA, pp. 198–272.
+McFadden, D. L., 1999. Chapter 1. Discrete response models. University of
+California at Berkeley, Lecture Note.
+Mendelsohn, R., Nordhaus, W. D., Shaw, D., 1994. The impact of global
+warming on agriculture: a Ricardian analysis. Am. Econ. Rev. 84, 753–771.
+Mendelsohn, R., Kurukulasuriya, P., Basist, A., Kogan, F., Williams, C., 2007.
+Measuring climate change impacts with satellite versus weather station data.
+Clim. Change 81, 71–83.
+Moll, H. A. J., 2005. Costs and benefits of livestock systems and the role of
+market and nonmarket relationships. Agric. Econ. 32, 181–193.
+Oklahoma State University, 2007. Breeds of Livestock. Available at
+http://www.ansi.okstate.edu/breeds
+Pearce, D. W., Achanta, A. N., Cline, W. R., Fankhauser, S., Pachauri, R., Tol,
+R. S. J., Vellinga, P., 1996. The social costs of climate change: greenhouse
+damage and benefits of control. In: Bruce, J., Lee, H., Haites, E. (Eds.).
+Climate Change 1995: Economic and Social Dimensions of Climate Change.
+Cambridge University Press, Cambridge, UK.
+Sankaran, M., Hanan, N., Scholes, R., Ratnam, J., Augustine, D., Cade, B.,
+Gignoux, J., Higgins, S., Le Roux, X., Ludwig, F., Ardo, J., Banyikwa, F.,
+Bronn, A., Bucini, G., Caylor, K., Coughenour, M., Diouf, A., Ekaya, W.,
+Feral, C., February, E., Frost, P., Hiernaux, P., Hrabar, H., Metzger, K.,
+Prins, H., Ringrose, S., Sea1, W., Tews, J., Worden, J., Zambatis, N., 2005.
+Determinants of woody cover in African savannas. Nature 438, 846–849.
+Seo, S. N., Mendelsohn, R., Kurukulasuriya, P., 2007. Climate change impacts
+on animal husbandry in Africa: a Ricardian analysis. World Bank Policy
+Research Working Paper 4261, Washington, DC.
+Seo, S. N., Mendelsohn, R., 2007. Climate change adaptation in Africa: a
+microeconomic analysis of livestock choice. World Bank Policy Research
+Working Paper 4277, Washington, DC.
+Singh, I., Squire, L., Strauss, J., 1986. A survey of agricultural household
+models: recent findings and policy implications. World Bank Econ. Rev.
+1(1), 149–179.
+Tol, R. S. J., 2002. New estimates of the damage costs of climate change, part
+I: benchmark estimates. Environ. Resour. Econ. 21(1), 47–73.
+Train, K., 2003. Discrete Choice Methods with Simulation. Cambridge University Press, Cambridge, UK.
+United States Department of Agriculture (USDA), 2002. Census
+of Agriculture, Available at http://www.nass.usda.gov/census/census02/
+volume1/us/st99_1_002_002.pdf
+University of Georgia, College of Veterinary Medicine, 2007. Foreign Animal Diseases: The Greybook, Available at http://www.
+vet.uga.edu/vpp/grey_book02
+Washington, W., Weatherly, J., Meehl, G., Semtner, A., Bettge, T., Craig, A.,
+Strand, W., Arblaster, J., Wayland, V., James, R., Zhang, Y., 2003. Parallel
+climate model (PCM): control and transient scenarios. Clim. Dyn. 16, 755–
+774.
+
+

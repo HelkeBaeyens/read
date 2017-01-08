@@ -1,0 +1,1473 @@
+AGRICULTURAL
+
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics IS (1996) 17-28
+
+Production efficiency of Chinese agriculture: evidence from rural
+household survey data
+Jirong Wang *,Gail L. Cramer, Eric J. Wailes
+Department of Agricultural Economics and Rural Sociology, University of Arkansas, 221 Agriculture Building, Fayetteville AR, 72701, USA
+Accepted 10 May 1996
+
+Abstract
+A shadow-price profit frontier model is developed to examine production efficiency of Chinese rural households in farming operations.
+The model incorporates price distortions resulting from imperfect market conditions and socioeconomic and institutional constraints, but
+retains the advantages of stochastic frontier properties. The shadow prices are derived through a generalized profit function estimation. The
+shadow-price profit frontier is then estimated and an efficiency index based on the estimated profit frontier is computed and decomposed to
+household characteristics. Empirical results using data from China's Rural Household Survey for 1991 reject the neoclassical profit
+maximization hypothesis based on market prices in favor of the general model with price distortions. Farmers' resource endowment and
+education influence their response to the market restrictions, thus alter their performance in terms of efficiency. The estimated efficiency
+index ranges from 6% to 93% with a sample average of 62%. Households' educational level, family size and per capita net income are
+positively related to production efficiency. Households living in mountain areas or with family members employed by the government or
+state industries are relatively inefficient. Reducing market intervention, allowing right of use of farm land to be transferred among
+households, encouraging migration of excess farm labor, and promoting farmers' education will improve rural households' efficiency in
+agricultural production.
+
+1. Introduction
+The efficiency gains from improving resource
+allocation resulting from economic reforms in
+China's agriculture have been dramatic. Fan ( 1991)
+estimated that about 63% of the productivity change
+(at an average of 2.13% per year, 1965-1985) is
+attributable to improvement in efficiency. Lin ( 1992)
+found that the productivity change resulting from
+various reforms made up 42.23% of the output growth
+during 1978-1984, and no increasing trend in technological change was detected. Central to this transformation towards free markets in Chinese agricul-
+
+' Corresponding au thor.
+
+ture is the behavior of the individual rural household.
+With the Rural Household Responsibility System
+(RHRS) the basic production unit was shifted from
+collectivized farms to the rural households. Other
+reforms allowed for the sale of commodities to private parties and the free flow of surplus rural labor
+to local industries and urban areas. The agricultural
+sector responded to these reforms with increased
+production for most major commodities due to productivity gains. With the full implementation of
+RHRS nationwide in 1983-1984, the question of
+whether production efficiency is still a great potential for productivity growth remains unanswered.
+Although the economic reforms have greatly reduced
+direct control by government over production, various interferences in agricultural markets still distort
+
+0169-5150/96/$15.00 Copyright© 1996 Elsevier Science B.V. All rights reserved.
+Pl/ S0169-5150(96)01192-9
+
+18
+
+J. Wang et al.j Agricultural Economics 15 (/996) 17-28
+
+farmers' production decisions. The relationships between efficiency and market indicators and household characteristics have not been well studied in
+this unfolding process of agricultural reform. A better understanding of these relationships should aid
+policymakers in creating improved efficiency-enhancing policies and in judging the efficacy of past
+reforms. These relationships are also of interest to
+policymakers in other nations where government
+plays a major role in traditional agriculture.
+Production efficiency is usually analyzed by separately examining its two components: technical efficiency and allocative efficiency. Recent developments reported in the literature combine both measures into one system. This approach enables more
+efficient estimates to be obtained by simultaneously
+estimating the system (e.g. Kumbhakar, 1989; Kalirajan, 1990). However, previous research (post-1978)
+on Chinese agricultural productivity focused on total
+factor productivity, while technical efficiency and
+allocative efficiency were rarely examined 1•
+Although stochastic production frontier functions
+are most commonly used in studying production
+efficiency, Yotopoulos and others argued that a production function approach may not be appropriate
+when estimating the production efficiency of individual farms because they may face different prices and
+have different factor endowments (Ali and Flinn,
+1989). An attempt to incorporate firm level prices
+and input use led to profit function formulation. The
+early development of profit function models did not
+provide a numerical measure of firm specific efficiency (Aigner et al., 1977). Ali and Flinn (1989)
+directly estimated farm-specific efficiency from a
+random coefficient profit frontier function using
+market prices. In general, the use of standard dual
+representations of the production structure requires
+the corresponding maintained hypotheses of cost
+minimization or profit maximization, subject to parametric market prices. Thus, in the case of regulated
+industries or imperfect markets, as in China, these
+hypotheses may be invalid.
+A generalized profit function (behavioral profit
+1 Most post-1978 productivity studies focused on the effects of
+institutional changes on output and productivity growth (e.g. Lin,
+1992; McMillan et al. (1989); Fleisher and Liu ( 1992). Only Ma
+et al. (1989) examined efficiency at farm level.
+
+function) approach which incorporates market distortions resulting from imperfect market conditions has
+been developed in the literature. Kumbhakar and
+Bhattacharyya (1992) developed a behavioral profit
+function to test the appropriateness of a neoclassical
+profit function and the effect of education and farm
+size on allocative performance. Their model, however, does not provide a numerical measure of profit
+efficiency for each farm. A more recent study conducted by Ali et al. (1994) employed both stochastic
+frontier and behavioral profit functions separately in
+a study of Pakistan agriculture. The rejection of
+profit maximization based on observed market prices
+from the behavioral profit function, however, indicates that their stochastic frontier function, which
+was specified by using observed market prices, is
+subject to misspecification. Regarding post-1978
+Chinese agricultural efficiency studies, very few employed the dual approach and none incorporated
+market distortions.
+The objective of this study is to analyze production efficiency of farm households facing various
+market constraints in Chinese agriculture. An estimation process that incorporates market distortions but
+retains the advantages of stochastic frontier properties in efficiency analysis is developed in this study.
+China's Rural Household Survey data for 1991 are
+used for the empirical analysis. First~ a behavioral
+profit function is used to derive farmers' shadow
+prices. Then a stochastic frontier profit function,
+using the shadow prices obtained from the behavioral profit function, is estimated and the efficiency
+index is derived and related to farm households'
+demographic variables to identify the factors that
+affect farm households' efficiency.
+
+2. Modeling market distortions and the stochastic
+profit frontier
+Given the existence of binding constraints on
+decision-making, as revealed by a number of studies
+(e.g. Toda, 1976; Atkinson and Halvorsen, 1980;
+Kumbhakar and Bhattacharyya, 1992), the producers' decision is often made with respect to shadow
+prices-i.e. the prices that they actually paid and
+received, rather than observed market prices. The
+divergence between the shadow and observed market
+prices can be interpreted as the result of various
+
+J. Wang et al.j Agricultural Economics 15 (/996) 17-28
+
+market constraints, as well as allocative inefficiency
+caused by errors in optimization. One commonly
+used measure of the divergence between the two
+prices, based on Lau and Yotopoulos (1971), is to
+define a relationship between the normalized shadow
+price, p' ( w' for input), and the normalized market
+price, p ( w), as P} = ej pj and w: = ei W;, where ej
+and ei are (non-negative) price efficiency parameters. The subscripts j and i index outputs and inputs,
+respectively. If there are no bending market restrictions then () equals unity. Thus, a farmer is allocatively efficient with respect to observed market prices
+only when the observed market prices reflect the
+farmer's opportunity cost of inputs and outputs 2 •
+Based on the above settings, a profit-maximizing
+farmer's behavior can be expressed by specifying a
+behavioral profit (shadow profit) function, 1T * =
+7T( p', w', z) in the translog form, normalized by one
+input price, as:
+n-1
+
+ln7T
+
+a0
+
+* =
+
++ [, a 1 In( e1 pJ + [, /3;
+
+In( 8;w;)
+
+j
+
+19
+
+where j,k = 1,2 ... M are number of outputs, i,l =
+1,2 ... N-1 are number of inputs, q,h= 1,2 ... Q
+are number of fixed inputs, (e1p) and (e;w) are
+normalized shadow prices of outputs and inputs respectively, and z" are quantities of fixed inputs.
+Eq. (1) cannot be directly estimated to measure
+the profit efficiency 3 because the shadow prices are
+unobserved, and so is the shadow profit 1T *. In an
+empirical sample, however, whether or not a good
+approximation of the shadow profit ( 1T * ) exists depends on the specification of 1T *, as well as on
+survey design and the data collection mechanism.
+Given the shadow profit 1T * defined in Eq. (1),
+directly reported net returns that a farmer actually
+obtained from his operation under the market distortion can be a close approximation of 1T * in the data
+set to be used in this study 4 • To make estimation of
+Eq. (1) possible, we need information on () for the
+shadow prices. The following transformation serves
+the purpose.
+The shadow profit 1T *, normalized by enwn, can
+be expressed as:
+n- 1
+1r*
+
+= L,(e1p1)y1 - [, (e;w;)x;-xn
+
+(2)
+
+j
+
+Similarly, a non-distorted profit, 1T a (actual profit,
+as it is used in the literature 5 ), computed by using
+1
+
++- [, [, Yqhlnz"lnzh
+2
+
+q
+
+h
+
+n-1
+
++ [, [, (\)n( (JjpJin( eiwJ
+j
+
+n-1
+
++ [, [,e 1"Jn( e1pJinz" + [, [,
+j
+
+q
+
+J.L;qln( e;w;)Inz"
+
+q
+
+(1)
+
+2 Allocative efficiency is evaluated from the producer's point of
+view of profit maximization. It does not necessarily reflect social
+costs and therefore is not necessarily efficient in the sense of
+social cost-benefit assessment. It is also to be noted that the
+effects of errors in optimization on allocative efficiency cannot be
+separated from market distortions in this setting. Thus, the price
+efficiency parameter e may contain a combined source of price
+inefficiency.
+
+3 This study combines the concepts of technical and allocative
+efficiency in the profit relationship. Within a profit function
+context, profit efficiency is defined as the capability of a farm to
+achieve the highest possible profit given the prices and level of
+fixed factors. Since there were very limited market alternatives for
+farmers in China to market their products in 1991, much of their
+returns was determined by production decisions rather than market
+decisions. Thus, the profit efficiency actually measures farmers'
+production efficiency.
+4 Further discussion will be given in the data section.
+5 The terminology of 'actual profit' used for 'ITa= '£p y 1 1
+L.w;x; in the literature is misleading. 7Ta states what a farmer's
+profit would be if there were no market distortions or what the
+profit would be if the market prices were used for profit calculation based on the farmer's choices of y1 and x; made under
+market distortions. Since the market prices are not necessarily
+equal to the prices that the farmer actually paid and received, 1ra
+is not the actual profit that the farmer truly obtained from his
+practice in the distorted market.
+
+20
+
+J. Wang et al./ Agricultural Ecorwmics 15 (1996) 17-28
+
+the market prices and normalized by the price wn,
+can be written as:
+7Ta = EPjYj-
+
+E W;X;- Xn
+
+(3)
+
+j
+
+Substituting xn from Eq. (3) into Eq. (2) and
+applying Hotelling's lemma to the non-distorted
+profit function 7T a to obtain profit shares ( sj, sn,
+yields the following relationship between 7T * and
+7Ta:
+
+where
+a7Ta
+a7Ta Jln7Ta
+pjyj
+y.=-- x.=--- - - - = - 1
+apj ' I
+awi ' Jlnpj
+7Ta
+a
+= sj,
+
+Jln7Ta
+
+--- = -
+
+Jlnw;
+
+Ob
+
+w.x.
+
+=sa.
+
+_ I_I
+
+7Ta
+
+(5)
+
+1
+
+Further, by specifying a translog function for the
+non-distorted profit function ( 7T a), and taking logarithm on 7T * , we obtain the shadow profit expressed
+as the non-distorted profit function in translog form
+plus a distortion-adjusted component as:
+ln7T * = a 0
+
++ E aj lnpj +
+
+1
+
+2
+
+1
+ajklnp}npk
+
++2
+
+k
+
+j
+
+1
+
++- E
+2
+
+E /3; lnw; + E f'qlnzq
+i
+
+j
+
++- E E
+
+q
+
+E E
+
+E E
+
+{3i/lnw;lnw1
+
+i
+
+h
+
+o;}np}nw; +
+
+E Eejqlnpjlnzq
+j
+
+j
+
++ abeED)
+1,2 ... M,M + 1, ... M + N-
+
+exp( abo+ ab,R
+
+(7)
+
+where b =
+1, R is
+household laborjland ratio and ED is the summation
+of a household labor's educational level measured by
+the number of school years 7 •
+The parameter a 0 in Eq. (6) is assumed to embody fixed effects resulting from regional differences
+in average quality or initial average prices of outputs
+and inputs, so that it is specified as a function of
+county dummy variables De:
+
+(8)
+
+n-1
+
++
+
+=
+
+n- I n- I
+
+E 'Yqhlnzqlnzh
+
+q
+
+where farmers' actually paid (received) prices are
+different from observed market prices and the farmers directly reported their actual profit or total revenue and total costs based on the prices they actually
+paid (received). In such a case, 7T * , the profit that
+farmers actually obtained in a distorted market, contains more information than 7T a does 6 •
+Although the shadow prices are eliminated, Eq.
+(6) still contains the unobserved price efficiency
+parameters, oj and 0;, which are latent variables.
+They are assumed to be farm-specific in order to
+reflect an individual farmer's response to market
+distortions. Since one of our objectives is to examine
+whether education and relative resource endowment
+have any influence on price response to market
+distortions, we model 0 as follows for each input
+and output price:
+
+Further, a profit shifter can be formed to capture
+technical efficiency across households. Following
+Kumbhakar and Bhattacharyya ( 1992), technical efficiency is modeled as a function of farm size, FS, and
+the household labor's highest educational level
+achieved, EL:
+T= T 0
+
+q
+
++ T 1FS + T 2 EL
+
+(9)
+
+With the specifications of 0 in Eq. (7), a 0 in Eq.
+(8) and T in Eq. (9), Eq. (6) can be empirically
+
+n-1
+
++ E E IL;qlnw;lnzq
+q
+
+(6)
+It is worth noting that we specify 7T
+as a
+function of 7T a and price efficiency parameters, 0,
+rather than 7T a as a function of 7T * and 0 in the
+literature. This specification is designed for the case
+
+6 In cases where 7r • is unknown, a more generalized alternative which uses fitted 7T * has been developed by Wang, Wailes
+and Cramer.
+7 A preliminary statistical analysis shows that the labor /land
+ratio is correlated with several farm characteristic variables, such
+as farm size, off-farm employment, machinery use, because these
+variables are mainly affected by the scarcity of land and abundance of labor in China's agriculture.
+
+J. Wang et al./ Agricultural Economics 15 (1996) 17-28
+
+estimated to obtain the estimated price efficiency
+parameter (} and the effects of FS and EL on technical efficiency.
+The second step is to construct a stochastic
+shadow-profit frontier function. The estimated (}
+values from the first step are used to derive the
+shadow prices. The shadow prices are used directly
+as arguments in the translog profit function (Eq. (1))
+with an error term, g;, which is assumed to behave in
+a manner consistent with the stochastic frontier concept:
+
+(IO)
+It is assumed that v;, reflecting random disturbance, is normally distributed, while u; is a one-sided
+disturbance term used to represent the inefficiency
+measures. We assume u; has a half-normal nonnegative distribution, [N(O,a})l. The population average efficiency is given as:
+
+(II)
+where F is the standard normal distribution function.
+Following Jondrow et al. ( I982), the farm-specific
+estimates of inefficiency, u;, for each observation are
+derived from the conditional distribution of u;, given
+
+gi = V; + U;:
+
+E( u;l g;) =
+
+a;:v [I ~~C~:)u) - g~A]
+
+=
+
+u;'
+( I2)
+
+where u} and u} are the variance of V; and u;.
+A= uufuv, u 2 = u} + u}, and f and F are the
+standard normal density and cumulative distribution
+functions, respectively, estimated at g; A/ u.
+Finally, the farm-specific efficiency index
+(exp[- u;']) can be constructed using the results
+from Eq. ( I2). Since the inefficiency term u; is
+truncated at zero by the assumption of the frontier
+function, a truncated regression of a semi-log efficiency index against household demographic variables provides an appropriate decomposition of the
+efficiency index.
+
+3. Data and empirical estimation
+The data used for this empirical application are a
+subsample of China's National Rural Household Sur-
+
+21
+
+vey for 1991. This survey, started in 1955 by the
+General Organization of Rural Socio-Economic Survey of the State Statistical Bureau (SSB), evolved
+from the Chinese Rural Household Expenditure Survey initiated in the late 1970s. Since 1984, a multistage sampling procedure combined with interval
+sampling at the lowest level has been used in the
+survey design to ensure the random nature of the
+sample and to minimize sampling errors (State Statistical Bureau of China, 1993). The survey records
+all major production and consumption activities of
+70 000 participating households during the survey
+year.
+Farmers' production activities were influenced by
+various market distortions which mainly came from
+government intervention. By I991, for example, the
+state contract purchase for a specified quantity of
+output at a price fixed below the market price and
+the procurement of amounts that exceeded the contract quantities under the so-called 'negotiated
+prices', which in most cases were also lower than
+market prices, were major government influences in
+agricultural output markets. In the agricultural input
+markets, government-owned businesses delivered
+farm inputs, such as chemical fertilizers and diesel
+fuel, at low fixed prices to producers for many years.
+To facilitate procurement, the government has often
+used input subsidies to induce cooperation from
+farmers 8 .
+Other sociopolitical and institutional constraints
+faced by Chinese farmers also cause market distortions. For instance, there are always shortages in
+major material input supplies such as fertilizer. Some
+farmers may be able to obtain an adequate supply of
+fertilizer at the state distribution prices because of
+their personal relationship with state agencies, while
+others may have to pay a 'shortage premium'. Village leaders andjor families with non-farm-workers
+may have special privileges, such as access to credit
+or receive cash payment for their sales to the state
+
+8 Since 1993, China has brought reforms to its input supply
+system. Currently, a wide variety of businesses owned collectively
+and by the government are delivering inputs to rural area (US
+Department of Agriculture, 1993). However, the state planning
+system still imposes quantitative restrictions on farmers' access to
+subsidized inputs (Ye and Rozelle, 1994).
+
+22
+
+J. Wang et al.j Agricultural Ecorwmics 15 (1996) 17-28
+
+purchasing organizations, while others are forced to
+accept the state's use of promissory notes (IOU)
+instead of cash for their products 9 . In many cases,
+special fees have been levied by local governments
+on farmers that are related to procurement and input
+supply. In these situations, the actual prices received
+and paid by farmers are different from what has been
+observed in the market because of the existence of
+these non-price restrictions.
+The subsample used in this study is randomly
+selected from the national sample 10 • For the analysis
+in this study, 1786 observations were used. The
+survey contains no price variables. All farm-specific
+price variables in the analysis are unit values, imputed by using quantity and expenditure or revenue
+variables 11 • When imputed values are not possible
+(i.e. the household did not produce or purchase a
+specific output or input), the missing prices are set
+according to the average of the province where the
+household is located. Price indices for outputs and
+variable inputs are constructed using the Divisia
+index:
+
+(13)
+where lnpf is the price index for the jth aggregate
+for the hth household, r;~ is the share of the ith item
+in the jth aggregate for the hth household, lnpt is
+the price of the ith item in the jth aggregate for the
+hth household, r;j and lnp;j are the averages of the
+shares and prices for all households in the sample,
+respectively. The base for these indices is the aver-
+
+9 Well into the 1991 harvest season, some provinces had reportedly not completely paid off IOUs on the 1990 harvest (US
+Department of Agriculture, 1991 ).
+10 Several changes were made on the experimental design of the
+survey samples between 1950 and 1990. This may raise the
+question of consistency in a time series study, but it should not
+affect our use of a cross-section sample. Since the subsample we
+used in the analysis is randomly selected from the survey, the
+inadequate randomness and lack of sampling weight should not
+limit our statistical reference drawn from the random sample.
+11 The survey requires participating households to record only
+immediate revenue and cost without any associated benefits or
+expenditures for each sale or purchase. For example, if a farmer
+made a trip to buy some fertilizer, his travel and fertilizer transportation expenses would not be recorded under 'fertilizer expenditure' but under 'other expenditure'.
+
+age of the sample. Two output prices of crops and
+livestock, two variable input prices of chemical fertilizer and other purchased materials (including fuel,
+seeds, plastic sheets, pesticides, etc.), and three fixed
+inputs of labor (no hired labor was recorded), land
+and capital are aggregated from various of outputs
+and inputs recorded in the data set. Through the
+above aggregation, all households in the sample
+produced the two outputs and used the two variable
+inputs.
+For the non-land capital inputs, it is assumed that
+the service flow from the stock of capital is proportional to the stock. Consequently, a certain percentage of the stock value can be used as a proxy for the
+service flow. Land is taken as the total area of
+cultivated land including both contracted areas and
+private plots. The labor variable is defined as the
+total number of male-equivalents engaged in agricultural production. These fixed inputs are expressed in
+index form with the average of the sample used as a
+base. For the variables FS and EL in Eq. (9), four
+dummy variables-SF (small farm), LF (large farm),
+LE (low education) and HE (high education)-are
+constructed to distinguish relative farm size and the
+highest education level household labor achieved.
+The selected household demographic variables are
+family size, per capita net income, whether the
+household has any family member operating as a
+village leader or employed by government or state
+industries, and the household's geographic
+location 12 •
+Profit is defined as total revenue (including selfconsumption and storage) minus total variable costs.
+The data contain households' total revenue and total
+variable costs which are directly reported by the
+survey households for their operations of crops and
+livestock. The data also record the households' pro-
+
+12 The sample mean for FS is 12.8 mu (I mu equals 1/15 ha).
+The small (large) farms are the households that operate less
+(great) than 1.3 (100) mu of land. Lower education level is
+assigned if EL is primary school or less. Higher education level is
+assigned if EL is high school or college graduate. For the dummy
+variables used in the efficiency decomposition regression, small
+(large) families are the households having less (more) than three
+(six) people. High (low) income households are assigned if the
+household's per capita net income is greater (less) than 1000 (500)
+yuan. They are arbitrarily determined.
+
+J. Wang et al.j Agricultural Ecorwmics 15 (1996) 17-28
+
+Table I
+Parameter estimates of behavioral profit function
+Variable
+
+Parameter
+
+Coefficient
+
+t-ratio
+
+Constant
+In p 1 (crops)
+In p 2 (livestock)
+lnp 1lnp 1
+lnp2lnP2
+lnp 1lnp 2
+lnwc (chemicals)
+
+ao
+al
+
+8.3452
+0.4676
+0.5531
+3.5677
+0.2999
+-0.7983
+-0.0420
+-0.0467
+0.3645
+0.0599
+-0.0181
+0.2541
+-0.1017
+0.2505
+-0.5001
+-0.3429
+0.0213
+0.0287
+-0.7273
+0.0033
+0.0146
+0.0591
+-0.1148
+-0.5846
+0.0587
+-0.1018
+0.2505
+0.1088
+-0.1459
+-0.1364
+0.0959
+-0.8903
+0.4103
+-0.1588
+1.3249
+- 1.4945
+-0.1528
+-0.5696
+0.8273
+-0.0489
+0.0217
+
+23.24
+1.21
+2.91
+3.61
+1.40
+-1.83
+-0.60
+-1.03
+2.44
+0.33
+-0.24
+2.16
+-1.88
+3.96
+-5.15
+-1.82
+0.52
+0.14
+-2.10
+0.02
+0.13
+0.32
+-1.51
+-2.22
+0.78
+-1.88
+3.96
+2.85
+-1.09
+-1.45
+1.74
+-1.34
+4.28
+-1.20
+2.25
+-2.38
+-0.86
+-2.71
+3.24
+-0.61
+0.08
+
+inwcinwc
+In z 1 (land)
+In z2 (labor)
+In z3 (capital)
+lnz 11nz 2
+lnz 1lnz 3
+lnz 2lnz3
+lnz 1lnz 1
+lnz 2lnz 2
+In z3ln z3
+lnp 1lnz 1
+lnp 1lnz 2
+lnp 1lnz 3
+lnp 2lnz 1
+lnp 21nz 2
+lnp 21nz 3
+lnp 1lnwc
+lnp 2lnwc
+lnwclnz 1
+lnwcln z2
+lnwcln z3
+Constant ( eI)
+R(0 1)
+ED(0 1)
+Constant (0 2)
+R(0 2)
+ED(0 2)
+Constant ( Oc)
+R(Oc)
+ED (Oc)
+Small farm (SF)
+Large farm (LF)
+Low education (LE)
+High education (HE)
+
+a2
+all
+a22
+al2
+{31
+{311
+'Yi
+1'2
+1'3
+1'12
+
+Yn
+1'23
+1'11
+1'22
+1'33
+ell
+e12
+en
+
+e21
+e22
+e23
+
+811
+821
+ILJJ
+IL12
+JLn
+al
+all
+ale
+
+a2
+a2t
+a2e
+ac
+act
+ace
+Tis
+Til
+T21
+'T2h
+
+duction and sales of each commodity and input
+factors used for the operations. A means test shows
+that the means of the farmers' directly reported
+revenues and costs are significantly different from
+those computed using market prices. The differences
+may be caused by the existence of market restrictions and the prices used in valuing products of
+
+23
+
+inventory and direct household consumption 13 • To
+be consistent with the argument that 7T * contains
+more information than 7T" does, the revenues and
+costs directly reported by the farmer are used to
+generate the shadow profit for 7T *.
+In the first-step estimation, Eq. (6) is estimated
+using sj and sf derived from the non-distorted
+translog profit function On1r") to obtain estimates for
+the price efficiency parameters (e). It is necessary to
+substitute the price efficiency parameters 8 in Eq.
+(7) with the regional intercept in Eq. (8) and to add
+Eq. (9) to measure the technical efficiency. The
+model is estimated using a non-linear iterative seemingly unrelated regression (ITSUR) technique with
+symmetry and homogeneity conditions imposed.
+Kmenta and Gilbert (1968) have shown that the
+parameters estimated from the ITSUR procedure
+converge to maximum likelihood estimates. The estimates are reported in Table 1. In the second-step
+estimation, the behavioral (shadow-price) profit function (Eq. (1)) with all price variables adjusted by the
+estimated 8, along with the error term gi = v; + u;,
+is estimated by the stochastic frontier technique
+(LIMDEP, Green, 1992) to obtain the shadow-profit
+frontier. The estimated coefficients are given in Table
+2
+
+14
+
+4. Empirical results
+With the estimation of Eq. (6), the hypothesis of
+profit maximization based on market prices is tested
+by imposing the parameter restrictions of eb = 1 for
+all b. The value of the test statistic is 19. Compared
+
+13 The enumerators in each county construct the local prices
+used to evaluate products of inventory and own-consumption
+according to an average market price for each commodity at its
+peak season. Since the proportions of inventory and own-consumption varies across households (national average of own-consumption for grain products was 49.4% in 1990), the effect of
+these constructed prices on profit will not be reflected by the
+county dummy variables.
+14 To save space, the estimates of the county dummy variables
+are not reported in the tables. Based on the !-statistics, 56% of the
+estimates are significantly different from zero at the 0.05 level of
+significance for the behavioral estimation and 58% for the frontier
+estimation.
+
+24
+
+J. Wang et al.j Agricultural Economics 15 (1996) 17-28
+
+with the critical value 16.92 of x 2 with 9 degrees of
+freedom at the 0.05 level of significance, the restricted market price model is rejected in favor of the
+model with market distortion and allocative inefficiency. The test result indicates that profit maximization based on market prices may be inappropriate.
+Thus, the shadow profit model that incorporates
+market distortions is more suitable for this data
+sample 15 •
+The estimated farm-specific price efficiency parameters for crops (0 1), livestock (0 2 ), and chemical
+fertilizer (0) are computed for all observations. On
+average, 0 1 takes the value of 0.84 with 99% of the
+individual values less than one. The mean for 0 2 is
+found to be 0.86 and 96% of the individual values
+were less than one, indicating that the 'prices' actually received by farmers for their products of crops
+and livestock are less than the observed market price
+because of the existence of market distortions. On
+the input side, the mean of the farmers' shadow price
+of using chemical fertilizer is greater than the observed market price based on a mean for the estimated Oc of 1.16 with 53% of the individual values
+greater than one.
+The estimated values of 0 1,02 and Oc show that a
+farm household's educational level and laborjland
+ratio, as two primary variables of resource endowment, influence its allocative performance. The estimated values of 0 1, and Oc approach unity as the
+level of education increases, holding the labor/land
+ratio at the mean level (the estimated coefficient on
+education for 0 2 is not significant). This result indicates that the level of education improves allocative
+efficiency. The estimates of households' laborjland
+ratio exhibit a mixed effect on allocation performance. For example, a higher ratio raises the distortion effect on crops (in bringing 0 1 below unity); on
+the other hand, it reduces the distortion effect on
+livestock production and fertilizer use (in bringing
+the 0 2 and Oc close to unity) when holding education
+at the mean level. These results may reflect the fact
+that small-sized crop farms bear much output price
+
+15 Lopez (1985) shows that empirically the most flexible functional forms do not satisfy the properties of monotonicity and
+convexity globally. We did not test these properties for our profit
+function.
+
+Table 2
+Maximum-likelihood estimates of profit frontier function
+Variable
+Constant
+In p 1 (crops)
+In p 2 (livestock)
+lnp 1Inp 2
+Inp,Inp,
+lnp 2 lnp 2
+lnwc (chemical)
+lnwclnwc
+Inz 1 (land)
+In z 2 (labor)
+In z 3 (capital)
+Inz 1lnz 2
+Inz 1Inz 1
+Inz 2 lnz 2
+lnz 1lnz 3
+lnz 2 lnz 3
+In z31n z 3
+lnp 1lnz 1
+Inp 1ln z 2
+lnp 1lnz 3
+lnp 2ln z 1
+lnp 2 Inz 2
+lnp 2lnz 3
+1np 1lnwc
+lnp 2 1nwc
+lnwclnz 1
+1nwcln z 2
+lnwc1nz 3
+Lambda (a. I a;)
+Sigma (
+
+Parameter
+
+Coefficient
+
+t-ratio
+
+ao
+
+8.7189
+-0.4396
+0.4847
+-1.0591
+1.3671
+0.0887
+0.0003
+-0.0173
+0.3235
+0.0742
+0.1682
+-0.0546
+-0.0972
+0.0119
+0.0767
+0.0726
+-0.0021
+-0.7767
+0.4521
+-0.1788
+0.1304
+-0.1677
+0.0341
+-0.0143
+-0.0140
+0.0011
+-0.0067
+0.0238
+2.1448
+
+71.356
+-1.41
+2.41
+-2.76
+2.78
+0.84
+0.00
+-0.71
+2.86
+0.55
+3.30
+-0.56
+-2.83
+0.16
+1.80
+1.46
+-0.13
+-2.49
+1.20
+-1.23
+1.13
+-1.17
+0.66
+-0.06
+-0.19
+0.02
+-0.09
+0.95
+I 1.99
+
+a,
+
+az
+al2
+all
+
+azz
+{3,
+{3,,
+'Yi
+
+'Yz
+'Y3
+'Y!2
+'Yil
+
+'Y2z
+'Y13
+'Y23
+'Y33
+e,,
+e,z
+el3
+e21
+
+ezz
+e23
+811
+821
+IL11
+ILI2
+IL13
+
+Vu/ + u} )
+0":2
+u
+0":2
+v
+
+0.76 38
+0.47 92
+0.1042
+
+40.76
+
+log likelihood = - 1351.0
+
+distortion while some livestock producers may take
+advantage of specialization in livestock production.
+The estimated coefficients of technical efficiency
+variables show that the larger farms tend to be
+relatively technically efficient ( T 1L = 0.83) and the
+small farms are technically inefficient ( T 1s = - 0.57).
+Based on the estimated price efficiency parameters (0) from the first step, a maximum-likelihood
+estimate of the shadow profit frontier (Eq. (1) with
+Eq. (10)) is obtained and a profit efficiency index is
+derived. The mean of the profit efficiency measure,
+E(e-u), is 0.62. This result implies that an average
+of 38% of profit is lost due to inefficiency. The
+frequency distribution of the individual household's
+
+J. Wang et al.j Agricultural Economics 15 ( 1996) 17-28
+
+efficiency index (Table 3) shows that there is a wide
+variation in the level of efficiency among households. The efficiency estimates range from 0.06 to
+0.93. About 11.8% of households are in an efficiency range below 0.50. The standard errors of the
+inefficiency factor (a) contribute 91% to that of the
+total error term ( u ), which indicates that the inefficiency term dominates the total error term. These
+results imply that a considerable amount of profit
+can be obtained by improving technical and allocative efficiency in Chinese agriculture.
+The derived farm-specific efficiency index facilitates decomposition of the efficiency performance at
+the farm level. Such analyses allow us to identify the
+factors that influence farmers' efficiencies. Table 4
+contains the estimates of the truncated regression of
+the efficiency decomposition that explains relationship between a household's profit efficiency and its
+demographic characteristics. The results show that a
+household's educational level, family size and per
+capita net income are positively related to its efficiency. Households in mountain areas and households with family members employed by the government or state industries are relatively inefficient 16 •
+The estimated coefficients also show relatively large
+magnitude of net per capita income (0.40 for high
+net income and - 0.17 for low net income) and
+household size (0.14 for a large family and - 0.25
+for a small family) to efficiency performance. These
+results demonstrate the existence of economies of
+size in China's household farming system. The positive coefficients for a more highly educated household and village leader, although of relatively small
+magnitude, may reflect these households' privileges
+on accessing technology and market information.
+To verify how close a farmer's shadow profit can
+be approximated by his directly reported profit in the
+
+16 Most off-farm employees, especially those employed by the
+government and state industries, are married males. Their wives
+and children have remained in rural households. Farm-land was
+distributed basically according to the number of people in each
+household; therefore, relative lack of labor and experience causes
+lower efficiency. In general, this kind of household has less
+incentive to improve its performance because its well-being depends on off-farm income.
+
+25
+
+Table 3
+Frequency distribution of farm-specific profit efficiencies
+
+Mean
+STD
+Minimum
+Maximum
+
+Efficiency
+index
+
+FrePercent- Cumulative Cumulative
+frequency percentage
+quency age
+
+0.1-0.2
+0.2-0.3
+0.3-0.4
+0.4-0.5
+0.5-0.6
+0.6-0.7
+0.7-0.8
+0.8-0.9
+0.9-1.0
+
+33
+66
+121
+211
+313
+428
+416
+192
+6
+
+1.9
+3.7
+6.8
+11.8
+17.5
+24.0
+23.3
+10.8
+0.3
+
+38
+99
+220
+431
+744
+1172
+1588
+1780
+1786
+
+2.3
+5.5
+12.3
+24.1
+41.7
+65.6
+88.9
+99.7
+100
+
+0.6212
+0.1658
+0.0598
+0.9299
+
+survey, and to evaluate the effect of this approximation on the farmer's efficiency analysis, we performed a sensitivity analysis by using predicted
+shadow profit from a predicted shadow-profit model
+suggested in Wang et al. (1996). The distribution of
+the estimated efficiency index and its decomposition
+from the predicted profit model are very close to that
+derived from the model developed in this study. Both
+models yield the same mean of the profit efficiency,
+0.62. The predicted profit model estimates a slightly
+larger proportion of households (12.5% compared to
+11.8%) with an efficiency level below 0.50. The
+results of the efficiency decomposition (Table 4)
+show that the estimates from two different models
+are comparable. The sign of the estimates between
+the two models is the same for each variable. The
+magnitude of the estimates, as well as level of
+statistic significance, are similar between the two
+groups of estimates. This result indicates that farmer
+directly reported profit can be used as a proxy of
+shadow profit in shadow-profit analysis to simplify
+the estimation procedures. It also indicates the robustness of estimates obtained from the model specified in this study.
+The estimated parameters of the county dummy
+variables show that there are significant differences
+
+J. Wang et al.j Agricultural Economics 15 (1996) 17-28
+
+26
+
+Table 4
+Parameter estimates of efficiency index decomposition
+Variable
+
+Coefficient
+Constant
+High education
+Off-farm
+employment
+Large family
+Small family
+Mountain area
+High net income
+Low net income
+Village leader
+Sigma
+Log -likelihood
+
+Predicted profit
+model
+
+Actual profit
+model
+I- ratio
+
+Coefficient
+
+t-ratio
+
+-0.7460
+0.0503
+-0.1737
+
+-14.23
+1.44
+-3.19
+
+-0.7721
+0.0926
+-0.1514
+
+-14.11
+2.48
+-2.62
+
+0.1414
+-0.2548
+-0.1343
+0.4030
+-0.1738
+0.0426
+0.4247
+-401.15
+
+2.89
+-3.01
+-5.03
+7.68
+-1.84
+0.82
+34.10
+
+0.1726
+-0.2507
+-0.1425
+0.4153
+-0.1995
+0.0785
+0.4415
+-453.41
+
+3.33
+-2.83
+-5.10
+7.58
+-2.03
+1.41
+33.78
+
+in average profit across the regions. The county
+dummy variables explain 20.45% of total sample
+variations in this model and 25.56% in the predicted
+profit model. This result indicates that regional differences in socioeconomic conditions have a substantial influence on profit patterns among rural households in China. Further discussion of the regional
+effects, however, is beyond the scope of this study.
+
+5. Summary and policy implications
+This study uses a profit function approach which
+combines technical and allocative efficiency in the
+profit relationship to analyze farm households' production efficiency in China. To address the existence
+of various market distortions in Chinese agriculture,
+we adopt a concept of shadow-price profit frontier in
+this study. Measurement and decomposition of the
+households' production efficiency are obtained by
+estimating the shadow profit frontier function, which
+incorporates price distortions resulting from imperfect markets, socioeconomic and institutional constraints. Empirical results using 1991 China's Rural
+Household Survey data indicate that a profit-maximizing farm's decision on outputs and inputs is
+based on their shadow prices rather than observed
+
+market prices. It is also found that there is a significant variation in production efficiency among farm
+households in China. Estimated production efficiency, measured by the profit efficiency index, range
+from 6% to 93%, with 11.8% percent of the farm
+households' efficiency levels being lower than 50%.
+The mean of the profit efficiency is 62%, which is
+close to the 69% for the coastal region and the 48%
+for the central region found in Wu (1995) using
+1985-1991 provincial data. These results suggest a
+great scope for improvement in production efficiency.
+The profit efficiency is significantly explained by
+the production-related characteristics and farm management practices. In particular, farmers' education,
+farm size and per capita net income are important
+variables to raise profit efficiency. The factors affecting profit efficiencies negatively are small family
+size (less than three people) and low per capita net
+income. Households living in mountain areas and
+households with family members employed in the
+government or state industries are profit inefficient.
+Given the existing regime of input and output
+prices in China's agriculture, one conclusion that can
+be drawn from this study is that effects of price
+distortions must be considered in farm behavior studies. This model has implicitly internalized these distortions through the shadow prices. Rejection of the
+market price model indicates that opportunity costs
+of resources are not reflected by the observed market
+prices when there are binding external constraints
+and allocative inefficiency. Thus, empirical studies
+that use profit (cost) function with observed market
+prices as the opportunity costs of resources may give
+inappropriate results.
+The second conclusion drawn from the study is
+that a great potential of efficiency gain can be obtained by reducing market distortions in China's
+agriculture. The Rural Household Responsibility System, as the first phase of the rural economic reforms
+that focused on the production operating mechanism,
+has substantially improved farm households' efficiency. Although rural input and output market reforms have been implemented since 1985, various
+market constraints still remain effective in preventing farm households' optimum resource allocation.
+The significant differences between the market prices
+and farmer's opportunity costs, found in this study,
+
+J. Wang et al.j Agricultural Economics 15 (1996) 17-28
+
+implies that farm households' allocative efficiency is
+influenced by the market distortions.
+The study also finds evidence that economies of
+scale exist in China's household farming system.
+Both technical efficiency and allocative efficiency
+are positively related to operational size, which is
+also partly determined by family size and per capita
+net income.
+The above findings have important policy implications. All previous studies reveal that a substantial
+improvement in China's agricultural production efficiency has occurred from the institutional changes
+made from 1978 to 1984. With the full implementation of the household responsibility system nationwide in 1983-1984, slow growth in crop production
+and productivity has shifted the focus of agricultural
+development towards technical change. This study
+indicates that substantial productivity gains can be
+obtained by continuously improving farm households' production efficiency. Both technical and a)locative efficiencies can be improved by eliminating
+market distortions that mess up the function of price
+signal and cause allocative inefficiency. In particular,
+removing the government's monopsonistic power and
+administrative forces on major agricultural product
+procurement and purchase of quota obligations in the
+output market should allow market prices to reflect
+the opportunity costs of the products. In the input
+market, promoting the supply of inadequate material
+inputs, such as chemical fertilizer and fuel, rather
+than rationing and price subsidies, could eliminate
+the 'shortage premium' paid by some farmers and
+over-use of the inputs by others. A more liberalized
+market enables production (profit) to return to its
+frontier from the interior and shifts the frontier upward. The reason for this shift is that the potential of
+the economic reforms and modem technologies appears to be underestimated because the best practice
+farms, which are basis for estimating the potential,
+would probably also be constrained by socioeconomic and institutional factors.
+The study also suggests that potential efficiency
+gain can be achieved by increasing a household's
+operating scale. In particular, allowing a relatively
+scarce resource, land, to be transferred to households
+with a high labor /land ratio should increase the
+production efficiency of these crop farms. Consequently, improved resource use requires development
+
+27
+
+of a land rental market or a well-conducted land use
+right transfer mechanism as a complement to the
+land contract system 17 • The market can pick winners
+and losers and allocate land to those who can utilize
+it efficiently.
+Clearly, a farm household's production efficiency
+is affected by its management practices and the
+farm's production-related characteristics, which in
+tum are influenced by socioeconomic conditions. For
+instance, a farmer's management capability is influenced by school availability and cost of schooling. It
+is thus important for China's agricultural development to have an institutional environment that facilitates the farmers' accessibility to education, and
+provides a socioeconomic environment that encourages market exchange in land and labor.
+
+References
+Aigner, D.J., Knox Lovell, C.A. and Schmidt, P., 1977. Formulation and estimation of stochastic frontier production function
+models. J. Econometrics, 6: 21-37.
+Ali, M. and Flinn, J., 1989. Profit efficiency among basmati rice
+production in Pakistan Punjab. Am. J. Agric. Econ., 71:
+303-310.
+Ali, F., Parikh, A. and Shah, M.K., 1994. Measurement of profit
+efficiency using behavioral and stochastic frontier approaches.
+Appl. Econ., 26: 181-188.
+Atkinson, S. and Halvorsen, R., 1980. A test of relative and
+absolute price efficiency in regulated utilities. Rev. Econ.
+Stat., 62: 8 l -88.
+Fan, S., 1991. Effects of technological change and institutional
+reform on production growth in Chinese agriculture. Am. J.
+Agric. Econ., 73: 266-275.
+Fleisher, B.M. and Liu, Y., 1992. Economics of scale, plot size,
+human capital, and productivity in Chinese agriculture. Q.
+Rev. Econ. Finance, 32: I 12- l 23.
+Green, W., l 992. LIMDEP Computer Program Version 6.0.
+Econometric Software, Inc., New York.
+Jondrow, J., Lovell, C.A.K., Materov, l.S. and Schmidt, P., 1982.
+
+17 Under the original land contract system, land is equally
+distributed to households on a per capita basis. Currently, there is
+not a well-defined land market in China. Sales of farmland are
+very rare. However, the right of land use can be transferred in
+accordance with the law that was approved on l 2 April 1988, and
+farmers have found a way to transfer land use rights through
+village committees and township government that manage the
+land contract system (Zhang and Makeham, 1992; US Department
+of Agriculture, l 993).
+
+28
+
+J. Wang et al.j Agricultural Ecorwmics 15 (1996) 17-28
+
+On the estimation of technical inefficiency in the stochastic
+frontier production function model. J. Econometrics, 19: 233238.
+Kalirajan, K.P., 1990. On measuring economic efficiency. J. Appl.
+Econ., 5: 75-85.
+Kmenta, J. and Gilbert, R.F., 1968. Small sample properties of
+alternative estimators of seemingly unrelated regressions. J.
+Am. Stat. Assoc., 63(4): 1180-1200.
+Kumbhakar, S.C., 1989. Modeling technical and allocative efficiency in a translog production function. Econ. Lett., 31:
+119-123.
+Kumbhakar, S.C. and Bhattacharyya, A., 1992. Price distortions
+and resource-use inefficiency in Indian agriculture: a restricted
+profit function approach. Rev. Econ. Stat., 74: 231-239.
+Lau, L.J. and Yotopoulos, P.A., 1971. A test of relative efficiency
+and application to Indian agriculture. Am. Econ. Rev., 61:
+94-109.
+Lin, J.Y., 1992. Rural reform and agricultural growth in China.
+Am. Econ. Rev., 82: 34-51.
+Lopez, R.E., 1985. Structural implications of a class of flexible
+forms for profit functions. Int. Econ. Rev., 26: 593-601.
+Ma, N.J., Calkins, P.H. and Johnson, S.R., 1989. The household
+responsibility system: technical and allocative efficiency vs.
+equity. In: J.W. Longworth (Editor), China's Rural Development Miracle, with International Comparison. University of
+Queensland, Australia.
+
+McMillan, J., Whalley, J. and Zhu, L., 1989. The Impact of
+China's economic reforms on agricultural productivity growth.
+J. Polit. Econ., 97: 781-807.
+State Statistical Bureau of China, 1993. The Sampling Investigation System, Methods and Development for Rural Society and
+Economy in China. SSB, Beijing, PR China.
+Toda, Y., 1976. Estimation of a cost function when the cost is not
+minimum: the case of Soviet manufacturing industries. Rev.
+Econ. Stat., 58: 259-268.
+US Department of Agriculture, 1991. Agriculture and trade report.
+Situation and Outlook Series, RS-91-3.
+US Department of Agriculture, 1993. International agriculture and
+trade reports, China. Situation and Outlook Series, RS-93-3.
+Wang, J., Wailes, E. and Cramer, G., 1996. A shadow-price
+frontier measurement of efficiency in Chinese agriculture. Am.
+J. Agric. Econ., 78: 146-156.
+Wu, Y., 1995. Productivity growth, technological progress, and
+technical efficiency change in China: a three-sector analysis. J.
+Comp. Econ., 21: 207-229.
+Ye, Q. and Rozelle, S., 1994. Fertilizer demand in China's
+reforming economy. Can. J. Agric. Econ., 42: 191-207.
+Zhang, W. and Makeham, J., 1992. Recent developments in the
+market for rural land use in China. Land Econ., 68: 139-162.
+
+

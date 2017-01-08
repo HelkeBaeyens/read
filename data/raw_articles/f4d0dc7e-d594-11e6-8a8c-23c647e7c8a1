@@ -1,0 +1,1381 @@
+Economics of Biofortification
+Matin Qaim a*, Alexander J. Stein a, J.V. Meenakshi b
+a
+
+Department of Agricultural Economics and Social Sciences in the Tropics and Subtropics, University of
+Hohenheim (490b), 70593 Stuttgart, Germany. b HarvestPlus, International Food Policy Research Institute, 2033
+K Street NW, Washington, DC 2006, USA. * Corresponding author: qaim@uni-hohenheim.de
+
+Plenary paper prepared for the 26th International Association of Agricultural Economists
+(IAAE) Conference, Gold Coast, Australia, August 12-18, 2006
+
+Abstract: Micronutrient malnutrition affects billions of people world-wide, causing serious
+health problems. Different micronutrient interventions are currently being used, but their
+overall coverage is relatively limited. Biofortification – that is, breeding staple food crops for
+higher micronutrient contents – has been proposed as a new agriculture-based approach. Yet,
+as biofortified crops are still under development, relatively little is known about their
+economic impacts and wider ramifications. In this article, the main factors that will influence
+their future success are discussed, and a methodology for economic impact assessment is
+presented, combining agricultural, nutrition, and health aspects. Ex ante studies from India
+and other developing countries suggest that biofortified crops can reduce the problem of
+micronutrient malnutrition in a cost-effective way, when they are targeted to specific
+situations. Projected social returns on research investments are high and competitive with
+productivity-enhancing agricultural technologies. These promising results notwithstanding,
+biofortification should be seen as a complement rather than a substitute for existing
+micronutrient interventions, since the magnitude and complexity of the problem necessitate a
+multiplicity of approaches. Further research is needed to corroborate these findings and to
+address certain issues still unresolved at this stage.
+JEL classifications: I1, I3, O1, O3, Q1.
+Keywords:
+
+micronutrient
+
+malnutrition,
+
+public
+
+health,
+
+biofortification,
+
+agricultural
+
+technology, impact analysis, developing countries.
+
+Copyright © 2006 by M. Qaim, A.J. Stein, and J.V. Meenakshi. All rights reserved. Readers may make verbatim
+copies of this document for non-commercial purposes by any means, provided that this copyright notice appears
+on all such copies.
+
+1
+
+Introduction
+
+Micronutrient malnutrition is a widespread problem in many developing countries. An
+estimated four billion people are iron deficient, 2.7 billion are at risk of zinc deficiency, and
+hundreds of millions lack one or more essential vitamins (WHO, 2002; Hotz and Brown,
+2004; UN-SCN, 2004). The prevalence is especially high among the poor, whose diets are
+usually predominated by relatively cheap staple foods, with insufficient quantities of highervalue nutritious foods. Micronutrient deficiencies are often the cause for increased mortality
+and morbidity, so that the resulting health burden can be immense. This health burden also
+entails significant economic costs in the developing world (Horton and Ross, 2003; FAO,
+2004). Accordingly, controlling micronutrient malnutrition has been ranked as a top
+development priority by eminent international economists (Lomborg, 2004). Economic
+growth and poverty reduction will help reduce the problem in the long run. Yet there are also
+more
+
+targeted
+
+micronutrient
+
+interventions
+
+being
+
+implemented,
+
+including
+
+food
+
+supplementation, industrial fortification, and nutrition education programs (Allen, 2003;
+World Bank, 1994). Recently, an agriculture-based approach has been proposed as a
+supplementary strategy, namely breeding staple food crops for higher micronutrient contents.
+This breeding approach has been termed ‘biofortification’ (Nestel et al., 2006). The potential
+positive effects of biofortification are obvious: if micronutrient-dense staple crops are widely
+grown and consumed by the poor, their nutritional status would improve, which could lead to
+significant health advantages and economic benefits. However, although plant breeders are
+working on the development of biofortified crop varieties, hardly any of these varieties has
+yet been released, so that the actual impacts are still uncertain.
+In this article, we analyze the implications of biofortification from an economic
+perspective. In the next section, we provide some more background about the problem of
+micronutrient malnutrition, before describing the biofortification approach in greater detail
+and discussing important factors that will influence its future success. A methodological
+1
+
+framework for assessing the impacts of biofortification is set out in section 4. This
+methodology has been used for different empirical studies, results of which are presented in
+section 5. The last section concludes and discusses research and policy implications.
+
+2
+
+Micronutrient malnutrition
+
+For a long time, the food security debate had primarily focused on undernutrition in terms of
+calories. Calorie undernutrition is usually the result of an insufficient intake of macronutrients
+(carbohydrates, protein, and fat) and is associated with a feeling of hunger. Hunger is still a
+serious problem in large parts of the developing world. According to the FAO, 852 million
+people worldwide were undersupplied with calories in 2002 (FAO, 2004). Micronutrient
+malnutrition is often less obvious for the people affected, which is also why the term ‘hidden
+hunger’ is sometimes used. For certain micronutrients, deficiencies are even more widespread
+than calorie undernutrition (Figure 1). The major reason for the high prevalence of
+insufficient micronutrient intakes is the lack of dietary diversity among the poor. Typical diets
+in low-income households are dominated by staple foods, which are a cheap source of calories
+but only provide little amounts of vitamins and minerals. In addition to income constraints,
+lack of awareness and cultural factors also often limit the consumption of more nutritious
+foods, even where these are available and accessible. Women and children are the most
+vulnerable groups: pregnancies, breast-feeding, and menstruation as well as rapid body
+growth in children increase micronutrient requirements and make it even more difficult to
+achieve adequate intakes (WHO, 2002).
+Here should appear Figure 1.
+Even though deficient people are often not aware of their inadequate nutritional status,
+micronutrient malnutrition can have severe health consequences, including increased
+susceptibility to infectious diseases, physical and mental impairments, and increased mortality
+
+2
+
+rates (Micronutrient Initiative, 2004). Apart from seriously affecting the well-being of the
+people directly concerned, micronutrient malnutrition negatively impacts on aggregate
+productivity and economic development (World Bank, 1994; Horton and Ross, 2003). Hence,
+efforts to control the problem are justified on humanitarian as well as efficiency grounds.
+Several interventions are available to control micronutrient malnutrition. Common
+interventions include food supplementation, such as distributing vitamin capsules at regular
+intervals, and industrial fortification, that is, adding micronutrients to foodstuffs during
+processing. While existing micronutrient interventions have their particular strengths, they
+also have their weaknesses (Allen, 2003). For instance, large-scale distribution programs are
+resource-intensive, as they require continuous funding, infrastructure, trained personnel,
+reliable supplies, and monitoring. Moreover, information, education, and communication
+programs are necessary to ensure participation by the target groups. For industrial
+fortification, the main problem is reaching those in need, because the poor and malnourished
+often consume home-produced foods and only little amounts of processed products.
+Furthermore, fortified foods are often somewhat more expensive than their non-fortified
+counterparts, unless fortification is mandatory, which then, however, requires monitoring
+efforts to ensure compliance by food processors. While dietary diversification is considered
+the most sustainable approach to control micronutrient malnutrition, necessary behavior
+changes and income constraints are limiting factors in the short and medium run. In this
+context, the novel approach of biofortification may be a useful intervention to complement the
+existing set of strategies.
+
+3
+3.1
+
+The biofortification approach
+Ongoing research programs
+
+For a long time, no particular role was seen for agricultural technology in the fight against
+
+3
+
+micronutrient malnutrition; grain micronutrient content was simply not an important selection
+criterion for plant breeders. This has changed more recently, when nutritional quality started
+to receive higher priority and breeders realized that increased micronutrient densities are not
+only compatible with superior agronomic traits, but may, in some cases, even enhance yields.
+Plant varieties that are more efficient in the uptake of trace minerals like iron and zinc can be
+higher yielding in low-quality soils, because these trace minerals are also required for plant
+vigor and growth (Welch, 2002; Graham et al., 1999).
+A number of research and development (R&D) programs with the objective to increase
+micronutrient densities in staple food crops through breeding have been launched in recent
+years. The term ‘biofortification’ has been coined by the HarvestPlus Challenge Program of
+the Consultative Group on International Agricultural Research (CGIAR). This program
+concentrates on increasing iron, zinc, and beta-carotene (provitamin A) contents in six staple
+crop species, namely rice, wheat, maize, cassava, sweetpotato, and beans, and supports
+exploratory research in an additional ten crops. At this stage, research under HarvestPlus
+builds primarily on conventional breeding techniques, exploiting the variability of
+micronutrient contents found in available germplasm.
+However, conventional techniques cannot be used when the micronutrient of interest is
+absent from a particular crop. A case in point is rice, which produces beta-carotene in leaves
+and in tiny amounts also in rice husks, but not in the endosperm. Hence, in the Golden Rice
+project, transgenic techniques have been used to introduce the beta-carotene biosynthetic
+pathway into the endosperm of grain (Ye et al., 2000; Paine et al., 2005). The Golden Rice
+project involves European research organizations, the International Rice Research Institute
+(IRRI), and local partners in developing countries. Another crop-specific project (funded as
+part of the Global Grand Challenges in Health Initiative) is the Africa Biofortified Sorghum
+(ABS) Project, which seeks to develop a more nutritious and easily digestible sorghum that
+contains increased levels of beta-carotene, vitamin E, iron, zinc, and several amino acids.
+4
+
+Furthermore, research has been conducted to genetically engineer iron-rich rice (Goto et al.,
+1999; Lucca et al., 2001; Murray-Kolb et al., 2002), rice that is rich both in iron and zinc
+(Vasconcelos et al., 2003), iron-rich maize (Drakakaki et al., 2005), and beta-carotene-rich
+potato (Ducreux et al., 2005). While this is not a complete list of all related research
+initiatives, the portfolio is indicative of the attention that biofortification is likely to receive in
+the future food and nutrition security debate.
+
+3.2
+
+Potential advantages
+
+The major expected and intended impact of biofortification is to increase micronutrient
+intakes among the poor, thus improving their nutrition and health status. By focusing breeding
+efforts on staple crops, which are consumed by the poor in larger quantities, the approach is
+self-targeting. Tying micronutrients to staple crops also reduces people’s nutritional
+vulnerability, because, when economic shocks occur, the poor tend to reduce their
+consumption of higher-value food commodities that are naturally rich in micronutrients.
+Furthermore, biofortification could be more sustainable than alternative micronutrient
+interventions. With a one-time R&D investment, biofortified germplasm can be shared
+internationally, and the varieties could spread through existing seed distribution systems.
+Since biofortified seeds can easily be reproduced, poor farmers in remote rural areas, with
+limited access to formal seed markets, could also be reached. Thus, unlike other micronutrient
+interventions, which require large funds on an annual basis, biofortification could produce a
+continuous stream of benefits with minimal recurrent costs.
+Biofortification promises to be a pro-poor and pro-rural approach, which could
+complement existing interventions. However, biofortified crops are still at the stage of R&D,
+so that these potential advantages have not yet materialized. The only exception are betacarotene-rich, orange-fleshed sweetpotatoes, which have been promoted in different countries
+(e.g., Low et al., 1997).
+5
+
+3.3
+
+Factors influencing future impacts
+
+Whether biofortified crops will really contribute to an improved nutrition and health situation
+in developing countries will primarily depend on their efficacy and coverage in particular
+situations (Figure 2). Efficacy will be determined by the amount of the micronutrient in the
+crop, micronutrient retention after processing, and its bioavailability. Coverage, in turn, is
+mainly a function of farmer adoption and consumer acceptance of biofortified varieties.
+Here should appear Figure 2.
+Micronutrient content. Many varieties of staple food crops already contain certain
+amounts of micronutrients. For instance, high-yielding wheat varieties contain about 38 parts
+per million (ppm) of iron and 31 ppm of zinc. Popular rice varieties contain 3 ppm of iron and
+13 ppm of zinc in the milled grain. The potential to further increase these micronutrient
+contents by conventional breeding exists. Adequate genetic variations in concentrations of
+beta-carotene, other carotenoids, iron, zinc, and other minerals has been identified among
+cultivars, making selection of nutritionally appropriate breeding materials possible. For
+example, available orange-fleshed sweetpotato varieties contain over 100 µg/g of betacarotene. Nevertheless, with conventional breeding, achievable micronutrient contents are
+limited by the available genetic variation within each crop species. Transgenic techniques can
+help to further increase these levels, or to introduce micronutrients not naturally occurring in
+the crop. A case in point is Golden Rice: biotechnologists managed to produce a transgenic
+rice line containing up to 31 µg/g of beta-carotene in the endosperm (Paine et al., 2005).
+Where exactly the micronutrient is located within the grain matters considerably. If it is found
+mainly in the aleurone layer of the grain, the nutritional impact can be small, since the outer
+layers are removed during the process of milling and polishing; the impact is greater when it
+is located in the endosperm. Micronutrient toxicities are not expected at levels achieved
+through biofortification. For beta-carotene, toxicity is not an issue at all, because the human
+body only absorbs as much beta-carotene as it needs.
+6
+
+Micronutrient retention. Micronutrient contents in the food actually consumed might be
+lower than those produced in the crop, because post-harvest and processing losses can occur.
+Beta-carotene in particular is sensitive to bright sunlight and extreme heat. For orange-fleshed
+sweetpotatoes, beta-carotene retention after boiling is around 80% (Nestel et al., 2006), but
+losses can be much higher with inappropriate storage and cooking techniques. Also for
+minerals, losses can occur, although they are usually less sensitive than vitamins and
+carotenoids.
+Bioavailability. How much of particular micronutrients the human body can absorb and
+use for body functions depends on a number of factors. The exact chemical composition of
+the micronutrient matters and also how the compound is stored within the plant cell.
+Furthermore, enhancing and inhibiting factors in people’s diets can have an important
+influence. Beta-carotene absorption, for instance, depends on minimum fat intakes, while
+alcohol reduces bioavailability. Iron bioavailability is positively influenced by vitamin C
+intake, but phytates and tannins act as inhibiting factors. Haas et al. (2005) have shown that
+high-iron rice can indeed improve the iron status of women. Similarly, van Jaarsveld et al.
+(2005) have shown that the consumption of orange-fleshed sweetpotato improves the vitamin
+A status of children: with 100 µg/g of beta-carotene and 80% retention when consumed in
+boiled form, even a 50 gram consumption of this crop is sufficient for meeting 75% of the
+recommended daily allowance of vitamin A for children. Also for Golden Rice, a relatively
+high bioavailability of the beta-carotene produced has been demonstrated in preliminary
+feeding trials (R. Russell, personal communication). While further research is needed to verify
+these findings in community settings, preliminary results from the dissemination of orangefleshed sweetpotato in Mozambique are suggestive of substantial nutritional impacts among
+micronutrient-deficient target populations.
+Farmer adoption. In order for farmers to adopt biofortified crops, micronutrient traits
+have to be bred into advanced lines, which are agronomically superior. Nutritional
+7
+
+improvement at the cost of lower yields or other agronomic disadvantages is a non-starter. For
+example, wheat breeders are attempting to biofortify varieties resistant to a rust that is
+expected to affect large areas in Pakistan and India. Thus, adoption of biofortified wheat there
+is expected to be driven by rust resistance. It is rather unlikely that farmers are willing to pay
+higher prices for biofortified seeds, unless these seeds directly contribute to higher incomes.
+Also critical is local adaptation: varieties will have to be targeted to specific agroecological
+and socioeconomic conditions. The greater the number of locally-adapted biofortified
+varieties, the higher the likely adoption. For wide coverage, plant breeders will need to focus
+first on biofortifying ‘mega’ varieties, such as BR28 and BR29 of rice in Bangladesh, which
+together occupy almost 60% of the rice area in the Boro season, or BR11, which accounts for
+over a quarter of the Aman season rice area (IRRI, personal communication). Finally, the
+speed of adoption will depend on the efficiency of existing seed distribution channels and
+farmers’ seed replacement rates. Although biofortified seeds can be reproduced on-farm,
+some initial public support might be needed for the new varieties to penetrate formal and
+informal seed markets.
+Consumer acceptance. For reasons outlined earlier, awareness of micronutrient
+deficiencies is generally low, so that the nutritional advantages of biofortification might not
+be fully appreciated. But even if they are, the willingness and ability to pay higher prices for
+biofortified foods are likely to be limited among the poor, who bear the brunt of micronutrient
+malnutrition. Also at equal prices, consumers will only purchase micronutrient-dense crops, if
+they meet their personal preferences in terms of taste, texture, and visual appearance. Mineral
+biofortification at realistic levels is not expected to change consumer characteristics, that is,
+iron and zinc traits are invisible (Nestel et al., 2006). This is different for beta-carotene, which
+changes the color of the crop to deep yellow or orange, so that it will be necessary to invest
+more in demand creation for these varieties through communication and marketing efforts.
+
+8
+
+Consumer acceptance also influences farmer adoption decisions, as low acceptance would
+translate into lower market prices.
+
+4
+
+Methodology for impact assessment
+
+In agricultural economics, the usual approach to assess the impact of new crop technologies is
+to quantify the economic benefits arising from productivity increases as a result of technology
+adoption by farmers. Such productivity increases – either through yield gains or savings in
+production costs – cause a downward shift in the crop supply curve, based on which aggregate
+economic surplus and surplus distribution effects can be derived (Alston et al., 1995).
+However, the main focus of biofortification is on improving the nutritional status of
+consumers through quality enhancement. Quality improvements generally lead to a marginal
+benefit increase for consumers, which different authors have modeled as an upward shift in
+the crop’s demand function (e.g. Unnevehr, 1986). Yet it is unlikely that biofortification
+would result in an upward shift in demand, because of awareness and purchasing power
+constraints among the poor, as discussed above. In this case, benefits of biofortification
+should rather be considered as positive nutrition and health outcomes for individuals suffering
+from micronutrient malnutrition and related externalities for society at large. Such
+externalities are more complex to evaluate.
+Dawe et al. (2002) looked at the potential nutritional effects of Golden Rice by
+analyzing likely improvements in vitamin A intakes in the Philippines. This approach
+implicitly builds on a measure of program success, which is commonly used also for other
+micronutrient interventions, namely the achieved reduction in the number of people with
+micronutrient intakes below a defined threshold (e.g. Fiedler et al., 2000). However, since
+micronutrient intake is not an end in itself but only a means to ensure healthy body functions,
+it is more appropriate to go further and quantify health outcomes directly. In a preliminary
+
+9
+
+assessment of iron biofortification in India and Bangladesh, Bouis (2002) estimated the
+reduction in the number of anemia cases and attributed a monetary value to each case averted
+for a cost-benefit analysis. Zimmermann and Qaim (2004) suggested a more comprehensive
+approach in their analysis of the potential health benefits of Golden Rice in the Philippines:
+since micronutrient malnutrition causes significant health costs, which could be reduced
+through biofortification, they quantified the health cost of vitamin A deficiency with and
+without Golden Rice and interpreted the difference – that is, the health cost saved – as the
+technological benefit.
+
+4.1
+
+Quantification of health costs
+
+There are different methodologies available for the quantification of health costs, including
+budgeting medical treatment costs, estimating productivity losses, and willingness to pay
+approaches (e.g., Brent, 2003). A framework which appears appropriate to quantify the health
+costs of micronutrient malnutrition in developing countries is the disability-adjusted life years
+(DALYs) approach. DALYs are used to establish the burden of a disease by measuring the
+health loss through mortality and morbidity in a single index (Murray and Lopez, 1996). The
+annual health costs of a disease are expressed in terms of the number of DALYs lost:
+(1)
+
+Health costs = DALYs lost = YLL + YLD weighted
+
+where YLL are years of life lost due to premature deaths and YLD are years lived with
+disabilities resulting from the disease, which are weighted according to the severity of
+disabling conditions.
+The DALYs approach has been used in very different contexts, such as quantifying the
+health costs of malaria or HIV/AIDS (e.g., Lomborg, 2004). The World Health Organization
+has used it to assess the global health costs of different risk factors, including undernutrition
+and micronutrient malnutrition (WHO, 2002). In their Golden Rice study, Zimmermann and
+
+10
+
+Qaim (2004) have refined the DALYs methodology to consider more explicitly different
+adverse health outcomes of vitamin A deficiency. Stein et al. (2005) have further developed
+the approach by incorporating new nutrition insights and extending it also to iron and zinc
+malnutrition. For each micronutrient, the number of DALYs lost can be calculated as:
+(2)
+
+DALYslost
+
+⎛ 1 − e − rL j ⎞
+⎛ 1 − e − rd ij ⎞
+⎜
+⎟
+⎜
+⎟
+= ∑ j Tj M j ⎜
+⎟ + ∑i ∑ j T j I ij Dij ⎜
+⎟
+r
+r
+⎝ 444
+⎝ 4443⎠
+14442
+3⎠
+1444424
+YLL
+
+YLD
+
+where Tj is the total number of people in target group j, and Mj is the mortality rate associated
+with the particular deficiency. Iij is the incidence rate of adverse health outcome i in target
+group j, Dij is the corresponding disability weight, and dij is the duration of the outcome. For
+permanent health problems, dij equals the average remaining life expectancy Lj. Future life
+years lost are discounted at a discount rate of r. An overview of adverse health outcomes of
+iron, zinc, and vitamin A deficiency is shown in Table 1. Only those outcomes for which a
+definite causal relationship has been established in meta-analyses are included (Stein et al.,
+2005a).
+Here should appear Table 1.
+Inserting appropriate health and demographic statistics in equation (2), the health costs of
+micronutrient malnutrition in a country or region can be calculated. Since biofortified crops
+are not yet consumed, this status quo situation is the benchmark without biofortification.
+Improved micronutrient intakes through consumption of biofortified crops will reduce
+mortality and incidence rates of adverse functional outcomes, so that the number of DALYs
+lost decreases.1 The difference in micronutrient-related health costs – that is, the number of
+DALYs saved – is considered as the benefit of biofortification.
+
+1
+
+How the reduction in mortality and incidence rates can be derived is explained in the next sub-section.
+
+11
+
+4.2
+
+Improved nutrition and health status through biofortification
+
+Micronutrient intakes required for healthy body functions vary from individual to individual,
+based on age, sex, physical activity, and many other factors. Recommended dietary reference
+intake levels for each micronutrient are usually specified for particular target groups. If the
+actual intake of an individual is below the recommended one, the person is likely to be
+deficient. An illustrative distribution of micronutrient intakes is shown in panel (a) of Figure
+3. In this example, a certain fraction of the population is deficient at current intake levels
+without biofortification.
+Here should appear Figure 3.
+Future consumption of biofortified crops will shift the intake distribution to the right,
+whereby the magnitude of the shift will depend on the actual improvement in bioavailable
+micronutrients, which is a function of efficacy and coverage, as discussed above. Some
+individuals, who were deficient previously, will achieve sufficiency status; for them, possible
+adverse health outcomes will cease. However, especially individuals at the lower end of the
+intake distribution might still remain deficient, even after the shift. Also for these individuals
+there will be an improvement in health status, though, because the prevalence and severity of
+adverse health outcomes is correlated with the degree of micronutrient deficiency. In fact, a
+convex relationship between micronutrient intake and adverse health outcomes can be
+assumed (Hallberg et al., 2000; Zimmermann and Qaim, 2004), as shown in panel (b) of
+Figure 3. The effectiveness of biofortification in improving health status can then be
+calculated as the ratio of the areas A and (A + B). The mean effectiveness for a particular
+target group (Ej) can be used to derive new, reduced incidence rates of adverse health
+outcomes as I ijnew = (1 − E j ) ⋅ I ij . For the reduction in mortality rates, the same formula can be
+used.2
+
+2
+
+While the approach described here can be used for all micronutrients, Stein et al. (2005a) proposed an
+
+12
+
+4.3
+
+Cost-effectiveness and returns on R&D investments
+
+A comprehensive economic analysis of projects or policies requires that aggregate benefits
+are juxtaposed with aggregate costs. The major cost of biofortification is the investment in
+breeding and disseminating micronutrient-dense varieties. If the discounted biofortification
+investments are divided by the discounted number of DALYs saved, the average cost per
+DALY saved can be calculated, which is a common measure for the cost-effectiveness of
+health programs (e.g., World Bank, 1993). Based on this per-DALY cost, it is possible to
+compare the cost-effectiveness of biofortification with that of alternative micronutrient
+interventions, other public health measures, or pre-defined thresholds for what is considered
+cost-effective.
+One of the advantages of the DALYs approach is actually that health and life do not have
+to be expressed in monetary terms, since this is always associated with ethical concerns. Yet,
+since biofortification is an agricultural technology, which also competes with non-health
+related, productivity-enhancing technologies in terms of funding, a comparison of the returns
+on R&D investments might be desirable in some cases. This requires that a monetary value be
+attributed to each DALY saved, in order to convert the health benefits into a dollar figure.
+What value to choose per DALY saved is not a straightforward decision. In developing
+country contexts, a standardized rate of $1000 has sometimes been used (e.g., World Bank,
+1994). Other authors have valued DALYs at the average per-capita income in a country (e.g.,
+Zimmermann and Qaim, 2004). These are certainly lower-bound values, and they should not
+be considered as an approach to quantify the intrinsic value of life. But, since higher values
+translate into larger monetary benefits, the results are more cautious and convincing if
+favorable returns can already be shown at these lower-bound values.
+
+alternative method for iron, which derives the reduction in the prevalence of adverse health outcomes through
+biofortification by using the cumulative distribution function of iron intakes in a population. Where data
+availability permits, this alternative method is preferable for iron, but it is not suitable for zinc and vitamin A.
+
+13
+
+5
+5.1
+
+Empirical analyses
+Biofortification in India
+
+Using the methodology outlined in the previous section, first comprehensive studies on the
+impacts of biofortification have been carried for in India (Stein et al., 2005b; 2006a; 2006b),
+where micronutrient malnutrition is a widespread problem. About half of all women in India
+and three quarters of all children are anemic (IIPS, 2000),3 the risk of zinc deficiency is high
+(Hotz and Brown, 2004), and almost one-third of all preschool children are vitamin A
+deficient (UN-SCN, 2004). In the framework of the HarvestPlus Challenge Program, crop
+scientists at IRRI and CIMMYT are using conventional tools to breed higher amounts of iron
+and zinc into rice and wheat. The resulting breeding lines will be shared with the Indian
+public research system for backcrossing the micronutrient traits into local varieties. In
+addition, transgenic Golden Rice breeding lines, with high amounts of beta-carotene, will be
+transferred to India through the Golden Rice Humanitarian Board. Adaptive research, testing,
+and deregulating the technologies will still take some time; it is expected that the first
+biofortified varieties might be released in India in 2010. Both rice and wheat are important
+staple foods in India, so that significant positive nutrition and health benefits can be expected
+in the future.
+Since much of the information needed for impact assessment is not observable at this
+stage, assumptions have to be made for ex ante analyses. Based on expert interviews, two
+impact scenarios were constructed – one with optimistic and the other one with more
+pessimistic assumptions. The major assumptions made on technology efficacy and coverage
+are shown in Table 2. Furthermore, estimated financial costs are shown. These costs include
+only part of the international R&D investments, because the biofortified breeding lines will be
+
+3
+
+Iron deficiency anemia is only a subgroup of anemia. But, because it is the most important form, anemia is
+often used as proxy for iron deficiency. It should be noted, however, that individuals can also suffer from iron
+deficiency without being anemic (Nestel and Davidsson, 2002).
+
+14
+
+shared also with other developing countries. In addition, national program costs for adaptive
+breeding, testing, and dissemination have been considered. For Golden Rice, the aggregate
+costs are higher than for iron and zinc biofortification for two reasons. First, since Golden
+Rice is a transgenic technology, more costly biosafety and food safety tests have to be carried
+out under the national regulatory requirements. Second, since the beta-carotene turns the color
+of the rice grain yellow, public marketing efforts will be necessary to promote farmer and
+consumer acceptance. More intensive marketing efforts are expected to increase technology
+coverage. Since the projected marketing expenditures account for a large part of the total cost,
+the cost estimates for Golden Rice are higher in the optimistic than in the pessimistic scenario.
+Here should appear Table 2.
+Based on recent health and demographic statistics, the current health costs of
+micronutrient malnutrition in India were calculated. This was done separately for the three
+micronutrients iron, zinc, and vitamin A. The results are shown in Table 3. With an annual
+loss of 4 million DALYs, the aggregate costs of iron deficiency are higher than those of zinc
+and vitamin A deficiency. Although the latter two are associated with higher mortality,
+especially among children, they are less widespread than iron deficiency. For an ad-hoc
+estimate of the total health costs of all three micronutrient deficiencies together, the individual
+results can be added up, resulting in an annual loss of over 9 million DALYs. This indicates
+that hidden hunger is indeed a huge public health problem in India. The DALYs sum will
+underestimate the true costs, however, because – owing to micronutrient interactions –
+multiple deficiencies in individuals can lead to additional adverse health outcomes, which are
+not captured here. Only recently have nutritionists started to pay more attention to
+micronutrient interactions. At this stage, the knowledge available is not sufficient to
+incorporate these interactions into economic analyses. This is also the reason why iron, zinc,
+and provitamin A biofortification have been analyzed separately, although all three
+micronutrients might eventually be bred into the same crop varieties.
+15
+
+Here should appear Table 3.
+For the impact analyses, a nationally representative data set was used, which includes
+detailed food consumption data for 120,000 Indian households (NSSO, 2001). Using local
+food composition tables and consumer equivalence units, the consumption of different food
+commodities was translated into micronutrient intakes for individuals. The results on health
+cost reductions through biofortification for the two impact scenarios are shown in the lower
+part of Table 3. Under optimistic assumptions, biofortified rice and wheat varieties could
+more than halve the health costs associated with micronutrient malnutrition in India. Even
+under pessimistic assumptions, the reduction is still significant, ranging between 9-19%.
+These findings suggest that biofortification is an effective way to reduce hidden hunger, albeit
+it is unlikely to eliminate the problem completely. The differences in impacts between the two
+scenarios are mainly due to the underlying assumptions on micronutrient contents in the grain
+and coverage rates of biofortified varieties. Since these parameters can still be influenced
+through appropriate policies, the results also demonstrate that public support is important for
+increasing the positive impacts.
+Results of cost-effectiveness analyses for the individual technologies are also shown in
+Table 3. The cost per DALY saved through biofortification is very low. The World Bank
+(1993) classifies health interventions as cost-effective, when the cost of saving one DALY is
+lower than US$ 200.4 Thus, biofortification is highly cost-effective, even under pessimistic
+assumptions. Also, the cost-effectiveness of biofortification compares favorably with other
+micronutrient interventions. For instance, the cost per DALY saved through iron
+supplementation and industrial fortification efforts ranges between US$ 5.6-16.3 (Gillespie,
+1998). For zinc supplementation and fortification programs, it ranges between US$ 5.0-18.0,
+and for vitamin A interventions between US$ 84-599 (Tan-Torres Edejer et al., 2005). The
+
+4
+
+The World Bank (1993) gives a threshold of US$ 150 (in 1990 dollars); in current terms this corresponds to
+more than US$ 200.
+
+16
+
+major reasons for the high cost-effectiveness of biofortification are the enormous health gains
+it generates and the low recurrent cost that accrues once micronutrient-dense varieties have
+been developed and fed into existing seed distribution systems.5 This was discussed in greater
+detail in section 3.
+Additionally, internal rates of return (IRRs) for R&D investments in biofortification have
+been calculated using the lower-bound monetary values mentioned above for valuing each
+DALY saved, namely the international standard of US$ 1000 and the average Indian percapita income of US$ 620. Under optimistic assumptions in particular, IRRs are very high
+(Table 3). Even under pessimistic assumptions, they are still comparable to the average
+returns on R&D investments in productivity-enhancing agricultural technologies (Alston et
+al., 2000). These are clear indications that biofortification can be a worthwhile investment
+from a social point of view.
+
+5.2
+
+Overview of other studies
+
+Further ex ante studies on the impacts of biofortification have been carried out at different
+CGIAR centers for HarvestPlus target crops and countries. These studies were mainly
+conducted for research priority setting within the HarvestPlus Challenge Program. The
+methodological approach in these additional studies was largely the same as the one outlined
+here, although data constraints necessitated the use of average food consumption data instead
+of individual household observations. Therefore, projections of nutritional improvements are
+based on mean values for the individual target groups rather than the entire sample
+distribution of micronutrient intakes. Additional details on assumptions are provided in
+Meenakshi et al. (2006). Results in terms of health benefits and cost-effectiveness are shown
+in Table 4 for selected crops and countries. All the examples shown are based on
+
+5
+
+Of course, where seed distribution systems are dysfunctional, coverage rates of biofortification will be lower or
+dissemination costs will be higher, both of which would result in a less favorable cost-effectiveness.
+
+17
+
+micronutrient amounts that breeders reckon they can achieve using conventional breeding
+techniques.
+Here should appear Table 4.
+These additional results confirm that biofortification can reduce the problem of
+micronutrient malnutrition in developing countries. Most of the examples also suggest that
+biofortification is a cost-effective approach, certainly in Asia and Africa, and also in certain
+contexts in Latin America. However, there are also striking differences between the individual
+results. Comparison of the studies for rice in Bangladesh and the Philippines, for instance,
+demonstrates the influence of local dietary patterns. While rice is the main food staple for the
+poor in Bangladesh, average rice quantities consumed in the Philippines are lower, because
+maize is also an important staple in certain parts of the country. Similarly, cassava is only one
+staple crop among other important ones for poor households in the Northeast of Brazil. More
+detailed assessments on appropriate approaches have to be case-specific. It is clear, however,
+that there is no single crop or technique that will work in every situation. Indeed, in certain
+situations, biofortification may not enjoy a cost advantage over other interventions.
+
+6
+
+Conclusions and research challenges ahead
+
+Micronutrient malnutrition is a widespread problem in developing countries, especially
+among women and children in the poorer segments of the population. The social costs
+associated with adverse health outcomes are often sizeable. Biofortification is a new,
+agriculture-based intervention, which is likely to gain in importance in the future, as indicated
+by the large number of related international research programs recently launched. As
+biofortified crops are still under development, relatively little is known about their economic
+impacts and wider ramifications. In this article, we have discussed the main factors that will
+influence their future success and have illustrated a suitable methodology for economic
+
+18
+
+impact assessment, which combines agricultural, nutrition, and health aspects. Ex ante studies
+from India and other developing countries suggest that biofortified crops can reduce the
+problem of micronutrient malnutrition in a cost-effective way, when they are targeted to
+specific situations.
+The approach presented here is only a first step to explicitly consider nutrition and health
+aspects in impact assessments of agricultural technology. More basic research could help to
+further improve and extend the methodology and develop welfare measures which include
+health and quality of life components. Moreover, additional empirical work is required to
+verify the preliminary results reported here, including ex post studies building on observable
+data once biofortified crops are disseminated. In the case of the deployment of orange-fleshed
+sweetpotato, HarvestPlus researchers are planning a randomized evaluation of impact, an
+approach not commonly used in agricultural economics. Such ex post analysis will pose new
+challenges, especially with respect to indicators of success, as impact on crop adoption, food
+and micronutrient intakes, and nutritional outcomes have rarely been assessed under a
+unifying paradigm. This interdisciplinary research – involving economists, other social
+scientists, agronomists, and nutritionists – is critical for a more comprehensive analysis of the
+multiplicity of impacts of biofortification.
+Apart from impact analyses, there are also other open issues, which require further
+research. These include questions of bioavailability and micronutrient interactions in the
+human body. For instance, enhanced iron and zinc content go hand-in-hand for several crops,
+and their combined impact may be greater than what a single nutrient alone may achieve.
+Similarly, nutrient interactions are important in understanding the impact of biofortifying
+multiple crops. In many countries, diets often feature a primary and one or more secondary
+staple crops – cassava is commonly eaten with beans in many parts of Africa and Latin
+America, for example. The higher beta-carotene content of cassava may enhance the
+absorption of the iron in beans. Likewise, nutrient interactions in plants and linkages between
+19
+
+high micronutrient concentrations and other crop characteristics are not yet fully understood.
+And finally, it is still unclear how stable the micronutrient traits will be when seeds are
+repeatedly reproduced by farmers. A rapid trait dilution would certainly put the assumed
+sustainability of the biofortification approach into question.
+Where there are technical constraints in breeding, transgenic approaches could help to
+increase the amounts beyond what is possible through conventional breeding alone.
+Transgenic approaches are also needed when a particular micronutrient does not occur
+naturally in a crop. Cases in point are the lack of beta-carotene in the endosperm of rice and
+wheat. While transgenic approaches may further increase the impact of biofortification, they
+may also involve additional complications in terms of regulatory requirements and consumer
+acceptance.
+In spite of further research challenges ahead, an important policy implication, which
+already emerges from the evidence so far, is that biofortification can play an important role in
+achieving nutrition security in particular situations. Apart from the high expected costeffectiveness, preliminary cost-benefit analyses show that social returns on R&D investments
+into biofortification are favorable and highly competitive with productivity-enhancing
+agricultural technologies. Therefore, further pursuing the strategy of biofortification appears
+to be worthwhile. Related funding will have to come primarily from the public sector or
+humanitarian organizations. Although the projected social benefits are sizeable, neither
+farmers nor poor consumers are likely to have a higher willingness to pay for biofortified
+crops, so that incentives for the private sector to invest are rather limited.
+To conclude, biofortification should not be seen as substitute for existing micronutrient
+interventions but as a complementary strategy. No single approach will eliminate the problem
+of micronutrient malnutrition, as our results also indicate. All interventions have their
+strengths and weaknesses in particular situations. While supplementation and industrial
+fortification might be more suitable for urban areas and feeding programs for well defined
+20
+
+target groups, biofortification is likely to achieve a wider coverage, including in remote rural
+areas, which are often underserved by other interventions. It is only in the long run that
+poverty reduction and economic growth may be expected to contribute to dietary
+diversification; in the interim, other interventions need to be implemented.
+
+Acknowledgements
+The financial support of the German Research Foundation (DFG) is gratefully acknowledged.
+We thank Penelope Nestel, H.P.S. Sachdev, and Zulfiqar A. Bhutta, who cooperated with us
+in this research and provided invaluable inputs on nutritional details.
+
+References
+Allen, L.H., 2003. Interventions for Micronutrient Deficiency Control in Developing
+Countries: Past, Present and Future. Journal of Nutrition 133, 3875S-3878S.
+Alston, J.M., C. Chan-Kang, M.C. Marra, P.G. Pardey, and T.J. Wyatt, 2000. A MetaAnalysis of Rates of Return to Agricultural R&D – Ex Pede Herculem? IFPRI Research
+Report 113, International Food Policy Research Institute, Washington, DC.
+Alston, J.M., G.W. Norton, and P.G. Pardey, 1995. Science Under Scarcity: Principles and
+Practice for Agricultural Research Evaluation and Priority Setting. Cornell University
+Press, Ithaca.
+Bouis, H.E., 2002. Plant Breeding: a New Tool for Fighting Micronutrient Malnutrition.
+Journal of Nutrition 132, 491S-494S.
+Brent, R.J., 2003. Cost-Benefit Analysis and Health Care Evaluations. Edward Elgar,
+Cheltenham.
+Dawe, D., R. Robertson, and L. Unnevehr, 2002. Golden Rice: What Role Could it Play in
+Alleviation of Vitamin A Deficiency? Food Policy 27, 541-560.
+Drakakaki, G., S. Marcel, R.P. Glahn, E.K. Lund, S. Pariagh, R. Fischer, P. Christou, and E.
+Stoger, 2005. Endosperm-Specific Co-Expression of Recombinant Soybean Ferritin and
+Aspergillus Phytase in Maize Results in Significant Increases in the Levels of Bioavailable
+Iron. Plant Molecular Biology 59, 869-880.
+21
+
+Ducreux, L.J.M., W.L. Morris, P.E. Hedley, T. Shepherd, H.V. Davies, S. Millam, and M.A.
+Taylor, 2005. Metabolic Engineering of High Carotenoid Potato Tubers Containing
+Enhanced Levels of β-Carotene and Lutein. Journal of Experimental Botany 56, 81-89.
+FAO, 2004. The State of Food Insecurity in the World 2004. Food and Agriculture
+Organization of the United Nations, Rome.
+Fiedler, J.L., D. Dado, H. Maglalang, N.R. Juban, M. Capistrano, and M.V. Magpantay, 2000.
+Cost Analysis as a Vitamin A Program Design and Evaluation Tool: A Case Study of the
+Philippines. Social Science & Medicine 51, 223-242.
+Gillespie, S., 1998. Major Issues in the Control of Iron Deficiency. Micronutrient Initiative,
+Ottawa.
+Goto, F., T. Yoshihara, N. Shigemoto S. Toki, and F. Takaiwa, 1999. Iron Fortification of
+Rice Seed by Soybean Ferritin Gene. Nature Biotechnology 17, 282-286.
+Graham, R.D., D. Senadhira, S.E. Beebe, C. Iglesias, and I. Ortiz-Monasterio, 1999. Breeding
+for Micronutrient Density in Edible Portions of Staple Food Crops: Conventional
+Approaches. Field Crop Research 60, 57-80.
+Hallberg, L., L. Hulthén, and L. Garby, 2000. Iron Stores and Hemoglobin Iron Deficits in
+Menstruating Women; Calculations Based on Variations in Iron Requirements and
+Bioavailability of Dietary Iron. European Journal of Clinical Nutrition 54, 650-657.
+Haas, J.D., J.L. Beard, L.E. Murray-Kolb, A.M. del Mundo, A. Felix, and G.B. Gregorio,
+2005. Iron-Biofortified Rice Improves the Iron Stores of Nonanemic Filipino Women.
+Journal of Nutrition 135, 2823-2830.
+Horton, S. and J. Ross, 2003. The Economics of Iron Deficiency. Food Policy 28, 51-75.
+Hotz, C. and K.H. Brown (Eds.), 2004. Assessment of the Risk of Zinc Deficiency in
+Populations and Options for its Control. International Zinc Nutrition Consultative Group
+Technical Document No. 1, Food and Nutrition Bulletin 25, S91-S204.
+IIPS, 2000. National Family Health Survey (NFHS-2), 1998-99: India. International Institute
+for Population Sciences, Mumbai.
+Lomborg, B. (Ed.), 2004. Global Crises, Global Solutions. Cambridge University Press,
+Cambridge.
+Low, J., P. Kinyae, S. Gichuki, M.A. Oyunga, V. Hagenimana, and J. Kabira, 1997.
+Combating Vitamin A Deficiency through the Use of Sweetpotato. International Potato
+Center, Lima.
+
+22
+
+Lucca, P., R. Hurrell, and I. Potrykus, 2001. Genetic Engineering Approaches to Improve the
+Bioavailability and the Level of Iron in Rice Grains. Theoretical and Applied Genetics
+102, 392-397.
+Meenakshi, J.V. N. Johnson, V.M. Manyong, H. De Groote, D. Yanggen, J. Javelosa, F.
+Naher, C. Gonzalez, J. Garcia, and E. Meng, 2006. Analysing the Cost-Effectiveness of
+Biofortification: A Synthesis of the Evidence. Paper presented at the Annual AAEA
+Meeting, July 23-26, Long Beach, CA.
+Micronutrient Initiative, 2004. Vitamin & Mineral Deficiency: A Global Progress Report.
+Micronutrient Initiative, Ottawa and UNICEF, New York.
+Murray, C.J.L. and A.D. Lopez (Eds.), 1996. The Global Burden of Disease; Vol. I and II.
+Harvard University Press, Cambridge, MA.
+Murray-Kolb, L.E., F. Takaiwa, F. Goto, T. Yoshihara, E.C. Theil, and J.L. Beard, 2002.
+Transgenic Rice Is a Source of Iron for Iron-Depleted Rats. Journal of Nutrition 132,
+957-960.
+Nestel, P. and L. Davidsson, 2002. Anemia, Iron Deficiency, and Iron Deficiency Anemia.
+International Nutritional Anemia Consultative Group (INACG), Washington, DC.
+Nestel P., H.E. Bouis, J.V. Meenakshi, and W. Pfeiffer, 2006. Biofortification of Staple Food
+Crops. Journal of Nutrition 136, 1064-1067.
+NSSO, 2001. Level and Pattern of Consumer Expenditure in India 1999-2000, NSS 55th
+Round, Report No. 457. National Sample Survey Organization, New Delhi.
+Paine, J.A., C.A. Shipton, S. Chaggar, R.M. Howells, H.J. Kennedy, G. Vernon, S.Y. Wright,
+E. Hinchliffe, J.L. Adams, A.L. Silverstone, and R. Drake, 2005. Improving the Nutritional
+Value of Golden Rice Through Increased Pro-vitamin A Content. Nature Biotechnology
+23, 482-487.
+Stein, A.J., J.V. Meenakshi, M. Qaim, P. Nestel, H.P.S. Sachdev, and Z.A. Bhutta, 2005a.
+Analyzing the Health Benefits of Biofortified Staple Crops by Means of the DisabilityAdjusted Life Years Approach: A Handbook Focusing on Iron, Zinc and Vitamin A.
+HarvestPlus Technical Monograph 4, International Food Policy Research Institute,
+Washington, DC and International Center for Tropical Agriculture, Cali.
+Stein A.J., J.V. Meenakshi, M. Qaim, P. Nestel, H.P.S. Sachdev, and Z.A. Bhutta, 2005b.
+Health Benefits of Biofortification: An Ex-Ante Analysis of Iron-Rich Rice and Wheat in
+India. Paper presented at the AAEA Annual Meeting, July 24-27, Providence, RI.
+
+23
+
+Stein, A.J., P. Nestel, J.V. Meenakshi, M. Qaim, H.P.S. Sachdev, and Z.A. Bhutta, 2006a.
+Plant Breeding to Control Zinc Deficiency in India: How Cost-Effective is
+Biofortification? Public Health Nutrition, forthcoming.
+Stein, A.J., H.P.S. Sachdev, and M. Qaim, 2006b. Potential Impacts of Golden Rice on Public
+Health in India. Paper presented at the 26th IAAE Conference, August 12-18, Broadbeach.
+Tan-Torres Edejer, T., M. Aikins, R. Black, L. Wolfson, R. Hutubessy, and D.B. Evans, 2005.
+Cost Effectiveness Analysis of Strategies for Child Health in Developing Countries. British
+Medical Journal 331, e1177.
+UN-SCN, 2004. 5th Report on the World Nutrition Situation. United Nations, Standing
+Committee on Nutrition, Geneva.
+Unnevehr, L.J., 1986. Consumer Demand for Rice Grain Quality and Returns to Research for
+Quality Improvement in Southeast Asia. American Journal of Agricultural Economics 68,
+634-641.
+van Jaarsveld, P.J., M. Faber, S.A. Tanumihardjo, P. Nestel, C.J. Lomrad, and A.J.S. Benadé,
+2005. β-Carotene-Rich Orange Fleshed Sweetpotato Improves the Vitamin A Status of
+Primary School Children Assessed by the Modified-Relative-Dose-Response Test.
+American Journal of Clinical Nutrition 81, 1080-1087.
+Vasconcelos, M., K. Datta, N. Oliva, M. Khalekuzzaman, L. Torrizo, S. Krishnan, M.
+Oliveira, F. Goto, and S.K. Datta, 2003. Enhanced Iron and Zinc Accumulation in
+Transgenic Rice with the Ferritin Gene. Plant Science 164, 371-378.
+Welch, R. M., 2002. Breeding Strategies for Biofortified Staple Plant Foods to Reduce
+Micronutrient Malnutrition Globally. Journal of Nutrition 132, 495S-499S.
+WHO, 2002. The World Health Report 2002 – Reducing Risks, Promoting Healthy Life.
+World Health Organization, Geneva.
+World Bank, 1993. World Development Report 1993; Investing in Health. Oxford University
+Press, New York.
+World Bank, 1994. Enriching Lives: Overcoming Vitamin and Mineral Malnutrition in
+Developing Countries. Washington, DC, World Bank.
+Ye, X., S. Al-Babili, A. Klöti, J. Zhang, P. Lucca, P. Beyer, and I. Potrykus, 2000.
+Engineering the Provitamin A (β-Carotene) Biosynthetic Pathway into (Carotenoid-Free)
+Rice Endosperm. Science 287, 303-305.
+Zimmermann, R. and M. Qaim, 2004. Potential Health Benefits of Golden Rice: A Philippine
+Case Study. Food Policy 29, 147-168.
+
+24
+
+Tables and figures
+
+Figure 1. Number of people suffering from different forms of malnutrition worldwide
+Sufficient
+
+Deficient
+
+6
+5
+
+Billion
+
+4
+3
+2
+1
+0
+
+Iron
+
+Zinc
+
+Iodine
+
+Calories
+
+Vitamin A
+
+Sources: WHO (2002), Hotz and Brown (2004), UN-SCN (2004), FAO (2004).
+
+Figure 2. Factors influencing the impact of biofortified crops
+
+Impact of biofortified crops
+
+Coverage
+
+Efficacy
+
+Micronutrient
+content
+
+Micronutrient
+retention
+
+Bioavailability
+
+Farmer
+adoption
+
+Consumer
+acceptance
+
+25
+
+Figure 3. Improvement in micronutrient intakes and health outcomes through biofortification
+
+Individuals
+
+(a) Shift in the distribution of micronutrient intakes
+
+Intake with
+biofortification
+
+Current intake
+
+Dietary
+reference intake
+
+Micronutrient
+intake
+
+Dietary reference intake
+
+Intake with biofortification
+
+Current intake
+
+Adverse health outcome
+
+(b) Relationship between micronutrient intake and health outcome
+
+A
+B
+Micronutrient
+intake
+
+26
+
+Table 1. Adverse health outcomes of micronutrient deficiencies for different target groups
+Target group
+
+Iron deficiency
+
+Zinc deficiency
+
+Vitamin A deficiency
+
+Children
+
+• Impaired physical
+
+• Diarrhea
+
+• Child mortality
+
+• Pneumonia
+
+• Measles
+
+• Stunting
+
+• Night blindness
+
+• Child mortality
+
+• Corneal scarring
+
+activity
+• Impaired mental
+development
+
+• Blindness
+
+• Child mortality (related
+to maternal deaths)
+Women
+
+• Impaired physical
+
+• Night
+
+activity
+
+in
+
+pregnant and lactating
+
+• Maternal mortality
+Men
+
+blindness
+
+women
+
+• Impaired physical
+activity
+
+Source: Stein et al. (2005a).
+
+Table 2. Assumptions used to simulate the impact of biofortification in India
+
+Baseline MN content
+
+Iron-rich
+
+Iron-rich
+
+Zinc-rich
+
+Zinc-rich
+
+Golden
+
+rice
+
+wheat
+
+rice
+
+wheat
+
+Rice
+
+3 ppm Fe a
+
+38 ppm Fe b
+
+13 ppm Zn a
+
+31 ppm Zn b
+
+0 µg/g βC a
+
+Optimistic scenario
+8 ppm Fe a
+
+61 ppm Fe b
+
+35 ppm Zn a
+
+68 ppm Zn b
+
+31 µg/g βC a
+
+MN retention
+
+100%
+
+100%
+
+100%
+
+100%
+
+65%
+
+Coverage
+
+50%
+
+50%
+
+50%
+
+50%
+
+50%
+
+US$ 3.6 m
+
+US$ 4.5 m
+
+US$ 3.6 m
+
+US$ 4.5 m
+
+Improved MN content
+
+R&D cost (net present value)
+
+US$ 27.9 m
+
+Pessimistic scenario
+6 ppm Fe a
+
+46 ppm Fe b
+
+20 ppm Zn a
+
+37 ppm Zn b
+
+14 µg/g βC a
+
+MN retention
+
+100%
+
+100%
+
+100%
+
+100%
+
+20%
+
+Coverage
+
+20%
+
+30%
+
+20%
+
+30%
+
+14%
+
+US$ 12.6 m
+
+US$ 13.8 m
+
+US$ 12.6 m
+
+US$ 13.8 m
+
+US$ 21.4 m
+
+Improved MN content
+
+R&D cost (net present value)
+
+Notes: MN = micronutrient, ppm = parts per million, Fe = iron, Zn = zinc, µg = microgram, βC = beta-carotene.
+a
+Micronutrient contents shown are for milled rice. b Micronutrient contents shown are for whole grain.
+Sources: Stein et al. (2005b; 2006a; 2006b).
+
+27
+
+Table 3. Impact of biofortification in India
+Iron
+biofortification
+Health cost of deficiency without
+biofortification (DALYs lost)
+
+Zinc
+a
+
+biofortification
+
+4.0 m
+
+Provitamin A
+b
+
+2.8 m
+
+biofortification c
+
+2.3 m
+
+Optimistic scenario
+DALYs saved through biofortification
+
+2.3 m
+
+1.6 m
+
+1.4 m
+
+58
+
+55
+
+59
+
+Cost per DALY saved (US$/DALY)
+
+0.46
+
+0.68
+
+3.06
+
+IRR (%, DALY valued at US$ 620)
+
+149
+
+135
+
+70
+
+IRR (%, DALY valued at US$ 1000)
+
+168
+
+153
+
+77
+
+Reduction in health cost (%)
+
+Pessimistic scenario
+DALYs saved through biofortification
+
+0.8 m
+
+0.5 m
+
+0.2 m
+
+19
+
+16
+
+9
+
+Cost per DALY saved (US$/DALY)
+
+5.39
+
+8.80
+
+19.40
+
+IRR (%, DALY valued at US$ 620)
+
+53
+
+46
+
+31
+
+IRR (%, DALY valued at US$ 1000)
+
+61
+
+53
+
+35
+
+Reduction in health cost (%)
+
+Notes:
+
+a
+
+Iron biofortification of rice and wheat is considered.
+
+b
+
+Zinc biofortification of rice and wheat is
+
+considered. c Biofortification of rice with beta-carotene is considered (Golden Rice).
+Sources: Stein et al. (2005b; 2006a; 2006b).
+
+28
+
+Table 4. Impact of biofortification in selected crops and countries
+Reduction in health cost (%)
+
+Cost per DALY saved (US$)
+
+Optimistic
+
+Optimistic
+
+Pessimistic
+
+Pessimistic
+Iron
+
+Rice, Bangladesh
+
+21
+
+8
+
+3
+
+10
+
+Rice, Philippines
+
+11
+
+4
+
+49
+
+197
+
+Beans, Northeast Brazil
+
+36
+
+9
+
+13
+
+56
+
+Beans, Honduras
+
+22
+
+4
+
+20
+
+114
+
+Zinc
+Rice, Bangladesh
+
+46
+
+15
+
+2
+
+6
+
+Rice, Philippines
+
+39
+
+11
+
+7
+
+46
+
+Beans, Northeast Brazil
+
+20
+
+5
+
+95
+
+799
+
+Beans, Honduras
+
+15
+
+3
+
+48
+
+423
+
+Provitamin A
+Sweetpotato, Uganda
+
+64
+
+38
+
+4
+
+10
+
+Maize, Kenya
+
+32
+
+8
+
+10
+
+44
+
+Cassava, Nigeria
+
+28
+
+3
+
+3
+
+35
+
+Cassava, Northeast Brazil
+
+19
+
+4
+
+84
+
+434
+
+Source: Meenakshi et al. (2006).
+
+29
+
+

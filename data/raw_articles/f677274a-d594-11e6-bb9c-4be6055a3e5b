@@ -1,0 +1,1530 @@
+Agricultural Economics 30 (2004) 1–16
+
+Farm productivity and efficiency in the CEE applicant
+countries: a synthesis of results
+Matthew Gorton a , Sophia Davidova b,∗
+a
+
+Department of Agricultural Economics and Food Marketing, University of Newcastle, Newcastle upon Tyne NE1 7RU, UK
+b Applied Economics and Business Management Section, Imperial College London, Wye Campus,
+University of London, Wye, Ashford, Kent TN25 5AH, UK
+Received 23 July 2001; received in revised form 27 February 2002; accepted 11 September 2002
+
+Abstract
+This article draws together results from farm efficiency studies in six Central and East European countries that are part of
+the EU enlargement process. The main questions addressed concern whether there is a clear superiority of one organisational
+type, namely, family farms, over corporate structures (production co-operatives and various types of farming companies) and
+the nature of the relationship between size and farm efficiency. Results from empirical research show that there is no clear
+cut evidence of corporate farms being inherently less efficient for all farming activities than family farms. Where significant
+differences have been found in favour of family farms against the average corporate farm, the best corporate farms still tend
+to perform as well as the best family farms. As far as size in concerned, in countries in transition where small family farms
+are well established and managed continuously by the present farm household, they appear to be less inefficient compared to
+larger cohorts as against countries where small family farms are a relatively new phenomenon.
+© 2003 Elsevier B.V. All rights reserved.
+JEL classification: L25; Q12
+Keywords: Technical efficiency; Farm size; Transition; Corporate farms; Individual farms
+
+1. Introduction
+Since the beginning of transition, academics and
+policy makers have been interested in the relative
+efficiency of farming in Central and East European
+Countries (CEECs). This interest has been stimulated
+by the desire to understand how the CEECs may
+fair in an enlarged European Union (EU), given that
+overall agriculture accounts for a larger share of GDP
+∗ Corresponding author. Present address: AEBM, Imperial College at Wye, Wye, Ashford, Kent TN25 5AH, UK.
+Tel.: +44-207-59-42-690; fax: +44-207-59-42-838.
+E-mail address: s.davidova@ic.ac.uk (S. Davidova).
+
+and employment in the candidate states. This avenue of research was given further prominence after
+early studies noted large variations between farms in
+terms of their relative efficiency. Understanding why
+farms differ in their relative efficiency has been seen
+as crucial to several debates concerning likely future structural change (Mathijs and Swinnen, 1998),
+supply response (Hughes, 2000a), the size of the
+agricultural labour force (Rizov et al., 2001) and international competitiveness (Gorton and Davidova,
+2001). However, previous studies have used a variety
+of competing methods to investigate farm efficiency
+with results presented on a country by country basis.
+This paper attempts to draw together these individual
+
+0169-5150/$ – see front matter © 2003 Elsevier B.V. All rights reserved.
+doi:10.1016/j.agecon.2002.09.002
+
+2
+
+M. Gorton, S. Davidova / Agricultural Economics 30 (2004) 1–16
+
+country studies to present a synthesis of findings
+from the region and draw out relevant cross-national
+patterns. It concentrates on six of the ten CEECs that
+are part of the EU enlargement process. Only studies
+covering the post-communist period are included.
+The paper is structured as follows. The next section
+reviews the main frameworks employed for considering farm performance and factors affecting farm
+efficiency. Section 3 outlines the empirical studies
+conducted for the CEECs and the methodologies employed. Attention is given to the differences between
+methodologies and their importance for the interpretation of results. The findings of farm efficiency studies
+for the CEECs are presented in Section 4 with the
+discussion grouped around the debate on farm size,
+organisational type and other factors. Conclusions are
+drawn in Section 5.
+
+2. Factors affecting farm efficiency
+Studies of farm performance and agricultural transformation in the CEECs have largely been embedded
+within one of two widely-used theoretical frameworks.
+First, broadly neo-classical studies have attempted to
+understand variations in farm performance, particularly technical efficiency, through recourse to differences in the internal structure of farms (especially
+size and legal type) and agency factors such as the
+level of human capital (Mathijs and Vranken, 2000;
+Hughes, 2000b). In these studies the unit of analysis is the individual farm and a common assumption
+has been that understanding variations in technical
+efficiency provides a basis for predicting structural
+change (Hughes, 2000b). The second set of studies,
+drawing on the writings of institutional economists,
+argue that human behaviour is shaped by institutions
+(formal and informal rules, regulations and laws)
+(Williamson, 1988). In this framework the unit of
+analysis should not merely be the internal structure
+of farms but rather capture a farm’s institutional
+embeddedness and inter-organisational relationships
+(transaction costs) (Pollak, 1985). Variation in technical efficiency is only one of a number of factors
+that may explain structural change in agriculture and
+the efficiency of a farm will be determined by both
+intra- and inter-organisational arrangements (Brem
+and Kim, 2000). Authors within this school have been
+
+particularly interested in governance problems, path
+dependency and variations in transaction costs between family and corporate farms as factors that may
+explain organisational change in the CEECs (Schmitt,
+1993; Brem, 2000). The remainder of this section
+reviews the literature on factors identified by both
+schools that may explain variations in farm efficiency.
+2.1. Economies of size and the ‘optimal farm size’
+debate
+The literature on transitional economies has witnessed a wide debate about the relationship between
+farm size and efficiency as land reform and farm restructuring have brought about comprehensive, politically induced changes in the distribution of farm sizes.
+When land reform strategies were formulated at the
+outset of transition, some argued that it was desirable
+to preserve large farm structures and pursue attempts
+to administratively impede farm fragmentation on the
+basis that smaller farms are less efficient. These authors tended to see restitution strategies, where they
+would lead to farm structures returning to the pre-war
+pattern of small-scale peasant units, as highly undesirable (Kanchev, 2000). In contrast, others argued that
+the large farms in Eastern Europe suffered from diseconomies of size so that land reform strategies must
+include proposals to reduce the mean size of farms
+(Koester and Striewe, 1999).
+Debates concerning the ‘optimal farm structure’
+and ‘optimal farm size’ have a long history in agricultural economics. Writings on Western economies
+have sought to understand whether larger farms benefit from being more technically efficient (which may
+be decomposed into pure technical efficiency and
+scale effects), and/or more allocatively efficient (Hall
+and LeVeen, 1978). As mean farm sizes in Western
+economies have increased, many have hypothesised
+that significant size effects exist (Seckler and Young,
+1978). This assumes that firms in a competitive industry will be driven to produce at the lowest point
+of the long-run average cost (LAC) curve and that
+the frequency distribution of farm sizes will reveal
+the lowest LAC point. From this one can infer that
+rising mean sizes indicates the presence of economies
+of size (Seckler and Young, 1978). It was initially
+assumed that the LAC curve is U-shaped, but empirical research for Western agriculture has tended
+
+M. Gorton, S. Davidova / Agricultural Economics 30 (2004) 1–16
+
+to indicate that an L-shaped curve is more prevalent.
+Dawson and Hubbard (1987), for example, found
+sharply decreasing LAC curves when small farms
+grow to a ‘family’ size in the UK but much less evidence for increasing costs for the group of largest
+farms. These findings imply that increasing average
+farm sizes do not necessarily imply the presence of
+economies of scale, merely the absence of significant
+diseconomies (Seckler and Young, 1978; Dawson and
+Hubbard, 1987).
+Research on developing countries has centred
+round the ‘inverse hypothesis’ that smaller farms
+are more productive because land is used more intensively (Bharadwaj, 1974; Johnson and Ruttan,
+1994; Cornia, 1985). These studies, have largely concentrated on partial productivity measures, typically
+yields per hectare, with size measured in terms of
+total hectares (ha) managed (Barrett, 1998) and often
+fail to account for the differential use of other inputs.
+The most common explanation of the inverse hypothesis has been labour market dualism. According to
+this theory, households are believed to face a lower
+opportunity cost of labour than large, commercial
+farms. As a result, small farms apply their own labour
+in such quantities that the expected marginal value
+product of household labour applied to own cultivation is less than a market-wage-based measure of the
+opportunity cost of labour (Carter and Wiebe, 1990).
+Assuming agricultural production technology does
+not exhibit increasing returns to scale, peasant farms
+with a presumed proclivity to labour (Barrett, 1998),
+yield an inverse relationship between farm size and
+productivity. Binswanger and Elgin (1998) use this
+theory to explain why small-scale private plots produced a disproportionate share of agricultural output
+in the CEECs during the communist period. While
+these traditional Western European and development
+literatures approach the size-efficiency debate from
+different perspectives, they are both united in a belief
+that an optimal farm size can be determined by empirical study and that this should be promoted (Munroe,
+2001).
+Traditional approaches to the size-efficiency debate
+have been increasingly criticised on both empirical and
+conceptual grounds (Kislev and Peterson, 1996). Conceptually, Kislev and Peterson (1996) argue that scale
+economies are temporary disequilibrium phenomena
+that persist only under specific circumstances. Several
+
+3
+
+authors have argued that the observed relationships
+between farm size and efficiency may be due to unobserved variables and that traditional explanations of
+farm growth as a mechanism for exploiting economies
+of size are insufficient to explain the growth in mean
+farm sizes. This is developed by Seckler and Young
+(1978) who argue that differences in management input are more important: farms with good managers
+yield profits to invest in land to increase their income
+and may purchase loss-making farms that have inferior management. So, what is revealed in practice, that
+mean farm size increases and that larger farms are
+more profitable and efficient, is rather related to the
+influence of management than to the relationship between size and efficiency per se. Such a trend could
+occur even if the LAC curve was horizontal (Seckler
+and Young, 1978). A discussion of other ‘missing
+variables’ is presented in Section 2.3 below.
+The empirical measures used to classify farm size
+have also been criticised. As Lund (1983) notes, there
+has been no generally accepted measure of firm size in
+the economics literature to guide the choice in agricultural studies. Various measures of outputs, inputs (both
+flow and stock based such as the number of employees
+or value of fixed capital), and of incomes have been
+employed. The most commonly employed agricultural measure, geographical land area managed, may
+be inappropriate for capturing differences in farming
+systems, for example the size of intensive livestock
+production. Another commonly used set of measures
+of farm size are those based on the stocking of different types of animals and sown areas for crops, often
+weighted on the basis of the typical gross margins
+earned or the typical amount of labour input (Lund and
+Price, 1998). These weighting approaches have been
+used to estimate standard gross margins (SGM) which
+are used to estimate European Size Units (ESUs),
+based on periodically revised evaluations of the SGMs
+earned from livestock and other land uses (Lund and
+Price, 1998). However ESUs have rarely been used
+as a measure of farm size in efficiency studies.
+Having used one measure of size, it has been
+common for empirical studies to divide samples into
+two groups, of ‘large’ and ‘small’ farms (Verma and
+Bromley, 1987). This approach suffers from the arbitrary nature of the division of what is essentially a
+continuous variable and a lack of evidence on whether
+the results are robust with respect to other groupings
+
+4
+
+M. Gorton, S. Davidova / Agricultural Economics 30 (2004) 1–16
+
+(Doran, 1985). In dealing with this, Doran (1985)
+suggests applying a logistic function that enables the
+data to determine whether a simple classification into
+small and large is appropriate and, if so, what the
+cut-off value should be.
+In classifying farm size, two other empirical issues
+should be noted surrounding farm fragmentation and
+differences between land ownership and use. The issue of farm fragmentation has been highlighted in
+the development economics literature as, for example,
+Sau (1973) for India notes that a farm of 20 ha will
+typically be comprised of five separate plots. A consideration of farm fragmentation in efficiency studies appears important as work on China by Nguyen
+et al. (1996) found that gains were associated with
+economies in plot size rather than farm size. Given the
+nature of decollectivisation processes in the CEECs
+and the structure of peasant farms that were never
+collectivised, farm fragmentation is a concern in the
+region. Mech (1999) reports a high degree of land
+fragmentation in Poland with “small long strips of
+ribbon-like fields” prevailing. Second, the distribution of farm sizes may be very different according
+to whether measured by ownership or management
+(Binswanger et al., 1993). This is a particular issue
+in the CEECs where restitution has dramatically increased the number of owners, many of whom however choose to rent out their land to corporate actors.
+As Swain (1998) notes, decollectivisation in the region has created a structure of rental arrangements in
+which many own and few rent, the inverse of the historical norm and Western patterns.
+Given these empirical and conceptual issues, Verma
+and Bromley (1987) argue that size is a relative concept and studies that do not recognise this are of
+limited usefulness. The search for a single ‘optimal
+size’ is futile given the heterogeneity of farming systems and specialisation of factors of production. Instead Verma and Bromley (1987) conclude that the
+“fetish for farm size-productivity relations” has detracted analytical attention from understanding the importance of the larger institutional and infrastructural
+environment.
+2.2. Organisational type
+At the beginning of the transition process, there
+were several assumptions about the farm structures
+
+that would emerge as a result of land reform and farm
+restructuring in the CEECs. These assumptions were
+widely shared by academics and the main international donors (World Bank, 1998). The most common
+view was the strong belief that once the centrally
+planned system had been dismantled, farm structures
+would go back to their ‘normal’ trajectory, namely
+smaller individual/family type farms (Csaki and
+Lerman, 1996). On economic grounds, this assumption was based on the view that family farms are more
+efficient than co-operatives and other types of corporate farms (Schmitt, 1991). The formulated hypothesis
+(Schmitt, 1993; Hagedorn, 1994) is that “if the freedom of self-organisation is guaranteed, mainly family
+farms develop and survive, except for explicable exceptions, because they have low transaction costs”
+(Hagedorn, 1994, p. 5). One of descriptive arguments
+employed in support of this hypothesis is that in
+Western Europe family farms predominate. Hagedorn
+(1994), however, acknowledges that although family
+farms are expected to be the main outcome from the
+institutional reorganisation of socialised agriculture,
+they may differ from the present structure in Western
+Europe, mainly in a sense of a higher proportion of
+larger farms employing non-family labour.
+Studies employing a New Institutional Economics
+framework have attempted to explain the circumstances under which it could be expected that one
+organisational form is preferred (Allen and Lueck,
+1998; Roumasset, 1995). Allen and Lueck (1998)
+present a model of farm organisation with at one end
+of a spectrum “pure family farms”, with labour paid
+by residual claims, and at the other “factory style corporate agriculture”, where farms have many owners
+and specialised wage labour. In between are various
+partnerships. As the family farmer is the full residual
+claimant, there are no moral hazard costs associated
+with a worker’s gains from shirking. However, due
+to the lack of labour task specialisation in the family
+farm, the marginal product of labour in any given
+task is lower than in the case of specialised labour
+in the corporate farms. In addition, family farmers
+have the highest capital costs, as they lack the pool
+of resources that is available to corporate farms from
+their group of owners. As a result, family farms are
+smaller than partnerships and corporate farms, and
+possess less equipment. At the opposite end of the
+spectrum, the ‘factory style’ corporate farms have
+
+M. Gorton, S. Davidova / Agricultural Economics 30 (2004) 1–16
+
+high costs to monitor labour as hired workers have
+incentives to shirk. However, as corporations face the
+lowest capital costs they are more capital intensive.
+The quantity of hired labour depends on the balance
+between the gains from specialisation and the costs
+of monitoring. From these propositions, Allen and
+Lueck (1998) argue that corporate farming will be
+more efficient and predominate when the production
+task makes it less costly for the residual claimant to
+relate individual effort to commonly produced results
+(such as capital intensive, less seasonal sectors like
+poultry or horticultural production). Using data from
+Canada and the USA, they argue that arable farming
+will continue to be dominated by family farming as
+waged labour is difficult to monitor and the benefits
+of specialisation are limited. In contrast, livestock
+production, which is typically more spatially concentrated and where farmers can better control the effects
+of nature and accurately monitor individual labour,
+will gravitate toward large scale corporate forms as
+found in the rest of the economy (Allen and Lueck,
+1998). In this model, the nature of the production
+system determines which organisational type will be
+more efficient. Brem and Kim (2000) have applied
+this framework to study the reorganisation of Czech
+agriculture. However, as they note, farm governance
+structures in transitional economies are typically more
+complex than the stylised models of agricultural firms
+presented by Allen and Lueck (1998). Labourers in
+corporate farms (producer co-operatives or other type
+of companies) are often not only wage earners, but
+also residual claimants as they contribute land and
+non-land assets to the company.
+2.3. Other factors affecting farm productivity and
+efficiency
+A host of other issues has been investigated in studying variations in farm efficiency, and these can be
+divided into agency and structural factors. The most
+common agency factor investigated has been human
+capital. Stefanou and Saxena (1988) test for the effects of education and training of farm operators on
+efficiency. They found that both education and experience have a significant positive effect on the level of
+efficiency and that they are substitutes. Welch (1970)
+treats education as a factor of production and attributes
+the ‘productive value of education’ to two different
+
+5
+
+phenomena. The first is the ‘worker’s effect’ that permits the worker to achieve more with the available
+resources, and the second is ‘allocative effect’ that enhances a worker’s ability to acquire and decode information about other inputs (Welch, 1970). Sumner and
+Leiby (1987) link the importance of human capital to
+the size debate by arguing that the selection of people
+to engage in farming and their decision to stay in the
+sector will affect the size distribution. Particular emphasis is placed on experience in farming (Sumner and
+Leiby, 1987; Evans, 1987), as farmers with more experience have lower average marginal production costs
+and may choose to operate larger farms. This variability in management input, human and other resources
+implies that there may be more variation in productivity within farm size groups than between size groups
+due to factors other than economies of size (Buckwell
+and Davidova, 1993).
+Regarding structural factors, these can be divided into on-farm and off-farm issues. The most
+prominent on-farm issue investigated has been
+agri-environmental conditions, including soil quality,
+altitude, climate, rainfall and access to water. For
+example, Davidova et al. (2002) found a significant
+effect of farm location on efficiency in the Navarra region of Spain with the best performing farms located
+in the middle of the region and the worst in the northern counties due largely to their mountainous landscape. Environmental factors have been seen as the
+‘missing variables’ from assessments of economies of
+size (Bhalla and Roy, 1988). For example, Benjamin
+(1995) claims that unobserved agri-environmental
+factors are responsible for the observed inverse productivity relationship seen in studies of developing
+agriculture. Using data on rice production in Java
+he argues that to the extent that high-quality land is
+subdivided more often than low quality land, yields
+per hectare are greater for smaller farms. Bhalla and
+Roy (1988) also found that differences in soil quality
+across households within the same district partially
+explain the inverse productivity relationship. In other
+words, land quality is one determinant of farm size
+and efficiency studies should account for this. Finally
+regarding on-farm structures, security of land ownership rights can effect farm performance (Cristoiu,
+2001) as farms with more secure ownership rights are
+more prone to make long-term investments and so
+may display higher efficiency.
+
+6
+
+M. Gorton, S. Davidova / Agricultural Economics 30 (2004) 1–16
+
+Off-farm structural factors include wider institutional factors such as up- and downstream relationships and the nature of transaction costs between
+agents along agri-food supply chains. For example,
+the performance gains from better functioning upstream markets may include better terms of trade
+that lower the average costs of production. Similarly,
+farms may benefit from the ‘backward transmission’
+of scale economies from the downstream sector via
+improved contractual arrangements with processors
+or marketing enterprises (Hughes, 2000a). The nature of supply chain relationships has been seen as
+critical by some authors in explaining the performance of post-communist agriculture in the region
+(Hughes, 2000a; Gow and Swinnen, 2001). Hughes
+(2000a) for example argues that some CEECs have
+institutional environments that are more conducive to
+small-scale farming than others because supply and
+marketing opportunities were better developed in the
+pre-reform period with lower transaction costs. Acquired learning is also important. Established farms
+may benefit from accumulated social capital which
+can provide advantages in negotiations with input
+suppliers, creditors and processing firms (Meurs,
+2001).
+In summary, the farm size-efficiency debate on its
+own is too restrictive a framework for studying variations in farm performance in the CEECs. No absolute generalisations can be made regarding an optimal
+farm size (Binswanger and Elgin, 1998), as the optimal farm size for a particular production system in a
+particular country will depend on a set of structural
+and agency factors.
+
+3. Methodologies employed and studies
+conducted
+Broadly three sets of approaches to the measurement of production efficiency can be delineated:
+parametric techniques (deterministic and stochastic),
+non-parametric techniques based on Data Envelopment Analysis (DEA), and productivity indices based
+on growth accounting and index theory principles
+(Coelli et al., 1998). Each of these broad approaches
+has been applied in studies on the CEECs (Table 1).
+Before reviewing the empirical results of these studies
+it is necessary to understand the differences between
+
+these methods and how such variations can affect the
+results presented.
+The deterministic frontier approach attributes all deviations from the frontier to inefficiencies. Therefore,
+it does not take into account the effects of errors of
+measurement and other random noises. For this reason, it has not usually been applied to efficiency estimations in transition economies, except in studies
+with a stronger emphasis on methodological comparison (Piesse, 1999). In contrast, the stochastic frontier
+(Aigner et al., 1977; Meeusen and van den Broeck,
+1977) accounts for the effect of random factors such as
+errors of measurement, unspecified variables, or hazard factors. Morrison (2000) and Curtiss (2000) have
+used the stochastic frontier approach in farm efficiency
+studies on transition countries. It has been acknowledged that data from transition economies are generally noisy in comparison to those from developed
+economies (Morrison, 2000). From this point of view,
+the stochastic frontier approach is more appropriate
+than the deterministic one.
+The stochastic frontier methodology is, however,
+more suitable for a single-output case. In multiple
+output situations, data must be aggregated and this
+requires price data, which are not always readily
+available for transition countries. There is also another
+point that raises doubts about the appropriateness of
+the production frontier approach to farm efficiency
+studies for the CEECs. If farms operate using different technologies, the production function becomes
+farm-specific. In this case the assumption that the
+slope coefficients are equal across farms is no longer
+valid and the measurement of efficiency is not reliable (Lansik, 2000). The assumption that all farms
+in transition economies apply the same technology is
+quite strong. At the very least, there are differences
+between individual and corporate farms, particularly
+co-operatives. For example, in the Czech Republic
+limited liability companies have their origins in the
+privatisation of the state farms. At the beginning of the
+process, the assets of state farms were leased to small
+groups of people, usually including the former farm
+managers (Ratinger and Rabinowicz, 1997). Gradually, the non-land assets were sold to these lessees
+at favourable conditions with rescheduled payments.
+Hence the managers of these companies had some
+managerial experience from the pre-reform period and
+access to machinery from the previous state farms at
+
+M. Gorton, S. Davidova / Agricultural Economics 30 (2004) 1–16
+
+7
+
+Table 1
+Empirical studies of farm efficiency in the CEECs and the methodologies employed
+Country
+
+Author(s)
+
+Dataset
+
+Sample size
+
+Methodology
+
+Comments
+
+Bulgaria
+
+Mathijs and Vranken
+(2000)
+Hughes (1998)
+
+1998 ACE survey
+
+93
+
+Specialist crop farms onlya
+
+VUZE panel 1996
+
+411
+
+Czech Republic
+
+Mathijs and Swinnen
+(2000)
+
+227
+
+Czech Republic
+
+Curtiss (2000)
+
+Agrocensus and
+VUZE panel data
+for 1996
+VUZE FADN
+1996–1998
+
+Data envelopment
+analysis (DEA)
+Tornquvist-Theil
+TFP Index
+DEA
+
+Stochastic Frontier
+Analysis (SFA)
+
+Wheat, rape seed and
+sugar beet only
+
+Hungary
+
+Hughes (2000a,b)
+
+AKII 1996–1997
+
+Hungary
+
+1998 ACE survey
+
+Poland
+
+Mathijs and Vranken
+(2000)
+van Zyl et al. (1996)
+
+1993 IERiGZ data
+
+178 crop and
+77 dairy
+248
+
+Poland
+
+Munroe (2001)
+
+1996 IERiGZ data
+
+1200
+
+Slovakia
+
+Mathijs et al. (1999)
+
+1996
+
+151
+
+Cobb–Douglas
+stochastic frontier
+DEA
+
+Slovakia
+
+Morrison (2000)
+
+1994–1996
+
+30–39
+
+SFA
+
+Slovakia
+
+Hughes (2000b)
+
+1990/1–1996
+
+80
+
+Slovenia
+
+Brümmer (2001)
+
+1995/6 FADN data
+
+147 useable
+
+Tornquvist-Theil
+TFP Index
+SFA and DEA
+
+Czech Republic
+
+95 wheat farms,
+70 rapeseed &
+43 sugar beet
+153 (1997)
+
+Tornquvist-Theil
+TFP Index
+DEA
+TFP and DEA
+
+Specialist crop and
+dairy farms onlya
+Two regions. Individual
+farms above 3ha only
+Individual farms only
+Producer co-ops &
+companies only
+Frontiers constructed for
+7 products. Co-ops only
+Only covered producer
+co-operatives
+Specialist horticulture
+excluded
+
+a Specialist dairy and crop farms defined as enterprises for which cow milk or grain production accounted for more than 50% of the
+total value of agricultural output.
+
+favourable conditions. Yet most of this machinery was
+old, and therefore, burdened the companies with high
+replacement costs. The limited liability companies
+also accumulated liabilities to the state for acquiring
+assets from the former state farms. This might have
+impeded their access to credit. Thus, due to their different histories, the emerging farm structures in CEECs
+have different constraints and different qualities of
+management, which makes the assumption that farms
+use the same technologies highly questionable. In
+addition, there is some evidence that individual farms
+face different factor and output prices and therefore
+use different technologies (Meurs, 2001). Therefore,
+it is not surprising that only a few of the reviewed
+studies have used a production frontier approach.
+More often, non-parametric approaches have been
+applied. DEA does not require arbitrary assumptions
+about the functional forms and the distribution of the
+error term. In essence, DEA uses a linear programming
+
+procedure to minimise inputs per unit of output to
+determine the frontier of best-practice firms, and then
+to determine the efficiency of each production unit
+relative to their frontier (Ali and Seiford, 1993). The
+main reasons for its wide use are computational ease
+and the possibility of isolating scale efficiency from
+technical and allocative efficiency.
+Two issues have pre-occupied researchers studying
+farm efficiency during the first years of transition:
+First, whether there is systematic evidence about the
+superiority of one or another management form, and
+particularly whether individual farms are more efficient than the co-operatives; and second, whether the
+individual farms created as a result of land restitution
+have been too small and exhibited scale inefficiencies. DEA, given that it allows for the separation of
+scale and pure techincal efficiency effects, has been
+perceived as an adequate approach these questions.
+Another advantage of DEA in comparison to
+
+8
+
+M. Gorton, S. Davidova / Agricultural Economics 30 (2004) 1–16
+
+Table 2
+Summary of frontier efficiency analysis for Hungarian agriculture
+Year
+
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+
+Deterministic
+
+Stochastic
+
+Non-parametric
+
+Mean
+
+Standard deviation
+
+Mean
+
+Standard deviation
+
+Mean
+
+Standard deviation
+
+0.669
+0.628
+0.637
+0.715
+0.499
+0.669
+0.478
+
+0.094
+0.086
+0.093
+0.094
+0.084
+0.106
+0.097
+
+0.865
+0.989
+0.946
+0.896
+NA
+NA
+NA
+
+0.075
+0.046
+0.012
+0.049
+NA
+NA
+NA
+
+0.843
+0.803
+0.788
+0.787
+0.599
+0.759
+0.763
+
+0.115
+0.120
+0.117
+0.109
+0.138
+0.123
+0.137
+
+Source: Piesse (1999).
+
+the parametric approach is that it can handle
+multiple-output and multiple-input situations simultaneously and cases where inputs and outputs are quantified using different units of measurement (Thiele and
+Brodersen, 1999). However, DEA is based on a deterministic approach, so all deviations from the frontier
+are attributed to inefficiencies. Hence, the above mentioned ‘noisy’ data for transition economies might not
+be well-suited for DEA. Moreover, DEA estimates
+could be biased towards higher scores if the most efficient farms within the population are not contained in
+the sample. Thus, a certain overestimation of sample
+efficiency is possible.
+Given these issues, some authors have advocated
+the application of index methods, using Malmquist
+or Tornqvist-Theil productivity indices (Piesse, 1999;
+Hughes, 2000a,b).1 Indices allow the consideration of
+detailed data on inputs and outputs but by their very
+nature cannot be checked for consistency statistically.
+However, they are easy to calculate and analysis may
+be carried out on a small sample, and this has made
+them appealing to researchers studying economies in
+transition.2
+In order to illustrate the importance of the above
+points when interpreting results derived by different methods, Table 2 shows the results of three
+efficiency frontier estimations based on 117 observations in Hungary. Efficiency measures constructed by
+1 Under the assumption of constant returns to scale, the latter is
+calculated as a geometric mean of two Malmquist indices (Caves
+et al., 1982).
+2 When Farm Accountancy Data Network (FADN) procedures
+were introduced in the EU applicant countries, they were based on
+small samples. For example, the FADN survey began in Hungary
+in 1996 with a sample of just 42 farms (Hughes, 2000b).
+
+stochastic frontier are consistency higher than those
+derived from the deterministic one. The same is true
+for the non-parametric frontier, but the standard deviation is also higher. The numerical results of studies
+of farm efficiency in the CEECs should be interpreted
+accounting for the method of estimation.
+
+4. Review of results
+The empirical findings of the studies listed in
+Table 1 are grouped according to three topics mirroring
+the topics discussed in Section 2: farm size, farm structures and other factors. These are discussed in turn.
+4.1. Variations between farm sizes
+As expected from the arguments presented in
+Section 2, the clearest finding on the size-efficiency
+relationship is that there does not appear to be a
+uniform, cross-national ‘optimum’ farm size. This is
+based on studies that in the majority of cases have
+used hectares managed as a measure of farm size.
+An exception to this has been for livestock farming
+where the value of total assets or total output has
+been applied (Mathijs and Vranken, 2000; Hughes,
+2000b). None of the studies have measured size in
+terms of ESUs or controlled for farm fragmentation
+and differences in plot sizes.
+For arable farming, in the Czech Republic there appear to be economies of size up to 750 ha, in Slovakia
+economies of scale persist above 2000 ha,3 while in
+3 TFP analysis by Hughes (2000b) and the scholastic frontier
+analysis by Morrison (2000) obtained very similar results for
+Slovakia.
+
+M. Gorton, S. Davidova / Agricultural Economics 30 (2004) 1–16
+
+9
+
+Table 3
+Empirical evidence on variations in efficiency by farm size
+Country
+
+Author(s)
+
+Findings
+
+Czech Republic
+
+Hughes (1998)
+
+Economies of scale up to 750 ha for arable farming and up to 1,000,000 CZK in 1996 for
+livestock farms
+
+Czech Republic
+
+Curtiss (2000)
+
+On average farms above 150 ha perform better for wheat and rapeseed production
+
+Hungary
+
+Hughes (2000b)
+
+Diseconomies of scale over 500 ha, but variation could be accounted for by structural
+factors rather than size per se. Small private farms (up to 10 ha) perform remarkably well
+
+Poland
+
+van Zyl et al. (1996)
+
+Larger private farms (above 15 ha) are in general less efficient although results are sensitive
+to the methodology employed
+
+Poland
+
+Munroe (2001)
+
+Farms greater than 15 ha were less efficient
+
+Slovakia
+
+Morrison (2000)
+
+For all commodities analysed, a positive relationship between the scale of production and
+level of efficiency is observed
+
+Slovakia
+
+Hughes (2000b)
+
+Strong evidence of economies of size in crop production (best performing farms over
+2000 ha). No evidence of economies of size in livestock production. Small farms’ relative
+productivity improved over the period 1991–1996
+
+Hungary diseconomies of scale appear to set in above
+500 ha (Table 3). For Poland, van Zyl et al.’s (1996)
+analysis indicated that farms which are relatively large
+by Polish standards (above 15 ha) were, on average,
+less efficient for the year of study (1993) than their
+smaller counterparts. While the van Zyl et al. (1996)
+study is outdated, Munroe (2001) using data from
+1996 also found that farms greater than 15 ha exhibited lower efficiency.
+The van Zyl et al. (1996) study also illustrates
+how results may differ according to the methodology
+applied. Their TFP results indicate that large farms
+are not more efficient than smaller farms, particularly
+those within the 10–15 ha range and in fact a downward sloping curve for TFP with respect to farm size
+was observed (van Zyl et al., 1996). The DEA analysis, however, found insignificant differences between
+the mean sizes of scale efficient (SE) and inefficient
+farms (P < 0.10), as well as for the different farm
+size categories. The results for allocative efficiency
+(AE) were similar, yielding no significant differences.
+On the other hand, large farms (>15 ha) were significantly (P < 0.10) less technically efficient (TE)
+than smaller farms, but in terms of total efficiency
+(SE × TE × AE) large farms (>15 ha) did not differ significantly from smaller farms (van Zyl et al.,
+1996). The differences between the results obtained
+by the two approaches may be attributed to inherent
+differences in methodology. While DEA isolates scale
+
+efficiency from technical and allocative efficiency,
+TFP measurements do not differentiate between them.
+The discussion of the lack of economies of size for
+Poland by Munroe (2001) and van Zyl et al. (1996) is
+based on a dichotomy of small and large farms with
+15 ha set as the threshold. This is an arbitrary distinction, as criticised by Doran (1985) and in one of the
+regions studied by van Zyl et al. (1996) no farm exceeded 54 ha. By Czech and Slovakian standards, all
+farms in this Polish region are ‘small’ and it is not possible to say whether economies of size exist outside the
+range of farm sizes provided in the Polish samples.4
+This illustrates how size is a relative concept.
+Notwithstanding these sampling issues, Hughes
+(2000b) argues that cross-national differences are
+linked to variations in the institutional environment
+for, and social capital of, small-scale farming. In
+Poland and Hungary small-scale farming was relatively more important during the communist era
+(especially in Poland) and more conducive support
+structures were developed in these countries. Hungary
+has had a much more supportive environment for
+small-scale private farming dating back to the New
+Economic Mechanism, and since 1989 has embarked
+on a more wholesale decollectivisation than the former Czechoslovakia, creating a larger, more well
+4 Curtiss (2000) uses a threshold of 150 ha for classifying ‘small’
+and ‘large’ farms in the Czech Republic.
+
+10
+
+M. Gorton, S. Davidova / Agricultural Economics 30 (2004) 1–16
+
+supplied market for small farm inputs and services.
+The availability of external services for crop production, such as harvesting services and inputs for small
+farms, has historically been far better developed in
+Hungary and Poland. The availability of such services
+is seen as an important means of overcoming some of
+the sources of diseconomies of size (Hughes, 2000b).
+In the Czech Republic and Slovakia, far less land is
+operated by small farms and the market for supplying
+them with inputs and services is smaller and less well
+developed. Small-scale farms created by restitution in
+the Czech Republic and Slovakia are principally new
+phenomena. In the latter two countries it is expected
+that accumulated appropriate human and social capital
+in small-scale farming is also smaller than in Hungary
+and Poland. Where small, private farms are well established and managed continuously by the present farm
+household, they appear to be less inefficient relative
+to larger cohorts than in countries where small farms
+are a relatively new phenomenon. However, one must
+note the time frame of these studies. The data used
+by Brümmer (2001); Curtiss (2000); Hughes (2000b);
+Mathijs et al. (1999) and Munroe (2001) was from
+the mid-1990s. van Zyl et al. (1996) use data from
+1993. It may be that as new owners become more
+
+experienced or sell their land to more efficient farmers
+and the former large state and collective farms adopt
+a more professional management approach, some of
+these country variations, which have their origins in
+pre-transition farm structures, will diminish.
+In their analysis of economies of size, the majority
+of authors do not control for differences in soil quality or other environmental factors (e.g. Mathijs and
+Swinnen, 2000; Mathijs et al., 1999; van Zyl et al.,
+1996, Curtiss, 2000). In most cases this has been due
+to lack of data, but where soil quality and altitude have
+been measured they have proved significant. For example, Brümmer (2001) found that Slovenian farms
+600 m above sea level displayed lower technical efficiency and these ‘high altitude’ farms are on average
+larger.
+4.2. Variations between structures
+The most striking feature of the research on farm
+structures and productivity is that the evidence is far
+from clear cut (Table 4). In Hungary, when other factors are controlled for, family farms do appear to be
+more efficient, based on both Tornqvist-Theil TFP
+Indices and DEA analysis (Hughes, 2000a; Mathijs
+
+Table 4
+Empirical evidence on variations in efficiency by farm structure
+Country
+
+Author(s)
+
+Findings
+
+Bulgaria
+
+Mathijs and Vranken (2000)
+
+For crop production, companies performed better than family farms (although based on
+a very small sample). The share of insiders has a positive influence on the technical
+efficiency of co-operatives
+
+Czech Republic
+
+Hughes (1998)
+
+Individual private farms were significantly more productive for livestock, but not crop
+farming. Co-operatives performed better than farming companies
+
+Czech Republic
+
+Mathijs and Swinnen (2000)
+
+For animal breeding and dairy farming, family farms were more efficient than
+co-operatives and companies. For crops no significant differences between co-operatives
+and companies are observed. Co-operatives were found on the production technology
+frontier of all specialisations
+
+Czech Republic
+
+Curtiss (2000)
+
+Co-operatives performed better than individual farms and companies except for sugar
+beet where individual private farms performed best. The latter are more labour intensive
+but geographically dispersed
+
+Hungary
+
+Hughes (2000b)
+
+Individual private farmers had significantly higher TFP scores than any other farm type
+
+Hungary
+
+Mathijs and Vranken (2000)
+
+For crop farming, while all three structures investigated (family farms, companies,
+co-operatives) could be technically efficient, on average family farms were best with
+companies performing better than co-operatives
+
+Slovakia
+
+Mathijs et al. (1999)
+
+Family farms performed best except for mixed crop-dairy farms where companies and
+co-operatives were more scale efficient
+
+M. Gorton, S. Davidova / Agricultural Economics 30 (2004) 1–16
+
+and Vranken, 2000), but no such relationships hold
+in Bulgaria. For the Czech Republic, both Hughes
+(1998) and Mathijs and Swinnen (2000) found that
+individual private farms were significantly more productive than corporate farms in livestock farming but
+not in crop production. In Curtiss’ (2000) analysis of
+crop production in the Czech Republic she found that
+co-operatives performed better in wheat and rapeseed
+cultivation compared to individual farms but that the
+latter were superior in sugar beet production. In Slovakia family farms appear to be more efficient in the
+specialist livestock sector but not for combined dairy
+and crop production (Mathijs et al., 1999).
+Comparatively assessing these results, it appears
+that arguments that co-operatives or other forms of
+corporate farming are inherently less efficient, for all
+types of farming, than family farms are misplaced.
+Even where the average corporate farm is less productive than the average family farm, one still sees some
+co-operatives and companies which are on the frontier or registering high TFP scores (Hughes, 2000a;
+Mathijs and Vranken, 2000). In explaining why there
+appear to be significant differences in efficiency between corporate farms and family farms for certain
+activities and not others, Mathijs and Vranken (2000)
+follow the propositions of Allen and Lueck (1998).
+They argue that governance problems in corporate
+farms will be most severe where production is spatially diffused and sequential, as in these cases the
+costs of supervising and monitoring hired labour are
+highest (e.g. arable farming). Mathijs et al. (1999) and
+Mathijs and Vranken (2000) argue that this explains
+why family farms in the Czech Republic, Hungary and
+Slovakia appear more efficient for crop production
+but such advantages disappear in the dairy sector. It
+should be noted, however, that Curtiss (2000) finds no
+such advantages for family farms in wheat or rapeseed
+production. In her stochastic frontier analysis, individual farms were only for sugar beet production seen
+to be more efficient. She argues that this result might
+be due to sugar beet production being more labour intensive so that only in this case are the advantages of
+family farms in the supervision of labour significant.
+Hughes (2000b) takes a different approach in arguing why the performance of corporate farms has
+been better than some of the initial assumptions made
+about them would have led one to suppose. He argues that while in the pre-reform period co-operatives
+
+11
+
+and state farms were beset by low labour effort,
+free-riding problems and principal-agent difficulties,
+these have now been much reduced by changes in the
+external environment and internal structures. Worker
+bargaining power has been reduced by the presence of
+high rural unemployment, so that whereas previously
+villagers could hold on to a co-operative job irrespective of work effort, today the costs of being caught
+shirking and being dismissed are far higher. Political
+developments in the Czech and Slovak Republics have
+also reduced worker bargaining power in the general
+assemblies of co-operatives so that decisions are no
+longer guaranteed to be made on the basis of one
+member one vote (Hughes, 2000a).5 In this environment as the marginal productivity of labour is higher,
+managers have a greater ability to detect and resist
+free riding by farm workers (Hughes, 2000a). From
+this viewpoint many of the governance problems attributed to corporate farms are not seen as being inherent to this structure per se, but were rather generated
+by the external environment in which they operated
+before transition. On these grounds, and given the
+empirical evidence from other studies, one should not
+expect non-family farms to disappear in the region
+or to be inherently less competitive, although one
+may see greater specialisation into activities in which
+labour supervision and monitoring is less costly.
+4.3. Evaluation of other factors
+The majority of farm efficiency studies for the region have focused on size and structural matters. Both
+the dominance of size and structural issues in policy
+debates and the availability of data have influenced
+this. Most previous studies have used farm accounting
+records that do not contain information on human and
+social capital. This is unfortunate given that, where investigated, human and social capital appear to be significantly related to farm efficiency (Lockheed et al.,
+1980; Stefanou and Saxena, 1988). The consideration
+of human capital-efficiency effects is of particular importance for the CEECs as the level of formal education and training held by small-scale farmers in the
+region tends to be low.
+5 Hungary’s 1992 Co-operative Transformation Law also weakened the bargaining power of workers as the requirement that
+co-operatives had to provide jobs for all members was removed.
+
+12
+
+M. Gorton, S. Davidova / Agricultural Economics 30 (2004) 1–16
+
+Table 5
+Empirical evidence on variations in efficiency accounted for by other factors
+Country
+
+Author(s)
+
+Findings
+
+Bulgaria
+
+Mathijs and Vranken (2000)
+
+Strong relationship between education and technical efficiency for dairy and crop
+production. Positive relationship with contracting
+
+Czech Republic
+
+Hughes (1998)
+
+Significant regional variation (mountainous farms registered the worst performance)
+
+Hungary
+
+Mathijs and Vranken (2000)
+
+Strong relationship between education and technical efficiency for dairy and crop
+production. Share of women in the household has a positive effect but only significantly
+so for crop farms. Farms that have bought land are more efficient. Contracting was
+positively related with technical efficiency especially for crop farming
+
+Poland
+
+Munroe (2001)
+
+Positive relationship between efficiency and both experience (age of farmer) and farm
+modernisation (measured as use of electricity and gas heating)
+
+Slovenia
+
+Brümmer (2001)
+
+Lower efficiency associated with higher altitude (>600 m above sea level) and part-time
+farming
+
+Some attempts, however, have been made to investigate other agency and structural factors affecting farm
+efficiency (Table 5). In both Bulgaria and Hungary,
+Mathijs and Vranken (2000) found a significantly positive relationship between education and technical efficiency in family farms for both crop and dairy farming,
+where education was measured as years spent in formal education. However, the evidence on other aspects
+of human capital was less clear. For example, age had
+a positive impact on the efficiency of Hungarian crop
+farms, as it did in Munroe’s (2001) analysis for Poland,
+but a negative relationship was recorded for Bulgaria.
+Both of these studies found no significant relationship
+between efficiency and the number of women in the
+household. Mathijs and Vranken (2000) found that the
+share of the workforce aged over 60 years has a significant influence on technical efficiency in dairy farming
+but not arable. This evidence points to the importance
+of human capital, but not all the dimensions of this
+are clearly understood. Even in the case of the relationship between technical efficiency and education
+there is a need to distinguish between agricultural and
+non-agriculturally specific education to see to what extent career-specific skills or the stimulation of wider
+key skills (or a combination of both) are important.
+Mathijs and Vranken’s (2000) other main finding
+concerns the relationship between technical efficiency
+and contracting. They found that contracting was
+significantly related to higher technical efficiency especially for crop production. Contracting has been
+seen as a means of overcoming imperfections in credit
+markets where downstream processors provide credit
+
+or physical inputs combined with technical advice
+and information (Gow and Swinnen, 1998). However,
+it may (also) be that upstream processors purposely
+select farms they know as being ‘good’, and as the
+Mathijs and Vranken (2000) study offers a snapshot
+it is not possible to draw conclusions regarding the
+causality of the relation between contracting and efficiency. In investigating on-farm factors, Munroe
+(2001) found a positive relationship been farm modernisation (measured as the use of electricity and gas
+heating) and technical efficiency for Poland. Brümmer
+(2001) tests for differences in technical efficiency between part and full-time farms in Slovenia. He found
+that full-time farms are more efficient and this is interpreted as reflecting that part-time farmers have lower
+opportunity costs for labour and certain types of capital as a result of quality differences and the ‘hobby’
+character of some part-time farms. Only Brümmer
+(2001) tests for differences between full and part-time
+farms, and this is unfortunate given that decollectivisation has created a mass of new, small units and in
+countries which were not extensively collectivised
+(such as Poland and Slovenia) small-scale farming still
+prevails.
+Finally, reviewing all the studies it should be noted
+that the evidence presented is biased towards the
+Central European countries. Looking at the applicants
+for EU membership, there is a lack of evidence on
+the Baltic States and Romania. This matters because
+the findings to date show considerable differences
+between countries, especially regarding the importance of the institutional environment. A critical issue
+
+M. Gorton, S. Davidova / Agricultural Economics 30 (2004) 1–16
+
+in this regard is the nature of a country’s marketing
+environment for small farms.
+
+5. Conclusions
+A recent World Bank paper on the CEECs argues
+that “production co-operatives have consistently failed
+to demonstrate competitiveness with private family
+farms” and that there is “no evidence in favour of
+economies of scale in farming, rather the opposite”
+(World Bank, 1998, p. 6). The review in this paper of
+factors affecting efficiency and of the empirical findings from the CEECs point to more complex conclusions.
+The majority of studies on arable farming have
+found evidence of economies of size and these may
+extend above the typical size of contemporary family farms in the region. However, these conclusions
+are largely based on studies that do not control for
+variations in human capital and agri-environmental
+factors. Previous research on developing countries
+has indicated that these factors are important ‘missing variables’ which, when controlled for, may substantially weaken previous assumptions made about
+the role of size. Path dependency factors appear to
+play a role and small farms appear to be relatively
+more efficient in countries where support services for
+small-scale farms are better developed.
+Some authors have advocated the amalgamation of
+small farms to realise economies of size in the region
+(Curtiss, 2000). While amalgamation may aid technical and allocative efficiency in certain cases, such appeals tend to often ignore the nature of decision making in, and the dynamics of, peasant households (Ellis,
+1988). A more fruitful approach may be consider ways
+of improving service provision (especially mechanisation services) to small-scale farms that reduce some
+of the diseconomies of small farm sizes. Small-scale
+agriculture in the CEECs does not appear to be a temporary phenomenon and the rate of structure change
+in Poland, where small farms predominate, has been
+modest (Safin and Guba, 2000). Improving the institutional environment for small farms will be more beneficial than appeals for farm amalgamation.
+Regarding the economics of farm structures there
+is no clear cut evidence of corporate farms being inherently less efficient, for all farming activities, than
+
+13
+
+family farms. Where significant differences have been
+found in favour of family farms against the average
+corporate farm, the best corporate farms still tend to
+perform as well as the best family farms (Hughes,
+2000b). One should not expect corporate farms to always be unable to compete, and many will survive and
+thrive in the future. However, at a commodity level,
+corporate farming appears most suited to activities in
+which production is spatially concentrated or labour
+represents a smaller proportion of costs (Curtiss, 2000;
+Mathijs and Swinnen, 2000). Corporate farms are also
+likely to perform better where the costs of being caught
+shirking are higher (i.e. managers have the ability to
+dismiss free-riding workers or high rural unemployment acts as deterrents).
+While size and structural effects have been investigated by a number of authors, there has been comparatively little research on the linkages between the
+human and social capital of CEEC farmers and technical efficiency. Mathijs and Vranken (2000) did find
+a significant relationship between years of education
+and farm efficiency. The educational level of farmers
+in the region has given cause for concern. For example
+in Poland, 59% of those employed mainly or exclusively on individual farms in 1998 had, at most, only
+primary education, and of these over 8% had not even
+completed primary school (Safin and Guba, 2000).
+Under one-sixth (14%) had completed secondary education and just 1% had completed university. Those
+employed in farming have tended to see their incomes
+fall relative to national and rural averages during transition and many suffer from a lack of the skills demanded on non-agricultural labour markets. The question of how to improve human capital in rural areas
+both to improve farm efficiency and to aid diversification out of farming remains pressing.
+Another area for future research is the relationship
+between farm efficiency and non-agricultural activities. Previous studies have focused almost exclusively
+on the agricultural activities of farms but there is evidence of widespread diversification of both individual and corporate farms (Davis and Pearce, 2000).
+Understanding the linkages between farm efficiency
+and non-agricultural activities is important, as studies
+on developing countries have shown (Savadogo et al.,
+1994).
+Finally, one should note that cross-national comparisons have been limited by differences in data
+
+14
+
+M. Gorton, S. Davidova / Agricultural Economics 30 (2004) 1–16
+
+collection procedures between countries (especially
+the allocation of fixed costs) and, in some cases,
+access to data. While most associated countries are
+harmonising their own surveys with the EU’s FADN,
+this has taken longer than initially envisaged (AKII,
+2000). It is therefore difficult to use the results of
+efficiency studies directly, compare performance between CEECs and existing EU member states. While
+one is able to identify farms which are relatively
+more efficient (e.g. on the production frontier or with
+a higher TFP index score) in a particular sample for
+one CEEC, the frontier for that country might bear
+little relationship to what is internationally efficient.
+However, from the efficiency studies already conducted one can conclude that a more nuanced set of
+conclusions concerning the farm size, structure and
+efficiency debate should be drawn than was present in
+many of initial pronouncements on decollectivisation.
+
+Acknowledgements
+Research for this paper was supported by the
+EU Framework Five Programme, IDARA Project
+QLRT-1999-1526.
+References
+Aigner, D., Lovell, C., Schmidt, P., 1977. Formulation and
+estimation of stochastic frontier production function models. J.
+Econometrics 6, 21–37.
+AKII, 2000. The development of FADN in Hungary.
+Agrárgazdasági Kutató és Informatikai Intézet, Budapest.
+Ali, A., Seiford, L., 1993. The mathematical approach to
+efficiency analysis. In: Fried, H., Lovell, K., Schmidt, S. (Eds.),
+The Measurement of Productive Efficiency, Techniques and
+Applications. Oxford University Press, Oxford, pp. 120–159.
+Allen, D., Lueck, D., 1998. The Nature of the Farm. J. Law Econ.
+XLI (October 1998), 343–386.
+Barrett, C.B., 1998. On price risk and the inverse farm sizeproductivity relationship. J. Develop. Econ. 51, 193–215.
+Benjamin, D., 1995. Can unobserved land quality explain the
+inverse productivity relationship? J. Develop. Econ. 1, 51–84.
+Bhalla, S., Roy, P., 1988. Mis-specification in farm productivity
+analysis: the role of land quality. Oxford Econ. Pap. 1, 55–73.
+Bharadwaj, K., 1974. Production Conditions and Indian
+Agriculture. Cambridge University Press, Cambridge.
+Binswanger, H., Elgin, M., 1998. Reflections on land reform
+and farm size. In: Eicher, C., Staatz, J. (Eds.), International
+Agricultural Development, third ed. Johns Hopkin, Baltimore,
+pp. 316–328.
+
+Binswanger, H., Deininger, K., Feder, G., 1993. Agricultural land
+relations in the developing world. Am. J. Agric. Econ. 5, 1242–
+1248.
+Brem, M., 2000. Getting rid of organizational legacy—what
+costs restructuring of the Czech agricultural production. Paper
+Presented at the KATO Symposium Berlin, Germany, November
+2–4th.
+Brem, M., Kim, J.-M., 2000. The status of agricultural producer
+co-operatives in East European Countries. Korean J. Int. Agric.
+3, 238–256.
+Brümmer, B., 2001. Estimating confidence intervals for technical
+efficiency: the case of private farms in Slovenia. Eur. Rev.
+Agric. Econ. 28, 285–306.
+Buckwell, A., Davidova, S., 1993. Potential implications for
+productivity of land reform in Bulgaria. Food Pol. 6, 493–506.
+Carter, M., Wiebe, K., 1990. Access to capital and its impact on
+agrarian structure and productivity in Kenya. Am. J. Agric.
+Econ. 5, 1146–1150.
+Caves, D.W., Christensen, L.R., Diewart, E.W., 1982. The
+economic theory of index numbers and the measurement of
+input, output, and productivity. Econometrica 50, 1393–1414.
+Coelli, T., Rao, P., Battese, G., 1998. An Introduction to Efficiency
+and Productivity Analysis. Kluwer Academic Publishers,
+Norwell, Massachusetts.
+Cornia, G., 1985. Farm size, land yields and the agricultural
+production function: an analysis of fifteen developing countries.
+World Develop. 4, 513–534.
+Cristoiu, A., 2001. Technical Efficiency and its Determinants in
+Romanian Farming during Transition. Imperial College at Wye,
+unpublished, mimeo.
+Csaki, C., Lerman, Z., 1996. Agricultural Transformation in
+Central and Eastern Europe and the Former USSR: Issues of
+Land Reform and Farm Restructuring. Paper Presented at the
+VIIIth Congress of the European Association of Agricultural
+Economists, Edinburgh.
+Curtiss, J., 2000. Technical Efficiency and Competitiveness of the
+Czech Agricultural Sector in Late Transition—The Case of
+Crop Production. Paper Presented at the KATO Symposium
+Berlin, Germany, November 2–4th.
+Davidova, S., Gorton, M., Ratinger, T., Zawalinska, K., Iraizoz, B.,
+Kovacs, B., Mizik, T., 2002. An Analysis of Competitiveness
+at Farm Level in CEECs. EU FP5 IDARA Project, Working
+Paper Series, Working paper 2/11, Imperial College at Wye.
+Davis, J., Pearce, D., 2000. The Rural Non-Farm Economy in
+Central and Eastern Europe. NRI Rural Non-Farm Economy
+Project, Chatham, Discussion Paper No. 00/01.
+Dawson, P., Hubbard, L., 1987. Management and size economies
+in the England and Wales dairy sector. J. Agric. Econ. 1, 27–37.
+Doran, H.E., 1985. “Small” or “large” farm: some methodological
+considerations. Am. J. Agric. Econ. 1, 130–132.
+Ellis, F., 1988. Peasant Economies: Farm Households and Agrarian
+Development. Cambridge University Press, Cambridge.
+Evans, D., 1987. Empirical analysis of the size distribution of
+farms: discussion. Am. J. Agric. Econ. 2, 484–485.
+Gorton, M., Davidova, S., 2001. The international competitiveness
+of CEEC agriculture. World Econ. 2, 185–200.
+
+M. Gorton, S. Davidova / Agricultural Economics 30 (2004) 1–16
+Gow, H., Swinnen, J., 1998. Up- and downstream restructuring,
+foreign direct investment, and hold-up problems in agricultural
+transition. Eur. Rev. Agric. Econ. 3, 331–350.
+Gow, H., Swinnen, J., 2001. Private capital and contract
+enforcement in transitional economies. Am. J. Agric. Econ. 3,
+686–690.
+Hagedorn, K., 1994. Changing Organisation of Agriculture as a
+Result of the Transformation Process. Paper Presented at the
+Workshop The Impact of CEE Agricultural Reform on Domestic
+and International Markets, Leuven, 10–11th June.
+Hall, B., LeVeen, P., 1978. Farm size and economics efficiency:
+the case of California. Am. J. Agric. Econ. 4, 589–600.
+Hughes, G., 1998. Agricultural Productivity and Farm Structure in
+the Czech Republic. EU FAIR Project Agricultural Implications
+of CEEC Accession to the EU. Working Paper Series, Working
+Paper 2/7, Wye College, University of London.
+Hughes, G., 2000a. Total productivity of emergent farm structures
+in Central and Eastern Europe. In: Banse M., Tangermann,
+S. (Eds.), Central and Eastern European Agriculture in an
+Expanding European Union, CABI, Walingford, pp. 61–87.
+Hughes, G., 2000b. Agricultural Decollectivisation in Central
+Europe and the Productivity of Emergent Farm Structures.
+Ph.D. Thesis, Wye College, University of London, unpublished,
+mimeo.
+Johnson, N., Ruttan, V., 1994. Why are Farms so Small? World
+Develop. 5, 691–706.
+Kanchev, I., 2000. Agrarian structures in Bulgarian- problems and
+development. In: Tillack P., Pirscher, F. (Eds.), Competitiveness
+of Agricultural Enterprises and Farm Activities in Transition
+Countries. Wissenschaftsverlag Vauk, Kiel, pp. 205–213.
+Kislev, Y., Peterson, W., 1996. Economies of scale in agriculture:
+a re-examination of the evidence. In: Antle, J., Simner, D.
+(Eds.), Essays on Agricultural Economics in Honor of D. Gale
+Johnson, vol. 2. University of Chicago Press, Chicago.
+Koester, U., Striewe, L., 1999. Huge potential, huge losses—the
+search for ways out of the dilemma of Ukrainian agriculture. In:
+Siedenberg, A., Hoffman, L. (Eds.), Ukraine at the Crossroads:
+Economic Reforms in International Perspective. Physica-Verlag,
+New York, pp. 257–270.
+Lansik, A., 2000. Productivity growth and efficiency measurement:
+a dual approach. Eur. Rev. Agric. Econ. 1, 59–73.
+Lockheed, M.E., Jamison, D.T., Lau, L.J., 1980. Farmer education
+and farm efficiency. Econ. Develop. Cultural Change 1, 37–76.
+Lund, P., 1983. The use of alternative measures of farm size in
+analysis of size and efficiency relationship. J. Agric. Econ. 2,
+187–189.
+Lund, P., Price, R., 1998. The measurement of average farm size.
+J. Agric. Econ. 1, 100–110.
+Mathijs, E., Blaas, G., Doucha, T., 1999. Organisational form and
+technical efficiency of Czech and Slovak farms. MOCT-MOST:
+Econ. Policy Trans. Econ. 3, 331–344.
+Mathijs, E., Swinnen, J., 1998. The economics of agricultural
+decollectivization in East Central Europe and the former Soviet
+Union. Econ. Develop. Cultural Change 1, 1–26.
+Mathijs, E., Swinnen, J., 2000. Technical efficiency and the
+competitiveness of agricultural enterprises: results from Eastern
+Germany and the Czech Republic. In: Tillack, P., Pirscher, F.
+
+15
+
+(Eds.), Competitiveness of Agricultural Enterprises and Farm
+Activities in Transition Countries. Wissenschaftsverlag Vauk,
+Kiel, pp. 86–97.
+Mathijs, E., Vranken, L., 2000. Farm restructuring and efficiency
+in transition: evidence from Bulgaria and Hungary. Selected
+Paper, American Agricultural Economics Association Annual
+Meeting, Tampa, Florida, July 30–August 2.
+Mech, D.-M., 1999. The Survival of Peasant Agriculture in Poland.
+Ph.D. Thesis. Wye College, University of London, unpublished,
+mimeo.
+Meeusen, W., van den Broeck, J., 1977. Efficiency estimation from
+Cobb–Douglas production function with composed error. Int.
+Econ. Rev. 18, 435–444.
+Meurs, M., 2001. The evolution of Agrarian institutions: A
+Comparative Study of Post-Socialist Hungary and Bulgaria.
+University of Michigan Press, Ann Arbor.
+Morrison, J., 2000. Resource Use Efficiency in an Economy in
+Transition: An Investigation into the Persistence of the Cooperative in Slovakian Agriculture. Ph.D. Thesis, Wye College,
+University of London, unpublished, mimeo.
+Munroe, D., 2001. Economic efficiency in Polish peasant farming:
+an international perspective. Regional Stud. 5, 461–471.
+Nguyen, T., Cheng, E., Findlay, C., 1996. Land fragmentation and
+farm productivity in China in the 1990s. China Econ. Rev. 2,
+169–180.
+Piesse, J., 1999. Efficiency Issues in Transitional Economies: An
+Application to Hungary. Ashgate, Aldershot.
+Pollak, R., 1985. A transaction cost approach to families and
+households. J. Econ. Lit. 23, 581–608.
+Ratinger, T., Rabinowicz, E., 1997. Changes in farming structures
+in the Czech Republic as a result of land reform and
+privatisation. In: Swinnen, J., Buckwell, A., Mathijs, E. (Eds.),
+Agricultural Privatization, Land Reform and Farm Restructuring
+in Central Europe. Ashgate, Aldershot, pp. 80–99.
+Rizov, M., Mathijs, E., Swinnen, J., 2001. The role of human
+capital and market imperfections in labor allocation in transition
+economies: theory and evidence from Hungary. American
+Agricultural Economics Association Annual Meeting, Chicago,
+Illinois.
+Roumasset, J., 1995. The nature of the agricultural firm. J. Econ.
+Behav. Org. 26, 161–177.
+Safin, M., Guba, W., 2000. Rural development and rural labour
+markets in Poland, EU Network of Independent Agricultural
+Experts in the CEEC Candidate Countries. Issue Paper No. 5,
+Warsaw.
+Sau, R.K., 1973. Indian Economic Growth: Constraints and
+Prospects. Orient Longman, New Delhi.
+Savadogo, K., Reardon, T., Petiola, K., 1994. Farm productivity in
+Burkina Faso: effects of animal traction and nonfarm income.
+Am. J. Agric. Econ. 3, 608–612.
+Schmitt, G., 1991. Why is the agriculture of advanced Western
+countries still organised by family farms? Will this continue to
+be so in the future? Eur. Rev. Agric. Econ. 3, 443–458.
+Schmitt, G., 1993. Why collectivisation of agriculture in socialist
+countries has failed: a transaction cost approach. In: Csaki,
+C., Kislev, Y. (Eds.), Agricultural Cooperatives in Transition.
+Westview Press, Boulder, pp. 143–159.
+
+16
+
+M. Gorton, S. Davidova / Agricultural Economics 30 (2004) 1–16
+
+Seckler, D., Young, R., 1978. Economic and policy implications
+of the 160-Acre limitation in Federal Reclamation Act. Am. J.
+Agric. Econ. 4, 575–588.
+Sumner, D., Leiby, J., 1987. Analysis of the effects of human
+capital on size and growth among dairy farms. Am. J. Agric.
+Econ. 2, 465–470.
+Stefanou, S., Saxena, S., 1988. Education, experience and allocative
+efficiency: a dual approach. Am. J. Agric. Econ. 2, 338–345.
+Swain, N., 1998. Agricultural restitution and co-operative
+transformation in the Czech Republic, Hungary and Slovakia.
+Europe-Asia Stud. 7, 1199–1219.
+Thiele, H., Brodersen, C., 1999. Differences in farm efficiency
+in West and East Germany. Eur. Rev. Agric. Econ. 3, 331–
+347.
+
+van Zyl, J., Miller, W.R., Parker, A.N., 1996. Agrarian Structure in
+Poland: The myth of large farm superiority. The World Bank,
+Washington, DC.
+Verma, B., Bromley, D., 1987. The political economy of farm size
+in India: the elusive quest. Econ. Develop. Cultural Change 4,
+791–808.
+Welch, F., 1970. Education in production. J. Political Econ. 1,
+35–59.
+Williamson, O., 1988. The logic of economic organization. J. Law,
+Econ. Org. 4, 65–117.
+World Bank, 1998. Rural Development in Eastern Europe
+and Central Asia: Progress To Date and Strategic
+Directions For ECA, Internal Document, June 16, 1998,
+http://wbln0018.worldbank.org/Networks/ESSD/icdb.nsf.
+
+

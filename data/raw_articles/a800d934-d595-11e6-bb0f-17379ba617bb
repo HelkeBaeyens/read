@@ -1,0 +1,984 @@
+Available online at www.sciencedirect.com
+SCIENCE @DIRECTO
+
+AGRICULTURAL
+ECONOMICS
+
+ELSEVIER
+
+Agricultural Economics 29 (2003) 99-109
+www.elsevier.com/locate/agecon
+
+Access to credit, plot size and cost inefficiency among
+smallholder tobacco cultivators in Malawi
+Gautam Hazarika a,*, Jeffrey AI wang b, 1
+a
+
+Department of Business Administration, The University of Texas at Brownsville, 80 Fort Brown, Brownsville, TX 78520, USA
+b Department of Agricultural and Applied Economics, Virginia Tech, Blacksburg, VA 24060, USA
+
+Received 8 May 2001; received in revised form 14 August 2002; accepted 15 August 2002
+
+Abstract
+Using data from the Malawi Financial Markets and Household Food Security Survey, this paper examines the effect of access
+to credit from formal sources, and tobacco plot size, on cost inefficiency among Malawian smallholder tobacco cultivators.
+Farm-specific cost inefficiency is estimated within the framework of stochastic frontier analysis. Access to credit is measured
+as the sum of household members' self-reported credit limits at credit organisations, arguably a truer measure of an exogenous
+credit constraint than credit program participation or actual loan uptake. It is found that tobacco cultivation is significantly
+less cost inefficient per acre on larger plots. While access to credit by itself has no statistically discernible effect on cost
+inefficiency, it reduces the gain in cost efficiency from a larger plot size.
+© 2003 Elsevier Science B.V. All rights reserved.
+JEL classification: 0130; Q120
+Keywords: Tobacco; Malawi; Plot size; Agricultural finance; Cost efficiency
+
+1. Introduction
+Improvement in the efficiency of agricultural production, including productivity growth, is an essential component of any rural growth strategy. In
+sub-Saharan Africa, where price-based adjustment
+policies have not led to broad-based economic growth,
+gain in the efficiency of agricultural production is
+viewed as necessary for economic growth and the
+alleviation of rural poverty. Rural finance may contribute by facilitating the purchase of costly inputs and
+* Corresponding author. Tel.: +1-956-544-8953;
+fax: + 1-956-548-8736.
+E-mail addresses: ghazarika@utb.edu (G. Hazarika),
+alwangj@vt.edu (J. Alwang).
+1 Tel.: +1-540-231-6517; fax: +1-540-231-7417.
+
+the adoption of alternative crops. Besides, financial
+services may be packaged to deliver technical expertise. Improved access to rural finance may, thus, be
+associated with increased productivity and decreases
+in cost inefficiencies.
+Conditions in Malawi underscore the potential benefits of improved efficiency in agricultural production. Malawi is among the 10 poorest countries in
+the world, with a GNP per capita estimated at US$
+190 (World Bank, 2000) and social indicators that are
+consistent with widespread poverty. The country is
+predominantly rural: <25% of the population resides
+in urban centres-and agriculture dominates the rural
+economy. Malawian agriculture is characterised by extreme dualism: smallholders under traditional tenure
+on the one hand, and either lease- or free-held estate farms on the other, constitute the major tenure
+
+0169-5150/03/$ - see front matter© 2003 Elsevier Science B.V. All rights reserved.
+doi: 10.1016/50169-5150(03)00020-3
+
+100
+
+G. Hazarika, J. A/wang/Agricultural Economics 29 (2003) 99-109
+
+types. Estate farms were viewed through the 1970's
+and 1980's as the engines of rural growth, and the
+former Banda dictatorship used policies that favoured
+the estates. These policies included exclusive marketing rights for high-value crops, other marketing policies that squeezed smallholders, and access to subsidised inputs and credit. While Malawian agricultural growth was fairly strong during the 1970's and
+early 1980's, this growth was illusory since it did not
+spread to the smallholder sector. Smallholders currently constitute around 70% of the Malawian population and about 90% of the country's poor. The median area under cultivation by smallholders is a mere
+0.6 ha (World Bank, 1995). The high concentration
+of poor in rural areas with small landholdings helps
+justify the government's current focus on agricultural
+intensification among smallholders as an engine of
+poverty-reducing growth.
+Recent policy reforms designed to benefit smallholders have focused on two crops: hybrid maize varieties and burley tobacco. Malawian smallholders devote some 70% of their land to maize, mostly local
+varieties. Hybrid maize has not been widely adopted
+for several reasons, including the fact that the preferred flinty hybrids only became available in the early
+1990's, the high relative cost of fertiliser, and lack of
+credit. The new policy reforms are expected to promote uptake of hybrid maize and, thus, release land
+for production of more profitable and mostly export
+crops. Burley tobacco is the most likely candidate to
+replace maize acreage. Burley tobacco is currently
+grown on some 150,000 ha of land and accounts for
+at least 70% of Malawi's foreign exchange earnings
+(about US$ (mUS$) 375 million, annually). The importance of this crop to the Malawian economy has
+earned it the sobriquet 'green gold'.
+Until recently, the Government of Malawi promoted
+production of high-value cash crops like tobacco in the
+estate sector. Prior to 1990, under the Special Crops
+Act of 1972, smallholders were prohibited from marketing tobacco. Smallholders' share of tobacco quotas
+has, however, increased since 1990. Smallholder marketing quotas were first offered in the post-reform
+era to members of tobacco growers' clubs. An intermediate buyer program was introduced in 1993 that
+allowed even non-members of tobacco clubs to sell
+tobacco to registered traders. The number of smallholders producing tobacco has significantly increased
+
+as a result of these policy changes (Zeller et al.,
+1997).
+The smallholder burley tobacco program reflects a
+substantial change in the Malawian agricultural development strategy away from estate-led growth toward
+a broad-based smallholder focus. Burley tobacco is
+now seen as an engine that will provide resources to
+cash-starved smallholders, will integrate them into the
+cash economy, and allow flexibility and experimentation in the rural sector. The success of the program
+depends upon the spread of burley tobacco production
+to resource-poor farmers, the ability of smallholders
+to efficiently produce high-quality tobacco products,
+and complementaries between tobacco production and
+other on-farm enterprises.
+By examining the relationship between plot size
+and cost inefficiency per acre in tobacco production,
+this paper aims to discover whether the government's
+promotion of smallholder tobacco cultivation has involved an equity-efficiency trade-off. A negative relation between cost inefficiency and tobacco plot size
+would suggest that the policy of de-emphasising tobacco production in the estate sector while encouraging it in smallholdings has fostered equity at the
+expense of efficiency.
+This paper also examines the effect of smallholders'
+access to credit upon their efficiency in tobacco production. It is well known that the capital requirements
+of tobacco farming are substantial. For example, Zeller
+et al. (1997) find that input expenditures per hectare
+in Malawi are much greater for tobacco than for
+maize or most other crops and that the cropping share
+of tobacco in smallholdings is positively and significantly correlated with farmer access to credit. Hence,
+improving access to credit may be a necessary step
+toward achieving more widespread burley tobacco production. However, besides encouraging the spread of
+tobacco production, improved credit access may raise
+efficiency in tobacco farming by enabling farmers to
+better purchase inputs in cost minimising proportions
+and to avail of improvements in production technology. The relationship between credit availability and
+economic efficiency in the Malawian smallholder
+tobacco sector has not previously been thoroughly
+investigated.
+The paper's empirical strategy, utilising data from
+the Malawi Financial Markets and Household Food
+Security Survey, consists of two steps, though in
+
+G. Hazarika, J. A/wang I Agricultural Economics 29 (2003) 99-109
+
+keeping with recent econometric advances, the paper
+later attempts to combine the two steps into a single
+step. First, farm-specific cost inefficiency per acre is
+estimated within the framework of stochastic frontier
+analysis (e.g. Parikh et al., 1995). Next, the estimated
+cost inefficiency is related to farm and household
+characteristics including tobacco plot size and access
+to credit from formal sources. It is found that cost
+inefficiency is negatively and significantly correlated
+with tobacco acreage. Hence, the government's focus
+on smallholder led growth may indeed have involved
+an equity-efficiency trade-off. It is also found that
+while access to credit by itself has no statistically significant effect on cost inefficiency, credit availability
+has the counter-productive effect of reducing the gain
+in cost efficiency from an increase in tobacco acreage.
+The remainder of this paper is organised as follows. Section 2 presents a discussion of the relation
+between credit access and cost efficiency in agriculture. The section also discusses empirical issues in the
+measurement of access to credit. Section 3 presents
+the econometric model and discusses estimation. The
+data are described in Section 4, as are the empirical
+results. Section 5 presents a summary of the findings
+and the paper's conclusion.
+
+2. Credit programs and cost efficiency in
+agriculture
+Cost efficiency results from both technical efficiency and allocative efficiency. Technical efficiency
+refers to a producer's ability to obtain the highest possible output from a quantity of inputs. Consider a unit
+isoquant with capital and labour as the inputs. This
+isoquant is the locus of the minimum capital-labour
+combinations necessary to produce a unit of output.
+Hence, production is technically efficient along it. The
+producer of a unit of output using a capital-labour
+combination that lies above this isoquant is, therefore,
+technically inefficient.
+Allocative efficiency refers to a producer's ability to
+maximise profit given technical efficiency. A producer
+may be technically efficient but allocatively inefficient.
+For example, the producer in the preceding paragraph
+may put forth a unit of output using a combination of
+capital and labour that lies on the unit isoquant but that
+is more expensive than a different combination of in-
+
+101
+
+puts on the isoquant. The cheapest input combination
+would, of course, be the point of tangency between
+an isocost line and the unit isoquant. Allocative efficiency also applies to the producer's ability to choose
+the optimal level of output, or even the optimal output
+mix.
+Access to credit may raise allocative efficiency in
+agriculture. For example, a farmer unable to obtain
+market inputs in sufficient quantities may substitute
+non-market inputs such as the labour of family members. However, given the opportunity cost of family
+labour, the farmer's input combination may be more
+costly than an alternative combination consisting of
+more purchased inputs and less family labour. Credit
+may allow the farmer to utilise market and non-market
+inputs in a cost minimising combination. Credit may
+also raise allocative efficiency by increasing a farmer's
+ability to bear risk. For example, a farmer with access to credit may become willing to adopt riskier but
+potentially more profitable technologies, or to plant a
+more drought prone but higher value crop.
+Credit access may also raise the farmer's level of
+technical efficiency. For example, credit may enable a
+farmer to adopt more capital-intensive methods of production, i.e. to purchase more machines, a market input. If the farmer purchased new machines embodying
+improved technology, his level of technical efficiency
+would rise. Further, to the extent that credit access is
+correlated with the provision of technical assistance
+(agricultural extension services) by credit organisations, farmers' technical efficiency will increase. Note
+that it is not necessary for a farmer to actually borrow
+to benefit from credit access. For example, the mere
+option of borrowing may lead a farmer to avoid such
+risk reducing but unprofitable strategies as precautionary saving and the production of hardier but lower
+value crops. Hence, a farmer with the option to borrow
+may become willing to put the proverbial roll of bills
+in his mattress to a more productive use on the farm.
+Access to credit has generally been measured in two
+ways in the literature, namely, dichotomous membership in credit programs, and actual loan uptake. Both
+these measures may be unsuitable for estimating the
+true causal effect of credit access on economic outcomes (e.g. David and Meyer, 1980; Feder et al., 1990;
+Zeller et al., 1996). First, since credit program participation and loan uptake are voluntary, the measures
+are potentially endogenous with outcomes such as
+
+102
+
+G. Hazarika, J. Alwang!Agricultural Economics 29 (2003) 99-109
+
+productivity and income. A farmer who avails of loans
+from a credit agency may be found to be more productive, but it may not be concluded that loans lead
+to higher productivity since it is plausible that farmers
+with more ambition and ability are likelier to seek out
+loans. Such traits, being unobserved, are unlikely to
+be controlled for in a regression relating agricultural
+productivity to farmer loan uptake, with the result that
+the regression's error term, consisting partially of unobserved farmer traits, will be correlated with loan uptake. Bias in the OLS estimate of the effect of farmer
+loan uptake on agricultural productivity is, therefore,
+likely.
+Even if the potential endogeneity of actual loan uptake were dealt with, difficulties with this measure of
+credit access would persist. For example, inherent in
+it is the erroneous assumption that individuals with
+no loan uptake are without access to credit. However,
+this would only be true if they were denied loans.
+More generally, actual loan uptake would be an accurate measure of credit access only if credit limits
+were universally binding, i.e. if everyone's loan uptake
+were equivalent to her credit limit. In reality, individuals often do not fully exercise their option to borrow.
+Indeed, as discussed earlier, an individual who does
+not at all exercise the option to borrow may yet benefit from that option, for example, by feeling secure
+enough to adopt potentially more profitable but riskier
+strategies.
+Next, membership in a credit program often confers benefits unrelated to credit access such as literacy classes and business training. For example, members of the Malawi Rural Finance Company's (MRFC)
+credit program are provided with agricultural extension services. These secondary benefits of credit program participation arguably confound the true causal
+effect of access to credit. Finally, mere membership
+in a credit program may not guarantee ready access
+to credit. Indeed, many group-based credit programs
+stipulate that only half of a group's members may receive credit at any time. Even credit programs disavowing this rule rarely provide their members with
+certain access to credit.
+Hence, Diagne ( 1998) and Diagne and Zeller (200 I)
+argue that the credit limit, the maximum amount that
+may be borrowed as self-reported by survey participants, is a better measure of credit access. The authors reason that unlike credit program participation
+
+or actual loan uptake, which are related to demand for
+credit, the credit limit, reflecting mainly supply-side
+factors such as the availability of credit programs and
+the financial resources of lenders, is a truer measure of
+an exogenous credit constraint. Thus, this paper measures a tobacco producing household's access to credit
+by the sum of the credit limits of its members at credit
+organisations.
+To be sure, this relatively novel measure of credit
+access is not unambiguously exogenous (uncorrelated
+with unobserved borrower characteristics). For example, Diagne (1998) accedes that the maximum amount
+that lenders are willing to lend will mirror their assessment of the likelihood of default and other borrower
+characteristics. Hence, an efficient tobacco farmer may
+have a higher self-assessed credit limit than an inefficient one. The OLS estimated effect of credit access
+on cost inefficiency might, thus, be biased downward.
+On the other hand, since an objective of non-profit
+agro-financial institutions in LDCs may be the reduction of economic inefficiency, more inefficient farmers may be rendered greater assistance. The OLS estimated effect of credit access on cost inefficiency
+might, as a result, even be biased upward. Nevertheless, it is plausible that the credit limit measure of
+access to credit is relatively more exogenous than actual loan uptake or dichotomous membership in credit
+programs, which are deliberate acts on the part of borrowers and, therefore, almost certainly correlated with
+their unobserved attributes.
+
+3. The econometric model
+Consider the stochastic cost function based on the
+composed error model (e.g. Aigner et al., 1977);
+n
+
+InC
+
+= a+ ,8 In Qi + L) i
+
+In
+
+Pu + £;
+
+(1)
+
+J=l
+
+where C; represents household i' s cost per acre of tobacco production, Qi denotes the value in monetary
+units of the household's tobacco output per acre,2 Pu
+signifies the household-specific price of variable input
+2 The existence of multiple tobacco types necessitates measurement of tobacco output per acre in monetary rather than physical
+units.
+
+G. Hazarika, J. A/wang/Agricultural Economics 29 (2003) 99-109
+
+i, and c; is a disturbance term consisting of two independent elements as follows:
+c;
+
+=
+
+V;
+
++ U;
+
+(2)
+
+V;, assumed to be independently and identically distributed as N(O, cr~ ), represents random variation in
+cost per acre due to extraneous factors such as the
+weather and crop diseases. The term U; is taken to
+represent cost inefficiency relative to the stochastic
+cost frontier, a+ ,BIn Q; + LJ=l oj In Pij + V;. It is,
+therefore, one-sided as opposed to being symmetrically distributed about the origin. In other words, U; =
+0 if costs are, ceteris paribus, as low as can be, and
+U; > 0 if cost efficiency is imperfect. U; is assumed
+to be identically and independently distributed as truncations (at 0) of the normal distribution N(f.-L, cr~).
+The stochastic cost function ( 1), may be estimated by
+maximum-likelihood. Given the above distributional
+assumptions,
+E(U;/c;)
+
+=
+
+(1
+
+erA
++
+"A 2)
+
+[
+
+*]
+
+¢(f.-L7)
+l _ <P(~-L7) - 1-L;
+
+(3)
+
+where ¢ and <P denote, respectively, the standard normal p.d.f. and the standard normal c.d.f., A = cru / crv,
+
+J
+
+cr = CT~ + cr~, and f-L7 = (c;A/cr) + (f.-L/CTA). Replacing c; in the above expression by the regression
+residual and the other parameters by their ML estimates yields an estimate, [h of farm-specific cost inefficiency (Jondrow et al., 1982).
+Next, the equation,
+
+(4)
+is estimated by OLS, where A; denotes household i's
+tobacco acreage, L; represents the household's access
+to credit from formal sources measured as the sum of
+its members' self reported credit limits, variables X;
+consist of other farm and household characteristics,
+and e; denotes the regression error. In order to examine whether the effect of tobacco plot size on cost inefficiency is influenced by credit access, the equation,
+
+U; =
+
+A;n1
+
++ A; L;n2 + L;n3 + X;n4 + e;
+
+(5)
+
+is also estimated. Statistical significance of the interaction between tobacco acreage and credit access, A;L;,
+will yield the conclusion that access to credit influences the marginal effect of tobacco acreage on cost
+inefficiency.
+
+103
+
+The above two-stage method, consisting of ML estimation of a stochastic cost frontier followed by OLS
+estimation of an equation relating predicted cost inefficiency to the potential determinants of cost inefficiency, has lately been criticised. For one, a regression
+model of predicted inefficiency effects in Stage 2 contradicts the assumption in Stage 1 of identically distributed inefficiency effects (Battese and Coelli, 1995).
+Hence, the twin steps are alternatively combined into a
+single step according the model by Battese and Coelli
+(1995). It is continued to be assumed that V;, random
+variation in cost per acre due to extraneous factors
+such as the weather, is independently and identically
+distributed as N(O, cr~). However, U;, the cost inefficiency component, is now assumed to be independently, but not identically, distributed as truncations
+(at 0) of the normal distribution N(Z;B, cru). In other
+words, the mean of the cost inefficiency effect is assumed to be a function of variables Z;, taken in the
+empirical estimation, to be identical to the regressors
+in (5). This specification permits the coefficients e to
+be estimated together with the coefficients of the cost
+frontier (1).
+
+4. The data and empirical results
+Data for the study are drawn from the Malawi Financial Markets and Household Food Security Survey
+conducted jointly in 1995 by the International Food
+Policy Research Institute (IFPRI) and the Department
+of Rural Development (DRP) of the Bunda College
+of Agriculture of the University of Malawi. A total
+of 404 rural households in 45 villages in five districts
+of Malawi were surveyed. The yearlong survey (from
+February to December) consisted of three rounds. The
+empirical analyses are conducted upon data from the
+second round of the survey, since only it contained
+the requisite detailed tobacco production data. While
+rarely in household surveys is labour input disaggregated by crop, these data permit the valuation of labour
+expended in tobacco cultivation alone towards calculation of the cost per acre of tobacco production.
+There are four main credit and savings programs currently operating in Malawi: the Malawi
+Rural Finance Company (MRFC), Promotion of
+Micro-Enterprises for Rural Women (PMERW), the
+Malawi Mudzi Fund (MMF), and the Malawi Union
+
+104
+
+G. Hazarika, J. A/wang/Agricultural Economics 29 (2003) 99-109
+
+of Savings and Credit Co-operatives (MUSCCO).
+The first three programs are based on the principles
+of group lending, while MUSCCO is an individual membership based union organisation. MRFC
+and MUSCCO provide seasonal agricultural credit,
+mostly for tobacco and maize, though the former does
+not serve households with less than half a hectare of
+land. PMERW and MMF, operating in only a few
+districts, specialise in credit for off-farm enterprises.
+There are, in addition, numerous small credit programs run by NGOs and international government
+organisations.
+The above 404 rural households do not constitute a
+random sample. Since it was necessary to include sufficient numbers of credit program participants in the
+survey, the low participation rate in credit programs
+in Malawi made random sampling impractical. Hence,
+the surveyors resorted to stratified random sampling.
+The 4700 rural households enumerated in the 45 villages covered by the Malawi village census were divided into three strata: a stratum consisting of current
+participants in the above four credit programs, a stratum consisting of past participants (mostly in a failed
+government credit program), and a stratum consisting
+of households that had never participated in a credit
+program. A random sample was chosen from each
+stratum such that about half of the final sample of 404
+households consisted of current credit program participants, with past participants and non-participants
+making up approximately equal portions of the remainder. Thus, the survey over samples current credit
+program participants. The empirical estimation incorporates sampling weights in an attempt to account for
+this over sampling.
+In each round of the Malawi Financial Markets and
+Household Food Security Survey, respondents over 17
+years old were queried about the maximum amount
+they might conceivably have borrowed during the period of recall. A household's access to credit from formal sources may, thus, be calculated as the sum of the
+credit limits of its members at credit organisations.
+The cost per acre of tobacco production is measured
+as the sum of the costs of seed, fertiliser, pesticide, and
+labour input, and the costs of transporting inputs to the
+farm and transporting the crop to market. The inputs
+whose log prices are included in the specification of
+the stochastic cost function (1), are: labour, seed, fertiliser, and pesticide. Farm and household characteris-
+
+tics with plausible bearing upon cost inefficiency, the
+variables Xi in (4) and (5), include the value of farm
+assets, farm size, household size, the average age of
+12-year-old or older family members, the proportion
+of family members aged 12 and above able to read and
+write Chichewa, the proportion able to read and write
+English, and the proportions with the educational credentials: Primary School Leaving Certificate (Grade
+8), Junior Certificate (Grade 10), and M.S.C.E. certificate (Grade 12). Relevant data were available for
+70 tobacco cultivating households. However, it was
+discovered that tobacco acreage erroneously exceeded
+farm size in three of these households, no doubt, due
+to coding error. The three households were dropped,
+yielding a final sample of 67 households. Table 1
+presents the (unweighted) sample means and standard
+deviations of the variables.
+Table 2 presents weighted maximum-likelihood3 estimates of the stochastic cost frontier. The cost per
+acre of producing tobacco significantly increases in
+the value of output per acre, in the hourly wage, in the
+price per kilogram of tobacco seed, and in the price
+per kilogram of fertiliser. Cost, however, appears to
+decrease in the cost per kilogram of pesticide.
+Table 3 presents weighted OLS estimates of (4) and
+(5). It is assumed that tobacco acreage is an exogenous regressor, or that farmers first allocate land between tobacco and other crops and only subsequently
+make their tobacco inputs application decisions. This
+is a plausible assumption in the Malawian context.
+The average cropping share of tobacco in Malawian
+smallholdings is only about 2% (Diagne and Zeller,
+2001). Diagne and Zeller (2001) argue that this
+small cropping share is due to smallholders' desire
+for self-sufficiency in maize, the Malawian dietary
+staple. It is significant in this context that 90% of
+Malawian smallholders in a study by Smale and Phiri
+(1998) declared that the ability to produce maize for
+self-consumption was their most important criterion
+of well being. Diagne and Zeller (200 1) argue that
+such self-sufficiency may be necessary in the face of
+the malfunctioning of rural maize markets, caused by
+a lack of marketable surplus of maize in smallholdings
+and an inadequate transportation infrastructure. Thus,
+3 The weighted log-likelihood function is simply the sum over
+all i of w; log(p;), where w; is the sampling weight associated with
+the ith tobacco farming household and p; is the ith log probability.
+
+G. Hazarika, J. Alwang I Agricultural Economics 29 (2003) 99-109
+
+105
+
+Table 1
+Sample means and standard deviations (unweighted)
+Variable
+
+Mean
+
+Standard deviation
+
+In( cost of producing tobacco per acre)
+ln(value of tobacco production per acre)
+ln(hourly wage)
+ln(price of seed/kg)
+ln(price of fertiliser/kg)
+ln(price of pesticide/kg)
+Household credit limit at formal credit institutions
+Tobacco acreage
+Household credit limit at formal credit institutions x tobacco acreage
+Farm acreage
+Value of farm assets
+Household size
+Average age of+ 12-year-old household members
+Proportion of + 12-year-old household members literate in Chichewa
+Proportion of + 12-year-old household members literate in English
+Proportion of + 12-year-old household members with Primary School Leaving Certificate
+Proportion of + 12-year-old household members with Junior Certificate
+Proportion of + 12-year-old household members with M.S.C.E. certificate
+
+6.815
+7.529
+-0.770
+7.158
+0.678
+4.769
+278.508
+1.612
+738.209
+4.809
+740.731
+6.328
+30.453
+0.282
+0.161
+0.147
+0.030
+0.014
+
+0.927
+1.278
+0.946
+0.499
+0.184
+1.407
+540.351
+1.314
+2770.504
+2.617
+1232.080
+2.338
+8.762
+0.319
+0.225
+0.209
+0.100
+0.059
+
+67
+
+N
+
+Note: All monetary values are in current Malawi Kwacha (MK).
+
+it is credible that smallholders' food security concerns
+lead them to first allocate the bulk of their land to
+maize, leaving but little for tobacco, and only then to
+make their tobacco inputs application decisions.
+It is found that cost inefficiency per acre significantly decreases in tobacco acreage. This suggests that
+the government's policy of promoting tobacco cultivation in smallholdings as opposed to tobacco estates
+has made production of this premier cash crop more
+cost inefficient, even if it has promoted equity in the
+rural economy. An inverse relation between cost inefficiency and tobacco plot size is consistent with Diagne
+
+Table 2
+Weighted ML estimates of the stochastic cost frontier
+Variable
+Constant
+In( value of tobacco production per acre)
+ln(hourly wage)
+ln(price of seed/kg)
+ln(price of fertiliser/kg)
+1n(price of pesticide/kg)
+log-likelihood
+Note: Numbers in parentheses denote t-ratios.
+
+Coefficient
+0.434
+0.409
+0.483
+0.353
+1.297
+-0.113
+-43.514
+
+(0.435)
+(10.470)
+(7.726)
+(2.337)
+(5.873)
+( -1.859)
+
+and Zeller's (2001) finding that Malawian smallholders, particularly those farming plots of a total size of
+<0.25 ha (0.62 acres), are prone to applying excessive
+quantities of inputs, particularly fertiliser. The authors
+argue that farmers may be attempting to compensate
+for the scarcity of land by the over-use of inputs, and
+that this may be particularly true in tobacco farming
+since the crop is allocated only about 2% of the average 0.7 ha (1.73 acres) of land cultivated by a smallholder. Thus, increase in tobacco acreage may reduce
+this compensatory over-use of inputs, causing a decline in cost inefficiency per acre. This has the important implication that if the mean cropping share of
+tobacco in smallholdings were, by a combination of
+incentives, raised from its current low value of 2%,
+average cost efficiency in smallholder tobacco production would rise. Since a likely reason for this low cropping share is smallholders' desire for self-sufficiency
+in maize, with roots in the poor functioning of rural
+maize markets, tobacco's cropping share in smallholdings might increase if the government improved the
+functioning of rural maize markets, e.g. by upgrading
+the rural transportation infrastructure.
+The estimates in Table 3 also indicate that a tobacco
+farming household's credit limit at credit organisations
+
+106
+
+G. Hazarika, J. A/wang I Agricultural Economics 29 (2003) 99-109
+
+Table 3
+Determinants of cost inefficiency: weighted OLS estimates
+Variable
+
+Coefficients Eq. (4)
+
+Coefficients Eq. (5)
+
+Constant
+Household credit limit at formal credit institutions
+Tobacco acreage
+Household credit limit at formal credit institutions x tobacco acreage
+Value of farm assets
+Farm acreage
+Household size
+Average age of + 12-year-old household members
+Proportion of + 12-year-old household members literate in Chichewa
+Proportion of + 12-year-old household members literate in English
+Proportion of + 12-year-old household members with Primary School Leaving Certificate
+Proportion of + 12-year-old household members with Junior Certificate
+Proportion of + 12-year-old household members with M.S.C.E. certificate
+
+-0.560 ( -1.696)
+0.0002 ( 1.025)
+-0.283 ( -3.215)
+
+-0.440 (-1.369)
+-0.0002 (-0.962)
+-0.400 ( -4.085)
+0.0001 (2.369)
+0.00002 (0.226)
+0.078 (2.637)
+0.093 (3.289)
+0.030 (3.898)
+-0.616 ( -2.550)
+1.058 (3.151)
+-0.208 (-0.555)
+0.053 (0.058)
+-1.148 ( -1.009)
+
+R2
+
+0.00004 (0.491)
+0.074 (2.390)
+0.089 (3.035)
+0.029 (3.643)
+-0.574 ( -2.288)
+1.016 (2.911)
+-0.073 ( -0.189)
+-0.026 ( -0.027)
+-1.190 ( -1.006)
+0.608
+
+0.645
+
+Note: Numbers in parentheses denote t-ratios; dependent variable = estimated farm-specific cost inefficiency; weighted sample mean of
+dependent variable = 0.646.
+
+does not by itself significantly affect cost inefficiency.
+However, the sign of the estimated coefficient of the
+interaction between tobacco acreage and credit access,
+together with the statistical significance of this variable, implies that the beneficial effect of a larger tobacco plot size on cost inefficiency is eroded by access
+to credit. Credit in Malawi is often disbursed in the
+form of agricultural inputs like fertiliser. The fertiliser
+packages are standardised for only a small number of
+plot sizes with the result that a farmer may be lent
+an excessive quantity of fertiliser (Diagne and Zeller,
+2001). To the extent that a household's credit limit is
+correlated with its actual loan uptake, 4 this type of loan
+disbursement may contribute to the above negative effect of the credit limit upon the gain in cost efficiency
+from a larger tobacco plot size. In other words, the
+compensatory over-use of inputs may reduce with increased tobacco acreage, but a simultaneous increase
+in access to credit may contribute to persistence in
+farmers' excessive input application per tobacco acre.
+There are a number of other findings of interest. For
+example, controlling for tobacco acreage, total farm
+acreage and cost inefficiency in tobacco production are
+positively related. Holding tobacco acreage constant,
+larger farms naturally have more land under crops
+
+other than tobacco, such as maize, the major Malawian
+food crop. To the extent that these crops require large
+applications of market inputs like fertiliser, 5 that farmers are resource strapped, and that market inputs are in
+relatively short supply, the quantities per acre of such
+inputs applied to tobacco may be inversely related to
+acreage under other crops. Allocative inefficiency in
+input application may result. For example, the reduced
+use of market inputs in tobacco may be accompanied
+by a compensatory over-application of non-market inputs such as household labour. Cost inefficiency per
+acre may consequently rise. It is notable in this connection that the estimates in Table 3 are indicative of a
+tendency toward the over-use of family labour on tobacco plots, in that cost inefficiency per acre increases
+in the number of household members. Similarly, an increase in the average age of household members older
+than 11, consistent with a rise in the number of members of working age, raises cost inefficiency per acre
+in tobacco cultivation. There is indication that cost
+inefficiency is inversely related to household human
+capital measured as the proportion of household members older than 11 who are literate in Chichewa, the
+local language. It is puzzling, however, that cost inefficiency significantly increases in the proportion literate
+
+4 Sample correlation between the household credit limit and
+actual loan uptake is 0.764.
+
+5 Hybrid maize, for instance, requires large and timely fertiliser
+applications.
+
+G. Hazarika, J. Alwang I Agricultural Economics 29 (2003) 99-109
+
+in English. Perhaps non-farm earnings opportunities
+increase in English literacy so that households with a
+greater proportion of members literate in English are
+less reliant upon farm incomes and, therefore, more
+prone to inefficiency in tobacco cultivation.
+Table 4 presents joint ML estimates of the stochastic cost frontier and the determinants of mean cost inefficiency, pertaining to the stochastic frontier model
+by Battese and Coelli (1995). Unfortunately, sampling
+weights could not be incorporated in the estimation
+given the limitations of the Fortran program (Frontier
+Version 4.1) developed by these authors. Hence, the
+point estimates in Table 4 are often markedly different
+from those in Tables 2 and 3 even if they are indicative of the same broad trends. The cost per acre of tobacco production significantly increases in the value
+of tobacco output per acre, in the hourly wage rate,
+in the price per kilogram of seed and in the price per
+kilogram of fertiliser. As before, cost appears negatively related to the price per kilogram of pesticide
+though the variable not statistically significant by these
+unweighted estimates. Mean cost inefficiency appears
+
+107
+
+negatively and significantly related to tobacco plot
+size, and, as before, there is indication that the gain in
+cost efficiency from a larger plot size is reduced by access to credit, though credit access by itself has no statistically discernible effect on mean cost inefficiency.
+In sum, the major findings in Table 3 are upheld.
+The above findings may be contrasted with the results from two other studies relating efficiency in agricultural production, measured within the framework
+of stochastic frontier analysis, to credit availability and
+plot size. Parikh et al. (1995) examine the determinants
+of cost inefficiency, including credit availability and
+farm size, in Pakistani agriculture. Credit availability
+is defined as actual loan uptake per farm acre. The
+authors find that farmers with greater loan uptake are
+less cost inefficient. However, since this measure of
+credit access is potentially endogenous as discussed,
+the above finding may not be relied upon. The authors
+also find that cost inefficiency increases in farm size.
+Note, though, that the authors aggregate across at least
+four crops, namely, wheat, maize, sugarcane, and vegetables. This study, on the other hand, focuses upon a
+
+Table 4
+The stochastic cost frontier and determinants of mean cost inefficiency estimated jointly: unweighted ML estimates
+Variable
+
+Coefficient
+
+Estimates of the stochastic cost frontier
+Constant
+ln(value of tobacco production Per acre)
+ln(hourly wage)
+ln(price of seed/kg)
+ln(price of fertiliser/kg)
+ln(price of pesticide/kg)
+
+1.216
+0.328
+0.518
+0.257
+1.327
+-0.032
+
+Determinants of mean cost inefficiency
+Constant
+Household credit limit at formal credit institutions
+Tobacco acreage
+Household credit limit at formal credit institutions x tobacco acreage
+Value of farm assets
+Farm acreage
+Household size
+Average age of+ 12-year-old household members
+Proportion of + 12-year-old household members literate in Chichewa
+Proportion of + 12-year-old household members literate in English
+Proportion of + 12-year-old household members with Primary School Leaving Certificate
+Proportion of + 12-year-old household members with Junior Certificate
+Proportion of + 12-year-old household members with M.S.C.E. certificate
+
+0.610 (0.726)
+0.00007 (0.194)
+-0.722 ( -2.073)
+0.0002 (1.684)
+-0.00005 ( -0.286)
+0.058 (0.972)
+0.038 (0.708)
+0.019 (1.220)
+-0.346 ( -0.673)
+0.752 (1.264)
+-0.391 ( -0.563)
+-0.227 ( -0.189)
+-0.092 ( -0.037)
+
+log-likelihood
+Note: Numbers in parentheses denote !-ratios.
+
+49.247
+
+(1.636)
+(6.058)
+(5.137)
+(2.342)
+(3.581)
+( -0.466)
+
+108
+
+G. Hazarika, J. A/wang/Agricultural Economics 29 (2003) 99-109
+
+single crop. Therefore, the finding that Malawian tobacco cultivation is less cost inefficient in larger plots
+may not be directly compared with the above finding
+that cost inefficiency in Pakistani agriculture increases
+in holding size.
+Ali and Flinn (1989) examine profit, not cost,
+efficiency among basmati rice producers in the Punjab province of Pakistan. Still, there are similarities
+between the notions of cost efficiency and profit
+efficiency in that both arise from technical as well
+as allocative efficiency. Farmers, in this study, were
+asked if a lack of credit hampered their purchase of
+fertiliser. Hence, a dichotomous indicator of credit
+non-availability measures access to credit. Credit
+non-availability was positively and significantly related to profit inefficiency. Since a farmer citing credit
+non-availability is one who has attempted to borrow,
+this measure of credit access is, like actual loan uptake, potentially endogenous. The authors also find
+that profit inefficiency increases in farm size, though
+not significantly so.
+
+5. Conclusion
+The promotion of tobacco cultivation is a key component of the Malawian strategy of smallholder-led
+growth. Given the substantial capital requirements of
+tobacco farming, improving farmers' access to credit
+may be necessary toward achieving more widespread
+burley tobacco production. Indeed, there is evidence
+of positive correlation between access to credit and
+the cropping share of tobacco in smallholdings (Zeller
+et al., 1997). However, this paper finds no evidence of
+a positive relation between access to credit from formal sources and efficiency in tobacco farming. Thus,
+improving farmers' access to credit in Malawi will
+likely promote tobacco cultivation only along the extensive margin.
+Unlike most analyses of the effects of credit, this
+paper measures household access to credit from formal sources as the sum of members' self-reported
+credit limits at credit organisations. It has previously
+been argued that the credit limit is a truer measure
+of an exogenous credit constraint since it reflects
+mostly supply-side factors such as the availability of
+credit programs and the financial resources of lenders
+(Diagne, 1998; Diagne and Zeller, 2001).
+
+The paper also finds that tobacco cultivation is less
+cost inefficient on larger plots. This may be taken
+as indicative of an equity-efficiency trade-off in the
+Malawian tobacco sector. The finding suggests that
+the Government of Malawi's policy of encouraging tobacco production by smallholders as opposed to supporting the erstwhile monopoly of the tobacco estates,
+has led to declining cost efficiency in the production of
+this premier cash crop, even if it has promoted equity
+in the rural economy. It also suggests that increasing
+the cropping share of tobacco in smallholdings from
+its current low levels will tend to raise the economic
+efficiency of tobacco production.
+The paper also uncovers evidence that access to
+credit retards the gain in cost efficiency from an increase in tobacco acreage. This suggests that the methods of credit disbursement in rural Malawi are faulty.
+Indeed, faulty credit disbursement mechanisms may
+partially explain why access to credit by itself, despite
+its potential benefits, has no statistically discernible
+effect on cost inefficiency.
+Our findings have two broad policy implications.
+As argued, an increase in the cropping share of tobacco in smallholdings may reduce cost inefficiency
+in the production of this crop. Therefore, policies that
+rid farmers of their tendency to allocate the bulk of
+their landholdings to maize may raise efficiency in tobacco production. Such policies may include efforts to
+improve the functioning of rural maize markets so as
+to reduce the need for self-sufficiency in maize. Next,
+credit disbursement mechanisms in Malawi may require a degree of reform. It ought to be ensured that
+farmers are not lent excessive quantities of costly inputs. Tobacco is an extremely important cash crop to
+the Malawian economy and it is advisable that the
+Government of Malawi vigorously pursue policies to
+raise economic efficiency in its production.
+
+Uncited references
+Diagne et al. (1995), CIMMYT (1998).
+
+Acknowledgements
+Helpful comments from Winford Masanjala are
+gratefully acknowledged.
+
+G. Hazarika, J. A/wang/Agricultural Economics 29 (2003) 99-109
+
+References
+Aigner, D., Knox Lovell, C.A., Schmidt, P., 1977. Formulation and
+estimation of stochastic frontier production function models. J.
+Econometrics 6, 21-37.
+Ali, M., Flinn, J.C., 1989. Profit efficiency among basmati rice
+producers in Pakistan Punjab. Am. J. Agric. Econ. 71, 303310.
+Battese, G.E., Coelli, T.J., 1995. A model for technical inefficiency
+effects in a stochastic frontier production function for panel
+data. Empirical Econ. 20, 325-332.
+CIMMYT Economics Working Paper 1998-2001, Centro
+Internacional de Mejormiento de Maiz y Trigo (CIMMYT),
+Mexico city.
+David, C., Meyer, W., 1980. Measuring the farm level impact of
+agricultural loans in low income countries: a review article.
+In: Howell, J. (Ed.), Borrowers and Lenders: Rural Financial
+Markets and Institutions in Developing Countries. Overseas
+Development Institute, London.
+Diagne, A., 1998. Impact of Access to Credit on Income and
+Food Security in Malawi. IFPRI FCND Discussion Paper
+No. 46, International Food Policy Research Institute (IFPRI),
+Washington, DC.
+Diagne, A., Zeller, M., 2001. Access to Credit and its
+Impact on Welfare in Malawi. IFPRI Research Report No.
+116, International Food Policy Research Institute (IFPRI),
+Washington, DC.
+Diagne, A., Zeller, M., Mataya, C., 1995. Rural Financial Markets
+and Household Food Security: Impacts of Access to Credit
+on the Socio-Economic Situation of Rural Households in
+Malawi. Interim Report Submitted to the Ministry of Women,
+
+109
+
+Children Affairs, Community Services and Social Welfare
+(MOWCACSSW) and Deutsche Gesellschaft fur Technische
+Zusammenarbeit (GTZ) in Malawi.
+Feder, G., Lau, L.J., Lin, J.Y., Luo, X., 1990. The relationship
+between credit and productivity in Chinese agriculture: a
+microeconomic model of disequilibrium. Am. J. Agric. Econ.
+72, 1151-1157.
+Jondrow, J., Knox Lovell, C.A., Materov, I.S., Schmidt, P., 1982.
+On the estimation of technical efficiency in the stochastic
+frontier production function. J. Econometrics 19, 233-238.
+Parikh, A., Ali, F., Shah, M.K., 1995. Measurement of economic
+efficiency in Pakistani agriculture. Am. J. Agric. Econ. 77,
+675-685.
+Smale, M., Phiri, A., 1998. Institutional Change and Discontinuities
+in Farmers' Use of Hybrid Maize in Malawi: Findings From
+the 1996-1997 CIMMYT/MoALD.
+Zeller, M., Ahmed, A., Babu, S., Broca, S., Diagne, A., Sharma,
+M., 1996. Rural Financial Policies for Food Security of the
+Poor: Methodologies for a Multi-Country Research Project.
+IFPRI FCND Discussion Paper No. 11, International Food
+Policy Research Institute (IFPRI), Washington, DC.
+Zeller, M., Diagne, A., Mataya, C., 1997. Market Access by
+Smallholder Farmers in Malawi: Implications for Technology
+Adoption, Agricultural Productivity, and Crop Income. IFPRI
+FCND Discussion Paper No. 35, International Food Policy
+Research Institute (IFPRI), Washington, DC.
+World Bank, 1995. Malawi's Human Resources and Poverty:
+Profiles and Priorities for Action. Southern Africa Department,
+The World Bank, Washington, DC.
+World Bank, 2000. World Development Report. The World Bank,
+Washington, DC.
+
+

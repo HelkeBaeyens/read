@@ -1,0 +1,1185 @@
+AGRICULTURAL
+ECONOMICS
+
+ELSEVIER
+
+Agricultural Economics 25 (2001) 219-226
+www.elsevier.com/locate/agecon
+
+An economic evaluation of the environmental
+benefits from pesticide reduction
+Cher Brethoura, 1 , Alfons Weersink b,*
+b
+
+a George Morris Centre, 150 Research Lane, Suite 102, Guelph, Ont., Canada N1G 4T2
+Department of Agricultural Economics and Business, University o,{Guelph, Guelph, Ont., Canada N1G 2W1
+
+Abstract
+Previous studies on the environmental impacts of pesticide use have tended to focus either on measuring damages through
+changes in relative risks to various environmental categories or examining the trade-off between pesticide use levels and
+abatement costs. This study uses the physical risk assessment approach combined with contingent valuation survey results on
+consumers' willingness to reduce pesticide risk. The reduction in external costs associated with the changes in pesticide use
+in Ontario agriculture between 1983 and 1998 is US$ 188 per household. The environmental benefits are largely due to the
+reduction in the level of high and moderate-risk pesticides. © 2001 Elsevier Science B.V. All rights reserved.
+JEL classification: Ql2; Q29
+Keywords: Economic value; Pesticides; Risk assessment
+
+1. Introduction
+The intensive use of pesticides in agriculture has
+significantly increased agricultural productivity. The
+on-farm benefits of pesticide use are off-set to some
+degree by the off-farm costs imposed by these pesticides on the environment. Environmental contamination from pesticides ranges from the disruption of
+natural water, air and soil functions, to the alteration
+of the ecosystem resulting in detrimental affects on
+nutrient cycles, or the toxicity of non-target organisms. Concerns over these environmental impacts
+have led to policy efforts ranging from moral suasion
+*Corresponding author. Tel.: + 1-519-824-4120/ext. 2766;
+fax: +l-519-767-1510.
+E-mail addresses: cher@ georgemorris.org (C. Brethour),
+aweersin@uoguelph.ca (A. Weersink).
+1 Tel.: +1-519-822-3929/ext. 207; fax: +1-519-837-8721.
+
+to regulations to economic instruments, all designed
+to reduce pesticide use. Sound policy design requires
+an assessment of the benefits from a reduction in the
+amount of pesticide applied.
+Approaches to assessing the economic impacts of
+reducing pesticide use, specifically through integrated
+pest management, have been reviewed recently by
+Swinton and Williams (1998). The environmental impacts of pesticide use are commonly proxied through
+variables such as pounds of active ingredient (a.i.)
+applied or dollars spent on pesticides. Both measures
+assume that environmental damage is directly correlated with the quantity of pesticide used, regardless of
+the specific chemical and formulation. Given the costs
+of monitoring and measuring the extent of damages,
+it is impossible to accurately determine the actual
+damages of pesticide use. Instead, damages have been
+measured through changes in the relative risks to a
+series of environmental and human health categories.
+
+0169-5150/0!/$- see front matter© 2001 Elsevier Science B.V. All rights reserved.
+PII: S 0 16 9-5 I 50 ( 0 I) 0 0 0 7 9-2
+
+220
+
+C. Brethour, A. Weers ink! Agricultural Economics 25 (2001) 219-226
+
+An example is the work by Kovach et al. (1992) who
+developed the environmental impact quotient (EIQ)
+to determine the risk of pesticides to the environment. The EIQ assigns a number to an a.i. based on
+11 characteristics of the ingredient in order to calculate the environmental components of the indices.
+Higley and Wintersteen (1992) followed by Mullen
+et al. (1997) used eight separate criteria to characterise environmental risk from insecticides, herbicides
+and fungicides in calculating their environmentally
+adjusted EIQs. Hoag and Hornsby (1992), Teague
+et al. (1995), and Crissman et al. (1998) included
+site-specific criteria in estimating environmental impacts or risks from pesticides. Hoag and Hornsby
+(1992) developed a trade-off frontier for pesticide
+costs and a ground water hazard index. The criteria
+included pesticide specific and site-specific criteria
+that could affect the likelihood of ground water contamination. Teague et al. (1995) compared the EIQ
+with site-specific estimates of the environmental fate
+of pesticides, in addition to the toxicity and leachability measures in the EIQ. Crissman et al. (1998) also
+included site-specific information on soil types and
+rainfall in their measure of pesticide leaching risk.
+While these studies consider the environmental impacts and farm abatement costs of reducing risks, little
+has been done on the economic evaluation of these
+impacts.
+The purpose of this paper is to identify the value
+of environmental benefits associated with changes in
+the levels and types of pesticides applied in Ontario
+agriculture. The approach is similar to that developed
+by Mullen et al. (1997) who extended the physical
+risk assessment by incorporating a contingent valuation survey to determine consumers' willingness to
+pay (CWP) for reductions in pesticide risk to different
+components of the environment. The paper begins by
+describing the method for assigning levels of relative
+risk to the pesticidal a.i.s for eight environmental categories. The approach for valuing the changes in risk
+from pesticide use are then described. The changes
+in pesticide risk to the environment from 1983 to
+1998 are then outlined for all of Ontario agriculture.
+The economic value of changes in risks for the eight
+environmental categories are then described by time
+period and by risk level. Factors contributing to the
+changes and subsequent policy implications are then
+discussed.
+
+2. Methods
+2.1. Identifying changes in pesticide risk to the
+environment
+The potential for a pesticide to inflict external damage costs (risk) is measured using an approach developed by Mullen et al. (1997). Rather than assume
+the amount applied is an accurate proxy for risk, the
+approach recognises that risks vary with pesticides
+depending on their toxicity, mobility and persistence.
+Mullen et al. (1997) develop a set of criteria for assigning levels of relative risk to pesticidal a.i.s for
+eight environmental and human health categories;
+ground water, surface water, acute human health,
+chronic human health, aquatic species, birds, mammals, and arthropods. Each a.i. was assigned a risk
+level of high, moderate, or low for each environmental category. For example, atrazine is categorised as
+a high environmental risk to ground water, a medium
+risk to surface water, aquatic species, acute and
+chronic health, and a low-risk to birds, mammals and
+non-target organisms. A list of the risk levels posed by
+all the pesticides used in Ontario for each of the eight
+categories is available from the authors upon request.
+The approach thus permits the measurement of the
+change in total kilograms of pesticide within each of
+the 24 risk per environmental classes (the three levels
+of risk for each of the eight environmental categories).
+For example, the 585,208 kg of atrazine a.i. applied to
+corn in 1993 were allocated to the appropriate risk per
+environmental classes as defined above. The amount
+of each pesticide applied was similarly allocated. The
+total amounts for all pesticides for each class were
+then summed to determine the total high, medium and
+low-risk per environmental category per survey year.
+This total within a given environmental/risk category
+can be expressed as
+K
+
+Useij
+
+=
+
+Lpijk, Vi
+
+=
+
+1, 2, ... , 8 and j
+
+=
+
+1-3
+
+(1)
+
+k=l
+
+where UseiJ is the amount of a.i. (kg) applied from all
+pesticides in environmental category i and risk level
+j; Pijk the amount (kg) of pesticide k applied that is a
+risk level j to environmental category i, and K is the
+total number of pesticides applied. Note that, the total
+amount of pesticide applied in a year (total) equals the
+
+C. Brethour, A. Weersink/Agricultural Economics 25 (2001) 219-226
+
+sum of the amount of a.i. across the three risk levels
+for each environmental category
+3
+
+Total= LUseij,
+
+Vi= 1, 2, 3, ... , 8.
+
+(2)
+
+j=l
+
+Once the total level of risk is determined in kilograms of a.i. per risk category for each environmental
+category i and each risk level j (Useii ), it is possible
+to determine the change in risk from year to year.
+
+important they felt it was to avoid a given level of
+risk with each of the eight environmental categories
+through a six-point Likert scale ranking (0 = not important at all and 6 = very important). This rating was
+completed for each of the three risk levels. The importance of reducing risk for each category was then
+used to infer the respondent's WTP for a reduction
+in risk j for each environmental category i by taking
+the Likert scale rating for that category (importance;)
+and dividing it by the sum of the ratings for all
+categories
+
+2.2. Valuation of changes in environmental risk
+
+importance;
+
+WTPu =
+While the change in risk from pesticide use can be
+assessed by comparing the amount of pesticide applied
+within each risk level across years, this would not account for the greater benefits attached to a reduction
+in high versus low-risk pesticide use. One method to
+weight, the changes in use for alternative risk levels
+is to assign monetary values to these changes. Since
+reducing pesticide risk is not a market commodity,
+the value of the changes in environmental risk associated with changes in pesticide use must be estimated
+through a non-market valuation technique. The estimates used in this study are based on the results of
+a contingent valuation survey administered to a random sample of 3000 households in the United States
+by Mullen et al. (1997). The questionnaire began by
+asking for the respondent's monthly grocery bill followed by questions on the individual's willingness to
+pay to avoid a given level of risk to the environment
+and human health through an increase in that grocery
+bill. The respondents were asked to reveal their willingness to pay for each of the three risk levels (WTPj,
+j = 1-3) rather than their WTP for a reduction in risk
+for each of the eight environmental categories with
+each risk level (WTPij ). Thus, the obtained WTP j for
+WTPij is assumed to be the sum of the WTP to reduce
+risk within each environmental category. However, the
+three WTP j values were not split equally among the
+eight environmental categories since is it is assumed
+that reducing pesticide use that is high-risk to humans,
+for example, is valued more than a corresponding reduction in pesticide use that is high-risk to arthropods.
+The revealed WTP j values were used to infer the
+eight WTPij values for that risk level through a ranking that the individuals assigned to the environmental
+categories. Respondents were asked to identify how
+
+221
+
+8
+
+.
+
+x WTPj,
+
+Li=IImportance;
+Vi=l,2, ... ,8
+
+(3)
+
+Thus, if all environmental categories were deemed
+equally important, the revealed WTP for a risk level
+would be divided equally between the eight categories.
+The WTP values obtained by Mullen et al. were adjusted to reflect Ontario conditions by using Ontario
+average income values and converting into Canadian
+dollars. The resulting estimates are listed in Table 1.
+With the WTPij, the value from changes in environmental pesticide risks per individual can then be
+assessed using the following equation:
+Value of risk change1
+=
+
+LLWTPu
+(1 - Use;;t-1
+Use;jt )
+. .
+8
+
+3
+
+t=l
+
+;=I
+
+(4)
+
+"
+
+Thus, the value of the risk reduction in period t
+is equal to the percentage change in the amount of
+Table I
+WTPiJ in Ontario, 1993 (US$ per household per month)a
+Environmental
+category
+
+High-risk
+
+Moderate-risk
+
+Low-risk
+
+Ground water
+Surface water
+Aquatic species
+Acute human
+Chronic human
+Avian species
+Mammalian species
+Arthropods
+
+5.83
+6.26
+6.21
+6.00
+5.96
+5.66
+5.63
+5.12
+
+3.94
+4.28
+4.20
+3.99
+3.93
+3.71
+3.69
+3.39
+
+2.37
+2.58
+2.53
+2.40
+2.39
+2.22
+2.25
+2.04
+
+a Source: adjusted by authors from Mullen et al. (1997), and
+Statistics Canada Category no. 62-001 & 11-210.
+
+222
+
+C. Brethour, A. Weersink/ Agricultural Economics 25 (2001) 219-226
+
+a.i. associated with each risk level j and for each
+environmental category I (l- (Useijt!USei}t-d) multiplied by the corresponding value for the individual's
+WTPij. Decreases (increases) in usage for any environmental/risk category will reduce (increase) the
+environmental risk costs. However, savings can be
+generated even if there is no change in total pesticide
+use between periods, if there is a relative change in the
+level of risks posed by the same amount of a.i. For example, benefits are generated if there is a shift toward
+low-risk pesticides and away from high-risk ones,
+since the WTP values are higher for high-risk than for
+low-risk applications. Similarly, a reduction in the dollar value of environmental risk takes place if the relative changes occur for an environmental category for
+which the WTP is high. The approach does not account
+for the absolute level of pesticide use so that a proportionate reduction of pesticides when a large amount is
+applied is valued the same as when the total amount of
+use is small. The approach assumes a linear relationship between the percentage risk reduction and actual
+risk eliminated within each category since, WTP values are based on how much individuals would be willing to pay to avoid a risk while the actual changes in
+pesticide use result in only a fraction of the risk being
+eliminated.
+
+3. Data and results
+3.1. Data
+
+The Ontario Ministry of Agriculture Food and Rural Affairs has surveyed growers every five years since
+1973 to compile a record of the use of herbicides,
+insecticides, and fungicides in Ontario crop production. The survey collects the area of each crop grown
+(regardless of whether it was sprayed or not), the
+amount of product applied to an area, the number of
+times a crop is sprayed, and its PCP number that indicates the strength of the product and the multiple
+a.i.s in the case of mixtures. The individual grower
+data is then aggregated up to the county and provincial level based on production shares. This publicly
+available, aggregated data is used in this study to
+compare changes in use patterns and to document
+progress made in pesticide and environmental risk
+reduction.
+
+3.2. Results
+3.2.1. Changes in pesticide risk to the environment
+The total amount of pesticides applied in Ontario
+has declined approximately 40% from 8.8 million kg
+of a.i. in 1983 to 5.2 million kg of a.i. in 1998 (Table 2).
+The change in the total amount of pesticide use was
+associated largely with a decrease in application rates.
+Some of the reduced rate (9%) is indirectly attributable
+to a government program called Food Systems 2002.
+This program funded research and educational activities into pesticide management with the objective of
+reducing pesticide use in the province of Ontario by
+50% over a 15-year-period ending in 2002. However,
+the decrease in the total amount applied is due largely
+to two major changes in production practices related
+to pesticides during this period. The first change was
+a 20% reduction in the total area of land farmed, and
+the second was a shift in cropping patterns from corn
+to soybeans. Soybeans generally require less herbicide
+than corn and the increased use of a com-soybean rotation reduced the need for insecticide compared with
+continuous com.
+The amount and share of the annual total amount
+applied classified by risk level are given for the eight
+environmental categories in Table 2. The majority of
+the pesticides applied are not considered high-risk for
+any of the environmental groupings. In 1983, high-risk
+pesticides represented more than one-quarter of the
+total amount applied for only the ground water and
+chronic human categories. The total amount and share
+of pesticides that are high-risk for these categories
+declined over time, particularly in terms of chronic
+human effects. However, there has been an increase
+in the relative share of total pesticides applied that
+represent a high-risk to aquatic species, surface water and acute human categories. The share of the total applied that is high-risk for these groupings is approximately 20%. This increase in the relative share
+of high-risk pesticides for these three environmental categories came as a result of a decrease in the
+amount of moderate-risk pesticides applied. For all
+categories, with the exception of arthropods, the total
+amount of pesticides that are moderate-risk has fallen
+significantly in both absolute amounts and as a share
+of the total. Yet around half of all pesticides applied
+are considered moderate-risk to surface water, aquatic
+species, and chronic human categories. For the last
+
+Table 2
+Total amount (kg) and share(%) of herbicide, insecticide, and fungicide a.i. applied in Ontario to all field crops, fruits and vegetables by UseiJ, 1983-1998
+Environmental
+category
+
+Risk level
+
+Ground water
+
+1983
+
+1988
+
+1993
+
+1998
+
+--
+
+Total amount
+(kg)
+
+Share
+(%)
+
+Total amount
+(kg)
+
+Share
+(%)
+
+Total amount
+(kg)
+
+Share
+(%)
+
+Total amount
+(kg)
+
+Share
+(%)
+
+High
+Moderate
+Low
+
+2231640
+3193090
+1023210
+
+25
+36
+12
+
+1867780
+2805510
+1272370
+
+26
+39
+18
+
+1418179
+2139012
+1590269
+
+23
+34
+25
+
+1150263
+1684669
+1587606
+
+22
+32
+30
+
+High
+Moderate
+Low
+
+866990
+5223150
+357800
+
+10
+60
+4
+
+1106400
+4485530
+353730
+
+15
+62
+5
+
+1355613
+3181613
+610234
+
+22
+51
+10
+
+1449541
+2536809
+436188
+
+28
+49
+8
+
+Aquatic species
+
+High
+Moderate
+Low
+
+785680
+4183620
+1478640
+
+9
+48
+17
+
+903340
+3180410
+1861910
+
+13
+44
+26
+
+998803
+2574754
+1573903
+
+16
+41
+25
+
+685498
+2747777
+989263
+
+13
+53
+19
+
+"';.:;
+
+Acute human
+
+High
+Moderate
+Low
+
+833800
+3659420
+1954720
+
+9
+42
+22
+
+905130
+2185040
+2855490
+
+13
+30
+40
+
+1186354
+1583966
+2377140
+
+19
+25
+38
+
+1090605
+1270393
+2061540
+
+21
+24
+40
+
+"":::.
+"E.
+
+Chronic human
+
+High
+Moderate
+Lew
+
+2283980
+3293420
+870540
+
+26
+38
+10
+
+903460
+3817930
+1224270
+
+13
+53
+17
+
+747554
+3053401
+1346505
+
+12
+49
+22
+
+535461
+2860719
+1026358
+
+10
+55
+20
+
+High
+Moderate
+Lew
+
+221380
+1302190
+4924370
+
+3
+15
+56
+
+184430
+1203930
+4557300
+
+3
+17
+63
+
+156564
+1056483
+3934413
+
+3
+17
+63
+
+85556
+408147
+3928835
+
+2
+8
+75
+
+High
+Moderate
+Low
+
+261330
+2211080
+3975530
+
+3
+25
+45
+
+202830
+1192230
+4550600
+
+3
+17
+63
+
+201964
+1088797
+3856699
+
+3
+17
+62
+
+68281
+576365
+3777892
+
+1
+11
+72
+
+-:::::
+
+High
+Moderate
+Low
+
+624460
+189080
+5634400
+
+7
+2
+64
+
+540290
+282410
+5122960
+
+8
+4
+71
+
+559161
+594188
+3994111
+
+9
+10
+64
+
+475995
+694979
+3251563
+
+9
+13
+62
+
+"'
+
+Nematocides growth
+regulators and
+classification unknown
+
+2329430
+
+27
+
+1255810
+
+17
+
+1098982
+
+18
+
+791864
+
+15
+
+Total for year
+
+8777370
+
+Surface water
+
+Avian species
+
+Mammalian species
+
+Arthropods
+
+7201470
+
+6246442
+
+0
+tJ;l
+
+01
+;:;
+()
+
+""',..
+~
+
+~
+...__
+;...
+
+"'
+
+§.
+~
+
+()
+
+;:,
+
+()
+
+;;
+
+r;·
+
+'v,"'
+
+N
+
+"N
+a
+a
+
+N
+
+......
+
+'P
+
+N
+N
+
+5214402
+
+N
+N
+
+w
+
+224
+
+C. Brethour, A. Weersink!Agricultural Economics 25 (2001) 219-226
+
+Table 3
+Change in the amount of pesticide applied by risk category between
+1983 and 1998 in Ontario (%)
+Environmental
+category
+
+High-risk
+
+Moderate-risk
+
+Low-risk
+
+Ground water
+Surface water
+Aquatic species
+Acute human
+Chronic human
+Avian species
+Mammalian species
+Arthropods
+
+48
+-67
+13
+-31
+77
+61
+74
+24
+
+47
+51
+34
+65
+13
+69
+74
+-268
+
+-55
+-22
+33
+-5
+-18
+20
+5
+42
+
+25
+
+11
+
+0
+
+Average
+
+three categories in Table 2, avian species, mammalian
+species and arthropods, the majority of pesticides applied continues to pose a low-risk.
+The percentage changes in the amount of pesticide
+applied by risk category between 1983 and 1998 are
+listed in Table 3. The percentage changes are important for the valuation exercise to follow as the WTP
+values refer to the complete elimination of risk. The
+valuations multiply the WTP values (Table l) by these
+percentage changes as noted in Eq. (4). There has been
+significant reduction in the absolute amount of pesticide that is considered high and moderate-risk for most
+of the environmental categories. The amount of pesticide that is high-risk for surface water and acute human categories has increased between 1983 and 1998
+by 67 and 31%, respectively. While, the percentage
+increases are significant, the total amount still represents less than one-third of the total amount of pesticide applied by risk category. The use of moderate-risk
+
+pesticides fell for all environmental categories except
+arthropods. As discussed above, the majority of the
+pesticides applied are considered low-risk for this category. The amount that is moderate-risk for arthropods
+increased from 0.19 million kg of a.i. in 1983 to 0.69
+million kg of a.i. in 1998 but this amount represents
+13% of the total applied. In summary, most of the 40%
+decrease in the total amount applied between 1983 and
+1998 is due to a decrease in high and moderate-risk
+pesticides for most of the environmental categories.
+
+3.2.2. Valuation of changes in environmental risk
+The values of the changes in environmental risks
+posed by pesticides in Ontario evaluated using Eq. (4)
+are listed in Table 4. The values indicate the amount an
+average household would be willing to pay annually
+to experience the percentage change in environmental
+risk observed for each time period. The reduction in
+external costs associated with the changes in pesticide
+use between 1983 and 1998 is US$ 188 per household
+annually. Since the total number of households in Ontario in 1993 was 3,781,440, the value of the environmental risk reduction for the entire province over the
+last 15 years was 711 million (Canadian)$.
+The largest reduction occurred in the last 5-yearperiod with essentially no benefits associated with
+changes between 1988 and 1993. The value of the
+change in pesticide risk was greatest between 1993
+and 1998 since the changes in risk were positive for
+all eight environmental categories. The largest benefits accrued respectively to mammalian species, avian
+species, chronic human, ground water and aquatic
+species. These results are due to the large percentage
+reduction in the total amount of pesticide applied
+
+Table 4
+Values of the changes in environmental risks posed by pesticides (US$ per household per year)
+Environmental category
+
+1983-1988
+
+1988-1993
+
+Ground water
+Surface water
+Aquatic species
+Acute human
+Chronic human
+Avian species
+Mammalian species
+Arthropods
+
+10.22
+-13.14
+-6.94
+-0.14
+24.06
+16.68
+31.62
+-9.58
+
+20.97
+-24.44
+6.42
+-4.37
+18.92
+19.36
+8.25
+-41.66
+
+23.31
+14.03
+31.27
+19.11
+30.09
+58.16
+66.11
+6.79
+
+40.55
+-30.84
+36.85
+7.51
+55.82
+77.62
+83.99
+-83.88
+
+52.79
+
+3.43
+
+248.87
+
+187.61
+
+Total change
+
+1993-1998
+
+1983-1998
+
+C. Brethour, A. Weers ink/ Agricultural Economics 25 (2001) 219-226
+
+225
+
+Table 5
+Decomposition of the value of changes in environmental risks posed by pesticides by risk category, 1983-1998 (US$ per household per year)
+Environmental category
+
+High-risk
+
+Moderate-risk
+
+Low-risk
+
+Total
+
+Ground water
+Surface water
+Aquatic species
+Acute human
+Chronic human
+Avian species
+Mammalian species
+Arthropods
+
+33.90
+-50.47
+9.50
+-22.18
+54.75
+41.67
+49.91
+14.61
+
+22.34
+26.42
+17.30
+31.26
+6.20
+30.57
+32.74
+-108.84
+
+-15.69
+-6.78
+10.05
+-1.57
+-5.13
+5.39
+1.34
+10.35
+
+40.55
+-30.84
+36.85
+7.51
+55.82
+77.62
+83.99
+-83.88
+
+131.69
+
+57.96
+
+-2.05
+
+187.61
+
+Total change
+
+that is considered high-risk to these categories and
+the greater value placed by households on a percentage reduction in high-risk pesticides. The external
+costs of pesticides did increase over the whole time
+period for surface water and arthropods, particularly
+between 1988 and 1993. The negative value for the
+change in environmental risk for surface water was
+due to the increase in the amount of low and high-risk
+pesticide applied which more than offset the large decrease in the absolute amount of pesticide considered
+moderate-risk for this category. For arthropods, most
+of the pesticide applied is considered as low-risk.
+Although, this total fell significantly, a relatively
+large percentage increase in the amount of medium
+risk pesticide applied (see Table 3) accounts for the
+negative value change.
+The values of the changes in environmental risks
+for the period 1983-1998 (last column of Table 4) are
+decomposed by risk category in Table 5. The results
+emphasise that the environmental benefits are due to
+the reduction in the level of high and moderate-risk
+pesticides (Table 5). Most categories experienced a
+reduction in the external costs from changes in the
+levels of pesticides that are considered high-risk for
+that category. Exceptions are the surface water and
+acute human categories for which the external costs
+per household increased by US$ 51 and 22, respectively. Only for the arthropod category was there an
+increase in the external costs due to changes in the
+use of pesticides considered moderate-risk as noted
+above. The overall external costs of low-risk pesticide
+use have increased since 1983 due to the increase in
+use of these pesticides for four environmental categories (ground water, surface water, acute human, and
+
+chronic human). However, for all these categories except surface water, the increase in cost associated with
+increased low-risk pesticide use is smaller than the environmental benefits that result from the reduced use
+of pesticides considered to be high or moderate-risk.
+
+4. Conclusions
+Designing sound policies to reduce pesticide use requires an assessment of the environmental benefits that
+can be compared with the abatement costs for pesticide users and the administrative costs of enforcing the
+policy. Previous studies of the environmental impacts
+of pesticide use have tended to focus either on measming damages through changes in relative risks to
+various environmental categories on or examining the
+trade-off between pesticide use levels and abatement
+costs. This study uses the physical risk assessment
+approach combined with contingent valuation survey
+results on consumer's willingness to reduce pesticide
+risk. The method developed by Mullen et al. ( 1997)
+is used to identify the value of environmental benefits
+from changes in the level and types of pesticides applied in Ontario agriculture. The total amount of pesticides applied in Ontario has declined approximately
+40% from 8.8 million kg of a.i. in 1983 to 5.2 million
+kg of a.i. in 1998. Only for the surface water category
+were high-risk pesticides more than one-quarter of the
+total amount applied in 1998. The total amount and
+share of pesticides that are high-risk for most environmental categories declined over time, particularly in
+terms of chronic human and mammalian species effects. There was a similar decrease in the amount of
+pesticides used that are considered moderate-risk with
+
+226
+
+C. Brethour, A. Weersink!Agricultural Economics 25 (2001) 219-226
+
+the exception of the arthropod environmental category.
+The reduction in total amount applied is due largely to
+the reduction in high and moderate-risk categories as
+the percentage change in low-risk pesticide use averaged to zero across the eight environmental groups.
+The reduction in external costs associated with
+the changes in pesticide use between 1983 and 1998
+is US$ 188 per household annually, which represents a value of US$ 711 million for the province
+as a whole. Once again, the environmental benefits can be attributed to the reduction in the level
+of high and moderate-risk pesticide use. The percentage decreases noted for the total amount applied
+are weighted by the willingness to pay to eliminate risks, with higher values associated with higher
+risks. In most cases, the categories experienced a
+reduction in external costs due to reductions in the
+use of pesticides that are considered high-risk. Over
+70% of the total value associated with the reduction in environmental risk is due to the reduction of
+high-risk pesticide use. The overall external costs of
+low-risk pesticides have increased since 1983 due
+to the increase in use of these pesticides in the categories ground water, surface water and acute and
+chronic human health. However, this slight increase
+in cost associated with increased low-risk pesticide
+use is still significantly smaller than the value of the
+
+environmental benefits that results from the reduced
+use of pesticides considered high and moderate-risk.
+References
+Crissman, C.C., Antle, J.M., Capalbo, S.M., 1998. Economic,
+Environmental, and Health Trade-offs in Agriculture: Pesticides
+and the Sustainability of Andean Potato Production. Kluwer
+Academic Publishers Dordrecht, MA.
+Higley, L.G., Wintersteen, W.K., 1992. A novel approach to
+environmental risk assessment of pesticides as a basis for
+incorporating environmental costs into economic injury levels.
+Am. Entomologist 38 (1), 34-39.
+Haag, D.L., Hornsby, A.G., 1992. Coupling ground water
+contamination with economic retmns when applying farm
+pesticides. J. Environ. Quality 21 (4), 579-586.
+Kovach, J., Petzoldt, C., Degni, J., Tette, J., 1992. A Method
+to Measure the Environmental Impact of Pesticides. New
+York's Food and Life Sciences Bulletin, Number 139, Cornell
+University, New York.
+Mullen, J.D., Norton, G.W., Reaves, D.W., 1997. Economic
+analysis of environmental benefits of integrated pest
+management. J. Agric. Appl. Econ. 29 (2), 243-254.
+Swinton, S.M., Williams, M.B., 1998. Assessing the Economic
+Impacts of Integrated Pest Management: Lessons from the
+Past, Directions for the Future, Staff Paper 98-12. Department
+of Agricultural Economics, Michigan State University,
+June.
+Teague, M.L., Mapp, H.P., Bernardo, D.J., 1995. Risk indices for
+economic and water quality tradeoffs: an application to great
+plains agriculture. J. Prod. Agric. 8 (3), 405-415.
+
+

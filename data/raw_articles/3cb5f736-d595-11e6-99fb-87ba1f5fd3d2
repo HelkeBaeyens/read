@@ -1,0 +1,774 @@
+Copyright (c) 1993 by Christopher B. Barrett. All rights reserved.
+Readers may make verbatim copies of this document for non-commercial
+purposes by any means, provided that this copyright notice appears on all
+such copies.
+University of Wisconsin-Madison Department of Agricultural Economics Staff Paper Series.
+
+December 1993
+
+No. 369
+
+ON PRICE RISK AND THE INVERSE
+FARM SIZE-PRODUCTIVITY RELATIONSHIP
+By
+Christopher B. Barrett
+University of Wisconsin-Madison
+
+Abstract: The oft-observed inverse relationship between farm size and productivity is generally explained by
+labor market imperfections. Although other explanations exist (e.g., size-sensitive cropping patterns and variable
+soil quality), the literature ignores uncertainty as an explanation. Using a simple two-period model of an
+agricultural household that both produces and consumes under price uncertainty at the time labor allocation
+decisions are made, this paper demonstrates analytically that an inverse relationship may exist, even absent any
+of the more common explanations. A simple data exercise suggests the plausibility of temporal price risk as an
+explanation for this phenomenon.
+JEL Classification: D13, O13, Q12
+
+___________________________
+This research was supported by an International Predissertation Fellowship from the Social Science Research
+Council and the American Council of Learned Societies with funds provided by the Ford Foundation. Michael
+Carter, Jean-Paul Chavas and participants in the International Development Workshop at Wisconsin provided
+valuable comments, but remaining errors are the author’s sole responsibility.
+*
+
+ON PRICE RISK AND THE INVERSE FARM SIZE-PRODUCTIVITY RELATIONSHIP
+
+The existence of an inverse relationship between farm size and farm productivity has been observed by
+agricultural and development economists for some time.1 Crop yields per unit area cultivated that decline with size
+of holdings follow from regular observations of more intensive labor use on small farms than large (Berry and Cline
+1979, Cornia 1985, Sen 1981). This common empirical finding has drawn several different explanations, with
+important implications for both policy and theory. The most popular rely on labor market dualism with a distinctly
+Chayanovian flavor. Small, peasant households are believed to face a lower opportunity cost of labor than large,
+commercial farms. Consequently, small farms apply their own labor in such quantities that the expected marginal
+value product of household labor applied to homestead cultivation is less than a market wage-based measure of the
+opportunity cost of labor (Carter and Wiebe 1990, Chayanov 1966, Hunt 1979, Sen 1966, 1975).
+A closely related but distinct theoretical approach assumes that principal-agent problems and the associated labor
+supervision costs render effective labor costs higher on farms large enough to hire labor than on peasant plots (Carter
+and Kalfayan 1989, Feder 1985). Finally, a third, less formally developed labor markets explanation has been posited
+by Binswanger and Rosenzweig (1986). They note that imperfect information in labor search results in a positive
+probability of misallocation of labor. Labor-selling households that fail to find casual labor reallocate the time they
+had planned for wage labor to work on their own farm instead, up to the point where the marginal utility of home
+production equals the marginal utility of leisure. Since the household wanted work, the marginal utility of the wage
+(and thus of production) necessarily exceeded that of leisure, so at least some windfall labor time goes to home
+farming. Exactly the reverse happens for labor-hiring households who fail to hire casual labor; they fall short of
+planned labor applications.
+In each of the above models, the inverse relationship between farm size and productivity per unit land cultivated
+depends on imperfect labor markets.2 Such explanations imply the criticality of incorporating some flavor of labor
+
+1
+
+Amartya Sen (1962) launched contemporary inquiry into the issue with his analysis of India’s Studies in
+the Economics of Farm Management. Chayanov (1966) had identified the issue with respect to Russian
+agriculture much earlier this century.
+2
+
+Feder (1985) demonstrates further that multiple market failures are necessary. In other words, farmers can
+cope with a single market failure (e.g., for wage labor) without the shadow wage having to diverge from the
+
+-2market failure into theoretical analysis of low-income agriculture. Moreover, if labor market imperfections inevitably
+render small farmers more productive, then it might follow that land redistribution can stimulate agricultural
+productivity, adding an efficiency argument to the equity aims of such policy. These inferences were influential for
+some years.
+In addition to smaller farms’ more intensive application of labor inputs, Bharadwaj (1974) cites the sensitivity
+of cropping patterns to farm size as an explanation of the inverse relationship, with smaller farms allocating a higher
+proportion of area to more lucrative and labor-intensive crops.3 In particular, Bharadwaj notes that differences in
+cropping patterns resolve an apparent aggregation bias evident in empirical studies: inverse relationships which seem
+to hold at farm level often seem not to hold for individual crops. While Bharadwaj’s findings ratify the implications
+for theory of the more mainstream, labor market failures explanations, they yield more ambiguous policy
+implications.
+Yet another view is presented by Bhalla (1988), Bhalla and Roy (1988), and Benjamin (1991), among others4,
+who posit a size-sensitivity in the quality of factor endowments, especially soil fertility. These authors claim that
+more intensive labor use on small farms reflects primarily the superior fertility of soils on smaller plots, thereby
+warranting more intensive labor per unit area. These results conflict with those of Bharadwaj (1974) and Carter
+(1984), each of whom considered soil quality and other inputs (e.g., irrigation, draught animals) and found that these
+accounted for only a small portion of the observed variation in productivity across farm sizes. But if correct, the
+soil quality variability argument undermines efficiency arguments for land reform and implies that parsimonious
+neoclassical theory might not be inappropriate for analyzing low-income agriculture.
+The stark differences in implications for policy and theory of the imperfect labor markets and variable soil
+quality explanations are especially troubling because each is exceedingly difficult to prove empirically. Reliable data
+
+market wage. But if another market (e.g., for land or credit) also is imperfect, then the inverse relationship
+emerges.
+3
+
+It should be noted that size-sensitivity of cropping patterns of the opposite nature (i.e., with larger farms
+cultivating a greater proportion of area in higher-value crops) is often posited, as in Fafchamps (1992).
+4
+
+Sen (1975) raises this point more casually.
+
+-3on labor allocation and soil quality are rare.
+
+Moreover, to the best of my knowledge no existing data set
+
+encompasses both, thereby precluding simultaneous direct testing of the competing hypotheses. An ideological
+stalemate results.
+This paper offers an alternative explanation of the inverse relationship based on three empirically sound stylized
+facts. First, farmers in low-income countries cannot fully hedge uncertain staple crop prices through futures or
+insurance contracts, nor by forward sales at the time labor allocation decisions are made. The connection between
+risk aversion and labor allocation is well known (Block and Heineke 1973, Roe and Graham-Tomasi 1986, Srinivasan
+1972). Although risk aversion has typically been defined in the narrow Arrow-Pratt sense of income risk aversion,
+it is a straightforward extension to consider the case of price risk aversion (i.e., uncertainty regarding both income
+and consumer prices).5 Second, land is unevenly distributed across the agricultural population. Even under if
+technologies and preferences are uniform among agents, differences in land endowments create a heterogeneous
+society. Third, households’ net agricultural purchases are inversely related to landholdings. Small farms tend to be
+net produce purchasers while large farms tend to be net sellers. These three common features of low-income
+agriculture combine to induce an endogenous agrarian class structure, characterized by heterogeneous labor allocation
+behavior across classes of farmers, much as in Roemer (1982). This next section proves analytically that price risk
+and distinct agrarian classes suffice in explaining the oft-observed inverse relationship between farm size and
+productivity, even with competitive labor markets and uniform soil quality. The following section offers an informal
+empirical demonstration of the plausibility of this explanation. The concluding section draws out some of the
+implications of this explanation for both policy and theory.
+
+An Agricultural Household Model
+
+5
+
+Srinivasan explains the inverse relationship by yield risk. He defines utility over income alone, imposes
+restrictions on the coefficients of risk aversion and on how risk enters production, and assumes constant returns
+to scale in production. Although highly restrictive, his is an important and much under-appreciated contribution
+to the literature on the inverse relationship. The present work complements his paper, exploring the other major
+source of agricultural uncertainty: prices.
+
+-4Assume an agricultural household exhibits Von Neumann-Morgenstern utility defined over consumption of
+leisure(LL)6 and two goods: a staple food (S), and a non-staple (N). The staple can either be produced or purchased,
+the nonstaple is available only through market purchase. The household has an endowment of land (T) and of labor
+time (L0). Production is strictly increasing in land and labor, and concave in labor. Labor used in production is a
+function of household labor (LH) and hired labor (LD), but might not be just the sum of the two if there exists a labor
+supervision problem (Feder 1985, Stiglitz 1986). Labor markets are competitive by assumption but, to isolate the
+variables of interest, land and credit markets are assumed not to exist. Just as the household can hire labor in, so
+can it hire out its time (LS) at a known exogenous wage (w). The household faces a time constraint, LS + LL + LH
+≤ L0. Its income comes from wage labor, agricultural production and exogenous transfers (I).
+This is a two-period model. All product prices are unknown when production decisions (i.e., labor allocation
+decisions) are made but are revealed before consumption decisions are made. The household’s utility maximization
+problem can be expressed as
+
+Max
+L D, L H, L L
+
+E MaxU(L L, N, S)
+
+(1)
+
+N, S
+
+s.t. P SS P NN ≤ Y
+ˆ
+Y
+w[L S L D] P SF(L,T)
+I
+D
+H
+Lˆ e(L ) L
+L0 ≥ L H L L L S
+
+where E is the mathematical expectation operator, PS is the staple price, PN is the non-staple price, and Y* is
+endogenous income. The effective labor function, e(.), converts hired labor units into household labor equivalents
+such that e(LD)/LD takes values over the closed interval [0,1]. This is a perfectly general formulation, permitting
+hired labor to be a perfect substitute or non-substitutable for family labor (or any intermediate substitutability). Thus
+the present model nests within it as special cases those explanations which rely on labor supervision problems. Farm
+
+6
+
+Superscripts distinguish among goods across subcategories and time. Subscripts denote derivatives.
+
+-5size-dependent patterns of labor use are robust to variations in labor market specification, as will become clear
+shortly.
+The household allocates labor conditional on ex-post optimal choice of consumption quantities. A variable
+indirect utility function, V(LL,PN,PS,Y*) which is the dual of U(.) can be derived (Epstein 1975).
+
+V(.) is
+
+homogeneous of degree zero in (PN,PS,Y*) and, therefore, invariant to unit of measurement. So set PN=1 and let
+P=PS/PN and Y=Y*/PN. Since Y is itself a function of P, V(.) has multiple stochastic arguments. The household
+exhibits Arrow-Pratt income risk aversion (VYY<0). The labor allocation problem can be represented as
+Max EV(L L, P, Y) : Y
+
+w[L 0 L L L H L D] PF(e(L D) L H , T) I
+
+(2)
+
+L D, L H, L L
+
+where V(L L, P, Y)
+
+Max U(L L, N, S) : P[S F(e(L D) L H ,T)] N w[L 0 L L L H L D] I
+N, S
+
+The first-order necessary conditions for an optimum are
+w.r.t. hired labor : E VY[PFL w] ≤ 0 ( 0 if L D > 0 )
+w.r.t. household labor : E VY[PFL w] ≤ 0 ( 0 if L H > 0 )
+( 0 if L L > 0 )
+w.r.t. leisure : E VL VYw ≤ 0
+D
+
+H
+
+(3)
+(4)
+(5)
+
+L
+
+As pointed out already, this analysis is very general with respect to labor in that the effective labor function
+allows for hired and household labor to be either perfect or imperfect substitutes. In the case where they are perfect
+substitutes, (3) and (4) are identical. If hired labor is not a perfect substitute for household labor (i.e., if e(LD)<LD),
+there are segments of the land distribution for which border solutions to (3) prevail (Carter and Kalfayan 1989).
+Therefore we concentrate on (4), which will likely have an interior solution if the household has land, since
+household labor is at least as efficient as hired labor.7
+Under price uncertainty, solution of the first-order condition (4) yields the following:
+
+7
+
+Formally, F(.),P, and w must be such that
+. Even under rudimentary technology and fixed,
+suboptimal prices in low-income agriculture, wages are unlikely to be so high as to violate that condition.
+
+-6Proposition 1: If an agricultural household faces a stochastic price for a commodity that it both produces and
+consumes, then the household will apply labor in excess of the quantity that would equilibrate labor’s marginal value
+product with the prevailing wage rate if and only if that price is positively correlated with the marginal utility of
+endogenous income.
+Proof:
+E VYPFL
+E V Yw
+E VY[PFL PFL ]
+E VY[w PFL ]
+FL COV(VY,P) E VY[w PFL ]
+COV(VY,P) >(<) 0 ⇔ w >(<) PFL
+where P E P
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+(6)
+
+The covariance term in the above proof is inverse proportional to the household’s marginal income risk premium.
+This is evident from evaluating the certainty equivalent of the household’s utility maximization problem.
+Finkelshtain and Chalfant (1991) have pointed out that in pure producer theory Arrow-Pratt income risk aversion
+(VYY<0) implies that COV(VY,P)<0, thus the familiar result that production under price uncertainty is less than under
+certainty (Sandmo 1971). In a household model, however, the relation of VY to P is ambiguous, varying inversely
+through the household’s production activities and directly through its consumption activities. Thus a more intuitive
+restatement of Proposition 1 would be that if a commodity of uncertain price is more important to a household as
+a consumption good than as a source of income, the household will rationally "overemploy"8 labor. Given fixed
+land holdings, hyperexploitation of labor implies greater output than would occur if labor were employed only up
+to the point where its marginal value product equalled the market wage.
+In signing the covariance in (6), the household’s marketed surplus (M≡F-S) of the staple and its preferences
+regarding price risk become crucial. The marginal utility of endogenous income can be identified by Roy’s Identity.
+Differentiation then produces the following expression:
+
+8
+
+The term "overemploy" is used to contrast the present result with that which would obtain under the
+certainty counterfactual. The term "underemploy" will be used in a similar spirit in the remainder of the paper.
+
+-7-
+
+sign(COV(VY,P))
+where VY
+thus
+
+∂VY
+∂P
+
+sign(
+
+∂VY
+∂P
+
+)
+
+VP
+M
+VPP
+M
+VPP
+
+VP ∂M
+M 2 ∂P
+∂M VY
+
+M
+
+∂P M
+
+(7)
+
+Equation (7) indicates that one must know something about the curvature of household preferences regarding
+price risk (VPP) in order to sign the covariance of the staples price and the marginal utility of endogenous income.
+If and only if VPP<0 do producers favor stable to variable prices. Quasi-convexity of the variable indirect utility
+function in prices renders these preferences ambiguous. Turnovsky, Shalit and Schmitz (1980) and Newbery and
+Stiglitz (1981) demonstrate that where income is exogenous VPP depends on the income and price elasticities of gross
+demand for staples, the budget share of gross expenditures on the product, and on the household’s coefficient of
+relative risk aversion. Modifying their results to account for the endogeneity of income, one can derive the following
+expression for VPP9:
+
+M VY
+
+VPP
+
+P
+
+(8)
+
+[ε β(η R)]
+
+where:
+
+∂M P
+∂P M
+
+ε
+
+the price elasticity of marketed surplus
+
+β
+
+budget share of marketed surplus
+
+R
+
+Arrow Pratt coefficient of relative risk aversion
+
+η
+
+∂M Y
+∂Y M
+
+income elasticity of marketed surplus
+
+PM
+Y
+YVYY
+VY
+
+The pure consumer theory used by Turnovksy, Shalit and Schmitz, and by Newbery and Stiglitz yields an
+analogous equation, with the elasticities and budget share defined over gross consumption rather than marketed
+surplus:
+
+9
+
+See the Appendix for a full derivation.
+
+-8S VY
+
+VPP
+
+P
+
+[ε β(η R)]
+
+(9)
+
+Under that specification, the bracketed term relating commonly estimated demand parameters is sufficient to sign
+VPP, since S, VY, and P are all positive. Call this term D≡ε β(η R) . However, in the context of a household model,
+the jointness of consumption and production necessitates use of the marketed surplus concept embedded in (8). Now
+D alone does not sign VPP. Nonetheles, although M, β, η, ε switch signs depending on whether the household is
+a net buyer or a net seller of the staple, the necessary and sufficient for VPP<0 is R > η ε/β , just as in the pure
+consumer theory model.
+Now substitute (8) into (7) to get:
+∂VY
+
+VY
+
+∂P
+
+P
+VY
+
+sign(COV(VY,P))
+
+[ε β(η R)]
+
+∂M VY
+∂P M
+
+[β(η R)]
+P
+sign(β[R η])
+
+(10)
+
+Apparently, whether a staple food matters more to a household as an income source or as a consumption good thus
+depends on the household’s coefficient of relative risk aversion, and its budget share and income elasticity of
+marketed surplus. The COV(VY,P) increases with budget share and income elasticity and declines with relative risk
+aversion. This leads to Proposition 2 which depends solely on a household’s observable marketed surplus.
+Proposition 2: If S is a normal good, and a household is a net seller of S, then it will underemploy labor.
+Proof:
+
+normal good, net seller household ⇒ β, R > 0 , η < 0 ⇒
+β(η R) <0 ⇔ COV(VY,P) < 0 ⇔ w < PFL
+H
+
+This is nothing more than the well-known Sandmo (1971) result: price uncertainty reduces income risk averse
+firms’ hiring of factors of production, thereby reducing output. By contrast, the rational labor allocation regime
+obtaining in the case of a net buyer households is one of labor overemployment if the household is price risk averse.
+Proposition 3: If S is a normal good and a household is a price risk averse net buyer of S, then it will overemploy
+labor.
+Proof:
+
+-9(i) normal good, net buyer ⇒ R, η > 0 , ε, β < 0
+ε
+(ii) VPP < 0 ⇔ R > η
+β
+(i) , (ii) ⇒ R > η ⇒ β[η R] > 0 ⇔ COV(VY,P) > 0 ⇔ w > PFL
+
+H
+
+Price risk aversion is thus a sufficient condition -- but not a necessary condition -- for the overemployment of labor
+by net buyer households.
+Since production is strictly increasing in labor, propositions 2 and 3 combined are sufficient for an inverse
+relationship between farm size and productivity per unit of land cultivated if marketed surplus is positively related
+to farm size and at least some significant subset of net buyers are likely to be price risk averse. The former is
+intuitive and a common finding in empirical research on low-income agriculture (e.g., Greer and Thorbecke 1986,
+Bernier and Dorosh 1992), and so will be assumed true generally for low-income agriculture.10 But the potential
+for price risk aversion among net buyer households is less intuitive, challenges the claims of much of the literature
+on price stabilization, and thus needs demonstration.
+
+Are Net Buyers Price Risk Averse ?
+The analytical literature on price risk (Oi 1961, Waugh 1944, Turnovsky, Shalit and Schmitz, Newbery and
+Stiglitz) has tended to dismiss concerns about price instability, claiming that VPP>0 almost always obtains. That
+assessment is based on the stylized demand parameters of the sort shown in Table 1.11 There are two potential
+pitfalls in this analysis. First, the claim is based on parameter estimates from high-income country data. Second,
+the sample mean parameter estimates are used, but these parameters are known to vary with income. This section
+offers some cursory calculations to demonstrate that the traditional claim may not be robust to applications in lowincome countries.
+In the context of peasant agriculture, where budget shares of staples and relative risk aversion are typically quite
+high and price elasticities low, these parameter values might vary enough to make VPP<0 likely. For example, a 1990
+
+10
+
+The present model posits monoculture and thus ignores crop choice and the possibility of size-sensitive
+cropping patterns (Bharadwaj 1974, Fafchamps 1992). The model could usefully be extended to the n-crop case.
+11
+
+This is taken directly from Turnovsky, Shalit and Schmitz, wherein they use the exogenous income form
+of VPP: (9) above.
+
+- 10 -
+
+Table 1
+Stylized Demand Parameters
+
+survey of 825 rice-producing households in Madagascar
+(Bernier and Dorosh 1992) yields demand parameter
+estimates which, when combined with common findings
+for a coefficient of relative risk aversion in low-income
+agriculture (Antle 1987, Binswanger 1980), yield VPP<0
+using the same equation (9) formula (Table 1). The
+
+R
+ε
+ß
+D
+
+Turnovsky,
+Shalit & Schmitz
+
+Madagascar
+Rice Farmers
+
+1.00
+0.60
+0.20
+0.30
+0.08
+
+1.33
+0.23
+0.27
+0.54
+-0.32
+
+survey-based Madagascar parameter estimates may be
+more reasonable characterizations of patterns prevailing in low-income agriculture than the stylizations used by
+Turnovsky, Shalit and Schmitz. If so, price risk aversion would appear important in at least some environments.
+Characterization of the price risk aversion possibilities of particular classes within the agricultural sector,
+however, requires two refinements. First, the endogenous income construction of (8) is preferred to the exogenous
+income variant in equation (9) since agricultural households are producers as well as consumers of staple crops.
+Second, we need to allow all four demand parameters (β, η, ε, R) to vary. Just as there exist class differences in
+production behavior (Roemer 1982), so too does consumption behavior vary across classes defined by wealth
+endowments. A substantial empirical literature has demonstrated that the relevant parameters vary systematically
+with income and wealth (Antle 1987, Binswanger 1980, Pinstrup-Anderson and Caicedo 1978, Pinstrup-Anderson,
+Londoño and Hoover 1976, Pitt 1983, Timmer 1981, Timmer and Alderman 1979, Waterfield 1985). Within the
+agricultural sector it is reasonable to conjecture a strictly positive monotonic mapping from either income or wealth
+to land holdings. If the underlying parameters and marketed surplus quantity vary systematically with land holdings,
+so too might preferences with respect to price risk. These patterns, the unconditional parameter estimates above, and
+data on land holdings from Madagascar’s last agricultural census (MPARA/FAO 1988) are used here to construct
+crude stylizations of land endowment-dependent price risk preferences for farmers in the Central Highlands region
+of Madagascar. These are purely stylizations; none of the data used was collected for this sort of analysis and,
+consequently, there are important empirical weaknesses.
+
+Nonetheless, this exercise makes the point that for
+
+reasonable parameter values a significant subset of net buyer households is likely to be price risk averse.
+
+- 11 In Madagascar’s Central Highlands, the subsistence land endowment (i.e., the holding which can just provide
+subsistence food requirements for a household of average composition) is approximately 0.73 hectares.12 The
+median of the land distribution is only about 0.8 hectares, with a dense clustering around the subsistence endowment.
+Mapping land endowments into net sales of staples around the subsistence endowment suggests that 46% of
+agricultural households in the region are net buyers. This estimate lies in the midrange of earlier findings for five
+Sub-Saharan African countries (Weber et al. 1988). Existing smallholder household production analysis confirms
+the existence of the inverse relationship in the Madagascar survey region (Place 1991).
+The base parameters from Table 1, adjusted by the S/M ratio, are assumed to describe the median group (those
+holding
+
+0.75-0.99
+
+hectares).
+
+Table 2: Land-Endowment Dependent Estimates of Z
+
+Parameters then vary across the
+other groups according to the
+patterns and rates found in the
+studies cited earlier. The result is
+Table 2 relating land distributional
+data, net purchases, and stylized
+v
+
+a
+
+l
+
+u
+
+e
+
+Z ≡ [ε β(η R)]
+
+s
+
+o
+
+f
+
+sign(M) .
+
+Land Holdings
+(hectares)
+
+% Agricultural
+Households
+
+Marketed Surplus
+% Gross Consumption
+
+0.00-0.24
+0.25-0.49
+0.50-0.74
+0.75-0.99
+1.00-1.49
+1.50-1.99
+2.00-4.99
+5.00-9.99
+>10.00
+
+7.6%
+16.9%
+21.7%
+16.7%
+18.2%
+9.0%
+8.8%
+1.1%
+0.001%
+
+-74.2%
+-51.4%
+-21.4%
+10.6%
+21.5%
+32.5%
+43.5%
+57.1%
+84.0%
+
+-0.21
+-0.02
+0.10
+-0.36
+-0.90
+-1.04
+-1.18
+-1.25
+-1.41
+
+Weighted Avg.
+
+100.0%
+
+-5.9%
+
+-0.44
+
+Z
+
+Z is of interest only for signing VPP. Thus its sign, rather than
+its magnitude, matters. Z<0 obtains for more than half the net buyer population. These stylized data are obviously
+sensitive to variations in parameter estimates. They are only tools for answering a context-specific empirical question, so the finding need not be general. In fact one would not expect generalizability since the inverse
+relationship is not itself a ubiquitous phenomenon (Bhalla and Roy 1988). Nonetheless, these back-of-the-envelope
+
+12
+
+This is estimated from nutritional data on paddy and the caloric requirements of adult male subsistence
+farmers in the tropics, average yields on irrigated and non-irrigated lands, rates of fallowing and post-harvest
+paddy loss, and average household size as measured in adult male equivalents. The detailed calculations are
+available from the author by request.
+
+- 12 calculations suggest the plausibility of price risk aversion within a significant portion of the net buyer population in
+some low-income agricultural economies, as required for Proposition 3.
+
+Conclusion and Implications
+The foregoing analysis demonstrates that differences in households’ marketed surplus in an environment of uncertain prices suffices to explain an inverse relationship between farm size and productivity if some small farmers are
+price risk averse. While the formulation of the model was general enough to allow for labor market imperfections,
+nowhere were such imperfections assumed. Neither were any differences in the quality of land endowments nor in
+cropping patterns considered. Thus, the present model provides an alternative to existing explanations of the inverse
+relationship between farm size and productivity per unit cultivated area. Given ubiquitous price uncertainty and
+uneven land distribution in low-income agriculture, this is an intuitive explanation for an oft-observed phenomenon.
+What are the implications of this explanation for theory and policy? For theory it most obviously highlights the
+importance of incorporating uncertainty into models. Second, and perhaps more profoundly, it emphasizes the
+importance of recognizing "structure" less in the form of market rigidities, as do many "structuralist" macroeconomists, and more in the Marxian (and empirically demonstrable) sense of heterogeneous factor endowments. That
+objectively identical conditions often beget diametrically opposed responses by equally rational agents is a recognized
+but underdeveloped dimension of neoclassical theory.
+In policy terms, the present results, like Bharadwaj’s work, are more ambiguous than those of either the
+imperfect labor markets or variable soil quality explanations. Because the relative productivity of small farmers
+results from their relative food insecurity (i.e., their dependence on markets for food), the productivity effects of land
+reform would depend upon the ex post endowments of the ex ante class of net food buyers. Modest land transfers
+to small farmers could improve average yields, while land redistribution which left peasants sufficiently endowed
+to provide for their own needs could actually reduce agricultural yields. Intriguingly, domestic staple food price
+stabilization to reduce the underemployment of labor by larger farmers, combined with modest land redistribution,
+to take advantage of the stress-induced diligence of land poor peasants, might be the most effective extratechnological means by which to stimulate agricultural productivity. That such seems to have been the path followed
+
+- 13 over the past few decades by several east Asian countries which have enjoyed above average yield increases gives
+added incentive to explore further alternative explanations and implications of phenomena such as the inverse
+relationship.
+
+- 14 APPENDIX
+Take Roy’s Identity, modified for marketed surplus, rearrange terms and differentiate with respect to both P and Y.
+Then substitute expressions and manipulate the resulting terms to obtain familiar parameters, albeit with an adjusted
+interpretation due to the marketed surplus term.
+
+M
+VPP
+VPY
+VPP
+VPP
+
+VP
+VY
+
+⇔ VP
+
+VY M
+
+∂M
+∂P
+∂M
+VYY M VY
+VYP (by symmetry)
+∂Y
+∂M
+∂M
+M VYY M VY
+VY
+∂Y
+∂P
+M VY
+[ε β(η R)]
+P
+VYP M
+
+VY
+
+The last expression is (8) above.
+
+REFERENCES
+Antle, John M. (1987), "Econometric Estimation of Producers’ Risk Attitudes," American Journal of Agricultural
+Economics, 69, 3, pp. 509-522.
+Benjamin, Dwayne (1991), "Can Unobserved Land Quality Explain the Inverse Productivity Relationship?",
+University of Toronto Department of Economics Working Paper #9112.
+Bernier, René E. and Paul A. Dorosh (1992), " Constraints on Rice Production in Madagascar: The Farmer’s
+Perspective," Cornell Food and Nutrition Policy Program manuscript.
+Berry, R. Albert and William R. Cline (1979), Agrarian Structure and Productivity in Developing Countries
+(Baltimore: Johns Hopkins University Press).
+Bhalla, Surjit S. (1988), "Does Land Quality Matter", Journal of Development Economics, 29: pp. 45-62.
+----- and Prannoy Roy (1988), "Mis-Specification in Farm Productivity Analysis: The Role of Land Quality," Oxford
+Economic Papers, 40, 1, pp. 55-73.
+Bharadwaj, Krishna (1974), Production Conditions In Indian Agriculture (London: Cambridge University Press).
+Binswanger, Hans P. (1980), "Attitudes Toward Risk: Experimental Measurement in Rural India," American Journal
+of Agricultural Economics, 62, 3, pp. 395-407.
+Block, M. K. and J. M. Heineke (1973), "The Allocation of Effort Under Uncertainty: The Case of Risk-Averse
+Behavior," Journal of Political Economy, 81, 2, pp. 376-385.
+Carter, Michael R. (1984), "Identification of the Inverse Relationship Between Farm Size and Productivity: An
+Empirical Analysis of Peasant Agricultural Production," Oxford Economic Papers, 36, pp. 131-145.
+
+- 15 ------ and John Kalfayan (1989), "A General Equilibrium Exploration of the Agrarian Question," University of
+Wisconsin-Madison Department of Agricultural Economics Working Paper 279.
+------ and Keith Wiebe (1990), "Access to Capital and Its Impact on Agrarian Structure and Productivity in Kenya,"
+American Journal of Agricultural Economics, 72, 5, pp. 1146-1150.
+Chayanov, Alexander V. (1966), The Theory of Peasant Economy (Homewood, IL: Richard Irwin).
+Cornia, Giovanni Andrea (1985), "Farm Size, Land Yields and the Agricultural Production Function: An Analysis
+for Fifteen Developing Countries," World Development, 13, 4, pp. 513-534.
+Epstein, L. (1975), " Disaggregate Analysis of Consumer Choice Under Uncertainty," Econometrica, 43, 5-6, pp.
+877-892.
+Fafchamps, Marcel (1992), "Cash Crop Production, Food Price Volatility and Rural Market Integration in the Third
+World," American Journal of Agricultural Economics, 74, 1, pp. 90-99.
+Feder, Gershon (1985), "The Relation Between Farm Size and Farm Productivity," Journal of Development
+Economics, 18, 2-3, pp. 297-313.
+Finkelshtain, Israel and James A. Chalfant (1991), "Marketed Surplus Under Risk: Do Peasants Agree With
+Sandmo?," American Journal of Agricultural Economics, 73, 3, pp. 557-567.
+Greer, Joel and Erik Thorbecke (1986), "Food Poverty Profile Applied to Kenyan Smallholders," Economic
+Development and Cultural Change, 35, 1, pp. 115-141.
+Hunt, Diana (1979), "Chayanov’s Model of Peasant Household Resource Allocation," Journal of Peasant Studies,
+6, pp. 247-285.
+MPARA/FAO (1988), Projet Recensement National de l’Agriculture et Système Permanent des Statistiques Agricoles,
+8 volumes (Antananarivo).
+Newbery, David M.G. and Joseph E. Stiglitz (1981), The Theory of Commodity Price Stabilization (Oxford:
+Clarendon Press).
+Oi, Walter Y. (1961), "The Desirability of Price Instability Under Perfect Competition," Econometrica, 29, pp. 58-64.
+Pinstrup-Anderson, Per and Elizabeth Caicedo (1978), "The Potential Impact of Changes in Income Distribution on
+Food Demand and Human Nutrition," American Journal of Agricultural Economics, 60, 3, pp. 402-415.
+-----, Norha Ruiz de Londoño and Edward Hoover (1976), "The Impact of Increasing Food Supply on Human
+Nutrition: Implications for Commodity Priorities in Agricultural Research and Policy," American Journal of
+Agricultural Economics, 58, 1, pp. 131-142.
+Pitt, Mark M. (1983), "Food Preferences and Nutrition in Rural Bangladesh," Review of Economics and Statistics,
+65, 1, pp. 105-114.
+Place, Frank (1991), "Household Agricultural Production in the Central Highlands of Madagascar," UNDP/World
+Bank report.
+
+- 16 Roe, Terry and Theodore Graham-Tomasi (1986), "Yield Risk in a Dynamic Model of the Agricultural Household,"
+in Inderjit Singh, Lyn Squire and John Strauss, editors, Agricultural Household Models (Baltimore: Johns
+Hopkins University Press).
+Roemer, John E. (1982), A General Theory of Exploitation and Class (Cambridge: Harvard University Press).
+Sandmo, Agnar (1971), "On the Theory of the Competitive Firm Under Price Uncertainty," American Economic
+Review, 61, 1, pp. 65-73.
+Sen, Abhijit (1981), "Market Failure and Control of Labor Power: Towards An Explanation of ’Structure’ and
+Change in Indian Agriculture. Part I," Cambridge Journal of Economics, 5, pp. 201-228.
+Sen, Amartya K. (1962), "An Aspect of Indian Agriculture," The Economic Weekly, annual number February 1962.
+------, (1966), "Peasants and Dualism With or Without Surplus Labour," Journal of Political Economy, 74, pp.
+------, (1975), Employment, Technology and Development (Oxford: Clarendon Press).
+Srinivasan, T.N. (1972), "Farm Size And Productivity: Implications of Choice Under Uncertainty," Sankhya: The
+Indian Journal of Statistics, Series B, 34, 4, pp. 409-420.
+Stiglitz, Joseph E. (1986), "The New Development Economics," World Development, 14, 2, pp. 257-265.
+Timmer, C. Peter (1981), "Is There ’Curvature’ In The Slutsky Matrix?" Review of Economics and Statistics, 63,
+3, pp. 395-402.
+------ and Harold Alderman (1979), "Estimating Consumption Parameters for Food Policy Analysis," American
+Journal of Agricultural Economics, 61, pp. 982-987.
+Turnovsky, Stephen J., Haim Shalit and Andrew Schmitz (1980), "Consumer’s Surplus, Price Instability, and
+Consumer Welfare," Econometrica, 48, 1, pp. 135-152.
+Waterfield, Charles (1985), "Disaggregating Food Consumption Parameters," Food Policy, 10, 4, pp. 337-351.
+Waugh, F.V. (1944), "Does The Consumer Benefit From Price Instability?" Quarterly Journal of Economics, 58, pp.
+602-614.
+Weber, Michael T., John M. Staatz, John S. Holtzman, Eric W. Crawford, and Richard H. Bernsten (1988),
+"Informing Food Security Decisions in Africa: Empirical Analysis and Policy Dialogue," American Journal of
+Agricultural Economics, 70, pp. 1044-1052.
+
+

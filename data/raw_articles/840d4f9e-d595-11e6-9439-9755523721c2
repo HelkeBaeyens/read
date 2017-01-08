@@ -1,0 +1,854 @@
+AGRICULTURAL
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 10 (1994) 81-88
+
+A gravity model analysis of meat trade policies
+Won W. Koo *·a, David Karemera
+a
+
+b'
+
+Richard Taylor a
+
+Department of Agricultural Economics, North Dakota State University, Fargo, ND 58105, USA
+b Department of Economics, Wayne State University, Detroit, MI 48202, USA
+(Accepted 11 May 1993)
+
+Abstract
+The conventional gravity model is revised for a single commodity and applied to meat markets to determine
+factors affecting trade flows of meat. This study demonstrates that the gravity model for a single agricultural
+commodity can be parameterized more effectively by using time series and cross-section data rather than cross-section data alone. This study reveals that trade policies and subsidies used by exporting and importing countries,
+livestock production capacity in countries, and distances play an important role in determining trade flows of meat.
+Long-term agreements achieve the highest performance toward enhancing international meat trade. Import quotas
+and the hoof-and-mouth disease on beef greatly impair meat trade.
+
+1. Introduction
+
+The world meat market is a good example of
+market intervention. Exporting countries compete with one another to increase and/ or maintain their market shares. Most exporting countries use Long-term trade agreements with the
+importing countries and direct subsidies to domestic producers to promote exports. Most importing countries use various types of trade restrictions, ranging from qualitative restrictions
+(e.g., a complete ban of meat imports due to
+health care concerns related to hoof-and-mouth
+disease) to quantitative restrictions by imposing
+quotas to protect domestic producers. In some
+importing countries, direct subsidies to con-
+
+* Corresponding author.
+This research was conducted under a special research grant,
+No. 90-34192-56675 (ND 5004).
+
+sumers are used to promote domestic production
+and to reduce foreign imports.
+Trade flows of commodities are generally determined on the basis of the principle of comparative advantage in a free trade market system.
+Since trade flows of meat are distorted by government interventions, determinants of the trade
+flows and their economic effects are not clearly
+known. The objectives of this study, therefore,
+are to identify and evaluate factors affecting volume and direction of meat trade flows. Special
+attention is given to analyze specific effects of
+export promotion programs and import restriction policies on the world meat trade.
+Most research work in this area used spatial
+equilibrium models based on mathematical programming algorithms (Takayama and Judge, 1964;
+Bawden, 1966; Mackinnon, 1976; Koo, 1984). In
+these studies, trade flows are explained by the
+prices of commodities in importing and exporting
+countries and transportation costs between coun-
+
+0169-5150/94/$07.00 © 1994 Elsevier Science B.V. All rights reserved
+SSDI 0169-5150(93)E0028-L
+
+82
+
+W W Koo eta!. I Agricultural Economics 10 (1994) 81-88
+
+tries. However, Thompson (1981) indicated that
+spatial equilibrium models performed poorly in
+explaining trade flows of commodities that are
+generally distorted by exporting countries' export
+promotion programs and importing countries'
+protection policies. A commodity-specific gravity
+model, therefore, is used to evaluate bilateral
+trade flows of meat and account for the policy
+factors unique to the pairs of trade partners.
+Gravity models have been used to describe
+bilateral trade flows between country pairs. Formal theoretical foundations of the models were
+provided in Anderson (1979) and Bergstrand
+(1985, 1989). Typical gravity models contain the
+following variable components: (1) economic factors affecting trade flows in the origin countries,
+(2) economic factors affecting trade flows in the
+destination countries, and (3) natural or artificial
+factors enhancing or restricting trade flows. Natural or artificial factors would include trade policies. In this study, the typical gravity model for
+aggregate goods is respecified to analyze trade
+flows of meat.
+Traditional models commonly use cross-section data relevant to a particular year. Our study
+departs from the tradition by using pooled time
+series and cross-section data. The formulation
+greatly improves the efficiency of the results and
+permits the use of the information available over
+several years for each pair of trading countries.
+Further, we demonstrate how the Hausman specification test and the Breusch and Pagan test are
+used to choose between competing models. The
+study shows strong evidence that single commodity trade models should include trade policies.
+The development of the commodity-specific
+gravity model for the world meat trade is presented in the next section. Econometric issues
+and specification tests are discussed in Section 2.
+Then estimated models, using the econometric
+techniques of Hsiao (1986), and the analysis of
+our findings are presented in Section 3. The last
+section includes concluding remarks.
+2. Commodity-specific gravity model
+
+The derivation of the single commodity gravity
+model follows the procedure indicated in trade
+
+literature. According to Linneman (1966) and
+Bergstrand (1985, 1989), a gravity model is a
+reduced form equation from a partial equilibrium
+of demand and supply systems. The demand
+equation for the specific commodity is derived
+from maximizing the constant elasticity of the
+substitution (CES) utility function subject to income constraint. The supply equation is derived
+from the firm's profit maximization procedure in
+exporting countries with resource inputs allocated
+according to the constant elasticity of transformation (CET) during the production process.
+The commodity-specific gravity model, under
+market equilibrium conditions of demand and
+supply systems, can be derived as follows:
+
+( 1)
+i=1,2, ... ,N and j=1,2, ... ,M
+where X;j is the volume of commodity traded
+from country i to country j; Y; Oj) represents
+income of country i (j); cij is transport cost
+(c.i.f.jf.o.b.) between countries i and j; Tij represents any other factors either aiding or resisting
+trade between countries i and j; P; (lj) is the
+price of the commodity at country i's export port
+(country j's import port); Eij is the spot exchange
+rate - the value of country j's currency in terms
+of country i's currency; and e;j is the random
+error term. Eq. (1) is derived theoretically in
+Bergstrand (1985).
+An exporting country's income can be interpreted as the country's production capacity, while
+an importing country's income is the country's
+purchasing power. It is expected that trade flows
+are positively related to the exporting and importing countries' income. Transportation costs and
+tariffs, which are trade barriers, should be negatively related to volume of trade flows. The prices
+of a commodity in exporting and importing countries are important in determining trade flows. A
+commodity moves from a country in which the
+prices of the commodity are low to countries in
+which the prices are high. Trade flows are hypothesized to be positively related to changes in
+export prices and negatively related to changes in
+import prices. Exchange rates are one of the most
+important factors affecting trade flows. Appreciation of a country's currency against other curren-
+
+W W Koo et al. 1Agricultural Economics 10 (1994) 81-88
+
+cies reduces the country's exports and increases
+imports, and depreciation stimulates the country's
+exports.
+Unlike traditional gravity models of aggregate
+good trade in Bergstrand (1985, 1989), Anderson
+(1979) and Linneman (1966), the commodityspecific gravity model can incorporate the unique
+characteristics and policies associated with trade
+flows of the specific commodity in exporting and
+importing countries. In the model, an exporting
+country's income is replaced with the country's
+farm income (GoP for the farm sector) to represent the country's overall production capacity of
+agricultural commodities. In addition, animal
+numbers in exporting and importing countries are
+included in the model to measure livestock production capacity. 1 The price variables are replaced with export and import unit value indices.
+In meat trade, the t;j variable in Eq. (1) is replaced with export promotion and import restricting variables. Exporting countries use various export promotion programs, including Long-term
+agreements between pairs of trading countries
+and subsidies to producers. Meat from one country is differentiated in terms of quality from other
+countries. Dummy variables representing specific
+countries are included in the model.
+On the import side, the hoof-and-mouth disease is a major factor resisting meat trade. Several countries maintain a complete ban on beef
+imports from countries infected with hoof-andmouth disease. A dummy is introduced to account for meat trade flows from countries infected with the disease. 2 Quota is another
+trade-resistant factor and a major protection instrument imposed by importing countries to protect their domestic industries.
+The variables aiding trade are expected to be
+positively related to trade flows while those resisting trade are hypothesized to be negatively related to the flows.
+A dummy variable representing trade flows of
+meat among EC member countries is also included in the model. It is hypothesized that European economic integration in EC enhanced meat
+trade among members. The empirical model also
+includes an adjacency dummy variable representing border countries under an assumption that
+
+83
+
+more trade occurs between countries with common border. The empirical gravity model for meat
+trade is therefore specified as follows:
+eO' 12L D ij eO' 1JO D ij e a 1411 D ij e 0' JSE D ij
+
+i=1,2, ... ,N and
+
+(2)
+
+j=l,2, ... ,M
+
+where A, (A) represents animal number in
+country i (j); Dij is distance between countries i
+and j; S; (S) represents producer (consumer)
+subsidies in country i (j); ED;j is a dummy variable identifying trade flows among EC member
+countries ( = 1.0 if both countries i and j belong
+to EC, and zero otherwise); LDij is a dummy
+variable representing Long-term agreements; OD;j
+is a dummy variable identifying countries imposing import quotas; HD;j is a dummy variable used
+to identify and separate origin countries infected
+with hoof-and-mouth diseases from those free
+from the disease; and U,j is the random error
+term. Producer subsidy equivalent (S;) is defined
+as an aggregate subsidy measure given to producers; similarly, consumer subsidy equivalent (S.)
+is
+1
+defined as an aggregate subsidy measure given to
+consumers.
+Finally, some remarks are in order regarding
+the appropriateness and use of qualitative variables to represent trade policies. Trade policies
+were not in force for every year and country
+during the period of the study. Some program
+values were zero at times. Thus, policy variables
+were coded into qualitative variables to limit those
+variations. We recognize that qualitative variables
+identify average effects, but they provided more
+coherent results.
+
+3. Econometric procedures and source of data
+
+As indicated earlier, classical gravity models
+used cross-section data to estimate trade relationships in a particular year. However, in the real
+world, cross-section data observed over several
+years may provide more useful information in
+determining trade flows than cross-section data
+alone. This is especially true for agricultural and
+livestock commodities for which trade flows are
+
+W W Koo et al. 1Agricultural Economics 10 (1994) 81-88
+
+84
+
+Table 1
+List of countries included in the meat trade analysis
+Exporting
+countries
+
+Importing
+countries
+
+Exporting/Importing
+countries
+
+Argentina
+Australia
+Brazil
+Denmark
+Ireland
+New Zealand
+Uruguay
+Yugoslavia
+
+Egypt
+Greece
+Japan
+Singapore
+Switzerland
+Saudi Arabia
+
+Belgium
+Canada
+Germany
+France
+Italy
+Netherlands
+United Kingdom
+United States
+
+highly volatile due to weather conditions in importing and/ or exporting countries. The estimated parameters of the model with cross-section
+data for a particular year may not provide accurate information in evaluating trade flows of a
+commodity. Hence, in this study we propose to
+parameterize the econometric model in Eq. (2)
+with both cross-section and time series data.
+Countries included in the analysis are shown
+in Table 1. Time period considered is from 1983
+to 1989. Countries engaged in sporadic trade
+were excluded in the analysis to retain data con-
+
+Table 2
+Covariance model estimates of the meat trade models under alternative assumptions on specification of trade effects (dependent
+variable: volume of meat traded)
+Variable I Coefficient
+
+A are zero
+
+i's farm income (Yj)
+j's income (y)
+i's export unit price (P;)
+j's import unit price (P)
+Exchange rate (Eii)
+Distances (Dii)
+i' s livestock production (A)
+j's livestock production (A j)
+i's subsidies to producer (S;)
+j's subsidies to consumer CS)
+Long term agreement (LD;)
+Quota (OD;)
+H-M disease (Hoii)
+Dummy variable for EC (Eo;)
+Dummy variable for adjacency
+Argentina
+Australia
+Brazil
+Canada
+EEC
+Uruguay
+USA
+Yugoslavia
+Rz
+DF
+F-test of zero
+Policy variables
+Hausman test
+Breusch-Pagan test
+White test
+
+0.14
+0.22
+1.22
+-0.35
+-0.02
+-0.22
+0.59
+-0.11
+0.08
+-0.25
+1.42
+-1.86
+3.65
+2.30
+1.16
+-0.61
+-2.22
+-0.36
+-2.48
+-3.22
+-0.54
+-1.83
+-2.24
+
+~j and A,
+different
+from zero
+
+Uii are zero
+for all i, j
+
+for all t
+(4.98)
+(0.53)
+(4.98)
+( -1.56)
+( -0.87)
+(- 2.95)
+(0.62)
+(- 0.31)
+(0.47)
+(-3.18)
+(5.74)
+(-8.69)
+(14.09)
+(8.73)
+(5.36)
+(-2.13)
+(-9.39)
+( -1.24)
+(-9.06)
+(-14.77)
+(- 6.47)
+(-7.77)
+(-6.47)
+
+***
+* **
+* **
+
+***
+***
+***
+***
+***
+* **
+***
+***
+***
+***
+***
+***
+***
+
+0.02
+0.12
+0.78
+0.16
+0.04
+-0.34
+0.09
+-0.33
+0.10
+-0.28
+1.41
+-1.53
+3.92
+2.18
+1.31
+-0.311
+-0.84
+-0.10
+-1.80
+-2.98
+-2.05
+-0.60
+-4.08
+
+(0.54)
+(3.57)
+(3.35)
+(0.72)
+(1.42)
+( -4.67)
+(0.67)
+(- 3.81)
+(0.67)
+( -6.85)
+(5.08)
+(- 6.99)
+(14.98)
+(8.49)
+(6.02)
+(- 0.38)
+(- 2.54)
+(-0.11)
+(-5.33)
+(-9.93)
+(- 3.06)
+( -1.88)
+( -13.73)
+
+***
+***
+**
+* **
+***
+* **
+* **
+* **
+***
+***
+* **
+***
+***
+***
+* **
+
+0.01
+0.10
+0.87
+0.13
+0.03
+-0.28
+0.36
+-0.32
+-0.01
+-0.27
+1.44
+-1.41
+3.87
+2.37
+1.40
+0.23
+-0.03
+0.82
+-0.72
+-1.87
+-2.97
+-0.46
+-2.77
+
+0.61
+1060
+
+0.68
+1060
+
+0.59
+1060
+
+26.2
+
+24.0
+
+18.9
+
+695.8
+542.2
+38.9
+
+540.6
+346.0
+39.2
+
+282.4
+267.6
+23.4
+
+(0.33)
+(2.31)
+(3.56)
+(0.57)
+(0.76)
+( -3.80)
+(2.86)
+(- 3.39)
+( -0.02)
+(- 6.23)
+(5.15)
+(- 6.53)
+(14.76)
+(9.11)
+(6.92)
+(0.28)
+(- 0.12)
+(0.94)
+(-2.59)
+(-5.87)
+(-2.51)
+(-1.91)
+(- 8.66)
+
+***
+***
+**
+* **
+***
+***
+***
+***
+***
+***
+***
+***
+
+***
+***
+***
+***
+* **
+
+* * *, significant in two-tail t-test 1% level; * *, significant in two-tail t-test at 5% level. Numbers in parentheses are t-values of the
+corresponding variables.
+
+W W Koo et al. 1Agricultural Economics 10 (1994) 81-88
+
+sistent over time and cross-section units (the pairs
+of trading countries). Financial data, such as gross
+domestic products, and exchange rates were taken
+from the International Monetary Fund's (IMF)
+International Financial Statistics and world tables
+published by the World Bank. Data on quantity
+and dollar volume of meat exports and imports
+were taken from the United Nations International Trade Statistic Yearbook. Animal numbers
+were obtained from FAO Production Yearbook.
+Export price data were computed by dividing the
+total value of exports by the quantities exported.
+Import prices were computed by dividing the
+total value of import by the quantity imported.
+Eq. (2) includes trade policies used by exporting and importing countries. The appropriateness
+of policy variable augmentation should be subject
+to specification tests. An F-test statistic developed by Godfrey (1986) shows that in modelling
+specific commodity trade flows, trade policies affecting the commodity flows should be included
+in the models. Data on export promotion programs and trade restriction policies were obtained from Hillman (1978), Longworth (1984),
+Ojalla (1985), Patterson (1983), Simpson (1982)
+and USDA (1988, 1989). Subsidies given to producers and consumers, expressed in terms of producer subsidy equivalent (PSE) and consumer
+subsidy equivalent (CSE), were obtained from the
+U.S. Department of Agriculture.
+Ocean freight rates are not available for all
+countries included in the analysis. An alternative
+is to estimate an ocean freight rate function with
+available sample rates for each year and to use
+the function to estimate missing rates. This approach, however, did not provide particularly superior results aside from the task of dealing with
+errors-in-variable modeling. We used distances as
+a proxy 3 for transport cost. The distances were
+calculated by using the oceanographic maps published by the U.S. Navy.
+
+85
+
+where xijt is trade observation from i to j at
+time t (t = 1, 2 ... T); ZiJt is a corresponding
+trade determinant vector; ~i is the trade effect
+associated with the country pair i and j; and Ar is
+the time effect specific to a particular year. Eq.
+(3) has the main advantage of allowing for different individual and time effects for each country
+pair. Following the theory for analyzing pooled
+data, the null hypothesis that ~i = 0 and A1 = 0
+was rejected by the Breusch and Pagan test statistic 4 reported in Table 2. Since the country pair
+effects (~) and the time effects (Ar) are significantly different from zero, whether the effects
+are fixed or random should be determined. The
+Hausman specification test 5 (Table 2) suggests
+that the fixed effect model commonly known as
+the covariance model should be used in this analysis (Hausman, 1979, p. 1269). The White test for
+heteroscedasticity (White, 1980) indicates that error terms do not have serious heteroscedasticity
+within cross-section units.
+Additional variables added to the empirical
+model in Table 2 are dummy variables for adjacent countries and dummy variables for exporting
+countries (Argentina, Australia, Austria, Brazil,
+Canada, EC, Uruguay, the United States, and
+Yugoslavia). 6
+All models in Table 2 are estimated by using
+Least Squares techniques on variables expressed
+in deviation forms. As explained in Hsiao (1986,
+p. 31), no dummy variables for individual country
+pairs and/ or time effects are needed.
+Model 1 is based on the assumption that only
+the time effects (Ar) are equal to zero. Model 2 is
+based on the assumption that only the cross-section effects (p.i) are zero. Model 3 is based on an
+assumption that all trade effects vary over both
+cross-section and time series units through the
+intercept term. Model 3 is the most efficient since
+the model does not include any constraints and
+is, therefore, used in the analysis. Most estimated
+parameters have the expected signs and are statistically significant.
+
+4. Results
+
+Eq. (2) in time series and cross-section form is
+as follows:
+
+(3)
+
+Effects of income, price, and exchange rate. Animal numbers in exporting and importing countries are used to represent a measure of livestock
+production capacity in these countries. In addition, gross domestic product for the farm sector is
+
+86
+
+W W Koo eta!. 1Agricultural Economics 10 (1994) 81-88
+
+used for overall production capacity in the agricultural sector while disposable income is used to
+represent consumers' purchasing power of the
+importing country. The estimated coefficients on
+exporters' farm income and livestock production
+are positive as hypothesized but do not differ
+significantly at the 5% level. This is mainly because most exporting countries have excess production capacity of red meat. The estimated coefficients on importers' income and livestock production are positive and negative, respectively, as
+hypothesized and differ significantly from zero at
+the 5% level. This indicates that direction of
+meat trade flow is influenced largely by importers
+income and livestock production.
+The estimated import and export price elasticities are negative and positive, respectively, as
+hypothesized. The corresponding t-values indicate that the coefficient on the export prices
+differs significantly from zero at the 1% level and
+import price does not. Furthermore, the magnitude of the elasticities are less than 1.0, in the
+absolute value, implying that quantities of meat
+traded are not sensitive to meat prices.
+Exchange rates used in this analysis are defined as changes in the prices of importing countries' currencies in terms of exporting countries'
+currencies. The coefficient for the exchange rate
+variable is positive as hypothesized. An appreciation of an importing country's currency (a depreciation of an exporting country's currency) makes
+the exporting country's meat cheaper in the importing country's market and increases trade
+flows. However, the causal relation is not statistically significant at the 1% level.
+
+Effects of trade promotion programs and restriction policies. The model includes trade promotion
+and restricting policies. Specification tests indicate that export promotion programs and traderestricting policies should be included in the empirical model of meat trade. The export promotion program (LTA) has an expected positive
+sign. The corresponding t-statistics indicate that
+the variable is significantly related to the quantities of meat traded at the 1% level. Exporters'
+subsidies to meat producers, however, do not
+differ significantly from zero at the 5% level.
+
+The hoof-and-mouth dummy variable is significantly related to meat trade. The presence of the
+disease in some countries prevents trade with a
+large portion of the world. The absence of the
+disease is an important determinant to trade. The
+estimated coefficient indicates that freedom from
+hoof-and-mouth disease is an important enhancement to trade.
+Some importing countries have used quotas to
+restrict imports to support their domestic livestock production. The variable has a negative
+sign, and its coefficient differs significantly from
+zero at the 1% level. This implies that quotas
+used by the importing countries reduce trade
+volume of meat. The consumer subsidy equivalent is an aggregate measure of subsidies given to
+consumers in importing countries. The variable
+representing the consumer subsidy is negative as
+hypothesized and differs significantly from zero
+at the 1% level, implying that the positive subsidies to consumers lower trade flows of meat.
+
+Effects of differentiated meat based on countries.
+The model includes dummy variables representing major exporting countries that produce meat
+differentiated in quality from one another. For
+example, Australia produces low quality hamburger meat while the United States produces
+high quality meat. Dummy variables identifying
+specific countries of origin are significant at the
+5% level. This supports the hypothesis that meat
+products are differentiated by country of origin.
+Effects of EC and transportation costs. Typical
+gravity models include distance and dummy for
+adjacency. A longer distance between a pair of
+trading partners impairs trade. The estimated
+coefficient on the dummy variable representing
+the countries with a common border has a positive. sign and is statistically significant at the 1%
+level. This implies that trade volume increases
+among countries with a common border. The
+distance variable is negative and significant at the
+5% level. This is especially true for meat for
+which transportation costs are higher than for
+other agricultural products.
+The European integration into a common market enhanced meat trade among the member
+
+W W Koo eta/. I Agricultural Economics 10 (1994) 81-88
+
+countries. This supports the theory of welfare
+economics, which proves that economic integration increases welfare of the member countries
+through increases in trade volume among the
+countries. The coefficient for the EC dummy
+variable is positive as expected and is highly correlated to the quantities of meat traded according
+to the t-statistic. This implies that the EC significantly enhances meat trade among member countries.
+5. Concluding remarks
+
+A reduced form gravity model derived from a
+partial equilibrium model of world trade is revised to evaluate trade flows of a single commodity and applied to the world meat market to
+evaluate and analyze factors affecting meat trade
+flows. The model for meat trade is estimated with
+time series and cross section data. Special attention is given to evaluate impacts of meat export
+promotion and import restriction policies on trade
+flows.
+This study shows that the modified gravity
+model is applicable to single commodity trade
+flows. In the case of meat, the model provides
+statistical descriptions of meat flows and still retains the classical features of the conventional
+gravity models.
+On the export side, price of beef, livestock
+production capacity, and differences in meat
+quality among countries are major factors affecting trade flows of red meat. Exporting countries'
+subsidies to producers represented by producer
+subsidy equivalent do not influence trade flows.
+The Long-term agreement significantly enhances
+meat trade between the participating countries.
+On the import side, importing countries' gross
+domestic products, livestock production capacities, and trade-restricting policies such as quotas
+and other border protection, significantly influence trade flows of meat. In general, importing
+countries' policies influence trade volume and
+direction more than exporting countries' policies.
+Common border and economic union, such as
+EC, stimulate trade flows, while distances between exporting and importing countries negatively influence trade flows. Hoof-and-mouth dis-
+
+87
+
+ease is another factor affecting trade flows of
+meat negatively.
+
+6. Endnotes
+
+A country's production capacity of livestock is
+related to the country's overall production capacity of agricultural commodities, mainly because
+livestock production requires an abundant supply
+of other agricultural commodities such as feed
+grain, pasture, and soybean meal.
+2 The hoof-and-mouth disease is applicable to
+only beef trade. Since the model evaluates trade
+flows of meat, including beef and pork, beef trade
+from countries infected with the disease are separated from those that are free of the disease by
+using a dummy variable.
+3 Linneman (1966), Bergstrand (1985, 1989) and
+Summary (1989) used distance as a proxy of
+transportation costs.
+4 Breusch and Pagan (1979) show that:
+1
+
+g=
+
+2(;~ 1)[.E .E (Ee&t) -1]
+z=l J=l
+
+2
+
+t=l
+
+has a x 2 distribution with appropriate degree of
+freedom, where N = N 1N 2 and
+are OLS
+residuals (see Judge et al., 1985).
+5 Hausman (1978) provides a specification test of
+a model based on the behavior of Uii as follows:
+m = q'm(q) -lq_ has a x 2 distribution with K de{iRE is a K X 1
+grees of freedom, where q
+column vector of difference between fixed effect
+({iFE) and random effect ({iRE) parameter estimates, respectively, and M(q) = V({iFE) V({iRE) is a K X K covariance matrix of difference between variances of
+and {iRE·
+6 Dummy variables representing exporting countries are introduced to account for differences in
+meat quality among exporting countries under an
+assumption that meat produced in one country is
+different from that produced in other countries.
+
+eiit
+
+=riFE-
+
+riFE
+
+7. References
+Anderson, J. (1979) A theoretical foundation of the gravity
+equation. Am. Econ. Rev., 69: 106-116.
+
+88
+
+W W Koo et al. j Agricultural Economics 10 (1994) 81-88
+
+Bawden, D.L. (1966) A spatial equilibrium model of international trade. J. Farm Econ., 4: 862-874.
+Bergstrand, J. (1985) The gravity equation in international
+trade: some microeconomics foundations and empirical
+evidence. Rev. Econ. Stat., 67: 474-481.
+Bergstrand, J. (1989) The generalized gravity equation,
+monopolistic competition, and factor proportion theory in
+international trade. Rev. Econ. Stat., 71: 143-151.
+Breusch, T.S. and Pagan. A.R. (1979) A simple test for
+heteroscedasticity and random coefficient variation.
+Econometrica, 47: 1287-1294.
+Godfrey, J. (1986) Specification Tests in Econometrics.
+North-Holland, Amsterdam.
+Hausman, J.A. (1978) Specification tests in econometrics.
+Econometrica, 46: 1251-1272.
+Hillman, J.S. (1986) Nontariff agricultural trade barriers. University of Nebraska Press, Lincoln.
+Hsiao, C. (1986) Analysis of Panel Data. Cambridge University Press, New York.
+IMF, various volumes. International Financial Statistics. International Monetary Fund, Washington, DC.
+Judge, G.G., Griffiths, W.E., Hill, R.C., Lutkepohl, H. and
+Lee, T. (1985) The Theory and Practice of Econometrics
+(2nd Edition), Wiley, New York.
+Koo, W.W. (1984) Tariffs and transportation costs in the U.S.
+wheat exports. N. Cent. J. Agric. Econ., 6: 99-107.
+Linneman, H. (1966) An Econometric Study of International
+Trade Flow. North-Holland, Amsterdam.
+Longworth, J.W. (1984) Beef in Japan. University of Queensland Press, St. Lucia, New Zealand.
+
+MacKinnon, J.D. (1976) An algorithm for the solution of
+spatial equilibrium models. J. Region. Sci., 16: 293-307.
+Ojalla, E.M. (1985) International Relationships in the World
+Beef Trade. Macmillan, Hampshire, England.
+Patterson, G. (1983) The European community as a threat to
+the system. In: W.R. Cline (Editor), Trade Policy in the
+1980s. Institute for International Economics, Washington,
+DC. Distributed by MIT Press, Cambridge, MA.
+Simpson, J.R. (1982) The World's Beef Business. Iowa State
+University Press, Ames.
+Summary, R.M. (1989) A political economic model of U.S.
+bilateral trade. Rev. Econ. Stat., 71: 179-182.
+Takayama, T. and Judge, G. (1964) Spatial equilibrium and
+quadratic programming. J. Farm Econ., 46: 67-93.
+Thompson, R.L. (1981) A survey of recent developments in
+international agricultural trade models. Economic Research Service Bibliography and Literature of Agriculture
+Report 21, U.S. Department of Agriculture, Washington,
+DC.
+UN, various issues. International Trade Statistics Yearbook.
+United Nations, New York.
+USDA, various issues. U.S. Exports and Prospects: Dairy,
+Livestocks, and Poultry. U.S. Department of Agriculture,
+Washington, DC.
+USDA (1988) Policies and Market Opportunities for U.S.
+Farm Exports. U.S. Department of Agriculture, Washington, DC.
+White, H. (1980) A heteroscedasticity-consistent covariance
+matrix and a direct test for heteroscedasticity. Econometrica, 48: 817-838.
+
+

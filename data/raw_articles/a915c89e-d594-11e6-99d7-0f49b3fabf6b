@@ -1,0 +1,4593 @@
+Centre for Efficiency and Productivity Analysis
+
+Working Paper Series
+No. 02/2003
+
+Title
+Total Factor Productivity Growth in Agriculture:
+A Malmquist Index Analysis of 93 Countries,
+1980-2000
+
+Authors
+Tim J. Coelli
+D.S. Prasada Rao
+
+Date: September 2003
+
+School of Economics
+University of Queensland
+St. Lucia, Qld. 4072
+Australia
+
+Total Factor Productivity Growth in Agriculture:
+A Malmquist Index Analysis of 93 Countries, 1980-2000*
+
+Tim J. Coelli and D.S. Prasada Rao
+Centre for Efficiency and Productivity Analysis
+School of Economics
+University of Queensland
+Brisbane, QLD, 4072 Australia.
+email: t.coelli@economics.uq.edu.au
+
+September/2003
+
+ABSTRACT
+In this paper we examine levels and trends in agricultural output and productivity in 93
+developed and developing countries that account for a major portion of the world population
+and agricultural output. We make use of data drawn from the Food and Agriculture
+Organization of the United Nations and our study covers the period 1980-2000. Due to the
+non-availability of reliable input price data, the study uses data envelopment analysis (DEA)
+to derive Malmquist productivity indexes. The study examines trends in agricultural
+productivity over the period. Issues of catch-up and convergence, or in some cases possible
+divergence, in productivity in agriculture are examined within a global framework. The paper
+also derives the shadow prices and value shares that are implicit in the DEA-based
+Malmquist productivity indices, and examines the plausibility of their levels and trends over
+the study period.
+
+*
+
+This paper has been written for presentation as a Plenary Paper at the 2003 International Association of
+Agricultural Economics (IAAE) Conference in Durban August 16-22, 2003.
+
+1
+
+1.
+
+Introduction
+
+Productivity growth in agriculture has been the subject matter for intense research over the
+last five decades. Development economists and agricultural economists have examined the
+sources of productivity growth over time and of productivity differences among countries and
+regions over this period. Productivity growth in the agricultural sector is considered essential
+if agricultural sector output is to grow at a sufficiently rapid rate to meet the demands for
+food and raw materials arising out of steady population growth. During the 1970’s and 80’s a
+number of major analyses of cross-country differences in agricultural productivity were
+conducted, including Hayami and Ruttan (1970, 1971), Kawagoe and Hayami (1983, 1985),
+Kawagoe, Hayami and Ruttan (1985), Capalabo and Antle (1988), and Lau and Yotopoulos
+(1989).
+The majority of these studies used cross-sectional data on approximately 40 countries to
+estimate a Cobb-Douglas production technology using regression methods. The focus was
+generally on the estimation of the production elasticities and the investigation of the
+contributions of farm scale, eduction and research in explaining cross-country labour
+productivity differentials.1
+In the past decade, the number of papers investigating cross-country differences in
+agricultural productivity levels and growth rates has expanded significantly. This is most
+likely driven by three factors. First, the availability of some new panel data sets, such as that
+produced by the Food and Agriculture Organisation of the United Nations (FAO). Second,
+the development of new empirical techniques to analyse this type of data, such as the data
+envelopment analysis (DEA) and stochastic frontier analysis (SFA) techniques, described in
+Coelli, Rao and Battese (1998). Thirdly, a desire to assess the degree to which the green
+revolution, and other programs, have improved agricultural productivity in developing
+countries.
+In Table 1 we list 17 studies that have been conducted in the last decade. Certain comments
+can be made about these papers. First, the majority of these papers use FAO panel data,
+spanning the 1960’s, 70’s and 80’s. Of these 17 papers, 11 utilise DEA, five estimate CobbDouglas production functions, one estimates a translog production function, and one uses the
+Fisher index.2 In terms of country coverage, five papers focus on less developed countries
+(LDC’s), two analyse small groups of developed countries (DC’s), three papers look at Asia
+or Africa or the two combined, while the remaining seven studies study a mix of countries.
+Four of these latter seven papers cover a large number of countries, ranging from 70
+countries in Arnade (1998) to 115 countries in Wiebe et al (2000).
+One of the recurring themes in the reported results in many of these papers is that less
+developed countries exhibit technological regression while the developed countries show
+technological progress. For example, Fulginiti and Perrin (1997) studied 18 LDC’s and found
+that 14 of these countries showed a decline in agricultural productivity over the period 19611985. Such results indicate a divergence in agricultural productivity. However, these results
+appear to be in sharp contrast to the trends in manufacturing sector and gross domestic
+product level productivity, which show signs of convergence (Barro and Sala-i-Martin, 1990
+and Maddison, 1995). Furthermore, they do not appear to be in accordance with crop-level
+1
+
+Lau and Yotopolous (1989) also estimated a translog functional form so as to illustrate the restrictions inherent
+in the Cobb-Douglas production technology.
+2
+Two of these papers use two techniques.
+
+2
+
+evidence coming out of many developing countries in the past few decades, especially in
+South-East Asia.
+The principle aims is to provide up to date information on agricultural total factor
+productivity (TFP) growth over the past two decades (1980-2000) for 93 of the largest
+agricultural producers in the world. It should be noted that the study by Wiebe et al (2000)
+does analyse TFP growth for 110 nations over the 1961-1997 period, however it does use the
+Cobb-Douglas production function, which introduces a number of restrictive assumptions.
+Such as, constant production elasticities (and hence input shares) across all countries, Hicksneutral technical change, plus it requires that crop and livestock outputs be aggregated into a
+single output measure. The analysis in the present study uses the DEA technique to calculate
+Malmquist TFP index numbers. This method does not make any of the above assumptions.
+However, it is susceptible to the effects of data noise, and can suffer from the problem of
+“unusual” shadow prices, when degrees of freedom are limited.
+This issue of shadow prices is important, and is one that is not well understood among
+authors who apply these Malmquist DEA methods. A major advantage cited in support of
+the use of DEA in measuring productivity growth, is that these methods do not require any
+price data. This is a distinct advantage, because in general, agricultural input price data are
+seldom available and such prices could be distorted due to government intervention in most
+developing countries. However, an important point needs to be added here. Even though the
+DEA-based productivity measures may not explicitly use market price information, they do
+implicitly use shadow price information, derived from the shape of the estimated production
+surface. This issue is described in some detail in Coelli and Prasada Rao (2001), who show
+that one can use these shadow prices to calculate shadow shares information, to help shed
+light on the factors influencing these productivity growth measures. Hence, a main aim of
+this paper is to demonstrate the feasibility of explicitly identifying the implicit shadow shares
+and to study regional variation and trends in these shares over time.
+In our view, this shadow share information can provide valuable insights into why various
+authors have obtained widely differing TFP growth measures for some countries, when
+applying these Malmquist DEA methods. This has been particularly evident when the
+applications have involved panel data sets containing small groups of countries, and the
+countries included in each data set differ from study to study.
+The remainder of this paper is organised into sections. In Section 2 we describe the DEA and
+Malmquist TFP index methods that are utilised in the study. In Section 3 we describe the data
+that is used, while in Section 4 we present and discuss our results. Some concluding
+comments are made in the final section.
+
+2.
+
+Methodology
+
+In this paper we measure total factor productivity (TFP) using the Malmquist index methods
+described in Fare et al (1994) and Coelli, Rao and Battese (1998, Ch. 10). This approach
+uses data envelopment analysis (DEA) methods to construct a piece-wise linear production
+frontier for each year in the sample. We firstly provide a brief description of DEA methods
+before we go on to describe the Malmquist TFP calculations.
+Data Envelopment Analysis (DEA)
+DEA is a linear-programming methodology, which uses data on the input and output
+quantities of a group of countries to construct a piece-wise linear surface over the data points.
+This frontier surface is constructed by the solution of a sequence of linear programming
+3
+
+problems – one for each country in the sample. The degree of technical inefficiency of each
+country (the distance between the observed data point and the frontier) is produced as a byproduct of the frontier construction method.
+DEA can be either input-orientated or output-orientated. In the input-orientated case, the
+DEA method defines the frontier by seeking the maximum possible proportional reduction in
+input usage, with output levels held constant, for each country. While, in the outputorientated case, the DEA method seeks the maximum proportional increase in output
+production, with input levels held fixed. The two measures provide the same technical
+efficiency scores when a constant returns to scale (CRS) technology applies, but are unequal
+when variable returns to scale (VRS) is assumed. In this paper we assume a CRS technology
+(the reasons for this are outlined in the Malmquist discussion below). Hence the choice of
+orientation is not a big issue in our case. However, we have selected an output orientation
+because we believe it would be fair to assume that, in agriculture, one usually attempts to
+maximise output from a given set of inputs, rather than the converse.3
+If one has data for N countries in a particular time period, the linear programming (LP)
+problem that is solved for the i-th country in an output-orientated DEA model is as follows:
+maxφ,λ φ,
+st
+
+-φyi + Yλ ≥ 0,
+xi - Xλ ≥ 0,
+λ ≥ 0, (1)
+
+where
+yi is a M×1 vector of output quantities for the i-th country;
+xi is a K×1 vector of input quantities for the i-th country;
+Y is a N×M matrix of output quantities for all N countries;
+X is a N×K matrix of input quantities for all N countries;
+λ is a N×1 vector of weights; and
+φ is a scalar.
+Observe that φ will take a value greater than or equal to one, and that φ-1 is the proportional
+increase in outputs that could be achieved by the i-th country, with input quantities held
+constant. Note also that 1/φ defines a technical efficiency (TE) score which varies between
+zero and one (and that this is the output-orientated TE score reported in our results).
+The above LP is solved N times – once for each country in the sample. Each LP produces a φ
+and a λ vector. The φ-parameter provides information on the technical efficiency score for
+the i-th country and the λ-vector provides information on the peers of the (inefficient) i-th
+country. The peers of the i-th country are those efficient countries that define the facet of the
+frontier against which the (inefficient) i-th country is projected.
+The DEA problem can be illustrated using a simple example. Consider the case where we
+have a group of five countries producing two outputs (e.g., wheat and beef). Assume for
+3
+
+There are some obvious exceptions to this. For example, where dairy farmers are required to fill a particular
+output quota, and attempt to do this with minimum inputs.
+
+4
+
+simplicity that each country has identical input vectors. These five countries are depicted in
+Figure 1. Countries A, B and C are efficient countries because they define the frontier.
+Countries D and E are inefficient countries. For country D the technical efficiency score is
+equal to
+TED = 0D/0D′,(2)
+and its peers are countries A and B. In the DEA output listing this country would have a
+technical efficiency score of approximately 70 percent and would have non-zero λ-weights
+associated with countries A and B. For country E the technical efficiency score is equal to
+TEE = 0E/0E′, (3)
+and its peers are countries B and C. In the DEA output listing this country would have a
+technical efficiency score of approximately 50 percent and would have non-zero λ-weights
+associated with countries B and C. Note that the DEA output listing for countries A, B and C
+would provide technical efficiency scores equal to one and each country would be its own
+peer. For further discussion of DEA methods see Coelli, Rao and Battese (1998, Ch. 6).
+Figure 1 Output-Orientated DEA
+beef
+A
+•
+D
+•
+
+D′
+• B
+•
+• E′
+•C
+
+E
+•
+0
+
+wheat
+
+The Malmquist TFP Index
+The Malmquist index is defined using distance functions. Distance functions allow one to
+describe a multi-input, multi-output production technology without the need to specify a
+behavioural objective (such as cost minimisation or profit maximisation). One may define
+input distance functions and output distance functions. An input distance function
+characterises the production technology by looking at a minimal proportional contraction of
+the input vector, given an output vector. An output distance function considers a maximal
+proportional expansion of the output vector, given an input vector. We only consider an
+output distance function in detail in this paper. However, input distance functions can be
+defined and used in a similar manner.
+A production technology may be defined using the output set, P(x), which represents the set
+of all output vectors, y, which can be produced using the input vector, x. That is,
+5
+
+P(x) = {y : x can produce y}.
+
+(4)
+
+We assume that the technology satisfies the axioms listed in Coelli, Rao and Battese (1998,
+Ch. 3)
+The output distance function is defined on the output set, P(x), as:
+do(x,y) = min{δ : (y/δ)∈P(x)}.
+
+(5)
+
+The distance function, do(x,y), will take a value which is less than or equal to one if the
+output vector, y, is an element of the feasible production set, P(x). Furthermore, the distance
+function will take a value of unity if y is located on the outer boundary of the feasible
+production set, and will take a value greater than one if y is located outside the feasible
+production set. In this study we use DEA-like methods to calculate our distance measures.
+These are discussed shortly.
+The Malmquist TFP index measures the TFP change between two data points (e.g., those of a
+particular country in two adjacent time periods) by calculating the ratio of the distances of
+each data point relative to a common technology. Following Färe et al (1994), the Malmquist
+(output-orientated) TFP change index between period s (the base period) and period t is given
+by
+⎡ d s (y , x ) d t (y , x ) ⎤
+m o (y s , x s , y t , x t ) = ⎢ so t t × ot t t ⎥
+⎣ d o (y s , x s ) d o (y s , x s ) ⎦
+
+1/ 2
+
+,
+
+(6)
+
+where the notation dos(xt, yt) represents the distance from the period t observation to the
+period s technology. A value of mo greater than one will indicate positive TFP growth from
+period s to period t while a value less than one indicates a TFP decline. Note that equation 6
+is, in fact, the geometric mean of two TFP indices. The first is evaluated with respect to
+period s technology and the second with respect to period t technology.
+An equivalent way of writing this productivity index is
+d ot (y t , x t ) ⎡ d so (y t , x t ) d so (y s , x s ) ⎤
+m o (y s , x s , y t , x t ) = s
+×
+⎢
+⎥
+d o (y s , x s ) ⎣ d ot (y t , x t ) d ot (y s , x s ) ⎦
+
+1/ 2
+
+,
+
+(7)
+
+where the ratio outside the square brackets measures the change in the output-oriented
+measure of Farrell technical efficiency between periods s and t. That is, the efficiency
+change is equivalent to the ratio of the technical efficiency in period t to the technical
+efficiency in period s. The remaining part of the index in equation 2 is a measure of technical
+change. It is the geometric mean of the shift in technology between the two periods,
+evaluated at xt and also at xs.
+Following Färe et al (1994), and given that suitable panel data are available, we can calculate
+the required distance measures for the Malmquist TFP index using DEA-like linear programs.
+For the i-th country, we must calculate four distance functions to measure the TFP change
+between two periods, s and t. This requires the solving of four linear programming (LP)
+problems. Färe et al (1994) assume a constant returns to scale (CRS) technology in their
+analysis. The required LPs are:
+[dot(yt, xt)]-1 = maxφ,λ φ,
+st
+
+-φyit + Ytλ ≥ 0,
+xit - Xtλ ≥ 0,
+
+6
+
+λ ≥ 0, (8)
+[dos(ys, xs)]-1 = maxφ,λ φ,
+st
+
+-φyis + Ysλ ≥ 0,
+xis - Xsλ ≥ 0,
+λ ≥ 0, (9)
+
+[dot(ys, xs)]-1 = maxφ,λ φ,
+st
+
+-φyis + Ytλ ≥ 0,
+xis - Xtλ ≥ 0,
+λ ≥ 0, (10)
+
+and
+[dos(yt, xt)]-1 = maxφ,λ φ,
+st
+
+-φyit + Ysλ ≥ 0,
+xit - Xsλ ≥ 0,
+λ ≥ 0. (11)
+
+Note that in LP’s 10 and 11, where production points are compared to technologies from
+different time periods, the φ parameter need not be greater than or equal to one, as it must be
+when calculating standard output-orientated technical efficiencies. The data point could lie
+above the production frontier. This will most likely occur in LP 11 where a production point
+from period t is compared to technology in an earlier period, s. If technical progress has
+occurred, then a value of φ<1 is possible. Note that it could also possibly occur in LP 10 if
+technical regress has occurred, but this is less likely.
+One issue that must be stressed is that the returns to scale properties of the technology are
+very important in TFP measurement. We use a CRS technology in this study for two reasons.
+First, given that we are using aggregate country-level data, it does not appear to be sensible
+to consider a VRS technology. How is it possible for a sector to achieve scale economies?
+For example, the index of crop output for India and the USA are similar, but their average
+farm sizes are quite different. Hence, what can we sensibly conclude if we estimate a VRS
+technology and report that these countries face decreasing returns to scale? We can
+understand the use of a VRS technology when the summary data is expressed on an “average
+per farm” basis, because one can then discuss the scale economies of the “average farm”, but
+when dealing with aggregate data, as we are in this study, the use of a CRS technology is the
+only sensible option.
+In addition to the above comment regarding the use of aggregate data, a second argument for
+the use of a CRS technology is applicable to both firm-level and aggregate data. Grifell-Tatjé
+and Lovell (1995) use a simple one-input, one-output example to illustrate that a Malmquist
+TFP index may not correctly measure TFP changes when VRS is assumed for the technology.
+Hence it is important that CRS be imposed upon any technology that is used to estimate
+distance functions for the calculation of a Malmquist TFP index. Otherwise the resulting
+measures may not properly reflect the TFP gains or losses resulting from scale effects.
+
+7
+
+3.
+
+Data
+
+The present study is based on data exclusively drawn from the AGROSTAT system of the
+Statistics Division of the Food and Agricultural Organization in Rome. We have been able to
+access and down-load all the necessary data from the Web site of the FAO.4 The following
+are some of the main features of the data series used.
+Country coverage: The study includes 93 countries. These are the top 93 agricultural
+producers in the world, which account for roughly 97 percent of the world’s agricultural
+output as well as 98 percent of the world’s population.5 The countries included in the study
+are distributed over all the regions of the world. The distribution is as follows:
+Africa
+
+26 countries
+
+North America
+
+2 countries
+
+South and Central America
+
+19 countries
+
+Asia
+
+23 countries
+
+Europe
+
+20 countries
+
+Australasia
+
+3 countries
+
+We were unable to obtain data for the USSR, Czechoslovakia and Yugoslavia in the 1990s
+due to changes in the political systems in eastern Europe. We have data for the newly formed
+countries for the most recent period but no corresponding data are available before 1990.
+Inclusion of USSR in the period before 1990 and replacing is with a large number of smaller
+countries may introduce some aggregation and scale issues. Hence these countries are
+omitted from the analysis.
+Time Period: The present paper is based on results for the period 1980 to 2000. Initially we
+planned to study the 1960-2000 period, however our analysis has been restricted to this
+shorter period since labour force data were not readily available for the years 1960-1979 from
+the FAO or the ILO sources. These years will be included in the subsequent stages of the
+project when appropriate labour data is obtained.6
+Output Series: Due to the problems of degrees of freedom associated with the application of
+DEA methods, the present study uses two output variables, viz., crops and livestock output
+variables. The output series for these two variables are derived by aggregating detailed output
+quantity data on 185 agricultural commodities. The following steps are used in the
+construction of data.
+For the year 1990, output aggregates are drawn from Table 5.4 in Rao (1993). These
+aggregates are constructed using international average prices (expressed in US dollars)
+derived using the Geary-Khamis method (see Rao 1993, Chapter 4 for details) for the
+
+4
+
+The authors are grateful to the FAO for maintaining an excellent site and for their generosity in making
+valuable data series available on the internet.
+5
+Ordering of the countries and estimates of country shares of agricultural output are drawn from Table 3.2 in
+Rao (1993). The original aim was to include 100 countries but three countries had to be dropped since we could
+not build the output series for those countries. An additional four countries, USSR, Czechoslovakia, Yugoslavia
+and Ethiopia are dropped due to data related problems.
+6
+Our study period complements the periods covered in some of the earlier studies, which usually cover the 60s
+and 70s.
+
+8
+
+benchmark year 1990.7 Thus the output series for 1990 are at constant prices, expressed in a
+single currency unit.
+The 1990 output series are then extended to cover the study period 1980-2000 using the FAO
+production index number series for crops and livestock separately.8 The series derived using
+this approach are essentially equivalent to the series constructed using 1990 international
+average prices and the actual quantities produced in different countries in various years.
+Columns 3 and 4 in Tables 1 and 2 show the output aggregates for the 93 countries for the
+years 1980 and 2000.9 These columns demonstrate the differences in output mix across
+different countries. There are many countries which are mainly producers of crops, some
+countries are mainly livestock producers and the remaining countries with a fair balance
+between crops and livestock.10 A point to note here is the concept of output used in the study.
+Consistent with the definition of the FAO production index, the output concept used here is
+the output from the agriculture sector, net of quantities of various commodities used as feed
+and seed.11 This is the reason for not including feed and seed in the input series.
+Another point regarding the output series that is important to remember is the fact that the
+output series are based on 1990 international average prices. So the output series would
+change when the base is shifted from 1990 to another period, thus potentially influencing the
+final results. We believe that it is more appropriate to use 1990 prices as the basis for our
+study spanning 1980 to 2000 rather than using 1980 or 2000 international average prices.
+Input Series: Given the constraints on the number of input variables that could be used in the
+DEA analysis, we have opted to consider only six input variables. Details of these variables
+are given below.
+Land: This variable covers the arable land, land under permanent crops as well as the area
+under permanent pasture. Arable land includes land under temporary crops (double-cropped
+areas are counted only once), temporary meadows for mowing or pasture, land under market
+and kitchen gardens and land temporarily fallow (less than five years). Land under permanent
+crops is the land cultivated with crops that occupy the land for long periods and need not be
+replanted after each harvest. This category includes land under flowering shrubs, fruit trees,
+nut trees and vines but excludes land under trees grown for wood or timber. Land under
+permanent pasture is the land used permanently (five years or more) for forage crops, either
+cultivated or growing wild.
+Tractors: This variable covers the total number of wheel and crawler tractors, but excluding
+garden tractors, used in agriculture. It is important to note that only the number of tractors is
+used as the input variable with no allowance made to the horsepower of the tractors.12 This
+aspect will be examined in future work.
+
+7
+
+The Geary-Khamis international average prices are based on prices (in national currency units) and quantities
+of 185 agricultural commodities in 103 countries.
+8
+See the 1997 FAO Production Yearbook for details regarding the construction of production index numbers.
+9
+All the tables are presented at the end of the paper.
+10
+The DEA method employed here is specially suited to this type of situations. The method benchmarks
+countries against countries with similar output and input mixes.
+11
+The output concept used here is consistent with the concept used in some of the earlier inter-country
+comparison studies (see Kawagoe and Hayami (1985) and Hayami and Ruttan (1970).
+12
+Assuming that farming in developing countries is on fragmented land, average horsepower of tractors in these
+countries could be significantly lower than those used in countries with large farms using highly mechanised
+farming techniques. This could understate the productivity levels and changes in developing countries.
+
+9
+
+Labour: This variable refers to economically active population in agriculture. Economically
+active population is defined as all persons engaged or seeking employment in an economic
+activity, whether as employers, own-account workers, salaried employees or unpaid workers
+assisting in the operation of a family farm or business. Economically active population in
+agriculture includes all economically active persons engaged in agriculture, forestry, hunting
+or fishing. This variable obviously overstates the labour input used in agricultural production,
+the extent of overstatement depends upon the level of development of the country.13
+Fertiliser: Following other studies (Hayami and Ruttan 1970, Fulginiti and Perrin 1997) on
+inter-country comparison of agricultural productivity, we use the sum of Nitrogen (N),
+Potassium (P2O2) and Phosphate (K2O) contained in the commercial fertilizers consumed.
+This variable is expressed in thousands of metric tons.
+Livestock: The livestock input variable used in the study is the sheep-equivalent of five
+categories of animals used in constructing this variable. The categories considered are:
+buffaloes, cattle, pigs, sheep and goats. Numbers of these animals are converted into sheep
+equivalents using conversion factors: 8.0 for buffalo and cattle; 1.00 for sheep, goats and
+pigs.14 Chicken numbers are not included in the livestock figures.
+Irrigation: In this study we use the area under irrigation as a proxy for the capital
+infrastructure associated with the irrigation of farmlands.15
+
+4.
+
+Results and Discussion
+
+The results of our DEA and TFP calculations are summarised in this section. Given that we
+have 21 annual observations on 93 countries, we have a lot of computer output to describe.
+Our calculations involved the solving of 93×(21×3-2) = 5,673 LP problems. We have
+thousands of pieces of information on the efficiency scores and peers of each country in each
+year. We also have measures of technical efficiency change, technical change and TFP
+change for each country in each pair of adjacent years.
+We have hence decided to be selective in what results we present in this paper. We provide
+information on the means of the measures of technical efficiency change, technical change
+and TFP change for each country (over the 21-year sample period) and the mean changes
+between each pair of adjacent years (over the 93 countries). We also provide means for
+certain groups of countries and plot the TFP trends of some selected groupings of countries.
+In addition to this we provide a table of peers for all countries in the first year (1980) and in
+the final year (2000).16
+Average technical efficiency scores in 1980 and 2000 are reported in Table 2 for the six
+regions and the full sample. Note that the average technical efficiency score of 0.784 in 1980
+implies that these countries are, on average, producing 78.4 percent of the output that could
+
+13
+
+There could be a significant percentage of the labour force (as defined here) in disguised unemployment.
+The conversion figures used in this study correspond very closely with those used in the 1970 study of
+Hayami and Ruttan.
+15
+This irrigation variable was not included in our previous analysis of the 1980-1995 data (see Rao and Coelli,
+1998). In the present study we ran our DEA analysis with this variable included and also excluded. It was
+interesting to note that the (unweighted) mean TFP growth increased from 1.1 percent to 1.3 percent when this
+variable was excluded. This is not surprising, given that there has been significant investment in irrigation
+infrastructure in many countries over the past two decades, especially in Asian countries.
+16
+These can obviously change from year to year, but it is not feasible to present this information for every year.
+14
+
+10
+
+be potentially produced using the observed input quantities.17 It is interesting to note that
+those regions with the lowest mean technical efficiency scores in 1980 – Asia and Africa –
+also achieved the largest increases in mean technical efficiency over the sample period. This
+provides evidence of catch-up in these countries, which was not found in many of the studies
+listed in Table 1. This is most likely due to the fact that our data set spans the past two
+decades, while the majority of these studies consider the 1960-1985 period.
+This information on changes in average technical efficiency only tells the “catch-up” part of
+the productivity story. TFP change can also appear in the form of technical change (or
+frontier-shift). The means of the measures of technical efficiency change, technical change
+and TFP change for each country (over the 21-year sample period) are presented in Table 4.
+Tables 5 and 6 respectively show the unweighted and weighted annual averages (averaged
+over the 93 countries) of efficiency change, technical change and TFP change. Table 7 shows
+the regional averages of changes in efficiency and TFP. Table 8 shows the changes in TFP
+for groups of countries classified by their technical efficiency score in the initial period 1980.
+In Table 3 we can identify all those countries that define the frontier technology for the years
+1980 and 2000 in the vicinity of their observed output and input mixes. The table shows that
+there are 39 and 45 countries that are on the frontier in 1980 and 2000, respectively. Only
+four countries, Niger, Indonesia, Japan and Syria, which were on the frontier in 1980, were
+no longer in the frontier in 2000. Table 3 also provides a list of countries that define the best
+practice (peers) for each of the countries that are not on the frontier. It is interesting to
+observe the changes in the sets of peer countries over the two periods. For example, in 1980
+Cuba had Dominican Republic, Netherlands, Malaysia, New Zealand and Hungary as its
+peers. However, in 2000 only Netherlands remained in the peer country set, the other
+countries in the new set being Nigeria, Bolivia, Switzerland, Haiti and Uruguay. Sets of peer
+countries defining best practice for countries in Asia seem to be relatively stable over the
+study period.
+The last two columns of Table 3 show the number of times each of the efficient countries on
+the frontier appear as a peer for the technically inefficient countries. Countries that do not
+appear as a peer for any other country may be considered to be on the frontier due to the
+unique nature of their input and output mix. For example Australia does not appear as a peer
+for any country in 1980. In contrast, Papua New Guinea appears as a peer for 26 countries in
+1980.
+Table 4 shows the mean technical efficiency change, technical change and TFP change for
+the 93 countries over the period 1980 to 2000. Countries in the table are presented in
+descending order of the magnitude of the TFP changes. The table shows China and Cambodia
+as the two countries with maximum TFP growth. China shows a 6.0 percent average growth
+in TFP, which is due to 4.4 percent growth in technical efficiency, and 1.5 percent growth in
+technical change.18 Australia, USA and India respectively exhibit TFP growth rates of 2.6,
+2.6 and 1.4 percent. The unweighted average (across all countries) growth in TFP is 1.1
+percent.
+Tables 5 and 6 show the annual average technical efficiency change, technical change and
+TFP change using respectively unweighted (where each country has the same weight) and
+weighted (where each country change is weighted by the country’s share in total agricultural
+17
+
+This figure should be interpreted with care. No attempt has been made to adjust the data for differences in
+climate, soil quality, labour quality, etc.
+18
+This result appears to be consistent with some of the recent studies on Chinese economic growth (Maddison,
+1997).
+
+11
+
+output). These tables show the effect of using weights on the annual averages derived.
+Unweighted averages show only 1.1 percent growth in TFP whereas the weighted TFP
+growth over the period is 2.1 percent. The results show that the use of unweighted averages
+understates the changes in TFP change and in its components. Another implication of this
+difference is that TFP growth has been higher in countries with higher share of global
+agricultural output. We believe that for purposes of assessing regional and global
+performance a weighted average (across countries) of annual growth rates is more
+appropriate.
+Tables 4 and 5 show that over the whole period there has been no technological regression
+though for some individual years there has been some evidence of technological regression.
+The extent of technological regression seems to be less serious when weighted average
+changes are considered.
+Table 7 provides measures of annual changes in technical efficiency, technical change and
+TFP change by different regions. Asia as a region posted the highest TFP growth of 2.9
+percent (mainly due to efficiency change growth of 1.9 percent) followed by North America
+(consisting of USA and Canada), Australasia, Europe, Africa and South America. South
+America has posted the lowest growth rate of 0.6 percent followed by Africa with 1.3 percent
+growth in TFP. A surprising result is that over the period 1980-2000, these results show no
+evidence of global or regional technological regression. This is in contrast to the work of
+Fulginiti and Perrin (1997) who report technical regression in a group of 18 developing
+countries over the period 1961-1985. Another interesting feature is the predominance of
+efficiency change (or “catch-up”) as a source of TFP growth. Both in Asia, Africa efficiency
+change is the principal source of TFP growth.
+Figure 2 shows cumulative TFP indices from 1980 to 2000 for the different regions. From the
+figure it is evident that Asia has the highest cumulative growth by 2000, followed by North
+America and Europe. Asia has a higher cumulative growth than the global growth in TFP.
+Africa and South America remain as the bottom groups.
+Table 8 shows the average annual changes for groups of countries classified by their
+technical efficiency scores in 1980. The first group, consisting of 39 countries on the frontier
+in 1980, posted only 1.2 percent growth in TFP driven by a 1.3 percent growth in technical
+change. In contrast, those countries that had an efficiency score between 0.6 and 1, posted a
+1.5 percent growth in TFP mainly driven by 0.3 percent growth in technical change and 1.2
+percent growth in technical efficiency. However the bottom group of countries, with a
+technical efficiency score less than 0.6, posted an impressive 3.6 percent growth in TFP
+mainly driven by 2.5 percent growth in technical efficiency and 1.5 percent growth in
+technical change. These results indicate a degree of catch-up due to improved technical
+efficiency along with growth in technical change.
+
+12
+
+Figure 2 Cumulative TFP Indices
+1.800
+1.700
+1.600
+All
+
+TFP Index
+
+1.500
+
+Africa
+Nth. Am.
+
+1.400
+
+Sth. Am.
+1.300
+
+Asia
+Europe
+
+1.200
+
+Australasia
+1.100
+1.000
+0.900
+1980 1982 1984 1986 1988 1990 1992 1994 1996 1998 2000
+Year
+
+While the results in Tables 7 and 8 are very encouraging in terms of the catch-up and
+convergence shown by many countries, a feature of concern is the low TFP growth
+experienced by a number of countries in Africa and South America. These are the two
+continents with the highest population growth during 1980-2000 and population in these
+regions is projected to grow strongly in the next decade.
+Figure 3 summarises our estimated shadow shares obtained from the DEA frontiers used in
+computing the Malmquist TFP indices. Summary information on these shares is also given in
+Tables 9 and 10. The top two series in Figure 3 represent the value shares for crops and
+livestock (both sum to unity) over the study period. These shares appear to be fairly steady
+over the period, with crops accounting for more than 50 percent of the total output in most
+years.
+The six series graphed at the bottom of Figure 3 represent the shadow input shares resulting
+from the application of the DEA methodology. The figure serves to demonstrate the
+plausibility of the input shares derived here. The labour share shows a steady decline from
+28.5 percent in 1980 to 24.2 percent in 2000. The share of land, aggregated over all the
+countries, seems to be quite stable around 11 percent. While the share of tractors remained
+the same, the shares of fertilisers and livestock have shown small increases.
+Table 10 shows the country-specific output and input shares underlying the TFP indices
+reported here. These shares are averaged over the study period 1980 to 2000. These shadow
+shares seem to be quite meaningful. For example, India shows 71 percent share for crops and
+29 percent for livestock confirming the importance of crops in India. Similarly, in the
+Netherlands the share of livestock is shown to be 97.1 percent. Similar livestock shares are
+shown for Norway (99.4 percent), Switzerland (95.1 percent) and Finland (96.6 percent).
+
+13
+
+Figure 3 Mean shadow shares
+0.600
+
+Average Shadow Shares
+
+0.500
+
+Crops
+
+0.400
+
+Livestock
+Area
+Tractors
+
+0.300
+
+Labour
+Fertiliser
+Lstock(inp)
+
+0.200
+
+Irrigation
+
+0.100
+
+0.000
+1980 1982 1984 1986 1988 1990 1992 1994 1996 1998 2000
+Year
+
+The last six columns of Table 10 show the shares of the six inputs. These shares also appear
+to be meaningful and consistent with the general factor endowments enjoyed by these
+countries. For example, the shadow shares of labour are quite high in countries like the USA
+(64.1 percent), Canada (53.9 percent) and Australia (58.6 percent). Labour shares are also
+quite high in those countries where labour is abundant and agriculture is very labour
+intensive. India and Indonesia respectively have shadow labour shares of 44.5 and 42.2
+percent respectively. In countries where land is a limiting factor its shadow share is quite
+high. For example, in the Netherlands the land share is 27.7 percent. In Japan and Israel the
+land shares are respectively 56.4 and 47.2 percent. These large shares for land also reflect the
+scarcity of land resulting from increasing urbanisation of agricultural land.
+Shares of other factors, including fertilisers, tractors, livestock and irrigation, are also
+plausible and appear to support the general scarcities of these resources in different countries.
+We find the general trends in these shares over time and differences across countries appear
+to support the discussion in Ruttan (2002) where various constraints to productivity growth in
+world agriculture are identified. Table 11 summarises the shadow share information by
+continents. The Asian continent has the highest input share associated with land whereas
+North America and Europe have large shares for labour, livestock and irrigation inputs.
+As one final exercise, we have taken the average shadow share estimates from the bottom of
+Table 11 and used them as fixed shares in the calculation of Tornqvist TFP index numbers
+for each country. These Tornqvist TFP indices are reported in Table 12, along with the
+original Malmquist TFP indices from the final column of Table 4. The differences between
+these two columns of indices are reported in the final column of Table 12. This table has
+been sorted by the size of this difference. The reported differences are quite large in some
+
+14
+
+cases, with 40 countries reporting differences of 1 percent per annum or more. These
+differences may be rationalised in two ways. Either the shadow shares for some countries are
+not well estimated (due to the dimensionality problem in DEA) or the shadow shares are well
+estimated, but they differ significantly from the sample average, because of country specific
+factors, such as land scarcity, labour abundance, etc. For many countries, the observed
+difference may well be a combination of these two factors, to varying degrees.
+Finally, the country-level information in Table 12 is summarised in Table 13 for our six
+regions. The largest difference occurs for South and Central America, where the average
+TFP growth measure increases from 0.6 percent to 1.5 percent per annum. This is not a
+minor difference, and emphasises the key point that TFP indices depend crucially upon the
+prices that are used – be they market prices or shadow prices.
+
+5.
+
+Conclusions
+
+This paper presents some important findings on levels and trends in global agricultural
+productivity over the past two decades. The results presented here examine the growth in
+agricultural productivity in 93 countries over the period 1980 to 2000. The results show an
+annual growth in total factor productivity growth of 2.1 percent, with efficiency change (or
+catch-up) contributing 0.9 percent per year and technical change (or frontier-shift) providing
+the other 1.2 percent. There is little evidence of the technological regression discussed in a
+number of the papers listed in Table 1. This is most likely a consequence of the use of a
+different sample period and an expanded group of countries. In terms of individual country
+performance, the most spectacular performance is posted by China with an average annual
+growth of 6.0 percent in TFP over the study period. Other countries with strong performance
+are, among others, Cambodia, Nigeria and Algeria. The United States has a TFP growth rate
+of 2.6 percent whereas India has posted a TFP growth rate of only 1.4 percent.
+Turning to performance of various regions, Asia is the major performer with an annual TFP
+growth of 2.9 percent. Africa seems to be the weakest performer with only 0.6 percent
+growth in TFP. Examining the question of catch-up and convergence, we find that those
+countries that were well below the frontier in 1980 (with technical efficiency coefficients of
+0.6 or below) have a TFP growth rate of 3.6 percent. This in contrast to a low 1.2 percent
+growth for the countries that were on the frontier in 1980. These results indicate a degree of
+catch-up in productivity levels between high-performing and low-performing countries. We
+find these results to be quite interesting since these indicate an encouraging reversal (during
+1980-2000 period) in the phenomenon of negative productivity trends and technological
+regression reported in some of the earlier studies for the period 1961-1985.
+Though the results are quite plausible and meaningful, the authors are quite conscious of the
+data limitations and the need for further work in this area. Future work should include: (i) an
+examination of the robustness of the results to shifts in the base period for the computation of
+output aggregates; (ii) the inclusion of pesticides, herbicides and purchased feed and seed in
+the input set; (iii) an investigation of the effects of land quality, irrigation and rainfall; and
+(iv) utilisation of parametric distance functions to study the robustness of the findings to the
+choice of methodology.
+
+15
+
+References
+Arnade, C. (1998), “Using a Programming Approach to Measure International Agricultural
+Efficiency and Productivity”, Journal of Agricultural Economics, 49, 67-84.
+Ball, V. Eldon, Bureau, J.C., Butault, J.P., Nehring, R., (2001) “Levels of Farm Sector
+Productivity: An International Comparison”, Journal of Productivity Analysis, 15, 5-29.
+Barro, R. and X. Sala-i-Martin (1991), "Convergence across states and regions", Brookings
+Paper on Economic Activity, pp.107.
+Bureau, C., R. Färe and S. Grosskopf (1995), “A Comparison of Three Nonparametric
+Measures of Productivity Growth in European and United States Agriculture”, Journal
+of Agricultural Economics, 46, 309-326.
+Capalbo, Susan M., and J.M. Antle (eds.) (1988), Agricultural Productivity: Measurement
+and Explanation, Washington D.C. Resources for the Future.
+Chavas, J.P.(2001), “An International Analysis of Agricultural Productivity”, in L. Zepeda,
+ed., Agricultural Investment and Productivity in Developing Countries, FAO, Rome.
+Coelli, T.J. and D.S.P. Rao (2001), "Implicit Value Shares in Malmquist TFP Index
+Numbers", CEPA Working Papers, No. 4/2001, School of Economics, University of
+New England, Armidale, pp. 27.
+Coelli, T.J., D.S. Prasada Rao and G.E. Battese (1998), An Introduction to Efficiency and
+Productivity Analysis, Kluwer Academic Publishers, Boston.
+Craig, B.J., Pardey, P.G. and Roseboom, J. (1997), “International productivity patterns:
+accounting for input quality, infrastructure, and research”, American Journal of
+Agricultural Economics, 79, 1064-1077.
+Färe, R., S. Grosskopf, M. Norris and Z. Zhang (1994), “Productivity Growth, Technical
+Progress and Efficiency Changes in Industrialised Countries, American Economic
+Review, 84, 66-83.
+Fulginiti, L. and R. Perrin (1993), “Prices and Productivity in Agriculture”, Review of
+Economics and Statistics, 75, 471-482.
+Fulginiti, L.E. and Perrin, R.K. (1997), “LDC agriculture: Nonparametric Malmquist
+productivity indexes”, Journal of Development Economics, 53, 373-390.
+Fulginiti, L.E. and Perrin, R.K., (1998), “Agricultural productivity in developing countries”,
+Journal of Agricultural Economics, 19, 45-51.
+Fulginiti, L.E. and Perrin, R.K. (1999), “Have Price Policies Damaged LDC Agricultural
+Productivity?”, Contemporary Economic Policy, 17, 469-475.
+Grifell-Tatjé, E. and C.A.K. Lovell (1995), “A Note on the Malmquist Productivity Index”,
+Economics Letters, 47, 169-175.
+Hayami, Y. and V. Ruttan (1970), “Agricultural Productivity Differences Among Countries”,
+American Economic Review, 40, 895-911.
+Hayami, Y. and V. Ruttan (1971), Agricultural Development: An International Perspective,
+Johns Hopkins Press, Baltimore.
+Kawagoe, T. and Y. Hayami (1983), “The Production Structure of World Agriculture: An
+Intercountry Cross-Section Analysis”, Developing Economies, 21, 189-206.
+
+16
+
+Kawagoe, T. and Y. Hayami (1985), “An Intercountry Comparison of Agricultural
+Production Efficiency”, American Journal of Agricultural Economics, 67, 87-92.
+Kawagoe, T., Y. Hayami and V. Ruttan (1985), “The Intercountry Agricultural Production
+Function and Productivity Differences Among Countries”, Journal of Development
+Economics, 19, 113-132.
+Lau, L. and P. Yotopoulos (1989), “The Meta-Production Function Approach to
+Technological Change in World Agriculture”, Journal of Development Economics, 31,
+241-269.
+Lusigi, A. and Thirtle, C. (1997), “Total factor productivity and the effects of R&D in
+African agriculture”, Journal of International Development, 9, 529-538.
+Maddison, A. (1995), Monitoring the World Economy: 1820-1992, OECD, Paris.
+Maddison, A. (1997), Chinese Economic Performance in the Long Run, OECD, Paris.
+Martin, W. and Mitra, D. (1999), “Productivity Growth and Convergence in Agriculture and
+Manufacturing”, Agriculture Policy Research Working Papers, No. 2171, World Bank,
+Washington D.C.
+Nin, A., Arndt, C. and Preckel, P.V. (2003), “Is agricultural productivity in developing
+countries really shrinking? New evidence using a modified nonparametric approach”,
+Journal of Development Economics, 71, 395-415.
+Rao, D.S.P. (1993), Intercountry Comparisons of Agricultural Output and Productivity,
+FAO, Rome.
+Rao, D.S.P. and Coelli, T.J. (1998), "Catch-up and Convergence in Global Agricultural
+Productivity, 1980-1995", CEPA Working Papers, No. 4/98, Department of
+Econometrics, University of New England, Armidale, pp. 25.
+Ruttan, V.W. (2002), “Productivity Growth in World Agriculture: Sources and Constraints”,
+Journal of Economic Perspectives, 16, 161-184.
+Suhariyanto, K. and Thirtle, C. (2001), “Asian Agricultural Productivity and Convergence”,
+Journal of Agricultural Economics, 52, 96-110.
+Suhariyanto, K., Lusigi, A. and Thirtle, C. (2001), “Productivity Growth and Convergence in
+Asian and African Agriculture”, in Asia and Africa in Comparative Economic
+Perspective, P. Lawrence and C. Thirtle, eds. London: Palgrave, 258-74.
+Thirtle, C., Piesse, J., Lusigi, A. and Suhariyanto, K. (2003), “Multi-factor agricultural
+productivity, efficiency and convergence in Botswana, 1981 – 1996”, Journal of
+Development Economics, 71, 605 – 624.
+Trueblood, M.A. and Coggins, J. (2003), Intercountry Agricultural Efficiency and
+Productivity: A Malmquist Index Approach, mimeo, World Bank, Washington DC.
+Wiebe, K., Soule, M., Narrod C., and Breneman, V. (2000), Resource Quality and
+Agricultural Productivity: A Multi-Country Comparison, mimeo, USDA, Washington
+DC.
+
+17
+
+Table 1: Analyses of inter-country agricultural TFP growth, 1993-2003
+Paper
+Fulginiti and Perrin (1993)
+Bureau, Fare and Grosskopf (1995)
+Fulginiti and Perrin (1997)
+Craig, Pardey and Roseboom (1997)
+Lusigi and Thirtle (1997)
+Fulginiti and Perrin (1998)
+Rao and Coelli (1998)
+Arnade (1998)
+Fulginiti and Perrin (1999)
+Martin and Mitra (1999)
+Wiebe et al (2000)
+Chavas (2001)
+Ball et al (2001)
+Suhariyanto, Lusigi and Thirtle (2001)
+Suhariyanto and Thirtle (2001)
+Trueblood and Coggins (2003)
+Nin, Arndt and Preckel (2003)
+
+Method
+CD
+DEA & Fisher
+DEA
+CD
+DEA
+CD (VC)
+DEA
+DEA
+DEA & CD
+Translog
+CD
+DEA
+Fisher (EKS)
+DEA
+DEA
+DEA
+DEA
+
+Years
+1961-85
+1973-89
+1961-85
+1961-90
+1961-91
+1961-85
+1980-95
+1961-93
+1961-85
+1967-92
+1961-97
+1960-94
+1973-93
+1961-96
+1965-96
+1961-91
+1961-94
+
+Countries
+18 LCD
+10 DC
+18 LCD
+98
+47 Africa
+18 LCD
+97
+70
+18 LCD
+49
+110
+12
+10 DC
+65 Asia/Afr.
+18 Asia
+115
+20 LDC
+
+Table 2: Means of Technical Efficiency for the Continents, 1980-2000
+Continent* Countries
+Africa
+1-26
+Nth. Am.
+27,37
+Sth. Am. 28-36,38-47
+Asia
+48-70
+Europe
+71-90
+Australasia
+91-93
+Mean
+1-93
+
+1980
+0.700
+1.000
+0.888
+0.681
+0.859
+1.000
+0.784
+
+1990
+0.746
+1.000
+0.888
+0.707
+0.871
+1.000
+0.806
+
+2000
+0.804
+1.000
+0.911
+0.739
+0.907
+1.000
+0.842
+
+Table 3: Peers from DEA, 1980 and 2000
+Country
+1
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+
+Algeria
+Algeria
+Angola
+Burundi
+Cameroon
+Chad
+Egypt
+Ghana
+Guinea
+Cote Divoire
+Kenya
+Madagascar
+Malawi
+Mali
+Morocco
+Mozambique
+Niger
+Nigeria
+Rwanda
+Senegal
+South Africa
+Sudan
+Tanzania
+Tunisia
+Uganda
+Burkina Faso
+Zimbabwe
+Canada
+Costa Rica
+Cuba
+Dominican Rp
+El Salvador
+Guatemala
+Haiti
+Honduras
+Mexico
+Nicaragua
+USA
+Argentina
+Bolivia
+Brazil
+Chile
+Colombia
+Ecuador
+Paraguay
+Peru
+Uruguay
+Venezuela
+Bangladesh
+Myanmar
+Sri Lanka
+
+Peers
+10
+79
+92
+65
+4
+5
+6
+93
+18
+9
+10
+93
+65
+10
+43
+79
+16
+18
+18
+33
+72
+33
+93
+9
+24
+18
+9
+27
+38
+30
+30
+31
+32
+33
+34
+30
+44
+37
+38
+39
+44
+56
+9
+43
+44
+9
+46
+44
+93
+93
+61
+
+62
+38
+33
+18
+
+1980
+31 39
+72 56
+62 93
+
+57
+9
+38
+
+82
+
+92
+93
+
+33
+39
+
+62
+33
+
+24
+
+30
+93
+5
+61
+93
+
+39
+9
+4
+38
+33
+
+33
+18
+33
+56
+82
+
+4
+32
+30
+
+33
+
+4
+
+5
+
+93
+
+4
+79
+39
+62
+56
+
+18
+61
+30
+34
+93
+
+65
+56
+93
+33
+38
+
+33
+92
+
+5
+72
+
+61
+
+79
+
+38
+
+92
+92
+
+79
+82
+
+61
+79
+
+9
+61
+
+30
+
+56
+30
+
+61
+79
+
+79
+9
+
+38
+61
+
+79
+9
+44
+
+61
+61
+92
+
+9
+30
+30
+
+72
+38
+79
+
+38
+
+44
+
+30
+
+43
+
+92
+59
+18
+93
+
+72
+18
+33
+56
+
+9
+
+79
+
+38
+
+33
+9
+
+9
+
+44
+
+65
+
+19
+
+38
+
+8
+93
+18
+3
+4
+5
+6
+7
+33
+9
+10
+39
+18
+9
+30
+33
+18
+17
+18
+9
+28
+33
+39
+82
+24
+24
+9
+27
+28
+17
+30
+31
+32
+33
+34
+28
+62
+37
+38
+39
+38
+38
+42
+43
+44
+38
+46
+46
+48
+65
+93
+
+Count*
+97
+33
+62
+
+2000
+40 34
+82 89
+
+93
+39
+
+24
+
+18
+
+7
+
+33
+65
+62
+28
+93
+33
+
+62
+9
+33
+9
+18
+
+18
+93
+17
+56
+
+33
+43
+39
+33
+38
+
+18
+38
+18
+24
+56
+
+4
+62
+62
+9
+
+18
+78
+
+5
+92
+
+4
+72
+
+10
+93
+
+33
+17
+
+82
+
+39
+
+89
+
+33
+
+82
+
+46
+
+43
+39
+
+56
+33
+
+30
+46
+
+9
+92
+
+30
+
+9
+28
+
+72
+56
+
+61
+43
+
+92
+73
+
+61
+
+9
+
+62
+
+30
+
+43
+
+38
+
+30
+
+82
+
+92
+
+48
+65
+
+93
+6
+
+33
+
+32
+93
+
+0
+0
+0
+0
+4
+3
+0
+0
+0
+17
+1
+0
+0
+0
+0
+0
+0
+0
+11
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+17
+3
+1
+21
+1
+0
+0
+1
+18
+3
+0
+0
+0
+3
+6
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+2
+1
+4
+2
+0
+16
+1
+0
+0
+0
+0
+0
+0
+3
+10
+0
+0
+0
+0
+0
+4
+0
+0
+1
+6
+0
+7
+0
+1
+16
+0
+0
+0
+1
+11
+6
+0
+0
+0
+5
+0
+0
+3
+0
+1
+0
+0
+
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+
+China
+India
+Indonesia
+Iran
+Iraq
+Israel
+Japan
+Cambodia
+Korea Rep
+Laos
+Malaysia
+Mongolia
+Nepal
+Pakistan
+Philippines
+Saudi Arabia
+Syria
+Thailand
+Turkey
+Viet Nam
+Austria
+Bel-Lux
+Bulgaria
+Denmark
+Finland
+France
+Germany
+Greece
+Hungary
+Ireland
+Italy
+Netherlands
+Norway
+Poland
+Portugal
+Romania
+Spain
+Sweden
+Switzerland
+UK
+Australia
+New Zealand
+Papua N Guin
+
+59
+65
+53
+56
+9
+56
+57
+93
+59
+93
+61
+62
+65
+31
+65
+61
+67
+93
+9
+82
+71
+72
+61
+56
+82
+76
+82
+38
+79
+80
+81
+82
+89
+79
+89
+56
+61
+79
+89
+79
+91
+92
+93
+
+79
+82
+
+93
+31
+
+33
+93
+
+30
+
+9
+56
+
+61
+93
+
+30
+43
+
+38
+38
+
+33
+
+18
+
+65
+
+65
+
+33
+
+18
+
+93
+30
+
+18
+65
+
+59
+93
+
+33
+82
+
+30
+
+31
+
+33
+
+93
+
+65
+61
+59
+
+30
+81
+93
+
+33
+56
+33
+
+9
+93
+
+56
+37
+89
+
+92
+82
+79
+
+38
+72
+
+79
+
+89
+79
+
+79
+61
+
+72
+81
+
+79
+93
+56
+61
+38
+89
+
+82
+89
+33
+82
+81
+72
+
+72
+30
+30
+79
+82
+
+93
+92
+56
+
+38
+79
+
+56
+
+81
+
+72
+
+76
+
+38
+
+56
+
+28
+56
+61
+43
+78
+56
+59
+24
+59
+60
+61
+62
+93
+65
+65
+28
+78
+56
+9
+93
+71
+72
+73
+74
+72
+76
+61
+78
+79
+80
+81
+82
+89
+61
+78
+38
+38
+79
+89
+71
+91
+92
+93
+
+93
+6
+9
+38
+61
+
+30
+82
+93
+61
+38
+
+65
+65
+9
+9
+
+93
+
+82
+93
+
+56
+7
+
+33
+
+18
+
+33
+82
+
+6
+33
+
+65
+30
+
+93
+56
+61
+61
+59
+
+61
+9
+93
+72
+6
+
+89
+
+82
+
+79
+
+79
+
+76
+
+72
+
+82
+89
+82
+9
+81
+82
+
+93
+93
+82
+37
+89
+
+71
+56
+56
+56
+72
+
+72
+
+93
+
+56
+
+61
+
+38
+
+78
+
+81
+
+27
+
+9
+76
+
+93
+
+0
+0
+0
+0
+0
+17
+0
+0
+4
+0
+17
+3
+0
+0
+10
+0
+0
+0
+0
+0
+0
+10
+0
+0
+0
+1
+0
+0
+22
+0
+4
+12
+0
+0
+0
+0
+0
+0
+6
+0
+0
+9
+26
+
+0
+0
+0
+0
+0
+12
+0
+0
+2
+0
+11
+7
+0
+0
+7
+0
+0
+0
+0
+0
+2
+7
+1
+0
+0
+2
+0
+5
+3
+0
+2
+13
+0
+0
+0
+0
+0
+0
+6
+0
+0
+4
+19
+
+* The count is the peer count. That is, the number of times that firm acts as a peer for another firm.
+
+20
+
+Table 4: Mean Technical Efficiency Change, Technical Change and TFP
+Change, 1980-2000
+51
+58
+1
+3
+66
+2
+17
+20
+60
+27
+74
+28
+62
+37
+85
+91
+29
+21
+48
+70
+64
+86
+7
+12
+82
+19
+84
+89
+40
+54
+73
+76
+15
+23
+36
+49
+78
+14
+35
+45
+9
+42
+52
+71
+90
+77
+6
+39
+41
+75
+80
+30
+
+Country
+China
+Cambodia
+Algeria
+Burundi
+Saudi Arabia
+Angola
+Nigeria
+South Africa
+Laos
+Canada
+Denmark
+Costa Rica
+Mongolia
+USA
+Portugal
+Australia
+Cuba
+Sudan
+Bangladesh
+Viet Nam
+Pakistan
+Romania
+Ghana
+Malawi
+Netherlands
+Senegal
+Poland
+Switzerland
+Brazil
+Iran
+Bulgaria
+France
+Mozambique
+Tunisia
+Nicaragua
+Myanmar
+Greece
+Morocco
+Mexico
+Peru
+Cote Divoire
+Colombia
+India
+Austria
+UK
+Germany
+Egypt
+Bolivia
+Chile
+Finland
+Ireland
+Dominican Rp
+
+Efficiency Change
+1.044
+1.024
+1.033
+1.015
+1.031
+1.061
+1.016
+1.014
+1.022
+1.000
+1.009
+1.003
+1.000
+1.000
+1.019
+1.000
+1.005
+1.016
+1.007
+1.027
+1.012
+1.008
+1.010
+1.013
+1.000
+1.008
+1.015
+1.000
+1.001
+1.013
+1.014
+1.000
+1.031
+1.011
+1.014
+1.008
+1.007
+1.004
+1.000
+1.011
+1.000
+1.001
+1.008
+1.000
+1.001
+1.003
+1.000
+1.000
+0.998
+1.002
+1.000
+1.000
+
+21
+
+Technical Change
+1.015
+1.033
+1.013
+1.030
+1.010
+0.978
+1.020
+1.023
+1.011
+1.033
+1.022
+1.026
+1.028
+1.026
+1.007
+1.026
+1.020
+1.008
+1.017
+0.997
+1.011
+1.015
+1.012
+1.009
+1.022
+1.013
+1.007
+1.021
+1.019
+1.008
+1.006
+1.020
+0.988
+1.008
+1.004
+1.011
+1.010
+1.012
+1.015
+1.004
+1.014
+1.013
+1.006
+1.014
+1.013
+1.011
+1.012
+1.011
+1.013
+1.009
+1.011
+1.010
+
+TFP Change
+1.060
+1.057
+1.046
+1.046
+1.042
+1.037
+1.037
+1.037
+1.034
+1.033
+1.032
+1.028
+1.028
+1.026
+1.026
+1.026
+1.025
+1.024
+1.024
+1.024
+1.023
+1.023
+1.022
+1.022
+1.022
+1.021
+1.021
+1.021
+1.020
+1.020
+1.020
+1.020
+1.019
+1.018
+1.018
+1.018
+1.017
+1.016
+1.015
+1.015
+1.014
+1.014
+1.014
+1.014
+1.014
+1.013
+1.012
+1.011
+1.011
+1.011
+1.011
+1.010
+
+63
+87
+4
+69
+81
+26
+31
+65
+47
+10
+32
+56
+61
+92
+22
+34
+43
+79
+88
+50
+57
+46
+11
+16
+25
+72
+59
+68
+83
+93
+67
+44
+13
+53
+24
+55
+38
+18
+8
+33
+5
+
+Nepal
+Spain
+Cameroon
+Turkey
+Italy
+Zimbabwe
+El Salvador
+Philippines
+Venezuela
+Kenya
+Guatemala
+Israel
+Malaysia
+New Zealand
+Tanzania
+Honduras
+Ecuador
+Hungary
+Sweden
+Sri Lanka
+Japan
+Uruguay
+Madagascar
+Niger
+Burkina Faso
+Bel-Lux
+Korea Rep
+Thailand
+Norway
+Papua N Guin
+Syria
+Paraguay
+Mali
+Indonesia
+Uganda
+Iraq
+Argentina
+Rwanda
+Guinea
+Haiti
+Chad
+mean
+
+1.010
+1.009
+1.000
+1.005
+1.000
+0.997
+1.000
+1.000
+0.997
+1.000
+1.000
+1.000
+1.000
+1.000
+1.013
+1.000
+1.000
+1.000
+0.992
+1.004
+0.993
+1.000
+1.008
+0.995
+0.990
+1.000
+1.000
+0.994
+0.986
+1.000
+0.982
+1.000
+0.982
+0.978
+1.000
+0.968
+1.000
+1.000
+1.006
+1.000
+1.000
+1.005
+
+1.000
+1.001
+1.009
+1.004
+1.009
+1.011
+1.008
+1.008
+1.009
+1.005
+1.005
+1.004
+1.004
+1.004
+0.990
+1.003
+1.003
+1.003
+1.012
+0.998
+1.009
+1.000
+0.990
+1.004
+1.007
+0.996
+0.995
+1.000
+1.010
+0.992
+1.007
+0.984
+1.001
+1.003
+0.977
+1.008
+0.973
+0.967
+0.958
+0.957
+0.947
+1.006
+
+22
+
+1.010
+1.010
+1.009
+1.009
+1.009
+1.008
+1.008
+1.008
+1.006
+1.005
+1.005
+1.004
+1.004
+1.004
+1.003
+1.003
+1.003
+1.003
+1.003
+1.002
+1.002
+1.000
+0.998
+0.998
+0.997
+0.996
+0.995
+0.995
+0.995
+0.992
+0.989
+0.984
+0.983
+0.981
+0.977
+0.976
+0.973
+0.967
+0.964
+0.957
+0.947
+1.011
+
+Table 5: Annual Mean Technical Efficiency Change, Technical Change and
+TFP Change, 1980-2000
+Year*
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+mean
+
+Efficiency Change Technical Change
+1.021
+0.993
+0.999
+1.023
+0.993
+1.011
+0.991
+1.012
+1.007
+0.995
+0.996
+1.009
+1.023
+1.010
+0.994
+1.020
+1.009
+0.997
+0.989
+1.006
+1.005
+
+0.966
+1.027
+0.997
+0.990
+1.023
+0.988
+0.985
+1.048
+0.987
+1.025
+1.018
+0.979
+0.979
+0.986
+1.030
+1.039
+0.980
+1.033
+1.044
+1.003
+1.006
+
+TFP Change
+0.987
+1.020
+0.996
+1.012
+1.016
+0.999
+0.976
+1.060
+0.993
+1.020
+1.014
+0.987
+1.001
+0.995
+1.023
+1.059
+0.989
+1.030
+1.033
+1.009
+1.011
+
+* Note that 1981 refers to the change between 1980 and 1981, etc.
+
+Table 6: Weighted Annual Mean Technical Efficiency Change, Technical
+Change and TFP Change, 1980-2000
+Year*
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+Mean
+
+Efficiency Change Technical Change
+1.017
+0.990
+1.012
+1.022
+1.008
+1.003
+0.991
+1.018
+1.008
+0.990
+1.008
+1.035
+1.030
+1.029
+0.984
+1.028
+1.030
+1.002
+0.983
+0.996
+1.009
+
+1.011
+1.028
+0.985
+1.022
+1.021
+0.996
+1.008
+1.007
+1.005
+1.029
+1.011
+0.995
+0.981
+1.011
+1.048
+1.010
+1.011
+1.011
+1.039
+1.019
+1.012
+
+* Note that 1981 refers to the change between 1980 and 1981, etc.
+
+23
+
+TFP Change
+1.028
+1.018
+0.996
+1.044
+1.030
+1.000
+0.999
+1.025
+1.013
+1.019
+1.019
+1.030
+1.010
+1.041
+1.031
+1.038
+1.041
+1.012
+1.022
+1.015
+1.021
+
+Table 7: Weighted Means of Annual Technical Efficiency Change, Technical
+Change and TFP Change for the Continents, 1980-2000
+Continent*
+
+Countries
+
+Africa
+1-26
+Nth. Am.
+27,37
+Sth. Am. 28-36,38-47
+Asia
+48-70
+Europe
+71-90
+Australasia
+91-93
+Mean
+1-93
+
+Efficiency
+Change
+1.006
+1.000
+1.000
+1.019
+1.002
+1.000
+1.009
+
+Technical
+Change
+1.007
+1.027
+1.006
+1.010
+1.011
+1.018
+1.012
+
+TFP Change
+1.013
+1.027
+1.006
+1.029
+1.014
+1.018
+1.021
+
+Table 8: Weighted Means of Annual Technical Efficiency Change, Technical
+Change and TFP Change for Efficient and Inefficient Countries, 1980-2000
+Efficiency Level Efficiency Change Technical Change
+in 1980
+TE =1
+0.998
+1.013
+0.6 < TE < 1
+1.003
+1.012
+TE < 0.6
+1.025
+1.011
+Mean
+1.009
+1.012
+
+24
+
+TFP Change
+1.012
+1.015
+1.036
+1.021
+
+Table 9: Annual Mean Shadow Shares, 1980-2000
+Year
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+Mean
+
+Outputs
+Crops
+Livestock
+0.524
+0.476
+0.521
+0.479
+0.510
+0.490
+0.517
+0.483
+0.527
+0.473
+0.500
+0.500
+0.521
+0.479
+0.525
+0.475
+0.524
+0.476
+0.528
+0.472
+0.516
+0.484
+0.528
+0.472
+0.508
+0.492
+0.495
+0.505
+0.503
+0.497
+0.470
+0.530
+0.573
+0.427
+0.516
+0.484
+0.537
+0.463
+0.549
+0.451
+0.498
+0.502
+0.519
+0.481
+
+Area
+0.134
+0.111
+0.111
+0.103
+0.101
+0.088
+0.084
+0.078
+0.077
+0.087
+0.110
+0.126
+0.133
+0.089
+0.121
+0.100
+0.138
+0.142
+0.102
+0.112
+0.114
+0.108
+
+Tractors
+0.171
+0.194
+0.187
+0.178
+0.161
+0.198
+0.165
+0.196
+0.199
+0.202
+0.189
+0.183
+0.197
+0.176
+0.168
+0.183
+0.212
+0.166
+0.151
+0.195
+0.176
+0.183
+
+25
+
+Inputs
+Labour Fertiliser
+0.285
+0.134
+0.281
+0.147
+0.296
+0.135
+0.304
+0.151
+0.292
+0.132
+0.277
+0.131
+0.304
+0.148
+0.284
+0.143
+0.275
+0.165
+0.290
+0.173
+0.278
+0.164
+0.297
+0.142
+0.260
+0.163
+0.269
+0.169
+0.229
+0.188
+0.261
+0.180
+0.262
+0.145
+0.248
+0.160
+0.266
+0.155
+0.258
+0.132
+0.242
+0.167
+0.274
+0.154
+
+Livestock Irrigation
+0.148
+0.128
+0.148
+0.119
+0.149
+0.121
+0.130
+0.134
+0.139
+0.174
+0.170
+0.136
+0.162
+0.136
+0.162
+0.137
+0.153
+0.131
+0.125
+0.122
+0.141
+0.116
+0.144
+0.108
+0.166
+0.080
+0.188
+0.109
+0.177
+0.117
+0.179
+0.096
+0.150
+0.092
+0.173
+0.112
+0.204
+0.122
+0.174
+0.129
+0.173
+0.129
+0.160
+0.121
+
+Table 10: Mean Shadow Shares, 1980-2000
+Firm
+Algeria
+Angola
+Burundi
+Cameroon
+Chad
+Egypt
+Ghana
+Guinea
+Cote Divoire
+Kenya
+Madagascar
+Malawi
+Mali
+Morocco
+Mozambique
+Niger
+Nigeria
+Rwanda
+Senegal
+South Africa
+Sudan
+Tanzania
+Tunisia
+Uganda
+Burkina Faso
+Zimbabwe
+Canada
+Costa Rica
+Cuba
+Dominican Rp
+El Salvador
+Guatemala
+Haiti
+Honduras
+Mexico
+Nicaragua
+USA
+Argentina
+Bolivia
+Brazil
+Chile
+Colombia
+Ecuador
+Paraguay
+Peru
+Uruguay
+Venezuela
+Bangladesh
+Myanmar
+Sri Lanka
+
+Outputs
+Crops
+Livestock
+0.393
+0.607
+0.227
+0.773
+1.000
+0.000
+0.308
+0.692
+0.149
+0.851
+0.785
+0.215
+0.455
+0.545
+0.553
+0.447
+0.992
+0.008
+0.002
+0.998
+0.531
+0.469
+0.817
+0.183
+0.112
+0.888
+0.620
+0.380
+0.536
+0.464
+0.295
+0.705
+0.568
+0.432
+0.721
+0.279
+0.656
+0.344
+0.566
+0.434
+0.191
+0.809
+0.479
+0.521
+0.814
+0.186
+0.550
+0.450
+0.000
+1.000
+0.704
+0.296
+0.751
+0.249
+0.260
+0.740
+0.142
+0.858
+0.114
+0.886
+0.056
+0.944
+0.015
+0.985
+0.023
+0.977
+0.078
+0.922
+0.471
+0.529
+0.136
+0.864
+0.844
+0.156
+0.630
+0.370
+0.286
+0.714
+0.917
+0.083
+0.559
+0.441
+0.441
+0.559
+0.688
+0.312
+0.821
+0.179
+0.447
+0.553
+0.030
+0.970
+0.381
+0.619
+0.874
+0.126
+0.867
+0.133
+1.000
+0.000
+
+Area
+0.000
+0.000
+0.000
+0.030
+0.000
+0.657
+0.000
+0.001
+0.000
+0.045
+0.007
+0.006
+0.049
+0.012
+0.000
+0.001
+0.019
+0.160
+0.000
+0.000
+0.005
+0.005
+0.037
+0.165
+0.066
+0.098
+0.001
+0.047
+0.102
+0.136
+0.440
+0.039
+0.118
+0.034
+0.000
+0.009
+0.000
+0.021
+0.021
+0.143
+0.013
+0.000
+0.160
+0.035
+0.000
+0.036
+0.107
+0.550
+0.137
+0.257
+
+Tractors
+0.025
+0.003
+0.159
+0.254
+0.483
+0.081
+0.091
+0.188
+0.264
+0.287
+0.180
+0.438
+0.092
+0.198
+0.011
+0.600
+0.241
+0.216
+0.235
+0.401
+0.267
+0.121
+0.080
+0.043
+0.254
+0.185
+0.000
+0.413
+0.325
+0.413
+0.213
+0.219
+0.343
+0.281
+0.272
+0.252
+0.105
+0.113
+0.140
+0.126
+0.397
+0.356
+0.210
+0.141
+0.197
+0.039
+0.314
+0.426
+0.311
+0.127
+
+26
+
+Inputs
+Labour Fertiliser
+0.222
+0.449
+0.276
+0.222
+0.044
+0.065
+0.349
+0.015
+0.160
+0.092
+0.120
+0.130
+0.191
+0.246
+0.359
+0.452
+0.407
+0.084
+0.166
+0.121
+0.608
+0.205
+0.381
+0.000
+0.342
+0.074
+0.408
+0.186
+0.000
+0.256
+0.150
+0.125
+0.473
+0.032
+0.118
+0.258
+0.621
+0.069
+0.214
+0.129
+0.536
+0.191
+0.518
+0.180
+0.361
+0.370
+0.057
+0.498
+0.111
+0.050
+0.455
+0.071
+0.539
+0.112
+0.293
+0.025
+0.087
+0.382
+0.186
+0.043
+0.118
+0.021
+0.141
+0.007
+0.045
+0.359
+0.249
+0.199
+0.320
+0.169
+0.221
+0.178
+0.641
+0.043
+0.469
+0.297
+0.350
+0.339
+0.331
+0.138
+0.261
+0.155
+0.353
+0.016
+0.423
+0.154
+0.346
+0.321
+0.369
+0.281
+0.172
+0.523
+0.145
+0.200
+0.021
+0.003
+0.358
+0.194
+0.549
+0.067
+
+Livestock Irrigation
+0.244
+0.060
+0.250
+0.249
+0.731
+0.000
+0.000
+0.352
+0.001
+0.263
+0.012
+0.000
+0.281
+0.192
+0.000
+0.000
+0.109
+0.136
+0.014
+0.368
+0.000
+0.000
+0.158
+0.016
+0.006
+0.438
+0.197
+0.000
+0.731
+0.002
+0.023
+0.101
+0.019
+0.215
+0.058
+0.190
+0.050
+0.026
+0.179
+0.077
+0.000
+0.000
+0.005
+0.172
+0.153
+0.000
+0.017
+0.219
+0.060
+0.459
+0.017
+0.175
+0.214
+0.134
+0.158
+0.064
+0.104
+0.000
+0.139
+0.083
+0.136
+0.071
+0.263
+0.331
+0.004
+0.131
+0.017
+0.221
+0.237
+0.002
+0.025
+0.315
+0.069
+0.141
+0.089
+0.010
+0.029
+0.121
+0.000
+0.262
+0.174
+0.000
+0.000
+0.275
+0.034
+0.018
+0.000
+0.157
+0.153
+0.000
+0.000
+0.231
+0.003
+0.231
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+
+China
+India
+Indonesia
+Iran
+Iraq
+Israel
+Japan
+Cambodia
+Korea Rep
+Laos
+Malaysia
+Mongolia
+Nepal
+Pakistan
+Philippines
+Saudi Arabia
+Syria
+Thailand
+Turkey
+Viet Nam
+Austria
+Bel-Lux
+Bulgaria
+Denmark
+Finland
+France
+Germany
+Greece
+Hungary
+Ireland
+Italy
+Netherlands
+Norway
+Poland
+Portugal
+Romania
+Spain
+Sweden
+Switzerland
+UK
+Australia
+New Zealand
+Papua N Guin
+mean
+
+0.133
+0.710
+1.000
+0.855
+0.949
+0.658
+0.298
+0.771
+0.710
+0.492
+0.818
+0.003
+0.580
+0.320
+0.767
+0.137
+0.956
+0.940
+1.000
+0.543
+0.866
+0.452
+0.770
+0.234
+0.034
+0.928
+0.204
+1.000
+0.633
+0.080
+0.975
+0.029
+0.006
+0.836
+0.531
+0.597
+0.966
+0.162
+0.042
+0.951
+0.510
+0.015
+0.906
+0.519
+
+0.867
+0.290
+0.000
+0.145
+0.051
+0.342
+0.702
+0.229
+0.290
+0.508
+0.182
+0.997
+0.420
+0.680
+0.233
+0.863
+0.044
+0.060
+0.000
+0.457
+0.134
+0.548
+0.230
+0.766
+0.966
+0.072
+0.796
+0.000
+0.367
+0.920
+0.025
+0.971
+0.994
+0.164
+0.469
+0.403
+0.034
+0.838
+0.958
+0.049
+0.490
+0.985
+0.094
+0.481
+
+0.022
+0.328
+0.021
+0.084
+0.073
+0.472
+0.564
+0.036
+0.629
+0.102
+0.253
+0.000
+0.594
+0.325
+0.237
+0.000
+0.003
+0.121
+0.104
+0.718
+0.051
+0.078
+0.036
+0.025
+0.000
+0.104
+0.016
+0.033
+0.181
+0.000
+0.146
+0.277
+0.005
+0.028
+0.085
+0.155
+0.000
+0.000
+0.021
+0.000
+0.000
+0.013
+0.297
+0.108
+
+0.222
+0.156
+0.293
+0.237
+0.265
+0.099
+0.000
+0.246
+0.089
+0.053
+0.118
+0.248
+0.221
+0.401
+0.328
+0.260
+0.235
+0.073
+0.021
+0.182
+0.036
+0.031
+0.402
+0.000
+0.000
+0.030
+0.000
+0.025
+0.105
+0.215
+0.001
+0.052
+0.000
+0.036
+0.005
+0.246
+0.040
+0.000
+0.002
+0.415
+0.240
+0.169
+0.116
+0.183
+
+27
+
+0.000
+0.445
+0.422
+0.360
+0.347
+0.173
+0.019
+0.537
+0.140
+0.640
+0.218
+0.127
+0.142
+0.227
+0.280
+0.092
+0.351
+0.608
+0.377
+0.000
+0.159
+0.261
+0.331
+0.508
+0.017
+0.529
+0.070
+0.238
+0.174
+0.057
+0.209
+0.438
+0.002
+0.352
+0.128
+0.195
+0.261
+0.075
+0.120
+0.258
+0.586
+0.382
+0.022
+0.274
+
+0.017
+0.070
+0.006
+0.221
+0.230
+0.032
+0.004
+0.181
+0.023
+0.204
+0.066
+0.354
+0.044
+0.048
+0.030
+0.006
+0.248
+0.156
+0.306
+0.026
+0.181
+0.030
+0.166
+0.000
+0.000
+0.041
+0.000
+0.279
+0.104
+0.000
+0.285
+0.103
+0.000
+0.008
+0.690
+0.353
+0.291
+0.035
+0.507
+0.018
+0.013
+0.097
+0.015
+0.154
+
+0.740
+0.000
+0.258
+0.098
+0.085
+0.223
+0.389
+0.000
+0.086
+0.000
+0.302
+0.040
+0.000
+0.000
+0.124
+0.643
+0.162
+0.041
+0.030
+0.002
+0.414
+0.110
+0.064
+0.460
+0.865
+0.173
+0.832
+0.237
+0.250
+0.000
+0.073
+0.093
+0.808
+0.468
+0.074
+0.051
+0.107
+0.750
+0.228
+0.110
+0.110
+0.078
+0.122
+0.160
+
+0.000
+0.001
+0.000
+0.000
+0.000
+0.000
+0.023
+0.000
+0.034
+0.000
+0.043
+0.231
+0.000
+0.000
+0.000
+0.000
+0.001
+0.000
+0.161
+0.073
+0.158
+0.489
+0.000
+0.008
+0.118
+0.123
+0.082
+0.187
+0.186
+0.728
+0.285
+0.036
+0.185
+0.109
+0.018
+0.000
+0.301
+0.140
+0.123
+0.200
+0.051
+0.260
+0.429
+0.121
+
+Table 11: Mean Shadow Shares for the Continents, 1980-2000
+Continent
+Africa
+Nth. Am.
+Sth. Am.
+Asia
+Europe
+Australasia
+mean
+
+Outputs
+Crops
+Livestock
+0.501
+0.499
+0.798
+0.203
+0.342
+0.658
+0.669
+0.331
+0.515
+0.485
+0.477
+0.523
+0.519
+0.481
+
+Area
+0.052
+0.001
+0.077
+0.245
+0.062
+0.103
+0.108
+
+Tractors
+0.208
+0.053
+0.251
+0.200
+0.082
+0.175
+0.183
+
+28
+
+Inputs
+Labour Fertiliser
+0.294
+0.176
+0.590
+0.078
+0.257
+0.200
+0.280
+0.110
+0.219
+0.155
+0.330
+0.042
+0.274
+0.154
+
+Livestock Irrigation
+0.128
+0.143
+0.142
+0.138
+0.082
+0.133
+0.140
+0.025
+0.308
+0.174
+0.103
+0.247
+0.160
+0.121
+
+Table 12: Comparison of Mean TFP Change when Average DEA Shadow
+Prices used as Shares in a Tornqvist Index, 1980-2000
+5
+38
+18
+53
+24
+8
+33
+93
+77
+61
+50
+92
+46
+72
+44
+13
+22
+43
+59
+45
+23
+6
+39
+67
+56
+87
+4
+75
+65
+57
+40
+54
+83
+80
+41
+88
+26
+19
+14
+81
+71
+47
+11
+74
+73
+9
+82
+16
+7
+2
+69
+30
+
+Country
+Chad
+Argentina
+Rwanda
+Indonesia
+Uganda
+Guinea
+Haiti
+Papua N Guin
+Germany
+Malaysia
+Sri Lanka
+New Zealand
+Uruguay
+Bel-Lux
+Paraguay
+Mali
+Tanzania
+Ecuador
+Korea Rep
+Peru
+Tunisia
+Egypt
+Bolivia
+Syria
+Israel
+Spain
+Cameroon
+Finland
+Philippines
+Japan
+Brazil
+Iran
+Norway
+Ireland
+Chile
+Sweden
+Zimbabwe
+Senegal
+Morocco
+Italy
+Austria
+Venezuela
+Madagascar
+Denmark
+Bulgaria
+Cote Divoire
+Netherlands
+Niger
+Ghana
+Angola
+Turkey
+Dominican Rp
+
+Malmquist
+0.947
+0.973
+0.967
+0.981
+0.977
+0.964
+0.957
+0.992
+1.013
+1.004
+1.002
+1.004
+1.000
+0.996
+0.984
+0.983
+1.003
+1.003
+0.995
+1.015
+1.018
+1.012
+1.011
+0.989
+1.004
+1.010
+1.009
+1.011
+1.008
+1.002
+1.020
+1.020
+0.995
+1.011
+1.011
+1.003
+1.008
+1.021
+1.016
+1.009
+1.014
+1.006
+0.998
+1.032
+1.020
+1.014
+1.022
+0.998
+1.022
+1.037
+1.009
+1.010
+
+Tornqvist
+0.984
+1.004
+0.995
+1.005
+0.997
+0.983
+0.973
+1.007
+1.028
+1.019
+1.017
+1.019
+1.015
+1.010
+0.998
+0.997
+1.017
+1.016
+1.007
+1.027
+1.028
+1.022
+1.020
+0.997
+1.011
+1.016
+1.015
+1.016
+1.013
+1.007
+1.025
+1.025
+0.999
+1.015
+1.014
+1.006
+1.011
+1.024
+1.019
+1.011
+1.016
+1.007
+0.999
+1.033
+1.020
+1.014
+1.022
+0.998
+1.021
+1.036
+1.008
+1.009
+
+29
+
+Difference
+-0.037
+-0.031
+-0.028
+-0.024
+-0.020
+-0.019
+-0.016
+-0.015
+-0.015
+-0.015
+-0.015
+-0.015
+-0.015
+-0.014
+-0.014
+-0.014
+-0.014
+-0.013
+-0.012
+-0.012
+-0.010
+-0.010
+-0.009
+-0.008
+-0.007
+-0.006
+-0.006
+-0.005
+-0.005
+-0.005
+-0.005
+-0.005
+-0.004
+-0.004
+-0.003
+-0.003
+-0.003
+-0.003
+-0.003
+-0.002
+-0.002
+-0.001
+-0.001
+-0.001
+0.000
+0.000
+0.000
+0.000
+0.001
+0.001
+0.001
+0.001
+
+90
+42
+27
+76
+28
+35
+34
+32
+91
+31
+79
+49
+63
+37
+64
+10
+12
+68
+52
+85
+36
+25
+21
+66
+17
+78
+15
+55
+89
+60
+86
+51
+84
+48
+20
+70
+1
+29
+58
+62
+3
+
+UK
+Colombia
+Canada
+France
+Costa Rica
+Mexico
+Honduras
+Guatemala
+Australia
+El Salvador
+Hungary
+Myanmar
+Nepal
+USA
+Pakistan
+Kenya
+Malawi
+Thailand
+India
+Portugal
+Nicaragua
+Burkina Faso
+Sudan
+Saudi Arabia
+Nigeria
+Greece
+Mozambique
+Iraq
+Switzerland
+Laos
+Romania
+China
+Poland
+Bangladesh
+South Africa
+Viet Nam
+Algeria
+Cuba
+Cambodia
+Mongolia
+Burundi
+Mean
+
+1.014
+1.014
+1.033
+1.020
+1.028
+1.015
+1.003
+1.005
+1.026
+1.008
+1.003
+1.018
+1.010
+1.026
+1.023
+1.005
+1.022
+0.995
+1.014
+1.026
+1.018
+0.997
+1.024
+1.042
+1.037
+1.017
+1.019
+0.976
+1.021
+1.034
+1.023
+1.060
+1.021
+1.024
+1.037
+1.024
+1.046
+1.025
+1.057
+1.028
+1.046
+1.011
+
+1.012
+1.012
+1.031
+1.018
+1.025
+1.012
+1.000
+1.002
+1.023
+1.004
+0.999
+1.013
+1.005
+1.021
+1.018
+1.000
+1.017
+0.990
+1.009
+1.021
+1.012
+0.990
+1.016
+1.032
+1.027
+1.007
+1.009
+0.965
+1.009
+1.021
+1.010
+1.047
+1.007
+1.009
+1.019
+1.003
+1.025
+1.000
+1.031
+0.997
+0.972
+1.011
+
+30
+
+0.002
+0.002
+0.002
+0.002
+0.003
+0.003
+0.003
+0.003
+0.003
+0.004
+0.004
+0.005
+0.005
+0.005
+0.005
+0.005
+0.005
+0.005
+0.005
+0.005
+0.006
+0.007
+0.008
+0.010
+0.010
+0.010
+0.010
+0.011
+0.012
+0.013
+0.013
+0.013
+0.014
+0.015
+0.018
+0.021
+0.021
+0.025
+0.026
+0.031
+0.074
+
+Table 13: Comparison of Weighted Mean TFP Change when Average DEA
+Shadow Prices used as Shares in a Tornqvist Index for the Continents, 19802000
+Continent* Countries
+Africa
+1-26
+Nth. Am.
+27,37
+Sth. Am. 28-36,38-47
+Asia
+48-70
+Europe
+71-90
+Australasia
+91-93
+Mean
+1-93
+
+Malmquist
+1.013
+1.027
+1.006
+1.029
+1.014
+1.018
+1.021
+
+31
+
+Tornqvist
+1.016
+1.022
+1.015
+1.025
+1.015
+1.021
+1.021
+
+Difference
+0.003
+-0.005
+0.009
+-0.004
+0.001
+0.003
+0.000
+
+

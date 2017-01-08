@@ -1,0 +1,757 @@
+AGRICULTURAL
+
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 22 (2000) 29-35
+www.elsevier.com/locate/agecon
+
+An error correction almost ideal demand system for meat in Greece
+G. Karagiannis a, S. Katranidis b, K. Velentzas b,*
+a
+
+Institute of Agricultural Economics and Rural Sociology, National Agriculture Research Foundation of Greece and Department of
+Economics, University of Crete, l84c, Kifisias Av., 145 62 Athens, Greece
+b Department of Economics, University of Macedonia, 156, Egnatia Str., 540 06 Thessaloniki, Greece
+Received 21 August 1997; received in revised form 12 July 1999; accepted 30 July 1999
+
+Abstract
+This paper represents a dynamic specification of the Almost Ideal Demand System (AIDS) based on recent developments on
+cointegration techniques and error correction models. Based on Greek meat consumption data over the period 1958-1993, it
+was found that the proposed formulation performs well on both theoretical and statistical grounds, as the theoretical properties
+of homogeneity and symmetry are supported by the data and the LeChatelier principle holds. Regardless of the time horizon,
+beef and chicken may be considered as luxuries while mutton-lamb and pork as necessities. In the short-run, beef was found
+to have price elastic demand, pork an almost unitary elasticity, whereas mutton-lamb, chicken and sausages had inelastic
+demands; in the long-run, beef, and pork were found to have a demand elasticity greater than one, whereas mutton-lamb,
+chicken, and sausages still had inelastic demands. All meat items are found to be substitutes to each other except chicken and
+mutton-lamb, and pork and chicken. ©2000 Elsevier Science B.V. All rights reserved.
+JEL classification: D12
+Keywords: ECM-AIDS; Meat demand; Greece
+
+1. Introduction
+The Almost Ideal Demand System (AIDS), developed by Deaton and Muellbauer (1980), is by far the
+most commonly used demand system specification in
+the last 15 years. During the period 1980-1991, 89
+empirical applications used the AIDS in demand studies (Buse, 1994). At the same time, a lot of effort has
+been devoted into two interrelated problems associated with the specification and the estimation of the
+AIDS: the first one has to do with the choice between
+its linear or non-linear specification and the second
+with the choice of an aggregate commodity price de* Corresponding author. Tel.: +30-31-843-095;
+fax: +30-31-844-536
+E-mail address: vele@macedonia.uom.gr (K. Velentzas)
+
+flator (Pashardes, 1993; Buse, 1994; Moschini, 1995).
+Despite these problems, the AIDS remains one of the
+better alternative available for empirical demand analysis. Until recently, the AIDS has been estimated with
+conventional econometric techniques, i.e. OLS, SUR
+and MLE, without paying any attention to either the
+statistical properties of the data or the dynamic specification arising from time series analysis.
+Recently though, two studies have attempted to incorporate dynamic elements into the AIDS by relying
+on the statistical properties of the data. Balcombe and
+Davis (1996), on the one hand, proposed the canonical cointegrating regression procedure for estimating
+the AIDS. This procedure is used in cases where commodity prices follow a distributed lag process, or there
+is a seasonal pattern. On the other hand, Karagiannis and Velentzas ( 1997), outlined the potential use of
+
+0169-5150/00/$ - see front matter ©2000 Elsevier Science B.V. All rights reserved.
+PII: SO 169-5150(99)00035-3
+
+30
+
+G. Karagiannis et al.lAgricultural Economics 22 (2000) 29-35
+
+an error correction model (ECM) of the AIDS. Based
+on the time series properties of the data and as long
+as cointegration between the dependent and a linear
+combination of independent variables is ensured, an
+ECM for the AIDS can be established and econometrically estimated it with an iterative seemingly unrelated
+regression (ISUR) procedure. For annual time series
+data, the latter approach seems more appropriate.
+This paper builds on previous work by Karagiannis
+and Velentzas (1997) and to some extent expands it.
+We further explore the methodology for testing and
+setting an error correction form of demand systems
+by presenting a more complete set of alternative tests
+that can be used to establish long-run demand relationships. Moreover, given the structure of an ECM, shortand long-run demand responses can be analyzed. In
+the applied counterpart, the paper provides empirical
+evidence and measures of short- and long-run elasticity estimates for an ECM-AIDS for meat demand in
+Greece over the period 1958-1993.
+Meat demand has been of major interest in applied
+demand analysis for many countries in recent years.
+There are a number of studies for US (e.g. Eales and
+Unnevehr, 1988, 1993; Moschini and Meilke, 1989;
+Moschini and Vissa, 1993; Moschini et al., 1994;
+Nayga and Capps, 1994; Brester and Schroeder, 1995;
+Kesavan and Buhr, 1995; Holt and Goodwin, 1997),
+for Canada (Chalfant et al., 1991; Chen and Veeman,
+1991; Reynolds and Goddard, 1991; Xu and Veeman,
+1996), for Japan (Hayes et al., 1990), for Australia
+(Cashin, 1991), for Saudi Arabia (Al-Kahtani and
+Sofian, 1995), for UK (Bewley and Young, 1987;
+Burton and Young, 1992; Burton et al., 1994, 1996;
+Tiffin and Tiffin, 1999), for France (Fulponi, 1989),
+for Italy (Dono and Thompson, 1994), for Norway
+(Rickertsen, 1996), and for Greece (Karagiannis et
+al., 1996).
+The rest of this paper is organized as follows. The
+empirical model and the econometric results are presented in the following two sections, respectively.
+Elasticity estimates are reported in the Section 4.
+Concluding remarks follow.
+
+2. Empirical modeling
+In the subsequent analysis, it is assumed that consumers' preferences are weakly separable with respect
+
+to meat, and thus, a two-stage budgeting process is im~
+plied. In the first stage, consumers decide how much
+of their total expenditure will be allocated to meat,
+and then, in the second stage, the demand for each
+meat item is determined by the prices of the individual
+meat items and meat expenditures. The AIDS is compatible with this procedure since it aggregates across
+goods under the assumption of weak separability of
+preferences. A linear formation of the AIDS is used
+in budget-share form:
+
+where
+
+si
+
+is the budget-share of the ith commodity,
+
+p j is the price of the jth commodity, m represents
+total food expenditure and P is an aggregate price
+
+index. In the above equation, linearity arises from the
+way of specifying the aggregate price index, which
+in the linear formulation of the AIDS is treated as
+exogenous. Most often the aggregate price index is
+approximated by the Stone's price index, the use of
+which causes inconsistencies in parameter estimates
+(Pashardes, 1993; Buse, 1994; Moschini, 1995). These
+inconsistencies are, however, more serious in micro
+rather than aggregate data (Pashardes, 1993). Recently,
+Asche and Wessells (1997), have shown that the AIDS
+and the linearized AIDS representations are identical
+at the point of approximation as long as the prices in
+the system are normalized to one.
+Following Karagiannis and Velentzas (1997), first
+of all it is necessary to investigate the time-series properties of data used in Eq. (1) before specifying the
+most appropriate dynamic form, in order to be able to
+formally assess whether the long-run demand relationships are economically meaningful or merely spurious.
+Initially, the number of unit roots should be identified
+for each individual time-series (i.e. the order of integration). This may be implemented by using either the
+Dickey-Fuller, the augmented Dicker-Fuller (Dickey
+and Fuller, 1981), the Philips-Perron (Phillips, 1987;
+Perron, 1988), or the Johansen test. A shortcoming of
+the Johansen procedure in the case of applied consumer demand analysis is that there is no a priori information to exclude some vectors as theoretically inconsistent whenever more than one cointegrated vector is found. This is because the sign of the elements
+of the cointegrated vectors, indicating substitutability
+
+31
+
+G. Karagiannis et al./Agricultural Economics 22 (2000) 29-35
+
+or complementary behavior between goods, cannot a
+priori be restricted. Neither the sign of the elements
+corresponding to own-price effects is sufficient to exclude some of the cointegrated vectors, as even a positive sign may under certain circumstances result in a
+downward sloping demand. For these reasons, the use
+of the other three tests is recommended.
+Wherever both S; and the vector of explanatory
+variables are integrated on the same order, cointegration can be established for all meat items. However,
+it is also possible to have a cointegrated regression
+even though the variables of interest have different
+time series properties and thus, a different order of
+integration. According to Granger representation theorem, a linear combination of series with a different
+order of integration may consist a cointegrated regression. Therefore, ultimate time-series properties are not
+a necessary condition to proceed further. If, however,
+cointegration cannot be established for at least one
+share equation, we cannot proceed further and more
+likely a different functional specification may be used
+or the data set should be enlarged.
+Given the low power of static cointegration tests to
+discriminate against alternative hypothesis, a dynamic
+modeling procedure recommended by Banerjee et al.
+(1986) and Kremers et al. (1992), may also be used
+to test for cointegration between expenditure, commodity prices, and real expenditure. According to this
+methodology, at a first instance an ECM is formulated
+and estimated. Then, the hypothesis that the coefficient
+of the error correction term is not statistically significant is tested by using a traditional t-test. If the null
+hypothesis is not rejected, the series concerned are not
+cointegrated. Otherwise, the existence of cointegration
+between the relevant variables is ensured. In the presence of possible autocorrelation, which may be a cause
+of non-stationarity of residuals, stationarity may also
+be examined by using Box-Pierce Q-statistic. Absence
+of serial correlation means that the estimated residuals
+are stationary implying that the variables concerned
+are cointegrated.
+Nevertheless, in the above three cases an ECM version of the AIDS can be set up and estimated using a seemingly unrelated regression (SUR) procedure, which adjusts for cross-equation contemporaneous correlation and consequently takes into account
+the optimization process behind any demand system.
+At this stage, the imposition of symmetry and linear
+
+Table 1
+Tests for unit root and cointegration, meat demand in Greece,
+1958-1993a
+Variable
+
+SsE
+SML
+ScH
+Spo
+SsA
+lnpsE
+lnpML
+lnpcH
+lnppo
+lnpsA
+ln(m/P)
+
+Unit root test
+Level
+
+First difference
+
+-2.77
+-2.71
+-1.96
+-1.86
+-1.71
+-1.84
+-2.44
+-1.80
+-1.74
+-1.77
+-0.94
+
+-6.11
+-6.80
+-8.28
+-6.82
+-6.91
+-4.73
+-3.67
+-4.37
+-5.66
+-7.00
+-6.15
+
+Cointegration
+test
+
+-4.63
+-4.71
+-6.02
+-4.91
+-4.62
+
+Notes: Unit root is based f>.x, = a + f3x,_ 1 + y Time+
++ v,. In this equation, x, denotes the variables
+concerned in Eq. (1). Table 1 reports the Yr statistic (Dickey
+and Fuller, 1981). The econometric package used was SHASAM,
+version 7 .0. For unit test the tabulated critical value at 10% is
+3.13 and for cointegration test, 4.42.
+a
+
+LJ=l ej f>.x,_ j
+
+homogeneity restrictions can be statistically tested. To
+implement it further, a budget-share equation, which
+in this case is that of sausages, should be excluded
+(adding-up property). Since SUR is sensitive to the
+excluded equation, the procedure should be iterated.
+The process of iteration ensures that the obtained estimates asymptotically approach those of the maximum
+likelihood method (Judge et al., 1980).
+
+3. Econometric results
+In the empirical analysis, annual time-series data
+on food expenditures are obtained from several issues of the National Accounts, published by the
+National Statistical Service of Greece. Current and
+constant (at 1970 prices) meat expenditures are aggregated into five categories: beef (BE); mutton and
+lamb (ML); chicken (CH); pork (PO); and sausages
+(SA). The price index corresponding to each meat
+group is derived by dividing current by constant
+expenditures.
+The results related to the time-series properties
+of these data are reported in Table 1. Based on a
+Phillips-Perron test (Phillips, 1987; Perron, 1988),
+the hypothesis that all the variables in Eq. (1) contain
+
+32
+
+G. Karagiannis et al. I Agricultural Economics 22 (2000) 29-35
+
+In Eq. (2), !':i refers to the difference operator, ftit-l
+are the estimated residuals from cointegration equations, and Ai < 0. At this stage, there are two alternative estimation procedures: the two-step method of
+Engle and Granger (1987), and a nonlinear regression
+technique by substituting (1) for /Lit-! in (2). The Engle and Granger's (Engle and Granger, 1987) two-step
+method is applied by substituting the estimated parameters values from the cointegration Eq. (1) into the
+ECM equation to obtain parameter estimates in Eq.
+(2). This is equivalent to use the estimated residuals
+from the cointegration equations as a regressor in Eq.
+(2). For the purposes of the present paper, Engle and
+Granger's two-step method is used.
+The habit effects embedded in Eq. (2) may be referred to as short memory, linear habit formation, with
+
+additive persistence effects 2 . The term short memory
+is used because only last period's consumption pattern (i.e. a one-period lag) is allowed to condition current allocation decisions. Thus, in our formation (2),
+it indicates that previous distribution of food expenditures affects current decisions. This formulation is
+quite similar to that used by Kesavan and Buhr (1995).
+The hypotheses of linear homogeneity, and symmetry and homogeneity, are also tested. Based on a Wald
+test, the maintenance of both homogeneity, and symmetry and homogeneity, cannot be rejected at a 5%
+significance level. For homogeneity testing the calculated value of x2 is 5.31 and the corresponding tabulated value is 9.49 for 4 degrees of freedom and 5%
+level of significance, whereas for homogeneity and
+symmetry testing the calculated value of x2 is 17.82
+and the corresponding tabulated value is 18.31 for
+10 degrees of freedom and 5% level of significance.
+This suggests that the empirical results are at least
+theoretically consistent and valid for this functional
+specification.
+The estimated parameters reported in Table 2 possess both properties of homogeneity and symmetry.
+The computed budget-shares satisfy monotonicity
+and the concavity of the underlying (true) expenditure function is ensured by the fact that all own-price
+Hicksian elasticities (see Table 4) are negative, and
+consequently the corresponding Slutsky matrix is negative semi-definite. Finally, the estimated parameters
+of the error correction terms, A.;, are all statistically
+significant and have the correct signs, indicating that
+deviations from long-run equilibrium are corrected
+within the time period. It is also worth noting that
+the significance of the error correction terms in SUR
+estimates is consistent with the previously obtained
+results of cointegration analysis.
+The hypothesis of the overall habit formation cannot be rejected. Based on Wald test, the calculated
+value of x2 for testing habits formation is 17.07
+and the corresponding tabulated value is 9.49 for 4
+degrees of freedom and 5% level of significance.
+Nevertheless, habits seem to be of low importance in
+explaining chicken consumption patterns. Thus, pre-
+
+At this point we recognized the limited number of observations
+for conducting cointegration tests. For this reason, we have used
+the Engle and Granger's (1987) methodology, which provides
+reliable estimates with a small sample size.
+
+2 More general forms of habit formation are developed by Holt
+and Goodwin (1997). They considered the long memory, nonlinear,
+non-additive habit effect as the most general formation, which
+may be nested to short memory, linear habit formation used in
+this paper.
+
+a unit root cannot be rejected at the 10% significance level. When first differences are used, unit
+root non-stationarity was rejected at the same level
+of significance. This indicates that the levels of all
+tested variables are non-stationary, i.e. 1(1), and thus,
+a standard statistical inference is validated (Dickey
+and Fuller, 1981). The next step is to test for cointegration between the variables of Eq. (1) using
+the Engle and Granger (1987) methodology 1 . According to the result reported in the third column
+of Table 1 all budget-shares are cointegrated with
+commodity prices and real expenditure at a 10%
+significance level. Cointegration ensures that shocks
+affecting commodity prices or real expenditures will
+be reflected on different expenditure shares in a similar way showing that these variables are moving
+together in the long-run and obey an equilibrium
+constraint.
+Having established that all the variables in Eq. (1)
+are 1(1) process and cointegrated, the estimated ECM
+form of the AIDS is given as:
+!:iS;= ~i !':iS;r-1
+
+n
+
++ LYij!':i In pi+ ,B; !':i In(;)
+i=l
+
++Aiftit-l
+
+1
+
++ Ut
+
+(2)
+
+G. Karagiannis et al. I Agricultural Economics 22 (2000) 29-35
+
+33
+
+Table 2
+Estimated parameters of an AIDS-ECM for meat demand in Greece, 1958-1993a
+Parameters
+'Yil
+'Yi2
+'Yi3
+'Yi4
+'Yi5
+l3i
+
+~i
+Ai
+a
+
+Beef
+
+Mutton-Lamb
+
+Chicken
+
+Pork
+
+Sausages
+
+-0.1958( -3.99)
+0.0029(0.09)
+0.0712(3.05)
+0.0828(2.71)
+0.0389(3.61)
+0.1772(3.83)
+0.2296(3.35)
+-0.7927( -7.95)
+
+0.1113(3.42)
+-0.0741(-3.67)
+-0.0096( -0.48)
+-0.0305( -3.38)
+-0.1437(-4.74)
+0.1831 (2.52)
+-0.7268( -6.99)
+
+0.0428(1.66)
+-0.0287(-1.64)
+-0.0113( -1.30)
+0.0365(1.64)
+0.1 066( 1.25)
+-0.6814( -6.42)
+
+-0.0248( -0.87)
+-0.0198( -2.63)
+-0.0671 ( -1.70)
+0.3035(3.73)
+-0.8270(-8.06)
+
+0.0227
+-0.0029
+-0.4190
+
+Numbers in parentheses are t-ratios.
+
+vious years' (relative) expenditure for chicken does
+not affect the current meat expenditure allocation
+decisions and consumers are able to adjust chicken
+consumption to long-run equilibrium considerably
+faster than consumption the other meat items. That
+is, the current chicken consumption adjusts by 89%
+to the difference between the previous years' and the
+long-run consumption levels. This is a consequence
+of the low importance of habits in explaining chicken
+consumption patterns. On the other hand, according to
+the estimated parameters reported in Table 2, the rate
+of change in the budget-share of beef, mutton-lamb,
+and pork has been exaggerated over time. That is,
+habits induced a faster rate of expansion of these meat
+items' budget-share.
+
+are no differences in formulas used to calculate price
+and expenditure elasticities between the AIDS and the
+linearized AIDS as long as calculations are made at
+the point of normalization. The Marshallian price and
+expenditure elasticities are measured respectively as:
+
+c:N! =
+11
+
+-8 + ( YiJ)
+- (f3i)
+S.
+si
+si
+
+1
+
+(3)
+
+(4)
+where 8 is the Kronecker delta. The Hicksian elasticities are then obtained through Slutsky equation in
++ YJi s1, as follows:
+elasticity form, namely, £~ =
+
+sfJ
+
+H
+
+sij
+
+= -8 + (Yij)
+S; + SJ
+
+(5)
+
+4. Elasticity estimates
+The estimates of the own-price Marshallian and expenditure elasticities are reported in Table 3. These
+estimates refer to the point of normalization, i.e. to
+1975. As shown by Asche and Wessells (1997), there
+Table 3
+Marshallian and expenditure elasticities for meat demand in
+Greece, 1958-1993
+
+Beef
+Mutton-Lamb
+Chicken
+Pork
+Sausages
+
+Own-price elasticites
+
+Expenditure elasticities
+
+Short-run Long-run
+
+Short-run Long-run
+
+-1.76
+-0.46
+-0.72
+-1.06
+-0.54
+
+1.52
+0.49
+1.27
+0.65
+0.94
+
+-2.28
+-0.56
+-0.81
+-1.52
+-0.93
+
+1.97
+0.60
+1.42
+0.93
+1.62
+
+Estimates of short-run elasticities are obtained by using the above formulas and the estimated parameters
+of (2), while their long run counterparts are measured
+by using the same formulas and the estimated parameters of the cointegration equations (Johnson et al.,
+1992).
+The short-run own-price Marshallian elasticities for
+all meat items are found to be negative, and thus
+the corresponding demand and pork curves are downward sloping (see Table 3). Beef was found to have
+price elastic demand, pork an almost unitary elasticity, whereas mutton-lamb, chicken and sausages had
+inelastic demands. When the long-run own-price Marshallian elasticities are considered, beef and pork were
+found to have a demand elasticity greater than one,
+whereas mutton-lamb, chicken and sausages still had
+inelastic demands. It is interesting to note that the
+
+34
+
+G. Karagiannis et al. I Agricultural Economics 22 (2000) 29-35
+
+Table 4
+Short-run Hicksian elasticities for meat demand in Greece,
+1958-1993
+Price of
+Beef
+
+Mutton-Lamb Chicken Pork
+
+Beef
+-1.24
+0.29
+Mutton-Lamb
+0.35 -0.32
+Chicken
+0.86 -0.26
+0.23
+Pork
+0.76
+1.12 -0.33
+Sausages
+
+0.35
+-0.13
+-0.55
+-0.02
+-0.09
+
+Sausages
+
+0.44 0.17
+0.16 -0.06
+-O.D3 -0.03
+-0.93 -0.05
+-0.20 -0.49
+
+two meat items with both short- and long-run inelastic demand (i.e. mutton-Iamb and chicken) exhibited
+only minimal changes in price response between the
+short and long run. Given that short-run elasticities are
+smaller than their long-run counterparts for all meat
+items, the LeChatelier principle holds 3 .
+The estimated expenditure elasticities are also reported on Table 3. Beef and chicken were found to
+have a short-run elasticity greater than one, indicating that these two meat items can be considered to be
+luxuries. On the other hand, mutton-Iamb, pork, and
+sausages were found to behave as necessities. In the
+long run, all meat items except sausages, exhibited
+similar behavior with regard to expenditure changes.
+That is, only sausages tended to change for a necessary
+good in the short-run to a luxury good in the long run.
+Finally, given the magnitude of short- and long-run
+expenditure elasticities it is clear that the LeChatelier
+principle is also satisfied with regard to expenditure
+elasticities.
+All meat items are found to be substitutes to each
+other except chicken and mutton-lamb, and pork and
+chicken (see Table 4). Sausages however, have, a totally different behavior as it is found to be complement with all other meat items except beef. This result may be explained by the fact that sausages is a
+meat by-product, which is not used for basic nutrition
+needs, but mainly as an appetizer good. Unfortunately,
+there are no previous empirical results in this issue,
+especially based on evidence from other countries, to
+provide an alternative line of comparison.
+3 The LeChatelier principle states that long-run demand fimctions are more price and expenditure sensitive than their short-run
+counterparts. Thus, at the optimum, price and expenditure elasticities are greater in long-rather than short-run (Silberberg, 1992,
+pp. 216-222).
+
+Compared with previous findings by Karagiannis
+et al. (1996), on meat demand in Greece, the estimated own-price Marshallian elasticities in the present
+study are greater for beef and mutton-lamb and smaller
+for chicken, pork and sausages. Accordingly, the estimated expenditure elasticities are greater compared
+to the findings of Karagiannis et al. (1996), for all
+the meat items considered in this study except for
+mutton-lamb, which are close to each other. These differences may be due to different aggregation schemes,
+time periods covered, model specification and econometric estimation techniques.
+
+5. Concluding remarks
+This paper represents a dynamic specification of the
+AIDS based on recent developments on cointegration
+techniques and error correction models. The AIDS is
+adjusted accordingly to give rise to an AIDS-ECM.
+Based on the Greek meat consumption data over the
+period 1958-1993, it was found that the proposed
+formulation performs well in both theoretical and
+statistical grounds. In particular, the theoretical properties of homogeneity and symmetry are supported
+by the data and thus the obtained elasticity estimates
+are valid and accurate for policy issues analysis. This
+suggests that more attention should be paid to the
+statistical properties of the data before a particular
+specification of the expenditure share equation is
+chosen.
+The proposed model has also the ability to provide
+estimates of both short- and long-run demand elasticities, a feature that significantly enlarges the alternatives for policy simulations. Given that in the case of
+meat consumption in Greece, short- and long-run demand elasticities have great differences to each other
+(except for chicken) price or income changes is expected to affect quite differently consumers behavior.
+For chicken, however, the difference between shortand long-run price elasticities is very small (see Table 3) and given the low importance of habits formation, it is expected that will not be any significant difference between consumers reaction to price
+changes in the short- and long-run. In contrast, this is
+not the case for the other meat items considered in this
+study.
+
+G. Karagiannis et al.!Agricultural Economics 22 (2000) 29-35
+
+Acknowledgements
+
+We would like to thank an anonymous referee for
+his constructive comments and suggestions.
+References
+Al-Kahtani, S.H., Sofian, B.E.-d.E., 1995. Estimating preference
+change in meat demand in Saudi Arabia. Agric. Econ. 12, 9198.
+Asche, F., Wessells, C., 1997. On price indices in the almost ideal
+demand system. Am. J. Agric. Econ. 79, 1182-1185.
+Balcombe, K.G., Davis, J.R., 1996. An application of cointegration
+theory in the estimation of the almost ideal demand system for
+food consumption in Bulgaria. Agric. Econ. 15, 47-60.
+Baneijee, A., Dolado, J., Hendry, D., Smith, G., 1986. Exploring
+equilibrium relationships in econometrics through static models:
+Some Monte Carlo evidence. Oxf. Bullet Econ. Stat. 48, 253278.
+Bewley, R., Young, T., 1987. Applying Theil's multinomial
+extension of the linear model to meat expenditure data. Am. J.
+Agric. Econ. 69, 151-157.
+Brester, G.W., Schroeder, T.C., 1995. The impact of brand and
+generic advertising on meat demand. Am. J. Agric. Econ. 77,
+969-979.
+Burton, M., Young, T., 1992. The structure of changing tastes
+for meat and fish in Great Britain. Eur. Rev. Agric. Econ. 19,
+165-180.
+Burton, M., Dorsett, R., Young, T., 1996. Changing preferences
+for meat: Evidence from UK household data, 1973-1993. Eur.
+Rev. Agric. Econ. 23, 357-370.
+Burton, M., Tomlinson, M., Young, T., 1994. Consumers' decision
+whether or not to purchase meat: A double hurdle model of
+single adult households. J. Agric. Econ. 45, 202-212.
+Buse, A., 1994. Evaluating the linearized almost ideal demand
+system. Am. J. Agric. Econ. 76, 781-793.
+Cashin, P., 1991. A model of the disaggregated demand for meat
+in Australia. Austr. J. Agric. Econ. 41, 263-283.
+Chalfant, J., Gray, R., White, K., 1991. Evaluating prior beliefs in
+a demand system: The case of meat demand in Canada. Am.
+J. Agric. Econ. 73, 476-490.
+Chen, P., Veeman, M., 1991. An almost ideal demand system
+analysis for meats with habit formation and structural change.
+Can. J. Agric. Econ. 39, 223-235.
+Deaton, A.S., Muellbauer, J., 1980. An almost ideal demand
+system. Am. Econ. Rev. 70, 312-326.
+Dickey, D.A., Fuller, W.A., 1981. Likelihood ratio statistics for
+autoregressive time series with a unit root. Econometrica 49,
+1057-1072.
+Dono, G., Thompson, G., 1994. Explaining changes in Italian
+consumption of meat: Parametric and non-parametric analysis.
+Eur. Rev. Agric. Econ. 21, 175-198.
+Eales, J., Unnevehr, L., 1988. Demand for beef and chicken
+products: Separability and structural change. Am. J. Agric.
+Econ. 70, 521-532.
+
+35
+
+Eales, J., Unnevehr, L., 1993. Simultaneity and structural change
+in US meat demand. Am. J. Agric. Econ. 75, 259-268.
+Engle, R.F., Granger, C.W.J., 1987. Cointegration and the
+error correction: Representation, estimation and testing.
+Econometrica 55, 251-276.
+Fulponi, L., 1989. The almost ideal demand system: An application
+to food and meat groups for France. J. Agric. Econ. 40, 82-92.
+Hayes, D., Wahl, T., Williams, G., 1990. Testing restrictions on
+a model of Japanese meat demand. Am. J. Agric. Econ. 72,
+556-566.
+Holt, M., Goodwin, B., 1997. Generalized habit formation in an
+inverse almost ideal demand system: An application to meat
+expenditures in the US. Empir. Econ. 22, 293-320.
+Johnson, J., Oksanen, E., Veall, M., Fretz, D., 1992. Short-run
+and long-run elasticities for Canadian consumption of alcoholic
+beverages: An error-correction mechanisrn/cointegration
+approach. Rev. Econ. Stat. 74, 64--74.
+Judge, G., Griffiths, W., Cartel Hill, R., Lutkepohl, H., Lee, T.,
+1980. The Theory and Practice of Econometrics. Wiley, New
+York.
+Karagiannis, G., Velentzas, K., 1997. Explaining food consumption
+patterns in Greece. J. Agric. Econ. 48, 83-92.
+Karagiannis, G., Katranidis, S., Velentzas, K., 1996. A quantitative
+analysis of demand for meat items in Greece 1965-1992. Scott.
+Agric. Econ. Rev. 9, 47-56.
+Kesavan, T., Buhr, B., 1995. Price determination and dynamic
+adjustments: An inverse demand system approach to meat
+products in the United States. Empir. Econ. 20, 681-698.
+Kremers, J., Ericsson, N., Dolado, J., 1992. The power of
+cointegration tests. Oxf. Bull. Econ. Stat. 54, 325-348.
+Moschini, G., 1995. Units of measurement and the Stone index in
+demand system estimation. Am. J. Agric. Econ. 77, 63-68.
+Moschini, G., Meilke, K., 1989. Modeling the pattern of structural
+change in US meat demand. Am. J. Agric. Econ. 71, 253-261.
+Moschini, G., Vissa, A., 1993. Flexible specification of mixed
+demand systems. Am. J. Agric. Econ. 75, 1-9.
+Moschini, G., Mora, D., Green, R., 1994. Maintaining and testing
+separability in demand systems. Am. J. Agric. Econ. 76, 61-73.
+Nayga, R., Capps, 0., 1994. Tests of weak separability in
+disaggregated meat products. Am. J. Agric. Econ. 76, 800-808.
+Pashardes, P., 1993. Bias in estimating the almost ideal demand
+system with the Stone index approximation. Econ. J. 103, 908915.
+Perron, P.P., 1988. Trends and random walks in macroeconomic
+time series: Further evidence and implications. J. Econ. Dyn.
+Control 12, 279-332.
+Phillips, P.P., 1987. Time series regression with a unit root.
+Econometrica 55, 277-301.
+Reynolds, A., Goddard, E., 1991. Structural change in Canadian
+meat demand. Can. J. Agric. Econ. 39, 211-222.
+Rickertsen, K., 1996. Structural change and the demand for meat
+and fish in Norway. Eur. Rev. Agric. Econ. 23, 316-330.
+Silberberg, E., 1992. The Structure of Economics: A Mathematical
+Analysis, 2nd ed. McGraw-Hill Publ. Co, New York.
+Tiffin, A., Tiffin, R., 1999. Estimates of food demand elasticities
+for Great Britain 1972-1994. J. Agric. Econ. 50, 140-147.
+Xu, X., Veeman, M., 1996. Model choice and structural
+specification for Canadian meat consumption. Eur. Rev. Agric.
+Econ. 23, 301-315.
+
+

@@ -1,0 +1,814 @@
+Agricultural Economics 31 (2004) 241–249
+www.elsevier.com/locate/agecon
+
+Farm size and the determinants of productive efficiency in
+the Brazilian Center-West
+Steven M. Helfand*, Edward S. Levine
+Department of Economics, University of California, Riverside, CA 92521, USA
+
+Abstract
+This paper explores the determinants of technical efficiency, and the relationship between farm size and efficiency, in the
+Center-West of Brazil. This is the region where agricultural production and total factor productivity have grown the fastest since
+1970. It is also a region characterised by unusually large farms. Technical efficiency is studied with Data Envelopment Analysis
+and county level data disaggregated by farm size and type of land tenure. The efficiency measure is regressed on a set of
+explanatory variables which includes farm size, type of land tenure, composition of output, access to institutions and indicators
+of technology and input usage. The relationship between farm size and efficiency is found to be non-linear, with efficiency first
+falling and then rising with size. Type of land tenure, access to institutions and markets, and modern inputs are found to be
+important determinants of the differences in efficiency across farms.
+# 2004 Elsevier B.V. All rights reserved.
+JEL classification: Q100; O300
+Keywords: Brazil; Agriculture; Productivity; Efficiency; DEA
+
+1. Introduction
+The majority of studies of agricultural productivity
+in developing countries support the view that there is
+an inverse relationship between productivity and farm
+size (Berry and Cline, 1979; Barrett, 1996). If correct,
+land reform could contribute to improving both equity
+and efficiency in agriculture. Most of these studies,
+however, are based on partial measures of productivity
+* Corresponding author. Tel.: +1 909 827 1572.
+E-mail addresses: shelfand@mail.ucr.edu (S.M. Helfand),
+tedlevine@earthlink.net (E.S. Levine).
+
+such as yield which are biased in favor of small
+producers. It is likely that the inverse relationship
+would be less pronounced, or perhaps even reversed, if
+a measure of total factor productivity (TFP) were used
+instead. It has also been suggested that the inverse
+relationship might weaken in a region characterised by
+rapid modernization. This paper explores the relationship between farm size and technical efficiency in
+exactly this type of environment. The Center-West
+(CW) is the region of Brazil where production and
+TFP have grown the fastest since 1970. Gasques and
+Conceic¸a˜o (2001) and Vicente et al. (2001) both
+estimate annual TFP growth rates for the CW to be in
+
+0169-5150/$ – see front matter # 2004 Elsevier B.V. All rights reserved.
+doi:10.1016/j.agecon.2004.09.021
+
+242
+
+S.M. Helfand, E.S. Levine / Agricultural Economics 31 (2004) 241–249
+
+the 4–5% range for the period 1970–1995, or about
+twice the national average. It is also a region
+characterised by unusually large farms: the average
+farm size in the CW is about six times the national
+average.
+A second objective of this paper is to extend the
+recent Brazilian literature on total factor productivity
+growth in agriculture to an analysis of the determinants of productivity. We do this in two ways. First,
+most recent studies have limited themselves to the
+measurement of TFP. Only one has sought to analyse
+the determinants of TFP in an econometric framework
+(Vicente et al., 2003). In this paper we regress a
+measure of technical efficiency on a set of explanatory
+variables which includes farm size, type of land
+tenure, composition of output, access to institutions,
+and indicators of technology and input usage. Second,
+previous studies have been based on national or state
+level data. These have provided a valuable first
+approximation to productivity change in the past
+several decades. The Brazilian agricultural sector,
+however, is far too heterogeneous for us to be satisfied
+with studies conducted at this level. In this paper, we
+use data from 426 counties, 15 farm size classes and
+four types of land tenure. This permits us to avoid
+many of the issues of aggregation bias present in
+previous studies, and generates a far richer set of data
+for studying the determinants of efficiency.
+The paper is organised as follows. Section 2 briefly
+presents the Data Envelopment Analysis methodology
+that is used to estimate technical efficiency. Section 3
+describes the data and the construction of the
+variables. Section 4 analyses the empirical results,
+with an emphasis on farm size and Section 5 provides
+conclusions.
+
+DEA is a non-parametric technique and that it can
+accommodate multiple outputs and inputs. In addition,
+the econometric theory has yet to be developed for
+incorporating spatial correlation into a stochastic
+frontier model.
+We use output distance functions to characterise the
+frontier of a multiple-input multiple-output production
+technology, and the proportional distance of each
+observation from the frontier. The following notation
+is used. The production possibilities set P is the
+combination of all pairs of inputs x and outputs y that
+are feasible, where x and y are vectors. Inputs and
+outputs are assumed to be freely disposable, and P is
+assumed to be non-empty, closed, and convex. The
+output distance function D0 is
+ 
+
+
+1
+(1)
+D0 ðx; yÞ ¼ inf u : x; y 2 P
+u
+where u is a non-negative scalar that measures the ratio
+of the observed vector of outputs to the maximum
+vector that could be achieved, given the input vector, if
+all outputs were expanded proportionally. The inverse
+of the output distance function, the Farrell outputoriented measure of technical efficiency, is used here
+as a measure of efficiency. The Farrell measure equals
+one for efficient firms on the frontier, and then
+increases with inefficiency.
+Farrell efficiency measures can be found as the
+solution to a linear programming problem under
+alternative assumptions about returns to scale. With K
+farms, N inputs, M outputs and the assumption of
+constant returns to scale (CRS), the following linear
+program must be solved for every observation:
+½D0 ðx; yÞÀ1 ¼ max u
+ðz;uÞ
+
+s:t:
+2. Methodology
+We use Data Envelopment Analysis (DEA) to
+calculate productive efficiency (Fa¨ re et al., 1994).
+Efficiency is defined in a relative sense, as the distance
+between observed input–output combinations and a
+best practice frontier. DEA is one of several
+techniques that can be used to calculate a best practice
+production frontier (Coelli et al., 1998; Kumbhakar
+and Lovell, 2000). The principal advantages of DEA,
+as opposed to stochastic frontier estimation, are that
+
+uk ymk
+
+K
+X
+zk ymk ; m ¼ 1; . . . ; M
+
+(2)
+
+k¼1
+K
+X
+
+zk xnk
+
+k¼1
+
+zk ! 0;
+
+xnk ;
+
+n ¼ 1; . . . ; N
+k ¼ 1; . . . ; K
+
+where the zk are variables which show the intensity
+with which each farm is used in order to construct
+the frontier of the production possibilities set. The
+linear program solves for the maximum value
+of u given the constraints that the proportionally
+expanded vector of outputs and the vector of inputs
+
+S.M. Helfand, E.S. Levine / Agricultural Economics 31 (2004) 241–249
+
+are in the feasible set, and that the intensity variables
+are non-negative.
+Two caveats are in order. First, the efficiency scores
+may be very sensitive to measurement error for the
+farms that define the best practice frontier. We explore
+this issue in the empirical application. Second, we use
+the term ‘inefficiency’ solely to mean the distance
+between a given farm and the best practice frontier.
+There are many reasons why a farm might not be
+operating on the best practice frontier, and most of
+these are unlikely to relate to x-inefficiency. Excluded
+variables such as land quality, market failures that lead
+to non-separable household decisions, credit market
+constraints that lead farms to choose input-output
+bundles that appear inefficient in relation to unconstrained farms, and different vintages of technology
+are all possible reasons why rational farmers might not
+be operating on the frontier. The challenge, it seems to
+us, is to identify the relative importance of these
+alternative sources of ‘inefficiency’.
+
+3. The data
+The data for this study come from the 1995/1996
+Agricultural Census in Brazil (IBGE, 1998). For the
+DEA analysis, we use aggregate output and five
+inputs. We briefly explain the construction of these
+variables here. In Section 4, which presents the results
+of the econometric analysis, we explain the variables
+that are used in the second stage to study the
+determinants of efficiency.
+Output (Y): This variable is defined as the gross
+value of agricultural output net of three categories of
+items. First, to avoid the double counting of animals
+that takes place when animals are purchased and sold
+at different stages of the production process, we
+deducted the value of purchases of cattle, hogs,
+chickens and fertilised eggs. Cattle, hogs, and
+chickens account for over 99% of the value of animal
+production in the CW. Second, we deducted the value
+of production of ‘rural industry’, which accounts for
+2% of the value of agricultural production in the CW.
+Preliminary estimates revealed that for most products
+the value added in rural industry was extremely close
+to zero. Because of data limitations, it was much
+simpler to exclude rural industry than estimated
+intermediate inputs. Finally, we excluded the value of
+
+243
+
+‘extractive’ and ‘forestry’ products to be consistent
+with our decision to exclude forest and woodland
+areas. These products only accounted for 1.6% of the
+value of agricultural output in the region, while forest
+and woodland represented 29% of the utilised area.
+Utilised area (X1): 90% of the value of output in the
+CW comes from temporary crops and cattle. With this
+in mind, we constructed the area variable to include
+natural and permanent pastures, land utilised for
+crops, and productive land that was not being used.
+These categories accounted respectively for 58, 7 and
+2% of the utilised land. The excluded categories were
+forest and woodland (29%) and unusable land (4%).
+Labour (X2): First, we constructed a variable for
+family labour by treating males and females as equals,
+and by only counting half of the family labour under
+14 years of age. Second, we constructed a variable for
+hired labour along the lines of Guanziroli et al. (2001).
+These authors devised an approach to correct for the
+fact that (a) temporary workers should not be counted
+as full-time equivalent workers, and (b) many farms,
+especially the large ones, hire contracting firms in an
+effort to avoid paying social security and other labour
+taxes. Finally, we added family and hired labour
+together in order to construct the labour variable in
+full-time equivalent units.
+Tractors (X3): Tractors are measured in the
+equivalent of a 75 horsepower tractor, which was
+the midpoint of the modal horsepower class (50–
+100 hp).
+Animals (X4): Many studies of TFP have not used
+animals as an input, even when they were considered
+part of output. We aggregated animals based on their
+relative prices in the CW of Brazil. We then used the
+stock of animals in cattle equivalents as a proxy for the
+stock of capital in animal production.
+Purchased inputs (X5): We created an input
+variable based on the expenditures for (a) fertiliser,
+(b) chemicals (such as pesticides and herbicides), (c)
+seeds, (d) fuel, and (e) feed and medicine for animals.
+Finally, we created ‘representative farms’ for each
+farm size, of each type of land tenure, in each county.
+This was necessary because we did not have access to
+farm level data. We used data from all 426 counties in
+the CW (excluding the Federal District) that was
+aggregated into 15 size classes and 4 types of tenure.
+After removing unusable observations, the final
+dataset covered 237,595 establishments aggregated
+
+244
+
+S.M. Helfand, E.S. Levine / Agricultural Economics 31 (2004) 241–249
+
+into 9304 representative farms, implying an average of
+25 establishments per representative farm.
+
+4. Empirical results
+We first calculated the median value of output per
+hectare (Y/X1) and the median value of output per unit
+of labour (Y/X2) for each farm size class. The data
+were consistent with a broad body of international
+evidence on the relationship between farm size and
+productivity. On the one hand, there was a strong
+inverse relationship between value of output per
+hectare and farm size, reflecting the intensive use by
+small farms of their scarce factor of production-land.
+Labour productivity, in contrast, was much higher on
+large farms where the opportunity cost of labour is
+greater. The relationship between total factor productivity (or technical efficiency under CRS) and farm
+size is influenced by the partial productivities of land,
+labour, and all other inputs.
+We calculated the technical efficiency scores
+according to the methodology in Section 2 and the
+assumption of constant returns to scale. We then
+regressed the efficiency scores on different combinations of explanatory variables as reported in Table 1.
+We estimated all of the regressions with county level
+fixed effects to take account of spatial heterogeneity,
+such as differences in soil quality, that was not
+captured in the regressors. We used a GLS procedure
+that allowed for heteroscedasticity across the 426
+counties. Further, because each observation in our data
+set contains mean values of each of the variables over
+all farms in a given tenure type-size-county cell, we
+used the number of establishments represented by
+each observation to construct weights to correct for the
+heteroscedasticity (not only across counties, but also
+across tenure types and sizes) that otherwise arises
+from regression on cell means or ‘‘grouped data’’
+(Kmenta, 1971). In practice, the estimation techniques
+mattered little and the estimated coefficients from all
+of the regressions proved quite robust to alternative
+specifications and to the inclusion/exclusion of
+different sets of variables.
+Regression (1) estimates the unconditional relationship between the log of technical inefficiency and
+the log of farm size. We added a quadratic term to
+capture non-linearities that we observed in a prior
+
+graphical analysis of the mean inefficiency by farm
+size. Both coefficients were statistically significant at
+least at the 1% level. In Fig. 1 we have plotted the
+curve ‘size’ based on the coefficients from regression
+(1). The curve depicts a non-linear relationship
+between inefficiency and farm size, with inefficiency
+first rising and then falling as farm size grows. The
+modal farm size class of 20–50 ha might be considered
+as a target size for land reform in this region, and for
+this reason we have set its level of inefficiency equal to
+one in the figure. Relative to this group, which
+accounts for 21% of the farms in the region, farms in
+the 200–500 range are estimated to be about 20% less
+efficient. While farms smaller than 20 ha are even
+more efficient, the analysis here will focus on farms
+above 20 ha which represent 78% of the farms in the
+region and more then 95% of all variables other than
+labour.1
+In addition to farm size, the next four regressions
+control for differences in inefficiency due to land
+tenure status. We included dummies for renters,
+sharecroppers and occupants to differentiate them
+from landowners. The inclusion of tenure dummies in
+model (2) did not change the coefficients on size. The
+results indicate that renters were somewhat more
+efficient than owners (negative coefficients indicate
+lower inefficiency), occupants were less efficient, and
+sharecroppers had mixed results. It is likely that
+renters were more efficient in this region because they
+were a more homogenous group of market oriented
+farmers relative to owners who were the majority. In
+our final model – regression (5) – the partial effect of
+differences in land tenure on inefficiency is relatively
+small compared with that of most other determinants
+of productivity. We estimate that renters were 14%
+more efficient than owners, while sharecroppers and
+occupants were 5 and 7% less efficient.
+In addition to land tenure, regression (3) controls
+for differences in the composition of output. Relative
+to the excluded category – cattle – producers that
+specialised in higher value activities (temporary
+crops, horticulture, permanent crops, and hogs and
+chickens) had lower levels of inefficiency. A
+coefficient equal to À1 would imply that a one
+1
+
+Some authors, such as Rezende (2003), argue that small family
+farms are not viable in the CW due to the long drought period and
+the relative scarcity of off-farm employment.
+
+S.M. Helfand, E.S. Levine / Agricultural Economics 31 (2004) 241–249
+
+245
+
+Table 1
+Regression results for the determinants of technical efficiency: dependent variable = ln(inefficiency)
+Variable
+
+(1)
+
+Farm size
+Size
+0.45
+À0.04
+Size2
+Land tenure (relative to owners)
+Renter
+Sharecropper
+Occupant
+Composition of output (relative to cattle)
+Temporary crops
+Horticulture
+Permanent crops
+Hogs and chickens
+Other
+Access to institutions/public goods
+Credit
+Electricity
+Technical assistance
+Cooperatives
+Market access
+Technology and inputs
+Machines
+Irrigation
+Fertiliser
+Pest and disease control
+Soil conservation
+Mechanical milking
+Artificial insemination
+Log likelihood
+À4396
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+0.45
+À0.04
+
+0.32
+À0.03
+
+0.37
+À0.03
+
+0.39
+À0.03
+
+À0.39
+À0.23
+0.11
+
+À0.11
+0.10
+0.18
+
+À0.19
+À0.00a
+0.06
+
+À0.14
+0.05a
+0.07
+
+À1.22
+À1.98
+À1.36
+À1.39
+0.95
+
+À1.20
+À1.60
+À1.31
+À1.31
+0.58
+
+À1.05
+À1.25
+À1.26
+À1.26
+0.58
+
+À0.16
+À0.55
+À0.27
+À0.30
+À0.56
+
+À0.05a
+À0.48
+À0.15
+À0.22
+À0.53
+
+À2432
+
+À0.11
+À0.28
+À0.33
+À0.08b
+À0.21
+À0.86b
+À0.09a
+À2308
+
+À4240
+
+À2962
+
+Notes: All regressions have county fixed effects (not reported) and allow for heteroscedasticity across counties using as GLS procedure. All
+coefficients are statistically significant at least at the 1% level unless designated with the following symbols:
+a
+Not statistically significant at the 5% level.
+b
+Statistically significant at the 5% level.
+
+percentage point increase in the share of production
+coming from temporary crops, for example, translates into a 1% increase in technical efficiency. Based
+on the coefficients from this regression, the conditional relationship between size and inefficiency is
+graphed in Fig. 1 as ‘composition of output’. Because
+cattle production accounted for nearly half of the
+value of output for farms over 50 ha, but less than
+25% for farms under 10 ha, controlling for these
+differences reduces the efficiency disadvantage of
+large producers. Thus, the ‘composition’ curve is
+higher than the ‘size’ curve below the 20–50 ha class
+and lower than it above this size. The advantage of
+farms in the 20–50 ha class over larger farms drops to
+a maximum of 8.4%.
+
+Regression (4) incorporates variables intended to
+capture access to institutions and public goods. Thus,
+the variables credit, electricity, technical assistance
+and cooperatives all measure the share of establishments in each representative farm that uses these
+items. These variables range between zero and one.
+Market access, in contrast, is intended to capture the
+degree to which market oriented farms are likely to
+be more efficient than farms producing for their own
+consumption. This variable is measured as the value
+of sales divided by the value of production. All five
+variables are associated with lower inefficiency.
+Market orientation and use of electricity had the
+largest impact, followed by participation in cooperatives and use of technical assistance, with credit
+
+246
+
+S.M. Helfand, E.S. Levine / Agricultural Economics 31 (2004) 241–249
+
+Fig. 1. Conditional effect of farm size on inefficiency (normalized as a fraction of the 20–50 ha group).
+
+having the smallest impact.2 Based on the coefficients from this regression, the curve ‘institutions’ in
+Fig. 1 shifts up substantially relative to the previous
+scenario, reflecting the fact that large farms tended to
+have preferential access to these institutions, and
+controlling for this advantage would increase the
+relative inefficiency of these farms. Thus, farms in
+the 1000–2000 range were now estimated to be the
+least efficient. They were 36% less efficient than
+farms in the 20–50 ha class, or nearly twice the
+maximum efficiency difference that was observed in
+the base case. This is powerful evidence of the
+importance of providing small farms with access to
+these institutions.
+Regression (5) controls, in addition, for a variety of
+factors related to the level of technology and the use of
+inputs. All variables are measured as the share of
+2
+We are surprised by the small size of the coefficient on credit.
+This was the most important difference from earlier, unweighted
+results. However, separate regressions using credit/size interaction
+terms, revealed that the effect of credit on inefficiency varies
+substantially across size groups. We hope to shed additional light
+on these results in future research.
+
+establishments that report using the designated item.
+Thus, an increase in the share of farms using
+machines, irrigation, fertilisers, pest and disease
+control or soil conservation, all contribute to reducing
+inefficiency. Mechanical milking has the largest effect
+of all of these variables. Based on the coefficients from
+this regression, the curve ‘technology/inputs’ in Fig. 1
+shows that when we also control for differences in the
+use of technology and inputs, the relative inefficiency
+of large farms is even greater than in the previous
+scenarios. The relative disadvantage of farms in the
+1000–2000 ha class rises to 46% in this case.
+However, due to the indivisibilities that exist with
+certain technologies, such as tractors, providing small
+and medium farmers with greater access to these
+inputs might require institutional innovations such as
+the development of rental markets for the services
+provided by these inputs.
+Finally, we estimated a number of variations on our
+models to check the robustness of the results and to
+examine the spatial nature of our data. Due to space
+limitations, we restrict ourselves to summarising the
+most important conclusions.
+
+S.M. Helfand, E.S. Levine / Agricultural Economics 31 (2004) 241–249
+
+First, to evaluate the quadratic specification of the
+size-inefficiency relationship, we estimated our five
+models using a series of farm size dummies in place of
+the log of size and square of log of size, and graphed the
+results. The resulting graphs did, indeed, approximate
+an inverted, U-shaped curve fairly closely, indicating
+that the quadratic specification is appropriate.
+Second, to test the sensitivity of the DEA results to
+measurement error for the observations that define the
+frontier, we removed the 0.5% (or 47) most efficient
+observations, re-ran DEA, and re-estimated the model.
+With only a few exceptions, the signs of the estimated
+coefficients remained the same, as did their magnitudes relative to the others in the same ‘group’ (e.g.
+composition of output). Most importantly, the shape of
+the size-inefficiency relationship represented in Fig. 1
+remained similar, although inefficiency now reached a
+maximum in the 2000–5000 farm size category rather
+than in the 1000–2000 class. Thus, it is unlikely that
+measurement error on the frontier substantially
+affected our results.
+Third, we considered whether the exclusion of
+forest and woodland areas as inputs understated the
+relative inefficiency of large farms, because these
+farms may hold large amounts of undeveloped land for
+speculation, as a hedge against inflation or for
+prestige, and therefore do not use it efficiently for
+production. To test this, we recomputed our DEA
+results, excluding only ‘unusable land’ (4% of land in
+the CW) from our land input variable, and without
+excluding extractive products, forestry products or
+rural industry from our output variable. The new
+coefficients were, again, similar in sign and magnitude
+in nearly every case, and the quadratic relationship
+between size and inefficiency was essentially
+unchanged. The efficiency advantage of farms in
+the 20–50 ha group (in model 5) was still 46% over the
+1000–2000 class. Thus, the exclusion of forest and
+woodland does not appear to bias downward the
+efficiency disadvantage of large farms. We want to be
+cautious about generalising this result, given the
+unique features of this region: the unusual dynamism
+of agricultural growth in the region, driven principally
+by large farms.
+Fourth, we conducted two tests to explore the
+impact on efficiency of transportation costs, location
+and spatial correlation of the errors in our regression
+models. First, we computed the correlation coefficient
+
+247
+
+between the 426 fixed effects in model (5) and an
+estimate of transportation costs between each county
+and Sa˜ o Paulo, the economic center of Brazil.3 The
+correlation coefficient of only 0.11 indicates that the
+fixed effects mainly capture other county level fixed
+factors, such as soil quality and rainfall, which appear
+to be much more important in explaining efficiency
+than county level economic distance from Sa˜ o Paulo.
+Second, the version of this paper presented in South
+Africa in August, 2003, reported results for a model
+that allowed for spatial correlation in the errors across
+counties using a SUR framework. The results were
+almost identical to model (5) reported here. We
+conclude that the spatial nature of our data does not
+appear to be biasing our results.
+Finally, to determine whether the dummies for land
+tenure types were sufficient to control for differences
+between owners, renters, sharecroppers and occupants, we estimated our models separately for each of
+the tenure types. Fig. 2 shows the relationship between
+size and inefficiency implied by the coefficients of
+model (5) for each of the four tenure types. Although
+we did find some differences in the coefficients across
+models, the U-shaped relationship between size and
+inefficiency remained in every case.
+Interestingly, Fig. 2 shows that the relative
+inefficiency of large renters was less than that of
+large owners. In fact, renters of farms greater than
+5000 ha were actually more efficient than those in the
+20–50 ha group. Unlike in many other parts of the
+world where renters might be more like sharecroppers,
+renters in the Brazilian Center-West were a relatively
+homogeneous group of market oriented farmers.
+Surprisingly, renters made greater use than owners
+of those modern inputs, technologies and institutions
+recorded by the Agricultural Census that were
+associated with lower levels of inefficiency.4 It is
+3
+
+We would like to thank Newton de Castro, a professor at the
+UFRJ in Rio de Janeiro, Brazil and a Co-PI on the research project
+NEMESIS for graciously providing us with this transportation cost
+variable. Because of perfect multicollinearity between this countylevel variable and our fixed effects, we could not include it in our
+models.
+4
+Not only did renters sell a larger share of their value of output
+to the market than owners in each size category, they also specialised much more heavily in temporary crops (rather than cattle) and
+were more likely to use credit, technical assistance, machines,
+fertilisers and soil conservation measures.
+
+248
+
+S.M. Helfand, E.S. Levine / Agricultural Economics 31 (2004) 241–249
+
+Fig. 2. Conditional effect of farm size on inefficiency by tenure type (normalized as a fraction of the 20–50 ha group).
+
+likely that large renters also made greater use of
+unobserved factors, which could explain the relative
+efficiency advantage of this group.
+In general, the inverse relationship between size
+and efficiency weakened as we moved from tenure
+types associated with lower technologies (occupants)
+to those associated with greater market orientation and
+greater use of modern technologies, inputs and
+institutions (renters). Thus, while our pooled regression results accurately represented the situation of
+owners, which accounted for 88% of the establishments in this region, there were important differences
+across tenure types in the size-inefficiency relationship. These differences merit further study.
+
+5. Conclusions
+In this paper we used Data Envelopment Analysis
+(DEA) to estimate the technical efficiency of farms in
+the Center-West of Brazil, and then studied the
+determinants of efficiency with regression techniques.
+Future research should explore the robustness of the
+
+results presented here by comparing them with
+estimates from a stochastic frontier production function.
+There are important policy implications that can be
+derived from the analysis in this paper. The results
+indicate that access to institutions and goods that are
+often provided by the public sector, such as market
+access via infrastructure creation and rural electrification, were among the most important determinants of
+differences in efficiency. Other important determinants included the use of inputs such as irrigation and
+fertilisers, and differences in the composition of
+output. These results identify the types of policies and
+production practices that could contribute to increased
+technical efficiency in this region.
+We also showed the relationship between farm size
+and technical efficiency to be more complex than what
+is normally believed. Rather than an inverse relationship, where productivity falls as farm size rises, we
+found a U-shaped relationship. For farms up to about
+1000–2000 ha, efficiency did fall as farm size rose, but
+beyond this size it started to rise again. The most
+important reasons why the inverse relationship broke
+down relate to preferential access by large farms to
+
+S.M. Helfand, E.S. Levine / Agricultural Economics 31 (2004) 241–249
+
+institutions and services that help lower inefficiency
+(such as rural electricity, technical assistance and access
+to markets) as well more intensive use of the
+technologies and inputs that raise productivity. The
+access of large farmers to such efficiency-improving
+inputs and institutions may partially explain the
+dramatic TFP growth in this region relative to the rest
+of Brazil. However, if one could create an environment
+in which small to medium size farms had equal access to
+productivity enhancing institutions, and improved
+access to modern technologies and inputs, then these
+farm could still produce more efficiently than farms in
+the 2000–20,000 ha range. Thus, even in the CenterWest of Brazil, a region characterised by extremely
+large farms and relatively high levels of technology,
+land reform continues to provide the possibility of
+simultaneously improving equity and efficiency. Its
+success, however, is strongly conditioned by the
+complementary institutions, investments and services
+that permit small and medium size farms to compete on
+a level playing field.
+Finally, we found important differences in the size–
+efficiency relationship across land tenure types. While
+all types exhibited a U-shaped relationship, the U-shape
+was most pronounced for renters, which was the most
+market oriented type and which made the greatest use of
+the institutions and modern inputs associated with
+higher levels of efficiency. The U-shape attenuated,
+more closely approximating a monotonic inverse
+relationship, as we moved to the land tenure type
+(occupants) associated with lower market orientation
+and lower technology. These results lend further
+support to the view that differential access to
+institutions, and use of technologies and inputs, can
+significantly alter the usual findings of an inverse
+relationship between farm size and productivity.
+
+Acknowledgements
+This paper was written as part of a larger project on
+spatial economics called NEMESIS (www.nemesis.
+org.br). The project is based at IPEA in Rio de Janeiro
+
+249
+
+and has been supported by a grant from the Brazilian
+government under a program called PRONEX. We
+would like to thank Gerva´ sio Castro de Rezende,
+Eusta´ quio Reis, Keith Griffin, and Tim Coelli for
+valuable comments on an earlier draft.
+
+References
+Barrett, C.B., 1996. On price risk and the inverse farm
+size–productivity relationship. J. Dev. Econ. 51 (2), 193–
+216.
+Berry, R.A., Cline, W., 1979. Agrarian Structure and Productivity in
+Developing Countries. Johns Hopkins University Press, Baltimore, 248.
+Coelli, T., Rao, D.S.P., Battese, G.E., 1998. An Introduction to
+Efficiency and Productivity Analysis. Kluwer Academic Publishers, Norwell, 275.
+Fa¨ re, R., Grosskopf, S., Lovell, C.A.K., 1994. Production Frontiers.
+Cambridge University Press, Cambridge, 296.
+Gasques, J.G., Conceic¸a˜ o, J.C.P., 2001. Transformac¸o˜ es Estruturais da Agricultura e Produtividade Total Dos Fatores. In:
+Gasques, J.G., Conceic¸a˜ o, J.C.P. (Eds.), Transformac¸o˜ es
+da Agricultura e Polı´ticas Pu´ blicas. IPEA, Brasilia, pp.
+17–92.
+Guanziroli, C., Romeiro, A., Buainain, A.M., Di Sabbato, A.,
+Bittencourt, G., 2001. Agricultura Familiar e Reforma Agra´ ria
+no Se´ culo XXI. Editora Garamond Ltda, Rio de Janeiro,
+284.
+Instituto Brasileiro de Geografı´a e Estatistica IBGE, 1998. Censo
+Agropecua´ rio 1995–1996. IBGE, Rio de Janeiro.
+Kmenta, J., 1971. Elements of Econometrics. Macmillan Publishing
+Co., New York, 655.
+Kumbhakar, S.C., Lovell, C.A.K., 2000. Stochastic Frontier Analysis. Cambridge University Press, Cambridge, 333.
+Rezende, G.C., 2003. Ocupac¸a˜ o Agrı´cola, Estrutura Agra´ ria e
+Mercado de Trabalho Rural no Cerrado: O Papel do Prec¸o da
+Terra, dos Recursos Naturais e das Polı´ticas Pu´ blicas. In:
+Helfand, S.M., Rezende, G.C. (Eds.), Regia˜ o e Espac¸o no
+Desenvolvimento Agrı´cola Brasileiro. IPEA, Brasilia, pp.
+173–212.
+Vicente, J.R., Anefalos, L.C., Caser, D.V., 2001. Produtividade
+Agrı´cola no Brasil, 1970–1995. Agricultura em Sa˜ o Paulo SP
+39 (2), 1–23.
+Vicente, J.R., Anefalos, L.C., Caser, D.V., 2003. Influeˆ ncia de
+Capital Humano, Insumos Modernos e Recursos Naturais na
+Produtividade Agrı´cola. In: Helfand, S.M., Rezende, G.C.
+(Eds.), Regia˜ o e Espac¸o no Desenvolvimento Agrı´cola Brasileiro. IPEA, Brasilia, pp. 265–296.
+
+

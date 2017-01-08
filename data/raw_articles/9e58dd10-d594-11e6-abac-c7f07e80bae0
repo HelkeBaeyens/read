@@ -1,0 +1,793 @@
+Agricultural Economics, 3 (1989) 1-22
+Elsevier Science Publishers B.V., Amsterdam- Printed in The Netherlands
+
+1
+
+Agricultural Supply Response: A Survey
+J. Mohan Rao
+Department of Economics, Boston University, 2 70 Bay State Road, Boston, MA 02215 (U.S.A.)
+
+(Accepted 30 August 1988)
+
+Abstract
+Rao, J.M., 1989. Agricultural supply response: a survey. Agric. Econ., 3: 1-22.
+This paper surveys the literature on agricultural supply response to prices in developing countries. Empirical estimates of elasticities depend both on the methodology adopted and on countryspecific factors relating to technology, economic structure and macro constraints. The paper seeks
+to establish some general conclusions on supply responsiveness within these limitations. Supply
+response to output prices at the aggregate and at the crop levels is considered first. Crop-specific
+acreage elasticities range between zero and 0.8 in the short run while long-run elasticities tend to
+be higher- between 0.3 and 1.2. Yield elasticities are smaller and less stable than acreage elasticities. Clearly, inter-crop pricing can be relied upon to effect shifts in the commodity composition
+of agricultural output. Evidence also suggests that supply elasticities vary systematically with such
+factors as price and yield risks, multiple-cropping, the importance of the crop, farm incomes, farm
+size, tenancy and literacy. The most controversial and important aspect of supply response is the
+effect on aggregate agricultural output of agriculture's terms of trade. Conventional time-series
+estimates range from 0.1 to 0.3. A major cross-country study reports an aggregate elasticity as high
+as 1.66. It is argued that cross-country estimates are apt to exaggerate aggregate responsiveness
+while time-series studies underestimate it somewhat. For LDCs, a tentative range of 0.4 to 0.5
+seems plausible. Hence, the distributive effects of the terms of trade are likely to be more significant than the allocative effects. Asian evidence shows that only a third of the inter-country differences in fertilizer use can be attributed to fertilizer price policies. Provided new technologies
+and infrastructure are in place, fertilizer subsidies can help in technology diffusion and in overcoming credit constraints. The choice between price supports and input subsidies will depend on
+a variety of country- or situation-specific factors. Nevertheless, a significant general factor favoring price supports is that they can more easily be coupled with price stabilization goals than input
+subsidies. Though sparse, the available evidence on the response of marketed surplus suggests that
+price policy is not a reliable instrument for regulating inter-sectoral trade.
+
+1 . Economic incentives and supply response
+
+The importance of agricultural price policies in economic development derives from three key characteristics of agriculture: (a) it is the dominant production and employment sector in LDCs, particularly at low levels of devel0169-5150/89/$03.50
+
+© 1989 Elsevier Science Publishers B.V.
+
+2
+
+opment; (b) it has significant supply and demand linkages with the rest of the
+economy; and (c) the bulk of resource use decisions in agriculture are directed
+by decentralized market forces. Hence, the prices of food and other agricultural
+commodities are often subject to government intervention. The efficacy of such
+intervention in terms of whatever objectives may be valued depends on its
+effects on private incentives. The extent to which farm decisions respond to
+economic incentives should, therefore, be of central concern to policy-makers
+and is the focus of this paper.
+The policy debate about the effect of the surplus food disposal program of
+the United States (Public Law 480) upon agricultural production in recipient
+countries illustrates the vital role of estimates of agricultural supply response.
+The program reduced food prices in recipient countries by increasing supply
+relative to demand. On the premise that supply response was positive and significant, Schultz (1960) concluded that the program was deleterious to agricultural production in these countries. Dantwala ( 1963) maintained that the
+program was irrelevant to agricultural production performance because he believed supply response to be zero or insignificant. Finally, Fisher ( 1963) argued
+that if the surpluses were used as buffer stocks to stabilize producer prices and
+if farmers are averse to price fluctuations, then, even though the average price
+was lowered by the program, the reduced price instability would increase
+production.
+From the farmer's point of view, within limits set by his own goals and by
+institutions, infrastructure, technology and market structure, a given set of
+input and output prices makes some courses of action more desirable than
+others. Moreover, farm prices are an important determinant of farm incomes
+which, in turn, affect the farmer's ability to increase the quantity and improve
+the quality of resources available to him. These latter effects of farm prices
+operate in the medium to long run through private investments in the farm
+sector. Thus, the incentive content of prices consists in: (a) their effect on the
+choice of production alternatives with available resources, and (b) their impact on resource accumulation. Perhaps, the more important issue here is the
+extent to which long-run adjustment via investment and changes in technology
+can be attributed to price policies.
+The empirical resolution of this issue is complicated by the fact that important resource adjustments in the long run - such as the increased availability
+of infrastructure, the pace of technological change, institutional and structural
+reforms, changes in foreign exchange and fiscal constraints - are conditioned
+by government policies and programs that may be relatively independent of
+agricultural prices. These contextual factors may not be responsive to the private actions of farmers themselves, and hence, to price incentives; many of
+them may be influenced only by direct government non-price interventions.
+The analysis of long-run response must therefore distinguish changes in supply conditions that are brought about by decentralized private actions from
+changes that result from centralized public actions.
+
+3
+
+Supply response may be considered at different levels depending on the type
+of resource use question the policy-maker is immediately concerned with:
+( 1) Aggregate agricultural output. If the object of concern is the pace of agricultural output growth or some other economy-wide goal, the relevant notion
+is the response of an index of agricultural output to some index of the relative
+price of agriculture such as its barter terms of trade with non -agriculture.
+(2) Commodity composition of output. Policy-makers may wish to alter the
+commodity composition of agricultural output by changing intra-agricultural
+commodity price relations: food products versus raw materials, cereals versus
+non-cereal foods, export products versus import substitutes, employment-intensive versus capital- or land-intensive products, etc.
+(3) Marketed surplus. The immediate goal of policy may be to assure a flow
+of food and raw materials to urban areas sufficient to meet industrialization
+targets. Here, the relevant concept of supply is the marketed surplus and the
+relevant price is an index of the price relatives between agricultural and nonagricultural consumption goods.
+For both technological and economic reasons, supply response will be different at each of these levels. An important task of empirical analysis is to identify
+each of them separately and account for their differences.
+For many purposes of policy, aggregate data may be sufficient to measure
+supply responsiveness. However, farm-level or micro studies are also important for two related reasons: (a) farm-level data permit disaggregation by regions, farm size, income and other relevant factors which may influence supply
+response; such disaggregation can be used to fine-tune policy to the needs and
+potentialities of different types of farms, crops and regions; (b) micro studies
+allow better tests of some hypotheses regarding farmer motivation which can
+provide a deeper understanding of supply behavior. In addition, macro studies
+frequently fail to distinguish the specific role of price incentives from the effects of contextual factors due to methodological limitations. Unraveling some
+of these effects will have to rely partly on micro-level studies.
+While the results of some micro studies will be referred to where relevant in
+the subsequent sections, it is germane to consider here some general microbehavioral factors in supply response which underlie the results obtained from
+aggregate data. Behavioral heterogeneity in agriculture derives from the uneven distribution of ownership and operational holdings of land and from the
+fragmentation and imperfections of land, labor, credit and product markets.
+For convenience, small and medium farms may be characterized as peasant
+farms, and large land- holders as either commercial farmers or landlords. Peasant farms are distinguished also by their reliance on family labor and their
+'subsistence' orientation. That is to say, their production decisions are intimately related to their economic objectives through their labor supply behavior; their marketing decisions are significantly influenced by their propensity
+
+4
+
+to consume their own output; and their risk attitudes govern their willingness
+to diversify production and accept new inputs. Thus, a positive relation between prices and sales may be the outcome of tradeoffs between leisure and
+income, own consumption and purchased goods, and income and security. For
+commercial farmers, profit tends to be the predominant motive. For landlords
+who rent out their lands to tenants, supply response will reflect the interaction
+between their own goals and their tenants' goals. The same macro supply response may therefore reflect very diverse behaviors depending on the relative
+importance of peasant production, commercial production and tenancy.
+When credit markets are imperfect, the long-run response of supply depends
+on the propensity of farmers to save and invest out of their incomes. There is
+evidence to suggest that these propensities vary with farm income and wealth.
+Therefore, an economy with a relatively important large-farm sector may be
+expected to have a higher rate of agricultural investment. At the same time, it
+has been observed that large farms face higher effective costs of wage-labor
+and supervision and therefore tend to substitute capital for labor. Agrarian
+structure, then, is of obvious relevance for the pace of output and employment
+growth. On the other hand, small farms tend to face greater costs of capital
+than large farms. Given this constraint on small farms, higher farm prices for
+them can be expected to promote investment by increasing the supply of equity
+finance. Clearly, these various behavioral hypotheses have different implications for the responsiveness of supply to prices.
+The bulk of the literature demonstrates that farmers are generally responsive to economic incentives. The above remarks imply that this general finding
+should not be allowed to conceal the very real motivational and behavioral
+differences among different types of farms. These differences rarely show up
+as such in macro studies while they can be detected in carefully designed micro
+studies.
+In the rest of this paper, available empirical evidence on supply response to
+prices will be scrutinized with a view to establishing some general conclusions
+on the subject. In Section 2, we consider supply response to output prices at
+the aggregate and at the crop levels. In addition to a critical appraisal of evidence from studies employing various methodologies, this section also considers the economic and technological factors determining differences in supply
+responsiveness. Section 3 considers supply response to input price changes.
+The factors that should enter into the choice between output price supports
+and input subsidies are also discussed in the light of empirical and theoretical
+findings. Section 4 sums up the evidence on the response of crop-specific and
+aggregate marketed surplus to prices. The final section provides a stylized summary of the main conclusions.
+2. Response to output prices
+
+It is useful first to consider some methodological difficulties in the estimation of supply response. Supply elasticity should properly refer to the speed
+
+5
+
+and magnitude of changes in planned output in response to anticipated output
+prices. But neither planned output nor anticipated price is observable: the former, because weather and other environmental factors can make observed output deviate from planned output; the latter, because the farmer only knows
+past and current prices. Proxies for these variables have, therefore, to be employed and the choice of proxy influences the results obtained.
+Most time-series studies are for particular crops and use acreage as the proxy
+for output because acreage is thought to be more subject to the farmer's control
+than output. If this single input index of output is employed, acreage elasticities provide lower bounds to output elasticities. However, insofar as land area
+grows independently over time, they overestimate output elasticity if this is
+not explicitly allowed for. On the price side, most researchers assume that
+farmers anticipate prices from their knowledge of current and past price (following Nerlove, 1958). But farmers' expectations may not change with all
+transient price changes; clearly, the statistical measurement of price expectations is problematic.
+The price variable used is usually a measure of relative prices: prices paid
+relative to prices received; output prices relative to input prices or crop price
+relatives. These are alternative measures of incentives and the choice among
+them is often dictated by the availability of reliable price data. Measures of
+price risk which are properly considered an element in price incentives are
+frequently not included.
+A major source of differences among studies has to do with properly controlling for non-price factors affecting production such as weather, infrastructure and technological changes which may be correlated with prices. This is
+particularly serious for studies of yield response to prices. Studies vary in this
+regard depending on the availability of data and on the authors' judgments as
+to the relevance of particular non-price variables. While cross-section analyses
+avoid some of the characteristic problems of time-series studies, their use in
+country studies is limited by the small variability in prices across farms or
+regions. Their use in studies of supply response across countries, on the other
+hand, raises difficult questions in allowing for country-specific non-price
+influences.
+Most time-series studies of supply response report positive output elasticities for specific crops with respect to relative price changes. Short-run acreage
+elasticities range between 0.0 and 0.8 while long-run elasticities tend to be
+higher - between 0.3 and 1.2. The few available estimates of crop yield response are smaller and display much less stability than acreage elasticities.
+This may be, at least in part, due to the methodological difficulties relating to
+yield response estimation in time-series studies (Askari and Cummings, 1974).
+A well-designed study of Bangladesh (Ahmed, 1981) found that a 10% increase
+in the price of rice raises output between 1.8 and 2.6%. Half of this increase
+
+6
+
+was attributable to yield and the other half to area increases- the latter arising mostly at the expense of jute.
+Although specific crop elasticities reflect inter-crop shifts in resources and
+are not particularly large, they are of considerable policy interest. A steady
+deterioration in the relative price of cash crops can, for example, bring about
+significant long-run reductions in their production relative to food crops. The
+impact of prices depends not only on the price elasticity of supply but also on
+the absolute amount ofland and other resources devoted to a crop. Thus, intercrop price relations set by policy can be relied upon to effect more than marginal shifts in the commodity composition of agricultural output.
+In China as in India, the greater part of the increase in agricultural productivity in the fifties was accounted for by shifts in the cropping pattern from
+food to non-food crops. This was due to the higher incentives to farmers resulting from the generally higher value of output per hectare for the latter.
+However, shifts in Chinese agricultural price policy in the sixties in favor of
+regional food self-sufficiency appear to have been responsible for the expansion of foodgrains at the expense of non-foodgrain commodities. Restrictive
+price policies prevented the Chinese agricultural economy from securing the
+gains arising for inter-regional specialization and trade (Raj, 1982). Within
+the food crops category, recent experience with relative crop price policies in
+India and Bangladesh has favored the rapid expansion of wheat acreage at the
+expense of other crops, mainly pulses and oilseeds (Tarrant, 1982). Given the
+vital role of pulses in the diet of the poor and the high cost of imports of vegetable oils, such policies ought to be re-considered.
+While one reason for differing predictions of the output response to price
+incentives may be methodological diversity, another lies in the fact that elasticities can differ among crops and among countries in a systematic way. The
+study by Askari and Cummings (1977) is the only one addressed to this important issue of the systematic determinants of supply response. The authors
+set out a number of hypotheses about these determinants and tested them
+using multiple regression. They employed a total of 320 supply elasticities estimated for a variety of individual crops from studies of Thailand, Chile, India
+and the United States. Although their hypotheses and results constitute only
+preliminary exploration of the question, they are sufficiently important to justify reporting them here:
+( 1) Crop-specific price and yield risks will dampen supply responsiveness
+particularly of peasants whose livelihood may be threatened by down -side risks.
+Such a negative impact was found to be important in the case oflndian peasants.
+(2) Where multiple-cropping is possible and rigid patterns of land use are
+not dictated by subsistence requirements, the farmer's set of choices is wider;
+hence responsiveness is likely to be greater. Irrigation, which is closely associated with multiple-cropping and wider production alternatives, was found to
+
+7
+
+exert a significantly positive effect on supply response. Similarly, it was found
+that the extent of arable land available was a positive influence.
+( 3) The relation between supply response for a crop and its relative importance in the crop mix is a rather complex one. The less dominant the crop the
+more easily may resources be shifted into and out of its production in response
+to prices. On the other hand, the more dominant the crop, the larger will be
+the stakes associated with proper response to prices: even small price changes
+will warrant large resource shifts. The study reported that while the supply
+response was large for relatively minor crops and for overwhelmingly important crops (as with rice in Thailand), the response was small in the case of
+'major' crops occupying the middle ground between these extremes.
+(4) The average income level of farmers and farm size are both expected to
+favorably affect supply elasticity to price signals since they are both good indicators of the ability to bear risks and of access to credit. This hypothesis was
+validated by the study.
+(5) Tenants will be less responsive to price incentives than owner-cultivators because the former do not usually get the full benefit of responding to price
+changes. The authors found a significant negative effect of the incidence of
+tenancy on supply responsiveness.
+(6) Finally, the authors hypothesized a positive relation between supply
+responsiveness and the level of farmer education. This hypothesis was confirmed when supply elasticities were related to the rural male literacy rate.
+Estimation methods other than the statistical derivation of supply functions
+have also been employed with sometimes divergent results. Estimates of supply
+elasticity obtained from profit function studies, for example, differ considerably across countries: 0.35 for China, 0.42 for Malaysia, 0.52 for Turkey, 0.90
+for Thailand and 0.98 for Japan (summarized in Lau and Yotopoulos, 1979).
+A disturbing aspect of these estimates is that the lower elasticities were for
+single crops as with rice in Malaysia and wheat in Turkey while the higher
+elasticities were for multi-crop aggregates. Using linear programming models
+for the agricultural sector of Sudan, Chhibber and Hrabovszky ( 1983) report
+very low elasticities for important agricultural products ranging form 0 to 0.05
+with the exception of sorghum which had a supply elasticity of 0.16. While
+these studies add to the diversity of estimates of crop supply response, they do
+not change the previously stated conclusions radically.
+The most debated aspect of price policy is the response of aggregate agricultural production to changing relative prices or to the movements in the terms
+of trade for agriculture. The controversy is particularly intense for two reasons:
+(a) estimates of aggregate supply elasticities vary considerably with a small
+minority of studies reporting even negative supply response to prices; (b) even
+small differences in aggregate response estimates imply far-reaching disagree-
+
+8
+
+ments over the resource allocative impact of the terms of trade. Two broad
+positions have been taken:
+( 1) Some economists have argued that in most developing countries, agriculture as a whole faces unfavorable prices (Schultz, 1978; Peterson, 1979). In
+the belief that both private and public resources allocated to agriculture are
+highly responsive to prices, they claim that adverse terms of trade are largely
+to blame for slow agricultural growth and the consequent problems of poverty,
+balance of payments disequilibrium and slow overall growth;
+( 2) Others have been far less willing to accord the terms of trade such a
+pivotal role in agricultural development. While acknowledging the importance
+of price policies, they have maintained that agricultural transformation is
+brought about through a complex combination of price incentives and public
+investments in irrigation, research, technology diffusion and reforms in the
+social and institutional structure (Krishna, 1982, Raj, 1969).
+That these differences over the role of price policy are fundamental should
+be obvious. That they derive from differing assessments of aggregate supply
+elasticities to prices is not open to question. Particularly for land-scarce economies, a priori considerations would suggest lower aggregate output elasticities
+than crop-specific elasticities. Inter-crop acreage shifts are unavailable, by definition, for agriculture as a whole. Moreover capital and labor are likely to be
+less mobile between sectors than within agriculture.
+In an important comparison between agricultural policies in China and India over the past three decades, Raj ( 1982) has argued that the differences in
+agricultural performance have to do with differences both in terms-of-trade
+and non-price policies: "The resumption of high rates of growth in agricultural
+production in China from 1970 can in fact be attributed to the substantial
+infrastructure that was built up in the course of the 1960s through investments
+in water and soil conservation (as well as in chemical fertilizers)." Although
+the terms of trade for agriculture improved during the 1970s and were necessary for higher growth, they were not sufficient. Raj draws the lesson that
+India's considerably lower land yields compared to China's can only be increased with substantial public investments and organizational changes in
+agriculture.
+The actual estimation oflong-run aggregate supply elasticities using country
+time-series data poses considerable difficulties in constructing production and
+terms-of-trade indices and in the interpretation of statistical results. Notwithstanding these difficulties, a few estimates are available for particular countries. For Argentina, Reca ( 1976) found that the short-run aggregate elasticity
+ranged between 0.21 and 0.35 while the long-run elasticity was between 0.42
+and 0.52. A statistical study of the Philippines found that while acreage elasticities to relative crop prices were significant, yield responses were not (Mangahas et al., 1966). It concluded that price changes were not "an effective de-
+
+9
+
+vice for influencing aggregate output... at present levels of technology." For
+the Indian Punjab, Herdt ( 1970) estimated aggregate elasticities ranging between -0.06 to 0.42. That time-series estimates are dramatically sensitive to
+the specification of how farmers form price expectations was recently exemplified by a study of Ajmer district in India (Bapna, 1980). For some specifications, supply elasticities ranged between 0.2 and 0.25 while for others, they
+were as high as 0.5 to 0.6.
+The estimates obtained from cross-section studies not only conflict with
+time-series estimates but also among themselves. Cross-country elasticities are
+considerably higher than time-series estimates. Cross-farm elasticities are either
+negative or not significantly different from zero.
+Peterson (1979) estimated long-run supply (yield per hectare) responsiveness from cross-country data for 1962-64 and 1968-70 from 53 (developed and
+developing) countries. Agricultural output was measured in wheat equivalents.
+The independent variables in the supply function were 'price' (measured by
+the amount of commercial fertilizer that could be purchased with 100 kg of
+wheat equivalent), annual average precipitation and the number of research
+publications per hectare (as a proxy for technology). The estimated aggregate
+supply elasticity ranged from 1.27 to 1.66- about 8 to 10 times larger than the
+commonly accepted 0.15 obtained in time-series analyses. He further noted
+that real prices received by farms in LDCs have been substantially lower than
+farm prices in developed countries. Prices in the top 10 countries (mostly developed) were, on average, 3.7 times greater than prices in the bottom 10 (all
+LDCs). Peterson estimates that if the LDCs in his sample had set prices at the
+mean value for all the countries, they would have produced an additional140
+million tons of wheat equivalent and gained 3.76% per year of their combined
+national income after accounting for the costs of the resources that would be
+diverted to agriculture by higher prices.
+Peterson has sought support for his findings from available studies of aggregate supply response for the United States. Griliches ( 1959) used estimated
+input demand functions to indirectly arrive at the aggregate supply elasticity
+for U.S. agriculture. He found that the implied aggregate supply elasticity is
+about 0.30 in the short run and about 1.20 in the long run. Based on his findings, Griliches surmised that the hitherto prevalent "zero elasticity of supply
+view of U.S. agriculture" could be discarded. But his estimates were based on
+the assumption that resources supplied to agriculture were perfectly elastic at
+going prices. With the characteristic resource supply rigidities of LDCs, one
+would expect a significantly lower value than Griliches' estimate of 1.20.
+A recent study attempted to reconcile the obviously large differences in aggregate estimates between time-series and cross-country studies ( Chhibber,
+1982). The a priori arguments favoring cross-country estimates are: (a) that
+they approximate true long-run supply response to prices because they are not
+sensitive to transient price changes as are time-series estimates, and (b) that
+
+10
+
+they fully incorporate all responses of technology, public investment and structural variables to price changes. On the other hand, cross-country analyses
+usually fail to control for country-specific supply factors and, if the price variable is acting as a proxy for these, overestimate the price effect. Peterson's
+study is believed to greatly exaggerate response to prices by inadequately allowing for supply factors that cannot be considered causally responsive to prices.
+(Peterson himself acknowledges that the long-run response drops from 1.69 to
+1.27 when only one other factor- research expenditure levels- is controlled
+for). To establish this, Chhibber carried out two separate econometric analyses. First using the same FAO data as in Peterson's study but allowing for an
+independent irrigation variable, he found that the elasticity was further reduced from 1.27 to 0.97. Second, using Indian time-series data and a more
+sophisticated formulation of price expectations formation, he found that the
+long-run aggregate response was between 0.29 and 0.46. He concluded that
+aggregate elasticities were rather greater than had been found from previous
+time-series analyses and considerably smaller than Peterson's cross-country
+estimate. Chhibber's study provides an important first step in the much-needed
+reconciliation between conflicting results on aggregate response.
+Additional support for these results is available from the outcome of a related debate in Asian agriculture. Timmer and Falcon ( 1975) found that 85%
+of the variations in fertilizer use in major rice-producing Asian countries was
+explained by the rice-to-fertilizer price ratio. By contrast, when appropriate
+controls for irrigation, credit and technology were introduced in the analysis,
+only one-third of such variations could be explained by prices (David, 1976).
+Insofar as rice was the dominant crop in most of these countries, this last
+finding appears to be closely related to the question of aggregate supply elasticity and, hence, reinforces Chhibber's findings. An additional point of relevance should be noted. Peterson's study uses the output-to-fertilizer price ratio
+while Chhibber's time-series analysis is based on data for the barter terms of
+trade for agriculture. Given the low incidence of fertilizer usage in LDCs, the
+latter price variable seems to be the more appropriate one to use in estimation.
+To complete this review of evidence, reference should be made to two crossfarm studies that reported negative aggregate elasticities. Yotopoulos and Lau
+(1974) found that the total output elasticity in Indian agriculture was -0.15.
+In a similar application to data from N.W. Malaysia, Barnum and Squire ( 1979)
+found the elasticity to be - 0.02 for rice. Since this region of Malaysia has
+virtually a mono-crop system, this estimate may be taken to be an appro ximation to the aggregate elasticity. Both results were attributed to the negative
+response of agricultural labor supply to the higher agricultural incomes resulting from higher output prices. But it should be noted that other studies using
+identical methodology based on profit-function analysis obtained positive elasticities (Lau and Yotopoulos, 1979).
+
+11
+
+3. Impact of input subsidies
+
+The prices of inputs facing farmers are an integral aspect of economic incentives to agricultural production. Input price policies seek to change output and/
+or to guide farmers to the socially optimal input mix in the presence of market
+imperfections. An important issue of policy is the choice between output price
+increases and input price subsidies.
+The bulk of the evidence on input price policies relates to fertilizers, studies
+of tractor prices, interest rates and wage rates being much less extensive. Several writers, in fact, have emphasized the importance of the output-to-fertilizer
+price ratio as the key measure of economic incentives in agriculture. The studies by Timmer and Falcon (1975) on rice and on total agricultural output by
+Peterson ( 1979), discussed earlier, argue that the very large differences in yields
+across countries are explained principally by the similarly large differences in
+the ratio of output prices to fertilizer prices. In effect, they imply that raising
+output prices or, equivalently, reducing fertilizer prices will bring about rapid
+agricultural growth.
+The general argument against these exaggerated interpretations of the role
+of price incentives has been presented in Section 2. Specifically, in the context
+of fertilizer demand studies, David ( 1975) has expressed considerable skepticism about approaches that fail to incorporate non-price determinants of input
+demand. Her study showed that a 10% increase in fertilizer application would
+increase rice production by 1.43% when all environmental and technological
+factors have adjusted upwards- that is, when suitable varieties, cultural practices and adequate water supplies have all been developed. The ceteris paribus
+response rate is only 0.7%. She also found that countries differed dramatically
+in this regard.
+For the United States Griliches ( 1958) found that if fertilizer prices rise by
+10% then fertilizer use drops by 5% in the 1st year and by about 20% in the
+long run. Timmer ( 1976) has summarized available estimates using Griliches'
+methodology for Brazil, India, Japan, Korea and the Philippines. The estimated long-run decline in fertilizer use for a 10% price rise ranged from only
+3.4% to 66.3%, the average being about 20%. To interpret these results, consider the effects of a 10% subsidy on fertilizer. Given long-run adjustment of
+varieties, water supply and techniques, this will lead to a 20% increase in fertilizer use and a 2.86% increase in supply. An important difficulty with this
+methodology in the LDC context is that the long-run elasticity for fertilizer is
+a composite of the effect of prices and of changes in various environmental
+factors. They fail to measure the efficacy of a fertilizer subsidy taken alone.
+David (1976) has addressed this issue using a more policy-relevant methodology. Her study reported the results on fertilizer price elasticities based on
+a comprehensive analysis of data obtained at three different levels: aggregate
+data for ten Asian countries, cross-section farm-level data for six Asian coun-
+
+12
+
+tries, and cross-section and time-series farm-level data for Laguna (Philippines) farmers. This study had the unique virtue of systematically allowing for
+fertilizer demand differences due to non-price factors. The long-run fertilizer
+demand elasticity was remarkably stable at about -0.9 for all three sets of
+data. This elasticity, it should be cautioned, is again a composite figure when
+all other conditions are allowed to change. When neither environment nor
+varieties is permitted to change, the elasticity drops to -0.3 - which may be
+compared with the estimate of about -2.0 obtained using Griliches' methodology. Thus, only one-third of the long-run fertilizer response can be explained
+by price changes alone. David also found that the pure price-response of fertilizer was greater in countries with larger levels of fertilizer consumption- a
+finding that makes exclusive reliance on fertilizer subsidies more difficult to
+justify in poorer countries.
+Historical studies of long-term trends in Japan and other East Asian countries support these conclusions. Over the past century or so these countries
+experienced high rates of agricultural growth accompanying successful economic development. According to Hayami ( 1972), between 1880 and 1960, the
+price of rice deflated by the general price index showed no trend. This reflected
+government policy designed to keep the wage costs of labor-intensive industrialization stable without lowering the living standards of agricultural producers. However, important innovations in the fertilizer industry led to fertilizer price reductions. Between 1883 and 1937, the price of commercial fertilizer
+fell by more than 60% (Hayami, 1967). Along with falling fertilizer prices,
+non-price efforts to improve yields- through improving technology and infrastructure - served to maintain the growth of agricultural production. Falling fertilizer prices may have been particularly important in easing the working capital constraint of Japanese peasants (Ishikawa, 1967).
+Some evidence from micro-level studies further reinforces the above conclusions. Dobbs and Foster (1972) assessed farm-level incentives to invest in
+packages of yield-raising inputs (water-seed-fertilizer) for grain production in
+north India. They evaluated the private rate of return to investments in added
+inputs using farm-level data rather than estimate elasticities statistically. Even
+at output prices 25% below the prevailing market levels, they found rates of
+return varying between 77 and 1196% -well in excess of any measure of the
+social opportunity cost of capital. Their conclusion was that input prices did
+not seem unreasonably high to deter the adoption of these packages. Private
+investment in yield-raising but lumpy inputs such as tube-wells appeared to
+be effectively constrained by factors such as small size of land-holdings, land
+fragmentation and credit availability.
+Rosegrant and Herdt (1981) constructed a detailed farm-level decisionmaking model to simulate the joint and independent yield-raising effects of
+credit and fertilizer subsidies. Using Philippines data, they found that: (a) the
+quantum of credit available was far more effective in increasing yield than the
+
+13
+
+price of credit, and (b) fertilizer subsidies served to raise yield by increasing
+the effective availability of credit. This study suggests that fertilizer subsidies
+and efforts to increase available credit are policies that strongly complement
+each other. Credit market failures appear to be quite widespread especially in
+small-holder agriculture of poor countries.
+The impact of price policies on tractorization has been addressed in anumber of studies although their focus has been on capital-labor substitution rather
+than supply response. In Brazil, for instance, the operative tractor stock rose
+from 8372 in 1950 to 165 870 in 1970. According to Sanders and Ruttan (1978),
+this was brought about in various ways including preferential exchange rates
+during the 50s and, subsidized credit with very low (often negative) interest
+rates and long repayment periods in the 60s. The authors found that the ease
+of substituting tractors for labor was very high so that the labor displacement
+effect was substantial. This displacement also took the form of a regional shift
+of production away from areas with cheap labor (the northeast) to areas with
+large farms and high labor costs. It was noted that the scarcity of labor for the
+large farms of the Brazilian South prompted the use of their political influence
+to subsidize the substitution of capital for labor.
+In the South Asian experience with the new yield-raising technologies, an
+important issue is whether mechanization of land preparation and harvesting
+operations was a response to the relative prices of labor and capital or whether
+it was technically complementary to the bio-chemical inputs. For the Pakistan
+Punjab, Mcinerney and Donaldson ( 1975), found that tractor subsidization
+was correlated with a more than doubling of farm size and with a decrease in
+labor use per acre of 40% but with an increase in cropping intensity of only
+7%. Rao ( 1974) found no evidence of technical complementarity for the Indian
+Punjab. He explained tractorization as an undesirable consequence of changing relative prices (falling tractor to wage costs and rising product prices to
+tractor costs) in the context of unequal land structure. Similarly, in Mexico,
+the employment impact of the green revolution was greatly restricted because
+of the labor-saving mechanization favored by the large farm sector which was
+able to grow rapidly owing to cheap government credit and infrastructure provision (Stevenhagen, 1970; Johnston and Cownie, 1969).
+These experiences suggest that small farms and large farms frequently do
+not face identical wage and capital costs due to a variety of market and institutional imperfections. This makes for a capital-using bias on large farms which
+may be further reinforced by inappropriate government price policies.
+How does the policy-maker decide between supporting output prices versus
+subsidizing inputs? The estimates of demand and supply elasticities for inputs
+and outputs are critical to this choice but the impacts on foreign exchange and
+budget balances may be equally important. The decision has to rest on the
+relative social and budgetary costs of these alternative policies.
+The conventional wisdom is that output subsidies are superior because they
+
+14
+
+do not distort the mix of inputs used when raising production. Input subsidies,
+in this view, are justified only when there are input market imperfections. According to Barker and Hayami (1976), the use of fertilizer subsidies in the
+Philippines to achieve rice self-sufficiency was more cost-efficient than price
+supports because of various difficulties in its diffusion (ignorance, risk, etc.).
+Their calculations allowed for an important difficulty with input subsidies:
+unlike a price support for, say, rice, input subsidies for fertilizer, water, credit,
+etc., may not be amenable to targeting for specific crops. For instance, the
+spillover of fertilizer subsidies (intended for rice growers) in the Philippines
+to sugar producers greatly increased the total cost of the subsidy program
+(though not by enough to tilt the balance in favor of price supports).
+Ahmed ( 1978) extended the study of Barker and Hayami to Bangladesh. He
+found that the net social benefits would be larger and the net cost to government smaller with a fertilizer subsidy than a price support program for a targeted increase of 0.5 m tons in rice. This was because: (a) the price elasticity
+of rice supply was small; (b) such as it was, the rice output response undercut
+jute production, a major foreign exchange earner; and (c) increased fertilizer
+consumption could be domestically met. It may be added that Ahmed judged
+the distributional effects to be also superior for fertilizer subsidies because the
+fraction of output marketed was more unequal across farmsize groups than the
+fraction of fertilizer consumed.
+Evidently, the choice between output and input price incentives will depend
+on a variety of country- or situation-specific factors. Two studies, nevertheless,
+provide theoretical and practical pointers of a general nature.
+(1) Krishna (1976) has argued that, traditionally, input subsidies are preferred on political grounds because food prices do not have to be raised and on
+budgetary grounds because only farmers using the input benefit. However, he
+favors output price supports, because: (a) farmers are more familiar and sensitive to them at low levels of development, and (b) output price supports are
+more easily coupled with price stabilization than input subsidies. This general
+recommendation is supported by practical considerations.
+( 2) A theoretical argument, which has yet to be empirically tested, favoring
+input subsidies, has been provided by Parish and McLaren ( 1982). If average
+costs rise with production due to technical diseconomies, the cost of a subsidy
+to a variable input such as fertilizer, which substitutes for fixed factors such as
+land and complements other variable factors, will be lower than the cost of an
+output price support. The premises of this argument are supported by empirical observations in the case of fertilizer.
+4. Marketed surplus
+
+Prices for agricultural commodities can have qualitatively different effects
+on the surplus of agriculture sold to the rest of the economy than on the volume
+
+15
+
+of production. This distinction between production and sales is not of significance for non-foodgrain agricultural products. The problem of ensuring an
+adequate flow of food surpluses to urban areas to achieve targeted rates of
+growth of industry has been at the center of debates about economic development. When countries seek to achieve domestic food self-sufficiency either for
+non-economic reasons of owing to acute foreign exchange constraints on food
+imports, the marketed surplus issue is a particularly serious one.
+Other linkages between agriculture and the rest of the economy are closely
+related to the marketed surplus. The volume of marketed surplus will exceed
+the reverse flow of industrial intermediate and consumption goods purchases
+by agriculture to the extent that agricultural savings finance non-agricultural
+investments. In India, for example, roughly two-thirds of total foodgrains output is retained for self-consumption within agriculture while, at the same time,
+rural demand for industrial consumption goods is nearly two and one-halftimes
+that of urban consumption (Rangarajan, 1982). Bell (1974) designates the
+flow of marketed surplus due to purchases of industrial inputs such as fertilizer
+as the 'obligatory' surplus and that corresponding to purchases of industrial
+consumption goods such as textiles as the 'optional' surplus. In the course of
+economic development, agricultural technology usually develops in ways which
+increase the obligatory surplus and the growing income of the agricultural producer-consumer will permit diversification in consumption away from food so
+that the optional surplus is also expected to rise.
+By contrast, in the short to medium run, an increase in agricultural prices
+may actually reduce the flow of marketed surplus out of agriculture. As prices
+rise, agricultural incomes will rise and so will, following the evidence presented
+in Section 2, output. However, the impact on own-consumption is uncertain.
+Since agricultural product prices rise, rural producers will substitute away from
+agricultural consumption to industrial goods. On the other hand, the increase
+in their incomes as sellers will permit them to retain more of their own production. On balance, the effect on marketed surplus may turn out to be negative depending on the price and income elasticities of own consumption, the
+price elasticity of supply and the fraction of output marketed. A 'perverse'
+response is, of course, consistent with rational, self-interested behavior on the
+part of the farmer. If farms have a high propensity to consume more of their
+own production as output prices and, hence, their incomes rise, and such income effects dominate the tendency to substitute alternative consumption goods
+for the own-produced goods, then policies seeking to increase the surplus sold
+of food should favor 'low' rather than 'high' food prices.
+Three factors increase the likelihood of a negative response. First, with low
+income levels in agriculture, retentions will be high and consumption is likely
+to respond positively to prices. Second, where non-food consumer goods are
+not widely available in rural areas or where consumer preferences remain conservative, diversification in consumption will be slow to respond. Third, the
+
+16
+
+likelihood of a negative response is greater for an economy where the small
+peasant sector is dominant.
+Empirically, the marketed surplus response to prices remains one ofthe major unsettled issues (Krishna, 1967). Marketed surplus elasticities have been
+estimated through direct and indirect means and, for specific food crops and
+for foodgrains as a whole. Such studies remain few, and a number of them have
+been for India.
+Bardhan's (1970) was the first study to estimate the marketed surplus elasticity directly. She estimated the behavior of total foodgrains marketed using
+cross-section village-level data for India and found a marketed surplus elasticity ranging between -0.33 and - 0.60. Haessel ( 1975) subsequently employed
+the same data but allowed for the interaction between, and hence, simultaneous determination of, marketings and prices. The estimate of the short-run
+elasticity ranged between 2.7 and 3.3. He also found that the elasticity estimates for small farmers were somewhat lower than for large farms.
+Haessel's results obtained for village-level data were recently contradicted
+by a macro-econometric model in which the foodgrains marketed surplus and
+food prices were simultaneously determined along with many other variables
+relating to the agricultural and manufacturing sectors (Ahluwalia, 1979).
+Marketed surplus of foodgrains was specified to be a function of foodgrains
+output, current and lagged, and of foodgrain prices and income from commercial crops, both expressed in terms of the price of manufactures. Relative foodgrain prices were determined by the marketed surplus, government food distribution and non-agricultural real income. The study found a negative and
+significant response of marketed surplus in the short to medium run. Simulation results from this study showed that in the absence of (P .L.480) imports
+of foodgrains, agriculture's terms of trade would have been more favorable and
+domestic production offoodgrains greater; however, the marketed surplus would
+have been lower by an average of 2.5% per year.
+In a time-series study using Indian macro data, it was reported that the
+response of marketed surplus was positive for different measures of price incentives (Bardhan and Bardhan, 1971). But the estimation did not permit
+interactions between prices and sales. The elasticity of the fraction of foodgrains marketed was positive and close to unity with respect to the price of
+foodgrains relative to the non-food consumables. The elasticity with respect
+to the ratio of food prices to non-food agricultural products was also positive
+but considerably less than one. Furthermore, theoretical analysis showed that
+given a relatively high value for the income elasticity of food demand, a low
+trend rate of growth of food production relative to that for non-food agricultural production could make the response of marketed surplus to long-run shifts
+in agricultural production negative. For the Indian case, the authors' empirical
+analysis validated the premises as well as the conclusion of their argument: the
+response of marketing to trend shifts was negative and significantly greater
+
+17
+
+than unity. This implies that if domestic marketed food surplus is a critical
+goal of policy, then, even though the price response of the surplus is positive,
+long-run efforts on research and other non-price factors shifting agricultural
+supply will have to be biased in favor of food production.
+Analyses based on the profit function approach have also reported negative
+marketed surplus elasticities. These studies estimate partial output and sales
+elasticities at the household level when no feedback effects due to labor supply
+and resulting income changes are permitted and general elasticities when such
+effects are allowed. In a study for Malaysia, the partial marketed surplus elasticity was 0.66 while the general elasticity was -0.08 (Barnum and Squire,
+1979). In an Indian cross-farm study, the partial and general supply elasticities
+were 1.17 and -0.15, respectively (Yotopoulos and Lau, 1974). With plausible
+price and income elasticities of consumption, these estimates would also imply
+a switch from positive partial to negative general elasticities of the surplus sold.
+Another study for South Korea found that elasticities were comparable to those
+obtained for Malaysia owing to the strength ofthe feedback effects (Ahn, Singh
+and Squire, 1981).
+Toquero et al. ( 1975) estimated the price elasticity of the marketed surplus
+for rice in the Philippines for mono-culture farmers. They found that home
+consumption of rice was not sensitive to prices. Since the supply was responsive to prices, the surplus showed a positive response: 0.41 to 0.67 in the short
+run and 0.69 to 0.95 in the long run. The elasticity of surplus with respect to
+output shifts was considerably higher at 1.38. They cautioned that their analysis "does not imply that price supports or import restrictions which raise farm
+prices are adequate to mobilize the marketable surplus." The choice, for instance, between price incentive and research investments to shift food supply
+would have to reflect their relative costs as alternatives to increase the marketed surplus. Another study for the Philippines found that the elasticities
+range from 0.20 to above 1.00 for specific crops (Mangahas et al., 1966). They
+were higher for rice than for corn. Since the study found no yield response to
+prices, its conclusion was that prices could not be relied upon as an instrument
+for raising the long-run marketed surplus. Behrman's ( 1966) study for rice in
+Thailand estimated the marketed surplus elasticity to be around 0.45 in the
+short run and about 1.04 in the long run.
+These mixed and somewhat pessimistic findings relating price policy and
+the marketed surplus of food need to be placed in the more general context of
+long-run interactions between agriculture and the rest of the economy. Price
+policy, the evidence seems to suggest, cannot always be relied upon to ensure
+the adequate flow of food supplies to meet the needs of the non-agricultural
+sectors. Any increase in non-agricultural food demands due to industrial investments and employment growth may reduce the marketed surplus, raise
+food costs and, hence, increase the wage bill in private and public non-agricultural production. Recent work on two-sector growth models emphasize this
+
+18
+
+wage goods constraint (Taylor, 1983 ). Mellor (1982) has pointed out that rapid
+population growth coupled with acceleration of per capita incomes due to economic development will tend to accelerate the overall rate of growth of food
+demand. His calculations suggest that the annual rate of growth of food demand is strongly related to the level of development: 3.0% (very low income),
+3.9% (low income), 5.3% (medium income), 4% (high income) and 1.3% (very
+high income). It is conceivable that with such accelerated food demand growth,
+the terms of trade will shift in favor of food/ agriculture. Given the evidence
+discussed above, it should be clear that non-price mechanisms may then be
+required to maintain reasonable rates of growth of the marketed surplus and
+effect structural transformation. This conclusion, of course, assumes a closed
+economy.
+6. Conclusions
+
+This paper has attempted to integrate and critically evaluate the available
+evidence on the resource allocative effects of agricultural price incentives.
+Pointed generalizations are precluded partly because of wide differences in
+methodology and estimates found in the studies reviewed. They are inadvisable
+also because the evidence suggests that supply elasticities depend on countryspecific factors relating to technology, economic structure and macro constraints. The highlights of the review can be summed up briefly:
+(1) Crop-specific acreage elasticities range between zero and 0.8 in the shortrun while long-run elasticities tend to be higher- between 0.3 and 1.2. Yield
+responses to prices are smaller and display much less stability than acreage
+elasticities.
+( 2) Although specific crop elasticities reflect inter-crop shifts in resources
+and are not notably large, they are of considerable policy interest. Inter-crop
+price relations set by policy can be relied upon to effect modest shifts in the
+commodity composition of agricultural output as between, for example, food
+and non-food crops.
+( 3) One reason for the wide range in crop-specific elasticities is the fact that
+elasticities can systematically differ among crops and among countries. Evidence suggests that these determinants of supply elasticities include technological factors such as crop-specific yield risks, the feasibility of multiple-cropping and the availability of arable land; economic factors such as crop-specific
+price risks, the relative importance of the crop, farm incomes and farm size,
+and the incidence of tenancy; and sociological dimensions such as the level of
+farmer literacy. Price policy in any particular context should be designed after
+evaluating these and other factors determining supply response.
+(4) The most controversial aspect of supply response relates to the response of aggregate agricultural output to agriculture's terms of trade. The
+importance of this issue derives from the fact that even small differences in
+
+19
+
+aggregate response estimates imply far-reaching disagreements over the resource allocative impact of the terms of trade. Conventional time-series estimates range from 0.1 to 0.3. A major cross-country study reports an aggregate
+elasticity as high as 1.66. Cross-farm micro-macro studies report negative aggregate elasticities. A critical review of the literature reveals that cross-country
+estimates exaggerate aggregate supply responsiveness to prices while time-series studies underestimate the response somewhat. For LDCs, a tentative range
+of 0.4 to 0.5 seems plausible. It would seem that major shifts in the terms of
+trade will alter resource allocation betwen sectors much less than the distribution of incomes.
+( 5) If Asian experience is any guide, it appears that only about a third of
+the inter-country differences in fertilizer use can be attributed to fertilizer price
+policies. The remaining two-thirds are explained by environmental factors such
+as the level of technology, available infrastructure including irrigation, credit
+constraints and agrarian structure. The response of fertilizer use to price subsidies also depends positively on the level of fertilizer use. This implies that
+fertilizer subsidies will be less reliable as a way of inreasing use in poor than in
+rich countries. Provided new technologies and infrastructure are in place, fertilizer subsidies can serve the useful purpose of rapid technological diffusion
+and of overcoming credit constraints.
+( 6) Small farms and large farms frequently do not face identical wage and
+capital costs. If corrective price policies or other interventions are not devised,
+the large farm sector will display a strong capital-using bias with strong negative effects on employment and only weak positive effects on supply.
+( 7) The optimal choice between price supports and input subsidies will depend on a variety of country- or situation-specific factors. Of particular importance are their relative effects on the government and the foreign balance.
+Nevertheless, a significant general factor favoring price supports is that they
+can more easily be coupled with price stabilization goals than input subsidies.
+At the same time, fertilizer subsidies can be expected to have an advantage
+over price supports in certain specific situations. The relative size of this advantage is presently unknown.
+(8) Available evidence on the response of the marketed surplus is limited
+and fragmentary. Such as it is, together with a priori considerations, the evidence seems to suggest that price policy cannot always be relied upon to ensure
+the flow of adequate food supplies to meet demand in the non-agricultural
+sectors. The long-run expansion of food surpluses for industrialization in a
+closed economy will have to rely, in the main, on non-price efforts to shift the
+food supply function rapidly. If cheap food imports are feasible and at reasonably stable prices, LDCs may be able to avoid making painful policy tradeoffs
+in this respect.
+
+20
+
+References
+Ahluwalia, I., 1979. An analysis of price and output behavior in the Indian economy: 1951-1973.
+J. Dev. Econ., 6: 363-390.
+Ahmed, R., 1978. Price support vs. fertilizer subsidy for increasing rice production in Bangladesh.
+Bangladesh Dev. Stud., 6: 119-138.
+Ahmed, R., 1981. Agricultural price policy under complex socio-economic and natural constraints:
+the case of Bangladesh. Rep. 27, International Food Policy Research Institute, Washington,
+DC, 78pp.
+Ahn, C.Y., Singh, I. and Squire, L., 1981. A model of an agricultural household in a multi-crop
+economy: the case of Korea. Rev. Econ. Stat., 63: 520-525.
+Askari, H. and Cummings, J., 1974. Output price response in agriculture: an evaluation. Indian J.
+Agric. Econ., 29: 165-17 4.
+Askari, H. and Cummings, J., 1977. Agricultural Supply Response: A Survey of Econometric Evidence. Praeger, New York, 443 p.
+Bapna, S., 1980. Aggregate Supply Response of Crops in a Developing Region. Sultan Chand and
+Sons, Delhi.
+Bardhan, K., 1970. Price and output response of marketed surplus of foodgrains: a cross-sectional
+study of some North Indian villages. Am. J. Agric. Econ., 52: 51-61.
+Bardhan, K. and Bardhan, P., 1971. Price response of marketed surplus of foodgrains. Oxford
+Econ. Pap., 23: 255-267.
+Barker, R. and Hayami, Y., 1976. Price support versus input subsidy for food self-sufficiency in
+developing countries. Am. J. Agric. Econ., 58: 617-628.
+Barnum, H. and Squire, L., 1979. An econometric application of the theory of the farm household.
+J. Dev. Econ., 6: 79-102.
+Behrman, J., 1966. Price elasticity of the marketed surplus of a subsistence crop. J. Farm Econ.,
+48: 875-893.
+Bell, C., 1974. A note on 'perverse' producer responses to changes in prices. In: D. Lehmann (Editor), Peasants, Landlords and Governments. Holmes and Meier, New York, pp. 262-268.
+Chhibber, A., 1982. Dynamics of price and non-price response of supply in agriculture. Stanford
+University, Stanford, CA.
+Chhibber, A. and Hrabovszky, J.P., 1983. Agricultural price and investment policy in the Sudan:
+a linear programming approach. Food and Agriculture Organization, Rome.
+Dantwala, M., 1963. International planning to combat the scourge of hunger throughout the world.
+Ann. Collect. Econ., 34: 71-95.
+David, C., 1975. A model of fertilizer demand in Asian rice economy: a micro-macro analysis.
+Ph.D. thesis, Stanford University, Stanford, CA.
+David, C., 1976. Fertilizer demand in the Asian rice economy. Food Res. lnst. Stud., 15: 109-124.
+Dobbs, T. and Foster, P., 1972. Incentives to invest in new agricultural inputs in northern India.
+Econ. Dev. Cult. Change, 21: 101-117.
+Fisher, F., 1963. A theoretical analysis of the impact offood surplus disposal on agricultural production in recipient countries. J. Farm Econ., 45: 863-875.
+Griliches, Z., 1958. The demand for fertilizer: an economic interpretation of a technical change.
+J. Farm Econ., 40: 591-606.
+Griliches, Z., 1959. The demand for inputs in agriculture and a derived supply elasticity. J. Farm
+Econ., 41: 309-322.
+Haessel, W., 1975. The price and income elasticities of home consumption and marketed surplus
+of food grains. Am. J. Agric. Econ., 57: 111-115.
+Hayami, Y., 1967. Innovations in the fertilizer industry and agricultural development: the Japanese experience. J. Farm Econ., 49: 403-412.
+Hayami, Y., 1972. Rice policy in Japan's economic development. Am. J. Agric. Econ., 54: 19-31.
+
+21
+Herdt, R., 1970. A disaggregate approach to aggregate supply. Am. J. Agric. Econ., 52: 512-520.
+Ishikawa, S., 1967. Economic Development in Asian Perspective. Kinokuniya Bookstore Co., Tokyo.
+Johnston, B. and Cownie, J., 1969. The seed-fertilizer revolution and labor force absorption. Am.
+Econ. Rev., 59: 569-582.
+Krishna, R., 1967. Agricultural price policy and economic development. In: H. Southworth and
+B. Johnston (Editors), Agricultural Development and Economic Growth. Cornell University
+Press, Ithaca, NY, pp. 497-540.
+Krishna, R., 1982. Some aspects of agricultural growth, price policy and equity in developing
+countries. Food Res. Inst. Stud., 18: 219-260.
+Lau, L. and Yotopoulos, P., 1979. Applications of the profit function to selected countries: summary and conclusions. Food Res. Inst. Stud., 17: 107-114.
+Mangahas, M., Recto, A. and Ruttan, V., 1966. Price and market relationships for rice and corn
+in the Philippines. J. Farm Econ., 48: 685-703.
+Mcinerney, J. and Donaldson, G., 1975. The consequences of farm tractors in Pakistan. Staff
+Work. Pap. 210, World Bank, Washington, DC.
+Mellor, J., 1982. Third world development: Food, employment and growth interactions. Am. J.
+Agric. Econ., 64: 304-311.
+Nerlove, M., 1958. The Dynamics of Supply: The Estimation of Farmers' Response to Price. Johns
+Hopkins University Press, Baltimore, MD, 268 pp.
+Parish; R. and McLaren, K., 1982. Relative cost-effectiveness of input and output subsidies. Aust.
+J. Agric. Econ., 26: 1-13.
+Peterson, W., 1979. International farm prices and the social cost of cheap food policies. Am. J.
+Agric. Econ., 59: 12-21.
+Raj, K.N., 1969. Some questions concerning growth, transformation and planning of agriculture
+in developing countries. J. Dev. Flann., 1: 15-38.
+Raj, K.N., 1982. Agricultural growth in China and India: Role of price and non-price factors.
+Economic and Political Weekly, January 15.
+Rangarajan, C., 1982. Agricultural growth and industrial performance in India. Res. Rep. 33, International Food Policy Research Institute, Washington, DC.
+Rao, C.H.H., 1974. Employment implications of the Green Revolution and mechanization: a case
+study of the Punjab. In: N. Islam (Editor), Agricultural Policy in Developing Countries. Wiley,
+New York, pp. 341-350.
+Reca, L., 1976. Argentina: Country case study of agricultural prices and subsidies. Staff Work.
+Pap. 386, World Bank, Washington, DC.
+Rosegrant, M. and Herdt, R., 1981. Simulating the impacts of credit policy and fertilizer subsidy
+on Central Luzon rice farms. Am. J. Agric. Econ., 63: 655-665.
+Sanders, J. and Ruttan, V., 1978. Biased choice of technology in Brazilian agriculture. In: H.
+Binswanger and V. Ruttan (Editors), Induced Innovation. Johns Hopkins University Press,
+Baltimore, MD.
+Schultz, T.W., 1960. Impact and implications offoreign surplus disposal on underdeveloped economies. J. Farm Econ., 42: 1019-1030.
+Schultz, T.W., 1978. On economics and politics of agriculture. In: T.W. Schultz (Editor), Distortions of Agricultural Incentives. Indiana University Press, Bloomington, IN, pp. 3-23.
+Stevenhagen, R., 1970. Social aspects of agrarian structure in Mexico. In: R. Stevenhagen (Editor), Agrarian Problems and Peasant Movements in Latin America. Anchor Books.
+Tarrant, J., 1982. Food policy conflicts in Bangladesh. World Development, 10.
+Taylor, L., 1983. Structuralist Macroeconomics. Basic Books, New York, 234 pp.
+Timmer, C.P., 1976. Fertilizer and food policy in LDCs. Food Policy, 2: 143-154.
+Timmer, C.P. and Falcon, W., 1975. The political economy of rice production and trade in Asia.
+In: L. Reynolds (Editor), Agriculture in Development Theory. Yale University Press, New
+Haven, CT, pp. 373-410.
+
+22
+Toquero, Z., Buff, B., Anden-Sacsina, T. and Hayami, Y., 1975. Marketable surplus functions for
+a subsistence crop: Rice in the Philippines. Am. J. Agric. Econ., 57: 705-709.
+Yotopoulos, P. and Lau, L., 1974. On modelling the agrarian sector in developing countries: an
+integrated approach of micro and macroeconomics. J. Dev. Econ., 1: 105-127.
+
+

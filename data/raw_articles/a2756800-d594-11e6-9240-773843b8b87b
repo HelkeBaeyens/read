@@ -1,0 +1,242 @@
+AGRICULTURAL
+ECONOMICS
+
+ELSEVIER
+
+Agricultural Economics 27 (2002) 197-200
+www.elsevier.com/locate/agecon
+
+Introduction to the special issue on spatial
+analysis for agricultural economists
+Gerald C. Nelson*
+University of Illinois, Urbana-Champaign, 305 Mumford Hall, 1301 W Gregory Drive, Urbana, IL 61801, USA
+
+Abstract
+
+The goal of this special issue is to introduce agricultural economists to new analytical approaches involving spatial data.
+This paper provides a brief history of the special issue and an introduction to von Thiinen' s model of the determinants of land
+use and rent that underlies all spatial analysis.
+© 2002 Elsevier Science B.V. All rights reserved.
+Keywords: Spatial analysis
+
+The goal of this special issue is to introduce agricultural economists to new analytical approaches involving spatial data (data that include the co-ordinates on
+the surface of the earth, sometimes referred to as georeferenced). The genesis of this issue was two learning
+workshops-at the International Association of Agricultural Economics Meetings, Berlin, August 2000
+and the American Agricultural Economics Association Meetings, Chicago, August 2001. The format of
+the workshops was a morning session with overview
+papers and a series of afternoon hands-on sessions,
+where participants were able to experiment with software and data, working through a problem involving
+spatial data and techniques. The four papers following this introduction (Nelson and Geoghegan, 2002;
+Bell and Irwin, 2002; Bullock et al., 2002; Anselin,
+2002) are based on the overview sessions. The remaining papers were selected from the submissions
+in response to a call for papers to complement the
+overviews.
+
+* Tel.: +1-217-333-6465; fax: +1-217-333-5538.
+E-mail address: g-nelson@staff.uiuc.edu (G.C. Nelson).
+
+The remainder of this article introduces the key
+concepts in spatial analysis-that location matters
+and that near things matter more than far things.
+For geographers, the importance of the related concepts of the centrality of location and the influence
+of neighbours parallels the centrality of constrained
+(by resource or budget) utility maximisation concepts
+for economists. Interestingly, the geographers' equivalent of Adam Smith, Johann Heinrich von Thtinen, 1
+used agricultural markets to illustrate the importance
+of location and the resulting transport costs to a
+central market in determining production (land use
+choices) at various locations and the resulting land
+1 Johann Heinrich von Thiinen was a "North German landowner
+from the Mecklenberg area. Although educated at Gi:ittingen, he
+spent most of his life managing his rural estate, Tellow. In the
+first volume of his treatise, The Isolated State (1826), he laid
+down the first serious treatment of spatial economics, connecting
+with the theory of rent. His second volume (1850) developed
+the essence of the marginal productivity theory of distribution in
+a mathematically precise way .... Nearing his death, he asked
+that his famous equation for the marginal product of labour, or
+natural wage (w = -J7iji), be carved into his tombstone." From
+http://cepa.newschool.edu/het/profiles/thunen.htm, accessed on 14
+August 2002.
+
+0169-5150/02/$ - see front matter © 2002 Elsevier Science B.V. All rights reserved.
+PII: SO 169-5150(02)00081-6
+
+G. C. Nelson! Agricultural Economics 27 (2002) 197-200
+
+198
+
+Farm price of vegetables
+
+Farm price of wheat
+/
+
+,/
+
+Jl.//
+
+Land use:
+vegetables
+Land use:
+wheat
+
+Fig. 1. The von Thiinen model of farm price, land use and land
+rent.
+
+rent. 2 The von Thiinen concepts that underlie all
+spatial analysis are introduced next.
+The basic von Thiinen model is captured in Fig. 1. In
+a featureless plain, surrounding a central market, two
+crops can be grown-wheat and vegetables. All locations have identical production characteristics, including profit-maximising operators, but transport costs
+to the central market, with exogenously determined
+prices, differ by crop. The price of vegetables in the
+central market (a) is higher than the price of wheat
+(b) but vegetables are more expensive to transport.
+Hence, the farm vegetable price falls more quickly
+than the farm wheat price as distance from the market
+increases. 3 Beyond point 'c', the farm price of wheat
+is higher than vegetables. The result is a series of concentric rings of land use around the central market, indicated in the bottom part of the graph. In the shaded
+2 As is so often the case, Paul Samuelson has penetrating insights about the economic theory underlying von Thiinen's work
+(Samuelson, 1983).
+3 Note that while output prices fall with distance from the central
+market, input prices increase. In this simple version of the von
+Thiinen model, no purchased inputs are used.
+
+area, vegetables are grown; in the next ring wheat. Beyond 'd', neither crop is profitable and land is left in
+its natural state. Even though the productive characteristics of the farms are identical, the effect of transport cost is declining land rents with distance from the
+central market.
+Once differences in land productivity, prices, transport costs and multiple markets are introduced, the
+analysis becomes more complex but the basic insights
+of the importance of location and transport cost in determining land use remain. Identifying and explaining those land uses quantitatively provides conceptual,
+data, and modelling challenges.
+The four overview papers start from the basic insights of von Thiinen. The first three papers provide
+reviews of the concepts, literature, data and examples
+of analysis in three topic areas-land use in developing countries, the rural-urban interface, and precision
+agriculture. The final overview paper introduces the
+econometric issues that arise when location information is available. The first overview paper (Nelson and
+Geoghegan, 2002) reviews the theory and practice of
+modelling land use in developing countries where official data sources seldom include georeferenced values.
+The use of remotely sensed data provides an especially
+important alternative. The motivating issue for the research in this area can be summarised in the phrase "do
+roads cause deforestation?" More generally, how does
+infrastructure development and policy changes that alter transport costs or prices at the central market alter
+the relative profitability of different land use choices?
+Does it become profitable to convert forested land to
+some other land use? Papers in this issue by Mertens
+et al. (2002), Muller and Zeller (2002), Munroe et al.
+(2002), Swinton (2002), and Vance and Geoghegan
+(2002) explore land use issues in several developing
+countries and with a variety of innovative techniques.
+The second overview paper, by Bell and Irwin
+(2002), looks at the issues confronting planners, real
+estate developers and environmentalists at the changing rural-urban interface. As suburbs expand and
+single family home lot sizes grow, pressure follows
+to convert agricultural land to residential real estate
+or open space such as parks and forest preserves.
+These issues have received the most attention in developed countries where data sources are relatively
+more abundant and this paper emphasises analytical
+techniques in data-rich environments. It should be
+
+G. C. Nelson/ Agricultural Economics 27 (2002) 197-200
+
+noted, however, that the most rapid growth of urban
+areas is taking place in the developing world and
+the analytical techniques presented are applicable to
+those economies as well.
+In all spatial analysis research, a key issue is the relevant unit of analysis. Should it be US counties, I km
+square grids from weather satellites, or 30m cells
+from moderate resolution satellites or aerial photos?
+Ideally the scale should be closely associated with the
+area over which an individual decision-maker has control and information. Bullock et al. (2002) examine
+precision agriculture technologies and their relatively
+slow acceptance by farmers. This set of technologies
+(including yield monitors and precision input application) makes it possible to collect data on some
+important production attributes within a field. They
+demonstrate that complementary information can be
+essential to ensuring the profitability of a new technology. The paper by Florax et al. (2002) demonstrates
+that these concepts are relevant even for Sahelian
+farmers.
+The final paper in the overview section (Anselin,
+2002) introduces the reader to the additional complexities in econometric analysis that arise when spatial
+relationships exist. In a 'traditional' analysis involving spatial data (for example, estimating a production
+function based on input and output data) the location
+of the observations is assumed to be irrelevant. However, if there is some kind of spatial relationship, either among the dependent variables (a forest at one
+location causes neighbouring locations to have forests
+as well) or in the error structure (caused perhaps by
+similar soil types in neighbouring locations), parameter estimates can be inefficient and/or biased. Anselin
+reviews the conceptual issues that arise with spatial
+data and analysis, providing insights from the traditional spatial econometrics literature as well as from
+geostatistics, biostatistics and medical image analysis. Of particular importance to land use analysis is
+his discussion of latent variable estimation with spatial data. Since land use is the result of an unobservable decision process (choosing a land use that has the
+highest expected profit), qualitative choice estimation
+techniques are used. Anselin reviews the additional
+complications this causes and suggests techniques to
+correct for it.
+The papers in this issue demonstrate the application
+of many different kinds of analytical techniques (logit,
+
+199
+
+probit, hazard analysis, Bayesian analysis, combining
+remotely sensed and household survey data, simulation), to spatial economic problems in many areas of
+the world (The Amazon, Australia, Bangladesh, Honduras, Kenya, Mexico, Peru, The Sahel, Vietnam). The
+reader will find interesting new approaches to many
+important issues addressed in agricultural and regional
+economics.
+
+Acknowledgements
+
+I would like to acknowledge a great debt to all
+the reviewers for the papers considered for this special issue. I would also like to thank the organisers
+of the Berlin 2000 Meetings of the IAAE and the
+Chicago 2001 Meetings of the AAEA, and the editor
+of Agricultural Economics for making possible the
+development of these papers and the opportunity to
+make them available in a single publication. This material is based upon research supported in part by the
+Cooperative State Research, Education and Extension Service, U.S. Department of Agriculture, under
+Project No. ILLU 05-0361. Any opinions, findings,
+conclusions, or recommendations expressed in this
+publication are those of the author, who is solely responsible for the analysis and conclusions presented
+here.
+
+References
+Anselin, L., 2002. Under the hood: issues in the specification and
+interpretation of spatial regression models. Agric. Econ. 27.
+Bell, K., Irwin, E.G., 2002. Spatially explicit micro-level modeling
+of land-use change at the rural-urban interface. Agric. Econ.
+27.
+Bullock, D.S., Lowenberg-DeBoer, J., Swinton, S., 2002. Adding
+value to spatially managed inputs by understanding site-specific
+yield response. Agric. Econ. 27.
+Florax, R., Voortman, R., Brouwer, J., 2002. Spatial dimensions of
+precision agriculture: a spatial econometric analysis of millet
+yield on Sabelian coversands. Agric. Econ. 27.
+Mertens, B., Poccard-Chapuis, R., Piketty, M.G., Lacques, A.E.,
+Venturieri, A., 2002. Crossing spatial analyses and livestock
+economics to understand deforestation processes in the Brazilian
+Amazon: the case of Sao Felix do Xingu in South Pant Agric.
+Econ. 27.
+Miiller, D., Zeller, M., 2002. Land use dynamics in the central
+highlands of Vietnam: a spatial model combining village survey
+data with satellite imagery interpretation. Agric. Econ. 27.
+
+200
+
+G.C. Nelson/Agricultural Economics 27 (2002) 197-200
+
+Munroe, D.K., Southworth, J., Tucker, C.M., 2002. The dynamics
+of land-cover change in western Honduras: exploring spatial
+and temporal complexity. Agric. Econ. 27.
+Nelson, G.C., Geoghegan, J., 2002. Modeling deforestation and
+land use change: sparse data environments. Agric. Econ. 27.
+Samuelson, P.A., 1983. Thunen at two hundred. J. Econ. Lit. 21,
+1468-1488.
+
+Swinton, S., 2002. Capturing household-level spatial influence
+in agricultural management using random effects regression.
+Agric. Econ. 27.
+Vance, C., Geoghegan, J., 2002. Temporal and spatial modeling of
+tropical deforestation: a survival analysis linking satellite and
+household survey data. Agric. Econ. 27.
+
+

@@ -1,0 +1,1002 @@
+Agricultural Economics 25 (2001) 245–260
+
+Agent-based spatial models applied to agriculture:
+a simulation tool for technology diffusion,
+resource use changes and policy analysis
+Thomas Berger∗
+Center for Development Research, University of Bonn, ZEF-Bonn, Walter-Flex-Street 3, D-53113 Bonn, Germany
+
+Abstract
+This paper presents a spatial multi-agent programming model, which has been developed for assessing policy options in the
+diffusion of innovations and resource use changes. Unlike conventional simulation tools used in agricultural economics, the
+model class described here applies a multi-agent/cellular automata (CA) approach by using heterogeneous farm-household
+models and capturing their social and spatial interactions explicitly. The individual choice of the farm-household among available production, consumption, investment and marketing alternatives is represented in recursive linear programming models.
+Adoption constraints are introduced in form of network-threshold values that reflect the cumulative effects of experience and
+observation of peers’ experiences. The model’s economic and hydrologic components are tightly connected into a spatial
+framework. The integration of economic and hydrologic processes facilitates the consideration of feedback effects in the use
+of water for irrigation. The simulation runs of the model are carried out with an empirical data set, which has been derived from
+various data sources on an agricultural region in Chile. Simulation results show that agent-based spatial modelling constitutes
+a powerful approach to better understanding processes of innovation and resource use change. © 2001 Elsevier Science B.V.
+All rights reserved.
+JEL classification: Q120; O330; Q150; C690
+Keywords: Diffusion of innovations; Inter-household linkages; Policy analysis; Multi-agent systems; Cellular automata
+
+1. Introduction
+Simulation models are gaining importance as tools
+for managing tomorrow’s agriculture, since they allow the study of a wide range of price and trade
+policy options. In agricultural economics, simulation models that predict the behaviour of individual
+decision-makers are typically based on mathematical
+programming methods. In these models, individual
+decision-making is usually aggregated at the regional
+∗ Tel.: +49-228-73-4964; fax: +49-228-73-1869.
+E-mail address: t.berger@uni-bonn.de (T. Berger).
+
+or sector level in order to evaluate policy options. The
+advantage of such models is that they are robust and
+less demanding concerning the availability of aggregate data than econometric models. This makes them
+attractive, especially for policy analysis in transition
+and developing countries.
+However, apart from the well-known problem of
+aggregation error and the tendency to overspecialisation, conventional simulation models based on mathematical programming suffer from two weaknesses.
+First, they do not explicitly capture the interaction
+between actors (i.e. the individual farm-households),
+which is equivalent to the assumption that there are no
+
+0169-5150/01/$ – see front matter © 2001 Elsevier Science B.V. All rights reserved.
+PII: S 0 1 6 9 - 5 1 5 0 ( 0 1 ) 0 0 0 8 2 - 2
+
+246
+
+T. Berger / Agricultural Economics 25 (2001) 245–260
+
+transaction and information costs. Second, these models do not fully take into account the spatial dimension
+of agricultural activities and, thus, neglect the role of
+internal transport costs and the physical immobility
+of land. Consequently, the explanatory power of these
+models is rather moderate for research questions that
+involve the diffusion of innovations or locally adapted
+resource use where interaction and space usually play
+a decisive role.
+Against this background, the study presented here
+(Berger, 2000) attempted to develop a new mathematical programming approach for the prediction of
+diffusion processes, natural resource use changes and
+policy responses. The model’s applicability is tested
+on an empirical policy-related research question in
+Chile. The research was funded by the Deutsche
+Forschungsgemeinschaft (DFG) and carried out in
+co-operation with the University of Talca and the
+Center for Technology Evaluation in Linares (Berger,
+1997). The project draws on Balmann (1997), who
+pioneered the use of farm-based linear programming
+within a cellular automata (CA) framework.
+
+2. Problem and objectives
+Demand for a new type of model arose from the
+quest for adequate policies to improve the competitiveness of Chilean agriculture in the context of the
+Mercosur free-trade agreement.
+In 1996, tariffs were cut by 30% on the average. It
+was also agreed to specify exceptions for some rather
+sensitive agricultural products such as wheat, flour
+and sugar. Tariffs on these products remained at the
+level of 1996, until the end of the agreed adjustment
+period, which will be around 2014. Accompanying
+the ratification of the treaty in 1996, several studies
+were commissioned that were aimed at reducing the
+fears of the rather traditional Chilean farmers. The
+overall result of these studies was that farmers will
+in fact suffer income losses, but only if they continue
+to produce import commodities. However, Chilean
+farmers do have a considerable comparative advantage over other Mercosur countries if they produce
+export commodities. Hence, the challenge for Chilean
+farmers is to invest in new technologies in order to
+take advantage of increasing prices for export goods.
+Given that irrigation is required for most export farm-
+
+ing activities, resource use changes and water-saving
+innovations are a hot issue in agricultural extension.
+Political bargaining started on how to support the
+adjustment and modernisation process of Chilean
+agriculture. Despite the importance of innovation,
+there exist only a few and rather informal studies
+about the likely outcomes of market-driven technical
+and structural changes in Chilean agriculture.
+The objective of this research was to develop a new
+multi-agent modelling approach which (1) reduces the
+weaknesses of mathematical programming mentioned
+above, and (2) provides insights into the diffusion of
+innovations and water resource use.
+The simulation tool should help to clarify the following questions:
+• What will be the likely patterns of diffusion for
+specific innovations?
+• Can we expect substantial changes in the use of
+water as a result of water-saving irrigation methods?
+• Will these innovations create sufficient incomes and
+also reach traditional farmers?
+• What will be the structural effects of a ‘treadmill’
+innovation process, to use Cochrane’s (1979) terminology?
+
+3. Underlying model philosophy
+In Section 3.2, I outline some methodological
+thoughts on model building, which favour the application of a spatial farm-based programming approach to
+the adoption of innovations and resource use changes.
+Since the concepts of multi-agent systems (MAS) and
+CA are borrowed from the computer sciences, a short
+explanation may be helpful. For an overview on these
+and other artificial life techniques applied to social
+science simulations, refer to Gilbert and Troitzsch
+(1999).
+MAS are computer systems composed of autonomous entities or agents which have only limited
+knowledge and information processing capacities.
+While agents can be as simple as subroutines of a
+computer program, typically they are larger entities
+with some sort of persistent control. Good examples
+are personal electronic assistants that search for information on the internet, arrange their owners’ time
+schedules and assist car drivers. Accordingly, on a
+
+T. Berger / Agricultural Economics 25 (2001) 245–260
+
+more abstract level, their purpose is to solve larger and
+complex problems that one centralised unit cannot
+tackle, because too much information and computation power would be required. In MAS, agents interact and exchange information in a decentralised and
+somewhat ‘social’ manner instead, which explains
+why the term ‘Distributed Artificial Intelligence’ was
+coined. Particularly, this last aspect makes MAS an
+interesting tool for social sciences. The idea is to use
+computer simulations with human like agents in order to study how an aggregation of individuals leads
+to complex macro behaviour. These in silicio experiments will help to test the hypotheses on the fundamental social mechanisms in human societies. CA
+can be used to model the agents’ interactions in the
+physical or social space. Typically, the agents occupy
+positions on a two-dimensional grid of cells and the
+distances between them influence their interactions.
+An extensive literature has emerged both on the
+methodology and the use of mathematical programming models in predicting supply response in agriculture. Hanf (1989) provides an assessment of the
+two extreme prototypes of agricultural sector models,
+which may be very briefly summarised as follows.
+The ‘simultaneous equilibrium approach’ generally
+assumes a perfect co-ordination mechanism and maximises a common sectoral utility function. In contrast,
+the ‘representative independent farm approach’ consists of a number of farm models which are independently calculated and then added up to a sector result.
+The second approach seems to be a preferred model
+choice, if sector development is characterised by (1)
+imperfect markets, (2) different behaviour than pure
+profit maximisation and (3) adjustment processes. The
+same arguments apply in principle to the multi-agent
+programming approach. As will be shown in the remainder of this section, the multi-agent concept additionally facilitates the consideration of inter-household
+linkages and of space.
+
+2.
+
+3.
+
+4.
+
+5.
+3.1. Arguments for using a multi-agent
+programming approach
+1. A farm-based programming approach allows for a
+pragmatic treatment of data availability in transition and developing countries where consistent aggregate data hardly exist. Information from various
+sources such as agronomic results from experimen-
+
+247
+
+tal stations, official and unpublished farm records
+and sample surveys, experts’ opinions and direct
+observations on field trips can be incorporated.
+Policy makers and institutions pursuing technology
+transfer have a great interest in predicting the diffusion of specific innovations and in assessing the
+policy implications for ‘typical’ farm-households.
+Both technical and financial constraints on the farm
+level can easily be introduced into a farm-based
+programming approach.
+The set of activities which are technically and
+financially feasible for a farmer is influenced by
+behavioural constraints that reflect the cumulative effects of experience and observations of his
+neighbours’ experiences. Therefore, one should
+consider some form of heterogeneity of behaviour
+in order to capture time lags in farmers’ choices
+among alternative technologies. For the programming approach, this implies that several single
+farm models with different behavioural constraints
+have to be solved simultaneously, which is possible
+in a MAS.
+A multi-agent model is able to capture the most
+important interactions between farm-households.
+One type of interaction is the exchange of information about new technologies that is essential
+for the individual innovation decision. As findings
+from the innovation diffusion literature show, a
+‘critical mass’ of convinced users must be reached
+before an innovation will spread. The finest approach to modelling this phenomenon might be
+to internalise the communication process between
+the individual programming models, because otherwise one would have to establish the time of
+adoption more or less ‘ad hoc’ for each model and
+each policy scenario. Herein, lies the real merit of
+MAS, since it facilitates the solving of autonomous
+programming problems while exchanging variables
+between them.
+Similar considerations as in step 4 apply to another
+type of interaction: the exchange of locally available resources such as water and land. These factors
+of production are usually subsumed under the notion of ‘non-tradable’ goods. Because of their importance for agriculture, the incorporation of land
+and water markets in MAS with an endogenous
+price formation represents a notable improvement
+over conventional models.
+
+248
+
+T. Berger / Agricultural Economics 25 (2001) 245–260
+
+6. Different kinds of analysis can be undertaken
+in a dynamic model setting. The main research
+interest of the project presented here is to analyse the path of agricultural development without
+imposing the final outcome, as it is done in the
+comparative-static models used in many studies. The idea behind this approach is to define
+constituent parts of an agricultural region and to
+establish some rules concerning their dynamics.
+Having set up a starting situation, the model is run
+and a kind of self-organising process can be observed at the aggregate regional level. By variation
+of particular model variables, e.g. prices or interest
+rates, one can explore the structural evolution that
+might unfold in response to changing policy conditions. Thus, the approach can be best described
+as conducting experiments in an artificial world in
+order to obtain insights for policy development and
+evaluation.
+3.2. Arguments for using a spatial cellular
+automata model
+The next question to be raised in this context is why
+the spatial dimension of agricultural activities should
+be considered in farm models.
+1. From the farm management theory, it is well-known
+that internal transport costs limit farm growth.
+Farms mainly compete with their neighbours for
+land and, therefore, depend on the local supply of
+and demand for land. In rural areas, where many
+farms with a high marginal productivity attempt
+to expand their acreage, this can lead to excessive
+land prices that may even prevent the realisation
+of economies of scale. Ignoring these spatial dynamics by assuming perfect land allocation among
+farms is not always an adequate representation of
+reality.
+2. The particular role of spatial relations in the use of
+water for irrigation also requires a spatial model.
+Technologies with low irrigation efficiencies used
+by upstream farmers generate high return flows
+that can be reused by downstream farmers. Accordingly, the spatial distribution of freshwater
+utilisation and reuse is essential for farm models
+in developing countries where irrigation efficiency
+is typically low.
+
+3. Soils of different cultivation qualities and water
+supply determine the spatial variation of particular
+land use systems to a certain extent. Newly available technologies and policy interventions may
+alter this distribution, especially in the case of irrigated farmland. The same applies to organisational
+innovations such as jointly used infrastructure or
+cultivation practices with a high degree of spatial
+co-ordination, e.g. as integrated pest management.
+Spatial models are required to capture these issues.
+
+4. Model implementation
+The newly designed MAS–CA model consists of
+two main components: an economic sub-model and a
+hydrologic sub-model, which are tightly connected to
+a consistent spatial framework (Fig. 1). This section
+provides a short model description with emphasis on
+the technology adoption process. For a listing of model
+parameters and equations consult Berger (2000).
+4.1. Farm-based mathematical programming
+As far as the economic sub-model is concerned, a recursive linear programming approach is implemented
+but with a decisive novelty. Each farm-household in
+the study area is captured in the model and solves its
+decision problems over time autonomously. Several
+types of interactions between farms are considered:
+contagion of information, exchange of land and water
+resources and return-flows of irrigation water. Correspondingly, one might call this a highly disaggregated
+farm programming approach with inter-household
+linkages. The farm-households are assumed to seek
+to maximise expected family incomes without exhausting their land and water assets. Adoption of
+innovations is conceptualised as a farm investment
+problem under uncertainty. The agents’ complex
+decision-making processes are decomposed into sequences of smaller linear programming problems that
+are solved separately for each agent (Fig. 2). Following Day and Signo (1978), there is “sub-optimising
+with feedback”, i.e. the agents attempt to maximise
+their expected income in a sequential, local optimisation procedure that takes into account the agents’
+previous experiences. In the case where the returns to
+family-owned resources fall below certain thresholds,
+
+T. Berger / Agricultural Economics 25 (2001) 245–260
+
+Fig. 1. Model components.
+
+Fig. 2. Flowchart of the simulation model.
+
+249
+
+250
+
+T. Berger / Agricultural Economics 25 (2001) 245–260
+
+the models’ farm-agents are willing to give up agricultural production and leave the farm business.
+4.2. Technical change
+The innovation economics literature, as cited in
+Dosi et al. (1988), regards modern farm production
+as a typical example of a supplier-dominated sector.
+Technical improvements are largely incorporated in
+process innovations such tractors, fertilisers and pesticides, which are generated in the input supplying industry. The focus of this model approach is therefore,
+placed on the adoption of agricultural innovations by
+farms. Specific supply factors of technical change are
+neglected. This simplification can also be justified
+by the commonly accepted hypothesis that demand
+factors are largely responsible for the speed of diffusion in agriculture (Griliches, 1957). Technologies
+that appear to be promising in the near future become
+available to the farm-households in the simulation
+runs and diffuse through the farm sector. Obviously,
+two extreme scenarios define the ‘possibility space’
+for future technology diffusion in the farm sector.
+On one hand, farmers might adjust ‘smoothly’ to
+exogenous technical changes as predicted in the standard economic approaches. On the other hand, one
+might assume conservative farmers who are reluctant to innovate and refuse any technology adoption.
+Reality will probably lie somewhere between these
+two boundaries. The model presented here helps to
+explore the economic potential of new technologies
+along alternative development paths.
+4.3. Heterogeneity of behaviour
+In decision-theoretic terms, two variables affect
+the behavioural heterogeneity of farmers during the
+diffusion process of a specific innovation. First, the
+net benefits from adoption which traditional farm investment analysis can ‘objectively’ measure. Second,
+all other costs that relate to the farmer’s managerial capacity and are usually referred to as adoption
+costs. These include information and planning costs,
+socio-psychological adjustment costs, temporary production losses as well as ‘subjective’ risk premiums
+and option values. Metcalfe (1988, p. 564) provides a
+good illustration of how the diffusion process in the
+farm sector emerges from the frequency distribution
+
+of these two variables. Following his concept, one
+can classify the farm-households into three groups
+with regard to their timing of technology adoption:
+“non-adopters” whose net benefits from adoption of
+a specific innovation are negative (presumably due
+to indivisibility or insufficient farm sizes), “potential adopters” who at present face prohibitively high
+adoption costs and “actual adopters” with positive net
+benefits after adoptions costs. Diffusion of the innovation occurs when relative price changes or technical
+improvements modify the distribution of net benefits
+and/or adoption costs and hence, more ‘potential’
+adopters become ‘actual’. As Metcalfe (1988) notes,
+the recognition of ‘information contagion’ or ‘bandwagon effects’ distinguishes the following two diffusion models. Equilibrium approaches assume that
+information sets are given and exogenous, while disequilibrium approaches acknowledge an endogenous
+chain-reaction type of ‘contagion process’. A prominent example of the second approach is Cochrane’s
+(1979) treadmill model in agriculture, which is based
+on different adoption costs. Farmers with a high management capacity and low individual adoption costs
+tend to adopt a new technology first; imitators follow
+when their initially higher adoption costs decrease due
+to information spillover. Much empirical evidence, as
+cited by Rogers (1995), supports this concept. At the
+most critical stages in their adoption decision process, farmers apparently rely on information brought
+to them by the peers.
+4.4. Thresholds to adoption
+If all farmers eventually adopt an innovation, the
+outcome of the contagion process over time usually
+approaches an S-shaped diffusion path. Typically the
+normal bell-shaped and the cumulative curve are partitioned into five adopter categories using the average
+time of adoption and the standard deviation (Table 1).
+Along the time path, the farmers behave as if they
+had thresholds to adoption. For example, the first
+farmers of the ‘early adopter’ segment adopt after
+the ‘innovators’ segment, which counts for 2.5% of
+the farm population has. The ‘early majority’ follows
+after the innovation has reached 2.5 + 13.5% of the
+farmers, and so forth. Accordingly, one can interpret
+these cumulative percentages as ‘adoption thresholds’
+for the farmers of the subsequent adopter category. If
+
+T. Berger / Agricultural Economics 25 (2001) 245–260
+
+251
+
+Table 1
+Adopter categories and thresholdsa
+
+Frequency (%)
+Cumulative frequency (%)
+a
+
+Innovators
+
+Early adopters
+
+Early majority
+
+Late majority
+
+Laggards
+
+2.5
+0.0
+
+13.5
+2.5
+
+34.0
+16.0
+
+34.0
+50.0
+
+16.0
+84.0
+
+Source based on Rogers (1995, p. 262)
+
+one additionally assumes that relative prices remain
+constant and no post-innovative technological improvements occur, the following decision rule at the
+farm level leads to the same time path.
+• Step 1: Monitor the present adoption level and compare it with the individual threshold.
+• Step 2: If the threshold is reached, calculate the
+farm’s net benefits from the adoption.
+• Step 3: If the net benefits are positive, adopt the
+technology.
+Introducing a few more assumptions to this
+frequency-dependent diffusion model make it possible
+to predict the time path of the adoption of several production technologies simultaneously. The most important of the assumptions listed in Berger (2000) are: no
+change of thresholds over time; innovations do not differ in their ‘primary’ attributes (cf. Downs and Mohr,
+1976); the existence of a ‘natural’ time intervals such
+as (Table 1) planting seasons when adoption decisions
+can only be made. As further extensions to this approach, one can (1) consider separate communication
+networks without information spillover by monitoring
+only the farmers belonging to the same network and
+(2) attribute higher weights to external information
+sources by lowering the above mentioned thresholds.
+4.5. Empirical estimation of diffusion parameters
+Net benefits of different production technologies
+can be derived from experimental data and easily introduced into the whole farm programming models.
+In contrast, the estimation of adoption costs and their
+changes over time usually poses problems due to
+poor data availability. Fortunately, network-thresholds
+have in principal the advantage of a better empirical
+measurability. As Valente (1995) demonstrates, individual network-thresholds can be straightforwardly
+computed from the network survey data. Since adoption thresholds contain the same information about
+
+the underlying contagion process as adoption costs,
+the threshold approach is chosen for the research
+presented here. However, a complete network survey
+was not yet available for the Chilean study region
+and the network-thresholds had to be derived from
+the data provided by the extension service, an own
+project survey and in-depth interviews. Based on the
+intensive empirical work of Stallmeister (1995) and
+Sauer (1995), two distinct communication networks
+without information spillover were considered. On
+one hand, the campesino farms network consists of
+small-scale family holdings between 2.5 and 12.0 ha.
+On the other hand, the so-called ‘commercial’ farms
+network with farm sizes of more than 12.0 ha. Certainly, this network analysis is rather subjective and
+a follow-up study will have to conducted to provide
+more objective empirical network-thresholds.
+4.6. Other empirical data
+The simulations are carried out with an empirical data set that has been derived from various data
+sources on an agricultural region in Chile. The empirical investigation captured both the main agronomic
+and socio-economic features of the relevant region.
+The spatially disaggregated data set includes land of
+different cultivation qualities and water as an additional factor of production. A special module was
+designed to process and store the regional and individual farm data in a spatial database. In order to
+consider price changes due to the Mercosur agreement, price indices were computed based on Muchnik
+et al. (1996). In the alternative scenarios without the
+association to the Mercosur, input and output prices
+are fixed to their 1996 levels. Table 2 gives a summary
+of all the model variables and parameters.
+4.7. Spatial dimension
+As in most geographic information systems (GIS),
+the data are spatially organised in a grid of landscape
+
+252
+
+T. Berger / Agricultural Economics 25 (2001) 245–260
+
+Table 2
+Summary of model variables and parameters
+Exogenously determined variables
+
+Endogenous variables
+
+Parameters
+
+Market prices for ‘tradables’
+Interest rates
+Wages
+Taxes and contributions
+Minimum consumption level
+Supply of land
+Supply of freshwater
+Supply of innovations
+Initial location of farms
+
+Prices for ‘non-tradables’
+Acreages of crops
+Yields
+Investment levels
+Working capital expenditures
+Borrowing and saving levels
+Labour utilisation
+Return-flows in irrigation
+Allocation of land and water
+
+Input–output coefficients
+Depreciation rates
+Sunk costs for fixed assets
+Unit transport cost
+Network thresholds
+Expectation coefficients
+
+units. Each cell or pixel has several biophysical and
+economic attributes associated with it: soil quality,
+water supply, land cover/land use, ownership, internal transport costs, marginal productivity or return to
+land. While the first attribute, ‘soil quality’ here is assumed to be constant, all the other attributes are influenced by the autonomous decisions made over the
+time by the model agents, i.e. the farm-households
+and non-farm owners. For example, water supply depends on the amount of individual water user rights
+traded on markets. Land cover/land use is derived from
+the farm’s linear programming problem, taking into
+account the price expectations and technical and financial constraints. As far as ownership or tenureship
+is concerned, the model captures their changes when
+farmland is sold or rented. As a result, internal transport costs may also vary because of a cell’s location
+and respective distance to the new farmstead.
+4.8. Markets for land and water rights
+As empirical findings show, land and water are
+hardly ever sold in Chile, but rental markets may play
+an important role in the local exchange of both the
+resources. To capture these features, rental markets
+for land and water are considered endogenously in
+the model. An auction module was designed to model
+bilateral trade between the agents. Farm-agents attempt to rent out land and water when their shadow
+prices for a particular parcel are below sector average. Since the internal transport costs between parcel
+and farmsteads are considered, it is mainly the neighbouring farm-agents that compete for the offered
+land. The temporary land use right is then transferred
+
+to the neighbour with the highest shadow price for
+the specific parcel. For the purpose of simplicity,
+strategic behaviour is not taken into account and the
+individual level of rent is fixed at the average of the
+corresponding offer and request.
+4.9. Return-flows of irrigation
+The water resources sub-model is subdivided into
+sections in order to capture the locally available
+freshwater supplies and return-flows. Equations and
+parameters are derived from a water engineering
+study for the Chilean Department of Public Works.
+The sub-model establishes a monthly water balance
+for each section, starting with the upstream sections. The farms receive their individual freshwater
+and return-flows quota according to their water user
+rights. They irrigate their farmlands, thereby producing return-flows to users downstream. The farms
+apply certain decision rules as far as the temporary
+or permanent abandonment of crops is concerned.
+The threshold linear relationships are assumed with
+respect to the crop–water production function.
+4.10. Simulation experiments
+The research region covers an area of roughly
+667 km2 and is represented in the model with a resolution of about 158m × 158 m. Hence, the size of
+grid cell is 2.5 ha. Since each grid cell corresponds to
+a farm parcel, farm sizes are measured to the nearest 2.5 ha. The spatial model is sub-divided in 20
+sections in order to consider the return-flows from
+upstream to downstream farmers. Each of the 5400
+
+T. Berger / Agricultural Economics 25 (2001) 245–260
+
+farm-households (90% campesino) regarded in the
+model solves its investment, annual production and
+tenure decisions problems by the use of mixed-integer
+programming (dimension of the LP matrix: 120×240,
+around 1.4 million problems solved per simulation
+run). Based on the exhaustive field trials by the Center
+for Technology Evaluation, 32 innovative crops and
+water-saving techniques were chosen to be included
+in the model and diffused during the simulation runs.
+The farm-agents select among these innovations and
+adopt according to their relative profitability. In the
+bandwagon scenarios, however, farm-agents only
+have access to those innovations which have reached
+their network-threshold. The technological possibilities of the campesino and commercial holding types
+differ for some farming activities due to indivisibilities. Heavy machinery, certain export fruit plantations and irrigation methods are only available to the
+large-scale commercial farms. Apart from the pure
+market-driven scenarios with and without Mercosur,
+policies on credit and subsidies to farm production are
+analysed.
+4.11. Software
+This newly designed MAS–CA model has
+MS-Windows 32 bit and UNIX portability. Input and output files are in ASCII-text format and
+can be processed with common spreadsheet and
+graphics programs. The source code is written in
+C++ object-oriented programming language and
+permits modular extensions to include, e.g. ecological constraints or to create interfaces with GISapplications.
+
+5. Model calibration and robustness
+The calibration of a MAS–CA model is rather challenging since the model has to approximate real-world
+observations on the micro level (farm-households) as
+well as on the macro level (research region). In this
+study, a two-step approach is followed: first, validation experiments on the micro level, where typical
+model agents are compared to real-world farm data;
+and second, macro level experiments in order to test
+the model’s aggregate representation. The calibration
+procedure is repeated until a sufficient model fit at both
+
+253
+
+levels is achieved. Unfortunately, only the real-world
+observations on land use distribution in 1996 were
+available for the micro level. Therefore, the model’s
+ability to replicate reality can only be checked for the
+initial simulation period. Land use results from the
+model were regressed on their observed values to generate a simple goodness-of-fit — perfect association
+would be indicated by an intercept of 0 and a slope
+of 1. On the micro level, the regression yields a slope
+of 0.977 (S.E. = 0.01, R 2 = 0.991) and on the macro
+level of 0.704 (S.E. = 0.107, R 2 = 0.657). The model
+probably overestimates the cultivation of maize and
+some legumes, and underestimates wheat cultivation.
+Given that gross margins for these crops are fairly
+comparable and their regional values are only rough
+estimates, the model fit seems sufficient for this study.
+Needless to say, the standard errors are only informal
+criteria since the model results are not strictly independent. Change or tracking experiments as suggested
+by McCarl and Apland (1986) remain to be done in
+a follow-up study, which will collect more field data.
+However, local experts considered the model’s predictive capacity to be plausible.
+In addition, robustness tests are of extreme importance for simulation models that contain many
+degrees of freedom and with highly recursive dynamics. Especially in this study, where empirical data
+were combined with rather informal observations and
+random-generated synthetic data, the model should
+produce non-erratic results within a broader range
+of parameter variations. Therefore, the model’s robustness was tested by using two variables, average
+income and on-farm labour allocation in different
+adopter categories, which directly reflect changes in
+the farm organisation. With identical starting conditions, these indicators show very little variation
+in repeated simulation runs (<1%, except for the
+innovators’ group income where about 6% variation
+was found due to the small size of this group). In the
+case of changing starting conditions, variation was
+obviously higher when the initial endowment with
+fruit plantations was altered by more than 100%.
+Fruit production requires considerable labour input
+and generates high incomes. Though absolute values
+of both indicators differ in these special scenarios,
+the relative trends are uniform. As a consequence,
+the model seems robust enough to compare different scenarios under identical starting conditions.
+
+254
+
+T. Berger / Agricultural Economics 25 (2001) 245–260
+
+More details on the robustness experiments and
+supportive statistical tests can be found in Berger
+(2000).
+6. Technological and policy scenarios
+The MAS–CA model provides the opportunity to
+carry out a wide range of technological and policy
+scenarios by variation of the following parameters:
+• Input and product prices. Different exogenous price
+regimes make it possible to simulate scenarios with
+and without the association to Mercosur.
+• Credit market conditions. Chilean extension clients
+enjoyed preferential access to credit in the form of
+subsidised loan rates and lower minimum shares of
+equity capital. The model facilitates implementation of such client-specific policies as well as special government investment programs for large- or
+small-scale farm enterprises.
+• Cash expenditures. By variation of farm and
+non-farm cash expenditures, either coupled or uncoupled to land, government interventions such as
+direct income transfers, personal taxes and land
+taxes can be taken into account.
+• Labour opportunity costs. Consideration of specific labour opportunity costs provides insights into
+rural–urban migration and generation cycles. It can
+be assumed that households quit the farm business
+when they reach certain thresholds for off-farm
+wages. Also younger farmers often have better
+off-farm job opportunities and, as a result, farms
+may close down when the older generation retires.
+• Water supply. Variations of fresh water supplies and
+distribution losses make it possible to analyse very
+dry years as well as investments in improved irrigation infrastructure.
+• Land and water markets. Dynamics on rental markets can be driven by activity coefficients for special scenarios. Differences in shadow prices for a
+specific plot may not attain certain thresholds, thus,
+preventing the transaction between potential tenants
+and landowners.
+• Price and water supply expectations. It is possible to
+consider different forms of expectations, e.g. static,
+adaptive and perfect foresight, in order to analyse
+the role of behavioural heterogeneity in the process
+of innovation and farm adjustment.
+
+• Adoption costs and network-thresholds. These parameters are used to predict the diffusion of specific
+innovations under different assumptions concerning communications between farm-households.
+Scenarios with complete a priori information
+(zero adoption costs — ideal technical change),
+frequency-dependent contagion processes (bandwagon effect) or excess inertia (prohibitively high
+adoption costs — without technical change) can be
+simulated.
+Policy options, which have direct effects on model
+variables such as prices or credit schemes, can be
+readily tested for their repercussions on the supply response and farm incomes. It is by far more challenging
+to assess the impacts of indirect effects such as agricultural extension programs. One possibility is to run
+the model with ad hoc assumptions about the effectiveness of extension on adoption thresholds and then
+examine the model’s sensitivity.
+
+7. Selected simulation results
+In this section, some simulation results will be discussed to demonstrate the model’s applicability to
+policy-related research questions. As indicated above,
+resistance of the farm sector and especially the Chilean
+farmers association to Mercosur is rather fierce. With
+a view to this disagreement, several policy options are
+being discussed in Chile and attempts are being made
+to modernise national agriculture by promoting the
+diffusion of innovations. The agent-based simulation
+model attempts to answer the questions listed in Section 2 and helps to identify winners and losers among
+the farm holdings.
+First, the simulation runs reveal several typical diffusion patterns as shown in Fig. 3. Certain innovations
+such as ‘contract farming’ diffuse rapidly and reach
+very high saturation levels among the commercial
+farm holdings. Behavioural heterogeneity and communication effects do not play a key role as compared
+to the example ‘horticulture’ in the case of campesino
+farms. Here, we find remarkable differences in diffusion speed and saturation level if less ideal technological conditions are assumed. Such patterns might
+justify some form of government intervention in order to ‘speed up’ the diffusion bandwagon. A third
+
+T. Berger / Agricultural Economics 25 (2001) 245–260
+
+Fig. 3. Selected diffusion patterns in Mercosur scenarios (share of adopters in %).
+
+255
+
+256
+
+T. Berger / Agricultural Economics 25 (2001) 245–260
+
+pattern illustrates the potentially path-dependent nature of diffusion processes as described by Cowan and
+Gunby (1996). If a low degree of behavioural heterogeneity is assumed, the innovation ‘pear plantation’
+diffuses quickly and reaches almost 40% of the commercial farms. Once the bandwagon is moving, more
+farmers are persuaded to adopt than would be the
+case with complete a priori information. Under ideal
+technological conditions, other innovations appear
+more profitable and no significant diffusion of ‘pear
+plantation’ occurs. The fourth pattern for ‘greenhouses with Chilean cinta-irrigation’ underlines the
+relevance of the multi-technological competition and
+selection process proposed by Metcalfe (1988). Ideal
+technical change would imply an initially high level
+of adoption, whereas, under behavioural heterogeneity diffusion is delayed for several years. Then the
+bandwagon speeds up and leads to an even higher
+level of saturation. Apparently, the relative advantage of this innovation changes among campesino
+farms when fewer competing innovations, as compared to the ideal technological scenario, are available for the less innovative farmers. Consequently,
+the usual dichotomy found in diffusion studies, old
+versus new technology, might capture only a small
+fragment of the complete picture and suggest misleading recommendations for technology transfer
+programs.
+
+A similar argument applies to the public efforts
+to promote the adoption of modern water-saving irrigation techniques as indicated by Fig. 4. The potential for water-saving technologies in both holding
+types is high — ideal technical change would allocate
+about half of the total irrigated area to water-saving
+techniques within only 10 years. However, this seems
+rather optimistic, at least if we trust the model results for the two bandwagon scenarios in which only
+one-fifth of the total irrigated area is used for modern
+techniques such as drip, sprinkler or improved furrow
+irrigation.
+It is often stated that change agencies and policy
+makers are best advised to increase their focus on
+how the farmers perceive technological alternatives
+and which income these innovations are able to generate. As Fig. 5 confirms, association with Mercosur
+offers a notable income potential for Chilean agriculture, at least in the research region with its relatively
+favourable agro-ecological conditions. However, this
+income potential will only be exploited under the
+assumption of a very optimistic ideal innovation process. If behavioural heterogeneity and bandwagon
+effects are introduced, the model income results appear almost as modest as under the fully pessimistic
+scenario without technical change. Massive government support, which was demanded by the Chilean
+farmers association in 1996, may help to increase the
+
+Fig. 4. Diffusion of water-saving irrigation methods in both the networks together in Mercosur scenarios (percentage of total area dedicated
+to different methods).
+
+T. Berger / Agricultural Economics 25 (2001) 245–260
+
+257
+
+Fig. 5. Aggregate regional income of farm-households in Mercosur scenarios (billion Chilean $).
+
+agricultural incomes. Then, of course, the question is
+whether the social net benefit is positive. More details on the income and policy analysis can be found
+in Berger (2000). For instance, average household
+incomes in the early and late adopter groups will
+apparently grow apart and then stabilise.
+Cochrane (1979) argued that technical change in
+agriculture is a cannibalistic process in which the early
+bird farmers absorb the land resources of laggard farmers who have been driven out of business. The simulation runs also display a kind of ‘treadmill’ effect,
+though in this case the less innovative households
+voluntarily close down their farm enterprises. Fig. 6
+shows the annual rate of change in the number of commercial and campesino farms over a 20 year horizon.
+While under ‘ideal’ technical conditions, the average
+annual rate is about 0.1%, the assumption of a bandwagon communication process leads to a considerable
+structural change. Especially in the case of commercial farms, almost 6% of the ‘laggard’ adopter segment disappears each year. Insolvency is not the main
+cause of closing down. Instead, increasing opportunity
+costs for land motivate households to give up agricultural production. However, since empirical data were
+not available on how farm-households respond to the
+
+rising opportunity costs, model parameters are still
+based on ad hoc assumptions. A follow-up study will
+aim at clarifying these simulation results.
+Other results, provided by the simulation experiments, relate to the so-called ‘Schumpeter hypotheses’
+of industrial dynamics. According to these hypotheses,
+large-scale enterprises are more innovative and, therefore, grow faster than their small-scale competitors.
+Empirical counterexamples are often cited in the literature and the simulation runs suggest a less clear-cut
+relationship between farm size and farm growth as
+well. Fig. 7 depicts the change of farm size classes
+under ‘ideal’ and ‘bandwagon’ conditions. The initial
+number of farms in each class is normalised to 100
+and compared with values in the years 10 and 19. Apparently, the underlying structural change in the bandwagon scenario leads to a decline in number of the
+small-scale farms and rather dynamic increases in the
+middle farm size classes. Large-scale farms show less
+tendency to growth when acreage is used as a measure
+of farm size.
+As far as the evolution of land and water rental
+prices is concerned, the model seems to replicate the
+real-world prices and quantities of 1996 quite well.
+For the subsequent years, the model predicts a slight
+
+258
+
+T. Berger / Agricultural Economics 25 (2001) 245–260
+
+Fig. 6. Average farm exits in Mercosur scenarios (% per year).
+
+Fig. 7. Relative change in farm size classes in Mercosur scenarios (year 1 = 100).
+
+upward tendency for land and water shadow prices.
+However, differences between agro-ecologically
+favoured and marginal locations are apparent. The
+rising number of parcels offered for rent in the bandwagon scenarios mitigates increases in the level of
+
+rent. Berger (2000) presents more results on the land
+and water market issue. Informal annual rental contracts do not offer an incentive to invest in perennial
+crops and water-saving irrigation techniques. As a
+consequence, the potential of the market to efficiently
+
+T. Berger / Agricultural Economics 25 (2001) 245–260
+
+reallocate resources among farm holdings is not exploited under the present conditions by far. In special
+scenarios, with a high share of land and water purchases, diffusion speeds up significantly and income
+increases. Much more research seems necessary to
+improve our understanding of how efficient land and
+water markets emerge, as Vogelgesang (1996) points
+out.
+
+8. Conclusions and outlook
+After several decades of government regulations,
+most agricultural and development economists now
+share the conviction that decentralisation, innovation and market solutions can help to overcome the
+problems of the “critical triangle of development”
+(Vosti and Reardon, 1997). As a consequence, dynamic modelling concepts are required which allow
+the extension of economic analysis to market-driven
+innovation, resource use changes and structural
+evolution.
+The study presented here has shown that a spatial
+multi-agent approach offers an exciting opportunity
+to model heterogeneous economic behaviour and
+policy responses from the farm-households’ viewpoint. The inclusion of inter-household linkages
+makes it possible to model economic phenomena in
+which macrobehaviour emerges from micromotives,
+as Thomas C. Schelling (Schelling, 1978) has put it
+in his 1976 renowned book. Such phenomena are,
+for instance, the diffusion of multiple innovations,
+transactions on imperfect land markets, the use of
+water for irrigation and structural change in the farm
+sector.
+A spatial multi-agent model is applied to an empirical question in Chile in order to test its applicability.
+The simulation scenarios help to explore the possibility space for regional agricultural development in the
+context of the Mercosur agreement. The traditional
+farm sector strongly opposes the trade agreement as
+it expects severe income losses. The model results
+indicate that Mercosur offers, in principal, higher
+farm incomes through innovation and would additionally increase on-farm labour intensity. However, if
+frequency-dependent diffusion processes are considered, modern farming practices (except perhaps, supplier contracts with the agro-industry) will probably
+
+259
+
+not reach traditional farmers in a reasonable lapse of
+time. On the contrary, the model suggests that structural change will occur as traditional farmers will
+experience persuasive ‘pull effects’ to leave the farm
+business. On the other hand, their income situation
+probably would not have improved significantly if
+the trade agreement had not been signed. Therefore,
+one might regard traditional farmers as relative but
+not absolute losers of Mercosur. A follow-up study
+based on an improved empirical data set will aim at
+verifying these results.
+The model consists of an economic and a hydrologic component bound into a spatial framework. The
+integration of economic and hydrologic processes
+facilitates the consideration of feedback effects in
+the use of water resources. Although not presented
+specifically in this paper, land use changes can easily be predicted. The model’s source code is written
+in the C++ object-oriented programming language
+and permits modular extensions to include ecological constraints or to create interfaces with GIS-applications.
+Fully integrated economic and ecological models
+for policy development and evaluation remain an
+ambitious undertaking. In my opinion, the predictive
+capacity of such models will be mainly restricted
+by their inherent assumptions with regard to human
+decision-making rather than by ecological parameters.
+Spatial multi-agent models acknowledge the fact that
+regional land use emerges from decentralised human
+decisions. Thus, they can capture essential features of
+human–nature interaction. They are built on concepts
+of microeconomic theory that are typically lacking in
+the current land-use models. In particular, they make it
+possible to consider the introduction of improved land
+use practices as a farm investment decision to cope
+with natural resource degradation. As argued by various authors, viewing land-improvement as exogenous
+technological change may lead to misleading policy
+recommendations and certainly to an under-emphasis
+on farmland investment as a policy issue. Further
+testing of this model class and the incorporation of
+integrated ecological and economic modelling approaches is called for. The initial results suggest that
+once the practical problems of combining different
+types of models are solved, GIS-based integrated
+multi-agent models will become a powerful tool for
+policy analysis and natural resource management.
+
+260
+
+T. Berger / Agricultural Economics 25 (2001) 245–260
+
+Acknowledgements
+I am grateful to Stefanie Kirchhoff and especially
+Regina Birner for helpful comments on an earlier draft.
+The paper’s structure and readability has also benefited
+from the suggestions made by David Colman.
+References
+Balmann, A., 1997. Farm-based modelling of regional structural
+change: a cellular automata approach. Eur. Rev. Agric. Econ.
+24, 85–108.
+Berger, T., 1997. Modelo de simulación para medir los procesos
+de innovación en el sector agr´ıcola. El ejemplo de Chile y su
+asociación al Mercosur. Econom´ıa Agraria 1, 15–19.
+Berger, T., 2000. Agentenbasierte räumliche simulationsmodelle
+in der landwirtschaft. anwendungsmöglichkeiten zur bewertung
+von diffusionsprozessen, ressourcennutzung und politikoptionen. Agrarwirtschaft Sonderheft 168.
+Cochrane, W.W., 1979. The Development of American Agriculture.
+University of Michigan.
+Cowan, R., Gunby, P., 1996. Sprayed to Death: path dependence,
+lock-in and pest control strategies. Econ. J. 106, 521–
+542.
+Day, R.H., Signo, A., 1978. Modelling Economic Change:
+The Recursive Programming Approach. Overview, Elsevier,
+Amsterdam (Chapter 1).
+Dosi, G., Freeman, C., Nelson, R., Silverberg, G., Soete, L. (Eds.),
+1988. Technical Change and Economic Theory, Wiely, London,
+New York.
+Downs, G.W., Mohr, L.B., 1976. Conceptual issues in the study
+of innovation. Admin. Sci. Quart. 21, 700–713.
+
+Gilbert, G.N., Troitzsch, K.G., 1999. Simulation for the Social
+Scientist. Open University Press, Buckingham.
+Griliches, Z., 1957. Hybrid corn: an exploration in the economics
+of technical change. Econometrica 25, 501–522.
+Hanf, C.H., 1989. Agricultural Sector Analysis by Linear
+Programming Models. Wiss. Verlag Vauk, Kiel.
+McCarl, B.A., Apland, J., 1986. Validation of linear programming
+models. South. J. Agric. Econ. 12, 1986, 155–164.
+Metcalfe, J.S., 1988. The diffusion of innovations: an interpretative
+survey. In: Dosi, G., et al. (Eds.), Technical Change and
+Economic Theory, pp. 560–589.
+Muchnik, E., Errazuriz, F., Dominguez, I., 1996. Impacto de
+la asociación de Chile al Mercorsur en el sector agr´ıcola y
+agroindustrial. Documento de Trabajo No. 253. Universidad
+Católica de Chile.
+Rogers, E., 1995. Diffusion of Innovations, 4th Edition. The Free
+Press, New York.
+Sauer, U., 1995. Sozialökonomische untersuchungen landwirtschaftlicher familienbetriebe im chilenischen zentraltal. PhD
+Dissertation, Institut für Wirtschafts- und Sozialwissenschaften
+der TU München. Freising Weihenstephan.
+Schelling, T.C., 1978. Micromotives and Macrobehavior. Wiely,
+New York, London.
+Stallmeister, P., 1995. Analyse des staatlichen beratungsdienstes
+für landwirtschaftliche familienbetriebe in Chile. Ph.D.
+Dissertation, Institut für Wirtschafts- und Sozialwissenschaften
+der TU München. Freising Weihenstephan.
+Valente, T.W., 1995. Network Models of the Diffusion of
+Innovations. Hampton Press, Cresskill, NJ.
+Vogelgesang, F., 1996. Property rights and the rural land market
+in Latin America. CEPAL Rev. 58, 95–113.
+Vosti, S.A., Reardon, T. (Eds.), 1997. Sustainability, Growth and
+Poverty Alleviation: A policy And Agroecological Perspective.
+Baltimore, London, pp. 1–15.
+
+

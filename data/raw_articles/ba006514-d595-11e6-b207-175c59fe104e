@@ -1,0 +1,3629 @@
+AGRICULTURAL
+ECONOMICS
+
+ELSEVIER
+
+Agricultural Economics 27 (2002) 139-156
+www.elsevier.com/locate/agecon
+
+Assets, activities and income generation in rural Mexico:
+factoring in social and public capital*
+Paul Winters a,*, Benjamin Davis b, Leonardo Corral c
+Graduate School of Agricultural & Resource Economics, School of Economics,
+University of New England, Armidale, NSW 2351, Australia
+ESAE/Room C-309, Food and Agricultural Organisation, Viale delle Terme de Caracalla, 00100 Rome, Italy
+c Inter-American Development Bank, 1300 New York Avenue, NW, Washington, DC 20577, USA
+a
+
+b
+
+Received 19 June 2001 ; accepted 14 November 2001
+
+Abstract
+In recent years, there has been increasing emphasis in the rural development literature on the multiple income-generating
+activities undertaken by rural households and the importance of assets in determining the capacity to undertake these activities.
+Controlling for the endogeneity of activity choice and applying Lee's generalisation of Amemiya's two-step estimator to a
+simultaneous equation model, household returns to assets from multiple activities are explored for the Mexico ejido sector. To
+incorporate the multiple variables representing social and public capital into the analysis, factor analysis is used. The results
+indicate that the asset position of the household has a significant effect on household participation in income-generating
+activities and returns to those activities. Furthermore, the inclusion of measures of social and public capital into the analysis
+show that these assets play an important role in income-generating activities and that the influence is dependent on the type
+of social and public capital as well as the particular activity.
+© 2002 Elsevier Science B.V. All rights reserved.
+JEL classification: 0 12; 013
+Keywords: Livelihoods; Mexico; Social capital; Public capital; Agricultural households; Censored regression
+
+1. Introduction
+In recent years, there has been increasing emphasis
+within the rural development literature on what is
+referred to as rural livelihoods and livelihood diversification. A key feature of the concept of livelihoods
+is the link between assets, activities and income and
+
+*
+
+Paper prepared for the Food and Agriculture Organization
+Regional Office for Latin America and the Caribbean for the
+project: Social Capital and Rural Livelihood Strategies in Latin
+America: Implications for Project Implementation.
+* Corresponding author.
+E-mail address: pwinters@metz.une.edu.au (P. Winters).
+
+the role of the institutional context in determining the
+use of and returns to assets. For example, Ellis (2000)
+defines a livelihood as comprising "the assets (natural, physical, human, financial and social capital), the
+activities and the access to these (mediated by institutions and social relations) that together determine the
+living gained by an individual or household". Livelihood diversification is then the process by which
+households construct a diverse portfolio of activities
+and assets to survive and improve their standard of
+living (Ellis, 2000).
+The livelihoods approach has played an important
+role in highlighting the multiple activities undertaken
+
+0169-5150/02/$ - see front matter © 2002 Elsevier Science B.V. All rights reserved.
+PII: SO 169-5150(02)00030-0
+
+140
+
+P. Winters et al./Agricultural Economics 27 (2002) 139-156
+
+by rural households, the importance of assets in determining the capacity to undertake activities, the dynamic nature of the actions of rural households and the
+link between the diversification of assets and activities
+(Barrett and Reardon, 2000). Evidence from developing countries indicates that rural households rely on
+a number of assets and employ multiple activities to
+generate income. In particular, there has been strong
+evidence indicating the increasing importance of rural
+non-farm activities. Reardon et al. (2001), for example, show that, based on a set of studies from Latin
+America, rural non-farm activities make up 40% of
+rural household income. Furthermore, the trend is toward greater non-farm activities for rural inhabitants.
+While the livelihoods approach has contributed to
+our understanding of rural household behaviour, there
+has been little empirical examination of the approach.
+A number of recent studies have recognised the role
+of a diverse set of assets in income-generating activities. For example, Lanjouw (1999, 2001) examines
+non-farm income in Ecuador and El Salvador using
+assets such as human capital (education, literacy), natural capital (land) and public capital (electrification,
+water connection) as explanatory variables. Winters
+et al. (2001) explore the role of assets, including social
+and public capital, in the decision to migrate. Corral
+and Reardon (2001), and De Janvry and Sadoulet
+(2001) explore the importance of natural, human,
+social and public capital in the generation of income
+in Nicaragua and Mexico, respectively. While recognising the importance of assets in income-generating
+activities, these studies do not consider both the simultaneous nature of asset allocation and the selectivity
+bias created by the decision to participate in an activity.
+One recent study that does consider these issues is
+by Taylor and Yunez-Naude (2000). Their paper focuses on the returns to schooling from a diverse set of
+activities in rural Mexico broadening consideration to
+both household head and family schooling. Taylor and
+Yunez-Naude's paper is interesting from an econometric point of view in that they carefully address issues
+affecting bias and inefficiency in parameter estimates.
+By controlling for endogeneity of activity choice and
+using Lee's generalisation of Amemiya's two-step estimator in a simultaneous-equation model, the resulting estimators are asymptotically more efficient than
+other two-stage estimators, such as the commonly used
+Heckman procedure.
+
+In this study, we use the same econometric approach as Taylor and Yunez-Naude to explore livelihood strategies in the Mexican ejido sector. Unlike
+Taylor and Yunez-Naude, our main interest lies in
+exploring the importance of community level factors,
+particularly social and public capital variables, in the
+participation in and returns to income-generating activities. Empirical evidence suggests that along with
+other forms of capital, social and public capital play
+an important role in household income-generation.
+For example, an analysis of Tanzanian households
+shows that higher levels of social capital are associated with greater levels of expenditure (Narayan and
+Pritchett, 1999). Understanding the role of social and
+public capital in income generation has important
+policy implications for governments. If governments
+decide to invest resources into alleviating poverty,
+it is essential to know how social and public capital influence income generation. Incorporating social
+capital and community level variables representing
+public capital into the analysis of assets and activities
+has proved problematic since these assets are generally difficult to measure in a way that truly represents
+the specific attributes of these assets and reflects how
+households secure benefits from them. We address
+this issue by using factor analysis to identify specific
+factors to represent social and public capital.
+The remainder of this paper is divided into four sections. Section 2 provides a conceptual background for
+the relationship between assets, activities and income
+and discusses the empirical strategy for examining the
+use of assets in income-generating activities. Section
+3 uses the Mexico data to define the set of assets rural
+Mexican household use for generating income. Participation in activities and returns to assets are examined
+using the Taylor and Yunez-Naude (2000) empirical
+approach. In Section 4, the issue of measuring and including social and public capital is addressed. Measures of these assets, calculated using factor analysis,
+are then included in the activity equations. Finally, in
+Section 5 conclusions are discussed.
+
+2. Rural livelihood strategies: conceptual
+framework and empirical approach
+The basis of a livelihood strategy is the asset position of the household at a given point in time. Note
+
+P Winters et al. I Agricultural Economics 27 (2002) 139-156
+
+that, as has become standard practice, household assets
+are defined broadly to include natural, physical, human, financial, public, household and social capital. 1
+These assets are stocks, which may depreciate over
+time or may be expanded through investment. Based
+on access to a particular set of assets for a given period, the household must decide which activities it
+will employ and the intensity of involvement in that
+activity. For purposes of this paper, activities are actions taken by the household to produce income. They
+involve the use of a single asset or a set of assets.
+Agricultural production, for example, may use natural
+capital in the form of land and water, human capital,
+physical capital such as tractors, financial capital for
+the purchase of inputs and social capital in the form
+of labour assistance by community members. Alternatively, non-farm wage employment may only use human capital. The intensity of an activity depends on
+the degree to which assets are used. A strategy of agricultural intensification is likely to involve a greater
+use of human capital and financial capital (for the purchase of inputs) than a strategy that focuses on other
+activities or in less intensive agricultural production.
+The decision on the set of activities a household will
+employ and the intensity of those activities is conditioned on the context in which the household operates.
+The context influences household decisions through
+natural forces, markets, state activity and societal institutions.
+Conceptually, the mapping of assets to income
+through activities can be viewed as similar to a production process, with assets corresponding to factors
+of production and income as the output of the process
+(Barrett and Reardon, 2000). The return to assets depends on the parameters of the functions, which are
+determined by prices of inputs and outputs as well
+as other characteristics of the context. The allocation
+of assets to each activity is expected to maximise
+household income subject to a number of constraints.
+Households will allocate assets in a manner that
+equates the marginal value product across activities
+1 The types of capital that households access can be categorised
+in a variety of manners. One common categorisation is to define
+four types of capital: natural, human-made (physical), human and
+social (Serageldin and Steer, !994). Our categorisation reflects a
+desire to provide greater detail in the types of capital used by
+households although each of these categories can be subsumed in
+one of the four categories commonly presented.
+
+141
+
+or will allocate assets entirely to one activity that has
+a superior return.
+One of the key features of this approach is that
+households simultaneously determine the allocation of
+assets to different activities. Failure to consider the
+simultaneous nature of the decision can lead to curious and often contradictory results across different
+studies. For example, Taylor and Yunez-Naude (2000)
+note that research on the returns to schooling in rural
+economies range from high to negative. They argue
+that the reason for this is that researchers have failed to
+take into account the technological changes and sectoral diversification that characterise agricultural transformation in developing countries. Households may
+reap the rewards from schooling through abandoning
+or limiting one activity in favour of another. A low or
+negative return to schooling in crop production, for example, may mean that the more educated have shifted
+to other activities such as non-farm employment. Similarly, this logic holds for all assets. If the government puts a paved road through to a community, this
+may cause some households in that community to alter income-generating activities. Researchers focusing
+on a single activity may find that investment in infrastructure reduces income from that activity, which
+may lead to perverse policy implications. While this
+may be the case, analysis of a single activity ignores
+the benefits of infrastructure in other activities. Only
+through considering all income-generating activities
+simultaneously can this problem be avoided. The issue we want to examine in this paper is the relative
+importance of different assets in the activities chosen
+by rural Mexican households, with particular emphasis on social and public assets.
+The household's decision on the allocation of assets
+across activities is a simultaneous decision and one
+that is censored by the fact that households do not
+necessarily participate in all possible activities. Some
+households will therefore have zero income from, for
+example, self-employment. 2 Examining the allocation
+and returns to assets requires a simultaneous equation
+model in which the dependent income variables are
+censored by unobservable latent variables influencing
+2 Table I notes the participation rates for each activity. Less than
+half of households participate in non-agricultural wage employment, agricultural wage employment, self-employment and migration.
+
+142
+
+P Winterset al./Agricultural Economics 27 (2002) 139-156
+
+Table 1
+Income and activities
+Household income
+Mean household income
+
+10888
+
+Crop income
+Mean income for all households
+Percent of total household income
+Percent participating
+Mean income for participating households
+Percent of income for participating households
+
+3331
+30.6%
+93.7%
+3554
+32.6%
+
+Livestock income
+Mean income for all households
+Percent of total household income
+Percent participating
+Mean income for participating households
+Percent of income for participating households
+
+2071
+19.0%
+75.3%
+2750
+24.9%
+
+Self-employment income
+Mean income for all households
+Percent of total household income
+Percent participating
+Mean income for participating households
+Percent of income for participating households
+
+1234
+11.3%
+28.2%
+4378
+33.0%
+
+Non-agricultural wage income
+Mean income for all households
+Percent of total household income
+Percent participating
+Mean income for participating households
+Percent of income for participating households
+
+2946
+27.1%
+42.3%
+6968
+52.8%
+
+Agricultural wage income
+Mean income for all households
+Percent of total household income
+Percent participating
+Mean income for participating households
+Percent of income for participating households
+
+582
+5.3%
+17.2%
+3388
+31.0%
+
+Remittance income
+Mean income for all households
+Percent of total household income
+Percent participating
+Mean income for participating households
+Percent of income for participating households
+
+724
+6.6%
+15.8%
+4570
+32.1%
+
+Number of households = 972.
+
+the activity participation decision. Households obtain
+income from an activity only if they participate in that
+activity. Participation in an income-generating activity
+occurs if the household believes the expected returns
+to that activity are greater than the alternative of not
+participating.
+The econometric approach follows Lee's generalisation of an estimation principle of Amemiya
+(1977a,b) in a general simultaneous equation model.
+
+Lee (1978) compared Amemiya's generalised twostage estimators with other two-stage estimators,
+and showed that Amemiya's estimators are more
+efficient in all cases, including those proposed by
+Heckman. This econometric specification allows for
+censored dependent variables, where unobservable
+latent variables influence the decision to participate in
+an activity. Recently, Taylor and Yunez-Naude (2000)
+utilised Lee's generalisation in their study of returns
+to schooling in both crop and non-crop activities in
+rural Mexico and we follow their empirical approach.
+In the first step, probits using the complete set of asset
+variables as explanatory variables are estimated. The
+probit on each income-generating activity measures
+the effects of assets on household participation in that
+activity. The probits are also used to calculate inverse
+Mill's ratios (IMR), which are included in the second
+step to control for selectivity bias. The second step is
+to estimate the income equations, including an IMR
+as a right-hand side variable in each of the corresponding income equations. The income equations are
+estimated jointly, to reflect the simultaneous nature
+of the decision, for the full household sample using
+three stage least squares which allows the inclusion
+of information contained in the cross-equation error
+correlations. For the income equations, only assets
+that are expected to affect the income level of that
+activity are included as right-hand side variables.
+The data used in this study comes from a nationally
+representative sample of Mexican ejido, or land reform, households. 3 Data were collected at two points
+in time during the Spring and early summer of 1994
+and 1997, for 972 households. 4 The survey covered
+a wide array of household assets as well as household
+3 The ejido is the land reform mechanism utilised by the Mexican
+government from the 1930s to 1992. Land and water resources
+were granted to a community or a group of producers, or ejido,
+with each producer obtaining usufruct rights over a parcel and
+access to common lands. A 1992 constitutional reform ended the
+distribution of land and established a process by which individual
+titles may be provided to ejidatarios, and by which ejidos may
+decide to privatise individual parcels. The ejido sector covers
+75% of all agricultural producers in Mexico (roughly 3 million
+households), and over half of the country's irrigated and rainfed
+land.
+4 The Secretariat of Agrarian Reform and the World Bank carried out the surveys with assistance from the University of California, Berkeley. A detailed description of the Mexico data and
+its sampling properties can be found in Cord et a!. (1998).
+
+P. Winters et al. I Agricultural Economics 27 (2002) 139-156
+
+demographics, income-generating activities and participation in organisations. Community-level data was
+also collected on characteristics and organisation of
+the ejido. Most of the data used in this analysis, including the income data, is from the 1997 survey except in some cases where 1994 data was used to avoid
+endogeneity problems.
+
+Table 2
+Assets
+
+3. Assets and income-generating activities
+Household activities can be divided into six
+categories: crop production, livestock production,
+self-employment, non-agricultural wage employment, agricultural wage employment and migration.
+Table I presents data on these activities. On average households earned 10,888 pesos in 1997. Not
+all households participate in every activity. A majority of households participate in crop (93.7%) and
+livestock (75.3%) production but few participate in
+self-employment (17.2%) and migration (15.8%).
+Agricultural activities (crops, livestock and agricultural employment) make up 55% of total rural household income showing that nearly half of income is
+generated by non-agricultural activities. Crop income
+represents about 30% of total income in 1997 and
+is the most important source of income followed by
+non-agricultural wage income (27 .1% ). However, only
+42.3% of households participate in non-agricultural
+wage employment and for those that do, it is the most
+important income-generating activity (52.8% of total income). Similarly, households that participate in
+self-employment and migration receive, on average,
+one-third of their income from this activity. A number of agricultural households have thus shifted away
+from agricultural to non-agricultural activities.
+Asset ownership varies significantly across the
+ejido sector. In Table 2, explanatory assets are grouped
+into the following categories-natural (land), physical (livestock, equipment), human (education, gender,
+labour, labour experience and ethnicity), financial
+(credit), and migration (US and Mexico migration networks) capital. Regional variables are also included
+to control for unobserved factors. On average, households have substantially less irrigated land than either
+rainfed or pasture land. For the 25% of households
+with irrigated land, average size is 5.2 ha. Although
+overall households hold an average of 6.4 heads of
+
+143
+
+Mean or percent
+
+Capital
+
+Variable
+
+Natural
+
+Irrigated land (ha)
+Rainfed land (ha)
+Pasture land (ha)
+
+Physical
+
+Livestock ownership, 1994
+Tractor ownership, 1994
+Truck ownership, 1994
+
+6.4
+7.5%
+17.1%
+
+Human
+
+Males education-literate
+Males education-primary
+Males education-secondary
+Males education-tertiary
+Females education-literate
+Females education-primary
+Females education-secondary
+Females education-tertiary
+Age of head
+Male head of household
+Males, 15-34 years
+Females, 15-34 years
+Males, 35-59 years
+Females, 35-59 years
+Non-agricultural wage earner, 1994
+Agricultural wage earner, 1994
+Self-employed, 1994
+HYV seed used, 1994
+Chemicals used, 1994
+Indigenous household
+
+0.7
+0.5
+0.3
+0.1
+0.6
+0.5
+0.2
+0.1
+51
+97.0%
+0.9
+0.9
+0.6
+0.6
+34.0%
+16.0%
+9.7%
+21.9%
+49.2%
+21.2%
+
+Financial
+
+Formal credit access, 1994
+
+28.8%
+
+1.3
+7.5
+4.3
+
+Migration Migrant network in US
+Migrant network in Mexico
+
+1.8
+11.0
+
+Regional
+
+20.9%
+11.5%
+26.7%
+17.0%
+24.0%
+
+North
+North Pacific
+Centre
+Gulf
+South
+
+Number of households = 972.
+
+cattle, over half own no livestock. Those households
+with livestock own on average 13.5 heads. Education
+level is divided by gender as we hypothesise that the
+returns to human capital vary by this differentiation.
+As would be expected, the average number of male
+and female household members decreases with increasing levels of education. Labour composition and
+experience vary significantly across households.
+Table 3 presents the results of the probits on activity participation for 1997. Coefficients with a level of
+significance greater than 90% are in bold. Almost all
+households have some crop production, so results for
+
+t:
+Table 3
+Probit results for activity participation"
+Crop production
+
+Livestock production
+
+Coefficient P-value Coefficient P-value
+Irrigated land (ha)
+Rainfed land (ha)
+Pasture land (ha)
+Livestock ownership, 1994
+Tractor ownership, 1994
+Truck ownership, 1994
+Males education-literate
+Males education-primary
+Males education-secondary
+Males education-tertiary
+Females education-literate
+Females education-primary
+Females education-secondary
+Females education-tertiary
+Age of head
+Male head of housheold
+Males, 15-34 years
+Females, 15-34 years
+Males, 35-59 years
+Females, 35-59 years
+Non-agricultural wage earner, 1994
+Agricultural wage earner, 1994
+Self-employed, 1994
+HYV seed used,1994
+Chemicals used, 1994
+Indigenous household
+Formal credit access, 1994
+Migrant network in US
+Migrant network in Mexico
+North
+North Pacific
+Center
+Gulf
+Constant
+
+-0.021
+0.015
+-0.003
+0.013
+0.075
+0.115
+-0.083
+-0.114
+-0.100
+0.174
+0.029
+0.047
+-0.280
+-0.300
+-0.009
+-0.177
+0.252
+0.006
+0.356
+-0.205
+-0.119
+0.351
+0.147
+0.024
+0.525
+0.574
+0.137
+0.024
+0.007
+-0.395
+-0.816
+-0.055
+0.599
+1.739
+
+0.21
+0.21
+0.72
+0.11
+0.80
+0.59
+0.62
+0.55
+0.64
+0.58
+0.87
+0.80
+0.19
+0.23
+0.13
+0.64
+0.18
+0.97
+0.04
+0.24
+0.15
+0.03
+0.49
+0.91
+0.00
+0.06
+0.42
+0.40
+0.65
+0.13
+0.01
+
+0.82
+0.18
+0.00
+
+-0.030
+0.145
+0.014
+0.132
+-0.588
+0.027
+0.215
+0.179
+0.127
+-0.164
+0.173
+-0.007
+-0.172
+-0.134
+-0.005
+0.350
+-0.114
+0.058
+-0.058
+0.138
+-0.116
+-0.019
+-0.183
+0.078
+0.139
+0.392
+0.130
+-0.047
+0.006
+0.690
+-0.209
+0.606
+1.379
+-0.570
+
+0.05
+0.10
+0.13
+0.00
+0.01
+0.88
+0.06
+0.15
+0.36
+0.39
+0.16
+0.96
+0.28
+0.47
+0.24
+0.21
+0.32
+0.64
+0.63
+0.29
+0.09
+0.85
+0.17
+0.62
+0.27
+0.02
+0.31
+0.03
+0.57
+0.00
+0.35
+0.00
+0.00
+0.14
+
+Self-employment
+
+Non-agricultural wage
+employment
+
+Agricultural wage
+employment
+
+Remittance income
+
+Coefficient P-value Coefficient P-value
+
+Coefficient P-value Coefficient P-value
+
+0.015
+-0.002
+-0.003
+0.003
+-0.352
+0.049
+-0.012
+-0.001
+0.087
+0.136
+-0.062
+0.081
+0.133
+0.062
+-0.003
+-0.008
+0.012
+0.070
+0.120
+0.066
+-0.016
+-0.120
+0.610
+-0.019
+-0.075
+0.026
+0.015
+0.001
+0.006
+0.073
+-0.261
+0.065
+0.599
+-0.909
+
+0.18
+0.69
+0.05
+0.06
+0.06
+0.10
+0.75
+0.93
+0.68
+0.18
+0.00
+0.52
+0.88
+0.23
+0.20
+0.33
+0.00
+0.32
+0.71
+0.11
+0.83
+0.53
+0.94
+0.34
+0.20
+0.00
+0.90
+0.00
+
+-0.014
+-0.021
+0.000
+-0.018
+-0.238
+0.001
+0.043
+-0.068
+-0.024
+-0.204
+0.102
+-0.021
+-0.031
+-0.591
+-0.003
+-0.305
+0.226
+0.137
+0.157
+-0.308
+-0.146
+0.318
+0.098
+-0.161
+-0.128
+0.057
+0.015
+-0.036
+0.015
+0.726
+0.315
+0.355
+
+0.00
+
+0.623
+
+O.o4
+0.00
+
+0.35
+
+-0.969
+
+0.02
+
+Number of households = 972.
+a Coefficients with a level of significance greater than 90% are indicated in bold.
+
+0.28
+0.69
+0.40
+0.35
+
+O.o7
+0.73
+0.90
+0.99
+0.47
+0.41
+0.55
+0.46
+0.31
+0.70
+0.47
+0.98
+0.91
+0.51
+0.26
+0.58
+0.80
+0.22
+0.00
+0.88
+0.46
+0.84
+0.89
+0.95
+0.47
+0.64
+0.21
+0.63
+0.00
+0.01
+
+-0.004
+-0.018
+0.000
+-0.012
+-0.256
+-0.056
+0.187
+0.203
+0.229
+0.270
+0.033
+-0.009
+0.054
+0.216
+-0.011
+-0.175
+0.014
+0.125
+0.132
+-0.112
+0.249
+-0.091
+-0.044
+-0.198
+0.021
+0.079
+0.008
+-0.014
+0.010
+0.746
+0.025
+0.425
+0.512
+-0.332
+
+0.74
+0.00
+0.99
+
+O.oi
+
+0.50
+0.01
+0.93
+0.02
+0.36
+1.00
+0.69
+0.58
+0.86
+0.36
+0.40
+0.88
+0.84
+0.03
+0.42
+0.33
+0.05
+0.27
+0.19
+0.03
+0.06
+0.00
+0.47
+0.30
+0.28
+0.71
+0.91
+0.11
+0.12
+0.00
+0.23
+
+0.011
+0.018
+-0.003
+-0.010
+-0.257
+-0.117
+-0.030
+0.031
+-0.325
+-0.474
+0.025
+0.116
+0.245
+-0.147
+0.040
+0.069
+-0.098
+-0.134
+0.028
+0.183
+-0.102
+0.357
+-0.034
+-0.104
+-0.014
+-0.568
+-0.104
+0.204
+0.002
+-0.032
+-0.585
+0.061
+-0.142
+-3.730
+
+0.47
+0.00
+0.62
+0.06
+0.30
+0.51
+0.81
+0.83
+
+O.o7
+0.09
+0.85
+0.43
+0.18
+0.56
+0.00
+0.86
+0.47
+0.36
+0.85
+0.20
+0.28
+0.00
+0.86
+0.52
+0.92
+0.02
+0.47
+0.00
+0.89
+0.88
+0.04
+0.74
+0.55
+0.00
+
+C"ll
+
+~
+
+"
+
+;:;
+
+~
+
+,.....
+
+;;:"'
+
+""::!.
+
+"E..
+
+"'~
+~;,
+~
+
+;:;·
+Co
+
+N
+'-.}
+
+w
+a
+~
+
+"...,.,
+
+!
+
+v,
+0\
+
+Table 4
+Selectivity-corrected systems estimates of income equationsa
+Crop production
+
+Livestock production
+
+Coefficient P-value Coefficient P-value
+Irrigated land (ha)
+Rain fed land (ha)
+Pasture land (ha)
+Livestock ownership, 1994
+Tractor ownership, 1994
+Truck ownership, 1994
+Males education-literate
+Males education-primary
+Males education-secondary
+Males education-tertiary
+Females education-literate
+Females education-primary
+Females education-secondary
+Females education-tertiary
+Age of head
+Male head of household
+Males, 15-34 years
+Females, 15-34 years
+Males, 35-59 years
+Females 35-59
+Non-agricultural wage earner, 1994
+Agricultural wage earner, 1994
+Self-employed, 1994
+HYV seed used,1994
+Chemicals used, 1994
+Indigenous household
+Formal credit access, 1994
+Migrant network in US
+Migrant network in Mexico
+Inverse mills ratio
+Constant
+
+804.0
+1.7
+-2.4
+-3.5
+4611.5
+565.3
+75.2
+616.8
+585.7
+3516.0
+-47.2
+791.1
+308.5
+3596.2
+-18.1
+-1610.2
+-1134.1
+-910.3
+178.7
+768.9
+
+0.00
+0.96
+0.93
+0.90
+0.00
+0.60
+0.92
+0.47
+0.54
+0.01
+0.95
+0.36
+0.78
+0.01
+0.54
+0.45
+0.16
+0.28
+0.84
+0.40
+
+Self-employment
+
+Non-agricultural
+wage employment
+
+Agricultural wage
+employment
+
+Remittance income
+
+Coefficient P-value Coefficient P-value Coefficient P-value Coefficient P-value
+
+114.0
+48.0
+4.2
+133.6
+
+0.01
+0.00
+0.68
+0.00
+
+100.1
+32.2
+8.9
+2.0
+
+0.00
+0.01
+0.32
+0.84
+
+-51.5
+23.9
+-7.8
+21.5
+
+0.50
+0.42
+0.68
+0.39
+
+23.6
+3.7
+-5.4
+5.3
+
+0.35
+0.71
+0.40
+0.56
+
+63.2
+-0.7
+-1.2
+11.1
+
+0.05
+0.96
+0.88
+0.28
+
+1018.2
+-294.2
+-714.5
+-373.6
+-719.7
+-124.6
+602.7
+538.5
+987.0
+-1.9
+53.5
+433.1
+-516.5
+48.3
+-674.9
+
+0.01
+0.34
+0.04
+0.33
+0.17
+0.70
+0.08
+0.20
+0.05
+0.87
+0.95
+0.17
+0.12
+0.88
+0.06
+
+-259.3
+-10.8
+240.0
+428.3
+634.1
+45.1
+176.6
+625.3
+896.5
+4.0
+1333.0
+-140.7
+-85.6
+-96.0
+-14.0
+
+0.47
+0.97
+0.42
+0.20
+0.18
+0.87
+0.56
+0.09
+0.04
+0.70
+
+538.3
+810.6
+1730.5
+1245.9
+2627.7
+-346.4
+-704.5
+-787.5
+1668.7
+41.8
+-1736.7
+-379.1
+1119.0
+-511.7
+646.9
+532.5
+249.4
+
+0.48
+0.18
+0,01
+0.09
+0.01
+0.56
+0.27
+0.31
+0.08
+
+112.5
+231.2
+57.8
+45.0
+-98.0
+-69.0
+-43.7
+-164.5
+92.5
+10.8
+-1134.2
+183.9
+153.4
+157.6
+-220.3
+
+0.66
+0.23
+0.79
+0.85
+0.77
+0.73
+0.84
+0.52
+0.80
+0.13
+0.03
+0.37
+0.46
+0.45
+0.35
+
+-106.9
+-191.4
+30.8
+204.9
+352.8
+56.4
+-307.1
+1443.5
+-29.5
+607.0
+181.1
+35.8
+-137.4
+25.2
+
+0.66
+0.49
+0.93
+0.67
+0.18
+0.84
+0.37
+0.00
+0.13
+0.38
+0.48
+0.90
+0.61
+0.93
+
+190.2
+
+0.19
+
+0,07
+
+0.61
+0.77
+0.74
+0.96
+
+2453.5
+
+0.00
+
+0,07
+
+0.27
+0.52
+0,07
+
+0.41
+0.33
+0.18
+0.64
+
+~
+
+~
+
+;:,
+
+1i:
+
+;:;
+
+~
+
+"''-,.....
+:..
+""~-
+
+"12
+§_
+~
+
+~;:!
+
+~tv
+'.J
+
+-;;:)
+
+~......
+
+""'P
+......
+
+~
+
+1081.6
+306.1
+-1008.6
+-498.4
+
+0.25
+0.72
+0.31
+0.53
+
+352.3
+433.1
+356.4
+-77.0
+
+0.35
+0.15
+0.34
+0.81
+
+-192.3
+-320.9
+
+0.57
+0.25
+
+-1628.6
+71.7
+
+0.02
+0.90
+
+-197.3
+-96.0
+
+0.39
+0.63
+
+-8422.3
+4954.4
+
+0.03
+O.o7
+
+-2119.8
+1865.4
+
+0.00
+0.10
+
+-138.0
+-1002.9
+
+0.83
+0.44
+
+-3232.4
+3116.4
+
+0.01
+0.16
+
+-679.9
+1827.9
+
+0.03
+0,02
+
+463.4
+-307.9
+-4.8
+-15.4
+-1382.0
+4184.4
+
+0.25
+0.25
+0.95
+0.46
+0,01
+0.05
+
+Number of households = 972.
+a Coefficients with a level of significance greater than 90% are indicated in bold.
+
+:;;:
+
+u.
+
+146
+
+P. Winters et al. I Agricultural Economics 27 (2002) 139-156
+
+that activity are not particularly interesting. Rainfed
+land and livestock ownership positively influence participation in livestock production while irrigated land
+and tractor ownership are negatively associated with
+livestock participation. This is not surprising since
+these latter assets are likely to have higher returns for
+crop production. For a similar reason, tractor owners
+are less likely to participate in self-employment. Natural and physical capital reduces participation in both
+forms of wage employment. The positive association
+between rainfed land and remittance income may indicate that participation in migration requires at least
+a minimal wealth level. Education, particularly among
+males, plays a strong role in non-agricultural wage employment. Minimal male education, or literacy, seems
+to play a similar role in livestock production. Higher
+levels of male education are negatively associated
+with receipt of remittances. Younger households (as
+indicated by age of household head) are more likely
+to participate in agricultural wage employment, and
+older households in receiving remittances. The presence of young males, controlling for education, leads
+to increased participation in agricultural wage labour,
+while the presence of older males leads to greater
+participation in crop production. Previous experience in non-agricultural activities (self-employment
+and non-agricultural wage earning), not surprisingly,
+leads to a greater probability of participation in each
+respective activity. However, previous experience in
+agricultural wage employment leads to greater participation in crop production, agricultural wage earning
+and migration. Somewhat surprisingly, access to formal credit in 1994 does not influence participation
+in any activities in 1997. This could be because
+credit is primarily tied to crop production. Indigenous
+households are more likely to participate in on-farm
+activities and less likely to migrate. A number of
+regional variables are associated with particular activities suggesting there are certain regional factors that
+influence participation that are not controlled for in
+the regression. Finally, migration networks are most
+important for receiving remittance income.
+Table 4 presents the results of the selectivity corrected system estimates of the income equations.
+While the probits evaluated the probability of participation in activities, the income equations examine
+the factors influencing the level of income from
+each activity. Note that in all estimates, except for
+
+self-employment, the IMR is significant at the 95%
+level or above. This indicates that self-selection into
+activities is an important factor in considering the
+income-generated from a particular activity and failure to control for this would have led to biased results.
+Assets play a variety of roles in terms of the generation of income by activity. Land size, particularly
+irrigated land, is important for on-farm categories as
+well as self-employment and remittances. Rainfed
+land is important for livestock income, as it serves
+as an input into livestock production. Rainfed land is
+also important for self-employment suggesting that
+farmers with more land are able to earn more through
+self-employment than others. Education provides the
+most interesting story. Education is most important,
+not surprisingly, for non-agricultural wage labour,
+though this varies by gender. All levels of male education lead to higher off-farm income, while only the
+highest level of female education has a positive-and
+significant-coefficient. On the other hand, the number of females aged 15-34 years, holding education
+constant, has a positive and significant effect, signalling that lower levels of female education are not
+valued on the labour market. This is presumably due
+to the kind of entry level employment rural women
+can choose from, such as domestic servant. Female
+education is also important for self-employment income, and surprisingly, livestock income. Both higher
+levels of male and female education are associated
+with higher agricultural income, suggesting that education only becomes important when it reaches a
+certain technical level.
+
+4. Adding social and public capital
+The purpose of this section is to discuss a method
+for the inclusion of community variables, including social and public capital, in the analysis of
+income-generating activities and to present the results
+of the analysis. There has been some debate over
+the precise definition and measure of social capital
+(Woolcock and Narayan, 2000). Social capital can
+be defined as a variety of different entities with two
+common elements: they all consist of some aspect of
+social structure and they facilitate actions of actors
+within that structure (Coleman, 1988). For our purposes, social capital constitutes the social relations,
+both vertical and horizontal, that help facilitate the
+
+P. Winters et al./ Agricultural Economics 27 (2002) 139-156
+
+generation of income. Since our interest is in examining the community factors that facilitate income generation, we focus on relations at that level. Households
+may belong to a set of formal and informal organisations that may provide direct or indirect assistance
+in economic activities. For example, membership in a
+women's group may provide information on market
+opportunities for non-farm products. In addition to
+membership in individual organisations, the ejidos in
+which households live may be well or poorly organised which will also affect the households' ability to
+generate income. Finally, vertical ties to, for example,
+organisations that provide technical assistance will
+influence income-generation. Each of these is considered as part of social capital. Another asset that
+is difficult to measure and plays an important role in
+income generation is public capital, which involves
+access to public goods and services. These include a
+range of services and infrastructure from health care
+and telephone access to electricity and paved roads.
+Calculating the value of social and public capital
+is complicated by the diversity and multiplicity of indicators. Households belong to a range of organisations both formal and informal and ejidos may have
+different types of organisational structure. Infrastructure and services differ in terms of their presence and
+importance in a community. Table 5 lists a variety of
+community variables that may be used as public and
+social capital indicators. They range from measures of
+ejido organisation and household participation in organisations to the distance to various public services,
+
+Table 5
+Social and public capital variables
+Mean or
+percent
+Kilometers to health centre
+Kilometers to post office
+Kilometers to telegraph
+Kilometers to fax machine
+Time to nearest urban centre (h)
+Distance to nearest urban centre (h)
+Number of rural centres within 1 h
+Number of urban centres within 1 h
+Share of roads that are paved
+Ejido has a DICONSA store
+Ejido has a meeting room
+Ejido has public lighting
+Ejido has a secondary school
+
+8.8
+19.7
+27.8
+27.4
+53.6
+25.2
+2.6
+1.6
+50.7%
+50.3%
+49.7%
+74.7%
+45.7%
+
+147
+
+Table 5 (Continued)
+Mean or
+percent
+Ejido has a high school
+Household has access to LICONSA store
+Household water access
+Household has access to emergency work
+No piped water access
+Access to piped water outside the house
+Access to piped water inside the hoouse
+
+11.0%
+34.7%
+14.8%
+50.5%
+
+Household sewage access
+No sewage system access
+Access to whole in the ground
+Access to septic system
+Access to a piped sewage system
+
+43.8%
+9.6%
+33.9%
+12.8%
+
+Household latrine/bathroom access
+No access to latrine or bathroom
+Access to a latrine
+Access to a bathroom
+Household has access to electricity
+
+23.6%
+43.5%
+32.9%
+87.7%
+
+Household telephone access
+No telephone access
+Access to a public phone
+Access to a phone at home
+Ejido belongs to aric
+Ejido belongs to a ejido union
+Ejido belongs to a campesino organization
+
+41.1%
+53.6%
+5.4%
+3.1 o/o
+23.4%
+72.1%
+
+Stage of PROCEDE reform
+Not intitiated
+In process
+Completed
+Household participates in family project
+Household participates in production organisation
+Household participates in irrigation project
+Household participates in UAIM
+Household participates in other formal organisation
+Household participates in informal organisation
+Household is in a production contract
+Household receives technical assistance
+Share of households speaking indigenous language
+Ejido has environmental problems
+Frequency of household particpation in assemblies
+Rare! y/never particpate
+Sometimes participate
+Always pru.ticipate
+
+7.3%
+18.6%
+
+35.1%
+17.3%
+47.6%
+2.9%
+11.3%
+4.3%
+2.3%
+7.6%
+16.4%
+6.2%
+14.9%
+20.8%
+44.5%
+4.2%
+16.6%
+79.2%
+
+Degree of household respect for community agreements
+Rarely/never respect agreements
+5.5%
+20.8%
+Sometimes respect agreements
+Always respect agreements
+73.8%
+Household agrees with use of common lands
+72.6%
+Communal lands per capita (ha)
+25.2
+Total ejido population
+200.9
+Number of households = 972.
+
+148
+
+P. Winterset al./Agricultural Economics 27 (2002) 139-156
+
+the level of community infrastructure and direct household access to publicly provided infrastructure.
+The challenge for analysing the benefits of social
+and public capital in income-generating activities is
+determining a method for using the information contained in this large set of variables. Two options have
+generally been used. The first is to create a single
+numerical index that is a weighted average of the
+relevant set of variables. A higher value for the index
+implies, for example, greater social capital. The index
+is then used in subsequent analysis such as regression
+analysis of income generation. Narayan and Pritchett
+(1999) use this approach to examine household income generation in rural Tanzania. The problem with
+this approach is that it requires strong and somewhat
+arbitrary assumptions about the weights for each
+variable in the aggregation. Furthermore, this method
+assumes that a single numerical index is sufficient to
+represent social or public capital. However, as with
+other forms of capital, social and public capital are
+not homogenous entities. The World Bank (2000), for
+example, identifies three types of social capital: bonding, bridging and linking. A single index ignores this
+possibility. Even if multiple indexes were to be created to measure the various types of social or public
+capital, defining the different indexes would still be
+arbitrary.
+The second approach to including social and public
+capital variables in income analysis is to use all or
+a subset of the variables directly in income regressions. For example, De Janvry and Sadoulet (2001)
+in evaluating the determinants of income in the ejido
+sector include social and institutional assets (indigenous household and access to technical assistance)
+and locational characteristics (number of urban centres within 1 h, number of rural centres within an
+hour and regional dummies). One problem with this
+approach is in deciding which variables adequately
+represent the presence of social and public capital.
+Which variable in Table 5, for example, represents
+the level of infrastructure in a community? The problem with including all or even a significant number
+of variables in regression analysis is that this specification can lead to problems with degrees of freedom,
+if the sample is not sufficiently large, and multicolinearity if, as is likely, the multiple social and public
+capital variables are highly correlated. In the presence
+of multicolinearity, identification is not a problem
+
+but with highly correlated variables estimates are less
+precise (Greene, 1997).
+Given the shortcomings of these two methods in
+this paper, a third method, factor analysis, is used to
+incorporate social and public capital into the analysis
+of income generation. The primary purpose of factor
+analysis is to describe the relationships among many
+variables in terms of a few underlying, but unobservable, factors (Johnson and Wichern, 1988). Factor
+analysis groups sets of variables by their correlations
+and each group of variables represents a single underlying construct or factor. 5 For example, Kline
+and Wichelns (1996) use factor analysis to evaluate
+respondents' perceptions of farmland preservation
+programs. Based on reasons provided for preserving
+farmland, they identify four factors that seem to explain preferences: environmental objectives, aesthetic
+objectives, agrarian objectives and anti-growth objectives. Similarly, using the multiple measures of social
+and public capital, the underlying factors that represent the important characteristics of these assets can
+be determined. In one such study, Onyx and Bullen
+(2000), using a set of 36 measures of social capital
+from five Australian communities, identify eight factors that represent social capital including community
+participation, agency and trust. While factor analysis
+does assist in identifying underlying factors represented by a set of variables, the method is subjective
+and requires interpretation of the factors to give them
+meaning. This interpretation relies on previous knowledge and intuition about underlying relationships.
+For this study, factor analysis was used to identify
+factors that represent the important elements of social
+and public capital. Social and public capital are not
+necessarily homogeneous and more than one factor
+was expected to emerge for each set of variables. Social and public capital variables were analysed using
+the principal component factor method and rotated
+using the varimax rotation method. 6 Typically, factors
+5 Factor analysis is similar to principal components analysis
+in that both are attempts to approximate the covariance matrix.
+However, factor analysis is more elaborate and the primary question
+it seeks to ask is whether the data are consistent with some
+underlying structure (Johnson and Wichern, 1988).
+6 As recommended as a first step by Johnson and Wichern
+(1988). Additional methods including the iterated principal factor
+method and the maximum likelihood factor method were examined. Since these approaches tended to bring about similar solutions the original principal components factor method was used.
+
+P. Winters et al.lAgricultural Economics 27 (2002) 139-156
+
+are retained in the analysis if their eigenvalues are
+greater than one. To limit the number of factors retained the cut-off value was increased to 1.25, which
+allows for a more straightforward interpretation of
+factors. Even with this limitation, as will be seen
+below, interpreting some of the factors is difficult.
+At that cut-off, eight factors were retained which
+represented 44% of the variance. 7 Results of the factor analysis are presented in Table 6. As is standard
+practice, only factor loadings greater than 0.25 are
+retained for interpretation. 8
+
+4.1. Factor 1: proximity
+This factor indicates the proximity of the community to infrastructure, services and urban areas. This is
+evidenced by the high negative loadings on distance to
+a health clinic ( -0.45), post office ( -0.84), telegraph
+( -0.80) and a fax ( -0.88), and the time ( -0.76) and
+distance to an urban centre ( -0.84). Households with
+a positive association with this factor tend to be less remote than those negatively associated with this factor.
+
+4.2. Factor 2: ejido population size
+This factor is associated with ejidos that have a substantial population, which is accompanied by access to
+substantial community services and infrastructure. The
+positive associations with DICONSA and LICONSA
+stores, 9 as well as with the presence of a meeting
+room, a secondary school and a high school show this.
+The negative associations with distance to a health centre and to a post office also indicate a large community
+with access to those services. The negative association
+with PROCEDE reforms and the positive association
+with environmental degradation are indicators of the
+co-operation problems associated with having a large
+7 This corresponds to the 49% of the variance explained by the
+eight factors identified by Onyx and Bullen (2000).
+8 While only one set of results is presented, a number of methods
+of factor analysis were explored. Although the order of the factors
+differed across method, the results were largely consistent across
+methods. That is, the loadings and relevance of certain variables
+tended to be the same across methods suggesting these factors do
+represent some underlying structure in the data.
+9 LICONSA is a federal program that provides subsidised milk
+to extremely poor families, urban and rural, with children under
+12 years of age, and tortillas to extremely poor families, urban
+and rural.
+
+149
+
+ejido-difficulty in organising the reform process and
+difficulty in managing the resource base.
+
+4.3. Factor 3: semi-urban
+This factor appears to represent ejidos that are
+semi-urban. The number of urban centres within an
+hour has a large coefficient (0.62) as does the number
+of rural centres within an hour (0.35). Hence, it is not
+surprising to see a positive association with share of
+roads that are paved, DICONSA store, meeting room,
+secondary school and telephone access. An ejido near
+an urban or rural centre is more likely to have greater
+infrastructure and services. There is also a positive
+association with the PROCEDE reform. Since this
+reform leads to the allocation of individual property
+rights, it is likely to be the case that the reform process will occur in areas where land can be more easily
+sold or rented, as is generally the case in semi-urban
+areas. Finally, there is a positive relationship with
+informal organisation participation. Again this could
+be associated with a semi-urban setting where populations tend to be denser and organising for cultural
+and economic reasons is easier.
+
+4.4. Factor 4: co-operation
+This factor clearly represents co-operation within
+the ejido as evidenced by the strong loading on households frequently participating in assemblies (0.72), respecting community agreements (0.71) and belonging
+to informal organisations (0.40).
+
+4.5. Factor 5: lack of formal production
+arrangements
+This factor describes the lack of formal production
+organisation in the ejido, as there is a strong negative association with an ejido belonging to an ARIC 10
+( -0.63). Furthermore, a substantial number of households associated with this factor do not participate in
+'other' formal organisations ( -0.54), production contracts ( -0.48) and the government technology transfer program ( -0.48). There is a somewhat peculiar
+10 ARIC, the Spanish acronym for Rural Associations of Collective Interests, are organisations of ejidos that promote common
+goals.
+
+Table 6
+Factor analysis
+
+.....
+
+Ul
+
+Social and public capital variables
+
+Kilometers to health centre
+Kilometers to post office
+Kilometers to telegraph
+Kilometers to fax machine
+Time to nearest urban centre (h)
+Distance to nearest urban centre (h)
+Number of rural centres within 1 h
+Number of urban centres within 1 h
+Share of roads that are paved
+Ejido has a DICONSA store
+Ejido has a meeting room
+Ejido has public lighting
+Ejido has a secondary school
+Ejido has a high school
+Household has access to LICONSA store
+Household has access to emergency work
+Household water access
+Household sewage access
+Household latrine/bathroom access
+Household has access to electricity
+Household telephone access
+Ejido belongs to aric
+Ejido belongs to an ejido union
+Ejido belongs to a campesino organisation
+Stage of PROCEDE reform
+Household participates in family project
+Household participates in production org
+Household participates in irrigation project
+Household participates in UAIM
+Household participates in other formal org
+Household participates in informal org
+Household is in a production contract
+Household receives technical assistance
+Share of HHs speaking indigenous language
+Ejido has environmental problems
+Frequency of HH participation in assemblies
+Household respect for community agreements
+Household agrees with use of common lands
+Communal lands per capita (ha)
+Total ejido population
+Eigenvalues
+Proportion of variance (%)
+Number of households = 972.
+
+Factor 1
+Proximity
+
+-0.45
+-0.84
+-0.80
+-0.88
+-0.76
+-0.84
+
+Factor 2
+Ejido size
+
+Factor 3
+Semi-urban
+
+Factor 4
+Cooperation
+
+Factor 5
+Lack formal
+arrangements
+
+Factor 6
+Household
+access
+
+Factor 7
+Infrastructure
+
+Factor 8
+Formal
+organization
+
+0
+
+-0.27
+-0.25
+
+-0.26
+
+0.28
+0.41
+
+0.35
+0.62
+0.25
+0.34
+0.43
+
+0.48
+
+0.28
+
+-0.29
+
+~~
+
+0.71
+0.49
+0.70
+0.35
+
+0.31
+
+0.27
+
+<:!
+
+-0.32
+
+.,,_
+
+0.41
+
+""~·
+
+0.35
+
+~
+~
+
+~
+
+0.66
+
+;:,
+
+0.48
+
+0.31
+
+c
+
+~
+
+-0.63
+0.33
+0.25
+-0.29
+
+~
+
+;::
+
+0.46
+0.75
+0.72
+0.28
+
+~
+
+0.33
+0.59
+
+0.49
+
+~·
+N
+
+'l
+
+"N
+
+C>
+
+§
+0.36
+
+......
+
+""......
+'P
+v,
+
+01
+
+-0.54
+0.29
+
+0.40
+
+-0.30
+-0.48
+-0.48
+
+-0.39
+
+-0.30
+-0.26
+
+0.32
+0.42
+0.72
+0.71
+0.41
+
+-0.37
+5.26
+13.2
+
+0.32
+0.65
+2.81
+7.0
+
+2.23
+5.6
+
+1.77
+4.4
+
+1.57
+3.9
+
+1.46
+3.7
+
+1.33
+3.3
+
+1.28
+3.2
+
+P. Winterset al./Agricultural Economics 27 (2002) 139-156
+
+positive association with household agreement on the
+use of common lands.
+
+4.6. Factor 6: household access to infrastructure
+This factor represents the degree to which households have access to services as indicated by the strong
+loadings on water (0.46), sewage (0.75), bathrooms
+(0.72) and telephone (0.48) access. Households positively associated with this factor also tend to have a
+lower share of the population speaking an indigenous
+language and lower environmental problems. This partially reflects that indigenous households tend to live
+in more marginalised communities.
+
+4. 7. Factor 7: infrastructure
+This factor shows the degree of access to infrastructure. This is evident through the strong loadings on
+public lighting (0. 71), electricity (0.66), share of paved
+roads (0.48) and water access (0.35). The results indicate that ejidos that have formal organisational structures tend to have this type of infrastructure and those
+with informal organisations are less likely to have the
+corresponding infrastructure.
+
+4.8. Factor 8: formal ejido organisation
+This factor represents an ejido that has a formal
+organisational structure, indicated by the factor loadings on ejido membership in a campesino organisation
+(0.59) and ejido union (0.33) as well as the participation in production contracts (0.36). The high loading
+on communal lands per capita (0.32) may indicate a
+community with a need for formal structures. Access
+to emergency work and paved roads may also be an
+indicator of the community's ability to organise and
+lobby government officials for assistance.
+The results suggest that social and public capital
+are not homogenous and a number of factors represent
+their role in income generation. This calls into question the use of single indicators of social or public
+capital. Using these factor loadings and the regression
+method suggested by Thomson (1951), 11 a new set of
+variables representing each of the eight factors can be
+11
+
+Cited in the STATA reference manual.
+
+151
+
+generated. As is standard practice, the factors are normalised to have a mean value of 0 and standard deviation 1. Using these measures of social and public capital, the two-step econometric procedure outlined in
+Section 2 and presented in Tables 3 and 4 was repeated.
+Table 7 presents the new results of the pro bits for activity participation. The majority of the results remain
+the same as the preliminary estimations, suggesting
+their robustness. Results that differ with respect to statistical significance from Table 3 are set in italics.
+Participation in activities appears to be influenced
+by a number of social and public capital factors. Proximity to an urban centre is found to be negatively associated with agricultural wage employment as well
+as remittance income. This most likely reflects the fact
+that isolated households have few off-farm options
+other than agricultural wage employment or migration.
+Households in ejidos with large populations appear to
+be less likely to participate in livestock production,
+reflecting problems in managing the resource base.
+Not surprisingly, households in a semi-urban setting
+are more likely to participate in self-employment and
+non-agricultural wage employment, as the opportunities for households living in these settings are much
+higher. Receipt of remittance income is less likely in
+a semi-urban setting and is also negatively associated
+with infrastructure and formal organisation again suggesting that dependence on external transfers may be
+the only alternative in the face oflimited opportunities.
+Household access to infrastructure is positively associated with self-employment, as many microenterprises
+require minimal infrastructure access. Finally, formal
+organisation in the ejido is positively associated with
+participation in crop production, livestock production
+and non-agricultural wage employment. The ejido organisational structure clearly influences the choice of
+income-generating activities.
+Table 8 presents the results of the selectivity corrected system estimates of the income equations
+including the social and public factors. As with the
+probits, the majority of the results remain the same as
+in Table 4. One notable exception relates to male education levels. The results from Table 8 suggest that
+higher levels of male education are negatively associated with livestock income. Taken together the results
+suggest that households with significant male education concentrate on non-agricultural wage employment
+and crop income (for those with tertiary education).
+
+Table 7
+Probit results for activity participation with social and public capital factorsa
+Crop production
+
+Livestock production
+
+Coefficient P-value Coefficient P-value
+Irrigated land (ha)
+Rainfed land (ha)
+Pasture land (ha)
+Livestock ownership, 1994
+Tractor ownership, 1994
+Truck ownership, 1994
+Males education-literate
+Males education-primary
+Males education-secondary
+Males education-tertiary
+Females education-literate
+Females education-primary
+Females education-secondary
+Females education-tertiary
+Age of head
+Male head of housheold
+Males, 15-34 years
+Females, 15-34 years
+Males, 35-59 years
+Females, 35-59 years
+Non-agricultural wage earner, 1994
+Agricultural wage earner, 1994
+Self-employed, 1994
+HYV seed used,1994
+Chemicals used, 1994
+Indigenous household
+Formal credit access, 1994
+Migrant network in US
+Migrant network in Mexico
+North
+North Pacific
+Center
+Gulf
+F1-proximity
+F2---ejido size
+F3-semi-urban
+F4-cooperation
+F5-lack formal arrangements
+F6-household access
+F7-infrastructure
+F8-formal organization
+Constant
+
+-0.011
+0.013
+-0.002
+0.012
+0.111
+0.177
+-0.128
+-0.111
+-0.076
+0.205
+0.030
+0.047
+-0.287
+-0.330
+-0.006
+-0.238
+0.251
+0.024
+0.404
+-0.194
+-0.099
+0.335
+0.199
+0.033
+0.585
+0.397
+0.173
+0.030
+0.006
+-0.547
+-0.866
+-0.027
+0.683
+-0.059
+0.119
+-0.131
+0.064
+0.062
+-0.059
+-0.068
+0.186
+1.684
+
+0.55
+0.28
+0.78
+0.12
+0.71
+0.43
+0.46
+0.58
+0.74
+0.53
+0.87
+0.82
+0.20
+0.21
+0.31
+0.55
+0.20
+0.90
+0,02
+
+0.28
+0.25
+0.04
+0.39
+0.88
+0.00
+0.22
+0.32
+0.30
+0.69
+0.09
+0.01
+0.92
+0.19
+0.57
+0.21
+0.18
+0.41
+0.45
+0.55
+0.48
+0.03
+0.00
+
+-0.028
+0.013
+0.013
+0.128
+-0.521
+0.045
+0.213
+0.204
+0.177
+-0.091
+0.177
+0.006
+-0.141
+-0.081
+-0.004
+0.281
+-0.156
+0.063
+-0.072
+0.156
+-0.087
+-0.037
+-0.168
+0.073
+0.149
+0.414
+0.127
+-0.044
+0.004
+0.523
+-0.290
+0.552
+1.280
+-0.047
+-0.138
+-0.061
+0.071
+0.044
+-0.021
+-0.028
+0.150
+-0.470
+
+0,07
+0.13
+0.16
+0.00
+0.03
+0.80
+0.06
+0.11
+0.22
+0.64
+0.16
+0.96
+0.39
+0.68
+0.35
+0.32
+0.19
+0.62
+0.55
+0.24
+0.21
+0.72
+0.21
+0.65
+0.25
+0,03
+0.33
+0.04
+0.72
+0.02
+0.23
+0.00
+0.00
+0.52
+0.02
+0.36
+0.22
+0.49
+0.76
+0.67
+
+Self-employment
+
+0.26
+
+Agricultural wage
+employment
+
+Remittance income
+
+0.48
+0.86
+0.38
+0.30
+0.05
+0.99
+0.77
+0.77
+0.77
+0.79
+0.59
+0.66
+0.52
+0.98
+0.40
+0.98
+0.63
+0.40
+0.17
+0.51
+0.62
+0.31
+0.00
+0.54
+0.35
+0.59
+0.72
+0.87
+0.61
+0.52
+0.08
+0.72
+0.04
+0.99
+0.97
+0.03
+0.42
+0.59
+0.00
+0.98
+0.21
+0.06
+
+-0.001
+-0.018
+0.000
+-0.011
+-0.212
+-0.083
+0.182
+0.200
+0.231
+0.288
+0.043
+-0.031
+0.046
+0.191
+-0.010
+-0.223
+0.021
+0.136
+0.141
+-0.105
+0.252
+-0.096
+-0.043
+-0.241
+0.044
+-0.002
+-0.031
+-0.011
+0.009
+0.543
+-0.064
+0.339
+0.193
+-0.046
+0.050
+0.099
+0.022
+0.025
+-0.023
+-0.026
+0.156
+-0.165
+
+0.91
+0.00
+0.98
+0.01
+0.27
+0.55
+0,07
+0,07
+0,07
+0,09
+
+0.68
+0.78
+0.73
+0.24
+0.01
+0.42
+0.84
+0.20
+0.17
+0.36
+0.00
+0.30
+0.72
+0.06
+0.67
+0.99
+0.77
+0.47
+0.29
+0.00
+0.77
+0.02
+0.31
+0.40
+0.30
+0.06
+0.64
+0.63
+0.67
+0.61
+0.00
+0.65
+
+-0.008
+-0.024
+0.000
+-0.018
+-0.135
+0.012
+0.049
+-0.052
+0.033
+-0.067
+0.111
+0.010
+0.019
+-0.531
+-0.001
+-0.338
+0.206
+0.120
+0.147
+-0.324
+-0.135
+0.311
+0.103
+-0.144
+-0.096
+-0.094
+0.031
+-0.034
+0.014
+0.696
+0.380
+0.346
+0.405
+-0.111
+-0.056
+0.042
+0.087
+0.080
+-0.204
+0.015
+0.073
+-1.062
+
+0.69
+
+O.ol
+0.92
+0.02
+0.61
+0.95
+0.66
+0.67
+0.82
+0.77
+0.36
+0.94
+0.91
+0,07
+0.80
+0.29
+0,07
+0.34
+0.23
+0.02
+0.09
+0.00
+0.46
+0.37
+0.44
+0.58
+0.81
+0.14
+0.16
+0.00
+0.18
+0.08
+0.09
+0.08
+0.35
+0.53
+0.14
+0.28
+0.00
+0.80
+0.22
+0.02
+
+0.015
+0.018
+-0.004
+-0.012
+-0.123
+-0.157
+-0.047
+0.049
+-0.353
+-0.479
+0.033
+0.092
+0.263
+-0.129
+0.043
+0.101
+-0.095
+-0.131
+0.030
+0.178
+-0.058
+0.361
+-0.083
+-0.068
+0.071
+-0.735
+-0.134
+0.212
+0.003
+0.014
+-0.587
+0.199
+-0.119
+-0.158
+0.073
+-0.139
+0.057
+-0.025
+0.123
+-0.137
+-0.191
+-4.080
+
+0.36
+0,01
+0.48
+0,02
+
+0.63
+0.39
+0.71
+0.74
+0.06
+0.10
+0.82
+0.55
+0.16
+0.62
+0.00
+0.80
+0.49
+0.39
+0.84
+0.24
+0.55
+0.00
+0.68
+0.69
+0.62
+0,01
+0.38
+0.00
+0.82
+0.96
+0.05
+0.32
+0.70
+0,07
+0.32
+0.09
+0.41
+0.74
+0.12
+0,07
+0.01
+0.00
+
+Number of households = 972.
+~~-1~--"--..l
+
+!_ L-1...1
+
+U>
+
+N
+
+Coefficient P-value Coefficient P-value Coefficient P-value Coefficient P-value
+0.010
+-0.001
+-0.003
+0.004
+-0.391
+0.002
+-0.029
+-0.032
+0.035
+0.044
+-0.057
+0.049
+0.087
+-0.005
+-0.003
+0.006
+0.049
+0.091
+0.148
+0.078
+-0.031
+-0.101
+0.611
+-0.079
+-0.099
+0.079
+-0.038
+-0.003
+0.004
+-0.124
+-0.392
+-0.054
+0.384
+0.001
+-0.002
+0.115
+-0.040
+-0.029
+0.163
+0.001
+0.064
+-0.703
+
+0,02
+
+Non-agricultural
+wage employment
+
+n ----1<-- <-L-<- ..l!.CC-- ___ ! .. t... ______ ._ .. _
+
+_ .__._:_._: __ 1
+
+-!--!.C---~-
+
+C---
+
+'T'-1..1-
+
+'J
+
+---
+
+__ ._ ! -
+
+!1--1!--
+
+:-tl
+
+~
+
+";;;
+~
+
+"',.....
+~
+
+Oo
+
+~-
+
+"'
+~
+~
+
+~
+
+;:,
+
+a
+
+;;!
+~N
+'-l
+
+w
+
+~.....
+
+""'
+'F
+.....
+v,
+
+0\
+
+Table 8
+Selectivity-corrected systems estimates of income equations with social and public capital factorsa
+Crop production
+
+Livestock production
+
+Coefficient P-value Coefficient P-value
+Irrigated land (ha)
+780.8
+22.2
+Rainfed land (ha)
+1.8
+Pasture land (ha)
+-12.7
+Livestock ownership, 1994
+4253.6
+Tractor ownership, 1994
+308.9
+Truck ownership, 1994
+147.6
+Males education-literate
+495.0
+Males education-primary
+382.9
+Males education-secondary
+2958.4
+Males education-tertiary
+24.6
+Females education-literate
+790.0
+Females education-primary
+347.4
+Females education-secondary
+3370,4
+Females education-tertiary
+-37.8
+Age of head
+-1047.7
+Male head of housheold
+-1071.2
+Males 15-34
+-871.0
+Females 15-34
+72.2
+Males 35-59
+876.6
+Females 35-59
+Non-agricultural wage earner, 1994
+Agricultural wage earner, 1994
+Self-employed, 1994
+765.9
+HYV seed used,1994
+18.4
+Chemicals used, 1994
+1217.2
+Indigenous household
+-672.4
+Formal credit access, 1994
+Migrant network in US
+Migrant network in Mexico
+PI-Proximity
+1187.9
+F2-Ejido size
+-508.3
+-715.5
+F3-Semi-urban
+-411.8
+F4--Cooperation
+-635.8
+F5-Lack formal arrangements
+F6-Household access
+1112.4
+-509.0
+F7-Infrastructure
+F8-Formal organization
+-196.0
+-9549.9
+Inverse Mills Ratio
+5352.1
+Constant
+
+0.00
+0.55
+0.95
+0.66
+0.00
+0.77
+0.85
+0.56
+0.69
+0.03
+0.98
+0.37
+0.75
+0,01
+
+0.20
+0.62
+0.18
+0.30
+0.93
+0.33
+
+Self-employment
+
+Non-agricultural wage
+employment
+
+Coefficient P-value Coefficient P-value
+
+Agricultural wage
+employment
+
+Remittance income
+
+Coefficient P-value Coefficient P-value
+
+103.6
+52.2
+5.7
+126.0
+
+0.02
+0.00
+0.58
+0.00
+
+74.7
+35.3
+9.5
+0.7
+
+0.04
+0.01
+0.30
+0.95
+
+-62.6
+49.6
+-1.3
+36.1
+
+0.43
+0.15
+0.95
+0.18
+
+19.5
+11.8
+-4.5
+11.4
+
+0.45
+0.31
+0.49
+0.26
+
+55.9
+3.5
+-2.2
+8.2
+
+0.09
+0.79
+0.79
+0.43
+
+875.6
+-352.9
+-870.0
+-654.7
+-1072.0
+-180.4
+539.6
+327.2
+709.6
+-8.8
+285.9
+603.3
+-454.3
+82.7
+-659.6
+
+0.03
+0.25
+0.01
+0.09
+0.04
+0.57
+0.12
+0.43
+0.16
+0.45
+0.74
+0.06
+0.17
+0.80
+0.06
+
+-314.4
+-25.6
+158.4
+214.8
+336.8
+49.0
+113.3
+442.2
+682.6
+0.8
+1560.7
+-21.4
+-62.9
+-102.4
+-26.7
+
+0.40
+0.92
+0.60
+0.53
+0.47
+0.86
+0.71
+0.23
+0.13
+0.94
+0.04
+0.94
+0.84
+0.73
+0.93
+
+330.4
+656.4
+1528.3
+786.3
+2002.5
+-508.7
+-842.4
+-1200.1
+1139.5
+44.1
+-1237.4
+-350.2
+1165.3
+-714.9
+961.9
+258.8
+337.9
+
+0.67
+0.28
+0.02
+0.31
+0.05
+0.40
+0.19
+0.13
+0.24
+0.07
+0.44
+0.55
+0.07
+0.26
+0.15
+0.56
+0.52
+
+143.0
+218.3
+55.1
+-15.6
+-129.2
+-119.0
+-67.3
+-230.9
+205.9
+9.2
+-998.5
+151.5
+136.2
+100.7
+-116.3
+
+0.58
+0.26
+0.80
+0.95
+0.70
+0.56
+0.76
+0.38
+0.58
+0.20
+0.07
+0.47
+0.52
+0.63
+0.65
+
+-132.6
+-226.9
+-65.2
+60.2
+356.5
+91.7
+-234.9
+1365.0
+-19.2
+534.8
+190.8
+-6.3
+-81.5
+39.8
+
+0.59
+0.41
+0.85
+0.90
+0.17
+0.75
+0.50
+0.00
+0.32
+0.44
+0.46
+0.98
+0.76
+0.89
+
+137.7
+
+0.38
+
+2278.8
+
+~
+
+:s;
+;:,
+
+"
+~
+
+~
+
+~
+
+;;:
+Oo
+"r;·
+
+"~
+
+~
+~
+
+"
+""'
+
+"'a·
+"'
+
+'l
+
+0.00
+
+w
+
+§
+
+0.43
+0.98
+0.28
+0.41
+
+239.5
+149.2
+708.4
+-190.5
+
+0.53
+0.64
+0.11
+0.55
+
+-34.0
+-395.9
+
+0.93
+0.17
+
+-1646.0
+83.4
+
+0.05
+0.89
+
+-316.0
+-93.1
+
+0.26
+0.65
+
+0.01
+0.19
+0.05
+0.27
+0.10
+0.01
+0.17
+0.59
+0.01
+0.05
+
+297.2
+105.6
+122.7
+-231.3
+-322.2
+600.7
+190.5
+-277.4
+-2768.0
+2597.3
+
+0.07
+0.50
+0.40
+0.12
+0.04
+0.00
+0.20
+0.06
+0.00
+0.02
+
+154.5
+96.4
+156.0
+-105.2
+-252.5
+302.1
+120.2
+-198.9
+-487.1
+-458.6
+
+0.29
+0.47
+0.32
+0.41
+0.05
+0,07
+0.35
+0.12
+0.53
+0.74
+
+158.3
+
+0.61
+1.00
+0.41
+0.74
+0.73
+0.04
+0.01
+0.57
+0.01
+0.06
+
+71.4
+87.6
+70.9
+53.5
+-52.7
+17.8
+186.1
+-104.7
+-978.3
+2330.9
+
+0.53
+0.38
+0.44
+0.58
+0.61
+0.88
+0.05
+0.30
+0.02
+0.01
+
+-0.2
+-250.6
+-90.7
+-106.1
+631.3
+783.5
+-195.2
+-4731.4
+4476.5
+
+602.3
+-332.1
+34.9
+-17.8
+-22.4
+-103.3
+222.8
+-59.0
+66.5
+24.6
+-87.9
+3.3
+-1045.3
+3115.9
+
+0.21
+0.22
+0.66
+0.40
+0.87
+0.41
+0.09
+0.62
+0.57
+0.86
+0.49
+0.98
+0.02
+0.14
+
+Number of households = 972.
+a Coefficients with a level of significance greater than 90% are indicated in bold. Results that differ with respect to statistical significance from Table 4 are set in italics.
+
+._
+u.,
+
+'F
+._
+~
+
+u.
+w
+
+154
+
+P. Winters et al./Agricultural Economics 27 (2002) 139-156
+
+Moving to the examination of the social and public
+capital variables, a number of these variables significantly influence the level of income generated from
+each activity. Proximity to an urban centre positively
+influences the level of crop income while semi-urban
+status is negatively associated with crop income. This
+suggests a non-linear relationship in the benefits of
+urban access. Households that are very near urban
+and rural centres are likely to earn less crop income
+than households further out on the periphery of these
+centres. However, households that are very far away
+earn significantly less income. The results also indicate that households with access to basic infrastructure such as water, sewage, bathrooms and telephones
+earn higher income from crop production. A similar
+result is found for livestock income, self-employment
+and non-agricultural wage employment. These results
+show that a community with substantial household access to these types of infrastructure is likely to have
+greater income-generating opportunities.
+Lack of formal production arrangements appears
+to limit crop, livestock and self-employment income
+(meaning that the presence of formal production
+arrangements would improve income from these
+sources). These formal production arrangements seem
+to play an important role in increasing the level of income received by households. However, formal ejido
+organisation is negatively associated with livestock
+income. These results provide evidence for the view
+that the types of social and public capital matter. Both
+of these variables are indicators of social capital as
+they measure associational activity. However, only
+an association with productive oriented organisations
+has a positive influence on livestock income. Both
+non-agricultural and agricultural wage income are
+positively related to the level of infrastructure. Ejidos
+with access to electricity, public lighting, water and
+paved roads, all general indicators of economic development, provide higher wage employment income
+than those without.
+
+5. Conclusion
+Our analysis of households in the Mexico ejido sector shows that a household's asset position has a significant effect on its participation in specific activities
+as well as on the level of income earned from those
+
+activities. Households choose a portfolio of activities
+and the intensity of involvement in those activities
+based on their asset position. These results support the
+livelihoods approach to household behaviour, which
+argues the importance of assets in determining the
+capacity of households to undertake certain activities.
+Furthermore, the results show that partial analysis of
+income generation-that is, the analysis of a single
+income-generating activity-can potentially lead to
+incorrect conclusions about the role of a particular
+asset in income generation. For example, our results
+indicate that high levels of male education result in
+greater participation and returns to non-agricultural
+wage employment but lower income from livestock
+production. While these results mirror the general
+conclusion of Taylor and Yunez-Naude (2000) that
+returns to schooling vary across activity, we find
+that education participation and returns differ across
+gender and that the return to education is primarily
+through non-agricultural wage employment and crop
+production. While the returns for crop income for men
+and women at the highest level of education are similar, lower levels of female education are not valued on
+the labour market. This is due primarily to the type of
+employment to which young rural women are limited:
+domestic help.
+Our analysis also shows the critical role that social
+and public capital play in household participation in
+activities and the level of income generated by each
+activity. By using factor analysis, the forty community
+variables are reduced to four public capital factorsproximity, semi-urban status, household access to
+infrastructure and general infrastructure; three social
+capital factors-co-operation, lack of formal production arrangements and formal ejido organisation; and
+one factor-ejido size-that shows the effect of ejido
+population on both public and social capital. These
+factors represent the key underlying community characteristics that are likely to influence household behaviour. Their heterogeneity suggests that each will
+influence that behaviour in a unique manner, and
+inclusion of these factors in the regression analysis
+shows this factor-specific influence. Creation of a
+single index of social or public capital would have ignored the importance of this heterogeneity, and using
+a subset of social and public capital variables would
+have led to ambiguity regarding the reason for the
+effect since each indicator might represent multiple
+
+P. Winters et al. I Agricultural Economics 27 (2002) 139-156
+
+components of social and public capital. Factor analysis provides an alternative to these methods and
+identifies the particular manner in which social and
+public capital influence income generation. Failure
+to adequately incorporate social and public capital
+variables can lead to inaccurate or ambiguous results.
+The results from the regression analysis indicate
+that ejido organisation is important in determining participation in crop and livestock production,
+non-agricultural wage employment and remittance income. The location of the household relative to urban
+areas (proximity and semi-urban status) is also important in influencing participation in self-employment,
+non-agricultural and agricultural wage employment
+and remittance income. In terms of income levels,
+lack of formal production arrangements hinders agricultural and livestock income generation, as well as
+self-employment. The type of infrastructure accessible by the household affects income, with household
+access to infrastructure associated with greater levels
+of all kinds of income, with the exception of agricultural wage and remittance, and general infrastructure
+access associated with higher levels of both types of
+wage labour. Finally, while being very close to urban
+or rural centres limits crop production income, intermediate proximity to urban centres improves crop
+production income.
+The findings presented in this paper have a number of implications for Mexican government policy
+towards the ejido sector. First, although all ejiditarios
+have access to land, many are no longer dependent
+on agricultural production for most of their income
+and are using the assets at their disposal for a number
+of income-generating activities. Policies designed to
+improve agricultural production will not necessarily
+have the desired or expected effect since households
+may respond by shifting assets to other activities.
+Government interventions should recognise the potential fungibility of assets and incorporate this into
+the design of the intervention. In this regard, Mexican
+government interventions consisting of cash transfers
+to agricultural producers in the ejido sector, through
+the PROCAMPO program, give beneficiary households some flexibility in the use of the monetary transfers and have been shown to be effective in alleviating
+poverty (Sadoulet et al., 2001). Second, social and
+public capital variables have an important influence on
+income generation. In designing policies to improve
+
+155
+
+the income-generating capacity of ejiditarios, such as
+policies to alleviate poverty, the government needs
+to recognise the role of these factors. In particular,
+interventions need to recognise and respect the social
+fabric of the community and include activities to enhance the role of formal and informal organisations.
+For example, based on the results presented in this paper, if the Mexican government wished to embark on
+a strategy of improving non-agricultural employment
+opportunities for ejiditarios, it should begin by understanding the role ejido relationships play and take
+actions to improve ejido organisation (this might also
+induce participation in crop and livestock production).
+Additionally, it should improve household access to
+both household level and general infrastructure since
+each of these enhances the level of income earned
+from non-agricultural employment. Similarly, if the
+government decided to commit resources to generally
+improving income levels, investing in household access to infrastructure is likely to have the broadest and
+greatest impact. Ignoring the role of social and public
+capital in the ejido sector would constitute a missed
+opportunity and could prove costly if interventions
+side-step the social structure of the community.
+
+Acknowledgements
+The authors are grateful to Dr. Chris O'Donnell of
+the University of New England for helpful comments
+on the data analysis and econometrics.
+
+References
+Amemiya, T., 1977a. The estimation of a simultaneous equation
+tobit model. Technical report 236. Institute for Mathematical
+Studies in the Social Sciences, Stanford University.
+Amemiya, T., 1977b. The estimation of a simultaneous equation
+categorisation probit model. Econometrica 46, 1193-1205.
+Barrett, C., Reardon, T., 2000. Asset, activity, and income
+diversification among African agriculturalists: some practical
+issues. Project report to the USAID BASIS CRSP.
+Coleman, J., 1988. Social capital in the creation of human capital.
+Am. J. Social. Suppl., S95-Sl20.
+Cord, L., et al., 1998. Mexico Ejido Reform: Avenues of
+Adjustment Five Years Later. The World Bank, Latin America
+and Caribbean Region, Washington, DC.
+Corral, L., Reardon, T., 2001. Rural nonfarm incomes in Nicaragua.
+World Dev. 29 (3), 427-442.
+
+156
+
+P. Winters et a!. I Agricultural Economics 27 (2002) 139-156
+
+De Janvry, A., Sadoulet, E., 2001. Income strategies among rural
+households in Mexico: the role of off-farm activities. World
+Dev. 29 (3), 467-480.
+Ellis, F., 2000. Rural Livelihoods and Diversity in Developing
+Countries. Oxford University Press, Oxford.
+Greene, W., 1997. Econometric Analysis. Prentice-Hall, Upple
+Saddle River, NJ.
+Johnson, R., Wichern, D., 1988. Applied Multivariate Statistical
+Analysis. Prentice Hall, Englewood Cliffs, NJ.
+Kline, J., Wichelns, D., 1996. Public preferences regarding the
+goals of farmland preservation programs. Land Econ. 72 (4),
+538-549.
+Lanjouw, P., 1999. Rural nonagricultural employment and poverty
+in Ecuador. Econ. Dev. Cult. Change 48 (1), 91-122.
+Lanjouw, P., 2001. Nonfarm employment and poverty in rural El
+Salvador. World Dev. 29 (3), 529-548.
+Lee, L.F., 1978. Simultaneous equation models with discrete and
+censored dependent variables. In: Manski, P., McFadden, D.
+(Eds.), Structural Analysis and Discrete Data with Econometric
+Applications. MIT Press, Cambridge, MA.
+Narayan, D., Pritchett, L., 1999. Cents and sociability: household
+income and social capital in rural Tanzania. Econ. Dev. Cult.
+Change 47 (4), 871-897.
+Onyx, J., Bullen, P., 2000. Measuring social capital in five
+communities. J. Appl. Behav. Sci. 36 (1), 23-42.
+
+Reardon, T., Berdegue, J., Escobar, G., 2001. Rural nonfarm
+employment and incomes in Latin America: overview
+and policy implications. World Dev. 29 (3), 395410.
+
+Sadoulet, E., de Janvry, A., Davis, B., 2001. Cash Transfer with
+Income Multiplier: PROCAMPO in Mexico. World Develop. 29
+(3).
+
+Serageldin, I., Steer, A., 1994. Making development sustainable:
+from concepts to action. Environmentally Sustainable
+Development Occasional Paper Series Number 2. World Bank,
+Washington.
+Taylor, J.E., Yunez-Naude, A., 2000. The returns from schooling
+in a diversified rural economy. Am. J. Agric. Econ. 82 (2),
+287-297.
+Thomson, G.H., 1951. The Factorial Analysis of Human Ability.
+University of London Press, London.
+Winters, P., de Janvry, A., Sadoulet, E., 2001. Family and
+community networks in Mexico-US migration. J. Hum. Res.
+36 (1), 159-184.
+Woolcock, M., Narayan, D., 2000. Social capital: implications for
+development theory, research and policy. World Bank Res. Obs.
+15 (2), 225-249.
+World Bank, 2000. World Development Report 2000/2001:
+Attacking Poverty. Oxford University Press for the World Bank,
+New York.
+
+

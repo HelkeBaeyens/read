@@ -1,0 +1,1890 @@
+AGRICULTURAL
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 24 (2000) 33-46
+www.elsevier.com/locate/agecon
+
+Integrated economic-hydrologic water modeling
+at the basin scale: the Maipo river basin
+M. W. Rose grant*· a, C. Ringler a, D. C. McKinney b, X. Cai a, A. Keller c, G. Dono sod
+a International Food Policy Research Institute, Environment & Production Technology Division, 2033 Street NW, Washington DC 20006, USA
+
+Centerfor Research in Water Resources, University of Texas at Austin, Austin, TX 78712, USA
+c Keller-Bliesner Engineering, 78 E Center Street, Logan, UT 84321, USA
+Faculty of Agronomy and Forestry Engineering, Catholic University of Chile, Casilla 306 Santiago 22, Chile
+b
+
+d
+
+Abstract
+Increasing competition for water across sectors increases the importance of the river basin as the appropriate unit of
+analysis to address the challenges facing water resources management; and modeling at this scale can provide essential
+information for policymakers in their resource allocation decisions. This paper introduces an integrated economic-hydrologic
+modeling framework that account~ for the interactions between water allocation, farmer input choice, agricultural productivity,
+non-agricultural water demand, and resource degradation in order to estimate the social and economic gains from improvement
+in the allocation and efficiency of water use. The model is applied to the Maipo river basin in Chile. Economic benefits to
+water use are evaluated for different demand management instruments, including markets in tradable water rights, based
+on production and benefit functions with respect to water for the agricultural and urban-industrial sectors. © 2000 Elsevier
+Science B.V. All rights reserved.
+Keywords: River basin model; Water policy; Water market
+
+1. Introduction
+With growing scarcity and increasing competition
+for water across sectors, the need for efficient, equitable, and sustainable water allocation policies has increased in importance in water resources management.
+These policies can best be examined at the river basin
+level, which links essential hydrologic, economic,
+agronomic, and institutional relationships as well as
+water uses and users and their allocation decisions.
+To carry out this analysis, an integrated economichydrologic modeling framework at the basin level
+has been developed that accounts for the interactions
+* Corresponding author. Tel.: +1-202-862-5621;
+fax: +1-202-467-4439.
+E-mail address: m.rosegrant@cgiar.org (M.W. Rosegrant).
+
+between water allocation, farmer input choice, agricultural productivity, non-agricultural water demand,
+and resource degradation in order to estimate the
+social and economic gains from improvement in the
+allocation and efficiency of water use. An application
+to the Maipo river basin in Chile is presented. The
+following sections give an overview on the research
+site, introduce the modeling framework, and present
+results of the model application.
+
+2. The Maipo river basin
+The Maipo river basin, located in a key agricultural region in the metropolitan area of central Chile,
+is a prime example of a "mature water economy"
+(see Randall, 1981) with growing water shortages
+
+0169-5150/00/$ - see front matter© 2000 Elsevier Science B.V. All rights reserved.
+PII: S0169-5150(00)00113-4
+
+34
+
+M. W Rosegrant eta/. I Agricultural Economics 24 (2000) 33-46
+
+and increasing competition for scarce water resources
+across sectors. The basin is characterized by a very
+dynamic agricultural sector - serving an irrigated
+area of about 127,000 ha (out of a total catchment area
+of 15,380 km 2 ) - and a rapidly growing industrial
+and urban sector - in particular in and surrounding the capital city of Santiago with a population of
+more than 5 million people. More than 90% of the
+irrigated area depends on water withdrawals from
+surface flows. Annual flows in the Maipo river average 4445 million m 3 . River fluctuations are predominantly glacial in nature, with considerable flows in
+summer (November-February) and very pronounced
+reductions in winter (April-June).
+In the mid-1990s, total water withdrawals at the
+off-take level in the Maipo river basin were estimated
+at 2144 million m3 . Agriculture accounted for 64% of
+total withdrawals, domestic uses for 25%, and industry for the remaining 11%. The basin includes eight
+large irrigation districts with areas of 1300-45,000 ha.
+Irrigated area in the basin has been gradually declining due to increasing demands by the domestic and
+industrial sectors for both water and land resources,
+among other factors. By the mid-1970s, urban Santiago had already encroached on more than 30,000 ha of
+productive irrigated land (Court Moock et al., 1979).
+However, the closeness to the capital city also provides
+a profitable outlet for high-value crop production both
+for the local market and for the dynamic export sector.
+The largest municipal water company, EMOS, supplies about 85% of Santiago's population as well as
+other urban areas. It owns about 17% of the volume of
+flow in the upper Maipo river, plus the storage of the El
+Yeso reservoir with a capacity of about 256 million m 3
+(Donoso, 1997). Supplies for industrial consumption
+are drawn from the drinking-water distribution networks as well as from privately owned wells and, in
+a few cases, from irrigation canals. All hydropower
+stations in the basin are of the run-of-the river type.
+Competition among the different water users and
+uses, in particular, agriculture and domestic and industrial water uses, is increasing rapidly. According
+to Anton (1993), agricultural areas are mostly flood
+in·igated, and irrigation efficiencies range from 20
+to 60% depending on local conditions. EMOS estimates an increase in domestic water demand of about
+330 million m3 between 1997 and 2022, which it intends to meet chiefly through better use of existing
+
+water rights, the purchase of additional rights from irrigation districts, and additional extraction of groundwater. However, in the past, EMOS has been unable
+to purchase sufficient shares from irrigation districts,
+and both industry and agriculture are competing for
+groundwater sources at levels surpassing the recharge
+capacities of the aquifers in the metropolitan area
+(Hearne, 1998; Bolelli, 1997). Moreover, increasing
+competition for scarce water resources in the basin
+has led to growing pollution problems that have yet to
+be addressed by policy solutions (Anton, I 993). Although Chile has established the economic instrument
+of markets in tradable water rights following the Water
+Law of 1981, which promotes the allocation of water
+to the uses with the highest values, room for improvement in the areas of water rights for environmental
+and hydropower (non-consumptive) uses has become
+evident. These challenges in the Maipo basin will be
+addressed with the integrated economic-hydrologic
+modeling framework introduced in the following.
+
+3. The river basin model
+3.1. Modeling approach
+The river basin modeling system is developed as a
+node-link network, in which nodes represent physical
+entities and links represent the connection between
+these entities (Fig. 1). The nodes included in the network are: (1) source nodes, such as rivers, reservoirs,
+and groundwater aquifers; and (2) demand nodes,
+such as irrigation fields, industrial plants, and households. Each distribution node is a location where
+water is diverted to different sites for beneficial use.
+The inflows to these nodes include water flows from
+the headwaters of the river basin and rainfall drainage
+entering the entities. No prior storage is assumed for
+the river nodes. A number of agricultural and municipal and industrial (M&I) demand sites or nodes
+have been spatially connected to the basin network.
+Agricultural demand sites are delineated according
+to the irrigation districts. At each agricultural demand site, water is allocated to a series of crops,
+according to their water requirements and economic
+profitability. Both crop area and yield are determined
+endogenously in the model. Two demand sites have
+been allocated to the major urban area, Santiago.
+
+M. W Rosegrant eta/. I Agricultural Economics 24 (2000) 33-46
+
+e
+
++-..,.
+
+35
+
+River Node
+Inflow
+Off-take
+Canal San Carlos
+
+<IIIII
+
+Reservoir
+
+®
+
+Hydropower St.
+
+~
+
+Ag. Demand Site
+
+~
+
+M&l Demand Site
+
+Maipo
+
+Yeso
+Olivares
+
+Colorado
+
+Angostura
+
+Mapocho
+Colina
+
+Paine
+
+Chocalan
+
+Fig. I. The Maipo river basin network.
+
+An existing hydrologic model, successfully applied
+to the Amu Darya and Syr Darya river basins in Central
+Asia, has been adapted to the Chilean context (McKinney and Cai, 1997). In addition, a prototype economic
+optimization model has been developed in order to estimate economic returns to water use. Although the
+model has been developed as an optimization model,
+simulation components have been included to better
+solve the complex optimization problem. Hydrologic
+flow and salinity balance and tranport are simulated
+endogenously within the optimization model and an
+external crop-water simulation model is used to estimate the crop yield function, with water, salinity and
+irrigation technology as variables.
+
+Both instream and off-stream water uses are considered in the model. Instream uses include flows for
+waste dilution and hydropower generation. Off-stream
+uses include water diversion for agriculture and M&I
+water uses. The valuation of instream and off-stream
+uses is implemented in a unified economic objective
+function, which is constrained by hydrologic, environmental, and institutional relations. Water demand is
+determined endogenously within the model by using
+empirical agronomic production functions (yield versus water, irrigation technology, salinity) and an M&I
+water demand function based on a market inverse demand function. Water supply is determined through
+the hydrologic water balance in the river basin with
+
+36
+
+M. W Rosegrant et al. I Agricultural Economics 24 (2000) 33-46
+
+extension to the irrigated crop fields at each irrigation demand site. Water demand and water supply
+are then integrated into an endogenous system and
+balanced based on the economic objective of maximizing benefits from water use, including irrigation,
+hydropower, and M&I benefits. Both water quantity
+and water quality in terms of salinity are simulated
+in the model. The salt concentration in the return
+flow from irrigated areas is explicitly calculated in
+the model. This allows the endogenous consideration of this externality with respect to upstream and
+downstream irrigation districts. The model includes
+all the essential relationships of these components in
+a !-year time horizon with a monthly time step.
+
+3.2. Model components
+
+A curve-linear relationship is assumed between crop
+yield and seasonally applied non-saline water. Crop
+yield is simulated under given water application, irrigation technology (the Christiensen Uniformity Coefficient or CUC), and irrigation water salinity. Based on
+these simulation results, a regression function of crop
+yield with water application, irrigation uniformity,
+and salinity was derived through the estimation of the
+parameters ao-a2 and bo-bs in Eq. (1). The function,
+with specific parameters that have been estimated for
+all crops in the model, is directly used in the optimization model to calculate crop yields with varying
+water application, salt concentration, and cue.
+The crop yield function is specified as follows:
+Ya
+
+=
+
+Ymax[ao
+
++
+
+G]
+
+(wi/ Emax)
+
++ a2ln(wi/ Emax)]
+
+(1)
+
+where
+Thematically, the modeling framework includes
+three components: (1) hydrologic components, including the water and salt balance in reservoirs, river
+reaches and aquifers within the river basin; (2) water
+use components, including water for irrigation and
+M&I water uses; and (3) economic components, including the calculation of benefits from irrigation,
+hydropower, and M&I demand sites.
+Hydrologic relations and processes are based on the
+flow network, which is an abstracted representation of
+the spatial relationships between the physical entities
+in the basin. The major hydrologic relations/processes
+include: flow transport and balance from river outlets/reservoirs to crop fields or M&I demand sites;
+salt transport and balance from river outlets/reservoirs
+to irrigated crop fields; return flows from irrigated
+and urban areas; interaction between surface and
+groundwater; evapotranspiration in irrigated areas,
+and hydropower generation as well as physical bounds
+on storage, flows, diversions and salt concentrations.
+The mathematical expressions for these relations, as
+well as the calculation of deep percolation, return
+flow from agricultural and M&I demand sites, and
+the interaction between surface and groundwater can
+be found in Rosegrant et al. (1999). It is assumed
+that the water supply starts from rivers and reservoirs.
+Effective rainfall is calculated outside of the model,
+and included into the model as a constant parameter.
+The agronomic relations involved in the simulation
+model are adapted from Dinar and Letey (1996), (see
+also Letey and Dinar, 1986, and Dinar et al., 1991).
+
+= bo + b1u + b2c,
+a2 = b6 + b7u + bsc
+ao
+
+a1
+
+= b3 + b4u + bsc,
+
+and where Ya is the crop yield (metric tons (mt)/ha),
+Ymax the maximum attainable yield (mt/ha), ao, a 1, a2
+are regression coefficients, bo-bs are regression coefficients, Wi is infiltrated water (mm), Emax the maximum evapotranspiration (mm), c the salt concentration
+in water application (dS/m), and u the Christiensen
+Uniformity Coefficient (CUC).
+Uniformity (CUC) is used as a surrogate for both
+irrigation technology and irrigation management activities. The CUC value varies from approximately 50
+for flood irrigation, to 70 for furrow irrigation, 80 for
+sprinklers, and 90 for drip irrigation, and also varies
+with management activities. By including explicit
+representation of technology, the choice of water
+application technology can be determined endogenously. The profit from agricultural demand sites is
+equal to crop revenue minus fixed crop cost, irrigation technology improvement cost, and water supply
+cost. The function for profits from irrigation (VA) at
+demand site dm, is specified as follows:
+VA(dm)
+
+= LA(dm, cp)Ya(dm, cp)p(dm, cp)
+cp
+
+- LA(dm, cp) (fc(dm, cp)
+
++ tc(dm, cp))
+
+cp
+
+- L:w(dm, pd)wp(dm)
+pd
+
+(2)
+
+M.W. Rosegrant et al./Agricultural Economics 24 (2000) 33-46
+
+37
+
+1.0
+
+'C
+
+Gi
+·:;.
+
+0.8
+
+><
+ca
+
+E 0.6
+'C
+
+Gi
+
+~ 0.4~-------~------------------------------------~
+
+~
+0.2 - + - - - . z . . - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 1
+
+0.0
+
++---f-..,----,----,----,----,----,----
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+water application I max. crop evapotranspiration
+Fig. 2. Crop yield function, crop yield (wheat) vs. water application (CUC
+
+in which A is harvested area (ha), cp the crop
+type, p the crop price (US$/mt), fc the fixed crop
+cost (US$/ha), tc = kolO(-k,u) the technology cost
+(US$/ha) (formulation following Dinar and Letey
+(1996) -- higher cue values are associated with
+greater capital cost for irrigation and/or management
+costs), wp the water price (US$/m 3 ), w the water delivered to demand sites (m 3 ), ko the intercept of the
+technology cost function, and k1 cost coefficient per
+unit of u.
+A typical crop yield function for wheat in the Maipo
+river basin is shown in Fig. 2. The function drives the
+seasonal water allocation among crops, but is not able
+to distribute the diverted water among crop growth
+stages according to the water demanded by each stage.
+In order to achieve consistency with the water balance
+in the hydrologic system -- to fill the gap between the
+agronomy and hydrology in the optimization model
+- an empirical yield-evapotranspiration relationship
+given by Doorenbos and Kassam (1979) has been used
+to account for the stage effect. This relationship was
+applied by including a penalty term into the objective
+function, based on the maximum stage yield deficit
+(see below for the specification of the penalty term).
+The penalty drives the water application according to
+the water demands in crop growth stages.
+
+= 70, Salinity = 0.7 dS/m).
+
+The net benefit function for M&I water use is derived from an inverse demand function for water. Net
+benefit is calculated as water use benefit minus water
+supply cost.
+VM(w)=wopo/(1
+
++a) [Cw/wo)a +2a + 1]- wwp
+(3)
+
+where VM is the benefit from M&I water use (US$),
+wo the maximum water withdrawal (m 3 ), po the willingness to pay for additional water at full use (US$),
+a is lie, e the price elasticity of demand (currently
+-0.45).
+The function is based on synthesis of partial secondary data and in its current form only applies
+to surface water. The willingness to pay for water
+at full use is estimated at US$ 0.35 per m3 . The
+per unit value of water for M&I was estimated at
+3.5 times the per unit value of water in agriculture, based on an iterative search process on value
+versus water demand, so that water withdrawal to
+irrigation and to M&I in the base year model solution matches historical values. The small amount of
+local groundwater use (about 12% of annual M&l
+withdrawals or 95 million m3 ) is treated as a fixed
+amount. Fig. 3 shows the relationship between water
+
+38
+
+M. W Rosegrant et al. I Agricultural Economics 24 (2000) 33-46
+450
+
+----..___ .........
+
+400
+350
+
+-
+
+U>
+
+300
+
+I
+
+(J)
+
+:::>
+
+~ 250
+
+I
+
+/
+
+I
+
+:§.
+J!l 200
+
+'"r:'
+Q)
+Q)
+
+..0
+
+150
+100
+50
+0
+
+500
+
+0
+
+1,000
+
+1,500
+
+2,000
+
+2,500
+
+water withdrawals (million m3 )
+
+Fig. 3. Relationship between water withdrawals and M&I benefits.
+
+withdrawals and benefits for the M&I net benefit
+function.
+Benefits from power generation are relatively small
+in the Maipo Basin compared to off-stream water uses.
+The profit from power generation (VP) at a power
+station, pwst, is calculated as
+
+to maximize economic profit from water supply for
+irrigation, M&l water use, and hydroelectric power
+generation, subject to institutional, physical, and other
+constraints. The objective function is specified as
+follows:
+Max Obj =
+
+VP(pwst) = Lpower(pwst, pd)
+pd
+
+x[pprice(pwst)- pcost(pwst)]
+
+VA(dm)
+
++
+
+L
+
+VM(dm)
+
+mun-dem
+
++LVP(pwst) -
+
+wgt penalty
+
+(5)
+
+pwst
+
+(4)
+
+where power is the power production, for each power
+station and period (kWh), which is a function of water flow for runoff stations, and of water release and
+reservoir head for stations with dams, as well as hydropower generating capacity and efficiency; pprice is
+the price of power production for each power station
+(US$/kWh); and pcost is the cost of power production,
+for each power station (US$/kW h).
+The model also includes a series of institutional
+rules, including minimum required water supply to a
+demand site, minimum and maximum crop production, flow requirement through a river reach for environmental and ecological purposes, and maximum
+allowed salinity in the water system. The objective is
+
+L
+irr-dem
+
+where wgt is the weight for the penalty, and penalty
+is defined as
+penalty= LLPm(cp) x cpprice(cp)
+dem cp
+
+x(mdft(dem, cp)- adft(dem, cp))
+
+(6)
+
+where, over all demand sites and crops, pm is maximum crop production (mt), cpprice the crop selling
+price (US$/mt), mdft the maximum stage deficit within
+a crop growth season, and adft the average stage deficit
+within a crop growth season.
+with
+dft = ky
+
+(1 - ~)
+Emax
+
+(7)
+
+M.W Rosegrant eta!./ Agricultural Economics 24 (2000) 33-46
+
+where dft is the stage deficit, ky the yield response
+factor, and Ea the actual evapotranspiration (mm), as
+defined in Doorenbos and Kassam ( 1979).
+
+3.3. Model solution
+The model has been coded in the modeling language
+of the General Algebraic Modeling System (GAMS)
+(Brooke et a!., 1988), a high-level modeling system
+for mathematical programming problems. Since the
+model is highly non-linear and includes a large number of variables and equations, it is solved in two steps.
+In the first step, the salinity variable is fixed. The solution of this model is used for the initial values of
+the variables in the second model with variable salt
+concentration (see Cai, 1999).
+
+4. Results and policy analysis
+The focus of the modeling in this paper is on
+the agriculture sector and to a lesser extent on the
+non-agricultural water sectors.
+
+4.1. Basin-optimizing solution ('baseline')
+Assumptions in the basin-optimizing solution include a water price in M&I demand sites of US$
+0.1 per m 3 and in agricultural demand sites of US$
+0.04 per m 3 . Crop technology is fixed at CUC equal
+
+39
+
+to 70. Moreover, it is assumed that 15% of the inflow is reserved for environmental (instream) uses.
+The source salinity is 0.3 g/1. No water right is set up
+and water withdrawals to demand sites depend on their
+respective demands with the objective of maximizing
+basin benefits.
+The model incorporates 15 crops, but the five main
+crops with regard to harvested (irrigated) area are
+annual forage, corn, grapes, peach and other orchard
+trees, and wheat. Table I presents the production
+for these crops determined by the model for the irrigation demand sites in the basin, compared with
+the actual production data for 1994-1996. As can be
+seen, the basin-optimizing solution estimates a higher
+overall production, compared to the 1994-1996 values. Moreover, the solution favors the crops with
+higher profit per unit of water supplied, such as peach
+and grapes. Table 2 shows the baseline harvested
+area derived from the model and a comparison with
+the actual situation in the basin in the mid-1990s.
+The total harvested area estimated by the model is
+146,007 ha, compared to an area under production in
+1994-1996 of 127, Ill ha. Again, crops that demand
+large amounts of water and/or have lower economic
+values account for relatively less area in the model
+result compared to the actual data. Moreover, water withdrawals in the M&I demand sites reach the
+benefit-maximizing demand level at 1457 million m3 .
+Under the baseline, total effective rainfall is estimated at 116 million m3 . Total water withdrawals are
+
+Table l
+Crop production in the basin, basin-optimizing result and actual dataa
+Crop
+
+Wheat
+(mt)
+
+Corn
+(mt)
+
+Ann. for.
+(mt)
+
+Grape
+(mt)
+
+Peach
+(mt)
+
+Other
+(mt)
+
+Total
+(mt)
+
+Al
+A2
+A3
+A4
+AS
+A6
+A7
+AS
+Basin
+
+31022
+10734
+21827
+744
+41466
+1678
+2656
+13473
+123600
+
+38267
+14319
+48169
+2278
+30419
+3545
+174
+478
+137647
+
+28620
+10721
+22321
+869
+28875
+1941
+3706
+5428
+102482
+
+176022
+72171
+20218
+995
+36397
+14316
+29
+48675
+368822
+
+129252
+50142
+27935
+2814
+51232
+9885
+30
+46631
+317921
+
+532849
+189975
+288623
+12296
+360569
+37544
+7734
+129140
+1558730
+
+936032
+348061
+429093
+19995
+548960
+68908
+14328
+243825
+2609202
+
+Actual prod.
+
+105159
+
+165210
+
+192140
+
+220109
+
+193271
+
+1004935
+
+1880824
+
+a Actual production is average for 1994-1996. As crop diversity in the basin is extremely high, some crops are averages of aggregate
+production of similar crops. Peach, for example, includes almond, apricot, cherry, nectarines, peach, and plum. Source of actual production
+data: Donoso, 1997.
+
+M. W. Rosegrant et aLl Agricultural Economics 24 (2000) 33-46
+
+40
+
+Table 2
+Harvested area, basin-optimizing result"
+Crop
+
+Wheat
+(ha)
+
+Corn
+(ha)
+
+Annual forage
+(ha)
+
+Grape
+(ha)
+
+Peach
+(ha)
+
+Other
+(ha)
+
+Total
+(ha)
+
+AI
+A2
+A3
+A4
+AS
+A6
+A7
+A8
+Basin
+
+5607
+1925
+3899
+135
+7446
+302
+482
+2440
+22235
+
+4196
+1574
+5219
+248
+3344
+384
+19
+53
+15037
+
+2529
+936
+1925
+76
+2521
+170
+325
+481
+8963
+
+9264
+3798
+1064
+52
+1916
+753
+2
+2562
+19412
+
+6463
+2527
+1401
+141
+2574
+494
+2
+2346
+15947
+
+20271
+7035
+12620
+505
+15840
+1367
+397
+6377
+64412
+
+48329
+17795
+26128
+1157
+33642
+3471
+1227
+14258
+146007
+
+Model/actual
+a
+
+1.0
+
+0.8
+
+0.6
+
+1.5
+
+1.5
+
+1.1
+
+1.3
+
+Source of actual harvested area: Donoso, I 997.
+
+estimated at 3817 million m 3 , 86% of the total inflows
+of 4445 million m 3 . Water withdrawals are lowest in
+the months of June and July, as only perennial crops
+are present during this time. An apparent excess
+use of surface water - withdrawals exceed source
+flows - during the months of January-March and
+November-December can be explained with the high
+level of return flows that are being reused during these
+months. Total return flows amount to 872 million m 3
+or 20% of total inflows. Actual crop evapotranspiration is estimated at 954 million m3, 99.7% of the total
+potential crop evapotranspiration of 956 million m 3 .
+This value compares well with the data estimated in
+Donoso (1997) of 972 million m 3 . According to the
+model results, total agricultural water withdrawals
+
+amount to 2360 million m 3 , which again is close to
+the 2107 million m3 estimated in Donoso (1997). The
+difference can be explained, in part, by the different
+irrigation efficiencies. The overall efficiency estimated
+by local experts is about 45%, whereas the efficiency
+according to model results is 40.4%.
+
+4.2. Sensitivity analysis
+Four sensitivity analyses are presented in the following to test the robustness of the model results:
+changes in hydrologic levels, irrigation technology cost, crop price, and source salinity (Table 3).
+According to the sensitivity analyses, M&I water
+withdrawals and benefits barely change with the
+
+Table 3
+Sensitivity analysis, various parameters"
+Parameter levels
+
+liTigation withdrawal
+
+M&I withdrawal
+
+Irrigation profits
+
+M&I benefits
+
+(%)
+
+(%)
+
+(%)
+
+(%)
+
+(%)
+
+Inflow
+
+50
+ISO
+
+58.3
+101.2
+
+86.7
+100.0
+
+63.1
+100.1
+
+90.5
+100.0
+
+Technology cost
+
+75
+125
+ISO
+
+100.0
+100.0
+100.0
+
+100.0
+100.0
+100.0
+
+102.5
+97.5
+95.1
+
+100.0
+100.0
+100.0
+
+Crop price
+
+75
+125
+
+94.8
+101.6
+
+100.0
+100.0
+
+39.8
+161.0
+
+100.0
+100.0
+
+Salinity in source
+
+50
+ISO
+200
+
+95.5
+101.6
+105.1
+
+100.0
+100.0
+100.0
+
+102.8
+96.4
+86.4
+
+100.0
+100.0
+100.0
+
+a
+
+Sensitivity analyses, except for the inflow scenarios, were carried out based on normal flow. All percentages are relative to the baseline.
+
+41
+
+M. W Rosegrant eta!. I Agricultural Economics 24 (2000) 33--46
+Table 4
+Sensitivity analysis for irrigation water price at 50% of normal inflow
+Scenarios
+Irrigation water price
+Irrigation withdrawals (million m3 )
+Crop area (irrigated) (ha)
+M&I water withdrawal (million m3 )
+Irrigation profits (million US$)
+M&I profits (million US$)
+Total profits (million US$)
+(US$/m 3 )
+
+0
+1387
+115200
+1258
+224
+550
+774
+
+changing range of technology cost, crop price, and
+source salinity under conditions of normal flow. This is
+because, at normal inflows, the M&I demand sites can
+withdraw up to their benefit-maximizing level within
+the varying range of those parameters. However, M&I
+withdrawals and benefits do vary in the dry-year case
+(see Table 4).
+With a reduction of normal inflows by half, water withdrawals and benefits for both agricultural and
+M&I demand sites decline sharply. Agricultural profits decrease by 37% and M&I benefits decline by 9%
+compared to normal inflows. Moreover, water withdrawals plunge by 42% for irrigation and by 13% in
+M&I demand sites. Thus, in the case of drought, the
+agriculture sector is much more affected. Agricultural
+water withdrawals are not sensitive to the cost of irrigation technology and profits from irrigation vary
+only slightly with changes in technology cost. Proportional changes over all crop prices in the range of
+±25% have only small effects on irrigation water withdrawals. However, farmer incomes from irrigation are
+significantly affected. With a reduction of crop prices
+by 25%, irrigation water withdrawals decline by 5%,
+whereas profits from irrigation drop by 60%.
+A doubling of the source salinity leads to an increase in irrigation water withdrawals for salt leaching
+by 5%. Increased salt leaching reduces profits from
+irrigation by 14%. Moreover, changes in the salinity
+level influence crop patterns, with a decline in the harvested area of crops with lower salt tolerance. With
+doubled source salinity, the area planted to maize declines from 10 to 8% of total area planted whereas the
+area planted with wheat - a more salt tolerant crop
+- increases from 15 to 18%.
+Table 4 shows the effects of changes in the water price for agriculture on water withdrawals and
+
+II
+
+III
+
+IV
+
+0.02
+1380
+115191
+1263
+196
+552
+748
+
+0.04
+1351
+115176
+1283
+165
+558
+722
+
+0.08
+1326
+115032
+1303
+130
+570
+700
+
+incomes in the irrigation and M&I sectors for a
+drought-year case (50% of normal inflows). With an
+increase in the water price for irrigation from zero to
+US$ 0.08 per m 3 , water withdrawals for agriculture
+decline by 5%, from 1387 to 1326 million m3 . However, changes in the water price barely affect the crop
+area. Irrigated area is maintained because farmers
+shift on the margin to more water efficient crops and
+reduce water use per hectare. Although both water
+withdrawals and irrigated crop area barely change
+with varying water prices, farmer incomes can drop
+drastically under this 'administrative price scenario':
+by 42% from US$ 224 million to US$ 130 million
+with increasing prices. M&l benefits, on the other
+hand, increase steadily with continuing water price
+increases in agriculture, from US$ 550 million to US$
+570 million and M&I water withdrawals increase by
+3.6%. With water prices already quite high (higher
+than what most farmers in the United States pay),
+further price increases are a blunt instrument for influencing water demand. Under these circumstances,
+water markets that allow farmers to retain the income
+from sales of water may be preferable.
+
+4.3. Economic analysis of water trading
+There are two fundamental strategies for dealing
+with water scarcity in river basins, supply management and demand management; the former involves
+activities to locate, develop, and exploit new sources
+of water, and the latter addresses the incentives and
+mechanisms that promote water conservation and
+efficient use of water.
+The primary alternative to quantity-based allocation
+of water is incentive-based allocation, either through
+volumetric water prices or through markets in tradable
+
+42
+
+M. W Rosegrant et al. I Agricultural Economics 24 (2000) 33-46
+
+water rights. The empirical evidence shows that farmers are price responsive in their use of irrigation water
+(Rosegrant et al., 1995; Gardner, 1983). The choice
+between administered prices and markets should be
+largely a function of which system has the lowest
+administrative and transaction costs (TC). Markets in
+tradable water rights can reduce information costs; increase farmer acceptance and participation; empower
+water users; and provide security and incentives for
+investment and for internalizing the external costs of
+water uses. Market allocation can provide flexibility
+in response to water demands, permitting the selling
+and purchasing of water across sectors, across districts, and across time by opening opportunities for
+exchange where they are needed. The outcomes of the
+exchange process reflect the water scarcity condition
+in the area with water flowing to the uses where its
+marginal value is highest (Rosegrant and Binswanger,
+1994; Rosegrant, 1997). Markets also provide the
+foundation for water leasing and option contracts,
+which can quickly mitigate acute, short-term urban
+water shortages while maintaining the agricultural
+production base (Michelsen and Young, 1993). Establishment of markets in tradable property rights does
+not imply free markets in water. Rather, the system
+would be one of managed trade, with institutions in
+place to protect against third-party effects and potential negative environmental effects that are not
+eliminated by the change in incentives. Tradable water rights could lead to massive transfers of water to
+urban and industrial centers. Therefore, farmers need
+to be protected by adequate institutions and organizations. The Chilean Water Law of 1981 established the
+basic characteristics of property rights over water as
+a proportional share over a variable flow or quantity.
+Changes in the allocation of water within and between sectors are realized through markets in tradable
+water rights (for details, see Gazmuri Schleyer and
+Rosegrant, 1996; Hearne and Easter, 1995).
+The integrated economic-hydrologic river basin
+model allows for a fairly realistic representation and
+analysis of water markets. Water trading in the basin
+is constrained by the hydrologic balance in the river
+basin network; water is traded taking account of the
+physical and technical constraints of the various demand sites, reflecting their relative profitability in
+trading prices; water trades reflect the relative seasonal water scarcity in the basin that is influenced
+
+by both basin inflows and the cropping pattern in
+agricultural demand sites (whereas the M&I water
+demands are more stable); and negative externalities,
+like increased salinity in downstream reaches due to
+incremental irrigation water withdrawals upstream,
+are endogenous to the model framework.
+
+4.3.1. Model formulation for water trading
+To extend the model to water trading analysis, in
+a first step, a shadow price - water withdrawal relationship is determined for each demand site. For
+this, the model is run separately for each demand site
+with varying water withdrawals as inputs and shadow
+prices or marginal values as output derived from the
+water balance equations (each irrigation demand site
+includes a water balance equation for each of up to 15
+crops). These shadow prices are then averaged over all
+crops to obtain one shadow price for each water supply level for each demand site. Based on these input
+and output values a regression function is estimated
+for the shadow price- water withdrawal relationship
+for each demand site. Fig. 4 shows the model results
+and the regression relationship between shadow price
+and water withdrawals for an agricultural demand site.
+Water rights are allocated proportionally to total inflows based on historical withdrawals for M&I areas
+and on the harvested (irrigated) area for agricultural
+demand sites. Thus, with reduced inflows, the realized
+volumes of the water rights change without changes in
+the rights structure. The water right refers to surface
+water only. To determine the lower bound for profits
+from water trade by demand site (it is assumed that
+no demand site can lose from trading), the model is
+solved for the case of water rights without trading.
+Finally, the regression relationships of shadow price
+0.6
+- 0.5
+"E
+
+~
+2.
+
+0.4
+
+8
+
+0.3
+
+~
+
+0.2
+
+'§.
+~
+
+U)
+
+\
+
+y = o.u465e· ·
+R 2 = 0.9641
+
+\l
+\\
+
+~
+
+~
+
+0.1
+
+~
+
+0.0
+200
+
+400
+
+GOO
+
+BOO
+
+1,000
+
+water withdrawals {million m3 )
+
+Fig. 4. Relationship between shadow prices and water withdrawals
+(demand site AS).
+
+M. W Rosegrant et al. I Agricultural Economics 24 (2000) 33-46
+
+versus water withdrawal for all agricultural and M&I
+demand sites, the water rights, and other water trading related constraints (see Rosegrant et a!., 1999) are
+added to the basin model. It is assumed that the trading price for each demand site is equal to its shadow
+price for water. This model is then solved to determine
+the water trading price, wtp, and the volume of water
+bought and sold by demand site.
+Trade is allowed on a monthly basis and throughout the basin and TC are incurred by both buyer and
+seller (US$ 0.04 per m 3 ). Up to 4 months of the realized monthly water right can be traded as the monthly
+balances had been found as too tight of a constraint
+on water supply for crop growth.
+
+43
+
+decision-maker optimizing benefits for the entire
+basin (BO); water rights with no trading permitted
+(WR), and water rights with trading (WRT). The
+salinity variable is fixed for all three water trading
+scenarios. The results compare two cases for each of
+these three scenarios: hydrologic level at 100% of
+the normal inflow and at 60% of the normal inflow
+(Table 5). In addition, three TC scenarios are analyzed
+based on normal inflow (Table 6). The description of
+results will concentrate on the drought-year scenario
+(case B, 60% of normal inflow), as the benefits vary
+more clearly by economic instrument employed.
+In the case of a drought year, total water withdrawals
+are highest for the basin optimizing case (BO), as each
+and every demand site can withdraw according to its
+monthly needs subject to an optimum result for the
+basin as a whole. These needs are thus only confined
+by physical parameters, such as relative location in
+
+4.3.2. Water trading analysis
+Three scenarios are compared to assess the impact of water trading: a baseline with omniscient
+
+Table 5
+Scenario analysis: basin-optimizing solution, water rights without trade, and water rights trading
+Site
+
+Withdrawals
+BO
+WR
+(million m3 )
+
+WRT"
+
+Water right
+
+Net trade
+
+Net profits
+
+WR&WRT
+
+WRT
+
+BO
+WR
+(million US$)
+
+WRT
+
+120
+46
+47
+2
+65
+9
+2
+37
+417
+193
+939
+
+117
+45
+49
+2
+67
+8
+2
+31
+293
+135
+749
+
+118
+45
+52
+3
+
+95
+40
+41
+1
+56
+8
+
+89
+36
+41
+I
+55
+7
+
+27
+413
+192
+874
+
+23
+102
+34
+389
+
+Case A: 100% of normal inflow
+AI
+610
+617
+696
+A2
+266
+243
+234
+A3
+371
+391
+349
+A4
+16
+15
+14
+AS
+506
+502
+444
+A6
+54
+46
+45
+A7
+15
+17
+14
+A8
+206
+154
+153
+Ml
+991
+678
+841
+M2
+460
+315
+404
+Total
+3581
+2977
+3108
+
+867
+341
+547
+21
+704
+64
+25
+216
+678
+315
+3778
+
+-163
+-90
+0
+
+Case B: 60% of normal inflow
+AI
+514
+479
+432
+A2
+222
+188
+166
+A3
+305
+279
+303
+A4
+7
+II
+10
+AS
+395
+391
+350
+A6
+43
+34
+33
+A7
+II
+II
+II
+120
+A8
+142
+102
+Ml
+974
+518
+713
+240
+M2
+453
+342
+Total
+3067
+2296
+2437
+
+522
+205
+329
+13
+423
+38
+15
+130
+408
+189
+2272
+
+47
+90
+23
+2
+112
+2
+2
+18
+-195
+-101
+0
+
+a
+
+These withdrawals are net of water traded.
+are gains from trade.
+
+b Gains
+
+13
+8
+70
+3
+147
+I
+
+10
+
+71
+
+8
+2
+31
+353
+166
+850
+99
+52
+43
+2
+70
+7
+2
+25
+266
+129
+696
+
+'Gains'b
+
+Shadow price of water
+
+WRT
+
+BO
+WR
+(US$/m 3 )
+
+WRT
+
+0.044
+0.044
+0.046
+0.045
+0.051
+0.045
+0.072
+0.044
+0.019
+0.019
+
+0.128
+0.111
+0.075
+0.083
+0.091
+0.134
+0.040
+0.189
+0.975
+1.014
+
+0.132
+0.123
+0.119
+0.111
+0.138
+0.147
+0.099
+0.177
+0.415
+0.383
+
+0.097
+0.102
+0.078
+0.096
+0.110
+0.077
+0.127
+0.098
+0.056
+0.056
+
+0.134
+0.230
+0.168
+0.100
+0.111
+0.225
+0.059
+0.259
+1.439
+1.720
+
+0.232
+0.221
+0.194
+0.195
+0.192
+0.224
+0.146
+0.259
+0.789
+0.735
+
+2
+0
+5
+0
+1
+0
+60
+32
+101
+10
+17
+3
+16
+I
+
+2
+164
+94
+307
+
+44
+
+M. W Rosegrant et al. I Agricultural Economics 24 (2000) 33-46
+
+Table 6
+Transaction cost scenarios (case A)
+Transaction
+costs (US$/m3 )
+
+Withdrawals
+(million m 3 )
+
+Water traded
+(million m3 )
+
+Total net benefits
+(million US$)
+
+'Gains' from trade
+(million US$)
+
+Shadow price
+(US$/m 3 )
+
+0.00
+0.04
+0.10
+0.20
+
+3119
+3108
+3075
+3051
+
+278
+264
+236
+138
+
+871
+850
+822
+755
+
+122
+101
+73
+6
+
+0.1808
+0.1844
+0.4127
+1.2680
+
+the basin and institutional requirements. Water withdrawals decline substantially in the WR case, relative
+to BO, when withdrawals are limited to the respective
+water right and trading is not allowed. Agricultural
+withdrawals are often actually below the actual water
+right, because dry-season flows are inadequate to fulfill all crop water requirements. Another reason is that,
+in about half of the months, only perennial crops are
+grown, and thus withdrawals are far below the allotted
+flow.
+When water can be traded, irrigation withdrawals
+actually decline further, albeit not very much. Irrigation withdrawals decline because the irrigation
+districts sell part of their water right to the M&I demand sites, thereby reaping substantial profits. In the
+dry-year case, a total water volume of 296 million m 3
+is traded, about 11% of total dry-year inflows. In the
+case of normal inflows, 264 million m3 of water is
+traded, about 6% of total inflow. M&I areas are the
+main buyers in both cases, purchasing virtually all the
+water offered by the irrigation districts. All irrigation
+districts are net sellers of water over the course of
+the year. Under the drought-year case, only district
+AS purchases 0.2 million m 3 of water to maintain its
+cropping pattern that features the largest share of
+higher-valued, perennial crops (grapes, peach, among
+others, see Table 2). In the case of normal inflows, on
+the other hand, the marginal value of water is much
+lower, and two agricultural demand sites, A6 and AS,
+purchase water (0.2 million m 3 and 1O.S million m 3 ,
+respectively) to supplement their crop production in
+some months; however, overall both districts are net
+sellers of water.
+As the WR system does not allow the transfer of
+water to more beneficial uses, benefits from water
+uses are significantly reduced by locking the resource
+into relatively low valued uses during shortages. As
+
+a result, total net benefits are less than one-half of
+the optimizing solution (US$ 3S9 million compared
+with US$ S74 million). By permitting trading, water moves from less productive agricultural uses into
+higher-valued urban water uses while at the same
+time benefiting farm incomes. Total benefits in the
+M&I demand sites almost triple, compared to the WR
+case, but gains are also significant for the irrigation
+districts and each district can increase net profits, by
+between 6 and 62%, depending on their respective
+physical and other characteristics. Total net profits of
+the sector increase by about 20%, from US$ 253 million to US$ 301 million. In irrigation districts Al-AS
+and A7, total net profits under the WRT scenario are
+even higher than for the basin-optimizing case. This
+is due to the higher value of the scarcer water and
+the resulting benefits from trade and does not occur
+in case A with normal inflow levels.
+Moreover, net profits from crop production decline
+only slightly with trading: from US$ 253 million to
+US$ 244 million. Total crop production also barely
+declines, from l.S66 million mt to 1.729 million mt.
+In addition, the proportion of higher-value perennial crops increases substantially from the WR to
+the WRT scenarios, from 14 to 19% for grapes and
+from 13 to 16% for peach, for example. These results
+not only show the advantages of the water market
+approach compared to the WR case, but also to the
+administrative price scenario presented in the sensitivity analysis, in which water is also reallocated from
+agricultural to non-agricultural uses, but at a punitive
+cost to agricultural incomes.
+In the shift from fixed proportional water rights to
+trade, total benefits to the basin increase from 45% of
+the omniscient decision-maker (BO scenario) to SO%.
+However, total benefits under water trading are actually even closer to the pure optimum than shown here,
+
+M. W Rosegrant et a/. I Agricultural Economics 24 (2000) 33-46
+
+because no monitoring/transaction costs are charged
+for the omniscient decision-maker when in fact the
+cost would likely be very high.
+For the water trading scenario, it is currently assumed that both buyer and seller contribute equally to
+TC (US$ 0.04perm3 ). Three TC scenarios were run
+in addition to this base trading scenario: zero TC, US$
+0.1 per m3 , and US$ 0.2 per m3 . The results are shown
+in Table 6. As can be expected, water withdrawals
+decline with increasing TC, and the volume of water
+traded plunges by more than half, from 278 million m3
+for the case without TC to 138 million m3 for the
+case with TC of US$ 0.2 per m3 . This is due, in part,
+to the fact that the TC are quite high relative to the
+shadow prices for water, which range from US$ 0.18
+to 1.27 per m3 . Total net benefits decline substantially,
+from US$ 871 million at zero TC to US$ 755 million
+at TC of US$ 0.2 per m3 ; gains from trade also drop
+sharply, from US$ 122 million to only US$ 6 million,
+respectively. Thus, making trading more efficient (reducing TC) has significant benefits, increasing both
+the volume and the benefits from trade.
+
+45
+
+Although these preliminary results show the effectiveness of the model for policy analysis and water
+allocation in the river basin, additional research is
+needed. During a second research phase, the agricultural production functions will be extended to include
+inputs in addition to land, water, and irrigation technology, such as agricultural chemicals and labor. In
+addition, the urban water demand functions will be
+re-estimated based on empirical data and disaggregated into household and industrial water demands.
+Moreover, the power generation will be calibrated
+to local parameters. Based on this extension, more
+comprehensive policy analysis will be carried out.
+Existing institutions regarding water rights, priority
+allocations, and additional institutional realities will
+be better represented based on local data. Finally, direct cooperation will be established with the relevant
+government authorities and water user associations in
+the basin, with the goal of institutionalizing the model
+as a decision support system for basin water policy.
+
+Acknowledgements
+5. Conclusions
+This paper presents a prototype river basin model
+that includes essential hydrologic, agronomic and
+economic relationships, and reflects the interrelationships of water and salinity, food production,
+economic welfare, and environmental consequences.
+The model is applied to the Maipo river basin in
+Chile, but due to its generic form and structure can
+be applied to other basins.
+The model results show the benefits of water rights
+trading with water moving into higher valued agricultural (and M&l) uses. Net profits in irrigated agriculture increase substantially compared to the case of
+proportional use rights for demand sites. Moreover,
+agricultural production does not decline significantly.
+Net benefits for irrigation districts can be even higher
+than for the basin-optimizing case, as farmers reap
+substantial benefits from selling their unused water
+rights to M&l areas during the months with little or
+no crop production. Finally, making trading more efficient, that is, reducing transaction costs, has significant benefits, increasing both the amount of trading
+and the benefits from trade.
+
+Senior authorship is shared. Generous support has
+been received from the Inter-American Development
+Bank, the USAID-CGIAR University Partnership
+Funds, and the System-Wide Initiative on Water
+Management (SWIM) of the International Water
+Management Institute.
+
+References
+Anton, D.J., 1993. Thirsty cities: urban environments and water
+supply in Latin America. International Development Research
+Centre, Ottawa, Ontario.
+Bolelli, M.J., 1997. EMOS y su relaci6n con Ia cuenca: Demanda
+de recursos hidricos y manejo de aguas servidas. In: Anguita,
+P., Floto, E. (Eds.), Gesti6n del recurso hidrico, Proceedings
+of the International Workshop organized by the DGA and the
+Direcci6n de Riego of the Ministerio de Obras Publicas and
+the FAO, 2-5 December 1996, Santiago de Chile.
+Brooke, A., Kendrick, D., Meeraus, A., 1988. GAMS: A User's
+Guide. Scientific Press, San Francisco, California.
+Cai, X., 1999. A modeling framework for sustainable water
+resources management, Ph.D. Dissertation, The University of
+Texas, Austin.
+Court Moock, L., Baeza Sommers, H., Gomez Diaz, R., 1979.
+Intensification of water use from the Maipo river, Chile. In:
+
+46
+
+M. W Rosegrant et al. I Agricultural Economics 24 (2000) 33-46
+
+UN/ECLAC (Ed.), Water management and environment in Latin
+America. Pergamon Press, New York.
+Dinar, A., Letey, J., 1996. Modeling economic management and
+policy issues of water in irrigated agriculture. Praeger, Westport,
+Connecticut.
+Dinar, A., Hatchett, S.A., Loehman, E.T., 1991. Modeling regional
+i1rigation decisions and drainage pollution control. Natural
+Resour. Model. 5, 191-211.
+Donoso, G., 1997. Data collection to operationalize a prototype
+river basin model of water allocation: Maipo-Mapocho basin.
+Mimeo.
+Doorenbos, J., Kassam, A.H., 1979. Yield response to water. FAO
+Irrigation and Drainage Paper No. 33. FAO, Rome.
+Gardner, B.D., 1983. Water pricing and rent seeking in California
+agriculture. In: Anderson, T.L. (Ed.), Water Rights, Scarce
+Resource Allocation, Bureaucracy, and the Environment.
+Ballinger, Cambridge, MA.
+Gazmuri Schleyer, R., Rosegrant, M.W., 1996. Chilean water
+policy: the role of water rights, institutions and markets. Int. J.
+Water Resour. Develop. 12, 33-48.
+Hearne, R.R., 1998. Institutional and organizational arrangements
+for water markets in Chile. In: Easter, K.W., Rosegrant, M.W.,
+Dinar, A. (Eds.), Markets for Water: Potential and Performance.
+Kluwer Academic Publishers, Boston.
+Hearne, R.R., Easter, K.W., 1995. Water allocation and water
+markets: an analysis of gains-from-trade in Chile. World Bank
+Technical Paper No. 315, Washington, DC, World Bank.
+
+Letey, J., Dinar, A., 1986. Simulated crop-water production
+functions for several crops when irrigated with saline waters.
+Hilgardia 54, 1-32.
+McKinney, D.C., Cai, X., 1997. Multiobjective water
+resources allocation model for the Naryn-Syrdarya Cascade.
+Technical Report. US Agency for International Development,
+Environmental Policies and Technology (EPT) Project, Almaty,
+Kazakstan.
+Michelsen, A.M., Young, R:A., 1993. Optioning agricultural water
+rights for urban water supplies during drought. Am. J. Agri.
+Econ. 75, 1010-1020.
+Randall, A., 1981. Property entitlements and pricing policies for
+a maturing water economy. Austr. J. Agri. Econ. 25, 192220.
+Rosegrant, M.W., eta!. 1999. Report for the IDB on the integrated
+economic-hydrologic water modeling at the basin scale: the
+Maipo river basin in Chile. IFPRI, Washington DC.
+Rosegrant, M.W., 1997. Water resources in the twenty-first century:
+challenges and implications for action. Food, Agriculture, and
+the Environment Discussion Paper No. 20. IFPRI, Washington,
+DC.
+Rosegrant, M.W., Gazmuri Schleyer, R., Yadav, S., 1995. Water
+policy for efficient agricultural diversification: market-based
+approaches. Food Policy 18, 203-223.
+Rosegrant, M.W., Binswanger, H.P., 1994. Markets .in tradable
+water rights: potential for efficiency gains in developing country
+water resource allocation. World Develop. 22, 1613-1625.
+
+

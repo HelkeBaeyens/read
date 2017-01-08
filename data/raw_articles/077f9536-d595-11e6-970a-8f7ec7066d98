@@ -1,0 +1,837 @@
+AGRICULTURAL
+ECONOMICS
+
+ELSEVIER
+
+Agricultural Economics 16 (1997) 47-53
+
+Relative efficiency of women as farm managers: Profit function
+analysis in Cote d'Ivoire
+Akinwumi A. Adesina
+a
+b
+
+a,*,
+
+Kouakou K. Djato
+
+b
+
+International Institute (<f'Tropical Agriculture, B.P. 2008, Yaounde. Cameroon
+Centre lvoirien de Recherches Economiques et Sociales, Abidjan, Cote d' lvoire
+Accepted 17 September 1996
+
+Abstract
+The efficiency of women fanners in the agricultural sector of developing countries is passionately debated. Very few studies have
+examined this issue in African agriculture. All previous studies were based on production functions, but have been criticised as suffering
+from simultaneous equation bias because the input levels are endogenous. The profit function method avoids these problems. No previous
+study has used the profit function method to test for technical, allocative and economic efficiency differences between women and men
+farmers. The objective of this paper was to determine whether women rice farmers are less efficient than men rice farmers in Cote d 'Jvoire
+using the restricted normalised profit function method. Our results show that the relative degree of efficiency of women is similar to that of
+men. The paper provides empirical support for efforts to eliminate bias against women fanners in African agriculture.
+
+1. Introduction
+
+The importance of women farmers in the agriculture of developing countries is widely recognised
+(Boserup, 1970; Gladwin, 1991; Le1e, 1991). Women
+provide a significant share of the labour (both family
+and hired) for farm activities (Dixon, 1982), and are
+important as primary producers of food crops (Dey,
+1984; Dozon, 1985; FAO, 1985; Savane, 1985;
+Weekes-Vagliani, 1985). Studies have shown that
+women also play major roles in farm-level decisionmaking, either as farm managers managing their own
+fields (Moock, 1976) or as 'effective decisionmakers' even in households in which the household
+
+' Corresponding author. Formerly at West Africa Rice Development Association, B.P. 25551, Cote d'lvoire.
+
+head is a male, either because of their specific skills
+or when the husbands are absent for longer periods
+because they are employed in urban areas (Quisumbing, 1994).
+Despite their importance, women farmers face
+daunting constraints to their productivity, arising
+from limited access to extension, to capital markets,
+and to new technologies (Birkhaeuser et al., 1991;
+Bindlish and Evenson, 1993; Dey, 1984; Quisumbing, 1994; FAO, 1985). An argument often used
+against female farmers is that they are less efficient
+than male farmers (FAO, 1985). Efficiency has three
+components: technical, allocative and economic.
+Technical efficiency can be defined as the ability to
+achieve a higher level of output, given a similar level
+of production inputs. Allocative efficiency has to do
+with the extent to which farmers make efficient
+decisions by using inputs up to the level at which
+their marginal contribution to production value is
+
+0169-5150/97 j$17.00 Copyright © 1997 Elsevier Science B.V. All rights reserved.
+PI/ SO 169-5150(96)0 1212-1
+
+48
+
+A.A. Adesina, K.K. Djato / A~;ricultural Economics /6 ( 1997) 47-53
+
+equal to the factor cost. Economic efficiency combines technical and allocative efficiency. It is possible for a firm to have either technical or allocative
+efficiency without having economic efficiency.
+Technical and allocative efficiency are necessary,
+and when they occur together, are sufficient conditions for achieving economic efficiency (Yotopoulos
+and Nuggent, 1976).
+Whether men are more efficient than women in
+farm production is passionately debated. Only few
+studies have examined this issue in Africa (Moock,
+1976, Kenya; Saito et al., 1992, Kenya and Nigeria;
+Bindlish and Evenson, 1993, Kenya; Bindlish et al.,
+1993, Burkina Faso; Udry et al., 1995, Burkina
+Faso), often with variable results. Using CobbDouglas production functions with dummy variables
+to represent the gender of either the field owner
+(Moock, 1976; Saito et al., 1992) or the head of the
+household (Saito et al., 1992; Bindlish and Evenson,
+1993; Bindlish et al., 1993), these studies found that
+the coefficient of the gender dummy variable was
+insignificant in Kenya (Moock, 1976; Saito et al.,
+1992; Bindlish and Evenson, 1993) and Burkina
+Faso (Bindlish et al., 1993). Results for Nigeria were
+mixed, with the gender variable not significant when
+data for total farm output at the household level were
+used but were significantly higher for men when the
+total value of production at the plot level was used
+(Saito et al., 1992). Udry et al. (1995) examined
+gender-based productivity differences in Burkina
+Faso and found that output per hectare was lower on
+plots controlled by women. However, such differences in productivity cannot be taken as indicative of
+production inefficiency. When corrections were made
+for the differences in input type and quality, the
+authors noted that "The gender yield differential,
+apparently, is caused by the difference in the intensity with which measured inputs of labour, manure
+and fertiliser are applied on plots controlled by men
+and women rather than by differences in the efficiency with which these inputs are used" (p. 416). In
+production function estimates for all crops, sorghum
+and vegetables (a crop in which women specialised),
+Udry et al. (1995) found that except in the case of
+sorghum, the coefficient on the gender variable was
+not significant.
+Criticisms of these studies have pointed out that
+the reliance on production function methods to test
+
+for allocative and economic efficiency suffers from
+problems of simultaneity bias because input levels
+are endogenously determined (Quisumbing, 1994).
+In a comprehensive review of state-of-the-art studies
+on gender and farm efficiency, Quisumbing ( 1994)
+noted that such ''problems of endogeneity can be
+avoided by estimating profit or cost functions instead
+of production functions" (p. 8). Although applications of profit function analysis are extensive in the
+efficiency literature (Yotopoulos and Lau, 1973; Lau,
+1976; Khan and Maki, 1979; Saleem, 1988; Duraisamy, 1990), studies have not used this approach
+to examine efficiency differences between men and
+women farmers ( Quisumbing, 1994). This partly reflects the lack of appropriate gender-disaggregated
+field data. Given that rice in West Africa is often
+referred to as a 'woman's crop' -because of the
+importance of women as primary producers and decision-makers on the rice fields (Dey, 1984; Carney,
+1988)-it offers itself as an interesting crop with
+which to examine this question. The objective of the
+paper was to determine, using the restricted normalised profit function method (Yotopoulos and Lau,
+1973; Lau, 1976), whether female rice farmers are
+less efficient than male rice farmers in Cote d 'Ivoire.
+
+2. Data
+The gender-disaggregated data used for the analysis were collected in 1993-1994 from a random
+sample of 347 men and 63 women rice farmers in
+three districts of northern Cote d'Ivoire. The data
+covered fertiliser applications, labour use (family and
+hired), access to extension and credit, farm size,
+paddy prices, wages, fertiliser prices, capital assets
+and the farmers' education level (Table 1). We found
+no significant difference in the access of women to
+extension services; 98% of the men have access to
+extension compared with 91% of the women farmers. Significant differences were found in access to
+education and credit, however. Only 2% of the female farmers are educated (i.e. have ever attended
+school) compared with 21% of the male farmers.
+Women are also at a disadvantage in their access to
+credit services. Eighty-six percent of men farmers
+have access to credit compared with only 59% of the
+women. Women also appear to receive less for their
+
+49
+
+A.A. Adesina. K.K. Djaro j Agricultural Economics 16 ( 1997) 47-53
+
+Table I
+Average characteristics of female and male rice farmers in the
+sample, collected from three districts of northern Cote d'lvoire in
+
+1993
+
+Age (years)
+Years of experience in rice farming
+Contact with extension(% of farmers)
+Access to credit(% of fam1ers)
+Access to education (% of fam1ers)
+Cultivated rice area (ha)
+No. of person-days worked
+on owner's field
+Wage rate (CFA day- 1 )
+NPK use per farm (kg)
+NPK (kg ha- 1 )
+Urea use per farm (kg)
+Urea (kg ha- 1 )
+Price of NPK (CFA kg- 1 )
+Price of urea (CFA kg- 1 )
+Value of of paddy (CFA kg- 1 )
+
+Men
+
+Women
+
+(N ~ 347)
+
+(N
+
+41
+IS
+
+98
+86
+21
+2.3
+94
+
+~
+
+63)
+
+45
+
+3. Empirical model and hypotheses
+
+II
+
+91
+59
+2
+1.1
+109
+
+540
+334
+148
+117
+70
+
+555
+!59
+126
+67
+
+Ill
+
+100
+104
+62
+
+108
+71
+
+are not appropriate measures of relative farm efficiency. The profit function provides a better measure
+of relative efficiency differences.
+
+73
+
+output than men: the average price received for
+paddy by men was 71 CFA kg- 1 , compared with a
+mean farm-gate price of 62 CFA kg- 1 for women.
+We did not observe any differences in quality or
+grade of output between men and women farmers.
+The higher prices obtained by men may reflect the
+fact that men are better organised into farmer cooperatives than women, differences in the timing of
+sales or the type of market outlets used.
+No significant differences were seen in the use of
+chemical fertiliser. Men applied 148 kg NPK ha- 1
+compared with 126 kg ha- 1 for women, whereas the
+application of urea was 70 kg ha- 1 for the men and
+73 kg ha- 1 for women. Average expenditure on the
+use of other inputs (i.e. insecticides and herbicides)
+was similar for both men and women farmers; women
+spent an average of 15 600 CFA ha- 1 on these
+inputs compared with II 200 CFA ha- 1 for men.
+Women in the sample also have access to the use of
+mechanised equipments (i.e. oxen or tractors) mainly
+through an equipment rental market that is active in
+the region of study. Average yields obtained by
+female farmers was 1.5 kg ha -I compared with 2.0
+kg ha- 1 for the male farmers. However, mean values, by masking the substantial inter-farm variability
+in yields, resource endowments, and factor-use proportions across fields of female and male farmers,
+
+Using the output price as the numeraire, the normalised restricted profit function ( 7T * (q,Z)) can be
+written in a generalised form as
+7T' (
+
+q,Z) =
+
+F[ X 1'' ( q,Z) ... ,X
+
+11'
+
+(
+
+q,Z)]
+
+m
+
+- L
+j~
+
+qjX/ ( q,Z)
+
+( I)
+
+I
+
+where qj represents the normalised factor prices, F
+is a well behaved production function, X is the
+vector of variable inputs and Z is the vector of fixed
+inputs used in the production process. Starting with
+any well specified normalised restricted profit function, direct application of Hottelings-Shephard' s
+Lemmas to the function yields the corresponding
+factor demand and output supply equations
+
+o7r'(q,Z)joqj= -X/
+
+j= I, ... ,m
+
+(2)
+
+Multiplying both sides by qj/ 7T '' gives a series
+of m factor share equations
+
+[a7T''(q,Z)/oqj]
+
+= -X/q/7T* =a/
+
+j= 1, ... ,m
+
+(3)
+
+Eqs. (I) and (3) form the theoretical basis for the
+specifications of the empirical models. Following
+previous studies (Lau and Y otopoulos, 1971; Khan
+and Maki, 1979; Saleem, 1988; Duraisamy, 1990),
+the specification of the systems of equations of the
+normalised restricted profit function and the factor
+share equations is given as
+2
+
+ln7T/=InA'+o;;rDm+ L:e/ lnwi
+i~
+
+2
+
+I
+
+3
+
++L:f3/lnZi+LdtRi+1Jfi
+
+(4)
+
+where 7T * is the normalised profit in FCFA (FCFA
+520 = US$1 ), defined as revenue less variable costs
+
+50
+
+A.A. Adesina, K.K. Djaro /Agricultural Economics 16 (1997) 47-53
+
+Table 2
+Estimated simultaneous regressions (SUR) of systems of normalised restricted profit function and factor share equations for male and female
+rice farmers, Cote d'lvoire, 1993
+
+Normalised profit function
+Wage rate (Bt)
+
+Fertiliser price (8 2' )
+Capital ( {3 1' )
+
+Sex of farmer (or:; ) (I = male, 0 = female)
+Constant
+
+Factor share equations
+Labour
+Factor share parameter for men
+
+(a~
+
+m)
+
+Factor share parameter for women (a~ f)
+Fertiliser
+Factor share parameter for men (a[: m)
+Factor share parameter for women (a; f)
+
+Modell
+unrestricted
+
+Model II
+2 restrictions
+
+Model III
+4 restrictions
+
+-0.455
+(- 1.65) "
+-2.016
+(-3.92) ' '
+0.123
+(2.31) '"
+0.682
+(8.52) ' '
+0.173
+(1.32)
+7.263
+(8.96) ' "
+
+-0.454
+( 1.65) '
+-2.019
+( -3.93) ' '
+0.123
+(2.31) " '
+0.682
+(8.52) ' '
+0.142
+( 1.46)
+7.292
+(9.02) ' "
+
+-1.386
+( -7.83)
+-0.880
+(- 8.67)
+0.136
+(2.67) ' '
+0.655
+(8.30) ' '
+0.159
+( 1.54)
+8.739
+(11.19) ' '
+
+-2.593
+( -7.14)
+-2.017
+(- 2.36)
+
+-2.504
+(-7.49)
+-2.504
+(-7.49) :;: *
+
+-1.386
+(-7.83) "
+-1.386
+( -7.83) ""
+
+-1.262
+(- 8.63)
+-1.262
+(- 8.63)
+
+-0.880
+(- 8.67)
+-0.880
+(- 8.67)
+
+¥
+
+:;.
+
+-"i<
+
+*
+
+"'\<
+
+-1.220
+(7.67) * *
+- 1.496
+(- 4.01) * *
+
+¥
+
+*
+
+*
+
+*
+
+:;.
+
+:;.
+
+"
+
+* *
+
+Values in parentheses are the respective t-values of the associated parameters.
+' Significant at 5-l 0%; ' ' significant at I%.
+
+normalised by the price of paddy ( p ); A* is the
+intercept; X 1 is the number of person-days of labour
+used including family and hired labour; w 1 is the
+wage rate normalised by the price of paddy; w 2 is
+the price of fertiliser normalised by the price of
+paddy; X2 is the quantity of fertiliser used; Z 1 is the
+capital input and is the sum of costs of seeds,
+insecticides, herbicides, animal and mechanical
+power; Z2 is the land input, which is the net area
+sown area to rice in hectares; Dm is a dummy
+variable taking on the value of unity for male farmers; Dr is a dummy variable, taking on the value of
+unity for female farmers. R; are dummy variables
+corresponding to the survey districts. 1 It is assumed
+
+1 Pooling of data across regions to enhance price variability in
+data sets has precedence in several of the studies on profit
+function applications (Lau and Yotopoulos, 1971; Tamin, 1979;
+Lau et al., 1979).
+
+that the errors of the system of equations are additive
+with zero mean and finite variance. For the same
+farm, the co-variance of the error terms in these
+equations are nonzero, while the co-variance of error
+terms of any of the equations for different farms are
+assumed to be zero. Following previous studies,
+Zellners' seemingly unrelated regression method
+(SUR) was used to estimate the system of equations
+in order to obtain asymptotically efficient parameter
+estimates.
+The results of the estimated equations are presented in Table 2. The coefficients all have the
+expected theoretical signs and nine of the ten variables are significant at between the 5% and 1%
+levels. As is theoretically consistent, the coefficients
+of the prices for fertiliser and labour are negatively
+signed as expected. Capital and land are highly
+significant in the profit function.
+The hypotheses tested and their results are shown
+in Table 3. All tests are evaluated at the 5% level of
+
+A.A. Adesina, K.K. Djaro /Agricultural Economics 16 ( 1997) 47-53
+Table 3
+Statistical tests of hypotheses on relative efficiency differences
+between women and men rice fam1ers, Cote d'lvoire, 1993
+Hypotheses
+Maintained
+Hypothesis I
+
+Computed
+
+Critical
+
+x'
+
+x·'
+
+?-value
+
+Tested
+
+s,; = o
+
+1.76
+
+3.84
+
+0.18
+
+4.03
+
+5.99
+
+0.13
+
+6.17
+
+7.81
+
+0.10
+
+5.99
+
+O.OOIE-02
+
+4.9
+
+5.99
+
+0.0845
+
+9.1
+
+3.84
+
+0.0023
+
+Hypothesis 2
+O<ffi
+
+aL
+
+~ m
+
+ap
+
+Hypothesis 3
+
+=
+=
+
+,,
+
+aL
+
+f
+
+*f
+
+ap
+
+s,; = o
+a~m
+
+= 8,'
+aim= 82'
+Hypothesis 4
+a~m = 8,'
+aim= 8z'
+
+23
+
+Hypothesis 5
+a~f = 8,'
+aif=8z'
+
+Hypothesis 6
+aL* m
+
+= aL* f
+*
+m
+ap
+= ap* f
+
+f3 I'
+
++ {32' = I
+
+a~m=8l"'
+
+a;
+
+m
+
+=
+
+82~
+
+significance. Hypothesis one (HI) states that the
+economic efficiency (technical and price or allocative efficiency) of men and women farmers are
+equal. This hypothesis cannot be rejected. The second hypothesis (H2) states that the relative price or
+allocative efficiency of men and women farmers is
+equal, i.e. they equate the value of marginal product
+of labour to wage rate and the value of marginal
+product of fertiliser to fertiliser price to the same
+degree. Although the hypothesis being tested is the
+equality of the elasticities of the variable inputs of
+men and women in the factor share equations, the
+test is better conceptualised as (a/ m - ei * ) = (a/ f
+- 8/ ), for i = I ,2. This hypothesis cannot be rejected. Hypothesis three (H3) states that there is
+equal relative technical and price efficiency jointly
+between men and women farmers. This hypothesis
+cannot be rejected. This is not surprising given the
+test results of HI and H2. Hypothesis four (H4)
+states that men farmers have absolute allocative or
+price efficiency, i.e. they maximise profits by equating the value of each factor's marginal product to the
+
+51
+
+respective factor price. This hypothesis is rejected.
+Hypothesis five (H5) states that women farmers have
+absolute allocative efficiency. This hypothesis cannot
+be rejected for the female sample. Hypothesis six
+(H6) states that there are constant returns to scale
+under the maintained hypothesis of absolute price
+efficiency for men and women farmers (and thus of
+equal relative price efficiency). This hypothesis is
+rejected. There is evidence of decreasing returns to
+scale for the underlying technology on the farms of
+both men and women farmers.
+To determine the effects of individual production
+factors on paddy output for the sample farmers, we
+used identities that link the self-dual profit function
+with the primal production function (Sidhu, I 97 4;
+Yotopoulos et a!., 1976; Duraisamy, 1990). It has
+been shown (Yotopoulos and Lau, 1973) that the
+indirect production elasticities for the variable inputs
+can be derived from the self-dual profit function
+used above, as a 1 = -a/ (I - /.L * )- 1 , where a/
+corresponds to the estimated parameters of the factor
+prices of these variables in the dual profit function,
+and /.L * = ~ a/ . The elasticities of the fixed factors
+are computed as {31 = - f3/ (1 - /.L' )- 1 , where {31 is
+the indirect elasticity of production with respect to
+the fixed factor. These indirect production elasticity
+estimates have been shown to have statistical consistency (Sidhu, I 974). Using the pooled sample of
+farmers (male and female) we estimated these indirect production elasticities. Our estimates (Table 4)
+show that the elasticity of paddy output is highest
+with respect to labour (0.42), followed by fertilisers
+(0.27), land (0.20), and capital (0.04). An increase of
+labour use by I 0% will increase paddy output by
+4.2%. Similarly, a 10% increase in fertiliser, land,
+and capital is expected to lead to 2.7%, 2.0% and
+
+Table 4
+Relative productivity effects of production factors used by rice
+farmers (men and women) in Cote d'lvoire, 1993. Indirect production elasticity estimates derived from the dual profit function
+Production factor
+
+Indirect elasticity estimate
+
+Labour
+Fertiliser
+Land
+Capital
+
+0.42
+0.27
+0.20
+0.04
+
+52
+
+A.A. Adesina, K.K. Djato /Agricultural Economics 16 ( 1997) 47-53
+
+0.4% increases in paddy output. The highly inelastic
+response to land and capital may reflect the presence
+of other technological and infrastructural constraints
+that limit rice productivity. These results also show
+that labour is the most limiting factor in rice production, suggesting that the technologies that enhance
+the productivity of labour are likely to achieve significant positive effects on rice production.
+
+Acknowledgements
+Funding provided by the African Development
+Bank (AfDB) and the West Africa Rice Development Association (WARDA) for the field work on
+which this paper is based is gratefully acknowledged.
+The critical and helpful comments and suggestions
+provided on an earlier version of the paper by Peter
+J. Matlon and A. Adams are gratefully acknowledged.
+
+4. Conclusions
+This paper presents the results of an empirical
+application of the profit function method to test for
+efficiency differences between men and women
+farmers in African agriculture. Such an application
+was called for in a recent comprehensive review of
+the literature on gender and farm efficiency
+(Quisumbing, 1994). In particular, the results suggest
+that generalisations on efficiency or otherwise of
+men and women farmers should be avoided as this
+would be erroneous at best: efficiency is often dependent on the location and context of the agricultural systems. We found that the relative degree of
+economic efficiency of women rice farmers is similar to that of men rice farmers in Cote d'lvoire.
+Results show that women farmers have absolute
+allocative efficiency in the use of the inputs at their
+disposal, although this did not translate into having
+higher economic efficiency due possibly to lack of
+better technical options. Also, evidence from the
+field survey show that men farmers are able to get
+higher prices for their rice than women, a situation
+that may reflect the better organisation of men farmers into cooperatives.
+One major reason for the neglect of women in
+rice development projects in West Africa is the
+erroneous, yet pervasive, assumption that female
+farmers are less efficient than male farmers. Thus,
+even in regions of West Africa where women are the
+traditional rice growers, and rice is considered as a
+woman's crop, rice development projects choose to
+focus on men and not women (Dey, 1981, 1984).
+Results from this paper suggest that there is no
+economic rationale for biasing rice development
+strategies towards male farmers in Cote d'Ivoire, as
+female farmers, when they have access to similar
+inputs, have equal levels of economic efficiency.
+
+References
+Bindlish, V. and Evenson, R., 1993. Evaluation of the performance of T&V Extension in Kenya. World Bank Tech. Pap.
+208, Africa Technical Department Series, The World Bank,
+Washington, DC.
+Bindlish, V., Evenson, R. and Gbetibuou, M., 1993. Evaluation of
+the T&V-based extension in Burkina Paso. World Bank Tech.
+Pap. 226, Africa Technical Department Series, The World
+Bank, Washington, DC.
+Birkhaeuser, D., Evenson, R.E. and Feder, G., 1991. The economic impact of agricultural extension: A review. Econ. Dev.
+Cult. Change, 39(3): 607-650.
+Boserup, E., 1970. Womens' Role in Economic Development. St.
+Martin's Press, New York.
+Carney, J.A., 1988. Struggles over crop rights and labour with
+contract farming households in a Gambian irrigated rice project.J. Peasant Stud., 15(3): 334-349.
+Dey, J., 1981. Gambian Women: unequal partners in rice development projects: J. Dev. Stud., 17 (3): 109-122.
+Dey, J., 1984. Women in rice farming systems. Focus: Sub-Saharan
+Africa. FAO, Rome.
+Dixon, R.B., 1982. Women in agriculture: counting the labour
+force in developing countries. Pop. Dev. Rev., 8(3): 539-565.
+Dozon, J-P., 1985. La societe bete. Cote d'lvoire.
+ORSTOM/KARTHALA, Paris.
+Duraisamy, P., 1990. Technical and allocative efficiency of education in agricultural production: a profit function approach.
+Indian Econ. Rev., 25(1): 17-31.
+FAO, 1985. Women in developing agriculture. Food and Agriculture Organization of the United Nations, Rome.
+Gladwin, C.H. (Editor), 1991. Structural Adjustment and African
+Women Farmers. University of Florida Press, Gainsville, FL.
+Khan, M.H. and Maki, D.R., 1979. Effects of farm size on
+economic efficiency: The case of Pakistan. Am. 1. Agric.
+Econ., 61(1): 64-69.
+Lau, L.J., 1976. A characterization of the normalized restricted
+profit function.J. Econ. Theory, 12: 131-163.
+Lau, L.J. and Yotopoulos, P.A., 1971. A test for relative efficiency and application to Indian agriculture. Am. Econ. Rev.,
+61: 94-109.
+Lau, L.J., Lin, W. and Yotopoulos, P.A., 1979. Efficiency and
+
+A.A. Adesina, K.K. Djato /Agricultural Economics 16 ( 1997) 47-53
+
+technological change in Taiwan's agriculture. Food Res. lnst.
+Stud., 17: 23-50.
+Lele, U., 1991. Women, structural adjustment, and transformation:
+Some lessons and questions from the African experience. In:
+C.H. Gladwin (Editor), Structural Adjustment and African
+Women Farmers. University of Florida Press, Gainsville, FL,
+pp. 46-80.
+Moock, P., 1976. The efficiency of women as farm managers:
+Kenya. Am. J. Agric. Econ., 58(5): 831-835.
+Quisumbing, A.R., 1994. Gender differences in agricultural productivity: A survey of empirical evidence. ESP Discuss. Pap.
+Ser. No. 36, Education and Social Policy Department, The
+World Bank, Washington DC.
+Saito, K. et al., 1992. Raising the productivity of women farmers
+in Sub-Saharan Africa. Vol. I (Overview Report), Women in
+Development Division, Population and Human Resources Department, World Bank, Washington, DC.
+Saleem, S.T., 1988. Relative efficiency of cotton farms in Sudanese irrigated agriculture. World Dev., 16(8): 975-984.
+Savane, M-A., 1985. Femmes, production et crise alimentaire en
+Afrique au sud du Sahara: les origines de Ia faible productivite
+des femmes. Femmes at politiques alimentaires. Actes du
+Seminaire intemationale, ORSTOM-CIE, 14-18 Jan. 1985,
+Paris, pp. 280-290.
+
+53
+
+Sidhu, S.S., 1974. Relative efficiency of wheat production in
+Indian Punjab. Am. Econ. Rev., 64(4): 742-751.
+Tamin, M., 1979. Micro-economic analysis of production behavior of Malaysian farms: Lessons from Muda. Food Res. Inst.
+Stud., 52(4): 485-493.
+Udry, C., Hoddinott, J., Alderman, H. and Haddad, L., 1995.
+Gender differences in farm productivity: implications for
+household efficiency and agricultural policy. Food Policy, 20
+(5): 407-423.
+Weekes-Vagliani, 1985. Towards an analytical framework:
+women, food self-sufficiency and food strategies. In: Femmes
+at politiques alimentaires. Actes du Seminaire intemationale,
+ORSTOM-CIE, 14-18 Jan. 1985, Paris, pp. 317-324.
+Yotopoulos, P.A. and Lau, L.J., 1973. Test for relative economic
+efficiency: some further results. Am. Econ. Rev., 63(1): 214223.
+Yotopoulos, P.A. and Nuggent, J.B., 1976. Economics of Development. Empirical Investigations. Harper and Row, New York.
+Yotopoulos, P.A., Lau, L.J. and Lin, Wuu-Long, 1976. Microeconomic output supply and factor demand functions in the
+agriculture of the province of Taiwan. Am. J. Agric. Econ.,
+58(2): 333-340.
+
+

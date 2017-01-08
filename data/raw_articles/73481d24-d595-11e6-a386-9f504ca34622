@@ -1,0 +1,1377 @@
+AGRICULTURAL
+
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 27 (2002) 233-245
+www.elsevier.com/locate/agecon
+
+Adding value to spatially managed inputs by understanding
+site-specific yield response
+DavidS. Bullock a,*, Jess Lowenberg-DeBoerb, Scott M. Swintonc
+Department of Agricultural and Consumer Economics, University of Illinois, 326 Mumford Hall,
+1301 W Gregory Drive, Urbana, IL 61801, USA
+b Department of Agricultural Economics, Purdue University, West Lafayette, IN 47907-1145, USA
+Department of Agricultural Economics, Michigan State University, East Lansing, MI 48824-1039, USA
+a
+
+c
+
+Abstract
+Many mechanized crop producers and agribusinesses are fascinated with precision agriculture technology, but adoption
+has lagged behind the expectations. Among the reasons for slow adoption of precision agriculture technology is that initial
+users focused excessively on in-field benefits from variable-rate fertilizer application using regional average fertilizer recommendations. This article illustrates how greater use of site-specific crop response information can improve variable rate input
+application recommendations.
+Precision agriculture is spatial information technology applied to agriculture. The technologies include global position
+systems (GPS), geographic information systems (GIS), yield monitoring sensors, and computer controlled within-field variable
+rate application (VRA) equipment. Experimentation with these technologies is occurring everywhere there is large scale
+mechanized agriculture. Commercial use has been greatest in the US, where 43% of farm retailers offered VRA services in
+2001. Except for certain high-value crops like sugar beet, farmer adoption ofVRA has been modest. The farm level profitability
+of VRA continues to be questionable for bulk commodity crops.
+The theoretical model and illustration presented here suggest that VRA fertilization has not yet reached its profitability
+potential. Most VRA field trials to date have relied upon existing state-wide or regional input rate recommendations. Unobserved soil characteristics can potentially interact with an input to make its effect on yield vary site-specifically within fields.
+Failure to use site-specific response functions for VRA applications may lead to a misallocation of inputs just as great as that
+which results from using uniform applications instead of VRA.
+Agricultural economists have a long history of estimating output response to input applications. Several have started to
+develop tools to estimate site-specific responses from yield monitor and other precision agriculture data. Likewise, agricultural
+economists have developed an important body of research results on information value based on managing variabilitytypically in temporal settings. With these tools, a major potential exists to develop further benefits from precision agriculture
+technologies that permit truly spatially tailored input applications.
+© 2002 Elsevier Science B.V. All rights reserved.
+JEL classification: Q12; Q16
+Keywords: Precision agriculture; Site-specific; Response analysis; Variable rate; Fertilizer
+
+* Corresponding author. Tel.: + 1-217-333-5510; fax:
+E-mail address: dsbulloc@uiuc.edu (D.S. Bullock).
+
++ I-217-333-5538.
+
+OI69-5150/02/$- see front matter © 2002 Elsevier Science B.V. All rights reserved.
+PII: SO I 69-5 I 50(02)00078-6
+
+234
+
+D.S. Bullock et al. I Agricultural Economics 27 (2002) 233-245
+
+1. Introduction
+
+2. Background and hypothesis
+
+Global positioning systems (GPS) and sensors are
+turning the data-poor agricultural production sector
+into a data-rich environment. Farmers have always
+known that crop yields vary spatially. But until the
+early 1990s the technology of commercial farm
+equipment did not permit much in the way of spatial management, and gathering data on spatial variability of yields or farm land characteristics for the
+purpose of fine-tuning management was too expensive. Because of this expense, generation of detailed
+crop production data was limited to small plot trials, mainly on experiment stations. One-size-fits-all
+extension recommendations based on these small
+plots were extrapolated over large areas. But in the
+1990s, the civilian use of GPS and availability of low
+cost computers made spatially-related management
+technologically feasible, and created an explosion of
+agricultural data with locational attributes.
+It will be argued in this paper that the way in which
+crop input application recommendations are developed has not caught up with the technological progress
+that has made spatial management technologically
+feasible. Thus, at this point in time there remains a
+disconnection between the regional-scale recommendations for input management put out by extension
+services, and the detailed spatial data that are now inexpensively recoverable with the newest technologies.
+This disconnection raises important questions about
+whether more spatially tailored input recommendations could add value for crop producers. The purpose
+of this article is to raise these questions explicitly,
+and to begin to address them. In particular, this paper
+aims: (1) to summarize economic research on variable rate input use, including diagnosis of adoption
+constraints; (2) to restate the crop production economics problem in spatial terms; and (3) to illustrate
+how incorporating site characteristics into variable
+rate application (VRA) fertilization recommendations
+can make variable rate farming more' profitable and
+spatial field data more valuable. Accomplishing these
+objectives leads to the conclusion that the way in
+which agronomists and agricultural economists recommend input application rates to farmers should
+change radically to make better use of spatial input
+management technology in both production and data
+collection.
+
+Use of GPS, geographical information systems
+(GIS), electronic sensors and other spatial information technology in farming is often labeled "precision
+agriculture." Though the technology has wide implications for marketing, risk management, logistics and
+other whole farm information system issues (Swinton
+and Lowenberg-DeBoer, 1998), its initial use has been
+on intrafield management of crop inputs by varying
+application rates within fields. Experimentation with
+precision agriculture technology is occurring throughout the world wherever farming is mechanized. The
+technology is being used commercially in the US,
+Canada, Argentina, Brazil, South Africa and in most
+western European countries (Norton and Swinton,
+2002; Swinton and Lowenberg-DeBoer, 2001). (A
+fuller description of precision agriculture technology
+and potential uses can be found in Lowenberg-DeBoer
+and Erickson (2000) and Morgan and Ess (1997).)
+The crop GIS has many layers. From an economic
+perspective, the yield layer is the integrator of all the
+factors that influence crop growth, but many factors
+and their interactions influence that yield. Much of the
+early interest in spatial crop growth variability came
+from soil scientists. The soils layers include soil test
+results on macro- and micronutrients, organic matter level and soil physical characteristics. One of the
+first observations from yield maps was that production seemed closely linked to water availability and
+movement. This triggered an interest in topography,
+micro-climates and drainage layers. Since the 1970s,
+there have been attempts to use remote sensing images in crop production. Including aerial and satellite
+images in a crop GIS potentially provides low cost
+information on crop growth and plant population.
+Spatial management of seasonal inputs is made
+possible by VRA controllers. These controllers can
+modify rate of input flow or switch input source (e.g.
+between seed or fertilizer types) in response to computer signals as farm equipment moves through a
+field. VRA equipment makes it possible to implement site-specific input control in response to GIS
+records of input needs and GPS location data. This
+site-specific control of inputs has two possible benefits. First, it allows farmers to tailor their input
+application rates to the varying yield response characteristics in different parts of a field. Second, it allows
+
+D.S. Bullock et al.! Agricultural Economics 27 (2002) 233-245
+
+for inexpensive gathering of site-specific data, which
+can provide the farmer desiring to farm using VRA
+with valuable information.
+In Section 3, a literature review is presented to argue that economic performance of VRA in general has
+been poor. A variety of economic and technical reasons are presented to explain why most VRA has been
+implemented with an estimate of input needs based on
+whole field information. This observation leads to the
+key hypothesis, illustrated in Section 5 using the theoretical framework developed in Section 4, which is
+that the poor economic performance of VRA has come
+about chiefly because information on the spatial variability of crop response has not been used sufficiently
+in developing input recommendations (Swinton and
+Lowenberg-DeBoer, 1998).
+
+3. Economic research on adoption of VRA
+In 2001, about 46% of all farm retailers m the
+US offered some type of intensive soil sampling services, most commonly on a 1 ha (2.5 acre) grid basis (Whipker and Akridge, 2001). About one-third of
+US retailers offered some type of computer-controlled
+fertilizer VRA in the 2001 crop season. In the Midwest, almost 43% of retailers offered VRA in 2001.
+Computer-controlled VRA services in the US were
+introduced in the late 1980s, and grew rapidly in the
+1990s, but sales have been flat since 1999.
+For some higher value specialty crops, like sugar
+beets, usage of variable rate nutrient spreading is quite
+high. Grower surveys indicate that in 1996 about 25%
+of the beet acres in the Red River Valley of North
+Dakota and Minnesota were grid soil sampled and had
+nitrogen applied at a variable rate. In 1999, variable
+rate nitrogen was used on about 40% of the sugar beet
+acreage in the two states (Franzen, 2000).
+For bulk commodities (e.g. corn, soybeans and
+wheat), the rate of intensive soil sampling and variable rate application has been substantially lower than
+dealer service offerings would indicate. Khanna et al.
+(1999) showed that about 14% of farmers in Illinois,
+Iowa, Indiana and Wisconsin used some GPS soil
+sampling in 1997 and about 12% some variable rate
+fertilizer in 1997. USDA data from 1998 show that
+nation-wide in the US, about 2% of all farms were
+using grid soil sampling or VRA (Daberkow and
+
+235
+
+McBride, 2000), but adoption was higher for grain
+and oilseed producers. The 1998 USDA data shows
+that 7% of grain and oilseed producers used grid soil
+sampling and 6% used VRA. A 1999 Ohio survey
+showed that about 8% of farmers had done some GPS
+soil sampling and about 7% some VRA of fertilizer
+or lime (Batte, 2001).
+Many US producers of bulk commodities (corn,
+soybeans and wheat) are fascinated by the idea of
+site-specific management of soil fertility. It is an intuitively appealing concept, but has been plagued by
+continued questions about the profitability of the practice. The response of many growers has been to enroll part of their acreage in one of the site-specific
+soil management programs offered by fertilizer retailers. For many farmers this is a low cost way to learn
+about precision farming without long-term investment
+in equipment.
+In western Europe, Latin America and Australia
+there is experimentation with VRA, but relatively little commercial use (Norton and Swinton, 2002). In
+Latin America and Australia the high cost of soil sampling limits the intensive soil sampling that is currently the basis of VRA decisions. In western Europe
+VRA seems to be driven mainly by environmental concern and regulation. In a 1997 mail survey of 90 crop
+farmers in Great Britain, Fountas (1998) found that
+7% used VRA and 12% used spatially referenced soil
+sampling and mapping.
+Use of variable rate planting and variable rate pesticide application is more scattered than is use of variable rate fertilizer application. Khanna et al. (1999)
+found that in 1997 about 2.1% of farmers in Illinois,
+Iowa, Wisconsin and Indiana practiced variable rate
+pesticide application, and about 1% did variable rate
+seeding. Daberkow and McBride (2000) show that
+about 1.7% of US producers used variable rate pesticide application in 1998, and the use of variable rate
+seeding was less than 1% of farmers.
+3.1. VRA profitability in field trials
+The data cited above indicate that while for some
+higher value crops, VRA seems to have been adopted
+on a systematic and wide scale, for the great majority
+of crops, VRA adoption rates remain quite low. An
+obvious candidate to explain low adoption rates is the
+possibility that profit rates from VRA are low. Most
+
+236
+
+D.S. Bullock et al./ Agricultural Economics 27 (2002) 233-245
+
+economic studies of precision agriculture technology
+have focused on VRA of fertilizer because that was
+the first technology to be commercialized and it was
+also the one on which the most data was available
+for economic analysis. The published results on profitability of VR nutrient applications can be difficult
+to interpret, due to differences in experimental design
+and assumptions about included costs. Lambert and
+Lowenberg-DeBoer (2000) reviewed 108 studies of
+precision agricultural profitability. Some 63% report
+profits, but many of those omit important costs, make
+unrealistic yield advantage estimates, or use simulation methods that may underestimate non-treatment
+effects. Partial budgets on VR fertilizer application are
+driven by three elements: (1) increased cost of soil
+sampling information and VRA; (2) change in cost of
+fertilizer applied; and (3) change in revenue due to
+crop yield. The added information cost is central, yet
+it is omitted from some studies.
+Swinton and Lowenberg-DeBoer (1998) examined
+profitability results from nine university field research
+studies of VRA fertilization (Table 1). They applied
+standard minimum cost assumptions to all studies
+where selected cost items had been omitted. They
+found that the value of crop yield gains was especially important. High-value crops that responded to
+VRA of fertilizer tended to do so more profitably than
+low-value crops, because the yield gains were worth
+more. VRA of fertilizer on wheat and barley was
+nowhere profitable, the results for corn were mixed,
+and VRA fertilizer on sugar beet was profitable. By
+contrast, cost savings from reduced fertilizer application were much less important. The fertilizer inputs
+being managed are fairly low cost and only one study
+managed more than two of them. Given that soil
+testing is fairly costly, most of the crops are of fairly
+low value, and macronutrient fertilizers are relatively
+cheap, the cost of over-fertilizing is fairly low.
+3.2. VRA profitability in simulation studies
+There is a similar group of studies using crop growth
+simulation to evaluate site-specific soil nutrient management. Lowenberg-DeBoer and Swinton (1997)
+review the simulation studies through 1997. Simulation studies that have appeared after 1997 include:
+Thirkawala et al. (1999), Babcock and Pautsch
+(1998) and English et al. (1999). Like field studies,
+
+the simulation studies give mixed profitability results
+for VRA fertilization, but they are more likely to show
+VRA profitability because they do not always include
+other yield limiting factors. For example, intensive soil
+sampling may show areas of low phosphorus in a field.
+Simulation may suggest a yield increase with VRA of
+phosphorus. The reality may be that these are areas in
+which water holding capacity is the most limiting factor and increasing phosphorous has little yield benefit.
+3.3. Other VRA input technologies
+Scattered studies have dealt with the economics of
+VRA of inputs other than fertilizer. In on-farm experiments Barnhisel et al. (1996) showed that variable
+rate plant populations can be profitable in the Kentucky karst landscape, which are characterized by wide
+variation in yield potential. Lowenberg-DeBoer (1998)
+showed when management zones are determined by
+yield potential, variable rate seeding for corn is profitable only when some parts of the field have potentials
+below 6.3 Mg/ha. Bullock et al. (1998) analyzed small
+plot data from 1987 to 1996 and found that there may
+be small yield gains when plant population is varied
+by soil type, but the cost of determining optimal plant
+population by soil type probably exceeds the benefit
+in most cases. Bongiovanni and Lowenberg-DeBoer
+(2000a) used a simulation model to analyze the profit
+potential of VRA of lime in Indiana. They found that
+VRA of lime was profitable under a wide range of
+circumstances, largely due to the fact that the optimal
+pH range is relatively narrow and there are negative
+effects of over-liming (e.g. micronutrient tie up, increased damage from certain soil applied herbicides).
+3.4. Integrated VRA systems
+In principle, precision management of multiple inputs can provide greater profitability than managing
+each input separately for two reasons. First, interactions between inputs can be fine-tuned. Second, data
+collection, analysis and implementation steps can be
+combined for some inputs. The interaction of the right
+corn hybrid at the best population for that hybrid with
+the profit maximizing nitrogen rate for that hybrid
+and population, can yield better and may be more
+profitable than if each input were optimized separately. One example of combining steps occurs in soil
+
+Table 1
+Profitability conclusions from nine university field research studies"
+
+~
+!'>
+
+Study
+
+Crop
+
+Inputs
+
+Grid cell (ha)
+
+Percentage of site-years
+where precision profitable
+
+Treatment of annual sampling and VRA costs
+(plus adjustments made to original data)
+
+Anonymous (1996)
+Carr et al. (1991)
+
+Sugar beet
+Wheat, barley
+
+N
+N, P, K
+
+100% (2 of 2)
+20% (1 of 5)
+
+Sampling and VRA cost of US$ 54.34/ha included
+Sampling and VRA cost of US$ 9.88/ha added
+
+Fiez et al., 1994
+
+Wheat
+
+N
+
+Lowenberg-DeBoer and
+Aghib (1999)
+Schnitkey et al. (1996)
+Snyder et al. (1996)
+
+Corn
+
+P, K
+
+1.11
+Soil map unit
+(1.21 ha assumed)
+Plot trials
+(1.21 ha assumed)
+1.21
+
+Corn, soybean
+Corn (irrelevant)
+
+P, K
+N
+
+1.01
+0.30
+
+Wibawa et al. (1993)
+Wollenhaupt and Buchholz
+(1993)
+Wollenhaupt and Walkowski
+(1994)
+
+Wheat, barley
+Corn (Missouri
+data only)
+Corn
+
+N, p
+P, K
+
+Soil map unit
+(1.21 ha assumed)
+1.01
+
+P, K
+
+0.85
+
+Sampling and VRA cost of US$ 9.88/ha added
+42%
+50%
+83%
+50%
+
+(5 of 12) for grids,
+(6 of 12) for soil type
+(15 of 18)
+(2 of 4)
+
+0% (0 of 2)
+
+Sampling, VRA and data management cost
+of US$ 24.33/ha included
+Sampling and VRA cost of US$ 9.88/ha included
+Sampling, VRA and data management cost
+of US$ 42. 76/ha included
+VRA cost of US$ 7.41/ha substitutes for US$ 2.47/ha
+
+~
+
+~
+
+*
+~
+
+I'>
+,.....
+
+';t..
+OQ
+
+~·
+
+.,
+
+~
+
+~
+~
+0
+;::;
+0
+
+;,
+
+;:;·
+
+'"'
+
+N
+
+'l
+
+50% (1 of 2)
+
+Sampling and VRA cost of US$ 8.15/ha included
+
+100% (5 of 5) grid points,
+0% (0 of 2) cell average
+
+VRA cost of US$ 7.41/ha substitutes for US$ 3.56/ha
+
+w
+8
+
+~
+N
+<...,
+<...,
+
+I
+-!>.
+
+N
+
+Source: Swinton and Lowenberg-DeBoer (1998).
+a The studies compared whole-field average with VRA, with fertilizer rate determined on or prior to date of application (minimum grid cell areas of 1.24 ha).
+
+v,
+
+N
+
+w
+
+-..)
+
+238
+
+D.S. Bullock et al./Agricultural Economics 27 (2002) 233-245
+
+sampling. The labor required to do grid soil sampling
+is the same whether that sample is tested for only
+pH, or also tested for phosphorus, potassium, cation
+exchange capacity (CEC), and other characteristics.
+VRA costs will be lower if soil sampling costs can be
+spread over multiple inputs.
+There are no truly integrated precision farming systems, but evidence from the Sauder farm trials (Finck,
+1998) provides support for the idea that systems that
+manage multiple inputs are more profitable. These
+trials integrated variable rate management of nitrogen, phosphorus and potassium with planting rate on
+a 526 ha farm producing a balanced corn-soybean rotation in central Illinois. (The experimentation "cost"
+was treated as a sunk cost at the time when the Sauder
+VRT trials where conducted.) Over 3 years the average benefit from the GPS-based management for both
+corn and soybeans was US$ 34.35/ha. The experimental design did not allow researchers to identify
+which parts of the system contributed most to the
+benefit, but it was clear that a 0.9 Mg/ha increase in
+average corn yields played an important role. This is
+one of the only studies that have shown a statistically
+significant impact of site-specific management on
+yields.
+In addition to being more integrated, the Sauder
+farm trials differed from virtually all other precision
+farming research in that the producer had conducted
+on-farm research to determine optimal nitrogen rates
+and corn plant populations on his soils and his management before starting VRA. A key hypothesis is
+that the impressive agronomic and economic performance in the Sauder trials is linked in part to use of
+site-specific response information, instead of relying
+on regional recommendations.
+
+4. A model of spatial profit optimization
+Unlike the Sauder farm, contemporary VRA fertilization in the US usually works from recommendations that are based on regional average crop growth.
+Given the ability to gather spatial agronomic data and
+apply inputs spatially with VRA, the challenge is to
+decide how much of each input to apply in order to
+meet the objective of maximizing the decision maker's
+satisfaction, which we will proxy here with the profit
+function n(· ). To make explicit the issues at hand,
+
+a theoretical model of spatial profit optimization is
+presented.
+For a crop producer it is assumed that nO is increasing in crop yield and that crop yield./(-) can be
+described as a function of managed variable inputs (x ),
+unmanageable stochastic inputs (z-notably weather),
+and unmanageable but non-stochastic site characteristics (c). The site characteristics argument distinguishes
+this spatially manageable yield function (Bullock
+et al., 1998; Bullock and Bullock, 2000) from those
+previously used to develop input recommendations
+(Heady and Dillon, 1961; Dillon and Anderson, 1990).
+Agronomic research has tended to find that plant
+nutrients increase crop yield up to some maximum
+level beyond which they may plateau or decline.
+Where pests are present, this pattern is also true of
+damage-control inputs like pesticides. So it is reasonable to expectj(x, z, c) to be locally concave at economic levels of x, though it may have an increasing
+marginal product and be locally convex at low levels of x. Second, the arguments of the yield function
+typically interact (e.g. fertilizer, soil characteristics
+and rainfall), so the yield function is non-separable in
+these traits, especially x and c.
+Using a variant of the classic profit maximization problem adapted to spatial management by
+Lowenberg-DeBoer and Boehlje (1997) and Bullock
+and Bullock (2000), the basic spatial management
+optimization problem can be written as:
+n
+
+max
+;r
+Xi,j
+
+m
+
+= ~~
+~ ~ ~y- · l,j
+l
+
+such that Yi,J
+
+wx· · - g - v - F
+l,j
+
+'
+
+J
+
+=
+
+f(xi,J, ci,J, z)
+
+(1)
+
+where p is output price, w is a vector of input prices, y
+is yield, xis a vector of managed inputs, c is a vector of
+site characteristics, and z is a vector of uncontrollable
+factors that are variable by site. The last three terms in
+the objective function are costs: g are quasi-fixed costs
+for data collection and management, v are quasi-fixed
+costs for VRA technology, and F are other fixed costs.
+Subscripts i and j index variables to rectangular cells
+in a Cartesian plane, where i is the latitude of a cell's
+center, and j is the longitude. Weather variables z are
+assumed not to vary within the farmer's field, and
+therefore do not carry the spatial subscripts i, j.
+Central to developing the decision tool is the empirical task of finding parameters for manageable inputs
+
+D.S. Bullock et at. I Agricultural Economics 27 (2002) 233-245
+
+in the yield function Yi, J = f( x; ,J. c;,J,Z). The most
+common approach to parameterizing a yield function
+is statistical estimation. Field data are required that
+include variability in all of the variables serving as arguments in the yield function. Unfortunately, in many
+cases the field characteristic variables c;,J may be
+non-observable. In this case it is not possible to estimate the "meta" yield response function f{x, c, z).
+However, it may still be possible, without observing
+c;,J, to estimate a "site-specific" yield response function J; ,J (x; ,J, z)= f (x; ,J , c; ,z, z) for a small piece of
+land. This implies conducting on-farm experiments
+to estimate site-specific yield response function s. Locally, site-specific yield response functions can embody fixed effects that explicity model the activity
+of site characteristic variables omitted from previous
+recommendations. Omitting any relevant variable may
+introduce bias if there exists correlation between included and omitted variables (Griliches, 1957; Greene,
+1990, p. 259).
+The existing research base for agronomic input recommendations was developed long before spatial data
+management technologies came into being. The consequences may partially explain the findings that VRA
+input management tends to be unprofitable on US
+field crops (Swinton and Lowenberg-DeBoer, 1998).
+The following section illustrates how omission of relevant site characteristic variables can influence parameter estimates as well as the value of site sampling
+information.
+
+5. An illustration of information value from
+spatial crop yield response data
+A heuristic simulation was developed to illustrate
+the difference in the profitability of VRA technology
+used under regional yield response information versus VRA technology used with site-specific yield response information. Consider a farm composed of one
+square field divided into a grid of (41 x 41) = 1681 ha.
+The agronomic characteristics of each grid cell are homogenous, but vary across cells. Crop yield (y) is a
+function f of three variables only: applied nitrogen fertilizer (x), soil nitrogen (c 1), and soil depth (cz) ,which
+is unobservable. Soil nitrogen c 1 ranges between 3
+and 82 kg/ha, while soil depth cz ranges between 1
+and 82 em. The spatial distribution of soil nitrogen,
+
+239
+
+C1 -Soil N
+3-34
+• 34-45
+• 45-55
+• 55-64
+• 64-82
+
+Fi g. I. Simulated spatial di stribution of soil nitrogen , c 1 •
+
+c 1, appears in Fig. 1. 1 To maintain simplicity, it is
+assumed that no unmanageable stochastic variables z
+affect yield. Eq. (2) presents the assumed form of the
+yield response function:
+f(x , c 1, c2) = 2 + 0.6[x + c r]- 0.0004[x + c d
+
++0.004c2 - 0.00001[c2f
+(2)
+
++0.001[x + c 1lc2.
+
+Fig. 2 shows corn yield response to total nitrogen,
+x + c 1, given soil depth levels of cz = 30 and cz =
+50. The figure illustrates how the functional form in
+Eq. (2) implies that deeper soil leads to a higher and
+steeper yield response to total nitrogen .
+The 1681 ha in the field are indexed by (i, j), where
+i , j = 1, ... , 41 , such that hectare (i, j) is the ith
+hectare to the east of the western border of the field ,
+and the jth hectare to the north of the southern border.
+Calling C li ,J and C2 i ,J the values of soil-borne nitrogen
+and the unobservable characteristic on square (i, j) ,
+Eq. (2) implies (3):
+f(x , C!i ,J • C2;.)
+
+= J; ,J(x, Cli ,J )
+= CXi ,j +
+
+{3; ,} [x +
+
+CJi , j)
+
++
+
+Yi ,j [x
+
++
+
+C li ,j )
+
+2
+,
+
+(3)
+
+1
+The spatial di stributions of c 1 and cz were produced in TUBA
+(Zimmerman and Wilson, 1990), c 1 with an isotropic exponential
+semivariogram with a mean of 51 kg N/ha, a variance of 158 kg2
+N/ha2 and a range of spatial correlation of 36 units, and cz with
+an isotropic exponential semivariogram with a mean of 45 em,
+a variance of 140 cm 2 , and a range of spatial correlation of 3 1
+units. These di stributions were chosen to refl ect roughl y the sort
+of spatial variation in characteristics evident in many Midwestern
+US farm fi elds.
+
+240
+
+D.S. Bullock et al./ Agricultural Economics 27 (2002) 233-245
+
+yield (mt/ha)
+yield response with c = 50
+2
+
+8
+
+6
+
+yield response with
+
+c = 30
+2
+
+4
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+X+C 1
+
+(kg/ha)
+
+Fig. 2. Indicative yield response curves from the simulation.
+
+where ai,J = 2 + 0.004c2i,J - 0.00001c~i,J' /3i,J =
+0.6 + 0.001c2i,J, and Yi,J = -0.0004 for i, j =
+1, ... , 41. Eq. (3) shows that every one of the 1681 ha
+in the field has it's "own" yield response to total nitrogen, /i,J (x, C]i,J ). The yield response of hectare (i,
+j) depends on the parameters ai,J, f3i,J, and Yi,J. The
+producer is assumed to be able to sample the value
+of soil-borne nitrogen C]i,J in each hectare (i, }), but
+since variable C2 is unobservable, it is not possible for
+the producer to estimate the yield response function
+in Eq. (2) directly. However, the producer can run (or
+hire a consultant to run) agronomic experiments that
+provide data with which to estimate the coefficients
+in Eq. (3) for every (i, j) for which an experiment
+is run.
+Six scenarios illustrate how different levels of
+on-farm experimentation can be used to estimate the
+coefficients of the yield response functions in different parts of the field. For simplicity, it is initially
+assumed that this information can be obtained at no
+additional cost.
+• Full information scenario: agronomic experiments
+are run on all1681 squares shown in Fig. 3a, generating econometric estimates of all ai,J and f3i,J for
+1681
+i, j = 1, ... , 41. These estimates are labeled a l,]
+and /3l,~ 81 . For the purposes of the illustration, it
+is assumed that these estimates are perfectly accu1681
+rate, so a,.1681
+= a i' 1· and a.l,j
+. = f3 i' 1· , f or 1,. J. =
+'1
+1, ... , 41. (In reality, of course, econometric esti-
+
+mates of any cell's yield response function parameters would not be perfectly accurate because of the
+effects of unobserved variables and measurement
+error. In our simulations, we ignore econometric estimation error to focus on the economic effects of
+information.)
+• Partial information scenarios: agronomic experiments are run only on a grid sample of the 1681 ha
+in the field. Sampling densities include 441, 121,
+81, 36 and 25 ha, as shown in Fig. 3b-f, generating
+perfect knowledge of ai,J and f3i,J for the hectares
+on which experiments were run. This information
+is then spatially interpolated (kriged), to estimate
+the ai,J and f3i,J in each of the remaining squares.
+In the simulation, the kriged estimates, called aL
+and f3L (i, j = 1, ... , 41; k is the sampling density) were based upon a fitted exponential semivariogram using the Geostatistics for the Environmental Sciences software package (Gamma Design
+Software).
+The information set for each sampling density k is
+denoted ISk = {a},], f3L,
+a}_2, /3~,2
+a~ 1 ,4 1 , /3Z1,41 , 1,41 }, with k = 25, 36, 81, 121,441,
+1681. With information set ISk, the farmer derives an
+estimate of the individual yield response function for
+every hectare (i, j) in the field:
+
+yJ
+
+rt]'
+
+rtz· ... ,
+
+f{j (xi,J, CI;,j) = a7, 1 + !3L [xi,} + C!;,j]
+
++ Y{j [Xi,j + C];,j ] 2 .
+
+(4)
+
+D.S. Bullock et al./ Agricultural Economics 27 (2002) 233-245
+
+241
+
+. . . . . . . . ' . ~ .. "'" l;ll . . . . . . . . . . . . . . llldlllfltQI ................ ..
+.... ....
+
+~ ...
+
+-................ " ' ' ......................... '!" ..................... ..
+
+'-"'"'"'-'""' Lill.il Lil ..... iO 1-W LiiLil .... o.•l-a Lil L;IL>I Loll·• "''"
+r'" ~" "" t a 1,. " " " " .. ., r•·t"' "'" "'" ,.., r'l , . ., , . .,
+L>l .. RIIII.ll Ill UIIJ.I I ilIa 1.• 1.11 fdl o;ar.ll f. II Iii 1.;1 IL .. I • I II
+........ .,... ,. ...,. .. ,.,. "'"''"~'''"'"" .................!" ... t''l .............. ..
+l"~ .,,., . .,I'll
+
+....
+
+..... ...... .... .... ... ... .... .... .... ... ......
+
+._,. ""
+
+.... ·-· . .
+
+""f'!!"J'!!II'"'"'"""''"'III'll'l"'l''tl'"F"f'!!!f'l'!'t"'!!l'"'"'!r'lflll'"
+
+........ ,. ... ,_,. . . . . . . . . . . '4·1-lll·ll ............................................ ..
+
+.... f!!lt"l'!!ll'!t I'" t!f ""'I'll t'lll'!t r'!l r ' l tl!lt,.·o•!t f''ll r"! f''lt'll I'll
+._.0&.;111.;11.1.;,; Loll LOI l.ol-1·11 I·"' Lol .... "" ..... l.iOI t..J L~ Loi o..l.l..ii 1-.0
+l''l J!OII'"' I'll I'll t'!J r!l I II 1·11 I'll 11111:,. 1!!0'111 r" r~ '"' 11n1 1'111'!1
+
+~a:!::t; ~=
+
+;; ;;::·:·r= ~=-~= ~; ~~::-:-~~ ::; ;: ~~~~ :::
+
+ng~ggg~~~~~ ~g!!!H ;:~~ ~g~ t~
+i~ ~nn~n
+fi ~nnn~~~
+~~~i-n 1:~.
+..........
+...................
+............nggg
+.. n
+.. ..............
+E~ ~gg~
+
+;: ~~t; ::-~; :: ;~·:·;t; ~=-~= ~= ~=·~;'~=-~=
+,.
+
+~
+
+II< ill l>il-l-011 l>lll t.ii loill l,a,J.il
+
+~= ~=!::
+
+,.,oll.ol il<ol l>ill ""
+., ... ., ,
+lo'"-1-"
+
+j_;;l '-'"II< >I
+
+j_
+
+1..1 I ;o
+
+~II
+
+n~gg~gn~gigngfi~n~gggggg
+.,,..,.,_"'"I""'
+f""' .,.,.,. .,
+.......................
+...................
+._ ............... ..
+""""''"''""
+"" .............. ., I"!!!"" .... !I,...........
+..
+....
+......... .... ...."" ........ ""'.
+'"" ........................................
+.
+r•
+'""""-t'!!•t"!! r"! f''!l """'"" r ' l '"" r ' t r ..
+a..o~
+
+f''t
+
+~'"-'--"-"-"'
+
+I'
+
+~
+
+I' 'Ill" ..
+
+:nn: i: ~~ ti :: :.:
+
+l':!ll'lllll I If 1'1'1 1''1'1'" I " I'" I' !I I' 'II 1"1 l'!l l"l'll'" I"" tr'll 01 I' 'II
+
+~: ~=~::-r:·~: ~: ~n:-:.:-r:·~;
+~=
+I"
+
+f't!IFII'I"!I r!! t'!J l·tt 1''11"11
+r'l l''t I'll ..... , ....... I'll l''t I' 'II'!! I" 'I
+&.W»ou .... J, .... N ........ -£.,;;.a ...................... IO.l<lol·l.Oiil>il .. .il.l, .. il<.l
+""'
+
+'"'~
+
+•
+
+, , . •'" " " ,,,. •·• •·• •·• "''" r ! l .,,.
+
+'""'''"'f"ll "" "" ,.,. "''"
+
+(a)
+
+(d)
+
+(b)
+
+(e)
+
+(c)
+
+(f)
+
+Fig. 3. Locations of the agronomic experiments at six densities. Panels (a) k
+and (f) k = 25.
+
+(Again note that for every cell (i, j), the farmer is assumed to know with certainty the amount of soil-borne
+nitrogen, Cli,j. characterizing that cell.) Fork= 1681
+(full information), the estimate of each cell's production coefficients is perfect-the farmer knows the actual response function for each of the 1681 squares. As
+the number of experiments decreases, in general the
+
+=
+
+1641, (b) k
+
+= 441,
+
+(c) k
+
+=
+
+121, (d) k
+
+= 81,
+
+(e) k
+
+=
+
+36
+
+accuracy of the coefficient estimates decreases, and
+the less information the farmer possesses about yield
+response. 2
+2 Under URA, the gross margin over the applied nitrogen costs
+increases slight! y when the number of cells in which an experiment
+is run goes from 36 to 81, from 81 to 121, from 121 to 441, and
+
+242
+
+D.S. Bullock et a!. I Agricultural Economics 27 (2002) 233-245
+
+The producer's profit maximization problem can be
+restated from Eq. (1), depending on his or her information set and the availability of either variable rate
+fertilizer application technology (VRA) or uniform
+rate application (URA). A farmer who has VRA is assumed to choose a nitrogen rate on every hectare so
+as to maximize net revenues:
+max
+(XI.!, ... ,X),4! ), ... , (X4!, 1, ... ,X4!,4!)
+
+41 41
+]
+[ "'"'".tk*(x·
+· cr l,j
+.. )- wx·l,j· - g- v- F
+~L.../'Ji,]
+l,j,
+i=lj=l
+
+(5)
+
+A farmer who must use URA is assumed to choose
+a constant rate of application of x for the entire field
+so as to maximize net revenues:
+
+m;x [ ~p/;,j(x, CJ,)-
+
+wx] -
+
+g- F,
+
+(6)
+
+where p and w are the output price and the input price,
+assumed to be p = US$ 98.33/Mg (i.e. US$ 2.50/bu)
+and w = US$ 0.33/kg (i.e. US$ 0.15/lb), and for the
+moment g and v (information and VRA costs) are assumed to be 0, while other fixed costs (F) are irrelevant to the decision.
+The solutions to the maximization problems in (5)
+are the economically optimal input application rates
+for the farmer using VRA with costless information
+set ISk:
+k,vRA* (wfp)-f3L
+x l,j
+..
+=
+-cr l,j
+.. ,
+2y.k .
+
+fori,j,=1, ... ,41,
+
+l,J
+
+and k=1681, 441, 121, 81, 36, 25.
+
+(7)
+
+for the farmer using URA with information set ISk:
+k,URA*
+xi,j
+
+=
+
+(wfp)- Cl/1681)2::f! 1 2::~~ 1 f3L
+(2/1681)"41 "41 y.k.
+-
+
+c1i,j'
+
+L..l=1L..J=1 l,J
+
+for i, j, = 1, ... , 41, and
+
+k= 1681,441, 121,81,36,25.
+
+(8)
+
+Substituting (7) and (8) into the objective functions
+in (5) and (6) gives the producer's gross margins over
+applied nitrogen costs for all six information scenarios, for VRA and URA, respectively. The results are
+summarized in Fig. 4.
+Two important results are evident in Fig. 4. First,
+given any amount of costless information available,
+the gross margin over the applied nitrogen costs are
+higher under VRA than under URA. The difference
+between these two shows the maximum amount that
+the farmer would be willing to pay to use VRA instead
+of URA. For every amount of information shown in
+Fig. 4 (i.e. to know with certainty the yield response
+functions for 25, 36, 81, 121, 441, and 1681 of the
+cells), the farmer is willing to pay a premium for VRA.
+Second, the value of VRA versus URA increases
+with the amount of information that the farmer possesses. More information about site-specific yield
+response makes VRA worth more. Fig. 4 reports
+the result that given information set IS25, the farmer
+would be willing to pay US$ 1.60/ha for VRA. But
+878
+($/ha)
+876
+874
+872
+
+The solutions to the maximization problems in (6)
+are the economically optimal input application rates
+
+870
+
+from 441 to 1681. But it actually decreases slightly between 25 and
+36 units of information. This latter result has been made possible
+by the way in which we have defined "quantity of information"
+in this heuristic example. As can bee seen in Figs. 3e and f,
+information not only about more cells, but about different cells
+are drawn from when 36 experiments are run instead of 25.
+Had we decided to get information from 36 cells by first using
+the information obtained from the original 25 and then adding
+information from 11 more cells, the result would have been that
+the gross margin over applied nitrogen costs would have increased
+slightly when the number of experiments run went from 25 to 36.
+
+866
+
+868
+
+864
+25
+
+36
+
+81
+
+121
+
+441
+
+1681
+
+Amount of information _ __.,.
+(i.e., number of agronomic
+experiments conducted in
+the field)
+Fig. 4. Gross margins over applied nitrogen
+
+(x)
+
+costs.
+
+D.S. Bullock et al. I Agricultural Economics 27 (2002) 233-245
+
+with more information, this willingness-to-pay for
+VRA increases, up to US$ 7.30/ha when the farmer
+possesses full information (i.e. has information set
+IS168l ). This implies that the marginal value of information is positive when the farmer possesses VRA.
+But in the example, the marginal value of information
+to the farmer using URA is basically zero-using
+URA, the farmer can make nearly as much money with
+IS2s as he can with complete information (IS16s1). 3
+So, VRA makes information worth more. These
+results come about because variable rate technology and information are economic complements for
+the farmer. Having more information shifts demand
+(willingness-to-pay) for variable rate technology out,
+and having variable rate technology available shifts
+demand (willingness-to-pay) for information out.
+The intuition behind these results is straightforward.
+Farmers who farm using URA have to choose one
+nitrogen application rate for their entire field. The optimal nitrogen application rate under URA will be too
+high for some parts of the field and too low for other
+parts, but on average, it will be profit-maximizing.
+Roughly speaking, the farming using URA wants to
+know the shape of the "average" of the yield response
+curves. To get reasonably good estimates of the coefficients of the "average" yield response curve does
+not take much information; a sample of the true yield
+response coefficients from 25 cells evenly-spaced
+throughout the field is large enough to give a very
+close estimate of the field's "average" yield response
+curve, which the farmer could know perfectly if he or
+she sampled the entire population of 1681 cells. Thus,
+agronomic experiments on just 25 of the 1681 ha of
+the field provided virtually all the information the
+URA farmer could use. But a farmer using VRA had
+use for more information, because he or she could
+use information about how the yield response curve
+coefficients in Eq. (3) are spatially distributed. The
+farmer using VRA wants to know more than the
+shape of the "average" response curve; he or she
+benefits from knowing the shapes of every response
+curve. Learning about the entire distribution of the
+3 Based on the assumption of a single yield response function,
+Schnitkey et al. (1996) have shown that use of an economic
+decision rule to determine the URA input rate with site-specific
+sampling (e.g., of CJ) results in a different (more profitable) rate
+than one that is based upon whole-field average soil sampling.
+
+243
+
+1681 response curves takes much more information
+than simply finding a good estimation of the mean
+response. Therefore, farming under VRA is much
+more information intensive than farming under URA.
+
+6. Conclusions
+Producers and agribusinesses remain fascinated
+with precision agriculture technology. Adoption, however, has lagged behind the expectations of many pundits. There are many good reasons for slow adoption
+of precision agriculture technology, not least of which
+is that researchers and farmers have initially focused
+excessively on in-field benefits from variable-rate fertilizer application derived when regional average fertilizer recommendations are used. This initial failure
+of focus is understandable; these regional average fertilizer recommendations have been used for decades
+with conventional application technology, and it was
+natural to use them initially to manage variable rate
+application. But our research suggests that because
+VRA technology has increased the value that can be
+added from site-specific data, new methods of developing application rate recommendations are needed.
+The increased demand for site-specific information brought about by the appearance of precision
+technology calls for increased supply of site-specific
+information. Several researchers have begun trying
+to estimate site-specific response functions. Malzer
+et al. (1997) is an early published report of estimates
+of site-specific yield response functions. Bongiovanni
+and Lowenberg-DeBoer (2000b) obtained data from
+Argentine on-farm trials with combine yield monitors
+sensors, to develop corn nitrogen recommendations
+that incorporated slope position via spatial econometric techniques. Hurley et al. (2001) used a geostatistical approach to model omitted site variables and
+spatial error correlation in corn response to nitrogen.
+Swinton et al. (2002) developed topographic indices
+for wetness and insulation potential from Michigan
+on-farm trial data to estimate site-specific nitrogen
+response functions. But work in this area is only
+beginning.
+Our research shows that the presence of VRA technology makes site-specific information worth more.
+This implies that two new forms of agronomic yield
+response research are now called for. First, more in-
+
+244
+
+D.S. Bullock et aUAgricultural Economics 27 (2002) 233-245
+
+formation about the meta-response function f(x, c, z)
+needs to be gathered. This can be done through more
+long-term region-wide agronomic experimentation
+that systematically varies input levels to study their
+interaction with site-characteristics and stochastic
+variables over time.
+The second type of research called for is that which
+will enable farmers to measure the site-specific characteristics c of their fields cheaply and accurately. For
+even if the meta-response function is known, farmers
+need to improve their estimates of Ci,j for each site
+(i, j) if they are to possess the site-specific response
+functions f(x, Ci,j, z) on their farms. Agricultural engineering research into finding inexpensive ways to
+develop maps of the site-specific characteristic levels
+Ci,j on farms is currently well under way. Examples
+range from research into "on-the-fly" nitrogen stress
+sensors to research on the measurement of soil electroconductivity.
+VRA technology may soon make it feasible for a
+farmer to use on-farm agronomic experimentation to
+bypass the challenge of estimating the meta-response
+function f(x, c, z) and finding inexpensive ways to
+map the c variables. Through on-farm agronomic experimentation, it is possible to estimate a site-specific
+yield response function !i,j (x, z)= f (x, Ci,j, z) without needing to know the meta-response functionf(x, c,
+z) or obtaining a map of the farm's site-specific characteristics Ci,j. It is a fascinating fact that while precision
+technology has increased the demand for site-specific
+information, it also has great potential to increase
+the supply of site-specific information. For precision
+technology can greatly reduce the cost of running
+agronomic experiments. Software for VRA equipment
+and yield monitors is now being developed to automate much of the running of agronomic experiments.
+Combining such on-farm experimental data with a
+time series of weather data will enable estimation
+of site-specific yield response functions fi,j(X, z) =
+f(x, Ci,j, z). Agricultural economists have a long history of estimating output response to input applications. Likewise, agricultural economists have developed an important body of research results on information value, based on managing variability-typically
+in temporal settings. With these tools, there exists major potential to develop further benefits from precision
+agriculture technologies, including the estimation of
+site-specific response relationships that permit truly
+
+spatially tailored input applications and create added
+value for site-specific information.
+
+Acknowledgements
+
+The authors thank Don Bullock for valuable guidance in developing the heuristic simulation presented
+here.
+References
+Anonymous, 1996. Grids' Value for Beets. The Sugar beet Grower,
+February, pp. 14--15.
+Babcock, B., Pautsch, G., 1998. A moving from uniform to variable
+fertilizer rates on Iowa com: effects on rates and returns. J.
+Agric. Resource Econ. 23, 385-400.
+Barnhisel, R.I., Bitzer, M.J., Grove, J.H., 1996. Agronomic benefits
+of varying com seed populations: a central Kentucky study.
+In: Roberts, P.C., Rust, R.H., Larson, W.E. (Eds.), Proceedings
+of the 3rd International Conference on Precision Agriculture,
+ASA/CSSA/SSSA, Madison, WI, USA.
+Batte, M.T., 2001. Precision Farming and Profits-What Should I
+Expect? Ohio State University Extension Regional Agronomy
+Day, 16 January.
+Bongiovanni, R., Lowenberg-DeBoer, J., 2000a. Economics of variable rate lime in Indiana. Precis. Agric. 2 (September), 55-70.
+Bongiovanni, R., Lowenberg-DeBoer, J., 2000b. Nitrogen management in com using site specific crop response estimates from a
+spatial regression model. In: Roberts, P.C., Rust, R.H., Larson,
+W.E. (Eds.), Proceedings of the 5th International Precision
+Agriculture Conference, ASA-CSSA-SSA, Madison, WI, USA.
+Bullock, D.S., Bullock, D.G., 2000. From agronomic research
+to farm management guidelines: a primer on the economics
+of information and precision technology. Precis. Agric.
+2 (September), 71-101.
+Bullock, D.G., Bullock, D.S., Nafziger, E., Doerge, T., Paszkiewicz, S., Carter, P., Peterson, T., 1998. Does variable rate seeding of corn pay? Agron. J. 90 (November/December), 830-836.
+Carr, P.M., Carlson, G.R., Jacobsen, J.S., Nielsen, G.A., Skogley,
+E.O., 1991. Farming by soils, not fields: a strategy for increasing
+fertilizer profitability. J. Prod. Agric. 4 (January-March), 5761.
+Daberkow, S.G., McBride, W.D., 2000. Adoption of precision
+agriculture technologies by US Farmers. In: Roberts, P.C., Rust,
+R.H., Larson, W.E. (Eds.), Proceedings of the Fifth International
+Conference on Precision Agriculture, ASA-CSSA-SSSA,
+Madison, WI, USA.
+Dillon, J.L., Anderson, J.R., 1990. The Analysis of Response
+in Crop and Livestock Production, 3rd ed. Pergamon Press,
+Oxford.
+English, B., Mahajanashetti, S.B., Roberts, R., 1999. Economic
+and Environmental Benefits of Variable Rate Application of
+Nitrogen to Com Fields: Role of Variability and Weather.
+
+D.S. Bullock et al./ Agricultural Economics 27 (2002) 233-245
+In: Proceedings of the Presentation of Selected Paper at
+the American Agricultural Economics Association Meeting,
+Nashville, TN, August.
+Fiez, T.E., Miller, B.C., Pan, W.L., 1994. Assessment of spatially
+variable nitrogen fertilizer management in winter wheat, J. Prod.
+Agric. 7 (January-March), 17-18, 86-93.
+Finck, C., 1998. Precision can pay its way. Farm J., 10-13.
+Fountas, S., 1998. Market Research on the Views and Perceptions
+of Farmers about the Role of Crop Management within
+Precision Farming. M.S. Thesis, Silsoe College, Cranfield
+University, UK (http://www.silsoe.cranfield.ac.uk/cpf/papers/
+spyridonFountas/index.htm).
+Franzen, D., 2000. North Dakota Report. North Central Regional
+Project 180, Site Specific Management, 2000 Annual Meeting,
+January 2000, Bozeman, MT (personal communication).
+Greene, W.H., 1990. Econometric Analysis. Macmillan, New York.
+Griliches, Z., 1957. Specification bias in estimates of production
+functions. J. Farm Econ. 39, 8-20.
+Heady, E.O., Dillon, J.L., 1961. Agricultural Production Functions.
+Iowa State University Press, Ames, lA.
+Hurley, T., Kilian, B., Dikici, H. 2001. The value of information
+for variable rate nitrogen applications: a comparison of soil test,
+topographical, and remote sensing information. In: Proceedings
+of the Presentation of Selected Paper at AAEA Annual Meeting,
+Chicago, IL, 5-8 August (http://agecon.lib.umn.edu/cgi-bin/
+pdf_view.pl ?paperid=2722&ftype=.pdf).
+Khanna, M., Epouhe, O.F., Hornbaker, R., 1999. Site-specific
+crop management: adoption patterns and incentives. Rev. Agric.
+Econ. 21, 455--472.
+Lambert, D., Lowenberg-DeBoer, J., 2000. Precision Farming
+Profitability Review. Site-Specific Management Center, Purdue
+University, West Lafayette, IN, USA (http://www.purdue.edu/
+ssmc).
+Lowenberg-DeBoer, J., 1998. Economics of Variable Rate Planting
+by Yield Potential Zones. Purdue Agricultural Economics
+Report, May, pp. 6-7 (http://www.agecon.purdue.edu/ext/paer/
+1998/paer0398.pdf).
+Lowenberg-DeBoer, J., Aghib, A., 1999. Average returns and risk
+characteristics of site specific P&K management: eastern com
+belt on-farm trial results. J. Prod. Agric. 12, 276-282.
+Lowenberg-DeBoer, J., Boehlje, M., 1997. Revolution, evaluation
+or deadend: economic perspectives on precision agriculture.
+In: Robert, P.C., Rust, R.H., Larson, W.E. (Eds.), Proceedings
+of the 3rd International Conference on Precision Agriculture,
+SSSA, Madison, WI, USA.
+Lowenberg-DeBoer, J., Erickson, K. (Eds.), 2000. Precision
+Farming Profitability. Agricultural Research Programs, Purdue
+University, West Lafayette, IN, USA.
+Lowenberg-DeBoer, J., Swinton, S., 1997. A economics of site
+specific management of agronomic crops. In: Pierce, F.J.,
+Robert, P.C., Sadler, J.D. (Eds.), The State of Site Specific
+Management in Agriculture, SSSA-CSSA, Madison, WI.
+Malzer, G.L., Copeland, P.J., Davis, J.G., Lamb, J.A., Robert,
+P.C., Bruulsema, T.W., 1997. Spatial variability of profitability
+in site-specific N management. In: Robert, P.C., Rust, R.H.,
+Larson, W.E. (Eds.), Proceedings of the 3rd International
+Conference on Precision Agriculture, SSSA, Madison, WI.
+
+245
+
+Morgan, M., Ess, D., 1997. The Precision-Farming Guide for
+Agriculturalists. Deere & Company, Moline, IL.
+Norton, G.W., Swinton, S.M., 2002. Precision agriculture: global
+prospects and environmental implications. In: Peters, G.H.,
+Pingali, P. (Eds.), Tomorrow's Agriculture: Incentives, Institutions, Infrastructure and Innovations. Ashgate, London, pp. 269286.
+Schnitkey, G., Hopkins, J., Tweeten, L., 1996. An economic evaluation of precision fertilizer applications on corn-soybean fields.
+In: Robert, P.C., Rust, R.H., Larson, W.E. (Eds.), Proceedings
+of the 3rd International Conference on Precision Agriculture,
+ASA/CSSA/SSSA, 23-26 June, pp. 977-988.
+Snyder, C., Havlin, J., Kluitenberg, G., Schroeder, T., 1996. An
+economic analysis of variable rate nitrogen management. In:
+Robert, P.C., Rust, R.H., Larson, W.E. (Eds.), Proceedings of the
+3rd International Conference on Precision Agriculture, ASA/CSSA/SSSA, Madison, WI, USA, 23-26 June, pp. 989-998.
+Swinton, S.M., Lowenberg-DeBoer, J., 1998. Evaluating the
+profitability of site specific farming. J. Prod. Agric. 11, 439446.
+Swinton, S.M., Lowenberg-DeBoer, J., 2001. Global adoption of
+precision agriculture technologies: who, when and why? In:
+Blackmore, S., Grenier, G. (Eds.), Proceedings of the Third
+European Conference on Precision Agriculture (CD-ROM),
+Montpellier, France.
+Swinton, S.M., Liu, Y., Miller, N.R., 2002. Is Yield Response
+Site-specific? Revisiting Nitrogen Recommendations on Com.
+In: Proceedings of the Presentation of Selected Paper at the
+American Agricultural Economics Association Annual Meeting,
+Long Beach, CA, 28-31 July (http://agecon.lib.umn.edu/cgi-bin/
+pdLview.pl?paperid=4538&ftype=.pdf).
+Thirkawala, S., Weersink, A., Kachanoski, G., Fox, G., 1999.
+Economic feasibility of variable rate technology for nitrogen
+on com. Am. J. Agric. Econ. 81, 914-927.
+Wibawa, W.D., Dludlu, D.L., Swenson, L.J., Hopkins, D.G.,
+Dahnke, W.C., 1993. Variable fertilizer application based on
+yield goal, soil fertility, and soil map unit. J. Prod. Agric.
+6 (April-June), 255-261.
+Whipker, L., Akridge, J., 2001. Precision Agricultural Services and
+Enhanced Seed: Dealership Survey Results. Staff Paper No. 018. Center for Food and Agribusiness, Purdue University, July.
+Wollenhaupt, N.C., Buchholz, D.D., 1993. Profitability of farming
+by soils. In: Robert, P.C., Rust, R.H., Larson, W.E. (Eds.),
+Proceedings of Soil Specific Crop Management: A Workshop
+on Research and Development Issues, American Society
+of Agronomy, Minneapolis, MN, Crop Science Society of
+America, Madison, WI, Soil Science Society of America, 14-16
+April 1992, pp. 199-211.
+Wollenhaupt, N.C., Wolkowski, R.P., 1994. Grid soil sampling for
+precision and profit. Unpublished manuscript. Department of
+Soil Science, University of Wisconsin, Madison, WI (modified
+from a paper prepared for 24th North Central ExtensionIndustry Soil Fertility Workshop, St. Louis, MO), 26-27
+October.
+Zimmerman, D.A., Wilson, J.L., 1990. Description of and User's
+Manual for TUBA: A Computer Code for Generating Twodimensional Random Fields via the Turning Bands Method.
+GRAM Inc., Albuquerque, NM.
+
+

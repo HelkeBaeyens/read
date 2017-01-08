@@ -1,0 +1,3122 @@
+Chapter 8
+
+THE AGRICULTURAL
+
+TRANSFORMATION
+
+C. PETER TIMMER*
+
+Harvard University
+
+Contents
+
+1.
+2.
+
+3.
+
+Introduction
+The process of agricultural transformation
+
+276
+279
+
+2.1. Evolving stages
+
+280
+
+2.2. Agriculture and economic development
+
+283
+
+2.3. The role of the agricultural sector
+
+288
+
+Why agriculture is different
+
+3.3. The farm household as both producer and consumer
+
+291
+292
+294
+299
+
+3.4. What difference does the difference make?
+
+300
+
+Transforming agriculture
+
+302
+302
+313
+321
+321
+323
+327
+328
+
+3.1. Decision-making in agriculture
+3.2. Characteristics of agricultural production functions
+
+4.
+
+5.
+
+4.1.
+
+The sources and dynamics of technical change
+
+4.2.
+
+Unresolved issues
+
+Agricultural development strategy
+5.1. Policies for "getting agriculture moving"
+5.2. Alternative strategies for maintaining the transformation process
+5.3. Agricultural policy and structural change
+
+References
+
+*I would like to thank the participants at the authors' workshop for helpful reactions to my initial
+ideas for this chapter. Particular thanks go to Larry Westphal, Pranab K. Bardhan, David Dapice,
+and Scott Pearson for serious and critical readings of the first draft. As always, my deepest debt is to
+my wife and editor, Carol, for her patience and persistence in helping me make my manuscripts
+readable and for her mastery of the wonderful new technology that permits me to lose half the
+manuscript with the push of a button and for her to get it back after considerable effort and anguish.
+
+Handbook of Development Economics, Volume I, Edited by H. Cheneo' and T.N. Srinivasan
+© Elsevier Science Publishers B.V., 1988
+
+C.P. Timmer
+
+276
+
+1. Introduction
+
+The agricultural transformation has been a remarkably uniform process when
+viewed from outside the agricultural sector itself. As documented by Clark
+(1940), Kuznets (1966), Chenery and Syrquin (1975), and the patterns reported in
+the introductory chapter to Part II of the Handbook, the share of agriculture in a
+country's labor force and total output declines in both cross-section and timeseries samples as incomes per capita increase. The declining importance of
+agriculture is uniform and pervasive, a tendency obviously driven by powerful
+forces inherent in the development process, whether in socialist or capitalist
+countries, Asian, Latin American, or African, currently developed or still poor.
+It is at least slightly puzzling, then, that a second uniform and pervasive aspect
+of the development process also involves agriculture- the apparent requirement
+that rapid agricultural growth accompany or precede general economic growth.
+The logic of the classical model of economic growth requires it:
+Now if the capitalist sector produces no food, its expansion increases the
+demand for food, raises the price of food in terms of capitalist products, and so
+reduces profits. This is one of the senses in which industrialization is dependent
+upon agricultural improvement; it is not profitable to produce a growing
+volume of manufactures unless agricultural production is growing simultaneously. This is also why industrial and agrarian revolutions always go
+together, and why economies in which agriculture is stagnant do not show
+industrial development [Lewis (1954, p. 433, emphasis added)].
+The historical record to which Lewis alludes supports the strong link between
+agricultural and industrial growth, at least in market-oriented economies. The
+English model is often held up as the case in point:
+Consider what happened in the original home of industrial development, in
+England in the eighteenth century. Everyone knows that the spectacular
+industrial revolution would not have been possible without the agricultural
+revolution that preceded it. And what was this agricultural revolution? It was
+based on the introduction of the turnip. The lowly turnip made possible a
+change in crop rotation which did not require much capital, but which brought
+about a tremendous rise in agricultural productivity. As a result, more food
+could be grown with much less manpower. Manpower was released for capital
+construction. The growth of industry would not have been possible without the
+turnip and other improvements in agriculture [Nurkse (1953, pp. 52-53)].
+Despite a significantly different view in the current literature about the impact
+of the English agricultural revolution on labor productivity, the key importance
+
+Ch. 8: The Agricultural Transformation
+
+277
+
+of the increase in agricultural output has not been challenged [Timmer (1969),
+Hayami and Ruttan (1985)]. Nor is this importance restricted to the lessons from
+the currently developed countries. In surveying the statistical link between
+agric~altural and overall economic growth in currently less-developed countries,
+the World Bank reached the following conclusions:
+The continuing importance of agriculture in the economies of the developing
+countries is reflected in the association between the growth of agriculture and
+of the economy as a whole. Among countries where the agricultural share of
+GDP was greater than 20 percent in 1970, agricultural growth in the 1970s
+exceeded 3 percent a year in 17 of the 23 countries whose GDP growth was
+above 5 percent a year [see Table 8.1]. During the same period, 11 of the 17
+countries with GDP growth below 3 percent a year managed agricultural
+growth of only 1 percent or less. Agricultural and GDP growth differed by less
+than two percentage points in 11 of 15 countries experiencing moderate
+growth. There have been exceptions, of course, but they prove the rule: fast
+GDP growth and sluggish agriculture was a feature of some of the oil- or
+mineral-based economies such as Algeria, Ecuador, Morocco, and Nigeria.
+The parallels between agricultural and GDP growth suggest that the factors
+which affect agricultural performance may be linked to economy-wide social
+and economic policies . . . . Expanding agricultural production through technological change and trade creates important demands for the outputs of other
+sectors, notably fertilizer, transportation, commercial services, and construction. At the same time, agricultural households are often the basic market for a
+wide range of consumer goods that loom large in the early stages of industrial
+development-textiles and clothing, processed foods, kerosene and vegetable
+oils, aluminum hoUoware, radios, bicycles, and construction materials for home
+improvements [World Bank (1982, pp. 44-45)].
+The need for rapid agricultural growth and for the decline in the agricultural
+sector's share of output and the labor force are not contradictory, of course, but
+the apparent paradox gave rise to a widespread misperception that agriculture is
+unimportant-that it does not require resources or a favorable policy environment - because its relative share of the economy declines.
+So long as market forces provide the primary direction to the sectoral allocation of resources, how academics perceive this process is irrelevant to the process
+itself. When government planners intercede, however, they do so within a
+framework of objectives and constraints, and this framework is ultimately
+conditioned by the prevailing academic understanding of how economic growth
+proceeds. The mainstream paradigm of the 1950s suggested that agriculture could
+and should be squeezed on behalf of the more dynamic sectors of the economy.
+This strategy could be successful if agriculture was already growing rapidly (as in
+
+278
+
+C.P. Timmer
+Table 8.1
+Growth of agriculture and G D P in the 1970s
+Agricultural
+growth
+
+Above 5 percent
+
+Above 3 percent Cameroon
+China a
+Colombia
+Dominican Rep.
+Guatemala
+Indonesia
+Ivory Coast
+Kenya
+Korea, Rep. of
+1 - 3 percent
+Costa Rica
+Ecuador
+Egypt
+Lesotho
+
+Below 1 percent
+
+Morocco
+Nigeria
+
+G D P growth
+3 - 5 percent
+
+Malawi a
+Malaysia
+Paraguay
+Philippines
+Thailand
+Tunisia
+Turkey
+Yemen Arab Rep.
+
+Below 3 percent
+
+Bolivia
+Burma a
+Mall a
+Somalia a
+Tanzania a
+
+Liberia
+Nicaragua
+Senegal
+
+Bangladesh~
+Central African Rep. ~
+El Salvador
+Haiti a
+Honduras
+India a
+Pakistan a
+Sri Lanka a
+Sudan a
+Upper Volta a
+Togoa
+
+Burundi a
+Sierra Leone a
+Zaire a
+
+Angola a
+Chad a
+Congo. Rep.
+Ethiopia a
+Ghana
+Madagascar a
+Mauritania a
+Mozambique a
+Nepal a
+Niger a
+Uganda a
+
+a Low-income countries.
+Source: World Bank (1982, p. 45).
+
+Western Europe and Japan) or if it started with a large surplus relative to the
+subsistence needs of the rural population (as in the USSR). But if the agricultural
+sector started with traditional technology and yields and living standards near
+subsistence, the "squeeze agriculture" paradigm created economic stagnation, not
+growth. In those cases, major attention was needed to induce an agricultural
+transformation if the industrial revolution was to have any real hope of success.
+Upon closer examination, it is not paradoxical that agricultural growth leads to
+agricultural decline. At least two mechanisms, now relatively well understood and
+
+Ch. 8: The Agricultural Transformation
+
+279
+
+documented, account for this process of structural transformation. 1 Engel's Law
+alone, in a closed economy with constant prices, explains a declining share for
+agriculture (and low farm incomes unless some farmers leave agriculture) no
+matter how fast the sector grows. Because growth is led by demand patterns in
+market economies, a less-than-unitary income elasticity for the products of the
+agricultural sector guarantees that gross value of sales by farmers will grow less
+rapidly than gross domestic product. As Lewis implies in the previous quotation,
+if agricultural output fails to grow rapidly enough, rising prices might actually
+garner farmers a higher share of consumers' expenditures. But this reflects lower
+real incomes, not the result of economic growth.
+If the terms of trade are not to rise in favor of agriculture, farm productivity
+must r i s e - a n agricultural revolution is needed. The second factor that explains
+the joint agricultural growth and relative decline is seen in the rapid growth in
+agricultural productivity, measured by output per laborer or output per hectare,
+in all the successfully developed countries. Technical change in agriculture in all
+of the OECD countries proceeded at such a pace that the long-run terms of trade
+declined for farm products. Lower prices thus exacerbated the sluggish demand
+growth due to low income elasticities; the combination put pressure on agricultural resources to move out of farming and into the more rapidly growing sectors
+of the economy. Such intersectoral movements of resources have been painful in
+all societies that have undergone successful structural transformation, and all
+societies have found mechanisms to cushion the adjustment process.
+The paradox over the agricultural transformation occurs at this point. Just as
+countries learn how to institutionalize the process of rapid technical change in
+agriculture, its product no longer has high social value. The resulting low incomes
+for farmers create powerful political pressures to slow the process of structural
+change, and the seemingly inevitable result is massive distortion of the price
+structure [Johnson (1973), Anderson and Hayami (1986), World Bank (1986)].
+Nearly all rich countries protect their agricultural sectors from international
+competition, and countries no farther along in the development process than
+Malaysia, Indonesia, Zimbabwe, and Mexico protect key food-producing sectors
+during periods of depressed world prices.
+
+2. The process of agricultural transformation
+From both historical and contemporary cross-section perspectives, the agricultural transformation seems to evolve through at least four phases that are roughly
+XFor a very useful summary of the literature that documents the agricultural transformation
+process itself and also attempts to explain it in terms of the prevailing models of economic
+development, see Johnston (1970).
+
+280
+
+CP. Timmer
+
+definable. The process starts when agricultural productivity per worker rises. This
+increased productivity creates a surplus, which in the second phase can be tapped
+directly, through taxation and factor flows, or indirectly, through government
+intervention into the rural-urban terms of trade. This surplus can be utilized to
+develop the nonagricultural sector, and this phase has been the focus of most
+dual economy models of development. For resources to flow out of agriculture,
+rural factor and product markets must become better integrated with those in the
+rest of the economy. The progressive integration of the agricultural sector into
+the macro economy, via improved infrastructure and market-equilibrium linkages, represents a third phase in agricultural development. When this phase is
+successful, the fourth phase is barely noticeable; the role of agriculture in
+industrialized economies is little.different from the rote of the steel, housing, or
+insurance sectors. But when the integration is not successfully accomplished - and
+most countries have found it extremely difficult for political reasons- governments encounter serious problems of resource allocation and even problems
+beyond their borders because of pervasive attempts by high-income countries to
+protect their farmers from foreign competition. Managing agricultural protection
+and its impact on world commodity markets thus provides a continuing focus for
+agricultural policy makers even when the agricultural transformation is "complete".
+
+2.1. Euoloing stages
+The four phases in the agricultural transformation call for different policy
+approaches. In the earliest stage of development the concern must be for "getting
+agriculture moving", to use Arthur Mosher's vivid phrase [Mosher (1966)]. A
+significant share of a country's investable resources may well be extracted from
+agriculture at this stage, but this is because the rest of the economy is so small.
+Direct or indirect taxation of agriculture is the only significant source of
+government revenue.
+Building a dynamic agriculture requires that some of these resources be
+devoted to the agricultural sector itself. As the section on agricultural development policy at the end of this chapter explains, these resources need to be
+allocated to public investment in research and infrastructure as well as to
+favorable price incentives to farmers to adopt new technology as it becomes
+available. As these investments in agriculture begin to pay off, the second phase
+emerges in which the agricultural sector becomes a key contributor to the overall
+growth process through a combination of factors outlined by Johnston and
+Mellor (1961).
+As the empirical literature on structural patterns of growth emphasizes, there is
+a substantial disequilibrium between agriculture and industry at this early stage
+
+Ch. 8: The Agricultural Transformation
+
+281
+
+of the development process [Kuznets (1966), Chenery and Taylor (1968), Chenery
+and Syrquin (1975)]. Indeed, differences in labor productivity and measured
+income (as opposed to psychic income) between the rural and urban sectors
+persist to the present in rich countries, although the gap is narrowing and now
+depends on agricultural prices for any given year. 2
+The process of narrowing the gap gives rise to the third environment for
+agriculture, in which it is integrated into the rest of the economy through the
+development of more efficient labor and credit markets that link the urban and
+rural economies. This integration is a component of the contribution process; the
+improved functioning of factor markets merely speeds the process of extracting
+labor and capital from those uses in agriculture with low returns for those in
+industry or services with higher productivity. The improved markets have welfare
+consequences as well, because they lessen the burden on individuals trapped in
+low-income occupations. The gain has costs, however. As agriculture is integrated
+into the macro economy, it becomes much more vulnerable to fluctuations in
+macro prices and level of aggregate activity and trade [Schuh (1976)] and much
+less susceptible to management by traditional instruments for the agricultural
+sector, such as extension activities and specific programs for commodity development and marketing.
+This vulnerability and complexity create the fourth phase in the agricultural
+transformation, the treatment of agriculture in industrialized economies. As the
+share of the labor force in agriculture falls below about 20 percent and the share
+of food expenditures in urban household budgets drops to about 30 percent,
+low-cost food is not as important to the overall economy nor is it as expensive in
+relative terms to increase in price [Anderson (1983)]. A host of political problems
+arise if low farm incomes, induced by rapid technical change and low farm-gate
+prices, are allowed to push resources out of agriculture. Farmers do not want to
+leave, especially if they must sell their farms under duress at low prices; and
+urban-based unions do not want to see them coming to the cities in search of
+industrial jobs. A nostalgic memory of farming as a " w a y of life" leads many
+second- and third-generation farm migrants living in cities to lend political
+support to higher incomes for agriculture, even at the expense of higher grocery
+bills (which m a y be barely noticeable). By this stage of the process, the share of
+the farm-gate price of the commodity in the consumer's market basket is small
+because of processing and marketing costs. Commodity price supports become
+2The structural rigidities in the economy that give rise to this substantial disequilibrium obviously
+mean that neoclassical models based solely on perfect markets and rational actors will fail to predict
+accurately the impact of government interventions. However,purely structural models that assume an
+absence of market response might be equally far from the mark. A messy amalgam of structural
+rigidities, imperfect markets, and decision-makersinterested in their own, but vaguelydefined, welfare
+seems to characterize the actual starting point from which government interventions must be
+evaluated.
+
+282
+
+C.P. Timmer
+
+/
+
+~
+
+f
+
+-" ~ ~ ~.
+o
+
+--
+
+6
+E
+~ ' 0;
+g~
+~-~
+
+--6 ~ . - @
+
+g
+
+o
+
+o
+
+"E
+
+,~ g,,-~
+
+/
+/
+
+~
+
+tO
+
+~
+
+_~
+5
+
+~
+
+.
+
+9~- =
+
+/
+
+/
+
+.
+
+.
+
+.
+
+.
+
+V-
+
+/
+
+~
+
+0 3
+
+_gE.
+o
+
+-=o
+E..~
+
+/
+
+/
+.
+
+~
+
+~
+
+/"
+
+I
+.
+
+_
+
+,'T
+
+.~a
+
+LZ
+
+E
+
+/
+
+i
+/
+
+/
+
+/
+
+0
+
+/
+
+i
+
+/
+
+.:..:~ .E ~ E o
+
+/
+
+I
+
+.1::
+
+.~>
+
+m'-~
+
+~I.E
+
+~ ~,.= ~
+
+~
+
+,.o
+
+1
+
+-L
+
+6
+\
+
+\
+\
+
+~E
+~g
+
+\
+\
+
+g~
+\
+
+il
+
+'
+
+_
+
+_
+
+_
+
+J I-
+
+.
+
+.
+
+.
+
+.
+
+J=
+
+o
+
+E
+
+L~
+
+Ch. 8." The Agricultural Transformation
+
+283
+
+the primary vehicle for supporting farm incomes, and the subsidies have devastating effects on resource allocation. Farmers invest heavily in land and machinery
+when farm prices are high, only to produce surpluses that are impossible to sell
+profitably [Johnson (1985), Cochrane (1979)]. Eventually, the biadgetary and
+distortionary costs of this approach become so high that even the European
+Community, Japan, or the United States must face choices over how to rationalize agricultural returns with their social profitability.
+The economic environments for agriculture created by these four phases are
+shown schematically in Figure 8.1. The financial and labor resource flows out of
+agriculture over time (or as incomes increase in a cross-section sample) are
+impressionistic. Whether the trough between the "Mosher environment" and the
+"Johnston-Mellor environment" in Figure 8.1 drops into negative ground or
+always remains positive presumably depends on alternative sources of financial
+resources at this stage in development. Urban or overseas remittances, petroleum
+revenues, or foreign assistance might temporarily fill the gap left by a declining
+relative contribution from agriculture. 3 But as agricultural productivity begins to
+rise, labor and financial flows to the rest of. the economy increase. The
+"Schultz-Ruttan environment" begins as the absolute population in agriculture
+starts to decline, and the "D.G. Johnson environment" begins as the agricultural
+labor force drops to a fairly small proportion of the overall labor force. Whether
+financial resources continue to flow out of agriculture at this stage in the process
+depends almost entirely on government price policy and its resulting impact on
+farm investment. Policies to cushion the impact on farmers of successful structural change need not inevitably rely on price interventions that impede the
+adjustment process, but price supports have been the most popular in the United
+States, Western Europe, and Japan for plausible political reasons [Anderson and
+Hayami (1986)].
+
+2.2. Agriculture and economic development
+This overview of the agricultural transformation raises two basic issues to be
+discussed in this chapter: the contribution or role of agriculture in economic
+development, and the conditions or factors that lead to the modernization of the
+agricultural sector itself. Obviously, many other important topics are not treated
+here. One is the changing control over resources in the rural sector, which
+determines who gains and loses during the agricultural transformation. Only the
+3It is also important to distinguish subsectors within agriculture. An export crop subsector
+producing rubber or coffee might continue to provide financial resources to the rest of the economy,
+some of which could be returned to the foodcrop subsector in order to foster its development. Much
+of the discussion in this chapter is concerned with modernizing the foodcrop subsector while
+recognizing the important role played by the other agricultural subsectors.
+
+284
+
+C.P. Timrner
+
+structuralist and radical political economy literature deals directly with the
+distribution of income and power in rural areas as an integral component of
+agricultural development. A major theme of "neo-neoclassical analysis" since the
+mid-1970s, however, has been the incorporation of such issues into rational actor
+models of rural household decision-making [see Bardhan, Chapter 3 in this
+Handbook]. While much of the dynamic and macroeconomic perspective of the
+radical models is lost in the household models, much is gained in the form of
+testable hypotheses about the impact of new technology or pricing policies on the
+structure of rural markets and distribution of output in the short run. 4
+The historical record after the Second World War suggests that many countries
+saw an opportunity to pursue a "jump strategy" and move directly from the early
+stages of the Mosher environment in Figure 8.1 to the later stages of the
+Johnston-Mellor environment, thus bypassing the necessity to invest in agricultural development.
+... the most significant comparison.., is that between the levels of productivity in the under-developed countries and the western countries at the period
+when the latter began to industrialize . . . . IT]he present average level of
+agricultural productivity in African and Asian countries (between them representing four-fifths of the Third World population) is 45 percent below that
+reached by the developed countries at the start of the industrial revolution. In
+fact it is at the same level as that of the European countries before their
+agricultural revolution.
+Now, most under-developed countries wish, consciously or unconsciously, to
+by-pass this stage just when other structural conditions of development are
+making a "take ofF' more difficult than it was when most European countries
+and the United States were imitating England's example. What makes the
+failure to admit or even to recognize this problem all the more serious is that
+the problem itself is intractable. Leaving aside mental attitudes, landownership
+and political considerations, it cannot be stressed too forcibly that an increase
+in the area cultivated per agricultural worker is one of the essential conditions
+of an increase in productivity. But in view of the population explosion it is
+impossible to assume, even on most hopeful assumption, that the reduction in
+cultivated area per worker will be anything but slight [Bairoch (1975, p. 42)].
+A jump strategy sees the extraction of resources from agriculture for economic
+development as being in conflict with the investment of public and private
+resources in its modernization. This has been especially true in countries with
+systems of planned resource allocations designed to force the pace of economic
+development. As more and more countries adopted the paradigm of central
+4See Hart (forthcoming) for an eloquent complaint that such micro models effectively "gut" the
+Marxian analysis of its vision of class interactions providing the driving force to rural dynamics.
+
+Ch. 8: The Agricultural Transformation
+
+285
+
+planning to direct these resource allocations, the separate issues of contribution
+and modernization became key analytical issues as well. Unfortunately, the
+economics profession was ill-equipped to address them because all previous
+examples of agricultural modernization had taken place within more or less
+market-oriented settings (except in the Soviet Union, where agricultural modernization remains quite incomplete). The behavior of backward agricultural systems
+under the new planning context became a topic of much theorizing and debate,
+but only in the 1960s and 1970s did the empirical record become both long and
+varied enough to draw reasonably firm conclusions.
+It is worth summarizing briefly what the empirical record showed by 1960
+when the results of Kuznets' decade-long study of the quantitative aspects of
+modern economic growth started to be widely available. The historical record
+began as early as the late eighteenth century in the United Kingdom and 1839 in
+the United States and as late as 1880 in Japan and 1925 in the USSR. For all
+countries for all time periods observed, the share of agriculture in the total labor
+force declined, sometimes sharply, as in Sweden, the United States, and Japan,
+and sometimes more gradually, as in the United Kingdom, Belgium, Italy, and
+Australia. The share of agriculture in national output showed slightly more mixed
+patterns than those of the labor force. The share was nearly stable or even rose
+slightly over some periods in the United Kingdom, France, the United States,
+and Australia. The more general tendency of the share in output to decline is
+clear, but the share of the labor force always declined more rapidly. The obvious
+result was that labor productivity in agriculture rose more rapidly than in the
+economy as a whole when measured over the long periods of time required for
+sustained economic growth to cause substantial changes in the structure of an
+economy. Although agricultural productivity per worker was nearly always less
+than the level of national productivity, its faster rise meant that the gap tended to
+narrow.
+Three clear exceptions to this trend in Kuznets' data are Italy, Japan, and the
+USSR, all of which are latecomers to the process of sustained growth and are
+countries in which state intervention into the industrialization process was much
+more active than in the early developers. The failure of agricultural productivity
+per worker to rise as fast as national productivity in these three countries might
+thus be seen as an early signal that the patterns in the less-developed countries
+seeking to start down the path of modern economic growth might be significantly
+different from the historical path followed by the Western countries and documented by Kuznets. Table 8.2, drawn from a paper by Hayami (1986), shows that
+the recent productivity record for the rapidly growing East Asian economies
+confirms a strongly different pattern from that in North America and Western
+Europe. Even the more slowly growing developing countries (Philippines and
+India) have a mild reversal of the "traditional" pattern in which growth in labor
+productivity in agriculture exceeds that of labor productivity in manufacturing.
+
+286
+
+C.P. Timmer
+Table 8.2
+International comparison in the growth rates of labor productivity
+in agriculture and manufacturing, 1960 (1958-62 averages)
+to 1980 (1978-82 averages)
+Labor productivity
+growth rate (%/year) a
+
+Developed countries:
+United States
+United Kingdom
+France
+G e r m a n y (F.R.)
+Japan
+Developing countries:
+Korea
+Philippines
+India
+
+Agriculture
+
+Manufacturing
+
+(1)-(2)
+
+(1)
+
+(2)
+
+= (3)
+
+6.3
+5.5
+6.4
+7,7
+5,3
+
+3.2
+2.6
+4.2
+4.1
+6.7
+
+3.1
+2.9
+2.2
+3.6
+- 1.4
+
+4,0
+3.2
+1.3
+
+7.5
+3.5 b
+2.1
+
+-- 3.5
+- 0.3
+- 0.9
+
+a Calculated from the ratios of the real output index to the employment index.
+bGrowth rate from 1960 to 1975.
+Sources: FAO, Production Yearbook; U N , Yearbook of Industrial Statistics; ILO, Yearbook of Labor Statistics; OECD, Labor Force Statistics. Hayami (1986, p. 10).
+
+This "premature" growth in manufacturing productivity (or, alternatively, the
+neglect of efforts needed to raise agricultural productivity) is especially troubling
+in historical perspective, as the quote from Bairoch previously indicated. Table
+8.3 reproduces Bairoch's historical comparisons of "net agricultural production
+by male labor employed in agriculture expressed in 'direct' calories". Only Italy
+in 1840 had a lower productivity level than that of Africa and Asia in modern
+times. The gap in agricultural productivity on average between European countries beginning their industrial revolutions and Africa and Asia is, as Bairoch
+already noted, about 45 percent. "A gap of about 45 percent is sufficiently wide
+for us to be able to assert that agricultural conditions in the currently developed
+countries before the beginning of the industrial revolution must have been very
+different from those of the under-developed countries of Asia and Africa today"
+[Bairoch (1975, pp. 40-41)].
+Based on data only up to the early 1970s, Bairoch's pessimism reflects the
+widespread neglect of agriculture in many development efforts in the 1950s and
+1960s, as well as the shortfalls in food production that triggered the world food
+crisis in 1973-1974. A similar pessimism based on a quite different reading of the
+historical record is provided by scholars working in the Marxian tradition and
+following the insights of Lenin on the changing class structure of agriculture as it
+becomes more capitalistic under the pressures of modernization [Baran (1952),
+
+Ch. 8." The Agricultural Transformation
+
+287
+
+Table 8.3
+Comparisons between levels of agricultural productivity
+Country and "stage" of
+development
+
+Period
+
+Index number of
+agricultural productivity
+
+Developed countries:
+Recent position
+France
+United States
+Position before or during "take-off'
+France
+Great Britain
+Sweden
+Belgium
+Germany
+Italy
+Russia
+Switzerland
+United States
+Spain
+
+1968/72
+1968/72
+
+100.0
+330.0
+
+1810
+1810
+1810
+1840
+1840
+1840
+1840
+1840
+1840
+1860
+
+7.0
+14.0
+6.5
+10.0
+7.5
+4.0
+7.0
+8.0
+21.5
+11.0
+
+Recent position
+Africa
+Latin America a
+Asia
+Middle East
+
+1960/64-1968/72
+1960/64-1968/72
+1960/64-1968/72
+1960/64-1968/72
+
+4.7
+9.8
+4.8
+8.6
+
+Total for all lessdeveloped countries:
+
+1960/64-1968/72
+
+5.5
+
+Less-developed countries:
+
+a Excluding Argentina.
+
+Source: Bairoch (1975, p. 40).
+
+de Janvry (1981), Griffin (1979), Lenin (1899)]. The failure of the Marxist-Leninist
+prediction that peasant (family) agriculture disappears under the competitive
+pressures of modern corporate agriculture has led to a rethinking of the inevitability of all countries following a path through capitalism to socialism and
+eventually to communism. To explain the failure, the dependency school emphasizes relationships between the metropolitan (developed) center and the periphery
+(underdeveloped) countries in the third world. A single process of global economic growth occurs in a zero-sum context, in which the growth of the center is
+at the direct expense of the periphery. Class relationships in the urban-based
+governments of the periphery explain the perpetuation of economic policies that
+favor only a small urban elite (and possibly landlords). In Latin America,
+de Janvry (1981) and colleagues have extended the analysis to explain agricultural policy and performance on the basis of a process of marginalization. Their
+model argues that agricultural laborers and independent peasants gradually lose
+
+288
+
+C.P. Timmer
+
+control of the resources needed to raise their living standards as large landowners
+invest in capital-intensive farming techniques and displace peasants from the
+market. The rural masses are too dispersed to mobilize effectively, and they suffer
+a process of gradual immiseration.
+Hayami and Ruttan provide a useful summary of three theories of development and their implications for agriculture:
+The implications of dependency theory for agricultural development stand in
+sharp contrast to the growth-stage and dual-economy theories. The growth-stage
+theories attempt to explain the process of transformation from a primarily
+agrarian to an industrial economy. In the dynamic dual-economy models
+incorporation of peasants into the market results in the disappearance of
+dualism. The dependency perspective attempts to explain why the periphery
+remains trapped in a backward agrarian state. In the dependency view incorporation of rural areas into the market is the source of marginalization-it
+perpetuates rather than erodes dualism [Hayami and Ruttan (1985, p. 37)].
+Although Hayami and Ruttan do not find the dependency theory very useful
+for designing policies that foster the process of agricultural development, one of
+the main questions asked by scholars of the dependency school remains unanswered: why has agricultural development played a strongly positive role in the
+overall development process in so few countries? Why have so many opportunities identified by agricultural scientists and economic planners been missed? Most
+neoclassical scholars will agree that they do not have answers to these questions.
+
+2.3. The role of the agricultural sector
+The debate over the role of agriculture in the process of economic development
+extends at least as far back as the Physiocrats in the eighteenth century. The
+biblical advice to store during seven good years to be ready for seven lean years
+certainly reflects a concern for agricultural planning. Clark (1940) and Kuznets
+(1966) provided the general facts about the role of agriculture during the growth
+process available to economists and planners at the beginning of the drive for
+economic growth in the less-developed countries. These facts formed the basis for
+the prevailing neoclassical view that agriculture was a declining sector, a "black
+box" in Little's phrase (1982), which contributed labor, food, and perhaps capital
+to the essential modernization efforts in industry. No policy efforts on behalf of
+agriculture's own modernization were needed because the sector declined naturally. Most interpretations of the Lewis model (1954), especially the Fei-Ranis
+versions (1964), which became the main teaching paradigms, ignored the factors
+needed to modernize traditional agricultural sectors so that they could play
+
+Ch. 8: The Agricultural Transformation
+
+289
+
+positive contributory roles in the development of the rest of the economy. The
+structuralist views of Prebisch (1950) about declining terms of trade for traditional products and the importance Hirschman (1958) attached to linkages to
+" m o d e r n " economic activities further diminished any apparent rationale for
+actively investing in the modernization of agriculture itself. As Hirschman wrote
+in 1958, "agriculture certainly stands convicted on the count of its lack of direct
+stimulus to the setting up of new activities through linkage effects - the superiority of manufacturing in this respect is crushing" [Hirschman (1958, pp. 109-110)].
+A final reason for the neglect of agriculture has recently been clarified by Sah
+and Stiglitz (1984). The Soviet debate in the early 1920s over industrialization
+policy revolved around whether turning the terms of trade against agriculture (the
+" p r i c e scissors") would speed the rate of accumulation for investment by the
+state. Preobrazhensky (1965) argued successfully that it could. Sah and Stiglitz
+show the precise conditions under which he was right and the welfare consequences that flowed from implementing such a policy. Although the conditions
+that must hold for their analysis to be valid are very stringent, a robust result is
+that the agricultural terms of trade should be lowered only if the state has a low
+rate of time discount, that is, it favors investment over current consumption.
+Forced-pace industrialization campaigns in such circumstances then rely on the
+state's capacity to extract surpluses from agriculture even in the face of stagnant
+or falling agricultural production.
+It is easy to see why agriculture was neglected as a source of growth in early
+strategies of economic development. The historical record shows that it always
+declines in relative importance in growing economies. It is the home of traditional people, ways, and living standards- the antithesis of what nation builders
+in developing countries envisioned for their societies. Moreover, agriculture was
+thought to provide the only source of productivity that could be tapped to fuel
+the drive for modernization. Surplus labor, surplus savings, and surplus expenditures to buy the products of urban industry, and even surplus foreign exchange to
+buy the machines to make them, could be had from an uncomplaining agricultural sector. Nothing more was needed to generate these resources than the promise
+of jobs in the cities and a shared nationalistic pride in the growing power of the
+state. Despite how simplistic these promises sound in the mid-1980s, the
+success of the Soviet approach caused them to be very appealing when first
+uttered by such charismatic leaders of the developing world as Sukarno,
+Nkrumah, Nasser, and Nehru. The unique features of agriculture as a sector were
+simply not widely understood in the 1950s. Nor was it accepted that the
+development of a modern agriculture was necessary as a concomitant to development of the rest of the economy.
+Some of these factors began to be recognized by the 1960s, and a more positive
+emphasis was placed on "role" rather than the more forced concept of "contribution" of agriculture. The classic article by Johnston and Mellor (1961) listed five
+
+290
+
+C.P. Timmer
+
+roles for agriculture in economic development:
+(1) increase the supply of food for domestic consumption;
+(2) release labor for industrial employment;
+(3) enlarge the size of the market for industrial output;
+(4) increase the supply of domestic savings; and
+(5) earn foreign exchange.
+Although the second, fourth, and fifth roles are certainly consistent with the
+earlier "extractive" views of agriculture, Johnston and Mellor insisted that all five
+roles are equally important. Agriculture in the process of development is to
+provide increased food supplies and higher rural incomes to enlarge markets for
+urban output, as well as to provide resources to expand that urban output.
+It is our contention that "balanced growth" is needed in the sense of simultaneous efforts to promote agricultural and industrial development. We recognize
+that there are severe limitations on the capacity of an underdeveloped country
+to do everything at once. But it is precisely this consideration which underscores the importance of developing agriculture in such a way as to both
+minimize its demand on resources most needed for industrial development and
+maximize its net contribution required for general growth [Johnston and
+Mellor (1961, pp. 590-591)].
+Others, especially Nichols (1963), Schultz (1953), and Jorgenson (1961), also
+emphasized this interdependence between a country's agriculture and its industry. Myint (1975) stressed a curious inconsistency between the "closed economy" model implicit in this domestic interdependence and the fifth role, earning
+foreign exchange, which obviously implies the country is open to international
+trade. This trade perspective returns in the 1970s and 1980s to dominate thinking
+about appropriate development strategies, but it was largely ignored in the 1960s,
+perhaps because of the dominance of the "Indian model" in development
+thinking, in which sheer size keeps the importance of foreign trade quite small,
+even apart from the "inward looking" strategy being pursued.
+Despite the early insistence by agricultural economists that the agricultural
+sector must be viewed as part of the overall economy and that the emphasis be
+placed on the sector's interdependence with the industrial and service sectors
+rather than on its forced contributions to them, the notion of agriculture as a
+resource reservoir has persisted in general development models. Reynolds emphasized an important but usually overlooked distinction between static and dynamic views of the resource transfers:
+In most development models, modern industry is the cutting edge of economic
+growth, while agriculture plays the role of a resource reservoir which can be
+drawn on for supplies of food, labor, and finance to fuel the growth of urban
+
+Ch. 8." The Agricultural Transformation
+
+291
+
+activities. It is argued that this is both a logical necessity and a matter of
+historical experience, illustrated by the case of Japan.
+In commenting on this view, I must emphasize a distinction that is often not
+clearly drawn: (1) It is one thing to assert that, in an economy where
+agricultural output is not rising, the agricultural sector contains potential
+surpluses of labor time, food output, and saving capacity requiring only
+appropriate public policies for their release. This we may term the static view
+of resource transfer. (2) It is quite a different thing to assert that, in an
+economy where agricultural output is being raised by a combination of
+investment and technical progress, part of the increment in farm output and
+income is available for transfer to non-agriculture. This we may term the
+dynamic view of resource transfer. The model-building implications of this
+approach are different, and its policy implications are decidedly different
+[Reynolds (1975, pp. 14-15)].
+The welfare consequences of the two views are also sharply different. Forced
+extraction of resources from a stagnant agricultural sector almost always creates
+widespread rural poverty, sometimes famine. Market linkages that connect a
+dynamic agricultural sector to rapidly growingindustrial and service sectors offer
+an opportunity for rural inhabitants to choose in which sector they wish to
+participate. There are certainly losers in this process: high-cost producers in
+unfavorable ecological settings who cannot compete with low-cost producers in
+favored locales who have access to new technology; or newly landless laborers
+who have lost their tenancy access to land when commercial relationships replace
+patron-client relationships. But new technology and market linkages create more
+opportunities than they destroy if both the agricultural and nonagricultural
+sectors are growing together. An emphasis on finding the policy environment that
+creates such mutual growth is needed. For agriculture, that environment must
+call forth rapid technical change. Experience since the mid-1960s has demonstrated how to do that, but the key has been to understand why the agricultural
+sector is different from the industrial and service sectors [Hayami and Ruttan
+(1985), Timmer et al. (1983)].
+
+3. Why agriculture is different
+The early purposeful neglect of agriculture can be partly attributed to development economists who were remote from any real understanding of what makes
+the agricultural sector quite different from either manufacturing or services [Little
+(1982)]. In developing countries, the agricultural sector is different from other
+productive sectors of an economy, particularly in its large contribution to
+
+292
+
+C P . Tirnrner
+
+national income and the large numbers of participants in the sector. Both the
+agricultural transformation itself and the contribution of agriculture to the rest of
+the economy depend on three important features discussed here: the peculiarities
+of the agricultural production function, the importance of home consumption of
+output for the sector, and the role of the agricultural sector as a resource
+reservoir. These features are more evident in traditional societies, and their
+distinctiveness erodes during the process of economic modernization. The design
+of agricultural policy, in both poor and rich countries, is complicated by these
+features, but a recognition of them is essential to a full understanding of the
+contribution agriculture might realistically be asked to make to a country's
+development effort. 5
+
+3.1. Decision-making in agriculture
+The sheer size of agriculture in most poor countries' economies, with over 50
+percent of national output and up to 80 percent of the labor force in agricultural
+activities, distinguishes the sector from all others in the early stages of development. When directly related input and output industries and marketing activities
+are included, "agribusiness" seldom declines to less than 20 percent of any
+country's economy. Hence the sector remains the largest single "industry" in
+absolute size even in rich countries.
+In most countries, if the available arable land were divided equally among the
+farm population, the resulting average farm size would be "small" by comparison
+with United States or European standards. Farms of less than a hectare characterize China, Bangladesh, and Java; even in Japan average farm size is still only
+slightly greater than one hectare. The average in India is only about 1 to 2
+hectares, and in Africa and Latin America farms tend to be less than 10 to 20
+hectares in size. Average farm size in the United States is well over 100 hectares
+and over 50 hectares in the United Kingdom.
+The available farmland, of course, is usually not equally divided among all the
+potential farmers. The conditions of land tenure and the size distribution of
+farms are important characteristics of a country's agricultural decision-making
+environment. A country with a unimodal distribution of f a r m s i z e s - a large
+number of small, family-operated farms capable of supporting the family members above a subsistence level, with only a fringe of smaller and larger farms
+around this modal n o r m - h a s the potential to use agricultural development
+strategy as a means of reducing rural poverty at the same time that it increases
+agricultural production. Cotmtries with bimodal distributions of farm sizes - many
+SAn effort to formalize the impact of agriculture's distinct features, especially the behavioral and
+material determinants of production relations, is in Binswangerand Rosenzweig(1986).
+
+Ch. 8: The Agricultural Transformation
+
+293
+
+very small farms on a minority of the land with a few very large, estate-like farms
+that occupy most of the arable land and produce most of the food surplus
+available for urban m a r k e t s - f a c e much more difficult dilemmas over how to
+reduce the impact of rural poverty while using traditional output-increasing
+strategies of agricultural development [Johnston and Kilby (1975)].
+In both private and collective agricultures, decision-making is conditioned
+primarily by the nature of incentives to work rather than by the pace and design
+of the work itself, and these incentives are difficult to structure in an efficient
+manner unless the cultivator owns the land. In situations where ownership and
+operation are separate, a host of complicated contractual arrangements that
+strive for second-best efficiency outcomes have evolved in different settings
+[Bardhan, Chapter 3 in this Handbook, Binswanger and Rosenzweig (1981, 1986),
+Stiglitz, Chapter 5 in this Handbook].
+Farming is an undertaking that involves many decisions. What crops to plant,
+what inputs to use, when to plow, to seed, to cultivate, to irrigate, to harvest, how
+much to keep for home consumption, how much to sell and how much to store
+for later sale are the farming decisions that occupy the daily routine of most
+agricultural producers. What is unique about agriculture is that literally millions
+of individuals and households are making these decisions themselves. Changing
+agricultural production decisions to increase food output is an entirely different
+process from changing decisions about how much steel or cement to produce. In
+most countries a dozen or so individuals could take direct action which would
+lead to a 10 percent increase in steel output in a year or so, and their decisions
+would be decisive.
+Nowhere, not even in socialist countries, can a similar small group of individuals decide to raise food production by 10 percent. A small group of planners, or
+the president and the cabinet, can decide they w a n t food production to rise by 10
+percent. They can tell the food logistics agency, the ministry of agriculture, the
+newspapers, and agriculture extension agents that they want food production to
+rise by 10 percent. But they cannot increase food production 10 percent by
+themselves. They must also convince the millions of farmers in their country to
+want to increase food production by 10 percent and make it in their self-interest
+to do so.
+The vast number of agricultural decision-makers implies that there are simply
+too many to reach directly with either pleas for cooperation or police power.
+Farmers must see the benefits of higher output for themselves because there are
+too many opportunities to let high yields slip beneath the hoe or in a late
+fertilizer application, even under the watchful eyes of a guardian. Farming is a
+subtle combination of skilled craft and brute force. The brute force alone will not
+achieve high yields.
+In traditional agriculture with static technology, farmers learn these skills by
+repeated trial and error. The lessons of parents and grandparents remain rele-
+
+294
+
+C.P. Timmer
+
+vant. But when new technology becomes available, farmers do not automatically
+acquire the requisite skills to deal with disequilibrium [Schultz (1964, 1975)].
+Government interventions can have a high payoff, particularly investment in
+extension services, general education (especially rural primary education that
+includes instruction in farming skills), and rural infrastructure to lower the costs
+of exchanging inputs and outputs, which become essential ingredients in speeding
+the adoption of new agricultural technology.
+The scope for effective government intervention is conditioned by the efficiency
+with which farms allocate the resources at their disposal to produce crops,
+relative to alternative uses of these resources, the technical ability of farmers to
+achieve the maximum output from a given set of inputs, and the impact of
+alternative forms of land tenure on both allocative and technical performance of
+farmers. Given the large number of farmers within a typical developing country,
+government extension agents cannot teach each individual farmer new agricultural techniques. Price policy for farm crops and agricultural inputs, on the other
+hand, is an intervention that reaches most farmers quite directly while being
+amenable to effective government control. Consequently, knowing the role of
+relative prices in influencing the behavior of farmers is extremely important. The
+effectiveness of prices in changing producer decisions also depends on farmers'
+allocative and technical efficiency and on the form of tenure contract for the land
+they farm [Streeten (1986), Krishna (1984)]. It is a mistake to think that farmer
+responsiveness to price is somehow immutable and is given exogenously to the
+agricultural sector. Even if all farmers were narrow-minded profit-maximizers of
+their available production functions, there would be substantial scope for altering
+both the production function and the economic environment in which the
+maximization takes place. In a world in which risk management involves the
+establishment of patron-client relations, in which substantial bargaining may go
+on within the farm household over task assignments, the division of income, and
+gender-specific access to nutrients, and in which the access of farm members to
+labor and credit markets may change radically over time even within fairly stable
+agricultural technology and prices, the decision-making process itself must also
+be treated as a variable.
+
+3.2. Characteristics of agricultural production functions
+One unusual feature of the agricultural production function is the efficiency cost
+of separating labor and management. Knowing what the right inputs are, how to
+combine them, and how to tend the process is the major function of management. In owner-operated farming, this management skill is combined with the
+farm household's own labor power, which is also an important ingredient in
+growing crops. Several unique features of agricultural production functions
+
+Ch. 8: The Agricultural Transformation
+
+295
+
+contribute to the decision-intensity of farming, to the productivity of the family
+farm, and to the search for reasonably efficient substitutes for direct landownership where the family farm is not prevalent. Seasonality, geographical
+dispersion, and the role of risk and uncertainty are the most important.
+
+3.2.1. Seasonality
+
+No agricultural region of the world has an absolutely constant year-round
+climate. Winter and summer create distinct growing seasons in the temperate
+zones. Wet and dry seasons, or the monsoon season, create conditions when
+planting is appropriate, when harvesting would be difficult, or simply when some
+crops will not thrive. Climatic variations cause agricultural production to follow
+distinct seasonal patterns even in most tropical areas, but seasonality is not a
+fixed and rigid constraint. Rice will grow in the dry season if irrigation water is
+provided, and tomatoes will grow in Siberia in January under artificial lights in a
+warm greenhouse. Seasonality is important to farmers because it is generally
+cheaper to let nature provide many of the essential inputs for agricultural
+production- solar energy, water, carbon dioxide, temperature control, and essential nutrients from natural soils. But it is not always economical to let nature
+dictate the agronomic environment. One of the major tasks of government policy
+is to invest in socially-profitable interventions, such as irrigation and drainage,
+that increase farmers' control over the crops that can be grown in particular
+regions and time periods.
+Seasonality also tends to create high premiums to timely performance of such
+critical agricultural tasks as plowing, planting, cultivating, and harvesting. Even
+though the available labor pool might be more than adequate to provide the
+required number of workers per hectare over an entire year for all the crops being
+grown, if certain tasks must be performed very quickly at specific times to ensure
+maximum yields, important labor bottlenecks might occur in the midst of an
+average surplus labor pool. Such bottlenecks can meet with two responses. One is
+to work out long-term contracts with laborers that gives them preferential access
+to farm employment in the off-season (or access to land to operate as a tenant
+farmer, or to credit, etc.) in return for working on the landowner's farm during
+the peak seasons [Bardhan (1984)]. Alternatively, because such arrangements tend
+to impose high supervisory requirements on the owner's time, they frequently
+induce individual farmers to mechanize specific tasks- plowing or harvestingeven when much rural unemployment exists over the course of the year. In such
+circumstances, a tractor that pays for itself in both private and social terms by
+timely plowing also has a very low marginal cost of operation for other tasks as
+well, and labor displacement can be much more widespread than would be
+indicated by the removal of the plowing bottleneck alone.
+
+296
+
+C.P. Timmer
+
+Two features of seasonality are important in designing agricultural policy.
+First, seasonal aspects of agricultural production frequently constrain yields
+because of input bottlenecks. Labor (and its supervision) is most often the
+constraining factor, but fertilizer, seeds, credit, or irrigation water supplies must
+also be available in highly-specific time periods. When fertilizer reaches the
+village godown a month after the proper application time, it might as well not
+have arrived at all. Government authorities responsible for the management of
+agricultural input supply distribution are frequently unaware of or insensitive to
+the extreme importance of timely input availability. Suppliers whose incomes
+depend on providing inputs to farmers when and where needed are much more
+responsive to shifts in weather, cropping patterns, and new technologies than are
+agencies trying to allocate inputs within the guidelines of five-year plans and
+supplies available from a planned industrial sector. Modern agriculture that uses
+industrial inputs as the basis for high yields is a dynamic enterprise quite unlike
+factories. Input and output markets must function efficiently, reacting to weather
+changes, alterations in cropping patterns, and technical change if production is to
+grow rapidly. Centrally planned allocations of industrial products to the agricultural sector are almost never in the right place at the right time, or even the right
+product.
+Second, there are often very high private economic returns to eliminating
+seasonal bottlenecks in production. When these private returns are at least partly
+generated by higher and more stable yields of agricultural products, society is
+also likely to gain. But if the private gains come from displacing hired labor that
+has few alternative production opportunities, the social gains might be small or
+even negative. The seasonal dimensions to agricultural production complicate the
+planning process considerably. Most agricultural data are published on an annual
+basis, and there is an inevitable tendency to think about the sector in terms of the
+same annual growth performance criteria that are used to evaluate the steel or
+cotton textile industries. Such an annual approach hides two important roles for
+government analysis and intervention: in the appropriate provision of inputs
+when and where they are needed, and in the full analysis of the social impact on
+agricultural production of private investments to reduce seasonal bottlenecks.
+3. 2.2. Geographical dispersion
+
+Agriculture is the only major sector that uses the land surface as an essential
+input into its production function. Like seasonality, this widespread use of land is
+due to the largesse of nature. It is almost always cheaper to let farms capture the
+free solar energy and rain than it is to stack a hundred stories of hydroponic
+"fields" on top of each other and provide the light, nutrients, and water from
+industrial sources. This wide geographical dispersion of agricultural production
+has an important economic consequence. Transportation becomes essential if any
+
+Ch. 8: The Agricultural Transformation
+
+297
+
+output is going to leave the farm for consumption by others or if inputs, such as
+modern seeds, fertilizer, pesticides, or machinery, are to be used on the farm to
+raise output.
+In combination, seasonality and geographical dispersion create the need for a
+marketing system that can store the product from a short harvest period to the
+much longer period of desired consumption and can move the commodity from
+the farm where it was grown to the many households where it will be consumed.
+Both of these functions require that the commodity change hands and that
+exchange of ownership take place. This transaction can happen only when both
+parties agree on the terms of the exchange or the price for the commodity at the
+point of sale. In socialist economies the terms of exchange are often set by the
+state. But all other marketing services must still be provided if the food grown by
+farmers is to be eaten by consumers.
+The necessary growth of marketing services is an often overlooked component
+of the agricultural transformation. As Kuznets (1966) pointed out, farmers are
+caught in a double squeeze by Engel's Law. The income elasticity for overall food
+expenditures is less than one, implying a declining share of national income for
+agriculture if commodity prices are stable. But a rising share of the consumers'
+food expenditure is devoted to marketing costs, and so farmers receive a
+declining share of food expenditures, thus compounding the decline in their share
+of national income. As discussed below, technical change has proceeded so
+rapidly in agriculture in the past century that farm commodity prices have tended
+to fall relative to prices for other goods and services produced by growing
+economies. Technical change is also a major factor explaining the rapidly falling
+share of national income captured by agriculture directly.
+3.2.3. R i s k and uncertainty
+
+Farmers the world over talk primarily about two topics: the weather and prices.
+On these two variables ride the rewards for the whole year's effort in farming. A
+failed monsoon, a flood, or a hailstorm can wipe out the crop. A bumper harvest
+can cause large losses if the price falls too low. No other industry, even
+construction or tourism, is so dependent on the whims of nature and volatile
+markets to bring in a profit on the investment of time and money that goes into
+farming. Farmers who repeatedly make good decisions in the context of rapid
+changes in their economic environment tend to survive and thrive. Those who do
+not frequently fail; they move to urban areas in search of jobs or become
+impoverished landless laborers dependent on the rural economy for their incomes
+and access to food. Socialist-managed agricultures can cushion much of the
+welfare shock to individuals by sharing risks, but the importance of rapid and
+effective decision-making remains as the key to dynamic efficiency in agricultural
+systems.
+
+298
+
+C.P. Tirnmer
+
+The fact that weather is uncertain causes farmers to behave differently than
+they would if weather were always known. This general uncertainty usually leads
+farmers to choose crops that will resist weather extremes, particular varieties of
+crops that are more tolerant of weather variations, and lower levels of inputs than
+would be optimal in a certain world due to the risk of losing the investment
+altogether. Equally important, farmers' reactions to weather variations as they
+actually occur also have aggregate consequences [Roumasset, Boussard and Singh
+(1979)]. A late monsoon might cause millet instead of wheat to be planted, good
+rains might permit a second or third rice crop, and high temperatures and
+humidity can lead to serious pest and disease problems that force farmers to
+change crop rotations. Each adjustment by farmers can spill over into rural labor
+markets, causing serious shortages if planting must be done suddenly when the
+weather breaks or the harvest brought in before a flood. A particularly "dry" dry
+season might mean the second crop is not planted or harvested, and an important, perhaps critical, source of wage income is eliminated for many rural
+workers. The reduced crop output might not be the most important consequence
+of such a crop failure. A famine could result because of the failed income
+opportunities [Sen (1981)].
+Fluctuations in aggregate production are magnified at the level of marketings
+available for consumption by nonfarm households because farm-household consumption tends to vary somewhat less than production. In years of poor weather,
+net marketings decline proportionately more than production. Similarly, in good
+years the percentage increase in marketings is usually substantially larger than
+the production increases. These wide fluctuations simply add to the difficulty of
+stabilizing domestic food prices and provisioning urban areas.
+Price uncertainty also adds to the farmer's difficulty in deciding what crops to
+grow and how many inputs to use in growing them. Unlike the handful of
+manufacturers in large-scale industries, farmers are unable to set their output
+prices and later adjust production and inventory levels to meet the price targets.
+Unlike consumers, who know with near certainty the price they must pay for a
+given quantity and quality of a commodity at the time they buy it, farmers must
+make major decisions about purchases of inputs well in advance of knowing what
+prices their resulting output will bring. At the time many key farming decisions
+are m a d e - t h e allocation of land to various crops, fertilizer applications, hiring
+labor for weeding- the farmer can only guess at the prices for the output.
+Reducing weather and price uncertainties is an important role for government
+interventions. Dams and drainage ditches can reduce the impact of rainfall
+variations, disaster insurance can provide a new start even if heavy investments
+are wiped out, and research on more adaptable but still high-yielding plant
+varieties can reduce the risks of new technology. Similarly, reducing price
+uncertainty is a major government role, which can be accomplished with better
+price forecasting information, the use of import and export policy to provide a
+band of prices within which domestic price formation can take place, or a more
+
+Ch. 8." The Agricultural Transformation
+
+299
+
+aggressive floor and ceiling price policy implemented with a government-operated
+buffer stock program. Of course, not all stabilizing efforts are worth their costs,
+and some fluctuations are necessary if changes in output are to be accommodated
+by changes in demand, even allowing for changes in stock levels. The relative
+costs and benefits of commodity price stabilization have been the subject of
+extensive theoretical analysis. Price stabilization schemes for world markets
+perform poorly in both theory and practice [see, especially, Newbery and Stiglitz
+(1981)], but the merits of domestic price stabilization programs that use trade as
+well as buffer stocks to achieve their goals depend very much on the local
+circumstances of dynamics of supply and demand [Streeten (1986), Timmer
+(1986)].
+
+3.3. The farm household as both producer and consumer
+
+Truly subsistence households produce to meet their own consumption needs and
+do not need the market for either buying or selling. To such households price
+signals are not only irrelevant, they are unseen. Few such households remain in
+today's world, not because farm families no longer consume produce from their
+own fields, but because most farm families now buy and sell inputs and output in
+rural markets. They are aware of and react to market prices in making a wide
+variety of household decisions. Most farm households still retain some or most of
+their farm production for home consumption, and this role of home consumption
+is a further distinguishing feature of the agricultural sector. Few steelworkers or
+even textile workers take their products home for household use.
+Only under highly restrictive and unrealistic assumptions about the completeness of markets and access of all farm households to them can production and
+consumption decisions be analyzed separately [Singh, Squire and Strauss (1985)].
+In rural areas of developing countries, the need to make connected production
+and consumption decisions within a single household obviously complicates life
+for the farm household; the value of additional time spent in food preparation or
+tending the children must be balanced against the productivity of an additional
+hour weeding the rice, driving the ducks, or tending the home garden. Where it
+exists, the opportunity to spend some of that time working for cash on a
+neighbor's farm or in a rural wage-labor market places a lower bound on the
+value of household-farm time, and the value of leisure ultimately places a limit on
+the willingness to work, especially at low-productivity tasks. For households with
+inadequate land to grow surplus crops for sale and with limited outside employment opportunities, however, the marginal value of leisure time might be low
+indeed, possibly near zero. Even tiny increments to output can be valuable for
+very poor households.
+The importance of joint household-farm decision-making also raises complex
+questions for analysts in search of ways to organize data and research issues into
+
+300
+
+C.P. Timmer
+
+manageable and comprehensible frameworks for analysis. These complex questions have recently become the focus of a revived interest in models of household
+economies. The "new household economics" provides a powerful perspective on
+joint decision-making about food production, food consumption, investment in
+human capital, and even fertility and other demographic decisions. By showing
+how all these decisions are related to each other because of the time constraint,
+and hence to the economic environment surrounding the household, the household economics models provide analysts with a conceptual understanding of the
+complicated lives that rural people live [see Schultz, Chapter 13, in this Handbook,
+Evenson (1981), Rosenzweig, Chapter 15 in this Handbook]. At the same time,
+most such models grossly simplify the actual complexity of rural household
+decision making. The key issue is nearly always the functioning of rural labor
+markets because it determines the perception of the opportunity cost of labor in
+each household. In a survey of tire theoretical and empirical literature on the
+functioning of rural labor markets, Binswanger and Rosenzweig offer the following conclusions:
+Progress toward a richer, integrated theoretical framework that can deal with
+the complexities associated with market failures as well as the determination of
+wages and other contractual terms has been hampered by the evolution of
+theory along two, mutually inconsistent paths. The rural wage determination
+models developed so far assume the complete absence of a land rental or sales
+market; that is, they take land distribution as exogenously given. The contractual choice models, on the other hand, treat the wage rate as exogenously
+given, while concentrating on land and credit market transactions; thus they
+have little to say about the determination of earnings or employment. The
+strength of contractual choice models lies in their clarification of the efficiency
+and equity implications of contracts and in their identification of the underlying causes of the market imperfections that lead to the contracts. These models
+also suggest the difficulties associated with policy intervention in single-tenancy
+or credit markets that is aimed at curing symptoms or apparent deficiencies in
+such arrangements. Without this integration of all the major interrelated
+markets- land, labor, credit- into a single, coherent rural model, however, we
+will be severely handicapped in attempting to predict the consequences of
+economic development in the rural sector [Binswanger and Rosenzweig (1981,
+pp. 54-55)1.
+
+3.4. What difference does the difference make?
+Two important implications flow from the distinctive characteristics of agriculture relative to industry, and both are treated extensively in sections that follow.
+First, if agricultural decision-making is in fact based on rational assessments of
+highly heterogeneous environments, substantial knowledge of micro environ-
+
+Ch. 8: The Agricultural Transformation
+
+301
+
+ments is necessary to understand the impact of policy interventions or technical
+change on the agricultural sector. Designing new technology and fostering its
+widespread adoption is primarily a public sector activity because of the relatively
+small scale of individual farmers, but the success of any given technical innovation depends on the private decisions of those same multitudinous farmers.
+Understanding the source, dynamics, and impact of technical change in agriculture is thus a major part of understanding the agricultural transformation, a
+process vastly complicated by the smallness of scale, geographic dispersion, and
+heterogeneity of the environment, both economic and ecological, that is characteristic of agriculture in developing countries.
+The second important implication of agriculture's distinctiveness is how it
+conditions the role of public policy, particularly that other than the design and
+implementation of research leading to technical change. The vision dies hard of
+agriculture as a resource reservoir to be tapped indiscriminately, without reinvestment or adverse consequences for growth, on behalf of the urban economy.
+Although a few countries have a record of sustained progress in agriculture and
+concomitant overall economic growth, the list is short. Only eight countries listed
+in the Worm Development Report, 1986 have growth rates for agricultural GDP of
+3 percent per year or greater for both the 1965-73 and 1973-84 periods, along
+with growth rates for total GDP of 4 percent per year or greater for the same t~vo
+periods: Kenya, Pakistan, Indonesia, Ivory Coast, Philippines, Thailand, Brazil,
+and Mexico. Sri Lanka and Turkey came close; Malaysia would probably have
+been included had data been available for the earlier period. Because population
+growth in several of these countries is near or more than 3 percent per year, even
+these excellent aggregate performances leave the rate of growth per capita at
+levels that permit a doubling of incomes in a quarter of a century at best.
+It has obviously been difficult to find the right mix of policies to sustain
+agricultural growth. Much of the reason traces to a failure of policy-makers to
+understand the characteristics of agriculture that make policy design so complicated. They face yet another paradox: the essentially private-sector nature of
+agricultural decision-making at the same time that the environment for that
+decision-making is heavily dependent on sound government interventions into
+agricultural research, rural infrastructure, and market relationships. The distinctive characteristics of agriculture argue that governments intervene into agricultural decision-making at great risk, for they can easily cause farmers to withdraw
+from making investments and producing for the market, which are essential to
+mobilizing resources for overall economic growth. And yet, intervene they must.
+The environment for transforming agriculture is a public good created by wise
+but active public intervention.
+It is easy to get the mix wrong, even to have the elements backward. Some
+governments have tried to dictate farm-level decisions on inputs and outputs
+while totally ignoring both the investments in research and infrastructure needed
+to create a healthy agriculture and the pricing environment that will mobilize
+
+302
+
+c.P. Timn,er
+
+peasants on behalf of higher productivity. But enough success stories have been
+accumulated for some general lessons to be propounded. The dimensions of
+successful technical change are discussed next, followed by a review of overall
+policies for agricultural development.
+
+4. Transforming agriculture
+Agricultural output can increase along a given supply curve or with a shift in the
+supply curve to the right. The scope for increasing output along a fixed supply
+curve by continuing to raise prices is extremely limited even in fully commercial
+and technically advanced farming systems; nearly all long-term growth in crop
+and livestock production comes from investment that expands capacity and from
+technical change that increases output-input ratios. The importance of prices for
+transforming agriculture is not in triggering the short-run response of farmers,
+although this is sometimes quite dramatic in situations where severe distortions
+are eliminated, but in conditioning the investment climate and expectations of all
+decision-makers in the rural economy about the future profitability of activities in
+the sector. Positive expectations lead to rapid investment in technical change
+when it is available.
+
+4.1. The sources and dynamics of technical change
+
+Technical change is the source of most growth in productivity in the long run,
+since continued investment in capital that embodies traditional technology very
+quickly faces low marginal returns [Schultz (1964), Hayami and Ruttan (1985)].
+As late as the 1920s, most of the agricultural innovations in Europe and the
+United States arose on the farm and were gradually diffused by word of mouth
+and by agricultural colleges. Such on-farm innovation continues, but the scientific
+revolution in agriculture has made the discovery of technical innovations much
+more dependent on knowledge and capital investment. Very few farmers even in
+the United States have the resources to carry out significant agricultural research
+programs, and most such research is conducted by publicly-funded centers for
+agricultural research and by a handful of large agribusiness concerns, which are
+involved primarily in developing hybrid seed technology, chemical technology
+(herbicides and insecticides), and agricultural machinery. 6 The small scale of
+operations and limited financial resources of most farms mean that little important agricultural research is conducted by farmers.
+6The revolution in biotechnologymight change the concentrationof agricultural research in the
+near future. Numerous small companies, many associated with faculty members of universities, are
+engaged in geneticmanipulationof important agriculturalcrops and animals,althoughthe impact on
+farm productivityhas not yet been significant.
+
+Ch. 8." The Agricultural Transformation
+
+303
+
+Diffusion of new technology is also a matter of policy concern, especially
+because not all farm households have equal access either to the knowledge to use
+new technology or to the agricultural and financial resources needed to make it
+productive on their own farms. Some inputs are lumpy and cannot be used
+efficiently on farms of even average size in many parts of the world. Large-scale
+tube-wells and tractors might contribute significantly to higher productivity even
+on small farms if institutional arrangements could be found to separate the
+service flows that such inputs can provide from the ownership of the assets
+themselves.
+The evidence suggests that truly profitable innovations spread quickly no
+matter what the government does. Wherever the entrepreneurship exists and the
+economic environment permits, rental arrangements and tractor-hire services
+frequently emerge spontaneously [Goldman and Squire (1982)]. However, the
+location-specific nature of much new agricultural technology, especially seed
+technology, means that large areas of a country might be bypassed by the
+diffusion process unless government research and extension workers are actively
+engaged in the on-farm testing and evaluation of new technology. Adapting a
+general agricultural technology to a specific seed strain or technique that fits
+individual farming environments is a major responsibility of local research and
+extension stations.
+An important concern of government policy is the impact of technical change
+on agricultural employment and rural income distribution. Historical evidence
+shows enormous variation in both the short-run and long-run impacts of innovations. The issues cannot be addressed satisfactorily by looking only at an
+individual farm or even at the agricultural sector [Scobie and Posada (1978), Hart
+(forthcoming), Hayami (1984)]. The primary effect of higher-yielding varieties of
+wheat and rice, for example, has probably been on food intake of nonagricultural
+workers. In addition, agricultural innovations tend to be embodied in inputs that
+must be provided through markets. An increased role for market relationships
+might threaten the risk management aspects of established patron-client relationships and thus have complicated effects on the entire rural economy and
+eventually on the urban economy as well.
+Most technical change in agriculture involves improvements in the biological
+processes by which plants and animals grow and yield output useful to society or
+in the mechanical functions that are necessary for the biological processes to
+carry on more efficiently than in a natural setting. Primitive agriculture uses
+natural biological materials and processes in combination with human labor and
+management to bring in a crop or livestock product. Modern agriculture uses
+scientific knowledge to reshape the biological materials so that each plant and
+animal is more productive, and it increasingly substitutes machines for human
+labor.
+Biological-chemical innovations, such as hybrid seeds, fertilizers, and pesticides, all tend to be yield-increasing and thus save on land. Mechanical technol-
+
+304
+
+C.P. Timmer
+
+ogy can also have a yield effect when it permits more timely cultivation and an
+extension of multiple cropping, cultivation of heavy soils, or the use of water
+pumps on dry lands, but most mechanical technology is designed to make
+agricultural work less physically burdensome and to save on the amount of labor
+needed to produce a unit of output.
+
+4.1.1. A simple model of changing agriculturalproductivity
+Productivity in agriculture traditionally is measured in one of two ways: in
+output per hectare, or output per agricultural worker. Despite the focus by
+agricultural scientists on the former measure, from a welfare perspective the latter
+measure is clearly the relevant one. Output per hectare is important only as a
+vehicle for raising output per worker. In land-scarce environments facing rapid
+population growth and limited absorption of labor by industry, of course, raising
+output per hectare might be the only way to raise labor productivity. Most
+analyses treat both measures, and the model here, derived from Hayami and
+Ruttan (1985), does as well.
+Figure 8.2 plots agricultural output per unit of land area in logarithmic units
+on the vertical axis. Hayami and Ruttan convert agricultural output into wheat
+units, Bairoch (1975) uses "direct" calories, and the World Bank reports agricultural value-added and contribution to GDP in its annual Worm Development
+Report. For the purposes of this discussion, the vertical axis is simply crop yields
+per hectare.
+The horizontal axis measures agricultural output per worker on a logarithmic
+scale. Most econometric analyses of changes in agricultural productivity use
+output per worker as the dependent variable, and the workforce is traditionally
+defined as male workers in agriculture for the reason, indeed a rather lame one,
+that women play very different roles in agricultural production in different parts
+of the world and national statistical offices are not very consistent in how they
+treat the matter. For the purposes here, the workforce is measured as the entire
+economically active agricultural population. Because both axes are measured in
+logarithms, 45 ° lines trace out constant ratios of land per worker. Productivity
+changes over time can be traced out by connecting the coordinates at the
+beginning and the end. Figure 8.2 illustrates a variety of possibilities.
+From the point of view of improving the welfare of rural workers, only
+movements to the right - toward higher output per worker - can help. Even then,
+the distribution of output among workers, landowners, and owners of other
+factors of production will determine whether or not the higher productivity has
+widespread welfare effects. Straight movements to the right are likely to be
+relatively rare. As Figure 8.2 notes, such movements imply a declining agricultural workforce and no changes in yields, normally in conjunction with new
+
+Ch. 8: The Agricultural Transformation
+Y
+A
+
+305
+population growth matched by
+increased yields (through higher
+labor inputs and technical
+change), but no improvement
+in rural living standards
+A
+- - constant
+
+population growth
+faster than technical
+change in raising
+yields, with
+deterioration
+in rural living s t a n - ~
+dards
+
+igration from
+agriculture, or new
+/ land opened for culti~n
+vation with technical
+change raising crop yields;
+ing standards depend on
+/
+
+E
+
+t of rural landlessness
+al wages
+
+/
+population growth faster
+than land opening /
+or technical change,
+/
+plus problems with soil /
+erosion or bad p o l i c i e s /
+leading to lower o u t - /
+put and deteriorating rural /
+livingstan- / /
+
+,<
+
+/
+
+declining agricultural work
+force with no changes in
+yields (but new mechanical
+technology needed to maintain
+output with fewer workers)
+
+d a r d s /
+
+/
+
+opening new land on the
+frontier with lower quality
+soils and no technical change
+
+Agricultural output per worker (logarithmic scale)
+
+Y
+L
+
+Figure 8.2. Various possibilities for changing land and labor productivities in agriculture.
+
+mechanical technology to maintain levels of output with fewer workers per
+hectare.
+What might have been a typical path while new continents were being
+colonized in the seventeenth and eighteenth centuries, but which is virtually
+unseen now, is rising labor productivity with falling land productivity. Lowerquality soils, distance from input and output markets, and low demand for
+technical innovations do not prevent extensification of agriculture at the frontier
+from raising living standards- and hence inducing migration- even while yields
+are falling.
+The far more common pattern is a movement upward to the right, as the
+productivity of both land and labor increases. If the movement is exactly in a 45 °
+
+306
+
+C.P. Timmer
+
+direction, agricultural land per worker remains constant, and yields must rise if
+labor productivity is to rise. A striking difference between currently developed
+countries and poor countries is their paths relative to this 45 ° line. As Bairoch
+(1975) noted, and evidence from Hayami and Ruttan (1985) to be presented
+shortly indicates, most developed countries increased land per worker even in the
+early stages of their development, whereas only a few less-developed countries are
+able to do so. The reasons are obvious. Either new lands must be opened faster
+than population growth, or out-migration from agriculture must proceed fast
+enough to cause an absolute reduction in the agricultural work force. Only a
+handful of countries can meet either of these conditions.
+In countries with very limited agricultural land resources and rapid rates of
+growth in population, often the best that could be done since the early 1960s was
+to maintain constant labor productivity by increasing crop yields at the same
+pace as expansion of the rural workforce. This combination generates a vertical
+growth path, which might alternatively be described as running fast technologically to stand still economically. But some countries have not even done this well.
+Their populations have grown faster than the pace of technical change on farms,
+and their productivity path is an arrow up and to the left, reflecting lower
+standards of living in rural.areas.
+The most dismal situation, however, is movement downward to the left,
+reflecting deterioration in both measures of agricultural productivity. Output per
+hectare and output per worker fall in such circumstances. The reasons might be
+extremely rapid growth in population with expansion into ecologically unstable
+agricultural areas, or such bad policies that farmers retreat from even the
+technology that they used previously. None of the countries in Hayami and
+Ruttan's analysis fits this last pattern, but no countries from sub-Saharan tropical
+Africa were in their sample.
+4.1.2. The historical record
+
+Hayami and Ruttan (1985) assembled evidence for changes in productivity of
+agricultural labor between 1960 and 1980 (see Figure 8.3). Three patterns are
+obvious. Nearly all countries in their sample showed improvement in both
+dimensions of productivity - only Bangladesh had a decline in labor productivity,
+and only Chile had a decline in land productivity. Most developed countries had
+faster increases in labor productivity than in land productivity, thus presenting
+patterns of change "flatter" than the 45 ° lines of constant area per worker - hence
+farm sizes had increased. Most developing countries had patterns of productivity
+change steeper than the 45 ° lines, implying decreased area per worker and
+smaller farm size.
+Hayami and Ruttan see three basic patterns of agricultural development in this
+historical record (see Figure 8.4). The Asian path requires strongly rising land
+
+307
+
+Ch. 8: The Agricultural Transformation
+
+(Y/A
+LABOR PER UNIT OF AGRICULTURAL OUTPUT LOG.SCALE)
+(L/Y)
+
+i
+
+,4
+
+//%',
+/
+
+// ,
+
+_J
+<
+Ta
+
+g
+
+ra
+Z
+
+,"
+
+. -"
+
+,'"
+
+(D
+,,""
+
+E.
+
+10
+
+Ne ,'"
+,,,,J -'"
+
+Ja
+
+" " /
+
+Su /
+
+"J
+~
+<
+
+•'" -Be
+
+-J ~
+
+5
+Ba
+
+"'Ph
+
+<
+}uJ
+1re-
+
+~,~,"~-~
+
+Sp
+
+Ir
+
+"
+
+US
+
+F-
+
+2
+
+F-
+
+"'MeSy
+
+0
+
+.
+
+Ve
+
+/'~e/l,4
+
+oq'""
+
+Ch
+
+..~7,Ar
+
+<
+
++<o~,~':'"
+
+~t-
+
+tr
+
+b
+(.J
+rr"
+(.9
+<
+
+/,
+
+uJ
+
+""
+
+"'"
+Li " -"
+
+Par
+
+~'~_f'"
+"
+
+Aus
+
+a
+Z
+
+0_1
+/
+
+Key:
+
+I
+
+I
+
+10
+
+100
+
+,
+
+AGRICULTURAL OUTPUT PER MALE WORKER (LOG.SCALE)
+
+Argentina
+Australia
+Austria
+Bangladesh
+Belgium
+(& Luxembourg)
+Brazil
+Canada
+Chile
+Colombia
+Denmark
+Egypt
+
+Ar
+Aus
+Au
+Ba
+Be
+Br
+Ca
+Ch
+Co
+De
+Eg
+
+Finland
+France
+Germany, F.R.
+Greece
+India
+Ireland
+Israel
+Italy
+Japan
+Libya
+Mauritius
+
+Fi
+Fr
+Ge
+Gr
+In
+Ir
+Is
+It
+Ja
+Li
+Ma
+
+Mexico
+Me
+Netherlands Ne
+New Zealand NZ
+Norway
+No
+Pakistan
+Pak
+Paraguay Par
+Peru
+Pe
+Philippines Ph
+Portugal
+Po
+South Africa SA
+Spain
+Sp
+
+(Y/L)
+
+1000
+
+(A/Y)
+
+Sri Lanka
+Surinam
+Sweden
+Switzerland
+Syria
+Taiwan
+Turkey
+United Kingdom
+United States
+Venezuela
+Yugoslavia
+
+Sr
+Su
+Swe
+Swi
+Sy
+Ta
+Tu
+UK
+USA
+Ve
+Yu
+
+F i g u r e 8.3. I n t e r n a t i o n a l c o m p a r i s o n of labor and land productivities in agriculture, the 1960 data
+p o i n t s c o n n e c t e d to the 1980 points by arrows. Source: H a y a m i and R u t t a n (1985, p, 121).
+
+308
+
+C.P. Timmer
+Y
+
+Technology
+front;eronthe
+rnetaproductiofuncti
+n on
+Aconstan
+t
+~ ~ a n
+
+path ~ L
+
+t.o
+E
+
+Europeanpath
+
+&
+o,
+
+\
+~8465~/
+
+Newc°ntinenta'path
+
+Sub-Saharan
+TropicalAfrica
+
+/
+LogarithmiScal
+c e
+
+Y
+
+Figure 8.4. Patternsof changein agriculturalproductivity.
+
+productivity in early stages to cope with small farm size and rapid growth in
+population, but eventually labor productivity grows rapidly as the rest of the
+economy absorbs rural workers and raises wages. This is the "KoreaTaiwan-Japan" model, but Pakistan, Philippines, Indonesia, Sri Lanka, and even
+Egypt might also have access to this path.
+At the other extreme, the path of productivity change in the newly opened
+continents with surplus land is almost uniformly in the direction of higher labor
+productivity, and this has been true in the United States, Canada, and Australia
+since the mid-nineteenth century. It was only after the higher commodity prices
+caused by the world food crisis in 1973-74 that land productivity rose faster than
+labor productivity in the newly settled continental areas.
+
+Ch. 8: The Agricultural Transformation
+
+309
+
+The European path falls nicely between the land-scarce and the land-surplus
+paths. In Figure 8.3, many countries are clustered here, and Hayami and Ruttan
+note that the paths for Denmark and the United Kingdom create an envelope
+that contains the entire European experience:
+Denmark, which has remained relatively specialized in agricultural production
+among European countries, has attained a high labor productivity in agriculture by increasing output per unit of land. In contrast, the United Kingdom,
+which initiated the Industrial Revolution, has attained a relatively high level of
+agricultural efficiency mainly by enlarging agricultural land area per worker in
+response to the absorption of labor in nonagricultural occupations. France,
+which traditionally followed an agrarian policy designed to protect the peasant
+family farm (la petite exploitation familiale) from external competition and
+internal social change, achieved higher output per hectare than the United
+Kingdom but slower growth in output per worker than either the United
+Kingdom or Denmark until the formation of the European Economic Community (EEC). Since 1960, stimulated by increased demand for the protected
+EEC market, output and productivity of French agriculture have expanded at a
+very rapid rate [Hayami and Ruttan (1985, p. 130)].
+Connecting the most advanced countries along each productivity path reveals
+the technology frontier (see Figure 8.4). Hayami and Ruttan describe this frontier
+as a metaproduction function, arguing that tlae underlying technologies that
+describe it are potentially available to all countries at a point in time. The
+technology actually developed and disseminated depends on relative factor
+scarcities. "Induced innovation" leads scientists to develop mechanical technologies to raise labor productivity in labor-scarce societies (for example, the new
+continents), whereas scientists in land-scarce societies, such as those in Asia,
+develop biological-chemical technologies to raise output per hectare. The potential of induced innovation to solve the agricultural problems of the currently
+developing countries will be discussed below. First, some special problems of the
+African experience must be placed in the context of productivity.
+In addition to the three stylized productivity paths generated by the sample of
+countries in the analysis by Hayami and Ruttan, Figure 8.4 shows the growth
+path in agricultural productivity for Africa from 1965 to 1984, calculated from
+recent World Bank data. The definitions used are not identical to those used by
+Hayami and Ruttan, but the pattern shown is robust and perplexing. Between
+1965 and 1973, Africa's productivity performance was very much like that of new
+continental areas: slow growth in land productivity and more rapid growth in
+labor productivity. Because of rapid growth in population, this increase in labor
+productivity reflected significant progress in increasing overall agricultural output.
+
+310
+
+C.P. Timmer
+
+Something quite unique in historical experience occurred in Africa between
+1973 and 1984. For the entire continent between the Sahara and South Africa,
+the productivity of both land and labor declined. In Hayami and Ruttan's
+sample, only one country experienced a decline in each measure separately, and
+none declined in both. In Africa, an entire continent made up of more than thirty
+countries suffered a decline in both (although a few individual countries saw
+growth in both measures). The reasons for this startlingly poor performance are
+only beginning to be analyzed and understood, but it is virtually certain that a
+complex combination of bad weather, inadequate and inappropriate agricultural
+technology, and poor economic policies are to blame. The interplay between
+technology and agricultural development policy is the key issue here. Some
+analysts (but not Hayami and Ruttan) have seen induced innovation as an
+automatic market solution to a country's development problems. The African
+experience shows clearly that such is not the case.
+
+4.1.3. Sources of productioity differences
+Differences in agricultural productivity can stem from a variety of factors:
+different endowment of internal resources, such as land and livestock; different
+use of technical inputs, such as fertilizer and mechanical power; different
+investment in human capital through general and technical education; and
+different size of farms, which might generate economies or diseconomies of scale.
+Table 8.4 shows examples from the effort by Hayami and Ruttan (1985) to
+explain differences in productivity of agricultural labor according to differences
+in these factors' contributions to output. The contribution of each factor to
+productivity is based on econometric analysis of the same data set that generated
+Figure 8.3. Hayami and Ruttan estimated a production function by pooling their
+cross-section data for 44 countries for three time periods (1960, 1970, and 1980)
+and used the Cobb-Douglas output elasticities to account for differences in labor
+productivity. The results contradict Bairoch's pessimism about the potential of
+developing countries to raise their labor productivity in agriculture in the context
+of diminishing land per worker. In the three low-income countries in Table
+8.4 - India, Philippines, and Peru - roughly half the difference in labor productivity relative to that of the United States was due to differential use of technical
+inputs and investment in human capital (general and technical education). Even
+the internal resource constraints are not completely binding because investment
+in livestock has an elasticity of output about double that of land. Scale economies
+are significant in Europe and newly opened continents but not on the small-scale
+farms characteristic of Asia and Africa.
+Hayami and Ruttan conclude this part of their analysis on a positive note:
+The perspective implied by the results of this analysis for agricultural development in the less developed countries is essentially encouraging. It is clear that
+
+Ch. 8: The Agricultural Transformation
+
+31i
+o£.
+
+V 'I'
+
+~'''V
+
+,I
+
+,-q
+
+g~
+o
+o
+,--4
+
+o
+
+~'-~
+i
+
+"~.
+
+~
+
+o
+
+,..o
+
+~
+
+o
+
+~
+
+~
+
+,
+
+~
+
+~
+
+~
+
+Ce
+
+~
+
+.,~ e
+.,.~
+
+o
+
+.=_
+O
+
+O
+
+O
+
+0
+
+0
+
+0
+
+0
+
+P.
+:5
+
+,"'4
+
+6'9
+
+L~
+.~
+e..
+
+o
+
+0
+
+0
+
+0
+
+0
+
+0
+
+O 0 0 O O
+~00
+
+e~
+
+L~
+
+",3
+
+<
+
+&
+
+o ~
+
+&
+
+~
+
+=
+
+=
+
+312
+
+C.P. Timmer
+
+agricultural output per worker in the LDCs, especially the poorest ones, can be
+increased by several multiples by adequate investments in education, research,
+and the supply of modern technical inputs, even if land area per worker
+continues to decline because of growing population pressure in the rural
+sector... It is especially encouraging to find that the agricultural production
+function of the LDCs is neutral with respect to scale. This implies that the
+low-income LDCs will not be too severely handicapped by the declines in the
+land-man ratio and farm size, relative to the older developed countries, at least
+over the next decade or two [Hayami and Ruttan (1985, p. 157)].
+
+4.1.4. Problems with technical change
+Biological-chemical innovations were discovered and introduced in land-scarce,
+labor-abundant societies, such as Japan and Western Europe, whereas mechanical innovations were developed and used in land-rich, labor-scarce societies, such
+as the United States, Canada, and Australia. Such induced innovation suggests
+that each society develops an agricultural technology appropriate to its resource
+endowments and agricultural needs. This process might not continue to yield
+appropriate results, however, in the context of a much more interdependent
+international agricultural system. Perhaps more troublesome, the examples
+Hayami and Ruttan used to illustrate the relevance of their iriduced innovation
+hypothesis are all large countries, which are easily able to justify the overhead
+expenses of a modern agricultural research and extension system. The means to
+develop appropriate technology for small poor countries, such as Chad, Haiti, or
+even Laos, remains to be seen.
+Because most new agricultural technology is embodied in a physical input a
+bag of fertilizer, a new seed, a tractor, or an irrigation p u m p - it can be effective
+in a farmer's field only if a purchase (or rental arrangement) is made. Several
+consequences flow from this simple fact. For small farmers to participate in the
+benefits of technical change, not only must it be workable on their small farms
+(combines, for instance, usually are not), but they must also be able to purchase
+the input that carries the new technology. If a new seed-fertilizer package has a
+200 percent rate of return, even borrowing from a village moneylender at 10
+percent per month might be profitable. But for the full benefits of modern
+technology to reach small farmers, it might be essential that formal rural credit
+systems be accessible to the farm household with only half a hectare or less. 7
+Equally important, if new technology is embodied in inputs, a marketing and
+distribution system is necessary for farmers actually to be able to purchase the
+inputs. Many traditional agricultural societies have a long history of small-scale
+VThe dangers of subsidizing this credit are now well recognized. See Adams and Graham (1981)
+and Gonzalez-Vega(1977).
+
+Ch. 8: The Agricultural Transformation
+
+313
+
+marketing of surplus output to urban regions in exchange for consumer items,
+such as cloth, kerosene, or pots and pans, needed by farm households. There is
+no similar experience with large-scale movements of inputs, such as fertilizer or
+modern seeds, to those same dispersed farm households. The embodied nature of
+agricultural technology means that farmers cannot just be told about it. The
+marketing system must also deliver the inputs when needed.
+A further characteristic of embodied agricultural technology is that complementary fixed capital investments are often required to achieve the maximum
+benefits from the innovation. Usually this investment takes the form of better
+water control, land-leveling, and drainage. Sometimes much better control of
+seed bed preparation or more sensitive and faster harvesting techniques to avoid
+shattering and other harvesting losses is also needed; these might require tractors
+with modern implements or, for harvesting, combines or threshers. Shortermaturity cereal varieties often are ready to harvest while the rainy season is still
+under way and solar drying is difficult or impossible. In such cases mechanical
+dryers and added storage capacity are essential.
+
+4.2. Unresolved issues
+
+Many questions are unresolved or still contentious in the agricultural development profession. Most involve the relationship between technical change and the
+policy environment needed to make it effective. The problem in defining the
+relationship is partly due to the lack of understanding of household decisionmaking, especially in environments where linked contracts among labor, land,
+and credit complicate analytical models. Moreover, economists have had a
+difficult time modeling the interface between micro decisions and macro outcomes because neither micro competitive models nor macro policy models
+provide an adequate basis for analysis of decision-making in this grey area.
+Serious disputes over the long-run sustainability of modern, input-intensive
+agriculture are unresolved. The following discussion does not answer these
+questions but does frame them in the context of the previous discussion of
+technical change and the discussion yet to come of agricultural development
+strategies.
+4.2.1. Evolution in thought
+
+Research in the 1970s into the links between technical change and the decisionmaking environment at the farm level led to three quite significant changes in
+thinking about agriculture and development. First, and no doubt the most
+important for the long run, agricultural decision-makers- farmers and
+traders began to be thought of as an integral part of the rest of the economy,
+
+314
+
+C.P. Timmer
+
+connected to it by rational decision-making in the face of new technologies or
+income and price changes. Acceptance of this principle by economic modelers
+and policy-makers led to a fundamental shift in attitudes about how agriculture
+should be treated in the development process- not as an isolated appendage but
+as a key component essential to the health of the overall organism.
+Second, new importance was given to developing and choosing appropriate
+technologies, whether in agriculture directly, in processing, or in the industrial
+sector. If millions of farmers, or thousands of traders and small industrialists,
+were making rational decisions about investment, the nature of the technology set
+facing them would be at least as critical as the set of prices in determining the
+consequences of economic growth for employment and income distribution. In
+addition, farm-level decision-making was obviously conditioned by farm-level
+constraints and opportunity costs for household resources, especially unskilled
+labor. Technical packages that were inappropriate in the face of those
+constraints - especially packages imported largely intact from Western agricultural systems- were not adopted, and agricultural development failed to take place.
+Sparked by the world food crisis in 1973-74, but guided by this earlier understanding of the importance of fitting technology to field-level conditions, nearly
+all the international centers for agricultural research devoted a significant share
+of their budgets to discovering the nature of farm-level constraints on the
+adoption of new technology and to developing specific crops as well as entire
+farming systems that dealt more effectively with these constraints [see IRRI
+(1978), CIMMYT (1984)].
+The third major change in thinking in the 1970s also was sparked by the world
+food crisis, but it similarly had its roots in the new understanding of micro
+decision-making and the key role of technical change in agriculture. Early
+agricultural development strategies were aimed at providing resources for urban
+industry by helping "early adopters" of new farm technology. The consequences
+of this strategy for in, ome distribution and rural welfare prompted the development of the "basic needs" movement and efforts to promote "growth with
+equity" [Chenery et al. (1974)]. In some sense this concern for equity was an
+almost inevitable consequence of renewed emphasis on improved technology,
+which better-off farmers tended to adopt earlier, and on better price incentives
+for higher output, which clearly benefited larger farmers with a higher proportion
+of marketed output. Indeed, the focus on price incentives to achieve production
+results often overlooked the potentially serious consequences for poor consumers
+who were net purchasers of food, many of whom were very small farmers or
+landless laborers in the countryside [Timmer (1979)]. Out of the concern for
+promoting equity and meeting basic needs came a major revival in interest in
+demand analysis. Although Indian planners had used income elasticities for
+staple foods disaggregated by income class in the earliest five-year plans, no one
+had attempted the empirical disaggregation of price elasticities by income class
+
+Ch. 8: The Agricultural Transformation
+
+315
+
+until after the world food crisis in the mid-1970s. Because food prices can change
+from year to year by much larger relative amounts than incomes per capita,
+knowing such disaggregated price elasticities became critical to judging the
+welfare impact of the wide price fluctuations characteristic of the 1970s. ~ As
+Eicher and Staatz (1984) summarized it, the 1970s were primarily a period when
+agricultural economists renewed their microeconomic roots, and the decade
+brought forth a rich, and often confusing, harvest of new empirical evidence. It
+remains for this evidence to be synthesized in the 1980s to provide better
+understanding of the development process and agriculture's role in it.
+4.2.2. Farm decision-making
+
+One of the difficulties in understanding decision-making in agriculture is that
+farmers face remarkably diverse ecological and economic settings. Corporate
+businessmen in California or Sao Paolo make their living from agriculture, but so
+too do near-subsistence peasants in India or Guatemala. Despite differences in
+scale of operation and location, however, private agriculture is a markedly
+homogeneous industry in the kinds of decisions that must be made day in and
+day out and in the uncertainties that surround those decisions. The corporate
+soybean farm in Sao Paolo or the rice farm in California has more in common
+with the wheat-growing peasant operation in the Punjab than with U.S. Steel or
+Volkswagen of Brazil. Much of the daily work done on these farms is at the
+initiative of the individual workers, and the incentives they face to perform this
+work in a timely and careful fashion strongly influence the quality and quantity
+of agricultural output.
+Modeling farm decision-making is relatively simple under two extreme sets of
+assumptions: if the household is entirely self-sufficient and faces no markets, and
+if the household faces a complete set of perfect markets. Even these simple
+settings can be complicated by risk and uncertainty, by bargaining among
+members of the household over access to resources and output, and by nonpecuniary externalities in the welfare function as reflected by investment in the
+maintenance of a "moral economy" [Hart (forthcoming), Jones (1986), Scott
+(1976)]. As emphasized previously by Binswanger and Rosenzweig, however, it is
+the reality of interlocking land, labor, and credit markets and the explicitly
+limited access of some households to some markets that challenge model-builders
+who hope to capture the complexity of rural life and thereby be able to predict
+the outcome of changes in policy and technology or the commercialization of
+rural transactions. At a conference organized by Binswanger and Rosenzweig
+8An attempt to generalizefrom early empiricalresults about the relationshipbetween income level
+and the magnitude of the pure substitution term in the Slutsky matrix is in Timmer (1981); a review
+of the literature on disaggregated demand parameters is in Waterfield (1985) and Alderman (1986).
+
+316
+
+C.P. Timmer
+
+(1981) to examine the empirical record on these issues, what was striking was the
+sheer diversity of arrangements at the micro level. While this is not cause to reject
+model-building as an approach to understanding decision-making of rural
+households, it does caution against making general predictions without specific
+empirical foundation to the model. Building such empirical foundations to
+household decision-making models has occupied a substantial part of the agricultural economics profession since the early 1970s [Singh, Squire and Strauss
+(1985)]. The results show clearly the merits of treating the household as a
+combined producing and consuming unit, but, as Binswanger and Rosenzweig
+note, the dynamic aspects of the household's interactions with its environment
+are only beginning to be revealed:
+Explanations of the long-term changes associated with development must be
+found, ultimately, in models that explicitly treat the reproductive and technological behavior that leads.to the long-term evolution of supply and demand.
+Attention has recently turned to the study of decisions that have long-term
+consequences-decisions about human capital investment, fertility, health,
+technical change, and agricultural intensification. Such decisions, however, are
+themselves conditioned by the outcomes and institutional arrangements in
+rural factor markets. The integration of market and household behavioral
+models within an explicit dynamic framework enveloping all sectors of an
+economy has yet to come [Binswanger and Rosenzweig (1981, pp. 55-56)]. 9
+4.2.3. Micro-macro links and structural change
+
+Trying to explain the declining share of agriculture during the process of
+structural transformation by analyzing the decision-making of farm households is
+a bit like trying to explain evolution by studying the molecular biology of plants
+and animals. The explanation for evolution, of course, must ultimately have its
+basis in molecular biology, and, likewise, structural transformation must be based
+on micro decision-makers. But our capacity to move from one level to the other is
+very limited. Aggregation of micro outcomes does not trace out macro growth
+paths very well, primarily because of the difficulty in specifying investment
+functions and the introduction of technical change. Even the reverse causation,
+where macro settings influence micro decision-makers, has only recently been
+incorporated into models of agricultural sector performance [Chilchilnisky and
+Taylor (1980), Schuh (1976), Taylor (1980), and Timmer, Falcon and Pearson
+(1983)].
+9Such all integration obviously takes us outside the realm of this chapter into the other topics
+treated in this Handbook. In particular, see the chapters by Bardhan (Chapter 3), Behrman and
+Deolalikar (Chapter 14), Bell (Chapter 16), Birdsall (Chapter 12), Rosenzweig(Chapter 15), T. Paul
+Schultz (Chapter 13), Sen (Chapter 1), Stiglitz(Chapter 5), and Williamson(Chapter 11).
+
+Ch. 8." The Agricultural Transformation
+
+317
+
+One specific attempt to measure the impact of macro prices on structural
+change in agriculture was reported in Timmer (1984). The share of agriculture in
+G D P was the dependent variable in the model, which used the same variables for
+income and population size as those used by Chenery and Syrquin (1975).
+However, the rural-urban terms of trade were also added as an explanatory
+variable. The terms of trade as well as the per capita income variable were
+explained by a simple four-equation, recursive structural model, with income per
+capita depending on lagged income per capita, lagged "real" foreign exchange
+rate, lagged investment, and the share of oil imports in GDP. The real exchange
+rate (in purchasing power parity) was then explained by lagged income per
+capita, the current account balance, real cereal prices in world markets, and the
+oil import share. In the next step, investment as a share of G D P was explained by
+current income per capita, the foreign exchange rate, the current account balance,
+and the oil import share. Finally, the rural-urban terms of trade were determined
+by the foreign exchange rate, real prices for noncereal agricultural products in
+world markets, real cereal prices in world markets, and the oil import share. It
+was then possible to estimate a Chenery-Syrquin equation with agricultural share
+of G D P as the dependent variable and predicted values of each of these
+dependent variables in the structural model as independent variables in the
+model of structural change.
+The model was estimated for seven countries in the Asia-Pacific region for the
+years 1960 to 1980. x° All variables in all equations were significant and of the
+right sign, confirming the logic of the structural model. More interesting was
+the separate importance of the foreign exchange rate and the oil import share in
+determining the rural-urban terms of trade in these countries, especially because
+the oil import share was also a highly important variable in explaining the foreign
+exchange rate itself. The two oil price shocks in the 1970s thus opened a window
+of opportunity to trace the effects of a major macro perturbation as it rippled
+through the economy, including the agricultural economy. The results of estimating the model and simulating changes in the oil price (holding import or export
+volumes constant in the short run) confirmed the notion that the agricultural
+sector is strongly influenced by variations in macro prices. The positive effect of
+currency devaluations on the rural-urban terms of trade was confirmation that
+rural goods and services tend to be more "tradable" than urban goods and
+services. No logic requires this result, of course, and many economists would tend
+to think the opposite-bulky, low-value agricultural commodities are naturally
+protected by high marketing costs and should therefore be less tradable than
+urban industrial goods. This view fails to reflect two considerations. First, strong
+1°The countries were Indonesia, South Korea, Malaysia, Mexico, Philippines, Sri Lanka, and
+Thailand. They were chosen to have a balance among oil importers, oil exporters, and a country
+approximately self-sufficient.An oil exporter naturally has a negative oil import share in the model.
+
+318
+
+c.P. Timmer
+
+substitutions are possible among agricultural commodities in both production
+and consumption. Sweet potatoes might not be tradable directly, but if they
+compete for resources and customers with rice that is tradable, the sweet potato
+economy will behave as if they were a tradable commodity. Second, extensive
+protection is provided to the urban industrial sector in most developing countries, protection that has the effect of converting the sector from tradable to
+nontradable. Consequently, these empirical results showed that the strong tendency of developing countries to maintain overvalued exchange rates (even for
+their existing degree of industrial protection) not only impedes efficient resource
+allocation and rapid growth (because of the importance of the foreign exchange
+rate in the per capita income equation), but also significantly biases income
+distribution against the rural sector.
+Oil imports force countries to remove some of that bias. As pressures build to
+create incentives to export in order to pay for the oil imports, the rural sector
+receives improved terms of trade since it produces many of those exportable
+goods. The effect is symmetrical for oil exporters. As oil prices rise for exporting
+countries, the terms of trade deteriorate for their agricultural sectors. Since the oil
+share is also a significant factor in exchange rate determination, the ultimate
+impact of oil prices is even larger. Consequently, "Dutch D i s e a s e " - t h e decline
+in employment and output in labor-intensive export sectors in countries experiencing a boom in resource prices-is at least as much a rural problem as an
+urban industrial one. The agricultural difficulties of Nigeria, Venezuela, Mexico,
+and Indonesia (until 1978, when macroeconomic management changed in order
+to cope with the problems created by high oil prices) can be seen to have
+common macroeconomic roots. Likewise, the increased supplies of agricultural
+commodities in world markets and the reduced demand for them in the early
+1980s must also have at least part of their explanation in sectoral responses to the
+oil price changes of the 1970s. As oil prices fall in the 1980s, some of the pressure
+to export agricultural commodities should be reduced (although servicing the
+debt incurred while oil prices were high attenuates this effect to some extent). As
+a consequence, agricultural commodity prices in world markets should recover
+somewhat relative to oil prices.
+This type of analysis - conducted within a general-equilibrium perspective even
+if not within a formal, computable general-equilibrium model-reinforces the
+early and partial results obtained in the 1970s from analysis of choice of
+technique in production in developing countries: macroeconomic policies, especially with respect to macro prices-wage rates, interest rates, and foreign
+exchange rates - significantly influence these choices and consequent employment
+and output levels, as well as income distribution. The link from macro policy to
+agriculture is quite strong. In the other direction, the general-equilibrium consequences of agricultural adjustments to shifts in these policies seem to be quite
+
+Ch. 8: The Agricultural Transformation
+
+319
+
+significant, but these are not yet understood in other than the roughest theoretical
+and empirical way.
+
+4.2.4. Resources for growth and sustainabili(y
+Parallel to the incorporation of agriculture into macroeconomic and general-equilibrium analysis has been the growing acceptance of what was a highly controversial and widely denied argument in the 1970s: that rapid economic growth with
+broad participation of the entire population for sustained periods of time was
+necessary for a country to deal successfully with widespread poverty and hunger.
+The desirability of such growth was seldom questioned; the controversy was over
+the adequacy of the world's resource base to sustain such rapid growth for more
+than a handful of special cases (the " G a n g of Four": Singapore, T-aiwan, South
+Korea, and Hong Kong). The more radical segment of the basic needs movement
+adopted a small is beautiful philosophy that called for substantial changes in the
+lifestyles of the rich in order that the poor could share more equitably in a
+limited standard of living for the entire world [Schumacher (1975), Lappe (1971)].
+Although this perspective has certainly not disappeared, a decade-long decline
+since the mid-1970s in basic food prices on world markets, to historic lows in real
+terms, and the monthly efforts by OPEC in the mid-1980s to prop up oil prices
+against a seemingly inexorable market determined to lower them, have changed
+the nature of the debate. The issue is not whether the global resources are
+available for economic growth, but whether they can be managed appropriately
+to generate and sustain that growth. The record after the world food crisis in
+1973-74 reveals that farmers and societies respond vigorously to apparent food
+shortages, whether in response to prices in world markets or to a perceived
+vulnerability to uncertain external market supplies. Technical change in agriculture, at least in the United States and Western Europe, has accelerated in the
+1980s after stagnating in the 1970s, and it is difficult not to see this as a form of
+induced innovation in the Hayami-Ruttan sense.
+The sustainability of this technical change has been repeatedly challenged,
+especially after the first oil shock in the early 1970s. Lester Brown has been one
+of the most articulate and influential of these challengers, and his State q( the
+World, 1984 contains a succinct statement of the concern:
+Although the economic crisis of the eighties is exacerbated by economic
+mismanagement, its roots lie in the depletion of resources, both nonrenewable
+and renewable. During the fifties and sixties the world economy steadily
+boosted its use of oil, a finite resource, putting it on a path that by definition
+was not sustainable over the long run. The depletion of oil reserves, and its
+effect on world oil prices, is the most immediate threat to world economic
+
+320
+
+C.P. Timmer
+
+stability, but the depletion of soil resources by erosion might be the most
+serious long-term threat. The unprecedented doubling of world food supplies
+over the last generation was achieved in part by adopting agricultural practices
+that led to excessive soil erosion, erosion that is draining the land of its
+productivity. After a point agriculture can no longer be sustained and the land
+is abandoned.
+Sustainability is an ecological concept with economic implications. It recognizes that economic growth and human well-being depend on the natural
+resource base that supports all living systems. Technology has greatly expanded the earth's human carrying capacity, most obviously with advances in
+agriculture. But while the human ingenuity embodied in advancing technology
+can raise the natural limits on human activity, it cannot entirely remove them.
+A sustainable society is one that shapes its economic and social systems so that
+natural resources and life-support systems are maintained. Today, we study the
+archaeological sites of earlier civilizations that failed to do so, depleting their
+soils, mismanaging their irrigation systems, or otherwise embarking on an
+unsustainable development path [Brown (1984, pp. 1-2)].
+Of course, none of these civilizations possessed the scientific capacity of
+modern societies to create new technologies specifically designed for the resource
+shortages that emerge over time. Unless this capacity suddenly erodes dramatically, it seems likely to provide solutions to future shortages of resources in
+similar fashion to those of the past.
+
+4.2.5. Role of gouernment
+At the same time that planners have learned that resource management rather
+than resource constraints per se is the primary bottleneck to economic growth,
+they came to view prices generated in international markets as important signals
+about relative scarcity of various resources and to regard trade as the most
+efficient vehicle to alleviate significant imbalances of resources in a given country.
+The importance of market signals and trade has led to a growing consensus
+around a market orientation and the use of private incentives as the most
+effective way to achieve economic growth, at least in agriculture. Millions of
+decision-makers have turned out to be too many to reach from central planning
+offices, because agricultural diversity is too great for information to reach those
+offices effectively. Agriculture is itself changing too rapidly for planners to keep
+up. This rapid change is reflected primarily in international markets, and agricultural economies that are cut off from those markets miss key signals about the
+efficiency of domestic resource allocation.
+An emphasis on the role of international markets and trade is easily caricatured into an argument for free trade and "getting prices right" by setting them
+
+Ch. 8." The Agricultural Transformation
+
+321
+
+at whatever the border price happens to be [Volrath (1985), for example]. The
+extent to which a country's internal decision-makers face international market
+signals is one of the key policy instruments available to a government to influence
+income distribution as well as efficiency of resource allocation. Because dynamic
+efficiency is more important for economic growth than static optimization, a
+concern for the long-run impact of prices on expectations, investment, and
+technical change is entirely legitimate. Free trade provides no guarantee that
+dynamic efficiency will be achieved, and the record of East Asia cannot be
+offered as evidence that free trade leads to rapid growth. That same record does
+suggest, however, the importance of an export orientation for industry in combination with growing incomes in the rural sector. For an agricultural development
+strategy to be relevant for the 1990s, it must incorporate the factors responsible
+for that record.
+
+5. Agricultural development strategy
+Several lessons have been learned since the mid-1960s about the functioning of
+the agricultural sector and its potential role in the development process. The
+agricultural sector has been seen in a general-equilibrium perspective, and the
+importance of macroeconomic policy for agricultural performance has been
+recognized. Rapid economic growth has been considered necessary to deal with
+the human welfare concerns that stem from poverty and hunger, and such growth
+is feasible because of the potential for technical change. Market-oriented systems
+with private incentives have shown superior performance in achieving this
+growth. Policy analysis has tended to concentrate on one of three dimensions of
+government intervention into the agricultural growth process: stimulating traditional agriculture into growth; maintaining agricultural growth to generate resources for the rest of the economy; and protecting the welfare of farmers from
+their own high productivity during the final and painful stages of structural
+change in industrialized societies.
+
+5.1. Policies for "getting agriculture moving"
+It has become increasingly recognized that in order for agriculture to play a
+multiplicity of positive roles, it needs resources and favorable development
+policies, not heavy taxation and neglect. By the 1970s, agreement was being
+reached on the nature of resources needed to develop agriculture, and some
+progress was being made in identifying the policies needed to make those
+resources effective. Heavily influenced by Schultz's book, Transforming Traditional Agriculture, and the increasingly widespread evidence that farmers re-
+
+322
+
+C.P. Timmer
+
+sponded rationally to economic incentives, strategists in the late 1960s and early
+1970s focused on two complementary agendas: understanding the microeconomic
+setting of farm-level decision-makers in order to create incentives for investments
+in higher output, and generating the stream of technical innovations that would
+be profitable for individual farmers to adopt in order to produce that output.
+With high food prices in world markets in the mid-1970s, providing better
+incentives to rural producers was a "simple" matter of liberalizing trade policy
+and permitting international price signals to be more freely transmitted to the
+domestic economy. Because rural economies had been discriminated against for
+so long by the industrialization strategies, rural incomes were very low relative to
+urban incomes. Goals in terms of both equity and efficiency were furthered by
+raising agricultural prices to their world levels, a point stressed by Schultz and his
+colleagues (1978) and now pursued by Western aid agencies.
+The emphasis in the late 1970s and early 1980s on market liberalization as a
+means of providing adequate price incentives to agricultural producers has run
+into serious problems in the mid-1980s. Allowing domestic food and agricultural
+prices to be determined by world prices creates serious difficulties for both
+producers and consumers because commodity prices in world markets are much
+more variable than prices ft)r industrial products. Since the mid-1970s when this
+strategy was articulated, many prices, especially for grains, have collapsed to
+historic lows, and there is relatively little prospect of recovery in the foreseeable
+future or at least within the vision of planning agencies and policy-makers. Once
+the painful decision is made to raise price incentives to farmers, it is not easily
+reversed, especially because the medium-term consequences for income distribution would be sharply negative. 11 To provide farmers with positive price incentives then requires agricultural price protection, which might possibly lead to the
+same type of high-cost, inefficient agricultural sector that presently exists for
+industrial sectors in these developing countries.
+The appropriateness of an incentive-led strategy for agricultural development,
+as opposed to a market-liberalization strategy, depends on whether the argument
+for protection has any merit: that providing adequate price incentives to farmers
+through protection from international competition will encourage an infant
+industry to grow up and produce at low cost. 12 In the 1950s and 1960s, import
+substitution for industrial products was used to justify the use of price protection
+for domestic (infant) industry, through tariffs, quotas, or bans on cheaper foreign
+goods. As industries matured, their goods would be able to compete with foreign
+l i T h e very short-run consequences for poor consumers would be positive, just as they were
+negative when price incentives were adopted in the first place [Timmer (1979)].
+"a2Protection has also been justified on the basis of price stabilization, i,e. that "low- prices in
+world markets would rise to "normal" or "trend" levels before long. But an analysis of alternative
+trends to be used to defend this proposition shows that the current price is a better predictor of future
+prices, for at least five years into the future, than estimated trends [see Schwartz (1987)].
+
+Ch. 8: The Agricultural Transformation
+
+323
+
+goods in local markets and be exported, and trade barriers could come down. But
+for various reasons that had to do with "X-efficiency" and political economy,
+only a few countries were able to make this transition [see Pack, Chapter 9, and
+Westphal, Chapter 20, in this Handbook]. The industrial sectors in most developing countries are high cost and inefficient, and they remain heavily protected. The
+agricultural sectors in these countries have borne much of the burden imposed by
+the industrial and trade policies, in the form of high-cost inputs and overvalued
+exchange rates that (implicitly) subsidize imported foodstuffs and tax rural
+exports [see S. Lewis, Chapter 30 in this Handbook].
+Protection for the rural sector carries clear benefits but equally clear costs and
+risks. Protection would maintain the momentum in agricultural production
+achieved through higher price incentives, and it would also support income levels
+in rural areas. But if the lessons from industrial protection in the 1960s are
+applicable to agriculture in the 1980s, planners should be cautious. If the
+agricultural sector is fundamentally different in its response to protection from
+that of the industrial sector, or if world markets for its output are sufficiently
+different because of price instability, then short-run protection might be appropriate. The answer is complicated by the realization that the economies most
+successful in translating import substitution into export-led growth-Japan,
+South Korea, and Taiwan-also have adopted the highest rates of agricultural
+protection [Anderson and Hayami (1986)].
+
+5.2. Alternative strategies for maintaining the transformation process
+
+The lessons from the Asian success stories do not define a single strategic
+approach to agricultural development. The agricultural sector is a means to an
+e n d - n o t an end in itself. Three sharply different paths for appropriate policies
+toward agriculture are open if the goal is to speed the overall process of
+development. The first path has parallels to the philosophy of the 1950s, in which
+benign neglect of agricultural policy was thought to be sufficient for stimulating
+the process of economic growth. This perspective grows out of the recognition of
+the role of well-functioning markets and decision-makers operating in a world of
+"rational expectations". In this view, most policy is irrelevant to farmers in more
+than a very transitory sense, and this is especially true of price policy:
+One lesson that we should be able to learn from observation of the world is
+that the absolute incomes earned by farm families in various countries have no
+relationship to farm prices. Even stronger, the relative incomes of farm fanfilies
+have no relationship to farm prices, except as benefits of higher prices have
+been capitalized into the value of land and land has been acquired by gift or
+inheritance [Johnson (1985, p. 43)].
+
+324
+
+C.P. Timmer
+
+In this world, agricultural incomes are determined by employment opportunities outside agriculture, the agricultural sector must decline in proportional
+output terms and absolutely in the labor force, and the long-run decline in basic
+agricultural commodity prices due to technical change simply emphasizes that
+society is best served by getting resources out of agriculture as rapidly as
+possible. Although the clearest case for this view of the world is in the OECD
+countries, a host of middle-income countries, and even some quite poor countries,
+are also facing the problem of declining real incomes in the agricultural sector
+under the impact of rapid technical change domestically and lower world prices
+for the resulting output. This perspective is obviously consistent with the view
+that open economies will show better performance than those with substantial
+trade barriers.
+A sharply different path has been sketched by Mellor and Johnston (1984).
+Building on their earlier stress on balanced growth (1961), Mellor and Johnston
+call for an "interrelated rural development strategy" that improves nutrition in
+one dimension while it fosters the broader growth process in the other. The
+approach calls for a major role of government in strategic design and program
+implementation, a role that is in marked contrast with the free-market approach
+sketched out previously:
+We have, therefore, emphasized that improvements in nutrition [one of Mellor
+and Johnston's key objectives for agricultural development] require a set of
+interacting forces: accelerated growth in agriculture; wage goods production; a
+strategy of development that structures demand towards high employment
+content goods and services; increased employment; and increased effective
+demand for food on the part of the poor. Agricultural growth not only satisfies
+the need for food to meet nutritional requirements (which is the other side of
+the wage-goods coin), but fosters a favorable employment-oriented demand
+structure as well. Agriculture's role in generating a structure of demand,
+favorable to rapid growth in employment, is central [Mellor and Johnston
+(1984, pp. 567-568, emphasis added)].
+Mellor and Johnston go on to summarize their earlier argument that agriculture can play this multiplicity of roles only if a unimodal development strategy is
+followed, that is, one in which a broad base of smallholders are the central focus
+of agricultural research and extension services and the recipient of the bulk of
+receipts from agricultural sales. The authors see the dualism inherent in bimodal
+strategies- those placing modernization efforts primarily on large, "progressive"
+farms while neglecting the "backward" smaUholders- as the major obstacle to
+putting their set of interacting forces in motion:
+The most common barrier to the interrelated strategy indicated is pronounced
+dualism in capital allocations-too much to industry and the unproductive
+
+Ch. 8: The Agricultural Transformation
+
+325
+
+elements of the private sector rather than to agriculture, and to capital-intensive elements within those, as well as to large-scale and therefore capital-intensive allocations within agriculture. The outcome of the strategy will depend
+upon national-level decisions about macroeconomic policies, exchange rates,
+interest rates, and investment allocations among sectors and regions, not just
+within agriculture itself. Indeed, the whole strategy fails if it is viewed simply
+as the responsibility of agriculture ministries [Mellor and Johnston (1984, p.
+568)1.
+This interrelated strategy must be directed by government planners; there is
+relatively little concern or role for the private sector, other than small farmers.
+The analysis leading to the strategy remains heavily influenced by closed economy considerations, and little attention is given to either domestic marketing
+activities or their relationship to international markets. Three key elements are
+suggested as essential to meeting all objectives of agricultural development - massive investment in human capital through nutrition, health, and family planning
+services in the countryside, creation of the complex, rural organizational structures seen in Japan and Taiwan that provide services to small farmers while also
+serving as a voice for their interests, and investment in rapid technical change
+appropriate to these small farmers in order to raise agricultural output and rural
+incomes simultaneously.
+Notably missing in this list of key elements is significant concern for the
+structure of incentives for agriculture relative to industry's or for the country's
+tradables relative to those of foreign competitors. Although it is realized that the
+macroeconomic setting is no doubt important to agriculture, it remains outside
+the scope of appropriate strategy for agricultural development. Not surprisingly,
+given the argument in Johnston and Clark (1982), the intellectual foundation for
+this strategy lies in rural development, not in a vision of agriculture linked to the
+macro economy and world markets by powerful market mechanisms. It is this
+latter vision which provides the third potential path for agricultural development
+strategy for the rest of the 1980s and into the 1990s.
+The third approach contrasts with both the "free market" and "interrelated
+rural development strategy" approaches. It calls for government policy interventions into outcomes in domestic markets but uses markets and the private
+marketing sector as the vehicle for those policy interventions. This "price and
+marketing policy" approach recognizes widespread market failures in agriculture
+as well as extensive government failures in implementation of direct economic
+functions. ~3 The strategic dilemma is how to cope with segmented rural capital
+and labor markets, poorly functioning land markets, the welfare consequences of
+sharp instability of prices in commodity markets, the pervasive lack of informa13This is a theme of both the Bardhan (Chapter 3) and Stiglitz(Chapter 5) in this Handbook.
+
+326
+
+c.P. Timmer
+
+tion about current and future events in most rural economies, and the sheer
+absence of many important markets, especially for future contingencies involving
+yield or price risks. One powerful lesson emerged from the postwar development
+record: direct government interventions through state-owned enterprises to correct market failures frequently make matters worse by inhibiting whatever market
+responses were possible in the initial circumstances, without providing greater
+output or more efficient utilization of resources. The agricultural sector in
+particular is vulnerable to well-intended but poorly conceived and managed
+parastatal organizations that attempt a wide array of direct economic activities,
+including monopoly control of input supplies, capital-intensive state farms, and
+mandated control over crop marketing and processing. As Bates (1981) has
+demonstrated, these direct controls and agencies have a strong political economy
+rationale for a government that tries to reward its supporters and centralize
+power and resources in the hands of the state [see also Lipton (1977)].
+The answer to the dilemma over making matters worse, in the "price and
+market policy" approach, is to gain a much clearer understanding of the
+necessary interaction between the public and private sectors. Government intervention into agriculture for political reasons has an ancient history. One major
+claim of monarchs to the throne was their capacity to keep food prices cheap and
+stable, as Kaplan (1984) made clear and as several modern governments have
+discovered to their demise. Political objectives for the performance of
+agriculture-its capacity to feed the population regularly and cheaply, or its
+ability to provide fair incomes to farmers caught in the painful pressures of
+successful structural transformation- are inevitable and, in some long-run sense,
+highly desirable.
+The "price and marketing policy" path argues that these objectives are best
+served by making carefully designed interventions into the prices determined in
+markets, not by leaving markets alone or by striving to reach the objectives
+through direct activities by the government [Timmer (1986)]. If the "free market"
+approach incurs heavy political costs as markets relentlessly redistribute incomes
+to the winners in the course of economic development, and the "interrelated rural
+development strategy" incurs heavy managerial and administrative costs as the
+government plays an active and direct economic role, the "price and marketing
+policy" approach incurs heavy analytical costs.
+These analytical costs come from the need to understand each country's path
+of structural change, the workings of factor and commodity markets, and the
+potential impact of macro and commodity price interventions on these markets
+and ultimately on the structural path itself. It requires that government intervention be based on an empirical understanding of economic responses to a change
+in policy and the political repercussions from them. There is an important role
+for models in illuminating where to look for these responses, but the models
+themselves cannot provide the answers. This is especially true as attempts are
+
+Ch. 8: The Agricultural Transformation
+
+327
+
+made to build into the models the response of policy itself to changes in the
+economic environment [see Roe, Shane and Vo (1986)]. Such endogenous policy
+models might reveal some of the historical factors that accounted for policy
+shifts, but they seldom provide a sense of when the degrees of freedom for
+policy initiative are about to expand. Frequently, this is in times of crisis.
+Policy-makers often embark on bold experiments in such times, and the payoff
+would be very high if sufficient analytical understanding already existed in order
+for them to anticipate the response to a policy change.
+All three strategic approaches recognize the importance of government investments in agricultural research and rural infrastructure. Even here, however, there
+are likely to be significant differences in emphasis. The free-market approach is
+likely to put a relatively greater share into research, the rural development
+strategy into human capital investments, and the price and marketing approach
+into rural infrastructure that lowers marketing costs. Investments in all three
+areas are obviously desirable. The issue is at the margin: where are scarce
+resources to be invested? In addition, different countries have different starting
+points and different needs, so no single strategic approach makes sense for all
+countries. But it is difficult to see how countries can develop their rural sectors
+without relatively efficient marketing systems and adequate financial incentives
+for their farmers. Accordingly, significant elements of the price and marketing
+approach seem destined to be incorporated into all successful agricultural development strategies, even if they emphasize the free market or rural development
+approaches in other dimensions.
+
+5.3. Agricultural policy and structural change
+Hayami and Ruttan have asked why agricultural growth has not been faster and
+more evenly spread around the world:
+We indicated that the basic factor underlying poor performance was neither
+the meager endowment of natural resources nor the lack of technological
+potential to increase output from the available resources at a sufficiently rapid
+pace to meet the growth of demand. The major constraint limiting agricultural
+development was identified as the policies that impeded rather than induced
+appropriate technical and institutional innovations. As a result, the gap widened
+between the potential and the actual productive capacities of LDC agriculture
+[Hayami and Ruttan (1985, p. 416)].
+This emphasis on the relationship between policy and agriculture's role in
+structural change has provided the organizing theme for this chapter. A progression of topics has followed from understanding why the agricultural sector is
+different from the industrial and service sectors and how the differences condition
+
+328
+
+C.P. Timmer
+
+the nature of effective policy interventions. The factors needed for inducing the
+agricultural transformation, to "get agriculture moving", involve a complex mix
+of appropriate new technology, flexible rural institutions, and a market orientation that offers farmers material rewards for the physical effort they expend in
+their fields and households and for the risks they face from both nature and
+markets.
+The role of the government has been analyzed throughout this chapter, first, as
+it fosters the transformation process through its investments-in both budgetary
+and policy t e r m s - in agricultural development, and, second, as it tries to cope
+with the problems of success. A recurrent theme of this chapter has been that a
+successful structural transformation is painful for the agricultural sector in all
+societies; nearly all rich countries protect their farmers at the expense of domestic
+consumers and taxpayers and of foreign producers. The rapidly growing economies of East and Southeast Asia are facing this issue in an acute fashion, well
+before their overall economies can bear the fiscal burden of heavy agricultural
+subsidies [Anderson and Hayami (1986)]. The experiences of the currently
+developed countries with respect to the social, political, and economic stresses
+caused by a declining role for agriculture have important lessons for latecomers
+about to encounter these same stresses [Reich, Endo and Timmer (1986)]. There
+is a world of difference, however, between those countries growing rapidly
+enough to be feeling the consequences for income distribution of the relative
+decline of the agricultural sector and those countries in which the agricultural
+transformation itself has yet to begin in a significant way. The contrast between
+Asia and Africa in this regard is striking. Many development specialists feel that
+reversing Africa's declining food production per capita and declining real incomes per capita is the most important challenge for the rest of the century. For
+the agricultural development profession, the difficult question is whether the
+lessons from Asia in stimulating the process of agricultural transformation can be
+transferred to the vastly different African setting. Many policy experiments are
+now under way; analysis of the record generated in the 1980s by these experiments will provide new insights in the 1990s into determining which models of
+development can best stimulate and explain the process of structural transformation.
+
+References
+
+Adams, D.W. and Graham, D.H. (1981) 'A critique of traditional agricultural credit projects and
+policies', Journal of Development Economics, 8:347-366.
+Alderman, H. (1986) 'The effectof food price and income changes on the acquisition of food by
+low-income households', IFPRI Research Report. Washington, D.C.: International Food Policy
+Research Institute.
+Anderson, K. (1983) 'Growth of agriculturalprotection in East Asia', Food Policy, 8:327-336.
+
+Ch. 8: The Agricultural Transformation
+
+329
+
+Anderson, K. and Hayami, Y., with associates (1986) The political economy of agricultural protection:
+East Asia in international perspective. London: Allen and Unwin.
+Baran, P.A. (1952) 'On the political economy of backwardness', Manchester School of Economic and
+Social Studies, 20:66-84.
+Bairoch, P. (1975) The economic development of the third world since 1900. Berkeley: University of
+California Press.
+Bardhan, P.K. (1984) Land, labor, and rural poverty. Cambridge: Cambridge University Press.
+Bates, R.H. (1981) Markets and states in tropical Africa: The political basis of agricultural policies.
+Berkeley: University of California Press.
+Binswanger, H.P. and Rosenzweig, M.R. (1981) Contractual arrangements, employment and wages in
+rural labor markets: A critical review. New York: Agricultural Development Council, and India:
+International Crops Research Institute for the Semi-Arid Tropics.
+Binswanger, H.P. and Rosenzweig, M.R. (1986) 'Behavioral and material determinants of production
+relations in agriculture', The Journal of Development Studies, 22:503-539.
+Brown, L.R. (1984) 'Overview', in: L.R. Brown, et al., eds., State of the world, 1984: A Worldwatch
+Institute report on progress toward a sustainable society. New York: W.W. Norton.
+Chenery, H.B. and Syrquin, M. (1975) Patterns of development, 1950-1970. London: Oxford
+University Press.
+Chenery, H.B. and Taylor, L. (1968) 'Development patterns among countries and over time', Review
+of Economics and Statistics, 50:391-416.
+Chenery, H.B. et al. (1974) Redistribution with growth. London: Oxford University Press.
+Chilchilnisky, G. and Taylor, L. (1980) 'Agriculture and the rest of the economy: Macro connections
+and policy restraints', American Journal of Agricultural Economics, 62:303-309.
+CIMMYT Economic Staff (International Maize and Wheat Improvement Center) (1984) 'The
+farming systems perspective and fartners participation in the development of appropriate technology, in: C.K. Eicher and J.M. Staatz, eds., Agricultural development in the third world. Baltimore,
+MD: Johns Hopkins University Press.
+Clark, C. (1940/1957) The conditions of economic progress, 3rd ed. London: Macmillan.
+Cochrane, W.W. (1979) The development of American agriculture: A historical analysis. Minneapolis,
+MN: University of Minnesota Press.
+de Janvry, A. (1981) The agrarian question and reformism in Latin America. Baltimore, MD: Johns
+Hopkins University Press.
+Eicher, C.K. and Staatz, J.M., eds. (1984) Agricultural development in the third worM. Baltimore, MD:
+Johns Hopkins University Press.
+Evenson, R. (1981) 'Food policy and the new home economics', Food Policy, 6:180-193.
+Fei, J.C.H. and Ranis, G. (1964) Development of the labor surplus economy: theo~ and policy.
+Homewood, IL: Irwin.
+Goldman, R.H. and Squire, L. (1982) 'Technical change, labor use, and income distribution in the
+Muda irrigation project', Economic Development and Cultural Change, 30:753-775.
+Gonzalez-Vega, C. (1977) 'Interest rate restrictions and income distribution', American Journal of
+Agricultural Economics, 59:973-976.
+Griffin, K. (1979) The political economy of agrarian change: An essay on the green revolution, 2nd ed.
+London: Macmillan.
+Hart, G. (forthcoming) 'Interlocking transactions: Obstacles, precursors or instruments of agrarian
+capitalism', Journal of Development Economics.
+Hayami, Y. (1984) 'Assessment of the green revolution', in: C.K. Eicher and J.M. Staatz, eds.,
+Agricultural development in the third world. Baltimore, MD: Johns Hopkins University Press.
+Hayami, Y. (1986) 'Agricultural protectionism in the industrialized world: The case of Japan',
+prepared for a conference held at the East-West Center, Honolulu, February 17-21.
+Hayami, Y. and Ruttan, V. (1985) Agricultural development: An internationalperspective, revised and
+expanded edition. Baltimore, MD: Johns Hopkins University Press.
+Hirschman, A.O. (1958) The strategy of economic development. New Haven, CT: Yale University
+Press.
+International Rice Research Institute (IRRI) (1978) Economic consequences of the new rice technology.
+Los Banos, Philippines: International Rice Research Institute.
+
+330
+
+C.P. Timmer
+
+Jones, C.W. (1986) 'Intra-household bargaining in response to the introduction of new crops: A case
+study from North Cameroon, in: J.L. Moock, ed., Understanding Africa's rural households and
+farming systems. Boulder, CO: Westview.
+Johnson, D.G. (1973) World agriculture in disarray. New York: St. Martins Press.
+Johnson, D.G. (1985) 'World commodity market situation and outlook', in: B.L. Gardner, ed., U.S.
+agricultural policy: The 1985 farm legislation. Washington, DC: American Enterprise Institute for
+Public Policy Research.
+Johnston, B.F. (1970) 'Agriculture and structural transformation in developmer/t countries: A survey
+of research', Journal of Economic Literature, 3:369-404.
+Johnston, B.F. and Clark, W.C. (1982) Redesigning rural development: A strategic perspective.
+Baltimore, MD: Johns Hopkins University Press.
+Johnston, B.F. and Kilby, P. (1975) Agriculture andstructural transformation: Economic strategies in
+late developing countries. New York: Oxford University Press.
+Johnston, B.F. and Mellor, J.W. (1961) 'The role of agriculture in economic development', American
+Economic Review, 51:566-593.
+Jorgenson, D.W. (1961) 'The development of a dual economy', Economic Journal, 71:309-334.
+Krishna, R. (1984) 'Price and technology policies', in: C.K. Eicher and J.M. Staatz, eds., Agricultural
+development in the third world. Baltimore, MD: Johns Hopkins University Press.
+Kaplan, S.L. (1984) Provisioning Paris: Merchants and millers in the grain and flour trade during the
+eighteenth century. Ithaca, NY: Cornell University Press.
+Kuznets, S. (1966) Modern economic growth. New Haven, CT: Yale University Press.
+Lappe, F.M. (1971) Diet for a small planet. New York: Ballantine.
+Lenin, V.I. (1899, reprinted 1964) The development of capitalism in Russia. Moscow: Progress
+Publishers.
+Lewis, W.A. (1954) 'Economic development with unlimited supplies of labor, Manchester School of
+Economic and Social Studies, 22:139-191.
+Lipton, M. (1977) Why poor people stay poor: Urban bias in world development. Cambridge, MA:
+Harvard University Press.
+Little, I.M.D. (1982) Economic development: Theo~, policy, and international relations. New York:
+Basic Books.
+Mellor, J.W. and Johnston, B.F. (1984) 'The world food equation: Interrelations among development,
+employment, and food consumption', Journal of Economic Literature, 22:531-574.
+Mosher, A.T. (1966) Getting agriculture moving: Essentials for development and modernization. New
+York: Praeger.
+Myint, H. (1975) 'Agriculture and economic development in the open economy', in: L.G. Reynolds,
+ed., Agriculture in development theory. New Haven, CT: Yale University Press.
+Nichols, W.H. (1963) "An 'agricultural surplus' as a factor in economic development", Journal of
+Political Economy, 71:1-29.
+Newbery, D.M.G. and Stiglitz, J.E. (1981) The theory of commodity price stabilization: A stuctv in the
+economics of risk. Oxford: Clarendon Press.
+Nurkse, R. (1953) Problems of capital formation in underdeveloped countries. New York: Oxford
+University Press.
+Prebish, R. (1950) The Economic Development of Latin America and Its Principal Problems. Lake
+Success, NY: U.N. Dept. of Economic Affairs.
+Preobazhensky, E. (1965) The new economics. Oxford: Clarendon Press.
+Reich, M.R., Endo, Y. and Timmer, C.P. (1986) 'The political economy of structural change: Conflict
+between Japanese and United States agricultural policy', in: T.K. McCraw, ed., America versus
+Japan. Boston, MA: Harvard Business School Press.
+Reynolds, L.G., ed. (1975) Agriculture in development theory. New Haven, CT: Yale University Press.
+Roe, T., Shane, M. and De, H.V. (1986) 'Price responsiveness of world grain markets: The influence
+of government intervention on import price elasticity', Technical Bulletin no. 1720, Washington,
+DC: International Economics Division, Economic Research Service, U.S. Department of Agriculture.
+Roumasset, J.A., Boussard, J.M. and Singh, I.L, eds. (1979) Risk, uncertain(v and agricultural
+development. New York: Agricultural Development Council.
+
+Ch. 8." The Agricultural Transformation
+
+331
+
+Sah, R.K. and Stiglitz, J.E. (1984) 'The economics of price scissors', American Economic Review,
+74:125-138.
+Schuh, G.E. (1976) 'The new macroeconomics of agriculture', American Journal of Agricultural
+Economics, 58:802-811.
+Schultz, T.W. (1953) The economic organization of agriculture. New York: McGraw-Hill.
+Schultz, T.W. (1964) Transforming traditional agriculture. New Haven, CT: Yale University Press.
+Schultz, T.W. (1975) 'The value of the ability to deal with disequilibria', Journal of Economic
+Literature, 13:827-846.
+Schultz, T.W. (1978) Distortions of agricultural incentives. Bloomington, IN: Indiana University Press.
+Scobie, G.M. and Posada, R.T. (1978) 'The impact of technical change of income distribution: The
+case of rice in Colombia', American Journal of Agricultural Economics, 60:85-92.
+Scott, J.C. (1976) The moral economy of the peasant. New Haven, CT: Yale University Press.
+Schumacher, E.F. (1975) Small is beautiful. New York: Harper and Row.
+Schwartz, R.J. (1987) 'Optimal trends for forecasting prices: An empirical assessment of three grains',
+unpublished Ph.D. thesis, Harvard University, Cambridge, MA.
+Sen, A.K. (1981) Poverty and famines London: Oxford University Press.
+Singh, l.J., Squire, L. and Strauss, J. (1985) 'Agricultural household models: A su~,ey of recent
+findings and their policy implications', Yale University Economic Growth Center Discussion Paper.
+Taylor, L. (1980) Macro models for developing countries. New York: McGraw-Hill.
+Streeten, P. (1986) What price food? Washington, DC: Economic Development Institute of the World
+Bank.
+Timmer, C.P. (1969) 'The turnip, the new husbandry, and the English agricultural revolution', The
+Quarterly Journal of Economics' 83:375-395.
+Timmer, C.P. (1979) 'Issues of production and consumption: A review of T.W. Schultz, ed.,
+Distortions of agricultural incentives', Science, 205:385-386.
+Timmer, C.P. (1981) "Is there 'curvature' in the Slutsky matrix?", Review of Economics and Statistics,
+62:395-402.
+Timmer, C.P. (1984) 'Energy and structural change in the Asia-Pacific region: The agricultural
+sector', in: R. Bautista and S. Naya, eds., Energy and structural change in the Asia-Pacific region:
+Papers and proceedings of the thirteenth Pacific trade and development conference. Manila: Philippine
+Institute for Development Studies and the Asian Development Bank.
+Timmer, C.P. (1986) Getting prices right: The scope and limits of agricultural price poli~y. Ithaca, NY:
+Cornell University Press.
+Timmer, C.P., Falcon, W.P. and Pearson, S.R. (1983) Food policy analysis. Baltimore, MD: Johns
+Hopkins University Press for the World Bank.
+Volrath, T. (1985) 'Developmental consequences of unrestricted trade', Foreign agricultural economic
+report no. 213. Washington, DC: Economic Research Service, U.S. Department of Agriculture.
+Waterfield, C. (1985) 'Disaggregating food consumption parameters', Food Policy, 10:337-351.
+World Bank (1982) Worm development report 1982. New York: Oxford University Press.
+World Bank (1986) World development report 1986. New York: Oxford University Press.
+
+

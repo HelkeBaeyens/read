@@ -1,0 +1,876 @@
+AGRICULTURAL
+ECONOMICS
+ELSEVIER
+
+Agricultural Economics 16 (1997) 185-192
+
+Technical efficiency in paddy farms of Tamil Nadu: an analysis
+based on farm size and ecological zone
+Bedassa Tadesse
+b
+
+a,*,
+
+S. Krishnamoorthy
+
+b
+
+a Department of Agricultural Economics and Extension, Jimma College of Agriculture, P.O. Box 307, Jimma, Ethiopia
+Department of Agricultural Economics, Centre for Agricultural and Rural Development Studies, Tamil Nadu Agricultural University,
+Coimbatore- 641003, India
+
+Accepted 18 March 1997
+
+Abstract
+Despite the wider application of efficiency analysis in Indian agriculture, little has been done on the investigation of intra and
+interecological variations, size differences and their interactions. However, ecological issues have paramount implications for the low-input
+sustainable agricultural production. Furthermore, due to the various causes of efficiency, the age-old size-based debate on efficiency
+differences is not yet resolved. The present study examines the level of technical efficiency across ecological zones and farm size groups in
+paddy farms of the southern Indian state of Tamil Nadu. The study showed that 90% of the variation in output among paddy (IR-20) farms
+' in the state is due to differences in technical efficiency. Land, animal power and fertilisers have significant influence on the level of paddy
+production. Varying from 0.59 to 0.97, the mean technical efficiency was found to be 0.83. The use of F-test in two-way analysis of
+variance (ANOV A) and censored regression (Tobit model), with dummies for ecological zones, farm size groups and their interactions, has
+shown that, at mean level, the level of technical efficiency among paddy farms of the state differs significantly across agro-ecological zones
+and size groups as well. The study further indicated that small-sized paddy farms in zone II and medium-sized paddy farms in zone III are
+represented by ecologically size-biased production techniques; thus achieving higher technical efficiency. © 1997 Elsevier Science B.V.
+
+1. Introduction
+
+The measurement of efficiency (technical, allocative and economic) has remained an area of important research both in the developed and developing
+countries. Especially in developing agricultural
+economies, where resources are meagre and opportunities for developing and adopting better technologies are dwindling, (Ali and Chaudhry, 1990) efficiency measurement is very important because it is a
+factor for productivity growth. Such studies help
+
+' Corresponding author. Tel.: 002517110102, Fax:
+002517110575, E-mail: JCA.NCIC@PADIS.GN.APC.ORG.
+
+benefit these economies by determining the extent to
+which it is possible to raise productivity by improving the neglected source, i.e., efficiency, with the
+existing resource base and the available technology.
+Hence, by doing so, they could also help decide
+whether to improve efficiency first or develop a new
+technology in the short run.
+Pertaining to the enduring view in literature that
+farmers practising traditional agriculture are 'poor
+but efficient', and the resulting emphasis on increased investments in generating new and more
+productive techniques, several studies that investigated the relationship between farm size and output
+in Indian agriculture have been conducted since the
+late 1950s. Regional variations, together with
+
+0169-5150/97 j$17.00 © 1997 Elsevier Science B.V. All rights reserved.
+PII S0169-5150(97)00004-2
+
+186
+
+B. Tadesse, S. Krishnamoorthy /Agricultural Economics 16 (1997) 185-192
+
+input-output relations and enterprises, have also been
+taken into account since the 1960s. These include the
+works of Saini (1969), Sahota (1968), Hopper (1965).
+These studies were conducted to evaluate, recommend and formulate appropriate productive techniques that lead to improved resource-use efficiency.
+However, as they represented the production process
+of the sample farms on an input-output space (production function) with a given technology, they were
+not able to separate causes of efficiency due the
+biological nature of agricultural production from the
+farm-specific differences in the use of the available
+technology.
+Later, despite the conceptual difficulties and analytical differences, efficiency measurements have
+been attempted in Indian agriculture since the 1970s
+(see for example, Huang and Bagi (1984), Kalirajan
+(1981), Junankar (1980), Sidhu (1974), and Lau and
+Yotopoulos (1971); in fact, the latter two measured
+relative technical efficiency using shadow profit
+function). With particular reference to rice farming,
+the studies by Shanmugam and Palanisami (1993) in
+Tamil Nadu, Datt and Joshi (1992) in Uttar Pradesh,
+and Jayaram et al. (1987) in Karnataka are among
+the prominent works. These studies, although framed
+on deterministic or probabilistic estimates of the
+frontier production function, reported a mean technical efficiency of 75%, 66% and 74% among paddy
+farms in the respective states.
+On the other hand, although we observe wider
+applications of efficiency measures in paddy farms
+of India, only very few of these studies have investigated the same across size groups and agro-ecological regions (zones) simultaneously. Besides, there is
+no consensus among the available studies on the
+age-old debate of efficiency differences in the smallvs. large-sized farms. The earlier notion was that,
+under the traditional labour intensive technology,
+output per hectare on large farms was lower mainly
+because of higher cost of hired labour. Nevertheless,
+with the progressive introduction of technology, new
+production possibilities have been opened for large
+farms (Singh, 1992). Therefore, with their better
+capital position, as well as institutional, extension
+and credit advantages, large farmers are able to
+substitute manpower by labour-saving devices; thus,
+they are more efficient than small farms. Available
+evidence suggests that various factors cause differ-
+
+ences in efficiency even among farms of similar size
+and other factors of production. The debate will
+further be heated when ecological (environmental)
+issues are incorporated. This is an important issue of
+the present time, because ecological issues are the
+core elements of sustainable development. The present study, therefore, is an attempt partly aimed at
+investigating technical efficiency in paddy farms
+across ecological zones and farm size groups and
+their interactions in the southern Indian state of
+Tamil Nadu.
+
+2. The study area and data
+The state of Tamil Nadu is one of the major
+rice-growing regions of India that is located in the
+southeastern extremity of the Indian peninsula. With
+basically a tropical climate of 18°C-43°C (minimum
+and maximum daily temperatures), the state receives
+an average of 925 mm annual rainfall distributed
+over four major seasons: the Southwest monsoon
+(Jun.-Dec.), Northeast monsoon (Oct.-Dec.), Winter (Jan.-Feb.) and Summer (Mar.-May). A predominantly red loam, lateral black and alluvial soils
+suitable for cultivation of cereals and fibre crops
+prevail in the state.
+The state is divided into seven distinct agroclimatic zones; viz., the Western zone (Zone-1 in this
+study), Southern zone (Zone-11), Northeastern zone
+(Zone-ill) and the Cauvery Delta area (Zone-IV).
+The remaining three zones include the Northwestern
+(dry belt) zone, the high-rainfall coastal areas and the
+hilly zone, which altogether account for relatively
+less than 15% of the total area under rice in the state.
+Due to their special features and the minimal area
+under rice, the last three zones were not considered
+in this study.
+Data pertaining to crop cultivation in all agroclimatic zones of the state, collected from 60 clusters
+taken on a proportionate random sampling basis, are
+available for each year in the comprehensive scheme
+for estimating the cost of cultivation for principal
+crops (CCPC) in the Department of Agricultural
+Economics, Tamil Nadu Agricultural University.
+Data for the present study refer to 129 high-yielding
+variety rice (IR-20) cultivators distributed over the
+four zones during the major production season of
+
+B. Tadesse, S. Krishnamoorthy j Agricultural Economics 16 (1997) 185-192
+
+October-December (Northeast monsoon) for the year
+1992/1993. Although rice is grown in two seasons,
+a single production season was selected in order to
+minimize the effect of seasonal variation on input
+use and the yield. HYV rice (IR-20) was selected
+due to its wider cultivation in the state during the
+particular season. Further, the analysis was limited to
+the first four zones in order to maintain homogeneity, by excluding zones with special features and
+which are less suitable for rice cultivation.
+
+3. The econometric model
+Following the Aigner et al. (1977) and Meeusen
+and Van den Broeck (1977) method of estimating a
+stochastic frontier production function in which the
+disturbance term (E) is composed of two parts, a
+systematic (V) and one-sided (U) components, a
+Cobb-Douglas production function of the following
+form was specified:
+lnlj = lnf3 0
+
++ I:i f3;lnXij + Ej
+
+(1)
+
+where lj =paddy output in Quintals, X 1j =land area
+under paddy in ha, x2j = human labour used in
+man-days, X 3 j = animal power used in bullock h,
+X4 j = machine power used in tractor h, X 5 j =
+fertilizer (NPK) used in kg, X 6 j = Seed used in kg,
+X7j = expenses on irrigation water, pesticides and
+chemicals in rupees (Rs), In = natural logarithm, and
+the error term (E) is defined as
+Ej =
+
+~- ~
+
+187
+
+and the ratio of the two standard errors as used by
+Jondrow et al. (1982),
+,\=8uj8v
+
+(4)
+
+or
+
+(5)
+is defined as the total variation of output from the
+frontier which can be attributed to technical efficiency (Battese and Corra, 1977). Hence, on the
+assumption that ~ and ~ are independent, the parameters of the production frontier (Eq. (1)) were
+estimated using maximum likelihood method by an
+econometric software called LIMDEP. Further, given
+a multiplicative production frontier for which CobbDouglas production function (Eq. (1)) was specified,
+the farm-specific technical efficiency (TE) of the jtlt
+farmer was estimated by using the expectation of ~
+conditional on the random variable Ej as shown by
+Battese and Coelli (1988). That is,
+TEj = exp(- ~)
+
+(6)
+
+So that,
+0 .:s; TEj .:s; 1.
+After obtaining farm-specific technical efficiency using Eq. (6), the farms were segregated into their
+respective regions and different size groups, for
+which the average technical efficiency was computed
+and compared using F-test and censored regression
+(Tobit) model.
+
+(2)
+
+j = 1, 2, ... n farms.
+
+The systematic component ~· which captures
+random variation in output due to factors outside the
+control of the farmer, is assumed to be independently
+and identically distributed as N (0, 8 2 v ), independent of ~ which measures the technical efficiency
+relative to the stochastic frontier. Following most of
+the empirical literature, Neff et al. (1993) and Dawson and Lingard (1989), ~ is assumed to have a
+non-negative (one-sided) half-normal distribution
+with IN (0, 8 2 u)l.
+Now, let 8 2 u and 8 2 v be the variances of the
+parameters one-sided (u) and systematic (v ). Therefore,
+
+(3)
+
+4. Results
+Ordinary least squares (OLS) estimates of the
+parameters which show the average performance of
+the sample farms are presented in Table 1. With the
+adjusted R 2 value of 0.96, the inputs used in the
+model were able to explain 96% of the variation in
+paddy production for the state. The coefficients of
+land, labour, animal power and fertilizers were highly
+significant, but animal power has an unexpected
+sign. This is due to the fact that, in many of the
+farms, own bullocks, for which the farmer pays no
+hiring charge, are available. Hence, given the minimal opportunity cost of own bullocks, it is likely that
+animal power could be overused. Similarly, the coef-
+
+188
+
+B. Tadesse, S. Krishnamoorthy /Agricultural Economics 16 (1997) 185-192
+
+ficients of expenses on irrigation, pesticides and
+chemicals, although not significant, was unexpected.
+On the other hand, the estimates of the stochastic
+frontier which shows the best practice performance,
+i.e. efficient use of the available technology, is presented in Table 2. It is evident from the table that the
+estimates of A(3.1748)and u (0.2411)arelargeand
+significantly different from zero, indicating a good
+fit and the correctness of the specified distributional
+assumption. Moreover, the estimate of y, which is
+the ratio of the variance of farm-specific technical
+efficiency to the total variance of output, was 0.909.
+This would mean that more than 90% of the variation in output among the farms is due to the differences in technical efficiency.
+With an upward shift in the constant term 1 , the
+coefficient of land, animal power and fertilizers remained significant in the Cobb-Douglas stochastic
+frontier production function 2 , implying that farmers
+could be advised to use more fertilizers and less
+animal power than what they presently use to increase production.
+In addition, given the prevalence of numerous
+marginal and small farmers in the state, from the
+highly significant coefficient of land, we could infer
+that it is possible to increase rice production by
+consolidating holdings through cooperative effort.
+It was also observed that the farm-specific technical efficiency varied between 0.59 and 0.97 with a
+mean of 0.83. Thus, in the short run, there is a scope
+for increasing rice production by 17%, by adopting
+the technology and the techniques used by the best
+practice paddy farms.
+The frequency distribution of the farm-specific
+technical efficiency segregated into the four agroecological zones (Table 3) shows that 36.4%, 29.4%,
+16.0% and 30.0% of farms in Zones I, II, III and IV,
+respectively, were operating at a technical efficiency
+
+Table I
+OLS estimates of average performance using Cobb-Douglas production function
+Variables
+
+Parameters
+
+Coefficients
+2.8970 a (0.382)
+0.8250 a (0.067)
+0.1130 b (0.058)
+-0.0366 b (0.019)
+0.0055 (0.014)
+0.0949 a (0.030)
+0.0250 (0.056)
+-0.0054 (0.012)
+
+Constant
+Land (X 1)
+Labour (X2 )
+Animal power (X3 )
+Machine power (X4 )
+Fertilisers ( X5 )
+Seeds (X6 )
+Other expenses (X7 )
+
+o = 0.906, R 2 = 0.96, F = 566.72 b, N = 129.
+Figures in parentheses are standard errors.
+a Significant at 1%.
+b Significant at 5%.
+
+of more than 90%. On the other hand, relatively
+more farms (15.6%) in Zone III, Zone I (12.12%)
+and Zone II (8.8%) were found to be the least
+efficient. Although, in terms of the most efficient
+farms, Zone IV rates second to Zone I, no farm was
+found operating in the least technical efficiency range
+(55-65%) as in the other three zones.
+Overall, the average technical efficiency in the
+four zones varied between 80.46% in Zone III to
+85.90% in Zone IV. As a result, the null hypothesis
+
+Table 2
+Maximum likelihood estimates of the stochastic frontier production function
+Variables
+Constant
+Land (x 1)
+Labour (x 2 )
+Animal power (x 3 )
+Machine power(x 4 )
+Fertilizers (x 5 )
+Seeds (x 6 )
+Others expenses (x 7 )
+
+Parameters
+
+Coefficients
+
+f3o
+
+3.3674 a (0.3771)
+0.8872 a (0.077)
+0.1072 b (0.0599)
+- 0.0376 (0.0178)
+0.00301 (0.0113)
+0.05169 c (0.0256)
+0.0239 (0.0606)
+-0.0069 (0.0126)
+3.1748 a (1.224)
+0.909
+0.24113 a (0.0247)
+-61.977
+129
+
+{3!
+f3z
+
+{33
+{34
+f3s
+
+{36
+{37
+A
+'Y
+
+1
+
+An upward shift in the constant term is specific to the COLS
+estimation procedure. However, in the maximum likelihood estimation of the stochastic frontier, the same shift may occur,
+although it is not a built-in nature of the model.
+2 As an alternative to this, a more flexible production function
+such as the translog production function was tried. However, it
+gave low t-ratios for all inputs used and a highly significant
+constant term.
+
+/u 2 u + u 2 v
+Log likelihood
+N
+
+Figures in parentheses are standard errors.
+a Significant at 1%.
+b Significant at 10%.
+c Significant at 5%.
+
+B. Tadesse, S. Krishnamoorthy /Agricultural Economics 16 (1997) 185-192
+
+189
+
+Table 3
+Frequency distribution of farm-specific technical efficiency of paddy farms across agro-ecological zones of Tamil Nadu
+Technical efficiency(%)
+
+Zone I n = 33
+
+Zone II n = 34
+
+Zone III n = 32
+
+55-65
+66-70
+71-75
+76-80
+80-85
+86-90
+91-95
+96-100
+Average TE
+
+4 (12.12)
+1 (3.03)
+1 (3.03)
+4 (12.12)
+5 (15.15)
+6 (18.18)
+9 (27.27)
+3 (9.09)
+0.843
+
+3 (8.82)
+6 (17.65)
+3 (8.82)
+3 (8.82)
+9 (26.47)
+10 (29.41)
+
+5 (15.63)
+2 (6.25)
+1 (3.15)
+7 (21.88)
+5 (15.63)
+7 (21.88)
+5 (15.63)
+
+0.831
+
+0.804
+
+Zone IV n = 30
+
+State N = 129
+
+I (3.33)
+1 (3.33)
+6 (20.00)
+4 (13.33)
+9 (30.00)
+8 (26.67)
+1 (3.33)
+0.859
+
+12 (9.30)
+4 (3.10)
+9 (6.97)
+20 (15.50)
+17 (13.18)
+31 (24.03)
+32 (24.81)
+4 (3.10)
+0.833
+
+Figures in parentheses are percentage values.
+
+of no difference in the mean technical efficiency
+across the four ecological zones, evaluated using a
+two-way ANOVA, was rejected. As the data are
+unbalanced, the two-way ANOVA was worked out
+through general linear model (GLM), the value of
+which is derived based on the sequential sum of
+squares. The rejection of the null hypothesis would
+mean that at mean level, there exists significant
+(F6, 128 a= 0.10) variation in the technical efficiency
+achieved by paddy farms across the four ecological
+zones in the state.
+Nonetheless, ANOVA presupposes normally distributed data. Although the data are originally normally distributed, estimated efficiency measures are
+decidedly (in the present analysis) half-normally distributed. Hence, the use of ANOVA may involve
+specification bias. Therefore, the technical efficiency
+measures were regressed on dummies for ecological
+zones, farm size and their interaction. These were
+
+censored between 0 and 1 without a constant term
+using Tobit regression.
+The results were consistent with the ANOVA
+table but depicted detailed outcomes. Accordingly,
+with a log likelihood ratio of - 94.021 for the censored Tobit regression model, t values for individual
+coefficients indicated that farms in Zone II and Zone
+ill are less efficient than paddy farms in Zone IV
+(Table 6). However, the average efficiency attained
+by paddy farms in Zone I was not significantly
+different from that of paddy farms in Zone IV.
+Further comparison by using individual {3 coefficients of the dummy variables by t-test (Gujaratti,
+1995) showed that paddy farms in Zone I operate at
+higher efficiency levels than those in Zone II, and
+the difference between efficiency of farms in Zones
+II and ill was not significant.
+We can therefore conclude that paddy farms in
+Zones IV and I are more efficient than those located
+
+Table 4
+Frequency distribution of farm-specific technical efficiency in paddy farms of Tamil Nadu across size groups
+Technical efficiency(%)
+
+Small n =51
+
+55-65
+66-70
+71-75
+76-80
+81-85
+86-90
+91-95
+96-100
+Average TE
+
+4 (7.80)
+2 (3.90)
+4 (7.80)
+3 (5.80)
+5 (9.80)
+14 (27.50)
+19 (37.30)
+0.850
+
+Figures in parentheses are percentage values.
+
+Medium n = 43
+
+Largen= 35
+
+StateN= 129
+
+3 (6.90)
+2 (3.90)
+3 (6.90)
+7 (16.30)
+6 (13.90)
+10 (23.30)
+9 (20.90)
+3 (6.90)
+0.835
+
+5 (14.30)
+
+12 (9.3)
+4 (3.1)
+9 (6.9)
+20 (15.5)
+17 (13.2)
+31 (24.0)
+32 (24.80)
+4 (3.1)
+0.833
+
+2 (5.7)
+
+10 (28.6)
+6(17.2)
+7 (20.0)
+4 (11.3)
+1 (2.9)
+
+0.806
+
+190
+
+B. Tadesse, S. Krishnamoorthy /Agricultural Economics 16 (1997) 185-192
+
+Table 5
+Two-way ANOVA table derived using general linear model (GLM) for efficiency comparison across ecological zones and farm size groups
+in Tamil Nadu
+Source
+
+DF
+
+Sequential sum
+of squares
+
+Adjusted sum
+of squares
+
+Adjusted mean
+sum of squares
+
+F
+
+Ecological zones
+Farm size
+Zone-size interaction
+Error
+Total
+
+3
+2
+6
+117
+128
+
+0.1330
+0.1946
+0.1768
+1.7957
+2.3003
+
+0.1528
+0.1946
+0.1768
+1.7957
+
+0.0509
+0.0973
+0.0294
+0.0153
+
+3.18
+6.07
+1.92
+
+a
+b
+
+c
+
+p
+a
+b
+
+c
+
+0.027
+0.003
+0.083
+
+Significant at 5%.
+Significant at 1%.
+Significant at 10%.
+
+in Zones II and III, respectively and consistently.
+This would imply that, given the existing technology
+for rice production in Tamil Nadu, further improvement in paddy productivity can be made by farms in
+Zones II and III if extension packages are geared to
+advising rice farms in these zones to use the practices of those in Zones IV and I.
+A similar analysis was done by aggregating groups
+of farms into small, medium and large based upon
+the size of operational holdings 3 . This was done in
+order to provide an insight into the age-old debate on
+the small vs. large farm size efficiency differences
+(variation), which has not been resolved yet. The
+frequency distribution is provided in Table 4. It is
+evident from the table that 37% of the most efficient
+(91-97% technical efficiency) farms comprise those
+that operate small farms. The same was only 26 and
+13% in medium and large farms, respectively. On
+the other hand, the largest proportion (14.3%) of the
+least efficient farms were those that operated large
+farms while the same was about 8 and 7% for smalland medium-sized farms.
+On these bases, the two-way ANOV A, with a
+calculated F ratio of 6.07 at 2.128 degrees of freedom gave strong evidence to reject the null hypothesis that there is no difference in the average technical
+efficiency across small-, medium- and large-sized
+farms (Table 5). The Tobit model's dummy coeffi-
+
+3 Small farms are those operating less than 1.5 ha of land, while
+medium-sized farms are those operating 1.5 ha to 4.00 ha of land.
+Those operating more than 4.00 ha of land were considered
+large-sized farms.
+
+cients further revealed the existence of significant
+differences in technical efficiency across the farm
+size groups considered (Table 6). That is, paddy
+farms on small- and medium-sized holdings operate
+at a higher level of technical efficiency than largesized farms. This is likely because under conditions
+where accessibility to institutional finance depends
+on asset position, particularly land (Lahiri, 1993),
+small farms will be forced to allocate their meagre
+Table 6
+Maximum likelihood estimates of the coefficients of censored
+regression (Tobit model) dummies for ecological zones, farm size
+and their interaction
+Variables
+
+Parameters Coefficients
+
+A) Dummies for ecological zones
+a1
+-0.0555 (0.053)
+1) Zone I (D 1)
+-0.1785 a (0.0588)
+2) Zone II (D 2 )
+a2
+-0.0211 b (0.254)
+a3
+3) Zone III (D 3 )
+B) Dummies for farm size
+4) Small (D4 )
+a4
+0.0512 a (0.0054)
+5) Medium (D5 )
+a5
+0.0692 a (0.0236)
+C) Farm size-ecological zone interaction dummies
+6) Small in Zone I (SD 1)
+a6
+0.0459 (0.0731)
+a7
+0.1722 a (0.0738)
+7) Small in Zone II (SD 2 )
+a8
+-0.0321 (0.076)
+8) Small in Zone III (SD 3 )
+9) Medium in Zone I (MD 1)
+a9
+0.0508 (0.0733)
+10) Medium in Zone II (MD 2 ) a 10
+0.1230 (0.0796)
+11) Medium in Zone III (MD 3 ) a 11
+-0.1341 (0.0732) c
+U
+0.1167 a (0.0072)
+Log-37.313
+likelihood
+(0, 1)
+Limits
+Figures in paretheses are standard errors.
+Significant at 1%.
+b Significant at 10%.
+c Significant at 5%.
+
+a
+
+B. Tadesse, S. Krishnamoorthy /Agricultural Economics 16 (1997) 185-192
+
+resources more effectively. In this regard, the studies
+of Sekar et al. (1994), Bagi (1981) and Lau and
+Yotopoulos (1971) in different parts of India depict
+similar findings. Specially in the examination of the
+relationship between farm size and economic efficiency, Bagi ( 1981) has shown that using more own
+resources such as human labour, bullock power and
+fertilisers per hectare of land, small farms attain
+more output and better technical efficiency than large
+farms.
+However, this study has not considered ecological
+effects as an important issue of the present time. To
+this end, the size-ecological zone-interaction-effect
+dummies, in the present analysis, revealed that
+small-sized farms in Zone II and medium-sized farms
+in Zone III are peculiar. That is, the dummy coefficients are significant (at p s 0.01 and p s 0.05)
+implying small- and medium-sized paddy farms, in
+these zones, are represented by ecologically size-biased production technologies (practices). This could
+be taken as an advantage in the short run by the state
+policy makers to increase rice production.
+In a nutshell, we could infer that the variation in
+the level of technical efficiency among paddy farms
+in the state exists across agro-ecological regions and
+the size of operational holdings as well. Identification of specific factors that led to such variations in
+the farm-specific technical efficiency is of profound
+relevance for formulating strategies necessary to narrow the prevailing gap and increase productivity.
+With the given database, this was imponderable.
+However, the resource use pattern of some of the
+most efficient (above 90% technical efficiency) farms
+were examined. It was found that the most efficient
+farms employed 150.94 man-days of labour, 112.22
+h of animal power and 11.04 tractor h, used 222.48
+kg of fertilizers and 40 kg of seeds, and spent
+Rs484.66 as payments on irrigation, pesticides and
+chemicals for cultivating a hectare of land, which
+produced 57.49 quintals of paddy.
+
+191
+
+production is more prominent. Farmers were overusing animal power in rice cultivation.
+Overall, the mean technical efficiency of 83.3% is
+achieved by paddy farms in the state showing the
+scope for increasing paddy production by 17% with
+the present technology (technique) itself. A significant variation was observed in the mean level of
+technical efficiency among the four major rice growing zones of the state, and farmers operating on
+small and medium sized farms achieved a higher
+level of technical efficiency than those with large
+holdings. The farm size-ecological zone interaction
+effects also reveal that small- and medium-sized
+paddy farms in Zones II and III, respectively, are
+operating at a higher level of technical efficiency
+than all other farms.
+Consequently, paddy farmers, in general, could be
+advised on the use of less animal power, and more
+consolidated use of land. Besides strengthening extension services to enable farmers to follow the
+resource use pattern and practices of the paddy farms
+in Zones IV and I, special attention should be given
+to improve the efficiency of paddy farms with large
+holdings through the adoption of practices of smalland medium-sized farms, particularly in Zones II and
+III. This could help increase rice production in the
+state in the short run.
+
+Acknowledgements
+This research was carried out while the first author was completing his M.Sc. studies in India. We
+acknowledge the centre for Cost of Cultivation of
+Principal Crops, Department of Agricultural Economics, Tamil Nadu Agricultural University, for the
+supply of data used in this study. The anonymous
+referees of this journal deserve our special thanks for
+they have contributed commendable comments that
+helped further improvements in the findings of this
+research. Ms. Jaya Anitha Abraham's contribution in
+realising this research is also appreciable.
+
+5. Conclusion
+References
+The results of our study showed that, with the use
+of more fertilizers and land, rice production could be
+increased. The contribution of land in increasing
+
+Ali, M., Chaudhry, M.A., 1990. Inter-regional farm efficiency in
+Pakistan's Punjab: A frontier production function study. J.
+Agric. Econ. 41, 62-74.
+
+192
+
+B. Tadesse, S. Krishnamoorthy /Agricultural Economics 16 (1997) 185-192
+
+Aigner, D.J., Lovell, C.A.K., Schmidt, P., 1977. Formulation and
+estimation of stochastic production function models. J. Econometrics 6, 21-37.
+Bagi, S.F., 1981. Relationship between Farm size and Economic
+Efficiency: An analysis of farm level data from Haryana
+(India). Canadian J. Agric. Econ. 29, 317-326.
+Battese, G.E., Coelli, T.J., 1988. Prediction of firm-level technical
+efficiencies with a generalized frontier production function
+and panel data. J. Econometrics 38, 387-399.
+Battese, G.E., Corra, G.S., 1977. Estimation of a production
+frontier model with application to the pastoral zone of Eastern
+Australia. Aust. J. Agric. Econ. 21, 169-179.
+Datt, K.K., Joshi, P.K., 1992. Economic efficiencies and land
+augmentation to increase agricultural production: a comparative analysis for investment priorities. Ind. J. Agric. Econ. 47,
+468-476.
+Dawson, P.J., Lingard, J., 1989. Measuring farm efficiency over
+time on Philippine rice farms. J. Agric. Econ. 40, 168-177.
+Gujaratti, N.D., 1995. Basic Econometrics, McGraw-Hill, Singapore, 838 p.
+Hopper, D.W., 1965. Allocative efficiency in traditional Indian
+agriculture. J. Farm Economics 47, 611-624.
+Huang, C.J., Bagi, F.S., 1984. Technical efficiency on individual
+farms in North West India. Southern Economist J. 51, 108-115.
+Jayaram, H., Chandarshekar, G.S., Achoth, L., 1987. An economic analysis of technical efficiency in rice cultivation in
+Mandhya: some issues in resource pricing. Ind. J. Agric. Econ.
+47, 677.
+Jondrow, J., Lovell, C.A.K., Materov, I.S., Schmidt, P., 1982. On
+estimation of the technical inefficiency in the stochastic frontier production function. J. Econometrics 19, 233-238.
+
+Junankar, P.N., 1980. Test of the profit maximization hypothesis:
+a study of Indian agriculture. J. Dev. Studies 16, 187-203.
+Kalirajan, K., 1981. An Econometric Analysis of Yield Variability
+in Paddy Production. Canadian J. Agric. Econ. 29, 283-294.
+Lahiri, T.B., 1993. Problems of Sustaining gains from land reforms. Yojana 37, 8-10.
+Lau, L.J., Yotopoulos, P.A., 1971. A test for relative efficiency
+and application to Indian agriculture. Am. Econ. Rev. 61,
+94-109.
+Meeusen, W., Van den Broeck, J., 1977. Efficiency estimation
+from Cobb-Douglas production functions with composed error. Int. Econ. Rev., 34, 163-173.
+Neff, D.L., Garcia, P., Nelson, C.H., 1993. Technical efficiency: a
+comparison of production frontier methods. J. Agric. Econ. 44,
+479-489.
+Sahota, G.S., 1968. Efficiency of resource allocation in Indian
+agriculture. Am. J. Agric. Econ. 50, 584-605.
+Saini, G.R., 1969. Farm size, resource use efficiency and income
+distribution. Allied Pub. Pvt., New Delhi.
+Sekar, C., Ramasamy, C., Senthilnathan, S., 1994. Size productivity relations in paddy farms of Tamil Nadu. Agricultural
+Situations in India 48, 859-863.
+Shanmugam, T.R., Palanisami, K., 1993. Measurement of economic efficiency: frontier function approach. J. Ind. Soc.
+Agric. Statistics 45, 235-242.
+Sidhu, S.S., 1974. Relative efficiency in wheat production in the
+Indian Punjab. Am. Econ. Rev. 64, 742-751.
+Singh, A., 1992. Farm size and agricultural productivity in Alic
+garh district. In: Mohammed, N. (Ed.), Anthropogenic Dimensions in Agriculture. Concept Pub., New Delhi.
+
+
