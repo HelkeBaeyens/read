@@ -95,6 +95,14 @@ class Application(Frame):
 		self.quit_button = Button(self.button_frame2, activebackground='blue', text="Quit", command=self.quit_prog)
 		self.quit_button.pack(padx=2, pady=2, side=LEFT)
 
+		"""Seventh frame: the graphs belonging to the information about the text"""
+		self.graph_frame = Frame(self)
+		self.graph_frame.pack(side=TOP, expand=0, fill=X)
+		self.bar_chart = Canvas(self.graph_frame, bg='beige', height=240, width=400) #adds a gauge chart indicating the level of the text
+		self.bar_chart.create_line(30,230,380,230)
+		self.bar_chart.create_line(30,230,30,10)
+		self.bar_chart.pack(side=LEFT, expand=0, fill=Y)
+		
 	def open_doc(self):
 		"""Function to open a file saved on the computer """
 		doc = askopenfile(initialdir="/", title="Open", filetypes=(("Text files", "*.txt"),("All files","*.*")))
@@ -207,9 +215,32 @@ class Application(Frame):
 				self.gauge.create_arc(coordarc, start=150, extent=30, fill='green')
 				self.gauge.create_text(30,120, anchor=W, font="Pursia", text='A1')
 
-				self.info.delete(1.0, END) # empty the text box before adding new information
-				self.info.insert(1.0, message) # fill the textbox with the answer
-				self.info.configure(state='disabled') # close writing in box again
+		"""A graph indicating the length of the sentences """
+		senList = [ ]
+		for sentence in sentencesX:
+			words = sentence.split(" ")
+			senList.append(len(words))	
+	
+		c_width= 350
+		c_height=300
+		y_stretch = 10			# max on the y-arc
+		y_gap = 15 				# Distance from the Canvas edge
+		x_stretch = 5 			# Something to fit the variabless????
+		x_width= 15 			#Width of the x-axis				
+		x_gap = 15
+		len_list = len(senList)
+		highest = max(senList)
+		for x,y in enumerate(senList):
+ 			x0 = (x+1)*(c_width/(len_list+1))-2
+ 			x1 = (x+1)*(c_width/(len_list+1))+2
+ 			y0 = (330-(y*c_height/highest))
+ 			y1 = 227
+
+ 			self.bar_chart.create_rectangle(x0,y0,x1,y1, fill='red')
+ 			self.bar_chart.create_text(x0+2,y0, anchor=SW, text=str(y))
+ 			self.info.delete(1.0, END) # empty the text box before adding new information
+ 			self.info.insert(1.0, message) # fill the textbox with the answer
+ 			self.info.configure(state='disabled') # close writing in box again
 
 	def simply(self):
 		"""Temporal function to fill the textbox that is going to fill the simplified text + error boxes when the textbox is empty or doesn't contain punctuation marks"""
@@ -270,7 +301,7 @@ class Application(Frame):
 #create the windoww + give title
 root = Tk()
 root.title('Easy Text')
-root.geometry('900x300') #modify root window
+root.geometry('900x600') #modify root window
 root.iconbitmap('ET_Logo.ico') # changes the python icon into our own logo
 app = Application(root)
 root.mainloop()
