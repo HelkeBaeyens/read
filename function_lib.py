@@ -9,6 +9,8 @@ in__file__ = 	nr_words(words)
 				av_sentence_length(sentences)
 				max_sentence(sentences)
 				min_sentence(sentences)
+				sen_lev(sentences)
+				text_lev(level,sen_lev)
 """
 from word_level import *
 def nr_words(words): # Calculates the numbers of words in a file
@@ -24,7 +26,7 @@ def max_length_words(words): #Looks for the longest word in a file
 	counter = 0
 	for word in words:
 		if word.replace('?' or '!' or ',', '.').endswith('.'):
-			words.replace(word, word[-1])
+			word.replace(word, word[-1])
 	for word in words:
 		if len(word) > counter:
 			max_len = word

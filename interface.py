@@ -290,7 +290,7 @@ class Application(Frame):
 		elif not content.replace('?'or'!', '.').endswith('.'):
 			tkinter.messagebox.showinfo("Input Eror", "Lack of punctuation marks: \n Your sentences need to contain: . , ? , !")
 		else:
-			words = list(load_input(filename))
+			words = list(load_input(content))
 			test_list= ["i","we","you","they","he","she","it","a","an","the"]
 			Test = False
 			for word in words:
