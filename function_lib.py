@@ -22,14 +22,13 @@ def av_length_words(words): #Calculates the average length of words in a file
 
 def max_length_words(words): #Looks for the longest word in a file
 	counter = 0
-	lemmas = []
 	for word in words:
-		if word.endswith('.'):
-			lemmas.append(word[:-1])
-	for lemma in lemmas:
-		if len(lemma) > counter:
-			max_len = lemma
-			counter = len(lemma)
+		if word.replace('?' or '!' or ',', '.').endswith('.'):
+			words.replace(word, word[-1])
+	for word in words:
+		if len(word) > counter:
+			max_len = word
+			counter = len(word)
 		else: 
 			None 
 	return(str(max_len))
@@ -92,7 +91,7 @@ def text_level(level, sen_lev):
 	calcu = {'A1': 1, 'A2': 2, 'B1': 3, 'B2': 4, 'C1': 5, 'C2':6}
 	W = int(calcu[level])*0.8 										#80% word level		
 	S = int(calcu[sen_lev])*0.1 									#10% sentence level
-	T = 3*0.1 														#10% temporal value the definition doesn't exist yet
+	T = 1*0.1 														#10% temporal value the definition doesn't exist yet
 	nr = (W + S + T)
 	
 	if nr > 5:
