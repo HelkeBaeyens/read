@@ -218,25 +218,12 @@ def level(lexicon,dictionary):
 	
 	def level_text(word_levels): # Calculates the word level of a text according to the theory that to properly comprehend a text the reader has to understand at least 90% of the vocabulary in that text.
 		length = (len(word_levels)/10)
-		counter_A1 = 0
-		counter_A2 = 0
-		counter_B1 = 0
-		counter_B2 = 0
-		counter_C1 = 0
-		counter_C2 = 0
-		for level in word_levels:
-			if level == 'A1':
-				counter_A1 += 1
-			elif level == 'A2':
-				counter_A2 += 1
-			elif level == 'B1':
-				counter_B1 += 1
-			elif level == 'B2':
-				counter_B2 += 1
-			elif level == 'C1':
-				counter_C1 += 1
-			else:
-				counter_C2 += 1
+		counter_A1 = word_levels.count('A1')
+		counter_A2 = word_levels.count('A2')
+		counter_B1 = word_levels.count('B1')
+		counter_B2 = word_levels.count('B2')
+		counter_C1 = word_levels.count('C1')
+		counter_C2 = word_levels.count('C2')
 
 		if counter_C2 >= length:
 			return('C2')
@@ -259,25 +246,13 @@ def nr_wordlev(lexicon,dictionary):
 	for word in lexicon:
 		level = dictionary[word]
 		word_levels.append(level)
-	counter_A1 = 0
-	counter_A2 = 0
-	counter_B1 = 0
-	counter_B2 = 0
-	counter_C1 = 0
-	counter_C2 = 0
-	for level in word_levels:
-		if level == 'A1':
-			counter_A1 += 1
-		elif level == 'A2':
-			counter_A2 += 1
-		elif level == 'B1':
-			counter_B1 += 1
-		elif level == 'B2':
-			counter_B2 += 1
-		elif level == 'C1':
-			counter_C1 += 1
-		else:
-			counter_C2 += 1
+	counter_A1 = word_levels.count('A1')
+	counter_A2 = word_levels.count('A2')
+	counter_B1 = word_levels.count('B1')
+	counter_B2 = word_levels.count('B2')
+	counter_C1 = word_levels.count('C1')
+	counter_C2 = word_levels.count('C2')
+
 	counters = {1: counter_A1, 2: counter_A2, 3: counter_B1, 4: counter_B2, 5:counter_C1, 6:counter_C2}
 	return (counters)
 """.................................................................................."""
