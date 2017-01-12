@@ -9,46 +9,40 @@ in__file__ = 	nr_words(words)
 				av_sentence_length(sentences)
 				max_sentence(sentences)
 				min_sentence(sentences)
+				sen_lev(sentences)
+				text_lev(level,sen_lev)
 """
-import math
+from word_level import *
 def nr_words(words): # Calculates the numbers of words in a file
-	nr = (len(words))
-	return (nr)
+	return(len(words))
 
 def av_length_words(words): #Calculates the average length of words in a file
 	lengths = 0
 	for word in words:
-		lengths +=len(word)
-	length = (lengths / (nr_words(words)))
-	return(str(length))
+		lengths += len(word)
+	return(str(lengths/(nr_words(words))))
 
 def max_length_words(words): #Looks for the longest word in a file
 	counter = 0
-	lemmas = []
 	for word in words:
-		if word.endswith('.'):
-			lemmas.append(word[:-1])
-	for lemma in lemmas:
-		if len(lemma) > counter:
-			max_len = lemma
-			counter = len(lemma)
+		if word.replace('?' or '!' or ',', '.').endswith('.'):
+			word.replace(word, word[-1])
+	for word in words:
+		if len(word) > counter:
+			max_len = word
+			counter = len(word)
 		else: 
 			None 
-	return (str(max_len))
+	return(str(max_len))
 
 def len_longest_word(words): #Calculates the length of the longest word in a file
-	return (str(len(max_length_words(words))))
+	return(str(len(max_length_words(words))))
 
 def differentiation(words, filename): # Looks for differentiation in a text by dividing the length of the set of words over the length of the file
-	text = filename.split()
-	diff = len(set(words))/len(text)
-	return (str(diff))
+	return(str(len(set(words))/len(filename.split())))
 	
-def load_input2 (filename): # second way to load the input in order to separate the sentences instead of words.
-	sentences = [ ]
-	text = filename
-	sentences = text.split('. ')
-	return (sentences)
+def load_input2(filename): # second way to load the input in order to separate the sentences instead of words.
+	return(filename.replace('?' or '!', '.').split('. '))
 
 def sentence_count(sentences): #Calculated the number of sentences
 	return(len(sentences))
@@ -58,8 +52,7 @@ def av_sentence_length(sentences): # Calculates the average length of the senten
 	for sentence in sentences:
 		sentence = sentence.split(' ')
 		sen_length += (len(sentence))
-	av_length = (sen_length/sentence_count(sentences))
-	return(str(av_length))
+	return(str(sen_length/sentence_count(sentences)))
 
 def max_sentence(sentences): # Calculates the length of the longest sentence.
 	counter = 0
@@ -69,7 +62,7 @@ def max_sentence(sentences): # Calculates the length of the longest sentence.
 			counter = (len(sentence))
 		else: 
 			None 
-	return (str(counter))
+	return(str(counter))
 
 def min_sentence(sentences): # Calculates the length of the shortest sentence
 	counter = 1000
@@ -78,4 +71,85 @@ def min_sentence(sentences): # Calculates the length of the shortest sentence
 		if len(sentence) < counter:
 			counter = (len(sentence))
 		else: None
-	return (str(counter))
+	return(str(counter))
+
+def sen_lev(sentences):
+	av_sen = float(av_sentence_length(sentences))
+	if av_sen > 40:
+		return('C2')
+	elif av_sen > 30:
+		return('C1')
+	elif av_sen > 25:
+		return('B2')
+	elif av_sen > 20:
+		return('B1')
+	elif av_sen > 15:
+		return('A2')
+	else: 
+		return ('A1')
+
+def text_level(level, sen_lev):
+	"""Function to calculate the level of the text"""
+	calcu = {'A1': 1, 'A2': 2, 'B1': 3, 'B2': 4, 'C1': 5, 'C2':6}
+	W = int(calcu[level])*0.8 										#80% word level		
+	S = int(calcu[sen_lev])*0.1 									#10% sentence level
+	T = 1*0.1 														#10% temporal value the definition doesn't exist yet
+	nr = (W + S + T)
+	
+	if nr > 5:
+		return('C2')
+	elif nr > 4:
+		return('C1')
+	elif nr > 3:
+		return('B2')
+	elif nr > 2:
+		return('B1')
+	elif nr > 1:
+		return('A2')
+	else: 
+		return('A1')
+
+def simply_sen(filename):
+	"""this function splits sentences into shorter sentences when the length of the sentence is higher than a B1 level (>20)"""
+	sentences= filename.replace('?' or '!', '.').split('.')
+	simplies = [ ]
+	for sentence in sentences:
+		words=sentence.split(' ')
+		if len(words) > 20:
+			counter = 0
+			sen = sentence.replace(':' or ';' or '-', ',').split(',') # the sentences are split on punctuation.
+			words2=sen[counter].split(' ')
+			words3= sen[counter+1].split(' ')
+			if len(words2) > 5 and len(words3) > 5:
+				simply = '.'.join(sen)
+				simplies.append(simply)
+				counter +=1
+			else:
+				simplies.append(sentence)
+		else: 
+			simplies.append(sentence)
+	sentences2 = '.'.join(simplies)
+	simplified = [ ]
+	sentences2 = sentences2.split('.')
+	regex= ['but','or','if', 'and']
+	for sentence in sentences2:
+		words=sentence.split(' ')
+		if len(words) > 20:
+			counter = 0
+			for word in regex:
+				if word in sentence:
+					sen2 = sentence.replace(word, ('. '+word)).split('.') # the sentences are split on punctuation.
+			words2=sen2[counter].split(' ')
+			words3= sen2[counter+1].split(' ')
+			if len(words2) > 5 and len(words3) > 5:
+				simplify = '.'.join(sen2)
+				simplified.append(simplify)
+				counter +=1
+			else:
+				simplified.append(sentence)
+		else: 
+			simplified.append(sentence)	
+	
+	simplified = '.'.join(simplified)
+	return(simplified)
+					
