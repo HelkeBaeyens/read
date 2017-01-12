@@ -106,3 +106,25 @@ def text_level(level, sen_lev):
 		return('A2')
 	else: 
 		return('A1')
+
+def simply_sen(filename):
+	"""this function splits sentences into shorter sentences when the length of the sentence is higher than a B1 level (>20)"""
+	sentences= filename.replace('?' or '!', '.').split('.')
+	simplies = [ ]
+	for sentence in sentences:
+		words=sentence.split(' ')
+		if len(words) > 20:
+			counter = 0
+			sen = sentence.replace(':' or ';' or '-', ',').split(',') # the sentences are split on punctuation.
+			words2=sen[counter].split(' ')
+			words3= sen[counter+1].split(' ')
+			if len(words2) > 5 and len(words3) > 5:
+				simply = '.'.join(sen)
+				simplies.append(simply)
+				counter +=1
+			else:
+				simplies.append(sentence)
+		else: 
+			simplies.append(sentence)
+	simplies = '.'.join(simplies)
+	return(simplies)
