@@ -126,5 +126,28 @@ def simply_sen(filename):
 				simplies.append(sentence)
 		else: 
 			simplies.append(sentence)
-	simplies = '.'.join(simplies)
-	return(simplies)
+	sentences2 = '.'.join(simplies)
+	simplified = [ ]
+	sentences2 = sentences2.split('.')
+	regex= ['but','or','if', 'and']
+	for sentence in sentences2:
+		words=sentence.split(' ')
+		if len(words) > 20:
+			counter = 0
+			for word in regex:
+				if word in sentence:
+					sen2 = sentence.replace(word, ('. '+word)).split('.') # the sentences are split on punctuation.
+			words2=sen2[counter].split(' ')
+			words3= sen2[counter+1].split(' ')
+			if len(words2) > 5 and len(words3) > 5:
+				simplify = '.'.join(sen2)
+				simplified.append(simplify)
+				counter +=1
+			else:
+				simplified.append(sentence)
+		else: 
+			simplified.append(sentence)	
+	
+	simplified = '.'.join(simplified)
+	return(simplified)
+					
