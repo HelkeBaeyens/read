@@ -300,10 +300,22 @@ class Application(Frame):
 			if Test != True:
 				tkinter.messagebox.showinfo("Error", "Easy Text doesn't recognize the input as English")
 			else:
-				if content == 'Hallo':
-					message = "short"
+				dictionary= load_dictionary("data\\dictionaryABC.csv", ';')
+				lemmas = lematization(words)
+				lexiconX = lexicon(dictionary,words,lemmas)  #don't give the variable the same name as the function, it won't work twice
+				levelX = str(level(lexiconX, dictionary))
+				sentencesX= load_input2(filename)
+				levelZ= sen_lev(sentencesX)
+				levelY = (text_level(levelX, levelZ))
+				if levelY == 'B1':
+					tkinter.messagebox.showinfo("Error", "The level of the text is lower than the B1 level!")
+				elif levelY == 'A2':
+					tkinter.messagebox.showinfo("Error", "The level of the text is lower than the B1 level!")
+				elif levelY == 'A1':
+					tkinter.messagebox.showinfo("Error", "The level of the text is lower than the B1 level!")					
 				else:
-					message = "Hallo"
+					message = simply_sen(content)
+
 		self.simple.delete(1.0, END) # empty the text box before adding new information
 		self.simple.insert(1.0, message) # fill the textbox with the answer
 		self.simple.configure(state='disabled') # close writing in box again
