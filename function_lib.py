@@ -40,7 +40,7 @@ def differentiation(words, filename): # Looks for differentiation in a text by d
 	return(str(len(set(words))/len(filename.split())))
 	
 def load_input2(filename): # second way to load the input in order to separate the sentences instead of words.
-	return(filename.split('. '))
+	return(filename.replace('?' or '!', '.').split('. '))
 
 def sentence_count(sentences): #Calculated the number of sentences
 	return(len(sentences))

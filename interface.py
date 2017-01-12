@@ -150,7 +150,7 @@ class Application(Frame):
 		
 		if not filename:
 			tkinter.messagebox.showinfo("Input Error", "There is no text to be analysed")
-		elif not filename.endswith(r'.'):
+		elif not filename.replace('?' or '!','.').endswith(r'.'):
 			tkinter.messagebox.showinfo("Input Eror", "Lack of punctuation marks: \n Your sentences need to contain: . , ? , !")
 		else:
 			words = list(load_input(filename))
@@ -287,7 +287,7 @@ class Application(Frame):
 		content= self.input.get(1.0,"end-1c")
 		if not content:
 			tkinter.messagebox.showinfo("Input Error", "There is no text to be analysed")
-		elif not content.endswith(r'.'):
+		elif not content.replace('?'or'!', '.').endswith('.'):
 			tkinter.messagebox.showinfo("Input Eror", "Lack of punctuation marks: \n Your sentences need to contain: . , ? , !")
 		else:
 			words = list(load_input(filename))
