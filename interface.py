@@ -98,10 +98,10 @@ class Application(Frame):
 		"""Seventh frame: the graphs belonging to the information about the text"""
 		self.graph_frame = Frame(self)
 		self.graph_frame.pack(side=TOP, expand=0, fill=X)
-		self.bar_chart = Canvas(self.graph_frame, bg='beige', height=240, width=400) #adds a gauge chart indicating the level of the text
-		self.bar_chart.create_line(30,230,380,230)
-		self.bar_chart.create_line(30,230,30,10)
+		
+		self.bar_chart = Canvas(self.graph_frame, bg='beige', height=240, width=400) #adds a bar chart indicating how many words there are for each level
 		self.bar_chart.pack(side=LEFT, expand=0, fill=Y)
+		self.in_bar_chart()
 		
 	def open_doc(self):
 		"""Function to open a file saved on the computer """
@@ -126,10 +126,17 @@ class Application(Frame):
 		self.gauge.create_text(170, 90, anchor=W, font="Pursua", text= 'C1')
 		self.gauge.create_text(205, 120, anchor=W, font="Pursia", text='C2')
 
+	def in_bar_chart(self):
+		self.bar_chart.create_line(30,230,380,230)
+		self.bar_chart.create_line(30,230,30,10)
+		self.bar_chart.pack(side=LEFT, expand=0, fill=Y)
+
 	def analyse(self): 
 		"""Function recalling the functions from the library to put them in the second text box + error boxes when the textbox is empty, doesn't contain punctuation marks, or if the input is even English at all + graphs"""
 		self.info.configure(state='normal') # open witing in box
 		filename= self.input.get(1.0,"end-1c")
+		self.in_gauge()
+		self.in_bar_chart()
 		
 		if not filename:
 			tkinter.messagebox.showinfo("Input Error", "There is no text to be analysed")
@@ -270,7 +277,7 @@ class Application(Frame):
 		self.simple.configure(state='disabled') # close writing in box again
 
 	def clear(self):
-		"""Function to simultaneously clear all the text windows"""
+		"""Function to simultaneously clear all the text windows and graphs"""
 		self.info.configure(state='normal')
 		self.simple.configure(state='normal')
 
@@ -278,6 +285,10 @@ class Application(Frame):
 		self.info.delete(0.0, 'end')
 		self.simple.delete(0.0,'end')
 
+		self.gauge.delete(ALL)
+		self.in_gauge()
+		self.bar_chart.delete(ALL)
+		self.in_bar_chart()
 		self.info.configure(state='disabled')
 		self.simple.configure(state='disabled')
 
