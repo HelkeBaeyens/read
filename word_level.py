@@ -253,7 +253,7 @@ def nr_wordlev(lexicon,dictionary):
 	counter_C1 = word_levels.count('C1')
 	counter_C2 = word_levels.count('C2')
 
-	counters = {1: counter_A1, 2: counter_A2, 3: counter_B1, 4: counter_B2, 5:counter_C1, 6:counter_C2}
+	counters = {'levels':['A1', 'A2', 'B1', 'B2', 'C1', 'C2'], 'counters': [counter_A1, counter_A2, counter_B1, counter_B2, counter_C1, counter_C2]}
 	return (counters)
 """.................................................................................."""
 dictionary = load_dictionary("data\\dictionaryABC.csv",';')
@@ -265,5 +265,5 @@ dictionary = load_dictionary("data\\dictionaryABC.csv",';')
 #print(lemmas)
 #print(lexicon)
 #print(len(lexicon))
-#print(level(lexicon,dictionary))#print(level(lexicon,dictionary))
+#print(level(lexicon,dictionary))
 #print(nr_wordlev(lexicon,dictionary))
