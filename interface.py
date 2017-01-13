@@ -112,7 +112,7 @@ class Application(Frame):
 		"""Function to open a file saved on the computer """
 		doc = askopenfile(initialdir="/", title="Open", filetypes=(("Text files", "*.txt"),("All files","*.*")))
 		if doc != None:
-			date = doc.read()
+			data = doc.read()
 			self.input.insert(END, data)
 			doc.close()
 		else: 
@@ -122,7 +122,7 @@ class Application(Frame):
 		"""The gauge shart should start out empty."""
 
 		coordarc= 10, 50, 240, 210
-		self.gauge.create_text(93, 30, anchor=W, font="Pursia", text="Text Level" )
+		self.gauge.create_text(90, 30, anchor=W, font=("times", 16, "italic"), text="Text Level" )
 		self.gauge.create_arc(coordarc, start=0, extent=180, fill='gainsboro')
 		self.gauge.create_text(30, 120, anchor=W, font="Pursia", text="A1")
 		self.gauge.create_text(50, 90, anchor=W, font="Pursia", text='A2')
@@ -183,17 +183,17 @@ class Application(Frame):
 				"""according to the level of the text the gauge moves up"""	
 				coordarc= 10,50,240,210
 				if levelY == "A1":
-					self.gauge.create_text(93, 30, anchor=W, font="Pursia", text="Text Level" )
+					self.gauge.create_text(90, 30, anchor=W, font=("times",16,"italic"), text="Text Level" )
 					self.gauge.create_arc(coordarc, start=150, extent=30, fill='green')
 					self.gauge.create_text(30,120, anchor=W, font="Pursia", text='A1')
 				elif levelY == "A2":
-					self.gauge.create_text(93, 30, anchor=W, font="Pursia", text="Text Level" )
+					self.gauge.create_text(90, 30, anchor=W, font=("times",16,"italic"), text="Text Level" )
 					self.gauge.create_arc(coordarc, start=120, extent=60, fill='lime')
 					self.gauge.create_text(50,90, anchor=W, font="Pursia", text='A2')
 					self.gauge.create_arc(coordarc, start=150, extent=30, fill='green')
 					self.gauge.create_text(30,120, anchor=W, font="Pursia", text='A1')
 				elif levelY == "B1":
-					self.gauge.create_text(93, 30, anchor=W, font="Pursia", text="Text Level" )
+					self.gauge.create_text(90, 30, anchor=W, font=("times",16,"italic"), text="Text Level" )
 					self.gauge.create_arc(coordarc, start=90, extent=90, fill='yellow')
 					self.gauge.create_text(90,75, anchor=W, font="Pursia", text='B1')
 					self.gauge.create_arc(coordarc, start=120, extent=60, fill='lime')
@@ -201,7 +201,7 @@ class Application(Frame):
 					self.gauge.create_arc(coordarc, start=150, extent=30, fill='green')
 					self.gauge.create_text(30,120, anchor=W, font="Pursia", text='A1')
 				elif levelY == "B2":
-					self.gauge.create_text(93, 30, anchor=W, font="Pursia", text="Text Level" )
+					self.gauge.create_text(90, 30, anchor=W, font=("times",16,"italic"), text="Text Level" )
 					self.gauge.create_arc(coordarc, start=60, extent=120, fill='orange')
 					self.gauge.create_text(130,75, anchor=W, font="Pursia", text='B2')
 					self.gauge.create_arc(coordarc, start=90, extent=90, fill='yellow')
@@ -211,7 +211,7 @@ class Application(Frame):
 					self.gauge.create_arc(coordarc, start=150, extent=30, fill='green')
 					self.gauge.create_text(30,120, anchor=W, font="Pursia", text='A1')
 				elif levelY == "C1":
-					self.gauge.create_text(93, 30, anchor=W, font="Pursia", text="Text Level" )
+					self.gauge.create_text(90, 30, anchor=W, font=("times",16,"italic"), text="Text Level" )
 					self.gauge.create_arc(coordarc, start=30, extent=150, fill='orange red')
 					self.gauge.create_text(170,90, anchor=W, font="Pursia", text='C1')
 					self.gauge.create_arc(coordarc, start=60, extent=120, fill='orange')
@@ -223,7 +223,7 @@ class Application(Frame):
 					self.gauge.create_arc(coordarc, start=150, extent=30, fill='green')
 					self.gauge.create_text(30,120, anchor=W, font="Pursia", text='A1')
 				else: 
-					self.gauge.create_text(93, 30, anchor=W, font="Pursia", text="Text Level" )
+					self.gauge.create_text(90, 30, anchor=W, font="Pursia", text="Text Level" )
 					self.gauge.create_arc(coordarc, start=0, extent=180, fill='crimson')
 					self.gauge.create_text(205,120, anchor=W, font="Pursia", text='C2')
 					self.gauge.create_arc(coordarc, start=30, extent=150, fill='red')
@@ -349,7 +349,7 @@ class Application(Frame):
 	def simply(self):
 		"""Temporal function to fill the textbox that is going to fill the simplified text + error boxes when the textbox is empty or doesn't contain punctuation marks"""
 		self.simple.configure(state='normal') # open witing in box
-		content= self.input.get(1.0,"end-1c")
+		content= self.input.get(1.0,'end-1c')
 		if not content:
 			tkinter.messagebox.showinfo("Input Error", "There is no text to be analysed")
 		elif not content.replace('?'or'!', '.').endswith('.'):
@@ -424,7 +424,7 @@ class Application(Frame):
 #create the windoww + give title
 root = Tk()
 root.title('Easy Text')
-root.geometry('900x600') #modify root window
+root.geometry('900x650') #modify root window
 root.iconbitmap('ET_Logo.ico') # changes the python icon into our own logo
 app = Application(root)
 root.mainloop()
