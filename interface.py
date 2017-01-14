@@ -2,7 +2,6 @@ from tkinter import * #star imports all the functions in the library
 from tkinter.filedialog import asksaveasfilename, askopenfile
 import tkinter.messagebox
 from tkinter.messagebox import askyesnocancel
-#import pandas as pd
 
 from word_level import * 	
 from function_lib import *
@@ -16,7 +15,7 @@ class Application(Frame):
 		self.pack()
 		self.create_widgets()
 
-	def create_widgets(self): # make frame, place frame, label|button|text, scrollbar
+	def create_widgets(self): # make frame, place frame, label|button|text, scrollbar, functions, ...
 		"""First frame: instructions"""
 		self.instr_frame = Frame(self)
 		self.instr_frame.pack(side=TOP, expand=0, fill=X)
@@ -97,15 +96,19 @@ class Application(Frame):
 		self.quit_button.pack(padx=2, pady=2, side=LEFT)
 
 		"""Seventh frame: the graphs belonging to the information about the text"""
-		self.graph_frame = Frame(self)
-		self.graph_frame.pack(side=TOP, expand=0, fill=X)
+		self.graph_frame = Frame(self, width = 800, height= 260)
+		self.graph_frame.pack(side=TOP, expand=1, fill=X)
 		
 		self.bar_chart = Canvas(self.graph_frame, bg='beige', height=260, width=400, scrollregion=(0,0,400,260)) #adds a bar chart indicating the lenght of the sentences
+		#scroll_chart = Scrollbar(self.bar_chart, orient=HORIZONTAL)
+		#scroll_chart.pack(side=BOTTOM,expand=0,fill=X)
+		#scroll_chart.config(command=self.bar_chart.xview)
+		#self.bar_chart.config(xscrollcommand=scroll_chart.set)
 		self.bar_chart.pack(side=LEFT, expand=1, fill=BOTH)
 		self.in_bar_chart()
 
 		self.histo = Canvas(self.graph_frame, bg='beige', height=260, width=400) #adds a bar chart indicating the number of words within a certain level
-		self.histo.pack(side=RIGHT, expand=0, fill=Y)
+		self.histo.pack(side=RIGHT, expand=0, fill=None)
 		self.in_histo() 
 		
 	def open_doc(self):
@@ -251,64 +254,96 @@ class Application(Frame):
 				round_up = int(math.ceil(highest/10.0))*10
 				graph_hight = 190
 				c_height = 260
+				lm= 30
+				rm=20
+				tm= 40
 				if len_list > 350:
 					graph_width = len_list
-					c_width=graph_width+50
+					c_width=graph_width+lm+rm
+					self.bar_chart.pack_forget()
+					self.bar_chart = Canvas(self.graph_frame, width=c_width, height=c_height, bg='beige', scrollregion=(0,0,c_width, c_height))
 					scroll_chart = Scrollbar(self.bar_chart, orient=HORIZONTAL)
 					scroll_chart.pack(side=BOTTOM,expand=0,fill=X)
-					scroll_chart.config(command=self.bar_chart.set)
+					scroll_chart.config(command=self.bar_chart.xview)
+					self.bar_chart.config(xscrollcommand=scroll_chart.set)
+					self.bar_chart.create_line(30,230,graph_width,230)
+					self.bar_chart.create_line(30,230,30,20)
+					self.bar_chart.create_text(150, 25, anchor=W, font=("times",16,"italic"), text="Sentence Length" )
+					self.bar_chart.create_text(150,260, font=("times",12,"bold"), anchor=SW, text="Sentences")
+					self.bar_chart.pack(side=LEFT, expand=1, fill=BOTH)
+
+		
+		#self.bar_chart.pack(side=LEFT, expand=0, fill=Y)
 				else:
 					graph_width = 350
 					c_width = graph_width+50
 				
 				bar = graph_width/len_list
 
+
 				for x,y in enumerate(senList):		#Here the length of the bars is indicated
-	 				x0 = x*(graph_width/len_list)+40
+	 				x0 = x*(graph_width/len_list)+lm
 	 				x1 = x0 + bar
-	 				y0 = (graph_hight-((graph_hight*y)/highest))+40			
-	 				y1 = graph_hight+40
+	 				y0 = (graph_hight-((graph_hight*y)/highest))+tm		
+	 				y1 = graph_hight+tm
 
 	 				self.bar_chart.create_rectangle(x0,y0,x1,y1, fill='red')
 	 				if len_list <=50:
 	 					self.bar_chart.create_text(x0+bar/3 , y0, anchor=SW, text=str(y))
 
-				j=1 		#indication of the values printed on the x-axis
-				if len_list <20:
-	 				for sen in senList:
+						#indication of the values printed on the x-axis
+				if len_list <=20:
+					j=1
+					for sen in senList:
 	 					if j<= len_list:
-	 						self.bar_chart.create_line(bar*(j-1)+ (bar/2)+30,235, bar*(j-1)+(bar/2)+30,230)
-	 						self.bar_chart.create_text(bar*(j-1)+bar/2+30,250, anchor=SW, text=str(j))
+	 						self.bar_chart.create_line(bar*(j-1)+ (bar/2)+lm,235, bar*(j-1)+(bar/2)+lm,230)
+	 						self.bar_chart.create_text(bar*(j-1)+bar/2+lm,250, anchor=SW, text=str(j))
 	 						j+=1
 
-				elif len_list < 50:
-	 				for sen in senList:
+				elif len_list <= 50:
+					j=5
+					for sen in senList:
 	 					if j<= len_list:
-	 						self.bar_chart.create_line(bar*(j-1)+ (bar/2)+30,235, bar*(j-1)+(bar/2)+30,230)
-	 						self.bar_chart.create_text(bar*(j-1)+bar/2+30,250, anchor=SW, text=str(j))
+	 						self.bar_chart.create_line(bar*(j-1)+ (bar/2)+lm,235, bar*(j-1)+(bar/2)+lm,230)
+	 						self.bar_chart.create_text(bar*(j-1)+bar/2+lm,250, anchor=SW, text=str(j))
 	 						j+=5
 	 					
-				elif len_list <100:
+				elif len_list <=100:
+					j=10
 					for sen in senList:
 						if j <= len_list:
-	 						self.bar_chart.create_line(bar*(j-1)+ (bar/2)+30,235, bar*(j-1)+(bar/2)+30,230)
-	 						self.bar_chart.create_text(bar*(j-1)+bar/2+30,250, anchor=SW, text=str(j))
+	 						self.bar_chart.create_line(bar*(j-1)+ (bar/2)+lm,235, bar*(j-1)+(bar/2)+lm,230)
+	 						self.bar_chart.create_text(bar*(j-1)+bar/2+lm,250, anchor=SW, text=str(j))
 	 						j+=10
 
 				else:
-					j < len_list
+					j=50
 					for sen in senList:
-	 					self.bar_chart.create_line(bar*(j-1)+ (bar/2)+30,235, bar*(j-1)+(bar/2)+30,230)
-	 					self.bar_chart.create_text(bar*(j-1)+bar/2+30,250, anchor=SW, text=str(j))
+	 					self.bar_chart.create_line(bar*(j-1)+ (bar/2)+lm,235, bar*(j-1)+(bar/2)+lm,230)
+	 					self.bar_chart.create_text(bar*(j-1)+bar/2+lm,250, anchor=SW, text=str(j))
 	 					j+=50
 
 				j=0				#indication of the values printed on the y-axis
 				fact=0
-				while j <(round_up/10):
-	 				self.bar_chart.create_line(20,20+(j*graph_width*10/round_up),30,20+(j*graph_width*10/round_up))
-	 				self.bar_chart.create_text(10,30+(j*graph_width*10/round_up), anchor= SW, text= str(round_up-fact))
-	 				j +=1
-	 				fact +=10
+				if highest <=10:
+					while j <= 10:
+	 					self.bar_chart.create_line(20,tm+(j*graph_hight/round_up),lm,tm+(j*graph_hight/round_up))
+	 					self.bar_chart.create_text(15,tm+(j*graph_hight/round_up), anchor= SW, text= str(round_up-fact))
+	 					j +=1
+	 					fact +=1
+				elif highest <=100:
+					while j < round_up/10:
+						self.bar_chart.create_line(20,tm+(j*graph_hight*10/round_up),lm,tm+(j*graph_hight*10/round_up))
+						self.bar_chart.create_text(10,tm+(j*graph_hight*10/round_up), anchor= SW, text= str(round_up-fact))
+						j +=1
+						fact +=10
+				else: 
+					while j < round_up/50:
+						self.bar_chart.create_line(20,tm+(j*graph_hight*50/round_up),lm,tm+(j*graph_hight*50/round_up))
+						self.bar_chart.create_text(10,tm+(j*graph_hight*50/round_up), anchor = SW, text=str(round_up-fact))
+						j+=1
+						fact+=50
+
 
 				"""A histogram indicating the number of words of a certain level"""
 				data =(nr_wordlev(lexiconX, dictionary))	
@@ -320,31 +355,48 @@ class Application(Frame):
 				highest = max(ct)
 				round_up = int(math.ceil(highest/10.0))*10
 				graph_height= 190
-				graph_width= 350	
-				c_height= 260
-				c_width= graph_width+50
-				bar= 50		
+				graph_width= 360	
+				#c_height= 260
+				#c_width= graph_width+50
+				bar= 60	
+
+				lm= 30
+				tm= 40
+				bl= 3
 
 				for x,y in enumerate(ct):		#Here the length of the bars is indicated
-	 				x0 = x*(graph_width/count)+40
+	 				x0 = x*(graph_width/count)+lm+bl
 	 				x1 = x0 + bar
-	 				y0 = (graph_hight-((graph_hight*y)/highest))+40		
-	 				y1 = graph_hight+40
-
+	 				y0 = (graph_hight-(graph_hight*y/round_up))+tm		
+	 				y1 = graph_hight+tm
+	 				
 	 				self.histo.create_rectangle(x0,y0,x1,y1, fill='green')
 	 				self.histo.create_text(x0+20 , y0, anchor=SW, text=str(y))
 
 				for a,b in enumerate(lv):			#Values prinnted on the x-axis
-	 				self.histo.create_line(bar*a+(bar/2)+40,230,bar*a+(bar/2)+40,235)
-	 				self.histo.create_text(bar*a+(bar/2)+35,250, anchor=SW, text=str(b))
-
+	 				self.histo.create_line(bar*a+(bar/2)+lm+bl,graph_height+tm+5,bar*a+(bar/2)+lm+bl,graph_height+tm)
+	 				self.histo.create_text(bar*a+(bar/2)+lm+bl,graph_height+tm+20, anchor=SW, text=str(b))
 				j=0
 				fact=0
-				while j <(round_up/10):            # Values printed on the y-axis
-	 				self.histo.create_line(20,20+(j*graph_width*10/round_up),30,20+(j*graph_width*10/round_up))
-	 				self.histo.create_text(10,30+(j*graph_width*10/round_up), anchor= SW, text= str(round_up-fact))
-	 				j +=1
-	 				fact +=10
+				if highest <=10:
+					while j <=10:            # Values printed on the y-axis
+	 					self.histo.create_line(20,tm+(j*graph_height/round_up),lm,tm+(j*graph_height/round_up))
+	 					self.histo.create_text(10,tm+(j*graph_height/round_up), anchor= SW, text= str(round_up-fact))
+	 					j +=1
+	 					fact +=1
+				elif highest <=100:
+					while j <(round_up/10):            # Values printed on the y-axis
+						self.histo.create_line(20,tm+(j*graph_height*10/round_up),lm,tm+(j*graph_height*10/round_up))
+						self.histo.create_text(10,tm+(j*graph_height*10/round_up), anchor= SW, text= str(round_up-fact))
+						j +=1
+						fact +=10
+				else:
+					while j <(round_up/25):            # Values printed on the y-axis
+						self.histo.create_line(20,tm+(j*graph_height*25/round_up),lm,tm+(j*graph_height*25/round_up))
+						self.histo.create_text(10,tm+(j*graph_height*25/round_up), anchor= SW, text= str(round_up-fact))
+						j +=1
+						fact +=25				
+
 	 			
 	def simply(self):
 		"""Temporal function to fill the textbox that is going to fill the simplified text + error boxes when the textbox is empty or doesn't contain punctuation marks"""
@@ -369,7 +421,7 @@ class Application(Frame):
 				lemmas = lematization(words)
 				lexiconX = lexicon(dictionary,words,lemmas)  #don't give the variable the same name as the function, it won't work twice
 				levelX = str(level(lexiconX, dictionary))
-				sentencesX= load_input2(filename)
+				sentencesX= load_input2(content)
 				levelZ= sen_lev(sentencesX)
 				levelY = (text_level(levelX, levelZ))
 				if levelY == 'B1':
@@ -418,8 +470,6 @@ class Application(Frame):
 			self.save_doc()
 		elif confirm == False:
 			self._root().destroy()
-
-
 	
 #create the windoww + give title
 root = Tk()
