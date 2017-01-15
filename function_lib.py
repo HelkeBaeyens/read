@@ -118,18 +118,19 @@ def simply_sen(filename):
 		words=sentence.split(' ')
 		if len(words) > 20:
 			sen = sentence.replace(':' or ';' or '-', ',').split(',')  # the sentences are split on punctuation.
-			counter = 0
-			if counter <len(sen):
-				words2=sen[counter].split(' ')
-				words3= sen[counter+1].split(' ')
-				counter +=1
-				if len(words2) > 5 and len(words3) > 5:
-					simply = '.'.join(sen)
-					simplies.append(simply)
-				else:
-					simplies.append(sentence)
-		else: 
-			simplies.append(sentence)
+			if len(sen) > 1:
+				counter = 0
+				if counter <len(sen):
+					words2=sen[counter].split(' ')
+					words3= sen[counter+1].split(' ')
+					counter +=1
+					if len(words2) > 5 and len(words3) > 5:
+						simply = '.'.join(sen)
+						simplies.append(simply)
+					else:
+						simplies.append(sentence)
+			else: 
+				simplies.append(sentence)
 	sentences2 = '.'.join(simplies)
 	simplified = [ ]
 	sentences2 = sentences2.split('.')
@@ -160,4 +161,3 @@ def simply_sen(filename):
 	for i in simplified:
 		if len(i) > 1:
 			simple+= upperfirst(i)
-	return(simple)
