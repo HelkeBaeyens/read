@@ -13,6 +13,7 @@ in__file__ = 	nr_words(words)
 				text_lev(level,sen_lev)
 """
 from word_level import *
+import re
 def nr_words(words): # Calculates the numbers of words in a file
 	return(len(words))
 
@@ -116,18 +117,20 @@ def simply_sen(filename):
 	for sentence in sentences:
 		words=sentence.split(' ')
 		if len(words) > 20:
-			counter = 0
-			sen = sentence.replace(':' or ';' or '-', ',').split(',') # the sentences are split on punctuation.
-			words2=sen[counter].split(' ')
-			words3= sen[counter+1].split(' ')
-			if len(words2) > 5 and len(words3) > 5:
-				simply = '.'.join(sen)
-				simplies.append(simply)
-				counter +=1
-			else:
+			sen = sentence.replace(':' or ';' or '-', ',').split(',')  # the sentences are split on punctuation.
+			if len(sen) > 1:
+				counter = 0
+				if counter <len(sen):
+					words2=sen[counter].split(' ')
+					words3= sen[counter+1].split(' ')
+					counter +=1
+					if len(words2) > 5 and len(words3) > 5:
+						simply = '.'.join(sen)
+						simplies.append(simply)
+					else:
+						simplies.append(sentence)
+			else: 
 				simplies.append(sentence)
-		else: 
-			simplies.append(sentence)
 	sentences2 = '.'.join(simplies)
 	simplified = [ ]
 	sentences2 = sentences2.split('.')
@@ -151,5 +154,10 @@ def simply_sen(filename):
 			simplified.append(sentence)	
 	
 	simplified = '.'.join(simplified)
-	return(simplified)
-					
+	simplified = re.split('([.] *)', simplified)
+	def upperfirst(text):
+		return text[0].upper()+text[1:]
+	simple = ''
+	for i in simplified:
+		if len(i) > 1:
+			simple+= upperfirst(i)
