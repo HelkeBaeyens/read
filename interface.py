@@ -272,11 +272,14 @@ class Application(Frame):
 					self.bar_chart.create_text(150,260, font=("times",12,"bold"), anchor=SW, text="Sentences")
 					self.bar_chart.pack(side=LEFT, expand=1, fill=BOTH)
 
+		
+		#self.bar_chart.pack(side=LEFT, expand=0, fill=Y)
 				else:
 					graph_width = 350
 					c_width = graph_width+50
 				
 				bar = graph_width/len_list
+
 
 				for x,y in enumerate(senList):		#Here the length of the bars is indicated
 	 				x0 = x*(graph_width/len_list)+lm
@@ -353,8 +356,10 @@ class Application(Frame):
 				round_up = int(math.ceil(highest/10.0))*10
 				graph_height= 190
 				graph_width= 360	
-
+				#c_height= 260
+				#c_width= graph_width+50
 				bar= 60	
+
 				lm= 30
 				tm= 40
 				bl= 3
@@ -391,21 +396,8 @@ class Application(Frame):
 						self.histo.create_text(10,tm+(j*graph_height*25/round_up), anchor= SW, text= str(round_up-fact))
 						j +=1
 						fact +=25				
-				"""Giving a colour to the words that are not recognized"""
-				unknowns = (search_unknown(filename, dictionary))
-				print (unknowns)
-				if unknowns: 
-					tkinter.messagebox.showinfo("Information", "Easy Text doesn't recognize the following words, please check their spelling!")
-				pos = '1.0'
-				for word in unknowns:
-	 				while True: 
-	 					idx = self.input.search(word,pos,END)
-	 					if not idx:
-	 						break
-	 					pos = '{}+{}c'.format(idx,len(word))
-	 					self.input.tag_add(word, idx, pos)
-	 					self.input.tag_config(word, background = 'orange')	
-				
+
+	 			
 	def simply(self):
 		"""Temporal function to fill the textbox that is going to fill the simplified text + error boxes when the textbox is empty or doesn't contain punctuation marks"""
 		self.simple.configure(state='normal') # open witing in box
