@@ -174,13 +174,15 @@ def search_unknown(filename, dictionary):
 			unknowns.remove(word)
 		elif word[-1] == '\?' or word[-1] == ',' or word[-1] == ':' or word[-1] == ';' :
 			unknowns.remove(word)
-			unknowns.append(word[:-2])
+			unknowns.append(word[:-1])
 		if word == '-':
 			unknowns.remove(word)
 	for word in words:
 		if word in dictionary:
 			unknowns.remove(word)
 		elif word in rex:
+			unknowns.remove(word)
+		if word in numbers:
 			unknowns.remove(word)
 
 	for word in unknowns:
@@ -240,4 +242,3 @@ def search_unknown(filename, dictionary):
 		else:
 			None
 	return (unknowns)
-
