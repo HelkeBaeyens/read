@@ -3,6 +3,7 @@ This file looks up the level of words in a file and decides on the level of the 
 """
 import codecs
 import re
+import os
 
 def load_dictionary(filename, sep=';'):
 	"""
@@ -260,8 +261,17 @@ def nr_wordlev(lexicon,dictionary):
 
 	counters = {'levels':['A1', 'A2', 'B1', 'B2', 'C1', 'C2'], 'counters': [counter_A1, counter_A2, counter_B1, counter_B2, counter_C1, counter_C2]}
 	return (counters)
+
+def annotate_file (filename):
+	"""parses input file and determines the level"""
+	words = load_input(filename)
+	lemmas = lematization(words)
+	lex = lexicon(dictionary,words, lemmas)
+	return level(lex,dictionary)
+
+
 """.................................................................................."""
-dictionary = load_dictionary("data\\dictionaryABC.csv",';')
+dictionary = load_dictionary(os.path.join("data", "dictionaryABC.csv"),';')
 #words = load_input(filename)
 #lemmas = lematization(words)
 #lexicon = lexicon(dictionary,words, lemmas)
@@ -272,3 +282,4 @@ dictionary = load_dictionary("data\\dictionaryABC.csv",';')
 #print(len(lexicon))
 #print(level(lexicon,dictionary))
 #print(nr_wordlev(lexicon,dictionary))
+#print(annotate_file(os.path.join("data","raw_articles","f4d0dc7e-d594-11e6-8a8c-23c647e7c8a1")))
