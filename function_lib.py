@@ -241,4 +241,8 @@ def search_unknown(filename, dictionary):
 				unknowns.remove(word)
 		else:
 			None
+	for word in unknowns:
+		if word == '':
+			unknowns.remove(word)
+		else: None
 	return (unknowns)
