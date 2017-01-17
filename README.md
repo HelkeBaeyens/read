@@ -26,6 +26,7 @@ Cambridge English Scale: http://www.cambridgeenglish.org/
 English grammar scale: http://www.examenglish.com/CEFR/cefr_grammar.htm
 Python module that implements a querier and parser for Google Scholar's output: https://github.com/ckreibich/scholar.py
 Programming for linguistics and literature: https://github.com/mikekestemont/prog1617
+English tenses and sentences for unittests: https://www.easypacelearning.com/design/images/tenses.jpg
 
 Acknowledgements
 Authors:
