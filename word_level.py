@@ -252,10 +252,7 @@ def nr_wordlev(lexicon,dictionary):
 	counter_C2 = word_levels.count('C2')
 
 	counters = {'levels':['A1', 'A2', 'B1', 'B2', 'C1', 'C2'], 'counters': [counter_A1, counter_A2, counter_B1, counter_B2, counter_C1, counter_C2]}
-<<<<<<< HEAD
 	return counters
-=======
-	return (counters)
 
 def annotate_file (filename):
 	"""parses input file and determines the level"""
@@ -264,10 +261,8 @@ def annotate_file (filename):
 	lex = lexicon(dictionary,words, lemmas)
 	return level(lex,dictionary)
 
-
->>>>>>> 03f5f47c2e5a3487a3e1103a733cea4245c367f2
 """.................................................................................."""
-dictionary = load_dictionary(os.path.join("data", "dictionaryABC.csv"),';')
+dictionary = load_dictionary("data\\dictionaryABC.csv",';')
 #words = load_input(filename)
 #lemmas = lematization(words)
 #lexicon = lexicon(dictionary,words, lemmas)
