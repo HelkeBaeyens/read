@@ -16,7 +16,7 @@ def load_dictionary(filename, sep=';'):
 		components = line.split(sep)
 		dictionary.append(components)
 	dictionary = dict(dictionary)
-	return(dictionary)
+	return dictionary
 
 def load_input(filename):
 	"""
@@ -25,7 +25,7 @@ def load_input(filename):
 	"""
 	text = filename.lower()
 	words = set(text.split( ))
-	return(words)
+	return words
 
 def lematization(words):
 	"""
@@ -42,8 +42,7 @@ def lematization(words):
 			if re.search(regex,word[-1]):
 				puncty.append(word[:-1])
 				lemmas.append(word[:-1])
-			else: None
-		return(puncty,lemmas)
+		return puncty,lemmas
 
 	def pronoun(words): #reverts pronouns back to their base form
 		for word in words:
@@ -59,7 +58,7 @@ def lematization(words):
 				lemmas.append('you')
 			elif re.search(r'^(their|theirs|them)$',word):
 				lemmas.append('they')
-		return(lemmas)
+		return lemmas
 
 	def plur(words): #reverts words from their plural form to their singular form
 		regex_es = r'(ses|zes|xes|oes|shes|ches)$'
@@ -77,9 +76,7 @@ def lematization(words):
 				lemmas.append(word[:-3]+'f')
 			elif re.search('s$',word[-1:]):		
 				lemmas.append(word[:-1])
-			else:
-				None 
-		return(lemmas)                   
+		return lemmas                  
 	
 	def verbs(words): # reverts verbs to their stem
 		modals = ['do','can','may','will','shall'] 
@@ -114,8 +111,7 @@ def lematization(words):
 				lemmas.append('be')
 			elif re.search(r'^(has|had)$',word):
 				lemmas.append('have')
-			else: None
-		return(lemmas) 
+		return lemmas 
 
 	def prefix(words): # splits prefixes from the words
 		regex_pre1 = r'^(a|e)'
@@ -140,9 +136,7 @@ def lematization(words):
 				lemmas.append(word[2:])
 			elif re.search(regex_pre1,word):
 				lemmas.append(word[1:])
-			else:
-				None 
-		return(lemmas)
+		return lemmas
 	
 	def suffix(words):	#splits suffixes from the words
 		regex_suff1 = r'(y|ly)$'
@@ -171,9 +165,7 @@ def lematization(words):
 				lemmas.append(word[:-2])
 			elif re.search(regex_suff2b,word[-2:]):
 				lemmas.append(word[:-2]+'e')
-			else:
-				None
-		return(lemmas)
+		return lemmas
 	"""
 	function(words): iterates over all the words in the text
 	function(puncty): iterates over all the words after they the punctuation is split off
@@ -205,7 +197,7 @@ def lexicon(dictonary,words,lemmas):
 	for lemma in lemmas:
 		if lemma in dictionary:
 			lexicon.append(lemma)
-	return(set(lexicon))
+	return set(lexicon)
 
 def level(lexicon,dictionary):
 	"""
@@ -219,7 +211,7 @@ def level(lexicon,dictionary):
 		for word in lexicon:
 			level = dictionary[word]
 			word_levels.append(level)
-		return(word_levels)
+		return word_levels
 	
 	def level_text(word_levels): # Calculates the word level of a text according to the theory that to properly comprehend a text the reader has to understand at least 90% of the vocabulary in that text.
 		length = (len(word_levels)/10)
@@ -231,19 +223,19 @@ def level(lexicon,dictionary):
 		counter_C2 = word_levels.count('C2')
 
 		if counter_C2 >= length:
-			return('C2')
+			return 'C2'
 		elif (counter_C2+counter_C1) >= length:
-			return('C1')
+			return 'C1'
 		elif (counter_B2+counter_C1+counter_C2) >= length:
-			return('B2')
+			return 'B2'
 		elif (counter_B1+counter_B2+counter_C1+counter_C2) >= length:
-			return('B1')
+			return 'B1'
 		elif (counter_A2+counter_B1+counter_B2+counter_C1+counter_C2) >= length:
-			return('A2')
+			return 'A2'
 		else:
-			return('A1')
+			return 'A1'
 	level_words(lexicon,dictionary)
-	return(level_text(word_levels))
+	return level_text(word_levels)
 
 def nr_wordlev(lexicon,dictionary):
 	"""Looks up the level of a word and counts how many time each level appears in the text"""	
@@ -259,16 +251,11 @@ def nr_wordlev(lexicon,dictionary):
 	counter_C2 = word_levels.count('C2')
 
 	counters = {'levels':['A1', 'A2', 'B1', 'B2', 'C1', 'C2'], 'counters': [counter_A1, counter_A2, counter_B1, counter_B2, counter_C1, counter_C2]}
-	return (counters)
+	return counters
 """.................................................................................."""
 dictionary = load_dictionary("data\\dictionaryABC.csv",';')
 #words = load_input(filename)
 #lemmas = lematization(words)
 #lexicon = lexicon(dictionary,words, lemmas)
-#print(words)
-#print(len(words))
-#print(lemmas)
-#print(lexicon)
-#print(len(lexicon))
 #print(level(lexicon,dictionary))
 #print(nr_wordlev(lexicon,dictionary))
