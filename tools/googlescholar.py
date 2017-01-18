@@ -359,7 +359,7 @@ class ScholarArticleParser(object):
         content as needed, and notifies the parser instance of
         resulting instances via the handle_article callback.
         """
-        self.soup = BeautifulSoup(html)
+        self.soup = BeautifulSoup(html, "lxml")
 
         # This parses any global, non-itemized attributes from the page.
         self._parse_globals()
@@ -409,6 +409,10 @@ class ScholarArticleParser(object):
                 self.article['url'] = self._path2url(tag.h3.a['href'])
                 if self.article['url'].endswith('.pdf'):
                     self.article['url_pdf'] = self.article['url']
+
+            if tag.name == 'div' and self._tag_has_class(tag, 'gs_ggsd') and \
+                    tag.gs_ggsd and tag.gs_ggsd.a:
+                self.article['url_pdf'] = self._path2url(tag.gs_ggsd.a['href'])
 
             if tag.name == 'font':
                 for tag2 in tag:
@@ -502,30 +506,30 @@ class ScholarArticleParser(object):
         return parts[0] + '?' + '&'.join(res)
 
 
-class ScholarArticleParser120201(ScholarArticleParser):
-    """
-    This class reflects update to the Scholar results page layout that
-    Google recently.
-    """
-    def _parse_article(self, div):
-        self.article = ScholarArticle()
+# class ScholarArticleParser120201(ScholarArticleParser):
+#     """
+#     This class reflects update to the Scholar results page layout that
+#     Google recently.
+#     """
+#     def _parse_article(self, div):
+#         self.article = ScholarArticle()
 
-        for tag in div:
-            if not hasattr(tag, 'name'):
-                continue
+#         for tag in div:
+#             if not hasattr(tag, 'name'):
+#                 continue
 
-            if tag.name == 'h3' and self._tag_has_class(tag, 'gs_rt') and tag.a:
-                self.article['title'] = ''.join(tag.a.findAll(text=True))
-                self.article['url'] = self._path2url(tag.a['href'])
-                if self.article['url'].endswith('.pdf'):
-                    self.article['url_pdf'] = self.article['url']
+#             if tag.name == 'h3' and self._tag_has_class(tag, 'gs_rt') and tag.a:
+#                 self.article['title'] = ''.join(tag.a.findAll(text=True))
+#                 self.article['url'] = self._path2url(tag.a['href'])
+#                 if self.article['url'].endswith('.pdf'):
+#                     self.article['url_pdf'] = self.article['url']
 
-            if tag.name == 'div' and self._tag_has_class(tag, 'gs_a'):
-                year = self.year_re.findall(tag.text)
-                self.article['year'] = year[0] if len(year) > 0 else None
+#             if tag.name == 'div' and self._tag_has_class(tag, 'gs_a'):
+#                 year = self.year_re.findall(tag.text)
+#                 self.article['year'] = year[0] if len(year) > 0 else None
 
-            if tag.name == 'div' and self._tag_has_class(tag, 'gs_fl'):
-                self._parse_links(tag)
+#             if tag.name == 'div' and self._tag_has_class(tag, 'gs_fl'):
+#                 self._parse_links(tag)
 
 
 class ScholarArticleParser120726(ScholarArticleParser):
@@ -570,8 +574,8 @@ class ScholarArticleParser120726(ScholarArticleParser):
                     atag = tag.h3.a
                     self.article['title'] = ''.join(atag.findAll(text=True))
                     self.article['url'] = self._path2url(atag['href'])
-                    if self.article['url'].endswith('.pdf'):
-                        self.article['url_pdf'] = self.article['url']
+                    # if self.article['url'].endswith('.pdf'):
+                    #     self.article['url_pdf'] = self.article['url']
                 except:
                     # Remove a few spans that have unneeded content (e.g. [CITATION])
                     for span in tag.h3.findAll(name='span'):
@@ -592,6 +596,9 @@ class ScholarArticleParser120726(ScholarArticleParser):
                         raw_text = ''.join(raw_text)
                         raw_text = raw_text.replace('\n', '')
                         self.article['excerpt'] = raw_text
+
+            if tag.find('div', {'class': 'gs_ggsd'}):
+                self.article['url_pdf'] = self._path2url(tag.find('div', {'class': 'gs_ggsd'}).a['href'])
 
 
 class ScholarQuery(object):
@@ -725,7 +732,7 @@ class SearchScholarQuery(ScholarQuery):
         + '&as_sdt=%(patents)s%%2C5' \
         + '&as_vis=%(citations)s' \
         + '&btnG=&hl=en' \
-        + '&num=%(num)s'
+        + '&start=%(start)s'
 
     def __init__(self):
         ScholarQuery.__init__(self)
@@ -771,6 +778,9 @@ class SearchScholarQuery(ScholarQuery):
     def set_pub(self, pub):
         """Sets the publication in which the result must be found."""
         self.pub = pub
+
+    def set_start(self, start):
+        self.start = start
 
     def set_timeframe(self, start=None, end=None):
         """
@@ -820,7 +830,7 @@ class SearchScholarQuery(ScholarQuery):
                    'yhi': self.timeframe[1] or '',
                    'patents': '0' if self.include_patents else '1',
                    'citations': '0' if self.include_citations else '1',
-                   'num': self.num_results or ScholarConf.MAX_PAGE_RESULTS}
+                   'start': self.start or 0}
 
         for key, val in urlargs.items():
             urlargs[key] = quote(encode(val))
@@ -1251,20 +1261,29 @@ scholar.py -c 5 -a "albert einstein" -t --none "quantum theory" --after 1970"""
         if options.no_citations:
             query.set_include_citations(False)
 
-    if options.count is not None:
-        options.count = min(options.count, ScholarConf.MAX_PAGE_RESULTS)
-        query.set_num_page_results(options.count)
+    if options.count is None:
+        options.count = 10
 
-    querier.send_query(query)
+    import time
+    items_per_page = 10
+    fetched_results = 0
 
-    if options.csv:
-        csv(querier)
-    elif options.csv_header:
-        csv(querier, header=True)
-    elif options.citation is not None:
-        citation_export(querier)
-    else:
-        txt(querier, with_globals=options.txt_globals)
+    while fetched_results < options.count:
+        query.set_start(fetched_results)
+
+        querier.send_query(query)
+
+        if options.csv:
+            csv(querier)
+        elif options.csv_header:
+            csv(querier, header=True)
+        elif options.citation is not None:
+            citation_export(querier)
+        else:
+            txt(querier, with_globals=options.txt_globals)
+
+        fetched_results += items_per_page
+        time.sleep(10) 
 
     if options.cookie_file:
         querier.save_cookies()
