@@ -100,10 +100,6 @@ class Application(Frame):
 		self.graph_frame.pack(side=TOP, expand=1, fill=X)
 		
 		self.bar_chart = Canvas(self.graph_frame, bg='beige', height=260, width=400, scrollregion=(0,0,400,260)) #adds a bar chart indicating the lenght of the sentences
-		#scroll_chart = Scrollbar(self.bar_chart, orient=HORIZONTAL)
-		#scroll_chart.pack(side=BOTTOM,expand=0,fill=X)
-		#scroll_chart.config(command=self.bar_chart.xview)
-		#self.bar_chart.config(xscrollcommand=scroll_chart.set)
 		self.bar_chart.pack(side=LEFT, expand=1, fill=BOTH)
 		self.in_bar_chart()
 
@@ -118,8 +114,6 @@ class Application(Frame):
 			data = doc.read()
 			self.input.insert(END, data)
 			doc.close()
-		else: 
-			None
 
 	def in_gauge(self):
 		"""The gauge shart should start out empty."""
@@ -392,12 +386,11 @@ class Application(Frame):
 						fact +=25				
 				"""Giving a colour to the words that are not recognized"""
 				unknowns = (search_unknown(filename, dictionary))
-				print (unknowns)
 				
 				if unknowns: 
 					tkinter.messagebox.showinfo("Information", "Easy Text doesn't recognize the following words, please check their spelling!")
-				pos = '1.0'
 				for word in unknowns:
+	 				pos = '1.0'
 	 				while True: 
 	 					idx = self.input.search(word,pos,END)
 	 					if not idx:
