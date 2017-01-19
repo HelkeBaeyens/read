@@ -113,7 +113,7 @@ def simply_sen(filename):
 	for sentence in sentences:
 		words=sentence.split(' ')
 		if len(words) > 20:
-			sen = sentence.replace(':' or ';' or '-', ',').split(',')  # the sentences are split on punctuation.
+			sen = sentence.replace(':',',').replace(';',',').replace('-',',').split(',')  # the sentences are split on punctuation.
 			if len(sen) > 1:
 				counter = 0
 				if counter <len(sen):
@@ -177,7 +177,7 @@ def search_unknown(filename, dictionary):
 			unknowns.remove(word)
 
 	for word in words:
-		if word[-5:] == 'tting' or word[-5:] =='nning' or word[-5:] == 'pping' or word[-5:] == 'mming' or word[-5:] == 'rring' or word[-5:] == 'lling' or word[-5:] == 'bbing' or word[-5:] == 'ation':
+		if word[-5:] == 'tting' or word[-5:] =='nning' or word[-5:] == 'pping' or word[-5:] == 'mming' or word[-5:] == 'rring' or word[-5:] == 'lling' or word[-5:] == 'bbing' or word[-5:] == 'gging' or word[-5:] == 'ation':
 			if word[:-4] in dictionary and word in unknowns:
 				unknowns.remove(word)
 			if word[:-4]+'e' in dictionary and word in unknowns:
