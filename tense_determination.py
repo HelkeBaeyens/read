@@ -18,9 +18,11 @@ def determine_tense_input(sentence):
     #print (words_strings)
     #print (tags_strings)
     #print (tags_words_strings)
+   
+
     dict_tenses1 = {\
-        r"(VBD)" : "past_simple_affirmative",
-        r"(VBP)|(VBZ)" : "present_simple_affirmative"
+        r"(PRP.*VBD)" : "past_simple_affirmative",
+        r"(PRP.*VBP)|(VBZ.*\._\.)" : "present_simple_affirmative"
         }
     dict_tenses2 = {\
         r"(do not)|(does not)|(am not)|(is not)|(cannot)|(can not)|(do n't)|(ca n't)|(am n't)" : "present_simple_negative",
@@ -32,46 +34,46 @@ def determine_tense_input(sentence):
     dict_tenses3 = {\
         r"(do.*PRP.*VB.*\?)|(does.*PRP.*VB.*\?)|(do.*PRP.*VBP.*\?)|(does.*PRP.*VBP.*\?)" : "present_simple_interrogative",
         r"(did.*PRP.*VB.*\?)|(did.*PRP.*VBP.*\?)" : "past_simple_interrogative",
-        r"(is.*VBG)|(am.*VBG)|(are.*VBG)" : "present_continuous_affirmative",
-        r"(was.*VBG)|(were.*VBG)" : "past_continuous_affirmative",
-        r"(is.*n't.*VBG)|(is.*not.*VBG)|(are.*n't.*VBG)|(are.*not.*VBG)|('m.*not.*VBG)|(am.*not.*VBG)" : "present_continuous_negative",
-        r"(was.*n't.*VBG)|(was.*not.*VBG)|(wasn't.*VBG)|(were.*n't.*VBG)|(were.*not.*VBG)|(weren't.*VBG)" : "past_continuous_negative",
+        r"(is.*VBG.*\._\.)|(am.*VBG.*\._\.)|(are.*VBG.*\._\.)" : "present_continuous_affirmative",
+        r"(was.*VBG.*\._\.)|(were.*VBG.*\._\.)" : "past_continuous_affirmative",
+        r"(is.*n't.*VBG.*\._\.)|(is.*not.*VBG.*\._\.)|(are.*n't.*VBG.*\._\.)|(are.*not.*VBG.*\._\.)|('m.*not.*VBG.*\._\.)|(am.*not.*VBG.*\._\.)" : "present_continuous_negative",
+        r"(was.*n't.*VBG.*\._\.)|(was.*not.*VBG.*\._\.)|(wasn't.*VBG.*\._\.)|(were.*n't.*VBG*.\._\.)|(were.*not.*VBG.*\._\.)|(weren't.*VBG.*\._\.)" : "past_continuous_negative",
         r"(is.*PRP.*VBG.*\?)|(am.*PRP.*VBG.*\?)|(are.*PRP.*VBG.*\?)" : "present_continuous_interrogative",
         r"(was.*PRP.*VBG.*\?)|(were.*PRP.*VBG.*\?)" : "past_continuous_interrogative",
         r"(have.*PRP.*been.*\?)|(has.*PRP.*been.*\?)" : "present_perfect_interrogative",
-        r"(have.*been.*VBG)|(has.*been.*VBG)|('ve.*been.*VBG)" : "present_perfect_continuous_affirmative",
-        r"(have.*not.*been.*VBG)|(haven't.*been.*VBG)|(have.*n't.*been.*VBG)|(has.*not.*been.*VBG)|(hasn't.*been.*VBG)|(has.*n't.*been.*VBG)" : "present_perfect_continuous_negative",
-        r"(have.*PRP.*been.*VBG.*\?)|(has.*PRP.*been.*VBG)" : "present_perfect_continuous_interrogative",
-        r"(had.*VBN)" : "past_perfect_affirmative",
-        r"(had.*not.*VBN)|(hadn't.*VBN)|(had.*n't.*VBN)" : "past_perfect_negative",
+        r"(have.*been.*VBG.*\._\.)|(has.*been.*VBG.*\._\.)|('ve.*been.*VBG.*\._\.)" : "present_perfect_continuous_affirmative",
+        r"(have.*not.*been.*VBG.*\._\.)|(haven't.*been.*VBG.*\._\.)|(have.*n't.*been.*VBG.*\._\.)|(has.*not.*been.*VBG.*\._\.)|(hasn't.*been.*VBG.*\._\.)|(has.*n't.*been.*VBG.*\._\.)" : "present_perfect_continuous_negative",
+        r"(have.*PRP.*been.*VBG.*\?)|(has.*PRP.*been.*VBG.*\?)" : "present_perfect_continuous_interrogative",
+        r"(had.*VBN.*\._\.)" : "past_perfect_affirmative",
+        r"(had.*not.*VBN.*\._\.)|(hadn't.*VBN.*\._\.)|(had.*n't.*VBN.*\._\.)" : "past_perfect_negative",
         r"(had.*PRP.*VBN.*\?)" : "past_perfect_interrogative",
-        r"(had.*been.*VBG)" : "past_perfect_continuous_affirmative",
-        r"(had.*not.*been.*VBG)|(had.*n't.*been.*VBG)|(hadn't.*been.*VBG)" : "past_perfect_continuous_negative",
+        r"(had.*been.*VBG.*\._\.)" : "past_perfect_continuous_affirmative",
+        r"(had.*not.*been.*VBG.*\._\.)|(had.*n't.*been.*VBG.*\._\.)|(hadn't.*been.*VBG.*\._\.)" : "past_perfect_continuous_negative",
         r"(had.*PRP.*been.*VBG.*\?)" : "past_perfect_continuous_interrogative",
-        r"(will.*VB)" : "future_simple_affirmative",
-        r"(wo.*n't.*VB)|(will.*not.*VB)|(will.*n't)" : "future_simple_negative",
+        r"(will.*VB.*\._\.)" : "future_simple_affirmative",
+        r"(wo.*n't.*VB.*\._\.)|(will.*not.*VB.*\._\.)|(will.*n't.*\._\.)" : "future_simple_negative",
         r"(will.*PRP.*VB.*\?)" : "future_simple_interrogative",
-        r"(will.*be.*VBG)" : "future_continuous_affirmative",
-        r"(won't.*be.*VBG)| (will.*not.*VBG)|(will.*n't.*VBG)" :"future_continuous_negative",
+        r"(will.*be.*VBG.*\._\.)" : "future_continuous_affirmative",
+        r"(won't.*be.*VBG.*\._\.)| (will.*not.*VBG.*\._\.)|(will.*n't.*VBG.*\._\.)" :"future_continuous_negative",
         r"(will.*PRP.*be.*VBG.*\?)" : "future_continuous_interrogative",
-        r"(will.*have.*VBN)" : "future_perfect_affirmative",
-        r"(won't.*have.*VBN)|(will.*not.*have.*VBN)|(will.*n't have.*VBN)" : "future_perfect_affirmative",
+        r"(will.*have.*VBN.*\._\.)" : "future_perfect_affirmative",
+        r"(won't.*have.*VBN.*\._\.)|(will.*not.*have.*VBN.*\._\.)|(will.*n't have.*VBN.*\._\.)" : "future_perfect_affirmative",
         r"(will.*PRP.*have.*VBN.*\?)" : "future_perfect_interrogative",
-        r"(will.*have.*been.*VBG)" : "future_perfect_continuous_affirmative",
-        r"(won't.*have.*been.*VBG)|(will.*not.*have.*been.*VBG)|(will.*n't.*have.*been.*VBG)" : "future_perfect_continuous_negative",
+        r"(will.*have.*been.*VBG.*\._\.)" : "future_perfect_continuous_affirmative",
+        r"(won't.*have.*been.*VBG.*\._\.)|(will.*not.*have.*been.*VBG.*\._\.)|(will.*n't.*have.*been.*VBG.*\._\.)" : "future_perfect_continuous_negative",
         r"(will.*PRP.*have.*been.*VBG.*\?)" : "future_perfect_continuous_interrogative",
-        r"(would.*VB )" : "conditional_affirmative",
-        r"(wouldn't_VB)|(would.*not_VB)|(would.*n't_VB)" : "conditional_negative",
+        r"(would.*VB.*\._\.)" : "conditional_affirmative",
+        r"(wouldn't_VB.*\._\.)|(would.*not_VB.*\._\.)|(would.*n't_VB.*\._\.)" : "conditional_negative",
         r"(would.*PRP.*VB.*\?)" : "conditional_interrogative",
-        r"(would.*be.*VBG)" :"conditional_continuous_affirmative",
-        r"(wouldn't.*be.*VBG)|(would.*not.*VBG)|(would.*n't.*VBG)" : "conditional_continuous_negative",
+        r"(would.*be.*VBG.*\._\.)" :"conditional_continuous_affirmative",
+        r"(wouldn't.*be.*VBG.*\._\.)|(would.*not.*VBG.*\._\.)|(would.*n't.*VBG.*\._\.)" : "conditional_continuous_negative",
         r"(would.*PRP.*be.*VBG.*\?)" : "conditional_continuous_interrogative",
-        r"(would.*have.*VBN)" : "conditional_perfect_affirmative",
-        r"(wouldn't.*have.*VNB)|(would.*not.*have.*VBN)|(would.*n't.*have.*VBN)" : "conditional_perfect_negative",
+        r"(would.*have.*VBN.*\._\.)" : "conditional_perfect_affirmative",
+        r"(wouldn't.*have.*VNB.*\._\.)|(would.*not.*have.*VBN.*\._\.)|(would.*n't.*have.*VBN.*\._\.)" : "conditional_perfect_negative",
         r"(would.*PRP.*have.*VBG.*\?)" : "conditional_perfect_interrogative",
-        r"(is.*going.*TO.*VBN)|('s.*going.*TO.*VBN)|(am.*going.*TO.*VBN)|(are.*going.*TO.*VBN)|('re.*going.*TO.*VBN)|('m.*going.*TO.*VBN)" : "future_going_to_affirmative",
-        r"(is.*n't.*going.*TO.*VBN)|(is.*not.*going.*TO.*VBN)|(are.*n't.*going.*TO.*VBN)|(are.*not.*going.*TO.*VBN)|('m.*not.*going.*TO.*VBN)|(am.*not.*going.*TO.*VBN)" : "future_going_to_negative",
-        r"(is.*PRP.*going.*TO.*VBN.*\?)|(am.*PRP.*going.*TO.*VBN.*\?)|('s.*PRP.*going.*TO.*VBN.*\?)|('m.*PRP.*going.*TO.*VBN.*\?)|(are.*PRP.*going.*TO.*VBN.*\?)|('re.*PRP.*going.*TO.*VBN)" : "future_going_to_interrogative"
+        r"(is.*going.*TO.*VBN.*\._\.)|('s.*going.*TO.*VBN.*\._\.)|(am.*going.*TO.*VBN.*\._\.)|(are.*going.*TO.*VBN.*\._\.)|('re.*going.*TO.*VBN.*\._\.)|('m.*going.*TO.*VBN.*\._\.)" : "future_going_to_affirmative",
+        r"(is.*n't.*going.*TO.*VBN.*\._\.)|(is.*not.*going.*TO.*VBN.*\._\.)|(are.*n't.*going.*TO.*VBN.*\._\.)|(are.*not.*going.*TO.*VBN.*\._\.)|('m.*not.*going.*TO.*VBN.*\._\.)|(am.*not.*going.*TO.*VBN.*\._\.)" : "future_going_to_negative",
+        r"(is.*PRP.*going.*TO.*VBN.*\?)|(am.*PRP.*going.*TO.*VBN.*\?)|('s.*PRP.*going.*TO.*VBN.*\?)|('m.*PRP.*going.*TO.*VBN.*\?)|(are.*PRP.*going.*TO.*VBN.*\?)|('re.*PRP.*going.*TO.*VBN.*\?)" : "future_going_to_interrogative"
         }
     for tense_regex in dict_tenses3:
         if re.search (tense_regex, tags_words_strings):
@@ -243,10 +245,9 @@ class My_test(unittest.TestCase):
     def test_futi(self):
         self.assertEqual(determine_tense_input("Is she going to get married?"), ["future_be_going_to_interrogative"])
     
-
-
-
-
-
 if __name__ == '__main__':
     unittest.main()
+
+
+
+
