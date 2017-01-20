@@ -171,7 +171,8 @@ class Application(Frame):
 				levelX = str(level(lexiconX, dictionary))
 				sentencesX= load_input2(filename)
 				levelZ= sen_lev(sentencesX)
-				levelY = (text_level(levelX, levelZ))
+				levelW = tense_text(filename)
+				levelY = (text_level(levelX, levelZ, levelW))
 				message = "The level of the text: "+ levelY + "\n" + "The wordlevel is: " + levelX + "\n" + "The number of words: "+ str(nr_words(words)) + "\n" + r' ' + "\n" + 'The average length of the words: ' + av_length_words(words) + "\n" + 'The longest word: ' + str(max_length_words(words)) + "\n" + 'The length of the longest word: ' + len_longest_word(words) + "\n" + 'The differentation of words within the text is: ' + differentiation(words, filename) + "\n" + "The number of sentences: "+ str(sentence_count(sentencesX)) + "\n" + "The average length of the sentences: " + av_sentence_length(sentencesX) + "\n" + "The longest sentence: " + max_sentence(sentencesX) + "\n" + "The shortest sentence: " + min_sentence(sentencesX)
 				self.info.delete(1.0, END) # empty the text box before adding new information
 				self.info.insert(1.0, message) # fill the textbox with the answer
