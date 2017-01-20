@@ -1,0 +1,16 @@
+{
+  "define_macros": [],
+  "libraries": [
+    "libzmq.cp35-win32"
+  ],
+  "runtime_library_dirs": [],
+  "include_dirs": [
+    "bundled\\zeromq\\include",
+    "zmq\\utils",
+    "zmq\\backend\\cython",
+    "zmq\\devices"
+  ],
+  "library_dirs": [
+    "build\\temp.win32-3.5\\Release\\buildutils"
+  ]
+}

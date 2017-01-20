@@ -9,15 +9,15 @@ def determine_tense_input(sentence):
 
     text = word_tokenize(sentence.lower())
     tagged_tup = pos_tag(text)
-    print (tagged_tup)
+    #print (tagged_tup)
     tags = [tuple[1] for tuple in tagged_tup]
     words = [tuple[0] for tuple in tagged_tup]
     tags_strings = " ".join(tags)
     words_strings = " ".join(words)
     tags_words_strings = " ".join([tuple[0]+ "_" + tuple[1] for tuple in tagged_tup])
-    print (words_strings)
-    print (tags_strings)
-    print (tags_words_strings)
+    #print (words_strings)
+    #print (tags_strings)
+    #print (tags_words_strings)
     dict_tenses1 = {\
         r"(VBD)" : "past_simple_affirmative",
         r"(VBP)|(VBZ)" : "present_simple_affirmative"
@@ -250,5 +250,3 @@ class My_test(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-
-

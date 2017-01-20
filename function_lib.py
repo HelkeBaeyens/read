@@ -14,6 +14,7 @@ in__file__ = 	nr_words(words)
 				simply_sen(filename)
 """
 from word_level import *
+from tense_determination import *
 import re
 def nr_words(words): # Calculates the numbers of words in a file
 	return len(words)
@@ -85,12 +86,39 @@ def sen_lev(sentences):
 	else: 
 		return 'A1'
 
-def text_level(level, sen_lev):
+def tense_text(filename):
+	tenses = determine_tense_input(filename)
+	levels = [ ]
+	for tense in tenses:
+		 levels.append(level_of_tenses(tense))
+	
+	length = (len(levels)/10)
+	counter_A1 = levels.count('A1')
+	counter_A2 = levels.count('A2')
+	counter_B1 = levels.count('B1')
+	counter_B2 = levels.count('B2')
+	counter_C1 = levels.count('C1')
+	counter_C2 = levels.count('C2')
+
+	if counter_C2 >= length:
+		return 'C2'
+	elif (counter_C2+counter_C1) >= length:
+		return 'C1'
+	elif (counter_B2+counter_C1+counter_C2) >= length:
+		return 'B2'
+	elif (counter_B1+counter_B2+counter_C1+counter_C2) >= length:
+		return 'B1'
+	elif (counter_A2+counter_B1+counter_B2+counter_C1+counter_C2) >= length:
+		return 'A2'
+	else:
+		return 'A1'
+
+def text_level(level, sen_lev,tense_text):
 	"""Function to calculate the level of the text"""
 	calcu = {'A1': 1, 'A2': 2, 'B1': 3, 'B2': 4, 'C1': 5, 'C2':6}
 	W = int(calcu[level])*0.8 										#80% word level		
 	S = int(calcu[sen_lev])*0.1 									#10% sentence level
-	T = 1*0.1 														#10% temporal value the definition doesn't exist yet
+	T = int(calcu[tense_text]*0.1)														#10% temporal value the definition doesn't exist yet
 	nr = (W + S + T)
 	
 	if nr > 5:
