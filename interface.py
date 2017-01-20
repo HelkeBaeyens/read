@@ -426,7 +426,8 @@ class Application(Frame):
 				levelX = str(level(lexiconX, dictionary))
 				sentencesX= load_input2(content)
 				levelZ= sen_lev(sentencesX)
-				levelY = (text_level(levelX, levelZ))
+				levelW = tense_text(content)
+				levelY = (text_level(levelX, levelZ, levelW))
 				if levelY == 'B1':
 					tkinter.messagebox.showinfo("Error", "The level of the text is lower than the B1 level!")
 				elif levelY == 'A2':
