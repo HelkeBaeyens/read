@@ -1,0 +1,1138 @@
+ Farming-based Money flow 27 (2002) 317-332 
+ 
+ Time-related and (related to space or existing in space) modelling of (related to areas near the Equator/hot and humid) (chopping down trees): a survival 
+ analysis linking satellite and household survey data 
+ Colin Vance a,a-- , Jacqueline Geoghegan b 
+ a 
+ 
+ US EPA National Centre for (related to surrounding conditions or the health of the Earth) Money flow, Washington, DC 20460, USA 
+ b Department of Money flow, Clark University, Worcester, MA 01610, USA 
+ 
+ Abstract 
+ We guess a (related to space or existing in space)ly clear model of the forest clearance process among smallholder farmers in an farming-based edge of something/unexplored area 
+ of southern Mexico. Our analysis takes as its point of departure a simple utility-making the most of model that suggests many possible 
+ (things that decide other things) of (chopping down trees) in an money-based (surrounding conditions) seen as missing or thin markets. Guesses from the model are tested on a data set that combines a time series of pictures from planes with data collected from a survey of farm 
+ families whose farming-based plots were geo-referenced using a worldwide  positioning system (GPS). We put into use a survival 
+ analysis to identify the effect of household level explanatory (numbers that change/things that change) on the chance of (chopping down trees). This approach allows 
+ us to introduce a measure of the time until clearance as a covariate, by that/in that way affording a control for the effect of possibly 
+ important explanatory (numbers that change/things that change) that change/differ  through time but are not directly (capable of being seen and known). In addition to identifying a few 
+ (numbers that change/things that change) (connected/related) for policy analysis, including household (information about people/combinations of different kinds of people), closeness to roads, and government provision of 
+ farming-based support, model results suggest that the (chopping down trees) process is seen as non-linear length of time dependence, 
+ with the chance of forest clearance first decreasing and then increasing with the passage of time. 
+ Published by Elsevier Science B.V. 
+ JEL classification: Q15; R14; C41 
+ Keywords: (chopping down trees); Survival analysis; Farming-based families 
+ 
+ 1. Introduction 
+ (related to areas near the Equator/hot and humid) (chopping down trees) plays a central role in many 
+ of the most acute (related to surrounding conditions or the health of the Earth) threats of our time, 
+ including worldwide  climate change, home worsening, and never-before-seen species destruction. Scientific 
+ and public concerns about these and other possibly huge (related to surrounding conditions or the health of the Earth) disruptions have started a 
+ growing number of studies that aim to number the 
+ social and biophysical (things that decide other things) of (chopping down trees) 
+ processes, as well as their interactions over time 
+ and space. An newly appearing methodological approach to 
+ a-- 
+ 
+ Corresponding author. 
+ 
+ 0169-5150/02/$ - see front matter. Published by Elsevier Science B.V. 
+ PII: S 0 1 6 9 - 5 1 5 0 ( 0 2 ) 0 0 0 7 4 - 9 
+ 
+ these issues combines sharp pictures from planes, (land-area-based/location) information systems (GIS), and 
+ (related to how much money and power people have) and geophysical data to model the 
+ human-(surrounding conditions) interactions that drive land-use 
+ change (e.g. Liverman et al., 1998). In the money-related 
+ books, the first (or most important) focus of this research has been 
+ on identifying the (related to how much money and power people have) forces that explain 
+ the (related to space or existing in space) patterns of (wide view of a nature scene/wide area of beautiful land) development, but less 
+ attention has been given to (taking by force)/(taking control of) the time-related 
+ patterns from which these patterns come out. To the 
+ extent that both the location and timing of forest clearance matter for testing (related to surrounding conditions or the health of the Earth) results, 
+ this de-coupling of (related to space or existing in space) and time-related dimensions compromises the (putting into) use of appropriate 
+ 
+ 318 
+ 
+ C. Vance, J. Geoghegan / Farming-based Money flow 27 (2002) 317-332 
+ 
+ policy responses to (chopping down trees). In the same way/in that way, the 
+ purpose of the present paper is to advance an scientific way(s) of doing things that supports analysis of how, over 
+ time and space, individual land managers respond to 
+ changing money-based and (related to surrounding conditions or the health of the Earth) conditions. 
+ Our study focuses on land-use change in an farming-based edge of something/unexplored area spanning the southern Mexican states 
+ of Campeche and Quintana Roo, a area that contains one of the largest and oldest wide areas of (related to areas near the Equator/hot and humid) 
+ forests in the America outside of Amazonia. Over the 
+ past 30 years, these forests have been under sustained 
+ pressure following the construction of a highway in 
+ 1972 that opened the edge of something/unexplored area to settlement. The road 
+ was part of a larger development effort to (help increase/show in a good way) 
+ farming-based colonisation and has added/has given to a lengthy period of land change that has been 
+ captured by (related to underlying messages and morals in a story) Mapper (TM) pictures from planes. 
+ We model these (wide view of a nature scene/wide area of beautiful land) patterns by putting together/grouping together 
+ a (related to space or existing in space) information file that links the pixels from three TM 
+ images spanning the years 1986-1997 with a random sample of farm families whose farming-based 
+ plots were geo-referenced using a worldwide  positioning 
+ system (GPS).1 
+ Following a brief summary of the study area, 
+ our analysis takes as its point of departure a simple 
+ utility-making the most of model that suggests many possible 
+ (things that decide other things) of forest clearance in an money-based (surrounding conditions) seen as missing or thin markets, as 
+ shows edge of something/unexplored area areas in the undeveloped stages of money-based development. We (after that) test the importance of these (things that decide other things) using survival analysis, 
+ also known as length of time analysis or danger/risk modelling, 
+ a (related to studying numbers) way of doing things that guesses the immediate 
+ chance of a change between two states--in this 
+ case land-use states--(may or may not happen, depending on something) on the time went by 
+ until the event of the change. The final two 
+ sections of the paper discuss policy effects/results/suggestions and 
+ suggest extensions to the current analysis for future 
+ research. 
+ 2. The area 
+ The southern YucatÃ¡n peninsular area occupies roughly 22,000 km2 of southwestern Quintana 
+ 1 A pixel refers to the unit of (related to space or existing in space) (ability to display or measure very small things), or area on the 
+ ground, in a remotely sensed image. For TM data, pixel size is a 
+ square with length of 28.5 m. 
+ 
+ Roo and southeastern Campeche, north of the 
+ Mexican-Guatemala border (Fig. 1). A rolling karstic 
+ land of semi-(dropping leaves every autumn) (related to areas near the Equator/hot and humid) forests covers the 
+ (wide view of a nature scene/wide area of beautiful land), with elevations in the centre reaching a 
+ peak of about 250-300 m. The zone goes along with 
+ what was once a part of/amount of the Maya lowlands, and 
+ was nearly completely deforested 1000 years ago during the Classic Period of Lowland Maya rule 
+ (100-900 (years after the year 1); Turner, 1983). Following the collapse 
+ of Maya civilisation in 800-1000 (years after the year 1), the area experienced a period mostly free of settlement that, continuing past the birth of the Mexican nation state in 1821, 
+ allowed the return of the forests. By the first half of 
+ the 20th century, human helping action here came out again 
+ but was mostly limited to the selective logging 
+ of (related to areas near the Equator/hot and humid) woods, especially (wood/dark brown) (Swietenia 
+ macrophyla) and cedar (Cedrela odorata), as well as 
+ the extraction of chicle, a tree (sticky, plastic-like substance that usually comes from trees) (from Manilkara 
+ zapota) used in the production of chewing gum. 
+ More long/big (chopping down trees) followed with the construction of a two-lane highway across the centre of the 
+ area in 1972, which opened the edge of something/unexplored area to farming-based colonisation mostly via the extension of ejido 
+ land grants from the federal government. The ejido 
+ part/area was created following the Mexican Revolution 
+ (1910-1917), a political and social big change/big changes with roots 
+ in unfair land distribution. Within ejido communities, land is (in a shared way) controlled by an elected 
+ (group that decides or promotes something), but in this area of southern Mexico, ejido 
+ members (ejidatarios) usually enjoy usufruct access 
+ to a single parcel that is permanently gave out to their 
+ use.2 The size of these parcels differs/changes much, 
+ ranging from 10 to 350 ha, with an average size in the 
+ sample of roughly 110 ha.3 Our study focuses specifically on the ejido part/area as it (in the past) has been the 
+ rule form of land (length of time at work or in power/right to permanent employment) in the study area. 
+ Most farming within ejidos is based on a traditional slash-and-burn or swidden system of (lasting for a short time) 
+ (producing crops/helping something grow) and continuous rotation through forest 
+ 2 Roughly 7% of families had access to multiple, 
+ non-touching plots. In most of these cases, (producing crops/helping something grow) 
+ happened on only one of these plots for the year of questioning. 
+ 3 By the time most ejidos were established in the 
+ 1970s, commercial logging interests had left alone most areas 
+ following the removal of valuable tree species. The resulting relative (oversupply/large quantity) of land made the area especially attractive to 
+ colonists who moved from areas of the country where there 
+ was land (not enough of something), especially Veracruz, Tabasco, and Chiapas. 
+ 
+ C. Vance, J. Geoghegan / Farming-based Money flow 27 (2002) 317-332 
+ 
+ 319 
+ 
+ Fig. 1. The Southern YucatÂ´an Peninsular area study area. Note: The thick gray line represents the edges of the general area 
+ of study, making up about 22,000 km2 . Roman numbers point to/show a close guess of the locations of the TM satellite zones listed in Table 2. 
+ Reprinted from Land Use Policy, Vol. 18, P. Klepeis and B.L. Turner II, (Combined different things together so they worked as one unit) Land History and Worldwide  Change Science: The Example 
+ of the Southern YucatÂ´an Peninsular Area Project, pp. 27-39, Copyright 2001, by permission of Elsevier Science. 
+ 
+ unplanted (Ewell and Merrill-Sands, 1987). The system, 
+ referred to locally by the Maya word milpa, is ruled by maize but is often inter-cropped with squash 
+ and beans. Over the last few years, more and more farmers have also/and introduced commercial crops, 
+ especially chili, and (area of grassy land) into their land-use 
+ (mixes of stocks, bonds, etc./document collections). While including such uses has increased the complex difficulty and difference/different version of swidden practices, earlier research in the area by Turner (1983) 
+ hints that farmers employ a plot-unplanted rotation 
+ converting to about a 1:3-4 ratio, cycles usually 
+ based on 3 years of (producing crops/helping something grow) and 9-12 years of 
+ unplanted (Klepeis et al., 2003). Although the field survey 
+ conducted for the present study was unable to confirm 
+ whether such a rotation wins today, analysis of the 
+ pictures from planes hints that a big part of/amount of 
+ clearance between the mid 1980s and late 1990s was 
+ 
+ of forest not yet included into the unplanted cycle.4 As 
+ the figures in Table 1 point to/show, farmers in the sample 
+ cleared an average of 1.42 ha of forest older than 15 
+ years for farming-based production per year by the mid 
+ 1990s, in addition to clearing an average of 0.97 ha 
+ per year of successional growth 7-15 years of age. 
+ In the area as a whole, (chopping down trees) continued unstopped through the 20 years of the 1980s and 
+ 1990s, with available pictures from planes showing/telling about a 
+ total of 617 km2 of mature forest cut between 1987 
+ and 1997. In 1989, the Calakmul (living part of the Earth) Reserve 
+ 4 People who responded were asked about crop rotation, with most reporting that they could come close to a 1:1 crop-unplanted cycle. Discussions with key informants, however, suggested that these numbers 
+ be thought of suspect, especially given that most people who responded relied 
+ only (only a little bit) on chemical inputs. 
+ 
+ 320 
+ 
+ C. Vance, J. Geoghegan / Farming-based Money flow 27 (2002) 317-332 
+ 
+ Table 1 
+ Average once-a-year (changing from one form, state, or state of mind to another) of mature and secondary forest to agriculture among sampled families 
+ 
+ Hectares of mature forest older than 15 years cleared for farming 
+ Hectares of secondary forest between 7 and 15 years cleared for farming 
+ 
+ (723,185 ha) was established in the middle of the 
+ area, partly in response to long/big (chopping down trees) 
+ along the highway and connected international pressures to stop further clearance. Different land uses 
+ surround the reserve, mostly: ejidos, on which 
+ slash-and-burn survival/income production has won 
+ but more and more is giving way to valuable thing production; ejidos joined with NGO-sponsored farming-based 
+ and forest projects; and a small number of private 
+ lands mostly gave/reserved to animals production. (in total, over time), these activities have earned the area a 
+ name/label as a "hot-spot" of forest and bio-(many different kinds of people or things) 
+ loss by different sources (Achard et al., 1998). Whether 
+ this outlook is supported by future (popular things/general ways things are going) will depend in large part on current plans surrounding the 
+ Mundo Maya, an international development big plan/layout/dishonest plan to 
+ create an ecotourism-(related to studying people) tourist (process of people making, selling, and buying things) 
+ stretching across parts of/amounts of southern Mexico, Belize, 
+ Guatemala, El Salvador and Honduras. This plan has 
+ led to recent hotel and road (act of something getting bigger, wider, etc.) in the area. 
+ Tourist part/area development not prevented by/not part of the issue, the area keeps/holds many of the features of an farming-based 
+ edge of something/unexplored area. Population density is low, (set of machines) is 
+ poorly developed, ties to outside markets remain few, 
+ and the social relations of production are, by and 
+ large, organised around the family farm. These features (give a reason to do something) the possible and scientific approach 
+ taken in this paper, which focuse the importance 
+ of household-clearly stated/particular (features/ qualities/ traits), especially (related to information about people) (combination of different substances, objects, people, etc.) and farm capital, in explaining land-use decision making. 
+ 
+ 3. The possible model 
+ As a mostly land-related (process of people making, selling, and buying things), land is an 
+ input in almost all of the money-based activities within 
+ the ejido part/area of the southern YucatÃ¡n peninsular area. Some of these activities, such as bee keeping, 
+ agro-forestry, and hunting, depend on land under forest, 
+ 
+ 1984-1994 
+ 
+ 1993-1997 
+ 
+ 0.47 
+ 0.32 
+ 
+ 1.42 
+ 0.97 
+ 
+ while others, such as farming-based production and animal farming/managing money, require that the land be cleared of trees 
+ for use. Whether or not a farmer decides to clear a 
+ given area  of land depends on a complex variety of factors, including the market value of output 
+ from the land in other choice uses, the availability of 
+ labour, the household's consumption needed thing, and 
+ the farmer's perception of the possible future benefits 
+ derivable from the land. 
+ The existing, although small, (related to space or existing in space)ly clear money-based books on land-use change has divided into two into 
+ two separate modelling approaches. The current books that has focused only on the location of 
+ land-use change has analysed (chopping down trees) in (related to areas near the Equator/hot and humid) 
+ countries: Belize (Chomitz and Gray, 1996); northern 
+ Mexico (Nelson and Hellerstein, 1997); Brazil (Pfaff, 
+ 1999); Thailand (Cropper et al., 1999; Cropper et al., 
+ 2001); and Panama (Nelson et al., 2001). Models that 
+ include the time-related dimension as well as location of 
+ land-use change have focused on city-based  fringe development in the United States (Geoghegan and Bockstael, 
+ 2000; Irwin and Bockstael, 2002). While this latter approach has been applied to an mostly permanent 
+ land (changing from one form, state, or state of mind to another) type, that of strong surface (act of something getting bigger, wider, etc.), it can be changed to analyse (related to areas near the Equator/hot and humid) (chopping down trees) given the high costs of forest clearance and 
+ the elimination of different forestry based land-use 
+ options that may go with home worsening.5 
+ Adapting the model found in Irwin and Bockstael 
+ (2002), we model the decision of the farmer to clear 
+ land for farming-based use. Let A(i, t) be the net benefits 
+ to farming-based use for each time period after each pixel 
+ of land i, is cleared in time period T. Let F(i, t) be 
+ the net benefits to the farmer for leaving pixel i in 
+ forestry use in each time period, and let C(i, T) be the 
+ one-time clearing costs connected with clearing the 
+ 5 The idea (you think is true) of irreversibility seems reasonable in the case 
+ of our data given that only 1.4% of the pixels returned to forest 
+ older than 15 year over the period under study; 7.1% of pixels 
+ returned to secondary forest. 
+ 
+ C. Vance, J. Geoghegan / Farming-based Money flow 27 (2002) 317-332 
+ 
+ pixel in time period T and Î´ is the discount rate. Then 
+ the benefits to the farmer of clearing pixel i in period 
+ T are: 
+ a 
+ 
+ A(i, T + t)Î´ T +t a' 
+ 
+ t=0 
+ 
+ a 
+ 
+ F (i, T + t)Î´ T +t a' C(i, T ) 
+ 
+ t=0 
+ 
+ (1) 
+ For T to be the best time period for clearing, the 
+ following two conditions must hold: 
+ a 
+ 
+ A(i, T + t)Î´ T +t a' 
+ 
+ t=0 
+ a 
+ 
+ a 
+ 
+ F (i, T + t)Î´ T +t 
+ 
+ A(i, T + t)Î´ T +t a' 
+ 
+ t=0 
+ 
+ a 
+ 
+ (2a) 
+ 
+ F (i, T + t)Î´ T +t a' C(i, T ) 
+ 
+ t=0 
+ a 
+ 
+ &amp;gt; 
+ 
+ A(i, T + 1)Î´ T +t a' 
+ 
+ t=1 
+ 
+ a'Î´C(i, T + 1) 
+ 
+ a 
+ 
+ F (i, T + 1)Î´ T +t 
+ 
+ t=1 
+ 
+ (2b) 
+ 
+ The first condition is that net benefits to clearing 
+ are positive. The second condition thinks about/believes that although clearing may produce net positive benefits at time 
+ T, there may still be benefits to waiting because of the 
+ (possibility of/possible happening of)  even higher benefits at some future date. 
+ Such a situation could arise, for example, in excitement/preparation of improved technologies that reduce clearing costs. This very simple model ignores unplanted-cycle 
+ patterns, clearly a limitation of the current possible (solid basic structure on which bigger things can be built). 
+ Let the (features/ qualities/ traits) of pixel i be X(i). The best 
+ time for clearing this pixel then is the first time period 
+ in which the following holds: 
+ A(X(i), T ) a' F (X(i), T ) a' Î´C(X(i), T + 1) a¥ 0(3) 
+ Given this possible (solid basic structure on which bigger things can be built), our scientific model 
+ aims to explain why certain pixels, in certain locations, 
+ and under certain land managers, become deforested. 
+ 4. The scientific model 
+ We add an error term to Eq. (3) to account for unobservable (features/ qualities/ traits): 
+ A(X(i), T ) a'F (X(i), T ) a' Î´C(X(i), T + 1) 
+ a'Îµ(i) a¥ 0 
+ 
+ The danger-related rate--or chance that pixel i will be 
+ deforested in period T--can then be expressed as: 
+ h(i, T ) = 
+ 
+ G [W (i, T + 1)]_) a' G [W (i, T )]_) 
+ 1 a' G [W (i, T )]_) 
+ 
+ (5) 
+ 
+ where G is the total amount of distribution function for the 
+ error term, and 
+ W (i, T ) = A(X(i), T ) a' F (X(i), T ) 
+ a'Î´C(X(i), T + 1) 
+ 
+ (6a) 
+ 
+ W (i, T + 1) = A(X(i), T + 1) a' F (X(i), T + 1) 
+ 
+ t=0 
+ 
+ a'C(i, T ) &amp;gt; 0 
+ 
+ 321 
+ 
+ (4) 
+ 
+ a'Î´C(X(i), T + 2) 
+ 
+ (6b) 
+ 
+ We use a survival model to test guesses about the effect of explanatory (numbers that change/things that change), X(i), on the 
+ danger/risk, h(i,T), of (chopping down trees). Survival models are a 
+ class of (related to studying numbers) methods that focus on the timing of 
+ an event (Allison, 1995), which in this paper is selected/named as the change from forest cover to farming-based 
+ land use. These models guess the (may or may not happen, depending on something) chance of exiting a state given that the state has been 
+ occupied for some length t. The (thing that changes (like a test score) because of something else that you control (like study time)), 
+ the length of time, is the length of time that goes by from the 
+ beginning of the state until its end or until measurement is taken and therefore cuts off the (instance of watching, noticing, or making a statement). 
+ Survival models have a long history of application 
+ within the engineering and bio-medical sciences. They 
+ have been used to model such processes as the length 
+ of time until part-related failure or the survival times of 
+ patients (identified a disease or its cause) with certain sicknesses. Over the past 
+ twenty years, these models have been recognised by 
+ social scientists to be a powerful tool for (asking lots of questions about/trying to find the truth about) 
+ a wide range of social things, including the length 
+ of unemployment spells, the spacing of births, and the 
+ length of time of strikes. By and large, however, they have 
+ not received application to the issue of (wide view of a nature scene/wide area of beautiful land) patterns. Two recent exceptions are a study by Coomes 
+ et al. (2000) and one by Irwin and Bockstael (2002), 
+ referred to earlier, both of which specify versions of Cox's 
+ (fair in amount, related to something else/properly sized compared to something else) dangers/risks model to (ask lots of questions about/try to find the truth about) unplanted-cycle 
+ length among Amazonian farmers in Peru and city-based 
+ (act of something getting bigger, wider, etc.) in Maryland, respectfully. 
+ For this paper, the length of time of interest is the length 
+ of time that an individual pixel remains in forest before being converted to cropland or (area of grassy land). We guess the effect of static and time period of time (or space)-varying 
+ 
+ 322 
+ 
+ C. Vance, J. Geoghegan / Farming-based Money flow 27 (2002) 317-332 
+ 
+ covariates on this length of time by specifying a fully parametric model, the (completing/matching) log-log model. This 
+ (detailed description of exactly what is required) assumes that the hidden (under) process that 
+ creates the data is continuous, but that the data are 
+ grouped into separate time periods of time (or space), an idea (you think is true) 
+ that is well suited for the particular case of our data. 
+ (chopping down trees) is a continuous process over time and 
+ space, but we only watch/notice the event at select separate times as commanded (or spoke so someone copied down what was said) by the limited availability of 
+ cloud-free TM data for the tropics. Therefore, we do 
+ not know the exact timing of the (chopping down trees) event, 
+ only that it happened during some time period of time (or space) defined by the dates of the (making mental pictures). The (completing/matching) 
+ log-log model changes something (to helps someone)/takes care of someone this feature of the data 
+ and also/and allows for different (detailed descriptions of exactly what is required) of 
+ the role of time as a covariate, making it possible to test 
+ other choice functional forms of the danger-related function.6 
+ For example, by including the logarithm of time as a 
+ covariate, the model goes along with the Weibull (see 
+ Allison, 1995 for further discussion). 
+ For the n pixels that are watched/followed to be deforested, 
+ the chance function is: 
+ n 
+ 
+ Pi,tt (1 a' Pi,ti a'1 )(1 a' Pi,ti a'2 ) Â· Â· Â· 
+ 
+ (7) 
+ 
+ i=1 
+ 
+ where Pi ,t is the chance that (chopping down trees) happens 
+ to pixel i in period of time (or space) t, given that the pixel was not 
+ deforested in any earlier periods, and ti the time period in which pixel i is deforested. The (completing/matching) log-log model (detailed description of exactly what is required) resulting from this 
+ chance function is: 
+ log[a'log(1 a' Pit )]_) = Î² X(i, T ) 
+ 
+ (8) 
+ 
+ where 
+ X(i, t)=A(X(i), T ) a' F (X(i), T ) a' Î´C(X(i), T +1) 
+ (9) 
+ That is, X are the (coming from the outside of something) (numbers that change/things that change) and is a Î² 
+ vector of limits/guidelines to be guessed using maximum 
+ 6 The (completing/matching) log-log model is just like the logit and 
+ probit models in securing/making sure of that (described the future) chances lie in the 
+ [0, 1] period of time (or space). Unlike these models, however, whose functions are 
+ matching around zero, the (completing/matching) log-log function is 
+ skewed to the right. One practical hint/result/effect is that the logit model 
+ is appropriate for guessing a danger-related rate when events can only 
+ happen at separate points in time (e.g. elections, job promotions), 
+ while the (completing/matching) log-log model should be used when 
+ events happen on the continuous time-scale. 
+ 
+ chance methods, with the idea (you think is true) that the hidden (under) survival models is distributed as type I extreme value (Irwin, 1998; Hosmer and Lemeshow, 
+ 1999). 
+ A final guess issue rises from the possible 
+ existence of unseen mixed-up nature that would result from an incomplete (detailed description of exactly what is required) of the scientific 
+ model. Two different, but related issues concerning 
+ unseen mixed-up nature may result from the dual 
+ nature (i.e. time-related and (related to space or existing in space) dimensions) of the 
+ data. In the big picture  of the time-related dimension, if this 
+ incomplete (detailed description of exactly what is required) results in gone 
+ (deep-down/basic) individual differences in length of time distributions, the results include a downward (created unfair thinking in)/(unfair-thinking) 
+ guess of the effect of time--or length of time dependence in the danger-related words/word choices--and to sneaky and false 
+ guesses about the effects of included explanatory 
+ (numbers that change/things that change) (Kiefer, 1988). In the big picture  of the (related to space or existing in space) 
+ dimension, the possibility exists that the features of 
+ the (wide view of a nature scene/wide area of beautiful land) affecting the chance that a pixel will 
+ be deforested are (related to space or existing in space)ly related. If any of these 
+ (numbers that change/things that change) are not included in the guess and are 
+ (related to space or existing in space)ly related to included explanatory (numbers that change/things that change), then the guessed coefficients will be (created unfair thinking in)/(unfair-thinking) 
+ on these (numbers that change/things that change) (Irwin and Bockstael, 2001). 
+ To control for these two types of unseen mixed-up nature, a fixed-effects (detailed description of exactly what is required) that includes 
+ dummy (numbers that change/things that change) for the (related to space or existing in space) unit of each ejido is 
+ used (Hite et al., 2001). An ejido dummy was chosen 
+ as the unit for the fixed effect because of potential 
+ unseen institutional differences between ejidos, 
+ such as their establishment dates, that could affect 
+ the (a measure of what occurs naturally/sports boundary line) danger-related rate. This approach allows (a measure of what occurs naturally/sports boundary line) danger/risk rates to change/differ  among individual ejidos but 
+ holds back these rates to be the same within ejidos, 
+ by that/in that way controlling for differences in length of time distributions at the ejido level. Also, to the extent 
+ that there are unobservable (features/ qualities/ traits) that are 
+ related across space within the ejido edges, 
+ this (detailed description of exactly what is required) controls for the some of the potential 
+ effects of (related to space or existing in space) autocorrelation. 
+ 
+ 5. The data 
+ The econometric model presented in this paper is guessed using Landsat TM satellite data on land cover 
+ as the (thing that changes (like a test score) because of something else that you control (like study time)) and household survey data 
+ 
+ C. Vance, J. Geoghegan / Farming-based Money flow 27 (2002) 317-332 
+ Table 2 
+ Dates of (related to underlying messages and morals in a story) Mapper Satellite (making mental pictures) 
+ Zone I 
+ 
+ Zones II and III 
+ 
+ Zone IV 
+ 
+ 11 November 1984 
+ 21 February 1993 
+ 31 January 1997 
+ 
+ 1 April 1987 
+ 29 October 1994 
+ 5 February 1996 
+ 
+ 14 January 1985 
+ 7 November 1994 
+ 31 January 1997 
+ 
+ and other biophysical (related to space or existing in space) data for the independent 
+ (numbers that change/things that change). The data sources for each (number or thing that changes) are discussed briefly. The unit of (instance of watching, noticing, or making a statement) for the model 
+ is the TM pixel, an (in a true way) random unit of analysis but one that anyway is likely an small step forward/upward 
+ of the area over which land is cleared for farming as 
+ suggested by the figures on forest clearance presented 
+ in Table 1.7 The satellite images were gotten across 
+ four touching zones spanning the study area, the 
+ dates for each of which are given in Table 2. The 
+ process of (making mental pictures) classification included the (usual/ commonly and regular/ healthy) 
+ preparatory steps of geo-referencing, haze removal, 
+ adding NDVI information, and principal part-related 
+ analysis. These steps were followed by texture analysis, which lead to the creation of a seven-band image for signature development and classification. Signature development was helped by a combination 
+ of ground truth data came/coming from GPS-helped field 
+ visits and topographic, green plants and land-use maps. 
+ Maximum chance supervised classification methods produced six land cover classes. Leaving out/keeping out clouds, 
+ shadows and water, these include: mature lowland and 
+ upland forest older than 15 years of age; one stage 
+ of upland successional growth--mostly secondary forest--between 7 and 15 years of age; farming (including (area of grassy land)); an harmful fern; and flooded grasslands.8 For further detail on these methods 
+ see Geoghegan et al. (2001) and Turner et al. (2001). 
+ From the above classes, we create two binary 
+ (numbers that change/things that change) to register the forest (changing from one form, state, or state of mind to another) process. 
+ The first assumes a value of one if upland, lowland, 
+ or secondary growth is converted to farming-based land 
+ over an watched/followed period of time (or space) and zero otherwise. The 
+ second applies a stricter definition of (chopping down trees), 
+ 7 
+ 
+ Note that a pixel is roughly 0.076 the size of a hectare. 
+ The first (or most important) difference across lowland and upland forest is 
+ not in species (combination of different substances, objects, people, etc.) but in soil quality. Bajo soils, which 
+ support lowland forests, are deep vertisols of thick clay found in 
+ low-lying depressions. Upland forests are supported by rendzina 
+ soils, which are shallow but (related to farming) life-giving mollisols. 
+ 8 
+ 
+ 323 
+ 
+ assuming a value of one only with the (changing from one form, state, or state of mind to another) 
+ of upland or lowland forest to agriculture and zero 
+ otherwise. Assuming that the length of unplanted in the 
+ area about ranges between 9 and 12 years, 
+ we are unable to fully secure/make sure of that the former of these 
+ (chopping down trees) (numbers that change/things that change) leaves out/keeps out land clearance that 
+ happens as part of a unplanted cycle. In fact, it is highly 
+ probable that those pixels under secondary growth are 
+ in fact in unplanted as most logging and related forest 
+ extraction activities in the area had ended/fired by 
+ 1960. As a result, we guess the model on both 
+ the (chopping down trees) (numbers that change/things that change) defined above, recognising 
+ that the stricter definition of (chopping down trees) is likely to 
+ be mostly cleared/cleaned of unplanted-cycle patterns given its 
+ (when something is kept out or not included) of green plants &amp;lt;15 years old. 
+ Data for the explanatory (numbers that change/things that change) are from a household survey that was carried out in the area during 
+ two separate field seasons during 1997-1998 and 
+ were linked to the satellite data, as will be further explained below. Selection of families in the sample 
+ went ahead according to a stratified, two-stage group-related 
+ sample (Warwick and Luinger, 1975; Deaton, 1997), 
+ with ejidos as the first stage unit and ejidatarios as 
+ the second stage unit. This resulted in the random selection of 11 ejidos followed by the random selection 
+ of 188 ejidatario families. A standardised list of questions, given to the household head, was 
+ used to bring out the (related to how much money and power people have) and land-use data. 
+ The list of questions was organised into two sections. 
+ The first section covered traveling history, farm production and inputs, (family and cultural characteristics), educational accomplishment, 
+ access to credit and the (related to information about people) composition 
+ of the household. By collecting information on the 
+ births, deaths, and permanent out traveling of children of the head, it was possible to reconstruct the 
+ (related to the body function of living things) household's age (combination of different substances, objects, people, etc.) through time. 
+ Also, (divided into two) data was collected on ownership of farm capital (e.g. vehicle, chain saw) for the 
+ years 1986, 1990, 1993, 1996, and 1997. Using the 
+ figures for each of these years, data for the (meantime/temporary time) 
+ years were figured-out. In this way, the percent of 
+ time for which the (connected/related) (divided into two) (number or thing that changes) was 
+ in effect could be came close to for any given period of time (or space) 
+ going along with/matching up to the dates of the pictures from planes. 
+ Completion of the second section involved a guided 
+ tour of the farming-based plot of the person who responded. Using a 
+ GPS, the interviewer created a geo-referenced sketch 
+ map explaining/describing the setup of land uses (Fig. 2). 
+ 
+ 324 
+ 
+ C. Vance, J. Geoghegan / Farming-based Money flow 27 (2002) 317-332 
+ 
+ Fig. 2. Sketch map and corresponding background from TM (making mental pictures). Note: the sketch map in the left panel shows a parcel of 100 ha. The 
+ image background in the right panel is roughly 120 ha, with pixels of 28.5 m2 . Mistakes between the land use patterns showed in the 
+ sketch map and those of the image may be partly attributed to the fact that the image is from February 1996 while the sketch map was 
+ created in June 1998. From Fig. 6 in chapter 9 of (Combined different things together so they worked as one unit) Land-Change Science and (related to areas near the Equator/hot and humid) (chopping down trees) in the Southern YucatÂ´an: 
+ Final Edges of something/unexplored areas, edited by B.L. Turner II, J. Geoghegan and D.R. Foster (Oxford University Press, honest/appearing soon). Reprinted by permission 
+ of Oxford University Press. 
+ 
+ Having a few GPS points recorded within the borders of the plot made it possible to (put into a computer) the borders on a background of the latest date of satellite 
+ (making mental pictures).9 The (put into a computer) borders were then (pulled out or taken from something else) 
+ and placed (on top of) on available images from previous years, by that/in that way producing/giving up a (related to studying things over a long time) information file 
+ of land-use change. So, only those pixels connected with families from which (related to how much money and power people have) data 
+ were brought out are included in the sample. By overlaying 
+ this information file with other GIS layers containing features 
+ such as: the road network, (put into a computer) from a 1:50,000 
+ 9 The focus of the talk during the sketch mapping exercise was placed on correctly geo-referencing the plot edges, 
+ seen as the (put into a computer) outer rectangle in the image background of 
+ Fig. 2, rather than the land use patterns contained (in there/within that). While 
+ the present studies depends on pictures from planes (understanding/ explanation) to describe those patterns, other work (see Klepeis and Vance, 2000) 
+ draws data from the stories given by farmers to describe the 
+ (related to space or existing in space)-time-related setups of their plots, as showed in the 
+ left panel of Fig. 2. 
+ 
+ map published by the Instituto Nacional de Estadistica 
+ Geografica e Informatica (INEGI, 1985); soil quality measures, (put into a computer) from a 1:250,000 INEGI map 
+ (1987); slope and elevation from a digital elevation 
+ model; and rainfall predicted from rain gauge data; 
+ it was possible to create (related to space or existing in space) explanatory (numbers that change/things that change) 
+ to increase the data collected during the interview. 
+ 
+ 6. (numbers that change/things that change) used in the analysis 
+ As suggested in the possible model presented 
+ above, the land clearance decision is based on a 
+ comparison of discounted utilities from forest and 
+ non-forest land uses. There are a few testable 
+ (related to how much money and power people have) and (related to surrounding conditions or the health of the Earth) factors that could 
+ influence this comparison, which we mentally 
+ group into four categories came/coming from the data 
+ brought out by the list of questions: household (related to information about people) 
+ composition; physiographic (features/ qualities/ traits) of the 
+ 
+ C. Vance, J. Geoghegan / Farming-based Money flow 27 (2002) 317-332 
+ Table 3 
+ Descriptive statistics of the (numbers that change/things that change) used in the model 
+ Explanatory (number or thing that changes) 
+ 
+ Mean 
+ 
+ Standard 
+ moving away 
+ 
+ Household members &amp;gt;11 (members) 
+ Household children &amp;lt;12 (members) 
+ Mature forest (1, 0) 
+ Upland soil (1, 0) 
+ Elevation (m) 
+ Slope (a--¦ ) 
+ (rain, snow, etc.) (mm) 
+ Plot size (numbers of pixels) 
+ Percent of period of time (or space) owning chain 
+ saw (%) 
+ Percent of period of time (or space) owning vehicle (%) 
+ Education of household head (years) 
+ Number of household members w/&amp;gt;8 
+ years education (members) 
+ Native Spanish speaker (1, 0) 
+ PROCAMPO (1000 s pesos) 
+ Distance from household to plot (km) 
+ Distance from ejido to nearest 
+ market (km) 
+ Length of time of occupancy (years) 
+ 
+ 3.048 
+ 1.618 
+ 0.799 
+ 0.754 
+ 164.040 
+ 1.252 
+ 56.281 
+ 1357.718 
+ 0.256 
+ 
+ 1.699 
+ 1.796 
+ 0.401 
+ 0.431 
+ 69.100 
+ 2.733 
+ 4.186 
+ 1053.586 
+ 0.372 
+ 
+ 0.133 
+ 3.377 
+ 1.039 
+ 
+ 0.306 
+ 3.905 
+ 1.537 
+ 
+ 0.848 
+ 2.472 
+ 9.156 
+ 21.273 
+ 
+ 0.359 
+ 3.196 
+ 7.735 
+ 19.143 
+ 
+ 20.447 
+ 
+ 12.729 
+ 
+ Units are given in parenthesis. 
+ 
+ plot; farm capital (human and physical); and the 
+ political-money-based (surrounding conditions). Descriptive statistics 
+ for these (numbers that change/things that change) are presented in Table 3. 
+ The influence of (related to information about people) (combination of different substances, objects, people, etc.) is (taken by force/controlled) by two (numbers that change/things that change) that dividing wall/section the household according to age: family members over age 11 years, and 
+ children under 12 years. As both indices are measured 
+ as the average number of members in the (pertaining to each person or thing) 
+ age categories over the similar time period of time (or space) of 
+ the (making mental pictures), they change/differ  across families and time periods of time (or space). Following results identified in other places in the 
+ books, it is expected that the information about people 
+ (use/put into action) a positive effect on the danger/risk of (chopping down trees) 
+ through both consumption and labour supply effects. 
+ Six time-invariant (numbers that change/things that change) control for the effects 
+ of physiographic (features/ qualities/ traits): a soil dummy which 
+ serves to tell the difference between higher quality upland 
+ soils and lowland soils; the elevation and slope of the 
+ pixel; the 30 year average of rainfall; the size of the 
+ plot to which the pixel belongs; and a dummy pointing to/showing whether the pixel was categorised as mature forest (forest older than 15 years of age) at the start of 
+ the period of time (or space). We expect that slope has a negative effect on the danger/risk of (chopping down trees) due to the greater 
+ 
+ 325 
+ 
+ difficulty of (producing crops/helping something grow) on hillsides, while superior 
+ soils are expected to have a positive effect. Rainfall 
+ and elevation are also expected to have positive effects given the (not being there; not being present) of crop-watering/rinsing with water in the area and 
+ the presence of seasonally flooded lowlands where 
+ farmers generally avoid (producing crops/helping something grow). The land gift is expected to have a negative effect as, all else 
+ equal, a larger land gift reduces the danger/risk that 
+ any given pixel is cleared. Finally, the dummy pointing to/showing mature forest is expected to have a positive effect 
+ on the danger/risk as such green plants is generally supported 
+ by more life-giving soils relative to secondary green plants. 
+ Chain saw ownership, vehicle ownership, the education of the household head, the number of members 
+ in the household having completed a high school education as of 1997, and a dummy pointing to/showing whether 
+ the head is a native Spanish speaker control for the 
+ effects of physical and workers. While the first 
+ two measures change/differ  across families and time periods of time (or space), the last thing just mentioned three are time invariant. Ownership 
+ of a chain saw and vehicle are both expected to increase the danger/risk of (chopping down trees) given their roles in 
+ lowering the labour costs of forest clearance and in 
+ (using/getting to) the plot. To the extent that more education 
+ hints a higher opportunity cost of on-farm labour 
+ due to increased wage-earning (possible greatness or power), the two (numbers that change/things that change) measuring educational accomplishment are expected 
+ to have negative effects. No a prior expectation is 
+ attached to the Spanish language dummy. 
+ The influence of the political-money-based (surrounding conditions) is (taken prisoner by force) by four (numbers that change/things that change): the ejido dummies referred to above to control for fixed effects, an 
+ period of time (or space)-different measure of the amount of farming-based 
+ payments received by the household from a government program referred to as Programa de Apoyo 
+ Directo al Campo/The Direct (away from cities) Support Program 
+ (PROCAMPO), a measure of the distance separating 
+ the household from the plot, and a measure of on-road 
+ distance from the ejido centre to the nearest market. 
+ We expect the last thing just mentioned two (numbers that change/things that change) to negatively affect 
+ the danger/risk of (chopping down trees) given that they increase 
+ access costs to both the plot and the market and effectively reduce the farm-gate price received by the 
+ farmer for the plot's output. Agreeing with/matching up with/working regularly with the goals of the program, the effect of PROCAMPO is 
+ expected to also decrease the danger/risk of (chopping down trees). 
+ Started in 1994, the program extends farming-based 
+ support via payments for the continued (producing crops/helping something grow) of a 
+ 
+ 326 
+ 
+ C. Vance, J. Geoghegan / Farming-based Money flow 27 (2002) 317-332 
+ 
+ fixed area of land over 15 years, a period going along with/matching up to the time in which land-related price supports are to 
+ be phased out under the North American Free Trade 
+ Agreement (NAFTA). The payments are extended on 
+ a per hectare basis and in 1996 were set in real terms 
+ at 484 N pesos (US$_$ 64) for the remaining life of the 
+ program. While the farmer has large amounts of flexibility 
+ in selecting the crops planted, the number of hectares 
+ (able to be picked/able to participate) is based on the area that was (helped to grow) in 
+ any of nine basic crops in 1994, these being maize, 
+ beans, wheat, soybeans, (grass grown for food), rice, cotton, safflower, and grain. As the area and location covered is 
+ fixed over the life of the program, one of its first (or most important) 
+ intents, as stated by the (service business/government unit/power/functioning) (controlling or managing/giving medicine or something else) the helping payment SecretarÂ´Ä±a de Agricultura, GanaderÂ´Ä±a, Desarrollo 
+ (away from cities), Pesca y Alimentacion/Secretariat of Farming-based, (cows, bulls, etc.)  Ranching, (away from cities) Development, Fishing, 
+ and Food, 2002 (SAGARPA), is to strengthen production and in that way decrease pressure on remaining 
+ forest (Klepeis and Vance, 2000). 
+ To take by force/take control of the effect of time as a (thing that decides something) of 
+ forest clearance, we include an period of time (or space)-different (number or thing that changes) that measures the length of time of the household's 
+ occupancy as of the end of the time period of time (or space). The 
+ square of this (number or thing that changes) is also included to allow for 
+ non-linearities in length of time dependence. Including time as a covariate is a distinguishing feature 
+ of the model, as it serves to control for a range 
+ of inter-time-related factors that are important to the 
+ land-use decision but that are usually not (capable of being seen and known) (Boscolo et al., 1998). The effect of learning 
+ is one such factor. For example, we would expect 
+ that continued (getting used to something) to the (related to surrounding conditions or the health of the Earth) and money-based conditions of the edge of something/unexplored area (surrounding conditions) would 
+ partly decide/figure out the path of land portion shifts 
+ over time. Given that we have no direct measures of 
+ learning effects, we depend on the (number or thing that changes) measuring 
+ 
+ the household's length of time of occupancy as a substitute. 
+ In addition to including this (number or thing that changes) and its 
+ square, the (detailed description of exactly what is required) also includes dummy (numbers that change/things that change) for each period of time (or space) to control for the fact that they 
+ are of different lengths (Allison, 1995). 
+ 
+ 7. Results 
+ Tables 4 and 5 present measures of (describe the future)ive power 
+ and the coefficient guesses, (match up each pair of items in order), from two 
+ (completing/matching) log-log models that guess the effect of the above (things that decide other things) on the danger/risk of forest 
+ clearance. Model I in the two tables is guessed on 
+ the whole sample of (instances of watching, noticing, or making statements) while Model II is 
+ limited to just those pixels classified as lowland or upland forest at the start of an period of time (or space). In both models, 
+ the standard errors of the coefficient guesses are corrected for heteroskedasticity using Huber/White guesses of variance. As the coefficients from the (completing/matching) log-log danger-related model are hard to understand/explain directly, we get a more (intelligent/obvious) (understanding/ explanation) through calculation of the "risk ratio". Let Î² i be 
+ the coefficient connected with explanatory (number or thing that changes), 
+ Xi . Then the risk ratio connected with Î² i is exp(Î²i ). 
+ For dummy (numbers that change/things that change) the risk ratio is the ratio of the 
+ danger-related rate for a pixel with the dummy (number or thing that changes) equal 
+ to one to the danger-related rate for a pixel with the dummy 
+ (number or thing that changes) equal to zero, again holding other (numbers that change/things that change) 
+ constant. For the continuous (numbers that change/things that change), we subtract one 
+ from the risk ratio and multiply by 100 (Allison, 1995), 
+ which gives the percent change in the danger-related rate with 
+ a one unit change in Xi holding the other (numbers that change/things that change) 
+ constant. 
+ To examine the (describe the future)ive ability of the model we 
+ employ two approaches, the results of which are presented in Table 4. The first, standard in the books, 
+ 
+ Table 4 
+ Indicators of (describe the future)ive performance 
+ Model I: forest &amp;gt;6 years 
+ 
+ Model II: forest &amp;gt;15 years 
+ 
+ 0 
+ 
+ 1 
+ 
+ P (clearance) &amp;lt;0.2 
+ P (clearance) a¥0.2 
+ 
+ 74,549 
+ 18,707 
+ 
+ 5,859 
+ 11,002 
+ 
+ 80,408 
+ 29,709 
+ 
+ 66,965 
+ 10,918 
+ 
+ 4,280 
+ 5,782 
+ 
+ 71,245 
+ 16,700 
+ 
+ Total 
+ 
+ 93,256 
+ 
+ 16,861 
+ 
+ 110,117 
+ 
+ 77,883 
+ 
+ 10,062 
+ 
+ 87,945 
+ 
+ Goodman and Kruskal's gamma 
+ 
+ Total 
+ 
+ 0 
+ 
+ 1 
+ 
+ 0.611 
+ 
+ Total 
+ 
+ C. Vance, J. Geoghegan / Farming-based Money flow 27 (2002) 317-332 
+ 
+ 327 
+ 
+ Table 5 
+ (completing/matching) log-log models of forest clearance 
+ Explanatory (number or thing that changes) 
+ 
+ Model I: forest &amp;gt;6 years 
+ Guessed coefficient 
+ 
+ Household members &amp;gt;11 
+ Household members &amp;lt;12 
+ Upland soil 
+ Elevation 
+ Slope 
+ (rain, snow, etc.) 
+ Plot size 
+ Percent of period of time (or space) owning chain saw 
+ Percent of period of time (or space) owning vehicle 
+ Education of household head 
+ Number of members w/&amp;gt;8 years education 
+ Native Spanish speaker 
+ PROCAMPO helping payment 
+ Distance from household to plot 
+ Distance from ejido to nearest market 
+ Length of time of occupancy 
+ Length of time of occupancy squared 
+ Mature forest 
+ Constant 
+ Ï 2 -statistic for period of time (or space) dummies 
+ Ï 2 -statistic for ejido dummies 
+ Number of (instances of watching, noticing, or making statements) 
+ Wald Ï 2 
+ Log chance 
+ a 
+ 
+ 0.026a 
+ 
+ (4.428) 
+ 0.023a (4.394) 
+ 0.270a (10.821) 
+ a'0.011a (a'23.786) 
+ a'0.023a (a'6.396) 
+ 0.159a (21.990) 
+ a'0.0002a (a'16.124) 
+ a'0.001 (a'0.039) 
+ 0.407a (11.856) 
+ 0.022a (8.176) 
+ 0.029a (4.366) 
+ a'0.045 (a'1.702) 
+ 0.023a (16.492) 
+ a'0.045a (a'28.266) 
+ a'0.048a (a'24.882) 
+ a'0.041a (a'11.751) 
+ 0.0005a (8.042) 
+ a'0.645a (a'33.609) 
+ a'6.697a (a'14.855) 
+ 2,240.61a 
+ 1,328.88a 
+ 110,117 
+ 15,809a 
+ a'38022 
+ 
+ Model II: forest &amp;gt;15 years 
+ Risk ratio 
+ 2.668 
+ 2.313 
+ 1.310 
+ a'1.055 
+ a'2.229 
+ 17.268 
+ a'0.023 
+ 0.999 
+ 1.502 
+ 2.233 
+ 2.944 
+ 0.956 
+ 2.339 
+ a'4.381 
+ a'4.715 
+ a'4.009 
+ 0.052 
+ 0.525 
+ 
+ Guessed coefficient 
+ 0.074a 
+ 
+ (8.846) 
+ a'0.006 (a'0.876) 
+ 0.416a (12.387) 
+ a'0.010a (a'19.071) 
+ a'0.024a (a'6.330) 
+ 0.106a (11.375) 
+ a'0.0003a (a'16.210) 
+ a'0.148a (a'3.560) 
+ 0.720a (16.599) 
+ 0.023a (5.906) 
+ 0.008 (0.883) 
+ a'0.244a (a'6.300) 
+ 0.030a (16.979) 
+ a'0.046a (a'21.873) 
+ a'0.040a (a'17.174) 
+ a'0.052a (a'11.817) 
+ 0.001a (11.358) 
+ 
+ Risk ratio 
+ 7.646 
+ a'0.598 
+ 1.515 
+ a'1.027 
+ a'2.393 
+ 11.191 
+ a'0.029 
+ 0.862 
+ 2.054 
+ 2.292 
+ 0.784 
+ 0.784 
+ 3.053 
+ a'4.495 
+ a'3.959 
+ a'5.028 
+ 0.091 
+ 
+ a'4.266a (a'7.741) 
+ 1,595.68a 
+ 880.30a 
+ 8,7945 
+ 9,410a 
+ a'25610 
+ 
+ Represents importance at 1% level. 
+ 
+ references a matrix showing the number of (described the future) 
+ against/compared to/or actual changes. Following Chomitz and Gray 
+ (1996), who argue that even low (described the future) chances bring across information, we select 0.2 as the dividing line 
+ chance for selecting/naming (instances of watching, noticing, or making statements) as (stated or said earlier) 
+ changes. Using this judging requirement, Model I correctly (describes the future) 65% of deforested pixels and 80% of forested 
+ pixels, with corresponding figures of 57% and 86% for 
+ Model II. As Chomitz and Gray and others have noted, 
+ however, the choice of a dividing line chance value is 
+ completely random, and results can change very much 
+ simply by selecting a different value. An other choice, 
+ though rarely used, measure of model fit for binary 
+ choice models is given by Goodman and Kruskal's 
+ gamma (Goodman and Kruskal, 1954, 1959, 1963). 
+ This matching, non-parametric measure differs/changes from 
+ a'1 to +1 and is based on the difference between agreeing (C) and harsh (D) pairs of (described the future) and 
+ actual values as a percentage of all pairs ignoring ties, 
+ 
+ figured out/calculated as (C a'D)/(C +D).10 The value of gamma 
+ for Model I is 0.61 and is only (a) little higher for 
+ Model II, pointing to/showing that the model reduces our error 
+ in (describing the future) the result of the (thing that changes (like a test score) because of something else that you control (like study time)) 
+ by just over 60%. 
+ Turning to Table 5, it is seen that the guessed 
+ coefficients of Model I are usually of the expected 
+ sign. Both of the (related to information about people) indices are positive and 
+ (meaningful numbers) (things that decide other things) of the danger/risk of 
+ 10 Agreeing pairs are those for which the values are higher 
+ (or lower) on all elements in one set compared with another. 
+ Harsh pairs are those for which the value of one element 
+ is higher in one set while the value of some other element is 
+ higher in the second set. As an illustration, think about/believe the following 
+ possible list of (described the future) and actual values: a. (0.9, 0); b. 
+ (0.3, 0); c. (0.8, 1); d. (0.2, 1). From this list, ac, ad, and bd are 
+ harsh pairs while bc is a agreeing pair. Pairs ab and cd 
+ are ties and are therefore ignored in the calculation of gamma. 
+ Gamma in this example equals a'0.5. 
+ 
+ 328 
+ 
+ C. Vance, J. Geoghegan / Farming-based Money flow 27 (2002) 317-332 
+ 
+ (chopping down trees), an unsurprising result given that most families in the area are semi-surviving 
+ producers, for whom which family members (at the same time) represent a source of labour as well as an 
+ overhead cost. Specifically, each added/more member over 11 increases the danger/risk of (chopping down trees) by 
+ 2.67%, with a almost the same  importance for children. 
+ All of the physiographic measures are (related to numbers) 
+ significant, and, sometimes, confirm findings identified in other places in the books. For example, the 
+ guessed coefficients for slope and elevation are both 
+ negative, almost the same as  findings of Chomitz and Gray 
+ (1996) and Nelson and Hellerstein (1997) in their 
+ studies of (chopping down trees) in Belize and Mexico, (match up each pair of items in order). As expected, rainfall and superior soils both 
+ have a positive effect on the danger/risk of (chopping down trees), 
+ while a larger plot size has a negative effect. Finally, 
+ the negative coefficient on the mature dummy hints that farmers prefer to clear secondary growth, 
+ an interesting finding given that secondary growth is 
+ generally supported by less life-giving soils. Specifically, 
+ the estimate hints that the danger/risk of clearance for 
+ mature forest in any period is about 53% of the danger/risk 
+ for secondary green plants. One possible explanation is 
+ a desire to avoid higher clearance costs connected with 
+ mature forest even given higher weeding costs connected with inferior soils, a trade-off analysed at length 
+ in the unplanted-cycle books (e.g. Dvorak, 1992). 
+ Vehicle ownership increases the danger/risk of (chopping down trees), as expected, while the effect of chain saw 
+ ownership is (related to numbers) unimportant. A somewhat 
+ surprising result is the positive effect of the two education (numbers that change/things that change) on (chopping down trees). This may reflect 
+ the effect of higher labour working well from increased 
+ managerial talent (Tao Yang, 1997), which could result in a (compared to other things) lower not important working well of land 
+ and because of this greater clearance. Being a Spanish speaker 
+ decreases the danger/risk of (chopping down trees), though the coefficient guess is just out of the range of importance 
+ at the 5% level. 
+ Relating to/connected to the measures of the politicaleconomic (surrounding conditions), the guessed negative coefficients on the two distance (numbers that change/things that change) are consistent 
+ with the gut feeling that higher travel costs decrease the 
+ returns from farming-based land use through a reduced 
+ farm-gate price of output. Maybe the most interesting finding, from a policy (way of seeing things / sensible view of what is and is not important), is the positive 
+ and (meaningful numbers) coefficient guess on 
+ 
+ PROCAMPO, a result directly fighting with the 
+ program's intent to decrease (chopping down trees). Specifically, the guess points to/shows that each 1000 pesos 
+ extended by the program increases the danger/risk of 
+ (chopping down trees) by 2.34%. 
+ Different (detailed descriptions of exactly what is required) of the (number or thing that changes) measuring 
+ length of time of occupancy were explored by means of 
+ a nested chance ratio test, within which/by which the quadratic 
+ functional form was decided to  be best in 
+ terms of fit and cheapness.11 The guesses point to/show 
+ non-linear length of time dependence of the (chopping down trees) 
+ process; the (may or may not happen, depending on something) chance of forest (changing from one form, state, or state of mind to another) decreases with the passage of time at a decreasing 
+ rate, with some (event(s) or object(s) that prove something) of a reversal after 41 years. 
+ This result may reflect a coming-together of factors, including the rotation period of the unplanted cycle, family 
+ life cycle patterns, and, as suggested above, learning 
+ effects from helpful change to local market opportunities 
+ and (related to surrounding conditions or the health of the Earth) restrictions. 
+ Turning to the results of Model II, guessed on 
+ only those pixels with green plants older than 15 years, 
+ some significant mistakes come out. The most 
+ important of these is the surprising sign reversal on the coefficient guess for ownership of a chain 
+ saw. A reasonable explanation for this finding is not 
+ immediately honest/appearing soon, other than to guess that 
+ it reflects a fault/problem of the model to do enough to 
+ control for wealth effects. Related to this, (probably true) 
+ (event(s) or object(s) that prove something) from the field survey hints that those 
+ farmers who owned chain saws were more (branched out/done different things) 
+ in their income creating activities, relying less on 
+ the valuable thing from nature base for their jobs. Other 
+ differences across the two models are seen with respect to the information about people and workers 
+ indicators. The number of children under age 12 years, 
+ which is positive and significant in the model guessed on the whole sample of pixels, is now unimportant, while the importance of the guess on members 
+ older than 11 increases over three-fold. This finding 
+ may reflect the fact that the clearance of older green plants is more strongly figured out by/decided by the availability 
+ 11 The nested chance ratio test compares the log chances 
+ of two nested models using the Ï 2 -statistic. Specifically, if one 
+ model is nested within another, the fit of the nested (or held back) 
+ model can be tested by taking twice the total difference in 
+ the log chances for the two models. This difference gives the 
+ chance ratio Ï 2 -statistic, which, if significant, points to/shows that the 
+ nested model should be rejected. 
+ 
+ C. Vance, J. Geoghegan / Farming-based Money flow 27 (2002) 317-332 
+ 
+ of labour rather than by demand-side factors. Finally, 
+ the (number or thing that changes) measuring the number of members in the 
+ household having completed a high school education 
+ as of 1997 and the Spanish language dummy, (match up each pair of items in order) lose and gain importance levels in Model 
+ II. Relating to/connected to the last thing just mentioned, the negative sign of the 
+ coefficient guess may be a strong sign of a greater 
+ reliance of native (to) farmers on the useful thing/valuable supply base 
+ instead of off-farm wage-earning opportunities. 
+ While the remaining coefficient guesses for Models I and II are mostly almost the same  with respect to 
+ sign and (meaningful numbers), those differences that 
+ do come out  suggest that the age of green plants cleared 
+ may have an important lessening effect on the (things that decide other things) of land-use decisions. The extent to which<p><strong>NOTE: This document is incomplete. It was shortened to the maximum document length of 50,000 characters.</strong></p><div style="clear:both">&nbsp;</div>

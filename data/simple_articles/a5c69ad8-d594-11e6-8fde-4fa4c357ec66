@@ -1,0 +1,1890 @@
+AGRICULTURAL 
+ ECONOMICS 
+ ELSEVIER 
+ 
+ Farming-based Money flow 24 (2000) 33-46 
+ www.elsevier.com/locate/agecon 
+ 
+ Integrated money-based-hydrologic water modeling 
+ at the (bowl/area drained by a river)  scale: the Maipo river (bowl/area drained by a river) 
+ M. W. Rose grant*Â· a, C. Ringler a, D. C. McKinney b, X. Cai a, A. Keller c, G. Dono sod 
+ a International Food Policy Research Institute, (surrounding conditions) &amp; Production Technology Division, 2033 Street NW, Washington DC 20006, USA 
+ 
+ Centerfor Research in Water Useful things/valuable supplies, University of Texas at Austin, Austin, TX 78712, USA 
+ c Keller-Bliesner Engineering, 78 E Center Street, Logan, UT 84321, USA 
+ Faculty of Farming and Forestry Engineering, Catholic University of Chile, Casilla 306 Santiago 22, Chile 
+ b 
+ 
+ d 
+ 
+ Abstract 
+ Increasing competition for water across parts/areas increases the importance of the river (bowl/area drained by a river)  as the appropriate unit of 
+ analysis to deal with the/to speak to the  challenges facing water supplies management; and modeling at this scale can provide very important 
+ information for policymakers in their useful thing/valuable supply portion decisions. This paper introduces an (having different things working together as one unit) money-based-hydrologic 
+ modeling (solid basic structure on which bigger things can be built) that account&#126; for the interactions between water portion, farmer input choice, farming-based working well, 
+ non-farming-based water demand, and useful thing/valuable supply worsening in order to guess the social and money-based gains from improvement 
+ in the portion and (wasting very little while working or producing something) of water use. The model is applied to the Maipo river (bowl/area drained by a river)  in Chile. Money-based benefits to 
+ water use are tested for different demand management (tools or objects used to do work or measure something), including markets in tradable water rights, based 
+ on production and benefit functions with respect to water for the farming-based and urban-industrial parts/areas. Â© 2000 Elsevier 
+ Science B.V. All rights reserved. 
+ Keywords: River (bowl/area drained by a river)  model; Water policy; Water market 
+ 
+ 1. Introduction 
+ With growing (not enough of something) and increasing competition 
+ for water across parts/areas, the need for (producing a lot with very little waste), fair, and (able to last/helping the planet) water portion policies has increased in importance in water supplies management. 
+ These policies can best be examined at the river (bowl/area drained by a river) 
+ level, which links very important hydrologic, money-based, 
+ (related to scientific farming), and institutional relationships as well as 
+ water uses and users and their portion decisions. 
+ To carry out this analysis, an (having different things working together as one unit) money-basedhydrologic modeling (solid basic structure on which bigger things can be built) at the (bowl/area drained by a river)  level 
+ has been developed that accounts for the interactions 
+ * Corresponding author. Tel.: +1-202-862-5621; 
+ fax: +1-202-467-4439. 
+ E-mail address: m.rosegrant@cgiar.org (M.W. Rosegrant). 
+ 
+ between water portion, farmer input choice, farming-based working well, non-farming-based water demand, 
+ and useful thing/valuable supply worsening in order to guess the 
+ social and money-based gains from improvement in the 
+ portion and (wasting very little while working or producing something) of water use. An application 
+ to the Maipo river (bowl/area drained by a river)  in Chile is presented. The 
+ following sections give an summary on the research 
+ site, introduce the modeling (solid basic structure on which bigger things can be built), and present 
+ results of the model computer program. 
+ 
+ 2. The Maipo river (bowl/area drained by a river) 
+ The Maipo river (bowl/area drained by a river), located in a key farming-based area in the city-based area of central Chile, 
+ is a prime  example of a "mature water (process of people making, selling, and buying things)" 
+ (see Randall, 1981) with growing water shortages 
+ 
+ 0169-5150/00/$ - see front matterÂ© 2000 Elsevier Science B.V. All rights reserved. 
+ PII: S0169-5150(00)00113-4 
+ 
+ 34 
+ 
+ M. W Rosegrant eta/. I Farming-based Money flow 24 (2000) 33-46 
+ 
+ and increasing competition for rare/not enough  water supplies 
+ across parts/areas. The (bowl/area drained by a river)  is seen as a very 
+ energetic farming-based part/area - serving an watered 
+ area of about 127,000 ha (out of a total catchment area 
+ of 15,380 km 2 ) - and a quickly growing industrial 
+ and city-based  part/area - in particular in and surrounding the capital city of Santiago with a population of 
+ more than 5 million people. More than 90% of the 
+ watered area depends on water withdrawals from 
+ surface flows. Once-a-year flows in the Maipo river average 4445 million m 3 . River ups and downs are mostly slow/cold in nature, with (large/relatively large) flows in 
+ summer (November-February) and obvious 
+ reductions in winter (April-June). 
+ In the mid-1990s, total water withdrawals at the 
+ off-take level in the Maipo river (bowl/area drained by a river)  were guessed 
+ at 2144 million m3 . Farming accounted for 64% of 
+ total withdrawals, domestic uses for 25%, and industry for the remaining 11%. The (bowl/area drained by a river)  includes eight 
+ large crop-watering/rinsing with water districts with areas of 1300-45,000 ha. 
+ Watered area in the (bowl/area drained by a river)  has been slowly declining due to more demands by the domestic and 
+ industrial parts/areas for both water and land useful things/valuable supplies, 
+ among other factors. By the mid-1970s, city-based  Santiago had already invaded more than 30,000 ha of 
+ productive watered land (Court Moock et al., 1979). 
+ However, the closeness to the capital city also provides 
+ a money-making outlet for high-value crop production both 
+ for the local market and for the energetic export part/area. 
+ The largest city-based water company, EMOS, supplies about 85% of Santiago's population as well as 
+ other city-based  areas. It owns about 17% of the amount/quantity of 
+ flow in the upper Maipo river, plus the storage of the El 
+ Yeso holding tank with a ability (to hold or do something) of about 256 million m 3 
+ (Donoso, 1997). Supplies for industrial consumption 
+ are drawn from the drinking-water distribution networks as well as from privately owned wells and, in 
+ a few cases, from crop-watering/rinsing with water narrow waterways. All hydropower 
+ stations in the (bowl/area drained by a river)  are of the run-of-the river type. 
+ Competition among the different water users and 
+ uses, especially, farming and domestic and industrial water uses, is increasing quickly. According 
+ to Anton (1993), farming-based areas are mostly flood 
+ inÂ·igated, and crop-watering/rinsing with water (measures of output versus waste/getting more with less waste) range from 20 
+ to 60% depending on local conditions. EMOS guesses an increase in domestic water demand of about 
+ 330 million m3 between 1997 and 2022, which it intends to meet mostly through better use of existing 
+ 
+ water rights, the (instance of buying something for money) of added/more rights from crop-watering/rinsing with water districts, and added/more extraction of (underground water that supplies wells). However, in the past, EMOS has been unable 
+ to buy (good) enough shares from crop-watering/rinsing with water districts, 
+ and both industry and farming are competing for 
+ (underground water that supplies wells) sources at levels going past the recharge 
+ abilities (to hold or do something) of the underground waters in the city-based area 
+ (Hearne, 1998; Bolelli, 1997). More than that, increasing 
+ competition for rare/not enough  water supplies in the (bowl/area drained by a river) 
+ has led to growing pollution problems that have yet to 
+ be talked to/looked at by policy solutions (Anton, I 993). Although Chile has established the money-based instrument 
+ of markets in tradable water rights following the Water 
+ Law of 1981, which (helps increase/shows in a good way) the portion of water 
+ to the uses with the highest values, room for improvement in the areas of water rights for (related to surrounding conditions or the health of the Earth) 
+ and hydropower (non-sick) uses has become 
+ obvious. These challenges in the Maipo (bowl/area drained by a river)  will be 
+ talked to/looked at with the (having different things working together as one unit) money-based-hydrologic 
+ modeling (solid basic structure on which bigger things can be built) introduced in the following. 
+ 
+ 3. The river (bowl/area drained by a river)  model 
+ 3.1. Modeling approach 
+ The river (bowl/area drained by a river)  modeling system is developed as a 
+ node-link network, in which nodes represent physical 
+ things/businesses and links represent the connection between 
+ these things/businesses (Fig. 1). The nodes included in the network are: (1) source nodes, such as rivers, holding tanks, 
+ and (underground water that supplies wells) underground waters; and (2) demand nodes, 
+ such as crop-watering/rinsing with water fields, industrial plants, and families. Each distribution node is a location where 
+ water is (changed to flow or route differently) to different places/locations for helpful use. 
+ The inflows to these nodes include water flows from 
+ the (beginning point of a river) of the river (bowl/area drained by a river)  and rainfall drainage 
+ entering the things/businesses. No prior storage is assumed for 
+ the river nodes. Some farming-based and city-based and industrial (M&amp;I) demand places/locations or nodes 
+ have been (related to space or existing in space)ly connected to the (bowl/area drained by a river)  network. 
+ Farming-based demand places/locations are described/separated according 
+ to the crop-watering/rinsing with water districts. At each farming-based demand site, water is set apart and given out to a series of crops, 
+ according to their water needed things and money-based 
+ a money-making state. Both crop area and produce are decided/figured out 
+ endogenously in the model. Two demand places/locations have 
+ been set apart and given out to the major city-based  area, Santiago. 
+ 
+ M. W Rosegrant eta/. I Farming-based Money flow 24 (2000) 33-46 
+ 
+ e 
+ 
+ +-..,. 
+ 
+ 35 
+ 
+ River Node 
+ Inflow 
+ Off-take 
+ Narrow waterway San Carlos 
+ 
+ &amp;lt;IIIII 
+ 
+ Holding tank 
+ 
+ Â® 
+ 
+ Hydropower St. 
+ 
+ &#126; 
+ 
+ Ag. Demand Site 
+ 
+ &#126; 
+ 
+ M&amp;l Demand Site 
+ 
+ Maipo 
+ 
+ Yeso 
+ Olivares 
+ 
+ Colorado 
+ 
+ Angostura 
+ 
+ Mapocho 
+ Colina 
+ 
+ Paine 
+ 
+ Chocalan 
+ 
+ Fig. I. The Maipo river (bowl/area drained by a river)  network. 
+ 
+ An existing hydrologic model, successfully applied 
+ to the Amu Darya and Syr Darya river (bowls/areas drained by a river) in Central 
+ Asia, has been changed to fit the Chilean big picture (McKinney and Cai, 1997). Also, a early model-related money-based 
+ optimization model has been developed in order to guess money-based returns to water use. Although the 
+ model has been developed as an optimization model, 
+ (testing out) parts/pieces have been included to better 
+ solve the complex optimization problem. Hydrologic 
+ flow and salinity balance and tranport are (like the real thing) 
+ endogenously within the optimization model and an 
+ external crop-water (testing out) model is used to guess the crop yield function, with water, salinity and 
+ crop-watering/rinsing with water technology as (numbers that change/things that change). 
+ 
+ Both instream and off-stream water uses are carefully thought about/believed in the model. Instream uses include flows for 
+ waste dilution and hydropower generation. Off-stream 
+ uses include water diversion for farming and M&amp;I 
+ water uses. The (putting a value on something) of instream and off-stream 
+ uses is used in a brought together (as one) money-based goal 
+ function, which is held back by hydrologic, (related to surrounding conditions or the health of the Earth), and institutional relations. Water demand is 
+ serious and stubborn endogenously within the model by using 
+ scientific (related to scientific farming) production functions (yield against/compared to/or water, crop-watering/rinsing with water technology, salinity) and an M&amp;I 
+ water demand function based on a market inverse demand function. Water supply is serious and stubborn through 
+ the hydrologic water balance in the river (bowl/area drained by a river)  with 
+ 
+ 36 
+ 
+ M. W Rosegrant et al. I Farming-based Money flow 24 (2000) 33-46 
+ 
+ extension to the watered crop fields at each crop-watering/rinsing with water demand site. Water demand and water supply 
+ are then (combined different things together so they worked as one unit) into an endogenous system and 
+ balanced based on the money-based goal of making the most of benefits from water use, including crop-watering/rinsing with water, 
+ hydropower, and M&amp;I benefits. Both water amount 
+ and water quality in terms of salinity are (like the real thing) 
+ in the model. The salt concentration in the return 
+ flow from watered areas is clearly calculated in 
+ the model. This allows the endogenous (serious thought/something to think about/respect) of this externality with respect to upstream and 
+ downstream crop-watering/rinsing with water districts. The model includes 
+ all the very important relationships of these parts/pieces in 
+ a !-year time (line in the distance where the Earth and sky meet)  with a monthly time step. 
+ 
+ 3.2. Model parts/pieces 
+ 
+ A curve-linear relationship is assumed between crop 
+ produce and seasonally applied non-salty water. Crop 
+ yield is (like the real thing) under given water computer program, crop-watering/rinsing with water technology (the Christiensen Evenness and equality Coefficient or CUC), and crop-watering/rinsing with water water salinity. Based on 
+ these (testing out) results, a moving backward function of crop 
+ yield with water computer program, crop-watering/rinsing with water evenness and equality, 
+ and salinity was received/made from through the guess of the 
+ limits/guidelines ao-a2 and bo-bs in Eq. (1). The function, 
+ with particular limits/guidelines that have been guessed for 
+ all crops in the model, is directly used in the optimization model to calculate crop yields with different 
+ water computer program, salt concentration, and hint/signal. 
+ The crop yield function is specified as follows: 
+ Ya 
+ 
+ = 
+ 
+ Ymax[ao 
+ 
+ + 
+ 
+ G] 
+ 
+ (wi/ Emax) 
+ 
+ + a2ln(wi/ Emax)]_) 
+ 
+ (1) 
+ 
+ where 
+ (related to the underlying messages or morals of a story), the modeling (solid basic structure on which bigger things can be built) includes 
+ three parts/pieces: (1) hydrologic parts/pieces, including the water and salt balance in holding tanks, river 
+ reaches and underground waters within the river (bowl/area drained by a river); (2) water 
+ use parts/pieces, including water for crop-watering/rinsing with water and 
+ M&amp;I water uses; and (3) money-based parts/pieces, including the calculation of benefits from crop-watering/rinsing with water, 
+ hydropower, and M&amp;I demand places/locations. 
+ Hydrologic relations and processes are based on the 
+ flow network, which is an (thought about (or related to) ideas and possibilities) representation of 
+ the (related to space or existing in space) relationships between the physical things/businesses 
+ in the (bowl/area drained by a river). The major hydrologic relations/processes 
+ include: flow transport and balance from river outlets/reservoirs to crop fields or M&amp;I demand places/locations; 
+ salt transport and balance from river outlets/reservoirs 
+ to watered crop fields; return flows from watered 
+ and city-based  areas; interaction between surface and 
+ (underground water that supplies wells); evapotranspiration in watered areas, 
+ and hydropower generation as well as physical bounds 
+ on storage, flows, diversions and salt concentrations. 
+ The mathematical expressions for these relations, as 
+ well as the calculation of deep percolation, return 
+ flow from farming-based and M&amp;I demand places/locations, and 
+ the interaction between surface and (underground water that supplies wells) can 
+ be found in Rosegrant et al. (1999). It is assumed 
+ that the water supply starts from rivers and holding tanks. 
+ Effective rainfall is calculated outside of the model, 
+ and included into the model as a constant limit/guideline. 
+ The (related to scientific farming) relations involved in the (testing out) 
+ model are changed/ready from Dinar and Letey (1996), (see 
+ also Letey and Dinar, 1986, and Dinar et al., 1991). 
+ 
+ = bo + b1u + b2c, 
+ a2 = b6 + b7u + bsc 
+ ao 
+ 
+ a1 
+ 
+ = b3 + b4u + bsc, 
+ 
+ and where Ya is the crop yield (metric tons (mt)/ha), 
+ Ymax the maximum (able to be done or reached) yield (mt/ha), ao, a 1, a2 
+ are moving backward coefficients, bo-bs are moving backward coefficients, Wi is broken-into water (mm), Emax the maximum evapotranspiration (mm), c the salt concentration 
+ in water application (dS/m), and u the Christiensen 
+ Evenness and equality Coefficient (CUC). 
+ Evenness and equality (CUC) is used as a substitute for both 
+ crop-watering/rinsing with water technology and crop-watering/rinsing with water management activities. The CUC value differs/changes from about 50 
+ for flood crop-watering/rinsing with water, to 70 for furrow crop-watering/rinsing with water, 80 for 
+ sprinklers, and 90 for drip crop-watering/rinsing with water, and also differs/changes 
+ with management activities. By including clear 
+ representation of technology, the choice of water 
+ application technology can be decided/figured out endogenously. The (money made/good thing received) from farming-based demand places/locations is 
+ equal to crop money/money income minus fixed crop cost, crop-watering/rinsing with water technology improvement cost, and water supply 
+ cost. The function for (money made/good things received) from crop-watering/rinsing with water (VA) at 
+ demand site dm, is specified as follows: 
+ VA(dm) 
+ 
+ = LA(dm, cp)Ya(dm, cp)p(dm, cp) 
+ cp 
+ 
+ - LA(dm, cp) (fc(dm, cp) 
+ 
+ + tc(dm, cp)) 
+ 
+ cp 
+ 
+ - L:w(dm, pd)wp(dm) 
+ pd 
+ 
+ (2) 
+ 
+ M.W. Rosegrant et al./Agricultural Money flow 24 (2000) 33-46 
+ 
+ 37 
+ 
+ 1.0 
+ 
+ 'C 
+ 
+ Gi 
+ Â·:;. 
+ 
+ 0.8 
+ 
+ &amp;gt;&amp;lt; 
+ ca 
+ 
+ E 0.6 
+ 'C 
+ 
+ Gi 
+ 
+ &#126; 0.4&#126;&mdash;&mdash;-&#126;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&#126; 
+ 
+ &#126; 
+ 0.2 - + - - - . z . . - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 1 
+ 
+ 0.0 
+ 
+ +&mdash;f-..,&mdash;-_,,&mdash;-_,,&mdash;-_,,&mdash;-_,,&mdash;-_,,&mdash;-_, 
+ 
+ 0.0 
+ 
+ 0.5 
+ 
+ 1.0 
+ 
+ 1.5 
+ 
+ 2.0 
+ 
+ 2.5 
+ 
+ 3.0 
+ 
+ 3.5 
+ 
+ water application I max. crop evapotranspiration 
+ Fig. 2. Crop yield function, crop yield (wheat) vs. water application (CUC 
+ 
+ in which A is collected area (ha), cp the crop 
+ type, p the crop price (US$/mt), fc the fixed crop 
+ cost (US$/ha), tc = kolO(-k,u) the technology cost 
+ (US$/ha) (creation following Dinar and Letey 
+ (1996) -- higher hint/signal  values are related to 
+ greater capital cost for crop-watering/rinsing with water and/or management 
+ costs), wp the water price (US$/m 3 ), w the water delivered to demand places/locations (m 3 ), ko the (stopping or interfering with something) of the 
+ technology cost function, and k1 cost coefficient per 
+ unit of u. 
+ A typical crop yield function for wheat in the Maipo 
+ river (bowl/area drained by a river)  is shown in Fig. 2. The function drives the 
+ seasonal water portion among crops, but is not able 
+ to distribute the (changed to flow or route differently) water among crop growth 
+ stages according to the water demanded by each stage. 
+ In order to (accomplish or gain with effort) (state of always working or appearing the same way) with the water balance 
+ in the hydrologic system -- to fill the gap between the 
+ farming and (water science) in the optimization model 
+ - an scientific yield-evapotranspiration relationship 
+ given by Doorenbos and Kassam (1979) has been used 
+ to account for the stage effect. This relationship was 
+ applied by including a penalty term into the goal 
+ function, based on the maximum stage yield shortage 
+ (see below for the (detailed description of exactly what is required) of the penalty term). 
+ The penalty drives the water application according to 
+ the water demands in crop growth stages. 
+ 
+ = 70, Salinity = 0.7 dS/m). 
+ 
+ The net benefit function for M&amp;I water use is taken from an inverse demand function for water. Net 
+ benefit is calculated as water use benefit minus water 
+ supply cost. 
+ VM(w)=wopo/(1 
+ 
+ +a) [Cw/wo)a +2a + 1]- wwp 
+ (3) 
+ 
+ where VM is the benefit from M&amp;I water use (US$_$), 
+ wo the maximum water withdrawal (m 3 ), po the desire to pay for added/more water at full use (US$_$), 
+ a is lie, e the price ability to stretch of demand (now 
+ -0.45). 
+ The function is based on (creation/combination) of partial secondary data and in its current form only applies 
+ to surface water. The desire to pay for water 
+ at full use is guessed at US$_$ 0.35 per m3 . The 
+ per unit value of water for M&amp;I was guessed at 
+ 3.5 times the per unit value of water in farming, based on an repeating/repetitive search process on value 
+ against/compared to/or water demand, so that water withdrawal to 
+ crop-watering/rinsing with water and to M&amp;I in the base year model solution matches historical values. The small amount of 
+ local (underground water that supplies wells) use (about 12% of once-a-year M&amp;l 
+ withdrawals or 95 million m3 ) is treated as a fixed 
+ amount. Fig. 3 shows the relationship between water 
+ 
+ 38 
+ 
+ M. W Rosegrant et al. I Farming-based Money flow 24 (2000) 33-46 
+ 450 
+ 
+ &mdash;-..___ ......... 
+ 
+ 400 
+ 350 
+ 
+ - 
+ 
+ U&amp;gt; 
+ 
+ 300 
+ 
+ I 
+ 
+ (J) 
+ 
+ :::&amp;gt; 
+ 
+ &#126; 250 
+ 
+ I 
+ 
+ / 
+ 
+ I 
+ 
+ :Â§. 
+ J!l 200 
+ 
+ '"r:' 
+ Q) 
+ Q) 
+ 
+ ..0 
+ 
+ 150 
+ 100 
+ 50 
+ 0 
+ 
+ 500 
+ 
+ 0 
+ 
+ 1,000 
+ 
+ 1,500 
+ 
+ 2,000 
+ 
+ 2,500 
+ 
+ water withdrawals (million m3 ) 
+ 
+ Fig. 3. Relationship between water withdrawals and M&amp;I benefits. 
+ 
+ withdrawals and benefits for the M&amp;I net benefit 
+ function. 
+ Benefits from power generation are (compared to other things) small 
+ in the Maipo (bowl/area drained by a river)  compared to off-stream water uses. 
+ The (money made/good thing received) from power generation (VP) at a power 
+ station, pwst, is calculated as 
+ 
+ to (make as big as possible) money-based (money made/good thing received) from water supply for 
+ crop-watering/rinsing with water, M&amp;l water use, and (related to generating electricity by damming rivers) power 
+ generation, subject to institutional, physical, and other 
+ restrictions. The unemotional function is specified as 
+ follows: 
+ Max Obj = 
+ 
+ VP(pwst) = Lpower(pwst, pd) 
+ pd 
+ 
+ x[pprice(pwst)- pcost(pwst)]_) 
+ 
+ VA(dm) 
+ 
+ + 
+ 
+ L 
+ 
+ VM(dm) 
+ 
+ mun-them 
+ 
+ +LVP(pwst) - 
+ 
+ wgt penalty 
+ 
+ (5) 
+ 
+ pwst 
+ 
+ (4) 
+ 
+ where power is the power production, for each power 
+ station and period (kWh), which is a function of water flow for runoff stations, and of water release and 
+ holding tank head for stations with dams, as well as hydropower creating ability (to hold or do something) and (wasting very little while working or producing something); pprice is 
+ the price of power production for each power station 
+ (US$/kWh); and pcost is the cost of power production, 
+ for each power station (US$/kW h). 
+ The model also includes a series of institutional 
+ rules, including minimum needed/demanded water supply to a 
+ demand site, minimum and maximum crop production, flow needed thing through a river reach for (related to surrounding conditions or the health of the Earth) and (related to surrounding conditions or the health of the Earth) purposes, and maximum 
+ allowed salinity in the water system. The goal is 
+ 
+ L 
+ irr-them 
+ 
+ where wgt is the weight for the penalty, and penalty 
+ is defined as 
+ penalty= LLPm(cp) x cpprice(cp) 
+ them  cp 
+ 
+ x(mdft(them, cp)- adft(them, cp)) 
+ 
+ (6) 
+ 
+ where, over all demand places/locations and crops, pm is maximum crop production (mt), cpprice the crop selling 
+ price (US$/mt), mdft the maximum stage shortage within 
+ a crop growth season, and adft the average stage shortage 
+ within a crop growth season. 
+ with 
+ dft = ky 
+ 
+ (1 - &#126;) 
+ Emax 
+ 
+ (7) 
+ 
+ M.W Rosegrant eta!./ Farming-based Money flow 24 (2000) 33-46 
+ 
+ where dft is the stage shortage, ky the yield response 
+ factor, and Ea the actual evapotranspiration (mm), as 
+ defined in Doorenbos and Kassam ( 1979). 
+ 
+ 3.3. Model solution 
+ The model has been coded in the modeling language 
+ of the General Math-related Modeling System (GAMS) 
+ (Brooke et a!., 1988), a high-level modeling system 
+ for mathematical programming problems. Since the 
+ model is highly non-linear and includes a large number of (numbers that change/things that change) and equations, it is solved in two steps. 
+ In the first step, the salinity (number or thing that changes) is fixed. The solution of this model is used for the first values of 
+ the (numbers that change/things that change) in the second model with changeable salt 
+ concentration (see Cai, 1999). 
+ 
+ 4. Results and policy analysis 
+ The focus of the modeling in this paper is on 
+ the farm-related part/area and less so on the 
+ non-farming-based water parts/areas. 
+ 
+ 4.1. Basin-improving solution ('baseline') 
+ Ideas (you think are true) in the basin-improving solution include a water price in M&amp;I demand places/locations of US$_$ 
+ 0.1 per m 3 and in farming-based demand places/locations of US$_$ 
+ 0.04 per m 3 . Crop technology is fixed at CUC equal 
+ 
+ 39 
+ 
+ to 70. More than that, it is assumed that 15% of the inflow is reserved for (related to surrounding conditions or the health of the Earth) (instream) uses. 
+ The source salinity is 0.3 g/1. No water right is set up 
+ and water withdrawals to demand places/locations depend on their 
+ (pertaining to each person or thing) demands with the goal of making the most of 
+ (bowl/area drained by a river)  benefits. 
+ The model includes 15 crops, but the five main 
+ crops relating to/connected to collected (watered) area are 
+ once-a-year search, corn, grapes, peach and other (large group of fruit or nut trees) 
+ trees, and wheat. Table I presents the production 
+ for these crops figured out by/decided by the model for the crop-watering/rinsing with water demand places/locations in the (bowl/area drained by a river), compared with 
+ the actual production data for 1994-1996. As can be 
+ seen, the basin-improving solution guesses a higher 
+ overall production, compared to the 1994-1996 values. More than that, the solution favors the crops with 
+ higher (money made/good thing received) per unit of water supplied, such as peach 
+ and grapes. Table 2 shows the (a measure of what occurs naturally/sports boundary line) collected 
+ area came/coming from the model and a comparison with 
+ the actual situation in the (bowl/area drained by a river)  in the mid-1990s. 
+ The total collected area guessed by the model is 
+ 146,007 ha, compared to an area under production in 
+ 1994-1996 of 127, Ill ha. Again, crops that demand 
+ large amounts of water and/or have lower money-based 
+ values account for (compared to other things) less area in the model 
+ result compared to the actual data. More than that, water withdrawals in the M&amp;I demand places/locations reach the 
+ benefit-making the most of demand level at 1457 million m3 . 
+ Under the (a measure of what occurs naturally/sports boundary line), total effective rainfall is guessed at 116 million m3 . Total water withdrawals are 
+ 
+ Table l 
+ Crop production in the (bowl/area drained by a river), basin-improving result and actual dataa 
+ Crop 
+ 
+ Wheat 
+ (mt) 
+ 
+ Corn 
+ (mt) 
+ 
+ Ann. for. 
+ (mt) 
+ 
+ Grape 
+ (mt) 
+ 
+ Peach 
+ (mt) 
+ 
+ Other 
+ (mt) 
+ 
+ Total 
+ (mt) 
+ 
+ Al 
+ A2 
+ A3 
+ A4 
+ AS 
+ A6 
+ A7 
+ AS 
+ (bowl/area drained by a river) 
+ 
+ 31022 
+ 10734 
+ 21827 
+ 744 
+ 41466 
+ 1678 
+ 2656 
+ 13473 
+ 123600 
+ 
+ 38267 
+ 14319 
+ 48169 
+ 2278 
+ 30419 
+ 3545 
+ 174 
+ 478 
+ 137647 
+ 
+ 28620 
+ 10721 
+ 22321 
+ 869 
+ 28875 
+ 1941 
+ 3706 
+ 5428 
+ 102482 
+ 
+ 176022 
+ 72171 
+ 20218 
+ 995 
+ 36397 
+ 14316 
+ 29 
+ 48675 
+ 368822 
+ 
+ 129252 
+ 50142 
+ 27935 
+ 2814 
+ 51232 
+ 9885 
+ 30 
+ 46631 
+ 317921 
+ 
+ 532849 
+ 189975 
+ 288623 
+ 12296 
+ 360569 
+ 37544 
+ 7734 
+ 129140 
+ 1558730 
+ 
+ 936032 
+ 348061 
+ 429093 
+ 19995 
+ 548960 
+ 68908 
+ 14328 
+ 243825 
+ 2609202 
+ 
+ Actual sharp stick. 
+ 
+ 105159 
+ 
+ 165210 
+ 
+ 192140 
+ 
+ 220109 
+ 
+ 193271 
+ 
+ 1004935 
+ 
+ 1880824 
+ 
+ a Actual production is average for 1994-1996. As crop (many different kinds of people or things) in the (bowl/area drained by a river)  is very high, some crops are averages of group 
+ production of almost the same  crops. Peach, for example, includes nut/very light brown, yellowish-orange fruit, cherry, nectarines, peach, and plum. Source of actual production 
+ data: Donoso, 1997. 
+ 
+ M. W. Rosegrant et aLl Farming-based Money flow 24 (2000) 33-46 
+ 
+ 40 
+ 
+ Table 2 
+ Collected area, basin-improving result" 
+ Crop 
+ 
+ Wheat 
+ (ha) 
+ 
+ Corn 
+ (ha) 
+ 
+ Once-a-year search 
+ (ha) 
+ 
+ Grape 
+ (ha) 
+ 
+ Peach 
+ (ha) 
+ 
+ Other 
+ (ha) 
+ 
+ Total 
+ (ha) 
+ 
+ AI 
+ A2 
+ A3 
+ A4 
+ AS 
+ A6 
+ A7 
+ A8 
+ (bowl/area drained by a river) 
+ 
+ 5607 
+ 1925 
+ 3899 
+ 135 
+ 7446 
+ 302 
+ 482 
+ 2440 
+ 22235 
+ 
+ 4196 
+ 1574 
+ 5219 
+ 248 
+ 3344 
+ 384 
+ 19 
+ 53 
+ 15037 
+ 
+ 2529 
+ 936 
+ 1925 
+ 76 
+ 2521 
+ 170 
+ 325 
+ 481 
+ 8963 
+ 
+ 9264 
+ 3798 
+ 1064 
+ 52 
+ 1916 
+ 753 
+ 2 
+ 2562 
+ 19412 
+ 
+ 6463 
+ 2527 
+ 1401 
+ 141 
+ 2574 
+ 494 
+ 2 
+ 2346 
+ 15947 
+ 
+ 20271 
+ 7035 
+ 12620 
+ 505 
+ 15840 
+ 1367 
+ 397 
+ 6377 
+ 64412 
+ 
+ 48329 
+ 17795 
+ 26128 
+ 1157 
+ 33642 
+ 3471 
+ 1227 
+ 14258 
+ 146007 
+ 
+ Model/actual 
+ a 
+ 
+ 1.0 
+ 
+ 0.8 
+ 
+ 0.6 
+ 
+ 1.5 
+ 
+ 1.5 
+ 
+ 1.1 
+ 
+ 1.3 
+ 
+ Source of actual collected area: Donoso, I 997. 
+ 
+ guessed at 3817 million m 3 , 86% of the total inflows 
+ of 4445 million m 3 . Water withdrawals are lowest in 
+ the months of June and July, as only repeating crops 
+ are present during this time. An seen/obvious excess 
+ use of surface water - withdrawals go beyond source 
+ flows - during the months of January-March and 
+ November-December can be explained with the high 
+ level of return flows that are being reused during these 
+ months. Total return flows amount to 872 million m 3 
+ or 20% of total inflows. Actual crop evapotranspiration is guessed at 954 million m3, 99.7% of the total 
+ potential crop evapotranspiration of 956 million m 3 . 
+ This value compares well with the data guessed in 
+ Donoso (1997) of 972 million m 3 . According to the 
+ model results, total farming-based water withdrawals 
+ 
+ amount to 2360 million m 3 , which again is close to 
+ the 2107 million m3 guessed in Donoso (1997). The 
+ difference can be explained, in part, by the different 
+ crop-watering/rinsing with water (measures of output versus waste/getting more with less waste). The overall (wasting very little while working or producing something) guessed 
+ by local experts is about 45%, whereas the (wasting very little while working or producing something) 
+ according to model results is 40.4%. 
+ 
+ 4.2. Sensitivity analysis 
+ Four sensitivity analyses are presented in the following to test the strength of the model results: 
+ changes in hydrologic levels, crop-watering/rinsing with water technology cost, crop price, and source salinity (Table 3). 
+ According to the sensitivity analyses, M&amp;I water 
+ withdrawals and benefits barely change with the 
+ 
+ Table 3 
+ Sensitivity analysis, different limits/guidelines" 
+ Limit/guideline levels 
+ 
+ liTigation withdrawal 
+ 
+ M&amp;I withdrawal 
+ 
+ Crop-watering/rinsing with water (money made/good things received) 
+ 
+ M&amp;I benefits 
+ 
+ (%) 
+ 
+ (%) 
+ 
+ (%) 
+ 
+ (%) 
+ 
+ (%) 
+ 
+ Inflow 
+ 
+ 50 
+ ISO 
+ 
+ 58.3 
+ 101.2 
+ 
+ 86.7 
+ 100.0 
+ 
+ 63.1 
+ 100.1 
+ 
+ 90.5 
+ 100.0 
+ 
+ Technology cost 
+ 
+ 75 
+ 125 
+ ISO 
+ 
+ 100.0 
+ 100.0 
+ 100.0 
+ 
+ 100.0 
+ 100.0 
+ 100.0 
+ 
+ 102.5 
+ 97.5 
+ 95.1 
+ 
+ 100.0 
+ 100.0 
+ 100.0 
+ 
+ Crop price 
+ 
+ 75 
+ 125 
+ 
+ 94.8 
+ 101.6 
+ 
+ 100.0 
+ 100.0 
+ 
+ 39.8 
+ 161.0 
+ 
+ 100.0 
+ 100.0 
+ 
+ Salinity in source 
+ 
+ 50 
+ ISO 
+ 200 
+ 
+ 95.5 
+ 101.6 
+ 105.1 
+ 
+ 100.0 
+ 100.0 
+ 100.0 
+ 
+ 102.8 
+ 96.4 
+ 86.4 
+ 
+ 100.0 
+ 100.0 
+ 100.0 
+ 
+ a 
+ 
+ Sensitivity analyses, except for the inflow pictures/situations, were carried out based on (usual/ commonly and regular/ healthy) flow. All percentages are relative to the (a measure of what occurs naturally/sports boundary line). 
+ 
+ 41 
+ 
+ M. W Rosegrant eta!. I Farming-based Money flow 24 (2000) 33--46 
+ Table 4 
+ Sensitivity analysis for crop-watering/rinsing with water water price at 50% of (usual/ commonly and regular/ healthy) inflow 
+ Pictures/situations 
+ Crop-watering/rinsing with water water price 
+ Crop-watering/rinsing with water withdrawals (million m3 ) 
+ Crop area (watered) (ha) 
+ M&amp;I water withdrawal (million m3 ) 
+ Crop-watering/rinsing with water (money made/good things received) (million US$_$) 
+ M&amp;I (money made/good things received) (million US$_$) 
+ Total (money made/good things received) (million US$_$) 
+ (US$/m 3 ) 
+ 
+ 0 
+ 1387 
+ 115200 
+ 1258 
+ 224 
+ 550 
+ 774 
+ 
+ changing range of technology cost, crop price, and 
+ source salinity under conditions of (usual/ commonly and regular/ healthy) flow. This is 
+ because, at (usual/ commonly and regular/ healthy) inflows, the M&amp;I demand places/locations can 
+ withdraw up to their benefit-making the most of level within 
+ the different range of those limits/guidelines. However, M&amp;I 
+ withdrawals and benefits do change/differ  in the dry-year case 
+ (see Table 4). 
+ With a reduction of (usual/ commonly and regular/ healthy) inflows by half, water withdrawals and benefits for both farming-based and 
+ M&amp;I demand places/locations decline sharply. Farming-based (money made/good things received) decrease by 37% and M&amp;I benefits decline by 9% 
+ compared to (usual/ commonly and regular/ healthy) inflows. More than that, water withdrawals drop by 42% for crop-watering/rinsing with water and by 13% in 
+ M&amp;I demand places/locations. So, in the case of drought, the 
+ farm-related part/area is much more affected. Farming-based 
+ water withdrawals are not sensitive to the cost of crop-watering/rinsing with water technology and (makes money/gets something good) from crop-watering/rinsing with water change/differ 
+ only (a) little with changes in technology cost. (fair in amount, related to something else/properly sized compared to something else) changes over all crop prices in the range of 
+ Â±25% have only small effects on crop-watering/rinsing with water water withdrawals. However, farmer incomes from crop-watering/rinsing with water are 
+ significantly affected. With a reduction of crop prices 
+ by 25%, crop-watering/rinsing with water water withdrawals decline by 5%, 
+ whereas (money made/good things received) from crop-watering/rinsing with water drop by 60%. 
+ A doubling of the source salinity leads to an increase in crop-watering/rinsing with water water withdrawals for salt leaking 
+ by 5%. Increased salt leaking reduces (money made/good things received) from 
+ crop-watering/rinsing with water by 14%. More than that, changes in the salinity 
+ level influence crop patterns, with a decline in the collected area of crops with lower salt tolerance. With 
+ doubled source salinity, the area planted to maize declines from 10 to 8% of total area planted whereas the 
+ area planted with wheat - a more salt tolerant crop 
+ - increases from 15 to 18%. 
+ Table 4 shows the effects of changes in the water price for farming on water withdrawals and 
+ 
+ II 
+ 
+ III 
+ 
+ IV 
+ 
+ 0.02 
+ 1380 
+ 115191 
+ 1263 
+ 196 
+ 552 
+ 748 
+ 
+ 0.04 
+ 1351 
+ 115176 
+ 1283 
+ 165 
+ 558 
+ 722 
+ 
+ 0.08 
+ 1326 
+ 115032 
+ 1303 
+ 130 
+ 570 
+ 700 
+ 
+ incomes in the crop-watering/rinsing with water and M&amp;I parts/areas for a 
+ drought-year case (50% of (usual/ commonly and regular/ healthy) inflows). With an 
+ increase in the water price for crop-watering/rinsing with water from zero to 
+ US$_$ 0.08 per m 3 , water withdrawals for farm-related 
+ decline by 5%, from 1387 to 1326 million m3 . However, changes in the water price barely affect the crop 
+ area. Watered area is maintained because farmers 
+ move/change on the margin to more water (producing a lot with very little waste) crops and 
+ reduce water use per hectare. Although both water 
+ withdrawals and watered crop area barely change 
+ with different water prices, farmer incomes can drop 
+ extremely under this 'administrative price picture/situation': 
+ by 42% from US$_$ 224 million to US$_$ 130 million 
+ with increasing prices. M&amp;l benefits, on the other 
+ hand, increase steadily with continuing water price 
+ increases in farming, from US$_$ 550 million to US$_$ 
+ 570 million and M&amp;I water withdrawals increase by 
+ 3.6%. With water prices already quite high (higher 
+ than what most farmers in the United States pay), 
+ further price increases are a weapon for influencing water demand. Under these facts or conditions (that surround someone), 
+ water markets that allow farmers to keep/hold the income 
+ from sales of water may be better. 
+ 
+ 4.3. Money-based analysis of water trading 
+ There are two basic plans for dealing 
+ with water (not enough of something) in river (bowls/areas drained by a river), supply management and demand management; the former involves 
+ activities to locate, develop, and fully use new sources 
+ of water, and the last thing just mentioned addresses the (rewards or reasons for doing something) and 
+ (machines/methods/ways) that (help increase/show in a good way) water (using less of something) and 
+ (producing a lot with very little waste) use of water. 
+ The first (or most important) other choice to amount-based portion 
+ of water is (reward or reason for doing something)-based portion, either through 
+ volumetric water prices or through markets in tradable 
+ 
+ 42 
+ 
+ M. W Rosegrant et al. I Farming-based Money flow 24 (2000) 33-46 
+ 
+ water rights. The evidence shows that farmers are price (able to reply or react/quick to respond) in their use of crop-watering/rinsing with water water 
+ (Rosegrant et al., 1995; Gardner, 1983). The choice 
+ between given prices and markets should be 
+ mostly a function of which system has the lowest 
+ (related to managing and running a company or organization) and transaction costs (TC). Markets in 
+ tradable water rights can reduce information costs; increase farmer acceptance and participation; permit 
+ water users; and provide security and (rewards or reasons for doing something) for 
+ investment and for (making a part of you) the external costs of 
+ water uses. Market portion can provide flexibility 
+ in response to water demands, permitting the selling 
+ and buying of water across parts/areas, across districts, and across time by opening opportunities for 
+ exchange where they are needed. The results of the 
+ exchange process reflect the water (not enough of something) condition 
+ in the area with water flowing to the uses where its 
+ not important value is highest (Rosegrant and Binswanger, 
+ 1994; Rosegrant, 1997). Markets also provide the 
+ foundation for water leasing and option contracts, 
+ which can quickly lessen acute, (for only a short time) city-based 
+ water shortages while maintaining the farming-based 
+ production base (Michelsen and Young, 1993). Establishment of markets in tradable property rights does 
+ not suggest free markets in water. Rather, the system 
+ would be one of managed trade, with institutions in 
+ place to protect against third-party effects and potential negative (related to surrounding conditions or the health of the Earth) effects that are not 
+ eliminated by the change in (rewards or reasons for doing something). Tradable water rights could lead to huge moves (from one place to another) of water to 
+ city-based  and industrial centers. Therefore, farmers need 
+ to be protected by (good) enough institutions and organizations. The Chilean Water Law of 1981 established the 
+ basic (features/ qualities/ traits) of property rights over water as 
+ a (fair in amount, related to something else/properly sized compared to something else) share over a changeable flow or amount. 
+ Changes in the portion of water within and between parts/areas are (understood/made real/achieved) through markets in tradable 
+ water rights (for details, see Gazmuri Schleyer and 
+ Rosegrant, 1996; Hearne and Easter, 1995). 
+ The (having different things working together as one unit) money-based-hydrologic river (bowl/area drained by a river) 
+ model allows for a fairly realistic representation and 
+ analysis of water markets. Water trading in the (bowl/area drained by a river) 
+ is held back by the hydrologic balance in the river 
+ (bowl/area drained by a river)  network; water is traded taking account of the 
+ physical and technical restrictions of the different demand places/locations, reflecting their relative a money-making state in 
+ trading prices; water trades reflect the relative seasonal water (not enough of something) in the (bowl/area drained by a river)  that is influenced 
+ 
+ by both (bowl/area drained by a river)  inflows and the cropping pattern in 
+ farming-based demand places/locations (whereas the M&amp;I water 
+ demands are more stable); and negative externalities, 
+ like increased salinity in downstream reaches due to 
+ (in small steps up) crop-watering/rinsing with water water withdrawals upstream, 
+ are endogenous to the model (solid basic structure on which bigger things can be built). 
+ 
+ 4.3.1. Model creation for water trading 
+ To extend the model to water trading analysis, in 
+ a first step, a shadow price - water withdrawal relationship is serious and stubborn for each demand site. For 
+ this, the model is run separately for each demand site 
+ with different water withdrawals as inputs and shadow 
+ prices or not important values as output came/coming from the 
+ water balance equations (each crop-watering/rinsing with water demand site 
+ includes a water balance equation for each of up to 15 
+ crops). These shadow prices are then averaged over all 
+ crops to get one shadow price for each water supply level for each demand site. Based on these input 
+ and output values a moving backward function is guessed 
+ for the shadow price- water withdrawal relationship 
+ for each demand site. Fig. 4 shows the model results 
+ and the moving backward relationship between shadow price 
+ and water withdrawals for an farming-based demand site. 
+ Water rights are set apart and given out (fair in amount, related to something else/properly sized compared to something else)ly to total inflows based on historical withdrawals for M&amp;I areas 
+ and on the collected (watered) area for farming-based 
+ demand places/locations. So, with reduced inflows, the (understood/made real/achieved) 
+ books/large amounts of the water rights change without changes in 
+ the rights structure. The water right refers to surface 
+ water only. To decide/figure out the lower bound for (money made/good things received) 
+ from water trade by demand site (it is assumed that 
+ no demand site can lose from trading), the model is 
+ solved for the case of water rights without trading. 
+ Finally, the moving backward relationships of shadow price 
+ 0.6 
+ - 0.5 
+ "E 
+ 
+ &#126; 
+ 2. 
+ 
+ 0.4 
+ 
+ 8 
+ 
+ 0.3 
+ 
+ &#126; 
+ 
+ 0.2 
+ 
+ 'Â§. 
+ &#126; 
+ 
+ U) 
+ 
+ \ 
+ 
+ y = o.u465eÂ· Â· 
+ R 2 = 0.9641 
+ 
+ \l 
+ \\ 
+ 
+ &#126; 
+ 
+ &#126; 
+ 
+ 0.1 
+ 
+ &#126; 
+ 
+ 0.0 
+ 200 
+ 
+ 400 
+ 
+ GOO 
+ 
+ BOO 
+ 
+ 1,000 
+ 
+ water withdrawals million{ m3 ) 
+ 
+ Fig. 4. Relationship between shadow prices and water withdrawals 
+ (demand site AS). 
+ 
+ M. W Rosegrant et al. I Farming-based Money flow 24 (2000) 33-46 
+ 
+ against/compared to/or water withdrawal for all farming-based and M&amp;I 
+ demand places/locations, the water rights, and other water trading related restrictions (see Rosegrant et a!., 1999) are 
+ added to the (bowl/area drained by a river)  model. It is assumed that the trading price for each demand site is equal to its shadow 
+ price for water. This model is then solved to decide/figure out 
+ the water trading price, wtp, and the amount/quantity of water 
+ bought and sold by demand site. 
+ Trade is allowed on a monthly basis and throughout the (bowl/area drained by a river)  and TC are got/caused by both buyer and 
+ seller (US$_$ 0.04 per m 3 ). Up to 4 months of the (understood/made real/achieved) monthly water right can be traded as the monthly 
+ balances had been found as too tight of a restriction 
+ on water supply for crop growth. 
+ 
+ 43 
+ 
+ decision-maker improving benefits for the whole 
+ (bowl/area drained by a river) (BO); water rights with no trading permitted 
+ (WR), and water rights with trading (WRT). The 
+ salinity (number or thing that changes) is fixed for all three water trading 
+ pictures/situations. The results compare two cases for each of 
+ these three pictures/situations: hydrologic level at 100% of 
+ the (usual/ commonly and regular/ healthy) inflow and at 60% of the (usual/ commonly and regular/ healthy) inflow 
+ (Table 5). Also, three TC pictures/situations are carefully studied 
+ based on (usual/ commonly and regular/ healthy) inflow (Table 6). The description of 
+ results will (focus mental and physical effort) on the drought-year picture/situation 
+ (case B, 60% of (usual/ commonly and regular/ healthy) inflow), as the benefits change/differ 
+ more clearly by money-based tool employed. 
+ In the case of a drought year, total water withdrawals 
+ are highest for the (bowl/area drained by a river)  improving case (BO), as each 
+ and every demand site can withdraw according to its 
+ monthly needs subject to an best result for the 
+ (bowl/area drained by a river)  as a whole. These needs are this way only confined 
+ by physical limits/guidelines, such as relative location in 
+ 
+ 4.3.2. Water trading analysis 
+ Three pictures/situations are compared to test the hit/effect of water trading: a (a measure of what occurs naturally/sports boundary line) with all-knowing 
+ 
+ Table 5 
+ Picture/situation analysis: basin-improving solution, water rights without trade, and water rights trading 
+ Site 
+ 
+ Withdrawals 
+ BO 
+ WR 
+ (million m3 ) 
+ 
+ WRT" 
+ 
+ Water right 
+ 
+ Net trade 
+ 
+ Net (money made/good things received) 
+ 
+ WR&amp;WRT 
+ 
+ WRT 
+ 
+ BO 
+ WR 
+ (million US$_$) 
+ 
+ WRT 
+ 
+ 120 
+ 46 
+ 47 
+ 2 
+ 65 
+ 9 
+ 2 
+ 37 
+ 417 
+ 193 
+ 939 
+ 
+ 117 
+ 45 
+ 49 
+ 2 
+ 67 
+ 8 
+ 2 
+ 31 
+ 293 
+ 135 
+ 749 
+ 
+ 118 
+ 45 
+ 52 
+ 3 
+ 
+ 95 
+ 40 
+ 41 
+ 1 
+ 56 
+ 8 
+ 
+ 89 
+ 36 
+ 41 
+ I 
+ 55 
+ 7 
+ 
+ 27 
+ 413 
+ 192 
+ 874 
+ 
+ 23 
+ 102 
+ 34 
+ 389 
+ 
+ Case A: 100% of (usual/ commonly and regular/ healthy) inflow 
+ AI 
+ 610 
+ 617 
+ 696 
+ A2 
+ 266 
+ 243 
+ 234 
+ A3 
+ 371 
+ 391 
+ 349 
+ A4 
+ 16 
+ 15 
+ 14 
+ AS 
+ 506 
+ 502 
+ 444 
+ A6 
+ 54 
+ 46 
+ 45 
+ A7 
+ 15 
+ 17 
+ 14 
+ A8 
+ 206 
+ 154 
+ 153 
+ Ml 
+ 991 
+ 678 
+ 841 
+ M2 
+ 460 
+ 315 
+ 404 
+ Total 
+ 3581 
+ 2977 
+ 3108 
+ 
+ 867 
+ 341 
+ 547 
+ 21 
+ 704 
+ 64 
+ 25 
+ 216 
+ 678 
+ 315 
+ 3778 
+ 
+ -163 
+ -90 
+ 0 
+ 
+ Case B: 60% of (usual/ commonly and regular/ healthy) inflow 
+ AI 
+ 514 
+ 479 
+ 432 
+ A2 
+ 222 
+ 188 
+ 166 
+ A3 
+ 305 
+ 279 
+ 303 
+ A4 
+ 7 
+ II 
+ 10 
+ AS 
+ 395 
+ 391 
+ 350 
+ A6 
+ 43 
+ 34 
+ 33 
+ A7 
+ II 
+ II 
+ II 
+ 120 
+ A8 
+ 142 
+ 102 
+ Ml 
+ 974 
+ 518 
+ 713 
+ 240 
+ M2 
+ 453 
+ 342 
+ Total 
+ 3067 
+ 2296 
+ 2437 
+ 
+ 522 
+ 205 
+ 329 
+ 13 
+ 423 
+ 38 
+ 15 
+ 130 
+ 408 
+ 189 
+ 2272 
+ 
+ 47 
+ 90 
+ 23 
+ 2 
+ 112 
+ 2 
+ 2 
+ 18 
+ -195 
+ -101 
+ 0 
+ 
+ a 
+ 
+ These withdrawals are net of water traded. 
+ are gains from trade. 
+ 
+ b Gains 
+ 
+ 13 
+ 8 
+ 70 
+ 3 
+ 147 
+ I 
+ 
+ 10 
+ 
+ 71 
+ 
+ 8 
+ 2 
+ 31 
+ 353 
+ 166 
+ 850 
+ 99 
+ 52 
+ 43 
+ 2 
+ 70 
+ 7 
+ 2 
+ 25 
+ 266 
+ 129 
+ 696 
+ 
+ 'Gains'b 
+ 
+ Shadow price of water 
+ 
+ WRT 
+ 
+ BO 
+ WR 
+ (US$/m 3 ) 
+ 
+ WRT 
+ 
+ 0.044 
+ 0.044 
+ 0.046 
+ 0.045 
+ 0.051 
+ 0.045 
+ 0.072 
+ 0.044 
+ 0.019 
+ 0.019 
+ 
+ 0.128 
+ 0.111 
+ 0.075 
+ 0.083 
+ 0.091 
+ 0.134 
+ 0.040 
+ 0.189 
+ 0.975 
+ 1.014 
+ 
+ 0.132 
+ 0.123 
+ 0.119 
+ 0.111 
+ 0.138 
+ 0.147 
+ 0.099 
+ 0.177 
+ 0.415 
+ 0.383 
+ 
+ 0.097 
+ 0.102 
+ 0.078 
+ 0.096 
+ 0.110 
+ 0.077 
+ 0.127 
+ 0.098 
+ 0.056 
+ 0.056 
+ 
+ 0.134 
+ 0.230 
+ 0.168 
+ 0.100 
+ 0.111 
+ 0.225 
+ 0.059 
+ 0.259 
+ 1.439 
+ 1.720 
+ 
+ 0.232 
+ 0.221 
+ 0.194 
+ 0.195 
+ 0.192 
+ 0.224 
+ 0.146 
+ 0.259 
+ 0.789 
+ 0.735 
+ 
+ 2 
+ 0 
+ 5 
+ 0 
+ 1 
+ 0 
+ 60 
+ 32 
+ 101 
+ 10 
+ 17 
+ 3 
+ 16 
+ I 
+ 
+ 2 
+ 164 
+ 94 
+ 307 
+ 
+ 44 
+ 
+ M. W Rosegrant et al. I Farming-based Money flow 24 (2000) 33-46 
+ 
+ Table 6 
+ Transaction cost pictures/situations (case A) 
+ Transaction 
+ costs (US$/m3 ) 
+ 
+ Withdrawals 
+ (million m 3 ) 
+ 
+ Water traded 
+ (million m3 ) 
+ 
+ Total net benefits 
+ (million US$_$) 
+ 
+ 'Gains' from trade 
+ (million US$_$) 
+ 
+ Shadow price 
+ (US$/m 3 ) 
+ 
+ 0.00 
+ 0.04 
+ 0.10 
+ 0.20 
+ 
+ 3119 
+ 3108 
+ 3075 
+ 3051 
+ 
+ 278 
+ 264 
+ 236 
+ 138 
+ 
+ 871 
+ 850 
+ 822 
+ 755 
+ 
+ 122 
+ 101 
+ 73 
+ 6 
+ 
+ 0.1808 
+ 0.1844 
+ 0.4127 
+ 1.2680 
+ 
+ the (bowl/area drained by a river)  and institutional needed things. Water withdrawals decline (in a big way) in the WR case, relative 
+ to BO, when withdrawals are limited to the (pertaining to each person or thing) 
+ water right and trading is not allowed. Farming-based 
+ withdrawals are often actually below the actual water 
+ right, because dry-season flows are not enough to satisfy all crop water needed things. Another reason is that, 
+ in about half of the months, only repeating crops are 
+ grown, and so withdrawals are far below the given out/set aside 
+ flow. 
+ When water can be traded, crop-watering/rinsing with water withdrawals 
+ actually (lower in number/get worse) further, although not very much. Crop-watering/rinsing with water withdrawals decline because the crop-watering/rinsing with water 
+ districts sell part of their water right to the M&amp;I demand places/locations, by that/in that way collecting big (money made/good things received). In the 
+ dry-year case, a total water volume of 296 million m 3 
+ is traded, about 11% of total dry-year inflows. In the 
+ case of (usual/ commonly and regular/ healthy) inflows, 264 million m3 of water is 
+ traded, about 6% of total inflow. M&amp;I areas are the 
+ main buyers in both cases, buying almost all the 
+ water offered by the crop-watering/rinsing with water districts. All crop-watering/rinsing with water 
+ districts are net sellers of water over the course of 
+ the year. Under the drought-year case, only district 
+ AS (instances of buying things for money) 0.2 million m 3 of water to maintain its 
+ cropping pattern that features the largest share of 
+ higher-valued, repeating crops (grapes, peach, among 
+ others, see Table 2). In the case of (usual/ commonly and regular/ healthy) inflows, on 
+ the other hand, the not important value of water is much 
+ lower, and two farming-based demand places/locations, A6 and AS, 
+ purchase water (0.2 million m 3 and 1O.S million m 3 , 
+ (match up each pair of items in order)) to add to their crop production in 
+ some months; however, overall both districts are net 
+ sellers of water. 
+ As the WR system does not allow the move (from one place to another) of 
+ water to more helpful uses, benefits from water 
+ uses are reduced (a lot) by locking the useful thing/valuable supply 
+ into (compared to other things) low valued uses during shortages. As 
+ 
+ a result, total net benefits are less than one-half of 
+ the improving solution (US$_$ 3S9 million compared 
+ with US$_$ S74 million). By permitting trading, water moves from less productive farming-based uses into 
+ higher-valued city-based  water uses while at the same 
+ time benefiting farm incomes. Total benefits in the 
+ M&amp;I demand places/locations almost triple, compared to the WR 
+ case, but gains are also significant for the crop-watering/rinsing with water 
+ districts and each district can increase net (money made/good things received), by 
+ between 6 and 62%, depending on their (pertaining to each person or thing) 
+ physical and other (features/ qualities/ traits). Total net (money made/good things received) of 
+ the part/area increase by about 20%, from US$_$ 253 million to US$_$ 301 million. In crop-watering/rinsing with water districts Al-AS 
+ and A7, total net (money made/good things received) under the WRT picture/situation are 
+ even higher than for the basin-improving case. This 
+ is due to the higher value of the more rare water and 
+ the resulting benefits from trade and does not happen 
+ in case A with (usual/ commonly and regular/ healthy) inflow levels. 
+ More than that, net (money made/good things received) from crop production decline 
+ only (a) little with trading: from US$_$ 253 million to 
+ US$_$ 244 million. Total crop production also barely 
+ declines, from l.S66 million mt to 1.729 million mt. 
+ Also, the proportion of higher-value repeating crops increases a lot from the WR to 
+ the WRT pictures/situations, from 14 to 19% for grapes and 
+ from 13 to 16% for peach, for example. These results 
+ not only show the advantages of the water market 
+ approach compared to the WR case, but also to the 
+ (related to managing and running a company or organization) price picture/situation presented in the sensitivity analysis, in which water is also (gave/given out things in a different way) from 
+ farming-based to non-farming-based uses, but at a punishment-based 
+ cost to farming-based incomes. 
+ In the move/change from fixed (fair in amount, related to something else/properly sized compared to something else) water rights to 
+ trade, total benefits to the (bowl/area drained by a river)  increase from 45% of 
+ the all-knowing decision-maker (BO picture/situation) to SO%. 
+ However, total benefits under water trading are actually even closer to the total/totally/with nothing else mixed in best than shown here, 
+ 
+ M. W Rosegrant et a/. I Farming-based Money flow 24 (2000) 33-46 
+ 
+ because no watching/transaction costs are charged 
+ for the all-knowing decision-maker when in fact the 
+ cost would likely be very high. 
+ For the water trading picture/situation, it is now assumed that both buyer and seller add/give equally to 
+ TC (US$_$ 0.04perm3 ). Three TC pictures/situations were run 
+ in addition to this base trading picture/situation: zero TC, US$_$ 
+ 0.1 per m3 , and US$_$ 0.2 per m3 . The results are shown 
+ in Table 6. As can be expected, water withdrawals 
+ decline with increasing TC, and the amount/quantity of water 
+ traded steep drops by more than half, from 278 million m3 
+ for the case without TC to 138 million m3 for the 
+ case with TC of US$_$ 0.2 per m3 . This is due, in part, 
+ to the fact that the TC are quite high relative to the 
+ shadow prices for water, which range from US$_$ 0.18 
+ to 1.27 per m3 . Total net benefits decline (in a big way), 
+ from US$_$ 871 million at zero TC to US$_$ 755 million 
+ at TC of US$_$ 0.2 per m3 ; gains from trade also drop 
+ sharply, from US$_$ 122 million to only US$_$ 6 million, 
+ (match up each pair of items in order). So, making trading (producing more with less waste) (reducing TC) has significant benefits, increasing both 
+ the volume and the benefits from trade. 
+ 
+ 45 
+ 
+ Although these early/incomplete results show the effectiveness of the model for policy analysis and water 
+ portion in the river (bowl/area drained by a river), added/more research is 
+ needed. During a second research phase, the farming-based production functions will be extended to include 
+ inputs in addition to land, water, and crop-watering/rinsing with water technology, such as farming-based chemicals and labor. In 
+ addition, the city-based  water demand functions will be 
+ re-guessed based on scientific data and disaggregated into household and industrial water demands. 
+ More than that, the power generation will be adjusted 
+ to local limits/guidelines. Based on this extension, more 
+ complete policy analysis will be carried out. 
+ Existing institutions (related to/looking at/thinking about) water rights, priority 
+ portions, and added/more institutional realities will 
+ be better represented based on local data. Finally, direct cooperation will be established with the (connected/related) 
+ government people in charge and water user associations in 
+ the (bowl/area drained by a river), with the goal of (putting into a hospital)/(making a behavior acceptable) the model 
+ as a decision support system for (bowl/area drained by a river)  water policy. 
+ 
+ Responses 
+ 5. Ends/end results 
+ This paper presents a early model-related river (bowl/area drained by a river)  model 
+ that includes very important hydrologic, (related to scientific farming) and 
+ money-based relationships, and reflects the relationships of water and salinity, food production, 
+ money-based welfare, and (related to surrounding conditions or the health of the Earth) results. 
+ The model is applied to the Maipo river (bowl/area drained by a river)  in 
+ Chile, but due to its not brand-name form and structure can 
+ be applied to other (bowls/areas drained by a river). 
+ The model results show the benefits of water rights 
+ trading with water moving into higher valued farming-based (and M&amp;l) uses. Net (money made/good things received) in watered farm-related increase a lot compared to the case of 
+ (fair in amount, related to something else/properly sized compared to something else) use rights for demand places/locations. More than that, 
+ farming-based production does not (lower in number/get worse) significantly. 
+ Net benefits for crop-watering/rinsing with water districts can be even higher 
+ than for the basin-improving case, as farmers collect 
+ big benefits from selling their unused water 
+ rights to M&amp;l areas during the months with little or 
+ no crop production. Finally, making trading (producing more with less waste), that is, reducing transaction costs, has significant benefits, increasing both the amount of trading 
+ and the benefits from trade. 
+ 
+ Senior authorship is shared. Generous support has 
+ been received from the Inter-American Development 
+ Bank, the USAID-CGIAR University Partnership 
+ Money, and the System-Wide Effort on Water 
+ Management (SWIM) of the International Water 
+ Management Institute. 
+ 
+ References 
+ Anton, D.J., 1993. Thirsty cities: city-based  (surrounding conditions) and water 
+ supply in Latin America. International Development Research 
+ Centre, Ottawa, Ontario. 
+ Bolelli, M.J., 1997. EMOS y su relaci6n con Ia cuenca: Demanda 
+ de recursos hidricos y manejo de aguas servidas. In: Anguita, 
+ P., Floto, E. (Eds.), Gesti6n del recurso hidrico, (series of events) 
+ of the International Workshop organized by the DGA and the 
+ Direcci6n de Riego of the Ministerio de Obras Publicas and 
+ the FAO, 2-5 December 1996, Santiago de Chile. 
+ Brooke, A., Kendrick, D., Meeraus, A., 1988. GAMS: A User's 
+ Guide. Scientific Press, San Francisco, California. 
+ Cai, X., 1999. A modeling (solid basic structure on which bigger things can be built) for (able to last/helping the planet) water 
+ useful things/valuable supplies management, Ph.D. Speech/story, The University of 
+ Texas, Austin. 
+ Court Moock, L., Baeza Sommers, H., Gomez Diaz, R., 1979. 
+ (process by which something becomes stronger or worse) of water use from the Maipo river, Chile. In: 
+ 
+ 46 
+ 
+ M. W Rosegrant et al. I Farming-based Money flow 24 (2000) 33-46 
+ 
+ UN/ECLAC (Ed.), Water management and (surrounding conditions) in Latin 
+ America. Pergamon Press, New York. 
+ Dinar, A., Letey, J., 1996. Modeling money-based management and 
+ policy issues of water in watered farming. Praeger, Westport, 
+ Connecticut. 
+ Dinar, A., Hatchett, S.A., Loehman, E.T., 1991. Modeling (related to a large area) 
+ i1rigation decisions and drainage pollution control. Natural 
+ Resour. Model. 5, 191-211. 
+ Donoso, G., 1997. Data collection to operationalize a early model-related 
+ river (bowl/area drained by a river)  model of water portion: Maipo-Mapocho (bowl/area drained by a river). 
+ Mimeo. 
+ Doorenbos, J., Kassam, A.H., 1979. Yield response to water. FAO 
+ Crop-watering/rinsing with water and Drainage Paper No. 33. FAO, Rome. 
+ Gardner, B.D., 1983. Water pricing and rent looking (for) in California 
+ farming. In: Anderson, T.L. (Ed.), Water Rights, Rare/not enough 
+ Useful thing/valuable supply Portion, Slow-working department, and the (surrounding conditions). 
+ Ballinger, Cambridge, MA. 
+ Gazmuri Schleyer, R., Rosegrant, M.W., 1996. Chilean water 
+ policy: the role of water rights, institutions and markets. Int. J. 
+ Water Resour. Develop. 12, 33-48. 
+ Hearne, R.R., 1998. Institutional and organizational arrangements 
+ for water markets in Chile. In: Easter, K.W., Rosegrant, M.W., 
+ Dinar, A. (Eds.), Markets for Water: (possible greatness or power) and Performance. 
+ Kluwer School-related Publishers, Boston. 
+ Hearne, R.R., Easter, K.W., 1995. Water portion and water 
+ markets: an analysis of gains-from-trade in Chile. World Bank 
+ Technical Paper No. 315, Washington, DC, World Bank. 
+ 
+ Letey, J., Dinar, A., 1986. (like the real thing) crop-water production 
+ functions for a few crops when watered with salty waters. 
+ Hilgardia 54, 1-32. 
+ McKinney, D.C., Cai, X., 1997. Multiobjective water 
+ useful things/valuable supplies portion model for the Naryn-Syrdarya Waterfall. 
+ Technical Report. US (service business/government unit/power/functioning) for International Development, 
+ (related to surrounding conditions or the health of the Earth) Policies and Technology (EPT) Project, Almaty, 
+ Kazakstan. 
+ Michelsen, A.M., Young, R:A., 1993. Optioning farming-based water 
+ rights for city-based  water supplies during drought. Am. J. Agri. 
+ Econ. 75, 1010-1020. 
+ Randall, A., 1981. Property (government money) and pricing policies for 
+ a maturing water (process of people making, selling, and buying things). Austr. J. Agri. Econ. 25, 192220. 
+ Rosegrant, M.W., eta!. 1999. Report for the IDB on the integrated 
+ money-based-hydrologic water modeling at the (bowl/area drained by a river)  scale: the 
+ Maipo river (bowl/area drained by a river)  in Chile. IFPRI, Washington DC. 
+ Rosegrant, M.W., 1997. Water supplies in the twenty-first century: 
+ challenges and effects/results/suggestions for action. Food, Farming, and 
+ the (surrounding conditions) Discussion Paper No. 20. IFPRI, Washington, 
+ DC. 
+ Rosegrant, M.W., Gazmuri Schleyer, R., Yadav, S., 1995. Water 
+ policy for (producing a lot with very little waste) farming-based (getting involved with different types of things; not sticking with only one thing): market-based 
+ approaches. Food Policy 18, 203-223. 
+ Rosegrant, M.W., Binswanger, H.P., 1994. Markets .in tradable 
+ water rights: (possibility of/possible happening of)  (wasting very little while working or producing something) gains in developing country 
+ water useful thing/valuable supply portion. World Develop. 22, 1613-1625. 
+ 
+ <div style="clear:both">&nbsp;</div>

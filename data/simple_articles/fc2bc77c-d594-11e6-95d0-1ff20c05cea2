@@ -1,0 +1,654 @@
+MEASURING MARKET INTEGRATION IN THE PRESENCE OF 
+ TRANSACTION COSTS - A THRESHOLD VECTOR ERROR 
+ CORRECTION APPROACH 
+ Jochen Meyer1 
+ Department of Farming-based Money flow, GÃ¶ttingen, Germany 
+ E-mail: mail@jochenmeyer.de 
+ ABSTRACT 
+ Applied econometric analyses of market (combination of different things together that work as one unit) based on price data alone have been criticised, because 
+ they neglect the role of transaction costs. To meet this objection dividing line vector error correction models are 
+ used. Dividing line models can account for the effects of transaction costs in price transmission without directly 
+ relying upon information about these costs, which are often unavailable. Results from dividing line models that 
+ are based on two dividing lines provide results that are (money-based)/cheaply more (intelligent/obvious) than those received/got from 
+ one dividing line models. However there is no (good) enough econometric test for dividing line importance in a twothreshold model available so far; such tests are only available for the one dividing line model. In this paper a 
+ restricted two-dividing line model is developed in which the importance of the dividing lines can be tested. This 
+ model is therefore agreeable to money-based (understanding/ explanation) and (related to studying numbers) guessing. This model is used to 
+ guess market (combination of different things together that work as one unit) on the (related to Europe) pig market. 
+ JEL classification codes: C32, F15 
+ Keywords: Market integration, price transmission, transaction cost, dividing line model 
+ INTRODUCTION 
+ Econometric analyses of market (combination of different things together that work as one unit) are becoming more and more popular. Farmers as well as 
+ farming-based money-flow experts are interested to what extent price shocks are transmitted between markets. For 
+ example, German pig producers use the valuable thing exchange AEX in Amsterdam for hedging the price risk, 
+ assuming that German and Dutch markets are highly (having different things working together as one unit). Money-flow experts often use market (combination of different things together that work as one unit), 
+ defined as the degree of price transmission between two either (up and down) or (related to space or existing in space)ly related markets, as a 
+ substitute for market (wasting very little while working or producing something). To answer questions about market (combination of different things together that work as one unit), (good) enough scientific methods are 
+ necessary. Especially over the last few years, these methods have improved much. Anyway there is still 
+ no brought together (as one) approach to test market integration2. Recent studies that depend on price data alone have been 
+ criticised by Barrett for their neglecting of transaction costs (Barrett 2001; Barrett &amp; Li 2002). Due to 
+ commonly unavailable information on transaction costs, we therefore propose an approach of measuring 
+ market (combination of different things together that work as one unit) based on price data alone but also (thinking about/when one thinks about) effects of transaction costs. Unlike most 
+ studies that analyse price (change to make better/related to changing something) between up-and-down related stages of the marketing chain we focus on 
+ (related to space or existing in space) market (combination of different things together that work as one unit). Because of this our analysis is related to the books on the "Law of one price" (Lo &amp; 
+ Zivot 2001; Obstfeld &amp; Taylor 1997). To number the price (change to make better/related to changing something) we use the (solid basic structure on which bigger things can be built) of a vector 
+ error correction model (VECM). As an extension and invention of new things we also take testable dividing line effects into 
+ account. To illustrate this approach we analyse market (combination of different things together that work as one unit) between pig markets in Germany and the 
+ Netherlands. 
+ In the following section of the paper we describe the scientific method. In section 3 the results of our 
+ scientific application to German/Dutch pork markets are presented. In section 4 ends/end results are drawn and 
+ suggestions for further research are given. 
+ 
+ 1 
+ 
+ Jochen Meyer is Ph.D. student at the Department of Farming-based Money flow, Georg-August University of GÃ¶ttingen, 
+ Germany, Platz der GÃ¶ttinger Sieben, 5, 37073 GÃ¶ttingen 
+ 2 
+ See Meyer &amp; v.Cramon-Taubadel (2002) for an summary. 
+ (series of events) of the 25th International Conference of Farming-based Money-flow experts (IAAE) 
+ ISBN Number: 0-958-46098-1 
+ (series of events) produced by: Document Change Technologies 
+ 1109 
+ 
+ 16 - 22 August 2003 
+ Durban, South Africa 
+ Conference Organised by: Event Patterns 
+ 
+ THRESHOLD VECTOR ERROR CORRECTION MODEL 
+ Price series of farming-based valuable things are often non-unmoving. Therefore guessing price (change to make better/related to changing something) as 
+ the hit/effect of a change in one price on another price should be based on appropriate methods which allow for 
+ non-unmoving (numbers that change/things that change). In market (combination of different things together that work as one unit) models, the error correction model (ECM) (detailed description of exactly what is required) has 
+ gained (quality of being liked a lot or done a lot) because of its obviously appealing (understanding/ explanation). For example, v. Cramon-Taubadel 
+ (1998) analyses up-and-down price transmission between farm gate and wholesale pig prices in Germany using an 
+ ECM. To incorporate also produces of transaction costs into models of price transmission, dividing line error 
+ correction models (TECM) have been developed. Based on work by Balke and Fomby (1997) many studies 
+ have been done/tried so far. Obstfeld and Taylor (1997) for example analyse the "Law of one Price" within 
+ such (solid basic structure on which bigger things can be built). Goodwin and Piggott use a dividing line error correction model to number (related to space or existing in space) integration 
+ in US corn and soybeans markets (Goodwin &amp; Piggott 2001). Ben-Kaabia, Gil et al. (2002) estimate price 
+ transmission between (up and down) related stages of the Spanish lamb market using a dividing line model. In the 
+ following we describe the idea  of our analysis dealing with (problems, delays, etc.) (related to/looking at/thinking about) the money-based 
+ (understanding/ explanation) of the (change to make better/related to changing something) process and the econometric testability of dividing line limits/guidelines. These issues 
+ have been often ignored in the books. 
+ On (related to space or existing in space)ly (having different things working together as one unit) markets such as Germany and the Netherlands, where it is not (based on what's seen or what seems obvious) clear which 
+ price causes the other, the use of an vector error correction model (VECM) is appropriate. A (detailed description of exactly what is required) of 
+ a VECM is given is the following equation: 
+ 
+ ï£® aptNL ï£¹ ï£®Î±1 ï£¹ k ï£® Î² iNL, NL 
+ ï£¯ GER ï£º = ï£¯ ï£º + a' ï£¯ GER , NL 
+ ï£° apt ï£» ï£°Î± 2 ï£» i =1 ï£° Î² i 
+ 
+ ï£® Îµ tNL ï£¹ 
+ ï£® Ï NL ï£¹ 
+ Î² iNL,GER ï£¹ ï£® aptNL 
+ a'i ï£¹ 
+ ECT 
+ + 
+ + 
+ [_( 
+ ]_) 
+ t a'1 
+ ï£ºï£¯ 
+ ï£º ï£¯ GER ï£º 
+ ï£¯ GER ï£º 
+ Î² iGER ,GER ï£» ï£° aptGER 
+ ï£°Ï ï£» 
+ a'i ï£» 
+ ï£°Îµ t ï£» 
+ 
+ (1) 
+ 
+ with ap t = p t a' p t a'1 . Here changes in the Dutch as well as changes in the German pig price are 
+ (at the same time) explained by constant terms ( Î±1, 2 ), fell behind (for only a short time) reactions to previous changes in the 
+ Dutch and the German pig price ( ap t a'i ) and by mistakes from the long-term balance represented ECT. 
+ If a VECM such as (1) is used to guess price (change to make better/related to changing something) one understood idea (you think is true) has to be noted. 
+ (change to make better/related to changing something) of prices caused by mistakes from the long-term balance (ECT) are assumed to be 
+ continuous and a linear function of the importance of the moving away from long-term balance. So even very 
+ small mistakes from the long-term balance will always lead to an (change to make better/related to changing something) process on each market.3 
+ This idea (you think is true) might lead to a (created unfair thinking in)/(unfair-thinking) result, because it ignores the hit/effect of transaction costs. In (related to space or existing in space) 
+ markets, transportation costs will limit the transmission of price shocks below a critical level because 
+ possible gains from trade cannot outweigh these costs and because of this a perfect price (change to make better/related to changing something) will not happen.4 
+ Therefore in the case of significant transaction costs (change to make better/related to changing something) to the long-term balance should not be 
+ continuous. 
+ Taking these effects/results/suggestions of transaction costs into the process of carefully thinking about something provides a reason for the use of 
+ models with price (change to make better/related to changing something) including dividing lines, with the error-correction term (ECT) as the dividing line 
+ (number or thing that changes).5 Within such models, the extent to which mistakes from balance are responsible for a price 
+ (change to make better/related to changing something) depends on the importance of these mistakes. The price (change to make better/related to changing something) process may be different if 
+ mistakes are above or below a clearly stated/particular dividing line. 
+ In figure 1, price (change to make better/related to changing something) ( ap t ), as a function of mistakes from the long-term balance (ECT), is 
+ represented by a) a linear error-correction model (ECM), b) a one dividing line error-correction model (TECM) 
+ and c) a two dividing line error-correction model (TECM). Because of its (interrupted/not touching) nature the TECM is 
+ often labelled as "non-linear". 
+ 
+ 3 
+ 
+ Assuming that Ï is different from zero, which is a necessary condition for cointegration and the existence of a long-term 
+ balance. 
+ 4 
+ Heckscher first pointed out this argument (Heckscher 1916). 
+ 5 
+ Dividing line models have been introduced by Tong (1978). 
+ 1110 
+ 
+ ap t 
+ TECM 
+ (two dividing lines) 
+ 
+ ECM 
+ 
+ c1 
+ 
+ c0 
+ 
+ c2 
+ 
+ ECTta'1 
+ TECM 
+ (one dividing line) 
+ 
+ Figure 1. Hit/effect of the error correction term on the price (change to make better/related to changing something). 
+ Based on the number of dividing lines (c) the model contains c+1 different governments of price (change to make better/related to changing something). Studies 
+ on price transmission using dividing line error correction models have either used one dividing line (c0) to separate 
+ the (change to make better/related to changing something) process into two governments (Balke &amp; Fomby 1997; Enders &amp; Granger 1998; Abdulai 2002; 
+ Ben-Kaabia, Gil et al. 2002) or two dividing lines (c1 and c2) to separate the (change to make better/related to changing something) process into three 
+ governments6 (Obstfeld &amp; Taylor 1997; Goodwin &amp; Piggott 2001; Serra &amp; Goodwin 2002). We suggest that a 
+ price (change to make better/related to changing something) model with three governments separated by two dividing lines7 can make more money-based sense than 
+ a two-government model with only one dividing line. The band between the two dividing lines, which are below and 
+ above the long-term balance, can be understood/explained as those mistakes from the long-term balance 
+ which are, compared to (change to make better/related to changing something) costs, so small that they will not lead to a long-term (change to make better/related to changing something) process 
+ of related prices. Results from a TECM with only one dividing line cannot be understood/explained in such an obviously 
+ appealing way. 
+ The advantage of easy understand/explainable results from a two-dividing line error correction model is unfortunately 
+ weakened by the fact that so far no (good) enough econometric test for the importance of two dividing lines has been 
+ developed (Hansen &amp; Seo 2001). To overcome this problem, we use a version of a one dividing line vector error 
+ correction model (TVECM) proposed by Hansen and Seo (2001): 
+ 
+ Government 1 
+ ï£® aptNL ï£¹ ï£®Î±1 ï£¹ k ï£® Î² iNL, NL 
+ ï£¯ GER ï£º = ï£¯ ï£º + a' ï£¯ GER , NL 
+ ï£° apt ï£» ï£°Î± 2 ï£» i =1 ï£° Î² i 
+ Government 2 
+ 
+ ï£® Ï1NL ï£¹ 
+ ï£®Îµ ï£¹ 
+ Î²iNL,GER ï£¹ ï£® aptNL 
+ a'i ï£¹ 
+ + ï£¯ GER ï£º [_( ECTt a'1 ]_) + ï£¯ t ï£º if ECTt a'1 a¤ Î³ 
+ GER ,GER ï£º ï£¯ 
+ GER ï£º 
+ Î²i 
+ ï£» ï£° apt a'i ï£» ï£°Ï1 ï£» 
+ ï£°Îµ t ï£» 
+ 
+ (2) 
+ 
+ ï£® aptNL ï£¹ ï£®Î± 3 ï£¹ k ï£® Î´ iNL, NL Î´ iNL,GER ï£¹ ï£® aptNL 
+ ï£®Âµ ï£¹ 
+ ï£® Ï2NL ï£¹ 
+ a'i ï£¹ 
+ = 
+ + 
+ + 
+ [_( ECTt a'1 ]_) + ï£¯ t ï£º if ECTt a'1 &amp;gt; Î³ 
+ ï£¯ GER ï£º ï£¯ ï£º a' ï£¯ GER , NL 
+ ï£¯ 
+ GER ,GER ï£º ï£¯ 
+ GER ï£º 
+ GER ï£º 
+ Î´i 
+ ï£° apt ï£» ï£°Î± 4 ï£» i =1 ï£°Î´ i 
+ ï£» ï£° apt a'i ï£» ï£°Ï2 ï£» 
+ ï£° Âµt ï£» 
+ Like the VECM (1) this one dividing line model explains the price changes by (for only a short time) as well as long-term 
+ (change to make better/related to changing something), but also (may or may not happen, depending on something) on the moving away from the long-term balance. If the moving away from the 
+ long-term balance is greater than the dividing line Î³, the price transmission process is defined by a different 
+ government (government 2) than in the case of smaller mistakes from the long-term balance (government 1). 
+ 
+ 6 
+ 7 
+ 
+ Price (change to make better/related to changing something) defined by those long-term mistakes between c1 and c2 must not necessarily equal to zero. 
+ One above the long-term balance level and the other below the long-term balance level. 
+ 1111 
+ 
+ As a version and in the line with approaches by Balke and Fomby we propose the following (detailed description of exactly what is required) of a 
+ TVECM (3): 
+ 
+ Government 1 
+ ï£® aptNL ï£¹ ï£®Î±1 ï£¹ k ï£® Î² iNL, NL 
+ ï£¯ GER ï£º = ï£¯ ï£º + a' ï£¯ GER , NL 
+ ï£° apt ï£» ï£°Î± 2 ï£» i =1 ï£° Î² i 
+ Government 2 
+ 
+ ï£® Ï1NL ï£¹ 
+ ï£®Îµ t ï£¹ 
+ Î² iNL ,GER ï£¹ ï£® aptNL 
+ a'i ï£¹ 
+ + 
+ ï£¯ GER ï£º [_( ECTt a'1 ]_) + ï£¯ ï£º if ECTt a'1 a¤ Î³ 
+ GER ,GER ï£º ï£¯ 
+ GER ï£º 
+ Î²i 
+ ï£» ï£° apt a'i ï£» ï£°Ï1 ï£» 
+ ï£°Îµ t ï£» 
+ 
+ ï£® aptNL ï£¹ ï£®Î± 3 ï£¹ k ï£® Î´ iNL, NL Î´ iNL,GER ï£¹ ï£® aptNL 
+ ï£® Âµt ï£¹ 
+ ï£® Ï2NL ï£¹ 
+ a'i ï£¹ 
+ = 
+ + 
+ + 
+ ï£¯ GER ï£º ï£¯Î± ï£º a' ï£¯ GER , NL 
+ ï£¯ GER ï£º [_( ECTt a'1 ]_) + ï£¯ ï£º if ECTt a'1 &amp;gt; Î³ 
+ GER ,GER ï£º ï£¯ 
+ GER ï£º 
+ Î´i 
+ ï£° apt ï£» ï£° 4 ï£» i =1 ï£°Î´ i 
+ ï£» ï£° apt a'i ï£» ï£°Ï2 ï£» 
+ ï£° Âµt ï£» 
+ The difference between (2) and (3) is the government definition. In (detailed description of exactly what is required) (2) one price (change to make better/related to changing something) process 
+ applies if the mistakes from the long-term balance are below a dividing line (government 1) and another applies 
+ if the mistakes are above a dividing line (government 2)8. This (detailed description of exactly what is required) leaves out/keeps out the possibility of a "band of 
+ non-(change to make better/related to changing something)"9 of smaller mistakes from a long-term balance inside a government of (change to make better/related to changing something) to bigger 
+ mistakes (figure 2). (detailed description of exactly what is required) (3) allows this and is therefore (money-based)/cheaply more meaningful. Using 
+ TVECM (3) we assume one government of price (change to make better/related to changing something) defined by total mistakes from the long-term 
+ balance that are below the dividing line Î³ (government 1) and another defined by mistakes that go beyond the 
+ dividing line Î³ in (value of a number, ignoring its sign)s (government 2). Because of this government definition we produce a TVECM that is based 
+ on only one dividing line (Î³) and therefore is testable (related to/looking at/thinking about) dividing line importance, but that also possibly 
+ allows for the (money-based)/cheaply meaningful "band of non-(change to make better/related to changing something)" (government 1) inside a government of price 
+ (change to make better/related to changing something) to greater mistakes from the long-term balance (government 2). Note that TVECM (3) is 
+ mostly a restricted version of the general two dividing line model showed in figure 1; restricted in the sense 
+ that c1 = c 2 = Î³ in (3) and in the sense that no not mirror-images price transmission is possible in (3) as the same 
+ price reaction happens (without any concern about/having nothing to do with) whether ECTt-1.is larger than Î³ or smaller than -Î³. The simple linear ECM 
+ in figure 1, in turn, is a restricted form of (3) in which Î³=0. 
+ 
+ ap t 
+ Government 2 
+ TECM 
+ 
+ Government 1 
+ 
+ Government 2 
+ 
+ aband of non-(change to make better/related to changing something)" 
+ 
+ ECTta'1 
+ -Î³ 
+ 
+ Î³ 
+ 
+ Figure 2. Hit/effect of the error correction term on the price (change to make better/related to changing something). 
+ We propose a three-step procedure to guess the restricted TVECM (3). In a first step the two series of 
+ prices to be analysed for (combination of different things together that work as one unit) are tested for stationarity, using the increased Dickey-Fuller (ADF) 
+ unit root test. After the confirmation of non-stationarity the price series are tested for cointegration using the 
+ Johansen method. 
+ For comparison reasons and if non-stationarity as well as cointegration can be ended/decided, a linear vector 
+ error correction model (1) is guessed in a second step using the error correction term created by the 
+ 8 
+ 9 
+ 
+ Compare with figure 1 (One dividing line model). 
+ Goodwin and Piggott (2001) represent these mistakes as a "neutral band". 
+ 1112 
+ 
+ Johansen method. The number of included falls behind (k) is figured out by/decided by the Akaike information judging requirement (AIC). 
+ To guess the more general dividing line vector error correction model (3) we have to decide/figure out the dividing line 
+ Î³. For this we use a version of the Hansen and Seo (2001) search procedure10 that depends on the log 
+ (thing that decides something) of the guessed error covariance matrix of (3) as the selection judging requirements. The selection judging requirements has 
+ the following form: 
+ 
+ (4) 
+ Goodwin and Piggott (2001) use a different selection judging requirement that is based on the trace of the variancecovariance matrix of the extras/payments. This selection judging requirement ignores the possible cross relationship between the 
+ two equations of (3). In a paper Serra and Goodwin (2002) focus on the issues of choosing selection judging requirements. 
+ Using a Monte Carlo experiment they found no scientific support that ignoring the cross-equation relationship 
+ leads to wrong guesses of the dividing line. 
+ The value of Î³ that (makes small) (4) is chosen. (forced (on people)/caused an inconvenient situation) on this search procedure is the restriction that both 
+ governments should contain at least a pre-specified fraction (Ï0) of the total sample.11 So the following 
+ expression should always be made happy: 
+ (5) 
+ After deciding/figuring out the dividing line limit/guideline Î³, the (meaningful numbers) of the dividing line is calculated in a 
+ third step. Because of the unidentified annoyance limit/guideline (Î³) that is not present in the non-linear model (1), 
+ ordinary tests statistics have non-standard distributions. Therefore, Hansen and Seo propose the use of a 
+ SupLM test and helping ways of doing things to calculate p-values. 
+ RESULTS OF AN EMPIRICAL APPLICATION 
+ For our analysis we have chosen pig prices in Germany and the Netherlands, both major pig markets in 
+ Europe. The share of German pig production in total EU production was 21% in 1995, and the share of 
+ Dutch pig production was 13% (ZMP 1999). In our analysis we use weekly price data for pigs ((Euro)/100kg 
+ murderweight). The price data is collected in the Netherlands and Germany at the farm gate level and 
+ given by the ZMP (Zentrale Markt- und Preisberichtstelle). Our price series starts in June 1989 and ends 
+ in March 2001. 14 weeks with missing data in one or both countries have been left out from the sample. 
+ Therefore our total sample for this period contains 600 (instances of watching, noticing, or making statements). For further analysis we use the 
+ logarithmic form of the price data. 
+ The increased Dickey-Fuller (ADF) test confirms a unit-root in the pig price series for the Netherlands and 
+ also in the series of pig prices in Germany (see table 1). Johansen's maximum eigenvalue statistic as well as 
+ the Johansen trace statistic reject the null guess of no cointegrating vector at a importance level of 99% 
+ (see table 1) 12. After (usual/ commonly and regular/ healthy)ization with respect to the Dutch pig prices13, we calculate the cointegration 
+ relationship (table 1) and get extras/payments, which can be understood/explained as mistakes from a long-term 
+ balance. 
+ 
+ 10 
+ 
+ We only search over the dividing line limit/guideline Î³ and not also over the cointegration limit/guideline(s). 
+ For the scientific application we set the trimming limit/guideline to 0.05. Therefore each government is restricted to contain at 
+ least 5% of all (instances of watching, noticing, or making statements). Hansen &amp; Seo 2002; Ben-Kaabia &amp; Gil et al. 2002 and Goodwin &amp; Piggott 2001 choose 
+ the same value. 
+ 12 
+ The constant is held down and stopped from the fitted moving backward and included in the cointegration moving backward. 
+ 13 
+ (usual/ commonly and regular/ healthy)isation with respect to the German pig prices leads to very almost the same  results. 
+ 11 
+ 
+ 1113 
+ 
+ Table 1: Unit-root, cointegration and dividing line testing results 
+ a 
+ Test Statistic Critical Value 
+ 
+ Test 
+ Increased Dickey-Fuller (ADF) 
+ - constant term in the fitted moving backward / two lagges 
+ German pig price 
+ Dutch pig price 
+ 
+ -2.547 
+ -2.494 
+ 
+ -2.871 
+ -2.871 
+ 
+ Johansen method 
+ maximum eigenvalue test statistic 
+ 63.95 
+ 19.83 
+ trace test statistic 
+ 73.21 
+ 24.99 
+ - cointegration relationship 
+ ln p(Lower/undergroundland) = -1.01 + 1.18 ln p(Germany) + Îµ 
+ Hansen's dividing line test 
+ SupLM test 
+ 
+ 28.41 
+ 
+ 27.05 
+ 
+ a 
+ 
+ ADF-Test 5% sig. / Johansen 99% sig./ Hansen fixed move backwardor help 5% sig. 
+ Source: own calculation 
+ 
+ After deciding/figuring out the mistakes from the long-term balance we define the appropriate lag-length of a 
+ VECM using the Akaike information judging requirement. The AIC suggest to include two falls behind (k=2) into the model. To 
+ compare results from a VECM (1) with those of a TVECM (3) the guessed coefficients of the VECM as 
+ well as heteroskedasticity-strong Eicker-White standard errors (in italics) for these coefficients are presented 
+ below: 
+ ï£® ap 
+ ï£¯ 
+ ï£° ap 
+ 
+ NL 
+ t 
+ GER 
+ t 
+ 
+ ï£® 0.000 ï£¹ ï£® a'0.062 
+ ï£¯ 
+ ï£º ï£¯ 
+ ï£¹ ï£¯(0.002 )ï£º ï£¯ ( 0.121) 
+ = 
+ + 
+ ï£º ï£¯ 
+ 0.000 ï£º ï£¯ 0.046 
+ ï£» 
+ ï£¯ 
+ ï£º ï£¯ 
+ ï£¯ï£° ( 0.001) ï£ºï£» ï£¯ï£°( 0.049 ) 
+ 
+ 0.581 ï£¹ 
+ ï£® a'0.121 
+ ï£º 
+ NL 
+ (0.119 )ï£º ï£® apt a'1 ï£¹ ï£¯ï£¯(0.075 ) 
+ ï£¯ 
+ ï£º+ï£¯ 
+ 0.296 ï£º ï£° aptGER 
+ 0.050 
+ a'1 ï£» 
+ ï£º 
+ ï£¯ 
+ (0.078 )ï£ºï£» 
+ ï£¯ï£°(0.038 ) 
+ 
+ a'0.164 ï£¹ 
+ ï£® a'0.114 ï£¹ 
+ ï£º 
+ NL 
+ (0.109 )ï£º ï£® apt a'2 ï£¹ ï£¯ï£¯(0.054 )ï£ºï£º 
+ ï£® Îµ tNL ï£¹ 
+ + 
+ + 
+ ECT 
+ [_( 
+ ]_) 
+ t a'1 
+ ï£¯ 
+ ï£º ï£¯ 
+ ï£¯ GER ï£º 
+ a'0.166 ï£º ï£° aptGa'ER 
+ 0.068 ï£º 
+ 2 ï£» 
+ ï£°Îµ t ï£» 
+ ï£º 
+ ï£¯ 
+ ï£º 
+ (0.059 )ï£ºï£» 
+ ï£¯ï£° (0.031) ï£ºï£» 
+ 
+ The Breusch-Godfrey test points to/shows the presence of autocorrelation at the 5% importance level. 
+ Autocorrelation may be due to a misspecified functional form. As we will see below the TVECM does not 
+ suffer from autocorrelation. So the results of autocorrelation might be understood/explained as (event(s) or object(s) that prove something) in favour 
+ of the TVECM. Due to the autocorrelated extras/payments of the VECM, the results can only be understood/explained with 
+ NL 
+ caution. Fell behind price changes in the Netherlands ( ap tNL 
+ a'1 ;ap t a' 2 ) have no significant effect on the price 
+ (change to make better/related to changing something) in Germany or the Netherlands, whereas fell behind price changes in Germany seem to have a shortNL 
+ term effect on price (change to make better/related to changing something) (except ap GER 
+ t a'2 on ap t ). The guessed coefficients for the (change to make better/related to changing something) to 
+ mistakes from the long-term balance point to/show a stronger reaction of pig prices in the Netherlands to 
+ such mistakes ( Ï NL = a'0.114 ) than in Germany ( ÏGER = 0.068 ). 
+ Applying the described search procedure produces /gives up a dividing line limit/guideline of Î³=0.095. Based on this limit/guideline 
+ the TVECM (3) is divided into two governments. Government 1 is defined by those weekly prices where the total 
+ moving away from the long-term balance is below 9.5%. Calculated at average prices this moving away represent 
+ roughly 14 (Euro)/100kg murderweight. This way if the moving away from the long-term balance is below 
+ 14 (Euro)/100kg murderweight, no (change to make better/related to changing something) will happen. For every (instance of watching, noticing, or making a statement) in government 2 the total 
+ moving away from the long-term balance is above 9.5%. The (change to make better/related to changing something) government 1 (the "band of nonadjustment") contains 94,6% of all (instances of watching, noticing, or making statements). This (change to make better/related to changing something) government can therefore be represented as the 
+ "general" government whereas government 2, containing only 5,4% of all (instances of watching, noticing, or making statements), is referred as an "extreme" 
+ government, containing bigger mistakes from the long-term balance. Using Hansen's fixed move backwardor 
+ help way of doing things with 10.000 answers/copies we find the critical dividing line to be significant at 5% (p-value = 
+ 0.032). Results for the SupLM tests can be found in Table 1. 
+ 1114 
+ 
+ Estimated coefficients of the general dividing line vector error correction model and also Eicker-White standard 
+ errors of these coefficients (in italics) are as follows: 
+ Government 1 
+ ï£® 0.001 ï£¹ ï£® 0.082 
+ ï£¯ 
+ ï£º ï£¯ 
+ ï£® aptNL ï£¹ ï£¯(0.002 )ï£º ï£¯ (0.068 ) 
+ = 
+ + 
+ ï£¯ GER ï£º ï£¯ 
+ 0.000 ï£º ï£¯ 0.050 
+ ï£° apt ï£» 
+ ï£¯ 
+ ï£º ï£¯ 
+ ï£¯ï£° (0.001) ï£ºï£» ï£¯ï£°(0.046 ) 
+ 
+ ï£® a'0.073 
+ ï£¯ ( 0.061) 
+ ï£¯ 
+ + 
+ ï£¯ 
+ ï£º ï£¯ 
+ 0.319 ï£º ï£° aptGER 
+ 0.059 
+ a'1 ï£» 
+ ï£º 
+ ï£¯ 
+ (0.064 )ï£ºï£» 
+ ï£¯ï£°(0.038 ) 
+ 0.469 ï£¹ 
+ 
+ a'0.243 ï£¹ 
+ 
+ ï£® a'0.084 ï£¹ 
+ ï£¯(0.047 )ï£º 
+ ï£¯ 
+ ï£º [_( ECT ]_) + ï£®Îµ t ï£¹ if ECT a¤ 0.095 
+ + 
+ t a'1 
+ t a'1 
+ ï£¯ GER ï£º ï£¯ 
+ ï£¯ ï£º 
+ ï£º 
+ a'0.189 ï£° apt a'2 ï£» 
+ 0.045 ï£º 
+ ï£°Îµ t ï£» 
+ ï£º 
+ ï£¯ 
+ ï£º 
+ (0.061) ï£ºï£» 
+ ï£¯ï£° (0.032 ) ï£ºï£» 
+ 
+ (0.085 )ï£ºï£º ï£® aptNLa'1 ï£¹ 
+ 
+ ( 0.093)ï£ºï£º ï£® aptNa'L2 ï£¹ 
+ 
+ 0.709 ï£¹ 
+ ï£® a'0.525 
+ ï£º 
+ NL 
+ (0.273 )ï£º ï£® apt a'1 ï£¹ ï£¯ï£¯(0.334 ) 
+ ï£¯ 
+ ï£º+ï£¯ 
+ a'0.496 
+ 0.100 ï£º ï£° aptGER 
+ a'1 ï£» 
+ ï£º 
+ ï£¯ 
+ (0.301) ï£ºï£» 
+ ï£°ï£¯(0.239 ) 
+ 
+ 0.711 ï£¹ 
+ ï£® 0.249 ï£¹ 
+ ï£º 
+ NL 
+ (0.395 )ï£º ï£® apt a'2 ï£¹ ï£¯ï£¯ (0.143 ) ï£ºï£º 
+ ï£®Âµ ï£¹ 
+ [_( ECTt a'1 ]_) + ï£¯ t ï£º if ECTt a'1 &amp;gt; 0.095 
+ ï£¯ 
+ ï£º+ï£¯ 
+ ï£º 
+ 0.766 ï£º ï£° aptGER 
+ 0.417 
+ a'2 ï£» 
+ ï£° Âµt ï£» 
+ ï£º 
+ ï£¯ 
+ ï£º 
+ (0.385 )ï£»ï£º 
+ ï£¯ï£°(0.120 )ï£»ï£º 
+ 
+ Government 2 
+ ï£® ap 
+ ï£¯ 
+ ï£° ap 
+ 
+ NL 
+ t 
+ GER 
+ t 
+ 
+ ï£® a'0.019 ï£¹ ï£® a'0.935 
+ ï£¯ (0.013 ) ï£º ï£¯ (0.221) 
+ ï£¹ ï£¯ 
+ ï£º+ï£¯ 
+ ï£º=ï£¯ 
+ a'0.027 ï£º ï£¯ a'0.210 
+ ï£» 
+ ï£¯ 
+ ï£º ï£¯ 
+ ï£¯ï£°(0.012 )ï£ºï£» ï£¯ï£°(0.127 ) 
+ 
+ Guessed coefficients in government 1 are just like the guesses from the linear VECM. As in the VECM, only 
+ (for only a short time) reactions to fell behind price changes in Germany have a significant effect on the German or Dutch 
+ pig price changes in the TVECM. But unlike the VECM, the dividing line model shows no significant 
+ (change to make better/related to changing something) to mistakes from the long-term balance, if these mistakes are below the critical dividing line 
+ (government 1). These results are in line with assumed transaction costs that prohibit a perfect price (change to make better/related to changing something). 
+ Only if the total mistakes from the long-term balance are above the critical dividing line (government 2) 
+ (change to make better/related to changing something) does happen. These expected results can be found in the strong (change to make better/related to changing something) of the German pig 
+ price to mistakes from the long-term balance contained in government 2 ( ÏGER 
+ = 0.417 ). The Dutch price 
+ 2 
+ shows no significant (change to make better/related to changing something) to mistakes from the long-term balance in both governments. 
+ Price (change to make better/related to changing something) according to the guessed VECM differs much from (change to make better/related to changing something) according to the 
+ TVECM. The VECM suggest that the Dutch pig price as well as the German price react to mistakes from 
+ the long-term balance. The possibly more meaningful TVECM points to/shows no significant reaction of the 
+ Dutch price to such mistakes. Price leadership analyses that are based on guessed reactions to mistakes 
+ from the long-term balance (eg. Kuiper &amp; Meulenberg 2002) will be sensitive to those differences. 
+ CONCLUSIONS AND SUGGESTIONS FOR FURTHER RESEARCH 
+ Analyses of market (combination of different things together that work as one unit) based on price data alone have been criticised, because they often neglect the 
+ role of transaction costs. To overcome this opinion we suggest the use of dividing line vector error correction 
+ models. These models can account for the effects of transaction costs in price transmission, without directly 
+ depending on transaction cost data. A three government TVECM would be most good to fit the money-based 
+ needed things for the analysis of price (change to make better/related to changing something), but unfortunately so far no consistent (related to studying numbers) test for the 
+ importance of two dividing lines is available. Therefore we propose a testable two-government dividing line model that 
+ includes a "band of non-(change to make better/related to changing something)". Our results show that ignoring dividing line effects lead to sneaky and false 
+ results. 
+ Clearly the use of TVECM for analysing price (change to make better/related to changing something) is at its beginning. Tests for a three government 
+ TVECM could be developed. Such models would have the advantage of (taking control of) potential not mirror-images 
+ price (change to make better/related to changing something) processes. A (big statement based on very little information) to a multivariate model (thinking about/when one thinks about) (change to make better/related to changing something) of more than 
+ two prices is also of interest, as are models that clearly account for transaction costs. 
+ The TVECM is based on the idea (you think is true) of constant transaction costs through the analysed period. If market 
+ integration is expected to increase over time e.g. due to less transaction costs, the TVECM could be 
+ extended to variable dividing lines. 
+ REFERENCE 
+ Abdulai, A. (2002). "Using dividing line cointegration to guess Not mirror-images Price Transmission in the Swiss 
+ pork market." Applied Money flow 34: 679-687. 
+ 
+ 1115 
+ 
+ Balke, N. S. And Fomby, T. B. (1997). "Dividing line Cointegration." International Money-based Review 38(3): 
+ 627-645. 
+ Barrett, C. B. (2001). "Measuring (Combination of different things together that work as one unit) and (wasting very little while working or producing something) in International Farming-based Markets." Review 
+ of Farming-based Money flow 23(1): 19-32. 
+ Barrett, C. B. And Li, J. R. (2002). "Distinguishing between Balance and (Combination of different things together that work as one unit) in (related to space or existing in space) Price 
+ Analysis." American Journal of Farming-based Money flow 84(2): 292-307. 
+ Ben-Kaabia, M., Gil, J. M. And BOSHNJAKU, L. (2002). "Price transmission asymetries in the lamb part/area in 
+ Spain." paper presented at the Xth EAAE Conference in Zaragoza. 
+ Enders, W. And Granger, C. W. J. (1998). "Unit-Root tests and not mirror-images (change to make better/related to changing something) with an example 
+ using the term structure of interest rates." Journal of Business &amp; Money-based Statistics 16: 305-311. 
+ Heckscher, E. F. (1916). "VÃ¤xelkursens Grundval vid Pappersmyntfot." Ekonomisk Tidskrift 18: 309-312. 
+ Goodwin, B. K. And Piggott, N. E. (2001). "(related to space or existing in space) Market (Combination of different things together that work as one unit) in the Presence of Dividing line 
+ Effects." American Journal of Farming-based Money flow 83(2): 302-317. 
+ Hansen, B. E. And Seo, B. (2002). "Testing for Two-Government Dividing line Cointegration in Vector Error 
+ Correction Models." Journal of Econometrics 110: 293-318. 
+ Kuiper, W. E. And Meulenberg, M. T. G. (2002). "Up-and-down Price Leadership: A Cointegration Analysis." 
+ Farming 18(3): 317-331. 
+ Lo, M. C. And Zivot, E. (2001). "Dividing line Cointegration and (not going in a straight line) (change to make better/related to changing something) to the Law of One 
+ Price." Macroeconomic Patterns 5: 533-576. 
+ Meyer, J. And Von Cramon-Taubadel, S. (2002). "Asymetric price transmission: a survey." paper presented 
+ at the Xth EAAE Conference in Zaragoza. 
+ Obstfeld, M. And Taylor, A. M. (1997). "Non-Linear Parts of Goods-Market (buying and selling quickly to make money) and (change to make better/related to changing something): 
+ Heckscher's Valuable thing Points Revisited." The Journal of the Japanese and International Money flow 11: 
+ 441-479. 
+ Serra, T. And Goodwin, B. K. (2002). "(detailed description of exactly what is required) Selection Issues in multivariate Dividing line and 
+ switching Models." paper presented at the 2002 AAEA-WAEA Once-a-year Meeting 
+ TONG, H. (1978). "On a Dividing line Model in Pattern Recognition and Signal Processing." in C. Chen (Ed.), 
+ Amsterdam: Sijhoff and Noonhoff. 
+ Von Cramon-Taubadel, S. (1998). "Guessing Not mirror-images Price Transmission with the Error Correction 
+ Representation: An Application to the German Pork Market." (related to Europe) Review of Farming-based 
+ Money flow 25: 1-18. 
+ 
+ 1116 
+ 
+ <div style="clear:both">&nbsp;</div>

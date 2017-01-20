@@ -1,0 +1,1005 @@
+AGRICULTURAL 
+ ECONOMICS 
+ ELSEVIER 
+ 
+ Farming-based Money flow 23 (2000) 69-78 
+ www.elsevier.com/locate/agecon 
+ 
+ Are we risking too much? Opinions on risk in farm modelling 
+ David J. PannelPÂ· *, Bill Malcolm b, Ross S. Kingwell a,c 
+ b 
+ 
+ a Farming-based and useful thing/valuable supply Money flow, University of Western Australia, Albany WA 6907, Australia 
+ Department of Food Science and Farming, University of Melbourne, Melbourne, Vic. 3052, Australia 
+ c Farming Western Australia, South Perth, WA 6151, Australia 
+ 
+ Received 28 April 1999; received in changed form 22 November 1999; accepted 1 March 2000 
+ 
+ Abstract 
+ Risk and doubt have been a lot studied by farming-based money-flow experts. In this paper we question (a) the most important 
+ use of static (solid basic structures on which bigger things can be built) to formally analyse risk; (b) the most important focus on risk disgust as the reason for (thinking about/when one thinks about) 
+ risk and (c) the idea that clearly (related to the study of how likely or unlikely things are to happen) models are likely to be helpful to farmers in their decision making. We present/cause 
+ the question: for a (not wanting to do anything dangerous) farmer, what is the extra value of a recommendation came/coming from a model that represents risk 
+ disgust, compared to a model based on risk neutrality? The end/end result reached is that for the types of the decision problems 
+ most commonly modelled by farming-based money-flow experts, the extra value of representing risk disgust is commonly very little. 
+ Â© 2000 Elsevier Science B.V. All rights reserved. 
+ Keywords: Risk disgust; Farm management; Embedded risk; Modelling way(s) of doing things 
+ 
+ 1. Introduction 
+ Farmers face doubt about the money-based results of their actions due to their limited ability 
+ to (describe the future) things such as weather, prices and (related to the body function of living things) responses to different farming practices. In recognising this feature of farming, studies facing risk 
+ and doubt 1 are common in the farming-based money flow/money-based studies book-related. Risk is widely seen as an issue of 
+ extreme importance to farmers' decision making and to 
+ policies affecting those decisions (e.g. Anderson et al., 
+ 1977; Boussard, 1979; Anderson, 1982; Robison and 
+ Barry, 1987). 
+ 
+ * Corresponding author. Tel.: +61-8-9844-8659; 
+ fax: +61-8-9844-8659. 
+ E-mail address: david.pannell@uwa.edu.au (D.J. Pannell) 
+ 1 In this paper we use the terms 'risk' and 'uncertainty' interchangeably to mean 'uncertainty in consequences' (Antle, 1983; 
+ Hardaker eta!., 1991). 
+ 
+ Like most major areas of school-related effort/try, the 
+ study of risk in farming has created a body of thinking which sometimes is challenged 
+ (e.g. Antle, 1983; Leathers and Quiggin, 1991). Our 
+ aim in this paper is to criticise some areas of this thinking about the practical incorporation of risk in farm management models. This paper is 
+ not another opinion of (not definite) expected utility explanation and its different other choices (e.g. Machina, 1981, 
+ 1982; Buschena and Zilberman, 1994). Rather, the focus is on the use of risk models to analyse farm-related 
+ problems. Some parts of the approaches used most 
+ commonly in modelling risk are examined and the 
+ uses and usefulness of these approaches in farming 
+ is discussed. A reason of the resulting discussion is 
+ that the appropriate level of detail and sophistication 
+ in the modelling of farming-based risks depends on the 
+ meant uses of the model. Three such uses are discussed and differences in the appropriate modelling 
+ approach are highlighted. 
+ 
+ 0169-5150/00/$- see front matter Â©2000E1sevier Science B.V. All rights reserved. 
+ PII: S 0 1 6 9-5 15 0 ( 0 0) 0 0 0 58- X 
+ 
+ 70 
+ 
+ D.J. Pannell et al.lAgricultural Money flow 23 (2000) 69-78 
+ 
+ 2. Goals of farm modelling 
+ The design of a farm model is itself a decision problem involving risk, goals, and restrictions. The 
+ choice depends on: (a) the closeness of job  deadlines; 
+ (b) the availability, quality and cost of data and skilled 
+ modellers; (c) the not important costs and benefits of extra 
+ effort to enlarge or complicate the model and (d) uncertainties such as the extent to which the problem or 
+ farming system may change during the construction of 
+ the model. Further, the choice of modelling way of doing things 
+ depends on the goals of the modeller, which may 
+ include: (a) to publish in a refereed journal; (b) to support the government's decision making by (describing the future) 
+ either farmer behaviour or changes in welfare in response to a change in, for example, government policy, 
+ technology, prices or climate and (c) to help farmers 
+ make decisions. In the following sections these goals are carefully thought about/believed in more detail and their relevance 
+ to the modelling of farming-based risks is discussed. 
+ 
+ 3. Publishing 
+ Suppose that the modeller' s goal is to publish 
+ in an money-related journal an analysis of a farm management problem. For many, the solution to the decision problem organized and listed above is to develop a formal 
+ math-related model of the problem, hopefully facing a topical or newly appearing issue, with doubt represented clearly. Commonly, the model represents 
+ risk disgust as part of the farmer's goal, (related to careful studying or deep thinking) solutions are received/made from and formal ends/end results produced/showed from the results. 
+ The needed thing for (related to careful studying or deep thinking) solutions often 
+ causes the problem to be simplified (in a big way), 
+ resulting in possibly extreme (detailed description of exactly what is required) errors 
+ (Musser et al., 1986; Kingwell, 1996). The modelling 
+ (solid basic structure on which bigger things can be built) can be (not definite) expected utility, for (even though there is the existence of) its admitted/recognized/responded to limits (Machina, 1981, 
+ 1982; Quiggin, 1982; Schoemaker, 1982; Just et al., 
+ 1990), it remains widely used and acceptable to most 
+ reviewers and journal editors (Hardaker et al., 1991; 
+ Bar-Shira, 1992). 
+ The focus on math-related models is unfortunate 
+ because in practice, testing the hits/effects of, and best responses to, risk is mostly a numbers game 
+ (Preckel and DeVuyst, 1992). It is rarely possible to 
+ 
+ generalise about the (quality of something that makes people like it or want it) or otherwise of a particular farming plan, since the numbers change/differ  widely 
+ from one situation to another. For example, yield distributions differ across soil types, areas and crop 
+ types (Stanford et al., 1994) and price distributions 
+ differ by valuable thing and data period (Lapp and Smith, 
+ 1992). Babcock and Hennessy (1996) note that prices 
+ and produces /gives up are often assumed to be (usually/ in a common and regular way) distributed 
+ (e.g. Fraser, 1994; Lapan and Moschini, 1994) which 
+ simplifies the analysis but is not agreeing with/not matching with evidence about the skewness of yields (Stanford et al., 1994) and with the non-negativity of yields 
+ and prices. What's more, the relative importance of 
+ price risk and production risk can change/differ  widely between different businesses/projects, different farming systems 
+ and through time (Harris et al., 1974). 
+ Factors such as climate, crop sicknesses, soil types, 
+ crop species, crop-watering/rinsing with water, marketing policies and technology interact to form and change  the uncertainties of 
+ different farming practices. Ignoring these many sources of doubt is very important in an math-related 
+ analysis to secure/make sure of (ability to be managed or controlled), 2 yet it is a (detailed description of exactly what is required) error which can lead to false ends/end results. For 
+ example, Pannell (1991) argued that the reputation 
+ of bug-killers as 'risk-reducing' inputs was based mostly on studies which thought about/believed only doubt 
+ about pest density and/or bug-killer effectiveness (e.g. 
+ Feder, 1979; Carlson, 1984). If the uncertainties of 
+ other factors such as price and possible yield were 
+ carefully thought about/believed, bug-killers could be either risk-reducing 
+ or risk-increasing. This argument has been supported 
+ in later analyses (Leathers and Quiggin, 1991; 
+ Horowitz and Lichtenberg, 1994a, b). 
+ 
+ 4. Supporting government decision making 
+ If it is accepted that a number-based rather than an (related to careful studying or deep thinking) approach to modelling is necessary to support 
+ government decision making, it still remains necessary to choose the level of detail to be modelled and 
+ the modelling way of doing things (Anderson et al., 1977; Hazell 
+ and Norton, 1986; Kennedy, 1986). These issues unavoidably require judgement over the benefits and costs 
+ 2 Robison and Barry (1987) note: "two random (numbers that change/things that change) ... 
+ quickly complicate our analysis, forcing us into number-based rather 
+ than detailed thinking approaches" (p. 110). 
+ 
+ D.J. Pannell et al. I Farming-based Money flow 23 (2000) 69-78 
+ 
+ 71 
+ 
+ Table I 
+ Expected value of once-a-year income ($_$) from different farming plans (utility making the most of plans based on total risk 
+ disgust=3.0x w-6)a 
+ Strategical changes/recalculations 
+ Left out/kept out 
+ 
+ Included 
+ 
+ (money made/good thing received) making the most of solution 
+ Utility making the most of solution 
+ 
+ 153688 
+ 150060 
+ 
+ 168576 
+ 168038 
+ 
+ Difference 
+ Percentage difference 
+ 
+ -3628 
+ -2.36% 
+ 
+ -538 
+ -0.32% 
+ 
+ a 
+ 
+ Difference 
+ 
+ Percentage difference 
+ 
+ 14888 
+ 17978 
+ 
+ 9.69% 
+ 11.98% 
+ 
+ Source: (before that/before now) unpublished output from the MUDAS model (Kingwell, 1994). 
+ 
+ of including parts of the decision problem in the 
+ model (Anderson, 1982). The key judgements related 
+ to risk are: 
+ - Should the model's time frame be static or energetic? 
+ - If energetic, should the model allow for strategical decision making, based on updated information in each 
+ time period? 
+ - Should risk disgust be represented? 
+ 4.1. Relative importance of representing strategical 
+ changes/recalculations and risk disgust 
+ Most studies of risk in money flow/money-based studies and farming-based 
+ money flow/money-based studies have put into use the static (solid basic structure on which bigger things can be built) and included risk disgust in the decision maker's goal 
+ function (e.g. Sandmo, 1971; Feder, 1979). In these 
+ studies, risk or doubt matters, because decision 
+ makers effort/try to move away from plans with 
+ (compared to other things) high variance of income towards plans 
+ with (compared to other things) low variance, if necessary at the cost 
+ of some reduction in expected income. 
+ Most farmers would be confused that as a control/field of study 
+ we focus so much on this aspect of risk management. 
+ For them, the main issue raised by (quality of changing over time or at different places) of price 
+ and production is how to respond strategically and energetically/changing quickly as needed to unfolding opportunities or threats to create added/more income or to avoid losses (i.e. how to 
+ respond to thembedded risk'). For example, Ortmann 
+ et al. (1992) found that the information farmers desire 
+ for risk management is mostly concerned with defining the expected result, not with avoiding risk per 
+ se. Such information allows farmers to respond (in a money-making way) to differences/different versions in prices or climate and so is attractive even to 'risk-neutral' farmers, meaning those, 
+ 
+ whose goal is to (make as big as possible) expected (money made/good thing received). Maybe in recognition of this, there is a growing books that stresses the need to think about  the energetic and 
+ strategical features of farming (Rae, 1971; Antle, 1983; 
+ Schroeder and Featherstone, 1990; Taylor, 1993). 
+ A few separate (random/including random data points) programming studies 
+ have represented both strategical farm management 
+ responses and risk disgust (Schroeder and Featherstone, 1990; Featherstone et al., 1993; Kingwell, 
+ 1994; Pannell and Nordblom, 1998), allowing the 
+ possibility of examining the relative importance of 
+ including strategies and risk disgust in the models. For 
+ example, Kingwell et al. (1993) found that the expected farm (money made/good thing received) in a area of Western Australia 
+ could be increased by over 20% through appropriate 
+ strategical changes/recalculations of farm plans, while Kingwell 
+ (1994) showed that when risk disgust was included 
+ in analyses of this farming system, best expected 
+ (money made/good thing received) fell by only 2-6%. The results in Table 1 are 
+ from best solutions of the same model 3 with or 
+ without representation of risk disgust and with or 
+ without representation of strategical options. The utility making the most of solutions employ a Pratt-Arrow risk 
+ disgust coefficient of 3.0x 10-6 which would be 
+ thought about/believed very high for this area based on 
+ published evidence (e.g. Bond and Wonder, 
+ 1980; Poetsley and HmTis, 1987). The increase in 
+ expected (money made/good thing received) from strategical changes/recalculations is 10-12%, 
+ whereas the reduction in expected (money made/good thing received) given risk 
+ disgust is less than 3%. 
+ 
+ 3 The model is a separate (random/including random data points) programming model of a 
+ representative farm. Risk disgust is represented using a method 
+ almost the same as  DEMP (Lambert and McCarl, 1985) and UEP (Patten 
+ et a!., 1988). 
+ 
+ D.J. Pannell eta!./ Farming-based Money flow 23 (2000) 69-78 
+ 
+ 72 
+ 
+ Table 2 
+ Sure feeling equal value ($_$) of the distribution of income from different farming plans for a (not wanting to do anything dangerous) farmer (total risk 
+ disgust=3.0x 10- 6 )a 
+ Strategical changes/recalculations 
+ Left out/kept out 
+ 
+ Included 
+ 
+ (money made/good thing received) making the most of solution 
+ Utility making the most of solution 
+ 
+ 130797 
+ 131912 
+ 
+ 143147 
+ 143597 
+ 
+ Difference 
+ Percentage difference 
+ 
+ 1115 
+ 0.85% 
+ 
+ 449 
+ 0.31% 
+ 
+ a 
+ 
+ Difference 
+ 
+ Percentage difference 
+ 
+ 12351 
+ 11685 
+ 
+ 9.44% 
+ 8.86% 
+ 
+ Source: (before that/before now) unpublished output from the MUDAS model (Kingwell, 1994). 
+ 
+ In examining the relative importance of representing strategies or risk disgust, the most (connected/related) comparison is of sure feeling equal 4 values for the solutions 
+ (Table 2). In calculating these sure feeling equals, it 
+ is assumed that the farmer is (not wanting to do anything dangerous) (total risk 
+ disgust=3.0x w- 6 ). The hit/effect of risk disgust is 
+ even less than suggested by results in Table 1, with 
+ sure feeling equals changing by less than 1%. Compared to the ideal model that includes risk disgust 
+ and strategical options, a model which did not represent strategies would have identified a solution around 
+ $12,000 per year less valuable to the farmer. Very differently, the loss of sure feeling equal from accepting a 
+ recommended plan that does not think about/believe risk disgust would have been only $1000 or less. 
+ While it is admitted/recognized/responded to that presentation of interesting results does not provide a general proof, it is 
+ stressed that: 
+ 1. This model represents a farming system with high 
+ levels of price and production risk. 
+ 2. The results (state that something is much bigger, worse, etc., than it really is) the importance of risk disgust by using a risk disgust coefficient which is 
+ in a silly way high for most farmers in the area. 
+ 3. The results are easily explainable (see below) and 
+ are agreeing with/matching up with/working regularly with all other number-based examples of 
+ which we are aware. 
+ 4. The results are agreeing with/matching up with/working regularly with the attitudes of farmers, as talked about/said earlier. 
+ 
+ 4 The 'certainty equal' is the dollar value to a (not wanting to do anything dangerous) 
+ person of the risky result of an investment. It is less than the 
+ expected value of (money made/good thing received) or income from the investment due to the 
+ deduction of a 'risk premium' which increases with the level of 
+ risk and with the person's degree of risk disgust. 
+ 
+ Overall, our reading of the available (event(s) or object(s) that prove something) is 
+ that the (popular things/general ways things are going) obvious in Table 2 are, if not general, 
+ at least very common. The first (or most important) reason for 
+ the low hit/effect of risk disgust lies in the (state of not responding to anything) of sure feeling equal to changes in farm 
+ management within the area of the best. This 
+ is directly just like a classic result in analysis 
+ of response to inputs, such as fertilisers. Differences/different versions 
+ in management practices within the area of the 
+ best make little difference to the level of net 
+ benefits because the profit function is fiat near the 
+ best (Anderson, 1975). Because of this flatness, 
+ (serious thought/something to think about/respect) of difficulties such as risk disgust, 
+ which only change the best plan by medium-level 
+ amounts, does not greatly affect farmer welfare. So, 
+ the argument is not that risk disgust does not affect 
+ the farmer's best plan, but that the hit/effect of the 
+ changes on farmer welfare is small. This is likely to 
+ be true for any choice involving a continuous or about continuous decision (number or thing that changes) (e.g. areas 
+ planted, input levels, stocking rates, feeding plans 
+ and investment in futures contracts). It may be less 
+ true for large separate choices such as decisions on 
+ (instance of buying something for money) of land or large machinery. 
+ Representation of strategical changes/recalculations makes a 
+ greater difference to the sure feeling equal because 
+ the main benefits of strategical changes/recalculations happen in the 
+ extreme years, both good and bad. In these years 
+ the best management practices are very different 
+ to the best practices for most years, mainly due 
+ to hits/effects on expected (money made/good thing received), rather than risk. The 
+ differences in plan in extreme years are usually 
+ larger than those caused/brought about/reminded by risk disgust alone, often to the extent that sure feeling equal is sensitive 
+ to the change. 
+ 
+ D.J. Pannell et al.!Agricultural Money flow 23 (2000) 69-78 
+ 200 
+ 
+ Relative risk 
+ disgust of 
+ farmer 
+ 
+ g190 
+ 9 
+ ....1 
+ 
+ - 
+ 
+ &#126;180 
+ 
+ c 
+ 
+ (I) 
+ 
+ &#126; 170 
+ Â·s 
+ 0" 
+ (I) 
+ 
+ -E' 160 
+ &#126; 
+ ('5 
+ 
+ 150 
+ 
+ 0.0 
+ 
+ -- - 
+ 
+ 140 
+ 0 
+ 
+ 0.8 
+ 
+ 1.6 
+ 
+ 2.4 
+ 
+ 0.8 
+ 1.6 
+ 2.4 
+ 
+ -3.2 
+ 
+ 3.2 
+ 
+ 4 
+ 
+ 73 
+ 
+ Table 3 
+ Cost to farmers in north-west Syria, in terms of lost potential 
+ sure feeling equal, from putting into use the whole-farm plan from 
+ a model with a risk-neutral goal function- 
+ Farmer's relative 
+ risk disgust 
+ 
+ Cost of using riskneutral model (%) 
+ 
+ 0.0 
+ 0.8 
+ 1.6 
+ 2.4 
+ 3.2 
+ 
+ 0.0 
+ 0.056 
+ 0.26 
+ 1.0 
+ 1.9 
+ 
+ a Source: (before that/before now) unpublished output from the model of 
+ Pannell and Nordblom (1998). 
+ 
+ Relative risk disgust of model 
+ 
+ Fig. 1. Sure feeling equal values of income for farmers in 
+ north-west Syria based on (putting into) use of whole-farm plans 
+ from models representing different degrees of risk disgust. Source: 
+ (before that/before now) unpublished output from the model of Pannell and 
+ Nordblom (1998). 
+ 
+ To illustrate further the low hit/effect of representing risk disgust on the value of a model's recommended plan, Fig. 1 shows the results of 
+ mis-specifying a producer's risk disgust coefficient 
+ in a representative farm model in north-west Syria 
+ (Pannell and Nordblom, 1998). 
+ Each line in Fig. 1 represents the sure feeling equal value of income for a possible Syrian farmer 
+ with a utility function seen as constant relative risk disgust. The different lines represent farmers 
+ with different levels of relative risk disgust (RRA). 
+ Moving from left to right along a line corresponds 
+ to different combinations of businesses/projects and practices 
+ identified as best by models of increasing risk disgust. On each line, at only one point does the risk disgust coefficient of the model go along with/match up to that of the 
+ farmer and, at this point, the sure feeling equal value 
+ to that farmer of the plan recommended by the model 
+ is (made as big as possible). All other models recommend a plan of 
+ lower value. The most striking aspect of the figure is 
+ the flatness of the lines, reflecting that the sure feeling 
+ equal value of a farm model's recommended plan 
+ is insensitive to the degree of risk disgust used to get the plan. If a (not wanting to do anything dangerous) farmer put into use a 
+ plan which would be best for a risk-neutral farmer, 
+ the level of possible utility previous/unavoidable by the farmer 
+ would be small. This is made clearer in Table 3, which 
+ shows the loss of potential sure feeling equal for different farmers from putting into use the recommendations 
+ 
+ of a risk-neutral model. As expected, the cost increases with the degree of risk disgust of the farmer. 
+ However, even at the highest level of risk disgust 
+ (RRA=3.2), the cost in sure feeling (almost-equal state) of ignoring risk disgust is less than 2%. Although, risk 
+ disgust coefficients of Syrian farmers have not been 
+ guessed, on the basis of other studies in developing countries (e.g. Binswanger, 1980; Antle, 1987) we 
+ would expect that for most Syrian farmers the cost of 
+ ignoring risk disgust when selecting a plan would be 
+ less than 1%. The small value of this cost is even more 
+ surprising given that (related to the Earth's weather) risks faced by Syrian 
+ farmers are among the highest in the world (Nguyen, 
+ 1989). 
+ (see/hear/become aware of) that although sure feeling equal is insensitive to farm plan, it is sensitive to the risk disgust coefficient, as reflected in the distances between 
+ the lines in Fig. 1. It is not claimed that (not wanting to do anything dangerous) 
+ farmers are little affected by risk. If that were true, the 
+ lines in Fig. 1 would lie close together. The argument 
+ here rests on the lines' flatness, not their separation. 
+ The flatness reflects the scientific result that the (able to be done) and best extent of risk avoidance is (compared to other things) 
+ small. 
+ A third example from a different situation is presented in Table 4 which shows findings for a weed control problem in a area of Western Australia (Pannell, 
+ 1995). The model selects best herbicide dosages 
+ for a representative farm. Even when the importance 
+ of risk disgust is (made to appear much bigger, worse, etc., than it really is) by assuming perfect 
+ relationship between yields on each hectare and by assuming a relative risk disgust coefficient of 3.2, the 
+ cost of using a risk-neutral model is less than 1%. For 
+ more realistic ideas (you think are true) it is less than 0.1 %. 
+ 
+ 74 
+ 
+ D.J. Pannell et al./Agricultural Money flow 23 (2000) 69-78 
+ 
+ Table 4 
+ Cost to farmers in Western Australia, in terms of lost potential 
+ sure feeling equal, from putting into use the herbicide dosage from 
+ a model with a risk-neutral unemotional functiona 
+ Farmer's relative 
+ risk disgust 
+ 
+ Cost of using riskneutral model (%) 
+ 
+ 0.0 
+ 0.8 
+ 1.6 
+ 2.4 
+ 3.2 
+ 
+ 0.0 
+ 0.038 
+ 0.18 
+ 0.46 
+ 0.95 
+ 
+ a Source: (before that/before now) unpublished output from model of Pannell 
+ (1995). 
+ 
+ Some farm modelling studies that think about/believe strategies 
+ and risk disgust identify risk disgust as an important influence on farm management (Schroeder and 
+ Featherstone, 1990; Featherstone et al., 1993). However, these studies do not ask the question that we 
+ have talked to/looked at above: to what extent does (changing to make better/changing to fit new conditions) 
+ farm management in response to risk disgust increase 
+ farmer welfare. They also do not face/deal with the issue of 
+ the relative importance of including strategies against/compared to/or risk 
+ disgust. For example, Featherstone et al. (1993) described a representative Indiana farm and examined 
+ best capital structures using a separate (random/including random data points) 
+ programming creation. Some of their results are 
+ reproduced in Table 5. 
+ 
+ Table 5 
+ Owned land and the sure feeling equal of once-a-year retum to initial 
+ equity for an Indiana farm with 40 or 70% initial debt- 
+ 
+ 40% initial 
+ (money owed) 
+ 
+ 70% initial 
+ (money owed) 
+ 
+ Relative 
+ risk 
+ disgust 
+ 
+ Owned land (areas of land) 
+ Year I 
+ 
+ Year 2 Year 3 
+ 
+ Sure feeling 
+ equal of 
+ once-a-year return 
+ to initial 
+ equity (%) 
+ 
+ 0.0375 
+ 
+ 800 
+ 
+ 977 
+ 
+ 1063 
+ 
+ 10.4 
+ 
+ 0.375 
+ 0.75 
+ 3.75 
+ 
+ 800 
+ 800 
+ 800 
+ 
+ 818 
+ 818 
+ 821 
+ 
+ 1064 
+ 1064 
+ 821 
+ 
+ 10.2 
+ 10.1 
+ 9.1 
+ 
+ 0.0375 
+ 
+ 800 
+ 
+ 954 
+ 
+ 1069 
+ 
+ 14.9 
+ 
+ 0.375 
+ 0.75 
+ 3.75 
+ 
+ 800 
+ 806 
+ 800 
+ 
+ 813 
+ 868 
+ 800 
+ 
+ 1020 
+ 1064 
+ 808 
+ 
+ 14.3 
+ 13.7 
+ 11.8 
+ 
+ a (money owed)  to valuable things ratio expressed as a percentage. Initial owned 
+ land in Year 1 is 800 areas of land. Source: Featherstone et a!. (1993). 
+ 
+ When the farm has an initial (money owed)  to valuable thing ratio of 
+ 40% risk disgust has little hit/effect on the sure feeling 
+ equal of the once-a-year return to initial equity. At 
+ an initial (money owed)  to valuable thing ratio of 70% risk disgust has 
+ a greater effect in reducing the sure feeling equal. 
+ However, recall from the earlier results, that it would 
+ be a lie to think that sure feeling equal being 
+ sensitive to risk disgust necessarily hints that a 
+ model with risk disgust creates much more 
+ valuable recommendations than a risk-neutral model. 
+ Failure to recognise this lie is a cause of some 
+ farming-based money-flow experts over-rating the importance of 
+ modelling risk disgust. Anyway, it is true that 
+ many studies have found that farm activity selections 
+ were affected by the degree of risk disgust (Hazell 
+ et al., 1983; Chavas and Holt, 1990; Schroeder and 
+ Featherstone, 1990; Kingwell, 1994). There is no weird statement here. The explanation lies in the flatness of the 
+ sure feeling equal curves, as organized and listed earlier. So, 
+ the importance of representing risk disgust depends 
+ very much on the goals of the study. Risk disgust will be (compared to other things) more important in studies with 
+ an goal of (describing the future) behavioural responses to a 
+ change, rather than of testing-related welfare hits/effects or 
+ making recommendations to farmers. 
+ Even for (describe the future)ive purposes, however, there are reasons to believe that representation of risk disgust is 
+ not as important as often showed/represented in the books. In 
+ some studies, the hit/effect of risk disgust on best 
+ management is (made to appear much bigger, worse, etc., than it really is) by (a) using sillyly 
+ high risk disgust coefficients; (b) failure to represent 
+ farm restrictions and technology realistically (Musser, 
+ McCarl, and Smith) and/or (c) modelling individual 
+ businesses/projects without (thinking about/when one thinks about) their degree of relationship with other businesses/projects or decisions. In some 
+ studies, with or without these failings, the hit/effect of 
+ risk disgust on behaviour has been found to be low 
+ (e.g. Smidts, 1990). Finally, even when risk disgust 
+ does truly affect management, its effects may still be 
+ small in relation to those of other factors that may be 
+ thought about/believed for including in something in the model. 
+ Often, better representation of the (study of living things/qualities of living things), production other choices, technology, taxation results/consequences, 
+ useful thing/valuable supply gifts, weather-year and price conditions, and strategical oppmtunities will produce more 
+ valuable information about change at the farm-level 
+ than fancy (or smart) including in something of risk disgust. Overall, 
+ we decide that if a farm management model is to 
+ 
+ D.J. Pannell et a!. I Farming-based Money flow 23 (2000) 69-78 
+ 
+ be built to (describe the future) or test change at the 
+ farm-level, then including in something of risk disgust is often of 
+ secondary importance. This is not to deny that farmers are (not wanting to do anything dangerous) (Bond and Wonder, 1980; Antle, 
+ 1987; Poetsley and Harris, 1987; Myers, 1989), nor 
+ to claim that risk disgust has no hit/effect on welfare 
+ or behaviour. Rather, the (event(s) or object(s) that prove something) is that if we wish 
+ to test a model by its ability to (describe the future) and test change, then in many situations the net benefits of 
+ using modelling useful things/valuable supplies to represent risk disgust 
+ are less that the net benefits of using the useful things/valuable supplies to 
+ improve other parts of the model. This echoes the 
+ feelings of Sonka (1983): 
+ Our concentration on risk [aversion] as a source of 
+ non-profit-making the most of behavior may have led us off 
+ the main trail. A few factors including production 
+ restrictions, many goals and lack of information 
+ could cause farmers to make non-profit-making the most of 
+ decisions. We should be worried about testing 
+ the hits/effects of these factors, not just the presence 
+ of risk. (p. 202). 
+ One cost of leaving out/keeping out risk disgust from a farm 
+ management model, would be that the model would 
+ not give due weight to the risk-reducing benefits of 
+ (getting involved with different types of things; not sticking with only one thing). A traditional view is that (getting involved with different types of things; not sticking with only one thing) is a key risk management plan (Samuelson, 
+ 1967). By creating income from a few activities 
+ whose returns are not perfectly related, a farmer 
+ can reduce the overall income variance. Sometimes, 
+ the failure to represent risk is referred to/is given a ticket as a reason why 
+ outputs from some mathematical programming models of farms are not as (branched out/done different things) as the actual farms 
+ they represent. 
+ However, best farm plans for risk-neutral and 
+ (not wanting to do anything dangerous) farmers can be (in almost the same way) (branched out/done different things) (Brink 
+ and McCarl, 1978; Kingwell, 1994) since risk disgust is only one of some possible (rewards or reasons for doing something) 
+ for (getting involved with different types of things; not sticking with only one thing). Reasons for (getting involved with different types of things; not sticking with only one thing) by the 
+ risk-neutral farmer include: 
+ 1. Non-evenness and equality of useful thing/valuable supply quality. For example, 
+ on large farms with different areas and types of 
+ soil the money-making ability of crop or (area of grassy land) other choices 
+ differ according to soil type leading to a mix of 
+ businesses/projects across the farm (Morrison et al., 1986; 
+ Kingwell et al., 1992). 
+ 2. useful thing/valuable supply restrictions. In the short run, limits on 
+ machinery ability (to hold or do something) joined with yield reductions 
+ from later causing/producing affect the best size of crop- 
+ 
+ 75 
+ 
+ ping programs and may result in a mixture of enterplises. (in almost the same way), labour supply and demand at 
+ particular times through the year may prevent a 
+ high concentration of other useful things/valuable supplies in a particular business/project. 
+ 3. Complementarities or positive interactions between businesses/projects. These include benefits of particular rotational sequences (e.g. nitrogen constant thought 
+ by (peas, beans, lentils, etc.), disease control, weed control, soil 
+ structure and soil organic matter content), and 
+ (things that are given/work that's done) of crop residues to animals diets 
+ (Pannell, 1987). Because of this, the failure of some mathematical programming models to select (branched out/done different things) 
+ farm plans is at least as likely to be due to their 
+ failure to do enough to represent very important (related to the body function of living things) 
+ or physical (features/ qualities/ traits) of the farming system 
+ as their (when something is kept out or not included) of risk disgust. 
+ Pre-decided whole-farm models, such as MIDAS 5 (Kingwell and Pannell, 1987), which do 
+ represent these features can select plans which 
+ are highly (branched out/done different things), with risk-reduction as an 
+ unplanned-for bonus. 
+ Think about/believe, then, the possibility that choosing to build 
+ a model without any representation of risk or doubt may be best when the not important benefits and 
+ costs of modelling effort are fully tested. The useful things/valuable supplies saved by not clearly representing risk can 
+ be used to (a) represent other, more important, aspects 
+ of the farming system; (b) improve the quality of data 
+ in the model; (c) conduct more long/big model testing; (d) apply the model sooner and more often and 
+ (e) construct added/more versions of the model for different purposes. An added advantage is that pre-decided models are much easier to test and maintain 
+ because of their smaller size. Risk and doubt 
+ may still be thought about/believed in any analysis by the use of 
+ sensitivity analysis to (ask lots of questions about/try to find the truth about) separate pictures/situations of 
+ interest (Pannell, 1997). 
+ One situation which may weigh heavily against development of a pre-decided model is where the meant audience for the modelling results perceive that 
+ clearly representing risk is of extreme importance. 
+ In this case, clear representation of risk, risk aver5 'Deterministic' models have no clear representation of chances related to risk or doubt. Limits/guidelines are specified as 
+ fixed, best-bet or mean values. MIDAS stands for model of an 
+ integrated dryland farming-based system. 
+ 
+ 76 
+ 
+ D.J. Pannell et al./ Farming-based Money flow 23 (2000) 69-78 
+ 
+ sian and/or strategical responses to risk may increase the 
+ believability of the model (good or well enough) to warrant the effort involved, ignoring their hit/effect on the value 
+ of the results. 
+ 
+ 5. Helping farmer decision making 
+ A final reason for building a farm model is to 
+ aid farmer decision-making. Farmers make many 
+ decisions against the background of two key goals. 
+ The first is that most farmers wish to stay in farming (even though there is the existence of) the shocks of price and weather and the 
+ changes in policy, technology and social conditions 
+ that show farming. The second is that farmers wish 
+ to increase their wealth over time. The keys to (accomplishing or gaining) these goals are to get right the big decisions, 
+ such as those on land (instance of buying something for money), machinery investment and useful thing/valuable supply improvement (Malcolm, 1994) and 
+ to make correct major strategical changes/recalculations (K.ingwell 
+ et al., 1993). 
+ This end/end result is supported, for Australia at least, 
+ by farm survey (event(s) or object(s) that prove something) (Ripley and Kingwell, 1984; 
+ Edwards, 1994). The farmers most likely to be under 
+ acute money shortage at any time are those who bought 
+ land or machinery at the wrong time or at the wrong 
+ price or who made significant and wrong major changes/recalculations to their farm operations. Because of this, it is not the 
+ everyday or even once-a-year risk management decisions 
+ that are likely to importantly affect farm ability to be done. Surprisingly, the important long-run, major decisions are 
+ mostly ignored in the risk books, which focuses 
+ mainly on decisions about input levels and output 
+ (mixes of stocks, bonds, etc./document collections). 
+ In developing models for use by farmers, the question of appropriate complex difficulty and sophistication is 
+ central. The reality of farming is complex. Pattern of behavior, 
+ (random/including random data points), (related to the body function of living things), technical, (money-related) and human 
+ factors interact in a way that will probably never be 
+ incorporated fully in any mathematical model of farming-based decision analysis. Interestingly, however, "the 
+ elaborate decision (related to careful studying or deep thinking) methods such as those 
+ supported in the decision explanation and systems books are not much use in practice in the very complex 
+ and uncertain situation of the farm business, while 
+ the straight-forward farm management budgets are 
+ very useful" (Malcolm, 1994, p. 21 ). Patrick 
+ and DeVuyst (1995) also focuse the limits 
+ 
+ of fancy (or smart) risk modelling ways of doing things for most 
+ farmers, pointing out that there is much more 
+ risk-related research information available than is 
+ being included into extension programs. 
+ The reality of farm management, which farmers understand well, is that, it is better to solve the whole 
+ problem roughly than to attempt to solve part of the 
+ problem very well. The advantage of simple money-planning approaches to farm planning is that, at least at 
+ some level, it helps (serious thought/something to think about/respect) of all (connected/related) 
+ (features/ qualities/ traits) of the (like nothing else) farm business (e.g. business/project interactions, restrictions, personal preferences, 
+ attitudes, abilities and experiences). Use of sensitivity analysis to examine separate key pictures/situations and 
+ identify break-even facts or conditions (that surround someone) are simple but valuable methods of including risk in this decision process, both from the point of view of risk disgust and 
+ strategical changes/recalculations. The ways of doing things are simple and old, yet they provide the farmer with an opportunity to see  the nature and possible result of 
+ uncertainties in a way that (helps increase/shows in a good way) (reasonable/showing good judgment) management of risk. They can take by force/take control of (good) enough detail, sometimes completely/in a hinting way, so that the value of the information 
+ created for the farmer is higher than could be created by a less good, more partial and more unknown 
+ fancy (or smart) risk model. 
+ 
+ 6. Ending/deciding comments 
+ We are not arguing that farmers are risk-neutral, 
+ that farming is free of risk, nor that (getting involved with different types of things; not sticking with only one thing) is 
+ ineffective as a risk-reducing plan. Nor is the paper about the truth/trueness of decision explanation, (not definite) 
+ expected utility explanation or any other way of doing things or explanation. We are not arguing against research to understand 
+ human behaviour. Rather, the focus of this paper is 
+ on the applied usefulness and value of other choice approaches to decision analysis. 
+ A (thing that's given/work that's done) of the paper is to present/cause a question 
+ that appears to have been (not there; not present) from the books 
+ on risk in farming: for a (not wanting to do anything dangerous) farmer, what 
+ is the extra value of a recommendation came/coming from 
+ a model that represents risk disgust, compared to a 
+ model based on risk neutrality? For many examples, 
+ the answer seems to be, very little. 
+ Certainly the study of risk and its effects/results/suggestions for 
+ farm management is naturally interesting, challeng- 
+ 
+ D.J. Pannell et a!. I Farming-based Money flow 23 (2000) 69-78 
+ 
+ ing and now often publishable. However, a critical test of the books shows/tells about that the aspects 
+ of farming-based risk most commonly researched and 
+ published often are issues of secondary importance in 
+ deciding/figuring out how farms are managed. The models and 
+ results of much current risk management research 
+ are not easily related to farmers. There is a need 
+ for our control/field of study to test the needs of our audiences 
+ more carefully. 
+ 
+ Responses 
+ The authors appreciate comments and suggestions 
+ by Steven Schilizzi and the unnamed reviewers. 
+ 
+ References 
+ Anderson, J.R., 1975. One more or less cheer for bestity. J. 
+ Aust. Inst. Agric. Sci. 41, 195-197. 
+ Anderson, J.R., 1982. Farming-based money flow/money-based studies, (dependent on each other) 
+ and nncertainty. Aust. J. Agric. Econ. 26, 89-97. 
+ Anderson, J.R., Dillon, J.L., Hardaker, J.B., 1977. Farming-based 
+ Decision Analysis. Iowa State University Press, Ames. 
+ Antle, J.M., 1983. Incorporating risk in production analysis. Am. 
+ J. Agric. Econ. 65,1099-1106. 
+ Antle, J.M., 1987. Econometric guess of producers' risk 
+ attitudes. Am. J. Agric. Econ. 69, 509-522. 
+ Babcock, B.A., Hennessy, D.A., 1996. Input demand under yield 
+ and money/money income insurance. Am. J. Agric. Econ. 78, 416-427. 
+ Poetsley, P., Harris, M., 1987. An approach to the econometric 
+ guess of attitudes to risk in farming. Aust. J. Agric. 
+ Econ. 31, 112-126. 
+ Bar-Shira, Z., 1992. Nonparametric test of the expected utility 
+ guess. Am. J. Agric. Econ. 74, 523-533. 
+ Binswanger, H.P., 1980. Attitudes toward risk: experimental 
+ measurement in (away from cities) India. Am. J. Agric. Econ. 62, 395-407. 
+ Bond, G., Wonder, B., 1980. Risk attitudes among Australian 
+ farmers. Aust. J. Agric. Econ. 24, 16-34. 
+ Boussard, J.-M., 1979. Risk and doubt in programming 
+ models: a review. In: Roumasset, J.A., Boussard, J.-M., Singh, 
+ I. (Eds.), Risk, Doubt and Farming-based Development. 
+ Southeast Asian (related to a large area) Center for Graduate Study and 
+ Research in Farming, Laguna, Philippines, and Farming-based 
+ Development Group of people, New York. 
+ Brink, L., McCarl, B., 1978. The tradeoff between expected return 
+ and risk among corn belt farmers. Am. J. Agric. Econ. 60, 259263. 
+ Buschena, D.E., Zilberman, D., 1994. What do we know about 
+ decision making under risk and where do we go from here?. 
+ J. Agric. Resou. Econ. 19, 425-445. 
+ Carlson, G.A., 1984. Risk reducing inputs related to farming-based 
+ pests. Risk analysis of farming-based firms: ideas, information 
+ 
+ 77 
+ 
+ needed things and policy issues. In: (series of events) of the (related to a large area) 
+ Research Project S 180. Depmtment of Farming-based Money flow, 
+ University of Illinois, Urbana, IL, pp. 164-175. 
+ Chavas, J.-P., Holt, M.T., 1990. Land decisions under risk the 
+ case of corn and soybeans. Am. J. Agric. Econ. 72, 529-538. 
+ Edwards, K.. 1994. Farm business failure: Is there a pattern? In: 
+ Cook, V., Edwards, K., Ronan, G. (Eds.), A Positive Approach 
+ to Farm (change to make better/related to changing something). First (or most important) Businesses South Australia, 
+ Adelaide, pp. 39-52. 
+ Featherstone, A.M., Baker, T.G., Preckel, P.V., 1993. Modeling 
+ patterns and risk using separate (random/including random data points) programming: 
+ a farm capital structure computer program. In: Taylor, C.R. (Ed.), 
+ Applications of Pattern of behavior Programming to Farming-based Decision 
+ Problems. Westview Press, Big rock, pp. 145-169. 
+ Fraser, R., 1994. The hit/effect of price support on set-aside responses 
+ to an increase in price doubt. Eur. Rev. Agric. Econ. 21, 
+ 131-136. 
+ Feder, G., 1979. Bug-killers, information, and pest management 
+ under doubt. Am. J. Agric. Econ. 61, 97-103. 
+ Hardaker, J.B., Pandey, S., Patten, L.H., 1991. Farm planning under 
+ doubt: a review of different programming models. Rev. 
+ Market. Agric. Econ. 59, 9-22. 
+ Harris, K.B., Crawford, J.G., Gruen, F.H., Honan, N.D., 1974. 
+ (away from cities) Policy in Australia, Report to the Prime Minister by a 
+ Working Group, May 1974, Australian Government Printing 
+ Service, Canberra. 
+ Hazell, P.B.R., Norton, R.D., Parthasarathy, M., Pomareda, C., 
+ 1983. The importance of risk in farming-based planning models. 
+ In: Norton, R.D., Solis, I. (Eds.), The Book of CHAC: 
+ Programming Studies for Mexican Farming. The John 
+ Hopkins University Press, Baltimore, pp. 225-249. 
+ Hazell, P.B.R., Norton, R.D., 1986. Mathematical Programming 
+ for Money-based Analysis in Farming. MacMillan, New York. 
+ Horowitz, J.K., Lichtenberg, E., 1994a. Risk-reducing and 
+ risk-increasing effects of bug-killers. J. Agric. Econ. 45, 82-89. 
+ Horowitz, J.K., Lichtenberg, E., 1994b. Insurance, moral danger/risk 
+ and chemical use in farming. Am. J. Agric. Econ. 75, 926935. 
+ Just, R.E., Zilberman, D., Hochman, E., Bar-Shira, Z., 1990. Input 
+ portion in multicrop systems. Am. J. Agric. Econ. 72, 200209. 
+ Kennedy, J.O.S., 1986. Pattern of behavior Programming, Applications to 
+ Farming and Natural Useful things/valuable supplies. Elsevier, London. 
+ Kingwell, R.S., 1994. Risk (point of view/way of behaving) and dryland farm management. 
+ Agric. Sys. 45, 191-202. 
+ Kingwell, R.S., 1996. Programming models of farm supply 
+ response: the hit/effect of (detailed description of exactly what is required) errors. Agric. Sys. 50, 
+ 307-324. 
+ Kingwell, R.S., Pannell, D.J. (Eds.), 1987. MIDAS, A Bioeconomic 
+ Model of a Dryland Farm System. Pudoc, Wageningen. 
+ Kingwell, R.S., Morrison, D.A., Bathgate, A., 1992. The effect 
+ of (related to the Earth's weather) risk on dryland farm management. Agric. Sys. 39, 
+ 153-175. 
+ Kingwell, R.S., Pannell, D.J., Robinson, S.D., 1993. Strategical 
+ responses to seasonal conditions in whole-farm planning in 
+ Western Australia. Agric. Econ. 8, 211-216. 
+ 
+ 78 
+ 
+ D.J. Pannell et al./Agricultural Money flow 23 (2000) 69-78 
+ 
+ Lambert, D., McCarl, B.A., 1985. Risk modeling using direct 
+ solution of (not going in a straight line) guesses of the utility function. 
+ Am. J. Agric. Econ. 67, 846-852. 
+ Lapan, H., Moschini, G., 1994. Futures hedging under price, basis 
+ and production risk. Am. J. Agric. Econ. 76, 465-477. 
+ Lapp, J.S., Smith, V.H., 1992. Group sources of relative price 
+ (quality of changing over time or at different places) among farming-based valuable things. Am. J. Agric. Econ. 
+ 74, 1-9. 
+ Leathers, H.D., Quiggin, J.C., 1991. Interactions between 
+ farming-based and useful thing/valuable supply policy: the importance of attitudes 
+ towards risk. Am. J. Agric. Econ. 73, 757-764. 
+ Machina, M., 1981. Clear decision making against/compared to/or 'rational' 
+ decision modeling. J. Mathemat. Crazy person!. 24, 163-175. 
+ Machina, M., 1982. Expected utility analysis without the 
+ independence true saying. Econometrica 50, 277-323. 
+ Malcolm, L.R., 1994. Managing farm risk: there may be less 
+ to it than is made of it, Unpublished paper presented to the 
+ Risk Management in Australian Farming Conference. Centre 
+ for Farming-based and useful thing/valuable supply Money flow, University of New 
+ England, Armidale, Australia. 
+ Morrison, D.A., Kingwell, R.S., Pannell, D.J., Ewing, M.A., 1986. 
+ A mathematical programming model of a crop-animals farm 
+ system. Agric. Sys. 20, 243-268. 
+ Musser, W.N., McCarl, B.A., Smith, G.S., 1986. An (act of asking questions and trying to find the truth about something) 
+ of the relationship between restriction (something left out) and risk 
+ disgust in firm risk programming models. South. J. Agric. 
+ Econ. 18, 147-154. 
+ Myers, R.J., 1989. Econometric testing for risk disliking behavior in 
+ farming. Appl. Econ. 21, 541-552. 
+ Nguyen, H., 1989. Farming-based planning policy and (quality of changing over time or at different places) 
+ in Syrian cereal production. In: Anderson, J.R., Hazell, P.B.R. 
+ (Eds.), (quality of changing over time or at different places) in Grain Yields: Effects/results/suggestions for Farming-based 
+ Research and Policy in Developing Countries. Johns Hopkins 
+ University Press, Baltimore, pp. 78-90. 
+ Ortmann, G.F., Patrick, G.F., Musser, W.G., Doster, D.H., 1992. 
+ Information sources, computer use and risk management 
+ (event(s) or object(s) that prove something) from leading commercial cornbelt farmers. Announcement 
+ 638. Farming-based Experiment Station, Purdue University, West 
+ Lafayette, IN. 
+ Pannell, D.J., 1987. Crop-animals interactions and rotation 
+ selection. In: Kingwell, R.S., Pannell, D.J. (Eds.), MIDAS: 
+ A Bioeconomic Model of a Dryland Farm System. Pudoc, 
+ Wageningen, pp. 64-73. 
+ Pannell, D.J ., 1991. Pests and bug-killers, risk and risk disgust. 
+ Agric. Econ. 5, 361-383. 
+ Pannell, D.J., 1995. Best herbicide plans for weed control 
+ under risk disgust. Rev. Agric. Econ. 17, 337-350. 
+ 
+ Pannell, D.J., 1997. Sensitivity analysis of normative money-based 
+ models: possible (solid basic structure on which bigger things can be built) and practical plans. Agric. 
+ Econ. 16, 139-152. 
+ Pannell, D.J., Nordblom, T.L., 1998. Hit/effect of risk disgust on 
+ whole-farm management in Syria. Aust. J. Agric. Resou. Econ. 
+ 42, 227-247. 
+ Patrick, G.F., DeVuyst, E.A., 1995. From where and to where in farm 
+ management risk research and extension delivery. Can. J. Agric. 
+ Econ. 43, 1-14. 
+ Patten, L.H., Hardaker, J.B., Pannell, D.J., 1988. Utility (producing a lot with very little waste) 
+ programming for whole-farm planning. Aust. J. Agric. Econ. 
+ 32, 88-97. 
+ Preckel, P.V., DeVuyst, E., 1992. (producing a lot with very little waste) handling of chance 
+ information for decision analysis under risk. Am. J. Agric. 
+ Econ. 74, 655-662. 
+ Quiggin, J., 1982. A explanation of expected utility. J. Econ. Behav. 
+ Org. 3, 323-343. 
+ Rae, A.N., 1971. An scientific computer program and test of 
+ separate (random/including random data points) programming in farm management. Am. J. 
+ Agric. Econ. 53, 625-638. 
+ Ripley, J., Kingwell, R., 1984. Farm (state of owing money) in wheat-growing 
+ areas of western australia: survey results. Western Australian 
+ Department of Farming, Perth. 
+ Robison, L.J., Barry, P.J., 1987. The Competitive Firm's Response 
+ to Risk. Macmillan, New York. 
+ Samuelson, P.A., 1967. A general proof that (getting involved with different types of things; not sticking with only one thing) pays. 
+ J. Finan. (numbers-based) Anal. 2, 1-13. 
+ Sandmo, A., 1971. On the explanation of the competitive firm under 
+ price doubt. Am. Econ. Rev. 61, 65-73. 
+ Schoemaker, P.J., 1982. The expected utility model. J. Econ. Lit. 
+ 20, 529-563. 
+ Schroeder, T.C., Featherstone, A.M., 1990. Energetic marketing 
+ and keeping/holding onto/remembering decisions for cow-calf producers. Am. J. Agric. 
+ Econ. 72, 1028-1040. 
+ Smidts, A., 1990. Decision making under risk: a study of 
+ models and measurement procedures with special reference 
+ to the farmer's marketing behaviour. Farming-based University, 
+ Wageningen. 
+ Sonka, S.T., 1983. Thoughts on modeling risk management on 
+ the farm. In: Baum, K.H., Schertz, L.P. (Eds.), Modeling Farm 
+ Decisions for Policy Analysis. Westview, Big rock, pp. 200203. 
+ Stanford, L., (exam or school supervisor), W., Wright, J., 1994. Wheat farming risk. 
+ In: Farm Surveys Report. ABARE, Canberra, pp. 72-80. 
+ Taylor, C.R. (Ed.), 1993. Applications of Pattern of behavior Programming 
+ to Farming-based Decision Problems. Westview Press, 
+ Big rock. 
+ 
+ <div style="clear:both">&nbsp;</div>

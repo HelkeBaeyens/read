@@ -1,0 +1,946 @@
+ Farming-based Money flow 25 (2001) 245-260 
+ 
+ Agent-based (related to space or existing in space) models applied to agriculture: 
+ a (testing out) tool for technology diffusion, 
+ useful thing/valuable supply use changes and policy analysis 
+ Thomas Bergera-- 
+ Center for Development Research, University of Bonn, ZEF-Bonn, Walter-Flex-Street 3, D-53113 Bonn, Germany 
+ 
+ Abstract 
+ This paper presents a (related to space or existing in space) multi-agent programming model, which has been developed for testing-related policy options in the 
+ diffusion of inventions of new things and useful thing/valuable supply use changes. Unlike ordinary (testing out) tools used in farming-based money flow/money-based studies, the 
+ model class described here applies a multi-agent/cellular robots (CA) approach by using blended farm-household 
+ models and (taking by force)/(taking control of) their social and (related to space or existing in space) interactions clearly. The individual choice of the farm-household among available production, consumption, investment and marketing other choices is represented in recursive linear programming models. 
+ Adoption restrictions are introduced in form of network-dividing line values that reflect the total amount of effects of experience and 
+ (instance of watching, noticing, or making a statement) of peers' experiences. The model's money-based and hydrologic parts/pieces are tightly connected into a (related to space or existing in space) 
+ (solid basic structure on which bigger things can be built). The (combination of different things together that work as one unit) of money-based and hydrologic processes helps the (serious thought/something to think about/respect) of (reactions or responses to something/helpful returned information) effects in the use 
+ of water for crop-watering/rinsing with water. The (testing out) runs of the model are carried out with an scientific data set, which has been came/coming from 
+ different data sources on an farming-based area in Chile. (testing out) results show that agent-based (related to space or existing in space) modelling makes up/is equal to 
+ a powerful approach to better understanding processes of invention of new things and useful thing/valuable supply use change. Â© 2001 Elsevier Science B.V. 
+ All rights reserved. 
+ JEL classification: Q120; O330; Q150; C690 
+ Keywords: Diffusion of inventions of new things; Inter-household linkages; Policy analysis; Multi-agent systems; Cellular robots 
+ 
+ 1. Introduction 
+ (testing out) models are gaining importance as tools 
+ for managing tomorrow's farming, since they allow the study of a wide range of price and trade 
+ policy options. In farming-based money flow/money-based studies, (testing out) models that (describe the future) the behaviour of individual 
+ decision-makers are usually based on mathematical 
+ programming methods. In these models, individual 
+ decision-making is usually grouped at the (related to a large area) 
+ a-- Tel.: +49-228-73-4964; fax: +49-228-73-1869. 
+ E-mail address: t.berger@uni-bonn.de (T. Berger). 
+ 
+ or part/area level in order to test policy options. The 
+ advantage of such models is that they are strong and 
+ less demanding about the availability of group data than econometric models. This makes them 
+ attractive, especially for policy analysis in change 
+ and developing countries. 
+ However, apart from the well-known problem of 
+ grouping error and the habit/desire to overspecialisation, ordinary (testing out) models based on mathematical programming suffer from two weaknesses. 
+ First, they do not clearly take by force/take control of the interaction 
+ between actors (i.e. the individual farm-families), 
+ which is equal to the idea (you think is true) that there are no 
+ 
+ 0169-5150/01/$ - see front matter Â© 2001 Elsevier Science B.V. All rights reserved. 
+ PII: S 0 1 6 9 - 5 1 5 0 ( 0 1 ) 0 0 0 8 2 - 2 
+ 
+ 246 
+ 
+ T. Berger / Farming-based Money flow 25 (2001) 245-260 
+ 
+ transaction and information costs. Second, these models do not fully take into account the (related to space or existing in space) dimension 
+ of farming-based activities and, this way, neglect the role of 
+ internal transport costs and the physical (being unable to move around) 
+ of land. As a result, the explanatory power of these 
+ models is rather medium-level for research questions that 
+ involve the diffusion of inventions of new things or locally changed/ready 
+ useful thing/valuable supply use where interaction and space usually play 
+ a clear role. 
+ Against this background, the study presented here 
+ (Berger, 2000) tried to develop a new mathematical programming approach for the (statement about the future) of 
+ diffusion processes, valuable thing from nature use changes and 
+ policy responses. The model's (ability to be used for something) is tested 
+ on an scientific policy-related research question in 
+ Chile. The research was given money by the Deutsche 
+ Forschungsgemeinschaft (DFG) and carried out in 
+ co-operation with the University of Talca and the 
+ Center for Technology Test in Linares (Berger, 
+ 1997). The project draws on Balmann (1997), who 
+ first discovered/used the use of farm-based linear programming 
+ within a cellular robots (CA) (solid basic structure on which bigger things can be built). 
+ 
+ 2. Problem and goals 
+ Demand for a new type of model rose up from the 
+ search for (good) enough policies to improve the (wanting to beat others in contests) of Chilean farming in the big picture  of the 
+ Mercosur free-trade agreement. 
+ In 1996, taxes/import taxes were cut by 30% on the average. It 
+ was also agreed to specify exceptions for some rather 
+ sensitive farming-based products such as wheat, flour 
+ and sugar. Taxes/import taxes on these products remained at the 
+ level of 1996, until the end of the agreed (change to make better/related to changing something) 
+ period, which will be around 2014. Going along with 
+ the approval of the agreement (between countries) in 1996, a few studies 
+ were used/paid that were aimed at reducing the 
+ fears of the rather traditional Chilean farmers. The 
+ overall result of these studies was that farmers will 
+ in fact suffer income losses, but only if they continue 
+ to produce import valuable things. However, Chilean 
+ farmers do have a (large/relatively large) (serving to compare two or more things) advantage over other Mercosur countries if they produce 
+ export valuable things. Hence, the challenge for Chilean 
+ farmers is to invest in new technologies in order to 
+ take advantage of increasing prices for export products (that are bought and sold). 
+ Given that crop-watering/rinsing with water is needed/demanded for most export farm- 
+ 
+ ing activities, useful thing/valuable supply use changes and water-saving 
+ inventions of new things are a hot issue in farming-based extension. 
+ Political bargaining started on how to support the 
+ (change to make better/related to changing something) and modernisation process of Chilean 
+ farming. (even though there is the existence of) the importance of invention of new things, 
+ there exist only a few and rather informal studies 
+ about the likely results of market-driven technical 
+ and (related to what holds something together and makes it strong) changes in Chilean farming. 
+ The goal of this research was to develop a new 
+ multi-agent modelling approach which (1) reduces the 
+ weaknesses of mathematical programming talked about/said 
+ above, and (2) provides ideas of the diffusion of 
+ inventions of new things and water useful thing/valuable supply use. 
+ The (testing out) tool should help to clear up the following questions: 
+ - What will be the likely patterns of diffusion for 
+ clearly stated/particular inventions of new things? 
+ - Can we expect big changes in the use of 
+ water as a result of water-saving crop-watering/rinsing with water methods? 
+ - Will these inventions of new things create (good) enough incomes and 
+ also reach traditional farmers? 
+ - What will be the (related to what holds something together and makes it strong) effects of a 'treadmill' 
+ invention of new things process, to use Cochrane's (1979) words/word choices? 
+ 
+ 3. Hidden (under) model thinking 
+ In Section 3.2, I outline some methodological 
+ thoughts on model building, which favour the use of a (related to space or existing in space) farm-based programming approach to 
+ the adoption of inventions of new things and useful thing/valuable supply use changes. 
+ Since the ideas of multi-agent systems (MAS) and 
+ CA are borrowed from the computer sciences, a short 
+ explanation may be helpful. For an summary on these 
+ and other (not made by nature/fake) life ways of doing things applied to social 
+ science tests, refer to Gilbert and Troitzsch 
+ (1999). 
+ MAS are computer systems composed of self-ruling things/businesses or agents which have only limited 
+ knowledge and information processing abilities (to hold or do something). 
+ While agents can be as simple as subroutines of a 
+ computer program, usually they are larger things/businesses 
+ with some sort of (constant/not going away) control. Good examples 
+ are personal electronic helpers that search for information on the internet, arrange their owners' time 
+ schedules and help car drivers. In the same way/in that way, on a 
+ 
+ T. Berger / Farming-based Money flow 25 (2001) 245-260 
+ 
+ less clear level, their purpose is to solve larger and 
+ complex problems that one (had everything controlled by one central place) unit cannot 
+ tackle, because too much information and computation power would be needed/demanded. In MAS, agents interact and exchange information in a decentralised and 
+ somewhat 'social' manner instead, which explains 
+ why the term 'Distributed (not made by nature/fake) Intelligence' was 
+ created. Especially, this last aspect makes MAS an 
+ interesting tool for social sciences. The idea is to use 
+ computer tests with human like agents in order to study how an group of people leads 
+ to complex macro behaviour. These in silicio experiments will help to test the guesses on the basic social (machines/methods/ways) in human (communities of people). CA 
+ can be used to model the agents' interactions in the 
+ physical or social space. Usually, the agents occupy 
+ positions on a two-dimensional grid of cells and the 
+ distances between them influence their interactions. 
+ An long/big books has come out both on the 
+ way(s) of doing things and the use of mathematical programming models in (describing the future) supply response in farming. Hanf (1989) provides an test of the 
+ two extreme early models of farming-based part/area models, 
+ which may be very shortly summarised as follows. 
+ The 'simultaneous balance approach' generally 
+ assumes a perfect co-(process where people are made priests, rabbis, etc.) (machine/method/way) and (makes as big as possible) a common part/areaal utility function. In contrast, 
+ the 'representative independent farm approach' consists of some farm models which are independently calculated and then added up to a part/area result. 
+ The second approach seems to be a preferred model 
+ choice, if part/area development is seen as (1) 
+ (not totally pure/not totally correct) markets, (2) different behaviour than pure 
+ profit (biggest increase/best possible extent) and (3) (change to make better/related to changing something) processes. The 
+ same arguments apply in way of thinking/basic truth/rule to the multi-agent 
+ programming approach. As will be shown in the rest of this section, the multi-agent idea  also/and helps the (serious thought/something to think about/respect) of inter-household 
+ linkages and of space. 
+ 
+ 2. 
+ 
+ 3. 
+ 
+ 4. 
+ 
+ 5. 
+ 3.1. Arguments for using a multi-agent 
+ programming approach 
+ 1. A farm-based programming approach allows for a 
+ practical treatment of data availability in change and developing countries where consistent group data hardly exist. Information from different 
+ sources such as (related to scientific farming) results from experimen- 
+ 
+ 247 
+ 
+ tal stations, official and unpublished farm records 
+ and sample surveys, experts' opinions and direct 
+ (instances of watching, noticing, or making statements) on field trips can be incorporated. 
+ Policy makers and institutions chasing after technology 
+ move (from one place to another) have a great interest in (describing the future) the diffusion of clearly stated/particular inventions of new things and in testing the 
+ policy effects/results/suggestions for 'typical' farm-families. 
+ Both technical and (money-related) restrictions on the farm 
+ level can easily be introduced into a farm-based 
+ programming approach. 
+ The set of activities which are technically and 
+ (related to money) (able to be done) for a farmer is influenced by 
+ behavioural restrictions that reflect the total amount of effects of experience and (instances of watching, noticing, or making statements) of his 
+ neighbours' experiences. Therefore, one should 
+ think about/believe some form of mixed-up nature of behaviour 
+ in order to take by force/take control of time falls behind  in farmers' choices 
+ among other choice technologies. For the programming approach, this hints that a few single 
+ farm models with different behavioural restrictions 
+ have to be solved (at the same time), which is possible 
+ in a MAS. 
+ A multi-agent model can take by force/take control of the most 
+ important interactions between farm-families. 
+ One type of interaction is the exchange of information about new technologies that is very important 
+ for the individual invention of new things decision. As findings 
+ from the invention of new things diffusion book-related show, a 
+ 'critical mass' of convinced users must be reached 
+ before an invention of new things will spread. The finest approach to modelling this thing/event might be 
+ to internalise the communication process between 
+ the individual programming models, because otherwise one would have to establish the time of 
+ adoption more or less 'ad hoc' for each model and 
+ each policy picture/situation. (in this/within this), lies the real good quality/good qualities of 
+ MAS, since it helps the solving of self-ruling 
+ programming problems while exchanging (numbers that change/things that change) 
+ between them. 
+ Almost the same  (things to carefully think about) as in step 4 apply to another 
+ type of interaction: the exchange of locally available useful things/valuable supplies such as water and land. These factors 
+ of production are usually absorbed under the idea of 'non-tradable' products (that are bought and sold). Because of their importance for farm-related, including land 
+ and water markets in MAS with an endogenous 
+ price (creation and construction/ group of objects) represents a important/famous improvement 
+ over ordinary models. 
+ 
+ 248 
+ 
+ T. Berger / Farming-based Money flow 25 (2001) 245-260 
+ 
+ 6. Different kinds of analysis can be done/tried 
+ in a energetic model setting. The main research 
+ interest of the project presented here is to analyse the path of farming-based development without 
+ (impressive/forcing (on people)/causing an inconvenient situation) the final result, as it is done in the 
+ (serving to compare two or more things)-static models used in many studies. The idea behind this approach is to define 
+ parts of an farming-based area and to 
+ establish some rules about their patterns. 
+ Having set up a starting situation, the model is run 
+ and a kind of self-organising process can be watched/followed at the group (related to a large area) level. By difference/different version 
+ of particular model (numbers that change/things that change), e.g. prices or interest 
+ rates, one can explore the (related to what holds something together and makes it strong) (change over time) that 
+ might unfold in response to changing policy conditions. So, the approach can be best described 
+ as doing experiments in an (not made by nature/fake) world in 
+ order to get ideas for policy development and 
+ test. 
+ 3.2. Arguments for using a (related to space or existing in space) cellular 
+ robots model 
+ The next question to be raised in this big picture  is why 
+ the (related to space or existing in space) dimension of farming-based activities should 
+ be thought about/believed in farm models. 
+ 1. From the farm management explanation, it is well-known 
+ that internal transport costs limit farm growth. 
+ Farms mainly fight against their neighbours for 
+ land and, therefore, depend on the local supply of 
+ and demand for land. In areas away from cities, where many 
+ farms with a high not important working well attempt 
+ to expand their land, this can lead to too much/too many 
+ land prices that may even prevent the (understanding/achieving a goal) 
+ of (making a lot of an item so each item costs less). Ignoring these (related to space or existing in space) patterns by assuming perfect land portion among 
+ farms is not always an (good) enough representation of 
+ reality. 
+ 2. The particular role of (related to space or existing in space) relations in the use of 
+ water for crop-watering/rinsing with water also needs/demands a (related to space or existing in space) model. 
+ Technologies with low crop-watering/rinsing with water (measures of output versus waste/getting more with less waste) used 
+ by upstream farmers create high return flows 
+ that can be reused by downstream farmers. In the same way/in that way, the (related to space or existing in space) distribution of freshwater 
+ use and reuse is very important for farm models 
+ in developing countries where crop-watering/rinsing with water (wasting very little while working or producing something) 
+ is usually low. 
+ 
+ 3. Soils of different (producing crops/helping something grow) qualities and water 
+ supply decide/figure out the (related to space or existing in space) difference/different version of particular 
+ land use systems to a certain extent. Newly available technologies and policy helping actions may 
+ change  this distribution, especially in the case of watered farmland. The same applies to organisational 
+ inventions of new things such as both/together used (set of machines) or 
+ (producing crops/helping something grow) practices with a high degree of (related to space or existing in space) 
+ co-(process where people are made priests, rabbis, etc.), e.g. as (having different things working together as one unit) pest management. 
+ (related to space or existing in space) models are needed/demanded to take by force/take control of these issues. 
+ 
+ 4. Model putting into use 
+ The newly designed MAS-CA model consists of 
+ two main parts/pieces: an money-based sub-model and a 
+ hydrologic sub-model, which are tightly connected to 
+ a consistent (related to space or existing in space) (solid basic structure on which bigger things can be built) (Fig. 1). This section 
+ provides a short model description with focus on 
+ the technology adoption process. For a listing of model 
+ limits/guidelines and equations talk to Berger (2000). 
+ 4.1. Farm-based mathematical programming 
+ As far as the money-based sub-model is concerned, a recursive linear programming approach is used 
+ but with a clear (pretty, inexpensive toy/the quality of being new). Each farm-household in 
+ the study area is (now under different control) in the model and solves its 
+ decision problems over time (in a self-ruling way). A few 
+ types of interactions between farms are carefully thought about/believed: 
+ sickness of information, exchange of land and water 
+ useful things/valuable supplies and return-flows of crop-watering/rinsing with water water. Equally, one might call this a highly disaggregated 
+ farm programming approach with inter-household 
+ linkages. The farm-families are assumed to look (for) 
+ to (make as big as possible) expected family incomes without exhausting their land and water valuable things. Adoption of 
+ inventions of new things is idea-basedised as a farm investment 
+ problem under doubt. The agents' complex 
+ decision-making processes are rotten into sequences of smaller linear programming problems that 
+ are solved separately for each agent (Fig. 2). Following Day and Signo (1978), there is "sub-optimising 
+ with (reactions or responses to something/helpful returned information)", (in other words) the agents attempt to (make as big as possible) 
+ their expected income in a (one after the other), local optimisation procedure that takes into account the agents' 
+ previous experiences. In the case where the returns to 
+ family-owned useful things/valuable supplies fall below certain dividing lines, 
+ 
+ T. Berger / Farming-based Money flow 25 (2001) 245-260 
+ 
+ Fig. 1. Model parts/pieces. 
+ 
+ Fig. 2. Flowchart of the (testing out) model. 
+ 
+ 249 
+ 
+ 250 
+ 
+ T. Berger / Farming-based Money flow 25 (2001) 245-260 
+ 
+ the models' farm-agents are willing to give up farming-based production and leave the farm business. 
+ 4.2. Technical change 
+ The invention of new things money flow/money-based studies books, as referred to in 
+ Dosi et al. (1988), regards modern farm production 
+ as a typical example of a supplier-ruled part/area. 
+ Technical improvements are mostly incorporated in 
+ process inventions of new things such tractors, fertilisers and bug-killers, which are created in the input supplying industry. The focus of this model approach is therefore, 
+ placed on the adoption of farming-based inventions of new things by 
+ farms. Specific supply factors of technical change are 
+ neglected. This simplification can also be reasonable 
+ by the commonly accepted guess that demand 
+ factors are mostly responsible for the speed of diffusion in farming (Griliches, 1957). Technologies 
+ that appear to be promising in the near future become 
+ available to the farm-families in the (testing out) 
+ runs and thinly spread through the farm part/area. Obviously, 
+ two extreme pictures/situations define the 'possibility space' 
+ for future technology diffusion in the farm part/area. 
+ On one hand, farmers might (change to make better/change to fit new conditions) 'smoothly' to 
+ (coming from the outside of something) technical changes as (stated or said earlier) in the standard money-based approaches. On the other hand, one 
+ might assume conservative farmers who are unwilling to create something new and refuse any technology adoption. 
+ Reality will probably lie somewhere between these 
+ two edges. The model presented here helps to 
+ explore the money-based (possible power or ability within/possibility of)  new technologies 
+ along different development paths. 
+ 4.3. Mixed-up nature of behaviour 
+ In decision-theoretic terms, two (numbers that change/things that change) affect 
+ the behavioural mixed-up nature of farmers during the 
+ diffusion process of a clearly stated/particular invention of new things. First, the 
+ net benefits from adoption which traditional farm investment analysis can 'objectively' measure. Second, 
+ all other costs that relate to the farmer's managerial ability (to hold or do something) and are usually referred to as adoption 
+ costs. These include information and planning costs, 
+ socio-mental (change to make better/related to changing something) costs, (lasting for a short time) production losses as well as 'subjective' risk premiums 
+ and option values. Metcalfe (1988, p. 564) provides a 
+ good illustration of how the diffusion process in the 
+ farm part/area comes out from the frequency distribution 
+ 
+ of these two (numbers that change/things that change). Following his idea, one 
+ can classify the farm-families into three groups 
+ relating to/connected to their timing of technology adoption: 
+ "non-adopters" whose net benefits from adoption of 
+ a clearly stated/particular invention of new things are negative (probably due 
+ to indivisibility or not enough farm sizes), "possible adopters" who now face (way too much) high 
+ adoption costs and "actual adopters" with positive net 
+ benefits after adoptions costs. Diffusion of the invention of new things happens when relative price changes or technical 
+ improvements change the distribution of net benefits 
+ and/or adoption costs and because of this, more 'potential' 
+ adopters become 'actual'. As Metcalfe (1988) notes, 
+ the recognition of 'information sickness' or 'bandwagon effects' tells apart the following two diffusion models. Balance approaches assume that 
+ information sets are given and (coming from the outside of something), while unbalance approaches admit/recognize/respond to an endogenous 
+ chain-reaction type of 'contagion process'. A well-known/obvious example of the second approach is Cochrane's 
+ (1979) treadmill model in farming, which is based 
+ on different adoption costs. Farmers with a high management ability (to hold or do something) and low individual adoption costs 
+ tend to adopt a new technology first; imitators follow 
+ when their at first higher adoption costs decrease due 
+ to information spillover. Much evidence, as 
+ referred to by Rogers (1995), supports this idea. At the 
+ most critical stages in their adoption decision process, farmers (based on what's seen or what seems obvious) depend on information brought 
+ to them by the peers. 
+ 4.4. Dividing lines to adoption 
+ If all farmers eventually adopt an invention of new things, the 
+ result of the sickness process over time usually 
+ approaches an S-shaped diffusion path. Usually the 
+ (usual/ commonly and regular/ healthy) bell-shaped and the total amount of curve are separated into five adopter categories using the average 
+ time of adoption and the standard moving away (Table 1). 
+ Along the time path, the farmers behave as if they 
+ had dividing lines to adoption. For example, the first 
+ farmers of the 'early adopter' part adopt after 
+ the 'innovators' part, which counts for 2.5% of 
+ the farm population has. The 'early majority' follows 
+ after the invention of new things has reached 2.5 + 13.5% of the 
+ farmers, and so forth. In the same way/in that way, one can understand/explain 
+ these total percentages as 'adoption dividing lines' 
+ for the farmers of the later adopter category. If 
+ 
+ T. Berger / Farming-based Money flow 25 (2001) 245-260 
+ 
+ 251 
+ 
+ Table 1 
+ Adopter categories and dividing linesa 
+ 
+ Frequency (%) 
+ Total frequency (%) 
+ a 
+ 
+ Clever creators 
+ 
+ Early users 
+ 
+ Early majority 
+ 
+ Late majority 
+ 
+ Lazy people 
+ 
+ 2.5 
+ 0.0 
+ 
+ 13.5 
+ 2.5 
+ 
+ 34.0 
+ 16.0 
+ 
+ 34.0 
+ 50.0 
+ 
+ 16.0 
+ 84.0 
+ 
+ Source based on Rogers (1995, p. 262) 
+ 
+ one also/and assumes that relative prices remain 
+ constant and no after-new and interesting (related to computers and science) improvements happen, the following decision rule at the 
+ farm level leads to the same time path. 
+ - Step 1: Monitor the present adoption level and compare it with the individual dividing line. 
+ - Step 2: If the dividing line is reached, calculate the 
+ farm's net benefits from the adoption. 
+ - Step 3: If the net benefits are positive, adopt the 
+ technology. 
+ Introducing a few more ideas (you think are true) to this 
+ frequency-dependent diffusion model make it possible 
+ to (describe the future) the time path of the adoption of a few production technologies (at the same time). The most important of the ideas (you think are true) listed in Berger (2000) are: no 
+ change of dividing lines over time; inventions of new things do not differ in their 'primary' attributes (cf. Downs and Mohr, 
+ 1976); the existence of a 'natural' time periods of time (or space) such 
+ as (Table 1) planting seasons when adoption decisions 
+ can only be made. As further extensions to this approach, one can (1) think about/believe separate communication 
+ networks without information spillover by watching 
+ only the farmers belonging to the same network and 
+ (2) attribute higher weights to external information 
+ sources by lowering the above talked about/said dividing lines. 
+ 4.5. Scientific guess of diffusion limits/guidelines 
+ Net benefits of different production technologies 
+ can be came/coming from experimental data and easily introduced into the whole farm programming models. 
+ In contrast, the guess of adoption costs and their 
+ changes over time usually presents/causes problems due to 
+ poor data availability. Luckily, network-dividing lines 
+ have in principal the advantage of a better scientific 
+ measurability. As Valente (1995) (shows or proves), individual network-dividing lines can be honestly/easily 
+ figured out/calculated from the network survey data. Since adoption dividing lines contain the same information about 
+ 
+ the hidden (under) sickness process as adoption costs, 
+ the dividing line approach is chosen for the research 
+ presented here. However, a complete network survey 
+ was not yet available for the Chilean study area 
+ and the network-dividing lines had to be came/coming from 
+ the data given by the extension service, an own 
+ project survey and in-depth interviews. Based on the 
+ intensive scientific work of Stallmeister (1995) and 
+ Sauer (1995), two clear/separate communication networks 
+ without information spillover were carefully thought about/believed. On 
+ one hand, the campesino farms network consists of 
+ small-scale family holdings between 2.5 and 12.0 ha. 
+ On the other hand, the (what people commonly call a/not really a) 'commercial' farms 
+ network with farm sizes of more than 12.0 ha. Certainly, this network analysis is rather (not definite) and 
+ a follow-up study will have to managed and did/done to provide 
+ more goal scientific network-dividing lines. 
+ 4.6. Other scientific data 
+ The tests are carried out with an scientific data set that has been came/coming from different data 
+ sources on an farming-based area in Chile. The scientific (act of asking questions and trying to find the truth about something) (recorded on a camera or computer) both the main (related to scientific farming) 
+ and (related to how much money and power people have) features of the (connected/related) area. 
+ The (related to space or existing in space)ly disaggregated data set includes land of 
+ different (producing crops/helping something grow) qualities and water as an added factor of production. A special module was 
+ designed to process and store the (related to a large area) and individual farm data in a (related to space or existing in space) information file. In order to 
+ think about/believe price changes due to the Mercosur agreement, price indices were figured out/calculated based on Muchnik 
+ et al. (1996). In the different pictures/situations without the 
+ association to the Mercosur, input and output prices 
+ are fixed to their 1996 levels. Table 2 gives a summary 
+ of all the model (numbers that change/things that change) and limits/guidelines. 
+ 4.7. (related to space or existing in space) dimension 
+ As in most (land-area-based/location) information systems (GIS), 
+ the data are (related to space or existing in space)ly organised in a grid of (wide view of a nature scene/wide area of beautiful land) 
+ 
+ 252 
+ 
+ T. Berger / Farming-based Money flow 25 (2001) 245-260 
+ 
+ Table 2 
+ Summary of model (numbers that change/things that change) and limits/guidelines 
+ (coming from the outside of something)ly serious and stubborn (numbers that change/things that change) 
+ 
+ Endogenous (numbers that change/things that change) 
+ 
+ Limits/guidelines 
+ 
+ Market prices for 'tradables' 
+ Interest rates 
+ Wages 
+ Taxes and (things that are given/work that's done) 
+ Minimum consumption level 
+ Supply of land 
+ Supply of freshwater 
+ Supply of inventions of new things 
+ Initial location of farms 
+ 
+ Prices for 'non-tradables' 
+ Lands of crops 
+ Yields 
+ Investment levels 
+ Working capital expenses 
+ Borrowing and saving levels 
+ Labour use 
+ Return-flows in crop-watering/rinsing with water 
+ Portion of land and water 
+ 
+ Input-output coefficients 
+ (lowering of value) rates 
+ Sunk costs for fixed valuable things 
+ Unit transport cost 
+ Network dividing lines 
+ Expectation coefficients 
+ 
+ units. Each cell or pixel has a few biophysical and 
+ money-based attributes connected with it: soil quality, 
+ water supply, land cover/land use, ownership, internal transport costs, not important working well or return to 
+ land. While the first attribute, 'soil quality' here is assumed to be constant, all the other attributes are influenced by the self-ruling decisions made over the 
+ time by the model agents, (in other words) the farm-families 
+ and non-farm owners. For example, water supply depends on the amount of individual water user rights 
+ traded on markets. Land cover/land use is taken from 
+ the farm's linear programming problem, taking into 
+ account the price expectations and technical and (money-related) restrictions. As far as ownership or (lengths of time at work or in power)hip 
+ is concerned, the model (takes control of) their changes when 
+ farmland is sold or rented. As a result, internal transport costs may also change/differ  because of a cell's location 
+ and (pertaining to each person or thing) distance to the new farmstead. 
+ 4.8. Markets for land and water rights 
+ As scientific findings show, land and water are 
+ hardly ever sold in Chile, but rental markets may play 
+ an important role in the local exchange of both the 
+ useful things/valuable supplies. To (take control of) these features, rental markets 
+ for land and water are carefully thought about/believed endogenously in 
+ the model. An auction module was designed to model 
+ two-sided trade between the agents. Farm-agents attempt to rent out land and water when their shadow 
+ prices for a particular parcel are below part/area average. Since the internal transport costs between parcel 
+ and farmsteads are carefully thought about/believed, it is mainly the neighbouring farm-agents that compete for the offered 
+ land. The (lasting for a short time) land use right is then moved (from one place to another) 
+ 
+ to the neighbour with the highest shadow price for 
+ the clearly stated/particular parcel. For the purpose of simpleness, 
+ (related to a plan to reach a goal) behaviour is not taken into account and the 
+ individual level of rent is fixed at the average of the 
+ corresponding offer and request. 
+ 4.9. Return-flows of crop-watering/rinsing with water 
+ The water supplies sub-model is subdivided into 
+ sections in order to take by force/take control of the locally available 
+ freshwater supplies and return-flows. Equations and 
+ limits/guidelines are taken from a water engineering 
+ study for the Chilean Department of Public Works. 
+ The sub-model establishes a monthly water balance 
+ for each section, starting with the upstream sections. The farms receive their individual freshwater 
+ and return-flows quota according to their water user 
+ rights. They irrigate their farmlands, by that/in that way producing return-flows to users downstream. The farms 
+ apply certain decision rules as far as the (lasting for a short time) 
+ or permanent (being left alone, with no help) of crops is concerned. 
+ The dividing line linear relationships are assumed with 
+ respect to the crop-water production function. 
+ 4.10. (testing out) experiments 
+ The research area covers an area of roughly 
+ 667 km2 and is represented in the model with a (ability to display or measure very small things) of about 158m Ã-- 158 m. Because of this, the size of 
+ grid cell is 2.5 ha. Since each grid cell goes along with 
+ a farm parcel, farm sizes are measured to the nearest 2.5 ha. The (related to space or existing in space) model is sub-divided in 20 
+ sections in order to think about  the return-flows from 
+ upstream to downstream farmers. Each of the 5400 
+ 
+ T. Berger / Farming-based Money flow 25 (2001) 245-260 
+ 
+ farm-families (90% campesino) regarded in the 
+ model solves its investment, once-a-year production and 
+ (length of time at work or in power/right to permanent employment) decisions problems by the use of mixed-integer 
+ programming (dimension of the LP matrix: 120Ã--240, 
+ around 1.4 million problems solved per (testing out) 
+ run). Based on the thorough field trials by the Center 
+ for Technology Test, 32 new and interesting crops and 
+ water-saving ways of doing things were chosen to be included 
+ in the model and spread during the (testing out) runs. 
+ The farm-agents select among these inventions of new things and 
+ adopt according to their relative a money-making state. In the 
+ (something that attracts lots of people) pictures/situations, however, farm-agents only 
+ have access to those inventions of new things which have reached 
+ their network-dividing line. The (related to computers and science) possibilities of the campesino and commercial holding types 
+ differ for some farming activities due to indivisibilities. Heavy machinery, certain export fruit (large farms with crops) and crop-watering/rinsing with water methods are only available to the 
+ large-scale commercial farms. Apart from the pure 
+ market-driven pictures/situations with and without Mercosur, 
+ policies on credit and payments to farm production are 
+ analysed. 
+ 4.11. Software 
+ This newly designed MAS-CA model has 
+ MS-Windows 32 bit and UNIX portability. Input and output files are in ASCII-text format and 
+ can be processed with common spreadsheet and 
+ graphics programs. The source code is written in 
+ C++ object-oriented programming language and 
+ permits modular extensions to include, e.g. (related to surrounding conditions or the health of the Earth) restrictions or to create (connecting points/ways of interacting with something) with GISapplications. 
+ 
+ 5. Model adjustment and strength 
+ The adjustment of a MAS-CA model is rather challenging since the model has to (pretty close) real-world 
+ (instances of watching, noticing, or making statements) on the micro level (farm-families) as 
+ well as on the macro level (research area). In this 
+ study, a two-step approach is followed: first, validation experiments on the micro level, where typical 
+ model agents are compared to real-world farm data; 
+ and second, macro level experiments in order to test 
+ the model's group representation. The adjustment-related 
+ procedure is repeated until a (good) enough model fit at both 
+ 
+ 253 
+ 
+ levels is (accomplished or gained). Unfortunately, only the real-world 
+ (instances of watching, noticing, or making statements) on land use distribution in 1996 were 
+ available for the micro level. Therefore, the model's 
+ ability to copy reality can only be checked for the 
+ initial (testing out) period. Land use results from the 
+ model were moved backward on their watched/followed values to create a simple goodness-of-fit -- perfect association 
+ would be pointed to/showed by an (stopping or interfering with something) of 0 and a slope 
+ of 1. On the micro level, the moving backward produces /gives up a slope 
+ of 0.977 (S.E. = 0.01, R 2 = 0.991) and on the macro 
+ level of 0.704 (S.E. = 0.107, R 2 = 0.657). The model 
+ probably overestimates the (producing crops/helping something grow) of maize and 
+ some (peas, beans, lentils, etc.), and underestimates wheat (producing crops/helping something grow). 
+ Given that gross margins for these crops are fairly 
+ similar and their (related to a large area) values are only rough 
+ guesses, the model fit seems (good) enough for this study. 
+ Needless to say, the standard errors are only informal 
+ judging requirements since the model results are not strictly independent. Change or watching and following/making footprints of experiments as suggested 
+ by McCarl and Apland (1986) remain to be done in 
+ a follow-up study, which will collect more field data. 
+ However, local experts thought about/believed the model's (describe the future)ive ability to be reasonable. 
+ Also, strength tests are important for (testing out) models that contain many 
+ degrees of freedom and with highly recursive patterns. Especially in this study, where scientific data 
+ were combined with rather informal (instances of watching, noticing, or making statements) and 
+ random-created (produced by people/not naturally-occurring) data, the model should 
+ produce non-weird results within a wider range 
+ of limit/guideline differences/different versions. Therefore, the model's strength was tested by using two (numbers that change/things that change), average 
+ income and on-farm labour portion in different 
+ adopter categories, which directly reflect changes in 
+ the farm organisation. With identical starting conditions, these indicators show very little difference/different version 
+ in repeated (testing out) runs (&amp;lt;1%, except for the 
+ clever creators' group income where about 6% difference/different version 
+ was found due to the small size of this group). In the 
+ case of changing starting conditions, difference/different version was 
+ obviously higher when the first gift with 
+ fruit (large farms with crops) was changed by more than 100%. 
+ Fruit production needs/demands (large/relatively large) labour input 
+ and creates high incomes. Though (value of a number, ignoring its sign)s 
+ of both indicators differ in these special pictures/situations, 
+ the relative (popular things/general ways things are going) are uniform. As a result, 
+ the model seems strong enough to compare different pictures/situations under identical starting conditions. 
+ 
+ 254 
+ 
+ T. Berger / Farming-based Money flow 25 (2001) 245-260 
+ 
+ More details on the strength experiments and 
+ supportive (related to studying numbers) tests can be found in Berger 
+ (2000). 
+ 6. (related to computers and science) and policy pictures/situations 
+ The MAS-CA model provides the opportunity to 
+ carry out a wide range of (related to computers and science) and policy 
+ pictures/situations by difference/different version of the following limits/guidelines: 
+ - Input and product prices. Different (coming from the outside of something) price 
+ governments make it possible to test out pictures/situations with 
+ and without the association to Mercosur. 
+ - Credit market conditions. Chilean extension clients 
+ enjoyed special (and good) access to credit in the form of 
+ give money tod loan rates and lower minimum shares of 
+ equity capital. The model helps (putting into) use of such client-clearly stated/particular policies as well as special government investment programs for large- or 
+ small-scale farm businesses/projects. 
+ - Cash expenses. By difference/different version of farm and 
+ non-farm cash expenses, either coupled or uncoupled to land, government helping actions such as 
+ direct income moves (from one place to another), personal taxes and land 
+ taxes can be taken into account. 
+ - Labour opportunity costs. (serious thought/something to think about/respect) of specific labour opportunity costs provides ideas of 
+ (away from cities)-city-based  traveling and generation cycles. It can 
+ be assumed that families quit the farm business 
+ when they reach certain dividing lines for off-farm 
+ wages. Also younger farmers often have better 
+ off-farm job opportunities and, as a result, farms 
+ may close down when the older generation retires. 
+ - Water supply. Differences/different versions of fresh water supplies and 
+ distribution losses make it possible to analyse very 
+ dry years as well as investments in improved crop-watering/rinsing with water (set of machines). 
+ - Land and water markets. Patterns on rental markets can be driven by activity coefficients for special pictures/situations. Differences in shadow prices for a 
+ clearly stated/particular plot may not reach certain dividing lines, this way, 
+ preventing the transaction between possible (people or businesses who occupy a house, office, etc.) 
+ and landowners. 
+ - Price and water supply expectations. It is possible to 
+ think about/believe different forms of expectations, e.g. static, 
+ (able to change and get better) and perfect intelligence, in order to analyse 
+ the role of behavioural mixed-up nature in the process 
+ of invention of new things and farm (change to make better/related to changing something). 
+ 
+ - Adoption costs and network-dividing lines. These limits/guidelines are used to (describe the future) the diffusion of specific 
+ inventions of new things under different ideas (you think are true) concerning communications between farm-families. 
+ Pictures/situations with complete good  information 
+ (zero adoption costs -- ideal technical change), 
+ frequency-dependent sickness processes ((something that attracts lots of people) effect) or excess (slow or no movement/the force of something moving) ((way too much) high 
+ adoption costs -- without technical change) can be 
+ (like the real thing). 
+ Policy options, which have direct effects on model 
+ (numbers that change/things that change) such as prices or credit big plans/layouts/dishonest plans, can be 
+ easily tested for their results on the supply response and farm incomes. It is by far more challenging 
+ to test the hits/effects of indirect effects such as farming-based extension programs. One possibility is to run 
+ the model with on-the-spot ideas (you think are true) about the effectiveness of extension on adoption dividing lines and then 
+ examine the model's sensitivity. 
+ 
+ 7. Selected (testing out) results 
+ In this section, some (testing out) results will be discussed to (show or prove) the model's (ability to be used for something) to 
+ policy-related research questions. As pointed to/showed above, 
+ resistance of the farm part/area and especially the Chilean 
+ farmers association to Mercosur is rather strong. With 
+ a view to this disagreement, a few policy options are 
+ being discussed in Chile and attempts are being made 
+ to modernise national farming by (helping increase/showing in a good way) the 
+ diffusion of inventions of new things. The agent-based (testing out) 
+ model tries to answer the questions listed in Section 2 and helps to identify winners and losers among 
+ the farm holdings. 
+ First, the (testing out) runs show/tell about a few typical diffusion patterns as shown in Fig. 3. Certain inventions of new things 
+ such as 'contract farming' thinly spread quickly and reach 
+ very high saturation levels among the commercial 
+ farm holdings. Behavioural mixed-up nature and communication effects do not play an important as compared 
+ to the example 'horticulture' in the case of campesino 
+ farms. Here, we find amazing differences in diffusion speed and saturation level if less ideal (related to computers and science) conditions are assumed. Such patterns might 
+ permit some form of government helping action in order to 'speed up' the diffusion (something that attracts lots of people). A third 
+ 
+ T. Berger / Farming-based Money flow 25 (2001) 245-260 
+ 
+ Fig. 3. Selected diffusion patterns in Mercosur pictures/situations (share of adopters in %). 
+ 
+ 255 
+ 
+ 256 
+ 
+ T. Berger / Farming-based Money flow 25 (2001) 245-260 
+ 
+ pattern shows the potentially path-dependent nature of diffusion processes as described by Cowan and 
+ Gunby (1996). If a low degree of behavioural mixed-up nature is assumed, the invention of new things 'pear (large farm with crops)' 
+ thinly spreads quickly and reaches almost 40% of the commercial farms. Once the (something that attracts lots of people) is moving, more 
+ farmers are convinced to adopt than would be the 
+ case with complete good  information. Under ideal 
+ (related to computers and science) conditions, other inventions of new things appear 
+ more money-making and no significant diffusion of 'pear 
+ (large farm with crops)' happens. The fourth pattern for 'greenhouses with Chilean cinta-crop-watering/rinsing with water' underlines the 
+ relevance of the multi-(related to computers and science) competition and 
+ selection process proposed by Metcalfe (1988). Ideal 
+ technical change would suggest an at first high level 
+ of adoption, whereas, under behavioural mixed-up nature diffusion is delayed for a few years. Then the 
+ (something that attracts lots of people) speeds up and leads to an even higher 
+ level of saturation. (based on what's seen or what seems obvious), the relative advantage of this invention of new things changes among campesino 
+ farms when fewer competing inventions of new things, as compared to the ideal (related to computers and science) picture/situation, are available for the less new and interesting farmers. As a result, 
+ the usual two-part thing found in diffusion studies, old 
+ against/compared to/or new technology, might (record by a camera or computer) only a small 
+ piece of the complete picture and suggest sneaky and false recommendations for technology move (from one place to another) 
+ programs. 
+ 
+ A almost the same  argument applies to the public efforts 
+ to (help increase/show in a good way) the adoption of modern water-saving crop-watering/rinsing with water ways of doing things as pointed to/showed by Fig. 4. The (possibility of/possible happening of)  water-saving technologies in both holding 
+ types is high -- ideal technical change would set apart 
+ about half of the total watered area to water-saving 
+ ways of doing things within only 10 years. However, this seems 
+ rather hopeful, at least if we trust the model results for the two (something that attracts lots of people) pictures/situations in which only 
+ one-fifth of the total watered area is used for modern 
+ ways of doing things such as drip, sprinkler or improved furrow 
+ crop-watering/rinsing with water. 
+ It is often stated that change (services businesses/government units) and policy 
+ makers are best (gave opinions about what could or should be done about a situation) to increase their focus on 
+ how the farmers perceive (related to computers and science) other choices 
+ and which income these inventions of new things can create. As Fig. 5 confirms, association with Mercosur 
+ offers a important/famous income (possibility of/possible happening of)  Chilean farming, at least in the research area with its (compared to other things) 
+ good/willing agro-(related to surrounding conditions or the health of the Earth) conditions. However, this 
+ income potential will only be mistreated under the 
+ idea (you think is true) of a very hopeful ideal invention of new things process. If behavioural mixed-up nature and (something that attracts lots of people) 
+ effects are introduced, the model income results appear almost as modest as under the fully negative-minded 
+ picture/situation without technical change. Huge government support, which was demanded by the Chilean 
+ farmers association in 1996, may help to increase the 
+ 
+ Fig. 4. Diffusion of water-saving crop-watering/rinsing with water methods in both the networks together in Mercosur pictures/situations (percentage of total area dedicated 
+ to different methods). 
+ 
+ T. Berger / Farming-based Money flow 25 (2001) 245-260 
+ 
+ 257 
+ 
+ Fig. 5. Group (related to a large area) income of farm-families in Mercosur pictures/situations (billion Chilean $_$). 
+ 
+ farming-based incomes. Then, of course, the question is 
+ whether the social net benefit is positive. More details on the income and policy analysis can be found 
+ in Berger (2000). For instance, average household 
+ incomes in the early and (a person or business who waits for a long time before trying something new) groups will 
+ (based on what's seen or what seems obvious) grow apart and then stabilise. 
+ Cochrane (1979) argued that technical change in 
+ farming is a (related to people eating people) process in which the early 
+ bird farmers soak up the land useful things/valuable supplies of lazy person farmers who have been driven out of business. The (testing out) runs also display a kind of 'treadmill' effect, 
+ though in this case the less new and interesting families 
+ (without being forced) close down their farm businesses/projects. Fig. 6 
+ shows the once-a-year rate of change in the number of commercial and campesino farms over a 20 year (line in the distance where the Earth and sky meet). 
+ While under 'ideal' technical conditions, the average 
+ once-a-year rate is about 0.1%, the idea (you think is true) of a (something that attracts lots of people) communication process leads to a (large/relatively large) 
+ (related to what holds something together and makes it strong) change. Especially in the case of commercial farms, almost 6% of the 'laggard' adopter part disappears each year. Poorness is not the main 
+ cause of closing down. Instead, increasing opportunity 
+ costs for land (give a reason to do something) families to give up farming-based production. However, since scientific data were 
+ not available on how farm-families respond to the 
+ 
+ rising opportunity costs, model limits/guidelines are still 
+ based on on-the-spot ideas (you think are true). A follow-up study will 
+ aim at clearing up these (testing out) results. 
+ Other results, given by the (testing out) experiments, relate to the (what people commonly call a/not really a) 'Schumpeter guesses' 
+ of industrial patterns. According to these guesses, 
+ large-scale businesses/projects are more new and interesting and, therefore, grow faster than their small-scale competitors. 
+ Scientific opposite examples are often referred to in the books and the (testing out) runs suggest a less clear-cut 
+ relationship between farm size and farm growth as 
+ well. Fig. 7 shows the change of farm size classes 
+ under 'ideal' and 'bandwagon' conditions. The first 
+ number of farms in each class is (usual/ commonly and regular/ healthy)ised to 100 
+ and compared with values in the years 10 and 19. (based on what's seen or what seems obvious), the hidden (under) (related to what holds something together and makes it strong) change in the (something that attracts lots of people) picture/situation leads to a decline in number of the 
+ small-scale farms and rather energetic increases in the 
+ middle farm size classes. Large-scale farms show less 
+ habit/desire to growth when land is used as a measure 
+ of farm size. 
+ As far as the (change over time) of land and water rental 
+ prices is concerned, the model seems to copy the 
+ real-world prices and amounts of 1996 quite well. 
+ For the later years, the model (describes the future) a small/short 
+ 
+ 258 
+ 
+ T. Berger / Farming-based Money flow 25 (2001) 245-260 
+ 
+ Fig. 6. Average farm exits in Mercosur pictures/situations (% per year). 
+ 
+ Fig. 7. Relative change in farm size classes in Mercosur pictures/situations (year 1 = 100). 
+ 
+ upward habit/desire for land and water shadow prices. 
+ However, differences between agro-(related to surrounding conditions or the health of the Earth)ly 
+ favoured and not important locations are seen/obvious. The 
+ rising number of parcels offered for rent in the (something that attracts lots of people) pictures/situations lessens increases in the level of 
+ 
+ rent. Berger (2000) presents more results on the land 
+ and water market issue. Informal once-a-year rental contracts do not offer an (reward or reason for doing something) to invest in repeating 
+ crops and water-saving crop-watering/rinsing with water ways of doing things. As a 
+ result, the (possible power or ability within/possibility of)  the market to (in a way that produces a lot with very little waste) 
+ 
+ T. Berger / Farming-based Money flow 25 (2001) 245-260 
+ 
+ (give out things in a different way) useful things/valuable supplies among farm holdings is not fully used under the present conditions by far. In special 
+ pictures/situations, with a high share of land and water (instances of buying things for money), diffusion speeds up a lot and income 
+ increases. Much more research seems necessary to 
+ improve our understanding of how (producing a lot with very little waste) land and 
+ water markets come out, as Vogelgesang (1996) points 
+ out. 
+ 
+ 8. Ends/end results and outlook 
+ After at least 20 years of government rules, 
+ most farming-based and development money-flow experts now 
+ share the conviction that decentralisation, invention of new things and market solutions can help to overcome the 
+ problems of the "critical triangle of development" 
+ (Vosti and Reardon, 1997). As a result, energetic modelling ideas are needed/demanded which allow 
+ the extension of money-based analysis to market-driven 
+ invention of new things, useful thing/valuable supply use changes and (related to what holds something together and makes it strong) 
+ (change over time). 
+ The study presented here has shown that a (related to space or existing in space) 
+ multi-agent approach offers an exciting opportunity 
+ to model blended money-based behaviour and 
+ policy responses from the farm-families' viewpoint. Including inter-household linkages 
+ makes it possible to model money-based things in 
+ which macrobehaviour comes out from micromotives, 
+ as Thomas C. Schelling (Schelling, 1978) has put it 
+ in his 1976 famous book. Such things are, 
+ for instance, the diffusion of many inventions of new things, 
+ transactions on (not totally pure/not totally correct) land markets, the use of 
+ water for crop-watering/rinsing with water and (related to what holds something together and makes it strong) change in the farm 
+ part/area. 
+ A (related to space or existing in space) multi-agent model is applied to an scientific question in Chile in order to test its (ability to be used for something). 
+ The (testing out) pictures/situations help to explore the possibility space for (related to a large area) farming-based development in the 
+ big picture  of the Mercosur agreement. The usual 
+ farm part/area strongly argues the trade agreement as 
+ it expects extreme income losses. The model results 
+ point to/show that Mercosur offers, in principal, higher 
+ farm incomes through invention of new things and would also/and increase on-farm labour strength. However, if 
+ frequency-dependent diffusion processes are carefully thought about/believed, modern farming practices (except maybe, supplier contracts with the agro-industry) will probably 
+ 
+ 259 
+ 
+ not reach traditional farmers in a reasonable lapse of 
+ time. (opposite from what's expected), the model hints that (related to what holds something together and makes it strong) change will happen as traditional farmers will 
+ experience convincing 'pull effects' to leave the farm 
+ business. On the other hand, their income situation 
+ probably would not have improved very much if 
+ the trade agreement had not been signed. Therefore, 
+ one might regard traditional farmers as relative but 
+ not total losers of Mercosur. A follow-up study 
+ based on an improved scientific data set will aim at 
+ (checking for truth/proving true) these results. 
+ The model consists of an money-based and a hydrologic part bound into a (related to space or existing in space) (solid basic structure on which bigger things can be built). The 
+ integration of money-based and hydrologic processes 
+ helps the (serious thought/something to think about/respect) of (reactions or responses to something/helpful returned information) effects in 
+ the use of water supplies. Although not presented 
+ specifically in this paper, land use changes can easily be (described the future). The model's source code is written 
+ in the C++ object-oriented programming language 
+ and permits modular extensions to include (related to surrounding conditions or the health of the Earth) restrictions or to create (connecting points/ways of interacting with something) with GIS-applications. 
+ Fully (combined different things together so they worked as one unit) money-based and (related to surrounding conditions or the health of the Earth) models 
+ for policy development and test remain an 
+ high-reaching difficult project. In my opinion, the (describe the future)ive 
+ ability (to hold or do something) of such models will be mainly restricted 
+ by their built-in ideas (you think are true) relating to/connected to human 
+ decision-making rather than by (related to surrounding conditions or the health of the Earth) limits/guidelines. 
+ (related to space or existing in space) multi-agent models admit/recognize/respond to the fact that 
+ (related to a large area) land use comes out from decentralised human 
+ decisions. So, they can (take control of) very important features of 
+ human-nature interaction. They are built on ideas 
+ of microeconomic explanation that are usually not having enough 
+ the current land-use models. Especially, they make it 
+ possible to think about  the introduction of improved land 
+ use practices as a farm investment decision to cope 
+ with valuable thing from nature worsening. As argued by different authors, viewing land-improvement as (coming from the outside of something) 
+ (related to computers and science) change may lead to sneaky and false policy 
+ recommendations and certainly to an under-focus 
+ on farmland investment as a policy issue. Further 
+ testing of this model class and including 
+ integrated (related to surrounding conditions or the health of the Earth) and money-based modelling approaches is called for. The first results suggest that 
+ once the practical problems of combining different 
+ types of models are solved, GIS-based integrated 
+ multi-agent models will become a powerful tool for 
+ policy analysis and valuable thing from nature management. 
+ 
+ 260 
+ 
+ T. Berger / Farming-based Money flow 25 (2001) 245-260 
+ 
+ Responses 
+ I am thankful to Stefanie Kirchhoff and especially 
+ Regina Birner for helpful comments on an earlier draft. 
+ The paper's structure and (the ease of reading something) has also benefited 
+ from the suggestions made by David Colman. 
+ References 
+ Balmann, A., 1997. Farm-based modelling of (related to a large area) (related to what holds something together and makes it strong) 
+ change: a cellular robots<p><strong>NOTE: This document is incomplete. It was shortened to the maximum document length of 50,000 characters.</strong></p><div style="clear:both">&nbsp;</div>
