@@ -1,0 +1,944 @@
+AGRICULTURAL 
+ 
+ ECONOMICS 
+ ELSEVIER 
+ 
+ Farming-based Money flow 17 (1997) 45-58 
+ 
+ Developments in biophysical and bioeconomic (testing out) of 
+ farming-based systems: a review 1 
+ Caleb A. Oriade * , Carl R. Dillon 
+ Department of Farming-based Money flow and (away from cities) (the study of people), University of Arkansas, Fayetteville, AR 72701, USA 
+ Accepted 5 May 1997 
+ 
+ Abstract 
+ This paper reviews the features and uses of some recent biophysical and bioeconomic (testing out) models in farming-based money flow/money-based studies 
+ research. Problems connected with earlier models are discussed and the extent to which recent machines (that reproduce the real thing) have talked to/looked at these concerns is 
+ valued at. Some important factors that will improve the continued relevance of machines (that reproduce the real thing) as research and decision support tools are pointed to/showed. 
+ Â© 1997 Elsevier Science B.V. 
+ 
+ 1. Introduction 
+ Maybe more than any other research way(s) of doing things employed in farming-based money flow/money-based studies, the growing 
+ (quality of being liked a lot or done a lot) of systems approach and (testing out) ways of doing things is rather (excellent/very unusual) judging from the reported number of computer programs in the last 20 years. The 
+ use of this way of doing things in farming-based research, which 
+ was described as (compared to other things) novel in 1971 (Dent and 
+ Anderson, 1971), had become so (existing all over a large area) a few 
+ years later to the extent that two surveys of over 300 
+ books each did not exhaust available (books, magazines, etc.) 
+ in the field (Anderson, 1974; Johnson and Rausser, 
+ 1977). Ever since, no serious attempt has been made 
+ to begin/try such a complete review as it is 
+ doubtful if the value of such an exercise would 
+ permit the amount of useful things/valuable supplies needed/demanded. Instead, the 
+ recent (popular thing/general way things are going) is to narrow the focus of such studies to 
+ 
+ Corresponding author. 
+ This project was given money by Arkansas Farming-based Experiment 
+ Station project no. 1464. 
+ * 
+ 
+ 1 
+ 
+ some clearly stated/particular (testing out) systems andjor farming-based 
+ practices (Musser and Tew, 1984; Braat and Van 
+ Lierop, 1987; Dillon et al., 1991). 
+ In almost all the surveys of (testing out) use in 
+ farming, certain ends/end results are almost the same 
+ (without any concern about/having nothing to do with) the extent of/the range of such studies. The surveys 
+ have attributed the attractiveness of (testing out) to the 
+ low amount of (able to be done) other choice ways of doing things for tackling the built-in energetic and/ or (random/including random data points) nature 
+ of farming-based problems. Also, the appeal of (testing out) has been improved by increasing computer ability at a (compared to other things) cheaper cost. However, certain 
+ concerns have been raised having to do with the wisdom 
+ of employing (testing out) tools in every study. The 
+ goal of this exercise is to review some of the 
+ recent machines (that reproduce the real thing) 2 and their computer programs to physical 
+ 
+ 2 In this study, machines (that reproduce the real thing) refer to models that are developed for 
+ (testing out) purposes (Musser and Tew, 1984; Dillon eta!., 1991). 
+ This definition differs from Anderson (1974) where machines (that reproduce the real thing) 
+ refer to the modelers (people) and simulands are used for the 
+ models. 
+ 
+ 0169-5150/97 j$17.00 Â© 1997 Elsevier Science B.V. All rights reserved. 
+ Pll SO 169-5150(97)000 12-1 
+ 
+ 46 
+ 
+ C.A. Oriade, C.R. Dillon/ Farming-based Money flow 17 (1997) 45-58 
+ 
+ and/or (related to the body function of living things) issues in farming. Such information will help identify the possible strengths of 
+ (testing out) that the modelers can build upon, as well 
+ as the possible hidden traps to avoid. Now that (testing out) 
+ is more and more being used for decision support, information from such a occasional test could prevent expensive mistakes from being made or repeated. 
+ In the sections that follow, some idea-based issues in (testing out) are first discussed. Next, factors 
+ that could improve or limit the appeal of (testing out) 
+ are highlighted. Third, the distinguishing features of 
+ the class of machines (that reproduce the real thing) commonly used in farming-based production research are presented. Fourth, a 
+ number of common machines (that reproduce the real thing) and their applications 
+ are surveyed. Finally, an evaluation of these machines (that reproduce the real thing) and their computer programs is begun/tried while some 
+ of the factors that could improve the continued relevance of this way(s) of doing things are pointed to/showed. 
+ 
+ 2. Certain ideas in (testing out) 
+ For the benefit of explaining/big show, a brief summary of 
+ certain issues in (testing out) is presented as a thorough talk of these ideas has been done/tried in other places (Dent and Anderson, 1971; Anderson, 1974; Johnson and Rausser, 1977). (testing out) 
+ is a number-based moving around/misleading and tricking of a symbolic model of 
+ a system with a view to creating experimental 
+ information about the systems or the model of systems (Anderson, 1974; Johnson and Rausser, 1977; 
+ Czaki, 1984). Five phases in (testing out) are usually 
+ recognized. These are: the model (detailed description of exactly what is required), limit/guideline guess, checking (for truth) (which may also include adjustment), validation and rewriting/redoing stages 
+ (Anderson, 1974; Johnson and Rausser, 1977; Musser 
+ and Tew, 1984). The tasks to be completed in 
+ these phases are somehow self-explanatory except 
+ for the checking (for truth) and validation functions which 
+ are often misinterpreted. As will be seen in the next 
+ section, these two steps are probably the mostly 
+ criticized parts/pieces of (testing out) which deserve 
+ further explanation. 
+ Checking (for truth) is the process of beginning and building on the truth 
+ or correctness of model's reality (Dent and Anderson, 1971). It is the process by which the investigator decides/figures out whether or not the model (does/completes) in 
+ accordance with the meant purpose (Johnson and 
+ 
+ Rausser, 1977). Checking (for truth) may be done/tried at 
+ the level of programming the model (Dillon et al., 
+ 1991) and/or (finding and correcting mistakes in) the program (Anderson, 
+ 1974; Law and Kelton, 1991). On the other hand, 
+ validation is the process of learning the closeness 
+ of the model to reality which is reflected in the 
+ model's ability to copy the needed/demanded (features/ qualities/ traits) of the systems and satisfying the modelling 
+ goals (Dent and Anderson, 1971; Wright, 1971; 
+ Johnson and Rausser, 1977). Simply put, the goal of validation is to learn the usefulness, rather 
+ than the truthfulness, of the model (Dillon et al., 
+ 1991). 
+ Understood in the above ideas of checking (for truth) and 
+ validation is the fact that both duties need not be 
+ performed by the same set of investigators. Often, 
+ machines (that reproduce the real thing) are usually not developed oy the end-users. 
+ Therefore, while the function of model checking (for truth) 
+ may rest with the developers, the users are certainly 
+ responsible for validating the models to establish the 
+ relevance of such machines (that reproduce the real thing) to the clearly stated/particular problems 
+ under (act of asking questions and trying to find the truth about something). 
+ Naylor and Finger (1971) give three methodological ideas of validation in money flow/money-based studies which 
+ can be extended to validation in computer (testing out). Law and Kelton ( 1991) describe on these 
+ ideas by providing clearly stated/particular recommendations on 
+ how these ideas can be done. The first 
+ idea, rationalism, holds that money-based models are 
+ simply a system of logical deductions from (produced by people/not naturally-occurring) 
+ reasons of definite truth that are not themselves open to scientific validation (Naylor and Finger, 1971). This way the role of validation is to identify a 
+ set of basic ideas (you think are true) controlling/ruling the behavior of 
+ the system being modeled. For this idea, the 
+ operational (solid basic structure on which bigger things can be built) proposed by Law and Kelton 
+ (1991) is that the model should possess high face 
+ truth/trueness that seems reasonable to people who are 
+ full of knowledge about the system being modeled. 
+ These hidden (under) ideas (you think are true) may be identified by 
+ using any combination of these methods: conversations with system experts, (instance of watching, noticing, or making a statement) of the system, 
+ studying the results from earlier attempts, checking 
+ the existing explanations, the use of experience and gut feeling. 
+ The second idea, scientificism is in complete 
+ fighting against/bad feelings about rationalism as it refuses any ideas (you think are true) that cannot be independently (checked for truth/proved true). To im- 
+ 
+ C.A. Oriade, C.R. Dillon/ Farming-based Money flow 17 (1997) 45-58 
+ 
+ plement this idea, Law and Kelton (1991) recommend the testing of model's ideas (you think are true) scientifically 
+ by using either the goodness of fit statistics, sensitivity analyses or other testing limits/guidelines. Finally, the 
+ last idea, positive money flow/money-based studies holds that a acceptable validation is the one that (shows or proves) an (producing a lot with very little waste) ability of the model to (describe the future) the dependent 
+ (numbers that change/things that change) that are treated by the model (without any concern about/having nothing to do with) 
+ whether the hidden (under) ideas (you think are true) are valid or not. 
+ Naylor and Finger (1971) further argue that a 
+ acceptable validation is one that includes basic 
+ elements of the three ideas in a multistage validation (MV) fashion. In MV, each of the three idea-based positions is thought of as a necessary but not 
+ (good) enough procedure for validating (testing out) experiments (Naylor and Finger, 1971; Ray and Richardson, 1978). The first stage in MV calls for the 
+ creation of a set of guesses or claims 
+ hidden (under) the model. The second stage tries to 
+ validate the claims subject to the limits forced by existing (related to studying numbers) tools. The third and final 
+ stage in MV tests the model's ability to (describe the future) the 
+ behavior of the system under (act of asking questions and trying to find the truth about something). For this 
+ definite test, when real systems exist, validation 
+ may be a (compared to other things) easy job  of comparing the 
+ (like the real thing) data to real, out of sample data (King et 
+ al., 1993). If the population distribution of the real 
+ systems is known, the created data can be tested 
+ (related to numbers) to see whether they could come from 
+ such a distribution (Anderson, 1974). However, if 
+ information on the real systems is not available, 
+ which is the common reason for most ex ante (testing out) analyses, validation becomes (not definite) and 
+ the expert opinion plays an important in deciding/figuring out 
+ the believability of the model (Law and Kelton, 1991). 
+ In all cases, an acid test of acceptable validation is 
+ the ability to show that the (testing out) model leads to 
+ a better decision which cannot be easily received/got 
+ with different ways of doing things (Wright, 1971). 
+ 
+ 3. Strengths and weaknesses of (testing out) 
+ Many factors have added/have given to the 
+ (existing all over a large area) use of (testing out) in farming-based money flow/money-based studies research. First, by training, money-flow experts are 
+ generally not prepared to begin/try physical (trying new things out/testing ideas scientifically) that would produce needed information 
+ 
+ 47 
+ 
+ for money-based studies. Therefore, when acceptable 
+ experimental data can not be sourced from physical 
+ scientists, (testing out) becomes unavoidable because of 
+ the relative ease of creating the input-output data 
+ that are needed. Also, (testing out) provides a means 
+ for incorporating certain (random/including random data points) (numbers that change/things that change) (e.g., 
+ states of nature) that are not easily (capable of being seen and known) but 
+ can help a better understanding of the system 
+ being modeled. (testing out) becomes a more powerful 
+ tool when the created data lead to good management decisions that cannot be outclassed by using 
+ other choice ways of doing things. (testing out) can substitute for 
+ large scale physical (trying new things out/testing ideas scientifically) while ex ante 
+ (testing out) can aid the understanding of a system that 
+ does not exist or that is now not practical to 
+ experiment (Anderson, 1974; Johnson and Rausser, 
+ 1977). 
+ Another factor that is responsible for the (able to explode/emotional) use of (testing out) is the increasing computer 
+ power and (ability to be easily paid for) (Dillon et al., 1991; King et 
+ al., 1993). One of the early concerns of (testing out) is 
+ its high cost. For this reason, Dillon (1971) notes 
+ that (testing out), once started, will continue until 
+ available money is exhausted. The (instance of watching, noticing, or making a statement) of 
+ Anderson (1974) that a study through (testing out) 
+ always soaks up more useful things/valuable supplies than expected a 
+ priori duly (completes/goes along with) this position. Therefore, It 
+ is not surprising to see an increased use of (testing out) as (related to computers and science) advances lower computation 
+ costs and make it very competitive when compared 
+ to physical (trying new things out/testing ideas scientifically) or other methods. 
+ Most of systems (testing out) has been used to 
+ address complex (random/including random data points) and/ or energetic problems in farming. Application to crop-watering/rinsing with water projects 
+ represents a big part of (testing out) 
+ (Anderson, 1974; Johnson and Rausser, 1977; King 
+ et al., 1993). In general, (testing out) has been used 
+ mostly as a research tool with little (serious thought/something to think about/respect) 
+ for its believability where believable models are machines (that reproduce the real thing) that have been widely accepted to the extent of 
+ being used as an aid in making decisions (Law and 
+ Kelton, 1991). However, the increasing demand for 
+ such believable models is now stimulating interest in 
+ the development of (made to do one thing very well) machines (that reproduce the real thing) that meet 
+ these needs (King et al., 1993). 
+ The criticisms of (testing out) are also worthy of 
+ (serious thought/something to think about/respect). Almost all scientific applications 
+ have not placed much higher cost on the importance of 
+ 
+ 48 
+ 
+ C.A. Oriade, C.R. Dillon/ Farming-based Money flow 17 (1997) 45-58 
+ 
+ model validation (Johnson and Rausser, 1977; King 
+ et al., 1993). Since a majority of these machines (that reproduce the real thing) are 
+ usually developed by parties that are external to their 
+ later usage, validation is a requirement for 
+ telling whether the pre-planned model ideas (you think are true) and the resultant model prescriptions are transportable and related to the new (surrounding conditions) or 
+ problem under (act of asking questions and trying to find the truth about something). Also, some users may 
+ need to strengthen their reason for employing 
+ (testing out) tools as it is possible that (able to be done), costeffective other choice ways of doing things that can produce superior results are available. 
+ While the modelling goals of money-flow experts often involve some optimization, possible developers 
+ and users sometimes do not recognize that (testing out) 
+ is not an best procedure and its computer program to a problem does not automatically lead to an 
+ best solution. While the search for an (producing a lot with very little waste) 
+ way of using (testing out) as a means of optimization 
+ is an area deserving attention, few approaches have 
+ been suggested to deal with optimization of systems 
+ through (testing out) modelling (Anderson, 1974; 
+ Czaki, 1984; Azadivar and Lee, 1988). According to 
+ Azadivar and Lee (1988), these are: the Response 
+ Surface Way(s) of doing things (RSM), direct search, and 
+ (random/including random data points) Guess Method (SAM). RSM involves the guess of the moving backward limits/guidelines of 
+ linear or quadratic form of (testing out) results (Box 
+ and Wilson, 1951; Smith, 1976). If the number of 
+ (able to be done) (testing out) results is limited, direct search 
+ for best results may be possible either with repeated cycles (Anderson, 1974; Czaki, 1984) or 
+ by careful list and test of all possible 
+ results (King et al., 1993; Swinton and King, 
+ 1994). However, since a big number of (testing out) models are often (random/including random data points) and more complicated in nature, the third category, SAM, which is a 
+ group of (related to numbers) come togethernt search methods, 
+ may be more appropriate (Kushner and Clark, 1978). 
+ A (experience-based thinking) procedure developed by Azadivar and 
+ Lee (1988) for improving complex (random/including random data points) systems modeled by (testing out) is a good example of 
+ the SAM method. However, users need to balance 
+ the gains of optimization with the extra costs of 
+ chasing after any of these optimization procedures. 
+ Other criticisms of (testing out) include: the need to 
+ validate the machine (that reproduces the real thing) in every computer program which 
+ makes its use time-using/eating and expensive 
+ 
+ (Ramos, 1987), the separation between model results and real world situations (Anderson, 1974), the 
+ fact that many (testing out) decisions and inputs are 
+ pre-planned and uncontrollable this way needing 
+ an combined cooperation for the machines (that reproduce the real thing) to 
+ be able to change for other research (Musser and Tew, 
+ 1984). 
+ 
+ 4. Biophysical and bioeconomic (testing out) 
+ 
+ Surveys of machines (that reproduce the real thing) and their computer programs have 
+ usually been managed and did/done by subject area (Dent and 
+ Anderson, 1971; Johnson and Rausser, 1977; Czaki, 
+ 1984; Musser and Tew, 1984). Although there is no 
+ agreement as to the appropriate language for this classification, the categories given by Johnson and 
+ Rausser (1977) will be enough. Their five broad classes 
+ are the firm and process, the market, the group, 
+ the development and the valuable thing from nature models. 
+ In farming-based production, a sub-set of firm and 
+ process models, otherwise known as biophysical 
+ machines (that reproduce the real thing), are very common (Boggess, 1984; Musser 
+ and Tew, 1984). Biophysical machines (that reproduce the real thing) (BPS) are 
+ process models that clearly account for the (related to the body function of living things) andjor physical parts/pieces of farming-based production (Musser and Tew, 1984). These machines (that reproduce the real thing) 
+ provide the means of creating production response 
+ surfaces needed/demanded for scientific production research 
+ (Boggess, 1984). 
+ Often, BPS and bioeconomic machines (that reproduce the real thing) or models have been used interchangeably. A bioeconomic 
+ model is a mathematical representation of a (related to the body function of living things) system which describes (related to the body function of living things) processes and 
+ (describes the future) the effects of management decisions on 
+ those processes (King et al., 1993). In practical 
+ applications, there seems to be no clear honor/difference 
+ between BPS and bioeconomic models (BEMS). For 
+ instance, the books referred to in BPS and BEMS 
+ surveys often overlap (see, e.g., Musser and Tew, 
+ 1984; Dillon et al., 1991; King et al., 1993). However, a few attempts have been made to distinguish 
+ between both classes of sii):lulators. In general, BPS, 
+ by themselves, do not irytlude an money-based part. Musser and Tew 1984{) say/argue that it is the 
+ importance of physical processes that (makes different) 
+ BPS from BEMS. However, this honor/difference fades as 
+ BPS is intensively used to solve money-based problems. 
+ 
+ C.A. Oriade, C.R. Dillon/ Farming-based Money flow 17 (1997) 45-58 
+ 
+ A more definite difference between BPS and BEMS 
+ can be gathered from King et al. (1993). They (see/hear/become aware of) 
+ that BEMS generally fall within the class of (describe the future)ive models where (related to the body function of living things) processes are represented by a (compared to other things) small number of equations 
+ relating current state and control (number or thing that changes) levels to 
+ future states of the system. (in the opposite way), BPS belong 
+ to a class of process models where (compared to other things) described/explained 
+ subsystems of physical and (related to living things) processes 
+ are linked in an overall representation of plant (or 
+ animal) growth in such a way that the structure and 
+ limits/guidelines of part subsystems are based on 
+ general possible models of specific physical or 
+ (related to the body function of living things) processes. Anyway, it is rather hard to tell the difference between both machines (that reproduce the real thing) in practice and the rest of this survey will focus on 
+ both sets of machines (that reproduce the real thing) both/together. 
+ 
+ 5. Survey of BPS and BEMS machines (that reproduce the real thing) 
+ The machines (that reproduce the real thing) reviewed in this section are neither 
+ representative nor thorough of all (connected/related) models. 
+ Rather, the choice was influenced either by their 
+ acceptance, as reflected in the number of applications, or by the long/big involvement of farming-based 
+ money-flow experts in their development. Even with these 
+ judging requirements, it is conceivable that some important machines (that reproduce the real thing) would have been accidentally left out. 
+ SOYGRO (Wilkerson et al., 1983) and CERES 
+ (Ritchie and Otter, 1985) models are among the most 
+ famous process models that have been used in testing out whole crop-soil systems. Although SOYGRO 
+ was developed as a decision support tool for crop-watering/rinsing with water and pest management, it has been mostly used 
+ for research purposes (Hoogenboom et al., 1992). 
+ SOYGRO tests out the yield, growth and development of soybeans (Glycine max L. Merr) as a function of soil, weather and management (numbers that change/things that change) 
+ (Wilkerson et al., 1983). From its early version in 
+ the early 80's, SOYGRO has gone through big 
+ changes such that it now is one of the most 
+ flexible models whose truth/trueness of results is no longer 
+ location-specific or (surrounding conditions)-dependent. Hoogenboom et al. (1992) describe the measures that were 
+ taken to make sure that the (statements about the future) of the model are 
+ reliable. During checking (for truth), the code was checked 
+ to secure/make sure of that the programming logic was 
+ 
+ 49 
+ 
+ consistent and a true reflection of the system being 
+ modeled. This was good with the aid of 
+ (finding and correcting mistakes in) tools of FORTRAN collectors and some 
+ static program (things or people that carefully study things). For adjustment, data from 
+ experimental places/locations in Gainesville, Florida were compared to model (statements about the future). SOYGRO has been a lot validated in different locations in USA and 
+ Europe (Hoogenboom et al., 1992; Moulin and 
+ Beckie, 1993; Nagarajan et al., 1993; Savin et al., 
+ 1994; Gabrielle et al., 1995). Unlike many machines (that reproduce the real thing), transportability of SOYGRO is improved by the 
+ not brand-name format that was adopted for typing things so 
+ that site-clearly stated/particular information can be used for model 
+ (statements about the future). 
+ Mostly, the above features of SOYGRO 
+ are shared by other -GRO models for grain (peas, beans, lentils, etc.). 
+ They are PNUTGRO for peanuts (Arachis hypogea 
+ L.) and BEANGRO for common beans ( Phaseolus 
+ low-class and offensiveis L.). Also, these attributes describe 
+ CERES (an (word made up from the first letters of words) for crop guess through 
+ useful thing/valuable supply and (surrounding conditions) (creation/combination)) class of models 
+ for cereals. The purpose of CERES models is to 
+ create yield guesses by modelling factors that 
+ were thought about/believed to be most (connected/related) in yield desire/decision. These factors include plant growth and development, soil water and nutrient status (Ritchie and 
+ Otter, 1985). Random factors that could be controlled by management such as pest and disease 
+ (situations where large numbers of harmful or disgusting things exist) were not thought about/believed. CERES Wheat and 
+ CERES Maize are the common types of CERES 
+ models. CERES and -GRO models are among the 
+ models within the (solid basic structure on which bigger things can be built) of IBSNAT-DSSAT 
+ (the International Benchmark Places/locations Network for 
+ Agrotechnology Move (from one place to another) Project Decision Support 
+ Systems for Agrotechnology Move (from one place to another)) whose goal 
+ was to (make something look or work the same way every time) the structure of these models in 
+ order to improve their suitability for any area 
+ (Hoogenboom et al., 1992). Validation results for all 
+ or any parts/pieces of SOYGRO and CERES models 
+ have generally shown a acceptable level of writing between (capable of being seen and known) data and tested out 
+ variates, although certain sub-routines often require 
+ some re-adjustment before realistic model guesses 
+ are received/got (Moulin and Beckie, 1993; Nagarajan et 
+ al., 1993; Savin et al., 1994; Gabrielle et al., 1995). 
+ FLIPSIM (Richardson and Nixon, 1986) is a 
+ FORTRAN computer (testing out) model that was developed for carefully studying the probable results of 
+ 
+ 50 
+ 
+ C.A. Oriade, C.R. Dillon/ Farming-based Money flow 17 (1997) 45-58 
+ 
+ different policies and income tax developments on 
+ typical farms. It is a firm level, recursive, (testing out) 
+ model which creates the once-a-year production, farm 
+ policy, marketing, (money-related) management, growth, 
+ and income tax parts/pieces of a farm over a planning (line in the distance where the Earth and sky meet)  of up to ten years (Richardson and 
+ Nixon, 1986). FLIPSIM identifies the best path 
+ of crop businesses/projects by in a planned way listing 
+ and testing the results of all (able to be done) other choices. Checking (for truth) and validation of FLIPSIM was 
+ created after the multistage approach suggested by 
+ Naylor and Finger (1971). 
+ HERB (Wilkerson et al., 1991), WEEDSIM 
+ (Swinton and King, 1994) and WEEDCAM 
+ (Lybecker et al., 1994) are all recent BEMS which 
+ are (nearby/useful) decision support systems for the management of farming-based pests (mainly weeds). HERB 
+ was first in the series of these pest management 
+ models to be developed. HERB is a computer-based, 
+ interactive, menu-driven program that can create 
+ after-coming into view herbicide recommendations for money-making soybean production (Wilkerson et al., 1991). 
+ Using the field-clearly stated/particular information supplied by the 
+ user, the model provides some (able to be done) weed 
+ control other choices and their connected hits/effects on 
+ weeds and returns (King et al., 1993). Data received/got 
+ from North Carolina experiments were used to adjust HERB model. Information on the clearly stated/particular procedures employed for model checking (for truth) and validation is rather very small but acceptable results with 
+ HERB computer programs have been reported (Wilkerson et 
+ al., 1991; Tricks et al., 1992). WEEDCAM is almost the same 
+ to HERB except it is a bioeconomic model for 
+ managing both pre- and after-coming into view weeds in 
+ watered com (Zea mays L.).lt is a spreadsheet-based 
+ computer software which was developed and validated in Colorado. Its format assumes the knowledge 
+ of spreadsheet data management. This new approach improves the flexibility and strength of the 
+ model with its liberal data entry and moving around/misleading and tricking 
+ procedures. 
+ WEEDSIM extends the edges of something/unexplored areas of the above 
+ weed management models by recognizing a more 
+ reasonable picture/situation of many weeds and multiple 
+ control plans within a energetic setting. It is a 
+ computer-based, pattern of behavior, bioeconomic weed management model for com and soybeans that identifies 
+ a two-year path of weed control treatments that 
+ 
+ (make as big as possible) net returns per area of land. The two-year (line in the distance where the Earth and sky meet) 
+ enables the model to track the carryover effects of 
+ current weeds and control measures in later 
+ season. WEEDSIM, like the other two pest management models, identifies the weed control plans 
+ that (make as big as possible) returns by in a planned way listing 
+ and testing (money made/good things received) under all possible sequences 
+ of (able to be done) weed control actions, rather than using 
+ energetic programming or other optimization procedures. For checking (for truth), the steps described in Law 
+ and Kelton (1991) were followed while (related to studying numbers) 
+ tools and expert opinions were used in model validation. (event(s) or object(s) that prove something) from on-field validation trials hints that WEEDSIM is a promising tool for improving returns and/or reducing herbicide use when 
+ compared to farmers' ordinary practices (Buhler 
+ et al., 1996; Porcella et al., 1996). A related model, 
+ GWM (Tricks et al., 1994), which has a better users' 
+ (connecting point/way of interacting with something) and which is much more flexible 
+ than WEEDSIM in terms of its data entry abilities is now being field-tested in a few locations. 
+ GLEAMS ((underground water that supplies wells) Loading Effects of Farming-based Management Systems) (Leonard et al., 1987) 
+ is a (testing out) model for testing the effects of 
+ different management systems on the movement of 
+ farming-based chemicals. It is a good tool for facing the (underground water that supplies wells) quality concerns of chemical usage. Another related model is AGNPS (Farming-based NonPoint Source) (Young et al., 1989) which 
+ is an event-based water quality model for carefully studying 
+ nonpoint-source pollution in farming-based (related to areas of land that drain into a river). 
+ Since a major restriction to the (existing all over a large area) use of 
+ these water quality models is their time-using/eating 
+ input data demands, (land-area-based/location) information systems 
+ (GIS) have been successfully (combined different things together so they worked as one unit) with AGNPS (Tim and Happy, 1994). This development has 
+ proved to be an effective way to collect, move around/mislead and trick, 
+ see (in your mind) and carefully study the input and output data of 
+ AGNPS (Srinivasan and Arnold, 1994). GLEAMS 
+ and AGNPS have ben found to be useful tools for 
+ (related to surrounding conditions or the health of the Earth) planning in different locations (Bingner 
+ et al., 1992; Sugiharto et al., 1994; Foltz et al., 1995; 
+ Rode and Frede, 1997). 
+ EPIC (Wearing away-Working well Hit/effect Calculator) 
+ (Jones et al., 1991) was developed by a (using different kinds of expert knowledge) team of USDA (people who work to find information) at the Blacklands 
+ Research Center in Temple, Texas. EPIC is a dy- 
+ 
+ C.A. Oriade, C.R. Dillon/ Farming-based Money flow 17 (1997) 45-58 
+ 
+ namic model that can be used to guess soil wearing away and its hits/effects on crop production. The nine 
+ major parts/pieces of EPIC are: weather, (water science), 
+ wearing away, nutrient cycling, soil temperature, land, 
+ crop growth, crop and soil management, and money flow/money-based studies. EPIC has been a lot used and the 
+ model appears to give acceptable results with mini- 
+ 
+ 51 
+ 
+ mal adjustment (Bryant et al., 1992; Rosenberg et al., 
+ 1992; Foltz et al., 1995; Hughes et al., 1995). 
+ CEEPES (the Complete (related to surrounding conditions or the health of the Earth) Money-based Policy Test System) (Bouzaher et al., 
+ 1995) is an (having different things working together as one unit) system of (testing out) models 
+ and policy evaluation tools that helps a planned 
+ test of trade-offs from different agroenvi- 
+ 
+ Table I 
+ Some machines (that reproduce the real thing) and their applications 
+ Machine (that reproduces the real thing) 
+ 
+ Description 
+ 
+ Examples of Application 
+ 
+ AGNPS(Young eta!., 1989) 
+ 
+ Water quality model for carefully studying nonpoint-source pollution 
+ in farming-based (related to areas of land that drain into a river). 
+ 
+ CEEPES(Bouzaher eta!., 1995) 
+ 
+ Integrated system for testing trade-offs from other choice 
+ agroenvironmental policies 
+ Process models for (describing the future) growth, development and 
+ yield of (pertaining to each person or thing) cereal grains. 
+ 
+ Kozloff et a!., 1992;Sugiharto 
+ et a!., 1994;Rode and Frede, 
+ 1997. 
+ Bouzaher et a!., 1995. 
+ 
+ CERES models(Ritchie and Otter, 1985) 
+ 
+ CIM(Brown et a!., 1983) 
+ CORNF(Stapper and Arkin, 1980) 
+ COTTAM(Jackson et al., 1988) 
+ EPIC(Jones eta!., 1991) 
+ FLIPSIM(Richardson and Nixon, 1986) 
+ 
+ GAFS(Hutton and Hinman, 1968) 
+ GLEAMS(Leonard eta!., 1987) 
+ GOSSYM(Baker et a!., 1986) 
+ GRAZE(Loewer et a!., 1980) 
+ HERB(Wilkerson eta!., 1991) 
+ SORGF(Maas and Arkin, 1978) 
+ 
+ A computer-based model for managing insect pests in cotton 
+ A biophysical (testing out) model for corn 
+ A model for testing out the growth, development and yield 
+ of cotton. Almost the same as  GOSSYM. 
+ Pattern of behavior model for guessing soil wearing away hits/effects on crop 
+ production 
+ A firm level, (testing out) model for creating production, 
+ (money-related) and marketing data. 
+ A general farming-based firm machine (that reproduces the real thing) 
+ Model for testing effects of management systems on 
+ movement of farming-based chemicals 
+ A model for testing out the growth of cotton. 
+ Pattern of behavior model for testing out beef-search production as a 
+ function of both management and (related to surrounding conditions or the health of the Earth) (numbers that change/things that change). 
+ A bioeconomic model for after-coming into view control of weeds 
+ in soybeans. 
+ A biophysical (testing out) model for (grass grown for food). 
+ 
+ SOYGRO(Wilkerson et a!., 1983) 
+ 
+ A process-oriented computer-based model for (describing the future) 
+ growth, development and yield of soybeans 
+ 
+ SW AT(Brown and Hollis, 1996) 
+ 
+ A semi-scientific model for (describing the future) concentrations of 
+ bug-killers entering surface water from farming-based land. 
+ A (water science) model for testing out water balance and related 
+ processes in (away from cities) (bowls/areas drained by a river) 
+ 
+ SWRRB(Williams et a!., 1985) 
+ 
+ TAMW(Maas and Arkin, 1980) 
+ WEEDSIM(Swinton and King, 1994) 
+ 
+ A Biophysical (testing out) model for wheat. It is very almost the same 
+ to CERES-Wheat 
+ A energetic bioeconomic model for multiple weed management in corn and soybean. 
+ 
+ Parsch et a!., 1991;Johnson et 
+ a!., 199l;Moulin and Beckie, 
+ 1993. 
+ S zmedra et a!., 1991. 
+ Dillon et a!., 1989. 
+ Dillon eta!., 1989. 
+ Foltz et a!., !993;Hughes et a!., 
+ 1995;Sabbagh eta!., 1992. 
+ Duffy et a!., 1986;Bai1ey and 
+ Richardson, 1985;Perry et a!., 
+ 1986;Salassi eta!., 1987. 
+ Harris and Mapp, 1986. 
+ Foltz et a!., 1993. 
+ Misra and Spurlock, 1991. 
+ Parsch and Loewer, 1987. 
+ Tricks et a!., 1992. 
+ Harris and Mapp, 1986; Dillon 
+ et a!., 1989. 
+ Boggess and Amerling, 1983; 
+ Boggess et a!., 1985; Szmedra 
+ et a!., 1991; Parsch et a!., 
+ 1991; Nagarajan eta!., 1993. 
+ Arnold and Allen, 1996;Brown 
+ and Hollis, 1996. 
+ Arnold and Williams, 
+ 1987;Singer eta!., 1988;Savabi 
+ et a!., 1988. 
+ Dillon eta!., 1989. 
+ Swinton et a!., 1995;Buhler et 
+ a!., 1996;Forcella et a!., 
+ 1996;0riade et a!., 1996. 
+ 
+ 52 
+ 
+ C.A. Oriade, C.R. Dillon/ Farming-based Money flow 17 (1997) 45-58 
+ 
+ ronmental policies. This is a useful policy test 
+ model especially with the growing concern (related to/looking at/thinking about) 
+ the potential (related to surrounding conditions or the health of the Earth) and health effects of 
+ farming-based chemicals. The four major parts/pieces 
+ of CEEPES are: policy, farming-based decision, future 
+ and transport, and health and (related to surrounding conditions or the health of the Earth) risk. 
+ Other machines (that reproduce the real thing) that have featured in books 
+ include SORGF (Maas and Arkin, 1978), CORNF 
+ (Stapper and Arkin, 1980), TAMW (Maas and Arkin, 
+ 1980), COTTAM (Jackson et al., 1988), GOSSYM 
+ (Baker et al., 1986), CIM (Brown et al., 1983), 
+ GRAZE (Loewer et al., 1980), GAFS (Hutton and 
+ Hinman, 1968), SWRRB (Williams et al., 1985) and 
+ SWAT (Brown and Hollis, 1996). Features of these 
+ machines (that reproduce the real thing) are summarized in Table 1. 
+ 6. A survey of selected applications 
+ As with machines (that reproduce the real thing), this survey does not think about/believe 
+ all scientific work involving some (testing out). Instead, the few that were selected only serve to illustrate the width of issues for which (testing out) 
+ methods have been thought of appropriate. The categories include crop-watering/rinsing with water, crop management, pest 
+ management, animals management and farming 
+ and (surrounding conditions). 
+ 
+ 6.1. Crop-watering/rinsing with water 
+ BPS and BEMS have been used a lot to 
+ decide/figure out the best portion of crop-watering/rinsing with water water 
+ without over-fully using the underground waters. Mapp and Bidman (1976) employed GAFS to test out a representative farm and guess returns under different 
+ length of time and extreme harshness of soil moisture and air-related stresses during the critical stages of crop 
+ development. (like the real thing) farm incomes under different plans helped the recommendation of 
+ plans and policy efforts that are best under different water useful thing/valuable supply situations. Bernardo et al. 
+ (1987) used a biophysical (testing out) model, 
+ SPAW-IRRIG, to create yield response to crop-watering/rinsing with water schedules. The crop-watering/rinsing with water activities so created 
+ were later employed in a mathematical programming 
+ model that identified crop-watering/rinsing with water plans for held back profit (biggest increase/best possible extent) under limited water 
+ supply. Bernardo (1988) employed SORGF to test the effects of (related to space or existing in space) (quality of changing over time or at different places) of crop-watering/rinsing with water 
+ 
+ applications on the (wasting very little while working or producing something) of crop-watering/rinsing with water. The 
+ growth and yields of (grass grown for food) were tested out under 
+ both the idea (you think is true) of evenness and equality and non-evenness and equality in water application. This formed the basis for 
+ comparing benefits under (related to space or existing in space) (quality of changing over time or at different places) to returns from ordinary practice of uniform sprinkler 
+ crop-watering/rinsing with water. 
+ On crop-watering/rinsing with water and risk, Boggess and Amerling 
+ (1983) employed SOYGRO to explore the effects/results/suggestions of crop-watering/rinsing with water investments on risk and returns to 
+ crop-watering/rinsing with water plan. This crop model was used to 
+ guess yield response of crops to crop-watering/rinsing with water with 
+ seventeen years of historical weather data. Using 
+ cost guesses for different crop-watering/rinsing with water practices created by a computer-based crop-watering/rinsing with water cost generator 
+ program, crop-watering/rinsing with water plans that could (make as big as possible) 
+ present value of returns under different weather conditions were identified. Harris and Mapp (1986) employed SORGF to test out (grass grown for food) returns to 
+ (random/including random data points) soil water and other production and (related to surrounding conditions or the health of the Earth) conditions. The returns were later subjected to (random/including random data points) control comparisons in order 
+ to identify the water-conserving crop-watering/rinsing with water plans 
+ for grain (grass grown for food) farmers that depend on the Ogallala underground water in Oklahoma. Bosch and Eidman (1987) 
+ used a bioeconomic model to explore the value of 
+ soil and weather information for choosing best 
+ crop-watering/rinsing with water plans when risk preferences of decision makers are not neutral. The study tested out the 
+ value of information for an expected utility making the most of decision maker whose representative farm contains both watered and non-watered land under 
+ corn, soybean and rye production in Minnesota. 
+ Although the crop-watering/rinsing with water scheduling plan was examined, the model proposed can be employed to 
+ carefully study the returns to any production input under 
+ risk. 
+ 
+ 6.2. Crop management 
+ With FLIPSIM, Duffy et al. (1986) tested the 
+ effects of different farm programs and levels of 
+ price (quality of changing over time or at different places) on the survival and growth of Texas 
+ cotton farms. Five levels of price (quality of changing over time or at different places) and 
+ three farm policy options under 1981 Farm Bill were 
+ tested out for two representative cotton farms. Perry 
+ et al. (1986) employed the model to test other choice cropping patterns and share leasing arrange- 
+ 
+ C.A. Oriade, C.R. Dillon/ Farming-based Money flow 17 (1997) 45-58 
+ 
+ ments that can improve the money-based ability to be done of 
+ (person or business who occupies a house, office, etc.) rice and soybean farmers in Texas. FLIPSIM 
+ was used to test out chance distributions of 
+ returns to a typical producer. (random/including random data points) control 
+ ways of doing things were later applied to these returns in 
+ order to identify (producing a lot with very little waste) plans and establish the 
+ relationship between crop rotation practices and the 
+ nature of share-leasing arrangements. Against the 
+ background of (lowering in number/getting worse) land under rice production 
+ in the Mississippi River Delta area of the United 
+ States, Salassi et al. (1987) also used FLIPSIM to 
+ decide/figure out the money-based survivability of rice farms if 
+ the winning/most common money-based conditions continue. The study 
+ led to the identification of business/project mix and production practices that would sustain a higher level of 
+ production. 
+ With CERES models, Johnson et al. (1991) (described the future) crop yields under different input levels to 
+ help their test of on-farm effects of cropping plans that could reduce nitrate (underground water that supplies wells) 
+ pollution. These crop yields were in tum employed 
+ in optimization and linear programming models from 
+ which guesses concerning leaking-(money made/good thing received) tradeoffs of representative farms were drawn. Parsch et al. 
+ (1991) developed an mixture of CERES-wheat and 
+ SOYGRO models which they used to test the 
+ risk-return tradeoffs of double-cropped wheatsoybean producers such that the costs of early harvest of winter wheat are paid/made up for by improved 
+ returns of early soybean plantings. With other models, Misra and Spurlock (1991) used GOSSYM to 
+ create produce information needed/demanded for the identification of (producing a lot with very little waste) cotton cropping systems that balance 
+ the dual goal of making the most of whole-farm returns 
+ while reducing the risk of rare/not enough  (work done by traveling to a place to watch, listen, learn, etc.) time. In a 
+ study that (examined closely) the best crop mixes as risk 
+ preferences of farmers change in the Blackland 
+ flat land areas of Texas, Dillon et al. (1989) employed four 
+ crop (testing out) models (i.e., CORNF, SORGF, 
+ T AMW and COTTAM) to create the needed input-output data. The money-based decision problem 
+ was solved by applying mean-variance programming 
+ to the (like the real thing) returns. 
+ 6.3. Pest management 
+ Reichelderfer and Bender (1979) developed a 
+ (testing out) model that described the physical produc- 
+ 
+ 53 
+ 
+ tion relationships between Mexican bean beatles, 
+ control inputs and soybean yields under different 
+ conditions. The (testing out) model was later used to 
+ (ask lots of questions about/try to find the truth about) the relative social and money-based advantages of other choice methods of controlling these 
+ insect pests in soybeans. Boggess et al. (1985) developed and employed a multi-species bioeconomic 
+ (testing out) model, the Florida Soybean Integrated 
+ Crop Management Model (SICM), that could prescribe best pest management plans for soybeans within a pre-decided, multiple species setting. 
+ SICM, which has been included into SOYGRO, 
+ was used to test out the population patterns 
+ (ability to reproduce, development and death) for common 
+ insect pests of soybeans and under different weather, 
+ cultural and soil conditions. 
+ Szmedra et al. (1991) used the Cotton Insect 
+ Management (CIM) (testing out) model to study the 
+ hit/effect of extending the boll weevil destruction 
+ (BWE) program to Mississippi River Delta area of 
+ the United States on producers' returns and the 
+ effectiveness of such pest control actions. The model 
+ helped the desire/decision of the effectiveness of BWE 
+ participation and non-participation under low and 
+ high levels of (having different things working together as one unit) pest management (IPM). 
+ Nyangito et al. (1996) employed a whole farm (testing out) model, the Technology Hit/effect Test System, to test the hit/effect of different disease control methods on the money-based ability to be done of dairy (cows, bulls, etc.) 
+ production among small holder farmers in East 
+ Africa. Returns under different different procedure (that protects people from disease) programs were tested out and (random/including random data points) control tools helped the identification of (producing a lot with very little waste) 
+ plans for useful thing/valuable supply poor, risk disliking farmers in 
+ the study area. 
+ For site-clearly stated/particular management of weeds, Tricks et 
+ al. (1992) used HERB to (ask lots of questions about/try to find the truth about) the value of 
+ information about weed patchiness for improving the 
+ recommendations of HERB that were based on nonpatchy weed distributions. In a related study, Oriade 
+ et al. ( 1996) employed a changed version of WEEDS1M to examine the potential money-based and (things that are good for the planet) of site-specific weed management 
+ relative to the ordinary uniform control of weeds. 
+ Tests with this model were carried out within 
+ a energetic but pre-decided (solid basic structure on which bigger things can be built). 
+ For testing the effects/results/suggestions of bug-killer policy 
+ on returns to pest control, Swinton et al. (1995) used 
+ 
+ 54 
+ 
+ C.A. Oriade, C.R. Dillon/ Farming-based Money flow 17 (1997) 45-58 
+ 
+ WEEDSIM to test out the effect of local bans and 
+ taxes on triazine herbicide use in com (Zea mays 
+ L.). 
+ 
+ 6.4. Animals management 
+ 
+ Brorsen et al. (1983) developed and used a 
+ stocker (cows, bulls, etc.)  growth (testing out) model to guess 
+ physical and money-based results of different stocker 
+ production systems. The model was used to calculate 
+ energy needed things, dry matter intake, and stock 
+ gains and weights of different production systems 
+ in Oklahoma. Parsch and Loewer (1987) used a 
+ biophysical model, GRAZE, to decide/figure out whether 
+ rotational or continuous grazing results in best 
+ performance for steers (area of grassy land)d on Bermuda grass 
+ ( Cynodon dactylon L. Pers.) in western Arkansas 
+ and when faced with weather doubt. The (area of grassy land) growth and animal weight gain under nine rotational grazing plans were tested out with the 
+ model. Plans were compared on the basis of net 
+ returns while variance and other measures of breaking up/spreading out were used to measure the riskiness of each grazing 
+ plan. 
+ 6.5. Farming and (surrounding conditions) 
+ 
+ Sabbagh et al. (1992) developed and used EPICPST model to test out the effects of different farming-based management practices on crop produces and 
+ bug-killer losses by surface runoff, (material that sinks in liquid) movement, and leaking under crop-watering/rinsing with water in the High 
+ Plains area of Oklahoma. Kozloff et al. (1992) 
+ used AGNPS in a Minnesota (related to an area of land that drains into a river) to test out 
+ the relative effectiveness of different cropland retirement big plans/layouts/dishonest plans with respect to budget outlays for 
+ once-a-year payments to landowners, reduction in downstream (material that sinks in liquid) produce and nutrient loss, and reduction in on-site wearing away. Foltz et al. (1993) combined 
+ output from EPIC and GLEAMS with a farm level 
+ linear programming model to test the money-based 
+ and (related to surrounding conditions or the health of the Earth) effects/results/suggestions of selected eastern 
+ Com Belt farming systems. Sugiharto et al. (1994) 
+ used EPIC and AGNPS to test out the effects of 
+ selected management practices on connected (material that sinks in liquid) and phosphorus yields starting from farming-based land used for dairy operations. They tested out 
+ 1990-1991 land management other choice practices 
+ 
+ on three soils in the Upper Leafy house Creek area of 
+ Wisconsin and compared the quality of (dumped chemicals)s 
+ from fields and watersheds to current standard practices. Bouzaher et al. (1995) used CEEPES to test . 
+ the money-based and (related to surrounding conditions or the health of the Earth) effects/results/suggestions of 
+ atrazine ban in the Com Belt area of United States. 
+ Hughes et al. (1995) employed EPIC and money-planning 
+ tools to test both the short-run a money-making state and 
+ long-run (the ability to keep something around, or keep something going) of some farming-based 
+ practices in the Grain cropping area of Jordan. 
+ 6.6. Miscellaneous 
+ 
+ Other applications of BPS and BEMS include the 
+ desire/decision of best timing of harvests, test of research working well and marketing analysis. 
+ Kellogg et al. (1988) developed a bioeconomic model 
+ which they used, along with best control 
+ ways of doing things, to decide/figure out the best time periods for 
+ opening the harvest season for Bay Scallop fishery in 
+ North Carolina. Bosch and Shabman (1990) developed a bioeconomic model which they later used to 
+ study the effects of other choice types of research 
+ information on the returns to oyster production. The 
+ model results provide an understanding of the nature of 
+ research (things that are important) that is appropriate for improving 
+ working well in the oyster industry. Finally, in 
+ marketing, Bailey and Richardson (1985) have used 
+ FLIPSIM to test different marketing plans 
+ for cotton. Daily features and cash cotton prices were 
+ tested out by the model and the hit/effect of different 
+ marketing plans to the farm's survival and money-based success was serious and stubborn within a whole-farm 
+ (solid basic structure on which bigger things can be built). 
+ 
+ 7. Opinion and evaluation 
+ 
+ Although earlier surveys (Anderson, 1974; Johnson and Rausser, 1977; Musser and Tew, 1984) point 
+ to a majority of (testing out) computer programs in 
+ crop-watering/rinsing with water studies, machines (that reproduce the real thing) are now being richly 
+ applied to pest management, animal and crop production, risk and (related to surrounding conditions or the health of the Earth) issues. Usually/(in the past), 
+ machines (that reproduce the real thing) have been used to resolve energetic and/or 
+ (random/including random data points) problems. However, its use in static and 
+ pre-decided cases has been increasing. Also, while 
+ the first (or most important) goal of (testing out) is to forecast 
+ 
+ C.A. Oriade, C.R. Dillon j Farming-based Money flow 17 ( 1997) 45-58 
+ 
+ crop (or animals) yields, (event(s) or object(s) that prove something) hints that its 
+ (possibility of/possible happening of)  guessing (things that dirty the air, oceans, etc.) and in creating 
+ certain inputs and (middle-position) products is being 
+ explored. 
+ Recent BPS and BEMS have improved much as serious attempts have been made to avoid 
+ hidden traps connected with earlier systems. Model 
+ builders (have taken advantage of/have made money from) (related to computers and science) advances 
+ in making their systems more strong, flexible and 
+ portable. Programming modules are more and more 
+ being (done or made to look the same way every time) and it is not unusual/amazing to find 
+ (testing out) programs that, in addition to being somehow user-friendly, possess advanced graphic abilities. Sometimes, quality supporting paperwork that is 
+ just like commercial software is now being given. However, a big proportion of machines (that reproduce the real thing) 
+ are still awkward and poorly-designed to the 
+ extent that their developers often insist on formal 
+ training of possible users before permitting the use 
+ of such systems. 
+ There is (event(s) or object(s) that prove something) of improved combined 
+ cooperation between physical and social scientists 
+ which has resulted in the development of more strong and widely-tested machines (that reproduce the real thing). However, this 
+ argues with one of the reasons often brought up for 
+ developing new machines (that reproduce the real thing) which is the lack of 
+ certain desirable features in the earlier models. For 
+ instance, the reason for developing SOYGRO, 
+ instead of using the then existing soybean models, is 
+ the need for a simpler model that has the ability to 
+ test out crop growth in response to daily microclimate and stress factors (Wilkerson et al., 1983). 
+ Also, WEEDSIM was developed because of the 
+ inability of earlier pest management models to account for the more reasonable energetic nature of weed 
+ problems within a multiple species and multiple 
+ control setting (Swinton and King, 1994). Since 
+ these machines (that reproduce the real thing) were developed without any commercial intent, it is possible for more strong and 
+ widely related models to come out  from group efforts that lead to the upgrade of existing 
+ systems instead of developing new ones. With this 
+ approach, desirable features that don't have enough earlier models can be included in later versions. 
+ The structure of money/giving money (to) model-building projects 
+ sometimes has effects/results/suggestions on the shelf-life and 
+ (quality of being liked a lot or done a lot) of the resultant machines (that reproduce the real thing). Model developers often depend on research grants for developing 
+ 
+ 55 
+ 
+ their systems and interest in such models reduces/lessens once 
+ grant money is exhausted. A system of storage-related 
+ models and the connected useful thing/valuable supply personnel is related to in securing/making sure of maximum returns to model-building trips/businesses and avoid unnecessary (making copies of something/more than one person doing the same thing) of 
+ efforts. 
+ The checking (for truth) and validation parts of existing 
+ models both during system development and later applications have improved much. Users 
+ now regard validation as a key part of project 
+ putting into use. Almost all studies now includes 
+ some elements of validation. However, in most cases, 
+ on-field validation trials were carried out at locations 
+ close to where (first information) for calibrating the systems 
+ were sourced. Rather than proving the strength 
+ of the machines (that reproduce the real thing), this location bias may account for 
+ the high degree of writing between the tested out and experimental results. For instance, models 
+ that were validated outside the immediate modelbuilding (surrounding conditions) often have to be re-adjusted in 
+ order to get acceptable model results (Moulin and 
+ Beckie, 1993; Nagarajan et al., 1993; Savin et al., 
+ 1994; Gabrielle et al., 1995). 
+ Still on validation, there seems to be no agreement 
+ as to how validation steps should go ahead. For validation of BPS and BEMS, some modellers have 
+ relied heavily on basic comparisons of tested out and 
+ watched/followed results. Sometimes, (not definite) expert 
+ opinion is tried to decide/figure out the acceptable level 
+ of congruence. It is certain that disagreement on 
+ what makes up/is equal to an acceptable form of validation 
+ procedures will continue until generally in a good mood 
+ standards are set. Until then, Naylor and Finger 
+ (1971) multi-stage approach as increased by Law 
+ and Kelton (1991) which was described earlier may 
+ serve as a convenient starting point. 
+ (testing out) seems like a way(s) of doing things of convenience. Some studies that employed (testing out) tools 
+ did not (ask lots of questions about/try to find the truth about) whether different plans 
+ that could produce almost the same  or superior results were 
+ easily available. Also, (testing out) results are sometimes understood/explained as best solutions. This end/end result is valid only if (testing out) routines have incorporated an optimization search way of doing things such that 
+ the resultant (testing out) results have came together to 
+ the results of any optimization process. Some of the 
+ possible optimization search methods were highlighted in an earlier section of this review. 
+ 
+ 56 
+ 
+ C.A. Oriade, C.R. Dillon/ Farming-based Money flow 17 (1997) 45-58 
+ 
+ 8. End/end result 
+ (testing out), econometric and mathematical programming methods be one of the best known 
+ ways of doing things for tackling the different questions in 
+ applied money-based research. However, the review 
+ shows how (testing out) is a (like nothing else) method that can 
+ help the resolution of certain complex and j or 
+ energetic problems that might otherwise remain uncontrollable/uncurable. Therefore, the continuous relevance of BPS 
+ and BEMS as good research tool is certainly not 
+ in doubt (even though there is the existence of) the (almost nothing/very little) events of their (using something the wrong way) and (very mean, unfair treatment). 
+ The importance of (testing out) to management decision making is reflected in the increasing number 
+ of (testing out)-based decision support systems that is 
+ now in use. This represents a move/change from the ordinary role of (testing out) as a purely research tool. It 
+ also places a higher higher cost on the quality of 
+ (testing out) results as the acceptable margin of error 
+ disappears. As a result, in order to secure/make sure of the 
+ usefulness of (testing out) methods in helping best management decisions, the leftover/extra concerns 
+ that are highlighted in this and almost the same  studies should 
+ be talked to/looked at. 
+ 
+ Responses 
+ The authors thankfully admit/recognize/respond to the help 
+ of Matthew Mason with the book-related review. Also, 
+ the authors are thankful to the two unnamed reviewers for helpful comments and suggestions. 
+ 
+ References 
+ Anderson, J.R., 1974. (testing out): Way(s) of doing things and computer program in 
+ farming-based money flow/money-based studies. Rev. Marketing Agric. Econ. 43, 3-55. 
+ Arnold, J.G., Allen, P.M., 1996. Guessing hydrologic budgets 
+ for three Illinois (very important events). J. Hydro!. 176, 57-77. 
+ Arnold, J.G., Williams, J.R., 1987. Validation of SWRRB machine (that reproduces the real thing) for water supplies in (away from cities) (bowls/areas drained by a river). J. Water Res. Planning 
+ Manage. 113, 243-256. 
+ Azadivar, F., Lee, Y., 1988. Optimization of separate (number or thing that changes) 
+ (random/including random data points) syst<p><strong>NOTE: This document is incomplete. It was shortened to the maximum document length of 50,000 characters.</strong></p><div style="clear:both">&nbsp;</div>

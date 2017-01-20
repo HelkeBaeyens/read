@@ -1,0 +1,784 @@
+ Farming-based Money flow, 5 (1991) 361-383 
+ Elsevier Science Publishers B.V., Amsterdam 
+ 
+ 361 
+ 
+ Pests and bug-killers, risk and risk disgust 
+ David J. Pannell 
+ 
+ 1 
+ 
+ School of Farming, University of Western Australia, Nedlands, 
+ WA. 6009, Australia 
+ 
+ (Accepted 12 June 1990) 
+ 
+ ABSTRACT 
+ Pannell, D.J., 1991. Pests and bug-killers, risks and risk disgust. Agric. Econ., 5: 361-383. 
+ Possible and applied books on risk in decision making for farming-based pest control 
+ is reviewed. Risk can affect bug-killer decision making either because of risk disgust or 
+ because of its influence on expected (money made/good thing received). It is decided that risk does not necessarily lead 
+ to increased bug-killer use by individual farmers. Doubt about some (numbers that change/things that change), such as 
+ pest density and pest death, does lead to higher best bug-killer use under risk disgust. 
+ However, doubt about other important (numbers that change/things that change), such as output price and yield, leads 
+ to lower best levels of bug-killer use. Neglect of these (numbers that change/things that change) in most studies has led to 
+ the false idea (you think is true) that bug-killers are always risk-reducing inputs. What's more, there is 
+ (event(s) or object(s) that prove something) that, in general, the bug-killer dosage which (makes as big as possible) expected (money made/good thing received) is lower under 
+ risk than under sure feeling. Depending on the balance of forces to increase and decrease 
+ bug-killer use under risk, in many facts or conditions (that surround someone) the net effect of risk on best decision 
+ making for pest control may be (almost nothing/very little). The effect on risk of information about pest density 
+ and other (numbers that change/things that change) (as in (having different things working together as one unit) pest management programmes) is discussed. (event(s) or object(s) that prove something) on 
+ this issue is mixed. A range of (related to careful studying or deep thinking) ways of doing things for analysing risk in pest control is 
+ reviewed. Throughout the paper, gaps in the existing books are identified. 
+ 
+ INTRODUCTION 
+ 
+ Risk has been perceived and discussed as an area of (large/relatively large) importance in books on the money flow/money-based studies of pest control in farming. Reichelderfer (1980) and Wetzstein (1981) went so far as to claim that risk 
+ reduction is the main reason for application of bug-killers. While this 
+ seems to understate the importance of profit improvements resulting from 
+ bug-killer use, there is (existing all over a large area) agreement in the books that, in many 
+ 1 
+ 
+ Present address: Money-based Analysis Branch, Department of Farming, South Perth, W.A. 
+ 6151, Australia. 
+ 
+ 0169-5150/91/$03.50 
+ 
+ Â© 1991 - Elsevier Science Publishers B.V. 
+ 
+ 362 
+ 
+ D.J. PANNELL 
+ 
+ facts or conditions (that surround someone), risk (things to carefully think about) influence bug-killer use (e.g. Carlson and 
+ Main, 1976; Conway, 1977; Reichelderfer and Bottrell, 1985; Antle and 
+ Capalbo, 1986; Lichtenberg and Zilberman, 1986a). 
+ The aim of this paper is to review the books on the hit/effect of risk and 
+ risk disgust on decisions to control farming-based pests by use of 
+ chemical bug-killers. Some clearly stated/particular issues are talked about including: the 
+ hit/effect of risk on control decisions by risk-neutral decision makers, the 
+ hit/effect of risk disgust on pest control decisions, the effect of risk on the 
+ level of bug-killer use, the effect of bug-killer use on the level of risk, the 
+ hit/effect of information use on risk, which sources of risk may be important 
+ in the bug-killer problem and whether these sources of risk have been 
+ well enough thought about/believed in applied studies. In addition a range of methods for 
+ examining risk in pest control decisions are reviewed and examples given 
+ from the books. Parts of the topic which have been neglected in the books are identified. 
+ A GENERAL RESPONSE MODEL FOR PESTICIDES 
+ 
+ The reader may find it helpful in the course of the review to refer to a 
+ simple model of yield response to bug-killer use. Lichtenberg and 
+ Zilberman (1986b) showed that for money-based and (related to studying numbers) reasons it is 
+ important to represent response to bug-killers as a two-stage process: bug-killers kill pests, and it is the reduction in pest levels which increases yield. 
+ This way we have pest density (P) as a function of initial pest density (P0 ) and a 
+ kill function which depends on the rate of chemical applied [K( C) is the 
+ proportion of pests killed at chemical dose C]: 
+ P = P0 [_( 1 - K (C)]_) 
+ 
+ (1) 
+ 
+ The kill function differs/changes for different pests and bug-killers and can depend on 
+ timing and (related to surrounding conditions or the health of the Earth) conditions. Actual yield ( Y) is a function of 
+ pest-free yield (Y0 ) and D(P), a damage function giving (fair in amount, related to something else/properly sized compared to something else) yield 
+ loss at pest density P: 
+ Y= Y0 [1- D(P)]_) 
+ 
+ (2) 
+ 
+ D(P) depends on a range of factors and differs/changes for different pests and 
+ 
+ different crops or (areas of grassy land). Herbicides may also cause direct damage to the crop yield but for the purposes of this review, the simple two-equation 
+ model will be enough: 
+ (money made/good things received) ( 7T) are given by: 
+ 1r 
+ 
+ = YPy - CPc -A - F 
+ 
+ (3) 
+ 
+ where PY is output price, Pc is chemical cost, A is chemical application costs 
+ 
+ PESTS AND PESTICIDES, RISK AND RISK AVERSION 
+ 
+ 363 
+ 
+ (which are usually independent of dosage) and F is other production 
+ costs. 
+ This simple model illustrates the major parts/pieces of the pest control 
+ problem. It can be used as the basis for a range of different types of 
+ analysis. For example it could be used to find the dividing line pest density 
+ above which application of a fixed recommended chemical dosage would 
+ produce benefits greater than costs. (first one, then the other) not important analysis could be 
+ used to decide/figure out the best chemical dose. The analysis could be static or, 
+ with added/more functions, energetic. 
+ There are some limits/guidelines in the model which are likely to be 
+ (random/including random data points). In equation (1), pest density may be uncertain as a result of 
+ doubt about the first pest density, the proportion of pests killed or 
+ the chemical dosage actually applied. In equation (2), yield will be uncertain 
+ because of doubt about pest-free yield, the level of damage and the final 
+ pest density. (money made/good things received) in equation (3) are most likely to be affected by 
+ variance in produce and output price. The model illustrates the way these 
+ different sources of doubt affect the variance of income. For example, 
+ doubt about the level of pest death leads to doubt about pest 
+ density which in turn affects (fair in amount, related to something else/properly sized compared to something else) yield loss, actual produce and, 
+ finally, (money made/good things received). The different sources of doubt will be discussed further 
+ in the review. 
+ THEORETICAL FRAMEWORKS FOR ANALYSIS OF RISK 
+ 
+ Although the first (book, magazine, etc.) on risk in pest management used the 
+ idea  of "degree of possible surprise" (Hillebrant, 1960), the most in control/most common 
+ way of thinking for risk analysis in money flow/money-based studies has been expected utility (biggest increase/best possible extent) (e.g. Anderson et al., 1977). In response to (event(s) or object(s) that prove something) that many people 
+ in a planned way violate (statements about the future) of expected utility explanation (e.g. Allais, 1953; 
+ MacCrimmon and Larsson, 1979) there has been a recent growth of more 
+ 'generalised' versions of the explanation (e.g. Machina, 1982; Quiggin, 1982; 
+ Chew, 1983). However there have, up until now, been no applications of any of the 
+ generalized utility explanations to problems of pest control. Of the studies 
+ reviewed in this paper, those which account for risk disgust think about/believe the 
+ decision maker's goal to be expected utility (biggest increase/best possible extent) or, in a 
+ couple of cases, maximin ((biggest increase/best possible extent) of the minimum return). It seems 
+ likely that, so long as the chance distribution of net returns is not 
+ very much skewed, expected utility (biggest increase/best possible extent) will (well enough/good enough/in a smart way) come close to the more general explanations (Quiggin and Fisher, 1989). 
+ Although the studies reviewed here are all concerned with risk, they change/differ 
+ widely in many respects. The assumed goal of decision makers ranges 
+ from expected profit (biggest increase/best possible extent) through expected utility (biggest increase/best possible extent) to 
+ 
+ 364 
+ 
+ D.J. PANNELL 
+ 
+ the extreme degree of risk disgust suggested by the maxnmn way of thinking/basic truth/rule. 
+ Different studies treat different limits/guidelines of the pest/pesticide/ crop 
+ system as being uncertain. There has been a range of (related to careful studying or deep thinking) (solid basic structures on which bigger things can be built) 
+ employed including energetic programming (DP), Bayesian decision explanation 
+ and (random/including random data points) (wasting very little while working or producing something). The following discussion describes these 
+ differences and reviews particular studies. 
+ RISK NEUTRALITY VERSUS RISK A VERSION 
+ 
+ The broadest labeling of the risk books is into those studies 
+ which assume risk neutrality and those assuming risk disgust. The idea (you think is true) of risk neutrality is often made for the purposes of simpleness and 
+ (ability to be managed or controlled) (e.g. Marra and Carlson, 1983; Moffitt et al., 1984; Taylor and 
+ Burt, 1984; Gold and Sutton, 1986; Johnston and Price, 1986; Zacharias et 
+ al., 1986). The first part of this discussion thinks about/believes the truth/trueness of this 
+ idea (you think is true). Given the extreme statements made by some authors about the 
+ importance of risk disgust as the most important reason for damage control, it 
+ may seem that the idea (you think is true) of risk neutrality is wrong. However, 
+ there have been studies which found that risk disgust had (almost nothing/very little) hit/effect 
+ on decision making for pest control. Webster (1977) found that for a 
+ fungus-killer-spraying problem in the United Kingdom, the decision of whether 
+ or not to spray was very insensitive to the degree of risk disgust. Only 
+ people with extreme decision judging requirements, such as maximin, would (change to make better/change to fit new conditions) 
+ their spraying decision in response to risk. No farmers in a sample of 29 
+ were found to be this (not wanting to do anything dangerous). 
+ (in almost the same way), Thornton (1984) found that decisions on control of a fungal 
+ disease of grain in New Zealand were almost unaffected by risk disgust. 
+ In many tests of disease widespread diseases, differences in recommendation 
+ between expected (money made/good thing received) and expected utility (biggest increase/best possible extent) happened with a 
+ frequency of about 0.03. 
+ Finally, Pannell (1990a) found that when a range of sources of doubt was carefully thought about/believed, the variance of income was almost unchanged over a 
+ wide range of herbicide dosages. This points to/shows that the best herbicide 
+ dosage would not be greatly affected by risk disgust. 
+ In addition to these indications that risk disgust may have little hit/effect 
+ on pest control decisions, there is also (event(s) or object(s) that prove something) that many farmers are 
+ about risk-neutral or only (a) little (not wanting to do anything dangerous) (e.g. Bond and 
+ Wonder, 1980; Poetsley and Harris, 1987). Finally, Carlson (1984) and 
+ Musser et al. (1986) have suggested that risk may not be an important 
+ (serious thought/something to think about/respect) in farmers' decisions on pest control. Taken together, these 
+ studies appear to provide some support for use of a risk-neutral (solid basic structure on which bigger things can be built). 
+ However there are reasons to question the general (ability to be used for something) of the results 
+ 
+ PESTS AND PESTICIDES, RISK AND RISK A VERSION 
+ 
+ 365 
+ 
+ reported by Webster (1977) and Thornton (1984). In Thornton's study, the 
+ (state of not caring about other people's feelings) of decisions to risk disgust may have been (stated that something is much bigger, worse, etc., than it really is) by 
+ basing the bring outation of utility functions on a range of payoffs going along with/matching up to just 10 ha. This in itself would not have been a major concern but for 
+ the idea (you think is true) that decisions are independent of the scale of the problem. 
+ Given that income (quality of changing over time or at different places) is positively related to crop area this idea (you think is true) is silly. In Thornton's study all decisions are made on the basis of 
+ a small-scale problem in which risk is bound to be of minor importance. 
+ Zacharias and Grube (1984) talked to/looked at this issue in their application of 
+ (random/including random data points) control to weed control. They argued that 
+ "the decision makers will tend to show more risk neutral behaviour when argued with 
+ with per area of land  results rather than farm level returns. If the bounds of the risk preference 
+ function are constant across income levels ... the rankings [of plans] connected with 
+ per area of land  and farm level distributions will be different" (Zacharias and Grube, 1984, p.116). 
+ 
+ A second factor which may have added/have given to the seen/obvious (state of not caring about other people's feelings) 
+ of decisions to risk disgust is the use of a simple binary decision rule: don't 
+ treat or treat at the recommended dose. This secures/makes sure of that there are wide 
+ ranges of limit/guideline values for which the best plan is unchanged. If 
+ dosage rate were treated as a continuous (number or thing that changes), the sensitivity of decisions 
+ to changes in all limits/guidelines, including risk disgust, would increase. Webster (1977) also used a binary decision rule. The scale of the problem 
+ analysed by Webster was not reported in the article. 
+ In addition to these reasons for questioning the ends/end results of Webster 
+ and Thornton, there are reasons for caution in the (understanding/ explanation) of studies 
+ which find a low average level of risk disgust. There is large amounts of 
+ difference/different version in the degree of risk disgust and a big number of farmers 
+ are highly (not wanting to do anything dangerous) (Bond and Wonder, 1980; Hamal and Anderson, 
+ 1982). 
+ Finally, some authors have reported finding that risk disgust does 
+ (in a big way) affect decision making (e.g. see following discussions of risk 
+ disgust and connected modelling ways of doing things). Also, in reports of scientific 
+ studies of farmer behaviour, authors have reported finding that reliance on 
+ chemical pest control increases as risk disgust increases (Underground tunnels, 1983; 
+ Pingali and Carlson, 1985). However the strength of this end/end result should 
+ not be overstated. Underground tunnels (1983) managed and did/done an econometric study to 
+ decide/figure out which (numbers that change/things that change) influence demand for bug-killers. In the guess, the degree of producers' hatred of risk was represented by a very 
+ (very simple/rough and rude) (substitute-related) (number or thing that changes): the ratio of areas of land planted in obey total areas of land. 
+ Ends/end results about risk based on this (number or thing that changes) should be very uncertain/not definite. In 
+ another moving backward study, Pingali and Carlson (1985) found that the level of 
+ bug-killers used was positively related to the variance of damage. Although 
+ they attributed this to risk disgust on the part of decision makers, the 
+ 
+ 366 
+ 
+ D.J. PANNELL 
+ 
+ (event(s) or object(s) that prove something) is purely hinting. They did not recognise that there are 
+ a few ways in which risk can affect decision making even if the decision 
+ maker's goal is to (make as big as possible) expected (money made/good thing received) (see below). 
+ Overall it appears that when analysing pest control decisions, risk neutrality may not be as poor an idea (you think is true) as one would expect based on some 
+ statements in the books. A few studies based on risk neutrality are 
+ reviewed below. However it should be admitted/recognized/responded to that many studies 
+ have fould that risk disgust does affect pest control decisions. 
+ We return to risk disgust after the following discussion of risk neutrality. 
+ Risk neutrality 
+ Of those studies in which risk neutrality has been assumed, the majority 
+ have been based on a pre-decided decision (solid basic structure on which bigger things can be built) [e.g. most of the 
+ studies referred to in (book lists) by McCarl (1981) and Osteen et al. (1981)]_). 
+ This approach can sometimes be defended on the basis that in a strictly 
+ linear model, the decision which (makes as big as possible) expected (money made/good thing received) in a (random/including random data points) 
+ (solid basic structure on which bigger things can be built) goes along with the (money made/good thing received) making the most of decision in a pre-decided 
+ (solid basic structure on which bigger things can be built) using expected values of limits/guidelines. This hints that if expected profit (biggest increase/best possible extent) is assumed, including (random/including random data points) limits/guidelines in a linear model introduces unnecessary complex difficulty to the analysis 
+ without affecting results. Such was the case in studies by Marra and Carlson 
+ (1983) and Marra et al. (1989). They clearly included a separate chance distribution for the length of the spraying period, but this was unnecessary since all non-linear relationships in the model were came close to by 
+ linear functions. 
+ Anyway there are a few ways in which risk can affect the decisions 
+ of people whose goal is to (make as big as possible) expected (money made/good thing received). Tisdell (1986) 
+ showed that doubt about a limit/guideline value can affect the best level 
+ of pest control by affecting expected (money made/good thing received). He argued that 
+ "in many cases the expected level of application is greater under doubt than under 
+ full information but ... this depends on curviness conditions of (connected/related) functions" (p.161). 
+ 
+ and that 
+ "curviness conditions may sometimes be such as to give rise to the opposite result" 
+ (p.159). 
+ 
+ He did not discuss which limits/guidelines are likely to increase and which to 
+ decrease treatment levels under doubt. Auld and Tisdell (1986, 1987, 
+ 1988) showed that because of curviness of the relationship between weed 
+ density and crop yield, doubt about weed density reduces expected 
+ yield loss. Auld and Tisdell (1987) argued (but did not prove) that this 
+ increases the money-based dividing line, reducing the overall level of bug-killer use. 
+ They noted that this does not seem agreeing with/matching up with/working regularly with comments in the 
+ 
+ PESTS AND PESTICIDES, RISK AND RISK A VERSION 
+ 
+ 367 
+ 
+ literature that risk increases bug-killer use. They attributed the difference to 
+ the influence of risk disgust ruling over the effect of risk on expected 
+ (money made/good thing received). 
+ Pannell (1990b) examined a range of uncertain (numbers that change/things that change) in a model of 
+ yield response to herbicides under expected profit (biggest increase/best possible extent). He found 
+ that doubt about each of the (numbers that change/things that change) thought about/believed (initial weed density, 
+ weed kill, weed (wanting to beat others in contests), herbicide dosage and weed-free yield) 
+ reduced the (money made/good thing received) making the most of herbicide dosage and increased the dividing line 
+ density for herbicide treatment. Not prevented by/not part of the issue the quote from Tisdell 
+ (1986) above, no cases were found where the expected level of application 
+ was greater under doubt. 
+ The only study of this type for insect pests was by Plant (1986) who 
+ thought about/believed doubt about pest death. Like Pannell (1990b) he found 
+ that under expected profit (biggest increase/best possible extent), doubt led to a higher dividing line 
+ pest density for bug-killer use. Although he understood/explained this higher dividing line 
+ as suggesting a higher level of bug-killer use this is wrong; it actually hints 
+ a lower expected level of bug-killer use, agreeing with/matching up with/working regularly with Pannell's (1990b) 
+ findings. 
+ Another situation where risk can affect the decisions of 'risk-neutral' 
+ decision makers is where the problem is energetic (Antle, 1983). Zacharias et 
+ al. (1986) tested this guess in their DP study of soybean body-lump-related nematode. 
+ They found modest support for the guess, with very small differences 
+ between the results of their pre-decided and (random/including random data points) models. 
+ A third possibility is where the decision maker is subject to a progressive 
+ not important taxation rate. Taylor (1986) showed that the effect of this on 
+ decision making is mostly the same as the effect of risk disgust; it 
+ makes the decision maker behave in an (based on what's seen or what seems obvious) more (not wanting to do anything dangerous) manner 
+ than would otherwise be the case. 
+ Risk disgust 
+ This section of the review examines the widely accepted views that risk 
+ increases bug-killer usage and that bug-killer usage reduces risk. The importance of risk as a (thing that decides something) of bug-killer usage has been focused in the 
+ books with the most in control/most common view being that bug-killer use reduces risk so 
+ that if risk is included in a model, risk disgust will cause the best 
+ treatment rate to be increased. This is in contrast to other types of inputs, 
+ such as (material that makes plants grow better)s, which are usually supposed to be used at lower levels 
+ under risk disgust than under risk neutrality. Feder (1979) is commonly 
+ referred to as having established the possible basis for the assumed positive 
+ relationship between degree of risk and level of bug-killer usage. Feder 
+ showed that under risk disgust, doubt about the level of pest (fill with lots of something harmful or disgusting)a- 
+ 
+ 368 
+ 
+ D.J. PANNELL 
+ 
+ tion increases the best level of bug-killer use. However, crop damage was 
+ came close to by a linear function, so the effect of doubt about pest 
+ density on expected (money made/good thing received) (see above) was not thought about/believed. Auld and Tisdell 
+ (1987) showed that, at least for weeds, doubt about pest density 
+ reduces expected yield loss, and argued that this reduces the chance of 
+ treatment being gave a reason for. This effect at least partially offsets the positive 
+ effect of risk disgust on chemical usage. 
+ Moffitt (1986) in his extension of the M-dividing line idea (Moffitt et al., 
+ 1984) to allow for risk disgust, further questions the accepted wisdom of 
+ greater risk leading to greater bug-killer usage. He showed in his possible 
+ model that, under risk, a higher dosage can be more than offset by less 
+ frequent use (i.e. a higher dividing line) although this was not found to happen in 
+ an scientific (online or paper form that asks for a job, money, admission, etc.) of the approach by Osteen et al. (1988). 
+ A further (connected/related) issue which has received almost no comment in the 
+ books is the fact that the reputation of bug-killers as "risk reducing 
+ inputs" (Carlson, 1984; Robison and Barry, 1987) appears to be mainly 
+ based on analyses which only think about/believe doubt about the level of pest 
+ (situation where something is filled with lots of something harmful or disgusting) or chemical effectiveness (e.g. Feder, 1979; Robison and Barry, 1987; 
+ Osteen et al., 1988). However, there are many other sources of doubt in the pest/pesticide/ crop system which may or may not result in 
+ reduced risk as bug-killers are increased. Feder (1979) did think about/believe doubt about bug-killer effectiveness but was confusing about its hit/effect on 
+ bug-killer usage. Chisaka (1977) showed that the level of crop yield loss 
+ caused by weeds can be a significant source of doubt. Auld and Tisdell 
+ (1987) thought about/believed doubt about crop yield loss in a risk-neutral setting, 
+ finding that it would not affect decision making. They did not think about/believe its 
+ effect on a (not wanting to do anything dangerous) decision maker. Robison and Barry (1987) commented in passing that the Feder model could be expanded to allow for 
+ doubt about output price. They watched/followed that 
+ "two random (numbers that change/things that change), however, quickly complicate our analysis, forcing us into number-based rather than (related to careful studying or deep thinking) approaches. What's more, we could find the dividing line level for 
+ N * as before but the solution would require solving a quadratic formula with few 
+ pre-decided results" (p.llO). 
+ 
+ This may explain some of the shyness of most analysts to think about 
+ uncertainties other than pest density. However this shyness may have 
+ resulted in the continuing of a general false impression that bug-killers 
+ always reduce risk. Pannell (1990a) found that for weeds, doubt about 
+ output price, weed-free yield or chemical damage to the crop leads to greater 
+ variance of income at higher herbicide rates. In many (surrounding conditions) these 
+ may be more important sources of doubt than are pest density, pest 
+ damage to crops or bug-killer effectiveness. In all (surrounding conditions), the question 
+ of whether bug-killer use results in higher or lower income (quality of changing over time or at different places) 
+ 
+ PESTS AND PESTICIDES, RISK AND RISK A VERSION 
+ 
+ 369 
+ 
+ depends on the balance of forces of positive and negative effects on risk. 
+ Bug-killer usage will result in risk being increased in some situations and 
+ reduced in others. In an analysis of ryegrass control in wheat in Western 
+ Australia, Pannell (1990a) found that the forces balanced so that income 
+ (quality of changing over time or at different places) was almost unchanged over a wide range of herbicide rates. 
+ Some other authors have thought about/believed many sources of risk. 
+ While they have not gave/given (related to careful studying or deep thinking) proof, they have produced some 
+ support for the suggestion/possible plan that bug-killers do not always reduce risk. 
+ Hawkins et al. (1977) managed and did/done money-planning analysis of field results from 
+ weed control trials. These would have completely/in a hinting way included a few (related to the body function of living things) 
+ sources of risk including weed density, herbicide effectiveness and weed-free 
+ yield. They found that herbicide use increased the standard moving away of 
+ returns, which hints that weed-free yield was the major source of (quality of changing over time or at different places) in the trials. 
+ In studies by Cochran et al. (1985) and Greene et al. (1985), (testing out) 
+ approaches were used to guess chance distributions of income for 
+ analysis using (random/including random data points) control ways of doing things. The uncertain (numbers that change/things that change) 
+ thought about/believed by Greene et al. (1985) were wheat yield, wheat price, soybean 
+ price, July temperature and August rainfall. They assumed that these (numbers that change/things that change) followed a multivariate (usual/ commonly and regular/ healthy) distribution which was guessed from 
+ 20 years of historical data. Cochran et al. (1985) allowed for doubt 
+ about the weather, yield, prices, the desire/decision of (situation where something is filled with lots of something harmful or disgusting) periods and 
+ the calculation of yield loss. It is very interesting that in both these studies, 
+ integrated pest management (IPM) plans, which generally involve reduced bug-killer use, were found to be (producing a lot with very little waste) for (not wanting to do anything dangerous) decision 
+ makers. In the Greene et al. study, IPM plans clearly ruled 
+ ordinary plans for even the highest level of risk disgust thought about/believed. 
+ If bug-killer use did reduce risk, one might have expected (not wanting to do anything dangerous) decision 
+ makers to prefer prophylactic bug-killer use. Cochran et al. (1985) used a 
+ number of (random/including random data points) control judging requirements with different powers of (unfair treatment based on skin color, age, etc.). IPM plans were part of the (producing a lot with very little waste) set under all judging requirements. As the 
+ judging requirement was made more discriminating, plans involving calendar spraying (i.e. pre-planned (disease-preventing treatment)s) were removed from the 
+ (producing a lot with very little waste) set until the most discriminating judging requirement resulted in a (like nothing else) 
+ ranking with IPM as the only (producing a lot with very little waste) plan. Again, if bug-killers were 
+ risk-reducing, IPM plans involving lower bug-killer use might involve 
+ higher risk and not be clearly (producing a lot with very little waste) for (not wanting to do anything dangerous) decision makers. 
+ While these described/explained studies are interesting that bug-killers may not reduce 
+ risk, there is a need for caution in crediting this (understanding/ explanation) to the results. 
+ It may be that the use of information in IPM plans is itself risk-reducing. (event(s) or object(s) that prove something) in support of this is given by Antle (1988a) who found that 
+ bug-killers used in an IPM programme were more risk-reducing than those 
+ 
+ 370 
+ 
+ D.J. PANNELL 
+ 
+ used prophylactically. He also found that the value of information use in 
+ IPM plans was (in a big way) higher for more (not wanting to do anything dangerous) decision makers. 
+ Even if lower bug-killer use increases risk, information may be (good or well enough) 
+ risk-reducing to more than offset this, making the IPM plan attractive to 
+ (not wanting to do anything dangerous) decision makers. Anyway it does appear that the risk-reducing nature of bug-killers is by no means proven. This is an issue deserving 
+ further attention. 
+ Finally, note that even if bug-killer uses do reduce income risk, it 
+ does not necessarily follow that a (random/including random data points) decision model will lead to 
+ greater bug-killer usage than will a pre-decided model. As discussed earlier, 
+ the introduction of risk into the decision process may affect expected (money made/good thing received) 
+ in such a way that chemical use tends to be reduced. In some situations 
+ this effect may more than offset increases in chemical usage due to risk 
+ promisesiOn. 
+ The rest of the paper is a review of applied studies which have 
+ allowed for risk. The different ways of doing things which have been used are described. 
+ Advantages and disadvantages of the ways of doing things are suggested. 
+ BAYESIAN DECISION THEORY 
+ 
+ Bayesian decision explanation is concerned with the rewriting/redoing of risky decisions 
+ in response to information about the (problem that is important now). Many Bayesian 
+ studies calculate the expected value of information to be used in a decision. 
+ Anderson et al. (1977) described the use of Bayesian decision 
+ explanation to a range of problem types in farming. One of the earliest 
+ applications of the approach to damage control was by Carlson (1970) who 
+ examined the disease control practices of Californian peach growers. He 
+ brought out prior chance distributions of disease loss from growers and used 
+ these to show that if the number of applications of chemicals is well 
+ (changed to make better/changed to fit new conditions) in response to disease forecasts, chemical usage can be (in a big way) 
+ reduced. 
+ Webster (1977) managed and did/done a Bayesian analysis of a fungal (something that feeds off of, and weakens, something else) problem on wheat. He brought out (quadratic) utility functions from farmers and, as 
+ discussed earlier, found that the decision of whether to spray was very 
+ insensitive to risk attitudes. In a follow-up study, Menz and Webster (1981) 
+ used a Bayesian approach to guess the expected value of information 
+ which would be given by a possible (like a recommendation, but not an order) big plan/layout/dishonest plan proposed by 
+ Webster (1977). They found that the expected value of information was very 
+ high so that benefits of the proposed big plan/layout/dishonest plan would be very likely to 
+ outweigh costs. In a later (book, magazine, etc.), Webster (1982) gave a general 
+ discussion of the value of information in pest control and presented examples for a disease control program. The analysis was simplified by assuming 
+ 
+ PESTS AND PESTICIDES. RISK AND RISK AVERSION 
+ 
+ 371 
+ 
+ expected profit (biggest increase/best possible extent) and by assuming that the values of different 
+ types of information are (serving to add something) and independent. 
+ Mumford (1981) focused the (not definite) parts of pest control decisions. He found that pest control decisions by members of a particular 
+ group of surveyed farmers was agreeing with/matching up with/working regularly with a simple Bayesian model in 
+ their pest control behaviour. He assumed that the goal of the more 
+ (not wanting to do anything dangerous) farmers in the group came close to to 'maximin', although 
+ Webster (1977) found no farmers in a group of 29 who were that (not wanting to do anything dangerous). 
+ Thornton and Dent (1984a, b) focused on rewriting/redoing of best disease 
+ control plans in response to information on climate and disease information levels. They described their approach as "completely/in a hinting way Bayesian" (Thornton and Dent, 1984a, p.123) and presented a (solid basic structure on which bigger things can be built) for putting into use it 
+ for use by farmers. They found that the expected value of climate and 
+ disease level information "increases with decreasing partial risk disgust, 
+ since the value is dependent on the recommendation not to spray, (not wanting to do anything dangerous) 
+ people being unwilling not to apply spray" (Thornton and Dent, 1984b, 
+ p.241). 
+ The study by Antle (1988a, b) might also be thought about/believed as "completely/in a hinting way 
+ Bayesian" in its focus on risk and (one after the other) decision making. Interestingly, in a case study of IPM plans for tomato production, he received/got 
+ the opposite result to Thornton and Dent (1984b); greater degrees of risk 
+ disgust were connected with (in a big way) higher values of information. 
+ Another interesting finding was that although insecticides as a group were 
+ found to be (only a little bit) risk-reducing inputs, those bug-killers applied with 
+ (compared to other things) low frequency in the IPM programme were found to be much more risk-reducing than those applied prophylactically. Clearly the 
+ degree of risk reduction received/got from bug-killer use depends not just on the 
+ level of bug-killer used, but also on the way it is used. Antle's finding 
+ hints that information which aids in deciding/figuring out best bug-killer use 
+ may be more risk reducing than bug-killers (by itself/in and of itself). 
+ Moffitt et al. (1986) examined the value of publicly given information 
+ on pest levels in a situation where private scouting services were available. 
+ They found that the value depended on the reliability of public information. 
+ If it were (a) little less reliable than private information, public information 
+ still had a positive net value to farmers because of its lower cost. However, 
+ below a certain level of reliability, public information had no value. 
+ Stefanou et al. (1986) presented a Bayesian model including decisions 
+ on both whether to scout and whether to spray. They applied the model to 
+ cotton lygus bug in California and managed and did/done wide-ranging sensitivity analySIS. 
+ 
+ The studies discussed above all allowed for risk disgust on the part of 
+ decision makers. Bayesian decision explanation can also be applied in a risk-neu- 
+ 
+ 372 
+ 
+ D.J. PANNELL 
+ 
+ tral setting. For example Johnston and Price (1986) assumed risk neutrality 
+ in calculating the expected values of perfect and (not totally pure/not totally correct) information in 
+ the problem of stored grain insect control. Cammell and Way (1977) applied 
+ a risk-neutral Bayesian model to guess the value of forecasting black bean 
+ small, plant-damaging bug (groups of people/animals/things). They found that basing treatment decisions on this 
+ information was much more money-making than (usually done) treatment or no 
+ treatment. 
+ All of the farm level studies referred to in this section treat the bug-killer as a 
+ binary (number or thing that changes) to be applied at the recommended rate or not at all. There 
+ does not seem to have been an use of Bayesian decision explanation in 
+ which treatment dosage has been treated as a continuous (number or thing that changes). It is also 
+ important/famous that none of these studies examine a problem of weed control. It 
+ appears that a Bayesian approach to chance rewriting/redoing is highly related 
+ to problems of strategical weed control. 
+ STOCHASTIC EFFICIENCY 
+ 
+ In the Bayesian studies described above, particular utility functions were 
+ brought out or assumed for use in the analysis. If a specific utility function is 
+ used then it is possible to give an clear ranking of all plans 
+ (being thought about carefully). However, these rankings are not necessarily consistent 
+ with the preferences of people who do not have the exact utility 
+ function used in the analysis. 
+ (random/including random data points) (wasting very little while working or producing something) analysis is used to create information which is 
+ related to broadly defined groups of decision makers. There are a 
+ number of different (random/including random data points) (wasting very little while working or producing something) judging requirements used depending on how 
+ broadly defined a group of decision makers is being targeted: 
+ (a) first-degree (random/including random data points) control (FSD) applies to all decision makers 
+ who prefer more income to less (Strange quality and Saposnik, 1962); 
+ (b) second-degree (random/including random data points) control (SSD) applies to those decision 
+ makers from (a) who are (not wanting to do anything dangerous) (Hadar and Russell, 1969); 
+ (c) third degree (random/including random data points) control (TSD) applies to those decision 
+ makers from (b) whose degree of risk disgust decreases with increasing 
+ wealth (Whitmore, 1970); 
+ (d) (random/including random data points) control with respect to a function (SDWRF) is related 
+ to decision makers whose degree of risk disgust lies between that of two 
+ given utility functions. The width of the decision group can be varied 
+ by (changing to make better/changing to fit new conditions) the functions which define the bounds (Meyer, 1977a, b). 
+ The greater (statement that's not detailed) of these ways of doing things is only received/got at the cost of 
+ reduced level of detail of their recommendations. In general they do not provide 
+ a (like nothing else) ranking of the available plans. Rather they identify groups of 
+ plans which are 'efficient'. All elements of the (producing a lot with very little waste) set of plans 
+ 
+ PESTS AND PESTICIDES, RISK AND RISK AVERSION 
+ 
+ 373 
+ 
+ would be preferred to all plans not in the (producing a lot with very little waste) set by all members of 
+ the (connected/related) group of decision makers. A possible problem with the way of doing things is that the (producing a lot with very little waste) set can be change/differ  large, sometimes including most 
+ of the available plan options. In this situation the information 
+ given by the way of doing things is of little value. Greater (treating certain groups of people unfairly) power 
+ can be gotten by more closely defining the group of decision makers (e.g. 
+ using third degree, rather than second degree, (random/including random data points) control) andjor 
+ by using ways of doing things such as curving out set (random/including random data points) control (Cochran et al., 
+ 1985). However, as Tolley and Pope (1988) watched/followed, "second degree 
+ (random/including random data points) control has been easily implementable and continues to have a 
+ famous place in (wasting very little while working or producing something) analysis" (p.694). Tolley and Pope noted that 
+ sampling errors in the guess of chance distribution functions are 
+ usually not thought about/believed. They showed that if sampling errors are carefully thought about/believed, 
+ the size of the (producing a lot with very little waste) set is increased even further. 
+ Finally in this background information on (random/including random data points) (wasting very little while working or producing something), it should 
+ be noted that a very common method of identifying (producing a lot with very little waste) plans for 
+ (not wanting to do anything dangerous) decision makers is E-V analysis (Markowitz, 1952). However E-V 
+ analysis has been widely criticised because it has very strong needed things 
+ for truth/trueness (Lambert and McCarl, 1985). Either returns must be distributed 
+ (usually/ in a common and regular way) or the decision maker must have a quadratic utility function. The 
+ former is often not the case and the last thing just mentioned is generally dismissed as 
+ silly because it hints increasing risk disgust with increasing wealth. 
+ The books on the money flow/money-based studies of pest control includes five applications 
+ of (random/including random data points) control: two in problems of insect control, one on a disease 
+ problem, one on weeds and one including weed, pest and disease 
+ control. Between them, these studies have included most of the (wasting very little while working or producing something) 
+ judging requirements described above (all except TSD). 
+ Papers by Greene et al. (1985) and Cochran et al. (1985) were described 
+ above in the discussion of whether bug-killers are risk-reducing inputs. 
+ Greene et al. (1985) used SDWRF to rank different plans for insect pest 
+ control in soybeans. They found that IPM plans are (producing a lot with very little waste) relative to 
+ prophylactic spraying for a wide range of risk attitudes. Cochran et al. 
+ (1985) used FSD, SSD, SDWRF and SDWRF with curving out set (random/including random data points) 
+ control to test plans for Apple scab control. Again IPM plans were favoured. 
+ Moffitt et al. (1983) used FSD and SSD to test a range of other choice 
+ citrus thrip control methods for inland Southern California orange groves. 
+ Of the eight plans thought about/believed, six were in the FSD (producing a lot with very little waste) set while 
+ three were in the SSD (producing a lot with very little waste) set. 
+ Zacharias and Grube (1984) examined a range of crop rotations in 
+ conjunction with different weed control methods. They used SDWRF to 
+ examine plan rankings for (not wanting to do anything dangerous), risk-neutral and risk-preferring 
+ 
+ 374 
+ 
+ D.J. PANNELL 
+ 
+ decision makers. Their ends/end results about the effect on risk of using information to (change to make better/change to fit new conditions) herbicide usage were the reverse of Antle's (1988a): 
+ (one after the other) changing herbicides on a once-a-year basis as compared to applying a single major 
+ herbicide was found to increase both net returns and risk" (p.l13). 
+ 
+ Finally Musser et al. (1981) compared the results of E-V analysis and 
+ FSD jSSD in ranking four sets of plans for controlling weeds, pests and 
+ sicknesses in Georgia. They found that, in an E-V (solid basic structure on which bigger things can be built), both ordinary plans and IPM plans were (producing a lot with very little waste). IPM had higher mean net 
+ income but also higher variance of income and so was not clearly preferred 
+ to ordinary control in an E-V (solid basic structure on which bigger things can be built). However IPM was found to 
+ be FSD over ordinary plans and so would be preferred by all 
+ decision makers (without any concern about/having nothing to do with) their risk preferences. Note again that use of 
+ an IPM plan was not found to reduce risk. (based on what's seen or what seems obvious) in both of these 
+ studies, chemical sprays were risk-reducing and information was not (good or well enough) risk reducing to offset the increase in risk resulting from lower 
+ chemical use. 
+ Studies employing an E-V approach to testing-related risk in pest control have 
+ included Carlson (1970), King et al. (1986) and Lybecker et al. (1988). 
+ DYNAMIC PROGRAMMING 
+ 
+ Pest control in a crop or (area of grassy land) may have either positive or negative 
+ carry-over effects in later crops or (areas of grassy land). For example, one of the 
+ advantages of including the (pea, bean, lentil, etc.) crop, lupins, in rotation with cereals in 
+ Western Australia is that they allow use of the herbicide simazine for weed 
+ control, reducing the costs of grass weed competition and control in later cereal crops. In general, the number of weed seeds with possible ability to 
+ begin growing in a given year depends on the degree of control in previous years. 
+ A negative effect of weed control in crops is that the density of later 
+ (areas of grassy land) can be reduced. Pattern of behavior factors such as these may affect best 
+ weed control practices. 
+ A energetic (related to careful studying or deep thinking) (solid basic structure on which bigger things can be built) is even more important for problems of 
+ pest and disease control. Reproduction rates are very high for these organisms 
+ so that (situation where something is filled with lots of something harmful or disgusting) levels can increase quickly. For most weeds, the life cycle 
+ takes at least a year so that population patterns are not as very important to the 
+ money-based problem as they are for pests and sicknesses. Ways of doing things used to 
+ face/deal with energetic problems include (testing out) (discussed in the next section) 
+ and DP. 
+ Christine Shoemaker stands out as the major contributor to the books 
+ in the DP field, especially for management of alfalfa weevil. In two of her 
+ papers, (random/including random data points) DP was used to test the effect of risk on decision 
+ making (Shoemaker and Onstad, 1983; Shoemaker, 1984). In Shoemaker 
+ 
+ PESTS AND PESTICIDES, RISK AND RISK A VERSION 
+ 
+ 375 
+ 
+ (1984) the issues of multiple bug-killer uses and carryover of bug-killer 
+ from one season to the next were carefully thought about/believed. As well as using more than one 
+ (number or thing that changes) to decide/figure out whether to treat, she has also thought about/believed more than 
+ one type of treatment: bug-killer use and (related to the body function of living things) control (Shoemaker and Onstad, 1983). 
+ Taylor and Burt (1984) used (random/including random data points) DP to decide/figure out whether or not to 
+ spray andjor unplanted to control wild oats in spring wheat in the U.S.A. 
+ Pandey (1989) used pre-decided and (random/including random data points) DP to decide/figure out best 
+ herbicide rates for control of wild oats in Western Australia. 
+ There has also been an application of (random/including random data points) DP to a problem of 
+ disease control. Zacharias et al. (1986) used (random/including random data points) DP to test 
+ management plans for controlling soybean body-lump-related nematode. They. tested 
+ and supported/judged as correct Antle's (1983) guess that risk-neutral (i.e. expected profitmaximising) decision makers can respond to risk if the problem is energetic. 
+ In each of these studies, expected profit (biggest increase/best possible extent) was assumed to be 
+ the goal; there was no (money given/freedom to move) for risk disgust on the part of 
+ decision makers. 
+ The obvious advantage of DP as a solution method is its (producing a lot with very little waste) 
+ handling of patterns. The main disadvantage is the 'curse of quality': as the number of state (numbers that change/things that change) in the model increases, the number of 
+ calculations needed/demanded for solution increases (more and more as time goes on) and can become 
+ (in a way that shows no common sense) large. Because of this DP generally needs/demands that complex systems be 
+ greatly simplified before they can be analysed. 
+ Another part/face  of DP which may be thought about/believed a disadvantage is that it 
+ can only handle separate decision problems. Only separate other choice plans can be tested, not continuous (numbers that change/things that change) such as chemical dosage, 
+ although this can be overcome to a degree by (thinking about/when one thinks about) a separate number 
+ of chemical dosages as different plans (e.g. Pandey, 1989). 
+ SIMULATION 
+ 
+ (testing out) models of vanous kinds have been used in some 
+ different ways to test the money flow/money-based studies of pest, disease or weed control. 
+ Risk disgust has been analysed in some ways in these studies: by 
+ number-based solution of the expected utility (biggest increase/best possible extent) problem (Lazarus 
+ and Swanson, 1983; Thornton and Dent 1984a, b), by E-V analysis (King et 
+ al., 1986) and by (random/including random data points) control approaches (Cochran et al., 1985; 
+ Greene et al., 1985). 
+ An advantage of (testing out) models is that they allow guess of 
+ technical relationships which would be expensive, time-using/eating or silly/not doable to guess from field experiments. A second advantage is that, 
+ relative to optimization ways of doing things such as DP or mathematical program- 
+ 
+ 376 
+ 
+ D.J. PANNELL 
+ 
+ ming, they allow more described/explained representation of (related to the body function of living things) and technical 
+ parts/pieces of the system (Shoemaker, 1984). A disadvantage is that in most 
+ money-based computer programs they must be solved many times to reach a 
+ end/end result. For example, Shoemaker (1979) noted that to manage and do a almost the same 
+ analysis to that carried out by a particular DP model, a (testing out) model 
+ would have to be solved 1 380 000 times. (testing out) models do not suggest 
+ use of a particular money-based (solid basic structure on which bigger things can be built); rather they can be used to provide 
+ inputs to money-based analyses of a few types. 
+ There have been a few studies in which (testing out) models were used to 
+ guess chance distributions of technical limits/guidelines which were then 
+ used to guess dividing lines under risk. For example Thornton and Dent 
+ (1984a; b) described the design, operation and (putting into) use of such a 
+ system for testing control of the fungal disease Puccini a hordei in New 
+ Zealand grain crops. The effect of (related to the Earth's weather) different version of the variance of 
+ (money made/good thing received) was guessed by (testing out) and used to calculate dividing lines under 
+ risk disgust. Their study was discussed earlier in the big picture  of Bayesian 
+ decision explanation. King et al. (1986) guessed dividing lines for weed control in 
+ continuous corn ( Zea mays). Although they did not think about/believe the hit/effect of 
+ risk disgust on the decision, they guessed the variance of (money made/good thing received) for 
+ different plans. Lazarus and Swanson (1983) did allow for risk disgust 
+ in their test of rootworm control in corn. Although their representation of (related to the body function of living things) relationships was (compared to other things) overly-simple, this allowed them to 
+ analyse a more complex decision problem. They guessed not just pest 
+ dividing lines at which chemical application was (done for good reason), but also a higher 
+ dividing line at which it was worth rotating to another crop. 
+ A somewhat almost the same  use of (testing out) models has been to guess 
+ chance distributions of net returns for test using (random/including random data points) control ways of doing things. Cochran et al. (1985) used this approach in their computer program of curving out set (random/including random data points) control to test of different apple scab 
+ control plans, as did Greene et al. (1985) in their use of generalised 
+ (random/including random data points) control to test soybean (combined different things together so they worked as one unit) pest management 
+ plans. 
+ ANALYTICAL/NUMERICAL APPROACHES 
+ 
+ In some applied studies of risk in pest control, direct number-based 
+ solution of possible models has been employed. Moffitt et al. (1984) 
+ number-basedly solved for the best limits/guidelines of their M-dividing line model 
+ for corn nematode control under doubt about pest density. Osteen et 
+ al. (1988) managed and did/done a almost the same  study of corn nematode control which, unlike 
+ Moffitt et al. (1984), allowed for risk disliking decision making. Liapis and 
+ Moffitt (1983) used the huge utility moment creating function 
+ 
+ PESTS AND PESTICIDES, RISK AND RISK AVERSION 
+ 
+ 377 
+ 
+ approach to calculate sure feeling equals of different cotton pest control 
+ plans under different degrees of risk disgust. The use of this approach 
+ was attacked by Scott et al. (1986) but defended by Liapis and Moffitt 
+ (1986). Lazarus and Swanson (1983) used number-based solution in conjunction 
+ with a (testing out) model to calculate pest density dividing lines for application 
+ of bug-killer and for switching crop rotation. 
+ The number-based solution ways of doing things employed in these studies can be very 
+ useful when the problem is not agreeable to (related to careful studying or deep thinking) solution or to 
+ solution by common optimization ways of doing things such as DP or LP. This can be 
+ the case, for example, when the profit function has more than one local 
+ best, when it has a few state (numbers that change/things that change) or when close links with a 
+ (testing out) model are desired. 
+ In some studies clearly connected with or related to bug-killer use, Lichtenberg and 
+ Zilberman have used not important analysis to get best legal/law-based standards for reducing the chance of negative effects on health (Lichtenberg 
+ and Zilberman 1988a, 1988b; Lichtenberg et al. 1988). In each of these 
+ analyses (money given/freedom to move) was made for "disgust to doubt." No other 
+ studies of public or social pest control problems have thought about/believed risk except 
+ by conducting sensitivity analysis (e.g. Pannell, 1984; Denne, 1988). 
+ RELEVANCE FOR DEVELOPED AND DEVELOPING COUNTRIES 
+ 
+ Almost all studies referred to in this review deal with problems in developed 
+ countries. However the review also has relevance for developing countries; 
+ the (related to the body function of living things) and money-based relationships are almost the same  although some limits/guidelines differ. Especially important for this topic is the higher level of total 
+ risk disgust found among farmers in developing countries (Binswanger, 
+ 1980; Hamal and Anderson, 1982; Antle, 1987) compared to their partners in developed countries (Bond and Wonder, 1980; Poetsley and Harris, 
+ 1987; Myers, 1989). (These studies find almost the same  ranges for partial risk 
+ disgust in developed and developing countries, and since incomes are lower 
+ in developing countries this hints that they have higher total risk 
+ disgust). Given what people believe now about pest control reducing risk 
+ we would expect farmers in developing countries to adopt bug-killers with 
+ excited interest (in something). However if the end/end result in this review is correct and bug-killers do not always reduce risk we should not be surprised if adoption of 
+ bug-killers is no greater than for other inputs such as chemical (material that makes plants grow better)s. 
+ Secondly, if information about pest density increases in value with 
+ increasing risk disgust (as found by Antle 1988a, b), we would expect 
+ bug-killers to be more acceptable to farmers in developing countries if they 
+ are (helped increase/showed in a good way) as part of an IPM package involving scouting for pests before 
+ making spray decisions. However, further work is needed in this area as 
+ 
+ 378 
+ 
+ D.J. PANNELL 
+ 
+ Thornton and Dent (1984a, b) found decreasing information value with 
+ increasing risk disgust. 
+ CONCLUSION 
+ 
+ In the course of this review, some commonly made statements about the 
+ influence of risk in pest control have been challenged. In addition some 
+ gaps, unresolved issues and possible methodological shortages in the 
+ existing books have been identified. 
+ There are some sources of doubt which affect decision 
+ making for pest control. It was decided that for some of these sources of 
+ doubt (e.g. pest density, yield loss per pest, bug-killer effectiveness) 
+ bug-killer use acts to reduce risk. However, for others (e.g. bug-killer 
+ damage to crops, pest-free crop yield, output price) bug-killer use can 
+ increase risk. This way the truth/trueness of the usual idea (you think is true) that bug-killers 
+ reduce risk depends on the relative importance of these different sources of 
+ doubt. This way it is important to think about  more sources of risk than the 
+ ones most commonly carefully thought about/believed: doubt about pest density and pest 
+ death. 
+ It was noted that, due to (not going in a straight line)ities in the (related to the body function of living things) relationships, risk 
+ can affect bug-killer decisions even if the farmer's goal is to (make as big as possible) 
+ expected (money made/good thing received). (event(s) or object(s) that prove something) in the books points to/shows that the best level of 
+ bug-killer use for risk-neutral decision makers is lower under doubt. 
+ This issue has received attention relating to/connected to weeds but has been (compared to other things) 
+ neglected for insects and sicknesses. On the other hand, applied studies of the 
+ hit/effect of risk disgust on bug-killer decisions have been managed and did/done for 
+ insects and sicknesses (although for a limited range of sources of doubt) but 
+ not for weeds. 
+ Information about the cropjpestjpesticide system not only increases 
+ expected (money made/good things received) but can also be a very useful source of risk reduction in its 
+ own right. On the other hand some studies have pointed to/showed that use of 
+ information results in higher levels of risk. The hit/effect on risk of information use needs further (act of asking questions and trying to find the truth about something) to resolve this disagreeing (event(s) or object(s) that prove something). So 
+ far, studies of information use in pest control<p><strong>NOTE: This document is incomplete. It was shortened to the maximum document length of 50,000 characters.</strong></p><div style="clear:both">&nbsp;</div>

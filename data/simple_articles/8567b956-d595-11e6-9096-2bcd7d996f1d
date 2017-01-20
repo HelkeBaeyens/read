@@ -1,0 +1,3055 @@
+AGRICULTURAL 
+ ECONOMICS 
+ ELSEVIER 
+ 
+ Farming-based Money flow 26 (2001) 115-133 
+ www.e1sevier.com/locate/agecon 
+ 
+ Wine market prices and investment under doubt: 
+ an econometric model for Bordeaux Crus Classes 
+ Gregory V. Jones a,*, Karl-Heinz Storchmann b,c 
+ - (the study of (or the location of) mountains, rivers, hills, etc.) Department, Southern Oregon University, 1250 Siskiyou Blvd., Ashland, OR, USA 
+ b Rhine-Westphalian Institute for Money-based Research, Essen, Germany 
+ c Money flow Department, Yale University, New Place, CT, USA 
+ 
+ Received 17 June 1999; received in changed form 20 June 2000; accepted 13 July 2000 
+ 
+ Abstract 
+ This paper describes an econometric test of wine market prices for 21 of the Crus Classes housex in the Bordeaux 
+ area of France. The model developed in the analysis tries to define the relationship between factors that influence wine 
+ quality and those that influence wine prices. (features/ qualities/ traits) of the models are: (1) climate influences on grape composition 
+ (acid and sugar levels), (2) grape (work of art/artistic combining of elements) influences on market prices, (3) (not definite) quality tests (Parker-points) 
+ on market prices, and (4) the effects of age of the wine on market prices. 
+ The results point to/show that composition levels ofMerlot-ruled wines are more climate sensitive than those from Cabernet 
+ Sauvignon-ruled wines. Overall, warm, dry summers result in high sugar and low acid levels at harvest which in turn 
+ lead to higher quality wines. 
+ Wine market price sensitivity to Parker-point ratings points to/shows that properties with high Cabernet Sauvignon-ruled 
+ wines are highly dependent on the external ratings while Merlot-ruled wines have a decreased rating sensitivity. Smaller 
+ properties tend to gain over (fair in amount, related to something else/properly sized compared to something else)ly from high ratings pointing to/showing great jumps in price from year to year. Also, 
+ housex that have experienced high ratings for past wines show great sensitivity to point steps in ratings for current 
+ wines. 
+ (old/allowing to get old/getting older) has a positive effect on Bordeaux wine pricing. This is due to the increasing maturity as well as the increasing 
+ total (not enough of something). Total lack of product is expressed by the size of the property, with small properties producing less 
+ per old/original and therefore having less in the market. Also, Merlot-dorninated wines show more maturing potential 
+ and profit more from (old/allowing to get old/getting older) than Cabernet Sauvignon-ruled wines. 
+ Average per house real once-a-year (money made/good thing received) ranges from 1 to 10%. High levels of grape ripeness, total (not enough of something), and smaller 
+ properties that are ruled by Merlot in their blend lead to the highest (money made/good things received). Forecasts for a old/original not yet available to buy 
+ points to/shows that 1995 is better than 1994 for both Cabernet Sauvignon and Merlot-ruled wines, but that 1996 and 1997 are 
+ not as good as 1995, especially for Merlot-ruled wines.Â© 2001 Elsevier Science B.V. All rights reserved. 
+ JEL classification: C31; G 1; Q11 
+ Keywords: Bordeaux; Wine pricing; Econometric model; Viticulture; Climate 
+ 
+ 1. Introduction 
+ *Corresponding author. Tel.: +1-541-552-6758; 
+ fax: +1-541-552-6439. 
+ E-mail address: gjones@sou.edu (G.V. Jones). 
+ 
+ Wine fans' and collectors' interests have 
+ been raised by the sensational prices which old 
+ 
+ 0169-5150/01/$- see front matterÂ© 2001 Elsevier Science B.V. All rights reserved. 
+ PII: SO 169-5150(00)00 1 02-X 
+ 
+ 116 
+ 
+ G.V. Jones, K.-H. Storchmann/Agricultural Money flow 26 (2001) 115-133 
+ 
+ wines sometimes (accomplish or gain with effort) in sales. Since many 
+ of the famous red wines like Housex Margaux, 
+ Mouton-Rothschild, Lafite-Rothschild or Petrus, 
+ which the average wine person has probably not 
+ experienced, but certainly heard of - this happens 
+ especially to Bordeaux wines. The interest of professional (people or businesss who give money to help start businesses) in Bordeaux wines has increased 
+ very much in the last twenty years because the (money made/good thing received) 
+ cooperated with/produced/gave up per year can be huge/extreme. According to a 
+ ranking of the best investment-wines of 1996, yields 
+ of 500% and more are regularly (accomplished or gained) (Bllittel 
+ and Stainless, 1997). Therefore, the money-based books has begun to examine this theme with the goal 
+ to recommend appropriate investment plans and 
+ (mixes of stocks, bonds, etc./document collections) (i.e., Schubert, 1996). In general, these 
+ recommendations are based on experiences of the 
+ (possibility of/possible happening of)  the development of certain wines and on 
+ knowledge of the product. Even with this increasing interest in wine investment, scientific studies 
+ on wine pricing are still rare. This lack of money-based 
+ test is in fact amazing, first, because of the 
+ wide spread variance of the prices of single housex, 
+ and secondly, in respect to the variance within single 
+ wines. For example a bottle of House Cheval 
+ Blanc from the 1972 old/original is available for less 
+ than 20US-$, while the 1982 old/original from the same 
+ house costs about 500US-$. 
+ Two of the rare scientific (acts of asking questions and trying to find the truth about something) on this topic 
+ are those of Combris et al. (1997) and Palefelter 
+ et al. (1995). After guessing a (related to feeling pleasure) price function 
+ for many Bordeaux wines, Combris et al. (1997) come 
+ to the end/end result that wine prices are rarely caused 
+ by organoleptic (sensory) (features/ qualities/ traits). Although it 
+ is true that experts, through many tastings, can build 
+ a complex quality profile for individual housex or 
+ wines, the information is not overly useful for the 
+ average person since they would not want to repeat 
+ this procedure. Given that the average person only 
+ has general and sometimes (not totally pure/not totally correct) information on 
+ quality, label fame seems to be much more important. Since Combris et al. (1997) (examined closely) only 
+ young wines of all quality levels it is hard to apply 
+ these results to top Bordeaux wines due to the huge price variances of different wines. 
+ This scientific shortage is healed/made better by the econometric approach of Palefelter et al. (1995). The 
+ authors developed a panel equation, termed the 
+ "Bordeaux-equation", which defines the influence of 
+ 
+ (old/allowing to get old/getting older) and different weather (features/ qualities/ traits) on a generalized Bordeaux index. Beside the test of 
+ particular (things that decide other things), this approach also provides a 
+ relative (statement about the future) of prices for wines which are not 
+ yet available to buy but have been sold as futures. It is 
+ obvious that the generalized Bordeaux-equation, as 
+ an average index, cannot explain the price of a single 
+ housex' wines with the necessary (quality of being done perfectly or being totally correct) needed 
+ in an investment. This problem could be solved in 
+ general by guessing not a area-wide average index 
+ but single equations for each house. On one hand 
+ this approach could easily be put into use to help explain 
+ and forecast prices of single house wines. On the 
+ other hand, the blend of each house cannot be neglected since the top wines of Bordeaux are cuvees 
+ made from different varieties that are expected to 
+ react in a different way to (related to the Earth's weather) factors. Therefore, 
+ it is probable that the quality and prices could also 
+ be different according to the particular blend. This 
+ should be taken into account allowing the "goal 
+ quality" of the single varieties to be guessed separately. However, according to Combris et al. (1997), 
+ the hit/effect of the wine quality on the price is not forcing/interesting since the quality information is not available 
+ or obvious to the average person. This information 
+ shortage has been healed/made better by the development of many (not definite) quality point systems and rankings 
+ in the (made to do one thing very well) books (e.g., Broadbent, 1981; 
+ Writing-Roswell, 1989; Parker, 1985). Since the (related to feeling pleasure) approach assumes that most wine people 
+ think about/believe these rankings in their buying decisions, 
+ their including in something in an money-based model is warranted. 
+ In the same way/in that way, the following paper introduces a recursive econometric multi-equation model on Bordeaux 
+ wine pricing. First, the model numbers the dependence of Crus Classes prices on (related to the Earth's weather) influences, 
+ grape (work of art/artistic combining of elements), Parker-points, and (old/allowing to get old/getting older). Second, 
+ the model allows one to forecast wine prices in order 
+ to compare (able to be done) market prices and actual future prices. In the first section the general structure of 
+ the model and the information file used to construct it is explained. Next, the (related to the Earth's weather) influences on wine (work of art/artistic combining of elements) are described for the Bordeaux area. Then the 
+ recursive model blocks "composition" and "price" and 
+ the similar equation (detailed descriptions of exactly what is required) from which 
+ the (ability to change) of a (happening together) solution is shown. 
+ The final section presents model tests and sensitivity results. 
+ 
+ 117 
+ 
+ G.V. Jones, K.-H. Storchmann/Agricultural Money flow 26 (2001) 115-133 
+ 
+ Table I 
+ Prices of selected Bordeaux wines in US-$ per bottle, 199611997" 
+ House 
+ 
+ Beychevelle 
+ Cheval Blanc 
+ Cos d'Estournel 
+ Ducru Beaucaillou 
+ Grand Puy Lacoste 
+ Gruaud Larose 
+ Haut Brion 
+ Lafite Rothschild 
+ Latour 
+ Leoville Barton 
+ Leoville Las Cases 
+ Hang (by the neck)  Bages 
+ Margaux 
+ La Mission-Haut-Brion 
+ Montrose 
+ Mouton Rothschild 
+ Palmer 
+ Petrus 
+ Pichon Comtesse 
+ Talbot 
+ Troplong Greatt 
+ 
+ Old/original 
+ 1980 
+ 
+ 1981 
+ 
+ 1982 
+ 
+ 1983 
+ 
+ 1984 
+ 
+ 1985 
+ 
+ 1986 
+ 
+ 1987 
+ 
+ 1988 
+ 
+ 1989 
+ 
+ 1990 
+ 
+ 1991 
+ 
+ 1992 
+ 
+ 1993 
+ 
+ 1994 
+ 
+ 13 
+ 32 
+ 14 
+ 19 
+ 16 
+ IS 
+ 34 
+ 45 
+ 38 
+ 0 
+ 17 
+ 17 
+ 49 
+ 29 
+ 14 
+ 54 
+ 27 
+ ISS 
+ 
+ 21 
+ 79 
+ 28 
+ 35 
+ 24 
+ 30 
+ 55 
+ 79 
+ 62 
+ 27 
+ 38 
+ 42 
+ 92 
+ 48 
+ 21 
+ 69 
+ 44 
+ 491 
+ 46 
+ 24 
+ 16 
+ 
+ 65 
+ 485 
+ 124 
+ 92 
+ 76 
+ 92 
+ 216 
+ 349 
+ 384 
+ 68 
+ 203 
+ 101 
+ 359 
+ 165 
+ 55 
+ 468 
+ 70 
+ 1078 
+ 199 
+ 
+ 29 
+ 165 
+ 36 
+ 40 
+ 27 
+ 40 
+ 70 
+ 91 
+ 73 
+ 32 
+ 45 
+ 45 
+ 175 
+ 54 
+ 26 
+ 91 
+ 121 
+ 252 
+ 71 
+ 38 
+ 24 
+ 
+ 22 
+ 31 
+ 20 
+ 21 
+ 10 
+ 13 
+ 35 
+ 43 
+ 39 
+ 13 
+ 17 
+ 17 
+ 43 
+ 22 
+ 21 
+ 51 
+ 21 
+ 139 
+ 19 
+ 12 
+ 12 
+ 
+ 37 
+ 165 
+ 71 
+ 51 
+ 34 
+ 47 
+ 98 
+ 107 
+ 101 
+ 46 
+ 64 
+ 79 
+ 149 
+ 73 
+ 33 
+ ISO 
+ 61 
+ 388 
+ 66 
+ 38 
+ 22 
+ 
+ 39 
+ 114 
+ 68 
+ 51 
+ 32 
+ 58 
+ 100 
+ 179 
+ 105 
+ 42 
+ 94 
+ 57 
+ 192 
+ 66 
+ 42 
+ 334 
+ 51 
+ 331 
+ 90 
+ 49 
+ 27 
+ 
+ 14 
+ 51 
+ 20 
+ 20 
+ II 
+ 21 
+ 43 
+ 78 
+ 42 
+ 22 
+ 19 
+ 21 
+ 46 
+ 39 
+ 16 
+ 62 
+ 31 
+ 191 
+ 29 
+ IS 
+ 0 
+ 
+ 29 
+ 89 
+ 43 
+ 35 
+ 22 
+ 31 
+ 76 
+ 100 
+ 87 
+ 31 
+ 48 
+ 46 
+ 100 
+ 56 
+ 31 
+ 100 
+ 48 
+ 334 
+ 46 
+ 28 
+ 28 
+ 
+ 39 
+ 127 
+ 44 
+ 42 
+ 30 
+ 32 
+ 317 
+ 132 
+ 119 
+ 40 
+ 70 
+ 77 
+ 136 
+ 252 
+ 60 
+ 128 
+ 84 
+ 769 
+ 67 
+ 33 
+ 65 
+ 
+ 31 
+ 302 
+ 
+ 18 
+ 0 
+ 28 
+ 0 
+ 16 
+ 16 
+ 34 
+ 43 
+ 51 
+ 21 
+ 34 
+ 19 
+ 59 
+ 27 
+ 24 
+ 49 
+ 31 
+ 0 
+ 24 
+ 0 
+ 17 
+ 
+ 21 
+ 35 
+ 19 
+ IS 
+ 14 
+ 19 
+ 63 
+ 45 
+ 46 
+ 18 
+ 33 
+ IS 
+ 38 
+ 24 
+ 18 
+ 48 
+ 24 
+ 206 
+ 26 
+ IS 
+ 23 
+ 
+ 17 
+ 52 
+ 24 
+ 0 
+ 19 
+ 25 
+ 55 
+ 56 
+ 56 
+ 24 
+ 39 
+ 26 
+ 73 
+ 30 
+ 21 
+ 73 
+ 29 
+ 228 
+ 29 
+ IS 
+ 28 
+ 
+ 20 
+ 0 
+ 34 
+ 34 
+ 22 
+ 21 
+ 77 
+ 77 
+ 97 
+ 33 
+ 45 
+ 32 
+ 76 
+ 0 
+ 31 
+ 79 
+ 31 
+ 417 
+ 39 
+ 26 
+ 36 
+ 
+ 17 
+ 
+ 11 
+ 13 
+ 
+ 72 
+ 
+ 22 
+ 
+ 64 
+ 
+ 43 
+ 42 
+ 31 
+ 167 
+ 176 
+ 362 
+ 51 
+ 94 
+ 64 
+ 342 
+ 114 
+ 176 
+ 146 
+ 64 
+ 849 
+ 63 
+ 27 
+ 95 
+ 
+ a Data from Bliittel and Stainless (1997). A value of zero means the wine was not available at sale. 
+ 
+ 2. Data and methods 
+ One of the more typical features of great Bordeaux 
+ wines is their amazing long life. It is through 
+ maturity, (accomplished or gained) during long storage, that most 
+ Bordeaux wines develop their typical character. Many 
+ wines have (how long people are expected to live) of at least 20 years and 
+ have been known to remain doable/possible for over a century. Together, the long life and the high (money made/good thing received) yield 
+ expectancy, make Bordeaux wines not only a consumption good in great demand but also a desirable 
+ international based on guessing/guessed good. Because of this, the wines of 
+ many of the housex from Bordeaux (many other top 
+ wines from other areas are represented as well) are 
+ traded all over the world in established wine sales. 
+ This system (promises that something will definitely happen or that something will definitely work as described), almost the same as  a stock market, 
+ a (compared to something else) high price clearness/open honesty. Therefore, 
+ it can be assumed that sale prices point to/show the 
+ relative (money-based) (not enough of something) and therefore the international respect for those wines. For this analysis, 
+ the price information file refers to all (connected/related) wine sales 
+ held worldwide within 1996/1997 and is calculated as 
+ 
+ the weighted math average of all auction prices 
+ of one wine. 1 To get a complete set of data, 
+ only often traded wines are carefully thought about/believed in this 
+ analysis. Therefore, the current (act of asking questions and trying to find the truth about something) is restricted to the wines 1980-1994 and to 21 housex 
+ (Table 1 gives the price data set used in the analysis). The model is understood/created as a total/totally/with nothing else mixed in panel model 
+ (cross-sectional model) which tries to explain 
+ the wine prices of different housex and wines. 
+ All equations are specified linearly, logarithmically 
+ or semi-logarithmically, and are guessed with the 
+ ordinary least square (OLS) way of doing things. The model is 
+ recursive and consists of two sections: a composition 
+ and climate section and a price section. 
+ First it is assumed that (related to the Earth's weather) (numbers that change/things that change) such as 
+ (rain, snow, etc.), sun exposure or temperature decide/figure out particular quality features of the grapes- the (combination of different substances, objects, people, etc.) of the raw material. Here, the model distinguishes 
+ between the two main varieties grown in Bordeaux: 
+ 1 All sale results are to be found in Bliittel and Stainless 
+ (1997). 
+ 
+ G.V. Jones, K.-H. Storchmann!Agricultural Money flow 26 (2001) 115-133 
+ 
+ 118 
+ 
+ Climate Influences 
+ (e.g., temperature, (rain, snow, etc.), etc.) 
+ 
+ Wine Price 
+ 
+ Parker-Points 
+ 
+ Fig. 1. Structure of the econometric model on wine pricing. 
+ 
+ Cabernet Sauvignon and Merlot (which account for 
+ over 80% of grapes grown in the area) and explains 
+ their clearly stated/particular sugar and acid content at harvest (four 
+ separate equations). These endogenously serious and stubborn 
+ (numbers that change/things that change) are then used as explanatory (numbers that change/things that change) in the 
+ price section of the model, which (in the end) consists 
+ of21 equations, (i.e., one for every house in the analysis). According to the average blend of the particular house, the (detailed description of exactly what is required) of the equation involves 
+ more Cabernet Sauvignon or more Merlot compositional features. In addition to these (coming from the outside of something) wine 
+ quality (numbers that change/things that change), (numbers that change/things that change) for the best known international quality rankings for each house, the (what people commonly call a/not really a) 
+ Parker-points (Parker, 1985), and the relative ages of 
+ the particular wines are included in the equations. The 
+ complete structure of the model is given in Fig. 1. 
+ 
+ 2.1. Climate, phenology, and composition 
+ effects on quality 
+ Grapevines are a (related to where mountains, rivers, cities, etc., are located) emotional crop, 
+ being grown in clear/separate climate governments worldwide 
+ that provide the ideal situations to produce high quality grapes. This is nowhere more obvious than in 
+ Bordeaux, a area that is sounding the same as/equal to some 
+ of the best wines in the world. While the interactions between the local climate, soil, and site location 
+ (termed the "terroir' by the French) play a varied 
+ 
+ role in the growth and output of the grapevines, the 
+ general effect of the climate is well known. Mild to 
+ cool and wet winters followed by warm springs, then 
+ hot summers with little (rain, snow, etc.) produce the best 
+ wines (see Jones (1997) for a review). Therefore, 
+ there is an best climate government that adds/gives 
+ greatly to the overall quality of a given old/original. 
+ Happening as a direct effect of climate, the 
+ grapevine's growth can be described by its phenological events. Phenology is the study of individual 
+ body-related events or growth stages of plants or 
+ animals that happen again seasonally in response to climate. 
+ Understanding the phenology of a given plant system 
+ is important in deciding/figuring out the ability of a area 
+ to produce a crop within the limits of/the walls of its (related to the Earth's weather) 
+ government. From a farming/managing money viewpoint, knowledge of 
+ a plant's growth stages is good as cultural 
+ and chemical practices can be applied at best 
+ times in a plant's once-a-year growth cycle. Also, 
+ information (related to/looking at/thinking about) growth stages can be useful 
+ in guessing crop yields. Vitis vinifera grapevines 
+ ("wine-bearing vines") are a phenologically clear/separate 
+ crop with the most important developmental stages 
+ being debourrement (bud break), fioraison (flowering), veraison (color change and maturing undeveloped), 
+ and harvest (grape maturity). 2 The timing of these 
+ developmental stages is also related to the ability of 
+ the vine to produce fruit, with early and fully expressed 
+ (unhindered by extremes of heat or cold, storms, etc.) 
+ phenological events usually resulting in larger yields 
+ (Jones, 1997; Mullins et al., 1992). Also, the 
+ phenological timing has been related to old/original quality with early harvests generally resulting in higher 
+ quality wines (Ribereau-Gayon and Guimberteau, 
+ 1996). 
+ Many studies looking at the relationship between 
+ climate and quality have employed monthly averages 
+ in temperature and (rain, snow, etc.) as the independent 
+ (numbers that change/things that change) (for a good review see Gladstones, 1992). 
+ Given that plants do not respond to a calendar division of climate data, and that phenological timing 
+ and quality are related (Jones, 1997), each old/original 
+ in the Bordeaux area is divided according to the 
+ 2 For the main red varieties grown in Bordeaux, bud break happens 
+ in late March or early April, floraison happens in early June, veraison 
+ happens from mid to late August, and harvest usually begins 
+ at the end of September or in early October (Jones, 1997). 
+ 
+ G.V. Jones, K.-H. Storchmann/Agricultural Money flow 26 (2001) 115-133 
+ 
+ major phenological events of bud break, floraison, 
+ veraison, and harvest, by that/in that way creating four stages 3 
+ based upon the grapevine's once-a-year response to the 
+ winning/most common climate (Jones and Davis, 2000a). This 
+ allows for a complete analysis of the (related to the Earth's weather) 
+ influences on the quality using a body-related approach. Climate (numbers that change/things that change) of (rain, snow, etc.), guessed 
+ possible evapotranspiration (PET), 4 and the number 
+ of days with temperatures more than 25 and 30Â°C are 
+ summed by day and phenological stage to produce up 
+ to four independent climate (numbers that change/things that change) per stage that 
+ could (in the end) play a role in quality levels. 
+ Nearing harvest time, key old/original (features/ qualities/ traits) 
+ are the (percentages of different chemicals within a substance) of the grapes. Two of 
+ the chief (things that decide other things) of crop ripeness are the relative amounts of sugar and acid found in the berries 
+ leading up to harvest (Mullins et al., 1992). Sugar represents a measure of the potential alcohol content of 
+ the wine and total (how much acid something has) is a measure of the fixed 
+ and dangerous acids present in the berries and has a direct influence on wine color, the growth of yeast and 
+ bacteria, and its pleasing balance with sugars on flavor qualities. During maturing, the levels of these 
+ two measures generally go ahead in opposite directions: 
+ sugar levels increase and acid levels decline (Amerine 
+ et al., 1980). Best ripeness levels of sugar and 
+ acid change/differ  by variety and area but should range between 165-230 g/1 of sugar and 3-9 g/1 of total (how much acid something has) (Winkler et al., 1974). In general, (compared to other things) high 
+ sugar levels produce better quality while high acid levels produce lower quality (Ribereau-Gayon and Guimberteau, 1996; Jones and Davis, 2000b). In a perfect world, there 
+ exists a ratio of sugar to acid that decides/figures out proper 
+ ripeness and quality (possible greatness or power). 
+ Daily climate data of highest temperature, highest temperature, and (rain, snow, etc.) for the Bordeaux station for 1949-1997 are received/got from 
+ METEO-France (1998). The climate data are divided 
+ 3 For the rest of this analysis, each of the four stages will 
+ be represented by D = the inactive stage (harvest of one year 
+ to bud break of the next), B = the bud break stage (bud break 
+ to floraison), F = the floraison stage (flowering to veraison), and 
+ V = the veraison stage (veraison to harvest). 
+ 4 The PET (number or thing that changes) is equal to the sum of the average temperatures I: (Tmax - Tmin)/2 minus (rain, snow, etc.). It is a received/made from 
+ temperature-related (number or thing that changes) that has been used to study the elimate/viticulture relationship. It is referred to as the Ribereau-Gayon 
+ and Peynaud Index. 
+ 
+ 119 
+ 
+ by the mean phenology of the grapevines 5 from reference vineyards watched/followed by Ribereau-Gayon and 
+ Guimberteau (1996, pers. commun.). Composition 
+ values (acid and sugar levels) for Cabemet Sauvignon 
+ and Merlot grapes for 1970-1997 are also supplied by 
+ Ribereau-Gayon and Guimberteau (1996). Acid and 
+ sugar levels are measured at the reference vineyards 
+ before harvest and are averaged to get a single 
+ value for each old/original and variety. Table 2 shows 
+ the values for the significant climate (numbers that change/things that change) in the 
+ analysis and grape composition for the years used in 
+ the analysis. 
+ The guessed equations for the climate effects on 
+ Cabemet Sauvignon and Merlot grape composition are 
+ shown in Table 3. Cabernet Sauvignon sugar levels 
+ are influenced by (rain, snow, etc.) throughout the growing 
+ season. Too much early season (rain, snow, etc.) (BPREC) 
+ has a negative effect by delaying growth and late season (rain, snow, etc.) (FPREC and VPREC), especially 
+ during the ripening period, has a bad effect by 
+ possibly watering down the berries and producing lower relative sugar levels. Also many days of warm temperatures during floraison would mean that the grapes ripen 
+ quickly and to a higher degree. Increased (rain, snow, etc.) 
+ over the growing season increases the Cabernet Sauvignon acid levels and results in unripe grapes. On the 
+ other hand, warm and dry conditions, especially from 
+ flowering to harvest, allow the acid levels to decline 
+ and the grapes to become ripe. A almost the same  set of climate influences on Merlot grape composition is seen 
+ with warm and dry periods of growth providing higher 
+ sugar levels while wetter periods occur with higher 
+ acid levels. 
+ 
+ 2.2. Wine prices 
+ The price of a wine is figured out by/decided by many different factors. One of the more important factors is 
+ an idea (you think is true) that the value of a wine is greater the 
+ older it is. For most wines this generalized 
+ idea (you think is true) is actually not correct. Only outstanding 
+ wines, to which it can be argued that all of the wines 
+ 5 The dates of floraison, veraison, and harvest are supplied by 
+ Ribereau-Gayon and Guimberteau (1996, pers. commun.) and the 
+ dates of bud break are guessed from climate data with bud growth 
+ thought about/believed to happen when the mean daily temperature is above 
+ 10Â°C for five days in a row (Mullins et al., 1992; Jones, 1997). 
+ 
+ - 
+ 
+ }:5 
+ 
+ Table 2 
+ Significant phenological stage climate (numbers that change/things that change) and grape (combination of different substances, objects, people, etc.): 1980-1995" 
+ 
+ 1980 
+ 1981 
+ 1982 
+ 1983 
+ 1984 
+ 1985 
+ 1986 
+ 1987 
+ 1988 
+ 1989 
+ 1990 
+ 1991 
+ 1992 
+ 1993 
+ 1994 
+ 1995 
+ 
+ 0 
+ 
+ DPET 
+ 
+ BPET 
+ 
+ BPREC 
+ 
+ FPET 
+ 
+ FPREC 
+ 
+ FTEMP25 
+ 
+ VPET 
+ 
+ VPREC 
+ 
+ VTEMP25 
+ 
+ VTEMP30 
+ 
+ CABACID 
+ 
+ CABSUG 
+ 
+ MERACID 
+ 
+ MERSUG 
+ 
+ 1008 
+ 760 
+ 1096 
+ 1345 
+ 967 
+ 892 
+ 1022 
+ 984 
+ 1028 
+ 1732 
+ 863 
+ 741 
+ 896 
+ 1060 
+ 1190 
+ 1082 
+ 
+ 780 
+ 1062 
+ 732 
+ 707 
+ 724 
+ 786 
+ 757 
+ 899 
+ 963 
+ 732 
+ 1201 
+ 1116 
+ 1005 
+ 945 
+ 989 
+ 1076 
+ 
+ 216 
+ 204 
+ 129 
+ 220 
+ 195 
+ 230 
+ 103 
+ 111 
+ 237 
+ 198 
+ 128 
+ 222 
+ 258 
+ 218 
+ 312 
+ 276 
+ 
+ 1198 
+ 1283 
+ 1168 
+ 1306 
+ 1199 
+ 1089 
+ 1220 
+ 1112 
+ 1211 
+ 1331 
+ 1364 
+ 1254 
+ 1078 
+ 1099 
+ 1243 
+ 1376 
+ 
+ 120 
+ 81 
+ 159 
+ 114 
+ 75 
+ 123 
+ 31 
+ 117 
+ 118 
+ 79 
+ 98 
+ 115 
+ 324 
+ 170 
+ 111 
+ 80 
+ 
+ 30 
+ 27 
+ 33 
+ 45 
+ 38 
+ 26 
+ 41 
+ 24 
+ 34 
+ 49 
+ 36 
+ 41 
+ 34 
+ 36 
+ 43 
+ 48 
+ 
+ 577 
+ 752 
+ 814 
+ 681 
+ 544 
+ 871 
+ 651 
+ 932 
+ 842 
+ 824 
+ 951 
+ 792 
+ 697 
+ 675 
+ 730 
+ 692 
+ 
+ 128 
+ 116 
+ 55 
+ 92 
+ 261 
+ 14 
+ 146 
+ 153 
+ 53 
+ 60 
+ 74 
+ 179 
+ 167 
+ 242 
+ 166 
+ 117 
+ 
+ 14 
+ 23 
+ 25 
+ 18 
+ 11 
+ 29 
+ 18 
+ 28 
+ 18 
+ 29 
+ 36 
+ 33 
+ 19 
+ 19 
+ 21 
+ 19 
+ 
+ 2 
+ 3 
+ 6 
+ 3 
+ 2 
+ 11 
+ 3 
+ 14 
+ 5 
+ 3 
+ 11 
+ 12 
+ 4 
+ 6 
+ 6 
+ 9 
+ 
+ 5.9 
+ 5.1 
+ 4.6 
+ 5.2 
+ 6.0 
+ 4.6 
+ 4.3 
+ 4.9 
+ 4.6 
+ 4.7 
+ 3.8 
+ 4.8 
+ 6.9 
+ 5.6 
+ 5.0 
+ 4.0 
+ 
+ 179 
+ 186 
+ 200 
+ 195 
+ 185 
+ 200 
+ 199 
+ 176 
+ 191 
+ 205 
+ 199 
+ 183 
+ 168 
+ 175 
+ 193 
+ 194 
+ 
+ 5.3 
+ 4.5 
+ 4.3 
+ 4.2 
+ 5.6 
+ 4.3 
+ 4.1 
+ 4.1 
+ 4.0 
+ 3.3 
+ 3.2 
+ 4.3 
+ 5.7 
+ 5.0 
+ 3.7 
+ 3.5 
+ 
+ 196 
+ 196 
+ 212 
+ 206 
+ 195 
+ 220 
+ 208 
+ 196 
+ 211 
+ 232 
+ 220 
+ 195 
+ 176 
+ 186 
+ 207 
+ 223 
+ 
+ :&amp;lt;:: 
+ &#126; 
+ ;:, 
+ 
+ Â·"'"' 
+ 
+ &#126; 
+ 
+ &#126; 
+ 
+ "' 
+ 
+ Ci' 
+ &#126; 
+ 
+ ;:,- 
+ 
+ ;; 
+ 
+ "';:,;:, 
+ 
+ ':0. 
+ ::1. 
+ 
+ "" 
+ 
+ " 
+ 
+ " 
+ 1! 
+ &#126; 
+ &#126; 
+ () 
+ 
+ ;:, 
+ () 
+ 
+ ;; 
+ r;Â· 
+ 
+ "' 
+ 
+ "' 
+ 
+ &#126; 
+ 
+ Where DPET: possible evapotranspiration for the Inactive stage in millimeter, BPET: possible evapotranspiration for the Bud break stage in millimeter, BPREC: 
+ (rain, snow, etc.) for the Bud break stage in millimeter, FPET: possible evapotranspiration for the Floraison stage in millimeter, FPREC: (rain, snow, etc.) for the Floraison stage 
+ in millimeter, FTEMP25: the number of days with temperatures greater than 25Â°C during the Floraison stage, VPET: possible evapotranspiration for the Veraison stage 
+ in millimeter, VPREC: (rain, snow, etc.) for the Veraison stage in millimeter, VTEMP25: the number of days with temperatures greater than 25Â°C during the Veraison stage, 
+ FTEMP30: the number of days with temperatures greater than 30Â°C during the Floraison stage, CABACID: acid levels for Cabernet Sauvignon in g/1, CABSUG: sugar 
+ levels for Cabernet Sauvignon in g/1, MERACID: acid levels for Merlo! in g/1, MERSUG: sugar levels for Merlo! in g/1 (for shortness (with words), only those climate (numbers that change/things that change) that are 
+ (meaningful numbers) in the composition models are shown). 
+ a 
+ 
+ "N 
+ a 
+ a 
+ ...... 
+ &#126; 
+ 
+ ...... 
+ ...... 
+ 
+ Y'...... 
+ ""'""' 
+ 
+ G. V. Jones, K.-H. Storchmann/Agricultural Money flow 26 (2001) 115-133 
+ 
+ 121 
+ 
+ Table 3 
+ Climate and phenology influences on sugar, and acid for Cabernet Sauvignon and Merlot: equations and (related to studying numbers) tests- 
+ (things that you control (like study times), that cause other things to change (like test scores)) 
+ 
+ (things that change (like test scores) because of other things that you control (like study times)) (g/1) 
+ CABSUG 
+ 
+ CAB ACID 
+ 
+ DPET 
+ BPET 
+ BPREC 
+ 
+ 1260.4(1/x) 
+ (2.61) 
+ 
+ MERSUG 
+ 
+ MERACID 
+ 
+ 19.64log(x) 
+ (3.11) 
+ 
+ 1265.2(1/x) 
+ (6.97) 
+ 
+ 1014.0(1/x) 
+ (3.78) 
+ 0.8llog(x) 
+ (6.84) 
+ 
+ FPET 
+ FPREC 
+ FfEMP25 
+ 
+ -0.06x 
+ (4.32) 
+ -926.2(1/x) 
+ (6.07) 
+ 
+ 0.007x 
+ (8.99) 
+ -1.08log(x) 
+ (4.91) 
+ 
+ -0.09x 
+ (5.76) 
+ -442.53(1/x) 
+ (2.03) 
+ 
+ -2.01log(x) 
+ (5.98) 
+ 
+ VPET 
+ VPREC 
+ 
+ -11.0 log(x) 
+ (9.84) 
+ 
+ 0.48log(x) 
+ (7.26) 
+ 
+ VTEMP25 
+ 
+ Test statistics 
+ S.E. 
+ R2 
+ 
+ -11.15log(x) 
+ (6.48) 
+ 0.52x 
+ (3.10) 
+ 
+ 1.82 (1/x) 
+ (4.69) 
+ 
+ VTEMP30 
+ CONSTANT 
+ 
+ 5115.9(1/x) 
+ (8.13) 
+ 0.48log(/x) 
+ (4.35) 
+ 
+ 267.8 
+ (34.22) 
+ 3.30 
+ 0.931 
+ 
+ 0.154 
+ 0.974 
+ 
+ 132.0 
+ (2.49) 
+ 
+ 2.07(1/x) 
+ (5.31) 
+ 9.35 
+ (3.87) 
+ 
+ 3.92 
+ 0.952 
+ 
+ 0.130 
+ 0.980 
+ 
+ - Model calculations: time 1980-1994, T-ratios in parentheses, and (numbers that change/things that change) as described in Table 2. 
+ 
+ (examined closely) in this study certainly belong, can 
+ (money made/good thing received) from increased (old/allowing to get old/getting older). The reasons for this are: 
+ - On one hand, the (old/allowing to get old/getting older) (possible greatness or power) is  caused by the 
+ slow development to maturity for many of the top 
+ wines from Bordeaux. In its youth Bordeaux wines 
+ are seen as an very high content of 
+ tannins. In this state these wines are harsh and 
+ not yet ready for drinking. But with increasing storage, generally 10 years or more, the tannins and harshness are reduced and the wine becomes more 
+ pleasing to the sense of taste. This best drinking condition can last at least 20 years before the quality 
+ begins to (lower in number/get worse). 
+ - On the other hand, the available stock of a particular wine will decrease over time as it ages (i.e., 
+ the product is ate/destroyed and the total (not enough of something) 
+ increases). Therefore, in the price equations a changeable T ((popular thing/general way things are going)) is included that could be understood/explained 
+ 
+ as a constant linear retirement function of a certain 
+ (clear/separate) initial stock. It is true that data of total production could give useful added/more information, but these data are not publicly available in 
+ the necessary detail. 
+ - Also, the (old/allowing to get old/getting older) of a wine expresses storage 
+ costs and opportunity costs (costs of tying down 
+ capital as well as borrowing on credit). 
+ Given the decline in available product, a continuously linear increasing changeable T ((popular thing/general way things are going)) is included into the model. The trend (number or thing that changes) starts with 
+ 1994 = 1 and ends with 1970 = 25, allowing for 
+ the test of the effect of (old/allowing to get old/getting older) and (not enough of something) on 
+ wine prices. Generally, the wine p1ice of a (pertaining to each person or thing) 
+ house (Pi) would be expected to be related positively with Ti, for example: 
+ (1) 
+ 
+ 122 
+ 
+ G. V. Jones, K.-H. StorchmannlAgricultural Money flow 26 (2001) 115-133 
+ 
+ where Si represents the (random/including random data points) error term. Here it is 
+ especially repeated that Ti is not to be understood/explained 
+ as a little bit of a time series model, but that it only 
+ expresses different features of the wines (i.e., the state 
+ of (old/allowing to get old/getting older)). 
+ What's more, it is assumed that the wine price is 
+ related positively with the relative (work of art/artistic combining of elements) of 
+ the grapes. The price equation is referenced to the calculated sugar and acid equations given in the prior 
+ section. According to the results, it can be assumed 
+ that high sugar values have positive effects on wine 
+ prices and that high acid values have a negative influence on the wine prices. 6 So the (detailed description of exactly what is required) has 
+ the following form: 
+ 
+ (2) 
+ Except some wines from the Pomerol area, Bordeaux Cru Classes 7 are blends of different varieties. 
+ Overall, Cabemet Sauvignon and Merlot are the 
+ main varieties grown in the area but other varieties 
+ such as Cabemet Franc, Petit Verdot, and Malbec 
+ are planted to different degrees throughout the area. 
+ Although the shares of the single varieties used in 
+ the wines change/differ  from (beautiful designs from the past) to old/original, the varietal 
+ (things that are important) of the individual housex can be seen in 
+ the area gave/reserved to growing the different varieties 
+ (Table 4). Because of this, housex with Cabemet Sauvignonand Merlot-ruled wines can be distinguished 
+ from one another and are carefully thought about/believed in the (detailed description of exactly what is required) of the price equations. 
+ The international wine press regularly publishes 
+ quality ratings and constantly updates them as long 
+ as the wine remains available on the open market. 
+ Although these ratings are influenced by personal (not definite) preferences (wine styles and varietal (combination of different substances, objects, people, etc.)), and do not lay claim to measurable (fair point of view), 
+ 6 On the influence of taste and chemical attributes of wine and 
+ their hit/effect on consumption see Nerlove (1995) and Schneider 
+ (1996). 
+ 7 For the western part of the Bordeaux area, the Medoc, a fivestage classification was introduced in 1855, which has mainly 
+ remained the same. The list of Crus Classes includes 61 CMteaux. 
+ The five Premier Cru Classes are CMteaux Haut Brion, LafiteRothschild, Latour, Margaux and, since 1973, Mouton-Rothschild. 
+ In the second half of this century, classifications for the areas of 
+ (places where bodies are buried) and St. Emilion have been introduced. A new classification 
+ according to the old method was done/tried by Palefelter 
+ (1997). 
+ 
+ they are, however, able to deliver information (related to/looking at/thinking about) the current state and the development (possible power or ability within/possibility of) 
+ single wines. Of the many wine writers, the most well 
+ known and important is Robert M. Parker. His ratings, 
+ based on a 100-point system, are widely used within 
+ the industry as a gauge of relative quality. It must 
+ be given special attention that once a old/original is given a point 
+ rating, it is not permanently fixed, but is regularly 
+ checked for quality changes at new tastings and, if 
+ necessary, corrected. 8 However, since Parker-points 
+ are orientated at the future (possible power or ability within/possibility of)  a wine, (usual/ commonly and regular/ healthy) 
+ (old/allowing to get old/getting older) does not affect the rating. Because of this, Parker-points 
+ do not cover the influence of the trend changeable T. 
+ To get a single value for each old/original and for 
+ each house, the following calculations are based on 
+ the current Parker-point ratings from 1994/1995 as 
+ given in Table 5. The high influence of Parker-points 
+ on buying-related patterns and wine prices is undisputed 
+ (e.g., see Kiihler and Kiihler, 1995; Palefelter and 
+ Jones, 2000), and can be recognized by the "shooting 
+ stars" housex which were "discovered" by Parker. 
+ Therefore, the price function can be extended by a 
+ (number or thing that changes) called PT (Parker-points) 
+ 
+ In the case where wines of particular wines were 
+ not traded (e.g., the Cheval Blanc of 1991), a dummy 
+ (number or thing that changes) is included in the equation. Dummy (numbers that change/things that change) 
+ can also show/tell about weird items like a change of an owner 
+ or cellarmaster, modernization of production facilities, 
+ etc., whose influence could not be described (good or well enough) by the introduced (numbers that change/things that change). This happens especially to the old/original 1982. The extreme high sale 
+ prices cannot be explained for all housex (good or well enough) 
+ by age, sugar and acid values, and Parker-points. 
+ Therefore, for this year a dummy (number or thing that changes) is introduced under the idea (you think is true) that only a small 
+ amount of product is available on the open market. 
+ Also, (things that decide other things) which are time-invariant, 
+ such as slope, aspect, soil (i.e., Pomerol, 1989) or 
+ Cru-classification, etc. generally do not cause once-a-year 
+ quality differences/different versions, but mainly decide/figure out the price 
+ level and are included in the equation by a constant. 
+ 8 Amazing (reductions of value) happen often in the re-test of the 
+ wines. For instance the CMteau Mouton-Rothschild and House 
+ Latour from 1979 suffered a downgrading from 85 to 72 and from 
+ 90 to 85 points, (match up each pair of items in order). See Kiihler and Kiihler (1995). 
+ 
+ G. V. Jones, K.-H. Storchmannl Farming-based Money flow 26 (2001) 115-133 
+ 
+ 123 
+ 
+ Table 4 
+ Shares of varieties for selected chiiteaux (%) of planted area- 
+ House 
+ 
+ Area 
+ 
+ Area (ha) 
+ 
+ Cabernet 
+ Sauvignon 
+ 
+ Merlot 
+ 
+ Cabernet Franc 
+ 
+ Beychevelle 
+ Cheval Blanc 
+ Cos d'Estournel 
+ Ducru Beaucaillou 
+ Grand-Puy-Lacoste 
+ Gruaud-Larose 
+ Haut Brion 
+ Lafite Rothschild 
+ Latour 
+ Leoville Barton 
+ Leoville Las Cases 
+ Hang (by the neck)  Bages 
+ Margaux 
+ La Mission Haut Brion 
+ Montrose 
+ Mouton Rothschild 
+ Palmer 
+ Petrus 
+ Pichon Comtesse 
+ Talbot 
+ Troplong Greatt 
+ 
+ St.-Julien 
+ St.-Emilion 
+ St.-Estephe 
+ St.-Julien 
+ Pauillac 
+ St.-Julien 
+ Pessac-Leognan 
+ Pauillac 
+ Pauillac 
+ St.-Julien 
+ St.-Julien 
+ Pauillac 
+ Margaux 
+ Pessac-Leognan 
+ St.-Estephe 
+ Pauillac 
+ Margaux 
+ Pomerol 
+ Pauillac 
+ St.-Julien 
+ St.-Emilion 
+ 
+ 71 
+ 35 
+ 64 
+ 49 
+ 44 
+ 81 
+ 45 
+ 89 
+ 59 
+ 40 
+ 84 
+ 75 
+ 84 
+ 20 
+ 67 
+ 74 
+ 44 
+ 11.5 
+ 60 
+ 99 
+ 30 
+ 
+ 72 
+ 0 
+ 50 
+ 65 
+ 70 
+ 63 
+ 
+ 25 
+ 33 
+ 40 
+ 25 
+ 25 
+ 25 
+ 25 
+ 20 
+ 10 
+ 15 
+ 17 
+ 15 
+ 20 
+ 35 
+ 30 
+ 5 
+ 40 
+ 95 
+ 35 
+ 20 
+ 65 
+ 
+ 2 
+ 66 
+ 10 
+ 
+ 55 
+ 70 
+ 80 
+ 70 
+ 65 
+ 70 
+ 75 
+ 60 
+ 65 
+ 85 
+ 45 
+ 0 
+ 45 
+ 70 
+ 10 
+ 
+ Petit Verdot 
+ 
+ Malbec 
+ 
+ 0 
+ 0 
+ 0 
+ 5 
+ 5 
+ 3 
+ 0 
+ 5 
+ 5 
+ 
+ 5 
+ 0 
+ 9 
+ 20 
+ 5 
+ 5 
+ 7 
+ 13 
+ 10 
+ 5 
+ 5 
+ 5 
+ 10 
+ 5 
+ 5 
+ 12 
+ 5 
+ 15 
+ 
+ 1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 10 
+ 
+ 8 
+ 5 
+ 5 
+ 0 
+ 0 
+ 0 
+ 0 
+ 10 
+ 0 
+ 
+ 8 
+ 5 
+ 0 
+ 
+ - According to Parker (1985). 
+ Table 5 
+ Parker-points of selected Bordeaux wines (1995)" 
+ House 
+ 
+ Beychevelle 
+ Cheval Blanc 
+ Cos d'Estournel 
+ Ducru Beaucaillou 
+ Grand-Puy-Lacoste 
+ Gruaud-Larose 
+ Haut Brion 
+ Lafite Rothschild 
+ Latour 
+ Leoville Barton 
+ Leoville Las Cases 
+ Hang (by the neck)  Bages 
+ Margaux 
+ La Mission Haut Brion 
+ Montrose 
+ Mouton Rothschild 
+ Palmer 
+ Petrus 
+ Pichon Comtesse 
+ Talbot 
+ Troplong Greatt 
+ 
+ Old/original 
+ 1980 
+ 
+ 1981 
+ 
+ 1982 
+ 
+ 1983 
+ 
+ 1984 
+ 
+ 1985 
+ 
+ 1986 
+ 
+ 1987 
+ 
+ 1988 
+ 
+ 1989 
+ 
+ 1990 
+ 
+ 1991 
+ 
+ 1992 
+ 
+ 1993 
+ 
+ 1994 
+ 
+ 0 
+ 80 
+ 83 
+ 74 
+ 0 
+ 80 
+ 0 
+ 83 
+ 83 
+ 83 
+ 75 
+ 78 
+ 89 
+ 72 
+ 72 
+ 74 
+ 72 
+ 85 
+ 84 
+ 82 
+ 0 
+ 
+ 83 
+ 90 
+ 83 
+ 90 
+ 80 
+ 
+ 92 
+ 100 
+ 97 
+ 94 
+ 92 
+ 97 
+ 93 
+ 100 
+ 98 
+ 93 
+ 100 
+ 93 
+ 99 
+ 95 
+ 88 
+ 100 
+ 
+ 85 
+ 94 
+ 85 
+ 87 
+ 86 
+ 90 
+ 87 
+ 92 
+ 87 
+ 86 
+ 90 
+ 89 
+ 96 
+ 90 
+ 81 
+ 91 
+ 97 
+ 
+ 79 
+ 0 
+ 84 
+ 79 
+ 75 
+ 83 
+ 0 
+ 84 
+ 84 
+ 84 
+ 84 
+ 84 
+ 87 
+ 82 
+ 77 
+ 85 
+ 82 
+ 87 
+ 86 
+ 82 
+ 73 
+ 
+ 87 
+ 90 
+ 95 
+ 91 
+ 
+ 92 
+ 93 
+ 95 
+ 94 
+ 90 
+ 97 
+ 92 
+ 99 
+ 91 
+ 92 
+ 97 
+ 92 
+ 96 
+ 90 
+ 91 
+ 100 
+ 89 
+ 89 
+ 96 
+ 96 
+ 89 
+ 
+ 78 
+ 85 
+ 83 
+ 83 
+ 76 
+ 84 
+ 87 
+ 87 
+ 86 
+ 85 
+ 87 
+ 82 
+ 86 
+ 87 
+ 
+ 84 
+ 87 
+ 87 
+ 
+ 91 
+ 88 
+ 89 
+ 90 
+ 89 
+ 88 
+ 100 
+ 92 
+ 90 
+ 88 
+ 95 
+ 96 
+ 90 
+ 99 
+ 95 
+ 89 
+ 96 
+ 98 
+ 92 
+ 
+ 85 
+ 95 
+ 90 
+ 89 
+ 90 
+ 88 
+ 94 
+ 94 
+ 98 
+ 95 
+ 94 
+ 93 
+ 100 
+ 92 
+ 100 
+ 87 
+ 87 
+ 100 
+ 87 
+ 85 
+ 94 
+ 
+ 85 
+ 0 
+ 87 
+ 86 
+ 87 
+ 85 
+ 86 
+ 86 
+ 89 
+ 87 
+ 87 
+ 86 
+ 88 
+ 87 
+ 85 
+ 86 
+ 87 
+ 0 
+ 89 
+ 72 
+ 85 
+ 
+ 81 
+ 77 
+ 
+ 77.5 
+ 86 
+ 89 
+ 91 
+ 88.5 
+ 89.5 
+ 92 
+ 91.5 
+ 91 
+ 89 
+ 92 
+ 87 
+ 92 
+ 91 
+ 87.5 
+ 91 
+ 87.5 
+ 93 
+ 89 
+ 86.5 
+ 91 
+ 
+ 83.5 
+ 88 
+ 90.5 
+ 92 
+ 89 
+ 86.5 
+ 93 
+ 
+ 88 
+ 85 
+ 93 
+ 
+ 88 
+ 84 
+ 
+ 88 
+ 85 
+ 90 
+ 90 
+ 84 
+ 84 
+ 81 
+ 87 
+ 89 
+ 85 
+ 79 
+ 
+ 88 
+ 97 
+ 99.5 
+ 94 
+ 81 
+ 
+ 88 
+ 94 
+ 90 
+ 
+ 0 
+ 
+ 88 
+ 90 
+ 91 
+ 87 
+ 87 
+ 92 
+ 92 
+ 92 
+ 91 
+ 92 
+ 85 
+ 92 
+ 87 
+ 89 
+ 90 
+ 89 
+ 87 
+ 
+ 0 
+ 89 
+ 86 
+ 87 
+ 87 
+ 85 
+ 0 
+ 
+ 88 
+ 85 
+ 89 
+ 91 
+ 94 
+ 89 
+ 
+ 88 
+ 92 
+ 90 
+ 
+ 88 
+ 90 
+ 83 
+ 89 
+ 87 
+ 94 
+ 90 
+ 89 
+ 89 
+ 
+ a According to Klihler and Kiihler (1995). A value of zero represents a non-traded wine. 
+ 
+ 88 
+ 91 
+ 
+ 88 
+ 87 
+ 86 
+ 86 
+ 90 
+ 89 
+ 
+ 88 
+ 87 
+ 90 
+ 86 
+ 89 
+ 89 
+ 87 
+ 
+ 88 
+ 84 
+ 90 
+ 79 
+ 86 
+ 89 
+ 
+ 88 
+ 94 
+ 89 
+ 93.5 
+ 89 
+ 91.5 
+ 93 
+ 92.5 
+ 91 
+ 88 
+ 92 
+ 92.5 
+ 86 
+ 93.5 
+ 
+ 124 
+ 
+ G.V. Jones, K.-H. Storchmann!Agricultural Money flow 26 (2001) 115-133 
+ 
+ All guessed price equations for the 21 selected 
+ housex are given in Table 6. The results show/tell about that 
+ wine prices react with great sensitivity to differences/different versions 
+ in the sugar/acid ratio as well as Parker-points. Therefore, both (numbers that change/things that change) are included in a polynomial form 
+ in the function and cause above average elasticities (related to/looking at/thinking about) changes of the (thing that you control (like study time), that causes something else to change (like a test score)). Because of this, 
+ the effects of an increase of Parker-points from 94 to 
+ 95 are clearly much higher than those caused by an 
+ increase from 84 to 85. The same can be seen for 
+ the sugar/acid ratio (which is often used to test 
+ ripeness). Also, wine prices tend to increase 
+ with (old/allowing to get old/getting older) and, except for House Petrus and Talbot, 
+ the trend (number or thing that changes) (T) was introduced in a linear form 
+ in the equations. Finally, all equations contain one or 
+ two dummy (numbers that change/things that change) which point to/show either corrections 
+ for the (before that/before now) talked about/said very high 1982 prices, 
+ missing data of single wines, or some other change 
+ with which data are not available. 
+ 
+ for this study, the Cheval Blanc equation was specified 
+ as a Merlot equation. However, for the overall results, 
+ the MAPE-values in the range 7-26% are to be judged 
+ against the background of the very high dangerous nature/wild up and down prices of the (things that change (like test scores) because of other things that you control (like study times)). So the percentage 
+ mistakes are naturally high when the explained (number or thing that changes), the wine price, goes up and down near zero, although 
+ the (change to make better/related to changing something) of the equation is quite acceptable. In 
+ those cases the explanatory power of the MAE and the 
+ RMSE is higher and, compared to the dimension of 
+ the (thing that changes (like a test score) because of something else that you control (like study time)), these tests are more medium-level. 
+ The MEAN ratio points to/shows that the (numbers that change/things that change) hardly 
+ are under- or over-guessed. An underestimation of 5 
+ US-$/bottle in the case of House Mouton Rothschild 
+ would appear, against the background of the dimension of its prices, to be very small. 
+ In Fig. 2 the changes/recalculations of the model for sugar and 
+ acid values as well as for the wine prices for a sample 
+ Sugar values Cabemet Sauvignon 
+ ,&mdash;-in::...g/1_ _ _-, 210 
+ 
+ Acid values Cabemet Sauvignon 
+ in gil 
+ 
+ 2.3. Model validation 
+ 
+ 200 
+ 
+ To test the quality of an econometric model 
+ the properties of the model and its explanatory power 
+ should be checked by a few (related to studying numbers) tests. Important indications can be gained from a comparison between the actual data and a (happening together) 
+ "ex-post"-solution of the model. From the many test statistics available, those employed in this research are: 
+ - the mean error, MEAN= *L:?=r CYi - Yi), 
+ - the mean total error, MAE= *L:?=l I.Yi - yi[, 
+ - the root mean square error, 
+ RMSE = *)L?=r (Yi- the mean total percentage error, 
+ MAPE = !nL...z=i 
+ "'! Iji;-y; 
+ I- 
+ y; 
+ Yi) 2 , 
+ 
+ The statistics above are examined to test the quality of the complete wine price model. The test results, 
+ as got together in Table 7, show a acceptable improvement over the watched/followed data, especially in respect to 
+ the sugar and acid values, while the MAPE for the 
+ wine prices is much higher. This is especially true for 
+ House Cheval Blanc, which has a 26% mean total percentage error. This large MAPE can mainly be 
+ attributed to the high share of Cabernet Franc in its 
+ blend. Since Cabernet Franc data were not available 
+ 
+ 190 
+ 180 
+ 170 
+ 
+ h-r-rTTTT...-r.,-,.,-,-rl 
+ 
+ 160 
+ 
+ Acid values Merlot 
+ in gil 
+ 
+ 220 
+ 200 
+ 180 
+ 
+ Price House Cheval Blanc 
+ 500 ,-.,.Â·--'"'-.n""$/bo""tt""1e_ _- - , 
+ 
+ 400 
+ 
+ 300 
+ 
+ 300 
+ 
+ 200 
+ 
+ 200 
+ 100 
+ 
+ 100 
+ 
+ Price Chiteau Margaux 
+ 400,&mdash;'&#126;Â·n=$/bo=tt=1e_ _- - , 
+ 
+ Price Ch&amp;teau Mouton-Rothschild 
+ .&mdash;"'-in""$/bo""tt""1e'&mdash;-. 500 
+ 
+ :lvJl_ &#126;&#126; 
+ 1980 
+ 
+ 1985 
+ 
+ -actual 
+ 
+ 1990 
+ 
+ 1994 1980 
+ 
+ 1985 
+ 
+ 1990 
+ 
+ 1994 
+ 
+ &mdash;- guessed 
+ 
+ Fig. 2. A graphical analysis of a (happening together) ex-post solutions 
+ for 1980-1994. A comparison between actual and guessed values 
+ for selected (numbers that change/things that change). 
+ 
+ Table 6 
+ Wine prices and its (things that decide other things) CABSUG 
+ PXBARTON 
+ PXBEYCHE 
+ 
+ equations and test statisticsa 
+ CABACID 
+ 
+ MERSUG 
+ 
+ MERACID 
+ 
+ -2.1lx 
+ (10.57) 
+ 
+ 18 )1" 
+ 
+ 6.1(10 
+ (8.32) 
+ 0.0001x' 
+ (13.34) 
+ 
+ 1.2(10&#126; 7 )(SUG/ACID) 5 
+ 
+ PXCHEVAL 
+ 
+ (6.94) 
+ PXCOMTES 
+ PXCOSDES 
+ log(PXDUCRU) 
+ PXGRUAUD 
+ PXHBRION 
+ 
+ -68.4log(x) 
+ (8.51) 
+ 0.018(SUG/ACID) 2 
+ (8.64) 
+ 2.0(10&#126; 7 )x' 
+ -0.0068x' 
+ (4.14) 
+ (1.72) 
+ 7 
+ 16 
+ 5.3(10&#126; )x 
+ -13.7log(x) 
+ (1.47) 
+ (5.94) 
+ 
+ O.OOlx' 
+ (3.54) 
+ 
+ PXLACOST 
+ PXLAFITE 
+ 
+ 1.7(10&#126; 5 )(SUG/ACID) 4 
+ 
+ PXLASCAS 
+ 
+ (7.54) 
+ 2.47(SUG/ACID)9 
+ (6.87) 
+ 
+ 5.1(10&#126; 7 )(SUG/ACID) 5 
+ 
+ Log(PXMBRION) 
+ 
+ 1.4(10&#126; 7 )(SUG/ACID) 4 
+ 
+ 7.7(10&#126; 17 )x 9 
+ 
+ (11.38) 
+ 1.5(10&#126; 16 )x 9 
+ 
+ (4.98) 
+ 1.1(10&#126; 14 )x 8 
+ 
+ (8.26) 
+ 9.49x 
+ (7.61) 
+ 2.8(10&#126; 18 )x 9 
+ 
+ (12.91) 
+ 4.8(10&#126; 17 )x 9 
+ 
+ 5.2(10&#126; 6 )(SUG/ACID) 4 
+ 
+ (4.54) 
+ 
+ (3.28) 
+ 
+ 1.5(10&#126;16)1' 
+ 
+ 4.49(1/x) 
+ (21.74) 
+ 
+ (3.50) 
+ 0.0001(SUG/ACID)3 
+ (4.54) 
+ 0.0015(SUG/ACID)3 
+ (6.20) 
+ 
+ PXPALMER 
+ PXPETRUS 
+ 
+ PXTROPLO 
+ 
+ 5.0(10&#126; 15 )x 8 
+ 
+ 6.7(10&#126; 9 )x' 
+ 
+ -11.9log(x) 
+ (7.32) 
+ 
+ (10.04) 
+ 3.3(10&#126; 10 )(SUG/ACID) 6 
+ 
+ (7.53) 
+ a 
+ 
+ (3.97) 
+ 0.0014x' 
+ (1.81) 
+ 0.8lx 
+ (5.52) 
+ 
+ (5.16) 
+ 
+ (6.59) 
+ 
+ (4.76) 
+ 
+ 2.4(10&#126; 4 )x6 
+ 
+ (5.25) 
+ 
+ 9.4(10&#126; 17 )x9 
+ 
+ (9.96) 
+ 
+ PXTALBOT 
+ 
+ 4.9(10&#126; 8 )x5 
+ 
+ 3.6(10&#126; 13 )x 7 
+ 
+ (8.71) 
+ 
+ PXMARGAU 
+ 
+ 5.7(10&#126; 19 )1' 
+ 
+ (4.06) 
+ 
+ (6.32) 
+ 
+ 1.2(10&#126;16)x' 
+ 
+ (14.36) 
+ 0.0077(SUG/ACID) 2 
+ (2.20) 
+ 
+ (4.15) 
+ 
+ 1.7(10&#126; 12 )x7 
+ 
+ 7.8(10&#126; 9 )r5 
+ 
+ 2.3(10&#126; 10 )(SUG/ACID) 7 
+ 
+ 6.0(10&#126; 17 )x 7 
+ 
+ (3.17) 
+ 0.0129x 
+ (1.43) 
+ -31.3(1/x) 
+ (0.97) 
+ 1.71x 
+ (3.89) 
+ lAx 
+ (6.79) 
+ 0.038x 
+ (4.62) 
+ 0.68x 
+ (2.84) 
+ 1.79x 
+ (4.79) 
+ 0.87x 
+ (6.96) 
+ 0.91x 
+ (1.45) 
+ 0.49x 
+ (1.95) 
+ 1.3x 
+ (1.93) 
+ 1.47x 
+ (5.26) 
+ 2.09x 
+ (2.65) 
+ 0.06x 
+ (6.47) 
+ 0.67x 
+ (2.81) 
+ -0.29(1/x) 
+ (1.37) 
+ 1.47x 
+ (4.39) 
+ 
+ (9.08) 
+ 
+ (5.48) 
+ 
+ Log(PXMOUTON) 
+ 
+ 2.27x 
+ (201.18) 
+ O.OOOlx' 
+ (2.68) 
+ 
+ 17.15 D82 
+ (4.91) 
+ 0.53 D82 
+ (3.89) 
+ 283.95 D82 
+ (8.15) 
+ 88.05 D82 
+ (8.77) 
+ 45.9 D82 
+ (9.62) 
+ -3.12 D91 
+ (22.37) 
+ 29.99 D82 
+ (11.46) 
+ 110.2 D82 
+ (9.96) 
+ 38.0 D82 
+ (11.64) 
+ 181.8 D82 
+ (12.18) 
+ 103.25 082 
+ (14.99) 
+ 194.14 082 
+ (12.41) 
+ 32.0 D82 
+ (6.52) 
+ 134.81 082 
+ (8.12) 
+ -0.33 081 
+ (2.3) 
+ 85.16 D90 
+ (9.89) 
+ 0.46 082 
+ (1.93) 
+ 18.80 082 
+ (2.53) 
+ 533.26 082 
+ (7.82) 
+ 23.76 D82 
+ (6.94) 
+ -10.38 D87 
+ (2.22) 
+ 
+ (10.94) 
+ 
+ 1.0(10&#126; 9 )(SUG/ACID) 6 
+ 
+ PXMONTRO 
+ 
+ Dummy 
+ 
+ 0.0002x4 
+ 
+ (7.11) 
+ -23842(1/ x) 
+ (9.34) 
+ 0.0003x' 
+ (5.50) 
+ 
+ 1.6(10&#126; 12 )(SUG/ACID)' 
+ 
+ PXLYNCH 
+ 
+ T 
+ 
+ 1.5(10&#126; 7 )x4 
+ 
+ (7.86) 
+ 
+ PXLATOUR 
+ 
+ PT 
+ 
+ 4.7(10&#126; 17 )x9 
+ 
+ (8.64) 
+ 
+ Dummy 
+ 
+ Constant 
+ 
+ S.E. 
+ 
+ R' 
+ 
+ -170.47 
+ (128.57) 
+ 
+ 3.09 
+ 
+ 0.978 
+ 
+ 0.12 
+ 
+ 0.946 
+ 
+ 26.1 
+ 
+ 0.974 
+ 
+ 6.89 
+ 
+ 0.984 
+ 
+ Cl 
+ ;:s 
+ 
+ 3.56 
+ 
+ 0.987 
+ 
+ Â·"' 
+ 
+ 0.13 
+ 
+ 0.993 
+ 
+ :l: 
+ 
+ 3.86 
+ 
+ 0.975 
+ 
+ 0.52 D92 
+ (4.11) 
+ -145.88 D89 
+ (5.83) 
+ 61.71 D92 
+ (5.85) 
+ 
+ 0 
+ 
+ :&amp;lt;::: 
+ (\&amp;gt; 
+ 
+ 272.04 
+ (9.00) 
+ -3.07 D93 
+ (18.58) 
+ 
+ &#126; 
+ 
+ "'0 
+ 
+ ;j 
+ 
+ 165.5 D89 
+ (14.72) 
+ 
+ -56.34 086 
+ (5.93) 
+ 19.41 D85 
+ (3.79) 
+ 
+ 9.62 
+ 
+ ;:,.. 
+ 
+ ;:; 
+ 
+ ;;::, 
+ ;:s 
+ 
+ -2.18 XL 
+ (1.37) 
+ 
+ 3.01 
+ 
+ 0.974 
+ 
+ 12.6 
+ 
+ 0.981 
+ 
+ 5.72 
+ 
+ 0.989 
+ 
+ 8.56 
+ 
+ 0.996 
+ 
+ 4.49 
+ 
+ 0.981 
+ 
+ " 
+ :.. 
+ 
+ -..... 
+ 
+ "";;..&#126;E" 
+ 
+ &#126; 
+ &#126; 
+ 
+ c;:s 
+ c 
+ 
+ ;:; 
+ 
+ r;Â· 
+ 
+ -821.7 
+ (7.51) 
+ 1.95 
+ 
+ 13.6 
+ 
+ 0.986 
+ 
+ "'N 
+ 
+ 0.13 
+ 
+ 0.993 
+ 
+ w 
+ a 
+ 
+ (14.44) 
+ 
+ 5.82 
+ 
+ 0.982 
+ 
+ -:::: 
+ 
+ 0.18 
+ 
+ 0.955 
+ 
+ ...... 
+ ...... 
+ 
+ 7.49 
+ 
+ 0.947 
+ 
+ &amp;lt;-., 
+ &amp;lt;-., 
+ 
+ 64.1 
+ 
+ 0.967 
+ 
+ 2.83 
+ 
+ 0.982 
+ 
+ 4.30 
+ 
+ 0.976 
+ 
+ 50.40 D83 
+ (10.82) 
+ -173.68 
+ (3.33) 
+ 
+ 29.41 D90 
+ (5.56) 
+ 
+ 0.987 
+ 
+ 0\ 
+ 
+ a 
+ 
+ Y'...... 
+ 
+ Model calculations: 1980-1984, T-ratio in parentheses. 
+ 
+ ;::; 
+ V1 
+ 
+ 126 
+ 
+ G.V Jones, K.-H. Storchmann/Agricultural Money flow 26 (2001) 115-133 
+ 
+ Table 7 
+ Test statistics of a simultanous solution of the wine price modela 
+ Model 
+ 
+ (number or thing that changes) 
+ 
+ MEAN 
+ 
+ MAE 
+ 
+ RMSE 
+ 
+ MAPE 
+ 
+ CABACID 
+ CABSUG 
+ MERACID 
+ MERSUG 
+ PXBARTON 
+ PXBEYCHE 
+ PXCHEVAL 
+ PXCOMTES 
+ PXCOSDES 
+ PXDUCRU 
+ PXGRUAUD 
+ PXHBRION 
+ PXLACOST 
+ PXLAFITE 
+ PXLASCAS 
+ PXLATOUR 
+ PXLYNCH 
+ PXMARGAU 
+ PXMBRION 
+ PXMONTRO 
+ PXMOUTON 
+ PXPALMER 
+ PXPETRUS 
+ PXTALBOT 
+ PXTROPLO 
+ 
+ Acid values - Cabernet Sauvignon 
+ Sugar values - Cabernet Sauvignon 
+ Acid values - Merlo! 
+ Sugar values - Merlo! 
+ Leoville Barton 
+ Beychevelle 
+ Cheval Blanc 
+ Pich. Longueville Comtesse de Lalande 
+ Cos d'Estonrnel 
+ Ducru Beaucaillou 
+ Gruaud-Larose 
+ (amount caught/long, difficult trip) Brion 
+ Grand-Puy-Lacoste 
+ Lafite Rothschild 
+ Leoville Las Cases 
+ Latour 
+ Hang (by the neck)  Bages 
+ Margaux 
+ La Mission Haut Brion 
+ Montrose 
+ Mouton Rothschild 
+ Palmer 
+ Petrus 
+ Talbot 
+ Troplong Great! 
+ 
+ 0.00 
+ -0.10 
+ 0.00 
+ 0.00 
+ -0.10 
+ -0.60 
+ -1.71 
+ 0.02 
+ 0.28 
+ -1.09 
+ 0.01 
+ 0.66 
+ 0.20 
+ -0.17 
+ 0.59 
+ 0.47 
+ 0.17 
+ 0.14 
+ 2.09 
+ 0.05 
+ -5.10 
+ -0.01 
+ -2.73 
+ -0.06 
+ -0.72 
+ 
+ 0.10 
+ 2.19 
+ 0.08 
+ 2.46 
+ 2.54 
+ 1.92 
+ 19.28 
+ 4.05 
+ 2.74 
+ 4.46 
+ 2.45 
+ 7.82 
+ 2.30 
+ 8.65 
+ 3.49 
+ 10.47 
+ 2.96 
+ 10.27 
+ 9.17 
+ 4.13 
+ 14.71 
+ 5.16 
+ 51.84 
+ 2.77 
+ 2.77 
+ 
+ 0.12 
+ 2.80 
+ 0.11 
+ 3.03 
+ 2.96 
+ 2.77 
+ 22.90 
+ 5.97 
+ 3.53 
+ 9.03 
+ 3.12 
+ 9.12 
+ 2.74 
+ 11.27 
+ 4.69 
+ 13.51 
+ 3.92 
+ 13.88 
+ 14.26 
+ 6.02 
+ 22.42 
+ 6.32 
+ 61.22 
+ 3.03 
+ 3.65 
+ 
+ 1.98 
+ 1.16 
+ 1.91 
+ 1.21 
+ 10.29 
+ 7.08 
+ 26.35 
+ 10.98 
+ 9.38 
+ 8.80 
+ 10.01 
+ 15.04 
+ 13.25 
+ 11.29 
+ 11.15 
+ 13.08 
+ 11.55 
+ 9.44 
+ 10.69 
+ 12.87 
+ 13.74 
+ 14.28 
+ 17.95 
+ 11.93 
+ 10.75 
+ 
+ a Model calculations: PX stands for wine price and is followed by an shortening of the house in the model. 
+ 
+ of four housex are shown. Overall the model is able 
+ to reflect the actual data very well. Even for filled with problems cases, like House Cheval Blanc, the explanatory 
+ power of the model falls within an acceptable range. 
+ 
+ 3. Sensitivity analysis 
+ In the model introduced in this analysis, the influence of single (things that decide other things) on the wine price can 
+ be separated and tested. One of the advantages of 
+ an econometric model, in contrast to (intelligent/obvious) methods, is that in the extent of/the range of sensitivity analysis a difference/different version of one of these (things that decide other things) can be tested out 
+ as well as the hits/effects put into numbers. Since the model is 
+ thin sliceal, only the average effect of these factors 
+ on the wines of different wines for single housex 
+ can be calculated. Therefore, with the model, it is not 
+ possible to (describe the future) the development of prices of one 
+ single wine, for instance the House Cheval Blanc 
+ 
+ 1982. For this purpose a time series model would be 
+ necessary, which explains the development of the price 
+ of one single wine over a long period of time, not 
+ only by the (features/ qualities/ traits) of the wine itself, but also 
+ by money-based test result data and their inter-time-related 
+ differences/different versions. However, in the extent of/the range of the model introduced in this analysis, it is possible to number the 
+ hit/effect on average prices for all wines of a given year 
+ (here 199611997) and for single housex, by the difference/different version of one or a few (coming from the outside of something) (numbers that change/things that change). Because of this, 
+ the influence of (related to the Earth's weather) (things that decide other things), Parker ratings, 
+ and the hit/effect of (old/allowing to get old/getting older) can be put into numbers. 
+ 3.1. Climate sensitivity 
+ As described earlier, the main varieties of the Bordeaux wines are seen as different (related to the Earth's weather) influences. In the same way/in that way, one purpose of blending wines 
+ is to balance the disadvantages resulting from weather 
+ conditions of a particular old/original which in turn affect 
+ 
+ G.V Jones, K.-H. Storchmann/Agricultural Money flow 26 (2001) 115-133 
+ 
+ Table 8 
+ Climate sensivity of Cabernet Sauvignon and Merlot a cooler and moister ripening perioda 
+ Change (gil) 
+ Cabernet 
+ Merlot Cabernet 
+ Merlot - 
+ 
+ Sauvignon sugar 
+ Sauvignon acid 
+ 
+ sugar 
+ acid 
+ 
+ -2.46 
+ -5.47 
+ 0.25 
+ 0.75 
+ 
+ hit/effect of 
+ 
+ Change(%) 
+ -1.31 
+ -2.68 
+ 4.99 
+ 17.29 
+ 
+ a Model (testing out) calculations. VPET, VTEMP25, and 
+ VTEMP30 are each reduced by 25%. VPREC is increased by 25%. 
+ 
+ 127 
+ 
+ In comparison, price decreases for typical Cabernet Sauvignon-ruled wines like Haut Brion 
+ (-5.3%) or Mouton-Rothschild (-8.6%) are (in an obvious way) less. Although Merlot-ruled wines are 
+ clearly under-represented among the (examined closely) 
+ wines, Fig. 3 shows that with increasing Cabernet 
+ Sauvignon shares planted (Table 4), the paying/making up for character of that variety becomes obvious and 
+ therefore the price sensitivity decreases. 
+ 3.2. Parker-point sensitivity 
+ 
+ the ripeness of the different vanetles (Kiihler and 
+ Kiihler, 1995). Since the weather during the ripening 
+ period plays an important role in the grape quality, a 
+ model (testing out) of the influence of a cooler, wetter period from veraison to harvest on sugar, acid, 
+ and price is tested. In this picture/situation the (coming from the outside of something) (numbers that change/things that change) VPET (a measure of overall heat and 
+ dryness), VTEMP25, and VTEMP30 were reduced 
+ by 25% (which could easily happen within the (usual/ commonly and regular/ healthy) 
+ climate (quality of changing over time or at different places)), while VPREC was assumed to 
+ be 25% higher (see Table 2 for shortenings). The 
+ results of this (testing out) show/tell about that sugar and acid 
+ values of Merlot are much more sensitive in respect 
+ to differences/different versions in veraison stage climate as is Cabernet 
+ Sauvignon (Table 8). Due to the (like the real thing) poorer 
+ veraison stage climate conditions, the sugar values 
+ for Cabernet Sauvignon decrease by 2.46 g/1 (1.3% ), 
+ while those for Merlot decrease by 5.47 g/1 (2.7%). In 
+ respect to the tested out acid values, the differences 
+ are even more significant: the acid values for Cabernet Sauvignon increase by 5% and increase by 17% 
+ for Merlot. From the prior climate analysis and the 
+ tests, it is confirmed that the Merlot variety is 
+ much more sensitive in respect to climate influences 
+ during the ripening period than Cabernet Sauvignon. 
+ Overall, one can go ahead on the idea (you think is true) that 
+ Merlot-ruled wines, in respect to quality as well 
+ as price, are usually more influenced by weather 
+ (features/ qualities/ traits) during the critical ripening stage than 
+ Cabernet Sauvignon- ruled wines. Table 9 displays the climate hits/effects on the wine prices. From 
+ the given picture/situation of a wetter, cooler ripening stage, 
+ all prices decrease, but it should be noted that 
+ this happens to a higher degree with non-Cabernet 
+ Sauvignon wines like Cheval Blanc (-31.3%), 
+ Petrus (-21.1%), and Troplong Greatt (-14.1%). 
+ 
+ The very high influence of quality ratings on 
+ wine prices has often been talked about/said, and sometimes 
+ hated, in the trade press. In the (detailed description of exactly what is required) of 
+ the equations, this influence is expressed by including Parker-points in a polynomial form. It is obvious 
+ that Parker-points are oriented by "goal chemical quality measures", by which there often appears a 
+ close relationship to the above talked about/said climate (things that decide other things). However, since the test statistics are highly 
+ significant, the problem of multicollinearity can be 
+ neglected. 9 The wine pricing reactions caused by a 
+ one-point increase in the Parker rating is shown in 
+ Table 9. From the results it is clear that there are 
+ great differences between particular housex in respect to Parker-point elasticities of the prices. While 
+ the price from this (testing out) for Housex Beychevelle or Palmer has risen less than 4%, properties like 
+ Housex Margaux, La Mission Haut Brion or Pichon 
+ Comtesse de Lalande show price increases over 10%. 
+ As shown in the following equation, these differences 
+ are due to many of factors. 
+ log(SENSPT) 
+ 
+ CAB/MER 
+ 
+ = 54480--,3,..&mdash;-_. 
+ 
+ HA (!.64) 
+ +0.096(PTAVG) - 6.61 
+ (1.95) 
+ 
+ (4) 
+ 
+ (1.52) 
+ 
+ (not including House Beychevelle in the model), 
+ where S.E.: 0.661, R 2 : 0.662, T-ratios in parentheses, 
+ with: SENSPT: Parker-point sensitivity in% according 
+ to Table 9, CAB: share of Cabernet Sauvignon in % 
+ area planted, MER: share of Merlot in % axea planted, 
+ 9 In each of the guessed equations the squared relationship-related coefficient of two move backwardors is not close to as great as the unadjusted 
+ R 2 (see Studenmund, 1996, or Intri1igator, 1978). 
+ 
+ 128 
+ 
+ G.V Jones, K.-H. Storchmann/Agricultural Money flow 26 (2001) 115-133 
+ 
+ Table 9 
+ Sensitivity analysis for selected Bordeaux winesa 
+ Price change (%) 
+ 
+ House 
+ 
+ Beychevelle 
+ Cheval Blanc 
+ Cos d'Estournel 
+ Ducru Beaucaillou 
+ Grand-Puy-Lacoste 
+ Gruaud-Larose 
+ Haut Brion 
+ Lafite Rothschild 
+ Latour 
+ Leoville Barton 
+ Leoville Las Cases 
+ Hang (by the neck)  Bages 
+ Margaux 
+ La Mission Haut Brion 
+ Montrose 
+ Mouton Rothschild 
+ Palmer 
+ Petrus 
+ Pichon Comtesse 
+ Talbot 
+ Troplong Greatt 
+ a 
+ 
+ Climate sensitivity: price reaction 
+ to a cooler and wetter ripening 
+ period 
+ 
+ Parker-point sensitivity: price 
+ reaction to an increase by one 
+ Parker-point 
+ 
+ Once-a-year yield sensitivity: price 
+ reaction to (old/allowing to get old/getting older) 
+ 
+ -6.59 
+ -31.32 
+ -8.40 
+ -6.88 
+ -5.03 
+ -4.03 
+ -5.29 
+ -9.05 
+ -13.85 
+ -9.58 
+ -5.92 
+ -3.50 
+ -11.25 
+ -7.76 
+ -7.89 
+ -8.55 
+ -13.43 
+ -21.05 
+ -15.29 
+ -6.47 
+ -14.07 
+ 
+ 0.97 
+ 5.69 
+ 9.92 
+ 4.66 
+ 4.11 
+ 8.78 
+ 5.80 
+ 4.71 
+ 7.46 
+ 8.05 
+ 6.91 
+ 10.37 
+ 11.58 
+ 12.54 
+ 4.24 
+ 6.21 
+ 3.61 
+ 4.95 
+ 10.99 
+ 8.46 
+ 4.78 
+ 
+ 1.30 
+ 2.48 
+ 4.41 
+ 3.91 
+ 3.98 
+ 2.63 
+ 2.82 
+ 1.18 
+ 1.92 
+ 2.03 
+ 1.24 
+ 4.60 
+ 2.55 
+ 6.59 
+ 2.51 
+ 1.87 
+ 3.67 
+ 9.61 
+ 4.65 
+ 1.71 
+ 3.66 
+ 
+ Model calculations. 
+ 
+ Price Decrease in Percent 
+ 0 
+ 
+ 0 
+ -5 
+ 
+ - - 
+ 
+ y = 4.23 ln(x)- 25.81 
+ R2 =0.72 
+ 
+ -5 
+ 
+ - 
+ 
+ -10 
+ 
+ -- 
+ 
+ -15 
+ 
+ -10 
+ 
+ - 
+ 
+ -15 
+ 
+ -20 
+ 
+ -20 
+ 
+ -25 
+ 
+ -25 
+ 
+ -30 
+ 
+ -30 
+ -35 
+ 
+ -35 
+ 0 
+ 
+ 10 
+ 
+ 20 
+ 
+ 30 
+ 
+ 40 
+ 
+ 50 
+ 
+ 60 
+ 
+ 70 
+ 
+ 80 
+ 
+ 90 
+ 
+ Cabernet-Sauvignon share in % 
+ Fig. 3. Reflection of the relative percent of area planted in Cabernet Sauvignon grapes per house and the related climate-caused price 
+ decrease. 
+ 
+ G. V. Jones, K.-H. Storchmann/ Farming-based Money flow 26 (2001) 115-133 
+ 
+ HA: area planted in hectares, PTAVG: Parker-points, 
+ average 1980-1994. 
+ First, it is obvious that the wine's blend in respect to 
+ the Parker-point sensitivity is very important. While 
+ high Cabernet Sauvignon shares have the habit/desire 
+ to increase the dependence on external ratings, the 
+ rating sensitivity will be decreased by higher shares 
+ of Merlot. Secondly, the dependence on Parker-points 
+ is higher for smaller properties. Therefore, smaller 
+ housex often gain over-(fair in amount, related to something else/properly sized compared to something else)ly from higher 
+ ratings. Third, those housex which were already 
+ rated rela<p><strong>NOTE: This document is incomplete. It was shortened to the maximum document length of 50,000 characters.</strong></p><div style="clear:both">&nbsp;</div>

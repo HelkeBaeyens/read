@@ -1,0 +1,1341 @@
+AGRICULTURAL 
+ ECONOMICS 
+ ELSEVIER 
+ 
+ Ag1icultural Money flow 27 (2002) 383-402 
+ www.elsevier.com/locate/agecon 
+ 
+ Bayesian (related to space or existing in space) probit guess: an easy book and 
+ an application to HYV rice adoption 
+ Garth Hollowaya,*, Bhavani Shankara, Sanzidur Rahman b 
+ a 
+ 
+ Department of Farming-based and Food Money flow, University of Reading, P. 0. Box 237, Reading RG6 6AR, UK 
+ b School of Money-based Studies, University of Manchester, Manchester M/3 9PL, UK 
+ 
+ Abstract 
+ More and more, (related to space or existing in space) econometric methods are becoming part of the standard toolkit of applied (people who work to find information) in farming-based, 
+ (related to surrounding conditions or the health of the Earth) and development money flow/money-based studies. Anyway, applications in separate-choice settings remain few and (even though there is the existence of) its 
+ appeal, applications of the Bayesian way of thinking in these settings are still fewer. We provide an easy book to the Bayesian (related to space or existing in space) 
+ probit with the goal of making (easy to get to, use, or understand) to non-users a class of repeating/repetitive guess methods that have become fairly 
+ (usually done) in Bayesian circles, offer an very powerful addition to applied (people who work to find information) toolkits, and are very important in Bayesian 
+ (putting into) use of (related to space or existing in space) econometric models. We (show or prove) the methods and apply them to guess the 'neighbourhood 
+ effect' in high-cooperating with/producing/giving up variety (HYV) adoption among Bangladeshi rice producers. We guess the strength of this relationship 
+ using a standard, (related to space or existing in space) probit model and compare the policy ends/end results with and without the neighbourhood effect included. 
+ Â© 2002 Published by Elsevier Science B.V. 
+ JEL classification: 013; 031 
+ Keywords: Bayesian (related to space or existing in space) probit; Markov-chain Monte-Carlo methods; HYV rice adoption; Bangladesh 
+ 
+ 1. Introduction 
+ Separate-choice models (lots of) many areas of 
+ farming-based money flow/money-based studies, including technology adoption and land-use decision making. Unavoidably, these 
+ problems are seen as some form of (related to space or existing in space) 
+ dependence. Although accounting for (related to space or existing in space) interactions is becoming common in applications involving 
+ continuous (things that change (like test scores) because of other things that you control (like study times)), such aspects are 
+ rarely included into separate-choice models. The 
+ importance of accounting for (related to space or existing in space) dependence in 
+ these situations cannot be over-focused. In many 
+ commonly applied models with a thin sliceal 
+ *Corresponding author. Tel.: +44-118-931-6775; 
+ fax: +44-118-975-6467. 
+ E-mail address: g.holloway@reading.ac.uk (G. Holloway). 
+ 
+ element, ignoring (related to space or existing in space) relations can make/give ordinary estimators (not agreeing/not happening in the same way) and/or (created unfair thinking in)/(unfair-thinking). In 
+ some cases, (related to space or existing in space) limits/guidelines also have important 
+ policy relevance. For example, the (related to space or existing in space) autoregression limit/guideline (the 'neighbourhood effect') in a 
+ technology adoption setting contains important policy 
+ information for public policy planning (Case, 1992). 
+ Knowledge of the location and scale of its distribution 
+ can be important in informing extension agents and 
+ planners about the chance that initial investments 
+ will create further 'secondary' or 'copy' adoption 
+ in a place. And this information, in turn, can aid 
+ decision making so that research (mix of stocks, bonds, etc./document collection) and public 
+ investment schedules are optimised. 
+ One reason likely for the shortage of (related to space or existing in space) separatechoice modelling is the complex difficulty that it involves. Most 
+ of the available methods involve multidimensional 
+ 
+ 0169-5150/02/$ - see front matter Â© 2002 Published by Elsevier Science B.V. 
+ PII: S0169-5150(02)00070-l 
+ 
+ 384 
+ 
+ G. Holloway et aU_pair Farming-based Money flow 27 (2002) 383-402 
+ 
+ integration. Bayesian ways of doing things including Markov-chain Monte-Carlo (MCMC) methods provide a 
+ powerful means to avoid these problems. The advantages of this approach compared to available other choices include non-reliance on asymptotic properties 
+ to secure/make sure of truth/trueness and generation of standard errors as a 
+ (something produced along with something else) of the guess computer code. The Bayesian 
+ approach provides a powerful other choice to ordinary sampling explanation ways of doing things in handling many 
+ tricky issues that face applied (related to space or existing in space) research 
+ (Anselin, 1988). Now in farming-based money flow/money-based studies, 
+ however, application of the Bayesian way of thinking is not 
+ (existing all over a large area). Our goal in this paper is to provide 
+ a step-by-step approach to the Bayesian (related to space or existing in space) probit 
+ demonstrating its reliance on basic building blocks 
+ with which many of us are familiar and as a (something produced along with something else), (showing or proving) the full power of a class of ways of doing things that are now becoming common place in other 
+ areas of applied research. 
+ We focus attention on one of the two Bayesian 
+ models that have been applied (not very long ago) to put into use 
+ cut short and separate-choice data, namely, the (related to space or existing in space)ly autoregressive probit (SARP) model, which is 
+ the (solid basic structure on which bigger things can be built) of choice for modelling new technology adoption and is the model applied in the scientific section of the paper. (teacher and teaching-related)ly, the Bayesian 
+ (related to space or existing in space) probit is only a step-wise (big statement based on very little information) of the 
+ MCMC (usually done) that must guess the standard, (usual/ commonly and regular/ healthy)-linear model. Because it represents the 
+ very important part of almost all MCMC work in applied 
+ Bayesian science and our main goals are teaching-related, the (usual/ commonly and regular/ healthy) model provides a natural starting 
+ point from which to incorporate added/more math-based and institutional detail. A focus on (usual/ commonly and regular/ healthy) 
+ data provides, this way, ideal reason for understanding the added/more (problems, delays, etc.) that (related to space or existing in space) dependencies 
+ involve. 
+ Section 2 presents an introduction to MCMC methods using (usual/ commonly and regular/ healthy) data and outlines the Gibbs sampling 
+ computer code that is the most important part of the (related to space or existing in space) probit 
+ computer code. This introductory section is meant for 
+ readers who are unfamiliar with Markov-chain methods and maybe, the Bayesian view. Section 3 extends 
+ the basic method to a (related to space or existing in space) econometric model with 
+ continuous left-hand side data and incorporates two 
+ silly/easy changes to get the (related to space or existing in space) probit computer code. Section 4 introduces institutional detail clearly connected with or related to the scientific application and introduces the 
+ 
+ Bangladeshi data and Section 5 presents the results 
+ of the (related to space or existing in space) probit computer code applied to the data. 
+ Ends/end results are offered in Section 6. Throughout, the 
+ focus is on (usually done) application of MCMC to solve 
+ difficulties arising due to (related to space or existing in space) dependence. 
+ 
+ 2. (Acts of showing or proving) nsing (usual/ commonly and regular/ healthy) data 
+ 
+ = 
+ 
+ Suppose data y 
+ (YI, yz, ... , YN ) 1 are (usually/ in a common and regular way) 
+ distributed with unknown mean, f(British pounds), and unknown variance a 2 so that the data-creating model is 
+ (1) 
+ 
+ i = 1, 2, ... , N; where fL represents the mean of the 
+ distribution for y; C:i the random error term that is 
+ (usually/ in a common and regular way) distributed with mean zero and variance a 2 ; 
+ and because of this, we may write, in a standard note, cJ, 
+ t:z, ... , C:N "' iid N(f(British pounds), a 2 ). We watch/notice the data, y, 
+ but do not watch/notice the errors, e 
+ (cJ, t:z, ... , t:N)', 
+ nor the limits/guidelines fL and a; and the goal is to 
+ make (producing a lot with very little waste) use of y in getting/taking guesses about fL 
+ and a. 
+ Eq. (1), together with the distributional idea (you think is true) on the error term, is sometimes referred to as the 
+ 'normal-means model'. Because this data-creating 
+ model is so familiar it serves as a natural starting 
+ point from which to introduce a plain and common thing/not a brand-name drug note that 
+ we keep/hold throughout the (acts of showing or proving). We continue 
+ to use y 
+ (Yl, yz, ... , y N ) 1 to represent data but use 
+ JA(blc, d, ... , z) to represent a chance density function (pdf) for the data where the symbols 'A, b, c, d,' 
+ and 'z' represent, (match up each pair of items in order), the form of the density, 
+ its argument, and any limits/guidelines that are needed to 
+ charaterise its location and scale, skewness, kurtosis, 
+ and so on. This approach is important and fairly standard in Bayesian developments where conditioning is 
+ of most important importance. 
+ It is important to note for later developments that the 
+ function/(-) is in the form of a (may or may not happen, depending on something) pdf. Sometimes this conditioning will play a important role in getting/taking (producing a lot with very little waste) guess plans and sometimes it will 
+ not, and we make a point of showing/representing when conditioning is important through the notef(-1Â·) (the (numbers that change/things that change) coming before the slash depending on the ones that 
+ follow). In the big picture  of the data-creating model 
+ JA(blc, d, ... , z), our job  is to use (capable of being seen and known) data 
+ 'b' to make guesses about (numbers that change/things that change) (limits/guidelines) 
+ 
+ = 
+ 
+ = 
+ 
+ G. Holloway et a !.I Farming-based Money flow 27 (2002) 383-402 
+ 
+ 'c, d, ... , z,' which we will refer to together as the 
+ unknowns, or, compactly, bye, f:J=(c, d, ... ' z)'. 
+ The point of departure between the present (thing that's given/work that's done) and others within this Special Issue, is the 
+ single (instance of watching, noticing, or making a statement) that, because the limits/guidelines in e 
+ are unknown they are, of course, random and have, 
+ therefore, connected chance distributions. In other 
+ words, for the purpose of developments in terms of 
+ EJ, recognition that its elements are unknown hints 
+ that they are 'random'. 
+ It is this step and this single step alone from which 
+ all later developments come from and it is important to bear this mind as we develop our MCMC 
+ plan to guess the Bayesian (related to space or existing in space) pro bit model. 
+ This application needs/demands two inputs, namely a chance for the whole data, which we represent l(f:Jjy), 
+ and a prior pdf describing doubt about the 
+ unknown limits/guidelines, which we represent :rr(EJ). The 
+ idea (you think is true) that the errors are independent allows 
+ us to multiply the individual (usual/ commonly and regular/ healthy) densities making up the chance into the form .ece IY) = ni 
+ JN (Yi lfL, O"), which, when viewed as a function ofthe 
+ complete data, y, is watched/followed to have the (usual/ commonly and regular/ healthy) form 
+ 
+ l(EJjy) 
+ 
+ = 
+ 
+ fN (yltNfL, I NO") 
+ 
+ (2) 
+ 
+ where tN (Greek 'i' with subscript 'N') represents an 
+ N-dimensional unit vector and IN represents the N x N 
+ identity matrix. To draw guesses about e, we will 
+ update between the prior pdf :rr(f:J) and the (rear end/away from the head) 
+ pdf :rr(EJjy) making use of Bayes' rule 
+ :rr(EJiy) ex l(EJiy):rr(f:J) 
+ 
+ (3) 
+ 
+ The right-side of Eq. (3) leaves out the scale factor that 
+ makes the important of the left side equal to one and 
+ hence, permits its (understanding/ explanation) as a true pdf. The fact 
+ that we can avoid the computations suggested by 
+ the importants 
+ 
+ is worth stressing because it is exactly these computations that are the major (tripping while walking/making a mistake) blocks to the 
+ (existing all over a large area) application of the Bayesian way of thinking. 
+ Although important exceptions exist (see, for example, the papers referred to by Dorfman (1998)), this 
+ 
+ 385 
+ 
+ development seems to have been more (mentally much slower than most people) in the 
+ farming-based money flow/money-based studies books than in other places. The 
+ coming of MCMC has, of course, changed this situation in other places and will do the same in farming-based 
+ money flow/money-based studies-once the full power of the way of doing things is 
+ widely accepted. With this goal in mind, it is useful 
+ to note that the term on the right-hand side of Eq. (4) 
+ is the not important chance for the data, a amount that 
+ plays a important role in model comparisons. We will not 
+ begin/try model comparisons in this paper, although 
+ it is useful to note that the methods presented can be 
+ extended in a simple way to test model chances (Chib, 1995; Chib and Jeliazkov, 2001). The main 
+ point for math-based gains is that, because f(y) is 
+ not a function of e we can ignore it in later 
+ developments concerning e. These later developments will usually involve the description 
+ of not important pdfs for the model limits/guidelines and the 
+ hard  job  arguing with us is the derivation of these 
+ not important amounts from the combined (rear end/away from the head) through 
+ the integrations 
+ n(ej ly) = 
+ 
+ fek ek-1{ ... ej+l{ ej-1{ ... rez rei 
+ }rz.k }rz.k-1 
+ }rz.j+J }rz.j-1 
+ }rz.2 }rz.l 
+ x nce1, e2, ... , ek IY) de1, d82, ... , deJ-1 
+ x deJ+l Â· Â· Â· dek-1 dek 
+ 
+ (5) 
+ 
+ Derivation of the not important distribution of an unknown amount of interest is the target of a Bayesian 
+ (act of asking questions and trying to find the truth about something). Problems arise when the not important density may not exist (not thought about/believed here); or, if the 
+ not important density exists but may not have moments that 
+ do (thought about/believed in the scientific section); or, when the 
+ not important pdf exists but may not have a form for which 
+ the (combining different things together so they work as one unit) constant (the constant that makes the 
+ area beneath the density sum to one) is available in 
+ closed form. It is exactly this latter situation in which 
+ MCMC and a special case, the Gibbs sampler, have 
+ particular advantages in fully using (may or may not happen, depending on something) dependencies that win in almost all (related to studying numbers) settings. 
+ When the not important distributions are not available in 
+ closed form, but the fully (may or may not happen, depending on something) distributions, 
+ n(8jl81, e2, ... ' ej-], ej+], ... ' ek, y) make happy weak 
+ (happening over and over again in a predictable way) conditions (Gelfand and Smith, 1990) and 
+ are easy to sample from, the Gibbs sampler provides 
+ an very powerful and easy-to-implement approach to test out draws from the not important pdf. In 
+ 
+ 386 
+ 
+ G. Holloway et al.!Agricultural Money flow 27 (2002) 383-402 
+ 
+ short, the Gibbs sampler provides a route for sampling from the not important pdf even though we cannot 
+ express it clearly. And when the fully (may or may not happen, depending on something) 
+ distributions are not all available in closed form a 
+ (big statement based on very little information) of the Gibbs sampler known as the 
+ City-Hastings computer code can then be used to 
+ test out from the target distribution. Although it needs/demands more computation time than the Gibbs sampler, 
+ it is just as powerful and is more (able to do many different things well) due to the 
+ fewer conditions that are needed/demanded for its use. Two 
+ examples will help to (show or prove). 
+ 
+ 2.1. The Gibbs sampler 
+ 
+ (usual/ commonly and regular/ healthy) means, 
+ 
+ 2 &#126; 2 (y-tN!L)'(y-tNf.l,)} 
+ (6) 
+ 
+ which changes from combining the non-interesting 
+ prior n(f.J,, u) ex u- 1 (Jeffreys, 1961; Zellner, 1996, 
+ p. 708), with the chance (Eq. (2)) via Baye's 
+ rule (Eq. (3)). The full (may or may not happen, depending on something)s are n(fLiu, y) = 
+ !N (!Lifl, u) and n(uifL, y) 
+ ! 1G(uiv, s 2 ), s 2 
+ (y- LN!L)'(y- LN!L)/v, which we get from the 
+ combined distribution simply by viewing it only as a function of a single unknown amount and then identifying 
+ that the resulting form is well known. The Gibbs sampler operates by repeating/looping (one after the other) between these 
+ two (may or may not happen, depending on something) distributions drawing, in turn, an 
+ inverse-gamma random (number or thing that changes) and a (usual/ commonly and regular/ healthy) random 
+ (number or thing that changes). For S (good or well enough) large, and a starting value 
+ 
+ = 
+ 
+ = 
+ 
+ Yi 
+ 
+ Moving backward 
+ Yi 
+ 
+ -0.26 
+ -0.36 
+ 0.61 
+ -0.70 
+ -2.38 
+ 0.44 
+ -3.60 
+ -1.79 
+ -1.13 
+ -0.56 
+ 
+ y = -0.97 
+ 
+ In the (usual/ commonly and regular/ healthy)-means set-up, the not important distribution for fL, is at distribution which, in its non-standardised form, is seen as its mean, fl (t&#126;lN)- 1 t&#126;y; its d.f., v=N- 1; and its scale, &amp; 2 = 
+ (y- tNfl)'(y- tNfl)/v. The not important distribution 
+ for u is an inverse-gamma distribution with degrees 
+ of freedom v and scale &amp;2 . The two not important distributions n(fLIY) = fT (&#126;Lifl, v, &amp;2 ) and n(ujy) = 
+ j 1G(ujv, &amp;2 )) offer a complete description of the 
+ unknown amounts and are the target of the exercise. Although these not important distributions are easily 
+ received/got by direct (combination of different things together that work as one unit), we are interested in 
+ describing them through the Gibbs sample, for 
+ which we require the full (may or may not happen, depending on something) distributions. 
+ To get these distributions we need to first establish 
+ the form of the joint (rear end/away from the head) 
+ n(f.l,, uiy) ow-CN+Ilexp { 
+ 
+ Table I 
+ Experimental data 
+ 
+ a= 1.23 
+ 
+ -5.35 
+ 1.93 
+ 10.69 
+ 19.56 
+ 1.11 
+ 10.45 
+ -8.33 
+ -5.46 
+ 6.40 
+ -4.24 
+ 
+ y = 2.68 
+ 
+ a= 8.52 
+ 
+ Xi 
+ 
+ 4.82 
+ -5.17 
+ -11.05 
+ -14.32 
+ -1.44 
+ -10.89 
+ 8.37 
+ -2.77 
+ -3.08 
+ 1.58 
+ 
+ x = -3.39 
+ a= 6.87 
+ 
+ Data in column I created randomly from Eq. (I); data in columns 
+ 2 and 3 created randomly from Eq. (8). 
+ 
+ the Gibbs samples u{(s), s = 1, 2, ... , S} 
+ and /L{(s), s = 1, 2, ... , S}, received/got by the sequence 
+ ul &#126; JIG(ujv,f.J,o), ILl&#126; JN(!Lifl,ul), ... ,us&#126; 
+ JIG(ujv, /Ls-I), /Ls &#126; JN (&#126;Lifl, us) provides correct guesses of (rear end/away from the head) moments and in fact, the 
+ not important distributions themselves. Figs. 1-3 present 
+ results for the Gibbs sampler applied to the (usual/ commonly and regular/ healthy) data in Table 1. The data y are created from 
+ fN (yil - LJO, I w) and create a (rear end/away from the head) mean 
+ fl = -0.97 and sample variance s2 = 1.23. Fig. 1 
+ presents plots of the first 50 cycles in the Gibbs 
+ sample based on the start value f.1, 0 = (t&#126;tN )- 1 t&#126; y 
+ and Figs. 2 and 3 compare the frequencies of draws 
+ received/got from the first 1000 cycles of the sample 
+ with frequencies created by the target pdfs. The 
+ figures illustrate three important points. First, independent of the starting values, the draws copy the 
+ actual draws one expects to get in draws from the 
+ true not important pdfs. Second, few cycles are needed/demanded 
+ before the Gibbs sequence comes together to the true pdfs. 
+ Third, when it is focused that there are only 10 
+ (instances of watching, noticing, or making statements) in the sample, coming together is received/got 
+ under very limited information. 
+ fL = f.1, 0 , 
+ 
+ 2.2. Random walk City-Hastings sampling 
+ When the full (may or may not happen, depending on something) distributions are not available in closed form a more general set of cycle methods must be called for/used. One of thesethe focus in scientific work-is the random walk 
+ 
+ G. Holloway et al. I Farming-based Money flow 27 (2002) 383-402 
+ 
+ 387 
+ 
+ 2 
+ 
+ g 
+ 
+ &#126;.... 
+ 2 
+ 
+ &#126; 
+ ro 0 
+ .... 
+ ro 
+ 
+ mu 
+ 
+ 0.. 
+ 
+ -I 
+ 
+ 20 
+ 
+ 10 
+ 
+ 30 
+ 
+ 40 
+ 
+ 50 
+ 
+ Cycle 
+ Fig. 1. Gibbs sample draws from the (usual/ commonly and regular/ healthy)-means model. Plots of the first 50 draws in the Gibbs sample based on the I 0 (instances of watching, noticing, or making statements) 
+ drawn from N(-1, I) (column I, Table 1) and start value fLo= (L&#126;LN)- 1 L&#126;YÂ· The data go along with/match up to the (usual/ commonly and regular/ healthy)-means model as specified 
+ in Eq. (1). Note that the true limit/guideline values are fL = -1 and a = I. 
+ 
+ Frequency 
+ 
+ 80 
+ 
+ 60 
+ 
+ 40 
+ 
+ 20 
+ 
+ .&#126; 
+ 
+ ... n 
+ 1.5 
+ 
+ 1.69 
+ 
+ 2 
+ 
+ 2.5 
+ 
+ 3 
+ 
+ 3.5 
+ 
+ Sigma 
+ Fig. 2. Comparisons of tested out and true frequencies from the (usual/ commonly and regular/ healthy)-means model. Plots of (like the real thing) frequencies (filled bars) for sigma 
+ from the Gibbs sample against/compared to/or true frequencies (unfilled bars) from the inverse-gamma distribution going along with/matching up to the (usual/ commonly and regular/ healthy)-means 
+ model in Eq. (1). 
+ 
+ G. Holloway et al.l Farming-based Money flow 27 (2002) 383-402 
+ 
+ 388 
+ 
+ F r e que n c y , - - - - - - . - - - - - - - - - - - ; . . . - - - r r - - - - - - r - - - - - - - - r - - - - - - - , 
+ 100 
+ 
+ 80 
+ 
+ 60 
+ 
+ 40 
+ 
+ 20 
+ 
+ _n 
+ 
+ -2 
+ 
+ -0.9 7 
+ 
+ -- 
+ 
+ 0 
+ 
+ Mu 
+ Fig. 3. Comparisons of tested out and true frequencies from the (usual/ commonly and regular/ healthy)-means model. Plots of (like the real thing) frequencies (filled bars) for IL 
+ from the Gibbs sample against/compared to/or true frequencies (unfilled bars) from the JT (tLIJl, v, a) distribution going along with/matching up to the (usual/ commonly and regular/ healthy)-means 
+ model in Eq. (1). 
+ 
+ City-Hastings (RW) computer code. Although its 
+ roots are old (City et al., 1953; Hastings, 1970), 
+ it is hard to locate applications of the way of doing things 
+ in farming-based money flow/money-based studies. The RW computer-related is only 
+ one of many versions of a basic accept-reject procedure which are good to model (related to space or existing in space) dependence. 
+ Space limits prevent reporting results across an 
+ organized row of models that the authors experimented with 
+ in the course of this project; but the RW computer code 
+ proved much superior in terms of execution 
+ time and gave/given correct guesses of system limits/guidelines with no trouble. Like the Gibbs sequence, 
+ the RW sequence creates a Markov chain with desirable coming together properties; but, unlike the Gibbs 
+ sampler only a subset of the proposed draws in the computer code are accepted. This key difference makes 
+ the search for 'efficient' plans to improve the 
+ basic computer code desirable and this goal is an (happening now) 
+ focus in (related to studying numbers) research (see, especially, Raftery 
+ and Lewis, 1992; Robert, 1995; Gilks et al., 1996). 
+ Continuing with note developed (before that/before now), and 
+ the (usual/ commonly and regular/ healthy)-means example, suppose that we wish 
+ to test out a draw from the target density j(t-J,IÂ·), 
+ which is not of a standard form. We get a draw- 
+ 
+ a 'proposal' -from another distribution that, among 
+ other properties, is known (known (combining different things together so they work as one unit) constant) and is easy to sample from, and we accept and 
+ reject the proposals based on a chance rule that 
+ results in the accepted sequence of draws creating a 
+ Markov chain that, eventually, comes together to the target 
+ distribution. Use m to represent the proposal value and 
+ use.f(mlÂ·) to represent the proposal density. In general, 
+ the proposal density can be (may or may not happen, depending on something) on a prior 
+ draw for the limit/guideline of interest and because of this, let us 
+ use .f (mlt-J,) to represent the conditioning. The defining 
+ feature of the RW computer code is that the current draw 
+ for the limit/guideline, m, depends on the previous draw, f.J,, 
+ through a random walk. In other words, the proposal 
+ and current values are related through the condition 
+ (7) 
+ 
+ where 
+ 
+ 8 
+ 
+ is a random (disturbing or causing a small change in something) with distribution 
+ 
+ fp(8) that is independent of f.J, (and therefore, m). 
+ It follows from Eq. (7) that the proposal distribution 
+ 
+ has the form JP(m- t-J,) and we think about/believe a second 
+ experiment. 
+ Suppose that the distribution for 8 is the standard (usual/ commonly and regular/ healthy) distribution fp(8) = fN (810, 1). The 
+ 
+ G. Holloway et a!. I Farming-based Money flow 27 (2002) 383-402 
+ 
+ distribution form is JN (mlf-L, 1) and we go ahead by 
+ (one after the other) drawing from the (usual/ commonly and regular/ healthy) distribution 
+ with mean the current draw 1-L and variance one. Then, 
+ the following steps test out draws from the target distributions of interest (Robert and Casella, 1999). Step 
+ 1: create a starting value 1-L = f-L 1 - Step 2: create 
+ m &#126; jP(mif-L). Step 3: create L{ &#126; j 0 (MI0, 1). 
+ Step 4: if L{ :S f(m)jf(M) set f-L = m. Step 5: return 
+ to step 2. 
+ Fig. 4 presents plots of the first 50 cycles of the 
+ Gibbs sequence with the draw for 1-L tested out by the 
+ RW step. The draws are almost the same as the draws 
+ from the Gibbs sample and they copy the values of 
+ the actual limit/guideline values used to create the data. 
+ Figs. 5 and 6 present plots of the histograms created 
+ by the first 1000 draws. The (like the real thing) densities are 
+ quite close to the actual target densities. In summary, 
+ the RW computer code provides a (able to do many different things well) other choice to the 
+ Gibbs sampler to test out draws from the two target 
+ distributions. 
+ The methods applied in this section are the building blocks of almost all the versions of the Gibbs 
+ 
+ 2 
+ 
+ sigma 
+ 
+ 0 
+ 
+ rnu 
+ 
+ 389 
+ 
+ sampler and the City-Hastings computer code that 
+ appear in the books. Together, these steps provide an very powerful tool kit from which the 
+ investigator can launch more fancy (or smart) analyses. 
+ Now/recently, Bayesian research is not held back by 
+ the need to provide number-based guesses to hard  important calculations by area methods such as 
+ Simpson's rule. Freed from the restrictions that these 
+ integrations have in past bound (acts of asking questions and trying to find the truth about something), we are 
+ now in a position to extend the (usual/ commonly and regular/ healthy)-means (solid basic structure on which bigger things can be built) to the target setting of (related to space or existing in space) probit guess. 
+ A moving around/misleading and tricking that aids this link and is important 
+ in later developments is to write x 
+ lN and 
+ f3 
+ L{ in the data-creating model in (3) and recall the definitions of the means and variances in the 
+ original model, namely fl 
+ (x' x) -I x' y 
+ &#126; and 
+ s2 
+ (y- xf3)'(y- xJ{)jv, with x, anN x K matrix of (instances of watching, noticing, or making statements) on a set or (connected/related) covariates and 
+ hence, f3 represents a K-vector and v N- K. So, the 
+ (usual/ commonly and regular/ healthy)-linear moving backward model has also been correctly tested out through the Gibbs and random walk 
+ City-Hastings computer codes. 
+ 
+ = 
+ 
+ = 
+ 
+ = 
+ 
+ = 
+ 
+ = 
+ 
+ = 
+ 
+ &#126; 
+ 
+ &#126; 
+ 1-&amp;lt; 
+ 
+ (British pounds) 
+ 
+ Â§ 
+ C&amp;lt;:! 
+ 
+ 1-&amp;lt; 
+ 
+ C&amp;lt;:! 
+ 
+ 0., 
+ 
+ -1 
+ 
+ 10 
+ 
+ 20 
+ 
+ 30 
+ 
+ 40 
+ 
+ 50 
+ 
+ Cycle 
+ Fig. 4. Random walk City draws from the (usual/ commonly and regular/ healthy)-means model. Plots of the first 50 draws in the Gibbs sample based on the 10 
+ (instances of watching, noticing, or making statements) drawn from N(-1, 1) (column 1, Table 1) and start value fLo= (t',tN)- 1t',y. The data go along with/match up to the (usual/ commonly and regular/ healthy)-means 
+ model as specified in Eq. (1). Note that the true limit/guideline values are fL = -1 and a= 1 and that the patterns of the two series look like 
+ closely those of the Gibbs draws in Fig. 1. 
+ 
+ 390 
+ 
+ G. Holloway et al. I Farming-based Money flow 27 (2002) 383-402 
+ 
+ Frequencyr&mdash;-.&mdash;--..-.&mdash;.&mdash;--.&mdash;&mdash;--_..&mdash;&mdash;--_..&mdash;&mdash;--_..&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;-_., 
+ 
+ 100 
+ 
+ 80 
+ 
+ 60 
+ 
+ - 
+ 
+ 40 
+ 
+ 20 
+ 
+ ll 
+ I .51 .6 9 
+ 
+ 2 
+ 
+ 2.5 
+ 
+ 3.5 
+ 
+ 3 
+ 
+ Sigma 
+ Fig. 5. Comparisons of tested out and true frequencies from the random walk City draws from the (usual/ commonly and regular/ healthy)-means model. Plots of 
+ (like the real thing) frequencies (filled bars) for sigma from the Gibbs sample using a random walk City step against/compared to/or true frequencies (unfilled 
+ bars) from the inverse-gamma distribution. Note that the two distributions are almost identical. 
+ 
+ Frequency 
+ 
+ 180 
+ 160 
+ 140 
+ 
+ 120 
+ 100 
+ 80 
+ 60 
+ 40 
+ 20 
+ 
+ -4 
+ 
+ -3 
+ 
+ -1 
+ 
+ -2 
+ 
+ 0 
+ 
+ 2 
+ 
+ Mu 
+ Fig. 6. Comparisons of tested out and true frequencies from the (usual/ commonly and regular/ healthy)-means model. Plots of (like the real thing) frequencies (filled bars) for f.L 
+ from the Gibbs sample using a random walk City step against/compared to/or true frequencies (unfilled bars) from tbe fT (JL[JL, v, a) distribution. 
+ The two distributions are almost identical. 
+ 
+ G. Holloway et al./ Farming-based Money flow 27 (2002) 383-402 
+ 
+ 3. (related to space or existing in space) models 
+ The previous section based on the (usual/ commonly and regular/ healthy)-means 
+ ((usual/ commonly and regular/ healthy)-linear moving backward) model serves to illustrate 
+ the powerful way in which the different computer codes 
+ serve as other choices to ordinary approaches (direct (combination of different things together that work as one unit) in the case of (usual/ commonly and regular/ healthy) data) to get 
+ guesses with respect to a target not important distribution. But the (usual/ commonly and regular/ healthy) data (surrounding conditions) is, of course, 
+ overly-simple and the results of the (acts of showing or proving), especially the (quality of being very close to the truth or true number) of the received/made from distributions, can 
+ be questioned. Such (doubting a lot of things) is, we show, not deserved because the two (related to space or existing in space) models of interest-the 
+ (related to space or existing in space) autoregressive (SAR) model and the SARP 
+ model-are but simple extensions of the (usual/ commonly and regular/ healthy)-linear 
+ (solid basic structure on which bigger things can be built). 
+ A principal source of information for learning about 
+ these models in the Bayesian (surrounding conditions) are the papers (LeSage, 1997, 2000, 2002) and much of what 
+ we present in this section is a 'resampling' of some of 
+ this work, together with a few personal communications about different sampling issues. We now continue 
+ a step-by-step development of the extensions from the 
+ (usual/ commonly and regular/ healthy) moving backward model that are needed in (related to space or existing in space) guessing. Unlike that model, (related to space or existing in space) problems create 
+ distributions for which the not important pdfs are not available in closed form and require application of MCMC 
+ methods. In this case, measures of (quality of being very close to the truth or true number) are now 
+ no longer available for all of the limits/guidelines in question. Anyway, it is possible with what we have 
+ established so far to give a (experience-based thinking) indication of what 
+ a correctly used computer code should produce. 
+ Before presenting results from (like the real thing) probit 
+ data, we think about/believe the standard (related to space or existing in space) (solid basic structure on which bigger things can be built), 
+ where the (thing that changes (like a test score) because of something else that you control (like study time)) is a known continuous 
+ measure of watched/followed data. The development is almost the same 
+ to that of Anselin, 2002 (this issue). We are concerned 
+ with the model 
+ y 
+ 
+ = 
+ 
+ pwy 
+ 
+ +xP +e 
+ 
+ (8) 
+ 
+ = 
+ 
+ where Y(Nxl) 
+ (yl,y2, ... ,yN)' represents (instances of watching, noticing, or making statements) on a (thing that changes (like a test score) because of something else that you control (like study time)) of interest across (related to space or existing in space)ly delimited units, i = 1, 2, ... , N; P(lxl) represents 
+ relationship between units; W(NxN) represents a (related to space or existing in space)weight matrix, defined in more detail, (after that);x(NxK) 
+ 
+ = 
+ 
+ (X1,X2, ... ,XK),XI(Nxl) 
+ 
+ X21, ... , XN1) 1 , X2(Nxl) 
+ x K(Nx I) 
+ 
+ = 
+ 
+ = 
+ 
+ = (xll, 
+ 
+ (XJ2, X22, ... , XN2) 1 , 
+ 
+ (XIK, X2K, ... , XNK)' 
+ 
+ &mdash;_: , 
+ 
+ represents observa- 
+ 
+ 391 
+ 
+ tions on the covariates; P(K xI) 
+ (fh, fh ... , fh )' 
+ represents the ceteris paribus relationship between x 
+ andy; and (Euro)(Nxl) 
+ ((British pounds)1,(British pounds)2, ... ,(British pounds)N)' represents random error, which, we assume, is distributed (usually/ in a common and regular way) 
+ with mean zero and covariance a 2 IN; in other words, 
+ e &#126; fN (eiON, a 2IN), where ON is the length-N null 
+ vector and IN is the dimension-N identity matrix. 
+ The econometrician watches/states x, w and y and makes 
+ guesses about p, p and a. 
+ Eq. (8) is the data-creating equation for the SAR 
+ model. The SAR model is one of two ordinary 
+ (detailed descriptions of exactly what is required) discussed in the books. The other 
+ model allows for relationships among errors across the 
+ (related to space or existing in space) units. Our main interest in the scientific part 
+ of this paper concerns relationship across the (things that change (like test scores) because of other things that you control (like study times)) (not the errors) and so, for this reason 
+ and the interests of space, we focus on the SAR creation. Developments for both models are present 
+ neatly in LeSage (2000), Eqs. (1)-(7). The scientific 
+ application to follow (gives a reason to do something) the (related to space or existing in space) relationship-related 
+ limit/guideline, p, and the important (related to space or existing in space)-weight matrix, 
+ w. Suppose that our interest lies in guessing the 
+ relationship across crop yields in touching settings 
+ (a situation only (a) little different from our scientific application) and suppose that, maybe for policy 
+ purposes, we are interested in guessing the extent to 
+ which yields in connected areas are related; areas 
+ with high yields, probably, connected with touching high-cooperating with/producing/giving up areas, and so on. In this setting 
+ w represents an assignment of ones and zeros going along with/matching up to touching areas, such that, Wij = 1 if (instances of watching, noticing, or making statements) i andj are in the same 'location' and Wij = 
+ 0, otherwise, i, j = 1, 2, ... , N, i =I= j. We assume 
+ that the relationship between an (instance of watching, noticing, or making a statement) unit and 
+ itself is zero and because of this, that wu = 0, i = 1, 2, ... , N. 
+ In most practical uses of this model it is usual/usually done to (usual/ commonly and regular/ healthy)ise each row of w such that each of 
+ the Ni ( &amp;lt;N) touching units affecting (instance of watching, noticing, or making a statement) i 
+ has one Nith (thing that's given/work that's done) to the total hit/effect on i; but 
+ this (usual/ commonly and regular/ healthy)isation is not necessary. The condition p =I= 
+ 0 hints relationship within locations and forces endogeneity (qua (happening at the same time)) between the crop yields; 
+ and the condition p = 0 hints that there is no relationship and forces the model to collapse to the standard 
+ multivariate model, which can be handled without the 
+ need to Gibbs sample (Zellner, 1996). The comparison 
+ in the non-(related to space or existing in space) big picture  is simply the difference between a (happening together)-equations set-up and its reduced 
+ 
+ = 
+ 
+ 392 
+ 
+ G. Holloway et al. I Farming-based Money flow 27 (2002) 383-402 
+ 
+ form and the presence of non-zero p is the defining 
+ honor/difference, in fact the reason for existence for the MCMC 
+ approach. But more exactly, it is the combination of 
+ the combined hits/effects of w and p that lead to endogeneity, and whereas p represents an unseen limit/guideline with an connected chance distribution that 
+ must be guessed, w represents given data. It is useful to 
+ note in passing that it would be desirable to guess 
+ the elements of w but that the most useful limit/guidelineisations lead to identification problems. We suspect 
+ that the development of more strong (detailed descriptions of exactly what is required) of 
+ w is, maybe, the most productive avenue for advances in 
+ (related to space or existing in space) methods, at least where adoption issues are the 
+ focus. Finally, this statement assumes deeper meaning 
+ when it is recognised that (at least, in experimental 
+ settings) the choices of w and p are not independent. 
+ In fact, as Anselin (1988) shows any draw for p in a 
+ City-Hastings big plan/layout/dishonest plan must make happy 
+ 
+ fix two of these constant when developing the Gibbs 
+ plan for guess. First, in getting/taking the (may or may not happen, depending on something) distribution for u, we treat 3{ and p as known 
+ constants. Given 3{ and p, (careful examination of something) of (10) and comparison with (Zellner, 1996 (a.37)) shows/tells about that the 
+ (rear end/away from the head) for u has the form 
+ 
+ (9) 
+ 
+ &#126; =- (x'x)- 1x'z and Vt =- u 2 (x'x)- 1 . So, the full 
+ (may or may not happen, depending on something) distribution for 3{ is multivariate (usual/ commonly and regular/ healthy) 
+ with mean &#126; and covariance matrix V fl. Finally, with 
+ u and 3{ assumed fixed, we watch/notice that the form of 
+ the (rear end/away from the head) for p is exactly the form of the joint 
+ (rear end/away from the head) (10). That is, n:(plu, 3{, y) ex .n:(@ly) and 
+ no further simplification is possible. Due to the appearance of the (thing that decides something) resulting from the Jacobian change, this density does not have a 
+ well-known form and because of this, we are in the situation 
+ (gave a reason to do something) (before that/before now) of needing/ordering the use of a 
+ City-Hastings step to test out draws for p. 
+ As we organized and listed above in the case of the RW computer code, we will need a proposal density from which to 
+ create draws. The (usual/ commonly and regular/ healthy) distribution is a natural 
+ choice in each of the three cases because, 
+ net of the Jacobian term, IAI, the fully (may or may not happen, depending on something) density for p is (usual/ commonly and regular/ healthy) with known mean and variance. 
+ More exactly, by completing the square in p it is 
+ possible to write for p 
+ 
+ where f!. is the inverse of the minimum eigenvalue of 
+ w and p is the inverse of the maximum eigenvalue. 
+ With reference to (8), in the case p = 0, we have 
+ the (usual/ commonly and regular/ healthy)-linear model and all of the previous results go through, with the re-thinking and re-doing that K = 1 
+ and f.L(lxl) = f3(Kxl) and X(NxK) = L(Nxl)Â· As a result, the extension to think about  (related to space or existing in space) effects rests 
+ importantly on the distribution for p. We will follow 
+ the practice organized and listed above and use a non-interesting 
+ prior pdf for the unknowns EJ=-(p, 3{, u)', form the 
+ chance for the unknowns (may or may not happen, depending on something) on the data, 
+ y; and study the form of the resulting (rear end/away from the head) as a 
+ starting point to formal analysis. The (rear end/away from the head) is 
+ n:(EJ IY) ex IAiu-&amp;lt;N+l) exp { 
+ 
+ 2&#126; 2 (Ay-x3{)' (Ay-x3{)} 
+ (10) 
+ 
+ where A(NxN) =- IN - pw rises from the Jacobian 
+ of the change between y and (British pounds). It is important for later developments to recognise that the matrix A contains the unknown limit/guideline p and that, 
+ when p = 0, A = IN and the model reduces to 
+ the (usual/ commonly and regular/ healthy)-linear moving backward model. However, even for 
+ non-zero relationship, the combined (rear end/away from the head) for e is very 
+ almost the same as  the (rear end/away from the head) for the (usual/ commonly and regular/ healthy)-means model 
+ and so, many of those same ideas win. Because 
+ there are now three parts/pieces of interest, we must 
+ 
+ .n:(ulf3, p, y) ex 
+ 
+ iÂ°Culv, s2 ) 
+ 
+ (11) 
+ 
+ = 
+ 
+ an inverse-gamma distribution with v = N and s 2 
+ (Ay- x3{)'(Ay- x3{)jv. Because of this, the dependence of 
+ u on 3{, p and y is through s 2 . Second, holding u 
+ and p constant, the (rear end/away from the head) is in an identical form to 
+ the multivariate moving backward model with the dependent 
+ (number or thing that changes) redefined to be Z(Nxl) = Yes. As a result, 
+ all of Zellner's results (Zellner, 1996, pp. 65-66) go 
+ through with this re-thinking and re-doing and we find that the 
+ (may or may not happen, depending on something) distribution for 3{, has the form 
+ n:(f31p, u, y) ex fN (31&amp;#126{;, V fi) 
+ 
+ .n:(plu, 3{, y) ex 
+ 
+ (12) 
+ 
+ lA I 
+ 
+ A/ (wy) f (wy)(p- p) 
+ A} 
+ x exp { 2u1 2 (p- p) 
+ 
+ p =- 
+ 
+ (13) 
+ 
+ ((wy)'(wy))- 1 (wy)'(y- x3{). Because of this, 
+ n:(plu,3{,y) ex IAifN(ul/3, V,a), where V,a 
+ u2 
+ ( (wy )' ( wy)) -l. The fact that the full (may or may not happen, depending on something) dis- 
+ 
+ where 
+ 
+ =- 
+ 
+ tribution for p contains a (usual/ commonly and regular/ healthy) part makes it 
+ 
+ G. Holloway et al./ Farming-based Money flow 27 (2002) 383-402 
+ 
+ (reasonable/showing good judgment) to choose as the proposal distribution a (usual/ commonly and regular/ healthy) density. And this is what we do in the (act of showing or proving) that follows. 
+ In the experiment we use the data in Table 1 (column 
+ 2), which are (like the real thing) from the model (8) with e = 
+ (p, 3{, 0") 1 = (-0.75, -1.0, 1.0)' and (column 3) x &#126; 
+ fN (xiON, 10/ N). In each of the three cases we sample (one after the other) with the insertion of an added step 
+ to test out the draw for p, the (may or may not happen, depending on something) pdf of which 
+ is not available in known form. We use r to represent the 
+ candidate draws from the proposal density and use p to 
+ represent an accepted draw. Some experiments suggested 
+ that an acceptance rate of around 50% produced stable 
+ guesses in a good manner and we endogenised the 
+ step size of the RW computer code by allowing the standard moving away in the random walk error, &#126;, to increase 
+ ((match up each pair of items in order), decrease) by a scale factor 1.1 whenever 
+ the acceptance rate went beyond the upper bound from 
+ below (went beyond the lower bound from above) in a 
+ band set at acceptance rate limits of 40 and 60%. 
+ Fig. 7 plots the first 100 draws in the Gibbs sequence 
+ with the RW step inserted. The sequence was quick to 
+ come together and produced draws for each of the three limits/guidelines that are close to the given values used to gen- 
+ 
+ 393 
+ 
+ erate the data, namely (p, 3{, 0") 1 
+ (-0.75, -1, 1). 
+ The sample was gotten in less than a minute of real 
+ time. Fig. 8 presents plots of the histograms for p created from the experiment. The distribution is centred 
+ close to the given limit/guideline value ( -0.75) and is about (usual/ commonly and regular/ healthy). Experiments with different start 
+ values created almost identical distributions and 
+ we decide that the RW-Gibbs sequence produces 
+ strong guesses of the SAR model limits/guidelines. 
+ 3.1. Random walk City sampling the 
+ Bayesian (related to space or existing in space) probit 
+ Our final (act of showing or proving) is the (solid basic structure on which bigger things can be built) we apply 
+ to the scientific model introduced in the next section. 
+ Having gave/given a (experience-based thinking) reason for the methods in the big picture  of continuous sample data, y, we 
+ think about/believe the use of the RW computer code to the 
+ (related to space or existing in space) probit model. With reference to (8), we are now 
+ concerned with the model 
+ 
+ z = pwz +xP + e 
+ 
+ (14) 
+ 
+ and we watch/notice y; = 1 if Z; &amp;gt; 0 and y; = 0, otherwise. 
+ Hence, the parts/pieces of z 
+ (z 1, Z2, ... , ZN )' as 
+ 
+ = 
+ 
+ 8 
+ 
+ 7 
+ 
+ 6 
+ 
+ 0 
+ -1 
+ 
+ . 
+ 
+ ..;Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·Â·-Â·Â·Â·Â·Â·Â· 
+ --: " - - - - - - - - - - - - - - .... - - - - - - - - - - - .......- -- 
+ 10 
+ 
+ 20 
+ 
+ 30 
+ 
+ 40 
+ 
+ 50 
+ 
+ Cycle 
+ Fig. 7. Random walk City draws from the SAR model. Plots of the first 50 draws in the Gibbs sample for the SAR model with a 
+ random walk City step for a (solid line), p (dotted line) and f3 (dashed line) based on the 10 (instances of watching, noticing, or making statements) Table I (columns 2 and 
+ 3) and start values &#126;-t 0 = (t't)- 1 t'y', p = 0. The true limit/guideline values are a= I, p = -0.75 and f3 =-I. 
+ 
+ G. Holloway et al. I Farming-based Money flow 27 (2002) 383-402 
+ 
+ 394 
+ 
+ Frequency&#126;&mdash;&mdash;&mdash;.&mdash;&mdash;&#126;&#126;&mdash;&mdash;--&#126;&mdash;&mdash;--&#126;&mdash;--. 
+ 
+ 40 
+ 
+ 30 
+ 
+ 20 
+ 
+ 10 
+ 
+ -1 
+ 
+ -0.9 
+ 
+ -0.8 
+ 
+ -0.7 
+ 
+ -0.6 
+ 
+ Value 
+ Fig. 8. Random walk City draws from the SAR model. Plots of (like the real thing) frequencies for p in the SAR (testing out) using a random 
+ walk City step. The true limit/guideline value is p = -0.75. 
+ 
+ = 
+ 
+ against y 
+ (yJ,Y2, ... ,yN)' are hidden/covered up and in 
+ terms of our desire for step-by-step development, we 
+ have introduced one added/more unknown into the 
+ model. As a result, the Gibbs sampling computer code 
+ will require one added/more step for its putting into use 
+ and that step-as one might expect-is to get a 
+ draw for the hidden/covered up endogenous (number or thing that changes), z, from its 
+ fully (may or may not happen, depending on something) distribution. This distribution is received/got by understanding/explaining the (rear end/away from the head) only as a function 
+ of the unknown vector z and by completing the square 
+ in the huge part of the (usual/ commonly and regular/ healthy) kernel. The product is the cut short, multivariate-(usual/ commonly and regular/ healthy) distribution 
+ n(z[p, 
+ 
+ CJ, 
+ 
+ (15) 
+ 
+ fi, y) ex JTN(z[z, Vz) 
+ 
+ z= 
+ 
+ = 
+ 
+ where 
+ (A'A)- 1A'xfi and V.z 
+ CJ 2 (A'A)- 1 and 
+ the cutting off makes happy the conditions stated in the 
+ data-creating model (14). Although this single step 
+ is only a small/short difficulty over the SAR computer code, 
+ drawing from this (may or may not happen, depending on something) distribution can present/cause 
+ problems. This is because a simple acceptance big plan/layout/dishonest plan 
+ within which/by which the hidden/covered up z is accepted if each part makes happy the (state where two things are not the same) restrictions has a very small chance 
+ of acceptance. Except for very small problems, this 
+ method is (math-based) silly/not doable. The approach 
+ 
+ suggested by Geweke (1992) and adopted (before that/before now) 
+ by LeSage (2002) is to use the acceptance big plan/layout/dishonest plan on 
+ the fully (may or may not happen, depending on something) distributions for each of the parts/pieces of the vector z. However, this approach can 
+ still result in an unreasonably large number of rejected 
+ draws. The other choice is to keep/hold the (may or may not happen, depending on something) approach but use (producing a lot with very little waste) one-for-one draws by applying the chance important change (e.g. Mood et al., 
+ 1974). We found that both methods created correct 
+ guesses, but that the chance important change 
+ method was far superior in terms of execution time. 
+ One added/more change to the previous computer code is needed/demanded before putting into use. This (change to make better/related to changing something) is to fix one of the unknown limits/guidelines in order 
+ to identify the other unknowns in the model. This is the 
+ familiar scaling problem arising in ordinary probit 
+ guess because the probit model is valid only up to 
+ a scalar change. The usual practice, which we 
+ adopt here, is to fix the variance at one. Because of this, ( 14) 
+ is used by forcing the restriction CJ = 1. 
+ An experiment uses the second and third columns of 
+ Table 1. Note in column 2 that four of the endogenous 
+ values are positive and six are negative. If we test out 
+ draws assuming that these binary results represent 
+ 
+ G. Holloway et a!. I Farming-based Money flow 27 (2002) 383-402 
+ 
+ 395 
+ 
+ Frequency,_.&mdash;&mdash;_..&mdash;&mdash;or&mdash;&mdash;.&mdash;&mdash;-.&mdash;&mdash;&mdash;&mdash;--_.. 
+ 
+ 50 
+ 
+ 30 
+ 
+ 20 
+ 
+ 10 
+ 
+ -1 
+ 
+ -0.9 
+ 
+ -0.8 
+ 
+ -0.7 
+ 
+ -0.6 
+ 
+ Value 
+ Fig. 9. Random walk City draws from the SARP model. Plots of (like the real thing) frequencies for p in the SARP (testing out) using a 
+ random walk City step. The true limit/guideline value is p = -0.75. 
+ 
+ the watched/followed data we expect to get draws for the 
+ hidden/covered up data that are centred about the endogenous 
+ y values. This mostly, is the case and although 
+ space prohibits reporting the chance distribution 
+ so received/got, the histogram for p is only (a) little different from the distribution received/got from the (related to space or existing in space) 
+ model with (capable of being seen and known), continuous response data. 
+ Fig. 9 compares the draws for the (related to space or existing in space) econometric 
+ model (SAR) and the (related to space or existing in space) probit model (SARP). 
+ The (like the real thing) frequencies from the SARP model are 
+ the unfilled bars and the frequencies tested out by 
+ the SAR model are the filled bars. Both sets of frequencies are created from a Gibbs sample of 1000 
+ accepted draws. The start values for p in the two models are the same and we follow a suggestion in Albert 
+ and Albert and Chibs (1993) using z0 = y as the start 
+ value in the (related to space or existing in space) probit computer code. Experiments 
+ with other start values suggest that the results are independent of this choice. Except for some skewness 
+ in the draws from the probit model, the frequencies 
+ created by the two models are very much alike. 
+ In summary, the Gibbs sampler provides an very powerful way of doing things for testing out from a 
+ 
+ not important distribution that is not available in closed 
+ form. The addition of a City step within the 
+ computer code provides (large/relatively large) (ability to do different things) that helps guess of (related to space or existing in space) econometric and (related to space or existing in space) probit models. The way of doing things is attractive and 
+ when viewed as a set of logical extensions to the 
+ (usual/ commonly and regular/ healthy)-linear model, is mostly rather simple. Its practical putting into use met with few (blocking or stopping things) in a hardware/software (surrounding conditions) that is widely available 
+ to other (people who work to find information). The way of doing things provides correct 
+ guesses of (related to space or existing in space) model limits/guidelines and appears 
+ to be very strong, working well in a limitedinformation (surrounding conditions) (only 10 (instances of watching, noticing, or making statements)). 
+ The success of the way of doing things in the experimental settings raises (large/relatively large) scope for its computer program in 
+ scientific work. Finally, in response to a (connected/related) question 
+ by the Editor, it is worth pointing out that the ways of doing things developed in the section are easily extendible 
+ to cases where the binary decision is begun/tried on 
+ an organized row of possible other choices. This situationthe case of multinomial choice-is easily handled 
+ by testing out instead of independent z; variates for 
+ each binary choice, a vector Zi, of cut short (usual/ commonly and regular/ healthy) 
+ 
+ 396 
+ 
+ G. Holloway et al.! Farming-based Money flow 27 (2002) 383--402 
+ 
+ moves away of dimension equal to the number of options 
+ arguing with the decision-makers. Hence, a possibly 
+ richer class of investigative models is available from 
+ a silly/easy extension of the basic computer code. 
+ 
+ 4. Scientific application 
+ Application of the SAR probit model, Eq. (14) to 
+ neighbourhood effects in high-cooperating with/producing/giving up variety (HYV) 
+ rice adoption changes from previous work by Case 
+ (1992). Readers are referred to that source for further 
+ details and (desire to do something/reason for doing something). Briefly, a farmer's expected 
+ (money made/good thing received) from adopting an HYV plant, in place of a local 
+ variety (LV) depends upon a set of price (numbers that change/things that change) (input and output prices), a set of fixed factors (say, farm 
+ valuable things, land holding), a set of (related to how much money and power people have) (features/ qualities/ traits) (for example, education, wealth), and neighbourhood influences (expected (money made/good things received) to neighbours 
+ from adoption). The first three sets of (features/ qualities/ traits) 
+ are, of course, standard fare in adoption models. They 
+ are accounted for by the matrix X(NxK) in Eq. (14). 
+ The fourth effect is, of course, modelled through the 
+ combination of the (related to space or existing in space) weight matrix W(NxN) and 
+ the (related to space or existing in space) relationship-related limit/guideline p. In Case's computer program to sickle-harvester adoption in Java, the term 
+ 'neighbours' refers to all other farmers in the same 
+ district. All neighbours are weighted equally, and the 
+ neighbourhood effects for each farmer are (usual/ commonly and regular/ healthy)ised 
+ to 1. In other words, the row restriction LJWiJ= 1 
+ is forced column wise on the rows. In the words/word choices of Anselin (2002), this (detailed description of exactly what is required) is a form 
+ of (related to certain things being ranked above or below other things) (usual/ commonly and regular/ healthy)-linear model, where the 'common higher-order level' is a district. We apply almost the same 
+ (understandings/ explanations) in this scientific application, with the 
+ higher-order level represented by villages. 
+ In the Bangladeshi big picture, rice is the staple for the 
+ majority of people/of the group, and the mostly 
+ land-related (process of people making, selling, and buying things) revolves around the production of 
+ rice in three seasons (Eunus, 2001). Food security continues to be a most important concern, with the population expanding by 2.2 million a year. The Bangladesh 
+ Rice Research Institute has released dozens of varieties of HYV s over the years, and these modern varieties are known to enable (in a big way) better yields 
+ than local varieties. In spite of such varietal development and progress in crop-watering/rinsing with water provision, Bangladesh 
+ has one of the lowest HYV adoption rates in Asia 
+ 
+ (Azam, 1996). The adoption issue is this way a critical one 
+ for Bangladesh. 
+ A books does exist on HYV adoption in 
+ Bangladesh, mostly employing OLS or probit (moving backwards) of adoption on (numbers that change/things that change) such as farm size and 
+ farmer education (see, for example, Kashem, 1987; 
+ Horseain, 1989; Ahmed and Horseain, 1990; Alauddin 
+ and Tisdell, 1991). However, as in the wider technology adoption books, these Bangladeshi studies 
+ have not thought about/believed the role played by the adoption 
+ attitudes of 'neighbours' in influencing the adoption 
+ decisions of individual farmers. As Case (1992) has 
+ argued, ignoring neighbourhood influences not only 
+ biases the guessed limits/guidelines in standard adoption 
+ models, but also sacrifices important policy-(connected/related) 
+ information. For example, a key way of thinking/basic truth/rule in (away from cities) 
+ extension activity in many developing countries is to 
+ spread around information to a (enough of something to allow something big to happen) of farmers such that positive externalities in the form of 
+ 'secondary' or 'copy' adoption in the place carry 
+ forward the speed and power created by the first investment. The size of this externality makes up/is equal to important data for policymakers operating under limited 
+ budgets and wishing to (make as big as possible) returns to extension 
+ investment. 
+ There is some good  (event(s) or object(s) that prove something) that a village-level 
+ cooperation exists in technology adoption in Bangladesh. 
+ One example of this is the experience of INTERFISH, 
+ a large agriculture/aquaculture extension project designed to (help increase/show in a good way) the spread of rice-fish cropping 
+ systems in (away from cities) Bangladesh. An external team looking at (again) the (challenging things accomplished or completed) of the project found that 
+ 'copy farmers' (secondary adopters) was full of the 
+ areas where the project was based (Best et al., 1998). 
+ These secondary adopters were seen to commit increasing amounts of land to the new technology following positive adoption decisions by neighbouring 
+ farmers. The review team guessed that the (related to space or existing in space) 
+ reach via secondary adoption could be a radius of 2 to 
+ 3 km and on this basis, suggested that future project 
+ activities should allow (good) enough space between 
+ places/locations in order to (make as big as possible) returns to the project's 
+ investment. 
+ Our scientific application applies the (related to space or existing in space) lag 
+ model to thin sliceal, first (or most important) data for the Aman 
+ (bad rainstorm rice) crop of 1996 in Bangladesh. The data 
+ were collected in an intensive farm-survey coordinated 
+ by one of the authors. Multistage random sampling 
+ 
+ G. Holloway et al./Agricultural Money flow 27 (2002) 383-402 
+ 
+ 397 
+ 
+ Table 2 
+ Summary statistics by adoption status 
+ (number or thing that changes) 
+ 
+ Non-adopters 
+ mean 
+ 
+ Non-adopters standard 
+ development 
+ 
+ Adopters 
+ mean 
+ 
+ Adopters standard 
+ development 
+ 
+ NGO 
+ Valuable thing 
+ Education 
+ Experience 
+ Family size 
+ Farm size 
+ Rented land 
+ Market 
+ Rice mill 
+ Extension 
+ 
+ 0.26 
+ 4620 
+ 5.29 
+ 23.13 
+ 6.28 
+ 0.67 
+ 0.09 
+ 3.77 
+ 6.42 
+ 10.08 
+ 
+ 0.44 
+ 10,058 
+ 4.58 
+ 13.84 
+ 2.54 
+ 0.69 
+ 0.18 
+ 2.56 
+ 4.97 
+ 5.47 
+ 
+ 0.22 
+ 4762 
+ 3.26 
+ 25.87 
+ 5.84 
+ 0.65 
+ 0.19 
+ 2.78 
+ 8.74 
+ 12.94 
+ 
+ 0.42 
+ 14,285 
+ 4.26 
+ 15.23 
+ 2.43 
+ 0.55 
+ 0.29 
+ 1.49 
+ 5.29 
+ 5.04 
+ 
+ Source: survey of Bangladeshi people who responded, by S. Rahman, 1995. 
+ 
+ ways of doing things were used in selecting study locations as 
+ well as the sample people who responded. In our application it is 
+ assumed that the (point of view/way of behaving) towards HYV adoption for 
+ farmer i depends not only on its own internal (features/ qualities/ traits), but also on the influence of other farmers 
+ in the village. The effects of farmers in surrounding 
+ villages is, this way, assumed to be very small. 
+ The survey, done in 1996, had strict restrictions 
+ on budgets and personnel, and unfortunately, was not 
+ designed with (related to space or existing in space) guess in mind. So, surveys were carried out in groups of villages in each of 
+ the three districts. The three groups had 6-8 villages, 
+ (match up each pair of items in order), making 21 villages in total in our sample. The districts (groups) themselves are hundreds 
+ of kilometres apart from each other, and therefore can 
+ safely be thought about/believed not to be in each other's neighbourhoods. Within each group, individual villages are 
+ between 2.5 and 8 km apart. While these are not (based on what's seen or what seems obvious) great distances, our experience of Bangladesh 
+ enables us to be (well enough/good enough/in a smart way) comfortable with the 
+ idea (you think is true) that none of the villages are within the 
+ other's 'neighbourhood' (interactions terms between 
+ villages in the w matrix are zero). Land-related activities 
+ in Bangladesh are known to be (in a detailed way) linked with 
+ the (related to how much money and power people have) patterns of individual villages 
+ (Herbon, 1994). At the same time, villages are usually located around small waterbodies, and the farming is strongly changed to fit the local micro-relief. It 
+ is therefore not surprising to find very different mixes 
+ of crops and modes of production in areas just a few 
+ miles away from each other. Because of these facts, 
+ and given the (related to where mountains, rivers, cities, etc., are located) makeup of our data, we 
+ have put into use the 'village' definition of 'neighbours'. 
+ 
+ The survey collected information on varietal choice; 
+ input and output prices; levels of fixed factors; and 
+ (related to how much money and power people have) (features/ qualities/ traits) of the farm families. 
+ A total of 406 (instances of watching, noticing, or making statements) on local varietal use (76 
+ (instances of watching, noticing, or making statements)) and modem varieties (330 (instances of watching, noticing, or making statements)) 
+ make up/be equal to the sample. The (numbers that change/things that change) included in the model are the following: 
+ - District: dummy (number or thing that changes) representing the district 
+ in which the farm is located; 
+ - NGO: dummy (number or thing that changes) pointing to/showing whether the 
+ household received help from NGOs; 
+ - Valuable things: value of farm valuable things in thousands of Taka; 
+ - Education: number of years of education for household head; 
+ - Experience: years of farming experience for household head; 
+ - Household size: number of people in household; 
+ - Farm size: total size of holding in hectares; 
+ - Rented hectares: hectares of land rented in hectares; 
+ - Market: distance from the nearest market ('growth 
+ centre'), in km; 
+ -<p><strong>NOTE: This document is incomplete. It was shortened to the maximum document length of 50,000 characters.</strong></p><div style="clear:both">&nbsp;</div>

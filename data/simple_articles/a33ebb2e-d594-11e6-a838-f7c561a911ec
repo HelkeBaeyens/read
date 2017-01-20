@@ -1,0 +1,987 @@
+AGRICULTURAL 
+ ECONOMICS 
+ 
+ ELSEVIER 
+ 
+ Farming-based Money flow 26 (2001) 149-172 
+ www.elsevier.com/locate/agecon 
+ 
+ Worldwide  models applied to farming-based and trade policies: 
+ a review and test 
+ Honest  van Tongeren a, Hans van Meijl a, Yves Surry b, * 
+ b 
+ 
+ a Farming-based Money flow Research Institue (LEI), P.O. Box 29703, 2502 LS The Hague, The Netherlands 
+ Institut National de Ia Interesting Agronomique (INRA}, Unite d'Economie et de Sociologie (away from cities)es de Rennes, 
+ Regret  Adolphe Bobierre, CS61 103, 35011 Rennes Give upx, France 
+ 
+ Received 2 February 2000; received in changed form 12 July 2000; accepted 21 August 2000 
+ 
+ Abstract 
+ The continuing process of worldwide  (combination of different things together that work as one unit) bears effects/results/suggestions for farmers and related supplying and processing businesses 
+ in all parts of the world, but also for the rest of the world (process of people making, selling, and buying things). An test of farming-based and trade policy hits/effects is 
+ bound to be complex and is often supported by (numbers-based) modeling analysis. This article provides an test of the present 
+ state of applied modelling in the area of trade and farming-based policies. We provide in this paper a (serving to compare two or more things) test of 
+ other choice modelling approaches, (thinking about/when one thinks about) a total of 16 partial balance and general balance models. The test 
+ includes possible modelling foundations, datasets employed and institutional aspects, such as model maintenance and 
+ spreading around of results. A typology of models is given by structuring the test along a clear set of test 
+ judging requirements.Â© 2001 Elsevier Science B.V. All rights reserved. 
+ Keywords: Worldwide  modelling; Farming; Trade 
+ 
+ 1. Introduction 
+ The 1990s have seen a growing (dependent on each other) of national (processes of people making, selling, and buying things). This worldwide  (popular thing/general way things are going) even 
+ speeded up since the signing of the Uruguay Round 
+ Trade agreement in Marrakech in 1994. Signs of this 
+ increasing globalisation of the world (process of people making, selling, and buying things) take 
+ a few forms. World trade and foreign direct investment (FDI) have grown at a faster speed in the nineties 
+ than in the previous ten years (WTO, 1998). (money-related) 
+ markets are more and more connected on a world 
+ wide scale and any shocks happening in one finan*Corresponding author. Tel.: +33-2-2348-5390; 
+ fax: +33-2-2348-5380. 
+ E-mail addresses: f.w.vantongeren@lei.wag-ur.nl 
+ (F. van Tongeren), surry@roazhon.inra.fr (Y. Surry). 
+ 
+ cial place have results in other places in the world. 
+ Another sign of this world globalisation is the (happening now) 
+ creation of (related to a large area) trade agreements and a combining of existing ones. On the policy side, globalisation 
+ of the world (process of people making, selling, and buying things) led policy makers, governments 
+ and international institutions to tackle worldwide  policy 
+ issues such as worldwide  warming and transboundary (related to surrounding conditions or the health of the Earth) problems and come up with some real 
+ policy proposals. This knowledge among policy makers also show/also obviouss itself in the trade policy area with a 
+ worldwide  agreement to launch a new round of trade policy 
+ (back-and-forth conversations to agree on something) (even though there is the existence of) a bad start at Seattle in November 
+ 1999. 
+ This overall (popular thing/general way things are going) of globalisation of money-based 
+ activity and (at the same time) a worldwide  (direction of pointing/way of thinking/information meeting) of 
+ policy discussions is continuing to represent an huge challenge for money-flow experts. Tests of such 
+ 
+ 0169-5150/011$- see front matterÂ© 2001 Elsevier Science B.V. All rights reserved. 
+ PII: S0169-5150(00)00109-2 
+ 
+ 150 
+ 
+ F. van Tongeren et aLl Farming-based Money flow 26 (2001) 149-172 
+ 
+ things has needed/demanded the development of worldwide 
+ money-based models. Such effort in worldwide  modelling is 
+ now (done or used by many people) and has become an integrated 
+ part of the money-related field. What's more, the development of such models has been helped by the 
+ fast improvement in information and communication 
+ technologies (ICT). Along with the globalisation 
+ of money-based activity and policy making, money flow/money-based studies 
+ research is globalising also. Large scale worldwide 
+ models are more and more supported by international 
+ teams and international groups of important people. 
+ The purpose of this article is to review the present 
+ state of applied modelling used to examine the worldwide 
+ hits/effects of farming-based and trade policies. Although 
+ the extent of/the range of this review is limited by a carefully planned bias 
+ towards farming-based trade issues, we should also not 
+ lose sight that, now/recently, many worldwide  things 
+ go beyond farming-based and trade policy issues, some 
+ of which are (related to surrounding conditions or the health of the Earth) related. This led us to 
+ put into use an open-minded plan in managing and doing this review of worldwide  models. More specifically, we reviewed 
+ not only worldwide  models with an exclusive farming-based 
+ and trade policy focus but also looked at models which 
+ may also be used to test other worldwide  problems such 
+ as worldwide  macroeconomic and (related to surrounding conditions or the health of the Earth) issues. 
+ The continuing process of worldwide  (combination of different things together that work as one unit) bears 
+ effects/results/suggestions, not only, for farmers and related supplying and processing businesses in all parts of the 
+ world, but also for the rest of the world (process of people making, selling, and buying things). 
+ An test of likely policy hits/effects is bound to 
+ be complex and should be supported by (numbers-based) 
+ modeling analysis that clear the relations of countries between each other, and that clear (connected/related) 
+ interactions between the farming-based parts/areas and the 
+ rest of the (process of people making, selling, and buying things). 
+ There is no model which can serve all purposes. 
+ The choice of possible (solid basic structure on which bigger things can be built), the extent of 
+ (related to a large area) and part/areaal opening (a place) to all people and the choice 
+ of datasets and guess methods decide/figure out the 
+ domain of (ability to be used for something) of the model. Potential users 
+ of applied models should be aware of strengths and 
+ weaknesses of other choice approaches. This review 
+ mostly presents true information about (connected/related) 
+ models, and presents this information in a structured 
+ format to highlight common features, differences 
+ and areas of (ability to be used for something) of modelling approaches. In 
+ this way we hope to help the model user in making 
+ his own test. 
+ 
+ Table 1 lists the sixteen models discussed in this 
+ review, their starting bodies (institutions and/or 
+ people) and their current status. A first honor/difference 
+ in Table 1 is that between partial balance models focusing on farming on the one hand, and 
+ (process of people making, selling, and buying things)-wide models on the other hand. These latter 
+ worldwide  models are designed in such a way that they 
+ could address farming-based and trade policy issues but 
+ also other worldwide  problems such as worldwide  macroeconomic and (related to surrounding conditions or the health of the Earth) ones. A large part of these 
+ models are still operational and are now used 
+ for policy- and outlook analysis. For these reasons, 
+ they are in a continuous state of flux of changing 
+ through (one after the other) updates and changes. This situation led us to conduct the model review at a point 
+ of time (early 1999) and provide a snapshot of all 
+ these models as they functioned at the beginning of 
+ 1999. Changes that could have happened to the operational models since this date are not thought about/believed 
+ in this article. Information on the individual models 
+ has been gathered using published papers and journal 
+ articles, unpublished working documents, electronic 
+ www/documents and personal contacts. An building to 
+ this article, which is available on request, provides a 
+ described/explained description of each of the models reviewed. 
+ The needed thing that the model should be (compared to other things) 
+ recent and likely to be used in the 1990s has led us to 
+ leave out/keep out important (things that happened before other things) such as the IIASA Basic 
+ Linked System (Parikh et al., 1988), The GOL model 
+ developed by USDA-ERS (Roningen and Liu, 1983), 
+ OECD's MTM model (Huff and Moreddu, 1990) 
+ and the Tyers-Anderson model (Tyers and Anderson, 
+ 1992). We have also left out/kept out single-valuable thing trade 
+ models and linear (or non-linear) programming models that attempt to describe input-output relationships 
+ for a certain production process in great detail. 
+ Although this review of worldwide  models has an farming-based and trade policy focus, it does not pretend to 
+ be thorough. The authors are well aware that some 
+ worldwide  models have been left out/kept out from this review. 
+ This is especially true in the area of (related to surrounding conditions or the health of the Earth) 
+ modelling and more especially in the area of worldwide 
+ warming where a large and continuous research effort 
+ has happened over the last 10 years. 1 Also, existing 
+ 1 For a full review and (the best design available now) in models of (related to the Earth's weather) 
+ change, see the different chapters of the OECD Workshop on Money-based Modelling of Climate Change (OECD, 1998). 
+ 
+ Table 1 
+ List of models reviewed in this article 
+ Model 
+ Partial models 
+ AGLINK 
+ 
+ ESIM ((related to Europe) (testing out) Model) 
+ 
+ FAO World Model 
+ FAPRI 
+ GAPsi (Gemeinsame AgrarPolitik 
+ (testing out)) 
+ MISS (Modele International Simplifie 
+ de (testing out)) 
+ SWOPSIM (Static World Policy 
+ Simultaion Model) 
+ WATSIM (World Farming-based Trade 
+ (testing out) Model) 
+ (process of people making, selling, and buying things)-wide models 
+ G-Cubed (Worldwide  Computable Genereal 
+ Balance Growth Model) 
+ GTAP (Worldwide  Trade Analysis project) 
+ 
+ GREEN 
+ INFORUM (Inter-industry Forecasting 
+ at the University of Maryland) 
+ MEGABARE/GTEM 
+ Michigan BDS (Brown-Deardorff-Stern) 
+ RUNS ((away from cities)-Urban-North-South) 
+ WTO Housemodel 
+ 
+ Starting bodies (institutions and/or people) 
+ 
+ Key reference 
+ 
+ Current Status 
+ 
+ Organisation for Money-based Co-operation and 
+ Development (OECD) 
+ US Department of Agriculture/Economic Research 
+ Service, USDA/ERS, and University Giittingen, 
+ Germany 
+ Food and Farming Organisation of the United 
+ Nations (FAO) 
+ Food and Farming-based Policy Research Institnte, 
+ Iowa State University 
+ Bundes Forschungsanstalt fur Landwirtschaft 
+ (PAL), Germany 
+ Institut National de Ia Recherce Agronomique 
+ (INRA), France 
+ US Department of Agriculture/Economic Research 
+ Service (USDA/ERS) 
+ University of Bonn, (related to Europe) Commission, 
+ Federal Ministry of Farming, Germany 
+ 
+ See http://www.oecd.org/agr/ 
+ Documents/aglink98.pdf 
+ Tangermann and Josling (1994) 
+ 
+ Used 
+ 
+ FAO (1993) and see 
+ http/:www.fao.org/es/esc 
+ Young et a!. (1999) 
+ 
+ Used 
+ 
+ Frenz and Manegold (1988) 
+ 
+ Used 
+ 
+ Mahe and Tavera (1989) 
+ 
+ Not used 
+ 
+ Roningen (1986) 
+ 
+ Not used 
+ 
+ Henrichsmeyer et a!. (1998) 
+ 
+ Used 
+ 
+ Used 
+ :"11 
+ 
+ Used 
+ 
+ "' 
+ 
+ 1:&amp;gt; 
+ ;:, 
+ 
+ C' 
+ 
+ ;:, 
+ 
+ """'&#126; 
+ ;:, 
+ 
+ &#126; 
+ 
+ ,.... 
+ 
+ 1:&amp;gt; 
+ 
+ ;;: 
+ 
+ ""&#126;- 
+ 
+ E.. 
+ i:' 
+ 
+ &#126; 
+ &#126; 
+ 
+ " 
+ ;; 
+ "&#126;;:, 
+ 
+ McKibbin and Wilcoxen, US (related to surrounding conditions or the health of the Earth) 
+ Protection (service business/government unit/power/functioning) (EPA) 
+ Purdue University, GTAP Center and GTAP 
+ Group of companies 
+ Organisation for Money-based Co-operation and 
+ Development (OECD) 
+ University of Maryland 
+ 
+ Australian Bureau of Farming and Useful thing/valuable supply 
+ Money flow 
+ University of Michigan 
+ Organisation for Money-based Co-operation and 
+ Development (OECD) 
+ The World Trade Organisation (WTO) 
+ 
+ McKibbin and Wilcoxen (1999), and see 
+ http://www.msgpl.com.au/msgpl/msghome.htm 
+ Hertel (1997), and see 
+ http://www.agecon.purdue.edu/gtap/ 
+ Lee et a!. (1994) 
+ 
+ Used 
+ 
+ N 
+ 0\ 
+ 
+ Used 
+ 
+ -;::, 
+ 
+ Used 
+ 
+ .::: 
+ ,_ 
+ 
+ Almon (1991), and see http://www. 
+ inform.umd.edu/EdRes/Topic/Economics/ 
+ EconData/lntpartn.html 
+ ABARE (1996), and see http://www.abare.gov.au/ 
+ 
+ Used 
+ 
+ 'f' 
+ ,_ 
+ 
+ Brown et a!. (1992), and see 
+ http://www.spp.umich.edu/rsie/model 
+ Burniaux and van der Mensbrugghe (1990) 
+ 
+ Used 
+ 
+ Francois et al. (1995), and see http://www. 
+ intereconomics.com/handbook/disk.htm 
+ 
+ &amp;lt;::&amp;gt; 
+ &amp;lt;::&amp;gt; 
+ 
+ ""'- 
+ 
+ ;::] 
+ 
+ Used 
+ 
+ Not used 
+ Used 
+ 
+ v: 
+ 
+ !52 
+ 
+ F. van Tongeren et al./Agricultural Money flow 26 (2001) 149-172 
+ 
+ worldwide  trade models are more and more taking (related to surrounding conditions or the health of the Earth) issues into account. In the same way/the same topic, we do 
+ not intend to review the large body of work dealing 
+ with the (detailed description of exactly what is required) of (related to surrounding conditions or the health of the Earth) models which 
+ is out of the extent of/the range of this review. 2 
+ 
+ 2. Test judging requirements 
+ This section introduces our set of test judging requirements, 
+ which are (after that) used to describe and compare 
+ other choice modelling approaches. The set of judging requirements is 
+ based on the recognition that applied modelling forms 
+ a combination of explanation and scientific data, both of 
+ which deserve due attention in policy (connected/related) modelling. 
+ The general 'filter' for including in something of models in the 
+ current review has been that the model should 
+ - be multi-area and worldwide  in nature; 
+ - have relevance for farm-related, trade and valuable thing from nature based activities; 
+ - be multi-valuable thing; 
+ - have a medium term time frame (around 5 years); 
+ - be an balance model (i.e. not models that project 
+ demand-supply gaps using mostly technical relations); 
+ - be of young age, and likely to be used in some 
+ form in the 1990s; 
+ - be an applied model, (in other words) uses a combination of explanation and scientific data; 
+ - have a strong policy (direction of pointing/way of thinking/information meeting). 
+ 2.1. Idea-based (solid basic structure on which bigger things can be built): definition and scope 
+ 2.1.1. Market balance models against/compared to/or 
+ time series projection models 
+ Although time series projection models have been 
+ left out/kept out from the list, it is useful to tell apart this approach from balance models. Time series projection models attempt to forecast the future on the basis 
+ of prediction of historical data. These models usually put more focus on the (related to studying numbers) behaviour 
+ of time series data than on the money-based possible 
+ supports/supporting details of behavioural equations. A projection 
+ model may, for example, project valuable thing supply 
+ 2 For a recent review of these (related to surrounding conditions or the health of the Earth) models, see Conrad 
+ ( 1999), and Faucheux and Levarlet ( 1999). 
+ 
+ based on (related to scientific farming) data on land and yields without taking into account farmers' responses to changing 
+ market prices. For a discussion of this method and a 
+ large scale application, see Alexandratos (1995). Another well known worldwide  model that relies heavily on 
+ the projections method is found in Rosegrant et al. 
+ (1995). 
+ On the other hand, market balance models contain the response (behaviour) of money-based agents to 
+ changes in prices (costs), and prices (change to make better/change to fit new conditions) to 
+ clear markets. The goal of these models is the desire/decision of balance prices and amounts on (connected) sets of markets. 3 In a fully feathered worldwide 
+ balance model, there will usually be endogenous 
+ prices attached to world markets as well as domestic markets. This class of models is firmly established 
+ within mainstream money flow/money-based studies where the behavioural 
+ response of suppliers and buyers is usually received/made from 
+ from optimising ideas (you think are true): given a description of 
+ the production technology, the supplier chooses a combination of inputs such that costs are (made small) for 
+ a given level of output. Given a description of person preferences, the buyer decides/figures out his preferred 
+ consumption bundle such that his/her utility is (made as big as possible) for a given level of his/her budget. Standard 
+ ideas (you think are true) include constant returns technology, homothetic preferences, and markets seen as 
+ perfect competition. While these basic possible ideas (you think are true) underlie balance modelling, the optimisation process is usually not modelled clearly. 
+ Rather, a reduced form approach is common, where 
+ demand and supply are specified as functions of income, prices and elasticities. 
+ Depending on ideas (you think are true) made about the flexibility of production factors, balance models can 
+ be classified as short term, medium term or long term. 
+ Short term (in the Marshallian sense) means that some 
+ production factors are fixed, and are not allowed to 
+ (give out things in a different way) between other choice uses. The fixed factors 
+ will usually be capital, farming-based land, and maybe farming-based labour. Medium term models allow 
+ 3 This does not deny the existence and relevance of unbalance situations. (lasting for a short time) shortages and excess supply situations 
+ (which may, for example, arise as a result of price or amount rules) can very well be (taken/took control of) in balance models, 
+ for example, by allowing for stockpiling and (everything is gone). The key 
+ point is that these models catch market interactions in a clear 
+ and possibly sound way. 
+ 
+ F. van Tongeren et al. I Farming-based Money flow 26 (2001) 149-172 
+ 
+ for (giving out things in a different way) of all production factors as response 
+ to some (coming from the outside of something) events. Finally, long term models would also model endogenous (transfer of money from individuals to businesses). 
+ Within the group of market balance models, we 
+ can identify partial and (process of people making, selling, and buying things)-wide models. 
+ 2.1.2. Representation of national (processes of people making, selling, and buying things): 
+ partial against/compared to/or (process of people making, selling, and buying things)-wide models 
+ Partial models treat (stores around the world) for a 
+ selected set of traded products (that are bought and sold), e.g. farming-based products (that are bought and sold). 
+ They think about/believe the farming-based system as a closed 
+ system without linkages with the rest of the (process of people making, selling, and buying things). Effects of the rest of the domestic and world 
+ (process of people making, selling, and buying things) on the farming-based system may be included 
+ in a top-down fashion by changing limits/guidelines and 
+ (coming from the outside of something) (numbers that change/things that change). Partial models are in way of thinking/basic truth/rule 
+ able to provide much product detail. See also Meilke 
+ et al. (1996) who give a summary of worldwide  partial 
+ balance models changed to fit farming-based trade. 
+ Partial models may be single- or multi-product. 
+ Multi-product models can take by force/take control of supply and 
+ demand relationships among farming-based products. Most partial models include linear or log-linear 
+ behavioural equations, which allows the representation of supply and demand relationships (responses) 
+ winning/most common in the markets under study. 4 They also includes into their supply and demand relationships 
+ (coming from the outside of something) (numbers that change/things that change) such as technical change, world 
+ population and household income. 
+ Partial models of international trade in farming 
+ generally focus on trade in first (or most important) valuable things. That 
+ is, they take by force/take control of farming-based supply, demand and trade 
+ for unprocessed or first-stage processed farming-based 
+ products without taking into account trade in processed food products, even though the last thing just mentioned 
+ valuable things represent an increasing share of world 
+ trade. 
+ The main area of application of partial balance 
+ models is described/explained trade policy analysis to specific 
+ products, which represent only a small part of/amount of the 
+ activities of the (process of people making, selling, and buying things) in question. This (small part/area) condition hints that policy-caused changes on 
+ 4 Some (single country) partial balance modellers attempt to 
+ overcome the faults/problems that are suggested by linear and log-linear 
+ behavioural equations by guessing flexible functional forms. See, 
+ e.g. Frohberg et a!. (1997). To our knowledge this has not yet 
+ been applied in worldwide  trade models, however. 
+ 
+ 153 
+ 
+ the rest of the (process of people making, selling, and buying things) (outside the farm part/area) are 
+ so small that they can safely be ignored. 
+ On the other hand, (process of people making, selling, and buying things)-wide models provide 
+ a complete representation of national (processes of people making, selling, and buying things), 
+ next to a (detailed description of exactly what is required) of trade relations between 
+ (processes of people making, selling, and buying things). A first step in moving from partial balance to (process of people making, selling, and buying things)-wide modelling is to introduce 
+ supply and demand equations for an group leftover/extra valuable thing. By forcing (happening over and over again in a predictable way) restrictions 
+ on the supply and demand elasticities of the changed 
+ model, one gets a model that includes demand and 
+ supply interactions between farming-based valuable things and other valuable things in a consistent way. A 
+ fuller (process of people making, selling, and buying things)-wide (detailed description of exactly what is required) is received/got when 
+ the model is closed with respect to the generation of 
+ factor income and expenses, which needs/demands the 
+ clear (detailed description of exactly what is required) of factor markets for land, labour 
+ and capital. In other words, the very important general 
+ balance features are (now under different control) by including factor movements between parts/areas, next to allowing for 
+ demand interactions. (process of people making, selling, and buying things)-wide models capture 
+ effects/results/suggestions of international trade for the (process of people making, selling, and buying things) 
+ as a whole, covering the circular flow of income and 
+ expense and taking care of inter-industry relations. 
+ There are three broad classes of (process of people making, selling, and buying things)-wide 
+ models: macro-econometric models, input-output 
+ models and applied general balance (AGE) models. Macro-econometric models do not concern us 
+ here, since they will not zoom in on farming, but 
+ rather are concerned with macro-money-based things such as inflation and exchange rates. Input-output 
+ models provide a complete description of 
+ inter-industry linkages and a full accounting of first (or most important) incomes earned in production activities. 
+ AGE models do also usually contain full inputoutput detail, but on top of that they contain equations 
+ that describe the behavioural response of producers, 
+ people, importers and exporters and possibly other 
+ agents in the (process of people making, selling, and buying things). 5 AGE models are specifically concerned with useful thing/valuable supply portion issues, that 
+ is, where the portion of production factors over 
+ other choice uses is affected by certain policies or (coming from the outside of something) developments. International trade is usually 
+ an area where such caused effects are important 
+ 5 Limits of open Leontief input-output models include fixed 
+ prices, (coming from the outside of something) final demand, perfectly elastic factor supplies, 
+ and an inability to (show or prove) welfare effects. 
+ 
+ 154 
+ 
+ F. van Tongeren et al./Agricultural Money flow 26 (2001) 149-172 
+ 
+ results of policy choices. Needless to say, such 
+ caused effects are not visible in partial models. In the 
+ face of changing international prices, useful things/valuable supplies will 
+ move between other choice uses within the domestic 
+ (process of people making, selling, and buying things), or even between (processes of people making, selling, and buying things) if production 
+ factors are (in other countries) mobile. Only if a complete 
+ description of the multi-part/areaal nature of the (process of people making, selling, and buying things) is given, can such developmental issues be 
+ analysed. 
+ 
+ 2.1.3. (related to a large area) scope 
+ Multi-area models differ with respect to their 
+ (related to a large area) coverage. 6 Worldwide  trade models attempt 
+ a closed accounting of the selected valuable thing 
+ trade flows for the whole world. If the model is 
+ (process of people making, selling, and buying things)-wide, the worldwide  model also includes a 
+ around the world closed income accounting system. At the 
+ other end of the scale, a model might focus on 
+ trade between a selected set of trading partners, 
+ without attempting a around the world closed accounting. 
+ Or it might even single out one group of countries, 
+ such as the EU-15, and describe its trade on world 
+ markets. 
+ A around the world closed information file does not suggest that all 
+ areas or countries distinguished are treated with the 
+ same amount of detail. An (middle-position) position is 
+ often adopted, (in which/during which/in what way/in what) the model's information file is 
+ closed with respect to the world, but only selected 
+ areas are treated with a great amount of detail, and 
+ confining the description of other areas to a smaller 
+ range of (numbers that change/things that change) that are of important importance. 
+ 2.1.4. Linked individual country models or 
+ parametric differences between areas 
+ There are two broad approaches with respect to the 
+ modelling of individual (processes of people making, selling, and buying things) within the worldwide 
+ money-based system. One approach starts by giving a described/explained representation of individual (processes of people making, selling, and buying things), taking 
+ into account much of the institutional and money-based 
+ details of the individual countries, and (after that) 
+ linking individual country models through trade flows, 
+ 6 Obeying the international trade books, 'regional' 
+ has a supra-national meaning in this report, and not an intranational (areas, etc.) one. A 'country' goes along with the 
+ idea of a nation state. Whenever this article refers to areas, we 
+ mean an group of individual countries. (related to a large area) groupings 
+ of countries, therefore, do not necessarily represent a clear 
+ (related to where mountains, rivers, cities, etc., are located) space, for example, a 'Rest of the World' area. 
+ 
+ capital flows and possibly factor ability to move around between 
+ countries. 7 
+ The other route to worldwide  modelling starts by 
+ assuming the same modelling structure for all individual (processes of people making, selling, and buying things), and representing differences 
+ between (processes of people making, selling, and buying things) in terms of data and limits/guidelines 
+ only. This approach produces /gives up a (compared to other things) clear/open and honest 
+ model structure, since there is only one money-based 
+ model. This in turn greatly helps both the data 
+ handling aspects as well as the (understanding/ explanation) of results. In the linked country models approach, the 
+ individual country models may be based on different 
+ possible ideas (you think are true), which may make it hard 
+ to untangle model results into the effects of (coming from the outside of something) events on the one hand and differences in 
+ explanations on the other hand. A disadvantage of the 
+ 'one model fits all' approach is clearly its limited 
+ ability to handle (related to what holds something together and makes it strong) differences between 
+ (processes of people making, selling, and buying things). 8 
+ 2.2. (detailed description of exactly what is required) and modelling issues 
+ 
+ 2.2.1. Pattern of behavior against/compared to/or (serving to compare two or more things) 
+ static (detailed descriptions of exactly what is required) 
+ Pattern of behavior models allow the analysis of fell behind transmissions and (change to make better/related to changing something) processes over time. Or, the (serving to compare two or more things) static approach studies the 
+ differences between equilibria resulting from different 
+ ideas (you think are true) on (coming from the outside of something) data or policy (numbers that change/things that change). 
+ The time path between equilibria is ignored in (serving to compare two or more things) static models. 
+ Pattern of behavior models can be used to trace the collection of stock (numbers that change/things that change), whereas static models 
+ are unable to do this. In (serving to compare two or more things) static models, 
+ policy changes have no effect on the collection of 
+ stocks - e.g. capital stock - and the connected 
+ changes in production possibilities. For short-run 
+ farming-based analysis the effects/results/suggestions of collected 
+ valuable thing stocks may be (connected/related) also. 
+ Pattern of behavior features can be included in balance models in a few ways. The most often 
+ used approach is to specify a recursive sequence of 
+ 7 The United Nations Project LINK (Klein and Su, 1979) is a 
+ well known example of this approach to worldwide  modelling. 
+ 8 An (middle-position) approach has been followed by the GLOBUS 
+ model (Bremer, 1987), which included three perfect model 
+ structures for, (match up each pair of items in order), developed (systems where supply and demand controls prices and production), centrally 
+ planned (processes of people making, selling, and buying things) and developing (processes of people making, selling, and buying things). 
+ 
+ F. van Tongeren et al. I Farming-based Money flow 26 (2001) 149-172 
+ 
+ (lasting for a short time) equilibria. That is, in each time period the 
+ model is solved for an balance, given the (coming from the outside of something) conditions winning/most common for that particular period. 
+ In between periods, stock (numbers that change/things that change) are updated, either (coming from the outside of something)ly (e.g. population) or as a result of the 
+ balance results of the previous/coming before period (e.g. investment demand leading to a changed capital stock in 
+ the next period). Recursive patterns do not (promise that something will definitely happen or that something will definitely work as described) 
+ time-consistent behaviour. In contrast, in intertemporal balance models agents display best 
+ behaviour over time as well as within periods. 
+ Intertemporal models are usually equal to 
+ using clear expectations ideas (you think are true). 9 Such 
+ forward-looking behaviour leads to balance time 
+ paths that move towards a long-run steady state (if 
+ it exists). A main reason to includes such intertemporal features into general balance models is the want to model savings rates endogenously, and because of this to allow the model to create 
+ other choice (endogenous) growth rates. In such models, a policy change can have a lasting effect on 
+ the (process of people making, selling, and buying things)'s growth rate through changes in the 
+ collection of capital stocks. A feature which 
+ is impossible with a fixed savings rate idea (you think is true). 10 
+ (serving to compare two or more things) static models are sometimes used to 
+ create projections of policy hits/effects at some future 
+ point in time. Such projections are not to be confused 
+ with econometric forecasts, but are (accomplished or gained) by building an (not made by nature/fake) future dataset that is consistent 
+ with the model's ideas (you think are true)- a (what people commonly call a/not really a) (a measure of what occurs naturally/sports boundary line) 
+ - and (after that) conducting a policy experiment 
+ on the basis of this projected dataset. The (not made by nature/fake) future dataset is built by making ideas (you think are true) on 
+ the growth of (coming from the outside of something) (numbers that change/things that change) and limits/guidelines and 
+ (after that) letting the model solve for an balance that is agreeing with/matching up with/working regularly with these ideas (you think are true). Typical projections with AGE models depend on (coming from the outside of something) 
+ forecasts of GDP, factor gifts and factor working well. 
+ 9 What's more, by modelling the intertemporal equilibtium behaviour of money-based agents, as well as equilibria within periods, 
+ such models can undo the Lucas (1976) opinion on 
+ money-based models. 
+ 10 If knowledge is included as a production factor that can be 
+ saved, growth rates become endogenous, even with a fixed 
+ savings rate (see endogenous growth books, for example, Grossman and Helpman (1991)). 
+ 
+ 155 
+ 
+ 2.2.2. Modelling of international trade 
+ 
+ 2.2.2.1. Ideas (you think are true) about the nature of traded 
+ goods: (group of things that are all pretty much the same) against/compared to/or blended products (that are bought and sold). 
+ In classical trade models, products (that are bought and sold)  are assumed to be 
+ almost the same  in the eyes of buyers. In such a market, the 
+ products (that are bought and sold)  of one producer perfectly substitute for those 
+ of another and are called (group of things that are all pretty much the same). If the number of suppliers is (good or well enough) large, the market will 
+ approach the perfect competitive result and prices 
+ across suppliers will be equalised. Evenness and 
+ (wanting to beat others in contests) also suggest that each actor in the 
+ market is either a buyer or a seller of the good, but 
+ never both, since each actor is either able to produce 
+ the good with non-negative (money made/good things received) at the winning/most common 
+ market price or not. This hints that a country can 
+ only be an exporter or an importer of a certain good, 
+ and models that include this idea (you think is true) describe only 
+ inter-industry trade. 
+ Evenness therefore simplifies the job  of trade 
+ modelling much. Since prices are equalised and 
+ there is no other unique quality of the 
+ products (that are bought and sold), it makes no difference from which supplier 
+ a particular (instance of buying something for money) is made. The evenness idea (you think is true) is therefore connected with a 'pooled' market approach to trade modelling, where we see only 
+ what each actor brings to the market (supply) and what 
+ that actor takes from the market (demand). For obvious reasons, the combined market approach is also known 
+ as 'non-(related to space or existing in space)' modelling. 
+ However, these simplifications in modelling have 
+ extreme limits for applied trade research, as these 
+ models explain only inter-industry trade and not 
+ intra-industry trade. The last thing just mentioned turns out to be an 
+ important thing/event in trade, since even at high 
+ levels of disaggregation, countries report both exports 
+ and imports in any part/area. If intra-industry trade is 
+ netted out, one ignores an important thing/event of 
+ the real world and underplays the importance of trade 
+ to each area. What's more, these trade models can 
+ be (over-reacting to very small things/able to detect tiny signals) to changes in transportation costs 
+ and trade policy wedges, and risk extreme 
+ (focusing on doing one thing very well) when part/area-clearly stated/particular factors of production are not present in the model, see also Francois 
+ and Reinert (1997). 
+ One way to introduce intra-industry trade in a 
+ model is to assume that products (that are bought and sold)  are told apart by 
+ other factors than price alone, and because of this are viewed 
+ 
+ 156 
+ 
+ F. van Tongeren et al. I Farming-based Money flow 26 (2001) 149-172 
+ 
+ as (not totally pure/not totally correct) substitutes from the point of view of the 
+ buyer. When product (using different things) is possible, products (that are bought and sold) 
+ are called blended and the job  of trade modelling is much more complex. First, there is no 
+ need for prices to equalise across suppliers. If products (that are bought and sold) 
+ are blended, then different buyers are willing to 
+ pay different prices to get the same amount of the 
+ good. Because of this, independent price movements among 
+ suppliers are possible. Second, each actor in the market may be both a buyer and a seller at the same time 
+ if products (that are bought and sold)  are (made different). This hints that the trade 
+ model has to trace twice as many transactions than 
+ under the evenness idea (you think is true). Clearly, the two-sided (detailed description of exactly what is required) provides a richer and more described/explained 
+ picture of the market, but needs/demands much more data, 
+ limits/guidelines, bookkeeping and math-based effort. 
+ Whether the added/more effort is (done for good reason) by added/more 
+ (connected/related) information depends on the kind of problems 
+ a model has to tackle. Many policy arguments and policy legal documents are two-sided in nature, and can only be 
+ treated within a two-sided (detailed description of exactly what is required) of trade flows. 
+ There are two ways to includes product (using different things) into applied trade models. On the one hand, 
+ product (using different things) can be introduced (coming from the outside of something)ly 
+ by assuming that products are (made different) by country of origin. This method introduced by Armington (1969) simply assumes that imports and domestic 
+ products (that are bought and sold)  are (not totally pure/not totally correct) substitutes in demand. The often 
+ used Armington creation in applied trade models 
+ calls for/uses the idea (you think is true) that products are (made different) by country of origin. In combination with a preference function that is separatable in domestic products 
+ and combined foreign products, this yields scientifically small import functions. Most often a CES 
+ functional form for preferences is assumed. 11 This 
+ idea (you think is true) has received much criticism because the 
+ source of product (using different things) is (coming from the outside of something)ly introduced on the demand side. Another disadvantage of 
+ this idea (you think is true) is that terms of trade effects turn out to 
+ be quite large scientifically. The Armington idea (you think is true) 
+ hints that each importer, however small the area 
+ may be, has some degree of market power, and is there- 
+ 
+ In general, the idea (you think is true) of (weak) separability of the utility function hints that 'bundles' of products (that are bought and sold)  have to be identified, 
+ where substitution is (compared to other things) easy within 'bundles' but substitution is less easy across 'bundles'. This is (based on facts and other evidence) also an scientific issue. 
+ 11 
+ 
+ fore able to influences world prices. See Brown (1987) 
+ for an (related to careful studying or deep thinking) and number-based test of terms 
+ of trade effects under the Armington idea (you think is true). 
+ An different approach is to introduce product (using different things) endogenously at the firm level on the supply side. 12 This approach assumes that people 
+ prefer (made different) products (that are bought and sold)  either to get a better 
+ match between their preferred variety and those existing 
+ in the market place (Lancaster, 1980) or to get increased variety in consumption (Spence, 1976; Dixit 
+ and Stiglitz, 1977). Krugman (1979, 1980) and Ethier 
+ (1979, 1982) introduced the idea  of (related to one company having too much power) 
+ competition into international trade explanation. In this approach fixed costs such as R&amp;D or marketing costs 
+ are necessary to produce (made different) products (that are bought and sold). Including fixed costs has some effects/results/suggestions for trade 
+ policies. Next to the usual gains from trade we 
+ get 'noncomparative advantage' gains from trade in 
+ the presence of scale (processes of people making, selling, and buying things) and (not totally pure/not totally correct) competition. First, shocks that increase output at firm level 
+ result in positive scale effects. Second, there are gains 
+ from trade in the form of increased variety (by that/in that way 
+ getting/causing fixed costs and reducing the sales of existing 
+ firms). Thirdly, scale (processes of people making, selling, and buying things) suggest that the market can only support a limited number of firms, which 
+ are as a result (in a way that is not totally pure or totally correct) competitive. Trade creates a larger market that can support a larger number 
+ of firms and because of this a greater level of competition. The 
+ reduction in market power is called the procompetitive effect. The advantage of this approach is that it 
+ locates product (using different things) on the supply side and 
+ it (makes small) terms of trade effects. A disadvantage is 
+ that the (not being there; not being present) of firm level data makes econometric 
+ guess of elasticities filled with problems (Winters, 1990). 
+ 2.2.3. Representation of policies 
+ A careful representation of policies is an very important part of worldwide  models applied to practical 
+ farming-based and trade issues. The policies thought about/believed 
+ cover not only trade policies but also domestic farming-based policies which add further distortions between 
+ international and domestic prices. Modelling policy 
+ 12 Berkum van and van Meijl (2000) give an elaborate survey of 
+ (things that decide other things) of international trade, such as factor gifts, 
+ product (using different things), (making a lot of an item so each item costs less) and invention of new things, and 
+ their effects/results/suggestions for trade patterns and trade policies. What's more, 
+ they survey evidence on the relevance of different explanations 
+ for explaining trade in farming-based and food products. 
+ 
+ F. van Tongeren et al./ Farming-based Money flow 26 (2001) 149-172 
+ 
+ 157 
+ 
+ price distortions caused by the quota. There are a few 
+ methods to number quotas and other non-tax/import tax measures (Lord, 1997), which basically amount to two different ways to put into use them in applied models: 
+ the first is a tax/import tax equal representation, while the 
+ second method specifies amount restrictions directly. 
+ 
+ instruments in worldwide  models can take two forms. The 
+ first one consists of developing a direct (related to what holds something together and makes it strong) representation of the policy legal documents through including its (machines/methods/ways). The second approach is 
+ more indirect and measures the policy-caused distortions through a price-transmission (policy-response) 
+ relationship linking international and domestic 
+ prices. 13 Depending on the values taken by this relationship, it is flexible enough to take by force/take control of a wide organized row 
+ of trade and domestic farming-based policy governments 
+ ranging from a perfect transmission of world prices 
+ to perfect insulation. Measures of distortions (taken/took by force)/(taken/took control of) by price wedges and/or tax/import tax equals are 
+ included into this policy response function. 
+ In the worldwide  models under review, these two forms 
+ of representing policies are being used a lot. 
+ About the price transmission (detailed description of exactly what is required), the 
+ most common form of modelling policy instruments 
+ is the perfect transmission case with price wedges and 
+ or tax/import tax equals. This form is (compared to other things) easy to put into use. In what follows, we illustrate the modelling 
+ of policy legal documents through two trade policy instruments: taxes/import taxes and (numbers-based) restrictions. 
+ Taxes/import taxes and (numbers-based) restrictions such as quotas and (something you choose to do, but is not required) export handcuffs, etc. (VERs) are two 
+ types of trade policy legal documents that are examined 
+ in applied trade models. Taxes/import taxes can be introduced in 
+ a plain/honest/easy manner and are most of the time 
+ expressed as the percentage by which the domestic 
+ price goes beyond the world price; (in other words) an ad braveryem tax/import tax rate. Quotas are harder to put into use. First, 
+ one has to (ask lots of questions about/try to find the truth about) whether a quota is binding or 
+ not. Second, it is hard to test what would be the 
+ level of imports without the quota. Third, one has to 
+ model who takes the rents that build up from the 
+ quota: domestic importers or foreign exporters. With 
+ regard to the second element (people who work to find information) focus on the 
+ 
+ 2.2.3.1. Tax/import tax equals or price wedges. The tax/import tax equal or price wedge of a non-tax/import tax measure is 
+ the difference between the free world price of a good 
+ and the price on the domestic market. These measures 
+ can be (compared to other things) easily be watched/followed when products (that are bought and sold)  are 
+ (a mixture of things that are all pretty much the same) and free world prices can be gotten 
+ from transaction values. For manufactured products (that are bought and sold), the 
+ former is a problem and for many (farming-based) valuable things the last thing just mentioned is a problem. A popular method 
+ to arrive at guesses of tax/import tax equals is use of 
+ producer support guesses (PSE). 14 A disadvantage 
+ of these helping payment equals is that they change/differ  much from year to year, not only through changes 
+ in policies but especially through changes in world 
+ prices, exchange rates and the value of domestic production. 
+ The representation of amount restrictions as price 
+ wedges is not always an (good) enough approach. If a quota 
+ is not binding in the test result, its tax/import tax equal 
+ will be equal to zero. However, the quota may become 
+ binding as the result of a policy (testing out). This effect 
+ will not be (taken/took by force)/(taken/took control of) when the quota is came close to 
+ by a tax/import tax equal because the tax/import tax equal remains zero. Added/more difficulties arise in the case 
+ of multi-level  (serving or acting to prevent harm) big plans/layouts/dishonest plans like tax/import tax-rate quotas 
+ (TRQs). These big plans/layouts/dishonest plans specify different tax/import tax rates 
+ for different import quota levels, and it has to be decided/figured out whether each quota is really binding and/or 
+ the tax/import tax is way too high. Also, the (putting into) use of 
+ a quota hints the generation of quota rents, which 
+ 
+ 13 For more details on the (detailed description of exactly what is required) and (putting into) use of 
+ price transmission equations, see Tyers and Anderson (1992, 
+ Chapter 2). Price transmission equations can also be viewed as 
+ reduced-form relationships received/got from a (related to what holds something together and makes it strong) "political 
+ (process of people making, selling, and buying things)" model explaining the behaviour of policy decision makers who optimise a policy preference (social utility) functions 
+ subject to money-based and political restrictions. The scientific (putting into) use of price transmission equations is often practical 
+ and not necessarily received/made from in a consistent fashion from the hidden (under) political (process of people making, selling, and buying things) model. This could explain why such a 
+ (detailed description of exactly what is required) of policies is not used in worldwide  computable general 
+ balance models. 
+ 
+ 14 PSEs were earlier known as 'producer helping payment equals'. 
+ These include the move from/change from price distortions (i.e. price wedges), 
+ and the moves (from one place to another) from government to producers. The move from/change from 
+ price distortions or market price support is again the move from/change from 
+ people to producers in the form of price gaps between domestic and world prices. The move from/change from government expenses includes both direct government payments and indirect moves (from one place to another) (e.g. input payments, tax givebacks). The personal helping payment 
+ equal (CSE) measures the understood tax or helping payment charged on 
+ people. See Cahill and Legg (1990) for a complete description. Both PSEs and CSEs are regularly published by OECD. 
+ 
+ 158 
+ 
+ F. van Tongeren et al./ Farming-based Money flow 26 (2001) 149-172 
+ 
+ builds up as income to the holder of the right to import 
+ or export under the quota. The endogenous desire/decision of quota rents and their distribution over holders 
+ of quota rights can only properly be (taken/took by force)/(taken/took control of) by an 
+ clear representation of these policy measures. See, 
+ for example, DeMelo and Tarr (1992) for a discussion 
+ of trade quota (tools or objects used to do work or measure something). 
+ 
+ 2.2.3.2. Other policy legal documents. Next to border 
+ protection (tools or objects used to do work or measure something) stricto sensu, other (connected/related) 
+ policies often need to be represented in models. 
+ For example, in relation to the GATT/WTO promises, ceilings on the amount/quantity of give money tod exports 
+ as well as bounds on the value of export payments 
+ may be (connected/related). In relation to the common farming-based policy (CAP) of the (related to Europe) Union, land 
+ set-aside and headage premiums are clearly examples 
+ of farming-based (watches and checks by law officers) that do not directly affect border protection, but anyway do affect 
+ trade flows. 
+ 2.2.4. Possible consistency 
+ Judging the possible (state of always working or appearing the same way) of models has 
+ many parts/faces, and the discussion here is far from 
+ thorough. 15 At its most basic level, a model's number-based results should be (not numbers-based) in accordance 
+ with the possible foundations on which the model 
+ has been built. At the level of number-based (putting into) use of the model, possible (state of always working or appearing the same way) places 
+ needed things on the limits/guidelines used in functional 
+ forms, especially limits/guidelines used in demand systems 
+ and supply equations. 16 
+ 15 It is not a plain/honest/easy job  to develop a sound set of judging requirements 
+ to judge the possible (state of always working or appearing the same way) of models. This theme is also 
+ closely related to the issue of model validation, which we have 
+ not taken up in this article. In addition the test of possible truth/trueness would require much more information on the individual models than is available. Since number-based model results 
+ are depending on the particular set of ideas (you think are true) employed, in 
+ particular policy ideas (you think are true) and ideas (you think are true) on (coming from the outside of something) (numbers that change/things that change), a judgement of the number-based truth/trueness would require a study 
+ where model results are compared against the background of the 
+ same set of ideas (you think are true). 
+ 16 The four very important properties of demand functions are: (I) 
+ adding up: at the given level of prices and income, demand equals 
+ total expense, (2) evenness: paid/made up for (Dummiesian) demand is (group of things that are all pretty much the same) of degree zero in prices and un-paid-for (Marshallian) demand is (group of things that are all pretty much the same) of degree zero in 
+ income and prices together, (3) matching: cross-price effects are 
+ 
+ (impressive/forcing (on people)/causing an inconvenient situation) all (happening over and over again in a predictable way) conditions on the limits/guidelines used in demand system and the supply equations 
+ of worldwide  partial balance models is almost an unbeatable job. To overcome this problem, worldwide 
+ partial balance modellers have put into use the following two plans: (i) secure/make sure of that all limits/guidelines (elasticities) make happy the very important (happening over and over again in a predictable way) conditions (i.e. 
+ that own price effects have the right signs and rule the cross-price effects) and/or (ii) (force (on people)/cause an inconvenient situation) the full 
+ set of (happening over and over again in a predictable way) conditions to small parts/pieces of the 
+ worldwide  model. 
+ The money-based structure of general balance 
+ models forces the model builder to exercise a strict 
+ discipline relating to/connected to the restrictions on limits/guidelines. Especially, a necessary condition for the 
+ existence and (quality of being unlike anything else in the world) of an balance solution 
+ is that all excess demand functions are (group of things that are all pretty much the same) 
+ of degree zero in prices. This condition is met when 
+ the (happening over and over again in a predictable way) conditions on demand and supply equations are happy. In a properly designed general 
+ balance model, (state where all things are equal) between incomes and expenses will always be made happy for the (process of people making, selling, and buying things) as 
+ a whole. This feature does not always hold for partial 
+ balance models because they don't have the restrictions 
+ forced by an (process of people making, selling, and buying things)-wide national accounting 
+ (solid basic structure on which bigger things can be built). 
+ 
+ 2.2.5. Model closures 
+ 'Closing' the model is the process of classifying the 
+ (numbers that change/things that change) as either endogenous, (in other words) values are serious and stubborn (solved for) by the model, or (coming from the outside of something), (in other words) 
+ pre-planned outside the model. Model experiments 
+ are conducted by introducing other choice ideas (you think are true) 
+ on (coming from the outside of something) (numbers that change/things that change). 
+ Different model closures can also be employed to 
+ construct different models from the same basic modelling (solid basic structure on which bigger things can be built). Multi-area models with a worldwide 
+ coverage can sometimes be changed into single 
+ area models by singling out one clearly stated/particular area 
+ and declaring 'the rest of world' as (coming from the outside of something). (in almost the same way), (process of people making, selling, and buying things)-wide models can be changed into 
+ matching, (4) negativity: the matrix of own- and cross-price 
+ derivatives of paid/made up for demand functions is negative 
+ semi-definite. In particular this hints that (a) paid/made up for demand function slope downward, and (b) own price effects rule cross-price effects. See, for example, LaFrance (1986) and 
+ LaFrance and Hanemann (1989). Almost the same  (instances of watching, noticing, or making statements) hold for 
+ equation systems used to model the supply side. 
+ 
+ F. van Tongeren et al./Agricultural Money flow 26 (2001) 149-172 
+ 
+ partial models of selected parts/areas, by specifying a 
+ closure which holds 'the rest of the (process of people making, selling, and buying things)' as (coming from the outside of something). The last thing just mentioned possibility is especially useful if 
+ one wants to compare partial balance results 
+ against general balance results, by that/in that way checking for the presence of significant (process of people making, selling, and buying things)-wide 
+ caused effects following a certain policy change 
+ targeted at the farming-based part/area. 
+ There are certain general closure rules that have 
+ to be satisfied by both partial and general balance models. Both in a partial and a general balance setting, a valid closure has to promise that 
+ the number of endogenous (numbers that change/things that change) is equal to the 
+ number of equations. In addition to this necessary 
+ technical condition, the closure must specify a valid 
+ money-based (surrounding conditions). For example, if the balance model demands that all buyers exhaust their 
+ budget, the closure must be such that all buyers 
+ are on their budget restriction, and that there are 
+ no 'leakages' with respect to incomes and expenses. 
+ Since partial models describe only a subsystem of 
+ the (process of people making, selling, and buying things), they do not have to be worried about 
+ the (what people commonly call a/not really a) 'macroeconomic closure', (in other words) the treatment of the link between investment and savings. In 
+ models without intertemporal decision making with 
+ respect to investments, the identity between macroeconomic investment and savings is (promised that something will definitely happen or that something will definitely work as described) by 
+ fixing either one at some pre-specified level, and 
+ needing/ordering the other (number or thing that changes) to change something (to help someone)/take care of someone. For example, a (what people commonly call a/not really a) 'Keynesian closure' specifies an 
+ (coming from the outside of something) investment level and lets savings (change to make better/change to fit new conditions) 
+ endogenously. On the other hand, in 'neo-classical 
+ closures', investment is (changing to make better/changing to fit new conditions) to savings levels. 
+ Since the source of savings may be both domestic 
+ and foreign, the closure rule also has effects/results/suggestions for 
+ the treatment of the current account balance. If the 
+ trade balance is fixed (coming from the outside of something)ly, one mostly 
+ also fixes the difference between domestic savings 
+ and domestic investments. Also, in multi-area 
+ (process of people making, selling, and buying things)-wide models, the approach of fixing trade 
+ balances at the (related to a large area) level is a simplifying way to 
+ avoid modelling the portion of worldwide  savings to 
+ individual areas. A disadvantage of this approach 
+ is the inability to model endogenous changes in the 
+ volume of (related to a large area) trade balances. It is obvious that 
+ the (detailed description of exactly what is required) of the macroeconomic closure can 
+ have deep/extreme hits/effects on model results. 
+ 
+ 159 
+ 
+ 2.3. Data and limits/guidelines 
+ 2.3.1. Data 
+ Data needed things are very demanding for 
+ multi-(related to a large area) models of international trade. The 
+ amount of data is figured out by/decided by the level of opening (a place) to all people (countries/regions, activities/commodities) and 
+ the possible structure ((group of things that are all pretty much the same)/heterogeneous 
+ products (that are bought and sold), two-sided/pooled markets). 
+ Not only is the amount of data usually quite large, 
+ but the data needed to be (to both people or groups equally) consistent. Especially if trade is related to domestic inter-industry 
+ structures, big changes/recalculations to the published 
+ data are necessary, because the procedures for collecting and classifying trade statistics differ from those 
+ employed for domestic input--output tables. While 
+ trade data with broad coverage are now widely available on a similar basis, this is certainly not true 
+ for input-output data and for trade protection information. 17 A social accounting matrix (SAM) usually 
+ underlies (process of people making, selling, and buying things)-wide models. Although the SAM 
+ is sometimes only completely/in a hinting way present in the information file 
+ of AGE models, it forms the basis for a clear 
+ and consistent description of national (processes of people making, selling, and buying things). See 
+ Lord (1997) for a description of widely used data 
+ sources for international trade analysis. 18 
+ It is obvious that regular updating of datasets will 
+ improve the timeliness and relevance of results. The 
+ choice of base year for a modelling dataset has added/more results, both for (serving to compare two or more things) static and 
+ energetic models. The money-based conditions that win at the point of reference decide/figure out the ends/end results 
+ that can be drawn from different tests. 
+ 2.3.2. Limits/guidelines 
+ The limits/guidelines used in behavioural equations decide/figure out the response to policy changes, and are therefore 
+ a very important element in each modelling exercise. Key 
+ limits/guidelines usually are: price- and income elasticities 
+ 17 A recent combined effort by USDAIERS, Farming and Agrifood, Canada, the (related to Europe) Commission, UNCTAD, FAO and 
+ OECD develops a new Farming-based Market Access Information file 
+ (AMAD). At the time of writing this contains tax/import tax-line level 
+ data on market access commitment and (putting into) use of about 
+ 50 WTO members. AMAD is publicly available since September 
+ 2000. See Waino et al. (2000) and www.amad.org. 
+ 18 The building to van Tongeren and van Meijl (1999) lists the 
+ datasources of individual models in some detail. 
+ 
+ 160 
+ 
+ F. van Tongeren et al./ Farming-based Money flow 26 (2001) 149-172 
+ 
+ and budget shares in demand systems; substitution 
+ elasticities and input cost shares in supply systems; 
+ Armington (substitution) elasticities in import<p><strong>NOTE: This document is incomplete. It was shortened to the maximum document length of 50,000 characters.</strong></p><div style="clear:both">&nbsp;</div>

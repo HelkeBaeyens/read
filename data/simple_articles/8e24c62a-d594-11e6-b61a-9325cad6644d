@@ -1,0 +1,878 @@
+ Farming-based Money flow, 7 (1992) 185-208 
+ Elsevier Science Publishers B.V., Amsterdam 
+ 
+ 185 
+ 
+ Edge of something/unexplored area production functions and technical 
+ (wasting very little while working or producing something): a survey of scientific applications 
+ in farming-based money flow/money-based studies 
+ George E. Battese 
+ Department of Econometrics, University of New England, Armidale, 
+ New South Wales, Australia 
+ (Accepted 13 February 1992) 
+ 
+ ABSTRACT 
+ Battese, G.E., 1992. Edge of something/unexplored area production functions and technical (wasting very little while working or producing something): a survey of 
+ scientific applications in farming-based money flow/money-based studies. Agric. Econ., 7: 185-208. 
+ The modelling and guess of edge of something/unexplored area production functions has been an important 
+ area of econometric research during the last twenty years. Forsund, Lovell and Schmidt 
+ (1980) and Schmidt (1986) present reviews of the ideas and models involved and refer to 
+ some of the scientific applications which had appeared to their (pertaining to each person or thing) times of 
+ (book, magazine, etc.). 
+ This paper tries to update the econometric modelling of edge of something/unexplored area production functions 
+ connected with the guess of technical (wasting very little while working or producing something) of individual firms. A survey of 
+ scientific applications in farming-based money flow/money-based studies is an important part of the paper. 
+ 
+ 1. INTRODUCTION 
+ 
+ In microeconomic explanation a production function is defined in terms of the 
+ maximum output that can be produced from a specified set of inputs, given 
+ the existing technology available to the firms involved. However, up until 
+ the late 1960's, most scientific studies used traditional least-squares methCorrespondence to: G.E. Battese, Dep. Econometrics, University of New England, Armidale, 
+ N.S.W. 2351, Australia. 
+ This paper is a rewriting/redoing of that presented at the 35th Once-a-year Conference of the 
+ Australian Farming-based Money flow (community of people/all good people in the world), University of New England, Armidale, 11-14 
+ February, 1991. I have appreciated comments from Tim Coelli and Phil Dawson. 
+ 0169-5150j92j$05.00 Â© 1992 - Elsevier Science Publishers B.V. All rights reserved 
+ 
+ 186 
+ 
+ G.E. BATTESE 
+ 
+ Xr/Y 
+ X 
+ 
+ Unit 
+ 
+ x&#126; Watched/followed input-output ratios 
+ 
+ !&#126; 
+ X 
+ X 
+ 
+ A 
+ TE of Firm at A 
+ 
+ =OB/OA 
+ 
+ Xz/Y 
+ 
+ Fig. 1. Technical (wasting very little while working or producing something) of firms in relative input space. 
+ 
+ ods to guess production functions. So the guessed functions could 
+ be more appropriately described as response (or average) functions. 
+ Econometric modelling of production functions, as usually/(in the past) defined, 
+ was stimulated by the important paper of Farrell (1957). Given that the 
+ production function to be guessed had constant returns to scale, Farrell 
+ (1957) assumed that watched/followed input-per-unit-of-output values for firms 
+ would be above the (what people commonly call a/not really a) unit isoquant. Figure 1 shows the situation in 
+ which firms use two inputs of production, X 1 and X 2 , to produce their 
+ output, Y, such that the points, defined by the input-per-unit-of-output 
+ ratios, (X 1 jY, X 2 jY), are above the curve, II'. The unit isoquant defines 
+ the input-per-unit-of-output ratios connected with the (producing the most with the least waste) use of 
+ the inputs to produce the output involved. The moving away of watched/followed 
+ input-per-unit-of-output ratios from the unit isoquant was carefully thought about/believed to be 
+ connected with technical inefficiency of the firms involved. Farrell (1957) 
+ defined the ratio, OB jOA, to be the technical (wasting very little while working or producing something) of the firm with 
+ input-per-unit-of-output values at point A. 
+ Farrell (1957) suggested that the (producing a lot with very little waste) unit isoquant be guessed by 
+ programming methods such that the curving out function involved was never 
+ above any of the watched/followed input-per-unit-of-output ratios. 
+ A more general presentation of Farrell's idea  of the production 
+ function (or edge of something/unexplored area) is shown in Fig. 2 involving the original input and 
+ output values. The flat/left-and-right axis represents the (vector of) inputs, X, 
+ connected with producing the output, Y. The watched/followed input-output values 
+ are below the production edge of something/unexplored area, given that firms do not reach the 
+ maximum output possible for the inputs involved, given the technology 
+ 
+ 187 
+ 
+ FRONTIER PRODUCflON FUNCflONS 
+ 
+ Production edge of something/unexplored area 
+ X 
+ 
+ Output 
+ y 
+ X 
+ 
+ x 
+ 
+ X XX 
+ 
+ ' 
+ 
+ --+&mdash;&#126;-Â·Observed input-output values 
+ A= (x,y) 
+ TE of Firm at A 
+ = y/y* 
+ 
+ o&#126;&mdash;&mdash;&mdash;&mdash;&#126;&#126;&mdash;&mdash;&mdash;&mdash;X 
+ 
+ Inputs, X 
+ 
+ Fig. 2. Technical (wasting very little while working or producing something) of firms in input-output space. 
+ 
+ available. A measure of the technical (wasting very little while working or producing something) of the firm which produces 
+ output, y, with inputs, x, represented by point A, is given by y /Y *, where y * 
+ is the 'frontier output' connected with the level of inputs, x (see point B). 
+ This is a measure of technical (wasting very little while working or producing something) which is (may or may not happen, depending on something) on the levels 
+ of the inputs involved. 
+ The existence of technical inefficiency of firms working at production 
+ has been a subject of large amounts of debate in money flow/money-based studies. For example, 
+ Muller (1974) states (p. 731): "However, little is known about the role of 
+ non-physical inputs, especially information or knowledge, which influence 
+ the firm's ability to use its available technology set fully .... This suggests 
+ how relative and (not made by nature/fake) the idea  of the edge of something/unexplored area itself is. . . . Once all 
+ inputs are taken into account, measured working well differences should 
+ disappear except for random disturbances. In this case the edge of something/unexplored area and the 
+ average function are identical. They only diverge if significant inputs have 
+ been left out in the guess". Upton (1979) also raised important 
+ problems connected with scientific production function analysis. However, 
+ (even though there is the existence of) these criticisms, we believe that the econometric modelling of 
+ edge of something/unexplored area production functions, which is surveyed below, provides useful 
+ ideas of best-practice technology and measures by which the productive (wasting very little while working or producing something) of different firms may be compared. 
+ 2. ECONOMETRIC MODELS 
+ 
+ Production edge of something/unexplored area models are reviewed in three sub-sections involving 
+ pre-decided edges of something/unexplored areas, (random/including random data points) edges of something/unexplored areas and panel data models. For 
+ 
+ 188 
+ 
+ G.E. BATTESE 
+ 
+ convenience of explaining/big show, these models are presented such that the 
+ (thing that changes (like a test score) because of something else that you control (like study time)) is the original output of the production process, represented by Y, which is assumed to be expressed in terms of the product of a 
+ known function of a vector, x, of the inputs of production and a function of 
+ unobservable random (numbers that change/things that change) and (random/including random data points) errors. 
+ 
+ 2.1 
+ 
+ Pre-decided edges of something/unexplored areas 
+ 
+ The pre-decided edge of something/unexplored area model is defined by: 
+ i=1,2, ... ,N 
+ Y; = f(x;; f3) exp( -u;) 
+ (1) 
+ where Y; represents the possible production level for the ith sample firm; 
+ 
+ f(x;; 3{) is a good function (e.g., Cobb-Douglas or TRANSLOG) of the 
+ vector, X;, of inputs for the ith firm and a vector, 3{, of unknown limits/guidelines; u; is a non-negative random (number or thing that changes) connected with firm-specific 
+ factors which add/give to the ith firm not reaching highest (wasting very little while working or producing something) 
+ of production; and N represents the number of firms involved in a 
+ thin sliceal survey of the industry. 
+ The presence of the non-negative random (number or thing that changes), u;, in model (1), is 
+ connected with the technical inefficiency of the firm and hints that the 
+ random (number or thing that changes), exp(- u;), has values between zero and one. This way it 
+ follows that the possible production, Y;, is bounded above by the non-(random/including random data points) (i.e., pre-decided) amount, f(x;; 3{). So the model (1) is 
+ referred to as a pre-decided edge of something/unexplored area production function. The (state where two things are not the same) 
+ relationships: 
+ i = 1, 2, ... , N 
+ 
+ (2) 
+ 
+ were first specified by Aigner and Chu (1968) in the big picture  of a CobbDouglas model. It was suggested that the limits/guidelines of the model be 
+ guessed by applying linear or quadratic programming computer codes. Aigner 
+ and Chu (1968) suggested (p. 838) that chance-held back programming 
+ could be applied to the (state where two things are not the same) restrictions (2) so that some output 
+ (instances of watching, noticing, or making statements) could be permitted to lie above the guessed edge of something/unexplored area. Timmer (1971) took up this suggestion to get the (what people commonly call a/not really a) (related to the study of how likely or unlikely things are to happen) 
+ edge of something/unexplored area production functions, for which a small proportion of the (instances of watching, noticing, or making statements) is permitted to go beyond the edge of something/unexplored area. Although this feature was carefully thought about/believed desirable because of the likely (number of times something happens) of (something that's not part of the main group) (instances of watching, noticing, or making statements), it 
+ obviously doesn't have any (related to studying numbers) or money-based reasons. 
+ The edge of something/unexplored area model (1) was first presented by Afriat (1972, p. 576). 
+ Richmond (1974) further thought about/believed the model under the idea (you think is true) that 
+ u; had gamma distribution with limits/guidelines, r = n and A = 1 [see Mood, 
+ Graybill and Boes (1974, p. 112)]_). Schmidt (1976) stated that the 
+ 
+ FRONTIER PRODUCriON FUNCI'IONS 
+ 
+ 189 
+ 
+ maximum-chance guesses for the J3-limits/guidelines of the model could be 
+ received/got by linear and quadratic programming ways of doing things if the random 
+ (numbers that change/things that change) had huge or half-(usual/ commonly and regular/ healthy) distributions, (match up each pair of items in order). 1 
+ The technical (wasting very little while working or producing something) of a given firm is defined to be the factor by 
+ which the level of production for the firm is less than its edge of something/unexplored area output. 
+ Given the pre-decided edge of something/unexplored area model (1), the edge of something/unexplored area output for the ith 
+ firm is Y; * = f(x ;; J3) and so the technical (wasting very little while working or producing something) for the ith firm, 
+ represented byTE;, is: 
+ TE; = Y;/Y;* 
+ = 
+ 
+ f(x;; J3) exp( -U;)/f(x;; J3) 
+ 
+ = exp(- U;) 
+ 
+ (3) 
+ 
+ Technical (measures of output versus waste/getting more with less waste) for individual firms in the big picture  of the pre-decided edge of something/unexplored area production function (1) are (described the future) by getting the ratio of 
+ the watched/followed production values to the similar guessed edge of something/unexplored area 
+ values, TE; = Yjf(x;; #_#), where ti is either the maximum-chance estimator or the corrected ordinary least-squares (COLS) estimator for J3. 2 
+ If the U;-random (numbers that change/things that change) of the pre-decided edge of something/unexplored area (1) have huge or half-(usual/ commonly and regular/ healthy) distribution, guessing about the J3-limits/guidelines cannot 
+ be gotten from the maximum-chance estimators because the wellknown (happening over and over again in a predictable way) conditions (see Theil, 1971, p. 392) are not made happy. 
+ Greene (1980) presented (good) enough conditions for the distribution of the 
+ U;'s for which the maximum-chance estimators have the usual asymptotic properties, upon which large-sample guessing for the J3-limits/guidelines 
+ can be gotten. Greene (1980) proved that if the U;'s were independent 
+ Given that the 3-limits/guidelines{ of model (1) are expressible as a linear function when 
+ logarithms are taken, it follows that the maximum-chance guesses for the 3-limits/guidelines{ 
+ when ll; has huge or half-(usual/ commonly and regular/ healthy) distributions are defined by (making small) the 
+ total sum or the sum of squares of the mistakes of the logarithms of production from 
+ the similar edge of something/unexplored area values, subject to the linear restrictions received/got by applying 
+ logarithms to (2). However, the non-negativity restrictions on the limit/guideline guesses, which 
+ are (usually/ in a common and regular way) connected with linear and quadratic programming problems, are not needed/demanded. 
+ Although non-negative guesses for the partial elasticities in Cobb-Douglas models are 
+ generally reasonable, it does not follow that non-negativity restrictions should be applied for 
+ such functional forms as the TRANSLOG model. 
+ 2 Given that the model (1) has the form of a linear model (with an (stopping or interfering with something)) when 
+ logarithms are taken, then the COLS estimator for f3 is defined by the OLS estimators for 
+ the coefficients of 3{, except the (stopping or interfering with something), and the OLS estimator for the (stopping or interfering with something) plus the 
+ largest leftover/extra needed/demanded to make all mistakes of the production (instances of watching, noticing, or making statements) from the 
+ guessed edge of something/unexplored area non-positive. Greene (1980) showed that the COLS estimator is consistent, given that the ll;-random (numbers that change/things that change) are independent and identically distributed. 
+ 1 
+ 
+ 190 
+ 
+ G.E. BATTESE 
+ 
+ and identically distributed as gamma random (numbers that change/things that change), with limits/guidelines 
+ r &amp;gt; 2 and A &amp;gt; 0, then the needed/demanded (happening over and over again in a predictable way) conditions are happy. 
+ 2.2 
+ 
+ (random/including random data points) edges of something/unexplored areas 
+ 
+ The (random/including random data points) edge of something/unexplored area production function is defined by: 
+ Y; = f ( x;; 3{) exp ( 
+ U;) 
+ i = 1, 2, ... , N 
+ ( 4) 
+ where 
+ is a random error having zero mean, which is related to 
+ random factors (e.g., measurement errors in production, weather, industrial 
+ action, etc.) not under the control of the firm. 
+ This (random/including random data points) edge of something/unexplored area model was independently proposed by Aigner, 
+ Lovell and Schmidt (1977) and Meeusen and Van den Broeck (1977). The 
+ model is such that the possible production, Y;, is bounded above by the 
+ (random/including random data points) amount, f(x;; 3{) exp(V); so the term (random/including random data points) edge of something/unexplored area. 
+ The random errors, 
+ i = 1, 2, ... , N, were assumed to be independently 
+ and identically distributed as N(O, cr3) random (numbers that change/things that change), independent of 
+ the U;'s, which were assumed to be non-negative cutting offs of the N(O, cr 2 ) 
+ distribution (i.e., half-(usual/ commonly and regular/ healthy) distribution) or have huge distribution. 
+ Meeusen and Van den Broeck (1977) thought about/believed only the case in which the 
+ U;'s had huge distribution (i.e., gamma distribution with limits/guidelines 
+ r = 1 and A &amp;gt; 0) and noted that the model was not as (serving to severely limit or control) as the 
+ one-limit/guideline gamma distribution (i.e., gamma distribution with limits/guidelines r = n and A= 1) thought about/believed by Richmond (1974). 
+ The basic structure of the (random/including random data points) edge of something/unexplored area model (4) is shown in Fig. 
+ 3 in which the productive activities of two firms, represented by i and j, are 
+ carefully thought about/believed. Firm i uses inputs with values given by (the vector) X; and 
+ gets the output, Y;, but the edge of something/unexplored area output, Y; *, goes beyond the value on 
+ the pre-decided production function, f(x;; 3{), because its productive 
+ activity is related to 'favourable' conditions for which the random 
+ error, V;, is positive. However, firm j uses inputs with values given by (the 
+ vector) xj and gets the output, Yj, which has corresponding edge of something/unexplored area 
+ output, Yj *, which is less than the value on the pre-decided production 
+ function, f(xj; 3{), because its productive activity is related to 'unfavourable' conditions for which the random error, Vj, is negative. In both 
+ cases the watched/followed production values are less than the similar 
+ edge of something/unexplored area values, but the (unobservable) edge of something/unexplored area production values would lie 
+ around the pre-decided production function connected with the firms 
+ involved. 3 
+ 
+ v; 
+ 
+ v; - 
+ 
+ v;, 
+ 
+ = 
+ 
+ 3 It is possible that both the watched/followed and edge of something/unexplored area production values, Y; and Y; * 
+ f(x;; 3{) exp(Vj), lie above the similar value of the pre-decided production function, 
+ f(x;; 3{), if Vi&amp;gt;&#126;Â· This case is not showed in Fig. 3. 
+ 
+ 191 
+ 
+ FRONTIER PRODUCTION FUNCTIONS 
+ 
+ Pre-decided production 
+ function, y =f(x ; &#126;) 
+ 
+ I 
+ 
+ f(xi ;&#126;) 
+ 
+ Output 
+ 
+ y 
+ 
+ I 
+ 
+ X 
+ I 
+ I 
+ 
+ Watched/followed 
+ output 
+ Yj 
+ 
+ oL&mdash;&mdash;&mdash;--&#126;&#126;&mdash;-&#126;&#126;&mdash;&mdash;-X; 
+ 
+ Xj 
+ 
+ Inputs, X 
+ 
+ Fig. 3. (random/including random data points) edge of something/unexplored area production function. 
+ 
+ Given the ideas (you think are true) of the (random/including random data points) edge of something/unexplored area model (4), guessing 
+ about the limits/guidelines of the model can be based on the maximum-chance estimators because the standard (happening over and over again in a predictable way) conditions hold. Aigner, 
+ Lovell and Schmidt (1977) suggested that the maximum-chance guesses of the limits/guidelines of the model be gotten in terms of the 
+ limit/guidelineization, o-&#126; + o- 2 = a-J and A= a- fo-v. Rather than use the nonnegative limit/guideline, A (i.e., the ratio of the standard moving away of the 
+ N(O, o- 2 ) distribution involved in specifying the distribution of the nonnegative U;'s to the standard moving away of the matching errors, V), Battese 
+ and Carra (1977) thought about/believed the limit/guideline, y = o- 2 j(o-l + o- 2 ), which is 
+ bounded between zero and one. 
+ Technical (wasting very little while working or producing something) of an individual firm is defined in terms of the ratio 
+ of the watched/followed output to the similar edge of something/unexplored area output, (may or may not happen, depending on something) on 
+ the levels of inputs used by that firm. 4 This way the technical (wasting very little while working or producing something) of firm 
+ i in the big picture  of the (random/including random data points) edge of something/unexplored area production function (4) is the 
+ 
+ 4 Battese and Coelli (1988) suggest (p. 389) that the technical (wasting very little while working or producing something) of firm i, connected 
+ with a panel data model with time-invariant firm effects, be defined as the ratio of its mean 
+ production, (may or may not happen, depending on something) on its levels of inputs and its (understood/made real/achieved) firm effect, U;, to the 
+ corresponding mean production if the firm effect, U;, had value zero (and so the firm was 
+ fully (producing a lot with very little waste)). This definition yields the same measure of technical (wasting very little while working or producing something) as that given 
+ in the text. 
+ 
+ 192 
+ 
+ G.E. BA1TESE 
+ 
+ same expression as for the pre-decided edge of something/unexplored area model (1), namely 
+ exp(- U), (in other words) 
+ TE; 
+ 
+ TE; 
+ 
+ = 
+ 
+ = Y;JY;* 
+ = f(x;; f3) exp(&#126;- &#126;)lf(x;; /3) exp(&#126;) 
+ =exp(-&#126;) 
+ 
+ Although the technical (wasting very little while working or producing something) of a firm connected with the pre-decided and (random/including random data points) edge of something/unexplored area models are the same, it is important to note 
+ that they have different values for the two models. (thinking about/when one thinks about) Fig. 3, it is 
+ obvious that the technical (wasting very little while working or producing something) of firm j is greater under the (random/including random data points) edge of something/unexplored area model than for the pre-decided edge of something/unexplored area, (in other words), Oj/}j*) &amp;gt; 
+ [}j/f(xj; 3{)]_). That is, firm j is judged technically (producing more with less waste) relative to 
+ the bad/unhelpful conditions connected with its productive activity (i.e., 
+ &#126; &amp;lt; 0) than if its production is judged relative to the highest connected 
+ with the value of the pre-decided function, f(xj; 3{). Further, firm i is 
+ judged technically less (producing a lot with very little waste) relative to its good/willing conditions than if 
+ its production is judged relative to the highest connected with the value 
+ of the pre-decided function, f(x;; 3{). However, for a given set of data, the 
+ guessed technical (measures of output versus waste/getting more with less waste) received/got by fitting a pre-decided edge of something/unexplored area 
+ will be less than those received/got by fitting a (random/including random data points) edge of something/unexplored area, because the 
+ pre-decided edge of something/unexplored area will be guessed so that no output values will go beyond 
+ it. 
+ Stevenson (1980) suggested that an different model for the &#126;'s in the 
+ (random/including random data points) edge of something/unexplored area (4) was the non-negative cutting off of the N(f.L, a- 2 ) 
+ distribution. This (big statement based on very little information) includes the cases in which there may be 
+ low chance of getting &#126;'s close to zero (i.e., when there is (large/relatively large) technical inefficiency present in the firms involved). 
+ Aigner and Schmidt (1980) contains a few other important papers 
+ dealing with the pre-decided and (random/including random data points) edge of something/unexplored area models. 
+ The (statement about the future) of the technical (measures of output versus waste/getting more with less waste) of individual firms connected 
+ with the (random/including random data points) edge of something/unexplored area production function (4), defined by TE; = 
+ exp(- U), i = 1, 2 ... , N, was carefully thought about/believed impossible until the appearance 
+ of Jondrow, Lovell, Materov and Schmidt (1982). This paper focussed 
+ attention on the (may or may not happen, depending on something) distribution of the non-negative random (number or thing that changes), &#126;' given that the random (number or thing that changes), E; = &#126;- &#126;, was (capable of being seen and known). 
+ Jondrow et al. (1982) suggested that &#126; be (described the future) by the (may or may not happen, depending on something) 
+ expectation of &#126;' given the value of the random (number or thing that changes), E; &#126; &#126;- This 
+ expectation was received/made from for the cases that the &#126;'s had half-(usual/ commonly and regular/ healthy) and 
+ huge distributions. Jondrow et al. (1982) used 1 - E(&#126; I&#126;- &#126;) to 
+ (describe the future) the technical inefficiency of the ith firm. However, given the 
+ (related to multiplying numbers) production edge of something/unexplored area model (4), Battese and Coelli (1988) 
+ 
+ = - 
+ 
+ 193 
+ 
+ FRONTIER PRODUcriON FUNcriONS 
+ 
+ = 
+ 
+ pointed out that the technical (wasting very little while working or producing something) of the ith firm, TEi exp(- U), is 
+ best (described the future) by using the (may or may not happen, depending on something) expectation ofexp(- U), given the 
+ value of the random (number or thing that changes), Ei V; - &#126;- This latter result was calculated 
+ for the more general (random/including random data points) edge of something/unexplored area model involving panel data and the 
+ Stevenson (1980) model for the &#126;'s. 
+ 
+ = 
+ 
+ 2.3 
+ 
+ Panel data models 
+ 
+ The pre-decided and (random/including random data points) edge of something/unexplored area production functions (1) and 
+ (4) are defined for thin sliceal data (i.e., data on a thin slice of N 
+ firms at some particular time period). If time-series (instances of watching, noticing, or making statements) are 
+ available for the sample firms involved, then the data are referred to as 
+ panel data. Pitt and Lee (1981) thought about/believed the guess of a (random/including random data points) 
+ edge of something/unexplored area production function connected with N firms over T time periods. 
+ The model is defined by: 
+ &#126;,=[(xu; 
+ 
+ f3) exp(V;,- 
+ 
+ &#126;1 ) 
+ 
+ i= 1, 2, ... ,N 
+ t = 1, 2, ... , T 
+ 
+ (5) 
+ 
+ where &#126;&#126; represents the possible production for the ith firm at the tth 
+ time period. 
+ Pitt and Lee (1981) thought about/believed three basic models, defined in terms of 
+ the ideas (you think are true) made about the non-negative &#126;/s. Model I assumed that 
+ the &#126;/s were time-invariant effects, (in other words), &#126;&#126; = &#126;' t = 1, 2, ... , T. Model II 
+ specified that the &#126;/s were uncorrelated. Model III permitted the &#126;/s to 
+ be related for given firms. 5 
+ The time-invariant model for the non-negative firm effects was carefully thought about/believed by Battese and Coelli (1988) for the case in which the firm effects 
+ were non-negative cutting offs of the N(f.J-, 17 2 ) distribution. Battese, Coelli 
+ and Colby (1989) thought about/believed the case in which the numbers of time-series 
+ (instances of watching, noticing, or making statements) on the different firms were not all equal. Coelli (1989) wrote 
+ the computer program, FRONTIER, for getting the maximum-chance guesses and the (statements about the future) for the technical (measures of output versus waste/getting more with less waste) of the 
+ firms involved. 
+ More (not very long ago) (random/including random data points) edge of something/unexplored area models for panel data have been 
+ presented in which time-changing/different firm effects have been specified. Cornwell, 
+ Schmidt and Sickles (1990) thought about/believed a panel data model in which the 
+ firm effects at different time periods were a quadratic function of time, in 
+ Pitt and Lee (1981, p. 46) wrongly defined Model II as specifying E(U;, Lf;,,)=O i=j 
+ and t=t'. Model III is defined by Cov(U;,,Cf;,,)=u11 , and Cov(U;,Lf;,,)=O if ii=j= 
+ 1,2, ... ,N. 
+ 
+ 5 
+ 
+ 194 
+ 
+ G.E. BATTESE 
+ 
+ which the coefficients varied over firms according to the (detailed descriptions of exactly what is required) of a 
+ multivariate distribution. The limits/guidelines of the model were guessed 
+ using instrumental-changeable methods. 
+ Kumbhakar (1990) presented a model in which the non-negative firm 
+ effects, &#126;&#126;, were the product of an huge function of time (involving 
+ two limits/guidelines) and a time-invariant (non-negative) random (number or thing that changes). This 
+ latter model permits the time-different firm effects to be boring voice decreasing (or increasing) or curving out (or curved) functions over time [i.e., the 
+ technical (wasting very little while working or producing something) of firms in the industry involved could monotonically 
+ increase (or decrease) or increase and then decrease (or the other way around, too)]_). 
+ Battese and Coelli (1992) suggested a time-different firm produces model for 
+ incomplete panel data, such that the technical (measures of output versus waste/getting more with less waste) of firms either 
+ monotonically increased or decreased or remained constant over time. This 
+ time-different model assumes that the firm effects are an huge function of time which involves only one added/more limit/guideline to the time-invariant model of Battese and Coelli (1988). 
+ 3. EMPIRICAL APPLICATIONS 
+ 
+ Edge of something/unexplored area production function models have been applied in a (large/relatively large) 
+ number of scientific studies in farming-based money flow/money-based studies. (books, magazines, etc.) have 
+ appeared in the all major farming-based money flow/money-based studies journals and a lot of other money-based journals. The Journal of Farming-based Money flow has published the most papers (at least seven, referred to below) dealing 
+ with edge of something/unexplored area production functions. Other journals which have published at 
+ least two applied production edge of something/unexplored area papers are the Canadian Journal of 
+ Farming-based Money flow (4), the American Journal of Farming-based Money flow 
+ (2) and the Southern Journal of Farming-based Money flow (2). At least one 
+ edge of something/unexplored area production function paper involving farm-level data has appeared 
+ in the Australian Journal of Farming-based Money flow, the (related to Europe) Review 
+ of Farming-based Money flow, the North Central Journal of Farming-based Money flow and the Western Journal of Farming-based Money flow. A few papers 
+ have appeared in development money flow/money-based studies journals as well as econometric 
+ and other applied money flow/money-based studies journals. 
+ The scientific studies are surveyed under the three headings involved in 
+ the above section, depending on the type of edge of something/unexplored area production function 
+ guessed. 
+ 
+ 3.1 
+ 
+ Pre-decided edges of something/unexplored areas 
+ 
+ Russell and Young (1983) guessed a pre-decided Cobb-Douglas 
+ edge of something/unexplored area using corrected ordinary least-squares moving backward with a cross-sec- 
+ 
+ FRONTIER PRODUCTION FUNCTIONS 
+ 
+ 195 
+ 
+ tion of 56 farms in the North-West area of England during 1977-78. The 
+ (thing that changes (like a test score) because of something else that you control (like study time)) was total money/money income received/got from the crop, animals and 
+ miscellaneous activities on the farms involved. Technical (measures of output versus waste/getting more with less waste) for 
+ the individual farms were gotten using both the Timmer and Kopp 
+ measures. 6 These two measures of technical (wasting very little while working or producing something) gave about 
+ the same values and the same rankings for the 56 farms involved. The 
+ Timmer technical (measures of output versus waste/getting more with less waste) ranged from 0.42 to 1.00, with average 0.73 
+ and sample standard moving away 0.11. Russell and Young (1983) did not 
+ make any strong ends/end results as to the policy effects/results/suggestions of these results. 
+ Kontos and Young (1983) managed and did/done almost the same  edge of something/unexplored area analyses to those of 
+ Russell and Young (1983) for a data set for 83 Greek farms for the 
+ 1980-81 harvest year. Kontos and Young (1983) applied a Box-Cox change to the (numbers that change/things that change) of the model and received/got almost the same  elasticities to 
+ those received/got by guessing the Cobb-Douglas production function by 
+ ordinary least-squares moving backward. Since the chance ratio test pointed to/showed 
+ that the Box-Cox model was not very different from the usual 
+ Cobb-Douglas model, the pre-decided edge of something/unexplored area model was guessed by 
+ corrected ordinary least-squares moving backward. The guessed edge of something/unexplored area model 
+ was used to get the values of the Kopp measure of technical (wasting very little while working or producing something) 
+ for the individual farms involved. These technical (measures of output versus waste/getting more with less waste) ranged from 
+ about 0.30 to 1.00, with an average of 0.57, pointing to/showing that (large/relatively large) 
+ technical inefficiencies existed in the Greek farms surveyed. 
+ Dawson (1985) analysed 4 years of data for the 56 farms involved in the 
+ paper by Russell and Young (1983). Three estimators for the technical 
+ (wasting very little while working or producing something) of the individual farms were presented which involved a two-step, 
+ ordinary least-squares procedure, an analysis-of-covariance method and the 
+ linear programming procedure suggested by Aigner and Chu (1968). The 
+ technical (wasting very little while working or producing something) measures received/got by the three methods showed wide 
+ difference/different version and the guessed relationship coefficients were quite small. Dawson (1985) claimed that there was indication that the technical (measures of output versus waste/getting more with less waste) 
+ were directly related to the size of the farm operation. 
+ Taylor, Drummond and Gomes (1986) thought about/believed a pre-decided 
+ Cobb-Douglas edge of something/unexplored area production function for Brazilian farmers to (ask lots of questions about/try to find the truth about) the effectiveness of a World Bank sponsored farming-based credit 
+ programme in the State of Minas Gerais. The limits/guidelines of the edge of something/unexplored area 
+ The Timmer measure of technical (wasting very little while working or producing something) is the measure discussed above in Section 3. 
+ The Kopp measure of technical (wasting very little while working or producing something), introduced by Kopp (1981), involves the ratio of 
+ the edge of something/unexplored area input levels which would be needed/demanded to produce the watched/followed level of output 
+ (the input ratios being constant) if the farm was fully technically (producing a lot with very little waste), to the actual 
+ input levels used. These two measures are not equal unless the production edge of something/unexplored area has 
+ constant returns to scale. 
+ 6 
+ 
+ 196 
+ 
+ G.E. BATIESE 
+ 
+ model were guessed by corrected ordinary least-squares moving backward and 
+ the maximum-chance method under the idea (you think is true) that the non-negative farm effects had gamma distribution. The authors did not report 
+ guesses for different edge of something/unexplored area functions for person (who was part of a study, etc.) and non-person (who was part of a study, etc.) farmers in the farming-based credit programme and test if the 
+ edges of something/unexplored areas were (group of things that are all pretty much the same). It appears that the technical (measures of output versus waste/getting more with less waste) of 
+ person (who was part of a study, etc.) and non-person (who was part of a study, etc.) farmers were guessed from the common 
+ production edge of something/unexplored area reported in the paper. The average technical (measures of output versus waste/getting more with less waste) for person (who was part of a study, etc.) and non-person (who was part of a study, etc.) farmers were reported to be 0.18 
+ and 0.17, (match up each pair of items in order). 7 The authors decided that these values were not 
+ very different and that the farming-based credit programme did not 
+ appear to have any significant effect on the technical (measures of output versus waste/getting more with less waste) of 
+ person (who was part of a study, etc.) farmers. 
+ Bravo-Ureta (1986) guessed the technical (measures of output versus waste/getting more with less waste) of dairy farms in 
+ the New England area of the United States using a pre-decided CobbDouglas edge of something/unexplored area production function. The limits/guidelines of the production 
+ edge of something/unexplored area were guessed by linear programming methods involving the 
+ (related to the study of how likely or unlikely things are to happen) edge of something/unexplored area approach. Using the 96% (related to the study of how likely or unlikely things are to happen) edge of something/unexplored area guesses, Bravo-Ureta (1986) received/got technical (measures of output versus waste/getting more with less waste) which ranged 
+ from 0.58 to 1.00, with an average of 0.82. He decided that technical 
+ (wasting very little while working or producing something) of individual farms was (related to numbers) independent of size of the 
+ dairy farm operation, as measured by the number of cows. 
+ Aly, Belbase, Grabowski and Kraft (1987) (examined closely) the technical 
+ (wasting very little while working or producing something) of a sample of Illinois grain farms by using a pre-decided 
+ edge of something/unexplored area production function of ray-homothetic type. The authors presented 
+ a well-said summary of the different approaches to edge of something/unexplored area production 
+ functions, including (random/including random data points) edges of something/unexplored areas. The pre-decided ray-homothetic 
+ edge of something/unexplored area, which was guessed by corrected ordinary least-squares moving backward, had the output and input (numbers that change/things that change) expressed in money/money income terms rather 
+ than in physical units. So the technical (measures of output versus waste/getting more with less waste) also reflected 
+ allocative (measures of output versus waste/getting more with less waste). The mean technical (wasting very little while working or producing something) for the 88 grain farms 
+ involved was 0.58 which pointed to/showed that (large/relatively large) inefficiency existed in 
+ Illinois grain farms. The authors found that larger farms tended to be more 
+ technically (producing a lot with very little waste) than smaller ones, ignoring whether land 
+ helped grow or gross money/money income was used to classify the farms by size of 
+ operation. 
+ 
+ If Taylor, Drummond and Gomes (1986) had guessed separate production edges of something/unexplored areas for 
+ person (who was part of a study, etc.) and non-person (who was part of a study, etc.) farmers, then the mean technical (measures of output versus waste/getting more with less waste) of the farmers 
+ in the different groups could be guessed by [A /(A+ 1)]', where A and r are the 
+ limits/guidelines of the gamma distribution involved. 
+ 7 
+ 
+ FRONTIER PRODUCfiON FUNCfiONS 
+ 
+ 197 
+ 
+ Ali and Chaudhry (1990) guessed pre-decided edge of something/unexplored area production 
+ functions in their analyses of a thin slice of farms in four areas of 
+ Pakistan's Punjab. The limits/guidelines of the Cobb-Douglas edge of something/unexplored area functions 
+ for the four areas were guessed by linear programming methods. 
+ Although the edge of something/unexplored area functions were not (group of things that are all pretty much the same) among the different areas, the technical (measures of output versus waste/getting more with less waste) in the four areas ranged from 0.80 
+ to 0.87 but did not appear to be very different. 
+ 
+ 3.2 
+ 
+ (random/including random data points) edges of something/unexplored areas 
+ 
+ Aigner, Lovell and Schmidt (1977) applied the (random/including random data points) edge of something/unexplored area production function in the analysis of aggregative data on the U.S. first (or most important) 
+ metals industry (involving 28 states) and US farming-based data for 6 years 
+ and the 48 (covering the same area; being the same length, size, etc.) states. For these applications, the (random/including random data points) 
+ edge of something/unexplored area was not very different from the average response function. 
+ Almost the same  results were gotten by Meeusen and Van den Broeck (1977) in 
+ their analyses for ten French manufacturing businesses. 8 
+ The first application of the (random/including random data points) edge of something/unexplored area model to farm-level 
+ farming-based data was presented by Battese and Corra (1977). Data from the 
+ 1973-74 Australian Grazing Industry Survey were used to guess pre-decided and (random/including random data points) Cobb-Douglas production edges of something/unexplored areas for the three 
+ states included in the Peaceful/church-related Zone of Eastern Australia. The variance of 
+ the farm effects was found to be a highly significant proportion of the total 
+ (quality of changing over time or at different places) of the logarithm of the value of sheep production in all states. 
+ The y-limit/guideline guesses went beyond 0.95 in all cases. So the (random/including random data points) 
+ edge of something/unexplored area production functions were very different from their corresponding pre-decided edges of something/unexplored areas. Technical (wasting very little while working or producing something) of farms in the areas was not talked about in Battese and Corra (1977). 
+ Kalirajan (1981) guessed a (random/including random data points) edge of something/unexplored area Cobb-Douglas production function using data from 70 rice farmers for the rabi season in a 
+ district in India. The variance of farm effects was found to be a highly 
+ significant part in describing the (quality of changing over time or at different places) of rice yields (the guess for the y-limit/guideline was 0.81). Kalirajan (1981) went ahead to (ask lots of questions about/try to find the truth about) the relationship between the difference between the guessed 'maximum yield function' and the watched/followed rice produces and such (numbers that change/things that change) as 
+ farmer's experience, educational level, number of visits by extension workSince that time there have been a large number of scientific uses of the (random/including random data points) 
+ edge of something/unexplored area model in production and cost functions involving industrial and manufacturing 
+ businesses in which the model was very different from the average response function 
+ and the similar pre-decided edge of something/unexplored area. These are not included in this survey. 
+ 
+ 8 
+ 
+ 198 
+ 
+ G.E. BATIESE 
+ 
+ Â° 
+ 
+ ers, etc. 9 In this second-stage analysis, 1 Kalirajan (1981) noted the policy 
+ effects/results/suggestions of these findings for improving crop yields of farmers. 
+ Kalirajan (1982) guessed a almost the same  (random/including random data points) edge of something/unexplored area production function to that in Kalirajan (1981) in the analysis of data from 91 rice farmers 
+ for the kharif season in the same district of India as in his earlier paper. 
+ The farm effects in the model were again found to be very highly significant (with y = 0.93). 
+ Bagi (1982a) used the (random/including random data points) edge of something/unexplored area Cobb-Douglas production 
+ function model to decide/figure out whether there were any a big differences 
+ in the technical (measures of output versus waste/getting more with less waste) of small and large crop and mixed-business/project 
+ farms in West Tennessee.' The (quality of changing over time or at different places) of farm effects were found to be 
+ highly significant and the mean technical (wasting very little while working or producing something) of mixed-business/project 
+ farms was smaller than that for crop farms (about 0.76 against/compared to/or 0.85, 
+ (match up each pair of items in order)). However, there did not appear to be a big differences in 
+ mean technical (wasting very little while working or producing something) for small and large farms, ignoring whether 
+ the farms were classified according to land or value of farm sales. 11 
+ Bagi (1984) thought about/believed the same data set as in Bagi (1982a) to (ask lots of questions about/try to find the truth about) 
+ whether there were any a big differences in the mean technical 
+ (measures of output versus waste/getting more with less waste) of part-time and full-time farmers. No a big differences 
+ were seen/obvious, ignoring whether the part-time and full-time farmers 
+ were working at mixed farming or crop-only farms. 
+ Bagi and Huang (1983) guessed a translogarithmic (random/including random data points) edge of something/unexplored area 
+ production function using the same data on the Tennessee farms thought about/believed in Bagi (1982a). The Cobb-Douglas (random/including random data points) edge of something/unexplored area model was 
+ found not to be an (good) enough representation of the data, given the (detailed descriptions of exactly what is required) of the translog model for both crop and mixed farms. The limits/guidelines 
+ 
+ 9 It is possible for watched/followed yield to go beyond the similar value of the ' highest yield 
+ function' because the last thing just mentioned is received/got by using the guessed f3-limits/guidelines of the 
+ (random/including random data points) edge of something/unexplored area production function. Negative differences are clearly reported in 
+ Kalirajan (1982) in Table 2 (p. 233). Under the ideas (you think are true) of the (random/including random data points) edge of something/unexplored area 
+ production function (4) the watched/followed yields cannot go beyond the similar (random/including random data points) 
+ edge of something/unexplored area yields, but the last thing just mentioned are not (capable of being seen and known) values. 
+ 10 Kalirajan (1981, p. 289) states that the limits/guidelines of the second-stage model involving 
+ differences between guessed maximum produces and watched/followed yields were guessed by the 
+ maximum-chance method connected with the (random/including random data points) edge of something/unexplored area model. However, the 
+ ideas (you think are true) of the (random/including random data points) model (4) would not hold when the guessed yield function 
+ from the first-stage analysis is involved. 
+ 11 Bagi (in a mistaken way) (p. 142) claimed that the guess for the y-limit/guideline in the (random/including random data points) 
+ edge of something/unexplored area model [see the reference to Battese and Corra (1977) in Section 2(ii) above] of 0.72 
+ hints that 72% of the mistake between the watched/followed and maximum (edge of something/unexplored area) output 
+ results from technical inefficiency. 
+ 
+ FRONTIER PRODUCTION FUNCTIONS 
+ 
+ 199 
+ 
+ of the model were guessed by corrected ordinary least-squares moving backward. 
+ The mean technical (measures of output versus waste/getting more with less waste) of crop and mixed farms were guessed to 
+ be 0.73 and 0.67, (match up each pair of items in order). Individual technical (measures of output versus waste/getting more with less waste) of the farms 
+ were (described the future) using the (describe the future)or exp(- &#126;), where &#126; is the guessed 
+ (may or may not happen, depending on something) mean of the ith farm effect (suggested by Jondrow, Lovell, 
+ Materov and Schmidt, 1982). These technical (measures of output versus waste/getting more with less waste) varied from 0.35 
+ to 0.92 for mixed farms and 0.52 to 0.91 for crop farms. 
+ Bagi (1982b) included scientific results on the guess of a translog 
+ (random/including random data points) edge of something/unexplored area production function using data from 34 share cropping 
+ farms in India. The limits/guidelines of the model were guessed using corrected ordinary least-squares moving backward. The Cobb-Douglas functional 
+ form was judged not to be an (good) enough representation of the data given the 
+ ideas (you think are true) of the translog model. For these Indian farm data, the 
+ variance of the non-negative farm effects was only a small proportion of the 
+ total variance of farm outputs ( .Y = 0.15). The individual farm technical 
+ (measures of output versus waste/getting more with less waste) were (described the future) to be between 0.92 and 0.95. These high 
+ technical (measures of output versus waste/getting more with less waste) are agreeing with/matching up with/working regularly with the (compared to other things) low variance of farm 
+ effects which hints that the (random/including random data points) edge of something/unexplored area and the average production function are expected to be quite almost the same. 
+ Kalirajan and Flinn (1983) organized and listed the way(s) of doing things by which the 
+ individual firm effects can be (described the future) (as discussed above with reference 
+ to Jondrow et al., 1982) and applied the approach in their analysis of data 
+ on 79 rice farmers in the Philippines. A translog (random/including random data points) edge of something/unexplored area production function was assumed to explain the difference/different version in rice output in terms 
+ of a few input (numbers that change/things that change). The limits/guidelines of the model were guessed by 
+ the method of maximum chance. The Cobb-Douglas model was found 
+ to be an not enough representation for the farm-level data. The individual 
+ technical (measures of output versus waste/getting more with less waste) ranged from 0.38 to 0.91. The (described the future) technical 
+ (measures of output versus waste/getting more with less waste) were moved backward on a few farm-level (numbers that change/things that change) and farmerspecific (features/ qualities/ traits). It was decided that the practice of transplanting 
+ rice seedlings, (number of times something happens) of (the adding of things to soil to make plants grow better), years of farming and number of 
+ extension contacts had big influence on the difference/different version of the guessed farm technical (measures of output versus waste/getting more with less waste). 
+ Huang and Bagi (1984) assumed a changed translogarithmic (random/including random data points) 
+ edge of something/unexplored area production function to guess the technical (measures of output versus waste/getting more with less waste) of individual farms in India. It was found that the Cobb-Douglas (random/including random data points) 
+ edge of something/unexplored area was not an (good) enough representation for describing the value of 
+ farm products, given the (detailed descriptions of exactly what is required) of the translog model. The variance 
+ of the random effects was a significant part of the (quality of changing over time or at different places) of 
+ value of farm outputs. Individual technical (measures of output versus waste/getting more with less waste) ranged from about 
+ 0.75 to 0.95, but there appeared to be no a big differences in the 
+ technical (measures of output versus waste/getting more with less waste) of small and large farms. 
+ 
+ 200 
+ 
+ G.E. BA1TESE 
+ 
+ Taylor and Shonkwiler (1986) guessed both pre-decided and (random/including random data points) production edges of something/unexplored areas of Cobb-Douglas type for people (who were part of a study, etc.) and nonparticipants of the World Bank sponsored credit programme (PRODEMATA) for farmers in Brazil. The limits/guidelines of the edges of something/unexplored areas involved 
+ were guessed by maximum-chance methods, given the ideas (you think are true) 
+ that the farm effects had gamma distribution in the pre-decided edge of something/unexplored area 
+ and half-(usual/ commonly and regular/ healthy) for the (random/including random data points) edge of something/unexplored area. The authors did not report that 
+ (related to studying numbers) tests had been managed and did/done on the evenness of the edges of something/unexplored areas for 
+ people (who were part of a study, etc.) and non-person (who was part of a study, etc.) farmers. Farm-level technical (measures of output versus waste/getting more with less waste) 
+ were guessed for all the edges of something/unexplored areas, as suggested by Jondrow et al. (1982). 
+ Given the (random/including random data points) edges of something/unexplored areas, the average technical (measures of output versus waste/getting more with less waste) for people (who were part of a study, etc.) and non-people (who were part of a study, etc.) were 0.714 and 0.704, (match up each pair of items in order), and were not 
+ very different. However, given the ideas (you think are true) of the pre-decided 
+ edges of something/unexplored areas, the average technical (measures of output versus waste/getting more with less waste) were 0.185 and 0.059, (match up each pair of items in order), and were very different. Taylor and Shonkwiler (1986) decided that their results pointed to/showed somewhat confusing results as to the 
+ hit/effect of the PRODEMATA Â·programme on person (who was part of a study, etc.) farmers in 
+ Brazil. 12 
+ Huang, Tang and Bagi (1986) adopted a (random/including random data points) profit function 
+ approach to (ask lots of questions about/try to find the truth about) the money-based (wasting very little while working or producing something) of small and large farms in 
+ two states in India. The (quality of changing over time or at different places) of farm effects was highly significant and 
+ individual farm money-based (measures of output versus waste/getting more with less waste) tended to be greater for large farms 
+ than small farms (the average money-based (measures of output versus waste/getting more with less waste) being 0.84 and 0.80 for 
+ large and small farms, (match up each pair of items in order)). The authors also thought about/believed the 
+ desire/decision of best demand for hired labour under conditions of 
+ doubt. 
+ Kalirajan and Shand (1986) (examined closely) the technical (wasting very little while working or producing something) of rice 
+ farmers within and without the Kemubu Crop-watering/rinsing with water Project in Malaysia 
+ during 1980. Given the (detailed descriptions of exactly what is required) of a translog (random/including random data points) edge of something/unexplored area 
+ production function for the output of the rice farmers, the Cobb-Douglas 
+ model was not an (good) enough representation of the data. Maximum-chance methods were used for guess of the limits/guidelines of the models 
+ and the edges of something/unexplored areas for the two groups of farmers were very different. 
+ Kalirajan and Shand (1986) reported that the individual technical (measures of output versus waste/getting more with less waste) ranged from about 0.40 to 0.90, such that the (measures of output versus waste/getting more with less waste) for those 
+ 12 However, given the (compared to other things) large guessed standard errors for the variances of the 
+ random errors in the (random/including random data points) edges of something/unexplored areas, it may be the case that the (random/including random data points) model is not 
+ very different from the pre-decided model. Because of this this would suggest that the 
+ results received/got from the pre-decided edges of something/unexplored areas are more encouraging as to the positive 
+ hit/effect of the credit programme on person (who was part of a study, etc.) farmers, even though the total levels of 
+ technical (measures of output versus waste/getting more with less waste) were quite small. 
+ 
+ FRONTIER PRODUCTION FUNCTIONS 
+ 
+ 201 
+ 
+ outside the Kemubu Crop-watering/rinsing with water Project were (a) little narrower. They decided that their results pointed to/showed that the introduction of new technology 
+ for farmers does not necessarily result in increased (a lot) technical 
+ (measures of output versus waste/getting more with less waste) over those for traditional farmers. 
+ Ekanayake and Jayasuriya (1987) guessed both pre-decided and 
+ (random/including random data points) edge of something/unexplored area production functions of Cobb-Douglas type for two 
+ groups of rice farmers in an watered area in Sri Skinnya. The limits/guidelines of 
+ the two edges of something/unexplored areas were guessed by maximum-chance and corrected 
+ ordinary least-squares methods. In only the 'tail reach' watered area, the 
+ (random/including random data points) edge of something/unexplored area appeared to be very different from the pre-decided model. Individual farm technical (measures of output versus waste/getting more with less waste) were guessed for both 
+ areas. The guesses received/got for the farms in the 'head reach' area (for 
+ which the (random/including random data points) edge of something/unexplored area appeared not to be very different from 
+ the pre-decided edge of something/unexplored area) were hugely different for the two different 
+ (random/including random data points) edges of something/unexplored areas. These results are not obviously reasonable. 
+ Ekayanake (1987) 13 further discusses the data thought about/believed by Ekanayake 
+ and Jayasuriya (1987) and used moving backward analysis to decide/figure out the 
+ farmer-clearly stated/particular (numbers that change/things that change) which had significant effects in describing the 
+ (quality of changing over time or at different places) in the individual farm technical (measures of output versus waste/getting more with less waste) in the 'tail reach' of 
+ the crop-watering/rinsing with water area involved. Allocative (wasting very little while working or producing something) was also thought about/believed in the 
+ scientific analysis. 
+ Kalirajan (1989) (described the future) technical (measures of output versus waste/getting more with less waste) of individual farmers 
+ (which he called "human capital") involved in rice production in two 
+ areas in the Philippines in 1984-85. A Cobb-Douglas (random/including random data points) edge of something/unexplored area 
+ model was assumed to be appropriate in the scientific analysis. The 
+ (described the future) technical (measures of output versus waste/getting more with less waste) were moved backward on a few farm- and 
+ farmer-clearly stated/particular (numbers that change/things that change) to discover what (numbers that change/things that change) had significant effects 
+ on the difference/different version in the technical (measures of output versus waste/getting more with less waste). 
+ Ali and Flinn (1989) guessed a (random/including random data points) profit edge of something/unexplored area of changed 
+ translog type 14 for Basmati rice farmers in Pakistan's Punjab. After 
+ guessing the technical (wasting very little while working or producing something) of individual farmers, the losses in (money made/good thing received) 
+ due to technical inefficiency were gotten and moved backward on different 
+ farmer- and farm-clearly stated/particular (numbers that change/things that change). Factors which were significant in 
+ describing the (quality of changing over time or at different places) in profit losses were level of education, off-farm 
+ employment, unavailability of credit and different restrictions connected with 
+ crop-watering/rinsing with water and (material that makes plants grow better) application. 
+ 13 The author was wrongly listed as S.A.B. Ekayanake by the Journal of Development 
+ Studies. The correct spelling of the author's name is "Ekanayake". 
+ I 4 Ali and Flinn (1989) deleted (numbers that change/things that change) in the translog (random/including random data points) profit edge of something/unexplored area which had 
+ coefficiencies which were not individually very different from zero. This is not a 
+ recommended applied econometric way(s) of doing things. 
+ 
+ 202 
+ 
+ G.E. BATTESE 
+ 
+ Dawson and Lingard (1989) used a Cobb-Douglas (random/including random data points) edge of something/unexplored area 
+ production function to guess technical (measures of output versus waste/getting more with less waste) of Philippine rice 
+ farmers using four years of data. The four (random/including random data points) edges of something/unexplored areas guessed 
+ were very different from the similar pre-decided edges of something/unexplored areas, 
+ but the authors did not put into use any panel-data approach or test if the 
+ edges of something/unexplored areas had (group of things that are all pretty much the same) elasticities. The individual technical (measures of output versus waste/getting more with less waste) 
+ ranged between 0.10 and 0.99, with the means between 0.60 and 0.70 for 
+ the 4 years involved. 
+ Bailey, Biswas, Kumbhakar and Schulthies (1989) guessed a (random/including random data points) 
+ model involving technical, allocative and scale inefficiencies for thin sliceal data on 68 Ecuadorian dairy farms. The technical inefficiencies of 
+ individual farms were about 12%, with little difference/different version being displayed by 
+ individual farms. However, the authors found that the losses in (money made/good things received) due 
+ to technical inefficiencies ranged from 20% to 25%. 
+ Kumbhakar, Biswas and Bailey (1989) used a system approach to guess technical, allocative and scale inefficiencies for Utah dairy farmers. 
+ The (random/including random data points) edge of something/unexplored area production function which was specified included 
+ both endogenous and (coming from the outside of something) (numbers that change/things that change). The endogenous (numbers that change/things that change) included were labour (including family and hired labour) and capital (the 
+ opportunity cost of capital expenses on the farm), whereas the (coming from the outside of something) 
+ (numbers that change/things that change) included level of formal education, off-farm income and measures 
+ of farm size for the farmers involved. Both types of explanatory (numbers that change/things that change) 
+ were found to have significant effects on the difference/different version of farm production. 
+ Technical (wasting very little while working or producing something) of farms was found to be positively related to farm 
+ size. 
+ Bravo-Ureta and Rieger (1990) guessed both pre-decided and 
+ (random/including random data points) edge of something/unexplored area production functions for a large sample of dairy farms in 
+ the northeastern states of the U.S.A for the years 1982 and 1983. The 
+ Cobb-Douglas functional form was assumed to be appropriate. The limits/guidelines of the pre-decided edges of something/unexplored areas were guessed by linear programming, corrected ordinary least-squares moving backward and maximum-chance 
+ methods (assuming that the non-negative farm effects had gamma distribution). The (random/including random data points) edge of something/unexplored area model was guessed by maximum-chance 
+ ways of doing things (given that the farm effects had half-(usual/ commonly and regular/ healthy) distribution). The 
+ (random/including random data points) edge of something/unexplored area model had significant farm effects for 1982 but it was 
+ (based on what's seen or what seems obvious) not very different from the pre-decided edge of something/unexplored area in 
+ 1983. The guessed technical (measures of output versus waste/getting more with less waste) of farms received/got from the three 
+ different methods used for the pre-decided model showed (large/relatively large) 
+ (quality of changing over time or at different places) but were generally less than those received/got by use of the 
+ (random/including random data points) edge of something/unexplored area model. However, Bravo-Ureta and Rieger (1990) found 
+ that the technical (measures of output versus waste/getting more with less waste) received/got by the different methods were 
+ highly related and gave almost the same  ordinal rankings of the farms. 
+ 
+ FRONTIER PRODUCTION FUNCTIONS 
+ 
+ 3.3 
+ 
+ 203 
+ 
+ Panel data models 
+ 
+ Battese and Coelli (1988) applied their panel-data model in the analysis 
+ of data for dairy farms in New South Wales and Victoria for the three 
+ years - 1978-79, 1979-80 and 1980-81. Given the (detailed descriptions of exactly what is required) of the 
+ (random/including random data points) edge of something/unexplored area Cobb-Douglas production function involved, the guess that the non-negative farm effects had half-(usual/ commonly and regular/ healthy) distribution 
+ was rejected for both states. Individual farm technical (measures of output versus waste/getting more with less waste) ranged 
+ from 0.55 to 0.93 for New South Wales farms, whereas the range was 0.30 
+ to 0.93 for Victorian farms. 
+ Battese, Coelli and Colby (1989) guessed a (random/including random data points) edge of something/unexplored area production function for farms in an Indian village for which data were available 
+ for up to ten years. Although the (random/including random data points) edge of something/unexplored area was significantly 
+ different from the similar pre-decided edge of something/unexplored area, the guess that 
+ the non-negative farm effects had half-(usual/ commonly and regular/ healthy) distribution was not rejected. Technical (measures of output versus waste/getting more with less waste) ranged from 0.66 to 0.91, with the mean 
+ (wasting very little while working or producing something) guessed by 0.84. 
+ Kalirajan and Shand (1989) guessed the time-invariant panel-data 
+ model using data for Indian rice farmers over five in-a-row harvest 
+ periods. The farm effects were found to be a highly significant part 
+ of the (quality of changing over time or at different places) of rice output, given the (detailed descriptions of exactly what is required) of a translog 
+ (random/including random data points) edge of something/unexplored area production function. Individual technical (measures of output versus waste/getting more with less waste) 
+ were guessed to range from 0.64 to 0.91, with average 0.70. A moving backward 
+ of the guessed technical (measures of output versus waste/getting more with less waste) on farm-clearly stated/particular (numbers that change/things that change) pointed to/showed 
+ that farming experience, level of education, access to credit and extension 
+ contacts had big influences on the difference/different version of the farm (measures of output versus waste/getting more with less waste). 
+ Battese and Coelli (1992) applied their panel-data model including 
+ time-changing/different firm effects in the analysis of data for paddy farmers in an 
+ Indian village who were watched/followed for up to ten years. Given the (detailed descriptions of exactly what is required) of a (random/including random data points) edge of something/unexplored area production function with time-invariant limits/guidelines, the guess of time-invariant technical (measures of output versus waste/getting more with less waste) of the 
+ paddy farmers was rejected. However, given that a linear time (popular thing/general way things are going) was 
+ included in the (random/including random data points) edge of something/unexplored area model (Dummiesian neutral technical 
+ change), then the guess of time-invariant technical (measures of output versus waste/getting more with less waste) was 
+ accepted. Also, the (random/including random data points) edge of something/unexplored area production function with the 
+ time (popular thing/general way things are going) included was not very different from the average response function (i.e., technical inefficiences could be thought about/believed (not there; not present) 
+ from the model. 15 The scientific results were gotten using the computer 
+ 15 However, in other scientific applications of the time-different model which have been 
+ conducted, including a time-trend (number or thing that changes) in the (random/including random data points) edge of something/unexplored area production 
+ function has not necessarily resulted in time-invariant technical inefficienies or the end/end result that technical inefficiency does not exist (see Battese and Tessema, 1992). 
+ 
+ 204 
+ 
+ G.E. BATTESE 
+ 
+ program, FRONTIER, which has been updated to guess the time-different model presented by Battese and Coelli (1991). 16 
+ 4. CONCLUSIONS 
+ 
+ Edge of something/unexplored area production functions have been applied in the analysis of 
+ farm-level data in a large number of developed and developing countries. 
+ The survey of scientific computer programs in<p><strong>NOTE: This document is incomplete. It was shortened to the maximum document length of 50,000 characters.</strong></p><div style="clear:both">&nbsp;</div>

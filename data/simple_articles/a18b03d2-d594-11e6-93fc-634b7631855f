@@ -1,0 +1,814 @@
+ Farming-based Money flow 31 (2004) 241-249 
+ www.elsevier.com/locate/agecon 
+ 
+ Farm size and the (things that decide other things) of productive (wasting very little while working or producing something) in 
+ the Brazilian Center-West 
+ Steven M. Helfand*, Edward S. Levine 
+ Department of Money flow, University of California, Riverside, CA 92521, USA 
+ 
+ Abstract 
+ This paper explores the (things that decide other things) of technical (wasting very little while working or producing something), and the relationship between farm size and (wasting very little while working or producing something), in the 
+ Center-West of Brazil. This is the area where farming-based production and total factor working well have grown the fastest since 
+ 1970. It is also a area seen as unusually large farms. Technical (wasting very little while working or producing something) is studied with Data Envelopment Analysis 
+ and county level data disaggregated by farm size and type of land (length of time at work or in power/right to permanent employment). The (wasting very little while working or producing something) measure is moved backward on a set of 
+ explanatory (numbers that change/things that change) which includes farm size, type of land (length of time at work or in power/right to permanent employment), (combination of different substances, objects, people, etc.) of output, access to institutions and indicators 
+ of technology and input usage. The relationship between farm size and (wasting very little while working or producing something) is found to be non-linear, with (wasting very little while working or producing something) first 
+ falling and then rising with size. Type of land (length of time at work or in power/right to permanent employment), access to institutions and markets, and modern inputs are found to be 
+ important (things that decide other things) of the differences in (wasting very little while working or producing something) across farms. 
+ #_# 2004 Elsevier B.V. All rights reserved. 
+ JEL classification: Q100; O300 
+ Keywords: Brazil; Farming; Working well; (wasting very little while working or producing something); DEA 
+ 
+ 1. Introduction 
+ Most studies of farming-based working well 
+ in developing countries support the view that there is 
+ an inverse relationship between working well and farm 
+ size (Berry and Cline, 1979; Barrett, 1996). If correct, 
+ land reform could add/give to improving both equity 
+ and (wasting very little while working or producing something) in farming. Most of these studies, 
+ however, are based on partial measures of working well 
+ * Corresponding author. Tel.: +1 909 827 1572. 
+ E-mail addresses: shelfand@mail.ucr.edu (S.M. Helfand), 
+ tedlevine@earthlink.net (E.S. Levine). 
+ 
+ such as yield which are (created unfair thinking in)/(unfair-thinking) in favor of small 
+ producers. It is likely that the inverse relationship 
+ would be less obvious, or maybe even reversed, if 
+ a measure of total factor working well (TFP) were used 
+ instead. It has also been suggested that the inverse 
+ relationship might weaken in a area seen as 
+ fast modernization. This paper explores the relationship between farm size and technical (wasting very little while working or producing something) in 
+ exactly this type of (surrounding conditions). The Center-West 
+ (CW) is the area of Brazil where production and 
+ TFP have grown the fastest since 1970. Gasques and 
+ ConceicÂ¸aËo (2001) and Vicente et al. (2001) both 
+ guess once-a-year TFP growth rates for the CW to be in 
+ 
+ 0169-5150/$ - see front matter #_# 2004 Elsevier B.V. All rights reserved. 
+ doi:10.1016/j.agecon.2004.09.021 
+ 
+ 242 
+ 
+ S.M. Helfand, E.S. Levine / Farming-based Money flow 31 (2004) 241-249 
+ 
+ the 4-5% range for the period 1970-1995, or about 
+ twice the national average. It is also a area 
+ seen as unusually large farms: the average 
+ farm size in the CW is about six times the national 
+ average. 
+ A second goal of this paper is to extend the 
+ recent Brazilian books on total factor working well 
+ growth in farming to an analysis of the (things that decide other things) of working well. We do this in two ways. First, 
+ latest studies have limited themselves to the 
+ measurement of TFP. Only one has tried to analyse 
+ the (things that decide other things) of TFP in an econometric (solid basic structure on which bigger things can be built) 
+ (Vicente et al., 2003). In this paper we move backward a 
+ measure of technical (wasting very little while working or producing something) on a set of explanatory 
+ (numbers that change/things that change) which includes farm size, type of land 
+ (length of time at work or in power/right to permanent employment), (combination of different substances, objects, people, etc.) of output, access to institutions, 
+ and indicators of technology and input usage. Second, 
+ previous studies have been based on national or state 
+ level data. These have given a valuable first 
+ guess to working well change in the past 
+ at least 20 years. The Brazilian farming-based part/area, 
+ however, is far too blended for us to be made happy 
+ with studies done at this level. In this paper, we 
+ use data from 426 counties, 15 farm size classes and 
+ four types of land (length of time at work or in power/right to permanent employment). This permits us to avoid 
+ many of the issues of grouping bias present in 
+ previous studies, and creates a far richer set of data 
+ for studying the (things that decide other things) of (wasting very little while working or producing something). 
+ The paper is organised as follows. Section 2 briefly 
+ presents the Data Envelopment Analysis way(s) of doing things 
+ that is used to guess technical (wasting very little while working or producing something). Section 3 
+ describes the data and the construction of the 
+ (numbers that change/things that change). Section 4 analyses the scientific results, 
+ with a focus on farm size and Section 5 provides 
+ ends/end results. 
+ 
+ DEA is a non-parametric way of doing things and that it can 
+ change something (to help someone)/take care of someone many outputs and inputs. Also, 
+ the econometric explanation has yet to be developed for 
+ including (related to space or existing in space) relationship into a (random/including random data points) 
+ edge of something/unexplored area model. 
+ We use output distance functions to describe the 
+ edge of something/unexplored area of a multiple-input multiple-output production 
+ technology, and the (fair in amount, related to something else/properly sized compared to something else) distance of each 
+ (instance of watching, noticing, or making a statement) from the edge of something/unexplored area. The following note 
+ is used. The production possibilities set P is the 
+ combination of all pairs of inputs x and outputs y that 
+ are (able to be done), where x and y are vectors. Inputs and 
+ outputs are assumed to be freely disposable, and P is 
+ assumed to be non-empty, closed, and curving out. The 
+ output distance function D0 is 
+   
+  
+  
+ 1 
+ (1) 
+ D0 Ã°x; yÃ Â¼ inf u : x; y 2 P 
+ u 
+ where u is a non-negative scalar that measures the ratio 
+ of the watched/followed vector of outputs to the maximum 
+ vector that could be (accomplished or gained), given the input vector, if 
+ all outputs were expanded (fair in amount, related to something else/properly sized compared to something else)ly. The inverse 
+ of the output distance function, the Farrell outputoriented measure of technical (wasting very little while working or producing something), is used here 
+ as a measure of (wasting very little while working or producing something). The Farrell measure equals 
+ one for (producing a lot with very little waste) firms on the edge of something/unexplored area, and then 
+ increases with inefficiency. 
+ Farrell (wasting very little while working or producing something) measures can be found as the 
+ solution to a linear programming problem under 
+ other choice ideas (you think are true) about returns to scale. With K 
+ farms, N inputs, M outputs and the idea (you think is true) of 
+ constant returns to scale (CRS), the following linear 
+ program must be solved for every (instance of watching, noticing, or making a statement): 
+ Â½D0 Ã°x; yÃÂÃ1 Â¼ max u 
+ Ã°z;uÃ 
+ 
+ s:t: 
+ 2. Way(s) of doing things 
+ We use Data Envelopment Analysis (DEA) to 
+ calculate productive (wasting very little while working or producing something) (FaÂ¨ re et al., 1994). 
+ (wasting very little while working or producing something) is defined in a relative sense, as the distance 
+ between watched/followed input-output combinations and a 
+ best practice edge of something/unexplored area. DEA is one of a few 
+ ways of doing things that can be used to calculate a best practice 
+ production edge of something/unexplored area (Coelli et al., 1998; Kumbhakar 
+ and Lovell, 2000). The principal advantages of DEA, 
+ instead of (random/including random data points) edge of something/unexplored area guess, are that 
+ 
+ uk ymk 
+ 
+ K 
+ X 
+ zk ymk ; m Â¼ 1; . . . ; M 
+ 
+ (2) 
+ 
+ kÂ¼1 
+ K 
+ X 
+ 
+ zk xnk 
+ 
+ kÂ¼1 
+ 
+ zk ! 0; 
+ 
+ xnk ; 
+ 
+ n Â¼ 1; . . . ; N 
+ k Â¼ 1; . . . ; K 
+ 
+ where the zk are (numbers that change/things that change) which show the strength 
+ with which each farm is used in order to construct 
+ the edge of something/unexplored area of the production possibilities set. The 
+ linear program solves for the highest value 
+ of u given the restrictions that the (fair in amount, related to something else/properly sized compared to something else)ly 
+ expanded vector of outputs and the vector of inputs 
+ 
+ S.M. Helfand, E.S. Levine / Farming-based Money flow 31 (2004) 241-249 
+ 
+ are in the (able to be done) set, and that the strength (numbers that change/things that change) 
+ are non-negative. 
+ Two warnings are in order. First, the (wasting very little while working or producing something) scores 
+ may be very sensitive to measurement error for the 
+ farms that define the best practice edge of something/unexplored area. We explore 
+ this issue in the scientific application. Second, we use 
+ the term 'inefficiency' only to mean the distance 
+ between a given farm and the best practice edge of something/unexplored area. 
+ There are many reasons why a farm might not be 
+ operating on the best practice edge of something/unexplored area, and most of 
+ these are unlikely to relate to x-inefficiency. Left out/kept out 
+ (numbers that change/things that change) such as land quality, market failures that lead 
+ to non-separatable household decisions, credit market 
+ restrictions that lead farms to choose input-output 
+ bundles that appear inefficient in relation to (free to move around/without rules or restrictions) farms, and different wines of technology 
+ are all possible reasons why clear farmers might not 
+ be operating on the edge of something/unexplored area. The challenge, it seems to 
+ us, is to identify the relative importance of these 
+ different sources of 'inefficiency'. 
+ 
+ 3. The data 
+ The data for this study come from the 1995/1996 
+ Farming-based (official count of everyone who lives in a country, city, etc.)  in Brazil (IBGE, 1998). For the 
+ DEA analysis, we use group output and five 
+ inputs. We briefly explain the construction of these 
+ (numbers that change/things that change) here. In Section 4, which presents the results 
+ of the econometric analysis, we explain the (numbers that change/things that change) 
+ that are used in the second stage to study the 
+ (things that decide other things) of (wasting very little while working or producing something). 
+ Output (Y): This (number or thing that changes) is defined as the gross 
+ value of farming-based output net of three categories of 
+ items. First, to avoid the double counting of animals 
+ that happens when animals are (bought) and sold 
+ at different stages of the production process, we 
+ deducted the value of (instances of buying things for money) of (cows, bulls, etc.), hogs, 
+ chickens and fertilised eggs. (cows, bulls, etc.), hogs, and 
+ chickens account for over 99% of the value of animal 
+ production in the CW. Second, we deducted the value 
+ of production of 'rural industry', which accounts for 
+ 2% of the value of farming-based production in the CW. 
+ Early/incomplete guesses showed/told about that for most products 
+ the value added in (away from cities) industry was very close 
+ to zero. Because of data limits, it was much 
+ simpler to leave out/keep out (away from cities) industry than guessed 
+ intermediate inputs. Finally, we left out/kept out the value of 
+ 
+ 243 
+ 
+ 'extractive' and 'forestry' products to be consistent 
+ with our decision to leave out/keep out forest and (natural area with trees) 
+ areas. These products only accounted for 1.6% of the 
+ value of farming-based output in the area, while forest 
+ and (natural area with trees) represented 29% of the used area. 
+ Used area (X1): 90% of the value of output in the 
+ CW comes from (lasting for a short time) crops and (cows, bulls, etc.). With this 
+ in mind, we built the area (number or thing that changes) to include 
+ natural and permanent (areas of grassy land), land used for 
+ crops, and productive land that was not being used. 
+ These categories accounted (match up each pair of items in order) for 58, 7 and 
+ 2% of the used land. The left out/kept out categories were 
+ forest and (natural area with trees) (29%) and unusable land (4%). 
+ Labour (X2): First, we built a (number or thing that changes) for 
+ family labour by treating males and females as equals, 
+ and by only counting half of the family labour under 
+ 14 years of age. Second, we built a (number or thing that changes) for 
+ hired labour along the lines of Guanziroli et al. (2001). 
+ These authors figured out an approach to correct for the 
+ fact that (a) (lasting for a short time) workers should not be counted 
+ as full-time equal workers, and (b) many farms, 
+ especially the large ones, hire contracting firms in an 
+ effort to avoid paying social security and other labour 
+ taxes. Finally, we added family and hired labour 
+ together in order to construct the labour (number or thing that changes) in 
+ full-time equal units. 
+ Tractors (X3): Tractors are measured in the 
+ equal of a 75 horsepower tractor, which was 
+ the midpoint of the modal horsepower class (50- 
+ 100 hp). 
+ Animals (X4): Many studies of TFP have not used 
+ animals as an input, even when they were carefully thought about/believed 
+ part of output. We grouped animals based on their 
+ relative prices in the CW of Brazil. We then used the 
+ stock of animals in (cows, bulls, etc.)  equals as a substitute for the 
+ stock of capital in animal production. 
+ (bought something for money) inputs (X5): We created an input 
+ (number or thing that changes) based on the expenses for (a) fertiliser, 
+ (b) chemicals (such as bug-killers and herbicides), (c) 
+ seeds, (d) fuel, and (e) feed and medicine for animals. 
+ Finally, we created 'representative farms' for each 
+ farm size, of each type of land (length of time at work or in power/right to permanent employment), in each county. 
+ This was necessary because we did not have access to 
+ farm level data. We used data from all 426 counties in 
+ the CW (leaving out/keeping out the Federal District) that was 
+ grouped into 15 size classes and 4 types of (length of time at work or in power/right to permanent employment). 
+ After removing unusable (instances of watching, noticing, or making statements), the final 
+ dataset covered 237,595 establishments grouped 
+ 
+ 244 
+ 
+ S.M. Helfand, E.S. Levine / Farming-based Money flow 31 (2004) 241-249 
+ 
+ into 9304 representative farms, suggesting an average of 
+ 25 establishments per representative farm. 
+ 
+ 4. Scientific results 
+ We first calculated the middle-point value of output per 
+ hectare (Y/X1) and the middle-point value of output per unit 
+ of labour (Y/X2) for each farm size class. The data 
+ were agreeing with/matching up with/working regularly with a broad body of international 
+ (event(s) or object(s) that prove something) on the relationship between farm size and 
+ working well. On the one hand, there was a strong 
+ inverse relationship between value of output per 
+ hectare and farm size, reflecting the intensive use by 
+ small farms of their rare/not enough  factor of production-land. 
+ Labour working well, in contrast, was much higher on 
+ large farms where the opportunity cost of labour is 
+ greater. The relationship between total factor working well (or technical (wasting very little while working or producing something) under CRS) and farm 
+ size is influenced by the partial productivities of land, 
+ labour, and all other inputs. 
+ We calculated the technical (wasting very little while working or producing something) scores 
+ according to the way(s) of doing things in Section 2 and the 
+ idea (you think is true) of constant returns to scale. We then 
+ moved backward the (wasting very little while working or producing something) scores on different combinations of explanatory (numbers that change/things that change) as reported in Table 1. 
+ We guessed all of the (moving backwards) with county level 
+ fixed effects to take account of (related to space or existing in space) mixed-up nature, 
+ such as differences in soil quality, that was not 
+ captured in the move backwardors. We used a GLS procedure 
+ that allowed for heteroscedasticity across the 426 
+ counties. Further, because each (instance of watching, noticing, or making a statement) in our data 
+ set contains mean values of each of the (numbers that change/things that change) over 
+ all farms in a given (length of time at work or in power/right to permanent employment) type-size-county cell, we 
+ used the number of establishments represented by 
+ each (instance of watching, noticing, or making a statement) to construct weights to correct for the 
+ heteroscedasticity (not only across counties, but also 
+ across (length of time at work or in power/right to permanent employment) types and sizes) that otherwise rises 
+ from moving backward on cell means or ''grouped data'' 
+ (Kmenta, 1971). In practice, the guess ways of doing things 
+ mattered little and the guessed coefficients from all 
+ of the (moving backwards) proved quite strong to alternative 
+ (detailed descriptions of exactly what is required) and to the including in something/exclusion of 
+ different sets of (numbers that change/things that change). 
+ Moving backward (1) guesses the absolute/without any limits relationship between the log of technical inefficiency and 
+ the log of farm size. We added a quadratic term to 
+ capture non-linearities that we watched/followed in a prior 
+ 
+ graphical analysis of the mean inefficiency by farm 
+ size. Both coefficients were (meaningful numbers) at 
+ least at the 1% level. In Fig. 1 we have plotted the 
+ curve 'size' based on the coefficients from moving backward 
+ (1). The curve shows a non-linear relationship 
+ between inefficiency and farm size, with inefficiency 
+ first rising and then falling as farm size grows. The 
+ modal farm size class of 20-50 ha might be thought about/believed 
+ as a target size for land reform in this area, and for 
+ this reason we have set its level of inefficiency equal to 
+ one in the figure. Relative to this group, which 
+ accounts for 21% of the farms in the area, farms in 
+ the 200-500 range are guessed to be about 20% less 
+ (producing a lot with very little waste). While farms smaller than 20 ha are even 
+ (producing more with less waste), the analysis here will focus on farms 
+ above 20 ha which represent 78% of the farms in the 
+ area and more then 95% of all (numbers that change/things that change) other than 
+ labour.1 
+ In addition to farm size, the next four (moving backwards) 
+ control for differences in inefficiency due to land 
+ (length of time at work or in power/right to permanent employment) status. We included dummies for renters, 
+ (farm workers paid with a share of crop profits) and people (who are living in a building, etc.) to tell/show the difference between them 
+ from landowners. Including (length of time at work or in power/right to permanent employment) dummies in 
+ model (2) did not change the coefficients on size. The 
+ results point to/show that renters were somewhat more 
+ (producing a lot with very little waste) than owners (negative coefficients point to/show 
+ lower inefficiency), people (who are living in a building, etc.) were less (producing a lot with very little waste), and 
+ (farm workers paid with a share of crop profits) had mixed results. It is likely that 
+ renters were (producing more with less waste) in this area because they 
+ were a more (a mixture of things that are all pretty much the same) group of market oriented 
+ farmers relative to owners who were the majority. In 
+ our final model - moving backward (5) - the partial effect of 
+ differences in land (length of time at work or in power/right to permanent employment) on inefficiency is (compared to other things) 
+ small compared with that of most other (things that decide other things) 
+ of working well. We guess that renters were 14% 
+ (producing more with less waste) than owners, while (farm workers paid with a share of crop profits) and 
+ people (who are living in a building, etc.) were 5 and 7% less (producing a lot with very little waste). 
+ In addition to land (length of time at work or in power/right to permanent employment), moving backward (3) controls 
+ for differences in the (written work) of output. Relative 
+ to the left out/kept out category - (cows, bulls, etc.) - producers that 
+ (focused on doing one thing very well) in higher value activities ((lasting for a short time) 
+ crops, (the study of plants), permanent crops, and hogs and 
+ chickens) had lower levels of inefficiency. A 
+ coefficient equal to Ã1 would suggest that a one 
+ 1 
+ 
+ Some authors, such as Rezende (2003), argue that small family 
+ farms are not doable/possible in the CW due to the long drought period and 
+ the relative lack of off-farm employment. 
+ 
+ S.M. Helfand, E.S. Levine / Farming-based Money flow 31 (2004) 241-249 
+ 
+ 245 
+ 
+ Table 1 
+ Moving backward results for the (things that decide other things) of technical (wasting very little while working or producing something): (thing that changes (like a test score) because of something else that you control (like study time)) = ln(inefficiency) 
+ (number or thing that changes) 
+ 
+ (1) 
+ 
+ Farm size 
+ Size 
+ 0.45 
+ Ã0.04 
+ Size2 
+ Land (length of time at work or in power/right to permanent employment) (relative to owners) 
+ Renter 
+ (farm worker paid with a share of crop profits) 
+ Person (who is living in a building, etc.) 
+ Composition of output (relative to cattle) 
+ (lasting for a short time) crops 
+ (the study of plants) 
+ Permanent crops 
+ Hogs and chickens 
+ Other 
+ Access to institutions/public products (that are bought and sold) 
+ Credit 
+ Electricity 
+ Technical help 
+ Cooperatives 
+ Market access 
+ Technology and inputs 
+ Machines 
+ Crop-watering/rinsing with water 
+ Fertiliser 
+ Pest and disease control 
+ Soil conservation 
+ Mechanical milking 
+ (not made by nature/fake) insemination 
+ Log chance 
+ Ã4396 
+ 
+ (2) 
+ 
+ (3) 
+ 
+ (4) 
+ 
+ (5) 
+ 
+ 0.45 
+ Ã0.04 
+ 
+ 0.32 
+ Ã0.03 
+ 
+ 0.37 
+ Ã0.03 
+ 
+ 0.39 
+ Ã0.03 
+ 
+ Ã0.39 
+ Ã0.23 
+ 0.11 
+ 
+ Ã0.11 
+ 0.10 
+ 0.18 
+ 
+ Ã0.19 
+ Ã0.00a 
+ 0.06 
+ 
+ Ã0.14 
+ 0.05a 
+ 0.07 
+ 
+ Ã1.22 
+ Ã1.98 
+ Ã1.36 
+ Ã1.39 
+ 0.95 
+ 
+ Ã1.20 
+ Ã1.60 
+ Ã1.31 
+ Ã1.31 
+ 0.58 
+ 
+ Ã1.05 
+ Ã1.25 
+ Ã1.26 
+ Ã1.26 
+ 0.58 
+ 
+ Ã0.16 
+ Ã0.55 
+ Ã0.27 
+ Ã0.30 
+ Ã0.56 
+ 
+ Ã0.05a 
+ Ã0.48 
+ Ã0.15 
+ Ã0.22 
+ Ã0.53 
+ 
+ Ã2432 
+ 
+ Ã0.11 
+ Ã0.28 
+ Ã0.33 
+ Ã0.08b 
+ Ã0.21 
+ Ã0.86b 
+ Ã0.09a 
+ Ã2308 
+ 
+ Ã4240 
+ 
+ Ã2962 
+ 
+ Notes: All (moving backwards) have county fixed effects (not reported) and allow for heteroscedasticity across counties using as GLS procedure. All 
+ coefficients are (meaningful numbers) at least at the 1% level unless selected/named with the following symbols: 
+ a 
+ Not (meaningful numbers) at the 5% level. 
+ b 
+ (meaningful numbers) at the 5% level. 
+ 
+ percentage point increase in the share of production 
+ coming from (lasting for a short time) crops, for example, translates into a 1% increase in technical (wasting very little while working or producing something). Based 
+ on the coefficients from this moving backward, the (may or may not happen, depending on something) relationship between size and inefficiency is 
+ graphed in Fig. 1 as 'composition of output'. Because 
+ (cows, bulls, etc.)  production accounted for nearly half of the 
+ value of output for farms over 50 ha, but less than 
+ 25% for farms under 10 ha, controlling for these 
+ differences reduces the (wasting very little while working or producing something) disadvantage of 
+ large producers. So, the 'composition' curve is 
+ higher than the 'size' curve below the 20-50 ha class 
+ and lower than it above this size. The advantage of 
+ farms in the 20-50 ha class over larger farms drops to 
+ no more than 8.4%. 
+ 
+ Moving backward (4) incorporates (numbers that change/things that change) meant to 
+ capture access to institutions and public products (that are bought and sold). So, 
+ the (numbers that change/things that change) credit, electricity, technical help 
+ and cooperatives all measure the share of establishments in each representative farm that uses these 
+ items. These (numbers that change/things that change) range between zero and one. 
+ Market access, in contrast, is meant to take by force/take control of the 
+ degree to which market oriented farms are likely to 
+ be (producing more with less waste) than farms producing for their own 
+ consumption. This (number or thing that changes) is measured as the value 
+ of sales divided by the value of production. All five 
+ (numbers that change/things that change) are related to lower inefficiency. 
+ Market (direction of pointing/way of thinking/information meeting) and use of electricity had the 
+ largest hit/effect, followed by participation in cooperatives and use of technical help, with credit 
+ 
+ 246 
+ 
+ S.M. Helfand, E.S. Levine / Farming-based Money flow 31 (2004) 241-249 
+ 
+ Fig. 1. (may or may not happen, depending on something) effect of farm size on inefficiency ((usual/ commonly and regular/ healthy)ized as a fraction of the 20-50 ha group). 
+ 
+ having the smallest hit/effect.2 Based on the coefficients from this moving backward, the curve 'institutions' in 
+ Fig. 1 moves/changes up (in a big way) relative to the previous 
+ picture/situation, reflecting the fact that large farms tended to 
+ have special (and good) access to these institutions, and 
+ controlling for this advantage would increase the 
+ relative inefficiency of these farms. So, farms in 
+ the 1000-2000 range were now guessed to be the 
+ least (producing a lot with very little waste). They were 36% less (producing a lot with very little waste) than 
+ farms in the 20-50 ha class, or nearly twice the 
+ highest (wasting very little while working or producing something) difference that was watched/followed in 
+ the base case. This is powerful (event(s) or object(s) that prove something) of the 
+ importance of providing small farms with access to 
+ these institutions. 
+ Moving backward (5) controls, also, for a variety of 
+ factors related to the level of technology and the use of 
+ inputs. All (numbers that change/things that change) are measured as the share of 
+ 2 
+ We are surprised by the small size of the coefficient on credit. 
+ This was the most important difference from earlier, unweighted 
+ results. However, separate (moving backwards) using credit/size interaction 
+ terms, showed that the effect of credit on inefficiency differs/changes 
+ (in a big way) across size groups. We hope to shed added/more light 
+ on these results in future research. 
+ 
+ establishments that report using the selected/named item. 
+ So, an increase in the share of farms using 
+ machines, crop-watering/rinsing with water, fertilisers, pest and disease 
+ control or soil (protecting something from harm), all add/give to reducing 
+ inefficiency. Mechanical milking has the largest effect 
+ of all of these (numbers that change/things that change). Based on the coefficients from 
+ this moving backward, the curve 'technology/inputs' in Fig. 1 
+ shows that when we also control for differences in the 
+ use of technology and inputs, the relative inefficiency 
+ of large farms is even greater than in the previous 
+ pictures/situations. The relative disadvantage of farms in the 
+ 1000-2000 ha class rises to 46% in this case. 
+ However, due to the indivisibilities that exist with 
+ certain technologies, such as tractors, providing small 
+ and medium farmers with greater access to these 
+ inputs might require institutional inventions of new things such as 
+ the development of rental markets for the services 
+ given by these inputs. 
+ Finally, we guessed some different things than/different versions of our 
+ models to check the strength of the results and to 
+ examine the (related to space or existing in space) nature of our data. Due to space 
+ limits, we restrict ourselves to summarising the 
+ most important ends/end results. 
+ 
+ S.M. Helfand, E.S. Levine / Farming-based Money flow 31 (2004) 241-249 
+ 
+ First, to test the quadratic (detailed description of exactly what is required) of the 
+ size-inefficiency relationship, we guessed our five 
+ models using a series of farm size dummies in place of 
+ the log of size and square of log of size, and graphed the 
+ results. The resulting graphs did, in fact, (pretty close) 
+ an inverted, U-shaped curve fairly closely, pointing to/showing 
+ that the quadratic (detailed description of exactly what is required) is appropriate. 
+ Second, to test the sensitivity of the DEA results to 
+ measurement error for the (instances of watching, noticing, or making statements) that define the 
+ edge of something/unexplored area, we removed the 0.5% (or 47) (producing the most with the least waste) 
+ (instances of watching, noticing, or making statements), re-ran DEA, and re-guessed the model. 
+ With only a few exceptions, the signs of the guessed 
+ coefficients remained the same, as did their high levels relative to the others in the same 'group' (e.g. 
+ composition of output). Most importantly, the shape of 
+ the size-inefficiency relationship represented in Fig. 1 
+ remained almost the same, although inefficiency now reached a 
+ maximum in the 2000-5000 farm size category rather 
+ than in the 1000-2000 class. So, it is unlikely that 
+ measurement error on the edge of something/unexplored area (in a big way) 
+ affected our results. 
+ Third, we thought about/believed whether the (when something is kept out or not included) of 
+ forest and (natural area with trees) areas as inputs (described something as less than it was) the 
+ relative inefficiency of large farms, because these 
+ farms may hold large amounts of undeveloped land for 
+ guess/guessing, as a hedge against inflation or for 
+ fame/respect, and therefore do not use it (in a way that produces a lot with very little waste) for 
+ production. To test this, we recomputed our DEA 
+ results, leaving out/keeping out only 'unusable land' (4% of land in 
+ the CW) from our land input (number or thing that changes), and without 
+ leaving out/keeping out (related to pumping or digging things from the ground) products, forestry products or 
+ (away from cities) industry from our output (number or thing that changes). The new 
+ coefficients were, again, almost the same  in sign and importance 
+ in nearly every case, and the quadratic relationship 
+ between size and inefficiency was mostly 
+ unchanged. The (wasting very little while working or producing something) advantage of farms in 
+ the 20-50 ha group (in model 5) was still 46% over the 
+ 1000-2000 class. So, the (when something is kept out or not included) of forest and 
+ (natural area with trees) does not appear to bias downward the 
+ (wasting very little while working or producing something) disadvantage of large farms. We want to be 
+ cautious about generalising this result, given the 
+ (like nothing else) features of this area: the unusual energy 
+ of farming-based growth in the area, driven mostly 
+ by large farms. 
+ Fourth, we managed and did/done two tests to explore the 
+ hit/effect on (wasting very little while working or producing something) of transportation costs, location 
+ and (related to space or existing in space) relationship of the errors in our moving backward 
+ models. First, we figured out/calculated the relationship-related coefficient 
+ 
+ 247 
+ 
+ between the 426 fixed effects in model (5) and an 
+ guess of transportation costs between each county 
+ and SaË o Paulo, the money-based center of Brazil.3 The 
+ relationship-related coefficient of only 0.11 points to/shows that the 
+ fixed effects mainly take by force/take control of other county level fixed 
+ factors, such as soil quality and rainfall, which appear 
+ to be much more important in explaining (wasting very little while working or producing something) 
+ than county level money-based distance from SaË o Paulo. 
+ Second, the version of this paper presented in South 
+ Africa in August, 2003, reported results for a model 
+ that allowed for (related to space or existing in space) relationship in the errors across 
+ counties using a SUR (solid basic structure on which bigger things can be built). The results were 
+ almost identical to model (5) reported here. We 
+ decide that the (related to space or existing in space) nature of our data does not 
+ appear to be (unfairly influencing an opinion) our results. 
+ Finally, to decide/figure out whether the dummies for land 
+ (length of time at work or in power/right to permanent employment) types were (good) enough to control for differences 
+ between owners, renters, (farm workers paid with a share of crop profits) and people (who are living in a building, etc.), we guessed our models separately for each of 
+ the (length of time at work or in power/right to permanent employment) types. Fig. 2 shows the relationship between 
+ size and inefficiency suggested by the coefficients of 
+ model (5) for each of the four (length of time at work or in power/right to permanent employment) types. Although 
+ we did find some differences in the coefficients across 
+ models, the U-shaped relationship between size and 
+ inefficiency remained in every case. 
+ Interestingly, Fig. 2 shows that the relative 
+ inefficiency of large renters was less than that of 
+ large owners. In fact, renters of farms greater than 
+ 5000 ha were actually (producing more with less waste) than those in the 
+ 20-50 ha group. Unlike in many other parts of the 
+ world where renters might be more like (farm workers paid with a share of crop profits), 
+ renters in the Brazilian Center-West were a (compared to other things) 
+ (group of things that are all pretty much the same) group of market oriented farmers. 
+ Surprisingly, renters made greater use than owners 
+ of those modern inputs, technologies and institutions 
+ recorded by the Farming-based (official count of everyone who lives in a country, city, etc.)  that were 
+ connected with lower levels of inefficiency.4 It is 
+ 3 
+ 
+ We would like to thank Newton de Castro, a professor at the 
+ UFRJ in Rio de Janeiro, Brazil and a Co-PI on the research project 
+ NEMESIS for kindly providing us with this transportation cost 
+ (number or thing that changes). Because of perfect multicollinearity between this countylevel (number or thing that changes) and our fixed effects, we could not include it in our 
+ models. 
+ 4 
+ Not only did renters sell a larger share of their value of output 
+ to the market than owners in each size category, they also (focused on doing one thing very well) much more heavily in (lasting for a short time) crops (rather than cattle) and 
+ were more likely to use credit, technical help, machines, 
+ fertilisers and soil (protecting something from harm) measures. 
+ 
+ 248 
+ 
+ S.M. Helfand, E.S. Levine / Farming-based Money flow 31 (2004) 241-249 
+ 
+ Fig. 2. (may or may not happen, depending on something) effect of farm size on inefficiency by (length of time at work or in power/right to permanent employment) type ((usual/ commonly and regular/ healthy)ized as a fraction of the 20-50 ha group). 
+ 
+ likely that large renters also made greater use of 
+ unseen factors, which could explain the relative 
+ (wasting very little while working or producing something) advantage of this group. 
+ In general, the inverse relationship between size 
+ and (wasting very little while working or producing something) weakened as we moved from (length of time at work or in power/right to permanent employment) 
+ types connected with lower technologies (people (who are living in a building, etc.)) 
+ to those connected with greater market (direction of pointing/way of thinking/information meeting) and 
+ greater use of modern technologies, inputs and 
+ institutions (renters). So, while our combined moving backward results correctly represented the situation of 
+ owners, which accounted for 88% of the establishments in this area, there were important differences 
+ across (length of time at work or in power/right to permanent employment) types in the size-inefficiency relationship. These differences deserve more study. 
+ 
+ 5. Ends/end results 
+ In this paper we used Data Envelopment Analysis 
+ (DEA) to guess the technical (wasting very little while working or producing something) of farms in 
+ the Center-West of Brazil, and then studied the 
+ (things that decide other things) of (wasting very little while working or producing something) with moving backward ways of doing things. 
+ Future research should explore the strength of the 
+ 
+ results presented here by comparing them with 
+ guesses from a (random/including random data points) edge of something/unexplored area production function. 
+ There are important policy effects/results/suggestions that can be 
+ came/coming from the analysis in this paper. The results 
+ point to/show that access to institutions and products (that are bought and sold)  that are 
+ often given by the (government), such as market 
+ access via (set of machines) creation and (away from cities) electrification, were among the most important (things that decide other things) of 
+ differences in (wasting very little while working or producing something). Other important (things that decide other things) included the use of inputs such as crop-watering/rinsing with water and 
+ fertilisers, and differences in the composition of 
+ output. These results identify the types of policies and 
+ production practices that could add/give to increased 
+ technical (wasting very little while working or producing something) in this area. 
+ We also showed the relationship between farm size 
+ and technical (wasting very little while working or producing something) to be more complex than what 
+ is (usually/ in a common and regular way) believed. Rather than an inverse relationship, where working well falls as farm size rises, we 
+ found a U-shaped relationship. For farms up to about 
+ 1000-2000 ha, (wasting very little while working or producing something) did fall as farm size rose, but 
+ beyond this size it started to rise again. The most 
+ important reasons why the inverse relationship broke 
+ down relate to special (and good) access by large farms to 
+ 
+ S.M. Helfand, E.S. Levine / Farming-based Money flow 31 (2004) 241-249 
+ 
+ institutions and services that help lower inefficiency 
+ (such as (away from cities) electricity, technical help and access 
+ to markets) as well more intensive use of the 
+ technologies and inputs that raise working well. The 
+ access of large farmers to such (wasting very little while working or producing something)-improving 
+ inputs and institutions may partially explain the 
+ dramatic TFP growth in this area relative to the rest 
+ of Brazil. However, if one could create an (surrounding conditions) 
+ in which small to medium size farms had equal access to 
+ working well improving institutions, and improved 
+ access to modern technologies and inputs, then these 
+ farm could still produce (producing more with less waste)ly than farms in 
+ the 2000-20,000 ha range. So, even in the CenterWest of Brazil, a area seen as very 
+ large farms and (compared to other things) high levels of technology, 
+ land reform continues to provide the possibility of 
+ (at the same time) improving equity and (wasting very little while working or producing something). Its 
+ success, however, is strongly conditioned by the 
+ (completing/matching) institutions, investments and services 
+ that allow small and medium size farms to compete on 
+ a level playing field. 
+ Finally, we found important differences in the size- 
+ (wasting very little while working or producing something) relationship across land (length of time at work or in power/right to permanent employment) types. While 
+ all types showed a U-shaped relationship, the U-shape 
+ was most obvious for renters, which was the most 
+ market oriented type and which made the greatest use of 
+ the institutions and modern inputs connected with 
+ higher levels of (wasting very little while working or producing something). The U-shape weakened, 
+ more closely approximating a monotonic inverse 
+ relationship, as we moved to the land (length of time at work or in power/right to permanent employment) type 
+ (people (who are living in a building, etc.)) connected with lower market orientation 
+ and lower technology. These results lend further 
+ support to the view that differential access to 
+ institutions, and use of technologies and inputs, can 
+ significantly change  the usual findings of an inverse 
+ relationship between farm size and working well. 
+ 
+ Responses 
+ This paper was written as part of a larger project on 
+ (related to space or existing in space) money flow/money-based studies called NEMESIS (www.nemesis. 
+ org.br). The project is based at IPEA in Rio de Janeiro 
+ 
+ 249 
+ 
+ and has been supported by a grant from the Brazilian 
+ government under a program called PRONEX. We 
+ would like to thank GervaÂ´ sio Castro de Rezende, 
+ EustaÂ´ quio Reis, Keith Griffin, and Tim Coelli for 
+ valuable comments on an earlier draft. 
+ 
+ References 
+ Barrett, C.B., 1996. On price risk and the inverse farm 
+ size-working well relationship. J. Dev. Econ. 51 (2), 193- 
+ 216. 
+ Berry, R.A., Cline, W., 1979. Land-related Structure and Working well in 
+ Developing Countries. Johns Hopkins University Press, Baltimore, 248. 
+ Coelli, T., Rao, D.S.P., Battese, G.E., 1998. An Introduction to 
+ (wasting very little while working or producing something) and Working well Analysis. Kluwer School-related Publishers, Norwell, 275. 
+ FaÂ¨ re, R., Grosskopf, S., Lovell, C.A.K., 1994. Production Edges of something/unexplored areas. 
+ Cambridge University Press, Cambridge, 296. 
+ Gasques, J.G., ConceicÂ¸aË o, J.C.P., 2001. ChangeacÂ¸oË es Estruturais da Agricultura e Produtividade Total Dos Fatores. In: 
+ Gasques, J.G., ConceicÂ¸aË o, J.C.P. (Eds.), ChangeacÂ¸oË es 
+ da Agricultura e PolÄ±Â´ticas PuÂ´ blicas. IPEA, Brasilia, pp. 
+ 17-92. 
+ Guanziroli, C., Romeiro, A., Buainain, A.M., Di Sabbato, A., 
+ Bittencourt, G., 2001. Agricultura Familiar e Reforma AgraÂ´ ria 
+ no SeÂ´ culo XXI. Editora Garamond Ltda, Rio de Janeiro, 
+ 284. 
+ Instituto Brasileiro de GeografÄ±Â´a e Estatistica IBGE, 1998. Censo 
+ AgropecuaÂ´ rio 1995-1996. IBGE, Rio de Janeiro. 
+ Kmenta, J., 1971. Elements of Econometrics. Macmillan Publishing 
+ Co., New York, 655. 
+ Kumbhakar, S.C., Lovell, C.A.K., 2000. (random/including random data points) Edge of something/unexplored area Analysis. Cambridge University Press, Cambridge, 333. 
+ Rezende, G.C., 2003. OcupacÂ¸aË o AgrÄ±Â´cola, Estrutura AgraÂ´ ria e 
+ Mercado de Trabalho (away from cities) no Cerrado: O Papel do PrecÂ¸o da 
+ Terra, dos Recursos Naturais e das PolÄ±Â´ticas PuÂ´ blicas. In: 
+ Helfand, S.M., Rezende, G.C. (Eds.), RegiaË o e EspacÂ¸o no 
+ Desenvolvimento AgrÄ±Â´cola Brasileiro. IPEA, Brasilia, pp. 
+ 173-212. 
+ Vicente, J.R., Anefalos, L.C., Caser, D.V., 2001. Produtividade 
+ AgrÄ±Â´cola no Brasil, 1970-1995. Agricultura em SaË o Paulo SP 
+ 39 (2), 1-23. 
+ Vicente, J.R., Anefalos, L.C., Caser, D.V., 2003. InflueË ncia de 
+ Capital Humano, Insumos Modernos e Recursos Naturais na 
+ Produtividade AgrÄ±Â´cola. In: Helfand, S.M., Rezende, G.C. 
+ (Eds.), RegiaË o e EspacÂ¸o no Desenvolvimento AgrÄ±Â´cola Brasileiro. IPEA, Brasilia, pp. 265-296. 
+ 
+ <div style="clear:both">&nbsp;</div>

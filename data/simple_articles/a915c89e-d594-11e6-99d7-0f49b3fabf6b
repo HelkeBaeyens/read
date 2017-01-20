@@ -1,0 +1,878 @@
+Centre for (wasting very little while working or producing something) and Working well Analysis 
+ 
+ Working Paper Series 
+ No. 02/2003 
+ 
+ Title 
+ Total Factor Working well Growth in Farming: 
+ A Malmquist Index Analysis of 93 Countries, 
+ 1980-2000 
+ 
+ Authors 
+ Tim J. Coelli 
+ D.S. Prasada Rao 
+ 
+ Date: September 2003 
+ 
+ School of Money flow 
+ University of Queensland 
+ St. Lucia, Qld. 4072 
+ Australia 
+ 
+ Total Factor Working well Growth in Farming: 
+ A Malmquist Index Analysis of 93 Countries, 1980-2000* 
+ 
+ Tim J. Coelli and D.S. Prasada Rao 
+ Centre for (wasting very little while working or producing something) and Working well Analysis 
+ School of Money flow 
+ University of Queensland 
+ Brisbane, QLD, 4072 Australia. 
+ email: t.coelli@economics.uq.edu.au 
+ 
+ September/2003 
+ 
+ ABSTRACT 
+ In this paper we examine levels and (moves in a particular way/becomes popular) in farming-based output and working well in 93 
+ developed and developing countries that account for a major part of/amount of the world population 
+ and farming-based output. We make use of data drawn from the Food and Farming 
+ Organization of the United Nations and our study covers the period 1980-2000. Due to the 
+ non-availability of reliable input price data, the study uses data envelopment analysis (DEA) 
+ to get Malmquist working well indexes. The study examines (popular things/general ways things are going) in farming-based 
+ working well over the period. Issues of catch-up and coming together, or sometimes possible 
+ separation, in working well in farming are examined within a worldwide  (solid basic structure on which bigger things can be built). The paper 
+ also gets the shadow prices and value shares that are understood in the DEA-based 
+ Malmquist working well indices, and examines the believability of their levels and (moves in a particular way/becomes popular) over 
+ the study period. 
+ 
+ * 
+ 
+ This paper has been written for presentation as a Full/complete Paper at the 2003 International Association of 
+ Farming-based Money flow (IAAE) Conference in Durban August 16-22, 2003. 
+ 
+ 1 
+ 
+ 1. 
+ 
+ Introduction 
+ 
+ Working well growth in farming has been the subject matter for intense research over the 
+ last fifty years. Development money-flow experts and farming-based money-flow experts have examined the 
+ sources of working well growth over time and of working well differences among countries and 
+ areas over this period. Working well growth in the farming-based part/area is carefully thought about/believed very important 
+ if farming-based part/area output is to grow at a (good or well enough) fast rate to meet the demands for 
+ food and raw materials arising out of steady population growth. During the 1970's and 80's a 
+ number of major analyses of cross-country differences in farming-based working well were 
+ conducted, including Hayami and Ruttan (1970, 1971), Kawagoe and Hayami (1983, 1985), 
+ Kawagoe, Hayami and Ruttan (1985), Capalabo and Antle (1988), and Lau and Yotopoulos 
+ (1989). 
+ Most of these studies used thin sliceal data on about 40 countries to 
+ guess a Cobb-Douglas production technology using moving backward methods. The focus was 
+ generally on the guess of the production elasticities and the (act of asking questions and trying to find the truth about something) of the 
+ (things that are given/work that's done) of farm scale, eduction and research in explaining cross-country labour 
+ working well differentials.1 
+ In the past ten years, the number of papers (asking lots of questions about/trying to find the truth about) cross-country differences in 
+ farming-based working well levels and growth rates has expanded significantly. This is most 
+ likely driven by three factors. First, the availability of some new panel data sets, such as that 
+ produced by the Food and Farming Organisation of the United Nations (FAO). Second, 
+ the development of new scientific ways of doing things to analyse this type of data, such as the data 
+ envelopment analysis (DEA) and (random/including random data points) edge of something/unexplored area analysis (SFA) ways of doing things, described in 
+ Coelli, Rao and Battese (1998). Thirdly, a desire to test the degree to which the green 
+ revolution, and other programs, have improved farming-based working well in developing 
+ countries. 
+ In Table 1 we list 17 studies that have been done in the last ten years. Certain comments 
+ can be made about these papers. First, most of these papers use FAO panel data, 
+ spanning the 1960's, 70's and 80's. Of these 17 papers, 11 use DEA, five guess CobbDouglas production functions, one guesses a translog production function, and one uses the 
+ Fisher index.2 In terms of country coverage, five papers focus on less developed countries 
+ (LDC's), two analyse small groups of developed countries (DC's), three papers look at Asia 
+ or Africa or the two combined, while the remaining seven studies study a mix of countries. 
+ Four of these latter seven papers cover a large number of countries, ranging from 70 
+ countries in Arnade (1998) to 115 countries in Wiebe et al (2000). 
+ One of the repeating themes in the reported results in many of these papers is that less 
+ developed countries show (related to computers and science) moving backward while the developed countries show 
+ (related to computers and science) progress. For example, Fulginiti and Perrin (1997) studied 18 LDC's and found 
+ that 14 of these countries showed a decline in farming-based working well over the period 19611985. Such results point to/show a separation in farming-based working well. However, these results 
+ appear to be very different than the (popular things/general ways things are going) in manufacturing part/area and gross domestic 
+ product level working well, which show signs of coming together (Barro and Sala-i-Martin, 1990 
+ and Maddison, 1995). What's more, they do not appear to be obeying crop-level 
+ 1 
+ 
+ Lau and Yotopolous (1989) also guessed a translog functional form to illustrate the restrictions built-in 
+ in the Cobb-Douglas production technology. 
+ 2 
+ Two of these papers use two ways of doing things. 
+ 
+ 2 
+ 
+ evidence coming out of many developing countries in the past twenty years, especially in 
+ South-East Asia. 
+ The way of thinking/basic truth/rule aims is to provide up to date information on farming-based total factor 
+ working well (TFP) growth over the past twenty years (1980-2000) for 93 of the largest 
+ farming-based producers in the world. It should be noted that the study by Wiebe et al (2000) 
+ does analyse TFP growth for 110 nations over the 1961-1997 period, however it does use the 
+ Cobb-Douglas production function, which introduces some (serving to severely limit or control) ideas (you think are true). 
+ Such as, constant production elasticities (and because of this input shares) across all countries, Dummiesneutral technical change, plus it needs/demands that crop and animals outputs be grouped into a 
+ single output measure. The analysis in the present study uses the DEA way of doing things to calculate 
+ Malmquist TFP index numbers. This method does not make any of the above ideas (you think are true). 
+ However, it is (able to be harmed by) the effects of data noise, and can suffer from the problem of 
+ "unusual" shadow prices, when degrees of freedom are limited. 
+ This issue of shadow prices is important, and is one that is not well understood among 
+ authors who apply these Malmquist DEA methods. A major advantage referred to in support of 
+ the use of DEA in measuring working well growth, is that these methods do not require any 
+ price data. This is a clear/separate advantage, because in general, farming-based input price data are 
+ almost never available and such prices could be twisted/partially untrue/lied about due to government helping action in most 
+ developing countries. However, an important point needs to be added here. Even though the 
+ DEA-based working well measures may not clearly use market price information, they do 
+ completely/in a hinting way use shadow price information, came/coming from the shape of the guessed production 
+ surface. This issue is described in some detail in Coelli and Prasada Rao (2001), who show 
+ that one can use these shadow prices to calculate shadow shares information, to help shed 
+ light on the factors influencing these working well growth measures. Hence, a main aim of 
+ this paper is to (show or prove) the (ability to be done) of clearly identifying the understood shadow shares 
+ and to study (related to a large area) difference/different version and (moves in a particular way/becomes popular) in these shares over time. 
+ In our view, this shadow share information can provide valuable ideas of why different 
+ authors have gotten widely different TFP growth measures for some countries, when 
+ applying these Malmquist DEA methods. This has been especially obvious when the 
+ applications have involved panel data sets containing small groups of countries, and the 
+ countries included in each data set differ from study to study. 
+ The rest of this paper is organised into sections. In Section 2 we describe the DEA and 
+ Malmquist TFP index methods that are used in the study. In Section 3 we describe the data 
+ that is used, while in Section 4 we present and discuss our results. Some ending/deciding 
+ comments are made in the final section. 
+ 
+ 2. 
+ 
+ Way(s) of doing things 
+ 
+ In this paper we measure total factor working well (TFP) using the Malmquist index methods 
+ described in Fare et al (1994) and Coelli, Rao and Battese (1998, Ch. 10). This approach 
+ uses data envelopment analysis (DEA) methods to construct a piece-wise linear production 
+ edge of something/unexplored area for each year in the sample. We firstly provide a brief description of DEA methods 
+ before we go on to describe the Malmquist TFP calculations. 
+ Data Envelopment Analysis (DEA) 
+ DEA is a linear-programming way(s) of doing things, which uses data on the input and output 
+ amounts of a group of countries to construct a piece-wise linear surface over the data points. 
+ This edge of something/unexplored area surface is built by the solution of a sequence of linear programming 
+ 3 
+ 
+ problems - one for each country in the sample. The degree of technical inefficiency of each 
+ country (the distance between the watched/followed data point and the edge of something/unexplored area) is produced as a (something produced along with something else) of the edge of something/unexplored area construction method. 
+ DEA can be either input-orientated or output-orientated. In the input-orientated case, the 
+ DEA method defines the edge of something/unexplored area by looking (for) the maximum possible (fair in amount, related to something else/properly sized compared to something else) reduction in 
+ input usage, with output levels held constant, for each country. While, in the outputorientated case, the DEA method looks (for) the maximum (fair in amount, related to something else/properly sized compared to something else) increase in output 
+ production, with input levels held fixed. The two measures provide the same technical 
+ (wasting very little while working or producing something) scores when a constant returns to scale (CRS) technology applies, but are unequal 
+ when (number or thing that changes) returns to scale (VRS) is assumed. In this paper we assume a CRS technology 
+ (the reasons for this are organized and listed in the Malmquist discussion below). So the choice of 
+ orientation is not a big issue in our case. However, we have selected an output orientation 
+ because we believe it would be fair to assume that, in farming, one usually tries to 
+ (make as big as possible) output from a given set of inputs, rather than the converse.3 
+ If one has data for N countries in a particular time period, the linear programming (LP) 
+ problem that is solved for the i-th country in an output-orientated DEA model is as follows: 
+ maxÏ,Î» Ï, 
+ st 
+ 
+ -Ïyi + YÎ» a¥ 0, 
+ xi - XÎ» a¥ 0, 
+ Î» a¥ 0, (1) 
+ 
+ where 
+ yi is a MÃ--1 vector of output amounts for the i-th country; 
+ xi is a KÃ--1 vector of input amounts for the i-th country; 
+ Y is a NÃ--M matrix of output amounts for all N countries; 
+ X is a NÃ--K matrix of input amounts for all N countries; 
+ Î» is a NÃ--1 vector of weights; and 
+ Ï is a scalar. 
+ Watch/notice that Ï will take a value greater than or equal to one, and that Ï-1 is the (fair in amount, related to something else/properly sized compared to something else) 
+ increase in outputs that could be (accomplished or gained) by the i-th country, with input amounts held 
+ constant. Note also that 1/Ï defines a technical (wasting very little while working or producing something) (TE) score which differs/changes between 
+ zero and one (and that this is the output-orientated TE score reported in our results). 
+ The above LP is solved N times - once for each country in the sample. Each LP produces a Ï 
+ and a Î» vector. The Ï-limit/guideline provides information on the technical (wasting very little while working or producing something) score for 
+ the i-th country and the Î»-vector provides information on the peers of the (inefficient) i-th 
+ country. The peers of the i-th country are those (producing a lot with very little waste) countries that define the part/face  of the 
+ edge of something/unexplored area against which the (inefficient) i-th country is projected. 
+ The DEA problem can be illustrated using a simple example. Think about/believe the case where we 
+ have a group of five countries producing two outputs (e.g., wheat and beef). Assume for 
+ 3 
+ 
+ There are some obvious exceptions to this. For example, where dairy farmers are needed/demanded to fill a particular 
+ output quota, and attempt to do this with minimum inputs. 
+ 
+ 4 
+ 
+ simplicity that each country has identical input vectors. These five countries are shown in 
+ Figure 1. Countries A, B and C are (producing a lot with very little waste) countries because they define the edge of something/unexplored area. 
+ Countries D and E are inefficient countries. For country D the technical (wasting very little while working or producing something) score is 
+ equal to 
+ TED = 0D/0Da²,(2) 
+ and its peers are countries A and B. In the DEA output listing this country would have a 
+ technical (wasting very little while working or producing something) score of about 70 percent and would have non-zero Î»-weights 
+ connected with countries A and B. For country E the technical (wasting very little while working or producing something) score is equal to 
+ TEE = 0E/0Ea², (3) 
+ and its peers are countries B and C. In the DEA output listing this country would have a 
+ technical (wasting very little while working or producing something) score of about 50 percent and would have non-zero Î»-weights 
+ connected with countries B and C. Note that the DEA output listing for countries A, B and C 
+ would provide technical (wasting very little while working or producing something) scores equal to one and each country would be its own 
+ (person who is in a similar age group or academic field). For further discussion of DEA methods see Coelli, Rao and Battese (1998, Ch. 6). 
+ Figure 1 Output-Orientated DEA 
+ beef 
+ A 
+ - 
+ D 
+ - 
+ 
+ Da² 
+ - B 
+ - 
+ - Ea² 
+ -C 
+ 
+ E 
+ - 
+ 0 
+ 
+ wheat 
+ 
+ The Malmquist TFP Index 
+ The Malmquist index is defined using distance functions. Distance functions allow one to 
+ describe a multi-input, multi-output production technology without the need to specify a 
+ behavioural goal (such as cost minimisation or profit (biggest increase/best possible extent)). One may define 
+ input distance functions and output distance functions. An input distance function 
+ describes the production technology by looking at a (almost nothing/very little) (fair in amount, related to something else/properly sized compared to something else) contraction of 
+ the input vector, given an output vector. An output distance function thinks about/believes a maximal 
+ (fair in amount, related to something else/properly sized compared to something else) (act of something getting bigger, wider, etc.) of the output vector, given an input vector. We only think about/believe an 
+ output distance function in detail in this paper. However, input distance functions can be 
+ defined and used in a almost the same  manner. 
+ A production technology may be defined using the output set, P(x), which represents the set 
+ of all output vectors, y, which can be produced using the input vector, x. That is, 
+ 5 
+ 
+ P(x) = y{ : x can produce y}. 
+ 
+ (4) 
+ 
+ We assume that the technology makes happy the true sayings listed in Coelli, Rao and Battese (1998, 
+ Ch. 3) 
+ The output distance function is defined on the output set, P(x), as: 
+ do(x,y) = minÎ´{ : (y/Î´)aP(x)}. 
+ 
+ (5) 
+ 
+ The distance function, do(x,y), will take a value which is less than or equal to one if the 
+ output vector, y, is a little bit of the (able to be done) production set, P(x). What's more, the distance 
+ function will take a value of togetherness if y is located on the outer edge of the (able to be done) 
+ production set, and will take a value greater than one if y is located outside the (able to be done) 
+ production set. In this study we use DEA-like methods to calculate our distance measures. 
+ These are discussed shortly. 
+ The Malmquist TFP index measures the TFP change between two data points (e.g., those of a 
+ particular country in two (next to) time periods) by calculating the ratio of the distances of 
+ each data point relative to a common technology. Following FÃ¤re et al (1994), the Malmquist 
+ (output-orientated) TFP change index between period s (the base period) and period t is given 
+ by 
+ a¡ d s (y , x ) d t (y , x ) a¤ 
+ m o (y s , x s , y t , x t ) = a¢ so t t Ã-- ot t t a¥ 
+ a£ d o (y s , x s ) d o (y s , x s ) a¦ 
+ 
+ 1/ 2 
+ 
+ , 
+ 
+ (6) 
+ 
+ where the note dos(xt, yt) represents the distance from the period t (instance of watching, noticing, or making a statement) to the 
+ period s technology. A value of mo greater than one will point to/show positive TFP growth from 
+ period s to period t while a value less than one points to/shows a TFP decline. Note that equation 6 
+ is, in fact, the geometric mean of two TFP indices. The first is tested with respect to 
+ period s technology and the second with respect to period t technology. 
+ An equal way of writing this working well index is 
+ d ot (y t , x t ) a¡ d so (y t , x t ) d so (y s , x s ) a¤ 
+ m o (y s , x s , y t , x t ) = s 
+ Ã-- 
+ a¢ 
+ a¥ 
+ d o (y s , x s ) a£ d ot (y t , x t ) d ot (y s , x s ) a¦ 
+ 
+ 1/ 2 
+ 
+ , 
+ 
+ (7) 
+ 
+ where the ratio outside the square brackets measures the change in the output-oriented 
+ measure of Farrell technical (wasting very little while working or producing something) between periods s and t. That is, the (wasting very little while working or producing something) 
+ change is equal to the ratio of the technical (wasting very little while working or producing something) in period t to the technical 
+ (wasting very little while working or producing something) in period s. The remaining part of the index in equation 2 is a measure of technical 
+ change. It is the geometric mean of the move/change in technology between the two periods, 
+ tested at xt and also at xs. 
+ Following FÃ¤re et al (1994), and given that good panel data are available, we can calculate 
+ the needed/demanded distance measures for the Malmquist TFP index using DEA-like linear programs. 
+ For the i-th country, we must calculate four distance functions to measure the TFP change 
+ between two periods, s and t. This needs/demands the solving of four linear programming (LP) 
+ problems. FÃ¤re et al (1994) assume a constant returns to scale (CRS) technology in their 
+ analysis. The needed/demanded LPs are: 
+ [dot(yt, xt)]-1 = maxÏ,Î» Ï, 
+ st 
+ 
+ -Ïyit + YtÎ» a¥ 0, 
+ xit - XtÎ» a¥ 0, 
+ 
+ 6 
+ 
+ Î» a¥ 0, (8) 
+ [dos(ys, xs)]-1 = maxÏ,Î» Ï, 
+ st 
+ 
+ -Ïyis + YsÎ» a¥ 0, 
+ xis - XsÎ» a¥ 0, 
+ Î» a¥ 0, (9) 
+ 
+ [dot(ys, xs)]-1 = maxÏ,Î» Ï, 
+ st 
+ 
+ -Ïyis + YtÎ» a¥ 0, 
+ xis - XtÎ» a¥ 0, 
+ Î» a¥ 0, (10) 
+ 
+ and 
+ [dos(yt, xt)]-1 = maxÏ,Î» Ï, 
+ st 
+ 
+ -Ïyit + YsÎ» a¥ 0, 
+ xit - XsÎ» a¥ 0, 
+ Î» a¥ 0. (11) 
+ 
+ Note that in LP's 10 and 11, where production points are compared to technologies from 
+ different time periods, the Ï limit/guideline need not be greater than or equal to one, as it must be 
+ when calculating standard output-orientated technical (measures of output versus waste/getting more with less waste). The data point could lie 
+ above the production edge of something/unexplored area. This will most likely happen in LP 11 where a production point 
+ from period t is compared to technology in an earlier period, s. If technical progress has 
+ happened, then a value of Ï&amp;lt;1 is possible. Note that it could also possibly happen in LP 10 if 
+ technical move backward has happened, but this is less likely. 
+ One issue that must be stressed is that the returns to scale properties of the technology are 
+ very important in TFP measurement. We use a CRS technology in this study for two reasons. 
+ First, given that we are using group country-level data, it does not appear to be (reasonable/showing good judgment) 
+ to think about  a VRS technology. How is it possible for a part/area to (accomplish or gain with effort) scale (processes of people making, selling, and buying things)? 
+ For example, the index of crop output for India and the USA are almost the same, but their average 
+ farm sizes are quite different. Because of this, what can we (in a way that is reasonable and shows good judgment) end/decide if we guess a VRS 
+ technology and report that these countries face decreasing returns to scale? We can 
+ understand the use of a VRS technology when the summary data is expressed on an "average 
+ per farm" basis, because one can then discuss the scale (processes of people making, selling, and buying things) of the "average farm", but 
+ when dealing with group data, as we are in this study, the use of a CRS technology is the 
+ only (reasonable/showing good judgment) option. 
+ In addition to the above comment (related to/looking at/thinking about) the use of group data, a second argument for 
+ the use of a CRS technology is related to both firm-level and group data. Grifell-Tatje 
+ and Lovell (1995) use a simple one-input, one-output example to illustrate that a Malmquist 
+ TFP index may not correctly measure TFP changes when VRS is assumed for the technology. 
+ Hence it is important that CRS be (forced (on people)/caused an inconvenient situation) upon any technology that is used to guess 
+ distance functions for the calculation of a Malmquist TFP index. Otherwise the resulting 
+ measures may not properly reflect the TFP gains or losses resulting from scale effects. 
+ 
+ 7 
+ 
+ 3. 
+ 
+ Data 
+ 
+ The present study is based on data only drawn from the AGROSTAT system of the 
+ Statistics Division of the Food and Farming-based Organization in Rome. We have been able to 
+ access and down-load all the necessary data from the Web site of the FAO.4 The following 
+ are some of the main features of the data series used. 
+ Country coverage: The study includes 93 countries. These are the top 93 farming-based 
+ producers in the world, which account for about 97 percent of the world's farming-based 
+ output as well as 98 percent of the world's population.5 The countries included in the study 
+ are distributed over all the areas of the world. The distribution is as follows: 
+ Africa 
+ 
+ 26 countries 
+ 
+ North America 
+ 
+ 2 countries 
+ 
+ South and Central America 
+ 
+ 19 countries 
+ 
+ Asia 
+ 
+ 23 countries 
+ 
+ Europe 
+ 
+ 20 countries 
+ 
+ Australasia 
+ 
+ 3 countries 
+ 
+ We were unable to get data for the USSR, Czechoslovakia and Yugoslavia in the 1990s 
+ due to changes in the political systems in eastern Europe. We have data for the newly formed 
+ countries for the latest period but no corresponding data are available before 1990. 
+ Including in something of USSR in the period before 1990 and replacing is with a large number of smaller 
+ countries may introduce some grouping and scale issues. So these countries are 
+ left-out from the analysis. 
+ Time Period: The present paper is based on results for the period 1980 to 2000. At first we 
+ planned to study the 1960-2000 period, however our analysis has been restricted to this 
+ shorter period since labour force data were not easily available for the years 1960-1979 from 
+ the FAO or the ILO sources. These years will be included in the later stages of the 
+ project when appropriate labour data is received/got.6 
+ Output Series: Due to the problems of degrees of freedom connected with the use of 
+ DEA methods, the present study uses two output (numbers that change/things that change), that is,, crops and animals output 
+ (numbers that change/things that change). The output series for these two (numbers that change/things that change) are received/made from by collecting described/explained output 
+ amount data on 185 farming-based valuable things. The following steps are used in the 
+ construction of data. 
+ For the year 1990, output groups are drawn from Table 5.4 in Rao (1993). These 
+ groups are built using international average prices (expressed in US dollars) 
+ received/made from using the Geary-Khamis method (see Rao 1993, Chapter 4 for details) for the 
+ 
+ 4 
+ 
+ The authors are thankful to the FAO for maintaining an excellent site and for their help in making 
+ valuable data series available on the internet. 
+ 5 
+ Ordering of the countries and guesses of country shares of farming-based output are drawn from Table 3.2 in 
+ Rao (1993). The original aim was to include 100 countries but three countries had to be dropped since we could 
+ not build the output series for those countries. An added four countries, USSR, Czechoslovakia, Yugoslavia 
+ and Ethiopia are dropped due to data related problems. 
+ 6 
+ Our study period (completes/goes along with) the periods covered in some of the earlier studies, which usually cover the 60s 
+ and 70s. 
+ 
+ 8 
+ 
+ benchmark year 1990.7 This way the output series for 1990 are at constant prices, expressed in a 
+ single currency unit. 
+ The 1990 output series are then extended to cover the study period 1980-2000 using the FAO 
+ production index number series for crops and animals separately.8 The series received/made from using 
+ this approach are mostly equal to the series built using 1990 international 
+ average prices and the actual amounts produced in different countries in different years. 
+ Columns 3 and 4 in Tables 1 and 2 show the output groups for the 93 countries for the 
+ years 1980 and 2000.9 These columns (show or prove) the differences in output mix across 
+ different countries. There are many countries which are mainly producers of crops, some 
+ countries are mainly animals producers and the remaining countries with a fair balance 
+ between crops and animals.10 A point to note here is the idea  of output used in the study. 
+ Agreeing with/matching up with/working regularly with the definition of the FAO production index, the output idea  used here is 
+ the output from the farm-related part/area, net of amounts of different valuable things used as feed 
+ and seed.11 This is the reason for not including feed and seed in the input series. 
+ Another point (related to/looking at/thinking about) the output series that is important to remember is the fact that the 
+ output series are based on 1990 international average prices. So the output series would 
+ change when the base is moved/changed from 1990 to another period, this way possibly influencing the 
+ final results. We believe that it is more appropriate to use 1990 prices as the basis for our 
+ study spanning 1980 to 2000 rather than using 1980 or 2000 international average prices. 
+ Input Series: Given the restrictions on the number of input (numbers that change/things that change) that could be used in the 
+ DEA analysis, we have chosen to think about/believe only six input (numbers that change/things that change). Details of these (numbers that change/things that change) 
+ are given below. 
+ Land: This (number or thing that changes) covers the plantable land, land under permanent crops as well as the area 
+ under permanent (area of grassy land). Plantable land includes land under (lasting for a short time) crops (double-cropped 
+ areas are counted only once), (lasting for a short time) large grassy areas for mowing or (area of grassy land), land under market 
+ and kitchen gardens and land (for a short time) unplanted (less than five years). Land under permanent 
+ crops is the land helped grow with crops that occupy the land for long periods and need not be 
+ replanted after each harvest. This category includes land under flowering shrubs, fruit trees, 
+ nut trees and vines but leaves out/keeps out land under trees grown for wood or timber. Land under 
+ permanent (area of grassy land) is the land used permanently (five years or more) for search crops, either 
+ (helped to grow) or growing wild. 
+ Tractors: This (number or thing that changes) covers the total number of wheel and crawler tractors, but leaving out/keeping out 
+ garden tractors, used in farming. It is important to note that only the number of tractors is 
+ used as the input (number or thing that changes) with no (money given/freedom to move) made to the horsepower of the tractors.12 This 
+ aspect will be examined in future work. 
+ 
+ 7 
+ 
+ The Geary-Khamis international average prices are based on prices (in national currency units) and amounts 
+ of 185 farming-based valuable things in 103 countries. 
+ 8 
+ See the 1997 FAO Production Yearbook for details (related to/looking at/thinking about) the construction of production index numbers. 
+ 9 
+ All the tables are presented at the end of the paper. 
+ 10 
+ The DEA method employed here is specially suited to this type of situations. The method test results 
+ countries against countries with almost the same  output and input mixes. 
+ 11 
+ The output idea  used here is agreeing with/matching up with/working regularly with the idea  used in some of the earlier inter-country 
+ comparison studies (see Kawagoe and Hayami (1985) and Hayami and Ruttan (1970). 
+ 12 
+ Assuming that farming in developing countries is on broken-up land, average horsepower of tractors in these 
+ countries could be much lower than those used in countries with large farms using highly mechanised 
+ farming ways of doing things. This could understate the working well levels and changes in developing countries. 
+ 
+ 9 
+ 
+ Labour: This (number or thing that changes) refers to (money-based)/cheaply active population in farming. (money-based)/cheaply 
+ active population is defined as all people engaged or looking (for) employment in an money-based 
+ activity, whether as employers, own-account workers, salaried workers or unpaid workers 
+ helping in the operation of a family farm or business. (money-based)/cheaply active population in 
+ farming includes all (money-based)/cheaply active people working at farm-related, forestry, hunting 
+ or fishing. This (number or thing that changes) obviously overstates the labour input used in farming-based production, 
+ the extent of overstatement depends upon the level of development of the country.13 
+ Fertiliser: Following other studies (Hayami and Ruttan 1970, Fulginiti and Perrin 1997) on 
+ inter-country comparison of farming-based working well, we use the sum of Nitrogen (N), 
+ Potassium (P2O2) and Phosphate (K2O) contained in the commercial (material that makes plants grow better)s ate/destroyed. 
+ This (number or thing that changes) is expressed in thousands of metric tons. 
+ Animals: The animals input (number or thing that changes) used in the study is the sheep-equal of five 
+ categories of animals used in building this (number or thing that changes). The categories thought about/believed are: 
+ buffaloes, (cows, bulls, etc.), pigs, sheep and goats. Numbers of these animals are converted into sheep 
+ equals using (changing from one form, state, or state of mind to another) factors: 8.0 for buffalo and (cows, bulls, etc.); 1.00 for sheep, goats and 
+ pigs.14 Chicken numbers are not included in the animals figures. 
+ Crop-watering/rinsing with water: In this study we use the area under crop-watering/rinsing with water as a substitute for the capital 
+ (set of machines) connected with the crop-watering/rinsing with water of farmlands.15 
+ 
+ 4. 
+ 
+ Results and Discussion 
+ 
+ The results of our DEA and TFP calculations are summarised in this section. Given that we 
+ have 21 once-a-year (instances of watching, noticing, or making statements) on 93 countries, we have a lot of computer output to describe. 
+ Our calculations involved the solving of 93Ã--(21Ã--3-2) = 5,673 LP problems. We have 
+ thousands of pieces of information on the (wasting very little while working or producing something) scores and peers of each country in each 
+ year. We also have measures of technical (wasting very little while working or producing something) change, technical change and TFP 
+ change for each country in each pair of (next to) years. 
+ We have because of this decided to be selective in what results we present in this paper. We provide 
+ information on the means of the measures of technical (wasting very little while working or producing something) change, technical change 
+ and TFP change for each country (over the 21-year sample period) and the mean changes 
+ between each pair of (next to) years (over the 93 countries). We also provide means for 
+ certain groups of countries and plot the TFP (moves in a particular way/becomes popular) of some selected groupings of countries. 
+ In addition to this we provide a table of peers for all countries in the first year (1980) and in 
+ the final year (2000).16 
+ Average technical (wasting very little while working or producing something) scores in 1980 and 2000 are reported in Table 2 for the six 
+ areas and the full sample. Note that the average technical (wasting very little while working or producing something) score of 0.784 in 1980 
+ hints that these countries are, on average, producing 78.4 percent of the output that could 
+ 
+ 13 
+ 
+ There could be a significant percentage of the labour force (as defined here) in disguised unemployment. 
+ The (changing from one form, state, or state of mind to another) figures used in this study correspond very closely with those used in the 1970 study of 
+ Hayami and Ruttan. 
+ 15 
+ This crop-watering/rinsing with water (number or thing that changes) was not included in our previous analysis of the 1980-1995 data (see Rao and Coelli, 
+ 1998). In the present study we ran our DEA analysis with this (number or thing that changes) included and also left out/kept out. It was 
+ interesting to note that the (unweighted) mean TFP growth increased from 1.1 percent to 1.3 percent when this 
+ (number or thing that changes) was left out/kept out. This is not surprising, given that there has been significant investment in crop-watering/rinsing with water 
+ (set of machines) in many countries over the past twenty years, especially in Asian countries. 
+ 16 
+ These can obviously change from year to year, but it is not (able to be done) to present this information for every year. 
+ 14 
+ 
+ 10 
+ 
+ be possibly produced using the watched/followed input amounts.17 It is interesting to note that 
+ those areas with the lowest mean technical (wasting very little while working or producing something) scores in 1980 - Asia and Africa - 
+ also (accomplished or gained) the largest increases in mean technical (wasting very little while working or producing something) over the sample period. This 
+ provides (event(s) or object(s) that prove something) of catch-up in these countries, which was not found in many of the studies 
+ listed in Table 1. This is most likely because our data set spans the past two 
+ 20 years, while most of these studies think about/believe the 1960-1985 period. 
+ This information on changes in average technical (wasting very little while working or producing something) only tells the "catch-up" part of 
+ the working well story. TFP change can also appear in the form of technical change (or 
+ edge of something/unexplored area-shift). The means of the measures of technical (wasting very little while working or producing something) change, technical change 
+ and TFP change for each country (over the 21-year sample period) are presented in Table 4. 
+ Tables 5 and 6 (match up each pair of items in order) show the unweighted and weighted once-a-year averages (averaged 
+ over the 93 countries) of (wasting very little while working or producing something) change, technical change and TFP change. Table 7 shows 
+ the (related to a large area) averages of changes in (wasting very little while working or producing something) and TFP. Table 8 shows the changes in TFP 
+ for groups of countries classified by their technical (wasting very little while working or producing something) score in the first period 1980. 
+ In Table 3 we can identify all those countries that define the edge of something/unexplored area technology for the years 
+ 1980 and 2000 near their watched/followed output and input mixes. The table shows that 
+ there are 39 and 45 countries that are on the edge of something/unexplored area in 1980 and 2000, (match up each pair of items in order). Only 
+ four countries, Niger, Indonesia, Japan and Syria, which were on the edge of something/unexplored area in 1980, were 
+ no longer in the edge of something/unexplored area in 2000. Table 3 also provides a list of countries that define the best 
+ practice (peers) for each of the countries that are not on the edge of something/unexplored area. It is interesting to 
+ watch/notice the changes in the sets of (person who is in a similar age group or academic field) countries over the two periods. For example, in 1980 
+ Cuba had Dominican Republic, Netherlands, Malaysia, New Zealand and Hungary as its 
+ peers. However, in 2000 only Netherlands remained in the (related to someone within a similar age group or academic field) country set, the other 
+ countries in the new set being Nigeria, Bolivia, Switzerland, Haiti and Uruguay. Sets of (related to someone within a similar age group or academic field) 
+ countries defining best practice for countries in Asia seem to be staying steady over the 
+ study period. 
+ The last two columns of Table 3 show the number of times each of the (producing a lot with very little waste) countries on 
+ the edge of something/unexplored area appear as a (person who is in a similar age group or academic field) for the technically inefficient countries. Countries that do not 
+ appear as a (person who is in a similar age group or academic field) for any other country may be thought about/believed to be on the edge of something/unexplored area due to the 
+ (like nothing else) nature of their input and output mix. For example Australia does not appear as a (person who is in a similar age group or academic field) 
+ for any country in 1980. In contrast, Papua New Guinea appears as a (person who is in a similar age group or academic field) for 26 countries in 
+ 1980. 
+ Table 4 shows the mean technical (wasting very little while working or producing something) change, technical change and TFP change for 
+ the 93 countries over the period 1980 to 2000. Countries in the table are presented in 
+ lowering/downward-moving/originating order of the importance of the TFP changes. The table shows China and Cambodia 
+ as the two countries with maximum TFP growth. China shows a 6.0 percent average growth 
+ in TFP, which is due to 4.4 percent growth in technical (wasting very little while working or producing something), and 1.5 percent growth in 
+ technical change.18 Australia, USA and India (match up each pair of items in order) show TFP growth rates of 2.6, 
+ 2.6 and 1.4 percent. The unweighted average (across all countries) growth in TFP is 1.1 
+ percent. 
+ Tables 5 and 6 show the once-a-year average technical (wasting very little while working or producing something) change, technical change and 
+ TFP change using (match up each pair of items in order) unweighted (where each country has the same weight) and 
+ weighted (where each country change is weighted by the country's share in total farming-based 
+ 17 
+ 
+ This figure should be understood/explained with care. No attempt has been made to (change to make better/change to fit new conditions) the data for differences in 
+ climate, soil quality, labour quality, etc. 
+ 18 
+ This result appears to be agreeing with/matching up with/working regularly with some of the recent studies on Chinese money-based growth (Maddison, 
+ 1997). 
+ 
+ 11 
+ 
+ output). These tables show the effect of using weights on the once-a-year averages received/made from. 
+ Unweighted averages show only 1.1 percent growth in TFP whereas the weighted TFP 
+ growth over the period is 2.1 percent. The results show that the use of unweighted averages 
+ understates the changes in TFP change and in its parts/pieces. Another hint/result/effect of this 
+ difference is that TFP growth has been higher in countries with higher share of worldwide 
+ farming-based output. We believe that for purposes of testing (related to a large area) and worldwide 
+ performance a weighted average (across countries) of once-a-year growth rates is more 
+ appropriate. 
+ Tables 4 and 5 show that over the whole period there has been no (related to computers and science) moving backward 
+ though for some individual years there has been some (event(s) or object(s) that prove something) of (related to computers and science) moving backward. 
+ The extent of (related to computers and science) moving backward seems to be less serious when weighted average 
+ changes are carefully thought about/believed. 
+ Table 7 provides measures of once-a-year changes in technical (wasting very little while working or producing something), technical change and 
+ TFP change by different areas. Asia as a area posted the highest TFP growth of 2.9 
+ percent (mainly due to (wasting very little while working or producing something) change growth of 1.9 percent) followed by North America 
+ (consisting of USA and Canada), Australasia, Europe, Africa and South America. South 
+ America has posted the lowest growth rate of 0.6 percent followed by Africa with 1.3 percent 
+ growth in TFP. A surprising result is that over the period 1980-2000, these results show no 
+ (event(s) or object(s) that prove something) of worldwide  or (related to a large area) (related to computers and science) moving backward. This is in contrast to the work of 
+ Fulginiti and Perrin (1997) who report technical moving backward in a group of 18 developing 
+ countries over the period 1961-1985. Another interesting feature is the fame of 
+ (wasting very little while working or producing something) change (or "catch-up") as a source of TFP growth. Both in Asia, Africa (wasting very little while working or producing something) 
+ change is the principal source of TFP growth. 
+ Figure 2 shows total TFP indices from 1980 to 2000 for the different areas. From the 
+ figure it is obvious that Asia has the highest total growth by 2000, followed by North 
+ America and Europe. Asia has a higher total growth than the worldwide  growth in TFP. 
+ Africa and South America remain as the bottom groups. 
+ Table 8 shows the average once-a-year changes for groups of countries classified by their 
+ technical (wasting very little while working or producing something) scores in 1980. The first group, consisting of 39 countries on the edge of something/unexplored area 
+ in 1980, posted only 1.2 percent growth in TFP driven by a 1.3 percent growth in technical 
+ change. In contrast, those countries that had an (wasting very little while working or producing something) score between 0.6 and 1, posted a 
+ 1.5 percent growth in TFP mainly driven by 0.3 percent growth in technical change and 1.2 
+ percent growth in technical (wasting very little while working or producing something). However the bottom group of countries, with a 
+ technical (wasting very little while working or producing something) score less than 0.6, posted an impressive 3.6 percent growth in TFP 
+ mainly driven by 2.5 percent growth in technical (wasting very little while working or producing something) and 1.5 percent growth in 
+ technical change. These results point to/show a degree of catch-up due to improved technical 
+ (wasting very little while working or producing something) along with growth in technical change. 
+ 
+ 12 
+ 
+ Figure 2 Total TFP Indices 
+ 1.800 
+ 1.700 
+ 1.600 
+ All 
+ 
+ TFP Index 
+ 
+ 1.500 
+ 
+ Africa 
+ Nth. Am. 
+ 
+ 1.400 
+ 
+ Sth. Am. 
+ 1.300 
+ 
+ Asia 
+ Europe 
+ 
+ 1.200 
+ 
+ Australasia 
+ 1.100 
+ 1.000 
+ 0.900 
+ 1980 1982 1984 1986 1988 1990 1992 1994 1996 1998 2000 
+ Year 
+ 
+ While the results in Tables 7 and 8 are very encouraging in terms of the catch-up and 
+ coming together shown by many countries, a feature of concern is the low TFP growth 
+ experienced by some countries in Africa and South America. These are the two 
+ continents with the highest population growth during 1980-2000 and population in these 
+ areas is projected to grow strongly in the next ten years. 
+ Figure 3 summarises our guessed shadow shares received/got from the DEA edges of something/unexplored areas used in 
+ figuring out/calculating the Malmquist TFP indices. Summary information on these shares is also given in 
+ Tables 9 and 10. The top two series in Figure 3 represent the value shares for crops and 
+ animals (both sum to togetherness) over the study period. These shares appear to be fairly steady 
+ over the period, with crops accounting for more than 50 percent of the total output in most 
+ years. 
+ The six series graphed at the bottom of Figure 3 represent the shadow input shares resulting 
+ from the use of the DEA way(s) of doing things. The figure serves to (show or prove) the 
+ believability of the input shares received/made from here. The labour share shows a steady decline from 
+ 28.5 percent in 1980 to 24.2 percent in 2000. The share of land, grouped over all the 
+ countries, seems to be quite stable around 11 percent. While the share of tractors remained 
+ the same, the shares of fertilisers and animals have shown small increases. 
+ Table 10 shows the country-clearly stated/particular output and input shares hidden (under) the TFP indices 
+ reported here. These shares are averaged over the study period 1980 to 2000. These shadow 
+ shares seem to be quite meaningful. For example, India shows 71 percent share for crops and 
+ 29 percent for animals confirming the importance of crops in India. (in almost the same way), in the 
+ Netherlands the share of animals is shown to be 97.1 percent. Almost the same  animals shares are 
+ shown for Norway (99.4 percent), Switzerland (95.1 percent) and Finland (96.6 percent). 
+ 
+ 13 
+ 
+ Figure 3 Mean shadow shares 
+ 0.600 
+ 
+ Average Shadow Shares 
+ 
+ 0.500 
+ 
+ Crops 
+ 
+ 0.400 
+ 
+ Animals 
+ Area 
+ Tractors 
+ 
+ 0.300 
+ 
+ Labour 
+ Fertiliser 
+ Lstock(inp) 
+ 
+ 0.200 
+ 
+ Crop-watering/rinsing with water 
+ 
+ 0.100 
+ 
+ 0.000 
+ 1980 1982 1984 1986 1988 1990 1992 1994 1996 1998 2000 
+ Year 
+ 
+ The last six columns of Table 10 show the shares of the six inputs. These shares also appear 
+ to be meaningful and agreeing with/matching up with/working regularly with the general factor gifts enjoyed by these 
+ countries. For example, the shadow shares of labour are quite high in countries like the USA 
+ (64.1 percent), Canada (53.9 percent) and Australia (58.6 percent). Labour shares are also 
+ quite high in those countries where labour is plentiful and farming is very labour 
+ intensive. India and Indonesia (match up each pair of items in order) have shadow labour shares of 44.5 and 42.2 
+ percent (match up each pair of items in order). In countries where land is a limiting factor its shadow share is quite 
+ high. For example, in the Netherlands the land share is 27.7 percent. In Japan and Israel the 
+ land shares are (match up each pair of items in order) 56.4 and 47.2 percent. These large shares for land also reflect the 
+ lack of land resulting from increasing urbanisation of farming-based land. 
+ Shares of other factors, including fertilisers, tractors, animals and crop-watering/rinsing with water, are also 
+ reasonable and appear to support the general scarcities of these useful things/valuable supplies in different countries. 
+ We find the general (popular things/general ways things are going) in these shares over time and differences across countries appear 
+ to support the discussion in Ruttan (2002) where different restrictions to working well growth in 
+ world farming are identified. Table 11 summarises the shadow share information by 
+ continents. The Asian continent has the highest input share connected with land whereas 
+ North America and Europe have large shares for labour, animals and crop-watering/rinsing with water inputs. 
+ As one final exercise, we have taken the average shadow share guesses from the bottom of 
+ Table 11 and used them as fixed shares in the calculation of Tornqvist TFP index numbers 
+ for each country. These Tornqvist TFP indices are reported in Table 12, along with the 
+ original Malmquist TFP indices from the final column of Table 4. The differences between 
+ these two columns of indices are reported in the final column of Table 12. This table has 
+ been sorted by the size of this difference. The reported differences are quite large in some 
+ 
+ 14 
+ 
+ cases, with 40 countries reporting differences of 1 percent per year or more. These 
+ differences may be (gave reasons for something) in two ways. Either the shadow shares for some countries are 
+ not well guessed (due to the quality problem in DEA) or the shadow shares are well 
+ guessed, but they differ significantly from the sample average, because of country specific 
+ factors, such as land (not enough of something), labour (oversupply/large quantity), etc. For many countries, the watched/followed 
+ difference may well be a combination of these two factors, to different degrees. 
+ Finally, the country-level information in Table 12 is summarised in Table 13 for our six 
+ areas. The largest difference happens for South and Central America, where the average 
+ TFP growth measure increases from 0.6 percent to 1.5 percent per year. This is not a 
+ minor difference, and focuses the key point that TFP indices depend importantly upon the 
+ prices that are used - be they market prices or shadow prices. 
+ 
+ 5. 
+ 
+ Ends/end results 
+ 
+ This paper presents some important findings on levels and (moves in a particular way/becomes popular) in worldwide  farming-based 
+ working well over the past twenty years. The results presented here examine the growth in 
+ farming-based working well in 93 countries over the period 1980 to 2000. The results show an 
+ once-a-year growth in total factor working well growth of 2.1 percent, with (wasting very little while working or producing something) change (or 
+ catch-up) adding/giving 0.9 percent per year and technical change (or edge of something/unexplored area-shift) providing 
+ the other 1.2 percent. There is little (event(s) or object(s) that prove something) of the (related to computers and science) moving backward discussed in a 
+ number of the papers listed in Table 1. This is most likely a result of the use of a 
+ different sample period and an expanded group of countries. In terms of individual country 
+ performance, the most amazing performance is posted by China with an average once-a-year 
+ growth of 6.0 percent in TFP over the study period. Other countries with strong performance 
+ are, among others, Cambodia, Nigeria and Algeria. The United States has a TFP growth rate 
+ of 2.6 percent whereas India has posted a TFP growth rate of only 1.4 percent. 
+ Turning to performance of different areas, Asia is the major performer with a once-a-year TFP 
+ growth of 2.9 percent. Africa seems to be the weakest performer with only 0.6 percent 
+ growth in TFP. Examining the question of catch-up and coming together, we find that those 
+ countries that were well below the edge of something/unexplored area in 1980 (with technical (wasting very little while working or producing something) coefficients of 
+ 0.6 or below) have a TFP growth rate of 3.6 percent. This in contrast to a low 1.2 percent 
+ growth for the countries that were on the edge of something/unexplored area in 1980. These results point to/show a degree of 
+ catch-up in working well levels between high-performing and low-performing countries. We 
+ find these results to be quite interesting since these point to/show an encouraging reversal (during 
+ 1980-2000 period) in the big thing/the important event of negative working well (popular things/general ways things are going) and (related to computers and science) 
+ moving backward reported in some of the earlier studies for the period 1961-1985. 
+ Though the results are quite reasonable and meaningful, the authors are quite aware of the 
+ data limits and the need for further work in this area. Future work should include: (i) an 
+ examination of the strength of the results to moves/changes in the base period for the computation of 
+ output groups; (ii) including bug-killers, herbicides and (bought something for money) feed and seed in 
+ the input set; (iii) an (act of asking questions and trying to find the truth about something) of the effects of land quality, crop-watering/rinsing with water and rainfall; and 
+ (iv) use of parametric distance functions to study the strength of the findings to the 
+ choice of way(s) of doing things. 
+ 
+ 15 
+ 
+ References 
+ Arnade, C. (1998), "Using a Programming Approach to Measure International Farming-based 
+ (wasting very little while working or producing something) and Working well", Journal of Farming-based Money flow, 49, 67-84. 
+ Ball, V. Eldon, Bureau, J.C., Butault, J.P., Nehring, R., (2001) "Levels of Farm Part/area 
+ Working well: An International Comparison", Journal of Working well Analysis, 15, 5-29. 
+ Barro, R. and X. Sala-i-Martin (1991), "Coming together across states and areas", Brookings 
+ Paper on Money-based Activity, pp.107. 
+ Bureau, C., R. FÃ¤re and S. Grosskopf (1995), "A Comparison of Three Nonparametric 
+ Measures of Working well Growth in (related to Europe) and United States Farming", Journal 
+ of Farming-based Money flow, 46, 309-326. 
+ Capalbo, Susan M., and J.M. Antle (eds.) (1988), Farming-based Working well: Measurement 
+ and Explanation, Washington D.C. Useful things/valuable supplies for the Future. 
+ Chavas, J.P.(2001), "An International Analysis of Farming-based Working well", in L. Zepeda, 
+ ed., Farming-based Investment and Working well in Developing Countries, FAO, Rome. 
+ Coelli, T.J. and D.S.P. Rao (2001), "Understood Value Shares in Malmquist TFP Index 
+ Numbers", CEPA Working Papers, No. 4/2001, School of Money flow, University of 
+ New England, Armidale, pp. 27. 
+ Coelli, T.J., D.S. Prasada Rao and G.E. Battese (1998), An Introduction to (wasting very little while working or producing something) and 
+ Working well Analysis, Kluwer School-related Publishers, Boston. 
+ Craig, B.J., Pardey, P.G. and Roseboom, J. (1997), "International working well patterns: 
+ accounting for input quality, (set of machines), and research", American Journal of 
+ Farming-based Money flow, 79, 1064-1077. 
+ FÃ¤re, R., S. Grosskopf, M. Norris and Z. Zhang (1994), "Working well Growth, Technical 
+ Progress and (wasting very little while working or producing something) Changes in Industrialised Countries, American Money-based 
+ Review, 84, 66-83. 
+ Fulginiti, L. and R. Perrin (1993), "Prices and Working well in Farming", Review of 
+ Money flow and Statistics, 75, 471-482. 
+ Fulginiti, L.E. and Perrin, R.K. (1997), "LDC farming: Nonparametric Malmquist 
+ working well indexes", Journal of Development Money flow, 53, 373-390. 
+ Fulginiti, L.E. and Perrin, R.K., (1998), "Farming-based working well in developing countries", 
+ Journal of Farming-based Money flow, 19, 45-51. 
+ Fulginiti, L.E. and Perrin, R.K. (1999), "Have Price Policies Damaged LDC Farming-based 
+ Working well?", Modern Money-based Policy, 17, 469-475. 
+ Grifell-Tatje, E. and C.A.K. Lovell (1995), "A Note on the Malmquist Working well Index", 
+ Money flow Letters, 47, 169-175. 
+ Hayami, Y. and V. Ruttan (1970), "Farming-based Working well Differences Among Countries", 
+ American Money-based Review, 40, 895-911. 
+ Hayami, Y. and V. Ruttan (1971), Farming-based Development: An International (way of seeing things / sensible view of what is and is not important), 
+ Johns Hopkins Press, Baltimore. 
+ Kawagoe, T. and Y. Hayami (1983), "The Production Structure of World Farming: An 
+ Intercountry Cross-Section Analysis", Developing (processes of people making, selling, and buying things), 21, 189-206. 
+ 
+ 16 
+ 
+ Kawagoe, T. and Y. Hayami (1985), "An Intercountry Comparison of Farming-based 
+ Production (wasting very little while working or producing something)", American Journal of Farming-based Money flow, 67, 87-92. 
+ Kawagoe, T., Y. Hayami and V. Ruttan (1985), "The Intercountry Farming-based Production 
+ Function and Working well Differences Among Countries", Journal of Development 
+ Money flow, 19, 113-132. 
+ Lau, L. and P. Yotopoulos (1989), "The Meta-Production Function Approach to 
+ (related to computers and science) Change in World Farming", Journal of Development Money flow, 31, 
+ 241-269. 
+ Lusigi, A. and Thirtle, C. (1997), "Total factor working well and the effects of R&amp;D in 
+ African farming", Journal of International Development, 9, 529-538. 
+ Maddison, A. (1995), Watching the World (process of people making, selling, and buying things): 1820-1992, OECD, Paris. 
+ Maddison, A. (1997), Chinese Money-based Performance in the Long Run, OECD, Paris. 
+ Martin, W. and Mitra, D. (1999), "Working well Growth and Coming together in Farming and 
+ Manufacturing", Farming Policy Research Working Papers, No. 2171, World Bank, 
+ Washington D.C. 
+ Nin, A., Arndt, C. and Preckel, P.V. (2003), "Is farming-based working well in developing 
+ countries really shrinking? New (event(s) or object(s) that prove something) using a changed nonparametric approach", 
+ Journal of Development Money flow, 71, 395-415. 
+ Rao, D.S.P. (1993), Intercountry Comparisons of Farming-based Output and Working well, 
+ FAO, Rome. 
+ Rao, D.S.P. and Coelli, T.J. (1998), "Catch-up and Coming together in Worldwide  Farming-based 
+ Working well, 1980-1995", CEPA Working Papers, No. 4/98, Department of 
+ Econometrics, University of New England, Armidale, pp. 25. 
+ Ruttan, V.W. (2002), "Working well Growth in World Farming: Sources and Restrictions", 
+ Journal of Money-based (way of seeing things / sensible view of what is and is not important)<p><strong>NOTE: This document is incomplete. It was shortened to the maximum document length of 50,000 characters.</strong></p><div style="clear:both">&nbsp;</div>

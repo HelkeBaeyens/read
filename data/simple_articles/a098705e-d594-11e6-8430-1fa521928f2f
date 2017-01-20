@@ -1,0 +1,1094 @@
+ Farming-based Money flow 27 (2002) 247-267 
+ 
+ Under the hood 
+ Issues in the (detailed description of exactly what is required) and (understanding/ explanation) of 
+ (related to space or existing in space) moving backward models 
+ Luc Anselin 
+ (related to a large area) Money flow Applications Laboratory (REAL) and Department of Farming-based and Person Money flow, 
+ University of Illinois, Urbana-Champaign, Urbana, IL 61801, USA 
+ 
+ Abstract 
+ This paper reviews some idea-based issues having to do with the (putting into) use of an clear "(related to space or existing in space)" (way of seeing things / sensible view of what is and is not important) in 
+ applied econometrics. It provides an summary of the reason for including (related to space or existing in space) effects in moving backward models, both from a 
+ explanation-driven as well as from a data-driven (way of seeing things / sensible view of what is and is not important). (large/relatively large) attention is paid to the guess-related (solid basic structure on which bigger things can be built) necessary 
+ to carry out guess and testing and the different ideas (you think are true), restrictions and effects/results/suggestions deeply set within  the different 
+ (detailed descriptions of exactly what is required) available in the books. The review combines ideas from the usual (related to space or existing in space) econometrics books as 
+ well as from geostatistics, biostatistics and medical image analysis. 
+ Â© 2002 Elsevier Science B.V. All rights reserved. 
+ Keywords: (related to space or existing in space) econometrics; (related to space or existing in space) autocorrelation; (related to space or existing in space) processes; Model (detailed description of exactly what is required) 
+ 
+ 1. Introduction 
+ The last few years have seen a virtual explosion in the 
+ application of (related to space or existing in space) models in a range of fields in the 
+ social sciences in general, and in applied money flow/money-based studies in 
+ particular (recent reviews are given in, e.g. Anselin and 
+ Bera, 1998; Goodchild et al., 2000; Anselin, 2001b,c). 
+ Over time, the way(s) of doing things of (related to space or existing in space) econometrics 
+ (Paelinck and Klaassen, 1979; Anselin, 1988) has matured and changed from an aspect of (related to space or existing in space) statistics 
+ with first (or most important) application in (related to a large area) science and (related to careful studying or deep thinking) (the study of (or the location of) mountains, rivers, hills, etc.) (Ord, 1975; Cliff and Ord, 1981), 
+ to an more and more visible thread in formal econometric explanation (for example, Conley, 1999; Kelejian and 
+ Prucha, 1999, 2001; Baltagi and Li, 2001; Lee, 2002). 
+ (in almost the same way), when dealing with group thin sliceal 
+ data in scientific work, testing for (related to space or existing in space) autocorreE-mail address: anselin@uiuc.edu (L. Anselin). 
+ 
+ lation and guessing models that formally includes (related to space or existing in space) effects is no longer (excellent/very unusual). Probably, 
+ (related to space or existing in space) moving backward ways of doing things are beginning to become 
+ part of the toolbox of applied econometrics. In farming-based and useful thing/valuable supply money flow/money-based studies, drawings/pictures of this 
+ (way of seeing things / sensible view of what is and is not important) can be found in Benirschka and Binkley 
+ (1994), Bockstael (1996), Weiss (1996), Nelson and 
+ Hellerstein (1997), Bell and Bockstael (2000), Florax 
+ et al. (2001), Hurley et al. (2001), Anselin et al. (2002), 
+ Irwin and Bockstael (2002), Kim et al. (2002) and Roe 
+ et al. (2002), among others. 
+ While definitely large amounts of progress has been 
+ made, most applications of (related to space or existing in space) econometrics are 
+ rather limited in the way in which (related to space or existing in space) interaction 
+ is included in the model (detailed descriptions of exactly what is required). The typical approach is to tell the difference between (what people commonly call a/not really a) (related to space or existing in space) lag and (related to space or existing in space) error models (see Anselin, 1988). 
+ The former incorporate a (related to space or existing in space)ly fell behind dependent 
+ (number or thing that changes) (Wy) on the right hand side of the moving backward 
+ 
+ 0169-5150/02/$ - see front matter Â© 2002 Elsevier Science B.V. All rights reserved. 
+ PII: S 0 1 6 9 - 5 1 5 0 ( 0 2 ) 0 0 0 7 7 - 4 
+ 
+ 248 
+ 
+ L. Anselin / Farming-based Money flow 27 (2002) 247-267 
+ 
+ model. (related to space or existing in space) error autocorrelation is either modeled 
+ directly, following the general ways of thinking/basic truths/rules of geostatistics, or by using a (related to space or existing in space) autoregressive process 
+ for the error term (for a recent review of these models, 
+ see Anselin and Bera, 1998; Anselin, 2001b). What 
+ is not always well understood in this process is that 
+ different (related to space or existing in space) models cause sometimes totally 
+ different (related to space or existing in space) relationship patterns, which do not 
+ necessarily match the hidden (under) possible interaction model. 
+ In this paper, I review some issues in the (detailed description of exactly what is required) and (understanding/ explanation) of (related to space or existing in space) moving backward models. 
+ The goal is to pull together results from a variety 
+ of fields of study in which different modeling plans 
+ have been chased after, including (related to space or existing in space) econometrics, 
+ biostatistics, medical image analysis and geostatistics. 
+ The review is aimed at a general audience of applied 
+ econometricians, without assuming (state of knowing someone or something well) with 
+ (related to space or existing in space) econometrics. Because of this, the approach taken is 
+ mostly teaching-related and mostly a reformulation and 
+ description of ideas that have been organized and listed in some 
+ form in earlier review papers (specifically, Anselin 
+ and Bera, 1998; Anselin, 2001b,c, 2002). The focus throughout is less on technical aspects than on 
+ the hidden (under) ideas and gut feeling. The goal 
+ is to highlight unusual results and suggest added/more 
+ ways in which (related to space or existing in space) models may be introduced in 
+ applied econometrics. A more technical treatment is 
+ chased after in a companion paper. 
+ The focus of the paper is only on (related to space or existing in space) relationship in linear moving backward models, leaving 
+ the discussion of (related to space or existing in space) mixed-up nature aside.1 Also, 
+ space-time models and (related to space or existing in space) panel (detailed descriptions of exactly what is required) are 
+ not thought about/believed clearly, although most of the structures thought about/believed can be done in a space-time 
+ big picture  without change. 2 
+ The rest of the paper consists of four sections 
+ and a end/end result. First, possible reasons for the 
+ including in something of (related to space or existing in space) dependence in a moving backward model 
+ are carefully thought about/believed. This is followed by a almost the same  focus 
+ on data-driven (desires to do things/reasons to do things). Next, some con1 For a general review of approaches to model (related to space or existing in space) mixed-up nature in a moving backward big picture, see, among others, Anselin (1988, 
+ 1990), Casetti (1997), Fotheringham et al. (1998) and LeSage 
+ (2002). 
+ 2 See for example Elhorst (2001) for a recent review of some 
+ of the issues, and Anselin (1988, 2001b), for the (detailed description of exactly what is required) of 
+ (related to space or existing in space) panel data models. 
+ 
+ ceptual issues are reviewed that relate to the foundations for (related to studying numbers) guessing in (related to space or existing in space) moving backward models, including data models, the construction of (related to space or existing in space) 
+ weights and asymptotics. Finally, some comments are 
+ created on the issue of (related to surrounding conditions or the health of the Earth) moving backward, (in other words) 
+ the use of (related to space or existing in space) moving backward models to group together units, such as counties or states. 
+ 
+ 2. Explanation-driven (detailed descriptions of exactly what is required) 
+ Including (related to space or existing in space) effects in applied econometric models is usually (gave a reason to do something) either on possible grounds, following from the formal (detailed description of exactly what is required) 
+ of (related to space or existing in space) interaction in an money-based model, or on 
+ practical grounds, due to weird qualities of the data used 
+ in an scientific analysis. I think about/believe the possible 
+ (way of seeing things / sensible view of what is and is not important) first. 
+ In their description of the definition of (related to space or existing in space) 
+ econometrics, Paelinck and Klaassen (1979) stressed 
+ the importance of (related to space or existing in space) (dependent on each other), the unevenness of (related to space or existing in space) relations, and the relevance of factors 
+ located in "other spaces". This early creation 
+ of the importance of (related to space or existing in space) interaction was mostly 
+ based on practical grounds. However, more (not very long ago), these concerns are also reflected in possible 
+ money-based models of interacting agents and social 
+ interaction. Such models deal with questions of how 
+ the interaction between money-based agents can lead to 
+ newly-seen total behavior and group patterns, 
+ and they assign a central role to location, space and 
+ (related to space or existing in space) interaction. The (enough to be meaningful) ideas receive 
+ different labels in different subfields, such as social 
+ normal behaviors, neighborhood effects, (group of same-age people) effects, respect, (related to a plan to reach a goal) interaction, copy-catting, yardstick competition and race to the bottom, to name 
+ a few. However, an important (something in common) is the 
+ need to formally specify the range and strength of 
+ the relations between the interacting agents, which in 
+ scientific practice translates into the need to specify 
+ a structure for (related to space or existing in space) relationship. 
+ Examples of such possible (solid basic structures on which bigger things can be built) in money flow/money-based studies are models of complex behavior built on 
+ ways of thinking/basic truths/rules from (related to studying numbers) mechanics, such as interacting particle systems and random field models (Brock 
+ and Durlauf, 1995; Akerlof, 1997; Durlauf, 1997); 
+ macroeconomic models with mean field interaction 
+ (Aoki, 1996); models for neighborhood spillover 
+ 
+ L. Anselin / Farming-based Money flow 27 (2002) 247-267 
+ 
+ 249 
+ 
+ effects (Durlauf, 1994; Borjas, 1995; Glaeser et al., 
+ 1996); and models of increasing returns, path dependence and (not totally pure/not totally correct) competition hidden (under) the new 
+ money-based (the study of (or the location of) mountains, rivers, hills, etc.) (Fujita et al., 1999). 
+ Rather than providing a described/explained review of how 
+ specific (related to space or existing in space) econometric models follow from these 
+ possible (things to carefully think about), I will first focus on two 
+ especially interesting forms that have seen (large/relatively large) use in practice: (related to space or existing in space) reaction functions 
+ and possible (numbers that change/things that change). Next, I present some statements 
+ on (related to space or existing in space) hidden/covered up (number or thing that changes) models. 
+ 
+ (connected/related) in a situation where a farmer would decide/figure out 
+ the amount of farmland gave/reserved to a crop by taking 
+ into account the amounts gave out by the other farmers in the system. As a result, the unemotional function 
+ for each agent is: 
+ 
+ 2.1. (related to space or existing in space) reaction function 
+ 
+ The (related to space or existing in space) lag model (1) is an (putting into) use of 
+ the reaction function received/got by specifying a linear 
+ functional form for R and by restricting the set of interacting agents to the "neighbor" structure expressed 
+ in the (related to space or existing in space) weights W . Even though this (forces (on people)/causes an inconvenient situation) 
+ a large number of zero restrictions in W in the (related to what holds something together and makes it strong) form (1), the similar reduced form shows/tells about 
+ a worldwide  range of spillovers: 
+ 
+ A (related to space or existing in space) reaction function (Brueckner, 2002) expresses how the importance of a decision (number or thing that changes) for 
+ an money-based agent depends on the high levels of the 
+ decision (numbers that change/things that change) set by other money-based agents.3 This 
+ provides the possible basis for a (what people commonly call a/not really a) (related to space or existing in space) 
+ lag model, or, mixed backwards-moving, (related to space or existing in space) autoregressive 
+ model (Anselin, 1988): 
+ y = ÏWy + XÎ² + Îµ, 
+ 
+ (1) 
+ 
+ where, as usual, y is an nÃ--1 vector of (instances of watching, noticing, or making statements) on 
+ the dependent (decision) (number or thing that changes), W is an n Ã-- n (related to space or existing in space) weights matrix that (agrees to--and promises to follow--certain rules, procedures, etc.) the network structure (nodes and links) of the social network of the n 
+ agents,4 Ï is the (related to space or existing in space) autoregressive limit/guideline, X 
+ is an n Ã-- k matrix of (instances of watching, noticing, or making statements) on the (coming from the outside of something) 
+ (numbers that change/things that change), with an connected k Ã-- 1 moving backward coefficient vector Î², and Îµ is a vector or random error 
+ terms. 
+ Brueckner (2002) develops two possible (solid basic structures on which bigger things can be built) for (related to a plan to reach a goal) interaction that produce a reaction 
+ function as the balance solution. One is referred 
+ to as a spillover model, in which an agent i chooses 
+ the level of a decision (number or thing that changes), yi , but the values of 
+ the y chosen by other agents (say,ya'i , where the a'i 
+ subscripts refers to all agents other than i) affect its 
+ unemotional function also. For example, this would be 
+ 3 Brueckner (2002) develops his argument in the big picture  of 
+ public money flow/money-based studies and refers to the "agents" as "controls," 
+ which are the decision-making agents in this setting. Here, I will 
+ use the more general term agents. See also Section 5 for a discussion of the (understanding/ explanation) of reaction functions when the units are 
+ groups of agents, which is an important honor/difference. 
+ 4 A more formal treatment of the (related to space or existing in space) weights is delayed 
+ until Section 4.2. 
+ 
+ U (yi , ya'i ; xi ), 
+ 
+ (2) 
+ 
+ with xi as a row vector of ((coming from the outside of something)) (features/ qualities/ traits) 
+ of i. The solution to the usual goal (biggest increase/best possible extent) 
+ problem yields the reaction function as: 
+ yi = R(ya'i , xi ). 
+ 
+ y = (I a' ÏW )a'1 XÎ² + (I a' ÏW )a'1 Îµ, 
+ 
+ (3) 
+ 
+ (4) 
+ 
+ in which the "Leontief inverse" (I a' ÏW )a'1 links the 
+ decision changeable yi to all the xi in the system through 
+ a (what people commonly call a/not really a) (related to space or existing in space) multiplier. Also, (4) shows how the (thing that changes (like a test score) because of something else that you control (like study time)) yi at i is serious and stubborn 
+ by the error terms at all locations in the system, and 
+ not just the error at i. This (happening at the same time) makes the 
+ (related to space or existing in space)ly fell behind Wy variable endogenous, which requires/results in (made to do one thing very well) guess ways of doing things, such as 
+ maximum chance guess or instrumental (numbers that change/things that change) approaches (see, e.g. Ord, 1975; Anselin, 1988; 
+ Kelejian and Robinson, 1993; Kelejian and Prucha, 
+ 1998). 
+ The particular form of the (related to space or existing in space) multiplier in 
+ (4) is only one example out of a (system for classifying living things) of models for (related to space or existing in space) spillovers, as presented in Anselin 
+ (2002). Different ranges for the (related to space or existing in space) spillovers can 
+ be incorporated by applying the (related to space or existing in space) lag operator 
+ (pre-multiplication by the (related to space or existing in space) weights matrix W ) to 
+ the y, X or Îµ terms in a moving backward (detailed description of exactly what is required). However, it is important to note that models that include 
+ Wy all cause a worldwide  form of spillovers. Local forms 
+ of spillover are received/got from (related to space or existing in space) falls behind  for the explanatory (numbers that change/things that change) (WX, see Section 2.2) and particular error covariances, such as those caused by a (related to space or existing in space) 
+ moving average model and a (related to space or existing in space) error parts/pieces model (see Anselin, 2002; Anselin and Moreno, 
+ 
+ 250 
+ 
+ L. Anselin / Farming-based Money flow 27 (2002) 247-267 
+ 
+ 2002). These do not seem to fit the (related to a plan to reach a goal) interaction 
+ (solid basic structure on which bigger things can be built). 
+ Brueckner (2002) shows how a number of scientific computer programs of (related to a plan to reach a goal) interaction models are 
+ special cases of his spillover model, with applications 
+ to state expenses, pollution stopping and other 
+ forms of yardstick competition.5 
+ A second possible (solid basic structure on which bigger things can be built) is referred to as 
+ the useful thing/valuable supply flow model. Here, the agent's decision 
+ (number or thing that changes) is not directly affected by the levels chosen 
+ by other agents, but only indirectly. The indirect effect 
+ follows from the presence of the value of a "useful thing/valuable supply" 
+ in the individual agent's unemotional function: 
+ U (yi , si , xi ), 
+ 
+ (5) 
+ 
+ where si is the amount of the useful thing/valuable supply available to 
+ agent i. For example, this could relate to a farmer's 
+ decision of how much crop-watering/rinsing with water to apply to a field, 
+ where the useful thing/valuable supply si would be the amount of water available for this purpose. The interaction between 
+ agents follows from the way in which the useful thing/valuable supply is 
+ distributed among them, which depends both on the 
+ (features/ qualities/ traits) of each agent (xi , for example, the type 
+ of crop grown on the field), as well as on the decisions 
+ taken by the other agents (how much water they use): 
+ si = H (yi , ya'i ; xi ). 
+ 
+ (6) 
+ 
+ After substituting (6) into (5), the interaction (numbers that change/things that change) ya'i become part of the unemotional function, and 
+ the resulting balance solution takes the same form 
+ as the reaction function (3) for the spillover model. 
+ Brueckner (2002) shows how a number of tax competition and other (related to a plan to reach a goal) interaction models fall in 
+ the useful thing/valuable supply flow category and so also suggest a (related to space or existing in space) lag (detailed description of exactly what is required).6 
+ It is important to note that the spillover and the useful thing/valuable supply flow models both lead to the same (related to space or existing in space) lag 
+ econometric (detailed description of exactly what is required). Put differently, the (related to space or existing in space) 
+ econometric model as such is not (good) enough to identify 
+ the money-based (machine/method/way) that leads to the presence 
+ (and evidence) of (related to space or existing in space) interaction. This is 
+ an example of the inverse problem, which is widespread 
+ 5 Familiar examples are Case et al. (1993), Besley and Case 
+ (1995), Murdoch et al. (1997), and Bivand and Szymanski (1997, 
+ 2000). 
+ 6 Examples are Brueckner (1998) and Saavedra (2000), among 
+ others. 
+ 
+ in (related to space or existing in space) data analysis (see, for example, Chiles and 
+ Delfiner, 1999, Chapter 8). A almost the same  problem is already-met in the (understanding/ explanation) of a (related to space or existing in space) lag model 
+ as the expression of a (related to space or existing in space) diffusion process.7 While 
+ diffusion processes will lead to balance results 
+ that are compatible with a (related to space or existing in space) lag (detailed description of exactly what is required), 
+ other processes may produce the same result also. 
+ In other words, these different processes are (in a way that relates to watching and noticing something) equal. 
+ The (basic, built-in, important qualities/scent) of the problem is that a single crosssectional data set contains not enough information to 
+ identify the exact nature of the hidden (under) (machine/method/way). This is only one example of the kinds of identification problems met in (related to space or existing in space) econometric 
+ models, as shown by Manski (1993) and Kelejian and 
+ Prucha (1997), among others.8 
+ 2.2. Potential (numbers that change/things that change) 
+ A potential (number or thing that changes) formally expresses the importance of "other spaces" in a moving backward (detailed description of exactly what is required). 
+ The possible reason for this goes back to the 
+ early treatment of (related to space or existing in space) interaction in the (related to a large area) 
+ science books by Isard (1960). There, the potential 
+ for interaction between an origin i and all destinations 
+ j was created as a sum of "mass" terms in the 
+ destination, suitably downscaled by a distance decay 
+ function. Specifically, with zj as a measure of mass 
+ (e.g. income, population size) and f (dij ) as a distance 
+ decay function, the potential at i becomes: 
+ Pi = 
+ 
+ f (dij )zj . 
+ 
+ (7) 
+ 
+ j 
+ 
+ Note that the destinations need not be the same as the 
+ origins for this idea  to work, although they usually are.9 Commonly used distance (rotted, inferior, or ruined state) functions 
+ 7 See, for example, the discussion in Baller et al. (2001) and 
+ Messner and Anselin (2002). 
+ 8 In point pattern analysis, this identification problem is referred 
+ to as the problem of true against/compared to/or seen/obvious sickness. In a nutshell, 
+ the information in a thin slice is not (good) enough to distinguish 
+ between clustering as resulting from a (able to be caught from other people) process, or 
+ clustering as a result of (related to space or existing in space)/structural mixed-up nature (for details, 
+ see, among others, Upton and Fingleton, 1985; Cressie, 1993). 
+ 9 For example, in Anselin et al. (1997) a (number or thing that changes) is included 
+ that incorporates the effects of counties surrounding an MSA, as 
+ a "ring" (number or thing that changes), whereas those counties are not part of the data 
+ set for the (thing that changes (like a test score) because of something else that you control (like study time)). 
+ 
+ L. Anselin / Farming-based Money flow 27 (2002) 247-267 
+ 
+ are the negative huge, f (dij ) = ea'Î³ dij , and the 
+ a'Î³ 
+ inverse distance function, f (dij ) = dij .10 
+ A idea  related to idea of a (possible greatness or power) is  the (related to space or existing in space) cross-backwards-moving term or (related to space or existing in space)ly fell behind explanatory (number or thing that changes) (WX), discussed in Florax and Folmer 
+ (1992). Such a (number or thing that changes) consists of a weighted sum of 
+ values at other locations, or, for each (instance of watching, noticing, or making a statement) i: 
+ [Wx]i = 
+ 
+ wij xj , 
+ 
+ (8) 
+ 
+ j =i 
+ 
+ where the importance of each link i-j is expressed in 
+ the weights. The weights are perfectly general, and can 
+ include the distance (rotted, inferior, or ruined state) (detailed descriptions of exactly what is required) given above. 
+ Usually, they are based on (land-area-based/location) closeness of 
+ the units of (instance of watching, noticing, or making a statement). The non-zero elements in 
+ the ith row of W decide/figure out the range of interaction 
+ that affects location i, or, the range of (related to space or existing in space) spillover. 
+ In contrast to the (related to space or existing in space)ly fell behind (thing that changes (like a test score) because of something else that you control (like study time)) that follows from the (related to space or existing in space) reaction function, 
+ the (related to space or existing in space) cross-backwards-moving term does not suggest a 
+ multiplier effect. Whether its range is worldwide (including all other (instances of watching, noticing, or making statements)) or local (limited to 
+ a few "neighbors") depends on the (detailed description of exactly what is required) of 
+ the (related to space or existing in space) weights, that is, on the extent to which 
+ zero restrictions (of the form wij = 0) have been 
+ (forced (on people)/caused an inconvenient situation). 
+ In a moving backward (detailed description of exactly what is required), the same (numbers that change/things that change) may 
+ be included in non-fell behind and (related to space or existing in space)ly fell behind form, 
+ as in 
+ y = XÎ² + WXÎ³ + Îµ, 
+ 
+ (9) 
+ 
+ where zero restrictions can be forced on specific 
+ elements of the limit/guideline vectors Î² and Î³ . Also, 
+ when both the original values (xk ) and the (related to space or existing in space) lag 
+ (Wxk ) for the same (number or thing that changes) are included, tests for 
+ the importance of distance (rotted, inferior, or ruined state) can be performed 
+ (distance (rotted, inferior, or ruined state) hints Î³k &amp;lt; Î²k ). Finally, in contrast 
+ to the (related to space or existing in space) lag model, the (related to space or existing in space) cross-backwards-moving 
+ (detailed description of exactly what is required) does not require (made to do one thing very well) guess 
+ methods and ordinary least squares remains fair 
+ for Î³ . 
+ 10 The limit/guideline Î³ is either guessed together with the other limits/guidelines of the model, which turns it into a non-linear (detailed description of exactly what is required), or set good. Common choices in the inverse distance model 
+ are the integers 1 and 2, the last thing just mentioned following from the Newtonian 
+ gravity model. See Isard (1960), for an long/big discussion. 
+ 
+ 251 
+ 
+ 2.3. (related to space or existing in space) hidden/covered up (number or thing that changes) models 
+ So far, the possible models thought about/believed were created for a continuous (thing that changes (like a test score) because of something else that you control (like study time)) y. In applied econometrics, a more related (detailed description of exactly what is required) often 
+ has to do with separate (things that change (like test scores) because of other things that you control (like study times)), where only 
+ a limited number of values are watched/followed, such as the 
+ presence or (not being there; not being present) of an action, or whether one out 
+ of a small number of different decisions has been 
+ taken. The standard approach to modeling such things is to develop a (detailed description of exactly what is required) for an unseen 
+ hidden (under) hidden/covered up (thing that changes (like a test score) because of something else that you control (like study time)) for each agent, 
+ say yia-- . The link between the hidden/covered up (number or thing that changes) and the watched/followed separate thing/event is received/got by specifying 
+ a dividing line, say c, such that yi is watched/followed whenever 
+ yia-- &amp;gt; c. A typical computer program of this approach is in 
+ (related to space or existing in space) land use models, where only the result is watched/followed (one out of a set of separate land use decisions), 
+ but the decision process is related to a hidden/covered up (number or thing that changes), 
+ such as a money-making state, in a random utility (solid basic structure on which bigger things can be built). 
+ A (related to space or existing in space) hidden/covered up changeable model is a (detailed description of exactly what is required) for 
+ this process where (related to space or existing in space) relationship is introduced between the decision (numbers that change/things that change) and/or in the error structure of the model. As a familiar point of departure, 
+ think about/believe a hidden/covered up linear moving backward model, where the 
+ unseen (thing that changes (like a test score) because of something else that you control (like study time)) yia-- is related to a 1 Ã-- k 
+ row vector of explanatory (numbers that change/things that change) xi and an error 
+ term Îµi : 
+ yia-- = xi Î² + Îµi . 
+ 
+ (10) 
+ 
+ A matching (related to space or existing in space) lag model would then be 
+ y a-- = ÏWya-- + XÎ² + Îµ, 
+ 
+ (11) 
+ 
+ or, equally: 
+ yia-- = Ï 
+ 
+ j =i 
+ 
+ wij yja-- + xi Î² + Îµi , 
+ 
+ (12) 
+ 
+ where y a-- is the full n Ã-- 1 vector of the hidden/covered up (things that change (like test scores) because of other things that you control (like study times)). Note that this is compatible with a 
+ (related to space or existing in space) reaction function for the hidden/covered up (numbers that change/things that change), but 
+ not necessarily for the watched/followed separate results. In 
+ other words, it is the hidden/covered up Wya-- that is present in the 
+ actors' unemotional functions, such as Eq. (2), but not the 
+ watched/followed Wy. For example, this would suggest that it is 
+ the unseen a money-making state of the neighbors parcels 
+ that enters in the utility function of a (related to space or existing in space) land use 
+ model, but not the watched/followed actual land uses. 
+ 
+ 252 
+ 
+ L. Anselin / Farming-based Money flow 27 (2002) 247-267 
+ 
+ The matching reduced form of the hidden/covered up (related to space or existing in space) lag 
+ process is as in (4), but again having to do with the vector 
+ of hidden/covered up (numbers that change/things that change): 
+ y a-- = (I a' ÏW )a'1 XÎ² + (I a' ÏW )a'1 Îµ, 
+ 
+ (13) 
+ 
+ or 
+ y a-- = (I a' ÏW )a'1 XÎ² + u, 
+ 
+ (14) 
+ 
+ where u = (I a' ÏW )a'1 Îµ. 
+ For simpleness, let the dividing line c = 0 and let yi 
+ be binary, taking on the value of 1 whenever yia-- &amp;gt; 0. 
+ From (13), it follows that: 
+ yia-- = 
+ 
+ j 
+ 
+ aij xj Î² + ui , 
+ 
+ (15) 
+ 
+ where aij is the element (i, j ) of the Leontief inverse 
+ matrix (I a' ÏW )a'1 , and ui = 
+ j aij Îµj . The summary over j hints that yia-- is serious and stubborn not only 
+ by xi , but also by all the other xj in the system, and 
+ not only by Îµi , but by the other error terms Îµj in the 
+ system also. 
+ The separate changeable yi is watched/followed whenever yia-- &amp;gt; 
+ 0 in (15), or 
+ j 
+ 
+ aij xj Î² + ui &amp;gt; 0. 
+ 
+ (16) 
+ 
+ For a matching random changeable ui , this yields the 
+ familiar condition 
+ Prob[yi = 1] = Prob[ui &amp;lt; gi (X, W, Î², Ï)]_), 
+ 
+ (17) 
+ 
+ where gi = 
+ j aij xj Î² depends on X, W , Î² and 
+ Ï. Note that in (17), ui is not i.i.d. as in the usual 
+ (non-(related to space or existing in space)) model, but is a random (number or thing that changes) whose 
+ not important distribution is serious and stubborn (in part) by the covariance matrix of the multivariate random vector u. 
+ In the case of a standard (usual/ commonly and regular/ healthy) Îµi , (in other words) for a (related to space or existing in space) probit model, the random vector u will be multivariate (usual/ commonly and regular/ healthy) with a covariance matrix Cov[u] = 
+ [_((I a'ÏW ) (I a'ÏW )]a'1 . An important result of 
+ this complex covariance structure is that the not important 
+ ui will be heteroskedastic. This makes standard probit guess (not agreeing/not happening in the same way). Also, due to the 
+ high degree of covariance, it is necessary to integrate 
+ out the n a' 1 other random (numbers that change/things that change) in order to get the not important distribution for each individual ui . 
+ Note that when Îµi does not follow a (usual/ commonly and regular/ healthy) distribution, the changed multivariate random (number or thing that changes) 
+ 
+ (I a' ÏW )a'1 Îµ is not necessarily well defined. For example, this is the case for a logit (detailed description of exactly what is required) and for 
+ models of counts (Poisson models), where the resulting multivariate (detailed description of exactly what is required) is uncontrollable/uncurable. 
+ The (basic, built-in, important qualities/scent) of the problem is again the (happening at the same time) 
+ of the yia-- , which prevents an easy solution such as 
+ ï£® 
+ ï£¹ 
+ Prob[yi = 1] = Prob ï£°Îµi &amp;lt; Ï 
+ j =i 
+ 
+ wij yja-- + xi Î² ï£» . 
+ (18) 
+ 
+ This expression is not operational, since the yja-- that 
+ enter in the (state where two things are not the same) condition are not watched/followed, and 
+ are themselves figured out by/decided by yia-- . 
+ This (happening together) model differs from a (may or may not happen, depending on something) approach, in which either yj or Prob[yj = 1] 
+ are (assumed to be) (capable of being seen and known). An hint/result/effect of the 
+ (may or may not happen, depending on something) approach is that the (related to space or existing in space) pattern of the 
+ yj cannot be explained by the model. In other words, 
+ in order to be operational, a (may or may not happen, depending on something) model needs/demands 
+ that the values of the yj for the neighbors are received/got 
+ separately from the (related to space or existing in space) model (12). More importantly, the two approaches are not equal, a point 
+ sometimes lost in the (understanding/ explanation) of results received/got 
+ in scientific practice. 
+ A clear/separate advantage of the (may or may not happen, depending on something) approach is 
+ that standard guess ways of doing things can be applied, as 
+ long as the (related to space or existing in space) lag term can be inserted as an (capable of being seen and known) on the right hand side of the condition (18). In 
+ practice, this can be done by a wise (related to space or existing in space) resampling (group-related sampling of non-touching 
+ groups), although this usually involves a big 
+ loss of information.11 In contrast, the complex difficulty of the 
+ multivariate interactions in (17) makes worthless standard 
+ probit or tobit ways of doing things and needs/demands (made to do one thing very well) guess and tests. This is still very much an active 
+ area of research. Some suggestions have been 
+ created, such as the use of the expectation, (biggest increase/best possible extent) (EM) approach (McMillen, 1992), general 
+ method of moments (GMM) guess (Pinkse and 
+ Slade, 1998), and (testing out) estimators, such as recursive importance sampling (Vijverberg, 1997; Beron 
+ 11 For example, if (instances of watching, noticing, or making statements) usually have four neighbors, 
+ the effective sample size in a non-touching subsample would 
+ be one-fourth of the original sample size. This loss of degrees of 
+ freedom will result in a lower quality of the guesses, limiting 
+ this approach in practice to very large data sets. 
+ 
+ L. Anselin / Farming-based Money flow 27 (2002) 247-267 
+ 
+ and Vijverberg, 2002) and the Gibbs sampler (LeSage, 
+ 2000).12 
+ 
+ 3. Data-driven (detailed descriptions of exactly what is required) 
+ In practice, the reason for applying a (related to space or existing in space) 
+ econometric model is usually not driven by formal 
+ possible concerns, but instead is a result of data 
+ "problems". For example, the scale and location of the 
+ process under study does not necessarily match the 
+ available data, such as when farming-based land markets 
+ are studied with data at the county level. This (existence of two things that aren't equal in size, power, color, etc.) will tend to result in model error structures that 
+ show a planned (related to space or existing in space) pattern. Also, explanatory 
+ (numbers that change/things that change) are often "built" by (related to space or existing in space) figuring out to make their scale compatible with that of the 
+ (thing that changes (like a test score) because of something else that you control (like study time)). Again, this (related to space or existing in space) (statement about the future) will 
+ tend to result in (statement about the future) "errors" that show planned (related to space or existing in space) difference/different version. This problem is commonly met in models where money-based results are 
+ related to (related to surrounding conditions or the health of the Earth) or useful thing/valuable supply (numbers that change/things that change), such 
+ as air or water quality. (related to space or existing in space)ly group measures 
+ of the last thing just mentioned are figured out/calculated by figuring out measures 
+ received/got for a small set of watching stations, whose 
+ locations do not occur with those of the money-based 
+ agents. Another often already-met situation is when 
+ data on important (numbers that change/things that change) are missing, and those 
+ (numbers that change/things that change) show (related to space or existing in space) structure, as is often the case in 
+ studies of (related to areas near the Equator/hot and humid) land use and (chopping down trees). A common (feature/ quality/ trait) of these data problems is that the 
+ error term in a moving backward model will tend to be (related to space or existing in space)ly related.13 
+ In contrast to explanation-driven models, which can be 
+ referred to as dealing with (enough to be meaningful) (related to space or existing in space) relationship, the relationship in the error models is referred 
+ to as a annoyance. From a technical viewpoint, the limits/guidelines used in the (detailed description of exactly what is required) of the structure of 
+ 12 
+ 
+ A review of guess issues in (related to space or existing in space) hidden/covered up (number or thing that changes) models 
+ is contained in Fleming (2002). Testing for (related to space or existing in space) autocorrelation 
+ in probit and tobit models is carefully thought about/believed in Kelejian and Prucha 
+ (2001) and Pinkse (2002). 
+ 13 This relates not only to the error terms in classical linear 
+ moving backward models, but extends to generalized linear models (such 
+ as Poisson moving backward models) and generalized (something added to food, or something else) models 
+ (e.g. models for rates) also. Examples can be found in Gotway 
+ and Stroup (1997), Waller et al. (1997a,b), Best et al. (1999), 
+ Lawson (2001), MacNab and Dean (2002), among others. 
+ 
+ 253 
+ 
+ the (related to space or existing in space) relationship can therefore often be thought about/believed to be annoyance limits/guidelines, which helps guess in some events.14 The main goal of the 
+ econometric exercise is to get fair/consistent 
+ and (producing a lot with very little waste) guesses for the moving backward limits/guidelines 
+ in the model (Î²), while taking into account the (related to space or existing in space) 
+ structure incorporated in the error covariance matrix. 
+ Formally, the main interest is in the familiar moving backward model: 
+ y = XÎ² + Îµ, 
+ 
+ (19) 
+ 
+ where the error covariance matrix, Cov[ÎµÎµ ]_), or, equally, E[ÎµÎµ ]_), specifies (related to space or existing in space) covariance when the 
+ off-diagonal elements are non-zero, E[Îµi Îµj ]_) = 0 (for 
+ i = j ), obeying a given "(related to space or existing in space) ordering" 
+ (Kelejian and Robinson, 1992). Specific forms for the 
+ covariance structure are either specified directly (in 
+ (what people commonly call a/not really a) direct representation models) or follow from 
+ a (related to space or existing in space) (random/including random data points) process model (such as a (related to space or existing in space) 
+ autoregressive or (related to space or existing in space) moving average model). 
+ 3.1. (related to space or existing in space) filtering 
+ An interesting (way of seeing things / sensible view of what is and is not important) in the big picture  of (related to space or existing in space) relationship as a annoyance is the (what people commonly call a/not really a) (related to space or existing in space) filtering approach. Almost the same as  first differencing 
+ for time series, one can think about/believe a form of (related to space or existing in space) differencing.15 However, unlike the time series 
+ case, for row-(made something look or work the same way every time) (related to space or existing in space) weights, the first 
+ differencing leads to amazingness, since Ï = 1 is outside the proper limit/guideline space. For general, not 
+ row-(done or made to look the same way every time) weights the limit/guideline space is usually held back to values much smaller than 1, 
+ so that (unscaled) first differencing is (in almost the same way) not 
+ allowed. 
+ More formally, a (related to space or existing in space) first difference can be expressed as: 
+ y a' Wy = (X a' WX)Î² + u, 
+ 
+ (20) 
+ 
+ or, 
+ (I a' W )y = (I a' W )XÎ² + u. 
+ 
+ (21) 
+ 
+ Since the row elements of W sum to 1, the matrix 
+ (I a' W ) is amazing/single. Instead of using a "pure" first 
+ 14 
+ 15 
+ 
+ For a review of the econometric issues, see Lancaster (2000). 
+ For some early examples, see Martin (1974) and Getis (1995). 
+ 
+ 254 
+ 
+ L. Anselin / Farming-based Money flow 27 (2002) 247-267 
+ 
+ difference, a (related to space or existing in space) autoregressive limit/guideline must be 
+ included, as in 
+ (I a' ÏW )y = (I a' ÏW )XÎ² + u. 
+ 
+ (22) 
+ 
+ The operation where a vector (or matrix) of data is 
+ pre-multiplied with the matrix expression (I a' ÏW ) 
+ is called a (related to space or existing in space) filter. Further pre-multiplying both 
+ sides of the equation by (I a' ÏW )a'1 yields 
+ y = XÎ² + (I a' ÏW )a'1 u, 
+ 
+ (23) 
+ 
+ which is equal to a model with a (related to space or existing in space)ly autoregressive error term: 
+ Îµ = (I a' ÏW )a'1 u, 
+ 
+ (24) 
+ 
+ (I a' ÏW )Îµ = u, 
+ 
+ (25) 
+ 
+ Îµ = ÏW Îµ + u. 
+ 
+ (26) 
+ 
+ In other words, specifying a (related to space or existing in space) autoregressive 
+ process for the error term is equal to carrying 
+ out a standard moving backward on (related to space or existing in space)ly filtered (numbers that change/things that change). However, unlike the time series case, the (related to space or existing in space) autoregressive limit/guideline cannot be gotten from 
+ a plain/honest/easy extra/helping (thing) moving backward, but guess 
+ must be carried out together with that of the other model 
+ limits/guidelines. As a result, the (related to space or existing in space) filter is mostly a 
+ convenient (understanding/ explanation), but not a solution to the guess problem. 
+ Almost the same as  the approach taken in (12), the (related to space or existing in space) lag 
+ model (1) can be expressed as a (related to space or existing in space) filter also. 
+ However, the filter only has to do with the left hand side 
+ of the equation, as in 
+ (I a' ÏW )y = XÎ² + u. 
+ 
+ (27) 
+ 
+ This can be understood/explained as a way to clean the dependent 
+ (number or thing that changes) y of the effects of (related to space or existing in space) relationship, while 
+ maintaining the "correct" (i.e. consistent and (producing a lot with very little waste)) 
+ guesses for Î². However, as in the (related to space or existing in space) error model, 
+ it is not possible to guess the limit/guideline Ï separately 
+ from the other limits/guidelines of the model, so that there 
+ is no gain in the guess. More than that, model (27) 
+ relates mistakes from a (related to space or existing in space) mean in y to levels for 
+ X, which may not be appropriate in many contexts. It 
+ should only be thought about/believed as a last resort, when there 
+ is no (enough to be meaningful) basis for a lag model, but strong 
+ evidence in its favor, such as pointed to/showed by the 
+ results of model (figuring out problems). Usually, however, other 
+ problems, such as scale (existence of two things that aren't equal in size, power, color, etc.), a poor selection 
+ 
+ of the weights and more serious misspecifications are 
+ likely to be the criminal and should be thought about/believed before 
+ resorting to an (understanding/ explanation) of the lag model as a 
+ (related to space or existing in space) filter. 
+ 
+ 4. Guess-related (solid basic structure on which bigger things can be built) 
+ In this section, I review some issues that are almost never 
+ made clear in applied work, but that are basic 
+ for the (related to studying numbers) guessing in (related to space or existing in space) econometrics. 
+ Three aspects in particular are carefully thought about/believed: the data 
+ model hidden (under) the (related to studying numbers) analysis, the choice of 
+ (related to space or existing in space) weights and distance (rotted, inferior, or ruined state) functions, and the 
+ asymptotic approach toward guessing. 
+ 4.1. Data model 
+ In his classic text, Cressie (1993) outlines a (system for classifying living things) for (related to space or existing in space) (related to studying numbers) analysis, distinguishing 
+ between point pattern analysis, geostatistical models and (what people commonly call a/not really a) (something made of crossed strips of wood, metal, etc.) or (related to a large area) models. In point 
+ pattern analysis, the main interest focuses on the 
+ location of the (instances of watching, noticing, or making statements) as such, and whether 
+ this suggests clustering or other non-random patterns. Since point pattern analysis is almost never used in 
+ money-based analysis, it will not be further thought about/believed 
+ here.16 Instead, the focus is on the difference between the geostatistical and (something made of crossed strips of wood, metal, etc.) approaches and 
+ the contexts in which they are appropriate in applied 
+ econometrics. 
+ The basic difference between the geostatistical and (something made of crossed strips of wood, metal, etc.) approaches can be related to the idea of a data model from the computer data base 
+ and (land-area-based/location) information science literatures. A data 
+ model is an idea of reality in a form agreeable 
+ for analysis by a computer. In dealing with (related to space or existing in space) 
+ data, the basic honor/difference is between objects and fields 
+ (Goodchild, 1992).17 
+ Objects are separate things/businesses and are usually represented in a (land-area-based/location) information systems (GIS) as 
+ points, lines and polygons (in a (what people commonly call a/not really a) vector GIS). 
+ 16 Apart from Cressie (1993), early complete reviews of 
+ point pattern statistics are given in Ripley (1981), Diggle (1983) 
+ and Upton and Fingleton (1985). A "modern" approach, based on 
+ Bayesian (related to certain things being ranked above or below other things) modeling is organized and listed in Wolpert and Ickstadt 
+ (1998), Ickstadt and Wolpert (1999) and Best et al. (2000). 
+ 17 See also Egenhofer et al. (1999) for a recent summary. 
+ 
+ L. Anselin / Farming-based Money flow 27 (2002) 247-267 
+ 
+ In money-based analysis, these objects go along with/match up to money-based agents or "controls," with separate locations 
+ in space, such as addresses, (official count of everyone who lives in a country, city, etc.)  areas and counties. 
+ In contrast, fields relate to continuous (related to space or existing in space) distributions, represented as surfaces (in a (what people commonly call a/not really a) raster 
+ GIS). In money-based analysis, one can picture fields 
+ as price or risk surfaces, for example in the study of 
+ land values, crop yields or air quality. 
+ Sometimes it is not immediately obvious whether 
+ an object or field approach is more appropriate. For 
+ example, land values could be studied as (features/ qualities/ traits) of separate (related to space or existing in space) objects (parcels) or could 
+ be viewed as samples from a continuous land value 
+ surface. (in almost the same way), location-clearly stated/particular yield measures 
+ in a quality farm-related computer program could be imagined as samples from a continuous yield surface, or (using other choices), be connected with a regular 
+ (something made of crossed strips of wood, metal, etc.) overlaid on the field. The effects/results/suggestions of the 
+ choice of (solid basic structure on which bigger things can be built) for (related to studying numbers) guessing are farreaching. 
+ Of the two, the object view and connected (something made of crossed strips of wood, metal, etc.) 
+ data (way of seeing things / sensible view of what is and is not important) seem to be more natural for the study 
+ of separate money-based agents, and is the one usually 
+ connected with (related to space or existing in space) econometrics. However, unlike 
+ "standard" econometric analysis, the (instances of watching, noticing, or making statements) in a 
+ (related to space or existing in space) analysis of objects are no longer a representative sample from a population of objects. Instead, they 
+ consist of a single data point on the complete (related to space or existing in space) 
+ pattern among them. 
+ For example, a thin sliceal data set on money-based 
+ (numbers that change/things that change) for US states is not a sample from a population of imaginary states, but its (related to space or existing in space) pattern (e.g. 
+ as shown by a map for state incomes) is a single (instance of watching, noticing, or making a statement) from all the possible (random/including random data points) patterns that 
+ an hidden (under) (machine/method/way) may create. In order to 
+ carry out (related to studying numbers) guessing, an idea of a superpopulation or (related to space or existing in space) random process is needed/demanded (e.g. a 
+ Markov random field, MRF). This assumes the existence (mentally) of a (random/including random data points) process that may 
+ create many possible (related to space or existing in space) patterns, of which the 
+ watched/followed data is one. The goal of the analysis is 
+ then to show the (related to space or existing in space) process by means of 
+ the watched/followed (related to space or existing in space) pattern. Both a (related to space or existing in space) lag and 
+ a (related to space or existing in space) error (detailed description of exactly what is required) can be changed something (to help someone)/took care of someone in 
+ this (solid basic structure on which bigger things can be built). 
+ Some unusual features of this approach are 
+ worth pointing out. Since the complete (related to space or existing in space) pattern 
+ is the (instance of watching, noticing, or making a statement) in (something made of crossed strips of wood, metal, etc.) models, missing values 
+ 
+ 255 
+ 
+ are hard to deal with.18 In other words, a fully filled 
+ out space must be watched/followed, without any "holes". For 
+ example, in the analysis of land values or crop yields 
+ for parcels in a area, this would require that all the 
+ parcels in the area are watched/followed. 
+ Also, usually, the (related to space or existing in space) units (such as US states) 
+ are touching and exhaust the space, so that an idea 
+ of figuring out is silly/not doable. For example, it would 
+ be hard to imagine (describing the future) for a "state" in between 
+ Kansas and Colorado. Instead, (related to space or existing in space) (statement about the future) applies to prediction, or the use of a model 
+ guessed from the watched/followed (related to space or existing in space) pattern to another 
+ set of (related to space or existing in space) units, outside the watched/followed set, or for a 
+ different time period. 
+ In a (something made of crossed strips of wood, metal, etc.) approach, (instances of watching, noticing, or making statements) can be viewed as 
+ nodes on a network, with links between them pointing to/showing the friendliness between nodes. This representation is very general, and easily extends beyond a pure 
+ (land-area-based/location) setting to money-based and social networks 
+ (e.g. Friedkin, 1998). It needs/demands the formal (detailed description of exactly what is required) of the network structure, which is used 
+ by means of (related to space or existing in space) weights (see Section 4.2). 
+ A (a) little different case happens where a sample 
+ of separate units is watched/followed, each with a (connected/related) 
+ set of "neighbors," as in some group-related sample designs. For example, this may happen for a data set of 
+ land use by parcel, where each (instance of watching, noticing, or making a statement) is matched 
+ to its nearest neighbors. While almost the same as  the (something made of crossed strips of wood, metal, etc.) 
+ setup, an important honor/difference is that the values for 
+ the neighbors are assumed known, and the pattern for 
+ the neighbors themselves is not explained. More exactly, the (may or may not happen, depending on something) distribution of land uses, (may or may not happen, depending on something) upon that watched/followed for the neighbors is being 
+ modeled, not the combined distribution of all the land uses 
+ in the system. This important honor/difference was also met in the discussion of (related to space or existing in space) hidden/covered up (number or thing that changes) 
+ models. 
+ When the data model is a field, a geostatistical 
+ (way of seeing things / sensible view of what is and is not important) is appropriate, since it views the (instances of watching, noticing, or making statements) as sample points from a continuous surface. The 
+ goal of a geostatistical analysis is to guess  the 
+ (related to space or existing in space) distribution for the surface from information 
+ 18 Note that this has to do with a classical (related to studying numbers) analysis. In a 
+ Bayesian viewpoint, both data and limits/guidelines are carefully thought about/believed to 
+ be random, so that missing values can be incorporated in the same 
+ way as unseen limit/guideline values. A review of issues relating 
+ to "data enlargement," although without treating (related to space or existing in space) aspects 
+ of the issue can be found in Tanner (1996). 
+ 
+ 256 
+ 
+ L. Anselin / Farming-based Money flow 27 (2002) 247-267 
+ 
+ given by the pairwise association between the 
+ sample points, expressed as a function of the distance 
+ that separates them (for long/big reviews, see, among 
+ others, Cressie, 1993; Goovaerts, 1997; Chiles and 
+ Delfiner, 1999; Stein, 1999). 
+ The geostatistical (way of seeing things / sensible view of what is and is not important) is a natural (solid basic structure on which bigger things can be built) when dealing with an incomplete set of (related to space or existing in space) 
+ (instances of watching, noticing, or making statements), where the goal is to (describe the future) values 
+ for unseen locations. This focus on (related to space or existing in space) figuring out (kriging), is a (having a unique quality) (feature/ quality/ trait) of 
+ geostatistics, and differs from the focus on guess and guessing in the (something made of crossed strips of wood, metal, etc.) (way of seeing things / sensible view of what is and is not important). For applied econometric work, it is important to note that in 
+ a geostatistical approach to (related to space or existing in space) moving backward models, 
+ the main interest therefore lies in best (statement about the future) 
+ (rather than guess), using (for selfish reasons) (related to space or existing in space) patterns 
+ in the error term. In a geostatistical approach, there is 
+ no direct partner to a (related to space or existing in space) lag model or (related to space or existing in space) 
+ reaction function. 
+ An added aspect of the geostatistical (way of seeing things / sensible view of what is and is not important) is that the choice of the number and location of 
+ sample points becomes part of the analysis, in contrast 
+ to the (something made of crossed strips of wood, metal, etc.) (way of seeing things / sensible view of what is and is not important), where the locations are given 
+ and fixed. The best design of (related to space or existing in space) sampling networks is a topic that is receiving increasing attention, 
+ especially in the area of (related to surrounding conditions or the health of the Earth) watching.19 
+ In applied work, it is important to select the proper 
+ data model for the analysis. Mostly, this boils down 
+ to telling a difference between a design consisting of 
+ separate objects and a design that is created as 
+ a sample from a continuous (related to space or existing in space) surface. In many 
+ applications in applied econometrics, the last thing just mentioned is (not made by nature/fake) when it comes to modeling money-based agents. 
+ However, when the set of (related to space or existing in space) (instances of watching, noticing, or making statements) is incomplete (i.e. with missing values or holes in the layout), the geostatistical/field approach is the only one 
+ that remains internally consistent. Also, a combined form 
+ is possible, when some of the explanatory (numbers that change/things that change) 
+ are "figured out" from a geostatistical model, but the 
+ model itself has to do with separate agents, leading to a 
+ (related to space or existing in space) errors in (numbers that change/things that change) (detailed description of exactly what is required) (see Anselin, 
+ 2001c). 
+ The contrast between the two data models is summarized in Table 1. 
+ 19 Some recent reviews of the important issues can be found in 
+ Arbia and Lafratta (1997), Muller (1998), and Wikle and Royle 
+ (1999), among others. 
+ 
+ Table 1 
+ Effects/results/suggestions of data models 
+ 
+ GIS 
+ (related to space or existing in space) data 
+ Location 
+ (instances of watching, noticing, or making statements) 
+ (related to space or existing in space) arrangement 
+ (related to studying numbers) analysis 
+ (statement about the future) 
+ Models 
+ Asymptotics 
+ 
+ Object 
+ 
+ Field 
+ 
+ Vector 
+ Points, lines, polygons 
+ Separate 
+ Process (understanding/achieving a goal) 
+ (related to space or existing in space) weights 
+ (something made of crossed strips of wood, metal, etc.) 
+ Prediction 
+ Lag and error 
+ Expanding domain 
+ 
+ Raster 
+ Surfaces 
+ Continuous 
+ Sample 
+ Distance function 
+ Geostatistics 
+ Figuring out 
+ Error 
+ Infill 
+ 
+ 4.2. (related to space or existing in space) weights 
+ A basic problem in the analysis of (related to space or existing in space) 
+ relationship in a pure thin sliceal setting is the lack 
+ of identification of the limits/guidelines of the complete 
+ covariance matrix. The covariance matrix contains 
+ n possibly different variance terms Ïi2 as well as 
+ n(n a' 1)/2 off-diagonal terms Ïij (= Ïji , since the 
+ covariance matrix is matching). Clearly, a single 
+ thin slice of n (instances of watching, noticing, or making statements) contains not enough 
+ information to allow for the guess of the individual variance-covariance terms. Asymptotics do 
+ not help, since the problem gets worse as the sample size grows (an (unplanned/minor event) limit/guideline problem). In 
+ sum, it will be necessary to force (on people) a structure on 
+ the variance-covariance and to express it as a function of a small number of respected limits/guidelines. In 
+ (related to space or existing in space) moving backward analysis, this is approached from 
+ two main opinions, matching the data models 
+ organized and listed in Section 4.1. In a geostatistics-clever 
+ approach, the covariance is specified directly as a 
+ function of the distance between pairs of (instances of watching, noticing, or making statements). Different (detailed descriptions of exactly what is required) for this distance decay 
+ function have been employed, but most are some 
+ version of a negative huge model. Examples 
+ and a discussion of guess and identification 
+ issues can be found in Cook and Pocock (1983), 
+ Mardia and Marshall (1984), Dubin (1988, 1992), 
+ Dubin et al. (1999), and Anselin (2001a), among 
+ others. 
+ In contrast, using an object view and corresponding (something made of crossed strips of wood, metal, etc.) model, the covariance structure follows indirectly from the (detailed description of exactly what is required) of the (related to space or existing in space) weights 
+ matrix that underlies a (related to space or existing in space) process model (Markov 
+ random field). Different (detailed descriptions of exactly what is required) for the weights 
+ 
+ L. Anselin / Farming-based Money flow 27 (2002) 247-267 
+ 
+ and their results are reviewed in the rest 
+ of this section. 
+ Before going ahead with this, it is worthwhile to 
+ briefly think about/believe a third way of very big structure, referred to in the books as (related to space or existing in space) error parts/pieces. 
+ The full covariance structure follows from rotting the error term into parts/pieces and forcing (on people) a 
+ model for the variance and covariance of these terms. 
+ This approach is common in (related to certain things being ranked above or below other things) and multilevel modeling, where one error part is association with a model for (excess) mixed-up nature and 
+ the other with a model for (related to space or existing in space) difference/different version, following the suggestion of Besag et al. (1991). Examples 
+ of including (related to space or existing in space) random effects in (related to certain things being ranked above or below other things) Bayesian models in biostatistics are reviewed 
+ in, among others, Waller et al. (1997a,b) and Best 
+ et al. (1999). Applications using a multilevel modeling 
+ (solid basic structure on which bigger things can be built) are illustrated in Langford et al. (1999a,b), 
+ Leyland et al. (2000) and Leyland (2001). Error parts/pieces were introduced in (related to space or existing in space) econometric (detailed descriptions of exactly what is required) by Kelejian and Robinson (1995).20 
+ Formally, the (related to space or existing in space) weights matrix is an n Ã-- n 
+ positive matrix (W ) which specifies "neighborhood 
+ sets" for each (instance of watching, noticing, or making a statement). In each row i, a non-zero 
+ element wij defines j as being a neighbor of i. By 
+ convention, an (instance of watching, noticing, or making a statement) is not a neighbor to itself, 
+ so that the diagonal elements are zero (wii = 0). Note 
+ that this definition is much wider than the term 
+ neighbor suggests. In most applications in applied 
+ econometrics, the neighbors are touching (related to space or existing in space) 
+ units, as in Fig. 1, but this can be easily generalized 
+ to any network structure. For example, in Fig. 2, 
+ the six (instances of watching, noticing, or making statements) are nodes on a network and the 
+ existence of a neighbor relation matches the links between the nodes.21 The layouts in both Figs. 1 and 2 
+ yield the same 6 Ã-- 6 (related to space or existing in space) weights matrix, illustrated 
+ on the left hand side of Table 2 (from Anselin and 
+ Smirnov, 1996). This is usually referred to as a binary 
+ closeness matrix, since the weights are set to one for 
+ neighbors, and zero for others. For ease of (understanding/ explanation) and to make the limit/guideline guesses between 
+ different models more similar, the (related to space or existing in space) weights 
+ 
+ Fig. 1. Example (related to space or existing in space) layout. 
+ 
+ Table 2 
+ (related to space or existing in space) weights matrix 
+ 0 
+ 1 
+ 0 
+ 1 
+ 1 
+ 0 
+ 
+ 1 
+ 0 
+ 0 
+ 1 
+ 1 
+ 0 
+ 
+ See Anselin and Moreno (2002) for a review of some technical issues connected with specifying and testing for (related to space or existing in space) error 
+ parts/pieces. 
+ 21 Figs. 1 and 2 were first used as drawings/pictures in Anselin and 
+ Smirnov (1996). 
+ 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 1 
+ 
+ 1 
+ 1 
+ 0 
+ 0 
+ 1 
+ 0 
+ 
+ 1 
+ 1 
+ 1 
+ 1 
+ 0 
+ 0 
+ 
+ 0 
+ 0 
+ 1 
+ 0 
+ 0 
+ 0 
+ 
+ 0.00 
+ 0.33 
+ 0.00 
+ 0.33 
+ 0.25 
+ 0.00 
+ 
+ 0.33 
+ 0.00 
+ 0.00 
+ 0.33 
+ 0.25 
+ 0.00 
+ 
+ 0.00 
+ 0.00 
+ 0.00 
+ 0.00 
+ 0.25 
+ 1.00 
+ 
+ 0.33 
+ 0.33 
+ 0.00 
+ 0.00 
+ 0.25 
+ 0.00 
+ 
+ 0.33 
+ 0.33 
+ 0.50 
+ 0.33 
+ 0.00 
+ 0.00 
+ 
+ 0.00 
+ 0.00 
+ 0.50 
+ 0.00 
+ 0.00 
+ 0.00 
+ 
+ matrix is usually row-(made something look or work the same way every time), as shown on 
+ the right hand side of Table 2. Each element in the 
+ (done or made to look the same way every time) matrix, wijs = wij / j wij , is between 
+ 0 and 1, which hints that a (related to space or existing in space) lag operation 
+ (pre-multiplying a vector of (instances of watching, noticing, or making statements) by W ) goes along with an averaging of the close-by values.22 
+ The (detailed description of exactly what is required) of the weights matrix is a matter of some randomness and is often referred to as a major 
+ weakness of the (something made of crossed strips of wood, metal, etc.) approach. A range of suggestions have been offered in the books, based on closeness, distance, as well as more general numbers.23 
+ Some issues related to the (detailed description of exactly what is required) of 
+ (related to space or existing in space) weights require (lots of serious thought) in practice. First, even when the weights are based on simple 
+ 22 
+ 
+ 20 
+ 
+ 257 
+ 
+ Note that the resulting matrix is no longer matching, since 
+ wij = i wji , which needs to be accounted for in the computations of maximum chance guesses. 
+ 23 For more long/big reviews, see Cliff and Ord (1973, 1981), 
+ Upton and Fingleton (1985), Anselin (1988) and Anselin and Bera 
+ (1998). 
+ j 
+ 
+ 258 
+ 
+ L. Anselin / Farming-based Money flow 27 (2002) 247-267 
+ 
+ Fig. 2. (related to space or existing in space) network structure. 
+ 
+ closeness, different weights structures may result for 
+ the same (related to space or existing in space) layout. In the classic example of a regular square grid layout, the options are referred to as 
+ the rook case (only common edges), the church supervisor 
+ case (only common highest points) and the queen case (both 
+ edges and highest points). Depending on the judging requirement 
+ chosen, a location will have either four (rook, church supervisor) 
+ or eight (queen) neighbors on average (apart from edge 
+ effects). This hints quite different covariance structures for the connected random processes. Even in irregular (related to space or existing in space) layouts, a decision must be made as to 
+ whether units that only share a common highest point should 
+ be thought about/believed to be neighbors (queen) or not (rook). 
+ In practice, the construction of the neighbor structure of irregular (related to space or existing in space) units is based on the digital 
+ edge files in a GIS. Sloppiness in the storage 
+ of the polygons and highest points can cause problems in 
+ this respect, cooperating with/producing/giving up "islands" or other unexpected 
+ friendliness structures when getting/taking the (related to space or existing in space) arrangement from these edge-related files.24 
+ A second type of problem happens when the (related to space or existing in space) 
+ weights are based on a distance judging requirement, such that 
+ two units i and j are defined as neighbors when the 
+ distance between them (or, for areal units, the distance 
+ between their centroids) is less than a given critical 
+ value. When there is a high degree of mixed-up nature 
+ in the (related to space or existing in space) distribution of points or in the areas of 
+ areas, there may be no acceptable critical distance. 
+ In those events, a "small" distance will tend to produce 
+ a lot of islands (or, unconnected (instances of watching, noticing, or making statements)). Also, a 
+ 24 In GIS words/word choices, the polygons should be "clean" before the 
+ topology can be "built". 
+ 
+ distance chosen to make sure that each unit has at least one 
+ neighbor may result in an unacceptably large number 
+ of neighbors for the smaller units. 
+ In scientific applications, this problem is already-met when building distance-based (related to space or existing in space) weights for 
+ US counties (western counties have much larger areas 
+ than eastern counties) or city-based  (official count of everyone who lives in a country, city, etc.)  areas (core 
+ (official count of everyone who lives in a country, city, etc.)  areas ar<p><strong>NOTE: This document is incomplete. It was shortened to the maximum document length of 50,000 characters.</strong></p><div style="clear:both">&nbsp;</div>

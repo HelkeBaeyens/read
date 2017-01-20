@@ -1,0 +1,1375 @@
+AGRICULTURAL 
+ ECONOMICS 
+ 
+ ELSEVIER 
+ 
+ Farming-based Money flow 22 (2000) 321-330 
+ www.elsevier.com/locate/agecon 
+ 
+ The extent of useful thing/valuable supply use inefficiencies in cotton production in 
+ Pakistan's Punjab: an (online or paper form that asks for a job, money, admission, etc.) of Data Envelopment Analysis 
+ Muhammad Shafiq, Tahir Rehman* 
+ Department of Farming, The University of Reading, Earley Gate, P.O. Box 236, Reading RG6 6AT, UK 
+ 
+ Received ll November 1999; received in changed form 22 December 1999; accepted 29 December 1999 
+ 
+ Abstract 
+ This paper tries to identify sources of useful thing/valuable supply use inefficiency for cotton production in Pakistan's Punjab. The use 
+ of a non-parametric method, Data Envelopment Analysis (DEA), is developed to study the relative technical and allocative 
+ (measures of output versus waste/getting more with less waste) of individual farms which use almost the same  inputs, produce the same product and operate under similar facts or conditions (that surround someone). In the 'cotton-wheat' system of Pakistan, there are a lot of farms that are both technically and 
+ allocatively inefficient. The use of DEA shows that the way of doing things provides a clear identification of both the extent and the 
+ sources of technical and allocative inefficiencies in cotton production. However, both the (understanding/ explanation) of the farm level 
+ results created and the projection of these results to a higher level require care, given the technical nature of the farming-based 
+ production processes.Â© 2000 Elsevier Science B.V. All rights reserved. 
+ Keywords: Data Envelopment Analysis; Technical (wasting very little while working or producing something); Allocative (wasting very little while working or producing something); Cotton 
+ 
+ 1. Introduction 
+ 
+ A few recent studies on the technical and money-based (measures of output versus waste/getting more with less waste) of crop production in Pakistan, 
+ especially for wheat and rice, have pointed out the 
+ existence of a 'yield gap'. This 'gap' refers to the 
+ difference in working well on 'best practice' and on 
+ other farms operating with similar useful thing/valuable supply gifts under the same conditions (Akhtar et 
+ al., 1986; Ali and Flinn, 1987; Hussain et al., 1991; 
+ Khan et al., 1994). Surprisingly, these studies have 
+ ignored cotton, (even though there is the existence of) it being the major export from 
+ Pakistan. 
+ The existing studies on technical and money-based (measures of output versus waste/getting more with less waste) have used the usual parametric meth* Corresponding author. Tel.: +44-118-931-8480; 
+ fax: +44-118-931-6747. 
+ E-mail address: t.u.rehman@reading.ac.uk (T. Rehman) 
+ 
+ ods to guess 'average' (measures of output versus waste/getting more with less waste) only (Khan and 
+ Maki, 1979; Ali and Flinn, 1987; Ali and Chaudhry, 
+ 1990; Ali et al., 1993; Battese et al., 1993; Parikh and 
+ Shah, 1994; Parikh et al., 1995). The guess of 
+ such 'average' (measures of output versus waste/getting more with less waste) appears to ignore the argument that the study of the individual farm is more important to measure the  useful thing/valuable supply use (wasting very little while working or producing something), and that 
+ the parametric way(s) of doing things provides not enough information for policy analysis (Kalirajan, 1984; Kalirajan and Shand, 1986). The research reported here supports the importance of studying the individual farm 
+ (wasting very little while working or producing something), and it is the first study of its kind to have 
+ used the non-parametric method of Data Envelopment 
+ Analysis (DEA) for analysing the (wasting very little while working or producing something) of individual farms in Pakistan. 
+ The paper begins with a brief introduction of (wasting very little while working or producing something) measurement and of the development of DEA. 
+ The description of data sources happens before the explanation of the DEA model in general and the (detailed description of exactly what is required) 
+ 
+ 0169-5150/00/$ - see front matter Â© 2000 Elsevier Science B.V. All rights reserved. 
+ PII: SO 169-5150(00)00045-l 
+ 
+ 322 
+ 
+ M. Sha.fiq, T. Rehman/Agricultural Money flow 22 (2000) 321-330 
+ 
+ of this model for cotton production. Next, the use of a 
+ Cobb-Douglas type of production function for identifying the important inputs in the production process is 
+ discussed before presenting the results of the technical and allocative (wasting very little while working or producing something) analyses. Finally, the usefulness of the DEA model for examining the useful thing/valuable supply 
+ use inefficiency of cotton production in Pakistan is 
+ tested. 
+ 
+ 2. Measurement of (wasting very little while working or producing something) 
+ The (wasting very little while working or producing something) of production units is measured either by parametric or by non-parametric methods. The 
+ first approach guesses the limits/guidelines of the production or cost functions (related to numbers). The second one, 
+ in contrast, builds a linear piece-wise function from 
+ scientific (instances of watching, noticing, or making statements) of inputs and outputs, without assuming any good  functional relationship between the inputs and the outputs. The non-parametric 
+ or 'frontier' method of measuring (wasting very little while working or producing something) was first 
+ introduced by Farrell (1957) and since then a few 
+ improvements and extensions have happened (see 
+ Battese (1992) and Coelli (1995)). 
+ Building on Farrell's work, Charnes et al. (1978) 
+ have developed the fractional linear programming 
+ method of DEA, which compares inefficient firms 
+ with the 'best practice' ones within the same group. 
+ It has been used widely for (wasting very little while working or producing something) studies for 
+ both public and private organizations (see Seiford and 
+ State of control (1990)). In the farming-based money flow/money-based studies books, however, only a few examples of the application 
+ of DEA could be found (Haag et al., 1992; Shimizu, 
+ 1992; Cloutier and Rowely, 1993). 
+ 
+ 2.1. DEA 
+ The DEA way of doing things has come to be named after 
+ its originators and is referred to as the CCR model. 
+ It involves improving a scoring function defined as 
+ the ratio of weighted sum of outputs of a particular 
+ production unit and the weighted sum of its inputs, 
+ that is (wasting very little while working or producing something). This function is improved subject 
+ to the condition that with any of the production units 
+ included in the analysis, the value of the goal 
+ function (accomplished or gained) cannot be more than I, suggesting 
+ that the (producing a lot with very little waste) units will have a score of 1. 
+ 
+ The DEA method is thought of as one ofthe most successful ways of doing things of analysis proposed by (people who work to find information) 
+ in Management Science and Operations Research, as 
+ is obvious by the wastefulness of its applications (see 
+ Coelli (1995)). However, the original version of the 
+ CCR model is not very convenient for a linear programme as it has more handcuffs, etc. than (numbers that change/things that change), making it hard to solve. Because of this, the 'dual' version of the 
+ CCR model is more popular as the DEA model. The 
+ technical details can be found in Charnes et al. (1978), 
+ Norman and Stoker (1991), Charnes et al. (1995), and 
+ Coelli et al. (1998). 
+ 
+ 3. The sample of cotton producers 
+ The data were collected from a randomly drawn 
+ sample consisting of 120 farms from the cotton-wheat 
+ area of the southern part of Pakistan's Punjab. The 
+ sample farms can be treated as a (a mixture of things that are all pretty much the same) group 
+ for a few reasons. First, all of the farms are in an 
+ area where technical and (related to scientific farming) practice recommendation domains are the same. Second, they are in 
+ reasonable closeness to each other. Third, all of them 
+ face uniform natural and market conditions and the 
+ same (set of machines). Finally, all the farms have broadly 
+ almost the same  types of soils. 
+ 
+ 3.1. (features/ qualities/ traits) of farmers and farms 
+ Information such as the farm operator's age, his 
+ educational accomplishment, the size of the farm family and 
+ the number of family members involved in farming is 
+ given in Table 1. Most of the farmers are over 25 years 
+ old, with the age ranging from 20 to 60 years. The 
+ family size is large and three-fourths of the farms had 
+ more than nine members per household, and on nearly 
+ half of the farms, at least two of the family members 
+ were working as full time farm workers on farm. 
+ Most of the farmers till their own land, but quite a 
+ few rent added/more area to increase the operational size 
+ of their holdings. The holdings are divided into three 
+ categories: farms which are less than 5 ha, 5-10 ha and 
+ greater than 10ha. All the sample farms have almost the same 
+ types of soils that are ideal for growing cotton. Cotton 
+ occupies 77-85% of the area on different farms and 
+ this proportion is even higher on large farms. Small 
+ farmers in the area keep milk animals needing/ordering land 
+ 
+ M. Shafiq, T. Rehman!Agricultural Money flow 22 (2000) 321-330 
+ 
+ Table 1 
+ (features/ qualities/ traits) of farms and farmers included in the sample 
+ 
+ of the CCR model as specified below. 
+ 
+ (features/ qualities/ traits) of farmers 
+ 
+ Frequency 
+ 
+ MinZ 0 
+ 
+ Age of the farm operator 
+ &amp;lt;25 years 
+ 25-35 years 
+ 35--45 years 
+ Above 45 years 
+ 
+ 9 
+ 45 
+ 32 
+ 31 
+ 
+ Family size 
+ 1--4 
+ 5-8 
+ 9-12 
+ &amp;gt;12 
+ 
+ 8 
+ 28 
+ 49 
+ 32 
+ 
+ 8 
+ 39 
+ 27 
+ 26 
+ 7 
+ 24 
+ 42 
+ 27 
+ 
+ Family members involved in full time farming 
+ 1 
+ 31 
+ 26 
+ 48 
+ 2 
+ 56 
+ 3 
+ 14 
+ 12 
+ 14 
+ 4 or more 
+ 16 
+ Education accomplishment (years of education) 
+ No education 
+ 32 
+ up to 5 years 
+ 16 
+ 5-10 years 
+ 53 
+ 10--12 years 
+ 10 
+ Over 12 years 
+ 6 
+ 
+ 27 
+ 14 
+ 45 
+ 9 
+ 5 
+ 
+ (features/ qualities/ traits) of farms 
+ 
+ Frequency 
+ 
+ Mean area (ha) 
+ 
+ Farm size 
+ &amp;lt;5ha 
+ 5-lOha 
+ &amp;gt;lOha 
+ 
+ 33 
+ 39 
+ 45 
+ 
+ 3.46 
+ 6.52 
+ 16.02 
+ 
+ Type of (length of time at work or in power/right to permanent employment) on farm 
+ Owned 
+ Rented 
+ Owned plus rented 
+ 
+ 71 
+ 18 
+ 28 
+ 
+ 61 
+ 15 
+ 24 
+ 
+ Area under cotton crop on different farm size categories 
+ &amp;lt;5ha 
+ 33 
+ 2.67 
+ 5-lOha 
+ 39 
+ 5.49 
+ 45 
+ 13.63 
+ &amp;gt;lOha 
+ Share of cotton crop on different farm size categories 
+ &amp;lt;5ha 
+ 33 
+ 77 
+ 5-10ha 
+ 29 
+ 84 
+ &amp;gt;10ha 
+ 45 
+ 85 
+ 
+ for food production, this way the area available to them 
+ for cotton production is reduced. 
+ 
+ 4. The DEA model for cotton production 
+ The model developed to study the (wasting very little while working or producing something) of cotton production is the input minimization version (dual) 
+ 
+ 323 
+ 
+ (1) 
+ 
+ s.t. 
+ (2) 
+ s 
+ 
+ LXijAj- X 0 Z 0 :S 0 
+ 
+ (3) 
+ 
+ i=l 
+ 
+ (4) 
+ where}= 1, ... , 117 is the number of farms or Decision 
+ Making Units (DMUs) in the sample, m=1 represents 
+ cotton in the cotton-wheat system, i= 1, ... , 6 is the 
+ number of inputs included in the analysis, Z0 is the 
+ relative (wasting very little while working or producing something) score of the DMU, 'o', under study, 
+ A j are lambda values that are the weights to be used 
+ as multipliers for the input levels of a referent farm to 
+ point to/show the input levels that an inefficient farm should 
+ aim at to (accomplish or gain with effort) (wasting very little while working or producing something), Xij is the level of use for 
+ the ith input on the jth farm, Ymj is the level of the mth 
+ output on the jth farm, Your  is the level of the output on 
+ unit 'o', and X0 is the vector of the levels of inputs 
+ being used by the DMU 'o'. 
+ The highest value of Z0 (:::;1) for the unit 'o' is 
+ found by 'combining' the performance of all units being carefully studied. This is done in such a way that, for each 
+ input, the combination of inputs does not go beyond the 
+ inputs of unit 'o' and for each output and the combination of outputs is at least as great as that of unit 'o'. 
+ On solving the model separately for each DMU in the 
+ sample, the (wasting very little while working or producing something) scores ( &amp;lt; 1 for the inefficient 
+ units and 1 for the (producing a lot with very little waste) ones) are established. A 
+ score less than 1 means that a linear combination of 
+ other units from the sample could produce the same 
+ vector of outputs using lower levels of inputs. The 
+ problem of returns to scale can be dealt with by using 
+ the Banker et al. (1984) extension to the CCR model 
+ as: (a) for constant returns to scale (CRS), the condition I; Ai 2: 1 is added; and (b) for (number or thing that changes) returns 
+ to scale (VRS), the self-control/control device I; Ai = 1 is (forced (on people)/caused an inconvenient situation). 
+ To get the (wasting very little while working or producing something) scores, a linear programming matrix was built which included input 
+ and output data for each of the farms in the sample. 
+ It was then used to test the (wasting very little while working or producing something) of an individual farm by substituting its inputs and outputs 
+ into the vectors Y0 and X0 in Eqs. (2) and (3) above. 
+ 
+ M. Shafiq, T. Rehman/Agricultural Money flow 22 (2000) 321-330 
+ 
+ 324 
+ 
+ This 'iteration' or substitution was repeated 117 times 
+ (three (something that's not part of the main group) farms were dropped from further analysis) to get (wasting very little while working or producing something) scores for all the sample farms. 
+ For a firm to be (producing a lot with very little waste), two conditions must hold: 
+ (a) that the calculated value of Z0 that is Z" must equal 
+ 1; and (b) all the slack (numbers that change/things that change) in the LP solution 
+ must be 0 (Charnes et al., 1978). 
+ 
+ 5. Role of different inputs in crop working well 
+ It is quite usual to (combine different things together so they work as one unit) some form of functional 
+ analysis with the DEA model, mostly moving backward models, to identify those inputs that play a well-known/obvious role 
+ in deciding/figuring out working well. (after that), the relative (wasting very little while working or producing something) of a production unit can be measured 
+ (Charnes et al., 1978; Bowlin et al., 1985; Dyson 
+ et al., 1990; Roll and Cook, 1993; Thanassoulis, 1993). 
+ So, a Cobb-Douglas type of production function 
+ was fitted to the data collected from the survey and 
+ the results are discussed below. 
+ 
+ 5.1. Explanation of the (numbers that change/things that change) 
+ The major inputs that are assumed to decide/figure out 
+ the cotton crop output (kg/ha) include crop-watering/rinsing with water water (number per hectare), nitrogen (kg (vitamins, minerals, protein, etc.)/ha), 
+ phosphate (kg (vitamins, minerals, protein, etc.)/ha), labour (h/ha), bug-killer 
+ costs (Rs. per hectare) and tractor hours needed/demanded per 
+ hectare for levelling, ploughing, planking and planting. The basic statistics related to these (numbers that change/things that change) are 
+ presented in Table 2. It is clear that there is a wide difference/different version in both the input use and the cotton output. The 
+ 
+ output received/got by some of the farmers in the sample 
+ was three times as high as that (accomplished or gained) by others; 
+ and there were wide differences/different versions in the levels at which 
+ inputs were being used. There were large differences 
+ in the use of nitrogenous (material that makes plants grow better) as some farmers 
+ were using six times more (material that makes plants grow better) as compared to 
+ others and some farmers did not use any phosphatic 
+ (material that makes plants grow better). In preparing their fields for cotton planting, 
+ some farmers use as few ploughings as two, while 
+ some plough the fields 13 times before planting. Such 
+ a difference/different version in the levels of inputs being used suggests 
+ that possibly these levels represent a (running a business or organization very badly) 
+ of useful thing/valuable supply use. 
+ 
+ 6. Results of the (related to numbers) guessed function 
+ In Table 3, a very low value of the (changed to make better/changed to fit new conditions) R 2 
+ (0.044) shows that the production function does not 
+ explain a great deal of the relationship between the dependent and the (things that you control (like study times), that cause other things to change (like test scores)) as most of the 
+ (numbers that change/things that change) had a non-significant effect on the increase 
+ in cotton output. (numbers that change/things that change) like phosphatic (material that makes plants grow better) 
+ use, labour and tractor hours used show negative 
+ returns, suggesting an too much/too many use of these inputs. 
+ So, the levels at which these inputs are being used 
+ could be lowered without reduction in output levels. 
+ These results in effect confirm the need for undertaking the analysis of the (wasting very little while working or producing something) of production using 
+ a non-parametric method like DEA, as identifying 
+ inefficient farms would suggest discovering the extent 
+ by which their input use could be improved. What's more, when there is as much difference/different version in inputs used 
+ 
+ Table 2 
+ Basic statistics of cotton output and major inputs used- 
+ InpuUoutput (numbers that change/things that change) 
+ 
+ Minimum 
+ 
+ Maximum 
+ 
+ Mean 
+ 
+ S.D. 
+ 
+ Cotton yield (kg/ha) 
+ Inputs 
+ Crop-watering/rinsing with water (number per hectare) 
+ Nitrogen (material that makes plants grow better) use (kg nutrienUha) 
+ Phosphatic (material that makes plants grow better) use (kg nutrienUha) 
+ Labour use (hlha) 
+ Bug-killer costs (Rs. per hectare) 
+ Tractor hours (hlha) 
+ 
+ 1144.32 
+ 
+ 3644.66 
+ 
+ 2267.3 
+ 
+ 499.59 
+ 
+ 5 
+ 56.833 
+ 0.00 
+ 70.81 
+ 1260.21 
+ 3.34 
+ 
+ 20 
+ 340.99 
+ 158.144 
+ 317.05 
+ 6449.31 
+ 25.52 
+ 
+ 6.83 
+ 165.62 
+ 43.96 
+ 170.479 
+ 3146.18 
+ 15.58 
+ 
+ 1.83 
+ 44.515 
+ 32.4135 
+ 57.2914 
+ 897.86 
+ 3.96 
+ 
+ a 
+ 
+ Note: large difference/different version in labour hours used per hectare is because some farmers begin/try manual hoeing and thinning of cotton twice. 
+ 
+ M. Shafiq, T. Rehman/Agricultural Money flow 22 (2000) 321-330 
+ 
+ 325 
+ 
+ Table 3 
+ Production coefficients guessed from the Cobb-Douglas cotton production function 
+ (numbers that change/things that change) 
+ 
+ Coefficient 
+ 
+ Standard error 
+ 
+ Importance 
+ 
+ Constant 
+ Nitrogen (material that makes plants grow better) use (kg nutrientlha) 
+ Phosphatic (material that makes plants grow better) use (kg nutrient/ha) 
+ Crop-watering/rinsing with water (number per hectare) 
+ Labour use (h/ha) 
+ Bug-killer costs (Rs. per hectare) 
+ Tractor hours (h/ha) 
+ R square 
+ (changed to make better/changed to fit new conditions) R 2 
+ F-Statistics 
+ Durbin-Watson statistics 
+ 
+ 5.5845 
+ 0.0008 
+ -0.0003 
+ 0.1507 
+ -0.123 
+ 0.0174 
+ -0.0518 
+ 
+ 1.118 
+ 0.0812 
+ 0.0027 
+ 0.1004 
+ 0.0588 
+ 0.0799 
+ 0.072 
+ 0.101 
+ 0.044 
+ 1.772 
+ 1.513 
+ 
+ 0.000 
+ 0.992 
+ 0.905 
+ 0.136 
+ 0.039 
+ 0.828 
+ 0.474 
+ 
+ and the output produced as shown in Table 2, the 
+ (wasting very little while working or producing something) analysis of individual farms assumes much 
+ greater relevance. 
+ 
+ The use of the basic DEA model started with the 
+ single input-single output situation. More inputs were 
+ introduced into the analysis, one at a time, to test 
+ the relative (wasting very little while working or producing something) of individual farms. This procedure also shows how the increase in the number of 
+ inputs affects the (wasting very little while working or producing something) rating of individual farms. 
+ As the basis for comparison among them is broadened, 
+ the ranking of individual producers improves. In the 
+ initial run, the single input is nitrogen. The second run 
+ involved two inputs, nitrogen and bug-killer expense; and for the third run, many inputs as defined 
+ for the cotton production function were used. In all the 
+ runs, seed cotton is the output. The (wasting very little while working or producing something) scores 
+ of the individual farms were calculated separately for 
+ both CRS and VRS ideas (you think are true). 
+ The basic DEA model for the 'DMU-1' assuming 
+ CRS is stated below: 
+ 
+ s.t. 
+ Cotton yield 
+ 1445.54.1.. 1 + 1455.1.. 2 + Â· Â· Â· + 158U 120 2: 1445.54 
+ Phosphorus 
+ 
+ + Â· Â· Â· + 28.42Al2o- 28.42Z, 
+ 
+ Nitrogen 
+ 198.92A, 
+ 
+ + 56.83.1..2 + ... 
+ + 198.9Al2o- 198.95ZI 
+ 
+ .S: 0 
+ 
+ Crop-watering/rinsing with water 
+ 
+ 7. Technical (wasting very little while working or producing something) analysis 
+ 
+ 28.42A 1 + OA.2 
+ 
+ 0.10 
+ 
+ .S: 0 
+ 
+ 8.1.., 
+ 
+ + 8A.2 + Â· Â· Â· + 6A.12o- 8Z1 
+ 
+ .S: 0 
+ 
+ Labour 
+ 224.42A, 
+ 
+ + 151.9.1..2 + ... 
+ + 258.8.1..120- 224.42Z, 
+ 
+ .S: 0 
+ 
+ Bug-killer 
+ 2816.94.1.., 
+ 
+ + 3553.1..2 + ... 
+ + 5752.1.. 120 - 2816.94Z 1 .S: 0 
+ 
+ Tractor 
+ 10.28.1.. 1 + 18.53.1.. 2 + Â· Â· Â· + 12.65Al2o- 1028Z 1 .S: 0 
+ 
+ In the above equations, the subscript '120' refers to 
+ the identity of the last farm. 
+ The nature of a DEA model is illustrated in Fig. I 
+ for a single input-single output situation. Each point 
+ represents a farm included in the (wasting very little while working or producing something) analysis. 
+ The line OA is the (producing a lot with very little waste) edge of something/unexplored area assuming CRS, 
+ as for each farm on that edge of something/unexplored area, there is no other 
+ farm with a better input/output (changing from one form, state, or state of mind to another) ratio and 
+ there is only one farm (54) on the (producing a lot with very little waste) edge of something/unexplored area. All 
+ other farms are inefficient, as they use greater amounts 
+ 
+ 326 
+ 
+ M. Shafiq, T. Rehman/Agricultural Money flow 22 (2000) 321-330 
+ 4000&#126;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;-&#126; 
+ 
+ ft.&#126; 
+ 
+ : 
+ 
+ I 
+ 
+ 12500 
+ 
+ i 
+ 
+ I&#126;,: i i. 
+ D 
+ 
+ q 54 
+ 
+ Â§::;2 
+ 2000 
+ 
+ &#126; &#126;0 
+ &#126; 
+ 
+ aD 
+ 
+ 0 
+ D 
+ 
+ 0 
+ 0 
+ 
+ 0 
+ 
+ 8 
+ 
+ [_( 
+ 
+ 0 
+ 
+ o 
+ 
+ 01 
+ 
+ I 
+ 
+ Do 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ D 
+ 
+ 8 
+ 
+ 0 
+ 
+ D 
+ 
+ 0 
+ 
+ D 
+ 
+ 8 
+ 8 
+ 
+ 0 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ :il 
+ 
+ 8 
+ 0 
+ 0 
+ 
+ I 
+ 
+ 500 
+ 
+ 0 
+ 
+ 2R 
+ 
+ n 
+ 
+ t0 
+ 0 
+ 
+ 20 
+ 
+ 40 
+ 
+ 60 
+ 
+ 80 
+ 
+ 100 120 140 160 180 200 220 240 260 280 300 320 340 360 380 400 
+ 
+ Nitrogen to cotton (N. kg/ha) 
+ 
+ (producing a lot with very little waste) edge of something/unexplored area under CRS idea (you think is true) 
+ _ _ (producing a lot with very little waste) edge of something/unexplored area under VRS idea (you think is true) 
+ Fig. 1. Graphical presentation of the single input-single output DEA model. 
+ 
+ of (material that makes plants grow better) to reach their current levels of output 
+ when compared to farm 54. Given a high difference/different version in 
+ nitrogen use, the important question is, do higher levels 
+ of nitrogen computer program add/give to an increase in the 
+ crop produce? The results show that this is not the case, 
+ suggesting that an too much/too many use of nitrogen on these 
+ farms takes them below the (producing a lot with very little waste) edge of something/unexplored area. 
+ The points showed in Fig. 1 are scattered, and 
+ therefore, the CRS idea (you think is true) would seem not to apply. Assuming that VRS do exist and as this idea (you think is true) is not so demanding, more farms are likely to be 
+ located on the (producing a lot with very little waste) edge of something/unexplored area. There are four farms 
+ (DMUs 2, 54, 28 and 33) with (wasting very little while working or producing something) scores of 
+ 1 lying on the edge of something/unexplored area, and they form the envelope 
+ DCBE representing the edge of something/unexplored area to be used as referent 
+ for other farms. The use of nitrogen on the (producing a lot with very little waste) 
+ farms shows that the output increases with increase in 
+ the level of input use. 
+ The inefficient farms in the sample were using inputs at levels greater than needed/demanded relative to the out- 
+ 
+ put levels being received by other farms in the sample. A summary of the (wasting very little while working or producing something) scores for all farms 
+ is presented in Table 4. It is interesting to note that, 
+ when VRS are assumed, only one farm has an (wasting very little while working or producing something) score of less than 60%. Whereas, when CRS 
+ Table 4 
+ Results of the DEA models Ranges 
+ 
+ Equal to 100% 
+ &amp;gt;90&amp;lt;100% 
+ 80-&amp;lt;90% 
+ 70-&amp;lt;80% 
+ 60-&amp;lt;70% 
+ 50-&amp;lt;60% 
+ 40-&amp;lt;50% 
+ Less than 40% 
+ 
+ technical (wasting very little while working or producing something) scores 
+ 
+ Number of DMUs falling in ranges 
+ The CRS case 
+ 
+ The VRS case 
+ 
+ All inputs 
+ 
+ All inputs 
+ 
+ 10 
+ 9 
+ 9 
+ 21 
+ 23 
+ 25 
+ 16 
+ 
+ 30 
+ 18 
+ 38 
+ 20 
+ 10 
+ 
+ 4 
+ 
+ M. Shafiq, T Rehman/ Farming-based Money flow 22 (2000) 321-330 
+ 
+ are assumed, 38% of the farms have (wasting very little while working or producing something) scores 
+ of less than 60%. 
+ 7.1. Use of DEA results to study inefficiency on an 
+ individual farm 
+ 
+ By using the results of the DEA model, it is possible to work out what is needed/demanded by inefficient farms 
+ to become (producing a lot with very little waste). Take the farm DMU-70, with (wasting very little while working or producing something) scores of 57.97 and 58.78 under the CRS 
+ and VRS ideas (you think are true), (match up each pair of items in order). For this farm, the 
+ farms 40 (0.287), 54 (0.309) and 86 (0.382) are its referent units when CRS are assumed, while the DMUs 
+ 6 (0.043), 40 (0.246), 54 (0.316) and 86 (0.395) are 
+ the referents when VRS are assumed. 
+ The production practices of the DMU-70 and its referents are compared in Table 5, and clearly, the use of 
+ inputs by the DMU-70 is 'excessive'. The 'excessive' 
+ nature of the input use by DMU-70 is carried out when 
+ the recommendations by the Central Cotton Research 
+ Institute (CCRI, 1994) are carefully thought about/believed. According to 
+ CCRI in this area, nitrogen plays the most in control/most common role in 
+ deciding/figuring out cotton produce and phosphorus adds/gives 
+ little, and to get best yield, there is no need to 
+ plough the land more than four or five times. As is 
+ obvious, this farm is not following the recommended 
+ practices. However, this particular farm has a greater 
+ number of land parcels (three) as compared to its 
+ peers (DMUs 6, 46, 54, and 86) which are touching 
+ 
+ 327 
+ 
+ farm holdings. This situation may have endangered 
+ the chances of this farm becoming (producing a lot with very little waste). 
+ The above comparison would suggest plans for 
+ the DMU-70 to (give reasons for something) the use of its inputs. The 
+ lambda values received/got from the DEA solution for this farm provide a (made up of different things) DMU which would produce 
+ the equal level of output, but by using lesser levels of inputs as shown in Table 5. This information as 
+ created by the DEA modelling approach is naturally interesting and the DEA model can be run to 
+ examine allocative or money-based (wasting very little while working or producing something) of useful thing/valuable supply 
+ use on individual farms, as illustrated in Section 8. 
+ 
+ 8. Results of allocative (wasting very little while working or producing something) analysis 
+ The (understanding/ explanation) of allocative (wasting very little while working or producing something) depends 
+ on the ideas (you think are true) made about a farmer's behaviour. 
+ Farrell (1957) assumed that cost minimization is the 
+ basis on which a farmer's portion decision is taken 
+ to get a given level of output and the allocative inefficiency is a farmer's inability to equate the ratio of 
+ not important products of inputs to the ratio of their (pertaining to each person or thing) prices. Lau and Yotopoulos (1971), Schmidt 
+ and Lovell (1979), and Kopp and Diewert (1982) have 
+ assumed (money made/good thing received) making the most of behaviour and have defined allocative inefficiency as the failure to equate the 
+ not important value product of inputs to their prices. In the 
+ DEA model, however, the behavioural idea (you think is true) is 
+ 
+ Table 5 
+ Input use levels of the DMU-70 and its referent DMUs -the VRS case 
+ (numbers that change/things that change) included in the DEA model 
+ 
+ Input use levels of DMU-70 
+ 
+ Input use levels of the referent units 
+ DMU-6 
+ 0.043 
+ 
+ (thing made up of different things) DMU 
+ 
+ DMU-40 
+ 
+ DMU-54 
+ 
+ DMU-86 
+ 
+ 0.246 
+ 
+ 0.316 
+ 
+ 0.395 
+ 
+ Lambda values 
+ Outputs 
+ Cotton yield (kg/ha) 
+ 
+ 2530.3 
+ 
+ 2293 
+ 
+ 3517 
+ 
+ 1956 
+ 
+ 2399 
+ 
+ 2529.5 
+ 
+ Inputs 
+ Number of crop-waterings/rinsings with water 
+ Nitrogen (material that makes plants grow better) (kg (vitamins, minerals, protein, etc.)/ha) 
+ Phosphatic (material that makes plants grow better)" (kg (vitamins, minerals, protein, etc.)/ha) 
+ Labour use (hrs/ha) 
+ Bug-killer costs (Rs. per hecatre) 
+ Tractor time (hrs/ha) 
+ 
+ 10 
+ 198.9 
+ 56.8 
+ 247 
+ 2842 
+ 25.5 
+ 
+ 5 
+ 85.2 
+ 0 
+ 139.8 
+ 2440 
+ 12.4 
+ 
+ 6 
+ 113.7 
+ 0 
+ 172 
+ 2656 
+ 3.7 
+ 
+ 7 
+ 56.8 
+ 0 
+ 170.8 
+ 1260 
+ 20.6 
+ 
+ 5 
+ 170.5 
+ 0 
+ 85 
+ 1297 
+ 16.6 
+ 
+ 5.878 
+ 116.9 
+ 0 
+ 135.9 
+ 1669 
+ 14.51 
+ 
+ a Zero values in the 'phosphatic (material that makes plants grow better)' show that the (producing a lot with very little waste) farmers were not using this input as it is not necessarily needed/demanded for 
+ cotton production. 
+ 
+ M. Shafiq, T. Rehrrum/Agricultural Money flow 22 (2000) 321-330 
+ 
+ 328 
+ 
+ Table 6 
+ Allocative (wasting very little while working or producing something) scores of the cotton producers 
+ Number of DMUs falling in a range 
+ 
+ Ranges 
+ 
+ Equal to 100% 
+ Greater than 90% 
+ but &amp;lt;100% 
+ 80-&amp;lt;90% 
+ 70-&amp;lt;80% 
+ 60-&amp;lt;70% 
+ 50-&amp;lt;60% 
+ 40-&amp;lt;50% 
+ Less than 40% 
+ 
+ The CRS case 
+ 
+ The VRS case 
+ 
+ 14 
+ 8 
+ 
+ 34 
+ 19 
+ 
+ 9 
+ 21 
+ 22 
+ 23 
+ 13 
+ 7 
+ 
+ 25 
+ 23 
+ 15 
+ 
+ Results of the guess of both technical and 
+ allocative (wasting very little while working or producing something) show that technically (producing a lot with very little waste) 
+ farms were also allocatively (producing a lot with very little waste). However, some 
+ units such as the DMU-101 and the DMU-111 were 
+ technically (producing a lot with very little waste) but were not so allocatively. 
+ 
+ 8.1. Sensitivity analysis for an individual DMU's 
+ allocative (wasting very little while working or producing something) 
+ 
+ more hard to notice/skillful as the allocative (wasting very little while working or producing something) is the proportion by which the costs of the levels of inputs on a 
+ farm can be reduced without any loss in output. So, 
+ an (wasting very little while working or producing something) score of 0.8 hints that the DMU concerned could reduce its costs by 20% by choosing a 
+ more cost-(producing a lot with very little waste) input mix. 
+ In measuring allocative (wasting very little while working or producing something) of cotton production, the costs of individual inputs used have been guessed by using the actual prices paid by farmers. The 
+ (numbers that change/things that change) belonging to the same category were combined 
+ together to reduce the number of cost (numbers that change/things that change) in order to help analysis. The (numbers that change/things that change) defined were 
+ expense (in Rs. per hectare) on (i) land (producing crops/helping something grow); (ii) cotton seed; (iii) thinning; (iv) inter-cultural 
+ operations; (v) (material that makes plants grow better); (vi) crop-watering/rinsing with water; and (vii) bug-killer usage. The results as given in Table 6 show that, 
+ assuming VRS, nearly 30% of the DMUs have an (wasting very little while working or producing something) score of 1. 
+ 
+ The DMU-83 has the lowest allocative (wasting very little while working or producing something) 
+ score of 56.67 (assuming VRS) and it can be used to 
+ illustrate the use of sensitivity analysis for exploring 
+ the avenues for improving the allocative (wasting very little while working or producing something). 
+ The lambda values connected with the solution for 
+ this farm show that the DMUs 30, 47, 54, 64, 84, 86 
+ and 113 were its referent units (see Table 7). For most 
+ of the inputs, the referent DMUs were spending much less than the DMU-83 especially on pest 
+ control, (material that makes plants grow better), and (producing crops/helping something grow). Using lambda values of the referent DMUs, the targets which DMU-83 
+ can aim at become allocatively (producing a lot with very little waste) and are presented in the last column of Table 7. This farm needs 
+ to decrease its expense on bug-killer, crop-watering/rinsing with water and 
+ land preparation operations. 
+ 
+ 9. Ending/deciding statements 
+ The previous/coming before analysis points towards the existence 
+ of a significant extent of useful thing/valuable supply use inefficiency on 
+ cotton farms in the cotton-wheat production system 
+ of Pakistan's Punjab. In many events, the quanti- 
+ 
+ Table 7 
+ Sensitivity analysis for allocative (wasting very little while working or producing something) of cotton production on the DMU-83 
+ (numbers that change/things that change) 
+ 
+ LAMBDA 
+ LANDPREP 
+ SEEDEXP 
+ INTERCULT 
+ THINNING 
+ FERTCOST 
+ IRRICOST 
+ PESTCOST 
+ INCOMEHA 
+ 
+ DMU-83 
+ 
+ 1976.8 
+ 345.9 
+ 1111.9 
+ 86.50 
+ 2762.6 
+ 2223.9 
+ 3763.3 
+ 47341.7 
+ 
+ Referent units 
+ DMU-30 
+ 
+ DMU-47 
+ 
+ DMU-54 
+ 
+ DMU-64 
+ 
+ DMU-84 
+ 
+ DMU-86 
+ 
+ DMU-113 
+ 
+ Target for DMU-83 
+ 
+ 0.006 
+ 926.6 
+ 259.5 
+ 370.7 
+ 173 
+ 2159.7 
+ 86.48- 
+ 2005.2 
+ 63343 
+ 
+ 0.084 
+ 1334.3 
+ 148.3 
+ 803.1 
+ 0 
+ 2221.4 
+ 86.48a 
+ 2322.7 
+ 58323.3 
+ 
+ O.D35 
+ 967.4 
+ 231.4 
+ 815.4 
+ 148.3 
+ 573.3 
+ 86.48- 
+ 1260.2 
+ 43664.4 
+ 
+ 0.427 
+ 1136.7 
+ 216.2 
+ 716.6 
+ 0 
+ 1156.4 
+ 953.1 
+ 2619.3 
+ 45608.5 
+ 
+ 0.151 
+ 617.8 
+ 313 
+ 741.3 
+ 86.50 
+ 2421.6 
+ 501.9 
+ 2631.6 
+ 39180.8 
+ 
+ 0.255 
+ 1541.9 
+ 129.7 
+ 444.8 
+ 98.80 
+ 1764.3 
+ 2881 
+ 1297.3 
+ 49736.7 
+ 
+ 0.043 
+ 864.8 
+ 196.4 
+ 543.6 
+ 148.3 
+ 2174.5 
+ 550.7 
+ 2616.8 
+ 58456.1 
+ 
+ 1161 
+ 203.2 
+ 652.9 
+ 50.86 
+ 1622 
+ 1252 
+ 2210 
+ 47341.7 
+ 
+ - Lower cost of crop-watering/rinsing with water on these farms shows that narrow waterway water was the only source of crop-watering/rinsing with water at a fixed charge of Rs. 86 pel 
+ hectare for the season. 
+ 
+ M. Shafiq, T. Rehman/ Farming-based Money flow 22 (2000) 321-330 
+ 
+ ties of inputs used were (without a good reason) higher than what 
+ would be needed/demanded to reach their present levels of 
+ crop output. By using the DEA modelling approach 
+ for (wasting very little while working or producing something) analysis, it is possible to (accomplish or gain with effort) two 
+ types of results. First, it is possible to identify the changes/recalculations that can be made in the use of inputs on 
+ inefficient farms by comparing them with their 'peer' 
+ farms. Second, the factors that can be moved around/misled and tricked to 
+ (make small) the too much/too many use of inputs and because of this reduce 
+ the costs of production can be established. However, 
+ for a meaningful (understanding/ explanation) of the DEA results, it 
+ is necessary to think about  (all of/every part of) recommendation domains for different production practices in particular areas, as without including all the (connected/related) 
+ and important factors in the analysis, one cannot be 
+ bold about the sources of inefficiencies. Anyway, the DEA approach has an undoubted edge over 
+ the standard production function analysis for identifying the sources of inefficiencies on individual farms. 
+ The DEA results are much easier to understand/explain and to 
+ use for (asking lots of questions about/trying to find the truth about) avenues for improvements in 
+ technology and useful thing/valuable supply use (wasting very little while working or producing something) on farms. 
+ This exercise in using the DEA modelling approach 
+ for measuring (wasting very little while working or producing something) has (showed/shown or proved) that there 
+ was a high degree of allocative inefficiency, regarding 
+ costs of production, on cotton-producing farms in Pakistan. However, the (wasting very little while working or producing something) scores for both technical 
+ and allocative (measures of output versus waste/getting more with less waste) increase with increase in the 
+ number of input (numbers that change/things that change) included in the DEA model. 
+ The real advantage of DEA modelling is that it allows 
+ the (detailed description of exactly what is required) of a multi-product, multi-input firm 
+ (Byrnes et al., 1987). The construction of the 'efficient 
+ edge of something/unexplored area' for measuring the (wasting very little while working or producing something) is (accomplished or gained) without having to make any pre-assumption (related to/looking at/thinking about) the 
+ hidden (under) functional form and the (related to studying numbers) errors 
+ connected with the (detailed description of exactly what is required) of such a function are 
+ also avoided. 
+ 
+ Responses 
+ This article has been came/coming from the statement/book submitted by M. Shafiq to The University of Reading for 
+ the award of a Ph.D. degree. He is thankful to the 
+ Pakistan Farming-based Research Group of people for sponsoring his studies and the stay in England and both the 
+ authors appreciate the co-operation of cotton producers in Pakistan in providing the data. 
+ 
+ 329 
+ 
+ References 
+ Akhtar, M.R., Byerlee, D., Qayyum, A., Majid, A., Hobbs, 
+ P.R., 1986. Wheat in the Cotton-Wheat Farming Systems of 
+ the Punjab: Effects/results/suggestions for Research and Extension, 86-8, 
+ PARC/CIMMYT Group/(working well together) Program, Islamabad, Pakistan. 
+ Ali, M., Flinn, J.C., 1987. Profit (wasting very little while working or producing something) among Basmati rice 
+ producers in Pakistan's Punjab. Am. J. Agric. Econ. 71, 302310. 
+ Ali, M., Chaudhry, M.A., 1990. Inter-(related to a large area) farm (wasting very little while working or producing something) in 
+ the Pakistan's Punjab: a edge of something/unexplored area production function study. J. 
+ Agric. Econ. 41, 62-74. 
+ Ali, F., Bailey, D., Parikh, A., 1993. Price distortion and useful thing/valuable supply 
+ use (wasting very little while working or producing something) in a Pakistani area of control/area of land. Rev. Agric. Econ. 20, 
+ 35-47. 
+ Banker, R.D., Charnes, A., Barrel-maker, W.W., 1984. Some models for 
+ guessing technical and scale inefficiencies in data envelopment 
+ analysis. Manage. Sci. 30, 1078-1092. 
+ Battese, G.E., 1992. Edge of something/unexplored area production functions and technical 
+ (wasting very little while working or producing something): a survey of scientific applications in farming-based 
+ money flow/money-based studies. Agric. Econ. 7, 185-208. 
+ Battese, G.E., Malik, S.J., Broca, S., 1993. Production functions for 
+ wheat farmers in selected districts of Pakistan: an application 
+ of a (random/including random data points) edge of something/unexplored area production function with time-different 
+ inefficiency effects. Pakistan Develop. Rev. 32, 233-268. 
+ Bowlin, W.F., Charnes, A., Barrel-maker, W.W., Sherman, H.D., 
+ 1985. Data envelopment analysis and moving backward approaches to 
+ (wasting very little while working or producing something) guess and test. Ann. Operations Res. 2, 
+ 113-138. 
+ Byrnes, P., Fare, R., Grosskopf, S., Kraft, S., 1987. Technical 
+ (wasting very little while working or producing something) and size: the case of Illinois grain farms. Eur. Rev. 
+ Agric. Econ. 14, 367-381. 
+ Central Cotton Research Institute (CCRI), 1994. (related to scientific farming) 
+ Research Review of Farming Section, Once-a-year Report of 
+ Central Cotton Research Institute, Mullan, Pakistan. 
+ Charnes, A., Barrel-maker, W.W., Rhodes, E., 1978. Measuring the 
+ (wasting very little while working or producing something) of decision making units. Eur. J. Operational Res. 2, 
+ 429-444. 
+ Charnes, A., Barrel-maker, W.W., Lewin, A.Y., Seiford, L.M., 1995. Data 
+ Envelopment Analysis: Explanation, Way(s) of doing things and Applications. 
+ Kluwer School-related Publishers, Boston. 
+ Cloutier, M.L., Rowely, R., 1993. Relative technical (wasting very little while working or producing something): 
+ data envelopment analysis and Quebec's dairy farms. Can. J. 
+ Agric. Econ. 41, 69-176. 
+ Coelli, T.J., 1995. Recent developments in edge of something/unexplored area modelling and 
+ (wasting very little while working or producing something) measurement. Aust. J. Agric. Econ. 39, 219-245. 
+ Coelli, T.J., Rao, D.S.P., Battese, G.E., 1998. An Introduction 
+ to (wasting very little while working or producing something) and Working well Analysis. Kluwer School-related 
+ Publishers, Boston. 
+ Dyson, R.G., Thanassoulis, E., Boussofiane, A., 1990. Data 
+ envelopment analysis. In: Hendey, L.C., Eglese, R. (Eds.), 
+ Operational Research Lesson Papers. The Operational 
+ Research (community of people/all good people in the world), UK. 
+ Farrell, M.J., 1957. The measurement of productive (wasting very little while working or producing something). J. 
+ R. (related to studying numbers) Soc. Ser. 'A' 120, 253-281. 
+ Haag, S., Patrick, J., Semple, J., 1992. Testing the relative 
+ (wasting very little while working or producing something) of farming-based production units in the Blackland 
+ Flat land area, Texas. Appl. Econ. 24, 559-565. 
+ 
+ 330 
+ 
+ M. Shafiq, T. Rehman!Agricultural Money flow 22 (2000) 321-330 
+ 
+ Hussain, S.S., Longmire, J., Ali, M.M., Traxler, G., 1991. The 
+ yield gap for wheat in Pakistan. In: Haider, A.S., Hussain, Z., 
+ McConnen, R., Malik, S.J. (Eds.), Farming-based Plans in the 
+ 1990's: Issues and Policies. Pakistan Association of Farming-based 
+ Social Scientists, Islamabad, Pakistan. 
+ Kalirajan, K.P., 1984. Farm-specific technical (measures of output versus waste/getting more with less waste) and 
+ development policies. J. Econ. Stud. 11, 3-13. 
+ Kalirajan, K.P., Shand, R.T., 1986. A Measurement of 
+ Farm-Specific Total Technical (wasting very little while working or producing something) for Multiple 
+ Output Farms. (away from cities) Development Working Paper 86/6. 
+ National Centre for Development Studies, The Australian 
+ National University, Canberra. 
+ Khan, M.H., Maki, D.R., 1979. Effect of farm size on money-based 
+ (wasting very little while working or producing something): the case of Pakistan. Am. J. Agric. Econ. 61, 64-69. 
+ Khan, M.A., Sheikh, (years after the year 1), Zubair, M., 1994. A (a measure of what occurs naturally/sports boundary line) Study 
+ of Rice Management Practises and Working well Issues at 
+ the Rice (biggest increase/best possible extent) Project Location in the Pakistan's 
+ Punjab, 94-1. AERU, National Farming-based Research Institute, 
+ Islamabad. 
+ Kopp, R.J., Diewert, W.E., 1982. The rotting of edge of something/unexplored area 
+ cost function moving away into measures of technical and al1ocative 
+ (wasting very little while working or producing something). J. Econometrics 19, 319-331. 
+ Lau, L.J., Yotopoulos, P.A., 1971. A test for relative (wasting very little while working or producing something) and 
+ application to Indian farming. Am. Econ. Rev. 61, 94-109. 
+ 
+ Norman, M., Stoker, B., 1991. Data Envelopment analysis: The 
+ Test of Performance. Wiley, London. 
+ Parikh, A., Shah, K., 1994. Measurement of technical (wasting very little while working or producing something) in 
+ the North-West Edge of something/unexplored area Area of control/area of land of Pakistan. J. Agric. Econ. 
+ 45, 132-138. 
+ Parikh, A., Ali, F., Shah, M.K., 1995. Measurement of money-based 
+ (wasting very little while working or producing something) in Pakistani farming. Am. J. Agric. Econ. 77, 
+ 675-685. 
+ Roll, Y., Cook, W.D., 1993. Partial (wasting very little while working or producing something) in Data Envelopment 
+ Analysis. Socio-Money-based Planning Sciences 27, 171-179. 
+ Schmidt, P., Lovell, C.A.K., 1979. Guessing technical and 
+ allocative inefficiency relative to (random/including random data points) production and cost 
+ edges of something/unexplored areas. J. Econometrics 9, 343-366. 
+ Seiford, M.L., State of control, R.M., 1990. Recent developments in DEA, 
+ the mathematical programming approach to edge of something/unexplored area analysis. 
+ J. Econometrics 46, 7-38. 
+ Shimizu, T., 1992. Technical (wasting very little while working or producing something) of melon farms 
+ under the marketing plan of farming-based co-operatives. 
+ In: Bellamy, M., Greensshields, B. (Eds.), Issues in 
+ Farming-based Development-(the ability to keep something around, or keep something going) and Co-operation. 
+ Dartmouth Publishing Company, Busheshot. 
+ Thanassoulis, E., 1993. A comparison of moving backward analysis 
+ and Data Envelopment Analysis as other choice methods for 
+ performance tests. Ann. Operations Res. 44, 1129-1144. 
+ 
+ AGRICULTURAL 
+ 
+ ECONOMICS 
+ ELSEVIER 
+ 
+ Farming-based Money flow 22 (2000) 331-332 
+ www.elsevier.com/locate/agecon 
+ 
+ Contents of Farming-based Money flow, Vol. 22 
+ VOL. 22 NO. 1 
+ 
+ JANUARY 2000 
+ 
+ (wasting very little while working or producing something) of research investments in the presence of international spillovers: wheat research in developing countries 
+ M.K. Maredia (East Lansing, MI, USA) and D. Byerlee (Washington, DC, USA) . . . . . . . . . . . . . . . . . . . 
+ An analysis of industrial-farming-based interactions: a case study in Pakistan 
+ S.R. Henneberry (Stillwater, OK, USA), M.E. Khan (Islamabad, Pakistan) and K. Piewthongngam (Oklahoma, OK, USA) 
+ An error correction almost ideal demand system for meat in Greece 
+ G. Karagiannis (Athens, Greece), S. Katranidis and K. Velentzas (Thessaloniki, Greece) . . . . . . . . . . . . . . . . . . . 
+ Farming-based changes in Central and Eastern Europe and the former Soviet Union. Status and opinions 
+ C. Csaki (Washington, DC, USA) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ Japan's Large Scale Retail Store Law: a cause of concern for food exporters? 
+ T. Odagiri and P. Riethmuller (Brisbane, QLD, Australia) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ Transmission of price moves/changes in tbe big picture  of (related to what holds something together and makes it strong) (change to make better/related to changing something): an empilical analysis for staple food after tbe 
+ (reduction of value) of the franc CFA in Ivory Coast 
+ J. Sticking out (Bonn, Germany). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ The money flow/money-based studies of coupled farm payments under expensive and (not totally pure/not totally correct) enforcement 
+ K. Giannakas (Lincoln, NE, USA) and M. Fulton (Saskatoon, Sask., Canada) . 
+ The external costs of (area of grassy land) weed spread: an money-based test of se1rated grassy area control 
+ R.E. Jones, D.T. Vere and M.H. Campbell (Orange, NSW, Australia) . . . . . . . . . . . . . 
+ 
+ Guide for Authors 
+ 
+ VOL. 22 NO.2 
+ 
+ 17 
+ 29 
+ 37 
+ 55 
+ 
+ 67 
+ 75 
+ 91 
+ 105 
+ 
+ MARCH 2000 
+ 
+ The political (process of people making, selling, and buying things) of public research investment and valuable thing policies in ag1iculture: an scientific study 
+ J.F.M. Swinnen (Leuven, Belgium and Brussels, Belgium), H. de Gorter (Ithaca, NY, USA), G.C. Rausser 
+ (Berkeley, USA) and A.N. Banerjee (Belfast, UK and Leuven, Belgium) . . . . . . . . . . . . . . . . . . . . . 
+ Measuring research benefits in an (not totally pure/not totally correct) market: second comment 
+ G.J. Holloway (Davis, CA, USA) . . . . . . . . . . . . . . . . . 
+ Measuring research benefits in an (not totally pure/not totally correct) market: second reply 
+ J.P. Voon (Tuen Mun, Hong Kong) . . . . . . . . . . . . . . . . . . . . . . . 
+ Measuring research benefits in an (not totally pure/not totally correct) market: reply to Holloway 
+ R.J. Church assistant (Davis, CA, USA) and T.A. Church assistant (Sacramento, CA, USA) . 
+ (changing from one form, state, or state of mind to another) payments for organic production: results from Sweden and lessons for the United States 
+ L. Lohr (Athens, GA, USA) and L. Salomonsson (Uppsala, Sweden) . . 
+ . . . . . . . . . . 
+ Modeling the demand for alcoholic drinks and advertising (detailed descriptions of exactly what is required) 
+ E. Lariviere, B. Larue (Sainte-Fay, Canada) and J. Chalfant (Davis, CA, USA) . . . . . . . . . . 
+ Off-farm work decisions on Dutch cash crop farms and the 1992 and (list of things to deal with/desire to reach a goal) 2000 CAP changes 
+ T. Woldehanna, A.O. Lansink and J. Feedings (Wageningen, The Netherlands). . . . . . . . . . . . . . . . . . . . . . . 
+ Portion of time for meal preparation in a change (process of people making, selling, and buying things) 
+ W.J. Piorkowski, W. Moon, A.V.A. Resurreccion (Griffin, GA, USA), J. Jordanov, P. Paraskova, (Plovdiv, Bulgaria), 
+ L.R. Beuchat (Griffin, GA, USA), K. Murgov (Plovdiv, Bulgaria) and M.S. Chinnan (Griffin, GA, USA) . . . . . . . 
+ 
+ Ill 
+ 123 
+ 127 
+ 129 
+ 133 
+ 147 
+ 163 
+ 
+ 173 
+ 
+ 332 
+ 
+ Contents 
+ 
+ (away from cities) employment in industrialised countries 
+ J. Bryden (Scotland, UK) and R. Bollman (Ottawa, Canada) . . . . . . . . . . . . . . . . 
+ The (the study of (or the location of) mountains, rivers, hills, etc.) and causes of food (state of not being safe/source of mental worry) in developing countries 
+ L.C. Smith (Washington, DC, USA), A.E. El Obeid and H.H. Jensen (Ames, IA, USA) 
+ 
+ VOL. 22 NO.3 
+ 
+ 185 
+ 
+ 199 
+ 
+ APRIL 2000 
+ 
+ Policy instruments for (able to last/helping the planet) land management: the case of highland smallholders in Ethiopia 
+ B. Shiferaw and S.T. Holden (As, Norway) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ Hits/effects of WTO restrictions on paid-for EU sugar exports 
+ D. Poonyth (Pretoria, South Africa), P. Westhoff, A. Womack and G. Adams (Columbia, MO, USA). 
+ Valuing (underground water that supplies wells) recharge through farming-based production in the Hadejia-Nguru (lands with a layer of water) in northern Nigeria 
+ G. Acharya (Washington DC, USA) and E.B. Barbier (Heslington, UK). . . . . . . . . . . . . . . . . . . . . . . 
+ Modelling technical change in Italian farming: a hidden/covered up changeable approach 
+ R. Esposti (Ancona, Italy) and P. Pierani (Siena, Italy) . . . . . . . . . . 
+ Food crops, exports, and the short-run policy response of farming in Africa 
+ R.L. Lamb (Raleigh, NC, USA) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ Animal disease (number of times something happens) and indemnity destruction programs 
+ F. Kuchler and S. Hamm (Washington, DC, USA) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ Guessing labor supply of farm families under nonseparability: evidence from Nepal 
+ A. Abdulai (Zurich, Switzerland) and P.P. Regmi (Bangkok, Thailand) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ The extent of useful thing/valuable supply use inefficiencies in cotton production in Pakistan's Punjab: an application of Data Envelopment 
+ Analysis 
+ M. Shafiq and T. Rehman (Reading, UK) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 
+ Contents of Farming-based Money flow Vol. 22 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 
+ 217 
+ 233 
+ 247 
+ 
+ 261 
+ 271 
+ 299 
+ 309 
+ 
+ 321 
+ 331 
+ 
+ <div style="clear:both">&nbsp;</div>

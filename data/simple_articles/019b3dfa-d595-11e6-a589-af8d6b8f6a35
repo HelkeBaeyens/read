@@ -1,0 +1,776 @@
+Dial "A" for Farming 
+ A Review of Information and Communication 
+ Technologies for Farming-based Extension in 
+ Developing Countries 
+ Jenny C. Aker 
+ 
+ Abstract 
+ Farming can serve as an important engine for money-based growth in developing countries, yet 
+ yields in these countries have fallen behind far behind those in developed countries for 20 years. One 
+ possible (machine/method/way) for increasing yields is the use of improved farming-based technologies, such 
+ as (material that makes plants grow better)s, seeds and cropping ways of doing things. Public-part/area programs have tried to overcome 
+ information-related (blocking things) to (related to computers and science) adoption by providing farming-based extension services. 
+ While such programs have been widely criticized for their limited scale, (the ability to keep something around, or keep something going) and hit/effect, 
+ the fast spread of mobile phone coverage in developing countries provides a (like nothing else) opportunity 
+ to help (related to computers and science) adoption via information and communication technology (ICT)-based 
+ extension programs. This article outlines the possible (machines/methods/ways) through which ICT could 
+ help farming-based adoption and the put into use of extension services in developing countries. It 
+ then reviews existing programs using ICT for farming, labeled by the (machine/method/way) (voice, 
+ text, internet and mobile money moves (from one place to another)) and the type of services gave/given. Finally, we identify 
+ possible restrictions to such programs in terms of design and putting into use, and end with 
+ some recommendations for putting into use field-based research on the hit/effect of these programs on 
+ farmers' knowledge, (related to computers and science) adoption and welfare. 
+ JEL Codes: D1, I2, O1, O3 
+ Keywords: Farm-related; farming-based extension; information technology; program test 
+ 
+ www.cgdev.org 
+ 
+ Working Paper 269 
+ September 2011 
+ 
+ Dial "A" for Farming: A Review of Information and 
+ Communication Technologies for Farming-based Extension in 
+ Developing Countries 
+ Jenny C. Aker 
+ 
+ This paper is honest/appearing soon in Farming-based Money flow. 
+ Jenny C. Aker is a non-resident fellow at the Center for Worldwide  Development and 
+ helper professor of money flow/money-based studies at Tufts University, Money flow Department 
+ and Fletcher School, 160 Packard Avenue, Medford, MA 02155. Jenny.Aker@ 
+ tufts.edu. She would like to thank Tanguy Bernard, Alain de Janvry, Jean-Jacques 
+ Dethier, Travis J. Lybbert, Jeremy Magruder, Isaac Mbiti, Elisabeth Sadoulet, 
+ Muzhe Yang, an unnamed referee and people (who were part of a study, etc.) at the Farming for 
+ Development Conference at the University of California-Berkeley for helpful 
+ comments and suggestions. All errors are her own. 
+ CGD is thankful for support of this work from its funders and board of directors. 
+ Jenny C. Aker. "Dial "A" for Farming: A Review of Information and Communication 
+ Technologies for Farming-based Extension in Developing Countries." CGD Working Paper 
+ 269. Washington, D.C.: Center for Worldwide  Development. 
+ http://www.cgdev.org/content/publications/detail/1425497 
+ 
+ Center for Worldwide  Development 
+ 1800 Massachusetts Ave., NW 
+ Washington, DC 20036 
+ 202.416.4000 
+ (f) 202.416.4050 
+ www.cgdev.org 
+ 
+ The Center for Worldwide  Development is an independent, (not making money) policy 
+ research organization dedicated to reducing worldwide  poorness and (state where two things are not the same) 
+ and to making (when lots of countries communicate and talk with each other) work for the poor. Use and spreading around of 
+ this Working Paper is encouraged; however, reproduced copies may not be 
+ used for commercial purposes. Further usage is permitted under the terms 
+ of the (showing the ability to create interesting new things) Commons License. 
+ The views expressed in CGD Working Papers are those of the authors and 
+ should not be attributed to the board of directors or funders of the Center 
+ for Worldwide  Development. 
+ 
+ 1. 
+ 
+ Introduction 
+ 
+ The possible role of farming as an engine for money-based growth has long been recognized 
+ (Byerlee, de Janvry and Sadoulet 2009). Yet (even though there is the existence of) the importance of farming for 
+ development, farming-based production and yields have fallen behind far behind those in developed 
+ countries over the past twenty years. One possible explanation for this spoiling growth in 
+ yields is the underutilization of improved farming-based technologies, which has remained 
+ (compared to other things) low in developing countries since the 1970s (Figure 1).1 
+ Many money-based studies have identified the (things that decide other things) of technology adoption and 
+ the possible (blocking things) to it (Feder, Just and Zilberman 1985, Foster and Rosenzweig 1995, 
+ Foster and Rosenzweig 2010). While the clearly stated/particular (things that decide other things) of technology adoption 
+ depend upon the setting and the technology type, common factors identified in the 
+ possible and scientific books include education, wealth, tastes, risk preferences, 
+ (completing/matching) inputs and access to information and learning. Of these, the role of 
+ not mirror-images and expensive information has received particular attention. 
+ Governments and international organizations have tried to overcome some of the 
+ perceived information failures related to technology adoption via farming-based extension 
+ services, generally defined as the delivery of information inputs to farmers (Anderson and 
+ Feder 2007). There were about 500,000 farming-based extension personnel worldwide 
+ in 2005, with 95 per cent of these working in public farming-based extension systems 
+ (Anderson and Feder 2007). Yet (even though there is the existence of) 20 years of investment in and experience with public 
+ extension programs, (event(s) or object(s) that prove something) of their hit/effect upon farming-based knowledge, adoption and 
+ working well remains limited. What's more, the systems themselves have been criticized for 
+ high costs, problems of scale and low levels of responsibility (Anderson and Feder 2007). 
+ The fast spread of information and communication technologies (ICT) in developing 
+ countries offers a (like nothing else) opportunity to move (from one place to another) knowledge via private and public 
+ information systems. Over the past ten years, mobile phone coverage has spread quickly in 
+ Africa, Asia and Latin America: over sixty percent of people/of the group of sub-Saharan Africa, 
+ Asia and Latin America had access to mobile phone coverage in 2009. Happening with this 
+ increase in mobile phone coverage has been an increase in mobile phone adoption: As of 
+ 1Low 
+ 
+ levels of adoption do not necessarily point to/show under-adoption, defined as a "situation in which there are 
+ 
+ big unrealized gains to the use of a new technology or (act of something getting bigger, wider, etc.) of input use, and reflected in high 
+ returns to adoption" (Foster and Rosenzweig 2010). 
+ 
+ 1 
+ 
+ 2008, there were about 4 billion mobile phone subscribers worldwide, with 374 
+ million subscriptions in Africa, 1.79 million in Asia and 460 million in Latin America (ITU 
+ 2009). While initial adoption was mostly by richer, city-based  and more educated residents, 
+ over the last few years, mobile phones have been adopted by (away from cities) and city-based  (groups of people/animals/things) in some of 
+ the world's poorest countries (Aker and Mbiti 2010). 
+ Mobile phones reduce (a lot) communication and information costs for the (away from cities) poor. 
+ This not only provides new opportunities for (away from cities) farmers to get access to information 
+ on farming-based technologies, but also to use ICTs in farming-based extension services. Since 
+ 2007, there has been a spread of mobile phone-based computer programs and services in the 
+ farming-based part/area, providing information on market prices, weather, transport and 
+ farming-based ways of doing things via voice, short message service (SMS), radio and internet. While such 
+ programs are new and interesting, they are not without challenges, and it is not yet clear that they will 
+ substitute for existing farming-based extension systems. What's more, evidence on 
+ their hit/effect remains limited. In order to measure the hit/effect of such services on farmers' 
+ knowledge, adoption and welfare, as well as their (producing a lot for a given amount of money)ness, difficult/strict/high quality hit/effect 
+ tests are needed. 
+ The rest of this paper go aheads as follows. Section II provides an summary of the reasons 
+ for and hit/effect of farming-based extension programs in developing countries. Section III 
+ identifies the possible (machines/methods/ways) through which mobile phones could improve farmers' 
+ access to information and farming-based adoption in general, and help the delivery of 
+ farming-based extension systems especially. Section IV surveys existing ICT-based 
+ farming-based extension programs and identifies possible challenges to such programs in terms 
+ of design and putting into use. Section V outlines a (solid basic structure on which bigger things can be built) for measuring the (proof that one thing definitely causes another) 
+ hit/effect of ICT-based farming programs. Section VI ends/decides. 
+ 
+ 2. 
+ 
+ Technology Adoption and Farming-based Extension 
+ 2.1. Technology Adoption, Farming and Growth 
+ 
+ The possible role of farming as an engine for money-based development has long been 
+ recognized (Byerlee, de Janvry and Sadoulet 2009). Since the important (things that are given/work that's done) of 
+ Schultz (1964), Hayami and Ruttan (1971), and Mellor (1998), there has been a large body of 
+ possible and scientific books on the potential multiplier effects of farming-based growth 
+ on non-farming-based parts/areas (Byerlee, de Janvry and Sadoulet 2009). Cross-country and 
+ country-specific econometric (event(s) or object(s) that prove something) have pointed to/showed that GDP growth created in 
+ farming can be especially effective in increasing expenses and incomes of the poor 
+ (Ligon and Sadoulet 2007, Bravo-Ortega and Lederman 2005, Ravallion and Chen 2007). 
+ (even though there is the existence of) the importance of farming for money-based development, farming is yet to 
+ perform as an engine of growth in many developing countries - especially in sub-Saharan 
+ Africa (Byerlee, de Janvry and Sadoulet 2009). Farming-based yields have only shown small/short 
+ increases in sub-Saharan Africa and Latin America since the 1960s, (even though there is the existence of) advances in 
+ 
+ 2 
+ 
+ agricultural inventions of new things during that time (Masters 2009).2 Also, data on the adoption 
+ of improved farming-based technologies paint a picture of low levels of adoption in developing 
+ countries, especially sub-Saharan Africa.3 
+ The low rates of adoption in developing countries have been well-recorded/supported, and there is 
+ (existing all over a large area) possible and scientific books identifying the (things that decide other things) of farming-based 
+ technology adoption in different contexts (Feder, Just and Zilberman 1985, Foster and 
+ Rosenzweig 1995, Suri honest/appearing soon, Conley and Udry 2010, Duflo, Kremer and Robinson 
+ honest/appearing soon).4 While the findings differ according to the technology and big picture, many 
+ studies have identified the importance information and learning for the adoption process.5 
+ 2.2. Information, Farming-based Extension and Technology Adoption 
+ The farming-based production function hints that farmers need information on a variety of 
+ topics, at a variety of stages, before adopting a new technology. Figure 2 provides a pretty/interesting 
+ representation of the farming-based production function, including clear/separate yet nested adoption 
+ decisions (de Silva and Ratnadiwakara 2008, Mittal, Gandhi and Tripathi 2010).6 Farmers 
+ have different types of information needs during each stage of the process, ranging from 
+ weather forecasts, pest attacks, inputs, (producing crops/helping something grow) practices, pest and disease management 
+ and prices. 
+ 
+ 2 
+ 
+ Masters (2009) notes that national guesses of crop working well hints that cereal grain output per person in 
+ 
+ sub-Saharan Africa now equals that of South Asia. 
+ 3Technology 
+ 
+ is the "relationship between inputs and outputs" (Foster and Rosenzweig 2010), or the set of 
+ 
+ hardware (physical) and software (ways of doing things) tools that allow for a different mapping of inputs to outputs. 
+ Technology adoption is therefore defined as the "use of new tools or ways of doing things that relate inputs to outputs and 
+ the portion of inputs" (Foster and Rosenzweig 2010). 
+ 4Duflo, 
+ 
+ Kremer and Robinson (honest/appearing soon) find that the returns to (material that makes plants grow better) are high in Kenya and suggest that 
+ 
+ (material that makes plants grow better) is under-used. Suri (honest/appearing soon) hints that some farmers with high returns to adopting combination 
+ seeds do not adopt, and attributes this in part to poor (set of machines). 
+ 5Foster 
+ 
+ and Rosenzweig (1995, 2010) develop a model of learning by doing and learning from others, defining 
+ 
+ learning as happening when "new information affects behavior and results in results for an individual that 
+ are closer to the (private) best." Learning can therefore reduce doubt about the money-making ability of a new 
+ technology, as well as help an individual to get information about how to well manage the new 
+ technology. 
+ 6The 
+ 
+ simplified model identifies six stages: The "pre-planting" stage, within which/by which farmers decide on the crops and 
+ 
+ the portion of land to each crop; the "seeding" stage, within which/by which farmers decide whether to buy seeds or use 
+ their own; the "preparing and planting" stage, within which/by which farmers prepare the land using own or hired labor or land 
+ preparation machinery; the "growing" stage, which needs/demands decisions about the use of water, (material that makes plants grow better) 
+ and bug-killers; the "collecting, packing and storage" stage, which needs/demands decisions about labor for collecting 
+ and storage; and the "marketing" stage, within which/by which farmers must decide whether, when and where to sell the 
+ valuable thing (de Silva and Ratnadiwakara 2008, Mittal, Gandhi and Tripathi 2010). 
+ 
+ 3 
+ 
+ Farmers can get information from some sources, including, among others, their 
+ own trying things and from members of their social network. Yet while traditional 
+ money-based explanation assumes that information is costless, information is rarely matching or 
+ costless in developing countries. This is partly due to the high cost of getting information 
+ via traditional means, such as travel, radio or newspaper. As a result, information 
+ (left and right sides not matching) can be an important (blocking thing) to farming-based technology adoption in developing 
+ countries. 
+ Since the 1960s, farming-based extension has been put forward  as a means of reducing the 
+ information (left and right sides not matching) related to technology adoption in both developed and developing 
+ countries. Usually/mostly, farming-based extension is the "delivery of information inputs to 
+ farmers" (Anderson and Feder 2007). The general extension approach uses specialists to 
+ provide a range of services to farmers, from technology moves (from one place to another) to advice-giving services and 
+ (related to workers in general) development. 7 Sometimes it has also tried to connect (people who work to find information) 
+ directly to the farmer in order to make sure that new technologies are better targeted to the 
+ clearly stated/particular conditions of farming-based communities. 
+ Farming-based extension models can take a few forms.8 The most common approaches are 
+ Training and Visit (T&amp;V), Farmer Field Schools (FFS) and fee-for-service. In the T&amp;V 
+ approach, specialists and field staff provide technical information and village visits to 
+ selected communities. In many cases the field agents train and work directly with "contact 
+ farmers", or farmers who have successfully put into use new technologies and can train 
+ others. T&amp;V was (helped increase/showed in a good way) by the World Bank and applied in more than 70 countries 
+ between 1975 and 1995 (Anderson, Feder and Ganguly 2006).9 Farmer field schools (FFS) 
+ were specifically designed to thinly spread (having different things working together as one unit) pest management (IPM) methods in Asia. 
+ FFS also use contact farmers, depending on (related to demanding or permitting the joining of club, group, etc.) training methods that build farmer 
+ abilities (to hold or do something). Fee-for-service extension contains both public and private efforts with some 
+ public money/giving money (to). In these programs, farmer groups contract extension agents with specific 
+ information and service requests.10 
+ 
+ 7 
+ 
+ Information gave/given via farming-based extension can include prices, research products and knowledge about 
+ 
+ particular ways of doing things or inputs, such as the strength and timing of (material that makes plants grow better)s. 
+ 8Agricultural 
+ 
+ extension has expanded in developing countries since the 1960s with significant (government) 
+ 
+ financing. There are about 500,000 farming-based extension workers worldwide, and 80 percent of these are 
+ publicly gave money (to) and delivered by government workers (Anderson and Feder 2007). 
+ 9 
+ 
+ The (without having one central area of command) T&amp;V approach is just like the T&amp;V approach, but the responsibility for delivery is given to 
+ 
+ local governments (Crowder and Anderson 2002). 
+ 10While 
+ 
+ farming-based extension services are mostly financed and put into use by the (government), the 
+ 
+ information gave/given via such systems is not always a public good. Table 1 shows the different types of 
+ information gave/given via extension systems and their classification as either private, public, club or common pool 
+ products (that are bought and sold) (Anderson and Feder 2007). 
+ 
+ 4 
+ 
+ 2.3. Does Farming-based Extension Work? 
+ (even though there is the existence of) 20 years of investment in farming-based extension systems, there are surprisingly few 
+ difficult/strict/high quality hit/effect tests of these services in developing countries. Table 2 provides an 
+ summary of these studies, based upon the type of farming-based extension system (T&amp;V, FFS, 
+ fee for service and social networks) and the result (number or thing that changes) of interest (knowledge, 
+ adoption, yields, rates of return and general jobs) (Evanson 2001, Anderson and 
+ Feder 2007). The results provide disagreeing (event(s) or object(s) that prove something) of the hit/effect of farming-based 
+ extension programs.11 
+ Do these results suggest that farming-based extension does not work? There are two potential 
+ explanations for the mixed results in Table 2. First, there are a few challenges to identifying 
+ (one thing is proven to cause something else) between farming-based extension and development results. Measuring 
+ the result (numbers that change/things that change) of interest in such studies (e.g., adoption, production and returns) is 
+ famously hard, by that/in that way introducing measurement error in the (thing that changes (like a test score) because of something else that you control (like study time)). 
+ While this will not introduce lessening bias (the bias toward zero), it can reduce quality, 
+ by that/in that way making it harder to detect a (meaningful numbers) effect. What's more, 
+ (capable of being seen and known) and unobservable (features/ qualities/ traits) that are (at the same time) related to 
+ extension programs and the results of interest will very likely differ across extension and 
+ non-extension communities, as well as across users and non-users, which makes the 
+ participation status of extension programs endogenous. And finally, given the different types 
+ of farming-based extension models (T&amp;V, fee for service, FFW) and the wide range of 
+ information gave/given via these models, cross-country comparisons of farming-based extensions 
+ programs are (without any point or purpose). 
+ Beyond problems of measurement error and endogeneity, another possible reason for the 
+ (appearing to be) weak hits/effects of these programs could simply be the quality of the farming-based 
+ systems themselves. A worldwide review of public extension systems by Rivera, Qamar and 
+ Crowder (2001) found that many farming-based extension systems were barely functioning, 
+ related to the following factors: 
+ ï· Limited scale and (the ability to keep something around, or keep something going): In countries where the farm part/area is 
+ contained of small-scale farmers, extension clients often live in (related to where mountains, rivers, cities, etc., are located) 
+ broke up areas. This can result in high costs, limited (land-area-based/location) coverage and 
+ impossible to do/impossible to keep going services (Anderson and Feder 2007). 
+ ï· Policy (surrounding conditions) that reduce the value of information gave/given 
+ via extension services, mainly due to terms of trade that are tilted against 
+ farming, poor (set of machines) and (not good enough) input supplies. 
+ 11 
+ 
+ For example, earlier studies on the hit/effect of farming-based extension (T&amp;V) in India found that T&amp;V had no 
+ 
+ significant hit/effect on rice production but increased money-based returns in wheat by 15 percent (Feder and Slade 
+ 1986, Feder, Lau and Slade 1987). Yet almost the same  studies of T&amp;V in Pakistan found only small hits/effects on wheat 
+ (Hussein, Bylerlee and Heisey 1994). 
+ 
+ 5 
+ 
+ ï· Weak linkages between research centers, universities and farming-based 
+ extension systems. While extension services in the US and Europe are often 
+ linked with the university system, this may not be the case in developing 
+ countries. As a result, the (rewards or reasons for doing something) of these starts are not matched up with/even with 
+ farming-based (things that are important) in the country (Purcell and Anderson 1997) and 
+ technologies are not always locally changed. 
+ ï· Low (desire to do something/reason for doing something) and responsibility of extension field staff. As is the 
+ case with all public servants, watching the presence and (desire to do something/reason for doing something) of 
+ extension staff is hard. This is especially filled with problems in the case of 
+ farming, where field agents work in different areas and 
+ performance indicators are based upon inputs that are hard to (check for truth/prove true) (ie, 
+ number of trainings, number of people). Lack of watching can result in 
+ (not there; not present) or poor-quality field staff, further reducing the utility of farming-based 
+ extension services. 
+ ï· Little difficult/strict/high quality (event(s) or object(s) that prove something) of the hits/effects of such extension on farmers' 
+ welfare. The lack of reliable (event(s) or object(s) that prove something) on the hit/effect of farming-based extension 
+ worsens problems related to money/giving money (to), (desire to do something/reason for doing something) and the availability of 
+ appropriate technologies. 
+ In this (surrounding conditions), it is not only unclear whether farming-based extension systems are 
+ functioning, but whether these systems are overcoming information (left and right sides not matching) for smallholder farmers related to farming-based technology. 
+ 
+ 3. 
+ How ICTs Could Affect Farming-based Adoption and Extension in 
+ Developing Countries12 
+ 3.1. Mobile phone coverage and adoption in poor countries 
+ Farming-based extension systems were imagined and developed in response to information 
+ (left and right sides not matching) for poor farmers, especially those with limited access to other sources of 
+ information (landlines, newspapers and radios). While (set of machines) investments still remain 
+ low in many developing countries, one of the biggest changes over the past ten years 
+ has been an increase in mobile phone coverage and adoption. In sub-Saharan Africa, for 
+ example, less than 10 percent of people/of the group had mobile phone coverage in 1999, 
+ increasing to over 60 percent of people/of the group in 2008 (Aker and Mbiti 2010). 
+ 
+ 12 
+ 
+ ICT is an umbrella term that includes any communication device or computer program, such as radio, television, 
+ 
+ mobile phones, computers and network hardware and software. We will mostly focus on mobile phone 
+ technology in the big picture  of this paper, given its role in developing countries. Internet penetration is still 
+ (compared to other things) limited in Africa. 
+ 
+ 6 
+ 
+ Coinciding with this growth in coverage has been an increase mobile phone adoption and 
+ usage, even in some of the world's poorest countries. There were 16 million subscribers in 
+ sub-Saharan Africa 2000, growing to 376 million in 2008. Almost the same  rates of mobile phone 
+ adoption have been watched/followed in Latin America and Asia (Figure 3).13 The number of mobile 
+ phones per 100 people in developing countries often goes beyond access to other information 
+ technologies, such as landlines (Jensen 2010), newspapers and radios (Aker and Mbiti 2010). 
+ 3.2. The Hit/effect of ICTs on Farming-based Information, Extension and Adoption 
+ The fast growth of mobile telephony in developing countries has introduced a new search 
+ technology that offers a few advantages over other other choices in terms of cost, (land-area-based/location) 
+ coverage and ease of use (Aker and Mbiti 2010). While radios can be used across all 
+ segments of people/of the group (over 55 percent of sub-Saharan African families listen to the 
+ radio weekly), they generally provide a limited range of information and offer only one-way 
+ communication ((related to information about people) and Health Surveys, different countries). Newspapers are 
+ mostly mainly located in city-based  areas, are expensive and are (unable to be used or understood) to (can't read or write) 
+ (groups of people/animals/things). Less than 19 percent of people in sub-Saharan Africa read a newspaper at 
+ least once per week, with a much smaller share in areas away from cities (DHS surveys, different 
+ countries). Landline coverage has been limited, with less than one landline subscriber per 
+ 100 people in 2008 (ITU 2009). Access to other search (machines/methods/ways), such as fax machines, email, and internet, is (in almost the same way) low. And finally, personal travel to different locations to get 
+ information not only needs/demands the cost of transport, but also the opportunity cost of an 
+ person's time. 
+ Aker and Mbiti (2010) provide an summary of the (machines/methods/ways) through which mobile phone 
+ telephony can affect money-based development in sub-Saharan Africa, including improved 
+ access to market information and coordination among agents; increased job creation; 
+ improved communication among social networks; and the development of new services, 
+ such as mobile banking. In that vein, this paper identifies six possible (machines/methods/ways) through 
+ which mobile phones could possibly improve farmers' access to information about 
+ farming-based technologies and adoption in general, as well as access to and use of farming-based 
+ extension services especially. 
+ How Mobile Phones can Improve Access to (Private) Information 
+ Mobile phones can improve access to and use of information about farming-based 
+ technologies, possibly improving farmers' learning. As Figure 2 shows, farmers require 
+ information on a variety of topics at each stage of the farming-based production process. In 
+ many developing countries, such information has usually/(in the past) been given via personal 
+ exchanges, radio and maybe landlines and newspapers. Compared with these (machines/methods/ways), 
+ 13The 
+ 
+ number of subscribers represents the number of active SIM cards in a country. This could either 
+ 
+ overestimate the number of subscribers (as one individual could have multiple SIM cards) or underestimate the 
+ number (as many people can use one phone and SIM). 
+ 
+ 7 
+ 
+ mobile phones can reduce (a lot) the costs of getting farming-based information. 
+ Figure 4 shows the per-search cost of price information for different types of search 
+ (machines/methods/ways). Mobile phones are much less expensive than the equal per-search 
+ cost of personal travel or a newspaper, yet more expensive than landlines or radio. 
+ Anyway, landlines are not easily available in most areas of the country, and radio 
+ only provides price information for clearly stated/particular products and markets on a weekly basis. 
+ The reduction in search costs connected with mobile phones could increase farmers' access 
+ to information via their private sources, such as members of their social network (Baye, 
+ Morgan and Scholten 2007, Aker 2010, Aker and Mbiti 2010). This could speed up or 
+ increase farmers' contact with other adopters in a social network, by that/in that way allowing farmers 
+ to learn from more "neighbors'" trials of a new technology or watch/notice those trials more 
+ often.14 While this could possibly increase the rate of technology adoption, it could 
+ also reduce the rate of adoption in the presence of learning externalities (Foster and 
+ Rosenzweig 1995, Foster and Rosenzweig 2010).15 
+ How Mobile Phones can Increase Access to Information via Farming-based Extension 
+ Services 
+ Reduced communication costs could not only increase farmers' access to (private) 
+ information, but also to public information such as those gave/given via farming-based extension 
+ services. Figure 5 shows the not important cost (carried by the extension system) of providing 
+ farming-based price information, either via extension agent's visits, short message service (SMS) 
+ or a call-in hotline, based upon data from a SMS-based market information service in Niger. 
+ The not important cost of providing market information via SMS is cheaper than providing the 
+ same information via an added extension visit, and is equal to providing the same 
+ information via radio.16 Reducing the costs of spreading around information could increase the 
+ extension system's (land-area-based/location) scope and scale, as well as help more frequent and good 
+ communications between extension agents and farmers. This could, in turn, improve the 
+ 14In 
+ 
+ addition to the hit/effect of mobile phones on getting information on a technology, mobile phones could 
+ 
+ speed up information flows within a social network, by that/in that way increasing access to informal credit, savings and 
+ insurance and in that way affecting a farmer's adoption decision (Aker and Mbiti 2010). 
+ 15Increased 
+ 
+ access to information - either via learning by doing or learning from others - will not necessarily lead 
+ 
+ to higher rates of adoption, as learning that a new technology is not effective will reduce adoption in the next 
+ period (Foster and Rosenzweig 2010). There are also two potential opposite (or fighting against) effects of social networks on the 
+ adoption decision: an individual farmer's (reward or reason for doing something) to adopt increases as the number of members in his or her 
+ social network using the new technology increases; yet this also creates an (reward or reason for doing something) to delay adoption due to freeriding behavior and information spillovers (Foster and Rosenzweig 1996). 
+ 16While 
+ 
+ the fixed costs for building radio towers and mobile phone base stations differ by location and 
+ 
+ country, within a given country or location, the fixed costs of building a radio tower are just like those of a 
+ mobile phone base station. In many cases, however, the costs of building the radio tower are carried by the 
+ (government). If these (set of machines) costs are included, then radio is (compared to other things) more expensive as compared with 
+ mobile phone technology, whose (set of machines) costs are usually carried by the (people and businesses that are not part of the government). 
+ 
+ 8 
+ 
+ quality (or value) of the information services gave/given. Yet the hit/effect of these reduced costs 
+ on farmers' adoption decisions will depend upon the ability of such information to serve as 
+ substitute for in-person (machines/methods/ways). 
+ How Mobile Phones can Improve Farmers' Management of Input and Output 
+ Supply Chains 
+ A few studies have highlighted the importance of risk and supply-side restrictions as 
+ (blocking things) to farming-based technology adoption (e.g., Suri honest/appearing soon). By reducing 
+ communication costs, mobile phones could help (not wanting to do anything dangerous) farmers in identifying potential 
+ buyers for their products over larger areas and at important moments, by that/in that way 
+ reducing price risk and possibly increasing the net benefits of the technology. (in almost the same way), 
+ improved communication between farmers and traders could also help the provision of 
+ inputs to areas away from cities, possibly reducing their cost. 
+ Mobile Phones can help the Delivery of Other Services 
+ Over the past few years, mobile phone operators have developed a variety of mobile services 
+ and applications in developing countries. The most well-known/obvious of these is mobile money 
+ moves (from one place to another) (known as m-money), a system within which/by which money can be moved (from one place to another) to different 
+ users via a mobile phone. M-money computer programs can help the delivery of (completing/matching) 
+ services to farmers (such as access to credit or savings, or farming and health insurance), 
+ by that/in that way helping to address some of the "missing markets" that can hold back technology 
+ adoption (Foster and Rosenzweig 2010). 
+ How Mobile Phones can Increase Responsibility of Extension Services 
+ Simple mobile phones can be used as a means of collecting both farmer and agent-level data, 
+ by that/in that way improving the responsibility of extension services (Dillon 2011). Voice and SMS can 
+ be used to collect data on farmers' adoption, costs and yields on a more frequent basis, 
+ rather than waiting for once-a-year farming-based surveys, when recall data on costs and production 
+ are often subject to measurement error. Also, mobile phones can be used to (check for truth/prove true) 
+ agents' visits, almost the same as  what has been done with cameras in Indian schools (Duflo, Hanna 
+ and Ryan 2007). Both of these computer programs could improve the watching of extension 
+ systems, an often-noted restriction. 
+ How Mobile Phones can Increase Communication Linkages with Research Systems 
+ By improving the communication flows, mobile phones could possibly strengthen the link 
+ between farmers, extension agents and research centers, and the other way around, too - by that/in that way 
+ overcoming criticism of the "disconnect" between the two in many developing countries. 
+ 
+ 9 
+ 
+ 4. 
+ 
+ Using ICTs in Farming-based Extension 
+ 
+ For 20 years, "traditional" forms of ICTs have been used in advice-giving service provision. 
+ Radio and TV programs regularly feature weather and farming-based information in developing 
+ countries, and (away from cities) telecenters have given information on price and quality (Goyal 2010). 
+ In some countries, national ministries of farm-related have tried to (combine different things together so they work as one unit) ICTs into 
+ information delivery services, specifically by beginning and building on district information centers (FARA 
+ 2009). With the growth of mobile phone coverage, many of these efforts have moved 
+ away from "traditional" ICTs to mobile telephony, including voice, SMS and internet-based 
+ services. Table 3 provides a survey of these projects, labeled by the method of 
+ spreading around (voice, radio, SMS and internet) and their first (or most important) purpose (FARA 2009). 
+ ï· 
+ Voice-based information delivery services mostly include telephonea 
+ based information delivery services that provide guidance on farming methods and 
+ market access. Some of these services use callain centers or hotlines for farming-based 
+ extension support. The (machines/methods/ways) range from the use of a simple telephone - 
+ such as landlines or mobile phones - to more complicated technology and 
+ figuring out/calculating computer programs (FARA 2009). 
+ ï· 
+ Radio dial-up and broadcasts include regular radio broadcasts that 
+ provide market prices or other farming-based information, as well as dialaup radio that 
+ feature a series of short part sound  programs (FARA 2009). The radio system 
+ often features a regularly updated menu of prearecorded farming-based content. In 
+ some cases, the systems allow farmers to ask questions via SMS and the responses 
+ are spread around via the radio (FARA 2009). 
+ ï· 
+ SMS-based extension services mostly use message-based (raised, flat supporting surfaces) to 
+ collect and spread around information. This includes data collection via a simple SMSbased list of questions; sending an SMS-based code to request information (on market 
+ prices or farming-based production) and receiving the response via SMS; and receiving 
+ mass SMS on farming-based topics (FARA 2009). 
+ ï· 
+ E-learning programs usually include telecenters and internet small stores/computers that 
+ allow farmers to access computers and the internet for agriculture-related 
+ information. 
+ The information gave/given via these different (machines/methods/ways) includes market prices, weather, 
+ technical guidance and suppliers and buyers in local markets. A majority of these services focus 
+ on market prices, weather and transport costs, most likely because this information is easy to 
+ collect and spread around, goal and less likely to experience/likely to get measurement error (although quickly 
+ outdated and constantly changing). Projects that provide information on farming-based 
+ practices and inputs are (compared to other things) rare, possibly because such information is more detailed 
+ and hard to bring across. 
+ 
+ 10 
+ 
+ While all of these (machines/methods/ways) offer possible other choices to traditional means of 
+ spreading around information, there are challenges to using ICT in farming-based extension 
+ systems. First, the use of ICT-based farming-based extension is highly dependent upon the type 
+ of information gave/given. For example, while information on market prices and weather 
+ might be easily spread around via mobile phones and therefore replace traditional extension 
+ (machines/methods/ways), more detailed information on farming-based practices and inputs might be 
+ (completes/goes along with). Second, SMS-based (raised, flat supporting surfaces) - which are often the easiest to establish - can 
+ only hold limited information and require that users have some reading and writing ability skills and 
+ (related to computers and science) knowledge. Such services can be useful in providing simple or (done or made to look the same way every time) 
+ information but are as easily able to change for more complex information exchanges. Third, 
+ while voice-based Q&amp;A services overcome the limits of textabased (raised, flat supporting surfaces) and can 
+ provide more detailed information, they can be complicated to develop or require machines 
+ to produce natural speech. Some early efforts have made sound  files (easy to get to, use, or understand) to farmers 
+ through the use of mobile phones (Kenya, Uganda and Zimbabwe). Finally, since many of 
+ these computer programs and services have been developed and managed by the (people and businesses that are not part of the government), the 
+ use of these efforts for farming-based extension will most likely require some sort of publicprivate partnership. All of these factors suggest that ICT-based extension services could 
+ basically change the way in which farming-based information is given in developing 
+ countries, and highlights the need for testing whether such approaches are more effective 
+ and (producing a lot with very little waste) in providing information to farmers in developing countries. 
+ 
+ 5. 
+ 
+ Measuring the Hit/effect of ICT-Based Farming-based Extension Programs 
+ 5.1. Identifying the Hit/effect of ICT-Based Farming-based Extension 
+ 
+ Mobile phones are one tool among many for spreading around and collecting information on 
+ farming-based technologies, produces and prices in developing countries. Before scaling up such 
+ helping actions, it is necessary to test the hit/effect of existing ICT-based approaches. Such 
+ tests should try to face/deal with the following questions: 
+ 1. 
+ What is the hit/effect of ICT-based farming-based programs on farmers' 
+ knowledge, farming-based adoption and welfare? In other words, are changes in 
+ results watched/followed before and after the helping action due to the ICT-based 
+ helping action or other factors? This needs/demands identifying a (proof that one thing definitely causes another) effect of the program, 
+ either the average treatment effect (ATE), the average treatment effect on the 
+ treated (ATT) or the plan/purpose to treat (ITT). 
+ 2. 
+ Are the watched/followed changes in results due to the ICT project or 
+ access to the mobile phone? Sometimes, ICT-based projects provide 
+ people (who were part of a study, etc.) with access to mobile phones. Since mobile phones can affect farmers' 
+ access to information and services through different channels, it is necessary to 
+ untangle the hit/effect of the ICT-based service from the hit/effect of mobile phone 
+ usage. 
+ 
+ 11 
+ 
+ 3. 
+ What are the (machines/methods/ways) behind the treatment effect? In other words, 
+ how (or through what pathway) does the ICT-based farming-based extension service 
+ change farmers' access to information, learning and adoption? 
+ 4. 
+ How does the guess of the treatment effect differ by farmer type 
+ and the type of information gave/given? Beyond the average effect of the program, 
+ testing the mixed-up nature of the treatment effects among different groups can 
+ provide important information for scale-up. 
+ 5. 
+ What are the possible spillovers of the ICT-based program, both on 
+ other project people (who were part of a study, etc.) and non-people (who were part of a study, etc.)? An advantage of mobile phone 
+ technology is that it can be shared among many users, by that/in that way allowing non-users to 
+ possibly benefit from the service. While such spillovers can complicate the 
+ identification of the treatment effect, including their hit/effect into the treatment 
+ effect is necessary in order to understand the patterns of the technology and 
+ technology adoption. 
+ 6. 
+ Is the ICT-based approach cost effective as compared with 
+ traditional (machines/methods/ways)? Is it a substitute or complement for traditional 
+ approaches? 
+ 7. 
+ Are the results externally valid? In other words, are they related to 
+ other areas within the same country, other (groups of people/animals/things) or other countries? If so, 
+ under what conditions? 
+ These questions provide a possible (solid basic structure on which bigger things can be built) for designing hit/effect tests of ICTbased farming and farming-based extension programs. The next sections will discuss some of 
+ the clearly stated/particular challenges to identifying the hit/effect of these programs and offer some 
+ recommendations for managing and doing such tests 
+ 5.2. Threats to Identifying Hit/effect of an ICT-Based Farming-based Program 
+ A simple two-period econometric model of the hit/effect of the ICT-based program might take 
+ the following form: 
+ Yit = Î´ + Î±dit + X'itÎ³ + Z'vÏ + Î¸t + Î¸v + Î¸i +uit + Îµvt 
+ 
+ (1) 
+ 
+ where Yit is result (number or thing that changes) of interest, such as farmers' farming-based knowledge, technology 
+ adoption, yields, farm-gate prices or welfare; dit is an indicator (number or thing that changes) for assignment of 
+ individual i into the ICT-based farming-based extension program at time t; Xit is vector of 
+ farmer-level (features/ qualities/ traits); Zv is a vector of village-level (a measure of what occurs naturally/sports boundary line) (features/ qualities/ traits); and Î¸t, Î¸v , 
+ and Î¸i are time-, village- and individual-level fixed effects, (match up each pair of items in order).17 uit is unseen 
+ 17Time-varying 
+ 
+ farmer-level (features/ qualities/ traits) (X'it) may be preferred to (a measure of what occurs naturally/sports boundary line) (features/ qualities/ traits), which would be 
+ 
+ removed by fixed effects or first-differences estimators. 
+ 
+ 12 
+ 
+ farmer ability or weird shocks and Îµvt is a common village-level error part. 
+ Equation (1) is a difference-in-differences (DD) (detailed description of exactly what is required), comparing the group means 
+ of the treatment and control group between the pre- and post period. The model could be 
+ changed in a variety of ways, including controlling for Î¸it (an interaction between farmer 
+ fixed effects and season fixed effects) or learning (by including the number of adopters in a 
+ farmer's social network) (Foster and Rosenzweig 2010). 
+ There are many challenges to identifying the treatment effect, Î±.18 While some of these 
+ threats are common to all impact tests, some are (designed only for/happening only within)  ICT-based farming-based 
+ extension programs. These include: 
+ ï· 
+ Identifying the appropriate (going against known facts) for the treatment group. 
+ Assuming that the possible results are ((may or may not happen, depending on something)ly) independent of the 
+ treatment status (dit), then Î± will measure the treatment effect of dit on Yit. 
+ Anyway, this needs/demands controlling for possible differences in (capable of being seen and known) or 
+ unobservable (features/ qualities/ traits) by beginning and building on a proper (going against known facts) group (de 
+ Janvry, Dustan and Sadoulet 2010). 
+ ï· 
+ Securing/making sure of common types of information across treatment groups. 
+ Most hit/effect tests represent the program by a binary indicator (number or thing that changes) (dit ). 
+ In the case of ICT-based farming-based extension programs, however, there can be 
+ many treatments, depending upon the (machine/method/way) used for spreading around the 
+ information (e.g., SMS, voice, in-person visits, SMS and in-person visits). While this 
+ is easily resolved econometrically by including different indicator (numbers that change/things that change), the 
+ first (or most important) challenge is in the (understanding/ explanation) of the treatment effect; each treatment may 
+ not only differ in the method of spreading around but also the type (or quality) of information 
+ gave/given. For example, voice-based services permit farmers to ask questions and 
+ receive more described/explained information, whereas in-person visits can allow extension 
+ agents to (show or prove) a new way of doing things. This hints that the treatment effect will 
+ capture the hit/effect of both the (machine/method/way) and the information brought across.19 
+ ï· 
+ Untangling the effects of the mobile phone from hit/effect of the 
+ ICT-based extension. If the ICT-based farm-related program helps people (who were part of a study, etc.)' 
+ access to a mobile phone, mobile phone ownership or usage might have a wealth 
+ effect, by that/in that way decreasing the relative costs of an farming-based technology or 
+ 18The 
+ 
+ (understanding/ explanation) of Î± will depend upon the design of the program. For example, in programs where the ICT- 
+ 
+ based extension service is randomly assigned at the community-level, there may not be a one-to-one relationship 
+ between assignment to the extension service and a household or farmer's decision to use the service. In this case 
+ there is (not totally pure/not totally correct) obedience, and standard average treatment effects may not be guessed. Rather, an Plan/purpose 
+ to Treat (ITT) or Local Average Treatment Effect (LATE) will be guessed for compliers (Imbens and Angrist 
+ 1994, Angrist and Imbens 1995). 
+ 19 
+ 
+ Using an indicator (number or thing that changes) for hit/effect tests also does not take into account the strength of treatment, 
+ 
+ which is possibly endogenous. 
+ 
+ 13 
+ 
+ increasing the benefits connected with that technology. This can therefore make it 
+ hard to untangle the benefit of the mobile phone from the benefit of the ICTbased farming-based extension program. 
+ ï· 
+ Separating out the mobile phone adoption decision from the 
+ farming-based adoption decision. In most traditional farming-based extension 
+ programs, (using/getting to) information only needs/demands the opportunity costs of the farmer's 
+ time. In the case of ICT-based farming-based extension, getting that same 
+ information also needs/demands how to use the new mobile phone technology. This dual 
+ adoption decision can affect a person (who was part of a study, etc.)'s decision to use the ICT-based farm-related 
+ system. 
+ ï· 
+ Controlling for spillover effects. Spillover produces within villages are 
+ common for traditional farming-based extension programs. Yet such programs usually 
+ have (almost nothing/very little) spillover effects between villages, unless extension agents or farmers in 
+ treated villages share information with those in control villages. With access to 
+ mobile phones, farmers can contact members of their social networks more 
+ easily, by that/in that way increasing the chance of inter-village spillovers. This can also lead 
+ to wider general balance effects, especially if farmers change production 
+ patterns or marketing behavior and are focused/mainly located within a specific (land-area-based/location) 
+ location. 
+ 5.3. Potential Field Experiments in ICT-Based Farming-based Extension 
+ A variety of econometric ways of doing things can be used to guess equation (1) and address 
+ the possible threats to truth/trueness identified in Section 5.2. These include natural experiments 
+ or randomized controlled trials (RCTs); moving backward (instance where things are uneven and interrupted) design (RDD); matching; 
+ difference-in-differences; and instrumental (numbers that change/things that change). Each approach has relative strengths 
+ and weaknesses in terms of internal and external truth/trueness (de Janvry, Dustan and Sadoulet 
+ 2010) and practical putting into use. This section proposes some general ways of thinking/basic truths/rules for 
+ conducting tests of ICT-based extension programs, and provides two examples of 
+ setting up field experiments to guess the hit/effect of ICT-based farming programs. 
+ There are some general ways of thinking/basic truths/rules that can be used to guess the effect of ICT-based 
+ farming-based extension programs. These include focusing on microeconometric impact analysis, 
+ which allows for a more careful identification of the appropriate (going against known facts) (de Janvry, 
+ Dustan and Sadoulet, 2010); collecting pre- and post data for treatment and comparison groups, so that 
+ DD can be used to control for time-different unobservables on the basis of the common 
+ trend idea (you think is true); assigning treatments at the village level (rather than the individual, household or 
+ plot level) to (make small) possible spillovers on the comparison group20; collecting data on social 
+ 20 
+ 
+ Anyway, sometimes, watching/ noticing/ celebrating/ obeying the (behavior pattern)s of learning could be of interest. In this case, while 
+ 
+ treatment could be at the village or cooperative level, different plans could be used to target opinion leaders 
+ or decision-makers to better understand how this affects information-sharing and adoption. 
+ 
+ 14 
+ 
+ networks within villages, in order to identify possible learning across people; assigning one 
+ group to receive "(fake medicine)" phones (i.e., phones that are givenout access to the ICT-based 
+ extension service), in order to identify the hit/effect of the ICT-based service from mobile 
+ phone usage; and using random assignment, randomized phase-in or clear-cut judging requirements to assign units 
+ into the treatment and control groups, so that selection bias can be controlled for more 
+ clearly. More clearly stated examples of potential experimental setups are given below. 
+ Example #1. A SMS-Based Market Information System (MIS) Experiment 
+ Over 35 percent of the ICT-based programs in Table 3 provide market information to 
+ farmers, either via radio, SMS or internet. Traditional tests of these programs compare 
+ farmers' results (e.g., prices and sales) before and after the program, or compare the 
+ results of farmers with access to the program to those without access. Yet simple prepost or (happening at the same time) comparisons will not control for potential selection bias and do 
+ not address some of the key questions and threats organized and listed in Sections 5.1 and 5.2. 
+ A potential experimental design for guessing the effect of an ICT-based MIS program 
+ could include three treatments and one control: 
+ ï· 
+ 
+ T1: Regular market information system offered 
+ 
+ ï· T2: Regular market information system offered and "(fake medicine)" phones 
+ distributed 
+ ï· T3: SMS-based market information system offered and mobile phones 
+ distributed 
+ ï· 
+ 
+ Comparison: No market information or mobile phones 
+ 
+ If these treatments are randomly assigned across different groups, then this would secure/make sure of 
+ independence between the treatment status and the possible results, by that/in that way allowing us 
+ to have a (proof that one thing definitely causes another) (understanding/ explanation) of the treatment effect.21 What's more, since people in T2 
+ would get mobile phones but not access to the SMS-based MIS, we would be able to 
+ untangle the wealth effect of the mobile phone from the hit/effect of the ICT-based 
+ information system (e.g., comparing T2 with T3). We could further guess the demand for 
+ such services by changing the price of the service in T3, possibly by offering the service at 
+ full cost, a paid-for cost or free. And finally, by assigning treatment at the village level, this 
+ would (make small) the possible spillover effects across villages.22 
+ 21 
+ 
+ Since there may be (not totally pure/not totally correct) take-up of the MIS system - in other words, farmers may be assigned to 
+ 
+ treatment but not choose to use the service - then we could measure either the ITT or the LATE. For a 
+ discussion of the ideas (you think are true) needed/demanded for LATE in (set of machines) programs, see Bernard and Torero (2011). 
+ 22We 
+ 
+ could also change the field experiment to guess the treatment effect for specific sub-groups (e.g., women 
+ 
+ or men, different educational levels), or by targeting particular people or opinion leaders within the group. 
+ 
+ 15 
+ 
+ Despite the improvements of this approach as compared with a simple first difference 
+ analysis, there are a few weaknesses to this experimental design. First, even a "basic" field 
+ experiment with three treatment groups and one control group would require a sample size 
+ of between 200-300 villages, depending upon the power calculations. This problem could be 
+ worsened if there is weak obedience among those assigned to the program, especially if 
+ information via the extension service is shared between users and non-users.23 Second, the 
+ design does not address the potential general balance effects of the program. If farmers 
+ start buying and selling in new markets due to the MIS, then this will affect local demand 
+ (supply) on those markets and possibly affect producers and people from comparison 
+ villages. For this reason, this design will only esti<p><strong>NOTE: This document is incomplete. It was shortened to the maximum document length of 50,000 characters.</strong></p><div style="clear:both">&nbsp;</div>

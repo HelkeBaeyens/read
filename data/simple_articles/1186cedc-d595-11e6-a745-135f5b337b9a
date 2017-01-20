@@ -1,0 +1,1443 @@
+AGRICULTURAL 
+ 
+ ECONOMICS 
+ ELSEVIER 
+ 
+ Farming-based Money flow 27 (2002) 333-354 
+ www.elsevier.com/locate/agecon 
+ 
+ Land use patterns in the central highlands of Vietnam: 
+ a (related to space or existing in space) model combining village survey data with 
+ pictures from planes (understanding/ explanation) 
+ Daniel Muller*, Manfred Zeller 
+ Institute of (away from cities) Development, Georg-August University of Gottingen, 
+ Waldweg 26, 37073 Gottingen, Germany 
+ 
+ Abstract 
+ The paper (asks lots of questions about/tries to find the truth about) geo-physical, agro-(related to surrounding conditions or the health of the Earth), and (related to how much money and power people have) (things that decide other things) of past land use change in two 
+ districts of Dak Lak area of control/area of land in the Central Highlands of Vietnam and tests the influence of (away from cities) development policies 
+ on land cover change. Landsat satellite images from the years 1975, 1992 and 2000 are understood/explained to detect land cover in two 
+ time periods. A survey in randomly selected villages provides first (or most important) recall data on (related to how much money and power people have) and policy (numbers that change/things that change) 
+ guessed to influence land use change. Secondary data on rainfall, soil suitability, and mountains, land, rivers, etc. was gotten from 
+ weather-related stations and from a digital soil map and digital elevation model. All data were (related to space or existing in space)ly referenced using 
+ (land-area-based/location) information systems (GIS) software. A reduced-form, multinomiallogit model is used to guess the influence 
+ of guessed (things that decide other things) on land use and the chances that a certain pixel has one of five land classes during either 
+ of the two periods. 
+ Results suggest that the first period from 1975 to 1992 was seen as land-intensive farming-based (act of something getting bigger, wider, etc.) and 
+ the (changing from one form, state, or state of mind to another) of forest into grass and farming-based land. During the second period, since 1992, the fast, more labour- and 
+ capital-intensive growth in the farming-based part/area was enabled by the introduction of fertiliser, improved access to (away from cities) roads 
+ and markets, and (act of something getting bigger, wider, etc.) of the watered area. These policies, combined with the introduction of protected forest areas 
+ and policies discouraging shifting (producing crops/helping something grow) during the second period reduced the pressure on forests while at the same time 
+ increasing farming-based working well and incomes for a growing population. Forest cover during the second period mainly 
+ increased due to the regeneration of areas earlier used for shifting (producing crops/helping something grow). 
+ Â© 2002 Elsevier Science B.V. All rights reserved. 
+ JEL classification: C 25; 0 13; R 14; R 22 
+ Keywords: Land use change; (chopping down trees); (land-area-based/location) information systems (GIS); (related to space or existing in space) modelling; Multinomiallogit; Vietnam 
+ 
+ 1. Introduction 
+ 
+ * Corresponding author. Tel.: +49-551-393901; 
+ fax: +49-551-393076. 
+ E-mail address: danielix@gmx.net (D. Miiller). 
+ URL: http://www.gwdg.de/&#126;uare 
+ 
+ Land use change, the physical change in land cover 
+ caused by human activities such as farming and silviculture, is a common thing/event connected with 
+ population growth, market development, technical 
+ and institutional invention of new things, and related (away from cities) development policy. Changes in land use can have different 
+ 
+ 0169-5150/02/$ - see front matter Â© 2002 Elsevier Science B.V. All rights reserved. 
+ PII: S0169-5150(02)00073-7 
+ 
+ 334 
+ 
+ D. Muller; M. Zeller! Farming-based Money flow 27 (2002) 333-354 
+ 
+ results on money-based growth, the level and distribution of income, and on valuable things from nature such 
+ as (lots of different living things all existing together), communities, water, and soils. Land 
+ use change leads to change in-and is influenced 
+ by-socio-money-based indicators such as farming-based 
+ working well, wealth, and workers. A better understanding of the complex interactions of 
+ these changes over time can enable decision makers at different policy levels to design and put into use (within a large area) changed/ready policy helping actions which 
+ stimulate benefits and undo negative results of land use change by (thinking about/when one thinks about) the 
+ trade-offs among money-based, (related to surrounding conditions or the health of the Earth), and social goals in the process of (able to last/helping the planet) (away from cities) 
+ development. 
+ The paper came from from a larger research program 
+ that tries to test the hit/effect of policy, technology, (related to how much money and power people have), and geo-physical conditions on 
+ land use change and its related results on money-based 
+ growth, welfare, and the protection of forests. The research program is happening in two districts of Dak 
+ Lak area of control/area of land in the Central Highlands of Vietnam. 
+ Dak Lak shows an interesting case in the study of 
+ land use patterns with its plentiful forest useful things/valuable supplies, 
+ (related to a group of people with the same race, culture, religion, etc.) (many different kinds of people or things), high (entering a country) rates, and energetic 
+ farming-based and (related to how much money and power people have) development, especially during the last ten years. 
+ (related to space or existing in space) data analysis gives valuable ideas of 
+ processes of land use change and their hidden (under) 
+ causes. The paper employs (not very long ago) developed methods for combining data from a village-level survey 
+ with remote sensing data came/coming from Landsat images. Our goal is to analyse the influence of 
+ (related to how much money and power people have), agro-(related to surrounding conditions or the health of the Earth), geo-physical, and 
+ policy (numbers that change/things that change) on land use, using an ex-post research design and a reduced-form, (related to space or existing in space)ly referenced 
+ multinomiallogit model. 
+ After a brief description of major (popular things/general ways things are going) in farming-based and (related to how much money and power people have) development in the 
+ research area, we present the idea-based (solid basic structure on which bigger things can be built) and way(s) of doing things, including issues and related new and interesting methods employed in combining 
+ geo-referencing data from different sources, and 
+ present the guesses concerning (things that decide other things) of 
+ land use change. Section 3 presents results of the 
+ econometric model. We end with a discussion 
+ of results and their effects/results/suggestions for policy and future 
+ research. 
+ 
+ 2. Trends in population, farming-based growth, and 
+ land use in the research area 
+ The research area is located in Dak Lak area of control/area of land, 
+ the largest of a total of 63 areas in Vietnam. 
+ The area of control/area of land has a forest cover of 52% compared to 
+ 33% in the overall country (General (related to studying numbers) Office, 
+ 2001). Dak Lak has experienced high (entering a country) 
+ rates since Freeing/freedom Day in 1976. During the last 
+ ten years, its (process of people making, selling, and buying things) grew quickly. Major factors of 
+ growth include the rising population supported by 
+ in-traveling from other areas, increases in the 
+ farming-based and watered area, improved farming-based 
+ working well, and rising production and marketed 
+ (more than what's needed) in higher-value crops and animals. Apart 
+ from rice, the quickly growing cash crop production of mainly coffee and rubber, and more (not very long ago) 
+ pepper, is the major factor for the growth in farming-based exports from Vietnam (Minot and Goletti, 
+ 2000). (even though there is the existence of) once-a-year growth rates in the population of about 7.7% during 1975-1990 and 6.4% 
+ during 1991-2000, the huge farming-based growth 
+ enabled large increases in per person income during 
+ the 1990s. According to official data, forest cover in 
+ Dak Lak area of control/area of land has (lowered in number/got worse/gotten worse) steadily, especially 
+ where soil conditions allow large-scale coffee production. The basaltic soils good for coffee (producing crops/helping something grow) 
+ cover 40% of Dak Lak area of control/area of land (Dak Lak (related to studying numbers) 
+ Office, 2001). 
+ The research area is located in two districts (Lak 
+ and Krong Bong) in the southeastern part of Dak 
+ Lak area of control/area of land. Sixty percent of the whole area consisting of 2400 km2 is covered by forest. In 2000, the 
+ population in the research area was around 124,000 
+ residents (Dak Lak (related to studying numbers) Office, 2001). Population has doubled since 1981. Roughly 20% of the 
+ population growth was due to government-controlled 
+ (the act of moving people to live in a new place) programs in areas described/separated as new 
+ money-based zones (NEZ) following the fixed (producing crops/helping something grow) and (the act of moving people to live in a new place) program (FCRP) put into use 
+ mainly during the 1980s. Uncontrolled (entering a country) 
+ was strongest during the last ten years with high coffee 
+ prices stimulating traveling from Central and North 
+ Vietnam to the Central Highlands. However, the research area did not participate in the 'coffee boom' 
+ as much as other districts of the Central Highlands 
+ because only small areas of the two selected districts 
+ have the basaltic soil good for coffee production. 
+ 
+ D. Muller, M. Zeller/ Farming-based Money flow 27 (2002) 333-354 
+ 
+ Farming is the main source of income. Paddy 
+ is the most important crop with respect to the factors 
+ income share and area helped grow. Degrees of market 
+ integration differ significantly between villages and 
+ (groups of people related by culture, race, religion, etc.). (related to a group of people with the same race, culture, religion, etc.) Vietnamese (kinh) 1 have a long 
+ tradition of intensively growing (land with a layer of water) rice and marketing extra production to local traders. Their villages have a habit/desire to be located close to roads, and 
+ they usually market a large share of their farming-based 
+ production. On average, they own more paddy area 
+ per head, which they help grow more intensively than 
+ villages lived in by (related to a group of people with the same race, culture, religion, etc.) minorities. Before 1990, 
+ very little fertiliser and bug-killers were used in the research area. During the nineties, the adoption of new 
+ crops (maize and coffee), fertilisers (Urea and NPK), 
+ and bug-killers was (helped increase/showed in a good way) by governmental extension programs and related investments in the road and 
+ market (set of machines)s. Today, the second most important crop is maize, with blended varieties helped grow by 
+ 65% of families in the research area. Maize has 
+ turned into a major source of cash income during the 
+ last five years, especially for families which are 
+ not able to produce rice above their survival/income needs 
+ and lack good soil for coffee production. Animals 
+ is another important production activity; however, it 
+ will not be thought about/believed further in this article because of 
+ its minor importance for land use change in the area. 
+ For possible effects of animals on land use, see for 
+ example Cattaneo (2001). 
+ According to our analysis of the Landsat images, 
+ forests cover in 1990 accounted for 69% of the total research area. In 2000, forested area increased to 
+ 77%, only two total percentage points below the 
+ level watched/followed in 1975. At lower elevations and in locations close to villages and roads, bush land, open 
+ (cloth covering that shelters), and plant/wood forests win. Huge evergreen forests rule areas with heights above 
+ 600 m. Bush and plant/wood forests as well as young 
+ open (cloth covering that shelters) forests are found as secondary green plants 
+ on areas earlier used for upland (producing crops/helping something grow). About 
+ 7% of the research area belongs to nature reserves and 
+ 1 People of (related to a group of people with the same race, culture, religion, etc.) Vietnamese origin are called kinh people, 
+ which we will use (after this, in this document) to distinguish them from people 
+ belonging to (related to a group of people with the same race, culture, religion, etc.) minority groups (referred to as 'ethnic people'). 
+ Politically, both groups are Vietnamese people (who lawfully live in a country, state, etc.). Also note that 
+ we use the expression 'minority' in a purely (numbers-based) sense 
+ pointing to/showing that people belonging to (related to a group of people with the same race, culture, religion, etc.) 'minority' groups are 
+ outnumbered by the kinh in Vietnam. 
+ 
+ 335 
+ 
+ protected areas selected/named for forest healing/fixing and 
+ (lots of different living things all existing together) (protecting something from harm). Strict enforcement of forest 
+ protection over the last few years might have helped the 
+ (rebuilding/renewal) of forest cover in these areas to a fairly 
+ (a mixture of things that are all pretty much the same), closed (cloth covering that shelters) cover. 
+ 
+ 3. Way(s) of doing things 
+ 3.1. Idea-based (solid basic structure on which bigger things can be built) 
+ 
+ Our idea-based (solid basic structure on which bigger things can be built) draws heavily from 
+ the explanation of caused invention of new things (Boserup, 1965; 
+ Ruthenberg, 1980; Ruttan and Hayami, 1984). We 
+ distinguish two key processes of land use change as 
+ a source for increasing farming-based production: first, 
+ farming-based (act of something getting bigger, wider, etc.) into (before that/before now) rude 
+ areas, which usually happens at an long/big and 
+ constant (related to computers and science) level; and second, farming-based 
+ (process by which something becomes stronger or worse) on already (helped to grow) land. (process by which something becomes stronger or worse) involves the substitution of land with labour 
+ or capital-intensive technology such as crop-watering/rinsing with water, 
+ improved seeds, and fertiliser. Boserup (1965) and 
+ Ruthenberg (1980) focuse the responses of families, communities, and (communities of people) to pressures and 
+ opportunities caused by (coming from the outside of something) shift factors such 
+ as population growth, improvement of (away from cities) road networks, and investments in markets and the farming part/area enabling the introduction of higher-value 
+ repeating crops. In the research area, added/more pressures on land use change include the introduction of 
+ protected areas during the 1990s, and a more effective 
+ enforcement of state policies discouraging shifting 
+ (producing crops/helping something grow). 
+ These policies and driving forces at the macro and 
+ (related to a large area) levels cause changes in land use begun/tried 
+ by local agents (Pender et al., 1999; Scherr et al., 
+ 1996; Templeton and Scherr, 1997). With the switch 
+ from a planned (away from cities) (process of people making, selling, and buying things) to a household responsibility system in the early 1990s, changes in prices, 
+ transaction costs, and availability of technology caused private farmers and businesspersons to (change to make better/change to fit new conditions) their 
+ land use patterns quite quickly, as can be seen in 
+ Dak Lak Area of control/area of land. More than that, the Vietnamese policy 
+ change towards more market (direction of pointing/way of thinking/information meeting) was 
+ supported by significant public investments in the (away from cities) (set of machines) and farming-based extension services, 
+ which (helped increase/showed in a good way) the adoption of new technologies, 
+ 
+ 336 
+ 
+ D. Muller, M. Zeller/ Farming-based Money flow 27 (2002) 333-354 
+ 
+ crops, and animal farming/managing money systems. As an indication 
+ for the scale of improvement in the (away from cities) (set of machines), 
+ the average distance from a village to an all-year road 
+ in the research area decreased from 18 to 6 km between 
+ the two periods (being thought about carefully). Apart from policy 
+ and (related to how much money and power people have) factors, changes in the use of land 
+ by farming or forestry are figured out by/decided by a range of 
+ mainly time-invariant, natural conditions (Ruthenberg, 
+ 1980) such as rainfall, mountains, land, rivers, etc., soil quality, and 
+ other geo-physical and agro-(related to surrounding conditions or the health of the Earth) (numbers that change/things that change). 
+ Chomitz and Gray (1996) developed a widely referred to 
+ (related to space or existing in space)ly clear model based on survey and satellite 
+ data from Belize. They tested the effect of roads on 
+ land use and employed a land rent model based on explanations developed by Ricardo and von Thiinen. Nelson 
+ and Hellerstein (1997) guessed a almost the same  model for 
+ Mexico, including corrections for (related to space or existing in space) dependence. 
+ Both models depend on satellite data to get land cover 
+ and employ geophysical data and limited secondary 
+ information for (related to how much money and power people have) (features/ qualities/ traits) as (things that you control (like study times), that cause other things to change (like test scores)). 
+ Following the idea-based (solid basic structure on which bigger things can be built) of caused 
+ invention of new things and taking into account recent advances 
+ in the books using (related to space or existing in space) analysis in combining 
+ geo-physical and (related to how much money and power people have) data,2 we explain 
+ land use change as a function of geophysical (numbers that change/things that change) (level and variance of rainfall, soil suitability, 
+ the height and slope of land), endogenous (and 
+ therefore fell behind) population growth, (related to how much money and power people have) 
+ village (features/ qualities/ traits), and operational (numbers that change/things that change) for 
+ measuring the (related to space or existing in space) placement of policy-caused investments in road and market (set of machines)s and the 
+ introduction of new farming-based technology and crops. 
+ We will explore the (proof that one thing definitely causes another) relationships between these 
+ (numbers that change/things that change) in a (related to space or existing in space)ly clear (solid basic structure on which bigger things can be built) and attempt 
+ to number their (pertaining to each person or thing) direction and importance. 
+ 3.2. Sources and methods used for collecting data 
+ This section briefly describes the (detailed description of exactly what is required) of 
+ the left-hand-side changeable land cover3 and distin2 As this special issue features reviews of (related to space or existing in space) modeling 
+ approaches for explaining changes in land use, we have chosen to 
+ not include a review section in this paper. Other reviews include 
+ Kaimowitz and Angelsen (2002) and van der Veen and Otter 
+ (2001). 
+ 3 Exactly defined, land cover is the (bio) physical cover of the 
+ land surface and immediate subsurface. Land use, on the other 
+ 
+ guishes different categories for the hidden (under) guessed (things that decide other things) as right-hand-side (numbers that change/things that change). The 
+ right-hand (numbers that change/things that change) are separated into geophysical 
+ (numbers that change/things that change) mainly deciding/figuring out the natural farming-based 
+ possible, (numbers that change/things that change) describing the (related to how much money and power people have) 
+ village (features/ qualities/ traits) influencing land use, and 
+ policy-caused (numbers that change/things that change). 
+ 3.2.1. Land cover data 
+ Changes in land cover were measured using time 
+ series of satellite data. Landsat images for the research area were visually translated for  the years 
+ 1975 (multi-(ghost-related/rainbow-related) scanner, MSS), 1992 ((related to underlying messages and morals in a story) 
+ mapper, TM), and 2000 (improved (related to underlying messages and morals in a story) mapper, ETM). 4 All images were taken in the spring 
+ season between March 4th and April 7th. Because of this, 
+ they stem from the same cropping season and from 
+ similar (related to the Earth's weather) conditions. This improves the 
+ (understanding/ explanation) as the (ghost-related/rainbow-related) reflection of land cover 
+ is easier to compare. Also, (not very long ago) updated 
+ 1:50,000 UTM maps were scanned, geo-referenced, 
+ and merged to get a consistent set of base information. These maps allow the checking (for truth) of land 
+ cover description/separation using added/more point information 
+ and linear features such as outlines, roads, and rivers. 
+ The (understanding/ explanation) resulted in land cover maps, which 
+ point to/show physical land cover of the (pertaining to each person or thing) years 
+ for the major land use classes. Overlays produce 
+ (numbers-based) guesses of changes in land cover over 
+ time. 
+ For the econometric analysis, the land cover data 
+ was grouped into five classes, which were used for 
+ later analysis: 
+ (1) mixed farming-based land, including cash and food 
+ 
+ crops as well as plots under shifting (producing crops/helping something grow); 
+ (2) paddy fields, both with one and two crops a year; 
+ (3) closed (cloth covering that shelters), dense forest; 
+ (4) open (cloth covering that shelters), mixed and secondary forest; 
+ 
+ hand, describes human employment of that get. In that sense, 
+ e.g. hunting would be a kind of land use while shrub could be 
+ the similar cover. However, in books the two are used 
+ almost the same thing/sounding the samely. For the purposes of this paper, we will use 
+ 'cover' to represent the categories of the (things that change (like test scores) because of other things that you control (like study times)) and 
+ refer to land 'use' when understanding/explaining the results of the analysis. 
+ 4 To match remote sensing data with recall information, 
+ cloud-free satellite images from 1980 to 1990 should have been 
+ used. They were, however, not available. 
+ 
+ D. Muller; M. Zeller/Agricultural Money flow 27 (2002) 333-354 
+ 
+ (5) mixed grass land containing plant/wood, bush, and 
+ shrub as well as re-growing shifting (producing crops/helping something grow) 
+ fields. 5 
+ 3.2.2. Geophysical data 
+ Mostly, data on geophysical 
+ (numbers that change/things that change) decide/figure out the farming-based potential built into a clearly stated/particular plot. Geophysical (numbers that change/things that change) include 
+ rainfall-time series, soil types, elevation, and slope 
+ values. Rainfall data comes from/is caused by five rainfall stations 
+ in, and a few others around the research area. Daily 
+ time series were available starting from Freeing/freedom 
+ Day in 1976. We calculated the yearly mean and the 
+ variance of daily rainfall amounts for both time periods thought about/believed in the data analysis. 6 Continuous surfaces for these layers were created by figuring out the 
+ point coverage with a regularised spline interpolator. 
+ A digital soil map (DSM) on a scale of 1:250,000 
+ has been reclassified into nine suitability classes for 
+ paddy and mixed farming-based production with 'one' 
+ showing the most good soils and 'nine' the least 
+ good soils. The suitability classes are based on interviews with soil experts from the area. The digital 
+ elevation model (DEM) is based on outline lines from 
+ American topographic UTM maps, scaled at 1:50,000. 
+ The DEM has a (related to space or existing in space) (ability to display or measure very small things) of 50 m x 50 m. 
+ Slope degrees were calculated from this DEM. 
+ 3.2.3. Socio-money-based village (features/ qualities/ traits) 
+ A village survey was done in 101 randomly 
+ selected villages out of a total of 191 villages in the 
+ research area. The survey provides first (or most important) data on the 
+ current status and changes in land use practices since 
+ Freeing/freedom Day in 1975, and on the causes of these 
+ changes and their effects on money-based, (related to how people and cultures interact), 
+ 5 Field checking (for truth) shows/tells about that most shifting (producing crops/helping something grow) plots, 
+ which were in unplanted for one or two years, were still classified 
+ as farming-based land. Longer unplanted periods result in the category 
+ 'mixed grassland.' 
+ 6 The rain-fed cropping season is almost all-year-round, and 
+ only 4 months of the year, (in other words) December-March, are carefully thought about/believed 
+ to be the dry season. During this dry season, however, there is 
+ large amounts of difference/different version with respect to the beginning/graduation ceremony and end 
+ of rainfall during these months due to (related to a large area) (many different kinds of people or things) in height 
+ and micro-climate (closeness to forests). Rainfall during the dry 
+ season influences soil moisture for the planting season and has an 
+ effect on water availability in semi-technical crop-waterings/rinsings with water systems 
+ that use collected rainfall water as a source. Therefore, we chose to 
+ calculate the mean and variance of rainfall data for the whole year. 
+ 
+ 337 
+ 
+ and (related to surrounding conditions or the health of the Earth) (numbers that change/things that change). Recall ways of doing things were 
+ employed to get guesses from villagers for Freeing/freedom Day in 1976, 1980 and 1990.7 Added/more 
+ (related to how much money and power people have) indicators were collected from interviews with shared people's (groups that decide or promote things) and 
+ from secondary sources such as official government 
+ statistics. 
+ A metric (number or thing that changes) was created for the age of the villages in years since their foundation. Villages in theresearch area are usually lived in by kinh or (related to a group of people with the same race, culture, religion, etc.) minority people. Mixed villages do not exist, apart from 
+ one or two Vietnamese families, who usually own a 
+ shop in an (related to a group of people with the same race, culture, religion, etc.) village. For that reason a dummy 
+ (number or thing that changes) coded one for an (related to a group of people with the same race, culture, religion, etc.) minority village, and 
+ zero otherwise, was included to (take control of) the effect of 
+ (related to a group of people with the same race, culture, religion, etc.) (combination of different substances, objects, people, etc.) on patterns of land use. Another 
+ dummy was created for villages awarded the status of 
+ a 'hero village.' Villages, which helped the Northern Vietnamese government in the fight against the 
+ South and the USA were awarded this title after the 
+ war. A (number or thing that changes) for land good for permanent farming-based production was figured out/calculated on a pixel basis by 
+ subtracting already (helped to grow) land, land with a slope 
+ over 20Â°, and land belonging to a soil suitability class 
+ smaller than six. The fell behind value of this continuous 
+ dummy (number or thing that changes) convertible landwas included in the 
+ (moving backwards). For population data, an inverse distance 
+ weighted figuring out way of doing things, which calculates a 
+ linearly weighted combination from the set of sample 
+ points, was used to get a continuous population surface. So, we account for the fact that the population 
+ is highest at actual village locations and pressure decreases as one moves away from population centres. 
+ The population surface aims to represent population 
+ distribution more realistically with a distribution of the 
+ data values as a property of location rather than a whole area (Bracken, 1994). The fell behind value of the continuous population map was included in the data analysis as a pre-serious and stubborn (number or thing that changes) and, therefore, treated 
+ as an (coming from the outside of something) factor in our reduced-form equations. 
+ There is possibly a range of other important (numbers that change/things that change), which can have a big effect on land use. 
+ 7 We related the questions for 1980 to a large flood that happened 
+ in 1981, which nearly all of the villagers remembered. The recall 
+ information from 1990 is related to a period seen as 
+ money-based renovation policy (doi moi), which also gave/given a 
+ good point of reference. 
+ 
+ 338 
+ 
+ D. Muller; M. Zeller/Agricultural Money flow 27 (2002) 333-354 
+ 
+ For instance, land (length of time at work or in power/right to permanent employment) and property rights shifted 
+ (not very long ago) from a system based on usual/usually done rights to 
+ an official recognition of property rights. The first land 
+ use titles for farming-based land were issued in 1996. 
+ Until today, 65% of the families received these 
+ certificates&mdash;45% of them in the past 2 years. Therefore, it is too early to guess the effects of secure 
+ property rights on land use given our land cover data. 
+ 3.2.4. Policy (numbers that change/things that change) 
+ Policy-caused (numbers that change/things that change) reflect investments from 
+ external sources such as governments and (people who give money or other things) in 
+ (set of machines) and technologies as well as restrictions 
+ on land use forced by the government. 
+ Surface vectors for roads received/got on a scale of 
+ 1:250,000 were corrected for the research area to 
+ a scale of 1:50,000 using the (put into a computer) UTM base 
+ maps and the pan-chromatic band from the Landsat 
+ ETM. Market access was measured by the Euclidean 
+ distance to nearest all-year roads for trucks and to 
+ district centres. Based on recall information, we came close to a second road network for the year 1990, 
+ which was, however, highly related to distance 
+ to district capitals and, therefore, dropped. We tried to 
+ capture the effect of road upgrades by incorporating 
+ the fell behind travel time in hours to the nearest all-year 
+ road from the survey as an added measure for 
+ market closeness, this way taking the means of transport 
+ and their changes into account. The number of years 
+ since (the creation of/the beginning of the existence of) a first (or most important) school in a village was included as an indicator of investment in 
+ first (or most important) education. 
+ Technology (numbers that change/things that change) are incorporated in the analysis relating to/connected to the time of the introduction of 
+ a new technology for farming-based production: (a) the 
+ number of years since the introduction of NPK as a 
+ yield-increasing technology, (b) the number of years 
+ since the construction of a holding tank for crop-watering/rinsing with water of 
+ farming-based land, and (c) the increase of watered area 
+ per village multiplied by the number of years already 
+ watered as a measure for the number of watered 
+ hectare-years. 
+ The edges for National Parks and Nature Reserves were included as a policy (number or thing that changes) (Chomitz 
+ and Gray, 1996; Deininger and Minten, 2001). We incorporated the time of protection as the number of 
+ years since a pixel belongs to a protected area, zero 
+ otherwise. 
+ 
+ J:i 
+ 
+ Integration ofvillage and remotely sensed data 
+ 
+ Farmers, and other land users, make their land management decisions based on goals, restrictions, 
+ and the potentials of their families and individual 
+ members. At the village-level, we watched/followed group 
+ behaviour of all land users and other important people in 
+ land portion and management. In a perfect world, to integrate 
+ grid-based data with survey data, the scale of the analysis should match the unit of decision-making. Yet, in 
+ Vietnam as in most developing countries, plot maps 
+ and village edges are not available. This makes/gives 
+ (related to space or existing in space) modelling a time-using/eating and expensive job 
+ due to the necessary description/separation of the (related to space or existing in space) extent 
+ of plots or villages, e.g. using worldwide  positioning systems (GPS). 
+ The (related to space or existing in space) extent of village edges could not 
+ be described/separated with the time and budget available. 8 To 
+ (show the limit) the (related to space or existing in space) base unit for the (combination of different things together that work as one unit) of 
+ (related to how much money and power people have) (numbers that change/things that change), the (land-area-based/location) positions of 
+ all villages were recorded with GPS and point coverages created. Village edges for all surveyed 
+ villages were then defined using Thiessen polygons, 
+ which are built so that each location within a 
+ polygon is closer to all its contained points than to any 
+ other point in the layer (Aronoff, 1995). These polygons were then used as a base unit for village-level 
+ data in sub-following/next analyses (Entwisle et al., 1998). 
+ Hence, survey data-apart from population-takes the 
+ value of the interviewed village for each point, which 
+ is closer to the village's centroid than to any other centroid (see Fig. 1).9 The huge areas of almost unused 
+ 8 Describing/separating plot edges as the base unit of analysis would 
+ match the unit of decision-making of an individual land user much 
+ more correct, by that/in that way being much closer to money-based reality. However, this is obviously not (able to be done) for an area of 2400 km2 
+ with about 124,000 families involved in farming, 
+ each usually having a few broke up plots. Examples of analysis 
+ at the plot level linking geophysical, agro-(related to surrounding conditions or the health of the Earth) data on plots 
+ with (related to how much money and power people have) data of farms or villages include Mertens 
+ et al. (2000) and Fox et al. (1994). 
+ 9 This method hints that surveyed and (non-sampled) neighbor 
+ villages are almost the same  with respect to land use data. Apart from 
+ many field visits into the research area, however, we cannot 
+ validate this idea (you think is true) because of lack of data on non-sampled 
+ villages. In order to avoid almost the same  issues arising in future research, 
+ we recommend to first construct the Thiessen polygons, and then 
+ randomly select a subset of Thiessen polygons with chances 
+ (along with something else/related to something else) to size of area for later village-level survey. 
+ 
+ D. Muller, M. Zeller/ Farming-based Money flow 27 (2002) 333-354 
+ 
+ 339 
+ 
+ Source: Subset of Landsat ETM, date: 03 March 2000; (bought something for money) at the (related to areas near the Equator/hot and humid) Rain Forest Information Center 
+ (http://www.bsrsi.msu.edu); village positions from GPS survey of authors. 
+ Notes: Image displayed in band combination 5-4-3. 
+ Fig. I . Landsat satellite image with survey village positions and Thiessen polygons. 
+ 
+ and remote forestland are completely/in a hinting way (combined different things together so they worked as one unit) via geophysical indicators such as mountains, land, rivers, etc., soil quality, 
+ and slope as well as distance to major roads, which all 
+ make/give land use (losing money) on these not important lands 
+ and should therefore not distort results much. 
+ In this study, the unit of analysis is a pixel. The 
+ research area was (related to space or existing in space)ly referenced to pixels with a 
+ size of 50 m x 50 m. Each pixel, therefore, represents 
+ an area of a quarter of a hectare. After resampling all 
+ (related to space or existing in space)ly available information to above grid size, data 
+ was stored as surfaces in a raster GIS. 
+ The research area contains 964,000 grids cells. To 
+ make up for potential (related to space or existing in space) dependence in the (things that change (like test scores) because of other things that you control (like study times)), Besag' s coding big plan/layout/dishonest plan was used 
+ Besag{, 1974, 663/id}, also employed by Nelson and 
+ Hellerstein (1997), Munroe et al. (2001) and Nelson 
+ et al. (2001) in almost the same  studies. The regular (related to space or existing in space) 
+ 
+ sample was drawn by selecting every fifth cell in the 
+ X- and Y-directions so that no selected cells are physical neighbours. This sampling procedure allows us to 
+ apply standard guess ways of doing things (Anselin, 1999). 
+ To control possible border effects, an inside buffer of 
+ 75 m was cut-off the outer edge of the research 
+ area. After merging data from the (related to how much money and power people have) survey with geophysical and land use data, 33% of the 
+ grid cells were randomly sampled. These sampling 
+ procedures resulted in a dataset of 20,000 (instances of watching, noticing, or making statements) 
+ used for later econometric modelling. 
+ 3.4. Expected effects of move backwardors 
+ 
+ We ran (moving backwards) on four types of move backwardors. First, 
+ we used time-invariant geophysical (numbers that change/things that change), with 
+ the exception of rainfall , which we watch/notice in both 
+ 
+ 340 
+ 
+ D. Muller, M. Zeller/Agricultural Money flow 27 (2002) 333-354 
+ 
+ periods, and second, historical (numbers that change/things that change), which describe (related to how much money and power people have) (features/ qualities/ traits) of the villages. 
+ Here, we include population and land available for 
+ (changing from one form, state, or state of mind to another) as a time-version, but fell behind (numbers that change/things that change) 
+ referring to the state in the previous period. Third, 
+ (coming from the outside of something) policy (numbers that change/things that change) to describe government 
+ investments and macro-level policies are included in 
+ the model. 10 
+ Now, there are no models and test statistics 
+ available which account for (enough to be meaningful) (related to space or existing in space) interaction in a (not numbers-based) (thing that changes (like a test score) because of something else that you control (like study time)) (solid basic structure on which bigger things can be built) 
+ (Anselin, 2001) as referred to in Munroe et al. (2001). To 
+ make up for potential (related to space or existing in space) effects, we used the 
+ coding big plan/layout/dishonest plan described in Section 3.3. Also, 
+ we included two (coming from the outside of something) (numbers that change/things that change) pointing to/showing the Xand Y-eo-ordinates of each cell in the grid as a (related to space or existing in space) 
+ filter (Nelson et al., 1999; Munroe et al., 2001). 
+ Guessed effects of move backwardors on land use categories can be expected based on (before that/before now) organized and listed 
+ possible (things to carefully think about), research findings, and field 
+ experience. Table 1 summarises the (numbers that change/things that change) and their 
+ expected effects where a plus sign points to/shows a positive 
+ expected influence of that (number or thing that changes) on the (pertaining to each person or thing) 
+ land cover class and a minus points to/shows a negative effect. Question marks point to/show possibly confusing 
+ results. In the following, the guesses are stated 
+ for the four types of move backwardors. 
+ 3.4.1. Geophysical (numbers that change/things that change) 
+ On higher elevations, farming-based land use is less 
+ (able to be done) and less likely due to harder (related to the Earth's weather) 
+ conditions such as lower temperatures and harder land. Equally, agriculture on steeper slopes and 
+ poorer soils is usually less money-making and harder. We guesse that the coefficients for elevation, 
+ slope, and soil are negative for farming-based land use 
+ and positive for forest land. 
+ The amount and variance of rainfall critically affect farming-based activities in a few ways. In areas 
+ with high total rainfall, more water-demanding 
+ crops can be (helped to grow). To decrease risks from highly 
+ (number or thing that changes) and, therefore, more insecure rainfall, more 
+ drought-resistant crops and a higher crop (getting involved with different types of things; not sticking with only one thing) should be expected. However, since the land cover 
+ data (nearby/ close/ currently important) does not enable us to explain crop choice, 
+ 10 The former we assume to be (coming from the outside of something), but later may deal 
+ with sample selection problems. 
+ 
+ we can only figure out the following guesses: More 
+ total amounts of rainfall in the medium-level climate 
+ winning/most common in the research area 11 can be expected to 
+ increase the natural (possibility of/possible happening of)  farming, while, 
+ due to more risks, one would expect that higher 
+ rainfall difference/different version would reduce land under farm-related 
+ without crop-watering/rinsing with water facilities and increase the 
+ chance of other uses. 
+ 3.4.2. (numbers that change/things that change) describing the (related to how much money and power people have) 
+ history of the villages 
+ (away from cities) development is mostly path-dependent. 
+ Hence, initial states and historical events influence current and future (related to how much money and power people have) situation of villages, 
+ including land use. In this big picture, a few (numbers that change/things that change) 
+ will be thought about/believed and explained in the following. 
+ A positive relation is expected between (related to a group of people with the same race, culture, religion, etc.) minority villages and former shifting (producing crops/helping something grow) areas, 
+ be they unplanted or (helped to grow). Followed fields are either 
+ understood/explained as grass land or as farming-based land, depending on the time of unplanted. Some fields might have 
+ already recovered to become secondary, open (cloth covering that shelters) 
+ forest. Due to these traditional land-intensive (producing crops/helping something grow) ways of doing things and probably less political power, 
+ (related to a group of people with the same race, culture, religion, etc.) villages might be connected with more farming-based area (helped grow less intensively), less watered 
+ paddy area, and more grass land. Common belief also 
+ attributes (chopping down trees) to (related to a group of people with the same race, culture, religion, etc.) people; therefore, we 
+ would expect less open and closed (cloth covering that shelters) forest. 
+ Available convertible landprovides the (possibility of/possible happening of) 
+ farming-based (act of something getting bigger, wider, etc.). A higher fell behind value should 
+ increase the chance that these patches will be converted for farming-based land uses. We would expect a 
+ strong positive relation for farming and paddy land 
+ and negative signs for other land uses. 
+ Higher fell behind (groups of people/animals/things)hould be connected with 
+ increasing demand for farming-based land uses and is 
+ often referred to as a major factor influencing (chopping down trees) (Tachibana et al., 1998; Kaimowitz and Angelsen, 
+ 2000). 
+ The status of 'hero villages' is used as a substitute operational (number or thing that changes) to measure the political capitalof a 
+ 11 In more (related to areas near the Equator/hot and humid) settings with higher amounts of rainfall other 
+ authors found the opposite effect (Chomitz and Thomas, 2001). 
+ In the research area rainfall averaged 1800mm between 1976 and 
+ 1999. In drier weather where total rainfall is a restricting factor 
+ at least part of the year, we do expect an increase in farming-based 
+ production for higher amounts of rainfall. 
+ 
+ Table 1 
+ Description and (described the future) signs of (coming from the outside of something) (numbers that change/things that change) 
+ Level of 
+ measurement 
+ 
+ Pixel/village 
+ 
+ Source 
+ 
+ Geophysical 
+ Slope degrees 
+ Elevation 
+ Soil suitability classesa 
+ Mean rainfall amount 
+ Mean variance of rainfall 
+ 
+ Degrees 
+ lOOm 
+ 9 classes 
+ lOOmm 
+ lOOmm 
+ 
+ Pixel 
+ Pixel 
+ Pixel 
+ Pixel 
+ Pixel 
+ 
+ Digital elevation model (DEM) 
+ Digital elevation model (DEM) 
+ Digital soil map (DSM) 
+ Point figuring out 
+ Point figuring out 
+ 
+ Socio-money-based history of village 
+ Years since village establishment 
+ (related to a group of people with the same race, culture, religion, etc.) composition 
+ Land good for (changing from one form, state, or state of mind to another) 
+ Fell behind population 
+ Hero village 
+ 
+ 2000-year 
+ 0/1 
+ 0/1 
+ Families 
+ 0/1 
+ 
+ Village 
+ Village 
+ Pixel 
+ Pixel 
+ Village 
+ 
+ Survey 
+ Survey 
+ Land use maps maps and DEM 
+ Survey (figuring out) 
+ Survey 
+ 
+ Policy (numbers that change/things that change) 
+ Distance to district centre 
+ Distance to all-year road 
+ Travel time to all-year road 
+ Years since first (or most important) school 
+ 
+ Kilometres 
+ Kilometres 
+ Hours 
+ 2000-year 
+ 
+ Pixel 
+ Pixel 
+ Village 
+ Village 
+ 
+ Road network 
+ Road network/survey 
+ Survey 
+ Survey 
+ 
+ Technology 
+ Years since construction of holding tank 
+ Increase in watered area 
+ Years since introduction of NPK 
+ Nature conservancy 
+ Nature reserve areas 
+ 
+ 2000-year 
+ Hectare 
+ 2000-year 
+ 
+ Village 
+ Village 
+ Village 
+ 
+ Survey 
+ Survey 
+ Survey 
+ 
+ 0/1 
+ 
+ Pixel 
+ 
+ Official park edges 
+ 
+ (related to space or existing in space) effects 
+ X- and Â¥-coordinates 
+ 
+ Every 5th 
+ 
+ Pixel 
+ 
+ Sampled from grid 
+ 
+ Mixed 
+ farming 
+ 
+ - 
+ 
+ + 
+ + 
+ + 
+ + 
+ + 
+ + 
+ 
+ Paddy 
+ 
+ Closed 
+ forest 
+ 
+ Open 
+ forest 
+ 
+ Mixed 
+ grass 
+ 
+ - 
+ 
+ + 
+ + 
+ + 
+ 
+ ? 
+ ? 
+ 
+ + 
+ + 
+ 
+ + 
+ + 
+ + 
+ + 
+ + 
+ 
+ + 
+ 
+ .-.&#126; 
+ 
+ + 
+ 
+ + 
+ 
+ &#126; 
+ 
+ + 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ + 
+ 
+ + 
+ + 
+ + 
+ 
+ + 
+ 
+ + 
+ - 
+ 
+ &#126; 
+ 
+ &#126; 
+ 
+ -.fi;"' 
+ ;:;: 
+ OQ 
+ 
+ &#126;- 
+ 
+ ;:: 
+ 
+ - 
+ 
+ ? 
+ 
+ &#126; 
+ 
+ + 
+ + 
+ + 
+ 
+ c;,: 
+ c 
+ 
+ + 
+ 
+ + 
+ + 
+ + 
+ + 
+ 
+ ? 
+ 
+ + 
+ + 
+ 
+ + 
+ + 
+ 
+ + 
+ + 
+ 
+ - 
+ 
+ '-.; 
+ 
+ ? 
+ 
+ ? 
+ 
+ ? 
+ 
+ ? 
+ 
+ '-.; 
+ 
+ - 
+ 
+ + 
+ 
+ + 
+ 
+ - 
+ 
+ ? 
+ 
+ - 
+ 
+ !=:J 
+ ;::, 
+ 
+ &#126; 
+ &#126; 
+ 
+ - 
+ 
+ ;:; 
+ c;Â· 
+ 
+ "'w 
+ 
+ '-l 
+ 
+ w 
+ c 
+ &#126; 
+ 
+ '-.; 
+ 
+ '-.; 
+ 
+ I 
+ 
+ &#126; 
+ 
+ a One (number or thing that changes) for soil suitability for paddy and one for mixed farming-based production with 1 = highest suitability and 9 = lowest suitability. 
+ 
+ "'.p.. 
+ &#126; 
+ 
+ 342 
+ 
+ D. Muller; M. Zeller/Agricultural Money flow 27 (2002) 333-354 
+ 
+ village. We guesse that higher political capital 
+ (Birner and Wittmer, 2002) is expected to improve the 
+ access to government programs and outside help. 
+ This may well lead to an improved (set of machines) such 
+ as crop-watering/rinsing with water facilities and better access to extension 
+ services and credit supplies. (after that), the (process by which something becomes stronger or worse) effect might be connected with a reduction 
+ of land (act of something getting bigger, wider, etc.), therefore, reducing the pressure on 
+ forest land and allowing grass land to recover to become forest once again. 
+ 3.4.3. Policy (numbers that change/things that change) 
+ With respect to (set of machines) investments by the 
+ government, we employed a few operational (numbers that change/things that change) came/coming from the village survey. Distance and 
+ travel time from the village to all-year roads and to 
+ the two district capitals serve as a substitute for market 
+ access and access to political centres. Lower values 
+ of these (numbers that change/things that change) might be connected with lower forest cover because of higher producer prices, lower input prices, and lower transaction costs compared to 
+ remote locations. Yet, Deininger and Minten (2001) 
+ find that these (numbers that change/things that change) are highly related to 
+ population density, soil life-creating ability, and physical capital 
+ such as crop-watering/rinsing with water facilities. However, that was not the 
+ case in our dataset where these (numbers that change/things that change) all showed 
+ relationship coefficients below 0.5. Since no farm-gate 
+ prices for inputs or outputs are available with (related to space or existing in space) 
+ difference/different version, distance and travel times to roads and markets serve as a substitute for prices as well as transaction 
+ costs (Deininger and Minten, 2001). Farming-based land 
+ use is expected to be more likely to happen closer to 
+ all-year roads, while forest cover should be less likely 
+ (Chomitz and Gray, 1996; Pfaff, 1997; Nelson and 
+ Hellerstein, 1997). Again, the effect on mixed grass 
+ land cannot be guessed good. 
+ Access to education is proxied by the availability of first (or most important) schools in years since their opening. 
+ The effect might be uncertain. Common sense tells 
+ us that farmers with better access to education should 
+ be expected to use land more intensively and put into use 
+ new technologies earlier, this way saving land to (accomplish or gain with effort) 
+ a given income or farm output. However, there is also 
+ evidence that educated families might engage more in land clearing (Pichon, 1997). 
+ (related to computers and science) change, which has been (helped increase/showed in a good way) 
+ by a variety of government (services businesses/government units), is incorporated via the introduction of NPK, one example for a 
+ 
+ yield-increasing technology. NPK increases first and 
+ best the working well of land, and one might expect land (act of something getting bigger, wider, etc.) to become more attractive with 
+ NPK, gave/given farmers have (good) enough labour and 
+ the ability to finance the (instance of buying something for money) of farming-based inputs. However, given current labour restrictions and 
+ incomplete (away from cities) (money-related) markets, we rather expect 
+ increasing produces and more input in production on existing fields. The longer ago the introduction of NPK, 
+ the more likely the possibility of forest cover. On the 
+ other hand, more money-making farming could increase 
+ the (reward or reason for doing something) to expand area under (producing crops/helping something grow) and, 
+ therefore, lead to a lower forest cover and a positive 
+ coefficient for farming (Angelsen and Kaimowitz, 
+ 2001). Therefore, the overall expected sign of the 
+ effect is confusing. Another (number or thing that changes) related to (related to computers and science) change are years since the construction of a 
+ holding tank for farming-based crop-watering/rinsing with water. We expect that 
+ this labour-intensive (process by which something becomes stronger or worse) on existing farming-based areas will cause families to set apart less 
+ time to land clearing and land (act of something getting bigger, wider, etc.) into upland 
+ areas; in the same way/in that way, forested pixels will be more likely 
+ (Slicely and Martinez, 2001; Pender et al., 2001). 
+ Inside a protected area, it is impossible to establish property rights for long-term secure (producing crops/helping something grow), 
+ by that/in that way decreasing the money-making ability of farming 
+ (Deininger and Minten, 2001). We expect a significant positive coefficient for non-farming-basedland uses 
+ and a regeneration of grass to secondary forest. Protected areas may be located on more not important lands 
+ with steeper slopes and on less good soils. For 
+ that reason, we interact the protection dummy with 
+ slope and soil suitability for mixed farming. If our 
+ guess holds, the introduction of these interaction 
+ terms should reduce the importance and the effect of 
+ the protection dummy on preserving forest land. 
+ 
+ 4. Models and results 
+ 4.1. Descriptive statistics 
+ Farming-based land increased by 9% from 1975 to 
+ 1992, and has gone bad since then (Table 2). The 
+ farming-based area mainly developed from open (cloth covering that shelters) 
+ forest and grass. Grassland decreased in the second 
+ period from 11 to 4%. It is interesting to look at total 
+ forest cover, which (lowered in number/got worse/gotten worse) by 10% in the first period, 
+ 
+ D. Muller, M. Zeller I Farming-based Money flow 27 (2002) 333-354 
+ 
+ 343 
+ 
+ Table 2 
+ Land cover in km2 , percent of total land and number of patches 
+ Cover class 
+ 
+ 2000 
+ 
+ 1992 
+ 
+ 1975" 
+ 
+ km 2 
+ 
+ km2 
+ 
+ Patches 
+ 
+ km2 
+ 
+ 339 
+ 57 
+ 17 
+ 74 
+ 259 
+ 
+ 146.7 
+ 67.2 
+ 836.2 
+ 1052.3 
+ 295.7 
+ 
+ 746 
+ 
+ 2398.2 
+ 
+ Mixed farming 
+ Paddy 
+ Closed forest 
+ Open forest 
+ Grass 
+ Total 
+ 
+ 339.8 
+ 111.0 
+ 866.6 
+ 962.6 
+ 101.5 
+ 2381.6b 
+ 
+ % 
+ 
+ 14.2 
+ 4.6 
+ 36.4 
+ 40.5 
+ 4.3 
+ 100 
+ 
+ Patches 
+ 
+ % 
+ 
+ 141 
+ 62 
+ 14 
+ 56 
+ 159 
+ 
+ 352.0 
+ 117.0 
+ 828.2 
+ 827.9 
+ 273.5 
+ 
+ 432 
+ 
+ 2398.6 
+ 
+ 14.6 
+ 4.9 
+ 34.5 
+ 34.6 
+ 11.4 
+ 100 
+ 
+ % 
+ 
+ 6.1 
+ 2.8 
+ 34.9 
+ 44.0 
+ 12.2 
+ 100 
+ 
+ Source: (understanding/ explanation) of Landsat satellite images by Nguyen Thanh Huang (Tay Nguyen University, Buon Ma Thuot) and authors for Lak 
+ and Krong Bong districts, Oak Lak Area of control/area of land, Central Highlands, Vietnam. 
+ a Number of patches only counted for the images from 1992 to 2000, which have the same (related to space or existing in space) (ability to display or measure very small things) of 30m x 30m. 
+ h 18 km 2 missing in 2000, because part of the research area was not covered by the scene. 
+ 
+ but has grown by eight percent since 1992. So, no 
+ extreme (chopping down trees) has happened over the last 25 
+ years, with total forest cover decreasing by about 2%. 
+ Another important/famous feature from Table 2 is the (related to space or existing in space) pattern of land breaking (up), measured as the 
+ number of patches under a clearly stated/particular land cover. Land 
+ breaking (up) in the last eight years decreased very much from 746 patches of land cover in 1992, 
+ to 432 in 2000. Most of that change was due to the 
+ high breaking (up) of farming and grass in 1992, 
+ compared to 2000, and it reflects the virtual disappearance of shifting (producing crops/helping something grow) in the research area, 
+ which until today has often been made responsible 
+ for large-scale (chopping down trees). 
+ Described/explained descriptive statistics of the independent 
+ (numbers that change/things that change) are reported in Table 4 of the Add on A. 
+ The range of values in (related to how much money and power people have) and policy (numbers that change/things that change) (shows or proves) the (many different kinds of people or things) (features/ qualities/ traits) of villages. The mean population per pixel increased from 
+ three in the first period to more than five families in 
+ the second period, pointing to/showing higher population pressure in the last ten years. The Euclidean distance to 
+ all-year roads averages 6 km for all villages, although with 
+ a large standard moving away pointing to/showing the large amounts of 
+ difference/different version in village locations. Construction of holding tanks and more watered land boosted rice production 
+ by allowing two harvests of (land with a layer of water) rice per year. 
+ 
+ 4.2. Multinomiallogit 
+ To explore relationships between (coming from the outside of something) and 
+ pre-planned (numbers that change/things that change) and the land cover categories 
+ as left-hand side (LHS) (numbers that change/things that change), a multinomiallogit 
+ 
+ (detailed description of exactly what is required) (MNL) was employed. MNL models guess the direction and strength of the explanatory 
+ (numbers that change/things that change) on the categorical (thing that changes (like a test score) because of something else that you control (like study time)) by (describing the future) a chance result connected with each category of the (thing that changes (like a test score) because of something else that you control (like study time)). The chance that 
+ Y = h can be stated as (Greene, 1997): 
+ PROB (Y 
+ 
+ = h) = 
+ 
+ ef3'xth 
+ &mdash;-,M;-;&mdash;-_; 
+ 
+ (1) 
+ 
+ Lm=lef3'xtm 
+ 
+ In (1), m represents the land cover classes used for 
+ analysis, fJ a vector of guess limits/guidelines and 
+ Xt are the (coming from the outside of something) (numbers that change/things that change) for all Y and at all 
+ locations /. Eq. (1) holds, if the error terms are independently and identically distributed as log Weibull 
+ (McFadden, 1973). (usual/ commonly and regular/ healthy)ising on all chances 
+ produces /gives up a log-odds ratio (Greene, 1997): 
+ In [_( Pth 
+ Plm 
+ 
+ J = x; (fJh - 
+ 
+ fJm) 
+ 
+ (2) 
+ 
+ The (thing that changes (like a test score) because of something else that you control (like study time)) is expressed as the log of the 
+ odds of one other choice relative to a base other choice. 
+ If model ideas (you think are true) hold, the maximum chance 
+ estimators are asymptotically (usually/ in a common and regular way) distributed, 
+ with a mean of zero and a variance of one for large 
+ samples. Importance of estimators is tested with 
+ z-statistics, which are reported in the output tables. 
+ Chance-ratio (LR) tests compare the log chance from the full model with the one from a reduced 
+ model leaving out explanatory (numbers that change/things that change). To test the guess with (m - 1) limits/guidelines, a chance-ratio 
+ and Wald test can be used. Here, only LR test statistics are reported as the two tests showed no major 
+ differences. 
+ 
+ D. Muller, M. Zeller/ Farming-based Money flow 27 (2002) 333-354 
+ 
+ 344 
+ 
+ cover over time. About 70% of the pixels from 1992 
+ to 2000 and 60% in the period 1975 to 1992 did not 
+ change over time. Therefore, the fell behind values (describe the future) 
+ present land use almost perfectly, making model guess filled with problems. In the 'model 1990' the (number or thing that changes) 
+ for convertible land was dropped due to perfect (statement about the future) of paddy land. Since the first nature reserve in 
+ the research area was established in 1991, we included 
+ the protection (number or thing that changes) only in the 'model 2000'. 
+ Test statistics are reported in Table 6 in the 
+ Add on A. Overall, the model for the second period 
+ performs better than the model for the first period due 
+ to fewer missing values and more exact data on land 
+ cover and recall information. Chance-ratio tests 
+ for (things that you control (like study times), that cause other things to change (like test scores)) (Table 7 in the Add on 
+ A) show/tell about that most coefficients are significant on 
+ the 1% level in both models, except the interaction 
+ coefficients of protected areas with soil suitability. 
+ Chance-ratio tests for combining dependent categories let us reject the guess that categories 
+ are unable to be separated. Overall (describe the future)ive power as 
+ measured by the locations (described the future) correctly is high 
+ for both models, with 81% of the pixels (described the future) 
+ correctly in 'model 2000' and 69% in 'modell990', 
+ (match up each pair of items in order) (Table 3). Most of the false 
+ 
+ 4.3. Scientific results 
+ The MNL has five land cover classes as categorical, unordered (things that change (like test scores) because of other things that you control (like study times)). One multinomial 
+ logit model was performed for each of the two time 
+ periods, (in other words) for 1975-1992 and 1992-2000. After now, 
+ we will refer to the 'model 1990' for the first period 
+ and 'model 2000' for the second period. Survey recall data for Freeing/freedom Day and 1980 was used as 
+ 'best estimate' for pre-planned (numbers that change/things that change) in 1975 
+ and, (in almost the same way), recall data from 1990 was employed 
+ for 1992. It would have been more good to arrive 
+ at equally long time periods, which, however, was 
+ not possible. 4 To control possible endogeneity problems, only fell behind values for time-version (things that you control (like study times), that cause other things to change (like test scores)) such as population growth and placement of schools are carefully thought about/believed in the scientific applications. Also, all (numbers that change/things that change) were tested for 
+ multi-collinearity. Model results are reported as raw 
+ coefficients in Table 5 in the Add on A for closed 
+ forest as the comparison group. In the discussion, we 
+ will also talk about/say the signs of other interesting coefficients not included in Table 5. 
+ The model does not include fell behind values of land 
+ use due to (compared to other things) little difference/different version in the overall land 
+ 
+ Table 3 
+ (describe the future)ive power of land use 
+ (described the future) land use, 2000 
+ % correct 
+ 
+ Mixed farming 
+ 
+ Paddy 
+ 
+ Closed forest 
+ 
+ Open forest 
+ 
+ 2289 
+ 304 
+ 8 
+ 294 
+ 302 
+ 
+ 178 
+ 561 
+ 9 
+ 6 
+ 
+ 10 
+ 0 
+ 6084 
+ 844 
+ 38 
+ 
+ 251 
+ 16 
+ 1042 
+ 6793 
+ 403 
+ 
+ 41 
+ 10 
+ 7 
+ 55 
+ 73 
+ 
+ 2769 
+ 891 
+ 7142 
+ 7995 
+ 822 
+ 
+ 82.7 
+ 63.0 
+ 85.2 
+ 85.0 
+ 8.9 
+ 
+ 3197 
+ 
+ 755 
+ 
+ 6976 
+ 
+ 8505 
+ 
+ 186 
+ 
+ 19619 
+ 
+ 80.5 
+ 
+ (described the future) land use, 1990 
+ Watched/followed land use, 1990 
+ Mixed farming 
+ 1743 
+ Paddy 
+ 253 
+ Closed forest 
+ 20 
+ Open forest 
+ 329 
+ Grass 
+ 678 
+ 
+ 259 
+ 657 
+ 0 
+ 2 
+ 30 
+ 
+ 29 
+ 2 
+ 5627 
+ 968 
+ 116 
+ 
+ 555 
+ 24 
+ 943 
+ 5137 
+ 982 
+ 
+ 327 
+ 3 
+ 205 
+ 409 
+ 460 
+ 
+ 2913 
+ 939 
+ 6795 
+ 6845 
+ 2266 
+ 
+ 59.8 
+ 70.0 
+ 82.8 
+ 75.0 
+ 20.3 
+ 
+ 948 
+ 
+ 6742 
+ 
+ 7641 
+ 
+ 1404 
+ 
+ 19758 
+ 
+ 69.0 
+ 
+ Watched/followed land use, 2000 
+ Mixed farming 
+ Paddy 
+ Closed forest 
+ Open forest 
+ Grass 
+ Total 
+ 
+ Total 
+ 
+ 3023 
+ 
+ I 
+ 
+ Grass 
+ 
+ Total 
+ 
+ Source: own calculation. Notes: land use with highest (described the future) chance as (stated or said earlier) land use; bold entries along the diagonals point to/show 
+ correct (statements about the future); number of entries go along with/match up to the number of pixels, (in other words) to 900m2 . 
+ 
+ D. Muller, M. Zeller!Agricultural Money flow 27 (2002) 333-354 
+ 
+ Factor Change Scale Relative to category Grass 
+ .2 
+ :a 
+ .37 
+ .51 
+ 
+ .7 
+ 
+ .95 
+ 
+ c 
+ 
+ Age of village (years), 2000 
+ 
+ 0 
+ 
+ Q_____p 
+ 
+ c 
+ 
+ Population (families), 1990 
+ 
+ M 
+ 
+ 2.4 
+ 
+ p 
+ 
+ 0 
+ 
+ p 
+ 
+ c 
+ 
+ G 
+ 
+ Sid Cool 
+ 
+ v 
+ 
+ c 
+ 
+ Years since holding tank, 2000 
+ Sid Cool 
+ 
+ &#126; 
+ 
+ Age of holding tank - watered area, 2000 
+ Sid Cool 
+ 
+ -1.6 
+ -1.29 
+ -.98 
+ -.67 
+ Logit Coefficient Scale Relative to category Grass 
+ 
+ M 
+ 
+ &#126; 
+ 
+ Sid Cool 
+ 
+ Km to all-year road in 1998 
+ 
+ 1.76 
+ 
+ G 
+ 
+ M 
+ 
+ 011 
+ 
+ 1.29 
+ 
+ &#126; 
+ 
+ Sid Cool 
+ 
+ (related to a group of people with the same race, culture, religion, etc.) minority village (0/1) 
+ 
+ 345 
+ 
+ -.38 
+ 
+ G 
+ 
+ -.05 
+ 
+ 0 
+ 
+ &#126; 
+ .26 
+ 
+ .56 
+ 
+ .87 
+ 
+ Source: own calculation 
+ Notes: The chance increases in importance from left to right; initial letters point to/show (number or thing that changes) values of land use classes: M =Mixed farm-related, P = 
+ Paddy, C =Closed forest, 0 = Open forest, G = Grass; grass (G) as the comparison group has a factor change scale of one; (numbers that change/things that change) are either tested 
+ for a change in 1 SD (Std Coef) or for a separate change from 0 to 1values connected by lines are NOT significant at the 5 % level; one example for 
+ (understanding/ explanation) for (related to a group of people with the same race, culture, religion, etc.) minority villages in row two: grass (G) is much more likely than all other land uses, while closed forest (C) is the least 
+ likely land use class; paddy (P) is NOT much more likely than closed forest (C) as the two are connected by a line. 
+ 
+ Fig. 2. Odds ratios of selected explanatory (numbers that change/things that change) for land use in year 2000. 
+ 
+ (statements about the future) in the 'model1990' are pixels covered with 
+ grass, which were (described the future) to be mixed farming 
+ in 23% of the c<p><strong>NOTE: This document is incomplete. It was shortened to the maximum document length of 50,000 characters.</strong></p><div style="clear:both">&nbsp;</div>

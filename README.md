@@ -19,12 +19,9 @@ You can simply install the program using:
 - Easy_Text-win32.msi which installs a the program on your computer and works on win32 as well as on win64.
 - Easy_Text.exe which is downloadable and can be executed.
 
-Example
-HELKE EN KIMBERLY AANVULLEN
-
 Documentation
-Pattern is bundled with the following data sets, algorithms and Python packages:
-KIMBERLY en Helke documentatie en libraries aanvullen
+Easy Text is bundled with the following data sets, algorithms and Python packages:
+Helke documentatie en libraries aanvullen
 Cambridge English Scale: http://www.cambridgeenglish.org/
 English grammar scale: http://www.examenglish.com/CEFR/cefr_grammar.htm
 Python module that implements a querier and parser for Google Scholar's output: https://github.com/ckreibich/scholar.py
@@ -32,6 +29,7 @@ Programming for linguistics and literature: https://github.com/mikekestemont/pro
 English tenses and sentences for unittests: https://www.easypacelearning.com/design/images/tenses.jpg
 Python library for interfaces: 'tkinter'
 Installation system for python code: 'cx_Freeze'
+Free online tool to simplify English texts: https://rewordify.com
 
 Acknowledgements
 Authors:
