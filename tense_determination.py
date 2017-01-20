@@ -18,7 +18,6 @@ def determine_tense_input(sentence):
     #print (words_strings)
     #print (tags_strings)
     #print (tags_words_strings)
-   
 
     dict_tenses1 = {\
         r"(PRP.*VBD)" : "past_simple_affirmative",
@@ -247,7 +246,4 @@ class My_test(unittest.TestCase):
     
 if __name__ == '__main__':
     unittest.main()
-
-
-
 
