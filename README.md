@@ -19,12 +19,9 @@ You can simply install the program using:
 - Easy_Text-win32.msi which installs a the program on your computer and works on win32 as well as on win64.
 - Easy_Text.exe which is downloadable and can be executed.
 
-Example
-HELKE EN KIMBERLY AANVULLEN
-
 Documentation
 Easy Text is bundled with the following data sets, algorithms and Python packages:
-KIMBERLY en Helke documentatie en libraries aanvullen
+Helke documentatie en libraries aanvullen
 Cambridge English Scale: http://www.cambridgeenglish.org/
 English grammar scale: http://www.examenglish.com/CEFR/cefr_grammar.htm
 Python module that implements a querier and parser for Google Scholar's output: https://github.com/ckreibich/scholar.py
