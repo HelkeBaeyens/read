@@ -1,0 +1,1 @@
+ls raw_articles/ | xargs -I {} bash -c "curl --data-urlencode s@raw_articles/{} 'https://rewordify.com/rwprocess.php'  -H 'Accept-Language: en-GB,en-US;q=0.8,en;q=0.6,nl;q=0.4' -H 'Content-Type: application/x-www-form-urlencoded' -H 'Accept: */*' | json RewordifiedString | sed 's/%@//g' | perl -pe 's/~\d.*?<_(.*?)_>~z~/\1/g' > simple_articles/{}; sleep 20"
