@@ -5,9 +5,8 @@ Easy Text ('read') is a python module that consists of the following tools:
 - function_lib: library that contains the functions: number of words, average length of words, finding the longest word, length of the longest word, differentation, number of sentences, average length of sentences, length of the longest sentences, length of the shortest sentence, level decision on the basis of the average length of the sentences, text level calculation
 - Info_text: a quick document that tests the definitions from the word_level and function_lib that are used in the analyse box of the interface.
 - interface: the construction of the interface
-- HELKE AANVULLEN
 
-It is well documented and bundled with XXX examples. The source code will be licensed under the open pattent office:
+It is well documented and bundled with several examples. The source code will be licensed under the open pattent office:
 http://www.openpatentoffice.org/
 
 License
