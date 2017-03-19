@@ -238,11 +238,11 @@ class My_test(unittest.TestCase):
     def test_cpi(self):
         self.assertEqual(determine_tense_input("Would she have been there?"), ["conditional_perfect_interrogative"])
     def test_futa(self):
-        self.assertEqual(determine_tense_input("She is going to get married."), ["future_be_going_to_affirmative"])
+        self.assertEqual(determine_tense_input("She is going to get married."), ["future_going_to_affirmative"])
     def test_futn(self):
-        self.assertEqual(determine_tense_input("She isn't going to get married."), ["future_be_going_to_negative"])
+        self.assertEqual(determine_tense_input("She isn't going to get married."), ["future_going_to_negative"])
     def test_futi(self):
-        self.assertEqual(determine_tense_input("Is she going to get married?"), ["future_be_going_to_interrogative"])
+        self.assertEqual(determine_tense_input("Is she going to get married?"), ["future_going_to_interrogative"])
     
 if __name__ == '__main__':
     unittest.main()
